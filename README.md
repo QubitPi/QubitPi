@@ -21,9 +21,22 @@
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-BEATS%20GOOGLE-active?style=for-the-badge&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
-[![Mac](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
+[![Mac](https://img.shields.io/badge/macOS-informational?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
+[![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
+)](https://www.openstack.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white
+)](https://graphql.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+)](https://www.tensorflow.org/)
+[![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
+
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
+[![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
+[![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white)]()
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
 
 > In year 2013, a college boy gathered 2000 data points in his college Physics research and plotted them on a graph using MATLAB which turned out to be a beautiful sound-wave-like plot graph. The perfectly-shaped and enlightening representation of the graph ignited his imaginations about how data could bring so much more information and discoveries than any other methods could ever deliver. That day became the beginning of his career, which shall carry itself all the way toward end of his life.
 >
