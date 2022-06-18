@@ -25,7 +25,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
-)](https://youtu.be/wGfqdS4-21E)
+)](https://youtu.be/o3iIzJRqv50)
 [![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white
 )](https://graphql.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
