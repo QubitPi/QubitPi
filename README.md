@@ -57,4 +57,7 @@ OpenSource Projects
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick)](https://github.com/QubitPi/elide-quick)
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to the Dependency Mechanisme](https://qubitpi.github.io/jersey-guide/2022/06/13/maven-dependency-management.html)
+- [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://qubitpi.github.io/jersey-guide/2022/05/12/yahoo-object-storage.html)
+- [Layered Architecture](https://qubitpi.github.io/jersey-guide/2022/05/05/layered-architecture.html)
 <!-- BLOG-POST-LIST:END -->
