@@ -38,23 +38,23 @@ OpenSource Projects
 
 ### Contributor
 
-[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili)](https://github.com/yahoo/fili)
-[![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide)](https://github.com/yahoo/elide)
+[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true)](https://github.com/yahoo/fili)
+[![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true)](https://github.com/yahoo/elide)
 
-[![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid)](https://github.com/apache/druid)
-[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm)](https://github.com/yahoo/mdbm)
+[![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true)](https://github.com/apache/druid)
+[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true)](https://github.com/yahoo/mdbm)
 
-[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix)](https://github.com/QubitPi/time-management-eisenhower-matrix)
-[![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu)](https://github.com/QubitPi/intellij-theme-ubuntu)
+[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true)](https://github.com/QubitPi/time-management-eisenhower-matrix)
+[![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true)](https://github.com/QubitPi/intellij-theme-ubuntu)
 
 ### Owner
 
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena)](https://github.com/QubitPi/athena)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle)](https://github.com/QubitPi/aristotle)
-[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander)](https://github.com/QubitPi/alexander)
-[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis)](https://github.com/QubitPi/elis)
-[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
-[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick)](https://github.com/QubitPi/elide-quick)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true)](https://github.com/QubitPi/athena)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true)](https://github.com/QubitPi/aristotle)
+[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true)](https://github.com/QubitPi/alexander)
+[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true)](https://github.com/QubitPi/elis)
+[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
+[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true)](https://github.com/QubitPi/elide-quick)
 
 ## My New Tech Blogs
 
