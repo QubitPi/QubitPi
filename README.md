@@ -56,6 +56,8 @@ OpenSource Projects
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick)](https://github.com/QubitPi/elide-quick)
 
+## My New Tech Blogs
+
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to the Dependency Mechanisme](https://qubitpi.github.io/jersey-guide/2022/06/13/maven-dependency-management.html)
 - [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://qubitpi.github.io/jersey-guide/2022/05/12/yahoo-object-storage.html)
