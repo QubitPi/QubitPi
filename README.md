@@ -55,3 +55,6 @@ OpenSource Projects
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis)](https://github.com/QubitPi/elis)
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick)](https://github.com/QubitPi/elide-quick)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
