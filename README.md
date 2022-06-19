@@ -49,6 +49,15 @@ My name is Jiaqi Liu and I am now a CEO and Co-Founder of a [data-tech startup](
 OpenSource Projects
 -------------------
 
+### Creator
+
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true)](https://github.com/QubitPi/athena)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true)](https://github.com/QubitPi/aristotle)
+[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true)](https://github.com/QubitPi/alexander)
+[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true)](https://github.com/QubitPi/elis)
+[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
+[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true)](https://github.com/QubitPi/elide-quick)
+
 ### Contributor
 
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true)](https://github.com/yahoo/fili)
@@ -60,16 +69,8 @@ OpenSource Projects
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true)](https://github.com/QubitPi/intellij-theme-ubuntu)
 
-### Owner
-
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true)](https://github.com/QubitPi/athena)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true)](https://github.com/QubitPi/aristotle)
-[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true)](https://github.com/QubitPi/alexander)
-[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true)](https://github.com/QubitPi/elis)
-[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
-[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true)](https://github.com/QubitPi/elide-quick)
-
-## My New Tech Blogs
+My New Tech Blogs
+-----------------
 
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to the Dependency Mechanisme](https://qubitpi.github.io/jersey-guide/2022/06/13/maven-dependency-management.html)
