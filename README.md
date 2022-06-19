@@ -5,8 +5,7 @@
 
 [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white
 ) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
-[ ![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white
-) ](https://www.instagram.com/jack20191124/)
+[ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/jack20191124/)
 [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 ) ](https://space.bilibili.com/1771839550)
 [ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
@@ -21,7 +20,7 @@
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-BEATS%20GOOGLE-active?style=for-the-badge&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
-[![Mac](https://img.shields.io/badge/macOS-informational?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
