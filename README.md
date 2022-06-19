@@ -16,7 +16,7 @@
 ) ](https://www.zhihu.com/people/jack20191124)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 ) ](https://www.linkedin.com/in/jack20191124/)
-[![Gmail Badge](https://img.shields.io/badge/-jack20220723-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jiaqixy@protonmail.com)](mailto:jiaqixy@protonmail.com)
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-BEATS%20GOOGLE-active?style=for-the-badge&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
