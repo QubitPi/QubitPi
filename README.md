@@ -51,6 +51,7 @@ OpenSource Projects
 
 ### Creator
 
+[![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true)](https://github.com/QubitPi/jupiter)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true)](https://github.com/QubitPi/athena)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true)](https://github.com/QubitPi/aristotle)
 [![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true)](https://github.com/QubitPi/alexander)
