@@ -16,6 +16,7 @@
 ) ](https://www.zhihu.com/people/jack20191124)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 ) ](https://www.linkedin.com/in/jack20191124/)
+[ ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ](https://www.quora.com/profile/Jiaqi-Liu-185/)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jiaqixy@protonmail.com)](mailto:jiaqixy@protonmail.com)
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
