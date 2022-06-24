@@ -17,6 +17,7 @@
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 ) ](https://www.linkedin.com/in/jack20191124/)
 [ ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ](https://www.quora.com/profile/Jiaqi-Liu-185/)
+[![Ask Ubuntu](https://img.shields.io/badge/Ask%20Ubuntu-DC461C?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://askubuntu.com/users/1127171/jack)
 [ ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ](https://www.reddit.com/user/jack20191124)
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jiaqixy@protonmail.com)](mailto:jiaqixy@protonmail.com)
 
@@ -25,7 +26,6 @@
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
-[![Ask Ubuntu](https://img.shields.io/badge/Ask%20Ubuntu-DC461C?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://askubuntu.com/users/1127171/jack)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
 )](https://youtu.be/locCs2Duk5U)
 [![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white
