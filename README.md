@@ -25,7 +25,7 @@
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
-[![Ask Ubuntu](https://img.shields.io/badge/Ask-Ubuntu-DC461C?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://askubuntu.com/users/1127171/jack)
+[![Ask Ubuntu](https://img.shields.io/badge/Ask%20Ubuntu-DC461C?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://askubuntu.com/users/1127171/jack)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
 )](https://youtu.be/locCs2Duk5U)
 [![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white
