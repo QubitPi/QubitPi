@@ -48,7 +48,7 @@
 
 My name is Jiaqi. I am a CEO and Co-Founder of a [data-tech startup](https://github.com/stealth-tech-startup). We are looking for passionated minds of all backgrounds to join us!
 
-I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also belive that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excels in Design and Persuasion.
+I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excels in Design and Persuasion.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true)](https://github.com/QubitPi?tab=repositories)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
