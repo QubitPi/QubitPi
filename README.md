@@ -6,6 +6,7 @@
 [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white
 ) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/jack20191124/)
+[ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/jack20191124)
 [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 ) ](https://space.bilibili.com/1771839550)
 [ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
