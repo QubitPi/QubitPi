@@ -86,7 +86,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to the Dependency Mechanisme](https://qubitpi.github.io/jersey-guide/2022/06/13/maven-dependency-management.html)
-- [Yahoo Cloud Object Store - Object Storage at Exabyte Scale](https://qubitpi.github.io/jersey-guide/2022/05/12/yahoo-object-storage.html)
-- [Layered Architecture](https://qubitpi.github.io/jersey-guide/2022/05/05/layered-architecture.html)
+- [Docker cAdvisor](https://qubitpi.github.io/jersey-guide/2022/06/26/docker-cAdvisor.html)
+- [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/2022/06/25/docker-troubleshooting.html)
+- [Apache Oozie User Guide](https://qubitpi.github.io/jersey-guide/2022/06/24/oozie-intro.html)
 <!-- BLOG-POST-LIST:END -->
