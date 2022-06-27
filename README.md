@@ -89,7 +89,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
+- [HK2 - Dependency Injection Kernel](https://qubitpi.github.io/jersey-guide/2022/06/27/hk2.html)
+- [JSR 330 Specification](https://qubitpi.github.io/jersey-guide/2022/06/27/jsr-330.html)
 - [Docker cAdvisor](https://qubitpi.github.io/jersey-guide/2022/06/26/docker-cAdvisor.html)
-- [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/2022/06/25/docker-troubleshooting.html)
-- [Command Line Reference](https://qubitpi.github.io/jersey-guide/2022/06/24/command-line.html)
 <!-- BLOG-POST-LIST:END -->
