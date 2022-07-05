@@ -93,7 +93,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Path](https://qubitpi.github.io/jersey-guide/2022/07/03/happy-path.html)
+- [HTTP Related Testing in Python](https://qubitpi.github.io/jersey-guide/2022/07/03/python-http-library.html)
 - [Build and Push Docker Images through GitHub Action](https://qubitpi.github.io/jersey-guide/2022/06/28/github-action-docker.html)
-- [HK2 - Dependency Injection Kernel](https://qubitpi.github.io/jersey-guide/2022/06/27/hk2.html)
-- [JSR 330 Specification](https://qubitpi.github.io/jersey-guide/2022/06/27/jsr-330.html)
 <!-- BLOG-POST-LIST:END -->
