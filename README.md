@@ -9,8 +9,6 @@
 [ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/jack20191124)
 [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 ) ](https://space.bilibili.com/1771839550)
-[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
-) ](https://hub.docker.com/r/jack20191124/)
 [ ![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white
 ) ](https://trello.com/b/8OIIoyrS)
 [ ![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white
@@ -65,6 +63,8 @@ Open Source Projects
 -------------------
 
 [ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)
+[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
+) ](https://hub.docker.com/r/jack20191124/)
 [ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)
 
 ### Creator
