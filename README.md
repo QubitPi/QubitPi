@@ -17,7 +17,6 @@
 ) ](https://www.zhihu.com/people/jack20191124)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 ) ](https://www.linkedin.com/in/jack20191124/)
-[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)
 [ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)
 [ ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white) ](https://pin.it/3J6JjF1)
 [ ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ](https://www.quora.com/profile/Jiaqi-Liu-185/)
@@ -65,6 +64,8 @@ I'm thriving on creating a future where people never dominate the machine and ma
 
 Open Source Projects
 -------------------
+
+[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)
 
 ### Creator
 
