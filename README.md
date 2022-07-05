@@ -97,6 +97,6 @@ My New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Artifactory with Apache Maven Registry](https://qubitpi.github.io/jersey-guide/2022/07/05/github-artifactory.html)
+- [Setting Up Coverage Analysis through SonarCloud in Maven Project](https://qubitpi.github.io/jersey-guide/2022/07/05/sonar-cloud-code-coverage.html)
 - [Happy Path](https://qubitpi.github.io/jersey-guide/2022/07/03/happy-path.html)
-- [HTTP Related Testing in Python](https://qubitpi.github.io/jersey-guide/2022/07/03/python-http-library.html)
 <!-- BLOG-POST-LIST:END -->
