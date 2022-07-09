@@ -96,7 +96,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Groovy Method Pointer Operator](https://qubitpi.github.io/jersey-guide/2022/07/09/groovy-method-pointer-operator.html)
 - [What are Groovy Closures?](https://qubitpi.github.io/jersey-guide/2022/07/07/groovy-closure.html)
-- [GitHub Artifactory with Apache Maven Registry](https://qubitpi.github.io/jersey-guide/2022/07/05/github-artifactory.html)
-- [Setting Up Coverage Analysis through SonarCloud in Maven Project](https://qubitpi.github.io/jersey-guide/2022/07/05/sonar-cloud-code-coverage.html)
+- [The Metaphysics of Software Testing](https://qubitpi.github.io/jersey-guide/2022/07/07/metaphysics-of-writing-tests.html)
 <!-- BLOG-POST-LIST:END -->
