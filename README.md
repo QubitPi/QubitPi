@@ -96,7 +96,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
-- [Groovy Method Pointer Operator](https://qubitpi.github.io/jersey-guide/2022/07/09/groovy-method-pointer-operator.html)
-- [What are Groovy Closures?](https://qubitpi.github.io/jersey-guide/2022/07/07/groovy-closure.html)
-- [The Metaphysics of Software Testing](https://qubitpi.github.io/jersey-guide/2022/07/07/metaphysics-of-writing-tests.html)
+- [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
+- [Jersey Test Framework](https://qubitpi.github.io/jersey-guide/2022/07/11/jersey-test-framework.html)
+- [Groovy Closure to Type Coercion](https://qubitpi.github.io/jersey-guide/2022/07/10/groovy-closure-to-type-coercion.html)
 <!-- BLOG-POST-LIST:END -->
