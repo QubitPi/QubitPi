@@ -96,7 +96,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
+- [The Difference Between Mocks and Stubs](https://qubitpi.github.io/jersey-guide/2022/07/13/stub-vs-mock.html)
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
 - [Jersey Test Framework](https://qubitpi.github.io/jersey-guide/2022/07/11/jersey-test-framework.html)
-- [Groovy Closure to Type Coercion](https://qubitpi.github.io/jersey-guide/2022/07/10/groovy-closure-to-type-coercion.html)
 <!-- BLOG-POST-LIST:END -->
