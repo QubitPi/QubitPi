@@ -100,7 +100,7 @@ My New Tech Blogs
 -----------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Preconditions, Postconditions, and Class Invariants](https://qubitpi.github.io/jersey-guide/2022/07/17/pre-post-conditions-class-invariants.html)
 - [The Difference Between Mocks and Stubs](https://qubitpi.github.io/jersey-guide/2022/07/13/stub-vs-mock.html)
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
-- [Jersey Test Framework](https://qubitpi.github.io/jersey-guide/2022/07/11/jersey-test-framework.html)
 <!-- BLOG-POST-LIST:END -->
