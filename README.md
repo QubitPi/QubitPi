@@ -1,7 +1,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Welome to Jack (Jiaqi)'s GitHub Page ![](https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif)
 ========================================================================================================================================
 
-![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)
+[ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://bbs.mihoyo.com/ys/accountCenter/postList?id=290629733)
 
 [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white
 ) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
