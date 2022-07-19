@@ -78,6 +78,10 @@ jobs:
           plugin_repositories_featured: QubitPi/athena, QubitPi/aristotle
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: starred
+          plugin_topics_limit: 20
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.GOOGLE_PAGE_SPEED_TOKEN }}
           plugin_pagespeed_url: https://github.com/QubitPi
