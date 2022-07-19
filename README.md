@@ -45,7 +45,7 @@
 
 > In year 2013, a college boy gathered 2000 data points in his college Physics research and plotted them on a graph using MATLAB which turned out to be a beautiful sound-wave-like plot graph. The perfectly-shaped and enlightening representation of the graph ignited his imaginations about how data could bring so much more information and discoveries than any other methods could ever deliver. That day became the beginning of his career, which shall carry itself all the way toward end of his life.
 >
-> That boy is presenting himself on this page. Nothing is here except for his consuming passion for Big Data
+> That boy is presenting himself on this page. Nothing is here except for his consuming passion for **Big Data**
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for passionated minds of all backgrounds to join us!
 
@@ -56,7 +56,7 @@ I'm thriving on creating a future where people never dominate the machine and ma
 > 
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on software engineering. As the best tech leader I've seen, he treats programming, code review, and software design as a work of art. I will [follow his philosophy](https://github.com/QubitPi/java-code-review-guide-book) and see him as my role model
 
-![data-science](https://user-images.githubusercontent.com/16126939/175851579-32b6dd8e-4b50-45ba-ac46-c4b91e30412f.png)
+![big-data](https://user-images.githubusercontent.com/16126939/179757963-7cc544be-01ca-4be5-8b33-64482f737004.png)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
@@ -105,6 +105,8 @@ My New Tech Blogs
 - [The Difference Between Mocks and Stubs](https://qubitpi.github.io/jersey-guide/2022/07/13/stub-vs-mock.html)
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <p align="center">
   <img src="/github-metrics.svg" width="75%"/>
