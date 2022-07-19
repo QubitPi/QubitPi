@@ -68,11 +68,11 @@ jobs:
           plugin_pagespeed_pwa: yes
           plugin_repositories: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 30
           plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stackoverflow_user: 1127171
+          plugin_stackoverflow_lines_snippet: 999
+          plugin_stackoverflow_sections: answers-top, answers-recent, questions-top, questions-recent
+          plugin_stackoverflow_user: 14312712
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
