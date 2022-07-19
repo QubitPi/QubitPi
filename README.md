@@ -69,7 +69,7 @@ Open Source Projects
 ) ](https://hub.docker.com/r/jack20191124/)
 [ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)
 
-[![QubitPi's github activity graph](https://qubitpi-activity-graph.herokuapp.com/graph?username=QubitPi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![QubitPi's github activity graph](https://qubitpi-activity-graph.herokuapp.com/graph?username=QubitPi&theme=github-light&line=42b883&color=35495e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Creator
 
