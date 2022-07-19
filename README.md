@@ -62,12 +62,14 @@ I'm thriving on creating a future where people never dominate the machine and ma
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 
 Open Source Projects
--------------------
+--------------------
 
 [ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)
 [ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
 ) ](https://hub.docker.com/r/jack20191124/)
 [ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)
+
+[![QubitPi's github activity graph](https://qubitpi-activity-graph.herokuapp.com/graph?username=QubitPi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Creator
 
@@ -93,8 +95,6 @@ Open Source Projects
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
-
-
 
 My New Tech Blogs
 -----------------
