@@ -105,3 +105,5 @@ My New Tech Blogs
 - [The Difference Between Mocks and Stubs](https://qubitpi.github.io/jersey-guide/2022/07/13/stub-vs-mock.html)
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
 <!-- BLOG-POST-LIST:END -->
+
+![Metrics](/github-metrics.svg)
