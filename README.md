@@ -108,8 +108,7 @@ My New Tech Blogs
 
 ---
 
-<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="50%">
-
+<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="50%"><img align="left" src="/github-metrics-commits-history.svg" alt="Metrics" width="50%">
 
 <p align="center">
   <img src="/github-metrics.svg" width="75%"/>
