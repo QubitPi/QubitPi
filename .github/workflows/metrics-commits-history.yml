@@ -27,7 +27,7 @@ jobs:
           # Options
           user: QubitPi
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Shanghai
           filename: github-metrics-commits-history.svg
           plugin_calendar: yes
