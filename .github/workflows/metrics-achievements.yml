@@ -26,6 +26,8 @@ jobs:
 
           # Options
           user: QubitPi
+          template: classic
+          base: ""
           config_timezone: Asia/Shanghai
           filename: github-metrics-achievements.svg
           plugin_achievements: yes
