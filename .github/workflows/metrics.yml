@@ -74,6 +74,7 @@ jobs:
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 1127171
           plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: jack20191124
