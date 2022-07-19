@@ -56,6 +56,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_aliases: Dockerfile:Docker
+          plugin_calendar: true
+          plugin_calendar_limit: 0
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
