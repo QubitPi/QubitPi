@@ -107,6 +107,5 @@ My New Tech Blogs
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img width="75%" src="metrics.svg"/>
   <img src="/github-metrics.svg" width="75%"/>
 </p>
