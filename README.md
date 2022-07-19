@@ -89,6 +89,7 @@ Open Source Projects
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=vue)](https://github.com/yahoo/fili)
 [![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=vue)](https://github.com/yahoo/elide)
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
+[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 
 ### Active Forks
 
