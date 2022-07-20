@@ -102,8 +102,8 @@ New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [3 Most Common Authorization Designs for SaaS Products](https://qubitpi.github.io/jersey-guide/2022/07/20/authrization-design.html)
+- [User stories with Examples and a Template](https://qubitpi.github.io/jersey-guide/2022/07/20/user-story.html)
 - [Preconditions, Postconditions, and Class Invariants](https://qubitpi.github.io/jersey-guide/2022/07/17/pre-post-conditions-class-invariants.html)
-- [The Difference Between Mocks and Stubs](https://qubitpi.github.io/jersey-guide/2022/07/13/stub-vs-mock.html)
 <!-- BLOG-POST-LIST:END -->
 
 Git Data Analytics
