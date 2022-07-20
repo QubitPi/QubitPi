@@ -56,7 +56,7 @@ I'm thriving on creating a future where people never dominate the machine and ma
 > 
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on software engineering. As the best tech leader I've seen, he treats programming, code review, and software design as a work of art. I will [follow his philosophy](https://github.com/QubitPi/java-code-review-guide-book) and see him as my role model
 
-![big-data](https://user-images.githubusercontent.com/16126939/179757963-7cc544be-01ca-4be5-8b33-64482f737004.png)
+![big-data-illustration](https://user-images.githubusercontent.com/16126939/179873710-f159b6bc-34dc-48de-b06b-e7698ac02dc2.png)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
@@ -112,4 +112,4 @@ My New Tech Blogs
 <br>
 <img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="48%">
 <br>
-<img align="left" src="/github-metrics-starlists.svg" alt="Metrics" width="48%">
+<img align="center" src="/github-metrics-starlists.svg" alt="Metrics" width="48%">
