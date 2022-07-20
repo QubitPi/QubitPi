@@ -106,7 +106,8 @@ My New Tech Blogs
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
 <!-- BLOG-POST-LIST:END -->
 
----
+My Git Data Analysis
+--------------------
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
