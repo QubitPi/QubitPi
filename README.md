@@ -97,8 +97,8 @@ Open Source Projects
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 
-My New Tech Blogs
------------------
+New Tech Blogs
+--------------
 
 <!-- BLOG-POST-LIST:START -->
 - [Preconditions, Postconditions, and Class Invariants](https://qubitpi.github.io/jersey-guide/2022/07/17/pre-post-conditions-class-invariants.html)
@@ -106,8 +106,8 @@ My New Tech Blogs
 - [What is Java EE](https://qubitpi.github.io/jersey-guide/2022/07/11/java-ee.html)
 <!-- BLOG-POST-LIST:END -->
 
-My Git Data Analysis
---------------------
+Git Data Analysis
+-----------------
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
