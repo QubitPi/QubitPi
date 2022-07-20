@@ -108,9 +108,9 @@ My New Tech Blogs
 
 ---
 
-<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="49%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="49%">
+<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="48%">
 
-<img align="left" src="/github-metrics-starlists.svg" alt="Metrics" width="49%">
+<img align="left" src="/github-metrics-starlists.svg" alt="Metrics" width="48%">
 
 <p align="center">
   <img src="/github-metrics.svg" width="75%"/>
