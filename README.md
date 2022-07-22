@@ -112,7 +112,7 @@ New Tech Blogs
 <!-- BLOG-POST-LIST:START -->
 - [JDBC ResultSet](https://qubitpi.github.io/jersey-guide/2022/07/21/jdbc-resultset.html)
 - [3 Most Common Authorization Designs for SaaS Products](https://qubitpi.github.io/jersey-guide/2022/07/20/authrization-design.html)
-- [User stories with Examples and a Template](https://qubitpi.github.io/jersey-guide/2022/07/20/user-story.html)
+- [User Stories with Examples and a Template](https://qubitpi.github.io/jersey-guide/2022/07/20/user-story.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
