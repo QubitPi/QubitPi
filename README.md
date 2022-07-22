@@ -52,11 +52,13 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excels in Design and
 [Persuasion](https://trello.com/b/Ce84JiYh).
 
-> <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
+> <img align="right" width="180" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
 >
 > I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
 >
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on software engineering. As the best tech leader I've seen, he treats programming, code review, and software design as a work of art. I will [follow his philosophy](https://github.com/QubitPi/java-code-review-guide-book) and see him as my role model
+>
+> <p align="right">Attribution - <a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">海螺张</a> </p> 
 
 ![big-data-illustration](https://user-images.githubusercontent.com/16126939/179874248-552b7551-09a0-4b52-92d3-28978b0239b0.png)
 
@@ -108,6 +110,9 @@ New Tech Blogs
 - [3 Most Common Authorization Designs for SaaS Products](https://qubitpi.github.io/jersey-guide/2022/07/20/authrization-design.html)
 - [User stories with Examples and a Template](https://qubitpi.github.io/jersey-guide/2022/07/20/user-story.html)
 <!-- BLOG-POST-LIST:END -->
+
+<img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180377851-8f241b3c-0685-4aa9-a46e-d717cf1de3c2.gif">
+<p align="right">Attribution - <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">苏帕帕瓦</a> </p> 
 
 Git Data Analytics
 ------------------
