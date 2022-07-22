@@ -111,8 +111,8 @@ New Tech Blogs
 - [User stories with Examples and a Template](https://qubitpi.github.io/jersey-guide/2022/07/20/user-story.html)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180377851-8f241b3c-0685-4aa9-a46e-d717cf1de3c2.gif">
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">苏帕帕瓦</a> </p> 
+<img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180381755-89c80d63-4c19-40de-9e47-9e0c230b0d0a.gif">
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">苏帕帕瓦</a> </p>
 
 Git Data Analytics
 ------------------
