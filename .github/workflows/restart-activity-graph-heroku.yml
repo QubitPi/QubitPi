@@ -2,6 +2,9 @@ name: Restart qubitpi-activity-graph Heroku App
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "*/30 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   restart-dyno:
     runs-on: ubuntu-latest
