@@ -49,7 +49,7 @@
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for passionated minds of all backgrounds to join us!
 
-I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excels in Design and
+I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in Design and
 [Persuasion](https://trello.com/b/Ce84JiYh).
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
