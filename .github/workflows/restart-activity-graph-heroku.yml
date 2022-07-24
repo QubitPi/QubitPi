@@ -1,7 +1,7 @@
 name: Restart qubitpi-activity-graph Heroku App
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "*/30 * * * *"}]
 jobs:
   restart-dyno:
     runs-on: ubuntu-latest
