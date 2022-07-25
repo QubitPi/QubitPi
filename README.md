@@ -86,10 +86,10 @@ Open Source Projects
 
 ### Creator
 
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)
 [![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
 [![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
 [![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)
