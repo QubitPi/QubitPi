@@ -114,9 +114,9 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/2022/07/28/knowledge-graph-embeddings.html)
 - [Best Python Packages &lpar;Tools&rpar; for Knowledge Graphs](https://qubitpi.github.io/jersey-guide/2022/07/28/python-tool-for-knowledge-graph.html)
 - [Emacs Search and Replace on Mac OS](https://qubitpi.github.io/jersey-guide/2022/07/26/emacs-search-and-replace.html)
-- [JDBC ResultSet](https://qubitpi.github.io/jersey-guide/2022/07/21/jdbc-resultset.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
