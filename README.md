@@ -134,6 +134,5 @@ Git Data Analytics
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
 <img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
-<br>
 <img align="left" src="/github-metrics-starlists-data-kg.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-design-openstack.svg" alt="Metrics" width="47%">
 
