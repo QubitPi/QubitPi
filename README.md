@@ -174,6 +174,6 @@ Git Data Analytics
 <br>
 <br>
 <br>
-<img align="left" src="/github-metrics-starlists-data-kg.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-design-openstack.svg" alt="Metrics" width="47%">
-
-
+<img align="left" src="/github-metrics-starlists-data-kg.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-design.svg" alt="Metrics" width="47%">
+<br>
+<img align="right" src="/github-metrics-starlists-openstack-graphql.svg" alt="Metrics" width="47%">
