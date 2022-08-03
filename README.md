@@ -87,7 +87,7 @@ Open Source Projects
 ### Creator
 
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)
-<img src="https://user-images.githubusercontent.com/16126939/182519530-36dbf5c8-1c50-4df7-b6c7-285211505e8f.png" alt="可莉" width="18%">
+<img src="https://user-images.githubusercontent.com/16126939/182519530-36dbf5c8-1c50-4df7-b6c7-285211505e8f.png" alt="可莉" width="15%">
 
 [![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
