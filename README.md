@@ -38,8 +38,8 @@
 )](https://www.tensorflow.org/)
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jack20191124)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w/playlists?view=50&sort=dd&shelf_id=5)
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
