@@ -54,8 +54,9 @@
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh ideas to join us!
 
 <p align="center">
-<img align="center" width="50%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/182987408-b3016e5a-7410-4d83-afd9-0a42c45b290d.png">
+<img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/182989430-3f10fb37-1a4d-47f2-8136-1247966fe846.png">
 </p>
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 
 I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in Design and
 [Persuasion](https://trello.com/b/Ce84JiYh).
