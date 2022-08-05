@@ -51,7 +51,11 @@
 >
 > That boy is presenting himself on this page. Nothing is here except for his consuming passion for **Big Data**
 
-My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh ideas to join us! ヾ(๑╹◡╹)ﾉ"
+My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh ideas to join us!
+
+<p align="center">
+<img align="center" width="50%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/182987408-b3016e5a-7410-4d83-afd9-0a42c45b290d.png">
+</p>
 
 I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in Design and
 [Persuasion](https://trello.com/b/Ce84JiYh).
