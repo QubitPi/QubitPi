@@ -38,15 +38,6 @@
 )](https://www.tensorflow.org/)
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jack20191124)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w/playlists?view=50&sort=dd&shelf_id=5)
-[![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
-[![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
-[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white)]()
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
-[![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu9HmBVDn_v9YP-y0YjkgrhA)
-
 > In year 2013, a college boy gathered 2000 data points in his college Physics research and plotted them on a graph using MATLAB which turned out to be a beautiful sound-wave-like plot graph. The perfectly-shaped and enlightening representation of the graph ignited his imaginations about how data could bring so much more information and discoveries than any other methods could ever deliver. That day became the beginning of his career, which shall carry itself all the way toward end of his life.
 >
 > That boy is presenting himself on this page. Nothing is here except for his consuming passion for **Big Data**
@@ -62,6 +53,15 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in Design and
 [Persuasion](https://trello.com/b/Ce84JiYh).
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jack20191124)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w/playlists?view=50&sort=dd&shelf_id=5)
+[![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
+[![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white)]()
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
+[![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu9HmBVDn_v9YP-y0YjkgrhA)
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
 >
