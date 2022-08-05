@@ -54,7 +54,9 @@
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh & fun ideas to join us!
 
 <div align="center">
-<img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/182989430-3f10fb37-1a4d-47f2-8136-1247966fe846.png">
+<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/182989430-3f10fb37-1a4d-47f2-8136-1247966fe846.png">
+</a>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 </div>
 
@@ -74,7 +76,9 @@ I'm thriving on creating a future where people never dominate the machine and ma
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
 <div align="center">
-<img align="center" width="50%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182992662-ac2dce43-adda-4224-9d29-7fdc87da86b1.png">
+<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="50%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
+</a>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 </div>
 
