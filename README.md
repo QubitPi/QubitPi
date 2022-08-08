@@ -135,9 +135,9 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/08/artificial-neural-networks.html)
 - [Machine Learning - Decision Tree Learning](https://qubitpi.github.io/jersey-guide/2022/08/05/decision-tree.html)
 - [Machine Learning - Concept Learning](https://qubitpi.github.io/jersey-guide/2022/08/01/concept-learning.html)
-- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/2022/07/28/knowledge-graph-embeddings.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
