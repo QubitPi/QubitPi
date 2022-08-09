@@ -77,7 +77,7 @@ I'm thriving on creating a future where people never dominate the machine and ma
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="50%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
+    <img align="center" width="40%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
 </a>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 </div>
