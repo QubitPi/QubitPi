@@ -136,9 +136,9 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Neural Networks - Singular Value Decomposition](https://qubitpi.github.io/jersey-guide/2022/08/11/matrix-svd.html)
 - [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/09/artificial-neural-networks.html)
 - [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/2022/08/08/evaluating-hypothesis.html)
-- [Machine Learning - Decision Tree Learning](https://qubitpi.github.io/jersey-guide/2022/08/05/decision-tree.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
