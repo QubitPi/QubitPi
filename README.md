@@ -136,7 +136,7 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning - Philosophy of Learning](https://qubitpi.github.io/jersey-guide/2022/08/12/ml-philosophy-of-learning.html)
+- [Machine Learning - Kantian Philosophy of Learning](https://qubitpi.github.io/jersey-guide/2022/08/12/ml-philosophy-of-learning.html)
 - [Artificial Neural Networks - Singular Value Decomposition](https://qubitpi.github.io/jersey-guide/2022/08/11/matrix-svd.html)
 - [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/09/artificial-neural-networks.html)
 - [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/2022/08/08/evaluating-hypothesis.html)
