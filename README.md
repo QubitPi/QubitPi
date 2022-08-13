@@ -195,3 +195,10 @@ Git Data Analytics
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="right" width="47%" alt="三崩子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">致刀掉了爱莉希雅的三崩子脑抽策划
 </a>
+
+<div align="center">
+<a href="https://www.bilibili.com/video/BV13r4y1t7Pp?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="100%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/184496756-d3b2357d-f5ba-4769-aa94-780bda987cd9.png">
+</a>
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV13r4y1t7Pp?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">阿灯不太亮</a></p> 
+</div>
