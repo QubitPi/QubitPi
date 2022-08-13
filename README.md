@@ -39,9 +39,9 @@
 )](https://www.tensorflow.org/)
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
-> In year 2013, a college boy gathered 2000 data points in his college Physics research and plotted them on a graph using MATLAB which turned out to be a beautiful sound-wave-like plot graph. The perfectly-shaped and enlightening representation of the graph ignited his imaginations about how data could bring so much more information and discoveries than any other methods could ever deliver. That day became the beginning of his career, which shall carry itself all the way toward end of his life.
->
-> That boy is presenting himself on this page. Nothing is here except for his consuming passion for **Big Data**
+<div align="center">
+<img align="center" width="100%" alt="my-history" src="./原神/how-I-become-me.png">
+</div>
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh & fun ideas to join us!
 
