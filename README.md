@@ -41,7 +41,7 @@
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1z44y1b7cQ?p=3&share_source=copy_web">
-    <img align="center" width="100%" alt="my-history" src="https://user-images.githubusercontent.com/16126939/184521638-e0a0edc5-944d-4bca-8d56-702a0a99cd78.png">
+    <img align="center" width="100%" alt="my-history" src="https://user-images.githubusercontent.com/16126939/184523283-8c35386b-56e5-42d9-b75e-2107086f066f.png">
 </a>
 </div>
 
