@@ -40,7 +40,9 @@
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
 <div align="center">
-<img align="center" width="100%" alt="my-history" src="./原神/how-I-become-me.png">
+<a href="https://www.bilibili.com/video/BV1ML411N7hm?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="100%" alt="my-history" src="./原神/how-I-become-me.png">
+</a>
 </div>
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh & fun ideas to join us!
