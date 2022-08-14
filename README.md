@@ -138,10 +138,10 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning - Kantian Philosophy of Learning](https://qubitpi.github.io/jersey-guide/2022/08/12/ml-philosophy-of-learning.html)
-- [Artificial Neural Networks - Singular Value Decomposition](https://qubitpi.github.io/jersey-guide/2022/08/11/matrix-svd.html)
-- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/09/artificial-neural-networks.html)
-- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/2022/08/08/evaluating-hypothesis.html)
+- [&lpar;Updating…&rpar; Machine Learning - Kantian Philosophy of Learning](https://qubitpi.github.io/jersey-guide/2022/08/12/ml-philosophy-of-learning.html)
+- [&lpar;Updating…&rpar; Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/2022/08/11/matrix-svd.html)
+- [&lpar;Updating…&rpar; Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/09/artificial-neural-networks.html)
+- [&lpar;Updating…&rpar; Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/2022/08/08/evaluating-hypothesis.html)
 - [Machine Learning - Decision Tree Learning](https://qubitpi.github.io/jersey-guide/2022/08/05/decision-tree.html)
 <!-- BLOG-POST-LIST:END -->
 
