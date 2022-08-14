@@ -40,7 +40,7 @@
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
 <div align="center">
-<a href="https://www.bilibili.com/video/BV1z44y1b7cQ?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+<a href="https://www.bilibili.com/video/BV1z44y1b7cQ?p=3&share_source=copy_web">
     <img align="center" width="100%" alt="my-history" src="https://user-images.githubusercontent.com/16126939/184521638-e0a0edc5-944d-4bca-8d56-702a0a99cd78.png">
 </a>
 </div>
