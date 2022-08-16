@@ -103,13 +103,12 @@ Open Source Projects
 
 <div align="center">
 
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)
-<img src="https://user-images.githubusercontent.com/16126939/183283046-2c65979b-5e10-43a5-9759-65b502ee42ef.png" alt="可莉" width="15%">
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)<img src="https://user-images.githubusercontent.com/16126939/184785710-281e8c8a-a080-4293-beb9-ce981554bafe.png" alt="可莉" width="15%">
 
-<img src="https://user-images.githubusercontent.com/16126939/183282849-eecf4800-3efd-4282-966d-acb791fac14e.png" alt="可莉" width="15%">[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)
+<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)
 
-[![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)
-<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">
+[![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">
+
 </div>
 
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
