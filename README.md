@@ -197,7 +197,7 @@ Git Data Analytics
 <br>
 <img align="right" src="/github-metrics-starlists-openstack-graphql.svg" alt="Metrics" width="47%">
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="right" width="47%" alt="三崩子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">致 刀掉了爱莉希雅的三崩子脑抽策划
+    <img align="right" width="47%" alt="三崩子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">致 刀掉了爱莉希雅的三崩子脑抽某某某
 </a>
 
 <div align="center">
