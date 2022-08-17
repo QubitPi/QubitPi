@@ -114,7 +114,6 @@ Open Source Projects
 </div>
 
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
 [![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
