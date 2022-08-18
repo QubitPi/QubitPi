@@ -153,12 +153,13 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;Updating…&rpar; Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/2022/08/12/ml-philosophy-of-learning.html)
-- [&lpar;Updating…&rpar; Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/2022/08/11/linear-algebra.html)
-- [&lpar;Updating…&rpar; Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/2022/08/09/artificial-neural-networks.html)
-- [&lpar;Updating…&rpar; Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/2022/08/08/evaluating-hypothesis.html)
-- [&lpar;Updating…&rpar; Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/2022/08/07/knowledge-graph-embeddings.html)
 <!-- BLOG-POST-LIST:END -->
+
+WIP Tech Blogs
+--------------
+
+<!-- WIP-BLOG-POST-LIST:START -->
+<!-- WIP-BLOG-POST-LIST:END -->
 
 <p align="center">
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
