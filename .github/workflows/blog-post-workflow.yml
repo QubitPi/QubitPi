@@ -14,5 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: https://siftrss.com/f/Z3Pb3J9ZW9
-          #feed_list: "https://qubitpi.github.io/jersey-guide/feed.xml"
+          feed_list: "https://qubitpi.github.io/jersey-guide/feed/FINALIZED.xml"
