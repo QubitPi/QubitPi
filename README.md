@@ -50,7 +50,7 @@
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are looking for young minds with fresh & fun ideas to join us: 
 
 * B 站 UP 主
-* Frontend
+* Frontend/Backend
 * Design
 
 <div align="center">
