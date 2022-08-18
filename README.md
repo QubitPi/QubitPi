@@ -51,7 +51,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 * B 站 UP 主
 * Frontend/Backend
-* Design
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
