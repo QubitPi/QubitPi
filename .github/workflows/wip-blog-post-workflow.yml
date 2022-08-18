@@ -15,5 +15,4 @@ jobs:
         with:
           comment_tag_name: "WIP-BLOG-POST-LIST"
           max_post_count: "5"
-          feed_list: https://siftrss.com/f/xoMMy5nqnp
-          #feed_list: "https://qubitpi.github.io/jersey-guide/feed.xml"
+          feed_list: "https://qubitpi.github.io/jersey-guide/feed/WIP.xml"
