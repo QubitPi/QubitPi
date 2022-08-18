@@ -153,6 +153,11 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
+- [Using a GitHub Action Matrix to Define Variations for Each Job](https://qubitpi.github.io/jersey-guide/2022/08/06/github-matrix.html)
+- [Machine Learning - Decision Tree Learning](https://qubitpi.github.io/jersey-guide/2022/08/05/decision-tree.html)
+- [Machine Learning - Concept Learning](https://qubitpi.github.io/jersey-guide/2022/08/01/concept-learning.html)
+- [Emacs Search and Replace on Mac OS](https://qubitpi.github.io/jersey-guide/2022/07/26/emacs-search-and-replace.html)
+- [JDBC ResultSet](https://qubitpi.github.io/jersey-guide/2022/07/21/jdbc-resultset.html)
 <!-- BLOG-POST-LIST:END -->
 
 WIP Tech Blogs
