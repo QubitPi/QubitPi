@@ -16,4 +16,4 @@ jobs:
           comment_tag_name: "DESIGN-POST-LIST"
           max_post_count: "5"
           feed_list: "https://www.behance.net/feeds/user?username=jack20191124"
-          template: "<tr><td>[$title]($link)</td><td>$description</td></tr>"
+          template: "<tr><td>[$title]($url)</td><td>$description</td></tr>"
