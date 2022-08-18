@@ -198,7 +198,7 @@ Git Data Analytics
 <br>
 <img align="right" src="/github-metrics-starlists-openstack-graphql-virtualization.svg" alt="Metrics" width="47%">
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="right" width="47%" alt="三崩子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">喊三崩子刀掉爱莉希雅的那条狗，你心里有爱么？
+    <img align="right" width="47%" alt="三崩子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">指使三崩子刀掉爱莉希雅的那条狗，你是个人么？
 </a>
 
 <div align="center">
