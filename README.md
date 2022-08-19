@@ -52,7 +52,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/183016153-c7470399-d1b0-436d-bc95-a1fb4022e728.png">
+    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/185602652-3539dc68-8049-44d7-aeb5-6e4ff3644c3f.png">
 </a>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 </div>
