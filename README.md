@@ -222,8 +222,8 @@ Git Data Analytics
 <img align="right" src="/github-metrics-starlists-openstack-graphql-virtualization.svg" alt="Metrics" width="47%">
 
 <div align="center">
-<a href="https://www.bilibili.com/video/BV13r4y1t7Pp?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="100%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/184496756-d3b2357d-f5ba-4769-aa94-780bda987cd9.png">
+<a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
+    <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185735637-129fa944-3b99-4d1e-98a7-b493b9713e48.png">
 </a>
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV13r4y1t7Pp?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">阿灯不太亮</a></p> 
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">可爱的原宝</a></p> 
 </div>
