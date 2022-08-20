@@ -225,5 +225,5 @@ Git Data Analytics
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
     <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185735637-129fa944-3b99-4d1e-98a7-b493b9713e48.png">
 </a>
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">可爱的原宝</a></p> 
+<p align="right">Attribution - <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">快乐的原宝</a></p> 
 </div>
