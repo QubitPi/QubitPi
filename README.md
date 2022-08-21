@@ -44,7 +44,7 @@
 </a>
 </div>
 
-My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are a group of making happiness for young hearts（为世界上所有的美好和快乐而努力）and are looking for young minds with fresh & fun ideas to join us: 
+My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are a group of making promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）and are looking for young minds with fresh & fun ideas to join us: 
 
 * B 站 UP 主 [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 * 拥有 <img width="24px" alt="火元素神之眼" src="https://user-images.githubusercontent.com/16126939/185541227-cdd13814-76f6-4e16-9977-9cad0ffe612e.png"> 的 Frontend/Backend 开发小伙伴 <img width="64px" src="https://user-images.githubusercontent.com/16126939/185549037-0ecd8d29-a3bc-4aa2-855f-7bd8be51ed93.png"><img width="64px" src="https://user-images.githubusercontent.com/16126939/185545017-769c713b-0381-4e6c-ac57-a638d9ce499a.png">
