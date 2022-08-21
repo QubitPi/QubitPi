@@ -223,7 +223,7 @@ Git Data Analytics
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
-    <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185735637-129fa944-3b99-4d1e-98a7-b493b9713e48.png">
+    <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185776359-1a392d62-5117-4980-b5a4-19f536a43c3f.png">
 </a>
 <p align="right">Attribution - <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">原宝</a></p> 
 </div>
