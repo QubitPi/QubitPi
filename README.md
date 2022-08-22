@@ -122,11 +122,15 @@ Open Source Projects
     
 <img src="https://user-images.githubusercontent.com/16126939/185029702-955b44ab-3570-41f2-bb36-581a7ffe38fe.png" alt="心海" width="15%">[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)
 
+[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
+<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
+
+<img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
+
+[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
+
 </div>
 
-[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
-[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
-[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
@@ -159,7 +163,7 @@ New Tech Blogs
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="47%" alt="三蹦子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">让三蹦子刀掉爱莉希雅的那条狗，你觉得自己是个人？
+    <img align="center" width="47%" alt="三蹦子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">那条让三蹦子刀掉爱莉希雅的狗，你觉得自己是个人？
 
 WIP Tech Blogs
 --------------
