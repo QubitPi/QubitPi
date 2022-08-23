@@ -70,11 +70,11 @@ I'm thriving on creating a future where people never dominate the machine and ma
 [![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu9HmBVDn_v9YP-y0YjkgrhA)
 
 <!-- DESIGN-POST-LIST:START -->
+- [[Color Palette] ????](https://www.behance.net/gallery/151020177/Color-Palette-)
 - [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
 - [[Design Practice] Vector Peach](https://www.behance.net/gallery/150091831/Design-Practice-Vector-Peach)
 - [[Design Practice] Paper Cut Out Effect](https://www.behance.net/gallery/149929601/Design-Practice-Paper-Cut-Out-Effect)
 - [[Design Practice] 3D Isometric Illustration](https://www.behance.net/gallery/149824473/Design-Practice-3D-Isometric-Illustration)
-- [[Design Practice] Glass Planet Vector Illustration](https://www.behance.net/gallery/149763581/Design-Practice-Glass-Planet-Vector-Illustration)
 <!-- DESIGN-POST-LIST:END -->
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
