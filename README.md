@@ -57,8 +57,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 </div>
 
-I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in Design and
-[Persuasion](https://trello.com/b/Ce84JiYh).
+I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in [Design](https://www.behance.net/jack20191124) and [Persuasion](https://trello.com/b/Ce84JiYh).
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu_UEGos5Mf-9IXCy7adGbpA)
