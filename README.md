@@ -220,6 +220,8 @@ Git Data Analytics
 <br>
 <br>
 <br>
+<br>
+<br>
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-design.svg" alt="Metrics" width="47%">
 <br>
 <img align="right" src="/github-metrics-starlists-openstack-graphql-virtualization.svg" alt="Metrics" width="47%">
