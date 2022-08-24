@@ -147,7 +147,6 @@ Open Source Projects
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
-[![Peitho Data Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data-site&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data-site)
 
 New Tech Blogs
 --------------
