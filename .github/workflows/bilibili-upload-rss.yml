@@ -16,4 +16,3 @@ jobs:
           comment_tag_name: "BILIBILI-UPLOAD-LIST"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
-          template: "  - <a href=$link>$title</a>"
