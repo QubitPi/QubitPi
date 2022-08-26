@@ -79,6 +79,12 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [【李知恩】不知道为什么，这种时刻给我一种异常自信的感觉](https://t.bilibili.com/693188407126392883)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
+### Recently Tipped Videos
+
+<!-- BILIBILI-TIPPED-VIDEOS:START -->
+
+<!-- BILIBILI-TIPPED-VIDEOS:END -->
+
 ---
 
 <div align="center">
