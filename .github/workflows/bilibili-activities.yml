@@ -6,18 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  recent-uploads:
-    name: Recent Uploads
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BILIBILI-UPLOAD-LIST"
-          max_post_count: "3"
-          feed_list: "https://rsshub.app/bilibili/user/video/1771839550?disableEmbed=false"
+#   recent-uploads:
+#     name: Recent Uploads
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "BILIBILI-UPLOAD-LIST"
+#           max_post_count: "3"
+#           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
   recent-activities:
-    name: Recent Activities
+    name: Recent Activities including recent uploads
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,3 +26,23 @@ jobs:
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
+  following:
+    name: Following
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-FOLLWOING"
+          max_post_count: "10"
+          feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
+  tipped-videos:
+    name: Tipped Videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
