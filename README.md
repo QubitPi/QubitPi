@@ -58,6 +58,11 @@ My Bilibili
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
+- [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://www.bilibili.com/video/BV1eV4y1W7KP)
+- [【为即将到来的心海打圣遗物的日常】沉眠之庭 原声版](https://www.bilibili.com/video/BV1814y1x7WA)
+- [【李知恩】不知道为什么，这种时刻给我一种异常自信的感觉](https://www.bilibili.com/video/BV1Ra411o7rK)
+- [无妄引咎密宫 寒霜Ⅳ 七七](https://www.bilibili.com/video/BV1k34y1H7qg)
+- [原神2.8 可莉抱回家](https://www.bilibili.com/video/BV19V4y1E76x)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ---
