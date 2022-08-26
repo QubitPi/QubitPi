@@ -63,7 +63,7 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [【李知恩】不知道为什么，这种时刻给我一种异常自信的感觉](https://www.bilibili.com/video/BV1Ra411o7rK)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
-### Recent Uploads
+### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
 - [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://t.bilibili.com/698672041084059688)
