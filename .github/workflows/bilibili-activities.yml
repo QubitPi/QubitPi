@@ -15,7 +15,7 @@ jobs:
         with:
           comment_tag_name: "BILIBILI-UPLOAD-LIST"
           max_post_count: "3"
-          feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
+          feed_list: "https://rsshub.app/bilibili/user/video/1771839550/true"
   recent-activities:
     name: Recent Activities
     runs-on: ubuntu-latest
