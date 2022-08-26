@@ -95,6 +95,12 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [【原神】摆拍狂魔「奇妙的待机动画互动2.0」](https://www.bilibili.com/video/BV1J34y1E7j2)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
+### Latest Genshin Impact News
+
+<!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+
+<!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
+
 ---
 
 <div align="center">
