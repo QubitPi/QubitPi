@@ -46,7 +46,7 @@
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are a group of promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）. Please join us if you are one of
 
-1. 这样的 B 站 UP 主
+1. Bilibilist with the style of the following (酱紫的 B 站 UP 主)
 
 <ul>
 <!-- BILIBILI-FOLLWOING:START --><li><a href=https://space.bilibili.com/55434671>阿灯不太亮</a></li><li><a href=https://space.bilibili.com/6699767>未未昭</a></li><li><a href=https://space.bilibili.com/89433414>我是小狄xiaodi</a></li><li><a href=https://space.bilibili.com/23945810>爱抽卡的白熊</a></li><li><a href=https://space.bilibili.com/21123321>小伞听雨Misaki</a></li><li><a href=https://space.bilibili.com/401742377>原神</a></li><!-- BILIBILI-FOLLWOING:END -->
