@@ -1,4 +1,4 @@
-name: Latest Bilibili uploads workflow
+name: Latest Bilibili Activities workflow
 on:
   schedule:
     # Runs every hour
