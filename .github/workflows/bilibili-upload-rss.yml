@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-design:
-    name: Update this repos README with latest design posts
+  recent-uploads:
+    name: Recent Uploads
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,3 +16,13 @@ jobs:
           comment_tag_name: "BILIBILI-UPLOAD-LIST"
           max_post_count: "3"
           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
+  recent-activities:
+    name: Recent Activities
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
