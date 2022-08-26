@@ -53,7 +53,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 </ul>
 
 
-2. Frontend/Backend friends with <img width="24px" alt="火元素神之眼" src="https://user-images.githubusercontent.com/16126939/185541227-cdd13814-76f6-4e16-9977-9cad0ffe612e.png">
+2. Frontend/Backend friends with <a href="https://genshin-impact.fandom.com/wiki/Pyro"><img width="24px" alt="火元素神之眼" src="https://user-images.githubusercontent.com/16126939/185541227-cdd13814-76f6-4e16-9977-9cad0ffe612e.png"></a>
 
 <div align="center">
 
