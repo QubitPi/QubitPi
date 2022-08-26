@@ -36,7 +36,9 @@ jobs:
           comment_tag_name: "BILIBILI-FOLLWOING"
           max_post_count: "10"
           feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
-          template: "<li><a href=$link>$description</a></li>"
+          item_exec: |
+                    post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','');
+          template: "<li><a href=$link>$title</a></li>"
   tipped-videos:
     name: Tipped Videos
     runs-on: ubuntu-latest
