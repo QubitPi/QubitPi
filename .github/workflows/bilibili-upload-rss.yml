@@ -1,0 +1,18 @@
+name: Latest Bilibili uploads workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-design:
+    name: Update this repos README with latest design posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-UPLOAD-LIST"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
