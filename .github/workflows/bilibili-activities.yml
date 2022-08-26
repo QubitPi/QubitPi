@@ -38,7 +38,7 @@ jobs:
           feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
           item_exec: |
                     post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','');
-          template: "<li><a href=$link>$title</a></li>"
+          template: "<li><a href=$url>$title</a></li>"
   tipped-videos:
     name: Tipped Videos
     runs-on: ubuntu-latest
