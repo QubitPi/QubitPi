@@ -6,16 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-#   recent-uploads:
-#     name: Recent Uploads
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "BILIBILI-UPLOAD-LIST"
-#           max_post_count: "3"
-#           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
+  recent-uploads:
+    name: Recent Uploads
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-UPLOAD-LIST"
+          max_post_count: "3"
+          feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
   recent-activities:
     name: Recent Activities including recent uploads
     runs-on: ubuntu-latest
