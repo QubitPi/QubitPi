@@ -90,11 +90,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 ### Recently Liked-Saved-Tipped (一键三连的) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [“请让我拐走这三位”](https://www.bilibili.com/video/BV1rg41167V1)
 - [须弥的月亮VS逃跑的太阳](https://www.bilibili.com/video/BV11a411G7Ef)
 - [哇，雷神的人設……](https://www.bilibili.com/video/BV1TB4y157ZX)
 - [【原神三渲二动画】可莉的夏日大冒险！](https://www.bilibili.com/video/BV1KS4y1x7wy)
 - [[原神摄影]留住一整个夏天|金苹果群岛摄影分享](https://www.bilibili.com/video/BV1tt4y1n7yk)
-- [【原神】摆拍狂魔「奇妙的待机动画互动2.0」](https://www.bilibili.com/video/BV1J34y1E7j2)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
