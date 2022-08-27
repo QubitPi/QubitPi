@@ -80,11 +80,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [孤云阁 F4 初级打法](https://t.bilibili.com/699094678745645081)
+- [小宝 我又来找你玩啦～](https://t.bilibili.com/699086355097976887)
 - [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://t.bilibili.com/698672041084059688)
 - [【为即将到来的心海打圣遗物的日常】沉眠之庭 原声版](https://t.bilibili.com/698671860699627572)
 - [#UP主里程碑# 我解锁了新的里程碑！](https://t.bilibili.com/694864750025113621)
-- [我是#原神#的NO.117420号真爱粉，靓号在手，走路带风，解锁专属粉丝卡片，使用专属粉丝装扮，你也来生成你的专属秀起来吧！https://www.bilibili.com/h5/mall/su...](https://t.bilibili.com/694614491131805718)
-- [【李知恩】不知道为什么，这种时刻给我一种异常自信的感觉](https://t.bilibili.com/693188407126392883)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Recently Liked-Saved-Tipped (一键三连的) Videos
