@@ -1,4 +1,4 @@
-name: Latest Bilibili Activities workflow
+name: Bilibili Data
 on:
   schedule:
     # Runs every hour
@@ -17,7 +17,7 @@ jobs:
           max_post_count: "3"
           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
   recent-activities:
-    name: Recent Activities including recent uploads
+    name: Recent Activities (Including Recent Uploads)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,8 +26,8 @@ jobs:
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
-  following:
-    name: Following
+  followings:
+    name: Followings
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -39,8 +39,8 @@ jobs:
           item_exec: |
                     post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','');
           template: "<li><a href=$url>$title</a></li>"
-  tipped-videos:
-    name: Tipped Videos
+  trippled-videos:
+    name: Trippled Videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
