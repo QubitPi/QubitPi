@@ -38,6 +38,50 @@ jobs:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: QubitPi
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics-achievements.svg
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+      - name: Commit History
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: QubitPi
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics-commits-history.svg
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          
+      - name: Current Year Commits History
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: QubitPi
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          filename: github-metrics-current-year-commits-history.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Issue & PR & Habits
+        uses: lowlighter/metrics@latest
+        with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -53,8 +97,15 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
-          filename: github-metrics-achievements.svg
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          filename: github-metrics-issue-pr-habits.svg
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: user
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: no
+          plugin_habits_languages_limit: 8
