@@ -1,4 +1,4 @@
-name: Genshin Impact
+name: Genshin Impact Data
 on:
   schedule:
     # Runs every hour
