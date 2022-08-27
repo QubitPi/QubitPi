@@ -1,4 +1,4 @@
-name: Genshin Impact workflow
+name: Genshin Impact
 on:
   schedule:
     # Runs every hour
