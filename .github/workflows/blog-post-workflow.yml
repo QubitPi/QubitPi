@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Tech Blog Post Feed Data
 on:
   schedule:
     # Runs every hour
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  finalized-blogs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
@@ -15,3 +15,13 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed/FINALIZED.xml"
+  WIP-blogs:
+    name: Update this repos README with WIP blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "WIP-BLOG-POST-LIST"
+          max_post_count: "5"
+          feed_list: "https://qubitpi.github.io/jersey-guide/feed/WIP.xml"
