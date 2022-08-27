@@ -1,4 +1,4 @@
-name: Latest design post workflow
+name: Design Portfolio Data
 on:
   schedule:
     # Runs every hour
