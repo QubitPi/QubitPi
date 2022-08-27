@@ -85,7 +85,7 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [【李知恩】不知道为什么，这种时刻给我一种异常自信的感觉](https://t.bilibili.com/693188407126392883)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
-### Recently Tipped Videos
+### Recently Liked-Saved-Tipped (一键三连的) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
 - [须弥的月亮VS逃跑的太阳](https://www.bilibili.com/video/BV11a411G7Ef)
