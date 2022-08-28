@@ -94,11 +94,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 ### Recently Liked-Saved-Tipped (一键三连的) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [注：版本一定要低](https://www.bilibili.com/video/BV1FB4y187YK)
+- [【崩坏3】人之律者宿舍对话合集。爱莉希雅超级可爱～](https://www.bilibili.com/video/BV1dt4y1J7Sm)
 - [【乐土姛】105°的心去热爱这个冰冷的世界](https://www.bilibili.com/video/BV1ot4y1J7xS)
 - [“请让我拐走这三位”](https://www.bilibili.com/video/BV1rg41167V1)
 - [须弥的月亮VS逃跑的太阳](https://www.bilibili.com/video/BV11a411G7Ef)
-- [哇，雷神的人設……](https://www.bilibili.com/video/BV1TB4y157ZX)
-- [【原神三渲二动画】可莉的夏日大冒险！](https://www.bilibili.com/video/BV1KS4y1x7wy)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
