@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187013942-a396152e-0849-4b94-8625-ebb8db46ce74.GIF" width="50%"/>
 
-<img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/> Welome to Jack (Jiaqi)'s GitHub Page <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/>
+<img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/> Welome to Jack (Jiaqi)'s Tech Zone <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/>
 ========================================================================================================================================
 
 </div>
