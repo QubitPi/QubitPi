@@ -115,6 +115,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [《原神》拾枝杂谈-「柯莱：碧野晴翠」](https://ys.mihoyo.com/main/news/detail/22326)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
+### My YouTube Channel
+
+<!-- YOUTUBE-CHANNEL:START -->
+<!-- YOUTUBE-CHANNEL:END -->
+
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/185602652-3539dc68-8049-44d7-aeb5-6e4ff3644c3f.png">
