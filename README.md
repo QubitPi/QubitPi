@@ -9,8 +9,6 @@
 
 [ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://bbs.mihoyo.com/ys/accountCenter/postList?id=290629733)
 
-[ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white
-) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/jack20191124/)
 [ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/jack20191124)
 [ ![Pixiv](https://img.shields.io/badge/Pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white) ](https://www.pixiv.net/en/users/84713678)
@@ -115,7 +113,7 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [《原神》拾枝杂谈-「柯莱：碧野晴翠」](https://ys.mihoyo.com/main/news/detail/22326)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
-### My YouTube Channel
+### My YouTube Channel [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
 
 <!-- YOUTUBE-CHANNEL:START -->
 - [Guyun Stone Forest always reminds me of the 2022 Summer Fantasia Event](https://www.youtube.com/watch?v=CYzmvCc_XQU)
