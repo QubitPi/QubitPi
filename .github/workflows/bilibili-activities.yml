@@ -49,3 +49,13 @@ jobs:
           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
+  columns:
+    name: Columns
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BILIBILI-COLUMNS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/bilibili/user/article/1771839550"    
