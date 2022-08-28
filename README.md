@@ -69,12 +69,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
 
-### Recent Uploads
-
-<!-- BILIBILI-UPLOAD-LIST:START -->
-- [小宝 我又来找你玩啦～](https://www.bilibili.com/video/BV1PG411t79N)
-- [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://www.bilibili.com/video/BV1eV4y1W7KP)
-- [【为即将到来的心海打圣遗物的日常】沉眠之庭 原声版](https://www.bilibili.com/video/BV1814y1x7WA)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Recent Activities
@@ -87,10 +81,17 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [#UP主里程碑# 我解锁了新的里程碑！](https://t.bilibili.com/694864750025113621)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
+### Recent Uploads
+
+<!-- BILIBILI-UPLOAD-LIST:START -->
+- [小宝 我又来找你玩啦～](https://www.bilibili.com/video/BV1PG411t79N)
+- [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://www.bilibili.com/video/BV1eV4y1W7KP)
+- [【为即将到来的心海打圣遗物的日常】沉眠之庭 原声版](https://www.bilibili.com/video/BV1814y1x7WA)
+
+### Columns
+
 <!-- BILIBILI-COLUMNS:START -->
 <!-- BILIBILI-COLUMNS:END -->
-
-
 
 ### Recently Liked-Saved-Tipped (一键三连的) Videos
 
