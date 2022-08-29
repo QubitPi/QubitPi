@@ -106,11 +106,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 ### Latest Genshin Impact News
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [必胜客×原神联动定格动画-「必胜邀约，风起之旅」](https://ys.mihoyo.com/main/news/detail/22436)
 - [《原神》过场动画-「花神之舞」](https://ys.mihoyo.com/main/news/detail/22410)
 - [提瓦特美食札记 | “小聚。”——凝光生日快乐！](https://ys.mihoyo.com/main/news/detail/22406)
 - [凝光生日快乐｜而更加让人高兴的是，赠予我这份礼物的人是你。](https://ys.mihoyo.com/main/news/detail/22396)
 - [《原神》「碧野林踪」须弥主题摄影活动今日开启](https://ys.mihoyo.com/main/news/detail/22327)
-- [《原神》拾枝杂谈-「柯莱：碧野晴翠」](https://ys.mihoyo.com/main/news/detail/22326)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 ### My YouTube Channel [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
