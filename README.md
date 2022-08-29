@@ -91,7 +91,7 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [孤云阁 F4 初级打法](https://www.bilibili.com/read/cv18323080)
 <!-- BILIBILI-COLUMNS:END -->
 
-### Recently Liked-Saved-Tipped (一键三连的) Videos
+### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
 - [必胜客×原神联动定格动画-「必胜邀约，风起之旅」](https://www.bilibili.com/video/BV1fd4y137JR)
