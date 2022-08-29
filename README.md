@@ -94,11 +94,11 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [甘 雨 晕 倒 啦](https://www.bilibili.com/video/BV1ZU4y167HQ)
 - [必胜客×原神联动定格动画-「必胜邀约，风起之旅」](https://www.bilibili.com/video/BV1fd4y137JR)
 - [注：版本一定要低](https://www.bilibili.com/video/BV1FB4y187YK)
 - [【崩坏3】人之律者宿舍对话合集。爱莉希雅超级可爱～](https://www.bilibili.com/video/BV1dt4y1J7Sm)
 - [【乐土姛】105°的心去热爱这个冰冷的世界](https://www.bilibili.com/video/BV1ot4y1J7xS)
-- [“请让我拐走这三位”](https://www.bilibili.com/video/BV1rg41167V1)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
