@@ -225,11 +225,11 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
+- [What is WebGL](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/web-gl.html)
 - [Including Files in Source Distributions with MANIFEST.in](https://qubitpi.github.io/jersey-guide/finalized/2022/08/25/python-manifest-in.html)
 - [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 - [Introduction to ReactiveX Java - RxJava](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/reactivex-java.html)
 - [What is HDFS Namespace](https://qubitpi.github.io/jersey-guide/finalized/2022/08/18/hdfs-namespace.html)
-- [Using a GitHub Action Matrix to Define Variations for Each Job](https://qubitpi.github.io/jersey-guide/finalized/2022/08/06/github-matrix.html)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
