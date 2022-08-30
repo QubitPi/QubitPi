@@ -227,7 +227,7 @@ New Tech Blogs
 --------------
 
 <!-- BLOG-POST-LIST:START -->
-- [What is WebGL](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/web-gl.html)
+- [WebGL Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/web-gl.html)
 - [Including Files in Source Distributions with MANIFEST.in](https://qubitpi.github.io/jersey-guide/finalized/2022/08/25/python-manifest-in.html)
 - [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 - [Introduction to ReactiveX Java - RxJava](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/reactivex-java.html)
