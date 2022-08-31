@@ -297,9 +297,7 @@ Git Data Analytics
 <br>
 <br>
 <br>
-<img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-design.svg" alt="Metrics" width="47%">
-<br>
-<img align="right" src="/github-metrics-starlists-openstack-graphql-virtualization.svg" alt="Metrics" width="47%">
+<img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 
 <div align="center">
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
