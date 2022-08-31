@@ -297,6 +297,9 @@ Git Data Analytics
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 
 <div align="center">
