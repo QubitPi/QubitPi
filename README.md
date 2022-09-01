@@ -48,7 +48,12 @@
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are a group of promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）. Please join us if you are one of
 
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
+<div align="right">
+<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187888887-46e6606d-850a-4d02-b0a0-af073dbc75d2.png">
+</a>
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
+</div>
 
 1. Bilibilist with the style of the followings (酱紫的 B 站 UP 主)
 
@@ -69,8 +74,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
-
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
 
 ### Recent Activities
 
@@ -132,12 +135,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
 <!-- YOUTUBE-CHANNEL:END -->
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/185602652-3539dc68-8049-44d7-aeb5-6e4ff3644c3f.png">
-</a>
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
-</div>
+<img align="left" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
+<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in [Design](https://www.behance.net/jack20191124) and [Persuasion](https://trello.com/b/Ce84JiYh).
 
