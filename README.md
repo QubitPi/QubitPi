@@ -67,7 +67,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 ---
 
-My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
+My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
 
 <img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
@@ -122,7 +122,7 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [提瓦特美食札记 | “小聚。”——凝光生日快乐！](https://ys.mihoyo.com/main/news/detail/22406)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
-### My YouTube Channel [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
+### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
 <!-- YOUTUBE-CHANNEL:START -->
 - [Guyun Stone Forest always reminds me of the 2022 Summer Fantasia Event](https://www.youtube.com/watch?v=CYzmvCc_XQU)
