@@ -3,8 +3,6 @@
 <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/> Welome to Jack (Jiaqi)'s Tech Zone <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/>
 ========================================================================================================================================
 
-![Profile views](https://gpvc.arturio.dev/QubitPi)
-
 </div>
 
 [ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://bbs.mihoyo.com/ys/accountCenter/postList?id=290629733)
@@ -317,6 +315,15 @@ Git Data Analytics
 <br>
 <br>
 <br>
+
+<div align="center">
+![Profile views](https://gpvc.arturio.dev/QubitPi)
+
+<a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">那条让三蹦子刀掉爱莉希雅的狗，胡堂主今天就送你往生 :)
+</a>
+</div>
+
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 
 <div align="center">
