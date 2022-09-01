@@ -162,16 +162,13 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ---
 
-> I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
->
-><p align="center">
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
->    <img align="center" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
+>    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
 ></a>
-></p>
 >
-><p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">海螺张</a></p> 
->
+> I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
+> <br>
+> <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
 <div align="center">
