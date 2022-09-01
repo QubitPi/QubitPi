@@ -48,14 +48,12 @@
 
 My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://github.com/stealth-tech-startup). We are a group of promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）. Please join us if you are one of
 
-<div align="right">
+1. Bilibilist with the style of the followings (酱紫的 B 站 UP 主)
+
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187888887-46e6606d-850a-4d02-b0a0-af073dbc75d2.png">
+    <img align="right" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187888887-46e6606d-850a-4d02-b0a0-af073dbc75d2.png">
 </a>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
-</div>
-
-1. Bilibilist with the style of the followings (酱紫的 B 站 UP 主)
 
 <ul>
 <!-- BILIBILI-FOLLWOING:START --><li><a href=https://space.bilibili.com/55434671>阿灯不太亮</a></li><li><a href=https://space.bilibili.com/6699767>未未昭</a></li><li><a href=https://space.bilibili.com/89433414>我是小狄xiaodi</a></li><li><a href=https://space.bilibili.com/23945810>爱抽卡的白熊</a></li><li><a href=https://space.bilibili.com/21123321>小伞听雨Misaki</a></li><li><a href=https://space.bilibili.com/401742377>原神</a></li><!-- BILIBILI-FOLLWOING:END -->
