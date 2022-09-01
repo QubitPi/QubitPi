@@ -230,8 +230,10 @@ My Open Source Projects [ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cl
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
 
-Blogs on Tech Management Topics
--------------------------------
+My Tech Blogs
+-------------
+
+### Tech Management Topics
 
 <!-- MGMT-BLOG-POST-LIST:START -->
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
@@ -239,8 +241,7 @@ Blogs on Tech Management Topics
 
 ![可莉](https://user-images.githubusercontent.com/16126939/187835041-024a892f-58fc-45a3-a717-8a10f41d0c60.PNG)
 
-New Tech Blogs
---------------
+### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Git - Working with Remotes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/01/git-remote.html)
@@ -256,9 +257,7 @@ New Tech Blogs
 </a>
 </div>
 
-
-WIP Tech Blogs
---------------
+### WIP Tech Blogs
 
 <!-- WIP-BLOG-POST-LIST:START -->
 - [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
