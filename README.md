@@ -230,6 +230,7 @@ Blogs on Tech Management Topics
 <!-- MGMT-BLOG-POST-LIST:START -->
 <!-- MGMT-BLOG-POST-LIST:END -->
 
+![可莉](https://user-images.githubusercontent.com/16126939/187835041-024a892f-58fc-45a3-a717-8a10f41d0c60.PNG)
 
 New Tech Blogs
 --------------
