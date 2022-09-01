@@ -79,6 +79,8 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 - [#UP主里程碑# 我解锁了新的里程碑！](https://t.bilibili.com/694864750025113621)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/187872966-88068925-5163-4d70-ab8b-1dcd879022f6.gif">
+
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
