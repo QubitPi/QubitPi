@@ -97,11 +97,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [【原神幼儿园】小猫刻晴的鬼兜虫](https://www.bilibili.com/video/BV1ZW4y1t7U1)
+- [圣芙蕾雅宿舍的小比赛](https://www.bilibili.com/video/BV1pa411R7B9)
 - [【原神配音】甘 雨 晕 倒 啦](https://www.bilibili.com/video/BV1dP411G7EU)
 - [甘 雨 晕 倒 啦](https://www.bilibili.com/video/BV1ZU4y167HQ)
 - [必胜客×原神联动定格动画-「必胜邀约，风起之旅」](https://www.bilibili.com/video/BV1fd4y137JR)
-- [注：版本一定要低](https://www.bilibili.com/video/BV1FB4y187YK)
-- [【崩坏3】人之律者宿舍对话合集。爱莉希雅超级可爱～](https://www.bilibili.com/video/BV1dt4y1J7Sm)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
