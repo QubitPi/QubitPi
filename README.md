@@ -51,7 +51,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="right" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187888887-46e6606d-850a-4d02-b0a0-af073dbc75d2.png">
 </a>
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
 
 <ul>
 <!-- BILIBILI-FOLLWOING:START --><li><a href=https://space.bilibili.com/55434671>阿灯不太亮</a></li><li><a href=https://space.bilibili.com/6699767>未未昭</a></li><li><a href=https://space.bilibili.com/89433414>我是小狄xiaodi</a></li><li><a href=https://space.bilibili.com/23945810>爱抽卡的白熊</a></li><li><a href=https://space.bilibili.com/21123321>小伞听雨Misaki</a></li><li><a href=https://space.bilibili.com/401742377>原神</a></li><!-- BILIBILI-FOLLWOING:END -->
@@ -151,7 +150,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ---
 
-My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
+### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 
 <!-- DESIGN-POST-LIST:START -->
 - [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
