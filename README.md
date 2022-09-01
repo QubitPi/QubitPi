@@ -49,7 +49,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 1. Bilibilist with the style of the followings (酱紫的 B 站 UP 主)
 
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="right" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187888887-46e6606d-850a-4d02-b0a0-af073dbc75d2.png">
+    <img align="left" width="18%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/187895355-ea5ca77e-be73-474a-88d8-75d0f93d3ee7.png">
 </a>
 
 <ul>
