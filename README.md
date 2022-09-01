@@ -133,6 +133,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
 <!-- YOUTUBE-CHANNEL:END -->
 
+<div align="center">
 <img align="left" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 <img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
 
@@ -145,6 +146,7 @@ I'm thriving on creating a future where people never dominate the machine and ma
 [![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white)]()
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
 [![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu9HmBVDn_v9YP-y0YjkgrhA)
+</div>
 
 <!-- DESIGN-POST-LIST:START -->
 - [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
