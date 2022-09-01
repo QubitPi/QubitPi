@@ -56,7 +56,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 <!-- BILIBILI-FOLLWOING:START --><li><a href=https://space.bilibili.com/55434671>阿灯不太亮</a></li><li><a href=https://space.bilibili.com/6699767>未未昭</a></li><li><a href=https://space.bilibili.com/89433414>我是小狄xiaodi</a></li><li><a href=https://space.bilibili.com/23945810>爱抽卡的白熊</a></li><li><a href=https://space.bilibili.com/21123321>小伞听雨Misaki</a></li><li><a href=https://space.bilibili.com/401742377>原神</a></li><!-- BILIBILI-FOLLWOING:END -->
 </ul>
 
-
 2. Frontend/Backend friends with <a href="https://genshin-impact.fandom.com/wiki/Pyro"><img width="24px" alt="火元素神之眼" src="https://user-images.githubusercontent.com/16126939/185541227-cdd13814-76f6-4e16-9977-9cad0ffe612e.png"></a>
 
 <div align="center">
@@ -70,6 +69,8 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
+
+<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
 
 ### Recent Activities
 
