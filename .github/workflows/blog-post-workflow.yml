@@ -15,6 +15,16 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed/FINALIZED.xml"
+  MGMT-blogs:
+    name: Update this repos README with MGMT blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MGMT-BLOG-POST-LIST"
+          max_post_count: "5"
+          feed_list: "https://qubitpi.github.io/jersey-guide/feed/MANAGEMENT.xml"
   WIP-blogs:
     name: Update this repos README with WIP blog posts
     runs-on: ubuntu-latest
