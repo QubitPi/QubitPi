@@ -223,6 +223,14 @@ Open Source Projects
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
+
+Blogs on Tech Management Topics
+-------------------------------
+
+<!-- MGMT-BLOG-POST-LIST:START -->
+<!-- MGMT-BLOG-POST-LIST:END -->
+
+
 New Tech Blogs
 --------------
 
@@ -237,6 +245,7 @@ New Tech Blogs
 <a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width="47%" alt="三蹦子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">那条让三蹦子刀掉爱莉希雅的狗，胡堂主今天就送你往生 :)
 </a>
+
 
 WIP Tech Blogs
 --------------
