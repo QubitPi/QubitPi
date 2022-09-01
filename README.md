@@ -183,14 +183,8 @@ My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&l
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 
-Open Source Projects
+My Open Source Projects [ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![Observable ](https://img.shields.io/badge/Observable-1C1C1C?style=for-the-badge&logo=Observable&logoColor=white) ](https://observablehq.com/@jack20220723)
 --------------------
-
-[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)
-[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white
-) ](https://hub.docker.com/r/jack20191124/)
-[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)
-[ ![Observable ](https://img.shields.io/badge/Observable-1C1C1C?style=for-the-badge&logo=Observable&logoColor=white) ](https://observablehq.com/@jack20220723)
 
 [![QubitPi's github activity graph](https://qubitpi-activity-graph.herokuapp.com/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2022)
 
