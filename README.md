@@ -1,7 +1,5 @@
 <div align="center">
 
-<img align="center" src="https://user-images.githubusercontent.com/16126939/187013942-a396152e-0849-4b94-8625-ebb8db46ce74.GIF" width="50%"/>
-
 <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/> Welome to Jack (Jiaqi)'s Tech Zone <img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/>
 ========================================================================================================================================
 
@@ -132,6 +130,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Trump Part 13 - Medicare and Social Security &amp; Closing Statements] The Third Presidential Debate](https://www.youtube.com/watch?v=e3IqN8mc-0Q)
 - [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
 <!-- YOUTUBE-CHANNEL:END -->
+
+<img align="center" src="https://user-images.githubusercontent.com/16126939/187013942-a396152e-0849-4b94-8625-ebb8db46ce74.GIF" width="50%"/>
 
 <div align="center">
 <img align="left" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
