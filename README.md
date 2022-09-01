@@ -107,9 +107,9 @@ My Bilibili [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for
 
 ---
 
-### Latest Genshin Impact News
-
 <img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/187879546-c846a0f4-c65d-4cf9-bead-570cb2a60d72.gif">
+
+### Latest Genshin Impact News
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
 - [莫娜生日快乐｜这是送我的典藏版占星书籍？](https://ys.mihoyo.com/main/news/detail/22450)
