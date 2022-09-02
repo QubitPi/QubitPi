@@ -243,6 +243,7 @@ My Tech Blogs
 > **You cannot force employees to bear with the rules and request their proactivity because in most cases that's against their natural willings. This is when management comes into play**. OpenSourcing is one example, where it creates a quality-focused culture within a team and, by using an open development model, helps organization to create more stable, secure, and innovative technologies that push the boundaries of technological ability. Tech management is not an end itself; it's imply a mean or tool.
 
 <!-- MGMT-BLOG-POST-LIST:START -->
+- [Managing Tech Assets - Is a Common Library a Good Idea? No](https://qubitpi.github.io/jersey-guide/management/2022/09/02/managing-tech-assets-common-lib-or-not.html)
 - [Developing a Strategy for Organization’s Open Source Project](https://qubitpi.github.io/jersey-guide/management/2022/09/02/oss-strategies.html)
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
