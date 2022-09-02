@@ -184,6 +184,12 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 My Open Source Projects [ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![Observable ](https://img.shields.io/badge/Observable-1C1C1C?style=for-the-badge&logo=Observable&logoColor=white) ](https://observablehq.com/@jack20220723)
 --------------------
 
+I belive in creating software using the open source way, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. This philosophy affects everything my group do in Tech Industry as most of today’s IT leaders, who agree that enterprise open source is important, do
+
+Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty to stury and learn developing open projects and technologies, protect and defend open source intellectual property, and recruit developers who actively participate in open projects across the IT stack. This experience helps inform our development model to produce more innovative, iterative, stable, and secure technologies.
+
+By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
+
 [![QubitPi's github activity graph](https://qubitpi-activity-graph.herokuapp.com/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2022)
 
 ### Creator
