@@ -232,6 +232,8 @@ My Tech Blogs
 
 ### Tech Management Topics
 
+**You cannot force employees to bear with the rule and request their proactivity because in most cases that's against their natural willings. That's when management comes into play**.
+
 <!-- MGMT-BLOG-POST-LIST:START -->
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
