@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Latest Genshin Impact News
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [「我爱摩拉，摩拉爱我，啦啦啦。」——「梦园藏金」·多莉](https://ys.mihoyo.com/main/news/detail/22454)
+- [《原神》角色演示-「多莉：多谢惠顾！」](https://ys.mihoyo.com/main/news/detail/22455)
+- [摩拉多多，快乐多多！](https://ys.mihoyo.com/main/news/detail/21786)
 - [莫娜生日快乐｜这是送我的典藏版占星书籍？](https://ys.mihoyo.com/main/news/detail/22450)
 - [《原神》「秘宝迷踪」活动即将开启](https://ys.mihoyo.com/main/news/detail/22449)
-- [必胜客×原神联动定格动画-「必胜邀约，风起之旅」](https://ys.mihoyo.com/main/news/detail/22436)
-- [《原神》过场动画-「花神之舞」](https://ys.mihoyo.com/main/news/detail/22410)
-- [提瓦特美食札记 | “小聚。”——凝光生日快乐！](https://ys.mihoyo.com/main/news/detail/22406)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
