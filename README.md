@@ -238,7 +238,9 @@ My Tech Blogs
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
-![可莉](https://user-images.githubusercontent.com/16126939/187835041-024a892f-58fc-45a3-a717-8a10f41d0c60.PNG)
+<div align="center">
+    <img align="center" src="https://user-images.githubusercontent.com/16126939/187835041-024a892f-58fc-45a3-a717-8a10f41d0c60.PNG">
+</div>
 
 ### New Tech Blogs
 
