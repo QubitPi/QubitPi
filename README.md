@@ -97,11 +97,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [丘宝玩的好极限啊](https://www.bilibili.com/video/BV1GT411E7sp)
+- [疑似部分英杰死亡真像](https://www.bilibili.com/video/BV1qa411o7fm)
 - [草神带带我](https://www.bilibili.com/video/BV1MY4y1g7ew)
 - [《原神》角色演示-「多莉：多谢惠顾！」](https://www.bilibili.com/video/BV15V4y1p7E9)
 - [【原神幼儿园】小猫刻晴的鬼兜虫](https://www.bilibili.com/video/BV1ZW4y1t7U1)
-- [圣芙蕾雅宿舍的小比赛](https://www.bilibili.com/video/BV1pa411R7B9)
-- [【原神配音】甘 雨 晕 倒 啦](https://www.bilibili.com/video/BV1dP411G7EU)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
