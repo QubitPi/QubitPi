@@ -307,6 +307,10 @@ My Coffe-Morning Tech News Central
 <!-- GRAPHQL-ARTICLES:START -->
 <!-- GRAPHQL-ARTICLES:END -->
 
+#### Open Source Tools
+
+<!-- GRAPHQL-OPEN-SOURCE-TOOLS:START -->
+<!-- GRAPHQL-OPEN-SOURCE-TOOLS:END -->
 
 Git Data Analytics
 ------------------
