@@ -150,8 +150,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
-
 <!-- DESIGN-POST-LIST:START -->
 - [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
 - [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
@@ -291,6 +289,8 @@ My Coffe-Morning Tech News Central
 ----------------------------------
 
 ### ArangoDB
+
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 #### Blogs
 
