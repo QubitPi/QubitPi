@@ -16,14 +16,16 @@ jobs:
         with:
           comment_tag_name: "ARANGO-BLOGS"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/5SQL0m1CKgRawrVg.xml"
-  arangodb-news:
-    name: Latest ArangoDB News
+          feed_list: "https://rss.app/feeds/bdCFMzjmoEksTEBm.xml"
+          
+  graphql-articles:
+    name: GraphQL Articles
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "ARANGO-NEWS"
+          comment_tag_name: "GRAPHQL-ARTICLES"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/TnXL50GKn7yQkZTD.xml"
+          feed_list: "https://rss.app/feeds/LQmI4wG7TV4KI9fW.xml"
+          
