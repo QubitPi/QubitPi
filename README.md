@@ -305,6 +305,11 @@ My Coffe-Morning Tech News Central
 #### News
 
 <!-- ARANGO-NEWS:START -->
+- [ArangoDB Appoints New Chief Executive Officer to Drive Next Phase of Growth](https://www.arangodb.com/news/arangodb-appoints-new-chief-executive-officer-to-drive-next-phase-of-growth/)
+- [ArangoDB Further Powers Graph at Scale with Release of ArangoDB 3.9](https://www.arangodb.com/news/arangodb-further-powers-graph-at-scale-with-release-of-arangodb-3-9/)
+- [ArangoDB Announces $27.8 Million Series B Investment to Accelerate Development of Next-Generation Graph ML, Providing Advanced Analytics and AI Capabilities at Enterprise Scale](https://www.arangodb.com/news/arangodb-announces-27-8-million-series-b-investment-to-accelerate-development-of-next-generation-graph-ml-capabilities/)
+- [ArangoDB Supports Analytics at Scale with Release of ArangoDB 3.8](https://www.arangodb.com/news/arangodb-supports-analytics-at-scale-with-release-of-arangodb-3-8/)
+- [ArangoDB Strengthens Executive Team with New Chief Revenue Officer and Chief Technology Officer](https://www.arangodb.com/news/arangodb-strengthens-executive-team-with-new-chief-revenue-officer-and-chief-technology-officer/)
 <!-- ARANGO-NEWS:END -->
 
 Git Data Analytics
