@@ -255,11 +255,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Graphs through Arango Command Line](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
 - [ArangoDB Query Language &lpar;AQL&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
 - [Git - Working with Remotes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/01/git-remote.html)
 - [React Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 - [WebGL Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/web-gl.html)
-- [Including Files in Source Distributions with MANIFEST.in](https://qubitpi.github.io/jersey-guide/finalized/2022/08/25/python-manifest-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
