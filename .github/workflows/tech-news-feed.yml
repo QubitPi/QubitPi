@@ -28,4 +28,13 @@ jobs:
           comment_tag_name: "GRAPHQL-ARTICLES"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/LQmI4wG7TV4KI9fW.xml"
-          
+  graphql-tools:
+    name: GraphQL Open Source Tools
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GRAPHQL-OPEN-SOURCE-TOOLS"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/Hk29x0YZp5Bhps0V.xml"        
