@@ -302,25 +302,8 @@ My Coffe-Morning Tech News Central
 
 ### GraphQL
 
-#### Articles
-
-<!-- GRAPHQL-ARTICLES:START -->
-<!-- GRAPHQL-ARTICLES:END -->
-
-#### Open Source Tools
-
-<!-- GRAPHQL-OPEN-SOURCE-TOOLS:START -->
-<!-- GRAPHQL-OPEN-SOURCE-TOOLS:END -->
-
-#### Videos
-
-<!-- GRAPHQL-VIDEOS:START -->
-<!-- GRAPHQL-VIDEOS:END -->
-
-#### Podcasts & Shows
-
-<!-- GRAPHQL-PODCASTS-AND-SHOWS:START -->
-<!-- GRAPHQL-PODCASTS-AND-SHOWS:END -->
+<!-- GRAPHQL-TWITTER:START -->
+<!-- GRAPHQL-TWITTER:END -->
 
 Git Data Analytics
 ------------------
