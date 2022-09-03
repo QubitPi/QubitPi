@@ -290,7 +290,7 @@ My Tech Blogs
 My Coffe-Morning Tech News Central
 ----------------------------------
 
-### ArangoDB
+### ArangoDB Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
@@ -302,7 +302,7 @@ My Coffe-Morning Tech News Central
 - [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://www.arangodb.com/2022/04/arangodb-newsletter-143/)
 <!-- ARANGO-BLOGS:END -->
 
-#### Featured Blog Posts
+#### [Learn ArangoDB] Featured Blog Posts
 
 * [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/wip/2022/09/03/ml-arango.html)
 * [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
