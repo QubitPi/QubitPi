@@ -302,6 +302,13 @@ My Coffe-Morning Tech News Central
 - [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://www.arangodb.com/2022/04/arangodb-newsletter-143/)
 <!-- ARANGO-BLOGS:END -->
 
+### Featured Blog Posts
+
+* [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/wip/2022/09/03/ml-arango.html)
+* [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
+* [Managing Graphs through Arango Command Line](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
+* [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
+
 ### GraphQL
 
 <!-- GRAPHQL-TWITTER:START -->
