@@ -286,6 +286,15 @@ My Tech Blogs
 </p>
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">苏帕帕瓦</a> </p>
 
+
+My Coffe-Morning Tech News Central
+----------------------------------
+
+### ArangoDB
+
+
+
+
 Git Data Analytics
 ------------------
 
