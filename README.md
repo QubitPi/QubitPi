@@ -312,6 +312,11 @@ My Coffe-Morning Tech News Central
 <!-- GRAPHQL-OPEN-SOURCE-TOOLS:START -->
 <!-- GRAPHQL-OPEN-SOURCE-TOOLS:END -->
 
+#### Videos
+
+<!-- GRAPHQL-VIDEOS:START -->
+<!-- GRAPHQL-VIDEOS:END -->
+
 Git Data Analytics
 ------------------
 
