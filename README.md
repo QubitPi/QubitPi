@@ -271,6 +271,7 @@ My Tech Blogs
 ### WIP Tech Blogs
 
 <!-- WIP-BLOG-POST-LIST:START -->
+- [Graph Analytics &amp;amp; Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/wip/2022/09/03/ml-arango.html)
 - [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
 - [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/wip/2022/08/11/linear-algebra.html)
 - [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/wip/2022/08/09/artificial-neural-networks.html)
