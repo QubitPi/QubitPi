@@ -292,8 +292,6 @@ My Coffe-Morning Tech News Central
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
-#### Blogs
-
 <!-- ARANGO-BLOGS:START -->
 - [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://www.arangodb.com/2022/08/arangodb-newsletter-146/)
 - [July 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: July 2022](https://www.arangodb.com/2022/07/arangodb-newsletter-145/)
@@ -302,15 +300,13 @@ My Coffe-Morning Tech News Central
 - [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://www.arangodb.com/2022/04/arangodb-newsletter-143/)
 <!-- ARANGO-BLOGS:END -->
 
-#### News
+### GraphQL
 
-<!-- ARANGO-NEWS:START -->
-- [ArangoDB Appoints New Chief Executive Officer to Drive Next Phase of Growth](https://www.arangodb.com/news/arangodb-appoints-new-chief-executive-officer-to-drive-next-phase-of-growth/)
-- [ArangoDB Further Powers Graph at Scale with Release of ArangoDB 3.9](https://www.arangodb.com/news/arangodb-further-powers-graph-at-scale-with-release-of-arangodb-3-9/)
-- [ArangoDB Announces $27.8 Million Series B Investment to Accelerate Development of Next-Generation Graph ML, Providing Advanced Analytics and AI Capabilities at Enterprise Scale](https://www.arangodb.com/news/arangodb-announces-27-8-million-series-b-investment-to-accelerate-development-of-next-generation-graph-ml-capabilities/)
-- [ArangoDB Supports Analytics at Scale with Release of ArangoDB 3.8](https://www.arangodb.com/news/arangodb-supports-analytics-at-scale-with-release-of-arangodb-3-8/)
-- [ArangoDB Strengthens Executive Team with New Chief Revenue Officer and Chief Technology Officer](https://www.arangodb.com/news/arangodb-strengthens-executive-team-with-new-chief-revenue-officer-and-chief-technology-officer/)
-<!-- ARANGO-NEWS:END -->
+#### Articles
+
+<!-- GRAPHQL-ARTICLES:START -->
+<!-- GRAPHQL-ARTICLES:END -->
+
 
 Git Data Analytics
 ------------------
