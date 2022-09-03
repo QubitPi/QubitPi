@@ -292,8 +292,15 @@ My Coffe-Morning Tech News Central
 
 ### ArangoDB
 
+#### Blogs
 
+<!-- ARANGO-BLOGS:START -->
+<!-- ARANGO-BLOGS:END -->
 
+#### News
+
+<!-- ARANGO-NEWS:START -->
+<!-- ARANGO-NEWS:END -->
 
 Git Data Analytics
 ------------------
