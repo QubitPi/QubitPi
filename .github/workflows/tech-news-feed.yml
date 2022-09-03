@@ -38,3 +38,13 @@ jobs:
           comment_tag_name: "GRAPHQL-OPEN-SOURCE-TOOLS"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/Hk29x0YZp5Bhps0V.xml"        
+  graphql-videos:
+    name: GraphQL Videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GRAPHQL-VIDEOS"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/wP0ufE2r7LbpuF3W.xml"
