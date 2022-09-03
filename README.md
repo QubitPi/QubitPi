@@ -150,6 +150,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 
+<img align="left" width="25%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/188262476-e37e14db-ae58-44aa-b029-eddd58f74cdf.png">
+
 <!-- DESIGN-POST-LIST:START -->
 - [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
 - [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
