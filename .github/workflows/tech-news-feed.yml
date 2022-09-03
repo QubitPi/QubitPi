@@ -1,0 +1,29 @@
+
+name: Tech News Feed
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  arangodb-blogs:
+    name: Latest ArangoDB Blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "ARANGO-BLOGS"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/5SQL0m1CKgRawrVg.xml"
+  arangodb-news:
+    name: Latest ArangoDB News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "ARANGO-NEWS"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/TnXL50GKn7yQkZTD.xml"
