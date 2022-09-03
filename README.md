@@ -361,7 +361,7 @@ Git Data Analytics
 
 ![Profile views](https://gpvc.arturio.dev/QubitPi)
 
-<a href="https://www.bilibili.com/video/BV15v4y137C4?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+<a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
 </a>
 </div>
