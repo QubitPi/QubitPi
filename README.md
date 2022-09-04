@@ -83,9 +83,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/187872966-88068925-5163-4d70-ab8b-1dcd879022f6.gif">
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
+- [论团队协作的重要性](https://www.bilibili.com/video/BV1hB4y1g7Jp)
 - [小宝 我又来找你玩啦～](https://www.bilibili.com/video/BV1PG411t79N)
 - [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://www.bilibili.com/video/BV1eV4y1W7KP)
-- [【为即将到来的心海打圣遗物的日常】沉眠之庭 原声版](https://www.bilibili.com/video/BV1814y1x7WA)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Columns
