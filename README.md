@@ -255,11 +255,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 - [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
+- [Bill of Materials &lpar;BOM&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/maven-bom.html)
 - [ArangoDB Graphs](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
 - [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
-- [ArangoDB Query Language &lpar;AQL&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
-- [Git - Working with Remotes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/01/git-remote.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
