@@ -325,6 +325,7 @@ My Coffe-Morning Tech News Central
 #### Study Notes
 
 * [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
+* [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 
 Git Data Analytics
 ------------------
