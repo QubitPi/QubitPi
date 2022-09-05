@@ -257,9 +257,9 @@ My Tech Blogs
 <!-- BLOG-POST-LIST:START -->
 - [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 - [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
+- [JavaScript Classes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/javascript-class.html)
 - [Bill of Materials &lpar;BOM&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/maven-bom.html)
 - [ArangoDB Graphs](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
-- [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
