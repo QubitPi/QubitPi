@@ -348,7 +348,7 @@ My Coffee-Morning Tech News Central
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
 
 <!-- OPENSTACK-TWITTER:START -->
-- [cloud](https://twitter.com/OpenStack/status/1565749346066464770)
+- [RT Virtuozzo: We’re excited to announce that Virtuozzo is now part of the @OpenStack Marketplace – and even better, our US cloud partner @sharktechn...](https://twitter.com/VirtuozzoInc/status/1566787310682767360)
 - [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
 - [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
 - [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
