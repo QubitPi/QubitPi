@@ -322,6 +322,10 @@ My Coffe-Morning Tech News Central
 - [@GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉After all the great feedback from the community, we&#39;ve incorporated changes around theming, usability, and extensibility.Let us know what you think:](https://twitter.com/GraphiQL/status/1508062921766674439)
 <!-- GRAPHQL-TWITTER:END -->
 
+#### Study Notes
+
+* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
+
 Git Data Analytics
 ------------------
 
