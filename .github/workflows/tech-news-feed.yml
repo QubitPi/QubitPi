@@ -28,43 +28,13 @@ jobs:
           comment_tag_name: "GRAPHQL-TWITTER"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/Hbb351sStDtxVV2R.xml"
-#   graphql-articles:
-#     name: GraphQL Articles
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "GRAPHQL-ARTICLES"
-#           max_post_count: "5"
-#           feed_list: "https://rss.app/feeds/LQmI4wG7TV4KI9fW.xml"
-#   graphql-tools:
-#     name: GraphQL Open Source Tools
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "GRAPHQL-OPEN-SOURCE-TOOLS"
-#           max_post_count: "5"
-#           feed_list: "https://rss.app/feeds/Hk29x0YZp5Bhps0V.xml"        
-#   graphql-videos:
-#     name: GraphQL Videos
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "GRAPHQL-VIDEOS"
-#           max_post_count: "5"
-#           feed_list: "https://rss.app/feeds/wP0ufE2r7LbpuF3W.xml"
-#   graphql-podcasts-and-shows:
-#     name: GraphQL Podcasts and Shows
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "GRAPHQL-PODCASTS-AND-SHOWS"
-#           max_post_count: "5"
-#           feed_list: "https://rss.app/feeds/n7Hckm57qjWpooET.xml"
+  openstack-twitter:
+    name: OpenStack Twitter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "OPENSTACK-TWITTER"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/twitter/user/OpenStack"
