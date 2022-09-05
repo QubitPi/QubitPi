@@ -333,6 +333,10 @@ My Coffe-Morning Tech News Central
 
 ### OpenStack
 
+#### Twitter
+
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
+
 <!-- OPENSTACK-TWITTER:START -->
 - [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
 - [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
