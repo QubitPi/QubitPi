@@ -305,7 +305,7 @@ My Coffe-Morning Tech News Central
 
 #### Study Notes
 
-* [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/wip/2022/09/03/ml-arango.html)
+* [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
 * [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
 * [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
 * [Managing Graphs through Arango Command Line](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
