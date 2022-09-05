@@ -97,11 +97,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [有种谁也看不惯谁的感觉](https://www.bilibili.com/video/BV1Ra411G7N6)
 - [【原神手书】须弥开放之后，各地丘丘的现状，旅行者们有多久没去过蒙德了？](https://www.bilibili.com/video/BV1fY4y1u7cp)
 - [“儿童”“乐”园](https://www.bilibili.com/video/BV1RK411Z7y6)
 - [多莉掉进黄金屋](https://www.bilibili.com/video/BV1za41137do)
 - [【原神动画】荧：这玩意比弓箭好用多了](https://www.bilibili.com/video/BV1fG4y167VZ)
-- [6.0新增 人律和格蕾修的家园对话](https://www.bilibili.com/video/BV1hT411c78D)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
