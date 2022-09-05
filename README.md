@@ -291,6 +291,11 @@ My Coffe-Morning Tech News Central
 
 ### ArangoDB
 
+#### Twitter
+
+<!-- ARANGO-TWITTER:START -->
+<!-- ARANGO-TWITTER:END -->
+
 #### Official Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
