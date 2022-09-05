@@ -310,6 +310,7 @@ My Coffe-Morning Tech News Central
 * [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
 * [Managing Graphs through Arango Command Line](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
+* [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 
 ### GraphQL
 
