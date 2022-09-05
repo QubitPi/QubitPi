@@ -330,6 +330,11 @@ My Coffe-Morning Tech News Central
 ### OpenStack
 
 <!-- OPENSTACK-TWITTER:START -->
+- [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
+- [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
+- [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
+- [The date has changed! ¿Eres estudiante de ingeniería y estás interesado en construir Clouds de alto desempeño con tecnologías Open Source?. Te in...](https://twitter.com/OpenStack/status/1564986400696664069)
+- [John Leung, @christophstreit, Sven Anders, &amp; Frank Gemein present on &quot;Building a sustainable OpenStack Cloud with Open Compute Project platforms.&quot; The...](https://twitter.com/OpenStack/status/1564976836492361731)
 <!-- OPENSTACK-TWITTER:END -->
 
 Git Data Analytics
