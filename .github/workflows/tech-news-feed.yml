@@ -17,7 +17,17 @@ jobs:
           comment_tag_name: "ARANGO-BLOGS"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/bdCFMzjmoEksTEBm.xml"
-
+  arangodb-twitter:
+    name: Arango Twitter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "ARANGO-TWITTER"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/twitter/user/arangodb"
+          
   graphql-twitter:
     name: GraphQL Twitter
     runs-on: ubuntu-latest
@@ -28,6 +38,7 @@ jobs:
           comment_tag_name: "GRAPHQL-TWITTER"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/Hbb351sStDtxVV2R.xml"
+
   openstack-twitter:
     name: OpenStack Twitter
     runs-on: ubuntu-latest
