@@ -294,11 +294,11 @@ My Coffee-Morning Tech News Central
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Spend your weekend catching up on 𝗕𝗲𝘆𝗼𝗻𝗱𝗚𝗿𝗮𝗽𝗵 𝟮𝟮! 🥑 Watch the recording on-demand now💥](https://twitter.com/arangodb/status/1566758069270417410)
 - [Learn more on who&#39;s who in Data Science 🔥 Explore the specialized roles and skillsets needed for the different #datascience tasks and the best tool...](https://twitter.com/arangodb/status/1566425860885954561)
 - [AboutYou describes in this Case Study how they built a data-driven personalization of their shopping experience with #ArangoDB. 😎 Read all about Ab...](https://twitter.com/arangodb/status/1566063486194663425)
 - [Weekend plans? Sign up for our Challenges of a Cloud Native Database on September 14th, 2022, with CTO @joerg_schad. ☁ Register today! 👇](https://twitter.com/arangodb/status/1565806780256485376)
 - [Add ArangoDB to your summer reading list! 😎 We have updated our white paper on switching from relational databases to ArangoDB. Learn more about wh...](https://twitter.com/arangodb/status/1565701097909620736)
-- [graph](https://twitter.com/arangodb/status/1565624855646683137)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
