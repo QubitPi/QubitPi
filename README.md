@@ -380,6 +380,8 @@ My Coffee-Morning Tech News Central
 
 #### JanusGraph
 
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188538990-70fc7280-0772-446e-a6ae-8b8af1043c68.gif">
+
 <!-- JANUSGRAPH-TWITTER:START -->
 - [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration #graph #NoSQL #ScyllaDB #OpenSource #DEVCommun...](https://twitter.com/ScyllaDB/status/1565384501559279616)
 - [RT gdotv: G.V&lpar;&rpar; 0.9.25 is out! Highlights: - Gremlin Query Debugging for all 🪲 - Query Editor UX Improvements - Various bug fixes - more! Free to d...](https://twitter.com/gdotv_ltd/status/1561777125383966726)
