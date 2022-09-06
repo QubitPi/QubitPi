@@ -120,7 +120,4 @@ jobs:
           comment_tag_name: "DRIBBBLE-STORIES"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/lcjYsufLsGqj2Utv.xml"
-          custom_tags: "mediaContent/media:content/"
-          item_exec: |
-                    post.mediaContent = post.mediaContent.getAttribute("url");
-          template: "<li><a href=$url>$title</a></li>"
+          template: "<li><a href=$url>$description</a></li>"
