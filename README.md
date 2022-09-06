@@ -293,11 +293,10 @@ My Tech Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
 
-### GraphQL
+### <img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
+ GraphQL
 
 #### Twitter
-
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
 
 <!-- GRAPHQL-TWITTER:START -->
 - [@GraphQL: Thrilled to welcome one of the newest members of the GraphQL Foundation, . Inigo is a startup focused on GraphQL security, analytics, and developer efficiency.Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
@@ -312,12 +311,12 @@ My Tech Blogs
 * [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 
-### OpenStack
+### <img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
+ OpenStack
 
 #### Twitter
 
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 
 <!-- OPENSTACK-TWITTER:START -->
 - [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
