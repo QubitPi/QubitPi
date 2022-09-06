@@ -27,6 +27,16 @@ jobs:
           comment_tag_name: "ARANGO-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/arangodb"
+  memgraph-twitter:
+    name: Memgraph Twitter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEMGRAPH-TWITTER"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/twitter/user/memgraphdb"
           
   graphql-twitter:
     name: GraphQL Twitter
