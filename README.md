@@ -381,11 +381,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [As we are preparing for #Nodes2022 &lpar;agenda will be unveiled soon!&rpar; - What did you like the most during Nodes2021? #Neo4j #Nodes22 #TBT](https://twitter.com/neo4j/status/1567215646236098561)
+- [Talks from the call for papers for #neo4j #NODES2022 look really awesome so far. Register early to stay up to date! 👍 Save your spot at](https://twitter.com/neo4j/status/1567212409554702337)
+- [RT William Lyon: So happy my book &quot;Full Stack GraphQL Applications&quot; is now available in print from @ManningBooks that I spent the holiday weekend re-r...](https://twitter.com/lyonwj/status/1567192067293745152)
 - [❗Get introduced to the most popular database technologies: SQL, MongoDB/NoSQL, and Graph databases with experts in the field @maxyloon, @ThisEmil, @T...](https://twitter.com/neo4j/status/1567181022562816005)
 - [Going meta - Ep 8: A series on graphs, semantics and knowledge w/ @BarrasaDV](https://twitter.com/neo4j/status/1567162030372847618)
-- [&quot;Vi är på den resan nu där vi ska gå från 0-10 miljarder dollar i värdering och nu börjar vi bygga motorerna som ska vara en draghjälp mot 100...](https://twitter.com/neo4j/status/1567136795292311554)
-- [Register to hear from Dr. Antonio Fabregat about how @Neo4j&#39;s knowledge graphs have helped @AstraZeneca #PharmatecSeries22 #KnowledgeGraph @pharmaITco...](https://twitter.com/neo4j/status/1567120490287751170)
-- [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1566924175620685824)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
