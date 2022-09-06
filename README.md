@@ -356,6 +356,11 @@ My Coffee-Morning Tech News Central
 - [RT Rik Van Bruggen: Happy Monday! Super excited to be speaking at #neo4j #graphsummit #stockholm tomorrow! Gonna be a great show again!!!](https://twitter.com/rvanbruggen/status/1566714853426970626)
 <!-- NEO4J-TWITTER:END -->
 
+#### JanusGraph
+
+<!-- JANUSGRAPH-TWITTER:START -->
+<!-- JANUSGRAPH-TWITTER:END -->
+
 ### GraphQL
 
 #### Twitter
