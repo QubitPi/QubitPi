@@ -291,6 +291,8 @@ My Tech Blogs
 My Coffee-Morning Tech News Central
 -----------------------------------
 
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
+
 ### Graph Database
 
 #### ArangoDB
