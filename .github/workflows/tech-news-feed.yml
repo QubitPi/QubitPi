@@ -8,7 +8,7 @@ on:
 
 jobs:
   arangodb-blogs:
-    name: Latest ArangoDB Blogs
+    name: ArangoDB Blogs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -47,6 +47,16 @@ jobs:
           comment_tag_name: "NEO4J-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/neo4j"
+  janusgraph-twitter:
+    name: JanusGraph Twitter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "JANUSGRAPH-TWITTER"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/twitter/user/JanusGraph"
           
   graphql-twitter:
     name: GraphQL Twitter
