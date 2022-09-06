@@ -365,7 +365,7 @@ My Tech Blogs
 
 ##### Twitter
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1566807136243531777)
@@ -379,7 +379,7 @@ My Tech Blogs
 
 ##### Twitter
 
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1566924175620685824)
@@ -391,7 +391,7 @@ My Tech Blogs
 
 ##### YouTube
 
-<img align="left" width="20%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
+<img align="left" width="25%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
 
 <!-- NEO4J-YOUTUBE:START -->
 - [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
@@ -413,7 +413,7 @@ My Tech Blogs
 
 #### JanusGraph
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188538990-70fc7280-0772-446e-a6ae-8b8af1043c68.gif">
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188538990-70fc7280-0772-446e-a6ae-8b8af1043c68.gif">
 
 <!-- JANUSGRAPH-TWITTER:START -->
 - [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration #graph #NoSQL #ScyllaDB #OpenSource #DEVCommun...](https://twitter.com/ScyllaDB/status/1565384501559279616)
