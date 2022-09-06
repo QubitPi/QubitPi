@@ -342,7 +342,7 @@ My Tech Blogs
 
 ##### Official Blogs
 
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
 
 <!-- ARANGO-BLOGS:START -->
 - [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://www.arangodb.com/2022/08/arangodb-newsletter-146/)
@@ -424,6 +424,8 @@ My Tech Blogs
 <!-- JANUSGRAPH-TWITTER:END -->
 
 ### Quantum Mechanics
+
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188562681-08af674c-2f70-4ac1-9476-bbfc60f50914.png">
 
 <!-- QUANTUM-JOURNAL:START -->
 - [A monogamy-of-entanglement game for subspace coset states](https://quantum-journal.org/papers/q-2022-09-01-791/)
