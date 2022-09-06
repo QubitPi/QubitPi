@@ -307,6 +307,7 @@ My Tech Blogs
 
 #### Study Notes
 
+* [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
 * [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 
