@@ -368,6 +368,11 @@ My Coffee-Morning Tech News Central
 - [1 - A Universe of Knowledge Graphs](https://www.youtube.com/watch?v=Ei-pYtYS6UY)
 <!-- NEO4J-YOUTUBE:END -->
 
+##### Blogs
+
+<!-- NEO4J-BLOGS:START -->
+<!-- NEO4J-BLOGS:END -->
+
 #### JanusGraph
 
 <!-- JANUSGRAPH-TWITTER:START -->
