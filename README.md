@@ -424,8 +424,8 @@ My Tech Blogs
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
 
-Git Data Analytics
-------------------
+Git Data Analytics - Everything is Datable
+------------------------------------------
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
