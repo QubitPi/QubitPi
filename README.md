@@ -361,6 +361,11 @@ My Coffee-Morning Tech News Central
 <img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
 
 <!-- NEO4J-YOUTUBE:START -->
+- [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
+- [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=SQhMCw9zn8M)
+- [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
+- [4 - Empowering Employees With Graph Technology](https://www.youtube.com/watch?v=Mwf3IZWvktI)
+- [1 - A Universe of Knowledge Graphs](https://www.youtube.com/watch?v=Ei-pYtYS6UY)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
