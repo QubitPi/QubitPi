@@ -297,7 +297,7 @@ My Tech Blogs
 
 #### Twitter
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
+<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
 
 <!-- GRAPHQL-TWITTER:START -->
 - [@GraphQL: Thrilled to welcome one of the newest members of the GraphQL Foundation, . Inigo is a startup focused on GraphQL security, analytics, and developer efficiency.Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
