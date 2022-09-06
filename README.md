@@ -379,8 +379,6 @@ My Tech Blogs
 
 ##### Twitter
 
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
-
 <!-- NEO4J-TWITTER:START -->
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1566924175620685824)
 - [Curious about Graph Data Science? 📍Register for our hands-on workshop during @southerndsc in Atlanta. See you there! #GraphDataScience #Neo4j #sout...](https://twitter.com/neo4j/status/1566788379475329025)
@@ -389,9 +387,9 @@ My Tech Blogs
 - [RT Rik Van Bruggen: Happy Monday! Super excited to be speaking at #neo4j #graphsummit #stockholm tomorrow! Gonna be a great show again!!!](https://twitter.com/rvanbruggen/status/1566714853426970626)
 <!-- NEO4J-TWITTER:END -->
 
-##### YouTube
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
-<img align="left" width="25%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
+##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
 - [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
