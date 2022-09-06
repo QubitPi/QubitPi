@@ -381,11 +381,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [❗Get introduced to the most popular database technologies: SQL, MongoDB/NoSQL, and Graph databases with experts in the field @maxyloon, @ThisEmil, @T...](https://twitter.com/neo4j/status/1567181022562816005)
+- [Going meta - Ep 8: A series on graphs, semantics and knowledge w/ @BarrasaDV](https://twitter.com/neo4j/status/1567162030372847618)
 - [&quot;Vi är på den resan nu där vi ska gå från 0-10 miljarder dollar i värdering och nu börjar vi bygga motorerna som ska vara en draghjälp mot 100...](https://twitter.com/neo4j/status/1567136795292311554)
 - [Register to hear from Dr. Antonio Fabregat about how @Neo4j&#39;s knowledge graphs have helped @AstraZeneca #PharmatecSeries22 #KnowledgeGraph @pharmaITco...](https://twitter.com/neo4j/status/1567120490287751170)
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1566924175620685824)
-- [Curious about Graph Data Science? 📍Register for our hands-on workshop during @southerndsc in Atlanta. See you there! #GraphDataScience #Neo4j #sout...](https://twitter.com/neo4j/status/1566788379475329025)
-- [RT Michael Hunger 🇪🇺 🇺🇦: Spontaneous hands-on Meetup at the @neo4j office in #London 🎡🏰 We’ll look into turning #Marvel MCU 🍿dat...](https://twitter.com/mesirii/status/1566776635633926149)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
