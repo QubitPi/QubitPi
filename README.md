@@ -293,8 +293,7 @@ My Tech Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
 
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
- GraphQL</h3>
+<h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
 #### Twitter
 
@@ -311,8 +310,7 @@ My Tech Blogs
 * [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
- OpenStack</h3>
+<h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
 #### Twitter
 
