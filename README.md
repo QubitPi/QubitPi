@@ -358,7 +358,7 @@ My Coffee-Morning Tech News Central
 
 ##### YouTube
 
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
+<img align="left" width="20%" src="https://user-images.githubusercontent.com/16126939/188532059-01719172-11cf-4e92-ba52-b0d42a2e4858.png">
 
 <!-- NEO4J-YOUTUBE:START -->
 - [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
