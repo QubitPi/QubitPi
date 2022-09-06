@@ -328,9 +328,9 @@ My Tech Blogs
 
 #### ArangoDB
 
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
-
 ##### Twitter
+
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
 - [Learn more about how graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure data and store i...](https://twitter.com/arangodb/status/1566893940418265089)
