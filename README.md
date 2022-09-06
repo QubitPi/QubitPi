@@ -250,6 +250,8 @@ My Tech Blogs
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
+<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1Ra411G7N6">爱玩游戏熊大原神</a> </p>
+
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
