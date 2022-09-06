@@ -429,6 +429,11 @@ My Tech Blogs
 <!-- QUANTUM-JOURNAL:START -->
 <!-- QUANTUM-JOURNAL:END -->
 
+### Dribbble Stories
+
+<!-- DRIBBBLE-STORIES:START -->
+<!-- DRIBBBLE-STORIES:END -->
+
 Git Data Analytics - Everything is Datable
 ------------------------------------------
 
