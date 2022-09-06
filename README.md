@@ -327,6 +327,11 @@ My Coffee-Morning Tech News Central
 ### Memgraph
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1566807136243531777)
+- [If you’re familiar with #Memgraph or just started exploring its products, you must have heard about #MAGE. But how did it all start, who came up with...](https://twitter.com/memgraphdb/status/1566769867633692673)
+- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1566768618574155776)
+- [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1566744458917564417)
+- [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1566734390679539713)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ### GraphQL
