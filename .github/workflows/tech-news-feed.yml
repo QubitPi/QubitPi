@@ -98,3 +98,14 @@ jobs:
           comment_tag_name: "OPENSTACK-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/OpenStack"
+          
+  quantum-journal:
+    name: Quantum Journal
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "QUANTUM-JOURNAL"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/H6hC72jbUn2vJY42.xml"
