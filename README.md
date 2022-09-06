@@ -324,7 +324,7 @@ My Tech Blogs
 - [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
 <!-- OPENSTACK-TWITTER:END -->
 
-### Graph Database
+<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560313-75a1635f-9030-47f0-a2c9-5e51a40f252a.png"></h3>
 
 #### ArangoDB
 
