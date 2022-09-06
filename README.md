@@ -293,6 +293,40 @@ My Tech Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
 
+### GraphQL
+
+#### Twitter
+
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
+
+<!-- GRAPHQL-TWITTER:START -->
+- [@GraphQL: Thrilled to welcome one of the newest members of the GraphQL Foundation, . Inigo is a startup focused on GraphQL security, analytics, and developer efficiency.Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
+- [@GraphQL: Take a moment to share your thoughts and opinions about the state of GraphQL in this  survey!Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
+- [@leeb: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and more in Austin, TX June 6-10, with platforms to join virtually.  Use Code: F22SCH100](https://twitter.com/leeb/status/1530193408567828481)
+- [@GraphQL: DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmapCheck it out, update and join the conversation to influence the next versions to come#GraphQL](https://twitter.com/GraphQL/status/1514283679299813382)
+- [@GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉After all the great feedback from the community, we&#39;ve incorporated changes around theming, usability, and extensibility.Let us know what you think:](https://twitter.com/GraphiQL/status/1508062921766674439)
+<!-- GRAPHQL-TWITTER:END -->
+
+#### Study Notes
+
+* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
+* [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
+
+### OpenStack
+
+#### Twitter
+
+<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
+
+<!-- OPENSTACK-TWITTER:START -->
+- [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
+- [RT Virtuozzo: We’re excited to announce that Virtuozzo is now part of the @OpenStack Marketplace – and even better, our US cloud partner @sharktechn...](https://twitter.com/VirtuozzoInc/status/1566787310682767360)
+- [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
+- [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
+- [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
+<!-- OPENSTACK-TWITTER:END -->
+
 ### Graph Database
 
 #### ArangoDB
@@ -389,40 +423,6 @@ My Tech Blogs
 - [RT Anant Corporation: In Data Engineer&#39;s Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the @AWS team on @JanusGraph.](https://twitter.com/anantcorp/status/1546947807055077378)
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
-
-### GraphQL
-
-#### Twitter
-
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png">
-
-<!-- GRAPHQL-TWITTER:START -->
-- [@GraphQL: Thrilled to welcome one of the newest members of the GraphQL Foundation, . Inigo is a startup focused on GraphQL security, analytics, and developer efficiency.Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
-- [@GraphQL: Take a moment to share your thoughts and opinions about the state of GraphQL in this  survey!Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
-- [@leeb: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and more in Austin, TX June 6-10, with platforms to join virtually.  Use Code: F22SCH100](https://twitter.com/leeb/status/1530193408567828481)
-- [@GraphQL: DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmapCheck it out, update and join the conversation to influence the next versions to come#GraphQL](https://twitter.com/GraphQL/status/1514283679299813382)
-- [@GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉After all the great feedback from the community, we&#39;ve incorporated changes around theming, usability, and extensibility.Let us know what you think:](https://twitter.com/GraphiQL/status/1508062921766674439)
-<!-- GRAPHQL-TWITTER:END -->
-
-#### Study Notes
-
-* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
-* [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
-
-### OpenStack
-
-#### Twitter
-
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
-
-<!-- OPENSTACK-TWITTER:START -->
-- [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
-- [RT Virtuozzo: We’re excited to announce that Virtuozzo is now part of the @OpenStack Marketplace – and even better, our US cloud partner @sharktechn...](https://twitter.com/VirtuozzoInc/status/1566787310682767360)
-- [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
-- [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
-- [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
-<!-- OPENSTACK-TWITTER:END -->
 
 Git Data Analytics
 ------------------
