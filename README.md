@@ -393,11 +393,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [5 - Cybersecurity Automation with OSCAL and Neo4J](https://www.youtube.com/watch?v=FVCFmSIsYic)
+- [Going meta - Ep 8: A series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=iCrdR86AorU)
 - [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
 - [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=SQhMCw9zn8M)
 - [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
-- [4 - Empowering Employees With Graph Technology](https://www.youtube.com/watch?v=Mwf3IZWvktI)
-- [1 - A Universe of Knowledge Graphs](https://www.youtube.com/watch?v=Ei-pYtYS6UY)
 <!-- NEO4J-YOUTUBE:END -->
 
 ##### Blogs
