@@ -326,7 +326,7 @@ My Coffee-Morning Tech News Central
 
 ### Memgraph
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1566807136243531777)
