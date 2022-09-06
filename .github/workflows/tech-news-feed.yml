@@ -123,4 +123,4 @@ jobs:
           # extract 1st double-quoted strings
           item_exec: |
                     post.description = post.description.match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "");
-          template: "<tr><td style='width:30%'><img src=$description width='10%'></td> <td><a href=$url>$title</a></td></tr>"
+          template: "<tr><td style='width:70%'><a href=$url>$title</a></td> <td style='width:30%'><img src=$description width='25%'></td></tr>"
