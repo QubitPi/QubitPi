@@ -435,7 +435,12 @@ My Tech Blogs
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
-<table>
+<table style="width: 100%">
+<colgroup>
+<col span="1" style="width: 70%;">
+<col span="1" style="width: 30%;">
+</colgroup>
+    
 <tbody>
 <!-- DRIBBBLE-STORIES:START --><tr><td><a href=https://dribbble.com/stories/2022/09/01/wine-packaging-design>Wine, dine, design: Get inspired by colorful wine branding and packaging</a></td> <td><img src=https://cdn.dribbble.com/uploads/40372/original/205e447a938d74311203a37241b82d8c.webp?1660929277 width='10%'></td></tr><tr><td><a href=https://dribbble.com/stories/2022/08/29/sudent-stories-brittney-singleton>Meet Brittney Singleton, Dribbble Graduate and Visual Designer at Able</a></td> <td><img src=https://cdn.dribbble.com/uploads/40307/original/0182b6201dc7a9751a9b2301610812a3.jpg?1660925755 width='10%'></td></tr><tr><td><a href=https://dribbble.com/stories/2022/08/18/ux-ideation-tips-raw-studio>UX Ideation 101: Tips &amp; tools for laying the right design foundations</a></td> <td><img src=https://cdn.dribbble.com/uploads/40240/original/085b056fe5ee92b3cafb440dcf4b89ae.png?1660588492 width='10%'></td></tr><tr><td><a href=https://dribbble.com/stories/2022/08/15/student-stories-antonio-vidakovic>Meet Antonio Vidakovic, Dribbble Graduate and Junior Product Designer</a></td> <td><img src=https://cdn.dribbble.com/uploads/40075/original/fb15b61bd6fba007a117e7c3a659f16f.jpg?1660074823 width='10%'></td></tr><tr><td><a href=https://dribbble.com/stories/2022/08/11/real-estate-branding>Make yourself at home: Creative real estate branding to inspire you</a></td> <td><img src=https://cdn.dribbble.com/users/2661337/screenshots/18462831/dhome.jpg width='10%'></td></tr><!-- DRIBBBLE-STORIES:END -->
 </tbody>
