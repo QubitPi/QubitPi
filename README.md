@@ -424,6 +424,11 @@ My Tech Blogs
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
 
+### Quantum Mechanics
+
+<!-- QUANTUM-JOURNAL:START -->
+<!-- QUANTUM-JOURNAL:END -->
+
 Git Data Analytics - Everything is Datable
 ------------------------------------------
 
