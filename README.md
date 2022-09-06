@@ -346,7 +346,7 @@ My Coffee-Morning Tech News Central
 
 ##### Twitter
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1566924175620685824)
@@ -356,14 +356,16 @@ My Coffee-Morning Tech News Central
 - [RT Rik Van Bruggen: Happy Monday! Super excited to be speaking at #neo4j #graphsummit #stockholm tomorrow! Gonna be a great show again!!!](https://twitter.com/rvanbruggen/status/1566714853426970626)
 <!-- NEO4J-TWITTER:END -->
 
+##### YouTube
+
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
+
+<!-- NEO4J-YOUTUBE:START -->
+<!-- NEO4J-YOUTUBE:END -->
+
 #### JanusGraph
 
 <!-- JANUSGRAPH-TWITTER:START -->
-- [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration #graph #NoSQL #ScyllaDB #OpenSource #DEVCommun...](https://twitter.com/ScyllaDB/status/1565384501559279616)
-- [RT gdotv: G.V&lpar;&rpar; 0.9.25 is out! Highlights: - Gremlin Query Debugging for all 🪲 - Query Editor UX Improvements - Various bug fixes - more! Free to d...](https://twitter.com/gdotv_ltd/status/1561777125383966726)
-- [RT ScyllaDB: Learn about the broader #ScyllaDB ecosystem: #ApacheSpark, #ApacheKafka, @datadoghq @iota Chronicle, @JanusGraph @opennms Newts &amp; more �...](https://twitter.com/ScyllaDB/status/1561775885463818241)
-- [RT Anant Corporation: In Data Engineer&#39;s Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the @AWS team on @JanusGraph.](https://twitter.com/anantcorp/status/1546947807055077378)
-- [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
 
 ### GraphQL
@@ -395,9 +397,9 @@ My Coffee-Morning Tech News Central
 <!-- OPENSTACK-TWITTER:START -->
 - [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
 - [RT Virtuozzo: We’re excited to announce that Virtuozzo is now part of the @OpenStack Marketplace – and even better, our US cloud partner @sharktechn...](https://twitter.com/VirtuozzoInc/status/1566787310682767360)
+- [cloud](https://twitter.com/OpenStack/status/1565749346066464770)
 - [Dmitrii Shcherbakov, Frode Nordahl, &amp; James Page present &quot;SmartNIC DPU Enablement in OpenStack with OVN.&quot; They discuss the existing hardware offload-c...](https://twitter.com/OpenStack/status/1565746723300974595)
 - [RT OpenInfra Foundation: The next #OpenInfraSummit is going to be in Vancouver! Next week, we are opening registration as well as sponsorship opportun...](https://twitter.com/openinfradev/status/1565052086332555265)
-- [Today is the last day to participate in the 2022 #OpenStack User Survey! Take the survey before 11:59 PM CT to tell us about your OpenStack deployment...](https://twitter.com/OpenStack/status/1564988932516990976)
 <!-- OPENSTACK-TWITTER:END -->
 
 Git Data Analytics
