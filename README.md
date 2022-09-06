@@ -427,6 +427,11 @@ My Tech Blogs
 ### Quantum Mechanics
 
 <!-- QUANTUM-JOURNAL:START -->
+- [A monogamy-of-entanglement game for subspace coset states](https://quantum-journal.org/papers/q-2022-09-01-791/)
+- [Random translation-invariant Hamiltonians and their spectral gaps](https://quantum-journal.org/papers/q-2022-09-01-790/)
+- [Simpler &lpar;classical&rpar; and faster &lpar;quantum&rpar; algorithms for Gibbs partition functions](https://quantum-journal.org/papers/q-2022-09-01-789/)
+- [Resource theory of causal connection](https://quantum-journal.org/papers/q-2022-08-25-788/)
+- [Superfluid drag between excitonic polaritons and superconducting electron gas](https://quantum-journal.org/papers/q-2022-08-24-787/)
 <!-- QUANTUM-JOURNAL:END -->
 
 ### Dribbble Stories
