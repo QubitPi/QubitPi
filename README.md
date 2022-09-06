@@ -344,7 +344,9 @@ My Coffee-Morning Tech News Central
 
 #### Neo4J
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
+##### Twitter
+
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
 <!-- NEO4J-TWITTER:END -->
