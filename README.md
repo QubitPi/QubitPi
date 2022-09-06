@@ -368,11 +368,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Memgraph presents graph algorithms: Betweenness centrality #memgraph #mage #graphalgorithms #graphdatabase](https://twitter.com/memgraphdb/status/1567060542161915909)
+- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1567036630522888193)
+- [New things are coming to #GitHub. :&rpar; #coding #memgraph #markdown](https://twitter.com/memgraphdb/status/1567036004095168515)
+- [What is your favorite mathematical function? 🏆 Not sure? Take a look at NIST Digital Library of Mathematical Functions and pick one 😉 🔗 #math...](https://twitter.com/memgraphdb/status/1567033108989415425)
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1566807136243531777)
-- [If you’re familiar with #Memgraph or just started exploring its products, you must have heard about #MAGE. But how did it all start, who came up with...](https://twitter.com/memgraphdb/status/1566769867633692673)
-- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1566768618574155776)
-- [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1566744458917564417)
-- [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1566734390679539713)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Neo4J
