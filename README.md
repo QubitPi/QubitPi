@@ -249,7 +249,7 @@ My Tech Blogs
 <!-- MGMT-BLOG-POST-LIST:END -->
 
 <div align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/16126939/187835041-024a892f-58fc-45a3-a717-8a10f41d0c60.PNG">
+    <img align="center" alt="可莉-纳西妲.gif" src="./原神/可莉-纳西妲.gif">
 </div>
 
 ### New Tech Blogs
