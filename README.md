@@ -423,8 +423,6 @@ My Tech Blogs
 
 ### Quantum Mechanics
 
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188562681-08af674c-2f70-4ac1-9476-bbfc60f50914.png">
-
 <!-- QUANTUM-JOURNAL:START -->
 - [A monogamy-of-entanglement game for subspace coset states](https://quantum-journal.org/papers/q-2022-09-01-791/)
 - [Random translation-invariant Hamiltonians and their spectral gaps](https://quantum-journal.org/papers/q-2022-09-01-790/)
@@ -434,6 +432,8 @@ My Tech Blogs
 <!-- QUANTUM-JOURNAL:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
+
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/188562681-08af674c-2f70-4ac1-9476-bbfc60f50914.png">
 
 <table style="width: 50%">
 <colgroup>
