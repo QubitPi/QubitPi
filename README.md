@@ -287,11 +287,13 @@ My Tech Blogs
 
 
 My Coffee-Morning Tech News Central
-----------------------------------
+-----------------------------------
 
-### ArangoDB
+### Graph Database
 
-#### Twitter
+#### ArangoDB
+
+##### Twitter
 
 <!-- ARANGO-TWITTER:START -->
 - [Learn more about how graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure data and store i...](https://twitter.com/arangodb/status/1566893940418265089)
@@ -301,7 +303,7 @@ My Coffee-Morning Tech News Central
 - [Weekend plans? Sign up for our Challenges of a Cloud Native Database on September 14th, 2022, with CTO @joerg_schad. ☁ Register today! 👇](https://twitter.com/arangodb/status/1565806780256485376)
 <!-- ARANGO-TWITTER:END -->
 
-#### Official Blogs
+##### Official Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
@@ -313,7 +315,7 @@ My Coffee-Morning Tech News Central
 - [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://www.arangodb.com/2022/04/arangodb-newsletter-143/)
 <!-- ARANGO-BLOGS:END -->
 
-#### Study Notes
+##### Study Notes
 
 * [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
 * [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
@@ -321,6 +323,11 @@ My Coffee-Morning Tech News Central
 * [ArangoDB Graphs](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
+
+### Memgraph
+
+<!-- MEMGRAPH-TWITTER:START -->
+<!-- MEMGRAPH-TWITTER:END -->
 
 ### GraphQL
 
