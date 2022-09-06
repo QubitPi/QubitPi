@@ -1,4 +1,3 @@
-
 name: Tech News Feed
 on:
   schedule:
