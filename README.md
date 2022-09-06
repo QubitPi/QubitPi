@@ -334,11 +334,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Developer Relations Engineer @cw00dw0rd will be at @AllThingsOpen 2022. 🔥 Grab your tickets today and join him for his session on &quot;Machine Learning...](https://twitter.com/arangodb/status/1567120454736814081)
 - [Learn more about how graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure data and store i...](https://twitter.com/arangodb/status/1566893940418265089)
 - [Spend your weekend catching up on 𝗕𝗲𝘆𝗼𝗻𝗱𝗚𝗿𝗮𝗽𝗵 𝟮𝟮! 🥑 Watch the recording on-demand now💥](https://twitter.com/arangodb/status/1566758069270417410)
 - [Learn more on who&#39;s who in Data Science 🔥 Explore the specialized roles and skillsets needed for the different #datascience tasks and the best tool...](https://twitter.com/arangodb/status/1566425860885954561)
 - [AboutYou describes in this Case Study how they built a data-driven personalization of their shopping experience with #ArangoDB. 😎 Read all about Ab...](https://twitter.com/arangodb/status/1566063486194663425)
-- [Weekend plans? Sign up for our Challenges of a Cloud Native Database on September 14th, 2022, with CTO @joerg_schad. ☁ Register today! 👇](https://twitter.com/arangodb/status/1565806780256485376)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
