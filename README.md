@@ -324,7 +324,9 @@ My Coffee-Morning Tech News Central
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 
-### Memgraph
+#### Memgraph
+
+##### Twitter
 
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
