@@ -240,7 +240,9 @@ My Tech Blogs
 
 ### Tech Management Topics
 
+<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
 <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
+</a>
 
 > **You cannot force employees to bear with the rules and request their proactivity because in most cases that's against their natural willings. This is when management comes into play**. OpenSourcing is one example, where it creates a quality-focused culture within a team and, by using an open development model, helps organization to create more stable, secure, and innovative technologies that push the boundaries of technological ability. Tech management is not an end itself; it's imply a mean or tool.
 
