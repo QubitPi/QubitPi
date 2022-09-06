@@ -365,6 +365,7 @@ My Coffee-Morning Tech News Central
 
 #### Twitter
 
+<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png">
 
 <!-- OPENSTACK-TWITTER:START -->
