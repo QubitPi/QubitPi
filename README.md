@@ -369,11 +369,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1567118420600098817)
+- [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1567112960148967426)
 - [Memgraph presents graph algorithms: Betweenness centrality #memgraph #mage #graphalgorithms #graphdatabase](https://twitter.com/memgraphdb/status/1567060542161915909)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1567036630522888193)
 - [New things are coming to #GitHub. :&rpar; #coding #memgraph #markdown](https://twitter.com/memgraphdb/status/1567036004095168515)
-- [What is your favorite mathematical function? 🏆 Not sure? Take a look at NIST Digital Library of Mathematical Functions and pick one 😉 🔗 #math...](https://twitter.com/memgraphdb/status/1567033108989415425)
-- [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1566807136243531777)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Neo4J
