@@ -437,6 +437,11 @@ My Tech Blogs
 ### Dribbble Stories
 
 <!-- DRIBBBLE-STORIES:START -->
+- [Wine, dine, design: Get inspired by colorful wine branding and packaging](https://dribbble.com/stories/2022/09/01/wine-packaging-design)
+- [Meet Brittney Singleton, Dribbble Graduate and Visual Designer at Able](https://dribbble.com/stories/2022/08/29/sudent-stories-brittney-singleton)
+- [UX Ideation 101: Tips &amp; tools for laying the right design foundations](https://dribbble.com/stories/2022/08/18/ux-ideation-tips-raw-studio)
+- [Meet Antonio Vidakovic, Dribbble Graduate and Junior Product Designer](https://dribbble.com/stories/2022/08/15/student-stories-antonio-vidakovic)
+- [Make yourself at home: Creative real estate branding to inspire you](https://dribbble.com/stories/2022/08/11/real-estate-branding)
 <!-- DRIBBBLE-STORIES:END -->
 
 Git Data Analytics - Everything is Datable
