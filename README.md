@@ -328,6 +328,8 @@ My Tech Blogs
 
 #### ArangoDB
 
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
+
 ##### Twitter
 
 <!-- ARANGO-TWITTER:START -->
@@ -340,7 +342,7 @@ My Tech Blogs
 
 ##### Official Blogs
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
 
 <!-- ARANGO-BLOGS:START -->
 - [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://www.arangodb.com/2022/08/arangodb-newsletter-146/)
