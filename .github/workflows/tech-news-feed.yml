@@ -56,6 +56,16 @@ jobs:
           comment_tag_name: "NEO4J-YOUTUBE"
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
+  neo4j-blog:
+    name: Neo4J Blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "NEO4J-BLOGS"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/DjCVlvqed1vMUqbv.xml"
   janusgraph-twitter:
     name: JanusGraph Twitter
     runs-on: ubuntu-latest
