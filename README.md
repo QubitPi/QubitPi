@@ -342,6 +342,13 @@ My Coffee-Morning Tech News Central
 - [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1566734390679539713)
 <!-- MEMGRAPH-TWITTER:END -->
 
+#### Neo4J
+
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
+
+<!-- NEO4J-TWITTER:START -->
+<!-- NEO4J-TWITTER:END -->
+
 ### GraphQL
 
 #### Twitter
