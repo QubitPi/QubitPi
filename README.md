@@ -435,7 +435,7 @@ My Tech Blogs
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
-<table style="width: 100%">
+<table style="width: 50%">
 <colgroup>
 <col span="1" style="width: 70%;">
 <col span="1" style="width: 30%;">
