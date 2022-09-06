@@ -120,4 +120,4 @@ jobs:
           comment_tag_name: "DRIBBBLE-STORIES"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/lcjYsufLsGqj2Utv.xml"
-          template: "<li><a href=$url>$description</a></li>"
+          template: "<li><a href=$url>$title</a>: $description</li>"
