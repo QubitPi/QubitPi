@@ -1,4 +1,4 @@
-name: Data Tech & Design News Feed
+name: News Central Feed
 on:
   schedule:
     # Runs every hour
