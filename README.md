@@ -240,12 +240,12 @@ My Tech Blogs
 
 ### Tech Management Topics
 
-<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
-<img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
-</a>
-
 > * Everything is built on top of **standards**. In our team, we _promote_ standards with proven records and _kill_ personally-invented techniques because they do not improve team efficiency
 > * **You cannot force employees to bear with the rules and request their proactivity because in most cases that's against their natural willings. This is when management comes into play**. OpenSourcing is one example, where it creates a quality-focused culture within a team and, by using an open development model, helps organization to create more stable, secure, and innovative technologies that push the boundaries of technological ability. Tech management is not an end itself; it's imply a mean or tool.
+
+<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
+    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
+</a>
 
 <!-- MGMT-BLOG-POST-LIST:START -->
 - [Managing Tech Assets - Is a Common Library a Good Idea? No](https://qubitpi.github.io/jersey-guide/management/2022/09/02/managing-tech-assets-common-lib-or-not.html)
