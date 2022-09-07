@@ -36,6 +36,16 @@ jobs:
           comment_tag_name: "MEMGRAPH-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/memgraphdb"
+  memgraph-blog:
+    name: Memgraph Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEMGRAPH-BLOG"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/E1jWa3nvtQMIlomN.xml"
   neo4j-twitter:
     name: Neo4J Twitter
     runs-on: ubuntu-latest
