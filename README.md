@@ -369,11 +369,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1567465957936828421)
 - [Do you also have some useful #github tips? #coding #memgraph](https://twitter.com/memgraphdb/status/1567412639449468928)
 - [Did you ever end up in a #pickle because of the pickle? Take a look at what @huggingface says about security and pickle. #PyTorch #Python #Memgraph](https://twitter.com/memgraphdb/status/1567405681702993920)
 - [🎓 Learn the concepts of graph modeling in 10 days. 📢 Free graph modeling email course! 📧 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1567398766881251329)
 - [When #coding, what devices do you use? #hardware #memgraph #github](https://twitter.com/memgraphdb/status/1567393818642612226)
-- [Sign up for the #Memgraph #Webinar: &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repre...](https://twitter.com/memgraphdb/status/1567392474301140993)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
