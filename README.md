@@ -380,12 +380,10 @@ My Tech Blogs
 
 <table>   
 <tbody>
-<!-- MEMGRAPH-BLOG:START -->
-<!-- MEMGRAPH-BLOG:END -->
+<!-- MEMGRAPH-COMMUNITY-FORUM:START -->
+<!-- MEMGRAPH-COMMUNITY-FORUM:END -->
 </table>   
 </tbody>
-
-MEMGRAPH-BLOG
 
 #### Neo4J
 
