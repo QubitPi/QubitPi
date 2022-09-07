@@ -279,9 +279,9 @@ My Tech Blogs
 </a>
 </div>
 
-<img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
-
 ### WIP Tech Blogs (Studying...)
+
+<img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
 
 <!-- WIP-BLOG-POST-LIST:START -->
 - [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
