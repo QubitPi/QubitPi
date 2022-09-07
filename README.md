@@ -368,11 +368,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Learn the concepts of graph modeling in 10 days. 📢 Free graph modeling email course! 📧 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1567398766881251329)
+- [When #coding, what devices do you use? #hardware #memgraph #github](https://twitter.com/memgraphdb/status/1567393818642612226)
+- [Sign up for the #Memgraph #Webinar: &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repre...](https://twitter.com/memgraphdb/status/1567392474301140993)
+- [If you use @googlechrome, check your version and update it if needed. #Chrome #security #memgraph](https://twitter.com/memgraphdb/status/1567391941842591744)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1567181455003992066)
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1567176803969630209)
-- [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1567152647009931264)
-- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1567150129643196418)
-- [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1567118420600098817)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
