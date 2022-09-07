@@ -46,6 +46,10 @@ jobs:
           comment_tag_name: "MEMGRAPH-BLOG"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/E1jWa3nvtQMIlomN.xml"
+          # extract 1st double-quoted strings
+          item_exec: |
+                    post.description = post.description.match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "");
+          template: "<tr><td style='width:70%'><a href=$url>$title</a></td> <td style='width:30%'><img src=$description width='25%'></td></tr>"
   neo4j-twitter:
     name: Neo4J Twitter
     runs-on: ubuntu-latest
