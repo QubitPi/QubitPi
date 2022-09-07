@@ -409,11 +409,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Hunger 🇪🇺 🇺🇦: Neo4j meetup tonight in London, mingling and food is starting in one hour, talks start in 2 hours at 6pm BST. I&#39;l...](https://twitter.com/mesirii/status/1567543730579673093)
+- [Amazing! Thank you! #KMWorld](https://twitter.com/neo4j/status/1567540572394602500)
 - [Dr. Maya Natarajan and Dr. Alexander Jarasch will be presenting at Pharma Data UK on September 8th. Learn about knowledge graphs and graph data scienc...](https://twitter.com/neo4j/status/1567497996614483968)
 - [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1567361790291451904)
 - [Start a new path in your career by getting your Neo4j Graph Data Science certification! More info here: #GraphAcademy #GraphDataBase #Coding #Neo4j](https://twitter.com/neo4j/status/1567316763120918529)
-- [🏹 Path finding algorithms find paths between two or more nodes and evaluate the availability and quality of those paths. Learn more: #Neo4j #DataSc...](https://twitter.com/neo4j/status/1567256379345321984)
-- [As we are preparing for #Nodes2022 &lpar;agenda will be unveiled soon!&rpar; - What did you like the most during Nodes2021? #Neo4j #Nodes22 #TBT](https://twitter.com/neo4j/status/1567215646236098561)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
