@@ -55,7 +55,7 @@ jobs:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
           commit_message: "New Memgraph Blog Posts"
-          comment_tag_name: "MEMGRAPH-BLOGS"
+          comment_tag_name: "MEMGRAPH-BLOG"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/WkkCR7VIA0wf5iYG.xml"
           user_agent: "feed-reader"
