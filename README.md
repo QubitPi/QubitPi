@@ -376,6 +376,17 @@ My Tech Blogs
 - [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1567118420600098817)
 <!-- MEMGRAPH-TWITTER:END -->
 
+##### Official Blogs
+
+<table>   
+<tbody>
+<!-- MEMGRAPH-BLOG:START -->
+<!-- MEMGRAPH-BLOG:END -->
+</table>   
+</tbody>
+
+MEMGRAPH-BLOG
+
 #### Neo4J
 
 ##### Twitter
