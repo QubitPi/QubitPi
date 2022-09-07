@@ -15,6 +15,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New ArangoDB Blogs"
           comment_tag_name: "ARANGO-BLOGS"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/bdCFMzjmoEksTEBm.xml"
@@ -27,6 +28,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New ArangoDB Twitter Posts"
           comment_tag_name: "ARANGO-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/arangodb"
@@ -39,6 +41,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Memgraph Twitter Posts"
           comment_tag_name: "MEMGRAPH-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/memgraphdb"
@@ -51,6 +54,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Neo4J Twitter Posts"
           comment_tag_name: "NEO4J-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/neo4j"
@@ -63,6 +67,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Neo4J Videos"
           comment_tag_name: "NEO4J-YOUTUBE"
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
@@ -75,6 +80,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Neo4J Blogs"
           comment_tag_name: "NEO4J-BLOGS"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/DjCVlvqed1vMUqbv.xml"
@@ -87,6 +93,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New JanuesGraph Twitter Posts"
           comment_tag_name: "JANUSGRAPH-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/JanusGraph"
@@ -113,6 +120,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New GraphQL Twitter Posts"
           comment_tag_name: "OPENSTACK-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/OpenStack"
@@ -126,6 +134,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Quantum Journal Articles"
           comment_tag_name: "QUANTUM-JOURNAL"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/H6hC72jbUn2vJY42.xml"
@@ -139,6 +148,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
+          commit_message: "New Dribbble Stories"
           comment_tag_name: "DRIBBBLE-STORIES"
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/lcjYsufLsGqj2Utv.xml"
