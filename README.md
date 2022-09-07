@@ -376,9 +376,14 @@ My Tech Blogs
 - [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1567118420600098817)
 <!-- MEMGRAPH-TWITTER:END -->
 
-##### [Community Forum](https://discourse.memgraph.com/)
+##### Links
 
 <img align="right" width="35%" alt="community" src="https://user-images.githubusercontent.com/16126939/188777796-2eebe3be-0521-48dc-ace5-46205643eef9.png">
+
+* [Newsletter](https://memgraph.com/newsletter/)
+* [Blogs](https://memgraph.com/blog)
+
+##### [Community Forum](https://discourse.memgraph.com/)
 
 <!-- MEMGRAPH-COMMUNITY-FORUM:START -->
 - [Attaching Weights between the Nodes in Dijkstra Algorithm](https://discourse.memgraph.com/t/attaching-weights-between-the-nodes-in-dijkstra-algorithm/308)
@@ -387,11 +392,6 @@ My Tech Blogs
 - [How to run the Dijkstra Algorithm on a dataset in Memgraph](https://discourse.memgraph.com/t/how-to-run-the-dijkstra-algorithm-on-a-dataset-in-memgraph/294)
 - [Query timing out](https://discourse.memgraph.com/t/query-timing-out/293)
 <!-- MEMGRAPH-COMMUNITY-FORUM:END -->
-
-##### Links
-
-* [Newsletter](https://memgraph.com/newsletter/)
-* [Blogs](https://memgraph.com/blog)
 
 #### Neo4J
 
