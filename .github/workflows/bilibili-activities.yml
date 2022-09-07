@@ -64,7 +64,7 @@ jobs:
           # extract video cover image
           item_exec: |
                     post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<a href=$url><img src=$description width='10%'></a><a href=$url>$title</a>"
+          template: "<a href=$url><img src=$description width='10%'></a><a href=$url>$title</a><br>"
   columns:
     name: Columns
     runs-on: ubuntu-latest
