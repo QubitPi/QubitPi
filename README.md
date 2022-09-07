@@ -380,11 +380,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1567491628662767617)
-- [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1567465957936828421)
-- [Do you also have some useful #github tips? #coding #memgraph](https://twitter.com/memgraphdb/status/1567412639449468928)
-- [Did you ever end up in a #pickle because of the pickle? Take a look at what @huggingface says about security and pickle. #PyTorch #Python #Memgraph](https://twitter.com/memgraphdb/status/1567405681702993920)
-- [🎓 Learn the concepts of graph modeling in 10 days. 📢 Free graph modeling email course! 📧 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1567398766881251329)
+- [#graphdatazgreb is starting!!! You can watch live stream here #memgraph #graphdatabase #datalineage #database](https://twitter.com/memgraphdb/status/1567546190174081024)
+- [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1567534417932869632)
+- [#graphdatazgreb meetup - Track Data Lineage With a Graph Database starts in 1 hour. To watch the live broadcast, you can register at this link #memgra...](https://twitter.com/memgraphdb/status/1567528252427616256)
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1567526107980636161)
+- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1567520318406754306)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
