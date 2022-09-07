@@ -329,11 +329,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 
 <!-- OPENSTACK-TWITTER:START -->
-- [The #OpenInfraSummit is back and heading to Canada! Registration, sponsorship opportunities, the travel support program, visa requests, and track chai...](https://twitter.com/OpenStack/status/1567558610338603009)
 - [The #OpenInfraSummit is heading to Canada!](https://twitter.com/OpenStack/status/1567528482430648320)
 - [RT OpenInfra Foundation: Today is a big day for the #OpenInfraSummit Vancouver 2023! Registration, sponsorship opportunities, the travel support progr...](https://twitter.com/openinfradev/status/1567528398993473537)
 - [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
 - [RT Virtuozzo: We’re excited to announce that Virtuozzo is now part of the @OpenStack Marketplace – and even better, our US cloud partner @sharktechn...](https://twitter.com/VirtuozzoInc/status/1566787310682767360)
+- [cloud](https://twitter.com/OpenStack/status/1565749346066464770)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560313-75a1635f-9030-47f0-a2c9-5e51a40f252a.png"></h3>
