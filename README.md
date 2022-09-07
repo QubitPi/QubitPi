@@ -248,6 +248,7 @@ My Tech Blogs
 </a>
 
 <!-- MGMT-BLOG-POST-LIST:START -->
+- [How to Make Your One-on-Ones with Employees More Productive](https://qubitpi.github.io/jersey-guide/management/2022/09/07/one-on-one.html)
 - [Managing Tech Assets - Is a Common Library a Good Idea? No](https://qubitpi.github.io/jersey-guide/management/2022/09/02/managing-tech-assets-common-lib-or-not.html)
 - [Developing a Strategy for Organization’s Open Source Project](https://qubitpi.github.io/jersey-guide/management/2022/09/02/oss-strategies.html)
 - [Preliminary - Anatomy of Small Pull Request](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html)
