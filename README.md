@@ -96,13 +96,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
-<!-- BILIBILI-TIPPED-VIDEOS:START -->
-- [⚡Say So⚡](https://www.bilibili.com/video/BV12G4y1B7bT)
-- [【原神动画】琴团长对迪卢克的反应](https://www.bilibili.com/video/BV1EV4y1H77i)
-- [3.1∽3.4全卡池顺序前瞻！最新！最细！最直！](https://www.bilibili.com/video/BV1me4y1h7fc)
-- [【崩坏三】阿波尼亚妈咪是因为太大了才被卡住的吗（bushi……这是可以给小格蕾修看的嘛（doge](https://www.bilibili.com/video/BV1JP4y1f7bR)
-- [【原神剧场】雷电将军：有钱买这个！？没钱抽我？！！](https://www.bilibili.com/video/BV1Nd4y1V7vA)
-<!-- BILIBILI-TIPPED-VIDEOS:END -->
+<!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV12G4y1B7bT>⚡Say So⚡</a>  <img src=http://i2.hdslb.com/bfs/archive/29600df22e397b1e9af57b76dada8a0c5adb9102.jpg width='5%'><a href=https://www.bilibili.com/video/BV1EV4y1H77i>【原神动画】琴团长对迪卢克的反应</a>  <img src=http://i0.hdslb.com/bfs/archive/c90b62f8666b2d6f2e5c5fb35dd1eb5b086bb8fe.jpg width='5%'><a href=https://www.bilibili.com/video/BV1me4y1h7fc>3.1∽3.4全卡池顺序前瞻！最新！最细！最直！</a>  <img src=http://i0.hdslb.com/bfs/archive/c288bba93d38c81706a8dd4df5fa2ee30df9ad4a.jpg width='5%'><a href=https://www.bilibili.com/video/BV1JP4y1f7bR>【崩坏三】阿波尼亚妈咪是因为太大了才被卡住的吗（bushi……这是可以给小格蕾修看的嘛（doge</a>  <img src=http://i1.hdslb.com/bfs/archive/632f2873fb42769b3b5ef01a754c80d8b04abdf8.jpg width='5%'><a href=https://www.bilibili.com/video/BV1Nd4y1V7vA>【原神剧场】雷电将军：有钱买这个！？没钱抽我？！！</a>  <img src=http://i1.hdslb.com/bfs/archive/2d6eda28086374695e7ecaa4d5e857e641e1a2f1.jpg width='5%'><!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
 
