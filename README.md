@@ -378,6 +378,8 @@ My Tech Blogs
 
 ##### [Community Forum](https://discourse.memgraph.com/)
 
+<img align="right" width="25%" alt="community" src="https://user-images.githubusercontent.com/16126939/188777796-2eebe3be-0521-48dc-ace5-46205643eef9.png">
+
 <!-- MEMGRAPH-COMMUNITY-FORUM:START -->
 - [Attaching Weights between the Nodes in Dijkstra Algorithm](https://discourse.memgraph.com/t/attaching-weights-between-the-nodes-in-dijkstra-algorithm/308)
 - [Join us on Memgraph Cloud Live Event Stream tomorrow at 6:00 PM CET](https://discourse.memgraph.com/t/join-us-on-memgraph-cloud-live-event-stream-tomorrow-at-6-00-pm-cet/301)
