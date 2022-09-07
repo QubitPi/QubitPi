@@ -13,6 +13,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Bilibili Uploads"
           comment_tag_name: "BILIBILI-UPLOAD-LIST"
           max_post_count: "3"
           feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
@@ -23,6 +26,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Bilibili Activities"
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
@@ -33,6 +39,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Bilibili Following"
           comment_tag_name: "BILIBILI-FOLLWOING"
           max_post_count: "10"
           feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
@@ -46,6 +55,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Liked-Saved-Tipped Videos"
           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
@@ -56,6 +68,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Bilibili Article Published"
           comment_tag_name: "BILIBILI-COLUMNS"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/article/1771839550"    
