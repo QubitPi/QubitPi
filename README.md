@@ -97,11 +97,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 <!-- BILIBILI-TIPPED-VIDEOS:START -->
+- [⚡Say So⚡](https://www.bilibili.com/video/BV12G4y1B7bT)
+- [【原神动画】琴团长对迪卢克的反应](https://www.bilibili.com/video/BV1EV4y1H77i)
+- [3.1∽3.4全卡池顺序前瞻！最新！最细！最直！](https://www.bilibili.com/video/BV1me4y1h7fc)
 - [【崩坏三】阿波尼亚妈咪是因为太大了才被卡住的吗（bushi……这是可以给小格蕾修看的嘛（doge](https://www.bilibili.com/video/BV1JP4y1f7bR)
 - [【原神剧场】雷电将军：有钱买这个！？没钱抽我？！！](https://www.bilibili.com/video/BV1Nd4y1V7vA)
-- [【琴迪】危险派对-可莉就是这样来的!](https://www.bilibili.com/video/BV1JR4y1F7Xk)
-- [有种谁也看不惯谁的感觉](https://www.bilibili.com/video/BV1Ra411G7N6)
-- [【原神手书】须弥开放之后，各地丘丘的现状，旅行者们有多久没去过蒙德了？](https://www.bilibili.com/video/BV1fY4y1u7cp)
 <!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
