@@ -13,6 +13,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Design Post on Behance"
           comment_tag_name: "DESIGN-POST-LIST"
           max_post_count: "5"
           feed_list: "https://rsshub.app/behance/jack20191124"
