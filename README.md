@@ -397,11 +397,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1567361790291451904)
 - [Start a new path in your career by getting your Neo4j Graph Data Science certification! More info here: #GraphAcademy #GraphDataBase #Coding #Neo4j](https://twitter.com/neo4j/status/1567316763120918529)
 - [🏹 Path finding algorithms find paths between two or more nodes and evaluate the availability and quality of those paths. Learn more: #Neo4j #DataSc...](https://twitter.com/neo4j/status/1567256379345321984)
 - [As we are preparing for #Nodes2022 &lpar;agenda will be unveiled soon!&rpar; - What did you like the most during Nodes2021? #Neo4j #Nodes22 #TBT](https://twitter.com/neo4j/status/1567215646236098561)
 - [Talks from the call for papers for #neo4j #NODES2022 look really awesome so far. Register early to stay up to date! 👍 Save your spot at](https://twitter.com/neo4j/status/1567212409554702337)
-- [RT William Lyon: So happy my book &quot;Full Stack GraphQL Applications&quot; is now available in print from @ManningBooks that I spent the holiday weekend re-r...](https://twitter.com/lyonwj/status/1567192067293745152)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
