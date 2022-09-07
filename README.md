@@ -407,11 +407,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Dr. Maya Natarajan and Dr. Alexander Jarasch will be presenting at Pharma Data UK on September 8th. Learn about knowledge graphs and graph data scienc...](https://twitter.com/neo4j/status/1567497996614483968)
 - [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1567361790291451904)
 - [Start a new path in your career by getting your Neo4j Graph Data Science certification! More info here: #GraphAcademy #GraphDataBase #Coding #Neo4j](https://twitter.com/neo4j/status/1567316763120918529)
 - [🏹 Path finding algorithms find paths between two or more nodes and evaluate the availability and quality of those paths. Learn more: #Neo4j #DataSc...](https://twitter.com/neo4j/status/1567256379345321984)
 - [As we are preparing for #Nodes2022 &lpar;agenda will be unveiled soon!&rpar; - What did you like the most during Nodes2021? #Neo4j #Nodes22 #TBT](https://twitter.com/neo4j/status/1567215646236098561)
-- [Talks from the call for papers for #neo4j #NODES2022 look really awesome so far. Register early to stay up to date! 👍 Save your spot at](https://twitter.com/neo4j/status/1567212409554702337)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
