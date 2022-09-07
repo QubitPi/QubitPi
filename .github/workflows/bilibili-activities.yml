@@ -61,6 +61,10 @@ jobs:
           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
+          # extract 1st double-quoted strings
+          item_exec: |
+                    post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
+          template: "<a href=$url>$title</a>  <img src=$description width='5%'>"
   columns:
     name: Columns
     runs-on: ubuntu-latest
