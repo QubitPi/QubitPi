@@ -42,5 +42,5 @@ jobs:
           committer_email: "jack20220723@gmail.com"
           commit_message: "WIP Tech Blog Post"
           comment_tag_name: "WIP-BLOG-POST-LIST"
-          max_post_count: "5"
+          max_post_count: "6"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed/WIP.xml"
