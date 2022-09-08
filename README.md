@@ -409,11 +409,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Have you seen the early access of Neo4j Importer? A new tool that gets us 2 million records per second! 🚀 #Neo4j #GraphDataScience #GraphDatabase #...](https://twitter.com/neo4j/status/1567634002764333057)
 - [Happening right now! Join us online](https://twitter.com/neo4j/status/1567578211265159170)
 - [RT Michael Hunger 🇪🇺 🇺🇦: Neo4j meetup tonight in London, mingling and food is starting in one hour, talks start in 2 hours at 6pm BST. I&#39;l...](https://twitter.com/mesirii/status/1567543730579673093)
 - [Amazing! Thank you! #KMWorld](https://twitter.com/neo4j/status/1567540572394602500)
 - [Dr. Maya Natarajan and Dr. Alexander Jarasch will be presenting at Pharma Data UK on September 8th. Learn about knowledge graphs and graph data scienc...](https://twitter.com/neo4j/status/1567497996614483968)
-- [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1567361790291451904)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
