@@ -451,10 +451,10 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Cypher Code can be expressive, compact, performant, and have flair; show us your best, compete and measure your skills. 👀A few days left until the ...](https://twitter.com/neo4j/status/1567935911467286530)
 - [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1567840200314814464)
 - [RT GraphAware - we&#39;re hiring!: We are at #graphsummit in Copenhagen! If you are here, come stop by to have a talk about how @TryHume can jump-start yo...](https://twitter.com/graph_aware/status/1567767139326562304)
 - [Finding ACE2 - the receptor SARS-Cov2 virus uses to enter the cell- is simple with graph technology. 😷 Learn about knowledge graphs and graph data ...](https://twitter.com/neo4j/status/1567724471426899968)
-- [Have you seen the early access of Neo4j Importer? A new tool that gets us 2 million records per second! 🚀 #Neo4j #GraphDataScience #GraphDatabase #...](https://twitter.com/neo4j/status/1567634002764333057)
 - [Happening right now! Join us online](https://twitter.com/neo4j/status/1567578211265159170)
 <!-- NEO4J-TWITTER:END -->
 
