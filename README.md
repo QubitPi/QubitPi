@@ -107,11 +107,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》3.0版本「千朵玫瑰带来的黎明」活动速递第二期](https://ys.mihoyo.com/main/news/detail/22517)
+- [《原神》「神铸赋形」活动祈愿即将开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！](https://ys.mihoyo.com/main/news/detail/22516)
+- [《原神》「浮岳虹珠」活动祈愿即将开启](https://ys.mihoyo.com/main/news/detail/22515)
+- [《原神》「浮生孰来」活动祈愿即将开启](https://ys.mihoyo.com/main/news/detail/22514)
 - [喜茶×原神丨约定之旅，因你欢「喜」](https://ys.mihoyo.com/main/news/detail/22508)
-- [重云生日快乐｜给我送解暑冰棍？谢、谢谢！让你费心了。](https://ys.mihoyo.com/main/news/detail/22507)
-- [《原神》「溢神的论证」玩法说明](https://ys.mihoyo.com/main/news/detail/22506)
-- [《原神》「溢神的论证」活动即将开启](https://ys.mihoyo.com/main/news/detail/22502)
-- [《原神》「循循守月」甘雨主题同人征集活动开启](https://ys.mihoyo.com/main/news/detail/22497)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
