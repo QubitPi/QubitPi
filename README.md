@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1567788838365298688)
+- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1567770213503963136)
+- [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1567766943477661699)
 - [#graphdatazgreb is starting!!! You can watch live stream here #memgraph #graphdatabase #datalineage #database](https://twitter.com/memgraphdb/status/1567546190174081024)
 - [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1567534417932869632)
-- [#graphdatazgreb meetup - Track Data Lineage With a Graph Database starts in 1 hour. To watch the live broadcast, you can register at this link #memgra...](https://twitter.com/memgraphdb/status/1567528252427616256)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1567526107980636161)
-- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1567520318406754306)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
