@@ -359,6 +359,8 @@ My Tech Blogs
 > 
 > \- [Web3 Foundation](https://web3.foundation/about/)
 
+**I'm not a fan of Blockchain, but a fan of Blockchain linked to _Data_ through Web3.0**
+
 #### Twitter
 
 <img align="right" width="25%" src="./img/web3-illustration.png">
