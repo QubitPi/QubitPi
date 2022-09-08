@@ -453,9 +453,9 @@ My Tech Blogs
 <!-- NEO4J-TWITTER:START -->
 - [Cypher Code can be expressive, compact, performant, and have flair; show us your best, compete and measure your skills. 👀A few days left until the ...](https://twitter.com/neo4j/status/1567935911467286530)
 - [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1567840200314814464)
+- [RT Adam Cowley: Are you currently looking for a job that involves Neo4j or another graph database? #neo4j #graphdatabase](https://twitter.com/adamcowley/status/1567828387959382017)
 - [RT GraphAware - we&#39;re hiring!: We are at #graphsummit in Copenhagen! If you are here, come stop by to have a talk about how @TryHume can jump-start yo...](https://twitter.com/graph_aware/status/1567767139326562304)
 - [Finding ACE2 - the receptor SARS-Cov2 virus uses to enter the cell- is simple with graph technology. 😷 Learn about knowledge graphs and graph data ...](https://twitter.com/neo4j/status/1567724471426899968)
-- [Happening right now! Join us online](https://twitter.com/neo4j/status/1567578211265159170)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
