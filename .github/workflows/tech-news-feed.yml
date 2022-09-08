@@ -136,7 +136,21 @@ jobs:
           commit_message: "New GraphQL Twitter Posts"
           comment_tag_name: "OPENSTACK-TWITTER"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/OpenStack"
+          feed_list: "https://rsshub.app/twitter/user/OpenStack" 
+          
+  web3-foundation:
+    name: Web3 Foundation Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Web3 Foundation Blog"
+          comment_tag_name: "WEB3-FOUNDATION-BLOG"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/kqjUvxXBzvIfDsLo.xml"
           
   quantum-journal:
     name: Quantum Journal
