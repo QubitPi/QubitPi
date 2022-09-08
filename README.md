@@ -248,6 +248,8 @@ My Tech Blogs
   or, the team planning should follow
   
   $Time(\text{delivering a feature}) = 4 \times Time(\text{implementation})$
+  
+  > Let developer take a break so they have enough time to forget about what they did in implementation & test before having them do a self-code-review
 
 * **You cannot force employees to bear with the rules and request their proactivity because in most cases that's against their natural willings. This is when management comes into play**. OpenSourcing is one example, where it creates a quality-focused culture within a team and, by using an open development model, helps organization to create more stable, secure, and innovative technologies that push the boundaries of technological ability. Tech management is not an end itself; it's imply a mean or tool.
 
