@@ -91,3 +91,21 @@ jobs:
           comment_tag_name: "BILIBILI-GENSHIN-IMPACT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/401742377"   
+  genshin-impact-activities-cover-image:
+    name: Genshin Impact Activities Cover Image
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "Genshin Impact New Activities"
+          comment_tag_name: "BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER"
+          max_post_count: "1"
+          feed_list: "https://rsshub.app/bilibili/user/dynamic/401742377"
+          # extract video cover image
+          item_exec: |
+                    post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
+          template: "<a href=$url><img align='right' src=$description width='40%'></a><br>"
+  
