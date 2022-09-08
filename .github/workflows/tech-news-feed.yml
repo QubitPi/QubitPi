@@ -148,7 +148,7 @@ jobs:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
           commit_message: "New Web3 Foundation Blog"
-          comment_tag_name: "WEB3-FOUNDATION-Twitter"
+          comment_tag_name: "WEB3-FOUNDATION-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/web3foundation"
           
