@@ -355,9 +355,9 @@ My Tech Blogs
 
 ### Web3.0
 
-<!-- WEB3-FOUNDATION-BLOG:START -->
+<!-- WEB3-FOUNDATION-TWITTER:START -->
 
-<!-- WEB3-FOUNDATION-BLOG:END -->
+<!-- WEB3-FOUNDATION-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560313-75a1635f-9030-47f0-a2c9-5e51a40f252a.png"></h3>
 
