@@ -376,8 +376,7 @@ My Tech Blogs
 #### Study Notes
 
 * [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
-* Introduction to Blockchain
-
+* [What Is the Double Spend Problem?](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/double-spending.html)
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560313-75a1635f-9030-47f0-a2c9-5e51a40f252a.png"></h3>
 
