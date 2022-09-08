@@ -387,11 +387,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Are graph databases a whole new world for you? 🤔 Our latest white paper can help you explore a graph database and learn how it can benefit your use...](https://twitter.com/arangodb/status/1567981121048088578)
 - [Our CEO, Shekhar Iyer, wants to personally invite you to ArangoDB Summit on October 4th and 5th, 2022. 🔥🥑 RSVP for ArangoDB Summit, our first-ev...](https://twitter.com/arangodb/status/1567875558243024896)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1567845233685106689)
 - [Grab your spot today for our upcoming webinar, Challenges of a Cloud Native Database, happening on September 14th, 2022, with our CTO @joerg_schad. ☁...](https://twitter.com/arangodb/status/1567618731831951360)
 - [Security is key. Take a look at some ways that ArangoDB Cloud, our managed service, can help you stay up-to-date with advanced security features. 🔍...](https://twitter.com/arangodb/status/1567482841998528516)
-- [The only thing on our minds here at ArangoDB is ArangoDB Summit! 😎 Join our CEO Shekhar Iyer, CPO @weinberger, CTO @joerg_schad, and other notable ...](https://twitter.com/arangodb/status/1567256338081751043)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
