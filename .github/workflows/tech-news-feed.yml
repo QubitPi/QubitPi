@@ -138,8 +138,8 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/OpenStack" 
           
-  web3-foundation:
-    name: Web3 Foundation Blog
+  web3-foundation-twitter:
+    name: Web3 Foundation Twitter
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -148,23 +148,23 @@ jobs:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
           commit_message: "New Web3 Foundation Blog"
-          comment_tag_name: "WEB3-FOUNDATION-BLOG"
+          comment_tag_name: "WEB3-FOUNDATION-Twitter"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/kqjUvxXBzvIfDsLo.xml"
+          feed_list: "https://rsshub.app/twitter/user/web3foundation"
           
-#   quantum-journal:
-#     name: Quantum Journal
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           committer_username: "QubitPi"
-#           committer_email: "jack20220723@gmail.com"
-#           commit_message: "New Quantum Journal Articles"
-#           comment_tag_name: "QUANTUM-JOURNAL"
-#           max_post_count: "5"
-#           feed_list: "https://rss.app/feeds/H6hC72jbUn2vJY42.xml"
+  quantum-journal:
+    name: Quantum Journal
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Quantum Journal Articles"
+          comment_tag_name: "QUANTUM-JOURNAL"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/H6hC72jbUn2vJY42.xml"
           
   dribbble-stories:
     name: Dribbble Stories (Blogs)
