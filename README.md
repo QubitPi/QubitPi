@@ -495,11 +495,11 @@ My Tech Blogs
 ### Quantum Mechanics
 
 <!-- QUANTUM-JOURNAL:START -->
+- [Designing the Quantum Channels Induced by Diagonal Gates](https://quantum-journal.org/papers/q-2022-09-08-802/)
+- [Periodically refreshed quantum thermal machines](https://quantum-journal.org/papers/q-2022-09-08-801/)
+- [Ancilla-free continuous-variable SWAP test](https://quantum-journal.org/papers/q-2022-09-08-800/)
 - [Observability of fidelity decay at the Lyapunov rate in few-qubit quantum simulations](https://quantum-journal.org/papers/q-2022-09-08-799/)
 - [Initial-State Dependent Optimization of Controlled Gate Operations with Quantum Computer](https://quantum-journal.org/papers/q-2022-09-08-798/)
-- [Policy Gradient Approach to Compilation of Variational Quantum Circuits](https://quantum-journal.org/papers/q-2022-09-08-797/)
-- [Random quantum circuits are approximate unitary $t$-designs in depth $O\left&lpar;nt^{5+o&lpar;1&rpar;}\right&rpar;$](https://quantum-journal.org/papers/q-2022-09-08-795/)
-- [The role of coherence theory in attractor quantum neural networks](https://quantum-journal.org/papers/q-2022-09-08-794/)
 <!-- QUANTUM-JOURNAL:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
