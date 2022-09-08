@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [The world of version control is getting more interesting each day. Learn what #Git, #GitHub, and #GitHubCLI have in common and master version control!...](https://twitter.com/memgraphdb/status/1567848546535149568)
-- [#Memgraph is coming to @BigData_LDN. ➡️Visit us at Stand 230. See you in #London! 🇬🇧 #BigDataLDN](https://twitter.com/memgraphdb/status/1567843536199979008)
-- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1567828096593678338)
-- [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1567788838365298688)
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1567770213503963136)
+- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1567890789467914247)
+- [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1567878933470650369)
+- [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1567878178768654337)
+- [Join us this Saturday &lpar;September 10 at 10:00 AM CET&rpar; for another live session with our #CTO @mbudiselicbuda! He will talk about how to detect frauds w...](https://twitter.com/memgraphdb/status/1567870152972066822)
+- [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1567866347232677893)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
