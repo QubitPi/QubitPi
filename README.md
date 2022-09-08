@@ -282,11 +282,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
 - [Tired of Null Pointer Exceptions? Consider Using Java SE 8’s “Optional”](https://qubitpi.github.io/jersey-guide/finalized/2022/09/07/java-optional.html)
 - [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
 - [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 - [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
-- [JavaScript Classes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/javascript-class.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
