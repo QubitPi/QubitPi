@@ -355,13 +355,13 @@ My Tech Blogs
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
 
-<img align="right" width="25%" src="./img/web3-illustration.png">
-
 > "Users own their own data, not corporations"
 > 
-> - [Web3 Foundation](https://web3.foundation/about/)
+> \- [Web3 Foundation](https://web3.foundation/about/)
 
 #### Twitter
+
+<img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
 - [RT substrate: Tomorrow, on September 8th at 2:30pm CEST/6pm IST, tune in to the workshop on Substrate development with @Web3foundation&#39;s @DrW3RK. To l...](https://twitter.com/substrate_io/status/1567534403554885635)
