@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703812528520560737><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66f39fdc3df054483e331284769e55c711464329.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703857239142694914><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bac8cbff70f9ea643121439279326d31401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 原神联合@光明网 发起的赏月主题同人绘画征集活动结果揭晓，一起来看看旅行者们的创作吧~ [原神_哇]](https://t.bilibili.com/703812528520560737)
