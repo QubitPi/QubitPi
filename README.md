@@ -451,11 +451,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Incorporate a graph database into your application stack---&gt; By Ben Simpson -@doximity_tech #Neo4j #stack #GraphDatabase](https://twitter.com/neo4j/status/1568366152979709953)
+- [🎯 I bet you didn&#39;t know — how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user acco...](https://twitter.com/neo4j/status/1568353579848679424)
 - [📢 Did you know that you can get certified by @Neo4j? Start today for FREE! GraphAcademy is designed to help you become a professional in graphs. #G...](https://twitter.com/neo4j/status/1568298250737963009)
 - [Re @JeremySF Soo cool. That was really quick. Congratulations Jeremy](https://twitter.com/neo4j/status/1568272047809392640)
 - [RT Jason Koo: Next Wednesday! Local Graph Database users getting together at Hardland Brewery in Scripps Ranch. Come learn what graphy technologies an...](https://twitter.com/jalakoo/status/1568268161669107713)
-- [RT yWorks: Learn all about our &lpar;mostly&rpar; free tools for developers working with @neo4j databases. You are welcome to join the chat with our CTO Sebasti...](https://twitter.com/yworks/status/1568240349511925762)
-- [RT Florent Biville: It&#39;s Friday, which means release day, right? 😅 The Go driver 5.0.0 for @neo4j is out:](https://twitter.com/fbiville/status/1568173395736502272)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
