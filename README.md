@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703402947565846535><img align='right' src=https://i0.hdslb.com/bfs/new_dyn/68af3d342640502f2f310a3f7a66cda5401742377.jpg width='40%'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703756792734154808><img align='right' src=https://i0.hdslb.com/bfs/new_dyn/77a2f86f5a7d8f5732a0d1007b4d1f86516280475.png width='40%'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#派蒙导航语音# 好耶，派蒙来啦&gt; &lt; 一起快乐出行 [原神_哇]](https://t.bilibili.com/703756792734154808)
