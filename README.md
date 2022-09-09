@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703756792734154808><img align='right' src=https://i0.hdslb.com/bfs/new_dyn/77a2f86f5a7d8f5732a0d1007b4d1f86516280475.png height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703763084874874913><img align='right' src=https://i0.hdslb.com/bfs/new_dyn/98dfec42a2d0a572e40d1cdf42dddb39401742377.png height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #生日快乐# #雷泽# 阳光，暖暖的。你们…在找我？ 礼物，很漂亮，而且好多。 很喜欢，谢谢。 开心…今后也，一起打猎。 关注@原神 并转发，我们...](https://t.bilibili.com/703763084874874913)
