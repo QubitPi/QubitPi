@@ -366,11 +366,11 @@ My Tech Blogs
 <img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Don&#39;t miss a deep dive into the metaverse and web3 led by @DrW3RK at Indonesian Blockchain Conference Register for a free ticket now:](https://twitter.com/Web3foundation/status/1568163550962630658)
 - [Tomorrow, on September 9th at 5pm CEST, join W3F&#39;s @DrW3RK &amp; @Starfish_Fi on Twitter Spaces to learn about Web3 Foundation, @Polkadot ecosystem, @subs...](https://twitter.com/Web3foundation/status/1567816952407531521)
 - [RT substrate: Tomorrow, on September 8th at 2:30pm CEST/6pm IST, tune in to the workshop on Substrate development with @Web3foundation&#39;s @DrW3RK. To l...](https://twitter.com/substrate_io/status/1567534403554885635)
 - [How can Web3 help restructure the media industry and power authentic news publishing? Learn about the collaborative project by @oiioxford&#39;s @djtomchak...](https://twitter.com/Web3foundation/status/1565255621183692800)
 - [RT Vincent Peyregne: Web3 Foundation to support WAN-IFRA’s collaborative #web3 media pilot project. Expression of interest is open until Sept 11. @We...](https://twitter.com/vincentpeyregne/status/1564238080428621824)
-- [RT TechCrunch: Web3 giant Parity Technologies teams up with Watr over platform to track ethical commodities](https://twitter.com/TechCrunch/status/1559943228790538240)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
