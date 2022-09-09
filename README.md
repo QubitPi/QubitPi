@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you like this #fractal? #memgraph #art #mathematics](https://twitter.com/memgraphdb/status/1568223513844060160)
+- [Re @CircumspectDev At the moment we don&#39;t have resources, but if you would like to work with us on a such project - let us know. One possible approach...](https://twitter.com/memgraphdb/status/1568219159112331264)
+- [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1568214393703514114)
 - [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1568174632737423362)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1568171861120253952)
-- [❓Do you want to know who are the most influential computer scientists according to data from @dblp_org? ⬇️⬇️⬇️⬇️⬇️ We have found @RaymondCh...](https://twitter.com/memgraphdb/status/1568157602084753409)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1568132349539352576)
-- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1567890789467914247)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
