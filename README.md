@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703756792734154808><img align='right' src=https://i0.hdslb.com/bfs/new_dyn/77a2f86f5a7d8f5732a0d1007b4d1f86516280475.png height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#派蒙导航语音# 好耶，派蒙来啦&gt; &lt; 一起快乐出行 [原神_哇]](https://t.bilibili.com/703756792734154808)
 - [#原神# #甘雨# 亲爱的旅行者，「浮生孰来」活动祈愿即将开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/703402947565846535)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/703402402093465617)
 - [#原神# #原神3.0# #千朵玫瑰带来的黎明# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/703402286124105784)
 - [#原神# #珊瑚宫心海# 亲爱的旅行者，「浮岳虹珠」活动祈愿即将开启，「真珠之智·珊瑚宫心海&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/703402277540462677)
-- [恭喜@殇其所想 @-芝兰玉树- @朔月如夙 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/703051795335741490)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
