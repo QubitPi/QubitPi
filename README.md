@@ -451,11 +451,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @JeremySF Soo cool. That was really quick. Congratulations Jeremy](https://twitter.com/neo4j/status/1568272047809392640)
+- [RT Jason Koo: Next Wednesday! Local Graph Database users getting together at Hardland Brewery in Scripps Ranch. Come learn what graphy technologies an...](https://twitter.com/jalakoo/status/1568268161669107713)
+- [RT yWorks: Learn all about our &lpar;mostly&rpar; free tools for developers working with @neo4j databases. You are welcome to join the chat with our CTO Sebasti...](https://twitter.com/yworks/status/1568240349511925762)
+- [RT Florent Biville: It&#39;s Friday, which means release day, right? 😅 The Go driver 5.0.0 for @neo4j is out:](https://twitter.com/fbiville/status/1568173395736502272)
 - [Have you met our Pharma knowledge graph experts? Come chat with us at booth #7 -- there&#39;s still time! #Neo4j #KnowledgeGraphs #Pharma #PharmaTecSeries...](https://twitter.com/neo4j/status/1568101935453978625)
-- [Building a knowledge graph can support you at all stages of a cyberattack attack! 🕵 Check out knowledge graphs as digital twin here: #Neo4j #Knowle...](https://twitter.com/neo4j/status/1568035990916194307)
-- [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1567990929964863502)
-- [Cypher Code can be expressive, compact, performant, and have flair; show us your best, compete and measure your skills. 👀A few days left until the ...](https://twitter.com/neo4j/status/1567935911467286530)
-- [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1567840200314814464)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
