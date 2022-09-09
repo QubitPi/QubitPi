@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/703857239142694914><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bac8cbff70f9ea643121439279326d31401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/703857239142694914)
+- [#原神# #珊瑚宫心海# 亲爱的旅行者，「浮岳虹珠」活动祈愿现已开启，「真珠之智·珊瑚宫心海&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/703856891244052496)
+- [#原神# #甘雨# 亲爱的旅行者，「浮生孰来」活动祈愿现已开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/703856431681503256)
+- [《原神》拾枝杂谈-「多莉：居奇持盈」](https://t.bilibili.com/703855972114759714)
 - [#原神# 原神联合@光明网 发起的赏月主题同人绘画征集活动结果揭晓，一起来看看旅行者们的创作吧~ [原神_哇]](https://t.bilibili.com/703812528520560737)
-- [恭喜@丙___ @吃脚脚有点甜 @白枂石 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/703793965682393169)
-- [互动抽奖 #原神# #生日快乐# #雷泽# 阳光，暖暖的。你们…在找我？ 礼物，很漂亮，而且好多。 很喜欢，谢谢。 开心…今后也，一起打猎。 关注@原神 并转发，我们...](https://t.bilibili.com/703763084874874913)
-- [#派蒙导航语音# 好耶，派蒙来啦&gt; &lt; 一起快乐出行 [原神_哇]](https://t.bilibili.com/703756792734154808)
-- [#原神# #甘雨# 亲爱的旅行者，「浮生孰来」活动祈愿即将开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/703402947565846535)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
