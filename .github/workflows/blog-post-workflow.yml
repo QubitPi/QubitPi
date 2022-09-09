@@ -2,7 +2,7 @@ name: Tech Blog Post Feed Data
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '25 * * * *'
   workflow_dispatch:
 
 jobs:
