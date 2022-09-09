@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1568132349539352576)
 - [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1567890789467914247)
 - [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1567878933470650369)
 - [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1567878178768654337)
 - [Join us this Saturday &lpar;September 10 at 10:00 AM CET&rpar; for another live session with our #CTO @mbudiselicbuda! He will talk about how to detect frauds w...](https://twitter.com/memgraphdb/status/1567870152972066822)
-- [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1567866347232677893)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
