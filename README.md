@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1568238552697167872)
-- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1568235530864971777)
-- [Do you like this #fractal? #memgraph #art #mathematics](https://twitter.com/memgraphdb/status/1568223513844060160)
-- [Re @CircumspectDev At the moment we don&#39;t have resources, but if you would like to work with us on a such project - let us know. One possible approach...](https://twitter.com/memgraphdb/status/1568219159112331264)
-- [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1568214393703514114)
+- [Do you read old IT-related magazines? :&rpar; #Memgraph #history #c #programminglanguages](https://twitter.com/memgraphdb/status/1568279548088950785)
+- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1568274979195883522)
+- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1568274344673169408)
+- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1568273929252532225)
+- [Don&#39;t forget to join us tomorrow for a #Memgraph live stream by @mbudiselicbuda! See you at 10 AM CET.](https://twitter.com/memgraphdb/status/1568270793854820353)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
