@@ -107,11 +107,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [雷泽生日快乐｜礼物，很漂亮，而且好多。](https://ys.mihoyo.com/main/news/detail/22520)
 - [《原神》3.0版本「千朵玫瑰带来的黎明」活动速递第二期](https://ys.mihoyo.com/main/news/detail/22517)
 - [《原神》「神铸赋形」活动祈愿即将开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！](https://ys.mihoyo.com/main/news/detail/22516)
 - [《原神》「浮岳虹珠」活动祈愿即将开启](https://ys.mihoyo.com/main/news/detail/22515)
 - [《原神》「浮生孰来」活动祈愿即将开启](https://ys.mihoyo.com/main/news/detail/22514)
-- [喜茶×原神丨约定之旅，因你欢「喜」](https://ys.mihoyo.com/main/news/detail/22508)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
