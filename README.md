@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/704134840052613206><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e8d4234feb53be42484457bba87c9677401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #喜茶原神联动# #约定之旅 因你欢喜# 【「派蒙的画作喜茶篇」联动主题表情包现已上架】 喜茶×原神 联动活动现已开启！ 约定之旅，因你欢「喜」 亲爱的旅...](https://t.bilibili.com/704134840052613206)
+- [互动抽奖 #原神# #中秋快乐# 白先生说，叫我今天不要拘在药房里，要出来走走。 「今日」…嗯，我看看笔记…「宜好友相聚」，他是这么说的。 所以我们就来找你了...](https://t.bilibili.com/704134182927859765)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/703857239142694914)
 - [#原神# #珊瑚宫心海# 亲爱的旅行者，「浮岳虹珠」活动祈愿现已开启，「真珠之智·珊瑚宫心海&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/703856891244052496)
 - [#原神# #甘雨# 亲爱的旅行者，「浮生孰来」活动祈愿现已开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/703856431681503256)
-- [《原神》拾枝杂谈-「多莉：居奇持盈」](https://t.bilibili.com/703855972114759714)
-- [#原神# 原神联合@光明网 发起的赏月主题同人绘画征集活动结果揭晓，一起来看看旅行者们的创作吧~ [原神_哇]](https://t.bilibili.com/703812528520560737)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
