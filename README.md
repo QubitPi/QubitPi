@@ -395,11 +395,7 @@ My Tech Blogs
 <img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
 
 <!-- ARANGO-BLOGS:START -->
-- [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://www.arangodb.com/2022/08/arangodb-newsletter-146/)
-- [July 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: July 2022](https://www.arangodb.com/2022/07/arangodb-newsletter-145/)
-- [What is a Graph Database? What is a Graph Database](https://www.arangodb.com/2022/07/what-is-a-graph-database/)
-- [May 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: May 2022](https://www.arangodb.com/2022/05/arangodb-newsletter-144/)
-- [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://www.arangodb.com/2022/04/arangodb-newsletter-143/)
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- ARANGO-BLOGS:END -->
 
 ##### Study Notes
