@@ -152,8 +152,8 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/web3foundation"
           
-  quantum-journal:
-    name: Quantum Journal
+  dribbble:
+    name: Dribbble
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -161,25 +161,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20220723@gmail.com"
-          commit_message: "New Quantum Journal Articles"
-          comment_tag_name: "QUANTUM-JOURNAL"
+          commit_message: "New Dribbble Trending"
+          comment_tag_name: "DRIBBBLE-TRENDING"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/H6hC72jbUn2vJY42.xml"
-          
-  dribbble-stories:
-    name: Dribbble Stories (Blogs)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Dribbble Stories"
-          comment_tag_name: "DRIBBBLE-STORIES"
-          max_post_count: "5"
-          feed_list: "https://rss.app/feeds/lcjYsufLsGqj2Utv.xml"
-          # extract 1st double-quoted strings
-          item_exec: |
-                    post.description = post.description.match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "");
-          template: "<tr><td style='width:70%'><a href=$url>$title</a></td> <td style='width:30%'><img src=$description width='25%'></td></tr>"
+          feed_list: "https://rsshub.app/dribbble/popular/week"
