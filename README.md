@@ -513,6 +513,12 @@ My Tech Blogs
 Git Data Analytics - Everything is Datable
 ------------------------------------------
 
+### My Pull Requests (PR) Analysis
+
+> Pull Requests should be small. This graph indicates whether or not I am following good tech standards:
+> 
+> <img align="center" src="https://user-images.githubusercontent.com/16126939/189472394-0cc5163a-b312-4211-99e6-b2209923c7dd.png">
+
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
 <img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
