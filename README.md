@@ -344,9 +344,9 @@ My Tech Blogs
 <!-- OPENSTACK-TWITTER:START -->
 - [The virtual OpenInfra PTG is coming up soon, October 17-21! Register now to join the #OpenStack teams there. See participating projects: Register for ...](https://twitter.com/OpenStack/status/1568283438725341184)
 - [Join the global #OpenInfra community for these upcoming episodes of OpenInfra Live: September 22: Around the World with OpenInfra Events September 29:...](https://twitter.com/OpenStack/status/1567876087471869954)
-- [The #OpenInfraSummit is back and heading to Canada! Registration, sponsorship opportunities, the travel support program, visa requests, and track chai...](https://twitter.com/OpenStack/status/1567558610338603009)
 - [The #OpenInfraSummit is heading to Canada!](https://twitter.com/OpenStack/status/1567528482430648320)
 - [RT OpenInfra Foundation: Today is a big day for the #OpenInfraSummit Vancouver 2023! Registration, sponsorship opportunities, the travel support progr...](https://twitter.com/openinfradev/status/1567528398993473537)
+- [Re @fribeiro1 @MirantisIT @adrianionel @zer0tweets @jbryce Hi @fribeiro1! We are looking into this](https://twitter.com/OpenStack/status/1566825145989308420)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
