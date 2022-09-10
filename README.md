@@ -451,11 +451,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [👏High-Fidelity Load Preview is Now Available for Neo4j Data Importer. We already introduced the “Preview” feature, here, we created an enhanced a...](https://twitter.com/neo4j/status/1568471343972188160)
 - [🔥Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1568428570032095232)
 - [🤖 Time to learn how to build a knowledge base service with Neo4j, Kafka, and the Outbox Pattern — with Gonçalo Martins. #neo4j #database #neo4jco...](https://twitter.com/neo4j/status/1568383523727507456)
 - [Incorporate a graph database into your application stack---&gt; By Ben Simpson -@doximity_tech #Neo4j #stack #GraphDatabase](https://twitter.com/neo4j/status/1568366152979709953)
 - [🎯 I bet you didn&#39;t know — how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user acco...](https://twitter.com/neo4j/status/1568353579848679424)
-- [📢 Did you know that you can get certified by @Neo4j? Start today for FREE! GraphAcademy is designed to help you become a professional in graphs. #G...](https://twitter.com/neo4j/status/1568298250737963009)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
