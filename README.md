@@ -439,11 +439,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @JeremySF Yes cmd/ctrl and zoom. There should be also a message popup when you try your mouse wheel.](https://twitter.com/neo4j/status/1568546906611089410)
 - [👏High-Fidelity Load Preview is Now Available for Neo4j Data Importer. We already introduced the “Preview” feature, here, we created an enhanced a...](https://twitter.com/neo4j/status/1568471343972188160)
 - [🔥Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1568428570032095232)
 - [🤖 Time to learn how to build a knowledge base service with Neo4j, Kafka, and the Outbox Pattern — with Gonçalo Martins. #neo4j #database #neo4jco...](https://twitter.com/neo4j/status/1568383523727507456)
 - [Incorporate a graph database into your application stack---&gt; By Ben Simpson -@doximity_tech #Neo4j #stack #GraphDatabase](https://twitter.com/neo4j/status/1568366152979709953)
-- [🎯 I bet you didn&#39;t know — how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user acco...](https://twitter.com/neo4j/status/1568353579848679424)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
