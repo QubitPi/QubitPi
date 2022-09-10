@@ -326,11 +326,7 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
 
 <!-- GRAPHQL-TWITTER:START -->
-- [@GraphQL: Thrilled to welcome one of the newest members of the GraphQL Foundation, . Inigo is a startup focused on GraphQL security, analytics, and developer efficiency.Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
-- [@GraphQL: Take a moment to share your thoughts and opinions about the state of GraphQL in this  survey!Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
-- [@leeb: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and more in Austin, TX June 6-10, with platforms to join virtually.  Use Code: F22SCH100](https://twitter.com/leeb/status/1530193408567828481)
-- [@GraphQL: DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmapCheck it out, update and join the conversation to influence the next versions to come#GraphQL](https://twitter.com/GraphQL/status/1514283679299813382)
-- [@GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉After all the great feedback from the community, we&#39;ve incorporated changes around theming, usability, and extensibility.Let us know what you think:](https://twitter.com/GraphiQL/status/1508062921766674439)
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- GRAPHQL-TWITTER:END -->
 
 #### Study Notes
