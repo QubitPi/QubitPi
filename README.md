@@ -107,11 +107,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [中秋快乐｜准备了点心，一起吃吧？](https://ys.mihoyo.com/main/news/detail/22525)
+- [「派蒙的画作喜茶篇」联动主题表情包现已上架](https://ys.mihoyo.com/main/news/detail/22526)
 - [《原神》「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！](https://ys.mihoyo.com/main/news/detail/22524)
 - [《原神》「浮岳虹珠」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/22523)
 - [《原神》「浮生孰来」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/22522)
-- [《原神》拾枝杂谈-「多莉：居奇持盈」](https://ys.mihoyo.com/main/news/detail/22521)
-- [雷泽生日快乐｜礼物，很漂亮，而且好多。](https://ys.mihoyo.com/main/news/detail/22520)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
