@@ -427,16 +427,11 @@ My Tech Blogs
 
 ##### Links
 
-* [Newsletter](https://memgraph.com/newsletter/)
-* [Blogs](https://memgraph.com/blog)
-
-##### [Community Forum](https://discourse.memgraph.com/)
-
 <img align="right" width="25%" alt="community" src="https://user-images.githubusercontent.com/16126939/188777796-2eebe3be-0521-48dc-ace5-46205643eef9.png">
 
-<!-- MEMGRAPH-COMMUNITY-FORUM:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- MEMGRAPH-COMMUNITY-FORUM:END -->
+* [Newsletter](https://memgraph.com/newsletter/)
+* [Blogs](https://memgraph.com/blog)
+* [Community Forum](https://discourse.memgraph.com/)
 
 #### Neo4J
 
@@ -461,12 +456,6 @@ My Tech Blogs
 - [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=SQhMCw9zn8M)
 - [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
 <!-- NEO4J-YOUTUBE:END -->
-
-##### Blogs
-
-<!-- NEO4J-BLOGS:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- NEO4J-BLOGS:END -->
 
 #### JanusGraph
 
