@@ -439,11 +439,7 @@ My Tech Blogs
 <img align="right" width="25%" alt="community" src="https://user-images.githubusercontent.com/16126939/188777796-2eebe3be-0521-48dc-ace5-46205643eef9.png">
 
 <!-- MEMGRAPH-COMMUNITY-FORUM:START -->
-- [Attaching Weights between the Nodes in Dijkstra Algorithm](https://discourse.memgraph.com/t/attaching-weights-between-the-nodes-in-dijkstra-algorithm/308)
-- [Join us on Memgraph Cloud Live Event Stream tomorrow at 6:00 PM CET](https://discourse.memgraph.com/t/join-us-on-memgraph-cloud-live-event-stream-tomorrow-at-6-00-pm-cet/301)
-- [Memgraph Cloud is here!](https://discourse.memgraph.com/t/memgraph-cloud-is-here/295)
-- [How to run the Dijkstra Algorithm on a dataset in Memgraph](https://discourse.memgraph.com/t/how-to-run-the-dijkstra-algorithm-on-a-dataset-in-memgraph/294)
-- [Query timing out](https://discourse.memgraph.com/t/query-timing-out/293)
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- MEMGRAPH-COMMUNITY-FORUM:END -->
 
 #### Neo4J
