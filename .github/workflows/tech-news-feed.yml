@@ -122,7 +122,7 @@ jobs:
           committer_email: "jack20220723@gmail.com"
           comment_tag_name: "GRAPHQL-TWITTER"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/Hbb351sStDtxVV2R.xml"
+          feed_list: "https://rsshub.app/twitter/user/graphql"
 
   openstack-twitter:
     name: OpenStack Twitter
