@@ -476,19 +476,10 @@ My Tech Blogs
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
 
-### Quantum Mechanics
-
-<!-- QUANTUM-JOURNAL:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- QUANTUM-JOURNAL:END -->
-
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
-<table>   
-<tbody>
-<!-- DRIBBBLE-STORIES:START --><tr><td style='width:70%'><a href=https://rss.app>[Action required] Your RSS.app Trial has Expired.</a></td> <td style='width:30%'><img src=https://rss.app width='25%'></td></tr><!-- DRIBBBLE-STORIES:END -->
-</tbody>
-</table>
+<!-- DRIBBBLE-TRENDING:START -->
+<!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
 ------------------------------------------
