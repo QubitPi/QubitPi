@@ -383,11 +383,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Did you join Kaveh Vahedipour for his wealth of knowledge on ArangoDB clusters? If not, don&#39;t worry. We have you covered with our latest webinar avail...](https://twitter.com/arangodb/status/1568600201090289664)
 - [Check out part 2 of why graph theory is so amazing! This post goes into detail on depth-first search and topological sorting. 🔥 Read the full post ...](https://twitter.com/arangodb/status/1568343511824568324)
 - [Have you grabbed your ticket for ArangoDB CTO @joerg_schad&#39;s presentation at Big Data LDN, the UK&#39;s leading data &amp; analytics event, on Wednesday, Sept...](https://twitter.com/arangodb/status/1568207629222088705)
 - [Are graph databases a whole new world for you? 🤔 Our latest white paper can help you explore a graph database and learn how it can benefit your use...](https://twitter.com/arangodb/status/1567981121048088578)
 - [Our CEO, Shekhar Iyer, wants to personally invite you to ArangoDB Summit on October 4th and 5th, 2022. 🔥🥑 RSVP for ArangoDB Summit, our first-ev...](https://twitter.com/arangodb/status/1567875558243024896)
-- [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1567845233685106689)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
