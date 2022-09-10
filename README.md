@@ -414,11 +414,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The #memgraph stream in on :&rpar;](https://twitter.com/memgraphdb/status/1568510973341736962)
+- [We are just one hour away from live stream by @mbudiselicbuda. &quot;How to detect fraud with #Memgraph?&quot; Join us at](https://twitter.com/memgraphdb/status/1568509731542556678)
+- [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1568497761284243456)
 - [Do you read old IT-related magazines? :&rpar; #Memgraph #history #c #programminglanguages](https://twitter.com/memgraphdb/status/1568279548088950785)
 - [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1568274979195883522)
-- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1568274344673169408)
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1568273929252532225)
-- [Don&#39;t forget to join us tomorrow for a #Memgraph live stream by @mbudiselicbuda! See you at 10 AM CET.](https://twitter.com/memgraphdb/status/1568270793854820353)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
