@@ -18,7 +18,7 @@ jobs:
           commit_message: "New ArangoDB Blogs"
           comment_tag_name: "ARANGO-BLOGS"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/bdCFMzjmoEksTEBm.xml"
+          feed_list: "https://rss.app/feeds/q4XkB1Z7kdXRBkgM.xml"
   arangodb-twitter:
     name: Arango Twitter
     runs-on: ubuntu-latest
@@ -45,19 +45,6 @@ jobs:
           comment_tag_name: "MEMGRAPH-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/memgraphdb"
-  memgraph-forum:
-    name: Memgraph Community Forum
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Memgraph Community Posts"
-          comment_tag_name: "MEMGRAPH-COMMUNITY-FORUM"
-          max_post_count: "5"
-          feed_list: "https://rss.app/feeds/zRyh6C3XEsNblzDl.xml"
   neo4j-twitter:
     name: Neo4J Twitter
     runs-on: ubuntu-latest
@@ -84,19 +71,6 @@ jobs:
           comment_tag_name: "NEO4J-YOUTUBE"
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
-  neo4j-blog:
-    name: Neo4J Blogs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Neo4J Blogs"
-          comment_tag_name: "NEO4J-BLOGS"
-          max_post_count: "5"
-          feed_list: "https://rss.app/feeds/DjCVlvqed1vMUqbv.xml"
   janusgraph-twitter:
     name: JanusGraph Twitter
     runs-on: ubuntu-latest
