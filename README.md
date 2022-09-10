@@ -414,11 +414,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1568558913590525953)
+- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1568539921639407620)
+- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher](https://twitter.com/memgraphdb/status/1568520661135499264)
+- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1568520650389692417)
 - [The #memgraph stream in on :&rpar;](https://twitter.com/memgraphdb/status/1568510973341736962)
-- [We are just one hour away from live stream by @mbudiselicbuda. &quot;How to detect fraud with #Memgraph?&quot; Join us at](https://twitter.com/memgraphdb/status/1568509731542556678)
-- [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1568497761284243456)
-- [Do you read old IT-related magazines? :&rpar; #Memgraph #history #c #programminglanguages](https://twitter.com/memgraphdb/status/1568279548088950785)
-- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1568274979195883522)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
