@@ -21,7 +21,7 @@
 [ ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white) ](https://www.quora.com/profile/Jiaqi-Liu-185/)
 [![Ask Ubuntu](https://img.shields.io/badge/Ask%20Ubuntu-DC461C?style=for-the-badge&logo=AskUbuntu&logoColor=white)](https://askubuntu.com/users/1127171/jack)
 [ ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ](https://www.reddit.com/user/jack20191124)
-[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jiaqixy@protonmail.com)](mailto:jiaqixy@protonmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jack20191124@proton.me)](mailto:jack20191124@proton.me)
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=for-the-badge&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-BEATS%20GOOGLE-active?style=for-the-badge&logo=duckduckgo&logoColor=white)](https://duckduckgo.com/)
