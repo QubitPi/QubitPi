@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1568872229261246464)
+- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1568860901800820738)
 - [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1568607742079782913)
 - [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1568583827202756608)
 - [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1568570992976429061)
-- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1568558913590525953)
-- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1568539921639407620)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
