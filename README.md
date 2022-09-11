@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1568977922731507712)
 - [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1568951501459955715)
 - [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. #me...](https://twitter.com/memgraphdb/status/1568939420358742016)
 - [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1568910479396933633)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1568904691081269249)
-- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1568902300030099456)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
