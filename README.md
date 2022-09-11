@@ -442,11 +442,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [ML for Knowledge Graphs with Neo4j 📕💙 John Maiden’s three-project series is a hands-on instructional set hosted by Manning publications. @Manni...](https://twitter.com/neo4j/status/1568932370396372992)
+- [RT Alexander Erdl: Ever wondered how to visually get more from your graph data science project? @ySebp shows us how in the upcoming #neo4j live on 13 ...](https://twitter.com/alexandererdl/status/1568910220780134400)
 - [🍅 This time, Sixing demonstrates how to create a graph solution to companion planting. Check how to create a knowledge graph from the available tab...](https://twitter.com/neo4j/status/1568675701544595457)
 - [Have you seen the early access of Neo4j Importer? 🚀 #Neo4j #GraphDataScience #GraphDatabase #SQL #GraphConnect](https://twitter.com/neo4j/status/1568628278050562052)
 - [Re @JeremySF Yes cmd/ctrl and zoom. There should be also a message popup when you try your mouse wheel.](https://twitter.com/neo4j/status/1568546906611089410)
-- [👏High-Fidelity Load Preview is Now Available for Neo4j Data Importer. We already introduced the “Preview” feature, here, we created an enhanced a...](https://twitter.com/neo4j/status/1568471343972188160)
-- [🔥Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1568428570032095232)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
