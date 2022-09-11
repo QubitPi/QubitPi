@@ -473,6 +473,7 @@ My Tech Blogs
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
 
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
