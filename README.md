@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. #me...](https://twitter.com/memgraphdb/status/1568939420358742016)
+- [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1568910479396933633)
+- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1568904691081269249)
+- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1568902300030099456)
 - [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1568872229261246464)
-- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1568860901800820738)
-- [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1568607742079782913)
-- [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1568583827202756608)
-- [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1568570992976429061)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
