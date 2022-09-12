@@ -366,11 +366,11 @@ My Tech Blogs
 <img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamanetwo...](https://twitter.com/Web3foundation/status/1569284627109380098)
+- [Re A shoutout to @massbitprotocol for receiving a W3F grant to develop MassBit Route, a decentralized API service built on a @Substrate_io framework w...](https://twitter.com/Web3foundation/status/1569284624836349953)
+- [Re Congratulations to @FairSquares for completing their 2nd milestone as they work to co-create a more transparent and fairer housing market for tenan...](https://twitter.com/Web3foundation/status/1569284622365736961)
+- [Web3 Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all of ...](https://twitter.com/Web3foundation/status/1569284619731697664)
 - [Don&#39;t miss a deep dive into the metaverse and web3 led by @DrW3RK at Indonesian Blockchain Conference Register for a free ticket now:](https://twitter.com/Web3foundation/status/1568163550962630658)
-- [Tomorrow, on September 9th at 5pm CEST, join W3F&#39;s @DrW3RK &amp; @Starfish_Fi on Twitter Spaces to learn about Web3 Foundation, @Polkadot ecosystem, @subs...](https://twitter.com/Web3foundation/status/1567816952407531521)
-- [RT substrate: Tomorrow, on September 8th at 2:30pm CEST/6pm IST, tune in to the workshop on Substrate development with @Web3foundation&#39;s @DrW3RK. To l...](https://twitter.com/substrate_io/status/1567534403554885635)
-- [How can Web3 help restructure the media industry and power authentic news publishing? Learn about the collaborative project by @oiioxford&#39;s @djtomchak...](https://twitter.com/Web3foundation/status/1565255621183692800)
-- [RT Vincent Peyregne: Web3 Foundation to support WAN-IFRA’s collaborative #web3 media pilot project. Expression of interest is open until Sept 11. @We...](https://twitter.com/vincentpeyregne/status/1564238080428621824)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
