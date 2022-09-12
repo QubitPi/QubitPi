@@ -442,11 +442,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;Organisations that have harnessed the potential of big data through technologies such as graph data science will rightly become world leaders in thei...](https://twitter.com/neo4j/status/1569179750370840577)
 - [How would you spend a day off? Last Friday the entire company enjoyed our 3rd Global Wellness Day -- a day to disconnect from work and connect more wi...](https://twitter.com/neo4j/status/1569083389923233793)
 - [👾 Let’s build a simple recommendation engine using plain Cypher — Follow --&gt; @p_brunenberg #Neo4j #Database #SQL #Cypher #GraphDatabase](https://twitter.com/neo4j/status/1569033297883185154)
 - [🎬 Have you checked the series Under The Hood? Each episode helps grow your knowledge of graph databases. Learn how to do more with graphs in this s...](https://twitter.com/neo4j/status/1569018949177597958)
 - [ML for Knowledge Graphs with Neo4j 📕💙 John Maiden’s three-project series is a hands-on instructional set hosted by Manning publications. @Manni...](https://twitter.com/neo4j/status/1568932370396372992)
-- [RT Alexander Erdl: Ever wondered how to visually get more from your graph data science project? @ySebp shows us how in the upcoming #neo4j live on 13 ...](https://twitter.com/alexandererdl/status/1568910220780134400)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
