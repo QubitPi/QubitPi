@@ -480,8 +480,8 @@ My Tech Blogs
 - [I love to travel, but I won&#39;t fly](https://dribbble.com/shots/19324081)
 - [Secret management for devs: web design](https://dribbble.com/shots/19320179)
 - [Listen Mail](https://dribbble.com/shots/19329475)
-- [Claud SaaS Brand Identity](https://dribbble.com/shots/19256250)
 - [SafePal Wallet Swap](https://dribbble.com/shots/19288260)
+- [Claud SaaS Brand Identity](https://dribbble.com/shots/19256250)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
