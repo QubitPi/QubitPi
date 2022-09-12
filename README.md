@@ -422,11 +422,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Importing Table Data into a Graph Database with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1569275387196182529)
-- [Did you know that in graph databases, data relationships are represented by graph models? You can apply machine learning algorithms and other statisti...](https://twitter.com/memgraphdb/status/1569261541140172801)
-- [Do you automate every task that can be automated? Source: #memgraph #devhumor #legacycode #automation #xkcd](https://twitter.com/memgraphdb/status/1569220342803058690)
-- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1569217504278454273)
-- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1568977922731507712)
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1569344336071901184)
+- [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1569328985473007616)
+- [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1569325369458626562)
+- [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1569318920095498241)
+- [🎓 #Learn #Cypher with #Memgraph Relationship types are styled upper-case and use the underscore _ to separate multiple words. Relationship types ar...](https://twitter.com/memgraphdb/status/1569314644862320640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
