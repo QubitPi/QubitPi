@@ -442,11 +442,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Vlad by Graphville: The philosophy of](https://twitter.com/graphville/status/1569334984892379137)
+- [Mit Graph Data Science &lpar;GDS&rpar;, Data Importer und OpsManager wird der Einstieg in die #Graphtechnologie jetzt noch einfacher via @bigdata_insider #neo4j...](https://twitter.com/neo4j/status/1569334789043273728)
 - [RT Florent Biville: If you missed the session about @liquibase and @neo4j last week, the recording is here:](https://twitter.com/fbiville/status/1569275319231676416)
 - [Discover Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1569231072197750790)
 - [&quot;Organisations that have harnessed the potential of big data through technologies such as graph data science will rightly become world leaders in thei...](https://twitter.com/neo4j/status/1569179750370840577)
-- [How would you spend a day off? Last Friday the entire company enjoyed our 3rd Global Wellness Day -- a day to disconnect from work and connect more wi...](https://twitter.com/neo4j/status/1569083389923233793)
-- [👾 Let’s build a simple recommendation engine using plain Cypher — Follow --&gt; @p_brunenberg #Neo4j #Database #SQL #Cypher #GraphDatabase](https://twitter.com/neo4j/status/1569033297883185154)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
