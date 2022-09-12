@@ -346,9 +346,9 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 
 <!-- OPENSTACK-TWITTER:START -->
+- [We’re excited to announce that @VirtuozzoInc is now part of the #OpenStack Marketplace! You can now find Virtuozzo in the OpenStack Marketplace Distr...](https://twitter.com/OpenStack/status/1569355398305533954)
 - [The virtual OpenInfra PTG is coming up soon, October 17-21! Register now to join the #OpenStack teams there. See participating projects: Register for ...](https://twitter.com/OpenStack/status/1568283438725341184)
 - [Join the global #OpenInfra community for these upcoming episodes of OpenInfra Live: September 22: Around the World with OpenInfra Events September 29:...](https://twitter.com/OpenStack/status/1567876087471869954)
-- [The #OpenInfraSummit is back and heading to Canada! Registration, sponsorship opportunities, the travel support program, visa requests, and track chai...](https://twitter.com/OpenStack/status/1567558610338603009)
 - [The #OpenInfraSummit is heading to Canada!](https://twitter.com/OpenStack/status/1567528482430648320)
 - [RT OpenInfra Foundation: Today is a big day for the #OpenInfraSummit Vancouver 2023! Registration, sponsorship opportunities, the travel support progr...](https://twitter.com/openinfradev/status/1567528398993473537)
 <!-- OPENSTACK-TWITTER:END -->
