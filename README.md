@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Happy Programmers&#39; Day! 🎉 Today we are celebrating the hard work and passionate devotion of our #programmers, and we would like to wish them clean ...](https://twitter.com/memgraphdb/status/1569607298305196033)
 - [You know that #Memgraph is coming to @BigData_LDN, right? We have a cool prize for you 🏆 Here is a small teaser 🎮 ➡️Visit us at Stand 230 to f...](https://twitter.com/memgraphdb/status/1569593673733603329)
 - [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1569582912793714690)
 - [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;#BIKG&rpar; and distr...](https://twitter.com/memgraphdb/status/1569574356845477888)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1569344336071901184)
-- [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1569328985473007616)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
