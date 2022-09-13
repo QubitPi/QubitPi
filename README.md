@@ -338,7 +338,7 @@ My Tech Blogs
 * [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
 * [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
-* [React Basics - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
+* [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 
 <h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
