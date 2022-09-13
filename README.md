@@ -282,11 +282,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Single Responsibility Principle - What Defines a Reason to Change?](https://qubitpi.github.io/jersey-guide/finalized/2022/09/13/single-responsibility-principle-what-is-reason.html)
 - [Bearer Authentication](https://qubitpi.github.io/jersey-guide/finalized/2022/09/12/bearer-authentication.html)
 - [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
 - [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
 - [Tired of Null Pointer Exceptions? Consider Using Java SE 8’s “Optional”](https://qubitpi.github.io/jersey-guide/finalized/2022/09/07/java-optional.html)
-- [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
