@@ -458,7 +458,7 @@ My Tech Blogs
 - [25 - Adversarial Risk Analysis Using Knowledge Graphs](https://www.youtube.com/watch?v=tg3mO3RGw6Q)
 - [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=SQhMCw9zn8M)
 - [5 - Cybersecurity Automation with OSCAL and Neo4J](https://www.youtube.com/watch?v=FVCFmSIsYic)
-- [Going meta - Ep 8: A series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=iCrdR86AorU)
+- [Going meta - Ep 8: Common RDF Integration Patterns](https://www.youtube.com/watch?v=iCrdR86AorU)
 - [11 - Building an Authorization Solution for Microservices Using Neo4j and OPA](https://www.youtube.com/watch?v=KorJI9fIzUU)
 <!-- NEO4J-YOUTUBE:END -->
 
