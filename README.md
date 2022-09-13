@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705248692574093353><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/941435be9ada4e483a643fe94a44c546401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705350814042947620><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3ccc9687e57ad1e6a116f22e8c4d67a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #明珠妙弦# #珍珠之歌2# 《原神》「明珠妙弦」音乐主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 玩音乐的EZ：https://www.bilib...](https://t.bilibili.com/705350814042947620)
