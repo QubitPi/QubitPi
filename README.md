@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705350814042947620><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3ccc9687e57ad1e6a116f22e8c4d67a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #明珠妙弦# #珍珠之歌2# 《原神》「明珠妙弦」音乐主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 玩音乐的EZ：https://www.bilib...](https://t.bilibili.com/705350814042947620)
 - [#原神# #片剂深研# 亲爱的旅行者，「片剂深研」活动即将开启~ 活动期间，协助须弥的哈贾娜德进行研究，借助「重熔效应」进行战斗，完成相应试验和任务即可获取摆...](https://t.bilibili.com/705248692574093353)
 - [互动抽奖 #原神# #阿贝多# #生日快乐# 好久没和这么多人聚会，很新鲜的体验，谢谢你们的邀请。 不过看你的表情，是有话想对我说？ 那不如我们悄悄离开一会儿，出...](https://t.bilibili.com/705247464226029606)
 - [恭喜@阿白嗷嗷嗷 @小陈今天卑微了吗 @科科奔小康 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/704907221200273477)
 - [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第17弹」现已上线 亲爱的旅行者，「派蒙的画作第17弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/704876830003298320)
+- [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.0版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/704876310320644182)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
