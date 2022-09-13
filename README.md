@@ -481,7 +481,7 @@ My Tech Blogs
 - [Secret management for devs: web design](https://dribbble.com/shots/19320179)
 - [Listen Mail](https://dribbble.com/shots/19329475)
 - [SafePal Wallet Swap](https://dribbble.com/shots/19288260)
-- [Juno Website Design](https://dribbble.com/shots/19343432)
+- [Claud SaaS Brand Identity](https://dribbble.com/shots/19256250)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
