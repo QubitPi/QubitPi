@@ -443,11 +443,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Wanna try out Neo4j Single-Sign-On with the latest Keycloak version? 👉 Check out this repository – it has everything ready for you! #Github #Neo4j...](https://twitter.com/neo4j/status/1569793052121726976)
 - [In @InformationWeek, @neo4j&#39;s Kay Nair shares key factors to consider when building a long-term #cloud strategy, as well as advice on how to avoid the...](https://twitter.com/neo4j/status/1569764872543428611)
 - [To effectively deal with the rise in #cybersecurity attacks, advanced #data solutions are needed to empower the professional to correlate and analyse ...](https://twitter.com/neo4j/status/1569724355650756608)
 - [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks w/ @ySebp](https://twitter.com/neo4j/status/1569698963015749632)
 - [Happy Programmers&#39; Day!! 🎉🖥 Celebrate by challenging yourself in #Cypher --- the Code Golf challenge ends in 2 days and you can win amazing priz...](https://twitter.com/neo4j/status/1569687782146326529)
-- [RT Michael Simons: I&#39;m presenting at #Nodes 2022 about Neo4j-Migrations: The lean way of applying database refactorings to @Neo4j.](https://twitter.com/rotnroll666/status/1569603376987471878)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
