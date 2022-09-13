@@ -107,11 +107,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [阿贝多生日快乐｜不过看你的表情，是有话想对我说？](https://ys.mihoyo.com/main/news/detail/22538)
+- [《原神》「片剂深研」活动即将开启](https://ys.mihoyo.com/main/news/detail/22536)
 - [《原神》表情包「派蒙的画作第17弹」现已上线](https://ys.mihoyo.com/main/news/detail/22530)
 - [《原神》「壁纸放送」](https://ys.mihoyo.com/main/news/detail/22529)
 - [中秋快乐｜准备了点心，一起吃吧？](https://ys.mihoyo.com/main/news/detail/22525)
-- [「派蒙的画作喜茶篇」联动主题表情包现已上架](https://ys.mihoyo.com/main/news/detail/22526)
-- [《原神》「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「弓·阿莫斯之弓」概率UP！](https://ys.mihoyo.com/main/news/detail/22524)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
