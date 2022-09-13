@@ -443,11 +443,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Simons: I&#39;m presenting at #Nodes 2022 about Neo4j-Migrations: The lean way of applying database refactorings to @Neo4j.](https://twitter.com/rotnroll666/status/1569603376987471878)
 - [Neo4j&#39;s Nik Vora highlights how the company is transforming the graph data platform space as he underlines his focus on developers’ community and ent...](https://twitter.com/neo4j/status/1569552462838628352)
 - [Re @MatzeOne shows user creation in Neo4j through Node.js and hookup to the Vue.js frontend.](https://twitter.com/neo4j/status/1569438440101642241)
 - [Gal Engelberg from Accenture shares his best practices using #Neo4j Graph Data Science algorithms over knowledge graphs — while triaging business and...](https://twitter.com/neo4j/status/1569385424648273922)
 - [RT Vlad by Graphville: The philosophy of](https://twitter.com/graphville/status/1569334984892379137)
-- [Mit Graph Data Science &lpar;GDS&rpar;, Data Importer und OpsManager wird der Einstieg in die #Graphtechnologie jetzt noch einfacher via @bigdata_insider #neo4j...](https://twitter.com/neo4j/status/1569334789043273728)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
