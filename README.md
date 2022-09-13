@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705248692574093353><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/941435be9ada4e483a643fe94a44c546401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #片剂深研# 亲爱的旅行者，「片剂深研」活动即将开启~ 活动期间，协助须弥的哈贾娜德进行研究，借助「重熔效应」进行战斗，完成相应试验和任务即可获取摆...](https://t.bilibili.com/705248692574093353)
+- [互动抽奖 #原神# #阿贝多# #生日快乐# 好久没和这么多人聚会，很新鲜的体验，谢谢你们的邀请。 不过看你的表情，是有话想对我说？ 那不如我们悄悄离开一会儿，出...](https://t.bilibili.com/705247464226029606)
 - [恭喜@阿白嗷嗷嗷 @小陈今天卑微了吗 @科科奔小康 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/704907221200273477)
 - [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第17弹」现已上线 亲爱的旅行者，「派蒙的画作第17弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/704876830003298320)
 - [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.0版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/704876310320644182)
-- [#原神# #喜茶原神联动# #约定之旅 因你欢喜# 【「派蒙的画作喜茶篇」联动主题表情包现已上架】 喜茶×原神 联动活动现已开启！ 约定之旅，因你欢「喜」 亲爱的旅...](https://t.bilibili.com/704134840052613206)
-- [互动抽奖 #原神# #中秋快乐# 白先生说，叫我今天不要拘在药房里，要出来走走。 「今日」…嗯，我看看笔记…「宜好友相聚」，他是这么说的。 所以我们就来找你了...](https://t.bilibili.com/704134182927859765)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
