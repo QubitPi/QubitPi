@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1569582912793714690)
+- [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;#BIKG&rpar; and distr...](https://twitter.com/memgraphdb/status/1569574356845477888)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1569344336071901184)
 - [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1569328985473007616)
 - [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1569325369458626562)
-- [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1569318920095498241)
-- [🎓 #Learn #Cypher with #Memgraph Relationship types are styled upper-case and use the underscore _ to separate multiple words. Relationship types ar...](https://twitter.com/memgraphdb/status/1569314644862320640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
