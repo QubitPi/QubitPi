@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Read how @Cloudflare built Pingora, the #proxy that connects #Cloudflare to the Internet. #rust #coding #memgraph](https://twitter.com/memgraphdb/status/1570091990779396097)
 - [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1570067100588478464)
 - [#Meta moves #PyTorch to #Linux Foundation. #memgraph #coding #Python](https://twitter.com/memgraphdb/status/1570060656287555592)
 - [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1570051244969934848)
 - [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1570036398090231811)
-- [Do you think that fixing bugs is a great way to learn about the system? Source: #memgraph #devhumor #coding](https://twitter.com/memgraphdb/status/1570035138121322496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
