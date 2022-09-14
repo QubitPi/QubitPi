@@ -347,11 +347,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT Dotan Horovits @ Open Source Summit: I&#39;ve been involved with #openstack some years back. Now ppl say @OpenStack is dead. But in fact it&#39;s as active...](https://twitter.com/horovits/status/1570012130639749120)
+- [RT Stefano Maffulli: New usage of @OpenStack coming from the push to digital sovereignty from Europe and southeast Asia #ossummit @tcarrez](https://twitter.com/smaffulli/status/1570011519475396609)
+- [RT spotz - Amy Marrich 🌻: 41+ million cores running @OpenStack up from 25+ million just last year! @tcarrez](https://twitter.com/spotzz_/status/1570009630239256576)
 - [#OpenStack is broken up into services to allow you to plug and play components depending on your needs. The OpenStack map gives you an “at a glance”...](https://twitter.com/OpenStack/status/1569732922260824067)
 - [RT Kendall Nelson: I voted! If you are a part of the electorate for the @OpenStack #TechnicalCommittee #election, please exercise your right to vote! ...](https://twitter.com/knelson92/status/1569467386390265856)
-- [RT OpenInfra Foundation: In an effort to make the #OpenInfraSummit as inclusive as possible, the #OpenInfra Foundation provides a travel support progr...](https://twitter.com/openinfradev/status/1569385532584562688)
-- [We’re excited to announce that @VirtuozzoInc is now part of the #OpenStack Marketplace! You can now find Virtuozzo in the OpenStack Marketplace Distr...](https://twitter.com/OpenStack/status/1569355398305533954)
-- [RT Kendall Nelson: 45 teams participating in the @openinfradev #PTG!?! Have you registered yet?](https://twitter.com/knelson92/status/1569204720304267264)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
