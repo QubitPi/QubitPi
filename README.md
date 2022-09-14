@@ -443,11 +443,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Last chance to CODE &amp; WIN! Neo4j Cypher Code-Golf --&gt; #Cypher #Neo4j #CodingChallenge](https://twitter.com/neo4j/status/1570095205784879106)
 - [Are you ready for NODES 2022? A 2-day online event by and for Developers and Data Scientists. 💻 Save your spot! ---&gt; #Neo4j #Nodes22 #Nodes2022 #Gr...](https://twitter.com/neo4j/status/1570078479638487040)
 - [Re @dot_asterisk @_dmaus @MFlueh Let us know if you need anything for your series. And good luck and have fun. Please share when ready.](https://twitter.com/neo4j/status/1569892151080763392)
 - [🕵 Graph algorithms for cybersecurity — see why security teams are overwhelmed with data via Liz Maida, Co-Founder &amp; CEO, Uplevel Security. #neo4j ...](https://twitter.com/neo4j/status/1569865546425896960)
 - [Wonderful news! @Neo4j AuraDB has won the 2022 SaaS Award for “Best Data-Driven SaaS Product”! Congrats to all winners at SaaS Awards 2022! 👏 #aw...](https://twitter.com/neo4j/status/1569823283394265088)
-- [Wanna try out Neo4j Single-Sign-On with the latest Keycloak version? 👉 Check out this repository – it has everything ready for you! #Github #Neo4j...](https://twitter.com/neo4j/status/1569793052121726976)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
