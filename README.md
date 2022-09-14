@@ -388,11 +388,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Scalable Fraud Detection 🔒 This white paper will show how to convert data from relational to multi-model graphs, how various fraud detection querie...](https://twitter.com/arangodb/status/1570019552519487488)
 - [ArangoDB hosts bi-weekly Lunch and Learn sessions on all things ArangoDB. 🥑 Check out the full collection of our lunch and learn series, including ...](https://twitter.com/arangodb/status/1569793059080085504)
 - [Grab your spot for tomorrow, September 14th, 2022, to learn more about the Challenges of a Cloud Native Database with CTO @joerg_schad! ☁🥑 Registe...](https://twitter.com/arangodb/status/1569657164788121602)
 - [Explore how graph technology can be used to enhance context and connections. 🔥 Take a look at the full post here. 👇](https://twitter.com/arangodb/status/1569430670224785408)
 - [Join us this week for our next webinar, Challenges of a Cloud Native Database, on September 14th, 2022, with our CTO @joerg_schad. ☁ Register today, ...](https://twitter.com/arangodb/status/1568962573235544071)
-- [Did you join Kaveh Vahedipour for his wealth of knowledge on ArangoDB clusters? If not, don&#39;t worry. We have you covered with our latest webinar avail...](https://twitter.com/arangodb/status/1568600201090289664)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
