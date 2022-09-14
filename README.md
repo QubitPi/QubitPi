@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1569931707092017152)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1569706246420271108)
 - [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1569697916461121537)
 - [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda. Yo...](https://twitter.com/memgraphdb/status/1569683322363592704)
 - [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1569675832330752001)
-- [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1569657656469495810)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
