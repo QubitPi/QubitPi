@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705350814042947620><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3ccc9687e57ad1e6a116f22e8c4d67a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705622745596035108><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ccfd5f36640b1295434286aa3af9d297401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神得物# 得物×原神｜立「得」百货 现已发布~ https://www.bilibili.com/video/BV1ea411g7Se 熟悉的商人再次到来，这次他带来了什么样的旅行...](https://t.bilibili.com/705622745596035108)
