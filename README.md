@@ -478,11 +478,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [I love to travel, but I won&#39;t fly](https://dribbble.com/shots/19324081)
 - [Listen Mail](https://dribbble.com/shots/19329475)
 - [Set of pictograms](https://dribbble.com/shots/19368370)
 - [Juno Website Design](https://dribbble.com/shots/19343432)
-- [SafePal Wallet Swap](https://dribbble.com/shots/19288260)
+- [contracted: landing page, hero, identity, management](https://dribbble.com/shots/19363684)
+- [Cordial&#39;s Brandbook](https://dribbble.com/shots/19342624)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
