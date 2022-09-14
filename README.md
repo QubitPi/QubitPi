@@ -482,7 +482,7 @@ My Tech Blogs
 - [Secret management for devs: web design](https://dribbble.com/shots/19320179)
 - [Listen Mail](https://dribbble.com/shots/19329475)
 - [Juno Website Design](https://dribbble.com/shots/19343432)
-- [SafePal Wallet Swap](https://dribbble.com/shots/19288260)
+- [Set of pictograms](https://dribbble.com/shots/19368370)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
