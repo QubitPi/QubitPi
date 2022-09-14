@@ -423,11 +423,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Follow #Memgraph on YouTube :&rpar;](https://twitter.com/memgraphdb/status/1570007959240904705)
-- [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1569997393327955968)
-- [Meet the #Memgraph team at the @BigData_LDN conference! ➡️Visit us at Stand 230 See you in #London! 🇬🇧 #BigDataLDN](https://twitter.com/memgraphdb/status/1569990224024829954)
-- [❓Do you need an awesome data stream? We&#39;ve actually got several! ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1569965983112245250)
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1569940011369504768)
+- [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1570067100588478464)
+- [#Meta moves #PyTorch to #Linux Foundation. #memgraph #coding #Python](https://twitter.com/memgraphdb/status/1570060656287555592)
+- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1570051244969934848)
+- [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1570036398090231811)
+- [Do you think that fixing bugs is a great way to learn about the system? Source: #memgraph #devhumor #coding](https://twitter.com/memgraphdb/status/1570035138121322496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
