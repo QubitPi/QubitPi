@@ -455,11 +455,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Seguridad mediante roles en Neo4j](https://www.youtube.com/watch?v=tj07g3BpFNM)
 - [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
 - [25 - Adversarial Risk Analysis Using Knowledge Graphs](https://www.youtube.com/watch?v=tg3mO3RGw6Q)
 - [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=SQhMCw9zn8M)
 - [5 - Cybersecurity Automation with OSCAL and Neo4J](https://www.youtube.com/watch?v=FVCFmSIsYic)
-- [Going meta - Ep 8: Common RDF Integration Patterns](https://www.youtube.com/watch?v=iCrdR86AorU)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
