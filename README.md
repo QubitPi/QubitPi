@@ -410,11 +410,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Saturday is just around the corner, and you know what does that mean... 🎥It is time for another #Memgraph live stream with @mbudiselicbuda! 🎉 Th...](https://twitter.com/memgraphdb/status/1570450319632392193)
+- [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1570442907173408769)
+- [Sign up for the #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distributes it...](https://twitter.com/memgraphdb/status/1570427727383076864)
 - [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1570406334201307136)
 - [To Gzip or not to Gzip that is the question. What is your choice? #linux #unix #storage #memgraph](https://twitter.com/memgraphdb/status/1570401896741089282)
-- [Read how QR codes work. Article by @DanHollick #coding #QRCode #memgraph](https://twitter.com/memgraphdb/status/1570401364320174082)
-- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1570386454077116426)
-- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. If...](https://twitter.com/memgraphdb/status/1570378904933892096)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
