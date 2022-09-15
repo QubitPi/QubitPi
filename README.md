@@ -107,11 +107,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [立「得」百货 得物×原神 同人征集活动开启](https://ys.mihoyo.com/main/news/detail/22582)
+- [「立本的影集」——得物×原神 拍照分享活动现已上线](https://ys.mihoyo.com/main/news/detail/22583)
 - [《原神》四格漫画｜立本的新生意](https://ys.mihoyo.com/main/news/detail/22561)
 - [得物×原神｜立「得」百货](https://ys.mihoyo.com/main/news/detail/22560)
 - [《原神》3.1版本前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/22562)
-- [阿贝多生日快乐｜不过看你的表情，是有话想对我说？](https://ys.mihoyo.com/main/news/detail/22538)
-- [《原神》「片剂深研」活动即将开启](https://ys.mihoyo.com/main/news/detail/22536)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
