@@ -256,12 +256,14 @@ My Tech Blogs
 
 * Everything is built on top of **standards**. In our team, we _promote_ open standards with proven records and _kill_ personally-invented techniques because they do not improve team efficiency (_I've seen vividly some companies who treated standards as toilet paper, such as getting rid of Agile meetings and being stupid enough to write softwares without automated tests. These companies all ended up being hell_)
 * The amount of time to deliver a feature = Time(implementation) + Time(write test) + Time(code review) + Time(write documentation), where
-  <img align="right" alt="swe-is-not-just-coding.png" width="30%" src="https://user-images.githubusercontent.com/16126939/190294177-ab058dbc-2f6f-4b71-9523-f60e4c696f4e.png">
+
   $Time(\text{implementation}) \le Time(\text{write test}) \le Time(\text{code review}) \le Time(\text{write documentation})$
   
   or, the team planning should follow
   
   $Time(\text{delivering a feature}) \ge 4 \times Time(\text{implementation})$
+  
+  <img align="center" alt="swe-is-not-just-coding.png" width="50%" src="https://user-images.githubusercontent.com/16126939/190294177-ab058dbc-2f6f-4b71-9523-f60e4c696f4e.png">
   
   > Let developer take a break so they have enough time to forget about what they did in implementation & test before having them do a self-code-review
 
