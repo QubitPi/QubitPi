@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705999208071561216><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d2445b090bbc39342e68c81f5ef779c9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #原神得物# 「立本的影集」—— 拍照分享活动现已上线！ 旅行者们可前往评论区置顶链接参与「立本的影集」H5活动。 （注：建议旅行者设定竖屏锁...](https://t.bilibili.com/705999208071561216)
 - [恭喜@aniwoh @有了我欢乐多多 @鲸味流心糖_ 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/705649391566848005)
 - [互动抽奖 #原神# #原神得物# 得物×原神｜立「得」百货 现已发布~ https://www.bilibili.com/video/BV1ea411g7Se 熟悉的商人再次到来，这次他带来了什么样的旅行...](https://t.bilibili.com/705622745596035108)
 - [#原神# #原神得物# 《原神》四格漫画｜立本的新生意 画着小派蒙的盒子，当然要留作纪念啦。](https://t.bilibili.com/705621074855854136)
 - [得物×原神｜立「得」百货](https://t.bilibili.com/705619752018509862)
-- [#原神# #原神3.1# #赤土之王与三朝圣者# #3.1版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.1版本前瞻特别节目将于9月16日（本...](https://t.bilibili.com/705618562292645928)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
