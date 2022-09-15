@@ -410,11 +410,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1570352474283810818)
-- [Check out our blog post 📰 Introduction to Node Embedding ➡️](https://twitter.com/memgraphdb/status/1570352230917865473)
-- [PageRank is one of those iconic algorithms that have forever changed the technology world. Do you want to learn how to use #PageRank on #dynamic data?...](https://twitter.com/memgraphdb/status/1570330587302604804)
-- [#Windows Terminal brings the theming to the next version. via @cinnamon_msft and @WindowsDocs #coding #memgraph](https://twitter.com/memgraphdb/status/1570323611646566400)
-- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1570322283868078080)
+- [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1570406334201307136)
+- [To Gzip or not to Gzip that is the question. What is your choice? #linux #unix #storage #memgraph](https://twitter.com/memgraphdb/status/1570401896741089282)
+- [Read how QR codes work. Article by @DanHollick #coding #QRCode #memgraph](https://twitter.com/memgraphdb/status/1570401364320174082)
+- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1570386454077116426)
+- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. If...](https://twitter.com/memgraphdb/status/1570378904933892096)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
