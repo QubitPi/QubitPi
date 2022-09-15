@@ -410,11 +410,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Windows Terminal brings the theming to the next version. via @cinnamon_msft and @WindowsDocs #coding #memgraph](https://twitter.com/memgraphdb/status/1570323611646566400)
+- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1570322283868078080)
 - [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1570292585662676992)
 - [Read how @Cloudflare built Pingora, the #proxy that connects #Cloudflare to the Internet. #rust #coding #memgraph](https://twitter.com/memgraphdb/status/1570091990779396097)
 - [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1570067100588478464)
-- [#Meta moves #PyTorch to #Linux Foundation. #memgraph #coding #Python](https://twitter.com/memgraphdb/status/1570060656287555592)
-- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1570051244969934848)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
