@@ -468,8 +468,8 @@ My Tech Blogs
 - [Set of pictograms](https://dribbble.com/shots/19368370)
 - [Juno Website Design](https://dribbble.com/shots/19343432)
 - [contracted: landing page, hero, identity, management](https://dribbble.com/shots/19363684)
-- [Cordial&#39;s Brandbook](https://dribbble.com/shots/19342624)
 - [Bank Account](https://dribbble.com/shots/19378555)
+- [Cordial&#39;s Brandbook](https://dribbble.com/shots/19342624)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
