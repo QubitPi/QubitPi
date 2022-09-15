@@ -430,9 +430,9 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Tom Nijhof follows up his previous article by linking different synonyms of the same chemical compounds to each other...How? take a look! #Graphdataba...](https://twitter.com/neo4j/status/1570261143708663810)
 - [🌍 Valerio Piccioni creates a pipeline that translates English language phrases into Cypher queries, accessing the APIs of various speech-to-text se...](https://twitter.com/neo4j/status/1570200783127465985)
 - [Last chance to CODE &amp; WIN! Neo4j Cypher Code-Golf --&gt; #Cypher #Neo4j #CodingChallenge](https://twitter.com/neo4j/status/1570095205784879106)
-- [Are you ready for NODES 2022? A 2-day online event by and for Developers and Data Scientists. 💻 Save your spot! ---&gt; #Neo4j #Nodes22 #Nodes2022 #Gr...](https://twitter.com/neo4j/status/1570078479638487040)
 - [RT yWorks: If you missed the @neo4j talk with Sebastian our CTO and Alexander — don’t worry! You can watch it here: 📺 #datavisualization #diagram...](https://twitter.com/yworks/status/1570066533786988550)
 - [Re @dot_asterisk @_dmaus @MFlueh Let us know if you need anything for your series. And good luck and have fun. Please share when ready.](https://twitter.com/neo4j/status/1569892151080763392)
 <!-- NEO4J-TWITTER:END -->
