@@ -430,11 +430,11 @@ My Tech Blogs
 ##### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Friedrich Lindenberg for @open_sanctions talks to us about how they use Graph Technology to analyze different datasets to identify significant individ...](https://twitter.com/neo4j/status/1570487783399264256)
 - [Check this out! 💥 Ben Goosman demonstrates how graph visualization keeps track of his company’s complex relationships as managed in Jira, Airtable...](https://twitter.com/neo4j/status/1570442391974252546)
 - [RT OxfordGlobal: Last month, we had the chance to sit down with Dr. Maya Natarajan, Senior Director Knowledge Graphs at @neo4j. Covering insights into...](https://twitter.com/OGConferences/status/1570441057229279232)
 - [Tom Nijhof follows up his previous article by linking different synonyms of the same chemical compounds to each other...How? take a look! #Graphdataba...](https://twitter.com/neo4j/status/1570261143708663810)
 - [🌍 Valerio Piccioni creates a pipeline that translates English language phrases into Cypher queries, accessing the APIs of various speech-to-text se...](https://twitter.com/neo4j/status/1570200783127465985)
-- [Last chance to CODE &amp; WIN! Neo4j Cypher Code-Golf --&gt; #Cypher #Neo4j #CodingChallenge](https://twitter.com/neo4j/status/1570095205784879106)
 <!-- NEO4J-TWITTER:END -->
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
