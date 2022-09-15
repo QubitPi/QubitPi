@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705649391566848005><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/30f481c7d9f581417962a17cfa09c72e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705999208071561216><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d2445b090bbc39342e68c81f5ef779c9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@aniwoh @有了我欢乐多多 @鲸味流心糖_ 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/705649391566848005)
