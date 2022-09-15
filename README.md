@@ -116,7 +116,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/705999208071561216><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d2445b090bbc39342e68c81f5ef779c9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706026154702667781><img align='right' src='https://i1.hdslb.com/bfs/archive/d4ba8a0be677898019ac9d8cb9e79305a2041383.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神得物# 「立本的影集」—— 拍照分享活动现已上线！ 旅行者们可前往评论区置顶链接参与「立本的影集」H5活动。 （注：建议旅行者设定竖屏锁...](https://t.bilibili.com/705999208071561216)
