@@ -442,11 +442,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [62 - Graph-Based Network Topology Analysis for Telecom Operators](https://www.youtube.com/watch?v=C99EXfKNE9w)
 - [7 - Combining the Best Cloud Technologies with Innovative Engineering: How We Built Neo4j Aura](https://www.youtube.com/watch?v=ZYyKXzqh__Y)
 - [6 - Exploiting a Feature Store for Graphs on Neo4j](https://www.youtube.com/watch?v=YSrkza8HY00)
 - [Seguridad mediante roles en Neo4j](https://www.youtube.com/watch?v=OKSB8tV5xas)
 - [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
-- [25 - Adversarial Risk Analysis Using Knowledge Graphs](https://www.youtube.com/watch?v=tg3mO3RGw6Q)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
