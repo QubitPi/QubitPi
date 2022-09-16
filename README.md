@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目回顾长图](https://ys.mihoyo.com/main/news/detail/22592)
+- [《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目](https://ys.mihoyo.com/main/news/detail/22594)
+- [《原神》3.1版本PV：「赤土之王与三朝圣者」](https://ys.mihoyo.com/main/news/detail/22586)
+- [《原神》长期项目启动·概念PV](https://ys.mihoyo.com/main/news/detail/22593)
 - [立「得」百货 得物×原神 同人征集活动开启](https://ys.mihoyo.com/main/news/detail/22582)
-- [「立本的影集」——得物×原神 拍照分享活动现已上线](https://ys.mihoyo.com/main/news/detail/22583)
-- [《原神》四格漫画｜立本的新生意](https://ys.mihoyo.com/main/news/detail/22561)
-- [得物×原神｜立「得」百货](https://ys.mihoyo.com/main/news/detail/22560)
-- [《原神》3.1版本前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/22562)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
