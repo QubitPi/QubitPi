@@ -327,7 +327,7 @@ My Tech Blogs
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 * [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 
-#### [GraphQL Java](https://www.graphql-java.com/) Significant Changes
+#### [GraphQL Java](https://www.graphql-java.com/) Significant Changes <img width="5%" src="./img/graphql-java-logo.png">
 
 ##### [ANTLR Grammar](https://github.com/graphql-java/graphql-java/tree/master/src/main/antlr) Changes
 
