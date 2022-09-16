@@ -329,6 +329,8 @@ My Tech Blogs
 
 #### [GraphQL Java](https://www.graphql-java.com/) Significant Changes <img width="5%" src="./img/graphql-java-logo.png">
 
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
+
 ##### [ANTLR Grammar](https://github.com/graphql-java/graphql-java/tree/master/src/main/antlr) Changes
 
 <ul>
