@@ -327,7 +327,7 @@ My Tech Blogs
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 * [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 
-#### GraphQL Java Significant Changes
+#### [GraphQL Java](https://github.com/graphql-java/graphql-java) Significant Changes
 
 <ul>
 <!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:START --><li><a href=https://github.com/graphql-java/graphql-java/commit/4a82b0bbd1483d148f3abf575fe705be6d2b0f70>[Mon Dec 20 2021 4:02 AM] Allow leading pipe in directive SDL, and add leading union pipe tests &lpar;#2650&rpar;</a></li><li><a href=https://github.com/graphql-java/graphql-java/commit/dd290eabdc219ba5e725e0364cddcd2210fa169b>[Wed Jul 14 2021 1:54 AM] Update ANTLR grammar with new SourceCharacter definition</a></li><li><a href=https://github.com/graphql-java/graphql-java/commit/5b12cbeff757c7280177375814b92a4387db152f>[Tue Jun 29 2021 1:10 AM] Add full Unicode to parser, the happy path</a></li><li><a href=https://github.com/graphql-java/graphql-java/commit/f6460192969fdd87d3dcc12c3801e095ca58e90c>[Sun Jun 27 2021 12:19 PM] Fix extend type parsing issue &lpar;#2393&rpar;</a></li><li><a href=https://github.com/graphql-java/graphql-java/commit/ff3f6918330b9c78321b2fe6fce615ce2b155eac>[Sun Nov 15 2020 11:56 PM] Repeatable directives support &lpar;#2015&rpar;</a></li><!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:END -->
