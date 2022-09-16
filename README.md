@@ -482,10 +482,10 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Set of pictograms](https://dribbble.com/shots/19368370)
-- [Juno Website Design](https://dribbble.com/shots/19343432)
 - [Bank Account](https://dribbble.com/shots/19378555)
 - [contracted: landing page, hero, identity, management](https://dribbble.com/shots/19363684)
 - [Case Study: Juno Website Design](https://dribbble.com/shots/19362784)
+- [Cordial&#39;s Brandbook](https://dribbble.com/shots/19342624)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
