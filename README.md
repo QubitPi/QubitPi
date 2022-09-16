@@ -119,11 +119,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706391570511822932><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ccfd5f36640b1295434286aa3af9d297401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [恭喜@レインボードラゴン @Up你个大帅比 @追逐晨曦的少年 等30位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/706391570511822932)
-- [恭喜@渺小的配角 @bili_108123440 @栾城乱 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/706391561921888310)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/706026154702667781)
-- [互动抽奖 #原神# #原神得物# 「立本的影集」—— 拍照分享活动现已上线！ 旅行者们可前往评论区置顶链接参与「立本的影集」H5活动。 （注：建议旅行者设定竖屏锁...](https://t.bilibili.com/705999208071561216)
-- [恭喜@aniwoh @有了我欢乐多多 @鲸味流心糖_ 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/705649391566848005)
+- [互动抽奖 #原神# #风起雷涌特别的旅途# 亲爱的旅行者，凯迪拉克与原神的联动现已开启。 万叶和北斗邀你共同踏上特别的旅途，与凯迪拉克一起勇敢启程，解锁尘世新...](https://t.bilibili.com/706512877572325440)
+- [互动抽奖 #原神# #招行信用卡原神联名# 亲爱的旅行者，招商银行信用卡×原神联动现已开启。 来和甘雨共赴一场秋日之约吧。 活动详情请见@招商银行信用卡 关注@原...](https://t.bilibili.com/706511589073748016)
+- [#原神# #原神3.1# #赤土之王与三朝圣者# 《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目回顾长图 《原神》3.1版本「赤土之王与三朝圣者」将于2022年9月28日...](https://t.bilibili.com/706508157411655697)
+- [《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目](https://t.bilibili.com/706507543222943766)
+- [《原神》3.1版本PV：「赤土之王与三朝圣者」](https://t.bilibili.com/706503746476048457)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
