@@ -428,11 +428,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1570729716096679938)
+- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1570723671110451201)
+- [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1570723425039126528)
 - [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1570697505054273537)
 - [Re](https://twitter.com/memgraphdb/status/1570675985103855616)
-- [Are you using #StackOverflow? Be prepared for their maintenance next week. ;&rpar; &quot;Planned maintenance scheduled for Wednesday, 21 September, 00:30-03:00 ...](https://twitter.com/memgraphdb/status/1570672681221238786)
-- [To ask a question, or not to ask? Source: #memgraph #devhumor #senior #junior #coding](https://twitter.com/memgraphdb/status/1570662773591261185)
-- [Do you have a question about #Memgraph? Feel free to ask it at #stackoverflow. Just tag it with &quot;memgraphdb&quot; tag so that we see it ;&rpar; In our opinion, ...](https://twitter.com/memgraphdb/status/1570653848095555584)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
