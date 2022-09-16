@@ -419,8 +419,6 @@ My Tech Blogs
 
 ##### Links
 
-<img align="right" width="25%" alt="community" src="https://user-images.githubusercontent.com/16126939/188777796-2eebe3be-0521-48dc-ace5-46205643eef9.png">
-
 * [Newsletter](https://memgraph.com/newsletter/)
 * [Blogs](https://memgraph.com/blog)
 * [Community Forum](https://discourse.memgraph.com/)
@@ -429,6 +427,8 @@ My Tech Blogs
 
 ##### Twitter
 
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
+
 <!-- NEO4J-TWITTER:START -->
 - [Friedrich Lindenberg for @open_sanctions talks to us about how they use Graph Technology to analyze different datasets to identify significant individ...](https://twitter.com/neo4j/status/1570487783399264256)
 - [Check this out! 💥 Ben Goosman demonstrates how graph visualization keeps track of his company’s complex relationships as managed in Jira, Airtable...](https://twitter.com/neo4j/status/1570442391974252546)
@@ -436,8 +436,6 @@ My Tech Blogs
 - [Tom Nijhof follows up his previous article by linking different synonyms of the same chemical compounds to each other...How? take a look! #Graphdataba...](https://twitter.com/neo4j/status/1570261143708663810)
 - [🌍 Valerio Piccioni creates a pipeline that translates English language phrases into Cypher queries, accessing the APIs of various speech-to-text se...](https://twitter.com/neo4j/status/1570200783127465985)
 <!-- NEO4J-TWITTER:END -->
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 ##### YouTube
 
