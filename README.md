@@ -428,11 +428,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Re](https://twitter.com/memgraphdb/status/1570675985103855616)
+- [Are you using #StackOverflow? Be prepared for their maintenance next week. ;&rpar; &quot;Planned maintenance scheduled for Wednesday, 21 September, 00:30-03:00 ...](https://twitter.com/memgraphdb/status/1570672681221238786)
+- [To ask a question, or not to ask? Source: #memgraph #devhumor #senior #junior #coding](https://twitter.com/memgraphdb/status/1570662773591261185)
+- [Do you have a question about #Memgraph? Feel free to ask it at #stackoverflow. Just tag it with &quot;memgraphdb&quot; tag so that we see it ;&rpar; In our opinion, ...](https://twitter.com/memgraphdb/status/1570653848095555584)
 - [Saturday is just around the corner, and you know what does that mean... 🎥It is time for another #Memgraph live stream with @mbudiselicbuda! 🎉 Th...](https://twitter.com/memgraphdb/status/1570450319632392193)
-- [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1570442907173408769)
-- [Sign up for the #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distributes it...](https://twitter.com/memgraphdb/status/1570427727383076864)
-- [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1570406334201307136)
-- [To Gzip or not to Gzip that is the question. What is your choice? #linux #unix #storage #memgraph](https://twitter.com/memgraphdb/status/1570401896741089282)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
