@@ -442,11 +442,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [8 - New! Neo4j AuraDS: The Fastest Way to Get Started with Data Science in the Cloud](https://www.youtube.com/watch?v=5c1fHO-AnBg)
 - [62 - Graph-Based Network Topology Analysis for Telecom Operators](https://www.youtube.com/watch?v=C99EXfKNE9w)
 - [7 - Combining the Best Cloud Technologies with Innovative Engineering: How We Built Neo4j Aura](https://www.youtube.com/watch?v=ZYyKXzqh__Y)
 - [6 - Exploiting a Feature Store for Graphs on Neo4j](https://www.youtube.com/watch?v=YSrkza8HY00)
 - [Seguridad mediante roles en Neo4j](https://www.youtube.com/watch?v=OKSB8tV5xas)
-- [Neo4j Live: Easy Graph Visualisations for Data Scientists with yworks](https://www.youtube.com/watch?v=Kb6ZiXuq2eE)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
