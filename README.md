@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
-- [《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目回顾长图](https://ys.mihoyo.com/main/news/detail/22592)
-- [《原神》3.1版本「赤土之王与三朝圣者」前瞻特别节目](https://ys.mihoyo.com/main/news/detail/22594)
-- [《原神》3.1版本PV：「赤土之王与三朝圣者」](https://ys.mihoyo.com/main/news/detail/22586)
-- [《原神》长期项目启动·概念PV](https://ys.mihoyo.com/main/news/detail/22593)
-- [立「得」百货 得物×原神 同人征集活动开启](https://ys.mihoyo.com/main/news/detail/22582)
+- [《原神》首充双倍返利重置说明](https://ys.mihoyo.com/main/news/detail/22591)
+- [原神 x 罗森 联动活动即将于9月26日正式开启](https://ys.mihoyo.com/main/news/detail/22587)
+- [原神×支付宝跨界合作即将到来](https://ys.mihoyo.com/main/news/detail/22589)
+- [凯迪拉克 x 原神联动现已开启](https://ys.mihoyo.com/main/news/detail/22588)
+- [招商银行信用卡×原神联动现已开启](https://ys.mihoyo.com/main/news/detail/22590)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
