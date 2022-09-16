@@ -327,6 +327,12 @@ My Tech Blogs
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 * [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 
+#### GraphQL Java Significant Changes
+
+<!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:START -->
+
+<!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:END -->
+
 <h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
 #### Twitter
