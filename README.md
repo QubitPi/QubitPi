@@ -329,9 +329,11 @@ My Tech Blogs
 
 #### GraphQL Java Significant Changes
 
+<ul>
 <!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:START -->
 
 <!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES:END -->
+</ul>
 
 <h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
