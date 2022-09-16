@@ -375,11 +375,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Check out our movie recommendation engine demo &#39;ArangoFlix&#39; on our cloud service ArangoDB Cloud. 🔥🎥 Try it out today and have a 14-day 𝗙𝗥...](https://twitter.com/arangodb/status/1570517841719480320)
 - [Come hang out with us at @BigData_LDN! 🥑 ArangoDB will sponsor Big Data LDN &lpar;London&rpar;, the UK&#39;s leading free-to-attend data &amp; analytics conference a...](https://twitter.com/arangodb/status/1570381944352915458)
 - [Take 10 minutes and learn more about Personal Knowledge Graphs &lpar;PKGs&rpar;. 😎 After a brief overview, learn how PKGs impact your overall corporate knowl...](https://twitter.com/arangodb/status/1570155451840598017)
 - [Scalable Fraud Detection 🔒 This white paper will show how to convert data from relational to multi-model graphs, how various fraud detection querie...](https://twitter.com/arangodb/status/1570019552519487488)
 - [ArangoDB hosts bi-weekly Lunch and Learn sessions on all things ArangoDB. 🥑 Check out the full collection of our lunch and learn series, including ...](https://twitter.com/arangodb/status/1569793059080085504)
-- [Grab your spot for tomorrow, September 14th, 2022, to learn more about the Challenges of a Cloud Native Database with CTO @joerg_schad! ☁🥑 Registe...](https://twitter.com/arangodb/status/1569657164788121602)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
