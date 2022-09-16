@@ -111,7 +111,7 @@ jobs:
           comment_tag_name: "GRAPHQL-SPEC-SIGNIFICANT-CHANGES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/github/file/graphql/graphql-spec/main/spec"
-          template: "<li>[$date] <a href=$url>[$date] $title</a></li>"                    
+          template: "<li>$date <a href=$url>$title</a></li>"                    
   graphql-java-significant-changes-antlr:
     name: GraphQL Java Significant Changes (ANTLR Grammar)
     runs-on: ubuntu-latest
@@ -125,7 +125,7 @@ jobs:
           comment_tag_name: "GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR"
           max_post_count: "5"
           feed_list: "https://rsshub.app/github/file/graphql-java/graphql-java/master/src/main/antlr"
-          template: "<li>[$date] <a href=$url>$title</a></li>"
+          template: "<li>$date <a href=$url>$title</a></li>"
        
   openstack-twitter:
     name: OpenStack Twitter
