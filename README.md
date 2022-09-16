@@ -430,11 +430,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1570729716096679938)
-- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1570723671110451201)
-- [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1570723425039126528)
-- [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1570697505054273537)
-- [Re](https://twitter.com/memgraphdb/status/1570675985103855616)
+- [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1570797663209115648)
+- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1570782313285296128)
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1570777783034433541)
+- [#Memgraph will be at #BigDataLDN. Stand 230 is THE place that you don&#39;t want to miss. ;&rpar; Visit us to find out how to win the prize 🎉🎉🎉](https://twitter.com/memgraphdb/status/1570772073924161536)
+- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1570771237831311361)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
