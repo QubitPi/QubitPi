@@ -332,9 +332,7 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <ul>
-<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:START -->
-
-<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:END -->
+<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:START --><li>[Thu Sep 01 2022 7:38 PM] <a href=https://github.com/graphql/graphql-spec/commit/3aa021fb3651710508a37e13c71b7268189982f9>[Thu Sep 01 2022 7:38 PM] separate out IsSubType from IsValidImplementationFieldType &lpar;#977&rpar;</a></li><li>[Mon Jun 27 2022 5:34 PM] <a href=https://github.com/graphql/graphql-spec/commit/47a6bfdba35ad9b96cba501a52593d3f04c8c5e9>[Mon Jun 27 2022 5:34 PM] Editorial: Clarify intro for inline fragments &lpar;#969&rpar;</a></li><li>[Thu Jun 23 2022 11:27 PM] <a href=https://github.com/graphql/graphql-spec/commit/3885a64f3dc0f9cb64b43aaf1f77e661d98f4dca>[Thu Jun 23 2022 11:27 PM] Editorial: Error Terminology &lpar;#966&rpar;</a></li><li>[Tue Jun 21 2022 8:17 PM] <a href=https://github.com/graphql/graphql-spec/commit/9a96fc40f2307af15eecc3a257f85ec49adf50d9>[Tue Jun 21 2022 8:17 PM] Editorial: Clarity about subject being a GraphQL service or system &lpar;#965&rpar;</a></li><li>[Tue Jun 21 2022 8:09 PM] <a href=https://github.com/graphql/graphql-spec/commit/57bd86d779482e9167d2113a9ba926e2ecb74dcc>[Tue Jun 21 2022 8:09 PM] Editorial: Fix reference to object in interface introspection &lpar;#964&rpar;</a></li><!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:END -->
 </ul>
 
 #### [GraphQL Java](https://www.graphql-java.com/) Significant Changes <img width="5%" src="./img/graphql-java-logo.png">
