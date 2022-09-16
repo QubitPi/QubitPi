@@ -354,11 +354,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
 
 <!-- OPENSTACK-TWITTER:START -->
+- [An #OpenStack deployment contains a number of components providing APIs to access infrastructure resources. This page lists the various services that ...](https://twitter.com/OpenStack/status/1570820140559929344)
+- [RT Kendall Nelson: Getting started at the @AnitaB_org #GHC #OpenSourceDay!! So excited to meet all those attending today and interested in getting inv...](https://twitter.com/knelson92/status/1570791376580902912)
 - [RT VEXXHOST, Inc.: #Quiz Which @OpenStack component provides identity services? • Trove • Ceilometers • Keystone • Dragonflow ⬇️⬇️](https://twitter.com/vexxhost/status/1570442312265748483)
 - [RT OpenInfra Foundation: We’re excited to announce that @VirtuozzoInc is now part of the #OpenStack Marketplace! You can now find Virtuozzo in the Op...](https://twitter.com/openinfradev/status/1570080511867105280)
 - [RT Dotan Horovits @ Open Source Summit: I&#39;ve been involved with #openstack some years back. Now ppl say @OpenStack is dead. But in fact it&#39;s as active...](https://twitter.com/horovits/status/1570012130639749120)
-- [RT Stefano Maffulli: New usage of @OpenStack coming from the push to digital sovereignty from Europe and southeast Asia #ossummit @tcarrez](https://twitter.com/smaffulli/status/1570011519475396609)
-- [RT spotz - Amy Marrich 🌻: 41+ million cores running @OpenStack up from 25+ million just last year! @tcarrez](https://twitter.com/spotzz_/status/1570009630239256576)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
