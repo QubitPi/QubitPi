@@ -448,11 +448,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @Tom_Asel Really impressive Tom. And thank for for bringing the two worlds together! Making @swardley maps queryable is really powerful. Did you tr...](https://twitter.com/neo4j/status/1570734396986073088)
+- [RT Tom Asel 💙💛: Hey #WardleyMapping Community, this is for you: This is the famous tea shop example as a graph. Why would that be helpful? Quite...](https://twitter.com/Tom_Asel/status/1570702725859639298)
+- [RT CUHK Centre for Translation Technology: DIGITAL HUMANITIES INITIATIVE TALK SERIES -Fine-Tuning the Historian&#39;s Macroscope: Data Reuse and Medieval ...](https://twitter.com/CuhkCTT/status/1570671513321500672)
 - [Friedrich Lindenberg for @open_sanctions talks to us about how they use Graph Technology to analyze different datasets to identify significant individ...](https://twitter.com/neo4j/status/1570487783399264256)
 - [Check this out! 💥 Ben Goosman demonstrates how graph visualization keeps track of his company’s complex relationships as managed in Jira, Airtable...](https://twitter.com/neo4j/status/1570442391974252546)
-- [RT OxfordGlobal: Last month, we had the chance to sit down with Dr. Maya Natarajan, Senior Director Knowledge Graphs at @neo4j. Covering insights into...](https://twitter.com/OGConferences/status/1570441057229279232)
-- [Tom Nijhof follows up his previous article by linking different synonyms of the same chemical compounds to each other...How? take a look! #Graphdataba...](https://twitter.com/neo4j/status/1570261143708663810)
-- [🌍 Valerio Piccioni creates a pipeline that translates English language phrases into Cypher queries, accessing the APIs of various speech-to-text se...](https://twitter.com/neo4j/status/1570200783127465985)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
