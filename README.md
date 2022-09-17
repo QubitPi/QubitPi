@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》线上音乐会2022 - 无际之旅的旋律（预告）](https://ys.mihoyo.com/main/news/detail/22602)
 - [《原神》3.1版本「赤土之王与三朝圣者」先行展示页现已开启！](https://ys.mihoyo.com/main/news/detail/22603)
 - [魈·护法夜叉Ver.1/7静态手办 现已开启预售](https://ys.mihoyo.com/main/news/detail/22600)
 - [《原神》「地脉移涌」活动即将开启](https://ys.mihoyo.com/main/news/detail/22599)
 - [《原神》须弥篇OST「智妙明论之林」先导MV](https://ys.mihoyo.com/main/news/detail/22598)
-- [《原神》二周年定格动画-「路遇奇珍」](https://ys.mihoyo.com/main/news/detail/22597)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
