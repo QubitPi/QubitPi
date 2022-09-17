@@ -430,11 +430,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1571031705108250626)
+- [RT Memgraph: 🎉🥳Wow.. wow... wow... #Memgraph blog post is at the moment among the top 10 posts on Hacker news.](https://twitter.com/memgraphdb/status/1570819872191549446)
 - [🎉🥳Wow.. wow... wow... #Memgraph blog post is at the moment among the top 10 posts on Hacker news.](https://twitter.com/memgraphdb/status/1570819872191549446)
 - [🚀Toni Lastre &lpar;@tonilastre&rpar; and David Lozic have written a #deeptech blog post &quot;How to build a graph visualization engine and why you shouldn’t&quot;. #...](https://twitter.com/memgraphdb/status/1570817813530685441)
 - [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1570797663209115648)
-- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1570782313285296128)
-- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1570777783034433541)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
