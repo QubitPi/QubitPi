@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706738737009131604><img align='right' src='https://i0.hdslb.com/bfs/archive/cd6ae4928d6cb88e3fe12233786b3a12df3327ae.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706762651393327191><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/31fe61fbbc394c97d3a0e97951436194401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，魈·护法夜叉Ver.1/7静态手办PV公开！[原神_哇]](https://t.bilibili.com/706738737009131604)
