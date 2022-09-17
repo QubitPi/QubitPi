@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》纪念PV-「荧荧微光」](https://ys.mihoyo.com/main/news/detail/22596)
 - [《原神》首充双倍返利重置说明](https://ys.mihoyo.com/main/news/detail/22591)
 - [原神 x 罗森 联动活动即将于9月26日正式开启](https://ys.mihoyo.com/main/news/detail/22587)
 - [原神×支付宝跨界合作即将到来](https://ys.mihoyo.com/main/news/detail/22589)
 - [凯迪拉克 x 原神联动现已开启](https://ys.mihoyo.com/main/news/detail/22588)
-- [招商银行信用卡×原神联动现已开启](https://ys.mihoyo.com/main/news/detail/22590)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
