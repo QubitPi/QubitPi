@@ -450,11 +450,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j Graph Data Science 🚀 🐍 Native Python client 🤖 Machine learning pipelines just got a whole lot easier 🎓Best-in-class data science fun...](https://twitter.com/neo4j/status/1571255244398501889)
 - [Learn how to get started with the newly released Python client for Neo4j Graph Data Science, including the basic syntax #Python #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1571209137760997378)
 - [🔎Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph...](https://twitter.com/neo4j/status/1571167124348964876)
 - [🔥 The Hidden Markov Model is widely used in many areas, from language processing to bioinformatics, from physics to finance. Sixing Huang explains ...](https://twitter.com/neo4j/status/1571160579875692550)
 - [Knowledge Lakes! 🌊 Learn how this architecture will help central IT deploy a convenient single repository that will serve multiple data analytics p...](https://twitter.com/neo4j/status/1570967291403149312)
-- [Like Node.js? Free course Alert!👀 If you have a working knowledge of JavaScript, NPM, and the Node.js ecosystem, this is the course for you. Walk t...](https://twitter.com/neo4j/status/1570925552638328839)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
