@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [魈·护法夜叉Ver.1/7静态手办 现已开启预售](https://ys.mihoyo.com/main/news/detail/22600)
+- [《原神》「地脉移涌」活动即将开启](https://ys.mihoyo.com/main/news/detail/22599)
+- [《原神》须弥篇OST「智妙明论之林」先导MV](https://ys.mihoyo.com/main/news/detail/22598)
+- [《原神》二周年定格动画-「路遇奇珍」](https://ys.mihoyo.com/main/news/detail/22597)
 - [《原神》纪念PV-「荧荧微光」](https://ys.mihoyo.com/main/news/detail/22596)
-- [《原神》首充双倍返利重置说明](https://ys.mihoyo.com/main/news/detail/22591)
-- [原神 x 罗森 联动活动即将于9月26日正式开启](https://ys.mihoyo.com/main/news/detail/22587)
-- [原神×支付宝跨界合作即将到来](https://ys.mihoyo.com/main/news/detail/22589)
-- [凯迪拉克 x 原神联动现已开启](https://ys.mihoyo.com/main/news/detail/22588)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
