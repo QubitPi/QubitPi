@@ -430,11 +430,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1571122804489084929)
+- [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #k...](https://twitter.com/memgraphdb/status/1571116257633607680)
 - [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1571097891573321729)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1571095627374956548)
 - [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1571081031939248129)
-- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1571031705108250626)
-- [RT Memgraph: 🎉🥳Wow.. wow... wow... #Memgraph blog post is at the moment among the top 10 posts on Hacker news.](https://twitter.com/memgraphdb/status/1570819872191549446)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
