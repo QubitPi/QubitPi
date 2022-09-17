@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706778139037007893><img align='right' src='https://i1.hdslb.com/bfs/archive/acb5144458cf2b60edb895ff76ac419921eb4cb8.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706824851113902134><img align='right' src='https://i0.hdslb.com/bfs/archive/1ba9f0bef0cd55eccf380641bab8a8f034109bd4.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@明若弘 @魔女屑女 @秃头来打 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/706762651393327191)
