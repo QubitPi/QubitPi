@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706701001439051797><img align='right' src='https://i0.hdslb.com/bfs/archive/a963218542d7e7e52a263561a7ad2adc26a0c19d.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [《原神》纪念PV-「荧荧微光」](https://t.bilibili.com/706701001439051797)
-- [互动抽奖 #原神# #原神3.1# #赤土之王与三朝圣者# 《原神》3.1版本PV：「赤土之王与三朝圣者」现已发布~ https://www.bilibili.com/video/BV1yd4y1u7ef 曾经号令...](https://t.bilibili.com/706530847705006115)
-- [#原神# #ufotable# 亲爱的旅行者，miHoYo × ufotable《原神》长期项目启动。[原神_哇]](https://t.bilibili.com/706526183385202708)
-- [#原神# 《原神》首充双倍返利重置说明 《原神》将在3.1版本更新后进行首充双倍重置。届时凝取结晶界面的所有档位都会重置为首充双倍状态。 〓重置时间〓 3.1版本...](https://t.bilibili.com/706523013704581126)
-- [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神 x 罗森 联动活动即将于9月26日正式开启。](https://t.bilibili.com/706515896936431687)
+- [亲爱的旅行者，魈·护法夜叉Ver.1/7静态手办PV公开！[原神_哇]](https://t.bilibili.com/706738737009131604)
+- [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启~ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝奖励时，可获得双倍奖...](https://t.bilibili.com/706733415548846086)
+- [《原神》须弥篇OST「智妙明论之林」先导MV](https://t.bilibili.com/706731946676322457)
+- [亲爱的旅行者，一起来看看吧~[原神_哇]](https://t.bilibili.com/706716995884679222)
+- [互动抽奖 #原神# #荧荧微光# 《原神》纪念PV-「荧荧微光」现已发布~ https://www.bilibili.com/video/BV1X14y1a7Dh 「或许只有当深渊般的黑夜降临，才能注意到一...](https://t.bilibili.com/706709286424674312)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
