@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706530847705006115><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1e0629ebebd6120e09463b7944447bae401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706701001439051797><img align='right' src='https://i0.hdslb.com/bfs/archive/a963218542d7e7e52a263561a7ad2adc26a0c19d.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神3.1# #赤土之王与三朝圣者# 《原神》3.1版本PV：「赤土之王与三朝圣者」现已发布~ https://www.bilibili.com/video/BV1yd4y1u7ef 曾经号令...](https://t.bilibili.com/706530847705006115)
