@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706701001439051797><img align='right' src='https://i0.hdslb.com/bfs/archive/a963218542d7e7e52a263561a7ad2adc26a0c19d.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》纪念PV-「荧荧微光」](https://t.bilibili.com/706701001439051797)
 - [互动抽奖 #原神# #原神3.1# #赤土之王与三朝圣者# 《原神》3.1版本PV：「赤土之王与三朝圣者」现已发布~ https://www.bilibili.com/video/BV1yd4y1u7ef 曾经号令...](https://t.bilibili.com/706530847705006115)
 - [#原神# #ufotable# 亲爱的旅行者，miHoYo × ufotable《原神》长期项目启动。[原神_哇]](https://t.bilibili.com/706526183385202708)
 - [#原神# 《原神》首充双倍返利重置说明 《原神》将在3.1版本更新后进行首充双倍重置。届时凝取结晶界面的所有档位都会重置为首充双倍状态。 〓重置时间〓 3.1版本...](https://t.bilibili.com/706523013704581126)
 - [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神 x 罗森 联动活动即将于9月26日正式开启。](https://t.bilibili.com/706515896936431687)
-- [#原神# #原神支付宝# 亲爱的旅行者，原神×支付宝跨界合作即将到来。 9月22日起，旅行者们可通过参与支付宝出行频道推出的“天朗风清，绿色出行”主题活动，免费...](https://t.bilibili.com/706514161776984069)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
