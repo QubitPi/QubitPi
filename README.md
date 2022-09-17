@@ -430,11 +430,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1571097891573321729)
+- [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1571095627374956548)
+- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1571081031939248129)
 - [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1571031705108250626)
 - [RT Memgraph: 🎉🥳Wow.. wow... wow... #Memgraph blog post is at the moment among the top 10 posts on Hacker news.](https://twitter.com/memgraphdb/status/1570819872191549446)
-- [🎉🥳Wow.. wow... wow... #Memgraph blog post is at the moment among the top 10 posts on Hacker news.](https://twitter.com/memgraphdb/status/1570819872191549446)
-- [🚀Toni Lastre &lpar;@tonilastre&rpar; and David Lozic have written a #deeptech blog post &quot;How to build a graph visualization engine and why you shouldn’t&quot;. #...](https://twitter.com/memgraphdb/status/1570817813530685441)
-- [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1570797663209115648)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
