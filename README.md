@@ -450,11 +450,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Knowledge Lakes! 🌊 Learn how this architecture will help central IT deploy a convenient single repository that will serve multiple data analytics p...](https://twitter.com/neo4j/status/1570967291403149312)
 - [Like Node.js? Free course Alert!👀 If you have a working knowledge of JavaScript, NPM, and the Node.js ecosystem, this is the course for you. Walk t...](https://twitter.com/neo4j/status/1570925552638328839)
 - [Begin a journey into the structural elements of a @Neo4j graph, pattern matching, and the basics of the Cypher query language. WHERE? #Graphville trai...](https://twitter.com/neo4j/status/1570895309936496649)
 - [👉 With Link prediction pipelines you can use machine learning to uncover hidden relationships and predict future connections in your data. #Neo4j #...](https://twitter.com/neo4j/status/1570865145332523008)
 - [RT Thomas Larsen: My team and I have taken the first steps toward implementing a knowledge graph with Neo4j. The schema will expand as more types of n...](https://twitter.com/tlarsendataguy/status/1570856075284582400)
-- [Re @BigData_LDN is close! Come and meet us at the stand 328 to ask us all your #GraphDatabases questions. Register for free today! #Neo4j #GraphDataba...](https://twitter.com/neo4j/status/1570744449172443138)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
