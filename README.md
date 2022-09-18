@@ -443,11 +443,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1571531249419751425)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public #GitHub repositories at](https://twitter.com/memgraphdb/status/1571511366057426945)
 - [One #Memgraph blog post made it to the #Hackernews front page two days ago :&rpar; Did you read it already?](https://twitter.com/memgraphdb/status/1571503448817803265)
 - [Sign up for the special #Memgraph #Webinar! Learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distribut...](https://twitter.com/memgraphdb/status/1571487205608296450)
 - [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1571481665473777666)
-- [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1571476387092905989)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
