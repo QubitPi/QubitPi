@@ -443,11 +443,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1571375982593904640)
 - [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1571168862300667905)
 - [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1571150995035684866)
 - [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1571150741234151424)
 - [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1571131361217417218)
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1571122804489084929)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
