@@ -140,7 +140,20 @@ jobs:
           comment_tag_name: "OPENSTACK-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/OpenStack" 
-          
+  dockerhub-blog:
+    name: DockerHub Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New DockerHub Blog"
+          comment_tag_name: "DOCKERHUB-BLOG"
+          max_post_count: "5"
+          feed_list: "https://www.docker.com/feed/"
+
   web3-foundation-twitter:
     name: Web3 Foundation Twitter
     runs-on: ubuntu-latest
