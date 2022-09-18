@@ -46,7 +46,7 @@ jobs:
           max_post_count: "10"
           feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
           item_exec: |
-                    post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','');
+                    post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','').replace('undefined 新关注 ','');
           template: "<li><a href=$url>$title</a></li>"
   trippled-videos:
     name: Trippled Videos
