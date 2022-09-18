@@ -361,6 +361,7 @@ My Tech Blogs
 - [RT Dotan Horovits @ Open Source Summit: I&#39;ve been involved with #openstack some years back. Now ppl say @OpenStack is dead. But in fact it&#39;s as active...](https://twitter.com/horovits/status/1570012130639749120)
 <!-- OPENSTACK-TWITTER:END -->
 
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 <h3><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h3>
 
 <!-- DOCKERHUB-BLOG:START -->
