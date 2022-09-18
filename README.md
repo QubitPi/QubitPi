@@ -443,11 +443,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1571476387092905989)
+- [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1571461286734561286)
 - [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1571449711378440193)
 - [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1571427816834535426)
 - [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1571387046865813506)
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1571375982593904640)
-- [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1571168862300667905)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
