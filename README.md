@@ -351,7 +351,7 @@ My Tech Blogs
 
 #### Twitter
 
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png">
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
 - [An #OpenStack deployment contains a number of components providing APIs to access infrastructure resources. This page lists the various services that ...](https://twitter.com/OpenStack/status/1570820140559929344)
