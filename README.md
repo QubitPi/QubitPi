@@ -408,11 +408,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Don&#39;t worry about introducing yourself to ArangoDB&#39;s Cloud Managed Service; we have a guided tour and demo datasets so you can get started immediately...](https://twitter.com/arangodb/status/1571469104850280449)
 - [Learn how Innoplexus used ArangoDB to create one database to manage the Innoplexus KOL discovery and management platform. Read the full case study bel...](https://twitter.com/arangodb/status/1571136912248774663)
 - [The graph database world is the place to be. Take a peek at this brief article on what is a graph database, how a graph database work, and the reasons...](https://twitter.com/arangodb/status/1570880219531313156)
 - [Come hang out with Team Avocado! ArangoDB is excited to announce that we are sponsoring @KubeCon_ + @CloudNativeFdn North America, October 24th - 28th...](https://twitter.com/arangodb/status/1570744331731968000)
 - [Check out our movie recommendation engine demo &#39;ArangoFlix&#39; on our cloud service ArangoDB Cloud. 🔥🎥 Try it out today and have a 14-day 𝗙𝗥...](https://twitter.com/arangodb/status/1570517841719480320)
-- [Come hang out with us at @BigData_LDN! 🥑 ArangoDB will sponsor Big Data LDN &lpar;London&rpar;, the UK&#39;s leading free-to-attend data &amp; analytics conference a...](https://twitter.com/arangodb/status/1570381944352915458)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
