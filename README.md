@@ -448,11 +448,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1571803541890539520)
+- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️](https://twitter.com/memgraphdb/status/1571768317517479937)
+- [Is the number input the worst input? #coding #javascript #memgraph #stackoverflow](https://twitter.com/memgraphdb/status/1571767197822849025)
 - [Visit us at Stand 230 at #BigDataLDN. For more details visit](https://twitter.com/memgraphdb/status/1571757510192730112)
 - [🗓️Just two more days until the start of @BigData_LDN. #Memgraph will be at Stand 230. #⃣2⃣3⃣0⃣ Be sure to visit us. You might even win a prize...](https://twitter.com/memgraphdb/status/1571754315726966785)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1571746919918993408)
-- [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1571531249419751425)
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public #GitHub repositories at](https://twitter.com/memgraphdb/status/1571511366057426945)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
