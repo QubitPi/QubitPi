@@ -468,11 +468,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT William Lyon: 🌍 I&#39;ll be speaking about spatial knowledge graphs and #GIS at @neo4j&#39;s #NODES2022 online conference in November! 🌍 Join me and ...](https://twitter.com/lyonwj/status/1571964403624603648)
 - [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1571886844928839681)
 - [Importing &lpar;BEER&rpar; data into Neo4j - WITHOUT CODING or pain — with @rvanbruggen. 🍻 #neo4j #graphdatabase #database](https://twitter.com/neo4j/status/1571871017064353792)
 - [RT Tom Nijhof: Thanks to a helpful message from @rweverwijk I optimized my #Neo4j #Cypher query by a factor of 5! Just need to learn to use parameters...](https://twitter.com/wagenrace/status/1571854122462191624)
 - [In @DynamicBusiness, @neo4j&#39;s Nik Vora shares, &quot;a graph data platform bridges data silo and creates a connected #supplychain that will enable business...](https://twitter.com/neo4j/status/1571852375828086788)
-- [NODES, THE online event by and for Developers and Data Scientists, is getting closer! 🎉 What was your favourite part of the past NODES editions?? Y...](https://twitter.com/neo4j/status/1571831900809097221)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
