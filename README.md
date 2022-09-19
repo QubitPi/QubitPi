@@ -468,11 +468,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [In @DynamicBusiness, @neo4j&#39;s Nik Vora shares, &quot;a graph data platform bridges data silo and creates a connected #supplychain that will enable business...](https://twitter.com/neo4j/status/1571852375828086788)
 - [NODES, THE online event by and for Developers and Data Scientists, is getting closer! 🎉 What was your favourite part of the past NODES editions?? Y...](https://twitter.com/neo4j/status/1571831900809097221)
 - [RT Florent Biville: 💥 the new documentation website for the @neo4j extension for @liquibase is out:](https://twitter.com/fbiville/status/1571818018417565697)
 - [RT Adrien SALES: 💡 Boot a @neo4j and install #apoc and #graphdatascience plugins with a single #docker commandline 😱 🪄 Discover this awesome ...](https://twitter.com/rastadidi/status/1571793922732720128)
 - [Are you in Brisbane? 📍 Don&#39;t miss this meetup! Matt will provide an overview of @Neo4j, and how to translate from relational databases to graph dat...](https://twitter.com/neo4j/status/1571710697909719041)
-- [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1571688787687743490)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
