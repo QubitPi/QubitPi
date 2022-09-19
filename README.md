@@ -463,11 +463,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Are you in Brisbane? 📍 Don&#39;t miss this meetup! Matt will provide an overview of @Neo4j, and how to translate from relational databases to graph dat...](https://twitter.com/neo4j/status/1571710697909719041)
 - [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1571688787687743490)
 - [Check out the new release of @graphlytic — manage multiple knowledge graphs in one place. Read the blog. #neo4jcommunity #Neo4j](https://twitter.com/neo4j/status/1571631676786188290)
 - [Telecom providers suffer from outdated, manually-maintained inventory data. Nouamane Bensaoud from Sopra Steria performs a traffic simulation using Ne...](https://twitter.com/neo4j/status/1571620099861381121)
 - [😷 Predicting clinical trial outcomes using drug bioactivities through graph database integration and machine learning. #neo4jcommunity #machinelear...](https://twitter.com/neo4j/status/1571299987387998209)
-- [Neo4j Graph Data Science 🚀 🐍 Native Python client 🤖 Machine learning pipelines just got a whole lot easier 🎓Best-in-class data science fun...](https://twitter.com/neo4j/status/1571255244398501889)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
