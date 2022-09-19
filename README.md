@@ -463,11 +463,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Check out the new release of @graphlytic — manage multiple knowledge graphs in one place. Read the blog. #neo4jcommunity #Neo4j](https://twitter.com/neo4j/status/1571631676786188290)
 - [Telecom providers suffer from outdated, manually-maintained inventory data. Nouamane Bensaoud from Sopra Steria performs a traffic simulation using Ne...](https://twitter.com/neo4j/status/1571620099861381121)
 - [😷 Predicting clinical trial outcomes using drug bioactivities through graph database integration and machine learning. #neo4jcommunity #machinelear...](https://twitter.com/neo4j/status/1571299987387998209)
 - [Neo4j Graph Data Science 🚀 🐍 Native Python client 🤖 Machine learning pipelines just got a whole lot easier 🎓Best-in-class data science fun...](https://twitter.com/neo4j/status/1571255244398501889)
 - [Learn how to get started with the newly released Python client for Neo4j Graph Data Science, including the basic syntax #Python #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1571209137760997378)
-- [RT Michael Simons: A screw it… See you at @Devoxx Belgium… Find me at the #Neo4j booth and at the conference and ask me about all things Neo4j, Cyph...](https://twitter.com/rotnroll666/status/1571169089497743362)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
