@@ -448,11 +448,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1571854628551069696)
+- [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1571854628504977409)
 - [Whenever you are not sure how to write a Cypher query, you can just take a look at this cheat sheet and try again! 🤣 #memgraph #graphdatabase #cyph...](https://twitter.com/memgraphdb/status/1571825436459425793)
 - [Re @ZedAtWork Be sure to come to #Memgraph stand at #BigDataLDN and scan the QR code :&rpar;](https://twitter.com/memgraphdb/status/1571814875315273729)
 - [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1571803541890539520)
-- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️](https://twitter.com/memgraphdb/status/1571768317517479937)
-- [Is the number input the worst input? #coding #javascript #memgraph #stackoverflow](https://twitter.com/memgraphdb/status/1571767197822849025)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
