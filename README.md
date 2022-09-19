@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/706840128302088214><img align='right' src='https://i2.hdslb.com/bfs/archive/eb4a5dd02457a20c7f107b7acdda672a5742c4f1.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/707474078370365457><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/083c2cc1e3a04fe31f564d92ce39049c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》二周年配音演员祝福-「来自彼方的声音」](https://t.bilibili.com/706840128302088214)
