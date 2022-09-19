@@ -364,7 +364,7 @@ My Tech Blogs
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
-<h3><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h3>
+<h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
 
 <!-- DOCKERHUB-BLOG:START -->
 - [Clarifying Misconceptions About Web3 and Its Relevance With Docker](https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/)
@@ -373,6 +373,11 @@ My Tech Blogs
 - [Four Ways Docker Boosts Enterprise Software Development](https://www.docker.com/blog/four-ways-docker-boosts-enterprise-software-development/)
 - [Containerizing a Slack Clone App Built with the MERN Stack](https://www.docker.com/blog/containerizing-a-slack-clone-app-built-with-the-mern-stack/)
 <!-- DOCKERHUB-BLOG:END -->
+
+#### Study Notes
+
+* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
+* [Rancher - A Virtualized CI/CD on top of Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2021/08/05/rancher.html)
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
 
