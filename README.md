@@ -468,11 +468,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1571886844928839681)
+- [Importing &lpar;BEER&rpar; data into Neo4j - WITHOUT CODING or pain — with @rvanbruggen. 🍻 #neo4j #graphdatabase #database](https://twitter.com/neo4j/status/1571871017064353792)
+- [RT Tom Nijhof: Thanks to a helpful message from @rweverwijk I optimized my #Neo4j #Cypher query by a factor of 5! Just need to learn to use parameters...](https://twitter.com/wagenrace/status/1571854122462191624)
 - [In @DynamicBusiness, @neo4j&#39;s Nik Vora shares, &quot;a graph data platform bridges data silo and creates a connected #supplychain that will enable business...](https://twitter.com/neo4j/status/1571852375828086788)
 - [NODES, THE online event by and for Developers and Data Scientists, is getting closer! 🎉 What was your favourite part of the past NODES editions?? Y...](https://twitter.com/neo4j/status/1571831900809097221)
-- [RT Florent Biville: 💥 the new documentation website for the @neo4j extension for @liquibase is out:](https://twitter.com/fbiville/status/1571818018417565697)
-- [RT Adrien SALES: 💡 Boot a @neo4j and install #apoc and #graphdatascience plugins with a single #docker commandline 😱 🪄 Discover this awesome ...](https://twitter.com/rastadidi/status/1571793922732720128)
-- [Are you in Brisbane? 📍 Don&#39;t miss this meetup! Matt will provide an overview of @Neo4j, and how to translate from relational databases to graph dat...](https://twitter.com/neo4j/status/1571710697909719041)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
