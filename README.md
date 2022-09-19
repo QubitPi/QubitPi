@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/707474078370365457><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/083c2cc1e3a04fe31f564d92ce39049c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #流星的轨迹# 「《原神》版本PV主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《流星的轨迹 Footprints of the Traveler》。 旅...](https://t.bilibili.com/707474078370365457)
 - [《原神》二周年配音演员祝福-「来自彼方的声音」](https://t.bilibili.com/706840128302088214)
 - [终于可以玩原神了](https://t.bilibili.com/706824851113902134)
 - [《原神》线上音乐会2022 - 无际之旅的旋律（预告）](https://t.bilibili.com/706778139037007893)
 - [恭喜@明若弘 @魔女屑女 @秃头来打 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/706762651393327191)
-- [互动抽奖 #原神# #智妙明论之林# 《原神》须弥篇OST「智妙明论之林」先导MV 现已发布~ https://www.bilibili.com/video/BV1He4y1y76A 本次须弥篇OST先导MV以《Hu...](https://t.bilibili.com/706762127411511314)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
