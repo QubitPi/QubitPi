@@ -479,11 +479,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Get ready for NODES 2022---&gt; register FOR FREE to this 24h online event where you&#39;ll find talks and workshops by developers and data scientists. #Node...](https://twitter.com/neo4j/status/1572239706359828481)
+- [Big Data Quarterly presents 2022s “Big Data 50,” featuring @neo4j alongside other incredible companies driving innovation in the industry! #neo4j #g...](https://twitter.com/neo4j/status/1572225344748531712)
+- [KI und Algorithmen kommen in der Medizintechnik immer häufiger zum Einsatz. Die Technologie der Zukunft braucht ethische Rahmenlinien und eine Techno...](https://twitter.com/neo4j/status/1572207212570746893)
 - [RT Michael Simons: My talk that I submitted to @oredev will be slightly different than the first time I held it. I will focus on what I learned while ...](https://twitter.com/rotnroll666/status/1572127655893270528)
 - [Cypher is Neo4j’s powerful query language! 💻 Take this one-hour training to start reading and writing data to the graph. It&#39;s free! 😮 #Cypher #...](https://twitter.com/neo4j/status/1572051454193442817)
-- [Using @Neo4j Graph Data Science to Understand and Improve Your Supply Chain Performance ⛓ #SupplyChainSolultions #Neo4j #GraphDataScience #Data](https://twitter.com/neo4j/status/1572008912294903808)
-- [RT William Lyon: 🌍 I&#39;ll be speaking about spatial knowledge graphs and #GIS at @neo4j&#39;s #NODES2022 online conference in November! 🌍 Join me and ...](https://twitter.com/lyonwj/status/1571964403624603648)
-- [Verbesserte Usability bei @neo4j dank automatischer Modellierung von Daten, Backend-Administration und weiteren Features via @sysbus_eu #neo4j #graphd...](https://twitter.com/neo4j/status/1571886844928839681)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
