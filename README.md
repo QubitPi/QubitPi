@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🗓️@BigData_LDN starts tomorrow! 🎉🎉🎉 #Memgraph will be at Stand 230. #⃣2⃣3⃣0⃣ Do you want to be Number 1 on our Leaderboard and with t...](https://twitter.com/memgraphdb/status/1572244063419514881)
+- [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️](https://twitter.com/memgraphdb/status/1572242435102724100)
 - [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1572224073693806598)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at #memgraph #graphmodeling #graphdat...](https://twitter.com/memgraphdb/status/1572221549943427073)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1572202675466272768)
-- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1572201522741616640)
-- [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1572193802512646144)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
