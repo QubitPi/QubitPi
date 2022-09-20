@@ -515,8 +515,8 @@ My Tech Blogs
 - [Bank Account](https://dribbble.com/shots/19378555)
 - [Tasks](https://dribbble.com/shots/19438127)
 - [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
+- [Oso Supply Branding](https://dribbble.com/shots/19424977)
 - [Card ID Services Mobile App Concept](https://dribbble.com/shots/19377724)
-- [Kudoe Logo Design](https://dribbble.com/shots/19389781)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
