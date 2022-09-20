@@ -514,9 +514,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Set of pictograms](https://dribbble.com/shots/19368370)
 - [Bank Account](https://dribbble.com/shots/19378555)
-- [contracted: landing page, hero, identity, management](https://dribbble.com/shots/19363684)
 - [Nudge 3D animated. Navigation](https://dribbble.com/shots/19369982)
 - [Cyber security solution: illustration set](https://dribbble.com/shots/19368750)
+- [Card ID Services Mobile App Concept](https://dribbble.com/shots/19377724)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
