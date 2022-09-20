@@ -270,6 +270,12 @@ My Tech Blogs
 - [Developing a Strategy for Organization’s Open Source Project](https://qubitpi.github.io/jersey-guide/management/2022/09/02/oss-strategies.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
+#### scrum.org community blogs
+
+<!-- SCRUM-DOT-ORG-BLOGS:START -->
+
+<!-- SCRUM-DOT-ORG-BLOGS:END -->
+
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
