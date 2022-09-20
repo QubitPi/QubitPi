@@ -376,6 +376,7 @@ My Tech Blogs
 
 #### Study Notes
 
+* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [Rancher - A Virtualized CI/CD on top of Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2021/08/05/rancher.html)
 
