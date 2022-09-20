@@ -366,11 +366,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT OpenInfra Foundation: Looking to get involved in the local community in Maastricht, Netherlands? We have a new user group for you to join! Meet loc...](https://twitter.com/openinfradev/status/1572178936624304131)
 - [#OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed an...](https://twitter.com/OpenStack/status/1571952467482386435)
 - [RT Sofi 👩🏻‍💻: I had a great time mentoring for the Open Source Day 👩‍💻🙌😁 @ghc @OpenStack @RedHatJobs We made a great team @gpac...](https://twitter.com/EnriquetaSo/status/1570956018850603008)
 - [An #OpenStack deployment contains a number of components providing APIs to access infrastructure resources. This page lists the various services that ...](https://twitter.com/OpenStack/status/1570820140559929344)
 - [RT Kendall Nelson: Getting started at the @AnitaB_org #GHC #OpenSourceDay!! So excited to meet all those attending today and interested in getting inv...](https://twitter.com/knelson92/status/1570791376580902912)
-- [RT VEXXHOST, Inc.: #Quiz Which @OpenStack component provides identity services? • Trove • Ceilometers • Keystone • Dragonflow ⬇️⬇️](https://twitter.com/vexxhost/status/1570442312265748483)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
