@@ -512,11 +512,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Set of pictograms](https://dribbble.com/shots/19368370)
 - [Bank Account](https://dribbble.com/shots/19378555)
 - [Nudge 3D animated. Navigation](https://dribbble.com/shots/19369982)
-- [Cyber security solution: illustration set](https://dribbble.com/shots/19368750)
 - [Card ID Services Mobile App Concept](https://dribbble.com/shots/19377724)
+- [Kudoe Logo Design](https://dribbble.com/shots/19389781)
+- [Formance - Notifications](https://dribbble.com/shots/19372323)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
