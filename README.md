@@ -514,8 +514,8 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Bank Account](https://dribbble.com/shots/19378555)
 - [Card ID Services Mobile App Concept](https://dribbble.com/shots/19377724)
-- [Kudoe Logo Design](https://dribbble.com/shots/19389781)
 - [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
+- [Kudoe Logo Design](https://dribbble.com/shots/19389781)
 - [Wonde – Navigation](https://dribbble.com/shots/19392749)
 <!-- DRIBBBLE-TRENDING:END -->
 
