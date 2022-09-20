@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/707845258066526291><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c660709b7eee9d54634678bc70db9849401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/707875902638260247><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/01d7dac8184d47947480b8ebaacc3bc6401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #流星的轨迹# 亲爱的旅行者，《原神》版本PV主题OST《流星的轨迹 Footprints of the Traveler》现已正式上线！ 欢迎旅行者前往评论区置顶链接，...](https://t.bilibili.com/707845258066526291)
