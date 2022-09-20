@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1572164164600184832)
+- [.@memgraphmage is always on a quest of finding new knowledge. On the last journey, MAGE stumbled upon @pgrouting - a PostgreSQL&#39;s geospatial extension...](https://twitter.com/memgraphdb/status/1572134669084397570)
+- [🗓️#BigDataLDN starts tomorrow! 🎉🎉🎉 Be sure to visit us @BigData_LDN. You might even win a prize ;&rpar; 🏆 #Memgraph will be at Stand 230.](https://twitter.com/memgraphdb/status/1572134334668341249)
 - [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1572125162689937408)
 - [Re @Kuzeko @dandellaglio We have PR for Personalized PageRank](https://twitter.com/memgraphdb/status/1572120055974101000)
-- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1572104523300347905)
-- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1571862431567060993)
-- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1571854628551069696)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
