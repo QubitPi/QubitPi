@@ -489,11 +489,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=NYYRmLmlO2M)
 - [10 - Graph Analytics for Identification of Risk Signature Profiles in Health Care Claims](https://www.youtube.com/watch?v=y__DC8Lo6TU)
 - [Neo4j Live: Pathfinding Algorithms using Neo4j](https://www.youtube.com/watch?v=naRtEnMev18)
 - [8 - New! Neo4j AuraDS: The Fastest Way to Get Started with Data Science in the Cloud](https://www.youtube.com/watch?v=5c1fHO-AnBg)
 - [62 - Graph-Based Network Topology Analysis for Telecom Operators](https://www.youtube.com/watch?v=C99EXfKNE9w)
-- [7 - Combining the Best Cloud Technologies with Innovative Engineering: How We Built Neo4j Aura](https://www.youtube.com/watch?v=ZYyKXzqh__Y)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
