@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/707494286194638932><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dfbc3e87cabeaa2297d0fa63203bc7ca401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #流星的轨迹# 亲爱的旅行者，《原神》版本PV主题OST《流星的轨迹 Footprints of the Traveler》现已正式上线！ 欢迎旅行者前往评论区置顶链接，...](https://t.bilibili.com/707845258066526291)
+- [#原神# #须弥# #须弥冒险笔记# 旅行者们好呀~ 穿过须弥城，一路向西行进，将步入尘沙的领域。一望无际的沙漠中，埋藏着哪些奇闻与秘密呢，一起来看看吧！](https://t.bilibili.com/707821807537750020)
 - [#原神# #原神时光交响之章周年征集活动# #原神UP主激励计划# 《原神》「时光交响之章」二周年创意视频征集活动今日开启，期待旅行者的投稿作品~ 〓活动时间〓 活...](https://t.bilibili.com/707494286194638932)
 - [#原神# #流星的轨迹# 「《原神》版本PV主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《流星的轨迹 Footprints of the Traveler》。 旅...](https://t.bilibili.com/707474078370365457)
 - [《原神》二周年配音演员祝福-「来自彼方的声音」](https://t.bilibili.com/706840128302088214)
-- [终于可以玩原神了](https://t.bilibili.com/706824851113902134)
-- [《原神》线上音乐会2022 - 无际之旅的旋律（预告）](https://t.bilibili.com/706778139037007893)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
