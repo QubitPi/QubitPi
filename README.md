@@ -506,7 +506,7 @@ My Tech Blogs
 - [Bank Account](https://dribbble.com/shots/19378555)
 - [contracted: landing page, hero, identity, management](https://dribbble.com/shots/19363684)
 - [Nudge 3D animated. Navigation](https://dribbble.com/shots/19369982)
-- [Das Grüne - Creative Design Agency Landing Page Website](https://dribbble.com/shots/19365923)
+- [Cyber security solution: illustration set](https://dribbble.com/shots/19368750)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
