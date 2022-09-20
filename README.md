@@ -513,9 +513,9 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Bank Account](https://dribbble.com/shots/19378555)
-- [Nudge 3D animated. Navigation](https://dribbble.com/shots/19369982)
 - [Card ID Services Mobile App Concept](https://dribbble.com/shots/19377724)
 - [Kudoe Logo Design](https://dribbble.com/shots/19389781)
+- [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
 - [Formance - Notifications](https://dribbble.com/shots/19372323)
 <!-- DRIBBBLE-TRENDING:END -->
 
