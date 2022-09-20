@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀🚀🚀 We have launched the Orb into orbit and it has already reached more than 100 #GitHub stars! ⭐️⭐️⭐️ 🔗 #memgraph](https://twitter.com/memgraphdb/status/1572174125984251905)
 - [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1572164164600184832)
 - [.@memgraphmage is always on a quest of finding new knowledge. On the last journey, MAGE stumbled upon @pgrouting - a PostgreSQL&#39;s geospatial extension...](https://twitter.com/memgraphdb/status/1572134669084397570)
 - [🗓️#BigDataLDN starts tomorrow! 🎉🎉🎉 Be sure to visit us @BigData_LDN. You might even win a prize ;&rpar; 🏆 #Memgraph will be at Stand 230.](https://twitter.com/memgraphdb/status/1572134334668341249)
 - [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1572125162689937408)
-- [Re @Kuzeko @dandellaglio We have PR for Personalized PageRank](https://twitter.com/memgraphdb/status/1572120055974101000)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
