@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [【须弥冒险笔记·沙海觅踪篇】001期：大赤沙海](https://ys.mihoyo.com/main/news/detail/22613)
 - [《原神》「时光交响之章」二周年征集活动](https://ys.mihoyo.com/main/news/detail/22607)
 - [「《原神》版本PV主题OST即将上线 」](https://ys.mihoyo.com/main/news/detail/22608)
 - [《原神》二周年配音演员祝福-「来自彼方的声音」](https://ys.mihoyo.com/main/news/detail/22604)
 - [《终于可以玩原神了》](https://ys.mihoyo.com/main/news/detail/22605)
-- [《原神》线上音乐会2022 - 无际之旅的旋律（预告）](https://ys.mihoyo.com/main/news/detail/22602)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
