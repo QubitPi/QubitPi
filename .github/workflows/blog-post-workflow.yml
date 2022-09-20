@@ -14,10 +14,11 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
+          committer_email: "jack20191124@proton.me"
           commit_message: "New Tech Blog Post"
           max_post_count: "5"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed/FINALIZED.xml"
+          
   MGMT-blogs:
     name: Update this repos README with MGMT blog posts
     runs-on: ubuntu-latest
@@ -26,11 +27,25 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
+          committer_email: "jack20191124@proton.me"
           commit_message: "New Tech Mgmt Blog Post"
           comment_tag_name: "MGMT-BLOG-POST-LIST"
           max_post_count: "5"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed/MANAGEMENT.xml"
+  SCRUM-DOT-ORG-blogs:
+    name: scrum.org Blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New scrum.org Blog Post"
+          comment_tag_name: "SCRUM-DOT-ORG-BLOGS"
+          max_post_count: "5"
+          feed_list: "https://www.scrum.org/resources/blog/rss.xml"          
+          
   WIP-blogs:
     name: Update this repos README with WIP blog posts
     runs-on: ubuntu-latest
@@ -39,7 +54,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
+          committer_email: "jack20191124@proton.me"
           commit_message: "WIP Tech Blog Post"
           comment_tag_name: "WIP-BLOG-POST-LIST"
           max_post_count: "6"
