@@ -512,11 +512,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Bank Account](https://dribbble.com/shots/19378555)
 - [Tasks](https://dribbble.com/shots/19438127)
 - [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
 - [Oso Supply Branding](https://dribbble.com/shots/19424977)
 - [Kudoe Logo Design](https://dribbble.com/shots/19389781)
+- [Wonde – Navigation](https://dribbble.com/shots/19392749)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
