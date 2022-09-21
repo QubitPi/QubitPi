@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ #memgraph #opensource #orb](https://twitter.com/memgraphdb/status/1572606330430447616)
+- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1572601967515418626)
+- [If you are attending #BigDataLDN and you are an active Twitter we might have a prize for you :&rpar; #Memgraph is giving away a prize for the most connecte...](https://twitter.com/memgraphdb/status/1572596704712720389)
+- [Re @neznam_neznam_n @BigData_LDN If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a co...](https://twitter.com/memgraphdb/status/1572595400984379392)
 - [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. In the blog post below, you ...](https://twitter.com/memgraphdb/status/1572589972242272257)
-- [Are you the most connected Twitter user at #BigDataLDN? Stop by Stand 230 and find out! #Memgraph is giving away a prize!](https://twitter.com/memgraphdb/status/1572581211910057986)
-- [Re @BrianLinuxing If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - Circ...](https://twitter.com/memgraphdb/status/1572579957909626880)
-- [Re @PAverley If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - CircuitMe...](https://twitter.com/memgraphdb/status/1572579776170430467)
-- [Re @JelenaZanko @petermarshallio @BigData_LDN 👋hi to all of you from #Memgraph :&rpar;](https://twitter.com/memgraphdb/status/1572578717876224002)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
