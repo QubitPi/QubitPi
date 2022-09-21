@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Re @pmgandhi @dsato @ryandawsongb @thoughtworks Do come by our stand once the talk is over. #Memgraph is at stand 230. Visit us to learn about #Memgra...](https://twitter.com/memgraphdb/status/1572533762042499072)
-- [Re @andybraders Once you get inside, be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool priz...](https://twitter.com/memgraphdb/status/1572533514641494018)
-- [Are you the most connected Twitter user at #BigDataLDN? Stop by Stand 230 and find out! #Memgraph is giving away a prize!](https://twitter.com/memgraphdb/status/1572531426876338176)
-- [If you are at #BigDataLDN did you already stop by Stand 230 to have a chat with #Memgraph team and to pick up some of our swag? :&rpar; While you are there...](https://twitter.com/memgraphdb/status/1572523701907886081)
-- [Re @IanBMercer Once you get inside, be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize...](https://twitter.com/memgraphdb/status/1572518746547429377)
+- [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1572560785435684872)
+- [Another week, another live stream by #Memgraph CTO @mbudiselicbuda. Join us this Saturday, September 24th, at 10:00 AM CET to learn how to build recom...](https://twitter.com/memgraphdb/status/1572546756755488770)
+- [Re @chairlord Hi Adam! Feel free to visit #Memgraph at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - C...](https://twitter.com/memgraphdb/status/1572542881201782787)
+- [Re @planetf1 Nigel, when you will go around the venue be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can eve...](https://twitter.com/memgraphdb/status/1572535592881377283)
+- [Re @babelmonk Once you get inside, be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize ...](https://twitter.com/memgraphdb/status/1572534629231636482)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
