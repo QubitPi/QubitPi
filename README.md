@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708192871237287969><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7e54585b3adc1497d3a11c950fe73ee3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708224692656275475><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/43c64ebf11e351b5574881cd0670f30e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #须弥冒险笔记# 旅行者们好呀，行走在沙海之中，偶尔会发现沉睡其中的神秘遗迹。在遗迹内又会有什么样的特殊机关呢？让我们来了解一下吧~ P.S：本期会先...](https://t.bilibili.com/708192871237287969)
