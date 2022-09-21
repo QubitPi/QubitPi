@@ -242,7 +242,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/16126939/188811399-f98f72b4-fdc8-4777-9091-c54b5fb093bd.png" alt="刻晴" width="15%">[![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)
+<img src="https://user-images.githubusercontent.com/16126939/191439407-2480dadb-06bc-4a23-80a3-91b865cb59ab.png" alt="刻晴" width="15%">[![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)
 
 </div>
 
