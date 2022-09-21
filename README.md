@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1572560785435684872)
-- [Another week, another live stream by #Memgraph CTO @mbudiselicbuda. Join us this Saturday, September 24th, at 10:00 AM CET to learn how to build recom...](https://twitter.com/memgraphdb/status/1572546756755488770)
-- [Re @chairlord Hi Adam! Feel free to visit #Memgraph at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - C...](https://twitter.com/memgraphdb/status/1572542881201782787)
-- [Re @planetf1 Nigel, when you will go around the venue be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can eve...](https://twitter.com/memgraphdb/status/1572535592881377283)
-- [Re @babelmonk Once you get inside, be sure to visit us at stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize ...](https://twitter.com/memgraphdb/status/1572534629231636482)
+- [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. In the blog post below, you ...](https://twitter.com/memgraphdb/status/1572589972242272257)
+- [Are you the most connected Twitter user at #BigDataLDN? Stop by Stand 230 and find out! #Memgraph is giving away a prize!](https://twitter.com/memgraphdb/status/1572581211910057986)
+- [Re @BrianLinuxing If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - Circ...](https://twitter.com/memgraphdb/status/1572579957909626880)
+- [Re @PAverley If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a cool prize - CircuitMe...](https://twitter.com/memgraphdb/status/1572579776170430467)
+- [Re @JelenaZanko @petermarshallio @BigData_LDN 👋hi to all of you from #Memgraph :&rpar;](https://twitter.com/memgraphdb/status/1572578717876224002)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
