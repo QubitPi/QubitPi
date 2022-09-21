@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708224692656275475><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/43c64ebf11e351b5574881cd0670f30e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神×罗森 联动活动详情来啦~](https://t.bilibili.com/708224692656275475)
+- [互动抽奖 #原神# #游音旅梦# 「游音旅梦」——《原神》音乐二周年回顾H5正式上线。 旅行者们可前往评论区置顶链接参与「游音旅梦」H5活动。 熠熠星辰闪耀天际 旅...](https://t.bilibili.com/708216235866718296)
 - [#原神# #须弥冒险笔记# 旅行者们好呀，行走在沙海之中，偶尔会发现沉睡其中的神秘遗迹。在遗迹内又会有什么样的特殊机关呢？让我们来了解一下吧~ P.S：本期会先...](https://t.bilibili.com/708192871237287969)
 - [恭喜@然时染 @877呀 @拉粑粑土拨鼠 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/707875902638260247)
 - [互动抽奖 #原神# #流星的轨迹# 亲爱的旅行者，《原神》版本PV主题OST《流星的轨迹 Footprints of the Traveler》现已正式上线！ 欢迎旅行者前往评论区置顶链接，...](https://t.bilibili.com/707845258066526291)
-- [#原神# #须弥# #须弥冒险笔记# 旅行者们好呀~ 穿过须弥城，一路向西行进，将步入尘沙的领域。一望无际的沙漠中，埋藏着哪些奇闻与秘密呢，一起来看看吧！](https://t.bilibili.com/707821807537750020)
-- [#原神# #原神时光交响之章周年征集活动# #原神UP主激励计划# 《原神》「时光交响之章」二周年创意视频征集活动今日开启，期待旅行者的投稿作品~ 〓活动时间〓 活...](https://t.bilibili.com/707494286194638932)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
