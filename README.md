@@ -263,11 +263,11 @@ My Tech Blogs
 </a>
 
 <!-- MGMT-BLOG-POST-LIST:START -->
+- [&lpar;WIP&rpar; Learning from Atlassian’s Team Playbook](https://qubitpi.github.io/jersey-guide/management/2022/09/21/learning-from-atlassian-team-playbook.html)
 - [The Agile Coach - A Guide to Agile Development](https://qubitpi.github.io/jersey-guide/management/2022/09/20/agile.html)
 - [What happens when you eliminate test and QA? Fewer errors and faster development, say Yahoo’s tech leaders](https://qubitpi.github.io/jersey-guide/management/2022/09/20/no-qa.html)
 - [How to Make Your One-on-Ones with Employees More Productive](https://qubitpi.github.io/jersey-guide/management/2022/09/07/one-on-one.html)
 - [&lpar;WIP&rpar; Standardizing Backend Software Configuration](https://qubitpi.github.io/jersey-guide/management/2022/09/07/standardizing-ws-config.html)
-- [Managing Tech Assets - Is a Common Library a Good Idea? No](https://qubitpi.github.io/jersey-guide/management/2022/09/02/managing-tech-assets-common-lib-or-not.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
 #### scrum.org community blogs
