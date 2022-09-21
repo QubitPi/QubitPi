@@ -366,11 +366,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [Join @alsotoes, @seongsoo_kr, @abhisak, @helena_spease, @huseyin_cotuk TOMORROW on #OpenInfraLive to learn about the upcoming #OpenInfra community eve...](https://twitter.com/OpenStack/status/1572586996232605700)
 - [Join us for a special OpenStack Community session during the 6th Commonwealth Computational Summit 2022 at the University of Kentucky. Registration is...](https://twitter.com/OpenStack/status/1572269617904586756)
+- [RT Arne Wiebalck: Re @OpenStack ... and we finally instantiated the first #AArch64 node with @openstack #Ironic now &lpar;struggled a while with our auto-r...](https://twitter.com/ArneWiebalck/status/1572260648800878592)
 - [RT Kristi Nikolla: That&#39;s a wrap on @OpenStack elections for the Antelope cycle. Congratulations to all that got elected, and thank you to all that vo...](https://twitter.com/_knikolla/status/1572242529650622469)
 - [RT OpenInfra Foundation: Looking to get involved in the local community in Maastricht, Netherlands? We have a new user group for you to join! Meet loc...](https://twitter.com/openinfradev/status/1572178936624304131)
-- [RT VEXXHOST, Inc.: Let&#39;s connect! 💛 What are the ways you work with @OpenStack? ⬇️⬇️](https://twitter.com/vexxhost/status/1571967366652649475)
-- [#OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed an...](https://twitter.com/OpenStack/status/1571952467482386435)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
