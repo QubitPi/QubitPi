@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708224692656275475><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/43c64ebf11e351b5574881cd0670f30e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708320448933265473><img align='right' src='https://i1.hdslb.com/bfs/archive/57390cd9ff5cc1e92f6a49b10afd182afe37c778.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神×罗森 联动活动详情来啦~](https://t.bilibili.com/708224692656275475)
