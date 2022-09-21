@@ -479,11 +479,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @drfmolinari Hi Fabio, thanks for the feedback. Would you mind raising this as an GitHub issue here, best with a graph to reproduce. Thanks a lot &lt;...](https://twitter.com/neo4j/status/1572605456563961857)
+- [Now you have the freedom to create a fully managed graph database with no payment required. 🍃 Plus you get to explore a variety of sample datasets ...](https://twitter.com/neo4j/status/1572601621506293763)
 - [Re @rastadidi Looking forward to seeing you there at #nodes2022 Agenda looks awesome already. And you might be on it 🎉](https://twitter.com/neo4j/status/1572377101663358979)
 - [Filippo Minutella shows you how reproducibility – both in machine learning and data science – is an emerging theme. 📹Watch the session here: #Gra...](https://twitter.com/neo4j/status/1572344907435765762)
-- [Get ready for NODES 2022---&gt; register FOR FREE to this 24h online event where you&#39;ll find talks and workshops by developers and data scientists. #Node...](https://twitter.com/neo4j/status/1572239706359828481)
 - [Big Data Quarterly presents 2022s “Big Data 50,” featuring @neo4j alongside other incredible companies driving innovation in the industry! #neo4j #g...](https://twitter.com/neo4j/status/1572225344748531712)
-- [KI und Algorithmen kommen in der Medizintechnik immer häufiger zum Einsatz. Die Technologie der Zukunft braucht ethische Rahmenlinien und eine Techno...](https://twitter.com/neo4j/status/1572207212570746893)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
