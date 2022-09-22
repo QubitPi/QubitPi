@@ -273,11 +273,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Die 4 Elemente der Scrum Empirie](https://www.scrum.org/resources/blog/die-4-elemente-der-scrum-empirie)
 - [Spark Self-Organization In Groups With Open Space Technology](https://www.scrum.org/resources/blog/spark-self-organization-groups-open-space-technology)
 - [Scrum Team Effectiveness: is the Scrum Master Accountable?](https://www.scrum.org/resources/blog/scrum-team-effectiveness-scrum-master-accountable)
 - [The Best Product Owners Have Great Facilitation Skills](https://www.scrum.org/resources/blog/best-product-owners-have-great-facilitation-skills-0)
 - [The Three — Wait: Four — Elements of Empiricism](https://www.scrum.org/resources/blog/three-wait-four-elements-empiricism)
-- [Das Anzeichen Nr. 1, dass Scrum noch nicht &lpar;richtig&rpar; funktioniert](https://www.scrum.org/resources/blog/das-anzeichen-nr-1-dass-scrum-noch-nicht-richtig-funktioniert)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
