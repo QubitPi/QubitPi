@@ -479,11 +479,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Interested in NFT data?? @spaceagente graphs the world of NFT ownership---&gt; check it out! #NFT #GraphDatabase #Neo4j](https://twitter.com/neo4j/status/1572979166382882816)
+- [RT Nicolas ROUYER: Meet Neo4j at #bigdataparis 2022!](https://twitter.com/rrrouyer/status/1572971836975071233)
 - [🔎Use community detection to uncover fraud rings in data containing multi-tiered relationships between contacts, identifiers, and actions. #Neo4j #D...](https://twitter.com/neo4j/status/1572933750773743618)
 - [RT Koji Annoura: Do you like Coffee? I am super happy to be speaking at #Neo4j #NODES2022 about the #Coffee #KnowledgeGraph.](https://twitter.com/kojiannoura/status/1572844841649680385)
 - [Re @BigData_LDN continues! Yesterday, Kristof Neys&#39;s talk “How Graph Data Science can turbocharge your Knowledge Graph” was a huge success! On Septe...](https://twitter.com/neo4j/status/1572828128615235586)
-- [Do you want to learn about Graph Data Science? Read ´The 5 Graph Data Science Basics Everyone Should Know´ ebook and discover the fundamentals of gr...](https://twitter.com/neo4j/status/1572767680712556547)
-- [Learn about the history of the Neo4j extension for Liquibase and see it in action in a demo! with @fbiville and @liquibase #Neo4j #Liquibase](https://twitter.com/neo4j/status/1572722371861295106)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
