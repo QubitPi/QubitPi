@@ -514,8 +514,8 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Tasks](https://dribbble.com/shots/19438127)
 - [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
-- [Oso Supply Branding](https://dribbble.com/shots/19424977)
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
+- [Oso Supply Branding](https://dribbble.com/shots/19424977)
 - [Utility Tracker – App concept](https://dribbble.com/shots/19417275)
 <!-- DRIBBBLE-TRENDING:END -->
 
