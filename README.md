@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Re @ben_brandwood, are you also today at #BigDataLDN? If you are, come to the #Memgraph stand 230. You seem to be one of the most connected Twitter us...](https://twitter.com/memgraphdb/status/1572844100029751297)
-- [Re @FloBroderick, are you also today at #BigDataLDN? If you are, come to the #Memgraph stand 230. You seem to be one of the most connected users at th...](https://twitter.com/memgraphdb/status/1572842892384768001)
-- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ #memgr...](https://twitter.com/memgraphdb/status/1572842137284411392)
-- [Re @Fellwolf we&#39;ve noticed that you are very active on Twitter related to #BigDataLDN. :&rpar; It looks like you might take the lead on our leaderboard for...](https://twitter.com/memgraphdb/status/1572841562807181313)
-- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1572839377864359936)
+- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1572886677223251968)
+- [Re @TomasNeubauer0 we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our l...](https://twitter.com/memgraphdb/status/1572873029025144839)
+- [Re @tech4good_sm we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our lea...](https://twitter.com/memgraphdb/status/1572872418842275840)
+- [Re @t_redactyl we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our leade...](https://twitter.com/memgraphdb/status/1572872297161322496)
+- [Re @stevecsuk we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our leader...](https://twitter.com/memgraphdb/status/1572871700110315520)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
