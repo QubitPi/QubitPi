@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ #memgraph #opensource #orb](https://twitter.com/memgraphdb/status/1572606330430447616)
-- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1572601967515418626)
-- [If you are attending #BigDataLDN and you are an active Twitter we might have a prize for you :&rpar; #Memgraph is giving away a prize for the most connecte...](https://twitter.com/memgraphdb/status/1572596704712720389)
-- [Re @neznam_neznam_n @BigData_LDN If you will have time visit us at Stand 230 to learn about #Memgraph and get some awesome swag! You can even win a co...](https://twitter.com/memgraphdb/status/1572595400984379392)
-- [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. In the blog post below, you ...](https://twitter.com/memgraphdb/status/1572589972242272257)
+- [Re @ben_brandwood, are you also today at #BigDataLDN? If you are, come to the #Memgraph stand 230. You seem to be one of the most connected Twitter us...](https://twitter.com/memgraphdb/status/1572844100029751297)
+- [Re @FloBroderick, are you also today at #BigDataLDN? If you are, come to the #Memgraph stand 230. You seem to be one of the most connected users at th...](https://twitter.com/memgraphdb/status/1572842892384768001)
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ #memgr...](https://twitter.com/memgraphdb/status/1572842137284411392)
+- [Re @Fellwolf we&#39;ve noticed that you are very active on Twitter related to #BigDataLDN. :&rpar; It looks like you might take the lead on our leaderboard for...](https://twitter.com/memgraphdb/status/1572841562807181313)
+- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1572839377864359936)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
