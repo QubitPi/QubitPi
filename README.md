@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708320448933265473><img align='right' src='https://i1.hdslb.com/bfs/archive/57390cd9ff5cc1e92f6a49b10afd182afe37c778.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708563977886498839><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8adc8c738b575a8fb874301a023f47e8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #须弥冒险笔记# 旅行者们好，本期冒险笔记将为大家介绍沙漠地区的新敌人。 P.S：本期仅收录部分 敌人的介绍。关于新地区的更多内容，欢迎旅行者们在新版...](https://t.bilibili.com/708563977886498839)
