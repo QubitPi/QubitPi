@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1572886677223251968)
-- [Re @TomasNeubauer0 we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our l...](https://twitter.com/memgraphdb/status/1572873029025144839)
-- [Re @tech4good_sm we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our lea...](https://twitter.com/memgraphdb/status/1572872418842275840)
-- [Re @t_redactyl we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our leade...](https://twitter.com/memgraphdb/status/1572872297161322496)
-- [Re @stevecsuk we&#39;ve noticed that you are active on Twitter related to #BigDataLDN. :&rpar; Come to #Memgraph Stand 230 to check your position on our leader...](https://twitter.com/memgraphdb/status/1572871700110315520)
+- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1572935751410786306)
+- [The #Windows Subsystem for #Linux &lpar;#WSL&rpar; can now run #systemd inside of your WSL distros! via @craigaloewen #memgraph #coding](https://twitter.com/memgraphdb/status/1572933395876909065)
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1572932479887056897)
+- [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1572921408065540096)
+- [Explore the European gas infrastructure network using #Memgraph’s graph analytics capabilities to visualize and extrapolate from the data. Read the b...](https://twitter.com/memgraphdb/status/1572919146983325696)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
