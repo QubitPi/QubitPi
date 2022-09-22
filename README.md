@@ -424,11 +424,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Are you not familiar with graph? 🤔 Check out our blog post on what is a graph database to learn the following: ✨ What is a graph? ✨ What is a gra...](https://twitter.com/arangodb/status/1572918662536781825)
 - [Day 2 of @BigData_LDN is underway! Come say hi to us at booth 338. 🥑🔥 #BigDataLDN](https://twitter.com/arangodb/status/1572857762622873606)
 - [Graph Databases are the big thing for Data Analytics. 😎 Check out this post highlighting how graph databases use a flexible flowchart architecture ...](https://twitter.com/arangodb/status/1572692165175971840)
 - [Team Avocado 🥑 &gt;&gt;&gt;](https://twitter.com/arangodb/status/1572684396293148673)
-- [We are live at @BigData_LDN! 🔥 Come hang out with members of team avocado at booth 338! 🥑#BigDataLDN](https://twitter.com/arangodb/status/1572566327314862080)
-- [#KnowledgeGraphs are potent tools for harmonizing internal and external data relevant to an organization into a standard semantic model to improve ope...](https://twitter.com/arangodb/status/1572556273656397828)
+- [ArangoDB Summit is only two weeks away! 🔥 Join us on October 4th and 5th for our first-ever industry event with exciting presentations covering var...](https://twitter.com/arangodb/status/1572586468354179072)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
