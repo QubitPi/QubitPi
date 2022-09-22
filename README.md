@@ -368,9 +368,9 @@ My Tech Blogs
 <!-- OPENSTACK-TWITTER:START -->
 - [Around the World with OpenInfra Events | OpenInfra Live Recap](https://twitter.com/OpenStack/status/1572986108383838218)
 - [NOW on #OpenInfra Live, we are join with community members from all over the globe to share opportunities for you to meet the local #OpenInfra experts...](https://twitter.com/OpenStack/status/1572949486502019074)
+- [RT 日本OpenStackユーザ会: 10/5&lpar;水&rpar; 18:00 より JOSUG 第46回勉強会をオンライン開催します。 テーマは「OVN アーキテクチャ概観」です。 #openstack #josug](https://twitter.com/openstackjapan/status/1572737088549572608)
 - [Join @alsotoes, @seongsoo_kr, @abhisak, @helena_spease, @huseyin_cotuk TOMORROW on #OpenInfraLive to learn about the upcoming #OpenInfra community eve...](https://twitter.com/OpenStack/status/1572586996232605700)
 - [Join us for a special OpenStack Community session during the 6th Commonwealth Computational Summit 2022 at the University of Kentucky. Registration is...](https://twitter.com/OpenStack/status/1572269617904586756)
-- [RT Arne Wiebalck: Re @OpenStack ... and we finally instantiated the first #AArch64 node with @openstack #Ironic now &lpar;struggled a while with our auto-r...](https://twitter.com/ArneWiebalck/status/1572260648800878592)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
