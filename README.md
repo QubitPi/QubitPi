@@ -459,11 +459,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1572949341240963074)
 - [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1572935751410786306)
 - [The #Windows Subsystem for #Linux &lpar;#WSL&rpar; can now run #systemd inside of your WSL distros! via @craigaloewen #memgraph #coding](https://twitter.com/memgraphdb/status/1572933395876909065)
 - [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1572932479887056897)
 - [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1572921408065540096)
-- [Explore the European gas infrastructure network using #Memgraph’s graph analytics capabilities to visualize and extrapolate from the data. Read the b...](https://twitter.com/memgraphdb/status/1572919146983325696)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
