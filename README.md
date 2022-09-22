@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708320448933265473><img align='right' src='https://i1.hdslb.com/bfs/archive/57390cd9ff5cc1e92f6a49b10afd182afe37c778.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #须弥冒险笔记# 旅行者们好，本期冒险笔记将为大家介绍沙漠地区的新敌人。 P.S：本期仅收录部分 敌人的介绍。关于新地区的更多内容，欢迎旅行者们在新版...](https://t.bilibili.com/708563977886498839)
 - [[热词系列_三连]](https://t.bilibili.com/708320448933265473)
 - [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神×罗森 联动活动详情来啦~](https://t.bilibili.com/708224692656275475)
 - [互动抽奖 #原神# #游音旅梦# 「游音旅梦」——《原神》音乐二周年回顾H5正式上线。 旅行者们可前往评论区置顶链接参与「游音旅梦」H5活动。 熠熠星辰闪耀天际 旅...](https://t.bilibili.com/708216235866718296)
 - [#原神# #须弥冒险笔记# 旅行者们好呀，行走在沙海之中，偶尔会发现沉睡其中的神秘遗迹。在遗迹内又会有什么样的特殊机关呢？让我们来了解一下吧~ P.S：本期会先...](https://t.bilibili.com/708192871237287969)
-- [恭喜@然时染 @877呀 @拉粑粑土拨鼠 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/707875902638260247)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
