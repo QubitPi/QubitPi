@@ -479,11 +479,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Do you want to learn about Graph Data Science? Read ´The 5 Graph Data Science Basics Everyone Should Know´ ebook and discover the fundamentals of gr...](https://twitter.com/neo4j/status/1572767680712556547)
 - [Learn about the history of the Neo4j extension for Liquibase and see it in action in a demo! with @fbiville and @liquibase #Neo4j #Liquibase](https://twitter.com/neo4j/status/1572722371861295106)
 - [RT Graphable: Congrats to Graphable&#39;s Sr Consultant and graph / @neo4j thumper Sam Chalvet on being selected to present again at this year&#39;s #Nodes22 ...](https://twitter.com/Graphable1/status/1572710272187637760)
 - [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1572695433373421569)
 - [&quot;Broken down into 5 key pillars, the @Neo4j Graph framework covers aspects from the initial use case assessment to scaling and expanding the solution ...](https://twitter.com/neo4j/status/1572638310098698240)
-- [RT V Belleville: super happy that I will be presenting at #NODES22 ! interested in genealogy, graph technologies and/or graph visualization ? hope to ...](https://twitter.com/v2belleville/status/1572620001265307648)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
