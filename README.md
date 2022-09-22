@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708563977886498839><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8adc8c738b575a8fb874301a023f47e8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #须弥冒险笔记# 旅行者们好，本期冒险笔记将为大家介绍沙漠地区的新敌人。 P.S：本期仅收录部分 敌人的介绍。关于新地区的更多内容，欢迎旅行者们在新版...](https://t.bilibili.com/708563977886498839)
-- [[热词系列_三连]](https://t.bilibili.com/708320448933265473)
-- [#原神罗森联动# #原神罗森# 亲爱的旅行者们，原神×罗森 联动活动详情来啦~](https://t.bilibili.com/708224692656275475)
-- [互动抽奖 #原神# #游音旅梦# 「游音旅梦」——《原神》音乐二周年回顾H5正式上线。 旅行者们可前往评论区置顶链接参与「游音旅梦」H5活动。 熠熠星辰闪耀天际 旅...](https://t.bilibili.com/708216235866718296)
-- [#原神# #须弥冒险笔记# 旅行者们好呀，行走在沙海之中，偶尔会发现沉睡其中的神秘遗迹。在遗迹内又会有什么样的特殊机关呢？让我们来了解一下吧~ P.S：本期会先...](https://t.bilibili.com/708192871237287969)
+- [互动抽奖 #原神# #赛诺# 《原神》赛诺角色PV——「奉辞罚罪」现已发布~ https://www.bilibili.com/video/BV1GN4y1K7n8 在教令院的学者间流传着这样一个故事： 曾...](https://t.bilibili.com/708593346884403303)
+- [旅行者们好，今天将为大家介绍的角色是赛诺。 一起来看看吧~](https://t.bilibili.com/708592333260587047)
+- [互动抽奖 #原神# #游港聚珍# 亲爱的旅行者，「游港聚珍」——原神×支付宝 网页活动已开启！ 欢迎前往评论区置顶链接参与活动。 “踏上崭新的旅途前，先准备好需...](https://t.bilibili.com/708591040473333777)
+- [#原神# #赛诺# 峻法慎后，裁遣不贷](https://t.bilibili.com/708589339679916066)
+- [峻法慎后，裁遣不贷](https://t.bilibili.com/708588429126926389)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
