@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》预下载即将开启](https://ys.mihoyo.com/main/news/detail/22652)
 - [《原神》3.1版本「赤土之王与三朝圣者」内容专题页上线](https://ys.mihoyo.com/main/news/detail/22630)
 - [「游港聚珍」——原神×支付宝 网页活动已开启](https://ys.mihoyo.com/main/news/detail/22627)
 - [「裁决已至。」](https://ys.mihoyo.com/main/news/detail/22629)
 - [峻法慎后，裁遣不贷](https://ys.mihoyo.com/main/news/detail/22297)
-- [原神×支付宝主题活动开启](https://ys.mihoyo.com/main/news/detail/22628)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
