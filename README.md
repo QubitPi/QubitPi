@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1573330353972027397)
+- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1573312739694485504)
+- [Check out our blog post 📰 Best Databases For Streaming Analytics ➡️](https://twitter.com/memgraphdb/status/1573306445671829505)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1573304180722253825)
 - [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1573291095328440322)
-- [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1573268946886819843)
-- [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1573257874196910080)
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1573255360328114178)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
