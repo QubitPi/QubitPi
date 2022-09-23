@@ -435,11 +435,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [We truly enjoyed having the time and opportunity to chat with everyone who dropped by our @BigData_LDN booth! A big thanks to our outstanding members ...](https://twitter.com/arangodb/status/1573309733955842054)
 - [In just two weeks, join us for our first every industry event: 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁. 🥑 Explore different use c...](https://twitter.com/arangodb/status/1573281044345880577)
 - [Learn Graph Database&#39;s with ArangoDB! 🔥 Our graph database course is designed especially for beginners and to learn all about its powerful query te...](https://twitter.com/arangodb/status/1573054540143886337)
 - [Are you not familiar with graph? 🤔 Check out our blog post on what is a graph database to learn the following: ✨ What is a graph? ✨ What is a gra...](https://twitter.com/arangodb/status/1572918662536781825)
 - [Day 2 of @BigData_LDN is underway! Come say hi to us at booth 338. 🥑🔥 #BigDataLDN](https://twitter.com/arangodb/status/1572857762622873606)
-- [Graph Databases are the big thing for Data Analytics. 😎 Check out this post highlighting how graph databases use a flexible flowchart architecture ...](https://twitter.com/arangodb/status/1572692165175971840)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
