@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708618073005883428><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d2445b090bbc39342e68c81f5ef779c9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708942974397972513><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fd1e2096e182f1bb42b7cc6b705c2e36401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.1# 亲爱的旅行者： 为了给旅行者更好的游戏体验，制作组将于近期在PC端和移动端开放预下载功能。 预下载开放时间： 2022/09/26 11:00（3.1版本更...](https://t.bilibili.com/708942974397972513)
