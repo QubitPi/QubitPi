@@ -366,11 +366,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT OpenInfra Foundation: The #OpenInfra community is getting together for Kubernetes Community Days &amp; OpenInfra Days Indonesia 2022 November 26-27!](https://twitter.com/openinfradev/status/1573311883192328192)
+- [RT Hasaranga 🇱🇰 🇬🇧: If you are a Cloud Engineer who loves open source and looking to enhance your career,it&#39;s time to learn @OpenStack. He...](https://twitter.com/m_hasaranga/status/1573280511086432258)
 - [Around the World with OpenInfra Events | OpenInfra Live Recap](https://twitter.com/OpenStack/status/1572986108383838218)
 - [NOW on #OpenInfra Live, we are join with community members from all over the globe to share opportunities for you to meet the local #OpenInfra experts...](https://twitter.com/OpenStack/status/1572949486502019074)
 - [RT 日本OpenStackユーザ会: 10/5&lpar;水&rpar; 18:00 より JOSUG 第46回勉強会をオンライン開催します。 テーマは「OVN アーキテクチャ概観」です。 #openstack #josug](https://twitter.com/openstackjapan/status/1572737088549572608)
-- [Join @alsotoes, @seongsoo_kr, @abhisak, @helena_spease, @huseyin_cotuk TOMORROW on #OpenInfraLive to learn about the upcoming #OpenInfra community eve...](https://twitter.com/OpenStack/status/1572586996232605700)
-- [Join us for a special OpenStack Community session during the 6th Commonwealth Computational Summit 2022 at the University of Kentucky. Registration is...](https://twitter.com/OpenStack/status/1572269617904586756)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
