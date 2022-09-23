@@ -479,11 +479,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Learn how @Neo4j has revolutionized working with connected data with our live demos! 📅 Check out the agenda and register here: #Neo4j #Livedemos #T...](https://twitter.com/neo4j/status/1573099839050682370)
 - [#TBT to GraphConnects&#39; Keynote by our CEO, Emil Eifrem. Fact; Graph databases is now the fastest-growing category of databases in all of data manageme...](https://twitter.com/neo4j/status/1573024400374648834)
 - [Interested in NFT data?? @spaceagente graphs the world of NFT ownership---&gt; check it out! #NFT #GraphDatabase #Neo4j](https://twitter.com/neo4j/status/1572979166382882816)
 - [RT Nicolas ROUYER: Meet Neo4j at #bigdataparis 2022!](https://twitter.com/rrrouyer/status/1572971836975071233)
 - [🔎Use community detection to uncover fraud rings in data containing multi-tiered relationships between contacts, identifiers, and actions. #Neo4j #D...](https://twitter.com/neo4j/status/1572933750773743618)
-- [RT Koji Annoura: Do you like Coffee? I am super happy to be speaking at #Neo4j #NODES2022 about the #Coffee #KnowledgeGraph.](https://twitter.com/kojiannoura/status/1572844841649680385)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
