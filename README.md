@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
-- [👉 The @Neo4j #GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform ...](https://twitter.com/neo4j/status/1573356603335639041)
 - [Are you a #Python dev? Learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course! #Neo4j #training #tutorials...](https://twitter.com/neo4j/status/1573312026197229568)
 - [RT Michael Hunger 🇪🇺 🇺🇦: Talking about Loom and Virtual Threads today at #JSD2022 So happy that @java 19 is out. Lot’s of content plus li...](https://twitter.com/mesirii/status/1573219181641830401)
 - [RT Alibaba Cloud: .@neo4j, world’s leading graph data platform, helps organizations capture real world&#39;s rich context. #AlibabaCloud is working close...](https://twitter.com/alibaba_cloud/status/1573204134311841792)
 - [We are partnering with @gdgcloudpune for one of the largest cloud conferences in Western India: Google Cloud Community Day - 2022 Pune 📍 Register f...](https://twitter.com/neo4j/status/1573160262739398656)
+- [Learn how @Neo4j has revolutionized working with connected data with our live demos! 📅 Check out the agenda and register here: #Neo4j #Livedemos #T...](https://twitter.com/neo4j/status/1573099839050682370)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
