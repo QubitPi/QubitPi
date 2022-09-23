@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708942974397972513><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fd1e2096e182f1bb42b7cc6b705c2e36401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #赛诺# #炽沙的考验# 「炽沙的考验」——《原神》新角色：赛诺分享H5正式上线。 欢迎旅行者前往评论区置顶链接参与活动~ 出入沙漠需要充足的准...](https://t.bilibili.com/708958337483407381)
 - [#原神# #原神3.1# 亲爱的旅行者： 为了给旅行者更好的游戏体验，制作组将于近期在PC端和移动端开放预下载功能。 预下载开放时间： 2022/09/26 11:00（3.1版本更...](https://t.bilibili.com/708942974397972513)
 - [恭喜@火炎焱燚焰 @柠檬不是Ling-Mong @我永远爱式姐 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/708618073005883428)
 - [互动抽奖 #原神# #原神支付宝# #绿色出行周# 亲爱的旅行者， 原神×支付宝主题活动开启！9月22日起，上支付宝搜「绿色出行周」，点击下方提示卡片直达活动页，完...](https://t.bilibili.com/708603989809168472)
 - [互动抽奖 #原神# #赛诺# 《原神》赛诺角色PV——「奉辞罚罪」现已发布~ https://www.bilibili.com/video/BV1GN4y1K7n8 在教令院的学者间流传着这样一个故事： 曾...](https://t.bilibili.com/708593346884403303)
-- [旅行者们好，今天将为大家介绍的角色是赛诺。 一起来看看吧~](https://t.bilibili.com/708592333260587047)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
