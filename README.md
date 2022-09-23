@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1573268946886819843)
+- [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1573257874196910080)
+- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1573255360328114178)
+- [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ #memgraph #graphdatabase #stream #dat...](https://twitter.com/memgraphdb/status/1573236233072959488)
 - [Re @codek1 I hope that you will enjoy this kit :&rpar; We try to bring the power of the graphs to everyone.](https://twitter.com/memgraphdb/status/1573222847350194177)
-- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1572967726477643777)
-- [Congratulations @codek1 on 1st place! 🏆 We hope that you will have fun with your prize! #BigDataLDN #Memgraph](https://twitter.com/memgraphdb/status/1572966826912391169)
-- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1572949341240963074)
-- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1572935751410786306)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
