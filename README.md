@@ -387,6 +387,11 @@ My Tech Blogs
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
 <!-- LETS-ENCRYPT-BLOG:START -->
+- [Remembering Peter Eckersley](https://letsencrypt.org/2022/09/12/remembering-peter-eckersley.html)
+- [A New Life for Certificate Revocation Lists](https://letsencrypt.org/2022/09/07/new-life-for-crls.html)
+- [Nurturing Continued Growth of Our Oak CT Log](https://letsencrypt.org/2022/05/19/database-to-app-tls.html)
+- [TLS Beyond the Web: How MongoDB Uses Let’s Encrypt for Database-to-Application Security](https://letsencrypt.org/2022/04/28/database-to-app-tls.html)
+- [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
 
 #### Study Notes
