@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709052302782103552><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b7439dd389e0945ddcf828dc5deb037401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [一起来看看吧[原神_哇]](https://t.bilibili.com/709096794340982838)
 - [恭喜@渔村肥宅 @肆肆肆一 @lequera 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709052302782103552)
 - [恭喜@BLLOUVEEM @无能力诊探 @无解_多元 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709051009985413284)
 - [恭喜@反正都轮不到我中奖 @alicia33- @一辉一溃 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709020090526335096)
 - [互动抽奖 #原神# #赛诺# #炽沙的考验# 「炽沙的考验」——《原神》新角色：赛诺分享H5正式上线。 欢迎旅行者前往评论区置顶链接参与活动~ 出入沙漠需要充足的准...](https://t.bilibili.com/708958337483407381)
-- [#原神# #原神3.1# 亲爱的旅行者： 为了给旅行者更好的游戏体验，制作组将于近期在PC端和移动端开放预下载功能。 预下载开放时间： 2022/09/26 11:00（3.1版本更...](https://t.bilibili.com/708942974397972513)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
