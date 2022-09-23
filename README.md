@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708942974397972513><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fd1e2096e182f1bb42b7cc6b705c2e36401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/708958337483407381><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76942ac3aa57ae616e5e2969e8568596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #赛诺# #炽沙的考验# 「炽沙的考验」——《原神》新角色：赛诺分享H5正式上线。 欢迎旅行者前往评论区置顶链接参与活动~ 出入沙漠需要充足的准...](https://t.bilibili.com/708958337483407381)
