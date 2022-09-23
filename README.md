@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Hunger 🇪🇺 🇺🇦: Talking about Loom and Virtual Threads today at #JSD2022 So happy that @java 19 is out. Lot’s of content plus li...](https://twitter.com/mesirii/status/1573219181641830401)
 - [RT Alibaba Cloud: .@neo4j, world’s leading graph data platform, helps organizations capture real world&#39;s rich context. #AlibabaCloud is working close...](https://twitter.com/alibaba_cloud/status/1573204134311841792)
 - [We are partnering with @gdgcloudpune for one of the largest cloud conferences in Western India: Google Cloud Community Day - 2022 Pune 📍 Register f...](https://twitter.com/neo4j/status/1573160262739398656)
 - [Learn how @Neo4j has revolutionized working with connected data with our live demos! 📅 Check out the agenda and register here: #Neo4j #Livedemos #T...](https://twitter.com/neo4j/status/1573099839050682370)
 - [#TBT to GraphConnects&#39; Keynote by our CEO, Emil Eifrem. Fact; Graph databases is now the fastest-growing category of databases in all of data manageme...](https://twitter.com/neo4j/status/1573024400374648834)
-- [Interested in NFT data?? @spaceagente graphs the world of NFT ownership---&gt; check it out! #NFT #GraphDatabase #Neo4j](https://twitter.com/neo4j/status/1572979166382882816)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
