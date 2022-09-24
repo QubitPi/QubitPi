@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1573587293046194177)
+- [🎓 #Memgraph presents graph algorithms: Node2Vec 🗒️ Node2Vec is a random walk-based node embedding method. This method is mapping nodes that are...](https://twitter.com/memgraphdb/status/1573564645855690752)
 - [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1573330353972027397)
 - [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1573312739694485504)
 - [Check out our blog post 📰 Best Databases For Streaming Analytics ➡️](https://twitter.com/memgraphdb/status/1573306445671829505)
-- [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1573304180722253825)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1573291095328440322)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
