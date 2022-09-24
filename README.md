@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709329336771018897><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d392292abda3c048ed675517e141228a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709360251949809747><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8297701f40f8f4495e6f321fbf4a1aa2401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神支付宝# 亲爱的旅行者， 原神×支付宝第二期主题活动上线啦~9月24日起，上支付宝搜「支付宝会员」，点击下方提示卡片直达活动页，199支付宝积分兑换...](https://t.bilibili.com/709329336771018897)
