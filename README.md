@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1573617493888958465)
-- [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1573613233889595395)
-- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1573587293046194177)
-- [🎓 #Memgraph presents graph algorithms: Node2Vec 🗒️ Node2Vec is a random walk-based node embedding method. This method is mapping nodes that are...](https://twitter.com/memgraphdb/status/1573564645855690752)
-- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1573330353972027397)
+- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. #graphdatabase #opensou...](https://twitter.com/memgraphdb/status/1573693245103788037)
+- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1573675126163480578)
+- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1573664805411602438)
+- [Check out our blog post 📰 Introduction to #Streaming #Databases ➡️](https://twitter.com/memgraphdb/status/1573659015371972610)
+- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1573652978959015937)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
