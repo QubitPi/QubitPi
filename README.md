@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709127799728767000><img align='right' src='https://i2.hdslb.com/bfs/archive/fe333b1c6ad1261675b94261988a7d5997be92b3.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神支付宝# 亲爱的旅行者， 原神×支付宝第二期主题活动上线啦~9月24日起，上支付宝搜「支付宝会员」，点击下方提示卡片直达活动页，199支付宝积分兑换...](https://t.bilibili.com/709329336771018897)
 - [[原神_哇]](https://t.bilibili.com/709127799728767000)
 - [一起来看看吧[原神_哇]](https://t.bilibili.com/709096794340982838)
 - [恭喜@渔村肥宅 @肆肆肆一 @lequera 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709052302782103552)
 - [恭喜@BLLOUVEEM @无能力诊探 @无解_多元 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709051009985413284)
-- [恭喜@反正都轮不到我中奖 @alicia33- @一辉一溃 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709020090526335096)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
