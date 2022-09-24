@@ -527,7 +527,7 @@ My Tech Blogs
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
 - [FreeDom Bank // Mobile App](https://dribbble.com/shots/19419964)
 - [Orders](https://dribbble.com/shots/19436668)
-- [Solarius Dashboard](https://dribbble.com/shots/19419939)
+- [Oso Supply Branding](https://dribbble.com/shots/19424977)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
