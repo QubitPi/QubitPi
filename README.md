@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709360251949809747><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8297701f40f8f4495e6f321fbf4a1aa2401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@哥我爱吃肉肉 @樱花樱花想見你 @随缘而萧 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360251949809747)
+- [恭喜@新免武藏守藤源玄信 @云升_zx @九玖sa 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360251949809688)
+- [恭喜@咕沌-too @天命主教德丽莎 @卡戴珊科教 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360243335757972)
 - [#原神# #原神支付宝# 亲爱的旅行者， 原神×支付宝第二期主题活动上线啦~9月24日起，上支付宝搜「支付宝会员」，点击下方提示卡片直达活动页，199支付宝积分兑换...](https://t.bilibili.com/709329336771018897)
 - [[原神_哇]](https://t.bilibili.com/709127799728767000)
-- [一起来看看吧[原神_哇]](https://t.bilibili.com/709096794340982838)
-- [恭喜@渔村肥宅 @肆肆肆一 @lequera 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709052302782103552)
-- [恭喜@BLLOUVEEM @无能力诊探 @无解_多元 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709051009985413284)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
