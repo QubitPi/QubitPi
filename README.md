@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Create Your First Fully Managed Graph Database With @Neo4j 😎 It&#39;s the easiest and fastest way to build graph models in the cloud. 😎 No hardware ...](https://twitter.com/neo4j/status/1573625058894946306)
+- [RT GDG Cloud Pune: #CCDPune #CCDPune2022 #gdgcloudpune #googlecloud Unlock Graph Databases with Google Cloud and Neo4J Ghlen Nagels Web Developer and ...](https://twitter.com/gdgcloudpune/status/1573608312427495426)
 - [RT William Lyon: 🍿🎥#UtahJS was my first conference in a movie theater - great idea for a comfy venue. Thanks to all the organizers for putting t...](https://twitter.com/lyonwj/status/1573465964758282240)
 - [Difftastic is Fantastic! @_wilfredh explains how he developed Difftastic --&gt; a structural diff tool that compares files based on their syntax and supp...](https://twitter.com/neo4j/status/1573401852057714695)
 - [👉 The @Neo4j #GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform ...](https://twitter.com/neo4j/status/1573356603335639041)
-- [Are you a #Python dev? Learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course! #Neo4j #training #tutorials...](https://twitter.com/neo4j/status/1573312026197229568)
-- [RT Michael Hunger 🇪🇺 🇺🇦: Talking about Loom and Virtual Threads today at #JSD2022 So happy that @java 19 is out. Lot’s of content plus li...](https://twitter.com/mesirii/status/1573219181641830401)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
