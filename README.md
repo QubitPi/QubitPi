@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709425088770867254><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a206cf2c40001a85a566b53ea3a39b02401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709700421949587635><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1690ac698e5b8bab020061f8b199ac34401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神碧野林踪摄影活动# #碧野林踪# 《原神》「碧野林踪」须弥主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图，再次感...](https://t.bilibili.com/709425088770867254)
