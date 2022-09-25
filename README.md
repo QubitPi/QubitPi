@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》线上音乐会2022网页活动现已开启](https://ys.mihoyo.com/main/news/detail/22660)
+- [《原神》线上音乐会2022 - 无际之旅的旋律（第二支预告）](https://ys.mihoyo.com/main/news/detail/22656)
 - [原神×支付宝第二期主题活动现已上线](https://ys.mihoyo.com/main/news/detail/22655)
 - [「炽沙的考验」——《原神》新角色：赛诺分享H5正式上线](https://ys.mihoyo.com/main/news/detail/22653)
 - [《原神》预下载即将开启](https://ys.mihoyo.com/main/news/detail/22652)
-- [《原神》3.1版本「赤土之王与三朝圣者」内容专题页上线](https://ys.mihoyo.com/main/news/detail/22630)
-- [「游港聚珍」——原神×支付宝 网页活动已开启](https://ys.mihoyo.com/main/news/detail/22627)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
