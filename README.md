@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1573975854207668224)
+- [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1573973089477693440)
 - [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1573946412894658560)
 - [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1573930560103321600)
 - [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1573915709008142338)
-- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. #graphdatabase #opensou...](https://twitter.com/memgraphdb/status/1573693245103788037)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1573675126163480578)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
