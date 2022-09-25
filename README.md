@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709700421949587635><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1690ac698e5b8bab020061f8b199ac34401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# 亲爱的旅行者，《原神》线上音乐会2022网页活动现已开启~ 欢迎旅行者前往评论区置顶链接参与活动~ 参与活动，生成音乐会票面，分享即可获得原石等奖励,更...](https://t.bilibili.com/709808663695458393)
+- [《原神》线上音乐会2022 - 无际之旅的旋律（第二支预告）](https://t.bilibili.com/709808659406782609)
 - [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好~今天将为各位旅行者介绍的是3.1版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/709700421949587635)
 - [#原神# #原神碧野林踪摄影活动# #碧野林踪# 《原神》「碧野林踪」须弥主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图，再次感...](https://t.bilibili.com/709425088770867254)
 - [恭喜@哥我爱吃肉肉 @樱花樱花想見你 @随缘而萧 等20位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360251949809747)
-- [恭喜@新免武藏守藤源玄信 @云升_zx @九玖sa 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360251949809688)
-- [恭喜@咕沌-too @天命主教德丽莎 @卡戴珊科教 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/709360243335757972)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
