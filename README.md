@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🍿Check out the #Memgraph video &quot;How to contribute to a C++ project?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1574069474973679617)
+- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1574065445853872132)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1574023924102451201)
 - [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1574001273069867010)
 - [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1573975854207668224)
-- [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1573973089477693440)
-- [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1573946412894658560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
