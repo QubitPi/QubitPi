@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709700421949587635><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1690ac698e5b8bab020061f8b199ac34401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709808663695458393><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ab5aa8afade040ec0ada770a7980f562401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 亲爱的旅行者，《原神》线上音乐会2022网页活动现已开启~ 欢迎旅行者前往评论区置顶链接参与活动~ 参与活动，生成音乐会票面，分享即可获得原石等奖励,更...](https://t.bilibili.com/709808663695458393)
