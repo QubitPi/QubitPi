@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710077940972388416><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ab56a83d88a193538860263fedad65fe401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #温迪# 亲爱的旅行者，「杯装之诗」活动祈愿即将开启，「风色诗人·温迪&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/710072512129531953)
-- [#原神# #赛诺# 亲爱的旅行者，「雳裁冥昭」活动祈愿即将开启，「缄秘的裁遣·赛诺&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强...](https://t.bilibili.com/710072013912277029)
-- [《原神》角色演示-「坎蒂丝：誓守之盾」](https://t.bilibili.com/710071550060003351)
-- [亲爱的旅行者，预下载功能现已在PC端和移动端开启~](https://t.bilibili.com/710056921403490342)
-- [《原神》3.1版本「赤土之王与三朝圣者」更新维护预告](https://t.bilibili.com/710048309981478912)
+- [互动抽奖 #原神# #坎蒂丝# #誓守之盾# 《原神》角色演示-「坎蒂丝：誓守之盾」现已发布~ https://www.bilibili.com/video/BV1we411T74S 村民们常说，坎蒂丝就如...](https://t.bilibili.com/710077940972388416)
+- [#原神# #原神3.1# 亲爱的旅行者，「璇步流霞」累计登录活动即将开启~ 活动期间，累计登录七天即可获得纠缠之缘*10等奖励！ 〓活动时间〓 2022/10/14 04:00 ~ 202...](https://t.bilibili.com/710076652470665256)
+- [《原神》「杯中遥吟之歌」活动即将开启](https://t.bilibili.com/710076025409634384)
+- [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀~3.1版本即将开启，旅行者们准备好迎接全新活动了吗？点击下方长图一览为快吧~](https://t.bilibili.com/710074616662458385)
+- [亲爱的旅行者，今天为大家介绍一位拥有异色眼瞳的「守护者」——坎蒂丝，一起来看看吧！](https://t.bilibili.com/710074114168061976)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
