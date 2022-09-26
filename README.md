@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1574376243537010688)
+- [#Memgraph Cloud provides everything you need to ship fast. With #MAGE, you get an open-source library with ready-to-use graph algorithms. With Memgrap...](https://twitter.com/memgraphdb/status/1574354854587269121)
+- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1574348310177005571)
+- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1574337986212364288)
 - [Re @codek1 @supe_katarina We are glad that you like it :&rpar; Have fun! 🎮](https://twitter.com/memgraphdb/status/1574319481324802048)
-- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1574305528024539136)
-- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1574297222161768450)
-- [#Memgraph Cloud ☁️ is the easiest way to run lightning-fast ⚡️#graph algorithms on #streaming data. Try it for free!](https://twitter.com/memgraphdb/status/1574285649196335111)
-- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1574281872607268865)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
