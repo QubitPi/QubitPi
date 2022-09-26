@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
-- [🚩Use community detection to uncover fraud rings in connected data. #Neo4j #DataScience #GraphDataScience #FraudDetection #FraudLinks](https://twitter.com/neo4j/status/1574421080370020353)
-- [RT Alexander Erdl: Looking forward to talking to Mehul about Pathfinding #Algorithms using #Neo4j on Thursday. Tune in:](https://twitter.com/alexandererdl/status/1574408702051786752)
-- [RT Adam Cowley: Have you noticed that the Neo4j 5.0 Drivers are now in GA? The Building Neo4j Applications with Python course is the FIRST to be updat...](https://twitter.com/adamcowley/status/1574400400912007168)
-- [RT yWorks: Come explore Data Explorer for @neo4j – it’s a free web #application to visualize and explore your graph #database and make them more usa...](https://twitter.com/yworks/status/1574398984524898304)
 - [Take a look at these guides and tutorials which are designed to provide detailed examples of how to integrate Neo4j with your preferred programming la...](https://twitter.com/neo4j/status/1574373268664074241)
+- [Discover Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1574304061591289857)
+- [Neo4j&#39;s Rahul Tenglikar in an interview with @EntITworld: &quot;Graph databases easily capture the complexity of IT infrastructure and security tools.&quot; #ne...](https://twitter.com/neo4j/status/1574247427275620353)
+- [See how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user accounts. Zach Blumenthal expl...](https://twitter.com/neo4j/status/1574169141065515015)
+- [🎄 Read about how Graph technology is crucial to a company’s commitment to sustainability. #sustainability #GraphTechnology #Neo4j](https://twitter.com/neo4j/status/1574125352896663553)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
