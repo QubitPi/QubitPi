@@ -273,11 +273,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [6 Scrum-Dysfunktionen, die die Wertschöpfung behindern](https://www.scrum.org/resources/blog/6-scrum-dysfunktionen-die-die-wertschopfung-behindern)
 - [Los mejores product owners tienen habilidades diversas](https://www.scrum.org/resources/blog/los-mejores-product-owners-tienen-habilidades-diversas)
 - [[Podcast] Do we really need a Scrum Master or even an Agile Coach](https://www.scrum.org/resources/blog/podcast-do-we-really-need-scrum-master-or-even-agile-coach)
 - [What does Done really mean for your Sprint Review? 🚀 &lpar;69&rpar;](https://www.scrum.org/resources/blog/what-does-done-really-mean-your-sprint-review-69)
 - [Scrum Masters facilitate change](https://www.scrum.org/resources/blog/scrum-masters-facilitate-change)
-- [4 Einsichten in Scrum und Facilitation, die dir bei der PSFS-Prüfung helfen](https://www.scrum.org/resources/blog/4-einsichten-scrum-und-facilitation-die-dir-bei-der-psfs-prufung-helfen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
