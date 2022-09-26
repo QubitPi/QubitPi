@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j&#39;s Rahul Tenglikar in an interview with @EntITworld: &quot;Graph databases easily capture the complexity of IT infrastructure and security tools.&quot; #ne...](https://twitter.com/neo4j/status/1574247427275620353)
 - [See how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user accounts. Zach Blumenthal expl...](https://twitter.com/neo4j/status/1574169141065515015)
 - [🎄 Read about how Graph technology is crucial to a company’s commitment to sustainability. #sustainability #GraphTechnology #Neo4j](https://twitter.com/neo4j/status/1574125352896663553)
 - [Learn how to build a knowledge base service with Neo4j, Kafka, and the Outbox Pattern — with Gonçalo Martins. #neo4j #database #neo4jcommunity #Kafk...](https://twitter.com/neo4j/status/1573752908964929536)
 - [Create Your First Fully Managed Graph Database With @Neo4j 😎 It&#39;s the easiest and fastest way to build graph models in the cloud. 😎 No hardware ...](https://twitter.com/neo4j/status/1573625058894946306)
-- [RT GDG Cloud Pune: #CCDPune #CCDPune2022 #gdgcloudpune #googlecloud Unlock Graph Databases with Google Cloud and Neo4J Ghlen Nagels Web Developer and ...](https://twitter.com/gdgcloudpune/status/1573608312427495426)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
