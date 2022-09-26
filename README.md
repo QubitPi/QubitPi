@@ -500,7 +500,7 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=NYYRmLmlO2M)
+- [NODES 2022 Agenda - Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=NYYRmLmlO2M)
 - [Secondo video della sottoserie &quot;algoritmo del mese&quot;](https://www.youtube.com/watch?v=RTDKUN4pthA)
 - [10 - Graph Analytics for Identification of Risk Signature Profiles in Health Care Claims](https://www.youtube.com/watch?v=y__DC8Lo6TU)
 - [Neo4j Live: Pathfinding Algorithms using Neo4j](https://www.youtube.com/watch?v=naRtEnMev18)
