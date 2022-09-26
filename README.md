@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you know that &quot;chucknorris&quot; is a valid HTML color? #coding #html #memgraph](https://twitter.com/memgraphdb/status/1574418043920433152)
+- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. You can fi...](https://twitter.com/memgraphdb/status/1574411978646462471)
+- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1574405185480302594)
 - [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1574384298387558400)
 - [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1574384047207374848)
-- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1574377502751035393)
-- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1574376243537010688)
-- [#Memgraph Cloud provides everything you need to ship fast. With #MAGE, you get an open-source library with ready-to-use graph algorithms. With Memgrap...](https://twitter.com/memgraphdb/status/1574354854587269121)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
