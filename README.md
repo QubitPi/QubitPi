@@ -274,7 +274,7 @@ My Tech Blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Generalist vs Specialist](https://www.scrum.org/resources/blog/generalist-vs-specialist)
-- [Join the Anonymus Scrum Master &lpar;and Agile Coach&rpar; Salary Report 2023](https://www.scrum.org/resources/blog/join-anonymus-scrum-master-and-agile-coach-salary-report-2023)
+- [Join the Anonymous Scrum Master &lpar;and Agile Coach&rpar; Salary Report 2023](https://www.scrum.org/resources/blog/join-anonymous-scrum-master-and-agile-coach-salary-report-2023)
 - [6 Scrum-Dysfunktionen, die die Wertschöpfung behindern](https://www.scrum.org/resources/blog/6-scrum-dysfunktionen-die-die-wertschopfung-behindern)
 - [Los mejores product owners tienen habilidades diversas](https://www.scrum.org/resources/blog/los-mejores-product-owners-tienen-habilidades-diversas)
 - [[Podcast] Do we really need a Scrum Master or even an Agile Coach](https://www.scrum.org/resources/blog/podcast-do-we-really-need-scrum-master-or-even-agile-coach)
