@@ -527,7 +527,7 @@ My Tech Blogs
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
 - [Orders](https://dribbble.com/shots/19436668)
 - [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
-- [Oso Supply Branding](https://dribbble.com/shots/19424977)
+- [Web 3.0 finance: web platform design](https://dribbble.com/shots/19438691)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
