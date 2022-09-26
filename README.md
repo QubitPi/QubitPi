@@ -273,11 +273,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Join the Anonymus Scrum Master &lpar;and Agile Coach&rpar; Salary Report 2023](https://www.scrum.org/resources/blog/join-anonymus-scrum-master-and-agile-coach-salary-report-2023)
 - [6 Scrum-Dysfunktionen, die die Wertschöpfung behindern](https://www.scrum.org/resources/blog/6-scrum-dysfunktionen-die-die-wertschopfung-behindern)
 - [Los mejores product owners tienen habilidades diversas](https://www.scrum.org/resources/blog/los-mejores-product-owners-tienen-habilidades-diversas)
 - [[Podcast] Do we really need a Scrum Master or even an Agile Coach](https://www.scrum.org/resources/blog/podcast-do-we-really-need-scrum-master-or-even-agile-coach)
 - [What does Done really mean for your Sprint Review? 🚀 &lpar;69&rpar;](https://www.scrum.org/resources/blog/what-does-done-really-mean-your-sprint-review-69)
-- [Scrum Masters facilitate change](https://www.scrum.org/resources/blog/scrum-masters-facilitate-change)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
