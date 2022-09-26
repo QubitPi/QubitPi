@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [夜沉星移，月笼梦行](https://ys.mihoyo.com/main/news/detail/22729)
+- [白草净华，幽宫启蛰](https://ys.mihoyo.com/main/news/detail/22728)
 - [《原神》「杯中遥吟之歌」活动即将开启](https://ys.mihoyo.com/main/news/detail/22722)
 - [《原神》3.1版本「赤土之王与三朝圣者」活动速递第一期](https://ys.mihoyo.com/main/news/detail/22721)
 - [《原神》魔神任务第三章·第三幕、第四幕即将开启](https://ys.mihoyo.com/main/news/detail/22720)
-- [赤沙浮金，恪誓戍御](https://ys.mihoyo.com/main/news/detail/22296)
-- [《原神》「绿帷逐叶」深境螺旋挑战即将开启](https://ys.mihoyo.com/main/news/detail/22725)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
