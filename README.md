@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1574384298387558400)
+- [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1574384047207374848)
+- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1574377502751035393)
 - [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1574376243537010688)
 - [#Memgraph Cloud provides everything you need to ship fast. With #MAGE, you get an open-source library with ready-to-use graph algorithms. With Memgrap...](https://twitter.com/memgraphdb/status/1574354854587269121)
-- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1574348310177005571)
-- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1574337986212364288)
-- [Re @codek1 @supe_katarina We are glad that you like it :&rpar; Have fun! 🎮](https://twitter.com/memgraphdb/status/1574319481324802048)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
