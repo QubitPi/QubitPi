@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710077940972388416><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ab56a83d88a193538860263fedad65fe401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710165407993954356><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/628d47e44fa90a57dbbf9bea355259dc401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #莱依拉# #绮思晚星# ▌绮思晚星 · 莱依拉 夜沉星移，月笼梦行 ========== 「她总说写论文压力太大、画星图叫人崩溃，但心里比谁都要坚韧，一...](https://t.bilibili.com/710165407993954356)
