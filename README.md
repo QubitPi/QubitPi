@@ -377,11 +377,11 @@ My Tech Blogs
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
 
 <!-- DOCKERHUB-BLOG:START -->
+- [Creating Kubernetes Extensions in Docker Desktop](https://www.docker.com/blog/creating-kubernetes-extensions-in-docker-desktop/)
 - [Bring Continuous Integration to Your Laptop With the Drone CI Docker Extension](https://www.docker.com/blog/bring-continuous-integration-to-your-laptop-with-the-drone-ci-docker-extension/)
 - [Announcing Docker Hub Export Members](https://www.docker.com/blog/announcing-docker-hub-export-members/)
 - [Kubernetes in Production Environments](https://www.docker.com/blog/dear-moby-2-kubernetes-in-production/)
 - [Clarifying Misconceptions About Web3 and Its Relevance With Docker](https://www.docker.com/blog/clarifying-misconceptions-about-web3-and-its-relevance-with-docker/)
-- [Back Up and Share Docker Volumes with This Extension](https://www.docker.com/blog/back-up-and-share-docker-volumes-with-this-extension/)
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
