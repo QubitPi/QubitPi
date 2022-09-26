@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/709808663695458393><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ab5aa8afade040ec0ada770a7980f562401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710072512129531953><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cbe12536f4b36864a18f6bbe12676b3c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #温迪# 亲爱的旅行者，「杯装之诗」活动祈愿即将开启，「风色诗人·温迪&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/710072512129531953)
