@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph dem...](https://twitter.com/neo4j/status/1574790227704561666)
 - [Starting as a graph database @Neo4j has evolved into a rich ecosystem with many tools, applications, and libraries, which give you the opportunity to ...](https://twitter.com/neo4j/status/1574466387829035008)
 - [RT Gerrit Meier: Happy to speak at #nodes2022 about #Neo4j @testcontainers](https://twitter.com/meistermeier/status/1574424363549564935)
 - [🚩Use community detection to uncover fraud rings in connected data. #Neo4j #DataScience #GraphDataScience #FraudDetection #FraudLinks](https://twitter.com/neo4j/status/1574421080370020353)
 - [RT Alexander Erdl: Looking forward to talking to Mehul about Pathfinding #Algorithms using #Neo4j on Thursday. Tune in:](https://twitter.com/alexandererdl/status/1574408702051786752)
-- [RT Adam Cowley: Have you noticed that the Neo4j 5.0 Drivers are now in GA? The Building Neo4j Applications with Python course is the FIRST to be updat...](https://twitter.com/adamcowley/status/1574400400912007168)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
