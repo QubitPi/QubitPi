@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710165407993954356><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/628d47e44fa90a57dbbf9bea355259dc401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #赛诺# #诛罪的引导# 《原神》角色演示-「赛诺：诛罪的引导」现已发布~ https://www.bilibili.com/video/BV1U14y1h7UE 为保持对智慧与知识的敬...](https://t.bilibili.com/710446938787414039)
+- [《原神》角色演示-「赛诺：诛罪的引导」](https://t.bilibili.com/710442686769790997)
 - [互动抽奖 #原神# #莱依拉# #绮思晚星# ▌绮思晚星 · 莱依拉 夜沉星移，月笼梦行 ========== 「她总说写论文压力太大、画星图叫人崩溃，但心里比谁都要坚韧，一...](https://t.bilibili.com/710165407993954356)
 - [互动抽奖 #原神# #纳西妲# #白草净华# ▌白草净华 · 纳西妲 白草净华，幽宫启蛰 ========== 「过于专注也好，过于溺爱也罢，行为虽有瑕疵，但我认可她作为须弥...](https://t.bilibili.com/710164256929087571)
 - [[热词系列_三连]](https://t.bilibili.com/710153274706100224)
-- [互动抽奖 #原神# #坎蒂丝# #誓守之盾# 《原神》角色演示-「坎蒂丝：誓守之盾」现已发布~ https://www.bilibili.com/video/BV1we411T74S 村民们常说，坎蒂丝就如...](https://t.bilibili.com/710077940972388416)
-- [#原神# #原神3.1# 亲爱的旅行者，「璇步流霞」累计登录活动即将开启~ 活动期间，累计登录七天即可获得纠缠之缘*10等奖励！ 〓活动时间〓 2022/10/14 04:00 ~ 202...](https://t.bilibili.com/710076652470665256)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
