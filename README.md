@@ -527,7 +527,7 @@ My Tech Blogs
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
 - [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
 - [Crypto wallet app](https://dribbble.com/shots/19469789)
-- [Winden: Landing Page on AWWWARDS!](https://dribbble.com/shots/19439759)
+- [Lithic Icon pt. IX](https://dribbble.com/shots/19461841)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
