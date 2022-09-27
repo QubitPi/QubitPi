@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1574658864884097024)
-- [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1574627147666411520)
-- [Did you know that &quot;chucknorris&quot; is a valid HTML color? #coding #html #memgraph](https://twitter.com/memgraphdb/status/1574418043920433152)
-- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. You can fi...](https://twitter.com/memgraphdb/status/1574411978646462471)
-- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1574405185480302594)
+- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1574720258564399106)
+- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1574719003595051010)
+- [Have you heard about fraud detection in large transaction networks? Usually, such networks contain millions of relationships between POS devices, logg...](https://twitter.com/memgraphdb/status/1574709189150121986)
+- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1574689307679506432)
+- [Are you coming to #RTASummit by @startreedata tomorrow? You can visit #Memgraph at our virtual booth. If you didn&#39;t claim your free ticket yet, do it ...](https://twitter.com/memgraphdb/status/1574687557249400832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
