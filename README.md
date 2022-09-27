@@ -273,11 +273,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [[VLOG] 10 Interview Questions To Find Your Perfect Scrum Master &lpar;Or Agile Coach&rpar;](https://www.scrum.org/resources/blog/vlog-10-interview-questions-find-your-perfect-scrum-master-or-agile-coach)
 - [Generalist vs Specialist](https://www.scrum.org/resources/blog/generalist-vs-specialist)
 - [Join the Anonymous Scrum Master &lpar;and Agile Coach&rpar; Salary Report 2023](https://www.scrum.org/resources/blog/join-anonymous-scrum-master-and-agile-coach-salary-report-2023)
 - [6 Scrum-Dysfunktionen, die die Wertschöpfung behindern](https://www.scrum.org/resources/blog/6-scrum-dysfunktionen-die-die-wertschopfung-behindern)
 - [Los mejores product owners tienen habilidades diversas](https://www.scrum.org/resources/blog/los-mejores-product-owners-tienen-habilidades-diversas)
-- [[Podcast] Do we really need a Scrum Master or even an Agile Coach](https://www.scrum.org/resources/blog/podcast-do-we-really-need-scrum-master-or-even-agile-coach)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
