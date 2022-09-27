@@ -366,11 +366,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [Join Felix Hüttner, Belmiro Moreira, Mohammed Naser, Arnaud Morin, and Thierry Carrez this Thursday on #OpenInfraLive for Large Scale Ops Deep Dive: ...](https://twitter.com/OpenStack/status/1574776181865463809)
 - [¿Alguna vez te preguntaste cómo contribuir a proyectos #OpenSource? Check out this tutorial from #OpenInfra Days Mexico 2022 on how to contribute to...](https://twitter.com/OpenStack/status/1573356897985519618)
 - [RT OpenInfra Foundation: The #OpenInfra community is getting together for Kubernetes Community Days &amp; OpenInfra Days Indonesia 2022 November 26-27!](https://twitter.com/openinfradev/status/1573311883192328192)
 - [RT Hasaranga 🇱🇰 🇬🇧: If you are a Cloud Engineer who loves open source and looking to enhance your career,it&#39;s time to learn @OpenStack. He...](https://twitter.com/m_hasaranga/status/1573280511086432258)
 - [Around the World with OpenInfra Events | OpenInfra Live Recap](https://twitter.com/OpenStack/status/1572986108383838218)
-- [NOW on #OpenInfra Live, we are join with community members from all over the globe to share opportunities for you to meet the local #OpenInfra experts...](https://twitter.com/OpenStack/status/1572949486502019074)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
