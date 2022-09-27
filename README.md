@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1574745175062085632)
 - [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1574720258564399106)
 - [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1574719003595051010)
 - [Have you heard about fraud detection in large transaction networks? Usually, such networks contain millions of relationships between POS devices, logg...](https://twitter.com/memgraphdb/status/1574709189150121986)
 - [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1574689307679506432)
-- [Are you coming to #RTASummit by @startreedata tomorrow? You can visit #Memgraph at our virtual booth. If you didn&#39;t claim your free ticket yet, do it ...](https://twitter.com/memgraphdb/status/1574687557249400832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
