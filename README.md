@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zones - there will be tr...](https://twitter.com/neo4j/status/1574821275544977409)
 - [Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph dem...](https://twitter.com/neo4j/status/1574790227704561666)
+- [RT Maruthi Prithivi: The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zon...](https://twitter.com/maruthiprithivi/status/1574782441314721794)
+- [RT Matt Casters: This year I&#39;m joining the @Neo4j NODES conference with a 2 hour training on how to use @ApacheHop to handle your Neo4j data. We&#39;ll st...](https://twitter.com/mattcasters/status/1574715369356394496)
 - [Starting as a graph database @Neo4j has evolved into a rich ecosystem with many tools, applications, and libraries, which give you the opportunity to ...](https://twitter.com/neo4j/status/1574466387829035008)
-- [RT Gerrit Meier: Happy to speak at #nodes2022 about #Neo4j @testcontainers](https://twitter.com/meistermeier/status/1574424363549564935)
-- [🚩Use community detection to uncover fraud rings in connected data. #Neo4j #DataScience #GraphDataScience #FraudDetection #FraudLinks](https://twitter.com/neo4j/status/1574421080370020353)
-- [RT Alexander Erdl: Looking forward to talking to Mehul about Pathfinding #Algorithms using #Neo4j on Thursday. Tune in:](https://twitter.com/alexandererdl/status/1574408702051786752)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
