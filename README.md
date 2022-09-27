@@ -435,11 +435,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [We would not be the #graphdatabase database we are today without the love and support we get from our fantastic community. 💚 Take a look and learn ...](https://twitter.com/arangodb/status/1574730599289462784)
 - [Everything you need to know about graph analytics and big data. 🥑 Learn more about graph databases, graph analytics, and their complex use cases to...](https://twitter.com/arangodb/status/1574504090213703706)
 - [The only thing on our minds here at ArangoDB is ArangoDB Summit! 😎 Join our CEO Shekhar Iyer, CPO @weinberger, CTO @joerg_schad, and other notable ...](https://twitter.com/arangodb/status/1574368208890503171)
 - [Did you attend 𝗕𝗲𝘆𝗼𝗻𝗱𝗚𝗿𝗮𝗽𝗵 𝟮𝟮? Don&#39;t worry you can still get caught up to speed before ArangoDB Summit by watch...](https://twitter.com/arangodb/status/1574036017186742272)
 - [PrivacyPerfect had the difficult challenge of selecting the right data model to minimize architectural complexity. Find out why they selected graph an...](https://twitter.com/arangodb/status/1573673633251213313)
-- [Is your weekend free? Why not try out 14 days of ArangoDB Cloud! 🤩 Get started with our managed service, ArangoDB Cloud, with a 14-day free trial o...](https://twitter.com/arangodb/status/1573416937945808905)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
