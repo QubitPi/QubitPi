@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710165407993954356><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/628d47e44fa90a57dbbf9bea355259dc401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710446938787414039><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d01d5da801c88fc6552c2f09c93418bd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #赛诺# #诛罪的引导# 《原神》角色演示-「赛诺：诛罪的引导」现已发布~ https://www.bilibili.com/video/BV1U14y1h7UE 为保持对智慧与知识的敬...](https://t.bilibili.com/710446938787414039)
