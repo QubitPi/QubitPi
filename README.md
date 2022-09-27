@@ -526,8 +526,8 @@ My Tech Blogs
 - [Tasks](https://dribbble.com/shots/19438127)
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
 - [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
-- [Orders](https://dribbble.com/shots/19436668)
 - [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
+- [Crypto wallet app](https://dribbble.com/shots/19469789)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
