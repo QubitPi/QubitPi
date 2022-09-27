@@ -470,11 +470,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1574745175062085632)
-- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1574720258564399106)
-- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1574719003595051010)
-- [Have you heard about fraud detection in large transaction networks? Usually, such networks contain millions of relationships between POS devices, logg...](https://twitter.com/memgraphdb/status/1574709189150121986)
-- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1574689307679506432)
+- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1574785691648774145)
+- [An important part of handling data is visualizing it. Graphs as a data structure are no exception to that. We worked on an internal graph visualizatio...](https://twitter.com/memgraphdb/status/1574777890088124416)
+- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1574767571139698690)
+- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1574765059959656449)
+- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1574763296103845890)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
