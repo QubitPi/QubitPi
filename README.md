@@ -525,8 +525,8 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Branding Cordial, Visual Identity](https://dribbble.com/shots/19457511)
-- [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
 - [Crypto wallet app](https://dribbble.com/shots/19469789)
+- [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
 - [Lithic Icon pt. IX](https://dribbble.com/shots/19461841)
 <!-- DRIBBBLE-TRENDING:END -->
 
