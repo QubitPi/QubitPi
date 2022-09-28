@@ -510,11 +510,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
+- [Going Meta - a series on graphs, semantics and knowledge Ep 9](https://www.youtube.com/watch?v=YVaj2LEqDn0)
 - [NODES 2022 Agenda - Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=NYYRmLmlO2M)
 - [Secondo video della sottoserie &quot;algoritmo del mese&quot;](https://www.youtube.com/watch?v=RTDKUN4pthA)
 - [10 - Graph Analytics for Identification of Risk Signature Profiles in Health Care Claims](https://www.youtube.com/watch?v=y__DC8Lo6TU)
-- [Neo4j Live: Pathfinding Algorithms using Neo4j](https://www.youtube.com/watch?v=naRtEnMev18)
-- [8 - New! Neo4j AuraDS: The Fastest Way to Get Started with Data Science in the Cloud](https://www.youtube.com/watch?v=5c1fHO-AnBg)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
