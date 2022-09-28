@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710473498863075425><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c660709b7eee9d54634678bc70db9849401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》提瓦特冒险纪念视频：旅行二周年手札](https://t.bilibili.com/710906470224363618)
 - [#原神# #绘忆星辰# 亲爱的旅行者，「绘忆星辰」网页活动现已开启，参与可得原石等游戏内奖励。 欢迎旅行者前往评论区置顶链接参与活动~ 时光如同纺车般碌碌不停...](https://t.bilibili.com/710815103396610055)
 - [互动抽奖 #原神# #神里绫华# #生日快乐# 即使是同一处地点，每次来访时，心境也不尽相同… 惬意的时光，终归短暂。或许正因如此，才令我加倍珍惜。 可以请你收下...](https://t.bilibili.com/710814076904669186)
 - [《原神》拾枝杂谈-「赛诺：寂默狼行」](https://t.bilibili.com/710813698943352871)
 - [#原神# #杯中遥吟之歌# 旅行者们好呀，全新活动即将开启，一起来看看吧~](https://t.bilibili.com/710790488931696648)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·赤沙之杖」「弓·终末嗟叹之诗」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/710787267694690325)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
