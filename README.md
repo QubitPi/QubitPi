@@ -504,11 +504,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Manning Publications: GraphQL—your solution to building modern APIs! Join @lyonwj, author of Full Stack GraphQL Applications &amp; discover the power ...](https://twitter.com/ManningBooks/status/1575123927684333568)
 - [Get tailor-made Neo4j connectivity with Spring Boot 2.4+ via @rotnroll666. #SpringBoot #Neo4j](https://twitter.com/neo4j/status/1575106316770631681)
 - [Put your focus on what&#39;s important – building smart, data-driven applications! Test out here: #AuraDBFree #GraphDataBase](https://twitter.com/neo4j/status/1575062867732209664)
+- [RT EM360: Kristof Neys, Director of Graph Data Science at @Neo4j explained at @BigData_LDN why appropriately dealing with the vast amount of data is t...](https://twitter.com/EM360Tech/status/1575057478664204288)
 - [👉Neo4j Ops Manager — the tool you need to boost your Ops team’s productivity. #Neo4j #GraphDatabase #GraphDataScience #database](https://twitter.com/neo4j/status/1574935194917900288)
-- [RT Benjamin Nothdurft &lpar;he/him&rpar;: NEXT UP @JMHReif giving an excellent deep dive into @neo4j by example ☕️💬 // @jconfdev @foojayio // Sources:](https://twitter.com/DataDuke/status/1574883417493217296)
-- [It’s good programming practice to use parameters in Cypher Queries whenever possible💡 Find out why and how with @wagenrace. #Cypher #Neo4j #Knowle...](https://twitter.com/neo4j/status/1574866528381575169)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
