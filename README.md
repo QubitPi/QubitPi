@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710473498863075425><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c660709b7eee9d54634678bc70db9849401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [《原神》3.1版本「赤土之王与三朝圣者」更新说明](https://t.bilibili.com/710736346582352144)
-- [期待各位旅行者的精彩作品~ [原神_哇]](https://t.bilibili.com/710529887484510232)
-- [恭喜@地球ol单机玩家 @苏维埃近卫队 @一手冰心无敌 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/710473498863075425)
-- [互动抽奖 #原神# #赛诺# #诛罪的引导# 《原神》角色演示-「赛诺：诛罪的引导」现已发布~ https://www.bilibili.com/video/BV1U14y1h7UE 为保持对智慧与知识的敬...](https://t.bilibili.com/710446938787414039)
-- [《原神》角色演示-「赛诺：诛罪的引导」](https://t.bilibili.com/710442686769790997)
+- [#原神# #杯中遥吟之歌# 旅行者们好呀，全新活动即将开启，一起来看看吧~](https://t.bilibili.com/710790488931696648)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·赤沙之杖」「弓·终末嗟叹之诗」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/710787267694690325)
+- [#原神# #温迪# 亲爱的旅行者，「杯装之诗」活动祈愿现已开启，「风色诗人·温迪&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/710786795266113557)
+- [#原神# #赛诺# 亲爱的旅行者，「雳裁冥昭」活动祈愿现已开启，「缄秘的裁遣·赛诺&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强...](https://t.bilibili.com/710786224023928864)
+- [互动抽奖 #原神# #原神二周年# 将你遍历的芬芳编成花环，作为相遇的礼物送给你。 将你旅行的故事画进绘本，作为纪念的礼物送给你。 ===== 关注@原神 并转发，我...](https://t.bilibili.com/710774503056080912)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
