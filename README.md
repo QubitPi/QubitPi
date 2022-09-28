@@ -475,11 +475,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1575006147354005504)
+- [🍿Check out the #Memgraph video &quot;#Apache #Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1575002874249101312)
 - [Do join us. #Memgraph DevRel team be at the virtual booth tomorrow :&rpar;](https://twitter.com/memgraphdb/status/1574828773559734302)
 - [Re @startreedata Do join us. Our DevRel team be at the virtual booth tomorrow :&rpar;](https://twitter.com/memgraphdb/status/1574828655334801410)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1574785691648774145)
-- [An important part of handling data is visualizing it. Graphs as a data structure are no exception to that. We worked on an internal graph visualizatio...](https://twitter.com/memgraphdb/status/1574777890088124416)
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1574767571139698690)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
