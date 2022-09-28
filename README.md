@@ -514,11 +514,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Innovation en machine learning : des données connectées pour des prédictions plus efficaces](https://www.youtube.com/watch?v=lDjHsZYMC-M)
+- [BNPP : utilisation d&#39;une base de données graphes pour renforcer la lutte contre la fraude digitale](https://www.youtube.com/watch?v=Zu5bnZajRrU)
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
 - [Going Meta - a series on graphs, semantics and knowledge Ep 9](https://www.youtube.com/watch?v=YVaj2LEqDn0)
 - [NODES 2022 Agenda - Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=NYYRmLmlO2M)
-- [Secondo video della sottoserie &quot;algoritmo del mese&quot;](https://www.youtube.com/watch?v=RTDKUN4pthA)
-- [10 - Graph Analytics for Identification of Risk Signature Profiles in Health Care Claims](https://www.youtube.com/watch?v=y__DC8Lo6TU)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
