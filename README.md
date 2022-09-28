@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [👉Neo4j Ops Manager — the tool you need to boost your Ops team’s productivity. #Neo4j #GraphDatabase #GraphDataScience #database](https://twitter.com/neo4j/status/1574935194917900288)
+- [RT Benjamin Nothdurft &lpar;he/him&rpar;: NEXT UP @JMHReif giving an excellent deep dive into @neo4j by example ☕️💬 // @jconfdev @foojayio // Sources:](https://twitter.com/DataDuke/status/1574883417493217296)
 - [It’s good programming practice to use parameters in Cypher Queries whenever possible💡 Find out why and how with @wagenrace. #Cypher #Neo4j #Knowle...](https://twitter.com/neo4j/status/1574866528381575169)
 - [The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zones - there will be tr...](https://twitter.com/neo4j/status/1574821275544977409)
 - [Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph dem...](https://twitter.com/neo4j/status/1574790227704561666)
-- [RT Maruthi Prithivi: The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zon...](https://twitter.com/maruthiprithivi/status/1574782441314721794)
-- [RT Matt Casters: This year I&#39;m joining the @Neo4j NODES conference with a 2 hour training on how to use @ApacheHop to handle your Neo4j data. We&#39;ll st...](https://twitter.com/mattcasters/status/1574715369356394496)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
