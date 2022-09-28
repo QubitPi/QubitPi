@@ -153,6 +153,19 @@ jobs:
           comment_tag_name: "DOCKERHUB-BLOG"
           max_post_count: "5"
           feed_list: "https://www.docker.com/feed/"
+  kubernetes-blog:
+    name: Kubernetes Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New Kubernetes Blog"
+          comment_tag_name: "KUBERNETES-BLOG"
+          max_post_count: "5"
+          feed_list: "https://kubernetes.io/feed.xml"       
   lets-encrypt-blog:
     name: Let's Encrypt Blog
     runs-on: ubuntu-latest
