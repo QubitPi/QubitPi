@@ -394,6 +394,10 @@ My Tech Blogs
 - [Blog: Kubernetes 1.25: Two Features for Apps Rollouts Graduate to Stable](https://kubernetes.io/blog/2022/09/15/app-rollout-features-reach-stable/)
 <!-- KUBERNETES-BLOG:END -->
 
+##### Study Notes
+
+* [Kubernetes - Container Manager](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
 <!-- LETS-ENCRYPT-BLOG:START -->
