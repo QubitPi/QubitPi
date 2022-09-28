@@ -366,11 +366,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT OpenMetal.io: Re @JayTheLinuxGuy dives into @OpenStack in his latest video. Check it out! #openstack #kubernetes #kubernetesonopenstack #openstackt...](https://twitter.com/openmetal_io/status/1575146629887320065)
 - [Join Felix Hüttner, Belmiro Moreira, Mohammed Naser, Arnaud Morin, and Thierry Carrez this Thursday on #OpenInfraLive for Large Scale Ops Deep Dive: ...](https://twitter.com/OpenStack/status/1574776181865463809)
+- [RT Fabrizio Bartoloni: [#Ubuntu] #OpenSource #cloud for beginners with @OpenStack](https://twitter.com/f_bartoloni/status/1574763487678664706)
+- [RT Arne Wiebalck: Re @OpenStack The recording of &quot;Bare Metal Kubernetes at G-Research&quot; from the last @openstack Bare Metal SIG meeting is now availabl...](https://twitter.com/ArneWiebalck/status/1574669669503467520)
 - [¿Alguna vez te preguntaste cómo contribuir a proyectos #OpenSource? Check out this tutorial from #OpenInfra Days Mexico 2022 on how to contribute to...](https://twitter.com/OpenStack/status/1573356897985519618)
-- [RT OpenInfra Foundation: The #OpenInfra community is getting together for Kubernetes Community Days &amp; OpenInfra Days Indonesia 2022 November 26-27!](https://twitter.com/openinfradev/status/1573311883192328192)
-- [RT Hasaranga 🇱🇰 🇬🇧: If you are a Cloud Engineer who loves open source and looking to enhance your career,it&#39;s time to learn @OpenStack. He...](https://twitter.com/m_hasaranga/status/1573280511086432258)
-- [Around the World with OpenInfra Events | OpenInfra Live Recap](https://twitter.com/OpenStack/status/1572986108383838218)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
