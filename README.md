@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710473498863075425><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c660709b7eee9d54634678bc70db9849401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》3.1版本「赤土之王与三朝圣者」更新说明](https://t.bilibili.com/710736346582352144)
 - [期待各位旅行者的精彩作品~ [原神_哇]](https://t.bilibili.com/710529887484510232)
 - [恭喜@地球ol单机玩家 @苏维埃近卫队 @一手冰心无敌 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/710473498863075425)
 - [互动抽奖 #原神# #赛诺# #诛罪的引导# 《原神》角色演示-「赛诺：诛罪的引导」现已发布~ https://www.bilibili.com/video/BV1U14y1h7UE 为保持对智慧与知识的敬...](https://t.bilibili.com/710446938787414039)
 - [《原神》角色演示-「赛诺：诛罪的引导」](https://t.bilibili.com/710442686769790997)
-- [互动抽奖 #原神# #莱依拉# #绮思晚星# ▌绮思晚星 · 莱依拉 夜沉星移，月笼梦行 ========== 「她总说写论文压力太大、画星图叫人崩溃，但心里比谁都要坚韧，一...](https://t.bilibili.com/710165407993954356)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
