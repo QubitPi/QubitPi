@@ -504,11 +504,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Alexander Erdl: Missed the #nodes2022 agenda import live stream with @mesirii this Monday? You can now read it on the #neo4j developer blog as well...](https://twitter.com/alexandererdl/status/1575151995706646530)
 - [RT Manning Publications: GraphQL—your solution to building modern APIs! Join @lyonwj, author of Full Stack GraphQL Applications &amp; discover the power ...](https://twitter.com/ManningBooks/status/1575123927684333568)
 - [Get tailor-made Neo4j connectivity with Spring Boot 2.4+ via @rotnroll666. #SpringBoot #Neo4j](https://twitter.com/neo4j/status/1575106316770631681)
 - [Put your focus on what&#39;s important – building smart, data-driven applications! Test out here: #AuraDBFree #GraphDataBase](https://twitter.com/neo4j/status/1575062867732209664)
 - [RT EM360: Kristof Neys, Director of Graph Data Science at @Neo4j explained at @BigData_LDN why appropriately dealing with the vast amount of data is t...](https://twitter.com/EM360Tech/status/1575057478664204288)
-- [👉Neo4j Ops Manager — the tool you need to boost your Ops team’s productivity. #Neo4j #GraphDatabase #GraphDataScience #database](https://twitter.com/neo4j/status/1574935194917900288)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
