@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》「杯中遥吟之歌」玩法说明](https://ys.mihoyo.com/main/news/detail/22758)
+- [《原神》3.1版本超话签到活动第一期现已开启](https://ys.mihoyo.com/main/news/detail/22755)
+- [将你旅行的故事画进绘本，作为纪念的礼物送给你。](https://ys.mihoyo.com/main/news/detail/22751)
 - [《原神》3.1版本「赤土之王与三朝圣者」更新说明](https://ys.mihoyo.com/main/news/detail/22749)
-- [小红书《原神》3.1版本笔记征集活动即将开启](https://ys.mihoyo.com/main/news/detail/22739)
-- [快手《原神》3.1版本视频征集&amp;直播招募活动即将开启](https://ys.mihoyo.com/main/news/detail/22738)
-- [虎牙直播《原神》3.1版本直播季活动即将开启](https://ys.mihoyo.com/main/news/detail/22737)
-- [斗鱼直播《原神》3.1版本直播季活动即将开启](https://ys.mihoyo.com/main/news/detail/22736)
+- [《原神》「神铸赋形」活动祈愿现已开启，「长柄武器·赤沙之杖」「弓·终末嗟叹之诗」概率UP！](https://ys.mihoyo.com/main/news/detail/22762)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
