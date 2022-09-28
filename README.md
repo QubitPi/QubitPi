@@ -484,11 +484,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1575129958976036867)
-- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1575127950030262274)
-- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1575119895729258496)
-- [Memgraph Lab is a visual user interface that connects your local Memgraph instance or Cloud account. You can use Lab to import, explore and visualize ...](https://twitter.com/memgraphdb/status/1575109070754926592)
-- [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1575102781853241345)
+- [Do you know what is real-time graph analytics? Visit #Memgraph at #RTASummit and find out! ➡️](https://twitter.com/memgraphdb/status/1575155837609418760)
+- [This was cool! Way to go @tlberglund! #RTASummit /cc @startreedata](https://twitter.com/memgraphdb/status/1575154364389511169)
+- [Be sure to visit #Memgraph at #RTASummit ➡️](https://twitter.com/memgraphdb/status/1575152722671767555)
+- [5 minutes to go for the #RTASummit w/ @startreedata and a bunch of other cos like @redpandadata and @confluentinc !](https://twitter.com/memgraphdb/status/1575152178762698752)
+- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1575148082152488961)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
