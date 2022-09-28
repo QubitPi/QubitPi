@@ -109,11 +109,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
-- [提瓦特美食札记 | “相约…”——神里绫华生日快乐！](https://ys.mihoyo.com/main/news/detail/22775)
-- [《原神》绘忆星辰网页活动现已上线](https://ys.mihoyo.com/main/news/detail/22770)
-- [《原神》拾枝杂谈-「赛诺：寂默狼行」](https://ys.mihoyo.com/main/news/detail/22768)
-- [神里绫华生日快乐｜可以请你收下这束花吗？](https://ys.mihoyo.com/main/news/detail/22766)
 - [《原神》「杯中遥吟之歌」玩法说明](https://ys.mihoyo.com/main/news/detail/22758)
+- [《原神》3.1版本超话签到活动第一期现已开启](https://ys.mihoyo.com/main/news/detail/22755)
+- [将你旅行的故事画进绘本，作为纪念的礼物送给你。](https://ys.mihoyo.com/main/news/detail/22751)
+- [《原神》3.1版本「赤土之王与三朝圣者」更新说明](https://ys.mihoyo.com/main/news/detail/22749)
+- [《原神》「神铸赋形」活动祈愿现已开启，「长柄武器·赤沙之杖」「弓·终末嗟叹之诗」概率UP！](https://ys.mihoyo.com/main/news/detail/22762)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
