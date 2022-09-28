@@ -484,11 +484,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1575046159864823808)
-- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1575027534659477504)
-- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1575006147354005504)
-- [🍿Check out the #Memgraph video &quot;#Apache #Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1575002874249101312)
-- [Do join us. #Memgraph DevRel team be at the virtual booth tomorrow :&rpar;](https://twitter.com/memgraphdb/status/1574828773559734302)
+- [Memgraph Lab is a visual user interface that connects your local Memgraph instance or Cloud account. You can use Lab to import, explore and visualize ...](https://twitter.com/memgraphdb/status/1575109070754926592)
+- [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1575102781853241345)
+- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1575102276833873921)
+- [#Memgraph Cloud ☁️ is the easiest way to run lightning-fast ⚡️#graph algorithms on #streaming data. Try it for free!](https://twitter.com/memgraphdb/status/1575088690749112325)
+- [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1575068557771153409)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
