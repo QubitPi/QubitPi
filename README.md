@@ -484,11 +484,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1575129958976036867)
+- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1575127950030262274)
+- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1575119895729258496)
 - [Memgraph Lab is a visual user interface that connects your local Memgraph instance or Cloud account. You can use Lab to import, explore and visualize ...](https://twitter.com/memgraphdb/status/1575109070754926592)
 - [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1575102781853241345)
-- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1575102276833873921)
-- [#Memgraph Cloud ☁️ is the easiest way to run lightning-fast ⚡️#graph algorithms on #streaming data. Try it for free!](https://twitter.com/memgraphdb/status/1575088690749112325)
-- [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1575068557771153409)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
