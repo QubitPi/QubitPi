@@ -536,8 +536,8 @@ My Tech Blogs
 - [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Mail App](https://dribbble.com/shots/19505116)
 - [Crypto wallet app](https://dribbble.com/shots/19469789)
-- [Musical Instruments Website Product Page](https://dribbble.com/shots/19461260)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
+- [Musical Instruments Website Product Page](https://dribbble.com/shots/19471077)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
