@@ -480,11 +480,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1575046159864823808)
+- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1575027534659477504)
 - [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1575006147354005504)
 - [🍿Check out the #Memgraph video &quot;#Apache #Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1575002874249101312)
 - [Do join us. #Memgraph DevRel team be at the virtual booth tomorrow :&rpar;](https://twitter.com/memgraphdb/status/1574828773559734302)
-- [Re @startreedata Do join us. Our DevRel team be at the virtual booth tomorrow :&rpar;](https://twitter.com/memgraphdb/status/1574828655334801410)
-- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1574785691648774145)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
