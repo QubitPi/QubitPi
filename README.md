@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [👌Measure the similarity between users, items, and other entities in your data leveraging relationships, graph topology, and other properties. #Neo4...](https://twitter.com/neo4j/status/1575455432059092992)
 - [Liquibase is a widely-used tool for implementing flexible database changes. @fbiville author of the @Neo4j extension for Liquibase, goes beyond basic ...](https://twitter.com/neo4j/status/1575423660126572545)
 - [RT Adam Cowley: Node.js developers using #neo4j, which of the below options would you prefer to use when interacting with the database? #nodejs #graph...](https://twitter.com/adamcowley/status/1575389927361187842)
 - [How to use Neo4j Graph Data Science and Python to capture key centrality and community metrics for supply chain analytics. #GraphDataScience #Python #...](https://twitter.com/neo4j/status/1575296309296242690)
 - [Building a knowledge graph can support you at all stages of a cyberattack attack! 🕵 Check out knowledge graphs as digital twin here: #Neo4j #Knowle...](https://twitter.com/neo4j/status/1575228386930196491)
-- [RT Sascha Peukert: I’m thrilled to be part of @Neo4j’s NODES 2022 This is a free online event! #Neo4j #NODES2022 #GraphsareEverywhere](https://twitter.com/SasPeuk/status/1575193428941770752)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
