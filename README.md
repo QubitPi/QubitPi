@@ -508,11 +508,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1575425321553301508)
-- [Check out our blog post 📰 How to build a #Spotify Recommendation Engine using #Kafka and Memgraph ➡️](https://twitter.com/memgraphdb/status/1575419117632458754)
-- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1575410305940824066)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1575398731490463747)
-- [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1575384135706738688)
+- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1575450072157982721)
+- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #graphmodeling #graphdatabase #memgraph](https://twitter.com/memgraphdb/status/1575444029902409731)
+- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1575443780328726529)
+- [🔎 As part of #Memgraph summer internship program, six students joined us, hoping to make their summer fun and productive. They were divided into tw...](https://twitter.com/memgraphdb/status/1575441545465061376)
+- [#Memgraph 2.4 is out! 🎉🎉🎉 👀Read the blog post by @mbudiselicbuda to learn what&#39;s new in Memgraph! 🔗](https://twitter.com/memgraphdb/status/1575440508108906496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
