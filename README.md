@@ -382,11 +382,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [Join us in ONE HOUR on #OpenInfra Live for &quot;Large Scale Ops Deep Dive: Schwarz Group&quot;](https://twitter.com/OpenStack/status/1575470774424686598)
 - [Join us TOMORROW AT 1400 UTC on #OpenInfra live to hear from large scale operators at Schwarz IT on their deployment and operations!](https://twitter.com/OpenStack/status/1575168794334531584)
 - [RT OpenMetal.io: Re @JayTheLinuxGuy dives into @OpenStack in his latest video. Check it out! #openstack #kubernetes #kubernetesonopenstack #openstackt...](https://twitter.com/openmetal_io/status/1575146629887320065)
 - [Join Felix Hüttner, Belmiro Moreira, Mohammed Naser, Arnaud Morin, and Thierry Carrez this Thursday on #OpenInfraLive for Large Scale Ops Deep Dive: ...](https://twitter.com/OpenStack/status/1574776181865463809)
 - [RT Fabrizio Bartoloni: [#Ubuntu] #OpenSource #cloud for beginners with @OpenStack](https://twitter.com/f_bartoloni/status/1574763487678664706)
-- [RT Arne Wiebalck: Re @OpenStack The recording of &quot;Bare Metal Kubernetes at G-Research&quot; from the last @openstack Bare Metal SIG meeting is now availabl...](https://twitter.com/ArneWiebalck/status/1574669669503467520)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
