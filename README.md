@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Join these and 100+ graph experts at NODES 2022, our free online graph technology conference. @WardCunningham @emileifrem @nachristakis @mkheck @where...](https://twitter.com/neo4j/status/1575612902714875919)
 - [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1575583457044201472)
 - [Katariina Kari, lead ontologist at Inter IKEA Systems, explains their Knowledge Graph and why It has 3 layers: it is useful for organizing their work ...](https://twitter.com/neo4j/status/1575531042580176896)
 - [RT Vlad from Graphville: You probably know, that @Neo4j, #Cypher, and #APOC were inspired by a Matrix movie. Once Thomas Anderson became a Neo he coul...](https://twitter.com/graphville/status/1575508359419416579)
 - [Neo4j Live: Pathfinding Algorithms using Neo4j](https://twitter.com/neo4j/status/1575497115207602182)
-- [👌Measure the similarity between users, items, and other entities in your data leveraging relationships, graph topology, and other properties. #Neo4...](https://twitter.com/neo4j/status/1575455432059092992)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
