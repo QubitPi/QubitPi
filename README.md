@@ -465,11 +465,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Did you know you can explore the data science frontier with ArangoDB&#39;s podcast? Catch up on everything data science with your favorite avocado team an...](https://twitter.com/arangodb/status/1575591278279991296)
 - [RT Data Science Connect: DSC favorite @MarkTabNet is speaking at the upcoming @arangodb Summit on Oct 4-5! You won&#39;t want to miss it! #graph #graphAI ...](https://twitter.com/DataSciConnect/status/1575550531854278656)
 - [6 days until ArangoDB Summit! 🔥🤯 Register today to hear exceptional thought leadership from @NoelleRussell_ on October 5th, 2022, on &quot;HumAIn: Em...](https://twitter.com/arangodb/status/1575485567478820868)
 - [CEO, Shekhar Iyer, wants to personally invite you to 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁 on October 4th and 5th, 2022. 🔥 RSVP...](https://twitter.com/arangodb/status/1575455492813504513)
 - [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1575228883292520460)
-- [RT Mark Tabladillo PhD: Join my October 5 talk on Quantum Computing and Machine](https://twitter.com/MarkTabNet/status/1575205740046086144)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
