@@ -465,11 +465,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [6 days until ArangoDB Summit! 🔥🤯 Register today to hear exceptional thought leadership from @NoelleRussell_ on October 5th, 2022, on &quot;HumAIn: Em...](https://twitter.com/arangodb/status/1575485567478820868)
 - [CEO, Shekhar Iyer, wants to personally invite you to 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁 on October 4th and 5th, 2022. 🔥 RSVP...](https://twitter.com/arangodb/status/1575455492813504513)
 - [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1575228883292520460)
 - [RT Mark Tabladillo PhD: Join my October 5 talk on Quantum Computing and Machine](https://twitter.com/MarkTabNet/status/1575205740046086144)
 - [𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁 is less than a week away! Join our fantastic lineup of speakers, including @MarkTabNet, on O...](https://twitter.com/arangodb/status/1575191116613357568)
-- [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1575092985032843265)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
