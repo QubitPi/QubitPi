@@ -297,11 +297,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Fixing Your Daily Scrum …with Football?](https://www.scrum.org/resources/blog/fixing-your-daily-scrum-football)
 - [Die Anonyme Scrum Master Gehaltsumfrage 2023 — Jetzt mitmachen! 🇩🇪](https://www.scrum.org/resources/blog/die-anonyme-scrum-master-gehaltsumfrage-2023-jetzt-mitmachen)
 - [You give Scrum… a bad name](https://www.scrum.org/resources/blog/you-give-scrum-bad-name)
 - [Employee Engagement and Professional Scrum - Part 2 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-2-5)
 - [Employee Engagement and Professional Scrum - Part 1 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-1-5)
-- [[VLOG] 10 Interview Questions To Find Your Perfect Scrum Master &lpar;Or Agile Coach&rpar;](https://www.scrum.org/resources/blog/vlog-10-interview-questions-find-your-perfect-scrum-master-or-agile-coach)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
