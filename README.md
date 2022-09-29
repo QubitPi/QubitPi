@@ -504,11 +504,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [How to use Neo4j Graph Data Science and Python to capture key centrality and community metrics for supply chain analytics. #GraphDataScience #Python #...](https://twitter.com/neo4j/status/1575296309296242690)
 - [Building a knowledge graph can support you at all stages of a cyberattack attack! 🕵 Check out knowledge graphs as digital twin here: #Neo4j #Knowle...](https://twitter.com/neo4j/status/1575228386930196491)
 - [RT Sascha Peukert: I’m thrilled to be part of @Neo4j’s NODES 2022 This is a free online event! #Neo4j #NODES2022 #GraphsareEverywhere](https://twitter.com/SasPeuk/status/1575193428941770752)
 - [RT Alexander Erdl: Missed the #nodes2022 agenda import live stream with @mesirii this Monday? You can now read it on the #neo4j developer blog as well...](https://twitter.com/alexandererdl/status/1575151995706646530)
 - [RT Manning Publications: GraphQL—your solution to building modern APIs! Join @lyonwj, author of Full Stack GraphQL Applications &amp; discover the power ...](https://twitter.com/ManningBooks/status/1575123927684333568)
-- [Get tailor-made Neo4j connectivity with Spring Boot 2.4+ via @rotnroll666. #SpringBoot #Neo4j](https://twitter.com/neo4j/status/1575106316770631681)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
