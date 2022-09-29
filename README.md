@@ -455,10 +455,10 @@ My Tech Blogs
 
 <!-- ARANGO-TWITTER:START -->
 - [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1575228883292520460)
+- [RT Mark Tabladillo PhD: Join my October 5 talk on Quantum Computing and Machine](https://twitter.com/MarkTabNet/status/1575205740046086144)
 - [𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁 is less than a week away! Join our fantastic lineup of speakers, including @MarkTabNet, on O...](https://twitter.com/arangodb/status/1575191116613357568)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1575092985032843265)
 - [Explore eCommerce analytics with ArangoDB&#39;s managed service. Check out our ArangoDB Cloud demo that lets you analyze actual data from Instacart orders...](https://twitter.com/arangodb/status/1574866528851337227)
-- [We would not be the #graphdatabase database we are today without the love and support we get from our fantastic community. 💚 Take a look and learn ...](https://twitter.com/arangodb/status/1574730599289462784)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
