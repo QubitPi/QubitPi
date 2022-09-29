@@ -557,7 +557,7 @@ My Tech Blogs
 - [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
 - [Finances](https://dribbble.com/shots/19494574)
-- [Don&#39;t Remove The Poetry Poster](https://dribbble.com/shots/19480400)
+- [Case Study: Musical Instruments Website](https://dribbble.com/shots/19479679)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
