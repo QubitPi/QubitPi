@@ -289,7 +289,7 @@ My Tech Blogs
 
 #### Building Tech Infrustructure for Startup
 
-<img align="right" alt="可莉-纳西妲.gif" width="30%" src="https://user-images.githubusercontent.com/16126939/193009585-32a8fbc4-81f1-43e9-b6fc-926da5bf36b9.png">
+<img align="right" alt="七七" width="30%" src="https://user-images.githubusercontent.com/16126939/193009585-32a8fbc4-81f1-43e9-b6fc-926da5bf36b9.png">
 
 1. [Deploying Jenkins](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 2. [Deploying Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
