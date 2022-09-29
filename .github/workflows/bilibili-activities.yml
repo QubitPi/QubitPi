@@ -32,22 +32,22 @@ jobs:
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
-  followings:
-    name: Followings
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Bilibili Following"
-          comment_tag_name: "BILIBILI-FOLLWOING"
-          max_post_count: "10"
-          feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
-          item_exec: |
-                    post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','').replace('undefined 新关注 ','');
-          template: "<li><a href=$url>$title</a></li>"
+#  followings:
+#    name: Followings
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v2
+#      - uses: gautamkrishnar/blog-post-workflow@master
+#       with:
+#          committer_username: "QubitPi"
+#          committer_email: "jack20220723@gmail.com"
+#          commit_message: "New Bilibili Following"
+#          comment_tag_name: "BILIBILI-FOLLWOING"
+#          max_post_count: "10"
+#          feed_list: "https://rsshub.app/bilibili/user/followings/1771839550"
+#          item_exec: |
+#                    post.title = post.title.replace('活泼到令人头疼的胡桃 新关注 ','').replace('undefined 新关注 ','');
+#          template: "<li><a href=$url>$title</a></li>"
   trippled-videos:
     name: Trippled Videos
     runs-on: ubuntu-latest
