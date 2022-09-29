@@ -242,7 +242,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/16126939/191439407-2480dadb-06bc-4a23-80a3-91b865cb59ab.png" alt="刻晴" width="15%">[![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)
+<img src="https://user-images.githubusercontent.com/16126939/191439407-2480dadb-06bc-4a23-80a3-91b865cb59ab.png" alt="刻晴" width="14%">[![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)
 
 </div>
 
@@ -251,6 +251,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
+<img align="right" src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">
 
 
 My Tech Blogs
