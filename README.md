@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1575583457044201472)
+- [Katariina Kari, lead ontologist at Inter IKEA Systems, explains their Knowledge Graph and why It has 3 layers: it is useful for organizing their work ...](https://twitter.com/neo4j/status/1575531042580176896)
+- [RT Vlad from Graphville: You probably know, that @Neo4j, #Cypher, and #APOC were inspired by a Matrix movie. Once Thomas Anderson became a Neo he coul...](https://twitter.com/graphville/status/1575508359419416579)
 - [Neo4j Live: Pathfinding Algorithms using Neo4j](https://twitter.com/neo4j/status/1575497115207602182)
 - [👌Measure the similarity between users, items, and other entities in your data leveraging relationships, graph topology, and other properties. #Neo4...](https://twitter.com/neo4j/status/1575455432059092992)
-- [Liquibase is a widely-used tool for implementing flexible database changes. @fbiville author of the @Neo4j extension for Liquibase, goes beyond basic ...](https://twitter.com/neo4j/status/1575423660126572545)
-- [RT Adam Cowley: Node.js developers using #neo4j, which of the below options would you prefer to use when interacting with the database? #nodejs #graph...](https://twitter.com/adamcowley/status/1575389927361187842)
-- [How to use Neo4j Graph Data Science and Python to capture key centrality and community metrics for supply chain analytics. #GraphDataScience #Python #...](https://twitter.com/neo4j/status/1575296309296242690)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
