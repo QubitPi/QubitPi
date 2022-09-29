@@ -393,11 +393,11 @@ My Tech Blogs
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
 
 <!-- DOCKERHUB-BLOG:START -->
+- [Simplified Deployment of Local Container Images to OpenShift](https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/)
 - [September 2022 Newsletter](https://www.docker.com/blog/september-2022-newsletter/)
 - [September Extensions Roundup: Test APIs, Use Oracle SQLcl, and More](https://www.docker.com/blog/new-extensions-september-2022/)
 - [Creating Kubernetes Extensions in Docker Desktop](https://www.docker.com/blog/creating-kubernetes-extensions-in-docker-desktop/)
 - [Bring Continuous Integration to Your Laptop With the Drone CI Docker Extension](https://www.docker.com/blog/bring-continuous-integration-to-your-laptop-with-the-drone-ci-docker-extension/)
-- [Announcing Docker Hub Export Members](https://www.docker.com/blog/announcing-docker-hub-export-members/)
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
