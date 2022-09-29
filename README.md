@@ -288,11 +288,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing the Homebrew 128 Operation Timed Out Problem](https://qubitpi.github.io/jersey-guide/finalized/2022/09/29/fix-brew-128-problem.html)
 - [Kubernetes - Container Manager](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 - [Provider v.s. @Provider](https://qubitpi.github.io/jersey-guide/finalized/2022/09/24/diprovider-vs-provider-annotation.html)
 - [Deploying Jenkins to AWS](https://qubitpi.github.io/jersey-guide/finalized/2022/09/22/jenkins-on-aws.html)
 - [Single Responsibility Principle - What Defines a Reason to Change?](https://qubitpi.github.io/jersey-guide/finalized/2022/09/13/single-responsibility-principle-what-is-reason.html)
-- [Bearer Authentication](https://qubitpi.github.io/jersey-guide/finalized/2022/09/12/bearer-authentication.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
