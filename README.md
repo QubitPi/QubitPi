@@ -118,7 +118,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/710473498863075425><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c660709b7eee9d54634678bc70db9849401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/711187382577135638><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/12e41f6d3d8250304a388a06051c5603401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》提瓦特冒险纪念视频：旅行二周年手札](https://t.bilibili.com/710906470224363618)
