@@ -561,11 +561,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Mail App](https://dribbble.com/shots/19505116)
-- [Crypto wallet app](https://dribbble.com/shots/19469789)
+- [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
 - [Musical Instruments Website Product Page](https://dribbble.com/shots/19471077)
+- [Finances](https://dribbble.com/shots/19494574)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
