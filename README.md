@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1575450072157982721)
-- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #graphmodeling #graphdatabase #memgraph](https://twitter.com/memgraphdb/status/1575444029902409731)
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1575443780328726529)
-- [🔎 As part of #Memgraph summer internship program, six students joined us, hoping to make their summer fun and productive. They were divided into tw...](https://twitter.com/memgraphdb/status/1575441545465061376)
-- [#Memgraph 2.4 is out! 🎉🎉🎉 👀Read the blog post by @mbudiselicbuda to learn what&#39;s new in Memgraph! 🔗](https://twitter.com/memgraphdb/status/1575440508108906496)
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1575485241556598788)
+- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1575480057929388032)
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1575471552933527552)
+- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1575469463293542402)
+- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1575464665911549953)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
