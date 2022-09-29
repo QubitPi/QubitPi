@@ -270,6 +270,11 @@ My Tech Blogs
 - [&lpar;WIP&rpar; Standardizing Backend Software Configuration](https://qubitpi.github.io/jersey-guide/management/2022/09/07/standardizing-ws-config.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
+#### Building Tech Infrustructure for Startup
+
+1. [Deploying Jenkins](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+2. [Deploying Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
