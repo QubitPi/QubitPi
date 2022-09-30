@@ -465,11 +465,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Grab your spot and join us next week, on October 4th and 5th, 2022, for ArangoDB Summit! 🥑 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶�...](https://twitter.com/arangodb/status/1575953707199512588)
 - [5 days until ArangoDB Summit! 🤯 Join CTO @joerg_schad and CPO @weinberger as they dive into the exciting future of ArangoDB. Grab your spot now! �...](https://twitter.com/arangodb/status/1575847952035319812)
 - [Developer Relations Engineer @cw00dw0rd will be at @AllThingsOpen 2022. 🔥 Grab your tickets today and join him for his session on &quot;Machine Learning...](https://twitter.com/arangodb/status/1575817765973270530)
 - [Did you know you can explore the data science frontier with ArangoDB&#39;s podcast? Catch up on everything data science with your favorite avocado team an...](https://twitter.com/arangodb/status/1575591278279991296)
 - [RT Data Science Connect: DSC favorite @MarkTabNet is speaking at the upcoming @arangodb Summit on Oct 4-5! You won&#39;t want to miss it! #graph #graphAI ...](https://twitter.com/DataSciConnect/status/1575550531854278656)
-- [6 days until ArangoDB Summit! 🔥🤯 Register today to hear exceptional thought leadership from @NoelleRussell_ on October 5th, 2022, on &quot;HumAIn: Em...](https://twitter.com/arangodb/status/1575485567478820868)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
