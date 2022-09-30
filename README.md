@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1575712297313619968)
 - [Do you use Stack overflow? Do you use it over the weekend? #coding #codinglife #Cloud #memgraph #stackoverflow](https://twitter.com/memgraphdb/status/1575559667262300160)
 - [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1575531292871266305)
 - [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1575522550129610752)
 - [Meta has a new AI system that lets people turn text prompts into video clips. #meta #ai #coding #memgraph](https://twitter.com/memgraphdb/status/1575508719739322373)
-- [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1575503928392916992)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
