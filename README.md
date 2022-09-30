@@ -444,7 +444,7 @@ My Tech Blogs
 <img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [RT Polkadot @Token2049: For those in NYC: on Sept 21st, learn all about Polkadot’s next-generation governance system, Gov2, from @Web3foundation`s @D...](https://twitter.com/Polkadot/status/1572230607194791940)
+- [RT Polkadot: For those in NYC: on Sept 21st, learn all about Polkadot’s next-generation governance system, Gov2, from @Web3foundation`s @DrW3RK. Regi...](https://twitter.com/Polkadot/status/1572230607194791940)
 - [“I&#39;m delighted to speak at @TheEconomist Metaverse Summit. For the metaverse to fulfill its potential, we need to create the right conditions for the...](https://twitter.com/Web3foundation/status/1570065549626843137)
 - [Re W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamanetwo...](https://twitter.com/Web3foundation/status/1569284627109380098)
 - [Re A shoutout to @massbitprotocol for receiving a W3F grant to develop MassBit Route, a decentralized API service built on a @Substrate_io framework w...](https://twitter.com/Web3foundation/status/1569284624836349953)
