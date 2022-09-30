@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1575878893390659584)
+- [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1575877387639787522)
 - [🧑‍💻#Memgraph has many repositories, and you can #contribute to them! You can see a list of our public #GitHub repositories at](https://twitter.com/memgraphdb/status/1575866313695760389)
 - [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1575854737680990208)
 - [🤝 In recent months, users started to ask more frequently about the ability to run algorithms on a subgraph, and we in Memgraph listen to what our u...](https://twitter.com/memgraphdb/status/1575849171290099714)
-- [Re @janduplessis You are welcome!](https://twitter.com/memgraphdb/status/1575845679699619841)
-- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1575833848084107264)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
