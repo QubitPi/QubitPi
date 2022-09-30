@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [💻 Discover AuraDB livestreams --- &gt; during the last session @mesirii walks you through accessing OpenCitations, a project aiming to publish open bi...](https://twitter.com/neo4j/status/1575953683451416583)
+- [Getting FHIR’ed up with a graph database - Ruchika Kharwar uses graph technology to study patient data. She created a knowledge graph with synthetic ...](https://twitter.com/neo4j/status/1575932277950906387)
 - [&quot;This need for better understanding relationships and connections is why I think from a technical point of view, graph databases will be a game-change...](https://twitter.com/neo4j/status/1575883190073540608)
 - [RT Adam Cowley: It&#39;s a strong lineup announced for #NODES2022 with @emileifrem in goal; @WardCunningham providing stability in defence; @mkheck and @w...](https://twitter.com/adamcowley/status/1575859774876327936)
 - [RT Manning Publications: What’s in it for you if you go #GraphQL? Join @lyonwj for a look into using GraphQL, React, #Node.js, and #Neo4j to build an...](https://twitter.com/ManningBooks/status/1575848798475141121)
-- [RT HealthECCO: We are happy to be part of @neo4j #nodes2022 this November with a talk by @LGutebier &amp; @dagmarwaltemath More info:](https://twitter.com/HealthECCO/status/1575740234733654017)
-- [Join these and 100+ graph experts at NODES 2022, our free online graph technology conference. @WardCunningham @emileifrem @nachristakis @mkheck @where...](https://twitter.com/neo4j/status/1575612902714875919)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
