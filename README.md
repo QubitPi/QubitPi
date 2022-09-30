@@ -557,7 +557,7 @@ My Tech Blogs
 - [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
 - [Finances](https://dribbble.com/shots/19494574)
-- [JOKR UI Kit](https://dribbble.com/shots/19480095)
+- [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
