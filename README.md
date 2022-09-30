@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1575800132829863942)
-- [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1575793332650971136)
-- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1575788799745040386)
-- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1575772695345635330)
-- [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1575769423666872320)
+- [🧑‍💻#Memgraph has many repositories, and you can #contribute to them! You can see a list of our public #GitHub repositories at](https://twitter.com/memgraphdb/status/1575866313695760389)
+- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1575854737680990208)
+- [🤝 In recent months, users started to ask more frequently about the ability to run algorithms on a subgraph, and we in Memgraph listen to what our u...](https://twitter.com/memgraphdb/status/1575849171290099714)
+- [Re @janduplessis You are welcome!](https://twitter.com/memgraphdb/status/1575845679699619841)
+- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1575833848084107264)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
