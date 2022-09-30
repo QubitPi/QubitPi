@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/> Welome to Jack (Jiaqi)'s GitHub Page <img src="https://user-images.githubusercontent.com/16126939/193221811-dd709098-91c2-4cb4-bd72-ac010f433d14.png" width="60"/>
+<img src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif" width="40"/>
+
+<img src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/> Welome to Jack (Jiaqi)'s GitHub Page <img src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/>
 ========================================================================================================================================
 
 </div>
