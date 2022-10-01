@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ How many graph database query languages do you use? Do you have a favorite one? #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1576184661155389441)
 - [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1576151191272263680)
 - [Did you know that there is no universal graph query language... yet! The GQL project is underway and we can&#39;t wait to see the results 🎉 #memgraph #...](https://twitter.com/memgraphdb/status/1576146910464950274)
 - [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1576143893527248897)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1576133323298164736)
-- [How Does a Graph Database Differ from a Relational Database? In a graph database, relationships are stored at the individual record level, while a rel...](https://twitter.com/memgraphdb/status/1576131558729195520)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
