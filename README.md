@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Have you heard about this AuraDB Update announcement? ❗ Sharon Loh, Senior Product Marketing Manager, shares the latest enhancements in AuraDB. Take ...](https://twitter.com/neo4j/status/1576162526307487744)
 - [Optimize fetching data from Neo4j with Apache Arrow with @tb_tomaz 👉 High-performance data retrieval from Neo4j with Apache Arrow #neo4j #DataScien...](https://twitter.com/neo4j/status/1576027893058211840)
 - [Kristof Neys, Director of Graph Data Science at @neo4j shares what the current biggest challenge in the #data space is with @EM360Tech. Find out more!...](https://twitter.com/neo4j/status/1575992654244073473)
 - [💻 Discover AuraDB livestreams --- &gt; during the last session @mesirii walks you through accessing OpenCitations, a project aiming to publish open bi...](https://twitter.com/neo4j/status/1575953683451416583)
 - [Getting FHIR’ed up with a graph database - Ruchika Kharwar uses graph technology to study patient data. She created a knowledge graph with synthetic ...](https://twitter.com/neo4j/status/1575932277950906387)
-- [&quot;This need for better understanding relationships and connections is why I think from a technical point of view, graph databases will be a game-change...](https://twitter.com/neo4j/status/1575883190073540608)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
