@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1576237006191034370)
 - [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️](https://twitter.com/memgraphdb/status/1576217121612259329)
 - [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1576207311093235714)
 - [Do you know what is #Distributed #Consensus and what role it plays in #databases? #memgraph #learning](https://twitter.com/memgraphdb/status/1576198249727287297)
 - [❓ How many graph database query languages do you use? Do you have a favorite one? #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1576184661155389441)
-- [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1576151191272263680)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
