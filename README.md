@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1575878893390659584)
-- [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1575877387639787522)
-- [🧑‍💻#Memgraph has many repositories, and you can #contribute to them! You can see a list of our public #GitHub repositories at](https://twitter.com/memgraphdb/status/1575866313695760389)
-- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1575854737680990208)
-- [🤝 In recent months, users started to ask more frequently about the ability to run algorithms on a subgraph, and we in Memgraph listen to what our u...](https://twitter.com/memgraphdb/status/1575849171290099714)
+- [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1576151191272263680)
+- [Did you know that there is no universal graph query language... yet! The GQL project is underway and we can&#39;t wait to see the results 🎉 #memgraph #...](https://twitter.com/memgraphdb/status/1576146910464950274)
+- [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1576143893527248897)
+- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1576133323298164736)
+- [How Does a Graph Database Differ from a Relational Database? In a graph database, relationships are stored at the individual record level, while a rel...](https://twitter.com/memgraphdb/status/1576131558729195520)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
