@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1576267731158142976)
 - [RT ぺっく: neo4jにもvisualizerあるんか / Analyzing Twitter User Network. Analyzing the Twitter user network… | by Mananai Saengsuwan | Towards Data S...](https://twitter.com/peccul/status/1576186786367569921)
 - [Have you heard about this AuraDB Update announcement? ❗ Sharon Loh, Senior Product Marketing Manager, shares the latest enhancements in AuraDB. Take ...](https://twitter.com/neo4j/status/1576162526307487744)
 - [Optimize fetching data from Neo4j with Apache Arrow with @tb_tomaz 👉 High-performance data retrieval from Neo4j with Apache Arrow #neo4j #DataScien...](https://twitter.com/neo4j/status/1576027893058211840)
 - [Kristof Neys, Director of Graph Data Science at @neo4j shares what the current biggest challenge in the #data space is with @EM360Tech. Find out more!...](https://twitter.com/neo4j/status/1575992654244073473)
-- [💻 Discover AuraDB livestreams --- &gt; during the last session @mesirii walks you through accessing OpenCitations, a project aiming to publish open bi...](https://twitter.com/neo4j/status/1575953683451416583)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
