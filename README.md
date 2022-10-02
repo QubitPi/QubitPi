@@ -113,11 +113,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712328929049837575><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76942ac3aa57ae616e5e2969e8568596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[热词系列_三连]](https://t.bilibili.com/712342810366312452)
 - [恭喜@想个id好烦啊啊啊 @星与你破灭之时 @会飞的桃花妖 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/712328929049837575)
 - [恭喜@秃头的追风少年- @伶拙影 @璃染年华 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/712328929044594688)
 - [#原神# #风起雷涌特别的旅途# 《原神》「派蒙的画作凯迪拉克联动篇」联动主题表情包现已上架~ 亲爱的旅行者，「派蒙的画作凯迪拉克联动篇」联动主题表情包陆续开...](https://t.bilibili.com/712321189500944389)
 - [《原神》线上音乐会2022 - 无际之旅的旋律](https://t.bilibili.com/712318608238182473)
-- [#原神# #杯中遥吟之歌# 旅行者们好~「杯中遥吟之歌」活动已开启。在「义卖与妙想」中，旅行者将协助西风骑士举办义卖活动。如何筹备资金开启店铺，赚取更多营业...](https://t.bilibili.com/711277551119499272)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
