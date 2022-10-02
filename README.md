@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/711277551119499272><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/15e8e0090487bb55a0c22f5dc2d86456401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712328929049837575><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76942ac3aa57ae616e5e2969e8568596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #杯中遥吟之歌# 旅行者们好~「杯中遥吟之歌」活动已开启。在「义卖与妙想」中，旅行者将协助西风骑士举办义卖活动。如何筹备资金开启店铺，赚取更多营业...](https://t.bilibili.com/711277551119499272)
