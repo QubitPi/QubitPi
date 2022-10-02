@@ -101,11 +101,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》「派蒙的画作凯迪拉克联动篇」联动主题表情包现已上架](https://ys.mihoyo.com/main/news/detail/22844)
+- [《原神》线上音乐会2022 - 无际之旅的旋律](https://ys.mihoyo.com/main/news/detail/22845)
 - [《原神》「杯中遥吟之歌」活动小贴士](https://ys.mihoyo.com/main/news/detail/22805)
 - [哔哩哔哩平台《原神》「沙海蜃影」须弥沙漠主题摄影活动今日开启](https://ys.mihoyo.com/main/news/detail/22807)
 - [微博《原神》「沙海蜃影」须弥沙漠主题摄影活动今日开启](https://ys.mihoyo.com/main/news/detail/22806)
-- [《原神》「林间寻游」网页活动现已开启](https://ys.mihoyo.com/main/news/detail/22809)
-- [《原神》拾枝杂谈-「坎蒂丝：流金沙碛」](https://ys.mihoyo.com/main/news/detail/22808)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
