@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Use graph data science to visualize and extract supply chain insights around: ⛓️ Operational load 🔄 Flow Control 🌐 Regional patterns #GraphDat...](https://twitter.com/neo4j/status/1576359832604532737)
 - [Chintan Desai explains how Graph database can help in implementing an effective solution in the field of Cyber Security with a clear example. Take a l...](https://twitter.com/neo4j/status/1576315032299864065)
 - [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1576267731158142976)
 - [RT ぺっく: neo4jにもvisualizerあるんか / Analyzing Twitter User Network. Analyzing the Twitter user network… | by Mananai Saengsuwan | Towards Data S...](https://twitter.com/peccul/status/1576186786367569921)
 - [Have you heard about this AuraDB Update announcement? ❗ Sharon Loh, Senior Product Marketing Manager, shares the latest enhancements in AuraDB. Take ...](https://twitter.com/neo4j/status/1576162526307487744)
-- [Optimize fetching data from Neo4j with Apache Arrow with @tb_tomaz 👉 High-performance data retrieval from Neo4j with Apache Arrow #neo4j #DataScien...](https://twitter.com/neo4j/status/1576027893058211840)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
