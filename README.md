@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712328929049837575><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76942ac3aa57ae616e5e2969e8568596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712342810366312452><img align='right' src='https://i1.hdslb.com/bfs/archive/5035ad15a0afbeca39cf6551964e578803ef820b.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [[热词系列_三连]](https://t.bilibili.com/712342810366312452)
