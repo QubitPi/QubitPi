@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Big Data Quarterly presents 2022s “Big Data 50,” featuring @neo4j alongside other incredible companies driving innovation in the industry! #neo4j #g...](https://twitter.com/neo4j/status/1576966564779380737)
+- [RT Tom Nijhof: Got my new blog out🤩 Combining 3 datasets, #PubChem, #Chembl, and #NCI60 into a #neo4j Graph database! Combining #cell #chemical #da...](https://twitter.com/wagenrace/status/1576933679599058944)
 - [🔥 The Hidden Markov Model is widely used in many areas, from language processing to bioinformatics, from physics to finance. Sixing Huang explains ...](https://twitter.com/neo4j/status/1576917513547440129)
 - [RT Alexander Erdl: New month, new going #meta with @BarrasaDV taking place tomorrow 5pm CEST If you are interested in #Ontology #semanatics #knowledge...](https://twitter.com/alexandererdl/status/1576907668064649217)
 - [Check out some of the #data and #analytics solutions @DynamicBusiness listed in its latest Tech Tuesdays column that are changing the game for various...](https://twitter.com/neo4j/status/1576888822767435776)
-- [Meet the keynote and featured speakers! Join us at #NODES2022, our free online technical conference with sessions for beginners and advanced users.�...](https://twitter.com/neo4j/status/1576806774279127040)
-- [🎉Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1576720703642128384)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
