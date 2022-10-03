@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1576904649428418563)
+- [🎓 #Memgraph presents graph algorithms: Biconnected Components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1576894339585818624)
+- [We are again on the #HackerNews frontpage :&rpar; This time thanks to another great work by @memgraphmage team :&rpar; #memgraph #mage #graphdatabase #opensourc...](https://twitter.com/memgraphdb/status/1576883263695597568)
 - [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️](https://twitter.com/memgraphdb/status/1576875964319125506)
 - [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1576875963836678146)
-- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1576858098651828226)
-- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1576840740696719360)
-- [🎓 Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwee...](https://twitter.com/memgraphdb/status/1576832427225481217)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
