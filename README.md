@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Meet the keynote and featured speakers! Join us at #NODES2022, our free online technical conference with sessions for beginners and advanced users.�...](https://twitter.com/neo4j/status/1576806774279127040)
 - [🎉Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1576720703642128384)
 - [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1576690755388805120)
 - [🔦 Use the power of PyTorch Geometric to develop and train custom Graph Neural Networks for your applications with @tb_tomaz #neo4j #graphdatascienc...](https://twitter.com/neo4j/status/1576405385455587328)
 - [Use graph data science to visualize and extract supply chain insights around: ⛓️ Operational load 🔄 Flow Control 🌐 Regional patterns #GraphDat...](https://twitter.com/neo4j/status/1576359832604532737)
-- [Chintan Desai explains how Graph database can help in implementing an effective solution in the field of Cyber Security with a clear example. Take a l...](https://twitter.com/neo4j/status/1576315032299864065)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
