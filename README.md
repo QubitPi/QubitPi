@@ -289,11 +289,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Warum Story Points nicht geeignet sind, um Releasedaten vorherzusagen](https://www.scrum.org/resources/blog/warum-story-points-nicht-geeignet-sind-um-releasedaten-vorherzusagen)
 - [Qué hacer cuando Scrum no es para mi organización](https://www.scrum.org/resources/blog/que-hacer-cuando-scrum-no-es-para-mi-organizacion)
 - [Líder Ágil](https://www.scrum.org/resources/blog/lider-agil)
 - [What does Done really mean for your Sprint Retrospective? 🚀 &lpar;70&rpar;](https://www.scrum.org/resources/blog/what-does-done-really-mean-your-sprint-retrospective-70)
 - [Fixing Your Daily Scrum …with Football?](https://www.scrum.org/resources/blog/fixing-your-daily-scrum-football)
-- [Die Anonyme Scrum Master Gehaltsumfrage 2023 — Jetzt mitmachen! 🇩🇪](https://www.scrum.org/resources/blog/die-anonyme-scrum-master-gehaltsumfrage-2023-jetzt-mitmachen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
