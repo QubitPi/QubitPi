@@ -383,11 +383,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT OpenStack Türkiye: #openinfradayturkey2022 Etkinlikteki konuşmacılarımızla tanışın! @tcarrez from @openinfradev, @josecastroleon from @cern...](https://twitter.com/TrOpenstack/status/1576529351843393539)
 - [RT Mark Collier 柯理怀: “I mean, when you&#39;re talking about over 2.5 billion mobile users running on RHOP, you&#39;re talking real money” A billion OpenS...](https://twitter.com/sparkycollier/status/1575926742472065040)
 - [The #OpenStack jobs board currently features jobs from @MirantisIT, @CleuraCloud, @vexxhost and more! Find you next job today!](https://twitter.com/OpenStack/status/1575893610037395456)
 - [RT Mark Collier 柯理怀: OpenInfra Live is now live Large Scale OpenStack with Schwarz group!](https://twitter.com/sparkycollier/status/1575486451042553856)
 - [A panel of #OpenStack operators are NOW LIVE on #OpenInfraLive interviewing operators from Schwarz IT about their deployment!](https://twitter.com/OpenStack/status/1575486212902879234)
-- [Join us in ONE HOUR on #OpenInfra Live for &quot;Large Scale Ops Deep Dive: Schwarz Group&quot;](https://twitter.com/OpenStack/status/1575470774424686598)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
