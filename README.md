@@ -500,11 +500,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1576814813757456384)
 - [Be sure to visit #Memgraph booth at #Current22 to get your #Memduck!](https://twitter.com/memgraphdb/status/1576627975620960257)
 - [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1576599395377741824)
 - [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1576562149002027008)
 - [Check out our blog post 📰 Best Databases For Streaming Analytics ➡️](https://twitter.com/memgraphdb/status/1576559629823348736)
-- [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1576558624989757440)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
