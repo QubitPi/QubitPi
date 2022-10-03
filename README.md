@@ -465,9 +465,9 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Only three days remain until ArangoDB Summit! 🤯 Join the CEO of @metacx @smccorkle and other team members to learn more about their experience usin...](https://twitter.com/arangodb/status/1576708874006151169)
 - [Scalable Fraud Detection 🔒 This white paper will show how to convert data from relational to multi-model graphs, how various fraud detection querie...](https://twitter.com/arangodb/status/1576572721391091712)
 - [Learn what&#39;s new with our latest Datasource for Apache Spark. 🔥 In this blog post, jump into the new generation of Spark connectors for ArangoDB. R...](https://twitter.com/arangodb/status/1576210347450589188)
-- [Onluy 4 days remain until ArangoDB Summit! 🤯 Join CEO of @metacx @smccorkle and other members of his team to learn more about their experience usin...](https://twitter.com/arangodb/status/1576180147551719424)
 - [Grab your spot and join us next week, on October 4th and 5th, 2022, for ArangoDB Summit! 🥑 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶�...](https://twitter.com/arangodb/status/1575953707199512588)
 - [5 days until ArangoDB Summit! 🤯 Join CTO @joerg_schad and CPO @weinberger as they dive into the exciting future of ArangoDB. Grab your spot now! �...](https://twitter.com/arangodb/status/1575847952035319812)
 <!-- ARANGO-TWITTER:END -->
