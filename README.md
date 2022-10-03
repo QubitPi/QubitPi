@@ -554,10 +554,10 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Mail App](https://dribbble.com/shots/19505116)
-- [Wayflyer - Mobile Dashboard](https://dribbble.com/shots/19456590)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
 - [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 - [Pictograms &lpar;WIP&rpar;](https://dribbble.com/shots/19536810)
+- [JOKR UI Kit](https://dribbble.com/shots/19480095)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
