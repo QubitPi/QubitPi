@@ -299,11 +299,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 - [Kubernetes - Container Manager](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 - [Provider v.s. @Provider](https://qubitpi.github.io/jersey-guide/finalized/2022/09/24/diprovider-vs-provider-annotation.html)
 - [Deploying Jenkins to AWS](https://qubitpi.github.io/jersey-guide/finalized/2022/09/22/jenkins-on-aws.html)
 - [Single Responsibility Principle - What Defines a Reason to Change?](https://qubitpi.github.io/jersey-guide/finalized/2022/09/13/single-responsibility-principle-what-is-reason.html)
-- [Bearer Authentication](https://qubitpi.github.io/jersey-guide/finalized/2022/09/12/bearer-authentication.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
