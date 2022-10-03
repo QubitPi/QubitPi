@@ -285,6 +285,7 @@ My Tech Blogs
 
 1. [Deploying Jenkins](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 2. [Deploying Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+3. [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 
 #### scrum.org community blogs
 
