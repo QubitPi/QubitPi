@@ -403,11 +403,11 @@ My Tech Blogs
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces](https://kubernetes.io/blog/2022/10/03/userns-alpha/)
 - [Blog: Enforce CRD Immutability with CEL Transition Rules](https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/)
 - [Blog: Kubernetes 1.25: Kubernetes In-Tree to CSI Volume Migration Status Update](https://kubernetes.io/blog/2022/09/26/storage-in-tree-to-csi-migration-status-update-1.25/)
 - [Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta](https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/)
 - [Blog: Kubernetes 1.25: Use Secrets for Node-Driven Expansion of CSI Volumes](https://kubernetes.io/blog/2022/09/21/kubernetes-1-25-use-secrets-while-expanding-csi-volumes-on-node-alpha/)
-- [Blog: Kubernetes 1.25: Local Storage Capacity Isolation Reaches GA](https://kubernetes.io/blog/2022/09/19/local-storage-capacity-isolation-ga/)
 <!-- KUBERNETES-BLOG:END -->
 
 ##### Study Notes
