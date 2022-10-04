@@ -554,11 +554,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Mail App](https://dribbble.com/shots/19505116)
 - [Swell App - Marketing](https://dribbble.com/shots/19506254)
 - [Pictograms &lpar;WIP&rpar;](https://dribbble.com/shots/19536810)
 - [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 - [JOKR UI Kit](https://dribbble.com/shots/19480095)
+- [Swell - Marketing Pages](https://dribbble.com/shots/19526243)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
