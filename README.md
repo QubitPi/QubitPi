@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [KI und Algorithmen kommen in der Medizintechnik immer häufiger zum Einsatz. Die Technologie der Zukunft braucht ethische Rahmenlinien und eine Techno...](https://twitter.com/neo4j/status/1577310840352641028)
+- [Going Meta - a series on graphs, semantics and knowledge Ep 9 w/ @BarrasaDV](https://twitter.com/neo4j/status/1577309115755663363)
+- [We take data seriously! ✅ Explore our fun datasets videos and sharpen your graph skills. #AuraDBFree #AuraDB #GraphDataBase #Neo4j](https://twitter.com/neo4j/status/1577298009490161666)
 - [Für das Thema IoT Analytics werden Graphdatenbanken immer wichtiger. @neo4j ist derzeit die stärkste Graphdatenbank via @ITP_Redaktion #neo4j #graph...](https://twitter.com/neo4j/status/1577282910532648960)
 - [🗺 With the transfer of a Wardley map into a graph database, the map can be analyzed and interpreted with structured queries. This facilitates their...](https://twitter.com/neo4j/status/1577252247162986497)
-- [Get to know a power user&#39;s experience in using graph technology to drive better decision-making💪 #Neo4j](https://twitter.com/neo4j/status/1577207069698138116)
-- [Big Data Quarterly presents 2022s “Big Data 50,” featuring @neo4j alongside other incredible companies driving innovation in the industry! #neo4j #g...](https://twitter.com/neo4j/status/1576966564779380737)
-- [RT Tom Nijhof: Got my new blog out🤩 Combining 3 datasets, #PubChem, #Chembl, and #NCI60 into a #neo4j Graph database! Combining #cell #chemical #da...](https://twitter.com/wagenrace/status/1576933679599058944)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
