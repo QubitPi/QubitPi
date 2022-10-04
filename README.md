@@ -558,7 +558,7 @@ My Tech Blogs
 - [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 - [JOKR UI Kit](https://dribbble.com/shots/19480095)
 - [Swell - Marketing Pages](https://dribbble.com/shots/19526243)
-- [Bluebird](https://dribbble.com/shots/19507399)
+- [Lion Fire 🔥](https://dribbble.com/shots/19537094)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
