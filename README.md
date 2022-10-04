@@ -113,11 +113,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712763433697673305><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6bab40112bc1f45d38cb79b0fe920b02401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@忱霞 @余释バカ @ProtoType0 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/713071095103619158)
 - [互动抽奖 #原神# #沙中遗事# 《原神》剧情PV-「沙中遗事」现已发布~ https://www.bilibili.com/video/BV1MP411J7Zn 大赤沙海的遗迹壮阔绝伦，古老的文明令人心驰...](https://t.bilibili.com/712763433697673305)
 - [《原神》剧情PV-「沙中遗事」](https://t.bilibili.com/712762063615688725)
 - [恭喜@莉莉艾美如画 @小柒拾三 @焰硝庭火舞 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/712700014220017721)
 - [恭喜@六哲尘埃 @丽塔小姐的dog666号 @钢板铭铭铭铭铭 等15位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/712700014217920529)
-- [恭喜@SKR绘梨衣 @bili_10008463003 @imingchen 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/712700009915613335)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
