@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [RT Dominik Tomicevic: Come get yours at the @memgraphdb booth 🤓 #Current22 #Current2022 @NikolaBanac @supe_katarina](https://twitter.com/dtomicevic/status/1577035420873129984)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1576950480030285824)
-- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1576941901508485124)
-- [#Linux Kernel 6.0 is here! Check out what&#39;s new. #memgraph #coding](https://twitter.com/memgraphdb/status/1576936021052526592)
-- [Just one more day until the start of #Current22. Be sure to visit us at booth 7 to learn about #Memgraph and get some awesome swag! The most connected...](https://twitter.com/memgraphdb/status/1576919162844114946)
+- [Re @padillash4 with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you wan...](https://twitter.com/memgraphdb/status/1577191374801494016)
+- [Re @denniswittekind with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If yo...](https://twitter.com/memgraphdb/status/1577191234061619206)
+- [Re @YingjunWu with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want...](https://twitter.com/memgraphdb/status/1577190965433241600)
+- [Re @nicollemeagan with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you ...](https://twitter.com/memgraphdb/status/1577190386413768704)
+- [Re @gunnarmorling with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you ...](https://twitter.com/memgraphdb/status/1577190197988823040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
