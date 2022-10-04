@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1577304288572891136)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1577296989909356545)
-- [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1577277110904918018)
-- [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1577262011641208832)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1577255718641614849)
+- [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1577322406615695361)
+- [#Current22 Graph of Influencers is growing! Did you already come to booth 7 to claim your spot? #memgraph](https://twitter.com/memgraphdb/status/1577321996018487303)
+- [Re @kgolubic @YouOldMaid You can&#39;t miss our booth. :&rpar;](https://twitter.com/memgraphdb/status/1577307177664102400)
+- [Re @AmyJordana we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577306753989066753)
+- [Re @BlakeItOut we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577306737308311553)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
