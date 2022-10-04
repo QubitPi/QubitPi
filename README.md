@@ -531,11 +531,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Going Meta - Ep 9: Unsupervised KG construction. Graph Observability](https://www.youtube.com/watch?v=YVaj2LEqDn0)
-- [Neo4j Live: Pathfinding Algorithms using Neo4j](https://www.youtube.com/watch?v=naRtEnMev18)
-- [Innovation en machine learning : des données connectées pour des prédictions plus efficaces](https://www.youtube.com/watch?v=lDjHsZYMC-M)
-- [BNPP : utilisation d&#39;une base de données graphes pour renforcer la lutte contre la fraude digitale](https://www.youtube.com/watch?v=Zu5bnZajRrU)
-- [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
+- [58 - Introducing Workspaces, a New Experience for Neo4j Developer Tools](https://www.youtube.com/watch?v=isCriRgnFDk)
+- [57 - New! Monitoring and Administration with Neo4j Ops Manager](https://www.youtube.com/watch?v=_XMdDM9FojY)
+- [56 - Encrypting and Protecting Your Data in Neo4j](https://www.youtube.com/watch?v=2MsAdy7S0ok)
+- [54 - Top 10 Cypher Tuning Tips &amp; Tricks](https://www.youtube.com/watch?v=DAlWoamQ41Q)
+- [50 - Toolbelt Trifecta: Connecting to Neo4j with Java and AWS Lambda](https://www.youtube.com/watch?v=HwetrY62ZbU)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
