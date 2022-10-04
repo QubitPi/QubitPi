@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Für das Thema IoT Analytics werden Graphdatenbanken immer wichtiger. @neo4j ist derzeit die stärkste Graphdatenbank via @ITP_Redaktion #neo4j #graph...](https://twitter.com/neo4j/status/1577282910532648960)
+- [🗺 With the transfer of a Wardley map into a graph database, the map can be analyzed and interpreted with structured queries. This facilitates their...](https://twitter.com/neo4j/status/1577252247162986497)
 - [Get to know a power user&#39;s experience in using graph technology to drive better decision-making💪 #Neo4j](https://twitter.com/neo4j/status/1577207069698138116)
 - [Big Data Quarterly presents 2022s “Big Data 50,” featuring @neo4j alongside other incredible companies driving innovation in the industry! #neo4j #g...](https://twitter.com/neo4j/status/1576966564779380737)
 - [RT Tom Nijhof: Got my new blog out🤩 Combining 3 datasets, #PubChem, #Chembl, and #NCI60 into a #neo4j Graph database! Combining #cell #chemical #da...](https://twitter.com/wagenrace/status/1576933679599058944)
-- [🔥 The Hidden Markov Model is widely used in many areas, from language processing to bioinformatics, from physics to finance. Sixing Huang explains ...](https://twitter.com/neo4j/status/1576917513547440129)
-- [RT Alexander Erdl: New month, new going #meta with @BarrasaDV taking place tomorrow 5pm CEST If you are interested in #Ontology #semanatics #knowledge...](https://twitter.com/alexandererdl/status/1576907668064649217)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
