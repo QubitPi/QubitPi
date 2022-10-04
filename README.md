@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/712763433697673305><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6bab40112bc1f45d38cb79b0fe920b02401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/713071095103619158><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d01d5da801c88fc6552c2f09c93418bd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@忱霞 @余释バカ @ProtoType0 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/713071095103619158)
