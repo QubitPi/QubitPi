@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1577322406615695361)
-- [#Current22 Graph of Influencers is growing! Did you already come to booth 7 to claim your spot? #memgraph](https://twitter.com/memgraphdb/status/1577321996018487303)
-- [Re @kgolubic @YouOldMaid You can&#39;t miss our booth. :&rpar;](https://twitter.com/memgraphdb/status/1577307177664102400)
-- [Re @AmyJordana we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577306753989066753)
-- [Re @BlakeItOut we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577306737308311553)
+- [Re @vnadkarni we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577346570042982407)
+- [Re @bbejeck we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577346479177584640)
+- [Re @OneCricketeer we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577346450547429377)
+- [Re @sap1ens we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577346400052035590)
+- [Re @santaferraro we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the pr...](https://twitter.com/memgraphdb/status/1577346255394578432)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
