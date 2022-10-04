@@ -466,11 +466,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [In 1 hour, join us for day 1 of ArangoDB Summit! 🔥 Join us for this FREE virtual event to hear thought-provoking talks from industry leaders and te...](https://twitter.com/arangodb/status/1577297511517229057)
 - [Take 10 minutes from your day and try out our Node.js tutorial. 🥑 Get started with Node.js and ArangoDB by following this guide available below. �...](https://twitter.com/arangodb/status/1577086115395342336)
 - [We can’t wait! 🔥🥑](https://twitter.com/arangodb/status/1576945398731591680)
 - [Grab your spot for ArangoDB Summit, starting tomorrow at 8 AM PT! 🥑 𝗔𝗿𝗮𝗻𝗴𝗼𝗗𝗕 𝗦𝘂𝗺𝗺𝗶𝘁 is our first ever 2-d...](https://twitter.com/arangodb/status/1576904925430390786)
 - [Only three days remain until ArangoDB Summit! 🤯 Join the CEO of @metacx @smccorkle and other team members to learn more about their experience usin...](https://twitter.com/arangodb/status/1576708874006151169)
-- [Scalable Fraud Detection 🔒 This white paper will show how to convert data from relational to multi-model graphs, how various fraud detection querie...](https://twitter.com/arangodb/status/1576572721391091712)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
