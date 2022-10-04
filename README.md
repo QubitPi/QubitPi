@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. #gra...](https://twitter.com/memgraphdb/status/1577206141557276674)
-- [Re @padillash4 with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you wan...](https://twitter.com/memgraphdb/status/1577191374801494016)
-- [Re @denniswittekind with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If yo...](https://twitter.com/memgraphdb/status/1577191234061619206)
-- [Re @YingjunWu with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want...](https://twitter.com/memgraphdb/status/1577190965433241600)
-- [Re @nicollemeagan with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you ...](https://twitter.com/memgraphdb/status/1577190386413768704)
+- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1577255718641614849)
+- [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1577250434166788096)
+- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1577218725895454721)
+- [Re @codek1 @supe_katarina There are many edges that need to be connected. And our ducks are fond of traveling and exploring new places :&rpar; #Memgraph #D...](https://twitter.com/memgraphdb/status/1577216129961197569)
+- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1577215953875738624)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
