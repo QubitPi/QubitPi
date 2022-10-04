@@ -556,9 +556,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Pictograms &lpar;WIP&rpar;](https://dribbble.com/shots/19536810)
 - [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
+- [product page: web design](https://dribbble.com/shots/19561471)
 - [Swell - Marketing Pages](https://dribbble.com/shots/19526243)
 - [Lion Fire 🔥](https://dribbble.com/shots/19537094)
-- [Skillex Brand Materials](https://dribbble.com/shots/19527460)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
