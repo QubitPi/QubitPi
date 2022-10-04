@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1577277110904918018)
+- [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1577262011641208832)
 - [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1577255718641614849)
 - [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1577250434166788096)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1577218725895454721)
-- [Re @codek1 @supe_katarina There are many edges that need to be connected. And our ducks are fond of traveling and exploring new places :&rpar; #Memgraph #D...](https://twitter.com/memgraphdb/status/1577216129961197569)
-- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1577215953875738624)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
