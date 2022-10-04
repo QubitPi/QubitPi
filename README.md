@@ -466,11 +466,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
-- [CTO @joerg_schad takes the stage to explore the ArangoDB Innovation Vision. 🔥 Join us now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577327694194393095)
-- [ArangoDB Summit is live! 🔥 See CEO Shekhar Iyer in his Keynote presentation on the main stage! Join us now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577312615411359745)
-- [In 1 hour, join us for day 1 of ArangoDB Summit! 🔥 Join us for this FREE virtual event to hear thought-provoking talks from industry leaders and te...](https://twitter.com/arangodb/status/1577297511517229057)
-- [Take 10 minutes from your day and try out our Node.js tutorial. 🥑 Get started with Node.js and ArangoDB by following this guide available below. �...](https://twitter.com/arangodb/status/1577086115395342336)
-- [We can’t wait! 🔥🥑](https://twitter.com/arangodb/status/1576945398731591680)
+- [Afrozy Ara of Incendo is now live in the Industry vertical! 🔥 Join ArangoDB Summit now. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373022310252552)
+- [Streaming now in thought leadership, Paul Wu of Genentech! 🔥 Join ArangoDB Summit now. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015528046592)
+- [Join @davedotdev of Juniper as he dives into his experience using ArangoDB! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015402233884)
+- [Following our CPO live in the developer track is CTO @joerg_schad! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373013191835681)
+- [Join our thought leadership track to hear from Apurvaa Subramanian of Instacart. 🔥 Hop into ArangoDB Summit now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577365462345728018)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
