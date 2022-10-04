@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. #gra...](https://twitter.com/memgraphdb/status/1577206141557276674)
 - [Re @padillash4 with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you wan...](https://twitter.com/memgraphdb/status/1577191374801494016)
 - [Re @denniswittekind with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If yo...](https://twitter.com/memgraphdb/status/1577191234061619206)
 - [Re @YingjunWu with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you want...](https://twitter.com/memgraphdb/status/1577190965433241600)
 - [Re @nicollemeagan with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you ...](https://twitter.com/memgraphdb/status/1577190386413768704)
-- [Re @gunnarmorling with #Current22 just a few hours away, we just wanted to let you know that we saw you on our Graph of Current22 Influencers! If you ...](https://twitter.com/memgraphdb/status/1577190197988823040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
