@@ -101,11 +101,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》杯中遥吟之歌活动过场动画-「待风归，启佳酿」](https://ys.mihoyo.com/main/news/detail/22855)
 - [《原神》剧情PV-「『神』意」](https://ys.mihoyo.com/main/news/detail/22847)
 - [《原神》剧情PV-「沙中遗事」](https://ys.mihoyo.com/main/news/detail/22846)
 - [《原神》「派蒙的画作凯迪拉克联动篇」联动主题表情包现已上架](https://ys.mihoyo.com/main/news/detail/22844)
 - [《原神》线上音乐会2022 - 无际之旅的旋律](https://ys.mihoyo.com/main/news/detail/22845)
-- [《原神》「杯中遥吟之歌」活动小贴士](https://ys.mihoyo.com/main/news/detail/22805)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
