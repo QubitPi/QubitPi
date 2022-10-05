@@ -472,11 +472,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [In 1 hour, join us for day 2 of ArangoDB Summit! 🔥 Don&#39;t forget to share your Summit experience by tagging us and using the hashtag #ArangoDBSummit...](https://twitter.com/arangodb/status/1577659900603338756)
 - [Live now! CEO Shekhar Iyer wraps up day 1 of ArangoDB Summit. 🔥 Also attend Day 2 tomorrow! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577380556601495552)
 - [Streaming now in thought leadership, Paul Wu of Genentech! 🔥 Join ArangoDB Summit now. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015528046592)
 - [Join @davedotdev of Juniper as he dives into his experience using ArangoDB! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015402233884)
 - [Following our CPO live in the developer track is CTO @joerg_schad! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373013191835681)
-- [Join our thought leadership track to hear from Apurvaa Subramanian of Instacart. 🔥 Hop into ArangoDB Summit now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577365462345728018)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
