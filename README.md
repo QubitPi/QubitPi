@@ -65,11 +65,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [原神 3.1，帅诺没得比](https://t.bilibili.com/713493157233295399)
 - [七七二命了，好耶[崩坏3_吃饭团]](https://t.bilibili.com/704318132081131590)
 - [论团队协作的重要性](https://t.bilibili.com/702005146170687526)
 - [孤云阁 F4 初级打法](https://t.bilibili.com/699094678745645081)
 - [小宝 我又来找你玩啦～](https://t.bilibili.com/699086355097976887)
-- [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://t.bilibili.com/698672041084059688)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Recent Uploads
