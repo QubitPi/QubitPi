@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/713442184555135014><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5d12ba93f523079e75cc63882777f9a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/713506067916521510><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4a5ba5708b1af19ebbf62a387b5284d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #杯中遥吟之歌# 《原神》杯中遥吟之歌活动过场动画-「待风归，启佳酿」现已发布~ https://www.bilibili.com/video/BV1wD4y1y7CZ 从封上酒桶，到...](https://t.bilibili.com/713506067916521510)
