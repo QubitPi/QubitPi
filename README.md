@@ -507,11 +507,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Re @vnadkarni we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize...](https://twitter.com/memgraphdb/status/1577346570042982407)
-- [Re @bbejeck we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577346479177584640)
-- [Re @OneCricketeer we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577346450547429377)
-- [Re @sap1ens we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577346400052035590)
-- [Re @santaferraro we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the pr...](https://twitter.com/memgraphdb/status/1577346255394578432)
+- [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1577582876018761729)
+- [Re @xinran_waibel we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577576895801073665)
+- [Re @briggsl we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577576751307399169)
+- [Re @mikeridley we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577576633439064065)
+- [Re @sysadmiral we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577576484096692225)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
