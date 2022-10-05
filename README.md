@@ -507,11 +507,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Re @mjasay we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize co...](https://twitter.com/memgraphdb/status/1577695416023490561)
+- [Re @egwada we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize co...](https://twitter.com/memgraphdb/status/1577695322276564992)
+- [Re @andreasevers we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the pr...](https://twitter.com/memgraphdb/status/1577695288327913473)
+- [Re @maycotte we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize ...](https://twitter.com/memgraphdb/status/1577695244170166272)
 - [🔎Some nodes do stand out in the #Current22 influencer graph! 📢Come to booth 7 to check your standing :&rpar; Maybe you will win the #Memgraph prize! ...](https://twitter.com/memgraphdb/status/1577677758884450304)
-- [Do you want to learn something about #Memgraph? Come to booth 7 at #Current22. We are waiting for you. We are on the graph side. You can be too! You h...](https://twitter.com/memgraphdb/status/1577672124210225152)
-- [Re @NSilnitsky we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577667040596344833)
-- [Re @AdamBellemare we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577666908500987907)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1577666676228759554)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
