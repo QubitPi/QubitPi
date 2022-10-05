@@ -123,11 +123,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
 <!-- YOUTUBE-CHANNEL:START -->
+- [[Genshin Impact] Cyno](https://www.youtube.com/watch?v=P1tIZhoSE9A)
 - [This is Why Team Coordination is Crucial](https://www.youtube.com/watch?v=quIxpsqGo1w)
 - [Guyun Stone Forest always reminds me of the 2022 Summer Fantasia Event](https://www.youtube.com/watch?v=CYzmvCc_XQU)
 - [Kokomi is coming! Let&#39;s have some fun in Slumbering Court and get a Ocean-Hued Clam set for her](https://www.youtube.com/watch?v=MPBElzFOfAA)
 - [Kokomi is coming! Let&#39;s have some fun in Slumbering Court and get a Ocean-Hued Clam set for her](https://www.youtube.com/watch?v=d7SuC2lQouI)
-- [[Trump Part 13 - Medicare and Social Security &amp; Closing Statements] The Third Presidential Debate](https://www.youtube.com/watch?v=e3IqN8mc-0Q)
 <!-- YOUTUBE-CHANNEL:END -->
 
 <div align="center">
