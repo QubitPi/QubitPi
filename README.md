@@ -75,9 +75,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
+- [原神 3.1，帅诺没得比](https://www.bilibili.com/video/BV1UD4y1y7tJ)
 - [论团队协作的重要性](https://www.bilibili.com/video/BV1hB4y1g7Jp)
 - [小宝 我又来找你玩啦～](https://www.bilibili.com/video/BV1PG411t79N)
-- [【为即将到来的心海打圣遗物的日常】沉眠之庭 Bobbish HOYO-MiX 背景音乐版](https://www.bilibili.com/video/BV1eV4y1W7KP)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Columns
