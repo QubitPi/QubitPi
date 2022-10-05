@@ -383,11 +383,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT Thierry Carrez: If you told me in 2010 that I would still be around to help with the release of #OpenStack at the end of the release alphabet... Lo...](https://twitter.com/tcarrez/status/1577674743909580801)
+- [RT Sylvain Bauza: If you want to know more about the Zed release, see you tomorrow ;&rpar;](https://twitter.com/sylvainbauza/status/1577664929955516416)
+- [Tomorrow on #OpenInfraLive, learn about the latest from #OpenStack community leaders about what was delivered in Zed and what we can expect in Antelop...](https://twitter.com/OpenStack/status/1577660416162930689)
+- [RT Iury Gregory 💉💉💉: Thank you @openinfradev and @OpenStack Community ♥️](https://twitter.com/_Skolt_Iury_/status/1577356865423425570)
 - [OpenStack Security: A Practical Guide](https://twitter.com/OpenStack/status/1577348969717547018)
-- [.@openmetal_io teamed up with #LearnLinuxTV to bring you &quot;OpenStack - The BEST Way to Build Your Own Private Cloud!&quot; @JayTheLinuxGuy shares some consi...](https://twitter.com/OpenStack/status/1577342937448562706)
-- [This Thursday at 1400 UTC, join @knelson92, @silvacarlose, @jayofdoom, @sylvainbauza, and Lajos Katona for &quot;#OpenStack Zed: The End of the Alphabet, T...](https://twitter.com/OpenStack/status/1576965447425064962)
-- [RT OpenStack Türkiye: #openinfradayturkey2022 Etkinlikteki konuşmacılarımızla tanışın! @tcarrez from @openinfradev, @josecastroleon from @cern...](https://twitter.com/TrOpenstack/status/1576529351843393539)
-- [RT Mark Collier 柯理怀: “I mean, when you&#39;re talking about over 2.5 billion mobile users running on RHOP, you&#39;re talking real money” A billion OpenS...](https://twitter.com/sparkycollier/status/1575926742472065040)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
