@@ -290,11 +290,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Digital Transformation and Scrum](https://www.scrum.org/resources/blog/digital-transformation-and-scrum)
 - [What&#39;s wrong with a Mid Sprint Check-in or Mid Sprint Review?](https://www.scrum.org/resources/blog/whats-wrong-mid-sprint-check-or-mid-sprint-review-0)
 - [[VLOG] Project Management vs Product Management](https://www.scrum.org/resources/blog/vlog-project-management-vs-product-management)
 - [Why Limiting Work in Progress Matters for Scrum](https://www.scrum.org/resources/blog/why-limiting-work-progress-matters-scrum)
 - [Honey, I Shrunk the Backlog — Allan Kelly at the Hands-on Agile 44](https://www.scrum.org/resources/blog/honey-i-shrunk-backlog-allan-kelly-hands-agile-44)
-- [Warum Story Points nicht geeignet sind, um Releasedaten vorherzusagen](https://www.scrum.org/resources/blog/warum-story-points-nicht-geeignet-sind-um-releasedaten-vorherzusagen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
