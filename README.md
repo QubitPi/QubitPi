@@ -415,7 +415,7 @@ My Tech Blogs
 
 ##### Documentation Updates
 
-<!-- KUBERNETES-DOC-CHANGES:START --><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><li>Mon Oct 03 2022 12:15 PM <a href=https://github.com/kubernetes/website/pull/37138>Add kube-scheduler config v1 to reference index</a></li><li>Sun Oct 02 2022 10:24 PM <a href=https://github.com/kubernetes/website/pull/37134>[ja] Change sig-docs-xx-reviewers to -reviews</a></li><li>Sun Oct 02 2022 2:04 PM <a href=https://github.com/kubernetes/website/pull/37131>affinity.md into hindi</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
+<!-- KUBERNETES-DOC-CHANGES:START --><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><li>Tue Oct 04 2022 7:10 PM <a href=https://github.com/kubernetes/website/pull/37153>Update new-features page as follow-up to PR 36876 for GA or removed features page</a></li><li>Mon Oct 03 2022 12:15 PM <a href=https://github.com/kubernetes/website/pull/37138>Add kube-scheduler config v1 to reference index</a></li><li>Sun Oct 02 2022 10:24 PM <a href=https://github.com/kubernetes/website/pull/37134>[ja] Change sig-docs-xx-reviewers to -reviews</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### Study Notes
 
