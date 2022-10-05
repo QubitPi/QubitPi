@@ -507,11 +507,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The Girvan-Newman algorithm relies on the iterative elimination of edges with the highest number of shortest paths between nodes passing through them....](https://twitter.com/memgraphdb/status/1577600740012466177)
 - [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1577582876018761729)
 - [Re @xinran_waibel we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577576895801073665)
 - [Re @briggsl we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577576751307399169)
 - [Re @mikeridley we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577576633439064065)
-- [Re @sysadmiral we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577576484096692225)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
