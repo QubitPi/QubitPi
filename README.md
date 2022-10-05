@@ -383,11 +383,11 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT Ghanshyam Mann: Thanks to all the contributors for another on time and successful release. It&#39;s all your 6 months of hard work and keeping @OpenSta...](https://twitter.com/GmannInCloud/status/1577710090219851777)
+- [RT Kendall Nelson: I honestly never thought when I started working on @OpenStack during the #Liberty release that I would still be around to see the e...](https://twitter.com/knelson92/status/1577702508910313474)
+- [The End of the Alphabet, The Beginning of a New Era: #OpenStack Zed Release Arrives as OpenStack Deployments Surge Beyond 40M Cores! Thank you to the ...](https://twitter.com/OpenStack/status/1577699058386337794)
 - [RT Thierry Carrez: If you told me in 2010 that I would still be around to help with the release of #OpenStack at the end of the release alphabet... Lo...](https://twitter.com/tcarrez/status/1577674743909580801)
 - [RT Sylvain Bauza: If you want to know more about the Zed release, see you tomorrow ;&rpar;](https://twitter.com/sylvainbauza/status/1577664929955516416)
-- [Tomorrow on #OpenInfraLive, learn about the latest from #OpenStack community leaders about what was delivered in Zed and what we can expect in Antelop...](https://twitter.com/OpenStack/status/1577660416162930689)
-- [RT Iury Gregory 💉💉💉: Thank you @openinfradev and @OpenStack Community ♥️](https://twitter.com/_Skolt_Iury_/status/1577356865423425570)
-- [OpenStack Security: A Practical Guide](https://twitter.com/OpenStack/status/1577348969717547018)
 <!-- OPENSTACK-TWITTER:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
