@@ -472,11 +472,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
-- [In 1 hour, join us for day 2 of ArangoDB Summit! 🔥 Don&#39;t forget to share your Summit experience by tagging us and using the hashtag #ArangoDBSummit...](https://twitter.com/arangodb/status/1577659900603338756)
-- [Live now! CEO Shekhar Iyer wraps up day 1 of ArangoDB Summit. 🔥 Also attend Day 2 tomorrow! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577380556601495552)
-- [Streaming now in thought leadership, Paul Wu of Genentech! 🔥 Join ArangoDB Summit now. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015528046592)
-- [Join @davedotdev of Juniper as he dives into his experience using ArangoDB! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373015402233884)
-- [Following our CPO live in the developer track is CTO @joerg_schad! 🔥 Streaming now at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577373013191835681)
+- [Up next in thought leadership is @MarkTabNet of Microsoft! 🔥 Listen in on ArangoDB Summit now! 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708998345777152)
+- [Happening now; Malhar Anaokar of Join ArangoDB Summit. 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708995598553088)
+- [The @metacx team, @smccorkle, AJ Edelbrock, and Steve Heneghan is live in the industry track now! 🔥 Join Day 2 here! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708988015181825)
+- [We have back-to-back sessions with CTO @joerg_schad on our data science track right now! 🔥 Join him at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708974123749377)
+- [Listen to our industry track to hear more from Lars Kamp of Resoto and Tristan Kalos of Escape. 🔥 Join ArangoDB Summit now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577702701370064896)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
