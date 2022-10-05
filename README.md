@@ -404,11 +404,11 @@ My Tech Blogs
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
 - [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
 - [Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces](https://kubernetes.io/blog/2022/10/03/userns-alpha/)
 - [Blog: Enforce CRD Immutability with CEL Transition Rules](https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/)
 - [Blog: Kubernetes 1.25: Kubernetes In-Tree to CSI Volume Migration Status Update](https://kubernetes.io/blog/2022/09/26/storage-in-tree-to-csi-migration-status-update-1.25/)
-- [Blog: Kubernetes 1.25: CustomResourceDefinition Validation Rules Graduate to Beta](https://kubernetes.io/blog/2022/09/23/crd-validation-rules-beta/)
 <!-- KUBERNETES-BLOG:END -->
 
 ##### Study Notes
