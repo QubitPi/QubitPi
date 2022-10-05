@@ -507,11 +507,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Re @mjasay we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize co...](https://twitter.com/memgraphdb/status/1577695416023490561)
-- [Re @egwada we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize co...](https://twitter.com/memgraphdb/status/1577695322276564992)
-- [Re @andreasevers we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the pr...](https://twitter.com/memgraphdb/status/1577695288327913473)
-- [Re @maycotte we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize ...](https://twitter.com/memgraphdb/status/1577695244170166272)
-- [🔎Some nodes do stand out in the #Current22 influencer graph! 📢Come to booth 7 to check your standing :&rpar; Maybe you will win the #Memgraph prize! ...](https://twitter.com/memgraphdb/status/1577677758884450304)
+- [Hi @BenGamble7, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! #Cur...](https://twitter.com/memgraphdb/status/1577737185159249921)
+- [Hi @daveklein, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! #Curr...](https://twitter.com/memgraphdb/status/1577737133695143938)
+- [Hi @madidaye, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! #Curre...](https://twitter.com/memgraphdb/status/1577737092771332101)
+- [Hi @TheMarcAMartin, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! ...](https://twitter.com/memgraphdb/status/1577737051071561752)
+- [Hi @jansvoboda, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! #Cur...](https://twitter.com/memgraphdb/status/1577737008469925888)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
