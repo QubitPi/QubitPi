@@ -563,8 +563,8 @@ My Tech Blogs
 - [Pictograms &lpar;WIP&rpar;](https://dribbble.com/shots/19536810)
 - [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 - [product page: web design](https://dribbble.com/shots/19561471)
+- [RADAR - Web3 projects aggregator mobile app](https://dribbble.com/shots/19564396)
 - [Swell - Marketing Pages](https://dribbble.com/shots/19526243)
-- [Lion Fire 🔥](https://dribbble.com/shots/19537094)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
