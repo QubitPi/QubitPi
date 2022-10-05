@@ -527,11 +527,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Great news! 💥 We&#39;ve released flex templates for Google Cloud Dataflow, which support complex ETL processes through configuration, not code. Read mo...](https://twitter.com/neo4j/status/1577682555167559685)
 - [The 4th edition of NODES comes with Multi-time zone coverage with live, convenient sessions for the Americas, Europe, Middle East, Africa, and Asia-Pa...](https://twitter.com/neo4j/status/1577614661159116800)
 - [Re @neil_garb Congratulations 🎉 Please share if you can.](https://twitter.com/neo4j/status/1577443767560323072)
 - [Re @NCrepalde You’re welcome! Congratulations 🎉 Looking great. Please join our](https://twitter.com/neo4j/status/1577371221859123207)
 - [What happened during NODES 2021? #TBT 👀 As we prepare for #NODES2022 &lpar;with amazing talks!&rpar;, let&#39;s re-watch @lyonwj&#39;s session, &quot;Best Practices For U...](https://twitter.com/neo4j/status/1577357940763332610)
-- [KI und Algorithmen kommen in der Medizintechnik immer häufiger zum Einsatz. Die Technologie der Zukunft braucht ethische Rahmenlinien und eine Techno...](https://twitter.com/neo4j/status/1577310840352641028)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
