@@ -165,7 +165,22 @@ jobs:
           commit_message: "New Kubernetes Blog"
           comment_tag_name: "KUBERNETES-BLOG"
           max_post_count: "5"
-          feed_list: "https://kubernetes.io/feed.xml"       
+          feed_list: "https://kubernetes.io/feed.xml"
+  kubernetes-doc-changes:
+    name: Kubernetes Doc Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Kubernetes doc changes"
+          comment_tag_name: "KUBERNETES-DOC-CHANGES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/github/pull/kubernetes/website/closed"
+          template: "<li>$date <a href=$url>$title</a></li>"    
+     
   lets-encrypt-blog:
     name: Let's Encrypt Blog
     runs-on: ubuntu-latest
