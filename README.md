@@ -403,6 +403,8 @@ My Tech Blogs
 
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
 
+##### Blogs
+
 <!-- KUBERNETES-BLOG:START -->
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
 - [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
@@ -410,6 +412,11 @@ My Tech Blogs
 - [Blog: Enforce CRD Immutability with CEL Transition Rules](https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/)
 - [Blog: Kubernetes 1.25: Kubernetes In-Tree to CSI Volume Migration Status Update](https://kubernetes.io/blog/2022/09/26/storage-in-tree-to-csi-migration-status-update-1.25/)
 <!-- KUBERNETES-BLOG:END -->
+
+##### Documentation Updates
+
+<!-- KUBERNETES-DOC-CHANGES:START -->
+<!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### Study Notes
 
