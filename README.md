@@ -472,11 +472,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
-- [Up next in thought leadership is @MarkTabNet of Microsoft! 🔥 Listen in on ArangoDB Summit now! 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708998345777152)
-- [Happening now; Malhar Anaokar of Join ArangoDB Summit. 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708995598553088)
-- [The @metacx team, @smccorkle, AJ Edelbrock, and Steve Heneghan is live in the industry track now! 🔥 Join Day 2 here! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708988015181825)
-- [We have back-to-back sessions with CTO @joerg_schad on our data science track right now! 🔥 Join him at ArangoDB Summit. 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577708974123749377)
-- [Listen to our industry track to hear more from Lars Kamp of Resoto and Tristan Kalos of Escape. 🔥 Join ArangoDB Summit now! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577702701370064896)
+- [Join CEO Shekhar Iyer as we wrap up day 2 of ArangoDB Summit! 🔥 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577733606272663552)
+- [Happening now - Kevin Bayes &amp; Anna Spyker of @DecodedHealth in the industry track. 🔥 ArangoDB Summit day is wrapping up shortly, but you can still ...](https://twitter.com/arangodb/status/1577724074142437406)
+- [Our final presentation in our thought leadership track is now with Ashleigh Faith. 🔥 Listen in here! 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577724070271094813)
+- [Get your final dose of use cases with Ray Gill &amp; Jim Davidson of @jamasoftware. 🔥 Listen in now! 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577724068241051668)
+- [Listen to Matthias Fey of PyTorch Geometric now in our industry track. 🔥 Join the stream here! 🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577724061815377935)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
