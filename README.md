@@ -507,11 +507,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [The Girvan-Newman algorithm relies on the iterative elimination of edges with the highest number of shortest paths between nodes passing through them....](https://twitter.com/memgraphdb/status/1577600740012466177)
-- [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1577582876018761729)
-- [Re @xinran_waibel we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577576895801073665)
-- [Re @briggsl we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the prize c...](https://twitter.com/memgraphdb/status/1577576751307399169)
-- [Re @mikeridley we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577576633439064065)
+- [🔎Some nodes do stand out in the #Current22 influencer graph! 📢Come to booth 7 to check your standing :&rpar; Maybe you will win the #Memgraph prize! ...](https://twitter.com/memgraphdb/status/1577677758884450304)
+- [Do you want to learn something about #Memgraph? Come to booth 7 at #Current22. We are waiting for you. We are on the graph side. You can be too! You h...](https://twitter.com/memgraphdb/status/1577672124210225152)
+- [Re @NSilnitsky we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the priz...](https://twitter.com/memgraphdb/status/1577667040596344833)
+- [Re @AdamBellemare we just wanted to let you know that we saw you on our Graph of #Current22 Influencers! If you want to join the competition for the p...](https://twitter.com/memgraphdb/status/1577666908500987907)
+- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1577666676228759554)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
