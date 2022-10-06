@@ -380,7 +380,7 @@ My Tech Blogs
 
 #### Twitter
 
-<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188532367-88d964ae-095c-4ebb-b13c-941ee90edb34.png"></a>
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
 - [RT Mark Collier 柯理怀: THANK YOU to the over 700 developers who contributed to the 26th on-time release of OpenStack! Hope to see everyone in Vancouv...](https://twitter.com/sparkycollier/status/1577778456439525382)
@@ -390,7 +390,6 @@ My Tech Blogs
 - [RT Thierry Carrez: If you told me in 2010 that I would still be around to help with the release of #OpenStack at the end of the release alphabet... Lo...](https://twitter.com/tcarrez/status/1577674743909580801)
 <!-- OPENSTACK-TWITTER:END -->
 
-<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
 
 <!-- DOCKERHUB-BLOG:START -->
