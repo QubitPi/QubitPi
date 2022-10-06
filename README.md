@@ -423,7 +423,7 @@ My Tech Blogs
 
 ##### Study Notes
 
-* [Kubernetes - Container Manager](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+* [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
