@@ -419,9 +419,7 @@ My Tech Blogs
 
 ##### Helm Documentation Updates
 
-<!-- HELM-DOC-CHANGES:START -->
-
-<!-- HELM-DOC-CHANGES:END -->
+<!-- HELM-DOC-CHANGES:START --><li>Sat Oct 01 2022 5:24 PM <a href=https://github.com/helm/helm-www/commit/38cc4a3c422344d3cbb3f13d54e688c3a6bc58ce>Update localization.md</a></li><li>Wed Sep 21 2022 6:11 PM <a href=https://github.com/helm/helm-www/commit/49b49d2630522f74f1844fa784b8b45b8aa2171e>Updated for the latest Helm release</a></li><li>Mon Sep 19 2022 9:40 PM <a href=https://github.com/helm/helm-www/commit/4eae4e37619870a047183869ba26a2330d08926f>Update registries.md with additional OCI information</a></li><li>Thu Sep 15 2022 10:32 AM <a href=https://github.com/helm/helm-www/commit/f65888dd8ef87acf8bf91eded9e59e3907cffd2e>Merge pull request #1347 from w7089/patch-2</a></li><li>Thu Sep 15 2022 10:15 AM <a href=https://github.com/helm/helm-www/commit/7c309cfea0ca7271db16851b3d981f7034c0d464>Merge pull request #1351 from dbarkelew/patch-2</a></li><!-- HELM-DOC-CHANGES:END -->
 
 ##### Study Notes
 
