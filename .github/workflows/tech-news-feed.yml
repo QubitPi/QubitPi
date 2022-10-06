@@ -138,7 +138,7 @@ jobs:
           committer_email: "jack20191124@proton.me"
           commit_message: "New GraphQL Twitter Posts"
           comment_tag_name: "OPENSTACK-TWITTER"
-          max_post_count: "5"
+          max_post_count: "3"
           feed_list: "https://rsshub.app/twitter/user/OpenStack" 
   dockerhub-blog:
     name: DockerHub Blog
