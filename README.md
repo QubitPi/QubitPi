@@ -415,13 +415,13 @@ My Tech Blogs
 
 ##### Kubernetes Documentation Updates
 
-<!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><!-- KUBERNETES-DOC-CHANGES:START -->
+<!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### Helm Documentation Updates
 
 <!-- HELM-DOC-CHANGES:START -->
 
-<!-- HELM-DOC-CHANGES:START -->
+<!-- HELM-DOC-CHANGES:END -->
 
 ##### Study Notes
 
