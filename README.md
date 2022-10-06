@@ -386,8 +386,6 @@ My Tech Blogs
 - [RT Mark Collier 柯理怀: THANK YOU to the over 700 developers who contributed to the 26th on-time release of OpenStack! Hope to see everyone in Vancouv...](https://twitter.com/sparkycollier/status/1577778456439525382)
 - [RT Ghanshyam Mann: Thanks to all the contributors for another on time and successful release. It&#39;s all your 6 months of hard work and keeping @OpenSta...](https://twitter.com/GmannInCloud/status/1577710090219851777)
 - [RT Kendall Nelson: I honestly never thought when I started working on @OpenStack during the #Liberty release that I would still be around to see the e...](https://twitter.com/knelson92/status/1577702508910313474)
-- [The End of the Alphabet, The Beginning of a New Era: #OpenStack Zed Release Arrives as OpenStack Deployments Surge Beyond 40M Cores! Thank you to the ...](https://twitter.com/OpenStack/status/1577699058386337794)
-- [RT Thierry Carrez: If you told me in 2010 that I would still be around to help with the release of #OpenStack at the end of the release alphabet... Lo...](https://twitter.com/tcarrez/status/1577674743909580801)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
