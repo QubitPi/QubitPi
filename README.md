@@ -512,11 +512,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1578059352186961926)
+- [Another amazing blog post from #Memgraph is on the #HackerNews frontpage :&rpar; This one is by Ante Pusic and it talks about &quot;Build C++ Graph Analytics Wi...](https://twitter.com/memgraphdb/status/1578024782141870081)
 - [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1578001380572291073)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1577980492208562179)
 - [Re @MColebrook Thank you :&rpar; #Memgraph design team appreciates😊 your compliment.](https://twitter.com/memgraphdb/status/1577976310139428864)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1577955830837698563)
-- [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1577920852137578499)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
