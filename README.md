@@ -383,9 +383,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [In ONE HOUR, tune-in to #OpenInfraLive for &quot;OpenStack Zed: The End of the Alphabet, The Beginning of a New Era!&quot;](https://twitter.com/OpenStack/status/1578007471129595904)
+- [RT Thierry Carrez: Want to learn more about the @OpenStack Zed release? Don&#39;t miss today&#39;s OpenInfra Live episode where technical leaders will walk th...](https://twitter.com/tcarrez/status/1577933446688768000)
 - [RT Mark Collier 柯理怀: THANK YOU to the over 700 developers who contributed to the 26th on-time release of OpenStack! Hope to see everyone in Vancouv...](https://twitter.com/sparkycollier/status/1577778456439525382)
-- [RT Ghanshyam Mann: Thanks to all the contributors for another on time and successful release. It&#39;s all your 6 months of hard work and keeping @OpenSta...](https://twitter.com/GmannInCloud/status/1577710090219851777)
-- [RT Kendall Nelson: I honestly never thought when I started working on @OpenStack during the #Liberty release that I would still be around to see the e...](https://twitter.com/knelson92/status/1577702508910313474)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
