@@ -414,13 +414,13 @@ My Tech Blogs
 
 ##### Kubernetes Documentation Updates
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
 
 <!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### Helm Documentation Updates
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213359-c6b8cb8b-4f10-4b21-bc4d-d2b9d4999523.png">
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/194213359-c6b8cb8b-4f10-4b21-bc4d-d2b9d4999523.png">
 
 <!-- HELM-DOC-CHANGES:START --><li>Sat Oct 01 2022 5:24 PM <a href=https://github.com/helm/helm-www/commit/38cc4a3c422344d3cbb3f13d54e688c3a6bc58ce>Update localization.md</a></li><li>Wed Sep 21 2022 6:11 PM <a href=https://github.com/helm/helm-www/commit/49b49d2630522f74f1844fa784b8b45b8aa2171e>Updated for the latest Helm release</a></li><li>Mon Sep 19 2022 9:40 PM <a href=https://github.com/helm/helm-www/commit/4eae4e37619870a047183869ba26a2330d08926f>Update registries.md with additional OCI information</a></li><li>Thu Sep 15 2022 10:32 AM <a href=https://github.com/helm/helm-www/commit/f65888dd8ef87acf8bf91eded9e59e3907cffd2e>Merge pull request #1347 from w7089/patch-2</a></li><li>Thu Sep 15 2022 10:15 AM <a href=https://github.com/helm/helm-www/commit/7c309cfea0ca7271db16851b3d981f7034c0d464>Merge pull request #1351 from dbarkelew/patch-2</a></li><!-- HELM-DOC-CHANGES:END -->
 
