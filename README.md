@@ -512,11 +512,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1577980492208562179)
+- [Re @MColebrook Thank you :&rpar; #Memgraph design team appreciates😊 your compliment.](https://twitter.com/memgraphdb/status/1577976310139428864)
+- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1577955830837698563)
 - [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1577920852137578499)
 - [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1577901975542317056)
-- [Re @BenGamble7 @daveklein @supe_katarina This was so close call. A real photo finish situation.](https://twitter.com/memgraphdb/status/1577892913664729088)
-- [Congratulations @daveklein! We hope that you will enjoy your prize :&rpar; #memgraph #Current22](https://twitter.com/memgraphdb/status/1577892652057591810)
-- [Hi @BenGamble7, don&#39;t forget to come to #Memgraph booth at 3 P.M. to check your position on the leaderboard and to see if you have won the prize! #Cur...](https://twitter.com/memgraphdb/status/1577737185159249921)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
