@@ -415,7 +415,7 @@ My Tech Blogs
 
 ##### Documentation Updates
 
-<!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><li>Tue Oct 04 2022 7:10 PM <a href=https://github.com/kubernetes/website/pull/37153>Update new-features page as follow-up to PR 36876 for GA or removed features page</a></li><li>Tue Oct 04 2022 6:34 PM <a href=https://github.com/kubernetes/website/pull/37152>Cleanup after 1.25 release and add nate-double-u as reviewer</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
+<!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><li>Tue Oct 04 2022 10:32 PM <a href=https://github.com/kubernetes/website/pull/37155>[en] fix typo secrets-good-practices.md</a></li><li>Tue Oct 04 2022 7:10 PM <a href=https://github.com/kubernetes/website/pull/37153>Update new-features page as follow-up to PR 36876 for GA or removed features page</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### Study Notes
 
