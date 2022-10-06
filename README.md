@@ -567,9 +567,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Pictograms &lpar;WIP&rpar;](https://dribbble.com/shots/19536810)
 - [product page: web design](https://dribbble.com/shots/19561471)
-- [Essential UX Statistics, Insights &amp; Best Practices](https://dribbble.com/shots/19526556)
 - [RADAR - Web3 projects aggregator mobile app](https://dribbble.com/shots/19564396)
 - [News Reader](https://dribbble.com/shots/19561569)
+- [Studyo - Online Course App](https://dribbble.com/shots/19558983)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
