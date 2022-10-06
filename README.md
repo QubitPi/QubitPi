@@ -414,7 +414,7 @@ My Tech Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
 
-<!-- KUBERNETES-DOC-CHANGES:START --><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><li>Wed Oct 05 2022 6:43 PM <a href=https://github.com/kubernetes/website/pull/37169>update release managers</a></li><li>Wed Oct 05 2022 7:25 AM <a href=https://github.com/kubernetes/website/pull/37158>added warning about indefinitely running resources</a></li><li>Tue Oct 04 2022 10:38 PM <a href=https://github.com/kubernetes/website/pull/37156>blog: followup to PR 36971 to add suggestions to third party security audit blog</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
+<!-- KUBERNETES-DOC-CHANGES:START --><li>Thu Oct 06 2022 12:29 PM <a href=https://github.com/kubernetes/website/pull/37180>remove ExecStart Duplication</a></li><li>Thu Oct 06 2022 2:17 AM <a href=https://github.com/kubernetes/website/pull/37175>[zh] Sync feature-gates.md</a></li><li>Wed Oct 05 2022 11:12 PM <a href=https://github.com/kubernetes/website/pull/37174>Add missing period</a></li><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><li>Wed Oct 05 2022 6:44 PM <a href=https://github.com/kubernetes/website/pull/37170>update commitee-steering alias following 2022 election</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### [Helm Documentation](https://helm.sh/docs/) Updates
 
