@@ -192,7 +192,7 @@ jobs:
           commit_message: "Helm doc changes"
           comment_tag_name: "HELM-DOC-CHANGES"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/helm/helm-www/master/content/en"
+          feed_list: "https://rsshub.app/github/file/helm/helm-www/main/content/en"
           template: "<li>$date <a href=$url>$title</a></li>"
      
   lets-encrypt-blog:
