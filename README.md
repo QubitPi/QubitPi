@@ -532,11 +532,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Start your journey with graph databases!🚀 &quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Download for free now:...](https://twitter.com/neo4j/status/1578007200752029696)
 - [A deep understanding of social networks can be used to create an artificial tipping point, changing population behavior by fostering behavioral cascad...](https://twitter.com/neo4j/status/1577977011502563330)
+- [RT John-Dag: My shirt finally came in the mail! #neo4j #certified @neo4j](https://twitter.com/jd_addy/status/1577929920709369857)
+- [RT Jason Koo: Ready to up your @neo4j game? Sign up for the upcoming Nodes conference to learn from veteran users and learn of upcoming new features a...](https://twitter.com/jalakoo/status/1577799664585379841)
 - [Beren Erchamion takes his first steps with graph databases setting up Neo4j Community Server on his MacBook Pro. #neo4j #Neo4jCommunity](https://twitter.com/neo4j/status/1577752499523665942)
-- [Keep your Cypher queries clean! Simply feed them to format_cypher.java, and let it clean and organize your queries for you — @rotnroll666 #neo4j #cyp...](https://twitter.com/neo4j/status/1577722548720209946)
-- [We know you were waiting for a new book!🙋 Say hello to the &quot;Full Stack GraphQL Applications&quot; book by William Lyon. In this blog, he gives you a sne...](https://twitter.com/neo4j/status/1577720347520110609)
-- [Great news! 💥 We&#39;ve released flex templates for Google Cloud Dataflow, which support complex ETL processes through configuration, not code. Read mo...](https://twitter.com/neo4j/status/1577682555167559685)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
