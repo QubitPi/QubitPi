@@ -532,11 +532,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Using Heroku and Neo4j, @wagenrace made a Python license finder where you can type in all your Python packages and find out what licenses those packag...](https://twitter.com/neo4j/status/1578040162499452928)
+- [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions w/ @zediogoviana](https://twitter.com/neo4j/status/1578033749115432960)
 - [Start your journey with graph databases!🚀 &quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Download for free now:...](https://twitter.com/neo4j/status/1578007200752029696)
 - [A deep understanding of social networks can be used to create an artificial tipping point, changing population behavior by fostering behavioral cascad...](https://twitter.com/neo4j/status/1577977011502563330)
 - [RT John-Dag: My shirt finally came in the mail! #neo4j #certified @neo4j](https://twitter.com/jd_addy/status/1577929920709369857)
-- [RT Jason Koo: Ready to up your @neo4j game? Sign up for the upcoming Nodes conference to learn from veteran users and learn of upcoming new features a...](https://twitter.com/jalakoo/status/1577799664585379841)
-- [Beren Erchamion takes his first steps with graph databases setting up Neo4j Community Server on his MacBook Pro. #neo4j #Neo4jCommunity](https://twitter.com/neo4j/status/1577752499523665942)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
