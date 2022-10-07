@@ -7,7 +7,7 @@ on:
 
 jobs:
   arangodb-blogs:
-    name: ArangoDB Blogs
+    name: ArangoDB Blog
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,7 +20,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rss.app/feeds/q4XkB1Z7kdXRBkgM.xml"
   arangodb-twitter:
-    name: Arango Twitter
+    name: Twitter @arangodb
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -33,7 +33,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/arangodb"
   memgraph-twitter:
-    name: Memgraph Twitter
+    name: Twitter @Memgraph
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
