@@ -512,11 +512,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1578325516494508033)
 - [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1578292549755731968)
 - [#Memgraph has reached 6⃣0⃣0⃣🌟on GitHub 🤩 ❓Did you star us already? ✅ #developer #coding #python #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1578290259057524741)
 - [Real-time analytics can answer queries within seconds, making it possible for data science teams to understand relationships, automate processes, and ...](https://twitter.com/memgraphdb/status/1578268137295945728)
 - [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1578059352186961926)
-- [Another amazing blog post from #Memgraph is on the #HackerNews frontpage :&rpar; This one is by Ante Pusic and it talks about &quot;Build C++ Graph Analytics Wi...](https://twitter.com/memgraphdb/status/1578024782141870081)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
