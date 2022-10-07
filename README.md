@@ -113,11 +113,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714163554378317874><img align='right' src='https://i0.hdslb.com/bfs/article/b8bb81f6ed66992bff206ed1f8457e3b9dad73ae.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [旅行者们好呀！今天为大家介绍的角色是祖拜尔剧场的知名舞者——妮露。一起来看看吧~](https://t.bilibili.com/714163554378317874)
+- [互动抽奖 #原神# #妮露# #曼舞流连# 《原神》妮露角色PV——「曼舞流连」现已发布~ https://www.bilibili.com/video/BV1NP411J7KM 对妮露来说，同台表演的伙伴，...](https://t.bilibili.com/714160504944197651)
 - [#原神# #妮露# 莲步轻舞，出尘醉梦](https://t.bilibili.com/714155531390943271)
 - [莲步轻舞，出尘醉梦](https://t.bilibili.com/714154809823854630)
 - [《原神》妮露角色PV——「曼舞流连」](https://t.bilibili.com/714153525633876135)
-- [互动抽奖 #原神# #杯中遥吟之歌# 《原神》杯中遥吟之歌活动过场动画-「待风归，启佳酿」现已发布~ https://www.bilibili.com/video/BV1wD4y1y7CZ 从封上酒桶，到...](https://t.bilibili.com/713506067916521510)
-- [《原神》杯中遥吟之歌活动过场动画-「待风归，启佳酿」](https://t.bilibili.com/713504109407240519)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
