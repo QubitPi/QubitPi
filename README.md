@@ -532,11 +532,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @jd_addy @lyonwj That’s so great to hear. Congratulations on your achievements. Perhaps you want to share your story and your project sometime on ...](https://twitter.com/neo4j/status/1578237652934983681)
+- [RT Rob Brennan: Eeee I love @neo4j. So excited to see them release &quot;Fullstack GraphQL Applications&quot; for free 🎉](https://twitter.com/therobbrennan/status/1578120183071539200)
 - [Read Henrik Enquist&#39;s -from Novo Nordisk- experience using Graph Technology and learn how they are leveraging graph technology for clinical standards ...](https://twitter.com/neo4j/status/1578082716616216578)
+- [RT Rik Van Bruggen: I had a ton of fun building a graph of #dadjokes in #Neo4j Thanks to the wonderful people/bots in my dadjokes list &lpar;](https://twitter.com/rvanbruggen/status/1578075787294547968)
 - [🍂 #Hacktoberfest2022 🍂 Want to contribute to open source projects? @adamcowley got you covered for Neo4j related repositories, docs, examples.](https://twitter.com/neo4j/status/1578072440898478081)
-- [Using Heroku and Neo4j, @wagenrace made a Python license finder where you can type in all your Python packages and find out what licenses those packag...](https://twitter.com/neo4j/status/1578040162499452928)
-- [RT Jason Koo: Fast paced presentation next Wednesday with the SF Python Group. Walk away knowing how to combine a graph database with a Streamlit appl...](https://twitter.com/jalakoo/status/1578037493546758144)
-- [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions w/ @zediogoviana](https://twitter.com/neo4j/status/1578033749115432960)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
