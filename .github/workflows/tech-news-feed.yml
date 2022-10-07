@@ -46,7 +46,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/memgraphdb"
   neo4j-twitter:
-    name: Neo4J Twitter
+    name: Twitter @Neo4j
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -59,7 +59,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/neo4j"
   neo4j-youtube:
-    name: Neo4J YouTube
+    name: Neo4j - YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -72,7 +72,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
   janusgraph-twitter:
-    name: JanusGraph Twitter
+    name: Twitter @JanusGraph
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -86,7 +86,7 @@ jobs:
           feed_list: "https://rsshub.app/twitter/user/JanusGraph"
           
   graphql-twitter:
-    name: GraphQL Twitter
+    name: Twitter @GraphQL
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -128,7 +128,7 @@ jobs:
           template: "<li>$date <a href=$url>$title</a></li>"
        
   openstack-twitter:
-    name: OpenStack Twitter
+    name: Twitter @OpenStack
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -210,7 +210,7 @@ jobs:
           feed_list: "https://letsencrypt.org/feed.xml"          
 
   web3-foundation-twitter:
-    name: Web3 Foundation Twitter
+    name: Twitter @Web3 Foundation
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -224,7 +224,7 @@ jobs:
           feed_list: "https://rsshub.app/twitter/user/web3foundation"
           
   dribbble:
-    name: Dribbble
+    name: Dribbble - Popular Shots
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
