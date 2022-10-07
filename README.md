@@ -532,11 +532,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [👾 Explore how semantics applies to property graphs in this hands-on series with @BarrasaDV. #KnowledgeGraph #neo4j #cypher](https://twitter.com/neo4j/status/1578447322714963979)
 - [The Road to NODES series of preparatory #workshops will help you get the most out of the event. #Developers and #DataScientists alike can learn vital ...](https://twitter.com/neo4j/status/1578387192468078593)
 - [RT Manning Publications: Put the Graph in GraphQL! Join @lyonwj, author of Full Stack GraphQL Applications, for a live online talk &amp; learn how to take...](https://twitter.com/ManningBooks/status/1578385621931986945)
 - [Check out this workshop where we build and deploy a full-stack GraphQL application using Next.js, Neo4j, and Vercel. #GraphQL #Neo4j #workshop](https://twitter.com/neo4j/status/1578385304251236354)
 - [RT Sebastian Daschner 🇺🇦: Looking forward to speak at @Neo4j&#39;s #NODES2022 about how to build Java applications with Quarkus and Neo4j Join us on...](https://twitter.com/DaschnerS/status/1578321280847446016)
-- [Re @jd_addy @lyonwj That’s so great to hear. Congratulations on your achievements. Perhaps you want to share your story and your project sometime on ...](https://twitter.com/neo4j/status/1578237652934983681)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
