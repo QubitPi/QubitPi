@@ -383,9 +383,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [.@RedHat has released its latest iteration of its #OpenStack platform with new telecom operator-focused features targeting telco stability!](https://twitter.com/OpenStack/status/1578430319421804547)
 - [RT Functional Works: StackHPC are HIRING! StackHPC is a dynamic OpenStack and cloud consultancy that works with leading organisations to provide infra...](https://twitter.com/Functionalworks/status/1578087027630800905)
 - [RT Sylvain Bauza: Again, I want to reemphasize : if you&#39;re an OpenStack operator and you have questions about Nova, just join us at the PTG, we&#39;ll hav...](https://twitter.com/sylvainbauza/status/1578065220110540800)
-- [OpenStack Zed: The End of the Alphabet, The Beginning of a New Era | OpenInfra Live Recap](https://twitter.com/OpenStack/status/1578042001785765889)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
