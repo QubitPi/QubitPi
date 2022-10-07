@@ -569,7 +569,7 @@ My Tech Blogs
 - [RADAR - Web3 projects aggregator mobile app](https://dribbble.com/shots/19564396)
 - [News Reader](https://dribbble.com/shots/19561569)
 - [Studyo - Online Course App](https://dribbble.com/shots/19558983)
-- [E-learning Dashboard - Analytics](https://dribbble.com/shots/19564926)
+- [🛵 Food delivery tracking - Dynamic Island](https://dribbble.com/shots/19573530)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
