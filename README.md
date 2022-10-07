@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/713506067916521510><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4a5ba5708b1af19ebbf62a387b5284d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714155531390943271><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/75c96b85a8edcc2f92de7afc8e5c5e39401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #妮露# 莲步轻舞，出尘醉梦](https://t.bilibili.com/714155531390943271)
