@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714163554378317874><img align='right' src='https://i0.hdslb.com/bfs/article/b8bb81f6ed66992bff206ed1f8457e3b9dad73ae.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714240902454837268><img align='right' src='https://i2.hdslb.com/bfs/archive/4765d98fdafec2240632c2830363844bc90552e4.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [旅行者们好呀！今天为大家介绍的角色是祖拜尔剧场的知名舞者——妮露。一起来看看吧~](https://t.bilibili.com/714163554378317874)
