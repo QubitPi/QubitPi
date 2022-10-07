@@ -414,7 +414,7 @@ My Tech Blogs
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
 
-<!-- KUBERNETES-DOC-CHANGES:START --><li>Thu Oct 06 2022 2:40 PM <a href=https://github.com/kubernetes/website/pull/37186>[zh-cn]sync tasks/manage-gpus/scheduling-gpus.md</a></li><li>Thu Oct 06 2022 12:29 PM <a href=https://github.com/kubernetes/website/pull/37180>remove ExecStart Duplication</a></li><li>Thu Oct 06 2022 2:17 AM <a href=https://github.com/kubernetes/website/pull/37175>[zh] Sync feature-gates.md</a></li><li>Wed Oct 05 2022 11:12 PM <a href=https://github.com/kubernetes/website/pull/37174>Add missing period</a></li><li>Wed Oct 05 2022 11:09 PM <a href=https://github.com/kubernetes/website/pull/37173>Make &quot;Pod&quot; uppercase for consistency in this file</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
+<!-- KUBERNETES-DOC-CHANGES:START --><li>Fri Oct 07 2022 12:55 PM <a href=https://github.com/kubernetes/website/pull/37199>[zh] Sync /labels-annotations-taints/_index.md</a></li><li>Fri Oct 07 2022 12:05 PM <a href=https://github.com/kubernetes/website/pull/37198>Reinstate legacy taint for control plane nodes</a></li><li>Fri Oct 07 2022 3:20 AM <a href=https://github.com/kubernetes/website/pull/37195>[zh-cn]sync kubelet-config-file configure-service-account</a></li><li>Fri Oct 07 2022 3:06 AM <a href=https://github.com/kubernetes/website/pull/37194>[zh-cn]sync access-cluster-api nodelocaldns assign-cpu-resource</a></li><li>Thu Oct 06 2022 2:40 PM <a href=https://github.com/kubernetes/website/pull/37186>[zh-cn]sync tasks/manage-gpus/scheduling-gpus.md</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 ##### [Helm Documentation](https://helm.sh/docs/) Updates
 
