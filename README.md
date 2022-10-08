@@ -532,11 +532,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j&#39;s Rahul Tenglikar shares how organizations can leverage their data for maximum advantage in competitive markets in this interview with @Dataques...](https://twitter.com/neo4j/status/1578839155991531520)
 - [&quot;#Graphtechnology works faster than traditional platforms in helping uncover hidden patterns and relationships, connecting various elements, traversin...](https://twitter.com/neo4j/status/1578675330080030723)
 - [RT Logical Graphs, LLC 💙: Re Partial solution, part II: 1. We use @neo4j Aura graph database. 2. We upload using their graphical uploading tool, wh...](https://twitter.com/logicalgraphs/status/1578455406967685121)
 - [👾 Explore how semantics applies to property graphs in this hands-on series with @BarrasaDV. #KnowledgeGraph #neo4j #cypher](https://twitter.com/neo4j/status/1578447322714963979)
 - [The Road to NODES series of preparatory #workshops will help you get the most out of the event. #Developers and #DataScientists alike can learn vital ...](https://twitter.com/neo4j/status/1578387192468078593)
-- [RT Manning Publications: Put the Graph in GraphQL! Join @lyonwj, author of Full Stack GraphQL Applications, for a live online talk &amp; learn how to take...](https://twitter.com/ManningBooks/status/1578385621931986945)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
