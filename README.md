@@ -477,11 +477,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1578747060328615936)
 - [ArangoDB University is here! 📚👀 Check out our brand new training center to get started with graphs and ArangoDB! 🔥🥑](https://twitter.com/arangodb/status/1578384673625063426)
 - [That&#39;s a wrap on ArangoDB Summit! A big thanks to everyone from our team and community for participating in our first industry event. 💚🥑 You can...](https://twitter.com/arangodb/status/1578127979766579206)
 - [Join CEO Shekhar Iyer as we wrap up day 2 of ArangoDB Summit! 🔥 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577733606272663552)
 - [Happening now - Kevin Bayes &amp; Anna Spyker of @DecodedHealth in the industry track. 🔥 ArangoDB Summit day is wrapping up shortly, but you can still ...](https://twitter.com/arangodb/status/1577724074142437406)
-- [Our final presentation in our thought leadership track is now with Ashleigh Faith. 🔥 Listen in here! 👇🥑 #ArangoDBSummit22](https://twitter.com/arangodb/status/1577724070271094813)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
