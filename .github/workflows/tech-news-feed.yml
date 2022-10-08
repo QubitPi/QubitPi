@@ -178,7 +178,7 @@ jobs:
           commit_message: "Kubernetes doc changes"
           comment_tag_name: "KUBERNETES-DOC-CHANGES"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/github/pull/kubernetes/website/main/content/en"
+          feed_list: "https://rsshub.app/github/file/kubernetes/website/main/content/en"
           template: "<li>$date <a href=$url>$title</a></li>"
   helm-doc-changes:
     name: Helm Doc Changes
