@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714525968012673049><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8fa82e644f004000af5e1cc22bb6206d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714895992328028162><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a327c5bebd48c74b14d0ee93bfc9bf98401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #百人一揆# 亲爱的旅行者，「百人一揆」活动即将开启~ 〓活动时间〓 2022/10/10 10:00 ~ 2022/10/24 03:59 〓参与条件〓 冒险等阶≥30级 完成魔神任务「...](https://t.bilibili.com/714525968012673049)
