@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714895992328028162><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a327c5bebd48c74b14d0ee93bfc9bf98401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/714898801256562696><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f53a1317638c74603dc537a16f0bd6bd401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #璃月食集# 《原神》寻味之旅——「璃月食集」第一期 现已发布~ https://www.bilibili.com/video/BV1JT411P7gt 「文火慢炖腌笃鲜」这样一道传承...](https://t.bilibili.com/714898801256562696)
