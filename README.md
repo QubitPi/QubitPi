@@ -278,11 +278,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [¿Has modernizado tu entrega de software?](https://www.scrum.org/resources/blog/has-modernizado-tu-entrega-de-software)
 - [What is Large Scale Scrum &lpar;LeSS&rpar;?](https://www.scrum.org/resources/blog/what-large-scale-scrum-less)
 - [Agile Principles – Motivated People](https://www.scrum.org/resources/blog/agile-principles-motivated-people)
 - [What does Done really mean for your Sprint? 🚀 &lpar;71&rpar;](https://www.scrum.org/resources/blog/what-does-done-really-mean-your-sprint-71)
 - [Allan Kelly: Honey, ich habe das Backlog geschrumpft — Hands-on Agile #44](https://www.scrum.org/resources/blog/allan-kelly-honey-ich-habe-das-backlog-geschrumpft-hands-agile-44)
-- [Digital Transformation and Scrum](https://www.scrum.org/resources/blog/digital-transformation-and-scrum)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
