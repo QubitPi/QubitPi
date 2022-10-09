@@ -101,11 +101,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》寻味之旅——「璃月食集」第一期](https://ys.mihoyo.com/main/news/detail/22914)
+- [行秋生日快乐｜接下来也要仰仗你了！](https://ys.mihoyo.com/main/news/detail/22913)
 - [《原神》「百人一揆」活动即将开启](https://ys.mihoyo.com/main/news/detail/22880)
 - [「回应心意之舞」——《原神》新角色：妮露分享H5正式上线](https://ys.mihoyo.com/main/news/detail/22881)
 - [「有时候，舞蹈比语言更能传达出心情。」——「莲光落舞筵」·妮露](https://ys.mihoyo.com/main/news/detail/22866)
-- [莲步轻舞，出尘醉梦](https://ys.mihoyo.com/main/news/detail/22295)
-- [《原神》妮露角色PV——「曼舞流连」](https://ys.mihoyo.com/main/news/detail/22867)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
