@@ -372,9 +372,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [The results are in! The #OpenStack Project Team Lead and the Technical Committee elections have concluded and you can see the newly elected members on...](https://twitter.com/OpenStack/status/1579562613603594241)
 - [RT Jay Faulkner: Ironic deployers: We&#39;re EOL&#39;ing the Queens, Rocky, and Stein branches of Ironic projects to allow more focus on more recent items. Pl...](https://twitter.com/jayofdoom/status/1579524551234707456)
 - [OpenStack Zed, StarlingX 7.0, Kata Containers 3.0.0, &amp; Zuul 7.0.0](https://twitter.com/OpenStack/status/1579490863029583873)
-- [RT Robert Cathey: .@OpenStack Zed Brings New Release Cadence to #OpenSource Cloud](https://twitter.com/robertcathey/status/1578434270640553986)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
