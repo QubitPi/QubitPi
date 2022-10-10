@@ -372,9 +372,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [OpenStack Zed, StarlingX 7.0, Kata Containers 3.0.0, &amp; Zuul 7.0.0](https://twitter.com/OpenStack/status/1579490863029583873)
+- [RT Robert Cathey: .@OpenStack Zed Brings New Release Cadence to #OpenSource Cloud](https://twitter.com/robertcathey/status/1578434270640553986)
 - [.@RedHat has released its latest iteration of its #OpenStack platform with new telecom operator-focused features targeting telco stability!](https://twitter.com/OpenStack/status/1578430319421804547)
-- [RT Functional Works: StackHPC are HIRING! StackHPC is a dynamic OpenStack and cloud consultancy that works with leading organisations to provide infra...](https://twitter.com/Functionalworks/status/1578087027630800905)
-- [RT Sylvain Bauza: Again, I want to reemphasize : if you&#39;re an OpenStack operator and you have questions about Nova, just join us at the PTG, we&#39;ll hav...](https://twitter.com/sylvainbauza/status/1578065220110540800)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
