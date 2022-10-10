@@ -279,11 +279,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How to get the most from your Sprint Retrospective Event](https://www.scrum.org/resources/blog/how-get-most-your-sprint-retrospective-event)
 - [Um Scrum zu lernen, sind Konferenzen überflüssig. Warum ich sie trotzdem besuche und du es auch tun solltest](https://www.scrum.org/resources/blog/um-scrum-zu-lernen-sind-konferenzen-uberflussig-warum-ich-sie-trotzdem-besuche-und)
 - [¿Has modernizado tu entrega de software?](https://www.scrum.org/resources/blog/has-modernizado-tu-entrega-de-software)
 - [What is Large Scale Scrum &lpar;LeSS&rpar;?](https://www.scrum.org/resources/blog/what-large-scale-scrum-less)
 - [Agile Principles – Motivated People](https://www.scrum.org/resources/blog/agile-principles-motivated-people)
-- [What does Done really mean for your Sprint? 🚀 &lpar;71&rpar;](https://www.scrum.org/resources/blog/what-does-done-really-mean-your-sprint-71)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
