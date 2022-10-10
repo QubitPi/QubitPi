@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;It’s important to focus on the overall goal while still recognizing that the plan you built initially may need to be shifted over time in order to a...](https://twitter.com/neo4j/status/1579551861824139264)
+- [RT Jason Koo: New in @neo4j&#39;s Graph Data Science &lpar;GDS&rpar; 2.2 library: - Graph native learning w/ multilayer perceptrons &lpar;MLPs&rpar; - Graph samplling &lpar;for fa...](https://twitter.com/jalakoo/status/1579532310344785920)
 - [Kristof Neys, Director of Graph Data Science at @neo4j shares what the current biggest challenge in the #data space is with @EM360Tech. Find out more!...](https://twitter.com/neo4j/status/1579510849399463946)
 - [RT Jason Koo: GraphAcademy offers training and certification in using Neo4j&#39;s Python Driver. More info at](https://twitter.com/jalakoo/status/1579502132868235270)
 - [Graph Data Science 2.2 It&#39;s here! 💥 Now you can use Graph Data Science projections in other open-source graph ML libraries. . Take a look! #GraphDa...](https://twitter.com/neo4j/status/1579472199802847232)
-- [Worauf Admins achten müssen, um das Active Directory vor Angriffen zu schützen, zeigt @ipinsiderde #neo4j #graphdatabase](https://twitter.com/neo4j/status/1579469822815240192)
-- [And even better you can experience it live and in colour this week in our #meetup in #antwerp during @Devoxx](https://twitter.com/neo4j/status/1579405375975079936)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
