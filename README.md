@@ -466,11 +466,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [ArangoDB is going to be in Detroit this October, are you? 🔥 ArangoDB is excited to announce that we are sponsoring @KubeCon_ + @CloudNativeFdn Nort...](https://twitter.com/arangodb/status/1579577527487516673)
 - [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1579441651663405057)
 - [What is a #graphdatabase, you ask? 🥑 Our latest white paper explores a graph database and why it can benefit your use case. Download for even more ...](https://twitter.com/arangodb/status/1579109448542752768)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1578747060328615936)
 - [ArangoDB University is here! 📚👀 Check out our brand new training center to get started with graphs and ArangoDB! 🔥🥑](https://twitter.com/arangodb/status/1578384673625063426)
-- [That&#39;s a wrap on ArangoDB Summit! A big thanks to everyone from our team and community for participating in our first industry event. 💚🥑 You can...](https://twitter.com/arangodb/status/1578127979766579206)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
