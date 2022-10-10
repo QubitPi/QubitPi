@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We’re looking for an experienced engineer to join our Core team and work on the architecture, implementation, and optimization of our query engine. A...](https://twitter.com/memgraphdb/status/1579501120900108289)
 - [Check out our blog post 📰 Ship it on #ARM64! Or is it #AARCH64? ➡️](https://twitter.com/memgraphdb/status/1579478613514014720)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1579450933343186944)
 - [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1579436259038007296)
 - [We want to introduce you to Sasa, a frontend engineer on the Platform team responsible for developing and designing #Memgraph Lab.](https://twitter.com/memgraphdb/status/1579429359458582529)
-- [Check out our blog post 📰 Introduction to #Streaming #Databases ➡️](https://twitter.com/memgraphdb/status/1579412683056500737)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
