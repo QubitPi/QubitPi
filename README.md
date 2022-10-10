@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1579377447820472327)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1579351526170300417)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1579136109837430785)
 - [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1579136105873829893)
 - [Check out our blog post 📰 #Neo4j vs #Memgraph - How to choose a graph database? ➡️](https://twitter.com/memgraphdb/status/1579096344894971904)
-- [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1579088543309172736)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
