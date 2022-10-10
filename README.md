@@ -445,11 +445,11 @@ My Tech Blogs
 <img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1579445892918448129)
+- [Re 2/ Congratulations to @AfloatTaxCredit for completing their first milestone as they work to create a marketplace for transferable tax credits. Read...](https://twitter.com/Web3foundation/status/1579445890594779136)
+- [1/ Web3 Foundation is celebrating the 15th round of grants accepted through its Grants Program. In this wave we’ve signed 37 grants. We’d like to th...](https://twitter.com/Web3foundation/status/1579445888405364737)
 - [For those in Ljubljana: on October 13th, join W3F&#39;s @uosvald at the @authtrail&#39;s Polkadot Meetup to dive into all things Polkadot &amp; @substrate_io, and...](https://twitter.com/Web3foundation/status/1578407644515209216)
 - [What is @Polkadot’s next generation of decentralized governance &lpar;Gov2&rpar;, and what issues with the current governance system does it aim to solve? Hear...](https://twitter.com/Web3foundation/status/1577953341757440000)
-- [Tomorrow, on October 5th at 1pm UTC, join @DrW3RK, @keeganquigley_ to find out more about staking on @Polkadot`s AMA that focuses on all practical “h...](https://twitter.com/Web3foundation/status/1577223750516449280)
-- [RT Polkadot: For those in NYC: on Sept 21st, learn all about Polkadot’s next-generation governance system, Gov2, from @Web3foundation`s @DrW3RK. Regi...](https://twitter.com/Polkadot/status/1572230607194791940)
-- [“I&#39;m delighted to speak at @TheEconomist Metaverse Summit. For the metaverse to fulfill its potential, we need to create the right conditions for the...](https://twitter.com/Web3foundation/status/1570065549626843137)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
