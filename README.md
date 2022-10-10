@@ -289,7 +289,7 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Enterprise Authentication &amp;amp; Authorization Infrustructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/startup-auth.html)
+- [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
 - [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 - [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 - [Provider v.s. @Provider](https://qubitpi.github.io/jersey-guide/finalized/2022/09/24/diprovider-vs-provider-annotation.html)
