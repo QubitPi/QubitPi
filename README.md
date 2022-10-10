@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Kristof Neys, Director of Graph Data Science at @neo4j shares what the current biggest challenge in the #data space is with @EM360Tech. Find out more!...](https://twitter.com/neo4j/status/1579510849399463946)
+- [RT Jason Koo: GraphAcademy offers training and certification in using Neo4j&#39;s Python Driver. More info at](https://twitter.com/jalakoo/status/1579502132868235270)
 - [Graph Data Science 2.2 It&#39;s here! 💥 Now you can use Graph Data Science projections in other open-source graph ML libraries. . Take a look! #GraphDa...](https://twitter.com/neo4j/status/1579472199802847232)
 - [Worauf Admins achten müssen, um das Active Directory vor Angriffen zu schützen, zeigt @ipinsiderde #neo4j #graphdatabase](https://twitter.com/neo4j/status/1579469822815240192)
 - [And even better you can experience it live and in colour this week in our #meetup in #antwerp during @Devoxx](https://twitter.com/neo4j/status/1579405375975079936)
-- [Manage all of your Neo4j deployments centrally with the Neo4j Ops Manager. 🐦 Birds-eye view of cluster topology 🔑 Key OS and JVM stats 🧐 Mana...](https://twitter.com/neo4j/status/1579096249810026496)
-- [Neo4j&#39;s Rahul Tenglikar shares how organizations can leverage their data for maximum advantage in competitive markets in this interview with @Dataques...](https://twitter.com/neo4j/status/1578839155991531520)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
