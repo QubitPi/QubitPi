@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1579792436859383808)
 - [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1579777835194933248)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1579752668100452354)
 - [Memgraph presents graph algorithms: Betweenness centrality #memgraph #mage #graphalgorithms #graphdatabase](https://twitter.com/memgraphdb/status/1579700576408911872)
 - [We’re looking for an experienced engineer to join our Core team and work on the architecture, implementation, and optimization of our query engine. A...](https://twitter.com/memgraphdb/status/1579501120900108289)
-- [Check out our blog post 📰 Ship it on #ARM64! Or is it #AARCH64? ➡️](https://twitter.com/memgraphdb/status/1579478613514014720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
