@@ -65,11 +65,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [百人一揆 - 人间之证明](https://t.bilibili.com/715800624111812656)
+- [派蒙名场面：“哇，说凝光，凝光…的使者到”](https://t.bilibili.com/715787511593435160)
 - [甘雨配合心海真的很永冻！](https://t.bilibili.com/715761136187736071)
 - [可莉找宵宫看烟花去喽](https://t.bilibili.com/715752520489631792)
 - [让我的小可莉会会雷电将军～](https://t.bilibili.com/715748113835360275)
-- [原神 3.1，帅诺没得比](https://t.bilibili.com/713493157233295399)
-- [七七二命了，好耶[崩坏3_吃饭团]](https://t.bilibili.com/704318132081131590)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Recent Uploads
