@@ -554,11 +554,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [product page: web design](https://dribbble.com/shots/19561471)
 - [RADAR - Web3 projects aggregator mobile app](https://dribbble.com/shots/19564396)
-- [News Reader](https://dribbble.com/shots/19561569)
 - [🛵 Food delivery tracking - Dynamic Island](https://dribbble.com/shots/19573530)
 - [Crypter 2.0 - Profile &amp; Discover](https://dribbble.com/shots/19563182)
+- [Project Management Dashboard for Your Team](https://dribbble.com/shots/19571408)
+- [E-learning Dashboard - Analytics](https://dribbble.com/shots/19564926)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
