@@ -279,11 +279,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Employee Engagement and Professional Scrum - Part 4 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-4-5)
+- [Employee Engagement and Professional Scrum - Part 3 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-3-5)
 - [Waterfall won the war with Agile!](https://www.scrum.org/resources/blog/waterfall-won-war-agile)
 - [How can the Scrum Master support the Product Owner?](https://www.scrum.org/resources/blog/how-can-scrum-master-support-product-owner)
 - [Nine Sprint Goal Principles to Get Your Scrum Team Going](https://www.scrum.org/resources/blog/nine-sprint-goal-principles-get-your-scrum-team-going)
-- [How to get the most from your Sprint Retrospective Event](https://www.scrum.org/resources/blog/how-get-most-your-sprint-retrospective-event)
-- [Um Scrum zu lernen, sind Konferenzen überflüssig. Warum ich sie trotzdem besuche und du es auch tun solltest](https://www.scrum.org/resources/blog/um-scrum-zu-lernen-sind-konferenzen-uberflussig-warum-ich-sie-trotzdem-besuche-und)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
