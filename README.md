@@ -113,11 +113,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/715640344523309081><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b26faa70bd5a664435c2080e9806f462401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@焚-炑 @这兔儿 @泠未绪 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/715668691300122690)
 - [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/715640344523309081)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·圣显之钥」「单手剑·磐岩结绿」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/715639090391810071)
 - [#原神# #阿贝多# 亲爱的旅行者，「深秘之息」活动祈愿即将开启，「白垩之子·阿贝多&lpar;岩&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建...](https://t.bilibili.com/715638308721393689)
 - [#原神# #妮露# 亲爱的旅行者，「翩舞歈莲」活动祈愿即将开启，「莲光落舞筵·妮露&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强...](https://t.bilibili.com/715637789020913843)
-- [恭喜@lyfhua @江湖有事 @竹-攸 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/715297606133088345)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
