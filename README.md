@@ -556,9 +556,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [RADAR - Web3 projects aggregator mobile app](https://dribbble.com/shots/19564396)
 - [🛵 Food delivery tracking - Dynamic Island](https://dribbble.com/shots/19573530)
-- [Crypter 2.0 - Profile &amp; Discover](https://dribbble.com/shots/19563182)
-- [Project Management Dashboard for Your Team](https://dribbble.com/shots/19571408)
+- [Wayflyer - Cards &amp; Components](https://dribbble.com/shots/19456733)
 - [E-learning Dashboard - Analytics](https://dribbble.com/shots/19564926)
+- [Project Management Dashboard for Your Team](https://dribbble.com/shots/19571408)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
