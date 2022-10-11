@@ -445,11 +445,11 @@ My Tech Blogs
 <img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Together with @edXOnline, we&#39;re launching Web3x – online cours...](https://twitter.com/Web3foundation/status/1579851519758925824)
 - [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1579445892918448129)
 - [Re 2/ Congratulations to @AfloatTaxCredit for completing their first milestone as they work to create a marketplace for transferable tax credits. Read...](https://twitter.com/Web3foundation/status/1579445890594779136)
 - [1/ Web3 Foundation is celebrating the 15th round of grants accepted through its Grants Program. In this wave we’ve signed 37 grants. We’d like to th...](https://twitter.com/Web3foundation/status/1579445888405364737)
 - [For those in Ljubljana: on October 13th, join W3F&#39;s @uosvald at the @authtrail&#39;s Polkadot Meetup to dive into all things Polkadot &amp; @substrate_io, and...](https://twitter.com/Web3foundation/status/1578407644515209216)
-- [What is @Polkadot’s next generation of decentralized governance &lpar;Gov2&rpar;, and what issues with the current governance system does it aim to solve? Hear...](https://twitter.com/Web3foundation/status/1577953341757440000)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
