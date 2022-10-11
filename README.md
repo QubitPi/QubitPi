@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;This need for better understanding relationships and connections is why I think from a technical point of view, graph databases will be a game-change...](https://twitter.com/neo4j/status/1579914754608373761)
 - [Are you a Java Dev? You’ll find this interesting 👇! Here’s what you’ll learn from @DaschnerS&#39;s talk “Building Java Applications With Quarkus an...](https://twitter.com/neo4j/status/1579819508319277056)
 - [En recourant à une base de données orientée graphe @neo4j et à l’IA, @BNPParibas entend fortement limiter la fraude au crédit à la consommation...](https://twitter.com/neo4j/status/1579810556001021952)
 - [RT Michael Simons: Neo4j-Migrations will ease your way to Neo4j 5 later this year:](https://twitter.com/rotnroll666/status/1579776206479978497)
 - [RT Rik Van Bruggen: Some pretty nifty #neo4j coasters being produced at our booth at #devoxx!](https://twitter.com/rvanbruggen/status/1579773152749420550)
-- [Good Morning Antwerp! Can’t wait to see you all at #Devoxx2022 Come to the @neo4j booth and talk if you want to see and talk graphs. We got a recomme...](https://twitter.com/neo4j/status/1579730512901701632)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
