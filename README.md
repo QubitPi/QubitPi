@@ -557,8 +557,8 @@ My Tech Blogs
 - [Wayflyer - Cards &amp; Components](https://dribbble.com/shots/19456733)
 - [🛵 Food delivery tracking - Dynamic Island](https://dribbble.com/shots/19573530)
 - [Project Management Dashboard for Your Team](https://dribbble.com/shots/19571408)
-- [E-learning Dashboard - Analytics](https://dribbble.com/shots/19564926)
 - [The Nature Conservancy](https://dribbble.com/shots/19584765)
+- [Figma Design System](https://dribbble.com/shots/19570739)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
