@@ -279,11 +279,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [The Efficiency Trap](https://www.scrum.org/resources/blog/efficiency-trap)
 - [Minecraft Scrum - 3 years of teaching and learning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-learning)
 - [Employee Engagement and Professional Scrum - Part 4 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-4-5)
 - [Employee Engagement and Professional Scrum - Part 3 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-3-5)
 - [Waterfall won the war with Agile!](https://www.scrum.org/resources/blog/waterfall-won-war-agile)
-- [How can the Scrum Master support the Product Owner?](https://www.scrum.org/resources/blog/how-can-scrum-master-support-product-owner)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
