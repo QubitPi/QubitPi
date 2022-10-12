@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1580079573454139393)
 - [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1579859123558289408)
 - [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1579841005708226560)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1579833706147377152)
 - [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1579792436859383808)
-- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1579777835194933248)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
