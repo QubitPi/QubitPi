@@ -556,9 +556,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Wayflyer - Cards &amp; Components](https://dribbble.com/shots/19456733)
 - [🛵 Food delivery tracking - Dynamic Island](https://dribbble.com/shots/19573530)
-- [Project Management Dashboard for Your Team](https://dribbble.com/shots/19571408)
 - [The Nature Conservancy](https://dribbble.com/shots/19584765)
 - [Paynet.io: fintech product landing](https://dribbble.com/shots/19597655)
+- [reel® Logo Design Concept](https://dribbble.com/shots/19579640)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
