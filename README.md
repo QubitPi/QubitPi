@@ -501,11 +501,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #opensource #graphdatabase #memgraph](https://twitter.com/memgraphdb/status/1580137455994294273)
 - [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1580119586946834433)
 - [Did you read any #Memgraph docs today?](https://twitter.com/memgraphdb/status/1580106797993824256)
 - [Did you visit #Memgraph site today?](https://twitter.com/memgraphdb/status/1580104284750110720)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1580097694487363584)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1580079573454139393)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
