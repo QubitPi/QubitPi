@@ -467,11 +467,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [ArangoDB hosts bi-weekly Lunch and Learn sessions on all things ArangoDB. 🥑 Check out the full collection of our lunch and learn series, including ...](https://twitter.com/arangodb/status/1580302304577658882)
 - [Part 2 of our Graph Retail Exploratory is ready for you! 🤩 This notebook continues the Recency, Frequency, and Monetary-Value&lpar;RFM&rpar; concept discussi...](https://twitter.com/arangodb/status/1580166397191389190)
 - [AboutYou describes in this Case Study how they built a data-driven personalization of their shopping experience with #ArangoDB. 😎 Read all about Ab...](https://twitter.com/arangodb/status/1579939913897680896)
 - [RT AiThority.com: ArangoDB Provides Graph Usability at Scale with Release of ArangoDB 3.10](https://twitter.com/AiThority/status/1579822681436061696)
 - [Did you make it to our Challenges of a Cloud Native Database webinar with CTO @joerg_schad? ☁ 🥑 Registered to view this on-demand today. 👇](https://twitter.com/arangodb/status/1579804025083817984)
-- [ArangoDB is going to be in Detroit this October, are you? 🔥 ArangoDB is excited to announce that we are sponsoring @KubeCon_ + @CloudNativeFdn Nort...](https://twitter.com/arangodb/status/1579577527487516673)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
