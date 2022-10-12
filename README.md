@@ -374,7 +374,7 @@ My Tech Blogs
 <!-- OPENSTACK-TWITTER:START -->
 - [We want to take a moment to recognize Ilya Etinghof, a community member who recently passed away, by dedicating the #OpenStack Zed release to him.](https://twitter.com/OpenStack/status/1579879774218223617)
 - [RT Robert Cathey: .@OpenStack, from Austin to Zed... 26 releases, 40 million cores, and counting](https://twitter.com/robertcathey/status/1579868798810607616)
-- [RT OpenStack Türkiye: #openinfradayturkey2022 Etkinliğimiz tüm hızıyla devam ediyor @OpenStack @openinfradev](https://twitter.com/TrOpenstack/status/1579736144061034496)
+- [RT OpenStack Türkiye: #openinfradayturkey2022](https://twitter.com/TrOpenstack/status/1579830408442937344)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
