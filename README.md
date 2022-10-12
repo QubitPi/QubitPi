@@ -75,9 +75,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
+- [百人一揆 - 盗宝巢城](https://www.bilibili.com/video/BV1eB4y1j7Nm)
+- [百人一揆 - 人间之证明 再战](https://www.bilibili.com/video/BV1Rd4y1i7GT)
 - [【归风佳酿节】可莉名场面](https://www.bilibili.com/video/BV1gV4y1L7DB)
-- [百人一揆 - 人间之证明](https://www.bilibili.com/video/BV18m4y1A7QH)
-- [派蒙名场面：“哇，说凝光，凝光…的使者到”](https://www.bilibili.com/video/BV1BW4y1H73g)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Columns
