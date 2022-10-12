@@ -273,6 +273,7 @@ My Tech Blogs
 
 1. [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
 2. [Deploying Jenkins](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+3. [Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
 3. [Deploying Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 4. [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 
