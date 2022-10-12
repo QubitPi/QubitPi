@@ -281,7 +281,7 @@ My Tech Blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [The Efficiency Trap](https://www.scrum.org/resources/blog/efficiency-trap)
-- [Minecraft Scrum - 3 years of teaching and learning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-learning)
+- [Minecraft Scrum - 3 Years of Teaching and lLarning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-llarning)
 - [Employee Engagement and Professional Scrum - Part 4 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-4-5)
 - [Employee Engagement and Professional Scrum - Part 3 of 5](https://www.scrum.org/resources/blog/employee-engagement-and-professional-scrum-part-3-5)
 - [Waterfall won the war with Agile!](https://www.scrum.org/resources/blog/waterfall-won-war-agile)
