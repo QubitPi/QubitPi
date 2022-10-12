@@ -373,9 +373,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [#OpenStack Security: A Practical Guide Learn about a few severe vulnerabilities discovered in OpenStack over the past few years, codified as common vu...](https://twitter.com/OpenStack/status/1580242217125302272)
 - [RT Thierry Carrez: Is @OpenStack still needed in 2022 &lpar;spoiler: yes&rpar; Video of my Open Source Summit EU talk is now up!](https://twitter.com/tcarrez/status/1580208928167972864)
 - [We want to take a moment to recognize Ilya Etinghof, a community member who recently passed away, by dedicating the #OpenStack Zed release to him.](https://twitter.com/OpenStack/status/1579879774218223617)
-- [RT Robert Cathey: .@OpenStack, from Austin to Zed... 26 releases, 40 million cores, and counting](https://twitter.com/robertcathey/status/1579868798810607616)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
