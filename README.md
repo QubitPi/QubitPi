@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716008874203676745><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3ad5c316698242fd18876ac5f3dcb65e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716039780787290116><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4a5ba5708b1af19ebbf62a387b5284d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀，在即将开启的神铸赋形祈愿中，将有全新武器登场，一起来看看它们的详细说明吧~ （以下武器均以90级精炼1...](https://t.bilibili.com/716008874203676745)
