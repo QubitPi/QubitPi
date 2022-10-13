@@ -510,11 +510,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1580538095472062464)
-- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1580527274893316096)
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1580517208140132353)
-- [3rd place on #HackerNews front page at the moment 🚀 Be sure to check out this amazing blog post! #memgraph](https://twitter.com/memgraphdb/status/1580504919164874752)
-- [Wow... As they say, &quot;That escalated quickly&quot;. A blog post by @MateaPesic has just made it to the #HackerNews frontpage 🎉. Read the article, a if yo...](https://twitter.com/memgraphdb/status/1580499024804618240)
+- [Re @LewisEmilyR we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If y...](https://twitter.com/memgraphdb/status/1580622460290240513)
+- [Re @asjr_p we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If you ha...](https://twitter.com/memgraphdb/status/1580622381055213568)
+- [Re @jrivero we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If you h...](https://twitter.com/memgraphdb/status/1580622304698314752)
+- [Re @tommygeorge we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If y...](https://twitter.com/memgraphdb/status/1580622254932566017)
+- [Re @_alherd_ we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If you ...](https://twitter.com/memgraphdb/status/1580622220702806017)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
