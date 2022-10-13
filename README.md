@@ -567,7 +567,7 @@ My Tech Blogs
 - [Paynet.io: fintech product landing](https://dribbble.com/shots/19597655)
 - [Swell - Brand](https://dribbble.com/shots/19619291)
 - [Sidebar details - UI/UX design](https://dribbble.com/shots/19615208)
-- [Sunday Bikes Web Concept](https://dribbble.com/shots/19593069)
+- [Letters](https://dribbble.com/shots/19632743)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
