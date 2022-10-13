@@ -566,8 +566,8 @@ My Tech Blogs
 - [Wayflyer - Cards &amp; Components](https://dribbble.com/shots/19456733)
 - [Paynet.io: fintech product landing](https://dribbble.com/shots/19597655)
 - [Swell - Brand](https://dribbble.com/shots/19619291)
-- [The Nature Conservancy](https://dribbble.com/shots/19584765)
 - [Sidebar details - UI/UX design](https://dribbble.com/shots/19615208)
+- [Sunday Bikes Web Concept](https://dribbble.com/shots/19593069)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
