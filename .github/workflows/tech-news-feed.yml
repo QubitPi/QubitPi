@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  tensorflow-blogs:
+  google-ai-blogs:
     name: TensorFlow Blog
     runs-on: ubuntu-latest
     steps:
@@ -15,8 +15,8 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20191124@proton.me"
-          commit_message: "New TensorFlow Blogs"
-          comment_tag_name: "TESNSOR-FLOW-BLOG"
+          commit_message: "New Google AI Blog"
+          comment_tag_name: "GOOGLE-AI-BLOG"
           max_post_count: "5"
           feed_list: "http://feeds.feedburner.com/blogspot/gJZg"
 
