@@ -327,6 +327,10 @@ My Tech Blogs
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning Data Tech & Design News Central
 -----------------------------------
 
+<!-- TESNSOR-FLOW-BLOG:START -->
+
+<!-- TESNSOR-FLOW-BLOG:END -->
+
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
 #### Twitter
