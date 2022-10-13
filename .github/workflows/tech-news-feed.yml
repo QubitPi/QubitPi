@@ -6,6 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
+  tensorflow-blogs:
+    name: TensorFlow Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New TensorFlow Blogs"
+          comment_tag_name: "TESNSOR-FLOW-BLOG"
+          max_post_count: "5"
+          feed_list: "https://rss.app/feeds/uCc49NfzxCgvWnJU.xml"
+
   arangodb-blogs:
     name: ArangoDB Blog
     runs-on: ubuntu-latest
