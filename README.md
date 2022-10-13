@@ -328,7 +328,11 @@ My Tech Blogs
 -----------------------------------
 
 <!-- TESNSOR-FLOW-BLOG:START -->
-
+- [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+- [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
+- [Quantization for Fast and Environmentally Sustainable Reinforcement Learning](http://ai.googleblog.com/2022/09/quantization-for-fast-and.html)
+- [TensorStore for High-Performance, Scalable Array Storage](http://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html)
+- [View Synthesis with Transformers](http://ai.googleblog.com/2022/09/view-synthesis-with-transformers.html)
 <!-- TESNSOR-FLOW-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
