@@ -325,6 +325,8 @@ My Tech Blogs
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning Data Tech & Design News Central
 -----------------------------------
 
+<h3><a href="https://www.graphql.com/"><img width="20%" src="./img/GoogleAI_logo_horizontal_color_rgb.png"></a></h3>
+
 <!-- GOOGLE-AI-BLOG:START -->
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
 - [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
