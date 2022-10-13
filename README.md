@@ -121,11 +121,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
 <!-- YOUTUBE-CHANNEL:START -->
+- [[Hyakunin Ikki] The Red Handkerchief](https://www.youtube.com/watch?v=uDrK-rsx_ME)
 - [[Of Ballads and Brews] Klee&#39;s Fun Moment](https://www.youtube.com/watch?v=4_OdWD7seTU)
 - [[Hyakunin Ikki] Proof of the Human World](https://www.youtube.com/watch?v=hY7czzcb2Nc)
 - [[Hyakunin Ikki] Proof of the Human World - Reload](https://www.youtube.com/watch?v=XWT0SolR1pM)
 - [[Hyakunin Ikki] Mora Web Castle](https://www.youtube.com/watch?v=-tydL9X3FM8)
-- [派蒙名场面：“哇，说凝光，凝光…的使者到”](https://www.youtube.com/watch?v=SD1QeXyMNLk)
 <!-- YOUTUBE-CHANNEL:END -->
 
 <div align="center">
