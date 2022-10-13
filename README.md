@@ -73,7 +73,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
-- [百人一揆 - 幸福的红手帕（为什么突然变简单了……）](https://www.bilibili.com/video/BV1Ee4y1S7m5)
+- [【百人一揆 - 幸福的红手帕】感觉这一关变简单了，赶紧冲金牌 &gt;.&lt;](https://www.bilibili.com/video/BV1Ee4y1S7m5)
 - [百人一揆 - 盗宝巢城](https://www.bilibili.com/video/BV1eB4y1j7Nm)
 - [百人一揆 - 人间之证明 再战](https://www.bilibili.com/video/BV1Rd4y1i7GT)
 <!-- BILIBILI-UPLOAD-LIST:END -->
