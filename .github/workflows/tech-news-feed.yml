@@ -18,7 +18,7 @@ jobs:
           commit_message: "New TensorFlow Blogs"
           comment_tag_name: "TESNSOR-FLOW-BLOG"
           max_post_count: "5"
-          feed_list: "https://rss.app/feeds/uCc49NfzxCgvWnJU.xml"
+          feed_list: "http://feeds.feedburner.com/blogspot/gJZg"
 
   arangodb-blogs:
     name: ArangoDB Blog
