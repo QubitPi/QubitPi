@@ -563,7 +563,7 @@ My Tech Blogs
 - [Paynet.io: fintech product landing](https://dribbble.com/shots/19597655)
 - [Swell - Brand](https://dribbble.com/shots/19619291)
 - [The Nature Conservancy](https://dribbble.com/shots/19584765)
-- [Ancient Future of Man](https://dribbble.com/shots/19586771)
+- [Sidebar details - UI/UX design](https://dribbble.com/shots/19615208)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
