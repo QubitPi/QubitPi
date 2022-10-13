@@ -110,7 +110,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716039780787290116><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4a5ba5708b1af19ebbf62a387b5284d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716381973721907209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ccd53a3511c835623e0239416e4eba8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@-___--_--_ @karo_427_han @把申鹤赶下床 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/716039780787290116)
