@@ -530,11 +530,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Hey Graphistas! It doesn&#39;t matter if you just heard about graphs or you&#39;re back to learn best practices – there’s something for EVERYONE at NODES 20...](https://twitter.com/neo4j/status/1580468453051633666)
 - [RT The New Stack: The 3 Underrated Strengths of a Native Graph Database](https://twitter.com/thenewstack/status/1580280141519151105)
 - [Nicolas Rouyer demonstrates the predictive capabilities of Neo4j Graph Data Science on the CORA dataset of scientific publications to predict the cate...](https://twitter.com/neo4j/status/1580260021555712002)
 - [RT Jason Koo: Not sure if you have a graph-shaped problem &lpar;or what a graph-shaped problem is&rpar;? Then you might want to check out at least the first par...](https://twitter.com/jalakoo/status/1580257086340202496)
 - [Attention!! Find Free Neo4j Data Scientist Courses!! GraphAcademy offers you Hands-on training with no installation required. Are you ready to start y...](https://twitter.com/neo4j/status/1580256761445244930)
-- [Mehul Gupta discusses pathfinding algorithms and their implementation using the @Neo4j Graph Data Science library over SpiceJet&#39;s &lpar;one of India’s big...](https://twitter.com/neo4j/status/1580184540915433473)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
