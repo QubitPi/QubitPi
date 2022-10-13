@@ -530,11 +530,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [When databases climb to terabyte-scale volumes, answers take longer to find - much longer. Learn how sociologists, economists, and immunologists overc...](https://twitter.com/neo4j/status/1580642810390511616)
 - [Now at #Devoxx2022 Kristof Neys presenting on scalable compute on knowledge graphs with #neo4j.](https://twitter.com/neo4j/status/1580569361106231296)
 - [Are you a Python dev? Learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course! #Python #GraphAcademy #train...](https://twitter.com/neo4j/status/1580528978812469248)
 - [Hey Graphistas! It doesn&#39;t matter if you just heard about graphs or you&#39;re back to learn best practices – there’s something for EVERYONE at NODES 20...](https://twitter.com/neo4j/status/1580468453051633666)
 - [RT Michael Simons: We from @neo4j have lasers, nuts and a lot of friendly people that like to talk with you about graph databases at #devoxx](https://twitter.com/rotnroll666/status/1580455637158629376)
-- [RT The New Stack: The 3 Underrated Strengths of a Native Graph Database](https://twitter.com/thenewstack/status/1580280141519151105)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
