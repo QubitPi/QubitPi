@@ -113,11 +113,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716381973721907209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ccd53a3511c835623e0239416e4eba8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #妮露# 《原神》角色演示-「妮露：莲舞纤姿」现已发布~ https://www.bilibili.com/video/BV1AP411E773 演出用的空间总是有限，但舞蹈却能传达出...](https://t.bilibili.com/716381973721907209)
+- [《原神》角色演示-「妮露：莲舞纤姿」](https://t.bilibili.com/716379989435482112)
 - [恭喜@-___--_--_ @karo_427_han @把申鹤赶下床 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/716039780787290116)
 - [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀，在即将开启的神铸赋形祈愿中，将有全新武器登场，一起来看看它们的详细说明吧~ （以下武器均以90级精炼1...](https://t.bilibili.com/716008874203676745)
 - [恭喜@焚-炑 @这兔儿 @泠未绪 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/715668691300122690)
-- [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/715640344523309081)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·圣显之钥」「单手剑·磐岩结绿」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/715639090391810071)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
