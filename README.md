@@ -551,11 +551,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [We are very proud of this achievement! 🎖 Read more, here: #Neo4j #AWS #DataAnalytics](https://twitter.com/neo4j/status/1580959245188890624)
 - [Good news for community members! 🙃 Take a look... NODES 2022 is getting closer! #NODES2022 #neo4j](https://twitter.com/neo4j/status/1580939757030236160)
 - [RT Graphable: Check out this great new video and article from Graphable Lead Data Scientist @sean_k_robinson on Target Protein Interaction Exploration...](https://twitter.com/Graphable1/status/1580917950043033600)
 - [RT MarTech Series: Re @neo4j Achieves AWS Data and Analytics Competency Status](https://twitter.com/MarTechSeries/status/1580910517656621056)
 - [Get a sneak peek at @dgg32&#39;s talk “ Are you going to miss it? Register for free now for Sixing Huang&#39;s session and other amazing talks! #NODES2022 #n...](https://twitter.com/neo4j/status/1580906837008084995)
-- [RT Florent Biville: Wanna learn more about how @liquibase can work for your @neo4j setup? Join @MGazanayi and yours truly at #Nodes2022! &lpar;The banner s...](https://twitter.com/fbiville/status/1580874370104246272)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
