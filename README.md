@@ -345,7 +345,7 @@ My Tech Blogs
 - [Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
-#### ML @ Reddit
+#### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
 - [[R] Mind&#39;s Eye: Grounded Language Model Reasoning through Simulation - Google Research 2022](https://www.reddit.com/r/MachineLearning/comments/y3d3lw/r_minds_eye_grounded_language_model_reasoning/)
