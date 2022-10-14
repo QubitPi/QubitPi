@@ -348,11 +348,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] A Correlation Study of COVID-19 in Europe Considering Different Vaccines, Age Groups and Variants Including Delta and Omicron](https://www.reddit.com/r/MachineLearning/comments/y3jkci/r_a_correlation_study_of_covid19_in_europe/)
 - [[R] Mind&#39;s Eye: Grounded Language Model Reasoning through Simulation - Google Research 2022](https://www.reddit.com/r/MachineLearning/comments/y3d3lw/r_minds_eye_grounded_language_model_reasoning/)
 - [[R] CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory + Code + Robot demo](https://www.reddit.com/r/MachineLearning/comments/y3ciz2/r_clipfields_weakly_supervised_semantic_fields/)
 - [[P] a minimalist guide to program synthesis](https://www.reddit.com/r/MachineLearning/comments/y378kk/p_a_minimalist_guide_to_program_synthesis/)
 - [[D] how to handle xray/CT/ MRI in images processing?](https://www.reddit.com/r/MachineLearning/comments/y30b3i/d_how_to_handle_xrayct_mri_in_images_processing/)
-- [[N] Easily profile FastAPI model serving](https://www.reddit.com/r/MachineLearning/comments/y2zjp8/n_easily_profile_fastapi_model_serving/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
