@@ -33,7 +33,7 @@ jobs:
           max_post_count: "5"
           feed_list: "https://www.deepmind.com/blog/rss.xml"          
   reddit-ml:
-    name: ML @ Reddit
+    name: ML Reddit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -41,7 +41,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20191124@proton.me"
-          commit_message: "ML @ Reddit"
+          commit_message: "ML Reddit"
           comment_tag_name: "REDDIT-ML"
           max_post_count: "5"
           feed_list: "https://www.reddit.com/r/MachineLearning/.rss"  
