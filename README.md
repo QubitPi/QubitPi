@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716781946842120199><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f9a33fc062a1d3599f83d40229b9c82f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·圣显之钥」「单手剑·磐岩结绿」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/716845117209575494)
+- [#原神# #阿贝多# 亲爱的旅行者，「深秘之息」活动祈愿现已开启，「白垩之子·阿贝多&lpar;岩&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建...](https://t.bilibili.com/716844855216570375)
+- [#原神# #妮露# 亲爱的旅行者，「翩舞歈莲」活动祈愿现已开启，「莲光落舞筵·妮露&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强...](https://t.bilibili.com/716844335541256211)
+- [《原神》拾枝杂谈-「妮露：浮莲映波」](https://t.bilibili.com/716843850204708992)
 - [恭喜@笨狗宝宝 @lililililifgh @魈宝的七叶叶 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/716781946842120199)
-- [互动抽奖 #原神# #妮露# 《原神》角色演示-「妮露：莲舞纤姿」现已发布~ https://www.bilibili.com/video/BV1AP411E773 演出用的空间总是有限，但舞蹈却能传达出...](https://t.bilibili.com/716381973721907209)
-- [《原神》角色演示-「妮露：莲舞纤姿」](https://t.bilibili.com/716379989435482112)
-- [恭喜@-___--_--_ @karo_427_han @把申鹤赶下床 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/716039780787290116)
-- [#原神# #原神3.1# #赤土之王与三朝圣者# 旅行者们好呀，在即将开启的神铸赋形祈愿中，将有全新武器登场，一起来看看它们的详细说明吧~ （以下武器均以90级精炼1...](https://t.bilibili.com/716008874203676745)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
