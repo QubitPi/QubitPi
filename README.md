@@ -496,11 +496,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Is your weekend free? Why not try out 14 days of the ArangoGraph Insights Platform! 🤩 Sign up today to get started - no credit card is needed! 💥](https://twitter.com/arangodb/status/1581027084922941440)
 - [Did you hear the news? ArangoDB University is here! 👀🔥 Sign up for our brand new training center, including an updated version of our popular gr...](https://twitter.com/arangodb/status/1580951831890755584)
 - [RT TechTarget News: .@arangodb expands scope of #GraphDatabase platform. @TechJournalist @TTBusinessTech](https://twitter.com/TechTargetNews/status/1580951634821070848)
 - [Check out CTO @joerg_schad at @BigData_LDN 2022! 🔥🥑](https://twitter.com/arangodb/status/1580935215257554944)
 - [Give our Entity Resolution notebook created by our Solution Architect Victor Moey a whirl! This notebook dive into the world of Entity Resolution here...](https://twitter.com/arangodb/status/1580664687049338880)
-- [ArangoDB Developer Relations Engineer @cw00dw0rd will be at @AllThingsOpen 2022. 🔥 Join his session, &quot;Machine Learning + Graph Databases for Better...](https://twitter.com/arangodb/status/1580529047125172224)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
