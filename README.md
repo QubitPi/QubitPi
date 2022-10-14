@@ -278,11 +278,11 @@ My Tech Blogs
 #### scrum.org community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Neun Sprint-Ziel-Prinzipien, die Ihr Scrum-Team in Schwung bringen 🇩🇪](https://www.scrum.org/resources/blog/neun-sprint-ziel-prinzipien-die-ihr-scrum-team-schwung-bringen)
 - [How are Done and your Product Backlog related? 🚀 &lpar;72&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-product-backlog-related-72)
 - [Improving Private Equity Outcomes using Agility / Evidence-based Operating Systems](https://www.scrum.org/resources/blog/improving-private-equity-outcomes-using-agility-evidence-based-operating-systems)
 - [Interview with the Scrum Cow](https://www.scrum.org/resources/blog/interview-scrum-cow)
 - [The Efficiency Trap](https://www.scrum.org/resources/blog/efficiency-trap)
-- [Minecraft Scrum - 3 Years of Teaching and Learning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-learning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
