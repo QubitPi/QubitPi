@@ -587,8 +587,8 @@ My Tech Blogs
 - [Wayflyer - Cards &amp; Components](https://dribbble.com/shots/19456733)
 - [Paynet.io: fintech product landing](https://dribbble.com/shots/19597655)
 - [Swell - Brand](https://dribbble.com/shots/19619291)
-- [Letters](https://dribbble.com/shots/19632743)
 - [Neatsy App — AI doctor in a phone](https://dribbble.com/shots/19622660)
+- [Letters](https://dribbble.com/shots/19632743)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
