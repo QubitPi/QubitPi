@@ -349,11 +349,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Need a medical dataset [D]](https://www.reddit.com/r/MachineLearning/comments/y3p7ej/need_a_medical_dataset_d/)
+- [[R] detrex: the open source toolbox for Transformer based object detection algorithms](https://www.reddit.com/r/MachineLearning/comments/y3oukb/r_detrex_the_open_source_toolbox_for_transformer/)
 - [[D]Just my 2cents, this place is way too research/modeling/theory heavy. Not all of you are researchers or research scientists. I wish this place was more tolerant to other aspects of machine learning which may not be directly machine learning but still an important part of it.](https://www.reddit.com/r/MachineLearning/comments/y3ne8q/djust_my_2cents_this_place_is_way_too/)
 - [[D] Modern MLOps architecture info sources](https://www.reddit.com/r/MachineLearning/comments/y3n7u0/d_modern_mlops_architecture_info_sources/)
 - [[N] Machine learning models identify apps that will likely violate Google Play store guidelines](https://www.reddit.com/r/MachineLearning/comments/y3mnoo/n_machine_learning_models_identify_apps_that_will/)
-- [[R] A Correlation Study of COVID-19 in Europe Considering Different Vaccines, Age Groups and Variants Including Delta and Omicron](https://www.reddit.com/r/MachineLearning/comments/y3jkci/r_a_correlation_study_of_covid19_in_europe/)
-- [[R] Mind&#39;s Eye: Grounded Language Model Reasoning through Simulation - Google Research 2022](https://www.reddit.com/r/MachineLearning/comments/y3d3lw/r_minds_eye_grounded_language_model_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
