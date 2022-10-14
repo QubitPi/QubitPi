@@ -282,7 +282,7 @@ My Tech Blogs
 - [Improving Private Equity Outcomes using Agility / Evidence-based Operating Systems](https://www.scrum.org/resources/blog/improving-private-equity-outcomes-using-agility-evidence-based-operating-systems)
 - [Interview with the Scrum Cow](https://www.scrum.org/resources/blog/interview-scrum-cow)
 - [The Efficiency Trap](https://www.scrum.org/resources/blog/efficiency-trap)
-- [Minecraft Scrum - 3 Years of Teaching and lLarning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-llarning)
+- [Minecraft Scrum - 3 Years of Teaching and Learning](https://www.scrum.org/resources/blog/minecraft-scrum-3-years-teaching-and-learning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 ### New Tech Blogs
