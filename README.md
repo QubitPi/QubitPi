@@ -531,11 +531,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1580862230467579905)
+- [At #Memgraph we use #Docker. If you are new to the world of containers take a look at the article &quot;Docker for Beginners&quot; from @TestDrivenio by @GirlLo...](https://twitter.com/memgraphdb/status/1580846559557976064)
 - [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;! The talk introduces #datalineage use cases and shows how data is repres...](https://twitter.com/memgraphdb/status/1580829264902955010)
 - [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1580804855404236800)
 - [Re @LewisEmilyR we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If y...](https://twitter.com/memgraphdb/status/1580622460290240513)
-- [Re @asjr_p we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If you ha...](https://twitter.com/memgraphdb/status/1580622381055213568)
-- [Re @jrivero we saw that you gave❤️to Tweet by @newsycombinator that was about our blog post that made it to the top 5 stories on HN today &lpar; If you h...](https://twitter.com/memgraphdb/status/1580622304698314752)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
