@@ -349,11 +349,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Easy finetuning diffusion models](https://www.reddit.com/r/MachineLearning/comments/y3usrj/p_easy_finetuning_diffusion_models/)
 - [[P] Stable-Diffusion fine tuned on mechas from the anime franchise Gundam](https://www.reddit.com/r/MachineLearning/comments/y3s4ar/p_stablediffusion_fine_tuned_on_mechas_from_the/)
 - [[R] detrex: the open source toolbox for Transformer based object detection algorithms](https://www.reddit.com/r/MachineLearning/comments/y3oukb/r_detrex_the_open_source_toolbox_for_transformer/)
 - [[D] Modern MLOps architecture info sources](https://www.reddit.com/r/MachineLearning/comments/y3n7u0/d_modern_mlops_architecture_info_sources/)
 - [[N] Machine learning models identify apps that will likely violate Google Play store guidelines](https://www.reddit.com/r/MachineLearning/comments/y3mnoo/n_machine_learning_models_identify_apps_that_will/)
-- [[R] Mind&#39;s Eye: Grounded Language Model Reasoning through Simulation - Google Research 2022](https://www.reddit.com/r/MachineLearning/comments/y3d3lw/r_minds_eye_grounded_language_model_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
