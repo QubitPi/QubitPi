@@ -326,6 +326,7 @@ My Tech Blogs
 -----------------------------------
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
+<img align="right" width="15%" src="./img/rua.png">
 
 <!-- GOOGLE-AI-BLOG:START -->
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
