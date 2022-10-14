@@ -349,7 +349,7 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[project] fingerprint matching of same user program](https://www.reddit.com/r/MachineLearning/comments/y3wncz/project_fingerprint_matching_of_same_user_program/)
+- [[P] A Notes on Multi-Stakeholder Recommendation Systems: Part-I](https://www.reddit.com/r/MachineLearning/comments/y3xylg/p_a_notes_on_multistakeholder_recommendation/)
 - [[D] - Data Labelling - Computer Vision with 10k labels](https://www.reddit.com/r/MachineLearning/comments/y3vpc0/d_data_labelling_computer_vision_with_10k_labels/)
 - [[P] Easy finetuning diffusion models](https://www.reddit.com/r/MachineLearning/comments/y3usrj/p_easy_finetuning_diffusion_models/)
 - [[P] Stable-Diffusion fine tuned on mechas from the anime franchise Gundam](https://www.reddit.com/r/MachineLearning/comments/y3s4ar/p_stablediffusion_fine_tuned_on_mechas_from_the/)
