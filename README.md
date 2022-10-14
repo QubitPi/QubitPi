@@ -531,11 +531,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1580950815656714241)
 - [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1580928168219009024)
 - [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1580907277845815296)
 - [If you were to have a few extra cores which game would you play? #memgraph #coding #DevOps #Azure](https://twitter.com/memgraphdb/status/1580887929689280512)
 - [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1580862230467579905)
-- [At #Memgraph we use #Docker. If you are new to the world of containers take a look at the article &quot;Docker for Beginners&quot; from @TestDrivenio by @GirlLo...](https://twitter.com/memgraphdb/status/1580846559557976064)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
