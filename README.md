@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716381973721907209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ccd53a3511c835623e0239416e4eba8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716781946842120199><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f9a33fc062a1d3599f83d40229b9c82f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #妮露# 《原神》角色演示-「妮露：莲舞纤姿」现已发布~ https://www.bilibili.com/video/BV1AP411E773 演出用的空间总是有限，但舞蹈却能传达出...](https://t.bilibili.com/716381973721907209)
