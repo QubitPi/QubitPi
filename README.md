@@ -550,11 +550,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j&#39;s Rahul Tenglikar in an interview with @EntITworld: &quot;Graph databases easily capture the complexity of IT infrastructure and security tools.&quot; #ne...](https://twitter.com/neo4j/status/1580785505201197056)
 - [During the past few weeks, we&#39;ve participated in several meetups in Delhi, Pune, Brisbane, Melbourne, and Sydney📍 Thank you to all attendees! We wi...](https://twitter.com/neo4j/status/1580726601314054145)
 - [Friedrich Lindenberg for OpenSanctions talks to us about how they use Graph Technology to analyze different datasets to identify significant individua...](https://twitter.com/neo4j/status/1580700295700828161)
 - [When databases climb to terabyte-scale volumes, answers take longer to find - much longer. Learn how sociologists, economists, and immunologists overc...](https://twitter.com/neo4j/status/1580642810390511616)
 - [Now at #Devoxx2022 Kristof Neys presenting on scalable compute on knowledge graphs with #neo4j.](https://twitter.com/neo4j/status/1580569361106231296)
-- [Are you a Python dev? Learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course! #Python #GraphAcademy #train...](https://twitter.com/neo4j/status/1580528978812469248)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
