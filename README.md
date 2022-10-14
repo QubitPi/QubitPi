@@ -349,11 +349,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] fingerprint data matching of same user](https://www.reddit.com/r/MachineLearning/comments/y42sjr/p_fingerprint_data_matching_of_same_user/)
+- [[D] Can something be literally impossible to understand?](https://www.reddit.com/r/MachineLearning/comments/y447a5/d_can_something_be_literally_impossible_to/)
 - [[R] Training Stable Diffusion on TPUs](https://www.reddit.com/r/MachineLearning/comments/y42rpd/r_training_stable_diffusion_on_tpus/)
-- [[D] Gatekeeping image generation tools](https://www.reddit.com/r/MachineLearning/comments/y41ybh/d_gatekeeping_image_generation_tools/)
-- [[D] Importance of bias-variance trade-off](https://www.reddit.com/r/MachineLearning/comments/y41qlt/d_importance_of_biasvariance_tradeoff/)
 - [[D] Is there a way to see the trend of University&#39;s publication record to top ML conferences](https://www.reddit.com/r/MachineLearning/comments/y40hpi/d_is_there_a_way_to_see_the_trend_of_universitys/)
+- [[Research] Graph-based nearest neighbor search &lpar;Blog post&rpar;](https://www.reddit.com/r/MachineLearning/comments/y3ze0b/research_graphbased_nearest_neighbor_search_blog/)
+- [[R] Machine Learning in Nuclear Physics](https://www.reddit.com/r/MachineLearning/comments/y3z4nr/r_machine_learning_in_nuclear_physics/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
