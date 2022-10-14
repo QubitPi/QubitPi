@@ -551,11 +551,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [This article presents a useful overview of RDF &lpar;Resource Description Framework&rpar; and LPG &lpar;Labeled Property Graph&rpar; models. There are links to source mat...](https://twitter.com/neo4j/status/1581027100894855168)
 - [RT Jason Koo: Adnan Siddiqi shows how you can visualize your Python dependencies with @neo4j.](https://twitter.com/jalakoo/status/1580981848607313921)
 - [We are very proud of this achievement! 🎖 Read more, here: #Neo4j #AWS #DataAnalytics](https://twitter.com/neo4j/status/1580959245188890624)
 - [RT Philipp Brunenberg: Link Predictions in a graph can be interpreted as a Binary Classification Problem. Learn how to build a Link Prediction workflo...](https://twitter.com/p_brunenberg/status/1580943763228479488)
 - [Good news for community members! 🙃 Take a look... NODES 2022 is getting closer! #NODES2022 #neo4j](https://twitter.com/neo4j/status/1580939757030236160)
-- [RT Graphable: Check out this great new video and article from Graphable Lead Data Scientist @sean_k_robinson on Target Protein Interaction Exploration...](https://twitter.com/Graphable1/status/1580917950043033600)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
