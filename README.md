@@ -325,7 +325,7 @@ My Tech Blogs
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning Data Tech & Design News Central
 -----------------------------------
 
-<h3><a href="https://www.graphql.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
+<h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
@@ -336,6 +336,11 @@ My Tech Blogs
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
+
+<h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
+
+<!-- GOOGLE-DEEPMIND-BLOG:START -->
+<!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 #### Twitter
 
