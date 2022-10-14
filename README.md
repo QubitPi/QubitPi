@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716781946842120199><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f9a33fc062a1d3599f83d40229b9c82f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/716845117209575494><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bf8ac676496b78835a058153bb5f52ac401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·圣显之钥」「单手剑·磐岩结绿」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/716845117209575494)
