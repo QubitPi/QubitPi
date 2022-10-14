@@ -73,9 +73,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
+- [妮露卡池，但是晴宝](https://www.bilibili.com/video/BV11G4y1p7RF)
 - [[百人一揆 - 野狼犬与恶汉之梦] 好耶！首打金牌](https://www.bilibili.com/video/BV1JR4y1X7x9)
 - [安柏专场 - 芬德尼尔之顶](https://www.bilibili.com/video/BV1944y1f7pH)
-- [【百人一揆 - 幸福的红手帕】感觉这一关变简单了，赶紧冲金牌 &gt;.&lt;](https://www.bilibili.com/video/BV1Ee4y1S7m5)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Columns
