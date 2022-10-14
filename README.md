@@ -402,9 +402,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [#OpenInfra &amp; Cloud Native Day Korea 2022 is less than a month away! Join @jimmymcarthur and many other speakers in Seoul on November 1st for a full da...](https://twitter.com/OpenStack/status/1580936885937246209)
 - [As you hopefully know, the PTG is almost here! However, did you know that there are operator + developer focused hours? Check out the ptg schedule to ...](https://twitter.com/OpenStack/status/1580574489443594240)
 - [#OpenStack Security: A Practical Guide Learn about a few severe vulnerabilities discovered in OpenStack over the past few years, codified as common vu...](https://twitter.com/OpenStack/status/1580242217125302272)
-- [RT Thierry Carrez: Is @OpenStack still needed in 2022 &lpar;spoiler: yes&rpar; Video of my Open Source Summit EU talk is now up!](https://twitter.com/tcarrez/status/1580208928167972864)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
