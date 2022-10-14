@@ -349,11 +349,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] Graph-based nearest neighbor search &lpar;Blog post&rpar;](https://www.reddit.com/r/MachineLearning/comments/y3ze0b/research_graphbased_nearest_neighbor_search_blog/)
+- [[R] Machine Learning in Nuclear Physics](https://www.reddit.com/r/MachineLearning/comments/y3z4nr/r_machine_learning_in_nuclear_physics/)
 - [[P] A Notes on Multi-Stakeholder Recommendation Systems: Part-I](https://www.reddit.com/r/MachineLearning/comments/y3xylg/p_a_notes_on_multistakeholder_recommendation/)
 - [[D] - Data Labelling - Computer Vision with 10k labels](https://www.reddit.com/r/MachineLearning/comments/y3vpc0/d_data_labelling_computer_vision_with_10k_labels/)
 - [[P] Easy finetuning diffusion models](https://www.reddit.com/r/MachineLearning/comments/y3usrj/p_easy_finetuning_diffusion_models/)
-- [[P] Stable-Diffusion fine tuned on mechas from the anime franchise Gundam](https://www.reddit.com/r/MachineLearning/comments/y3s4ar/p_stablediffusion_fine_tuned_on_mechas_from_the/)
-- [[R] detrex: the open source toolbox for Transformer based object detection algorithms](https://www.reddit.com/r/MachineLearning/comments/y3oukb/r_detrex_the_open_source_toolbox_for_transformer/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
