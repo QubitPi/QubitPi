@@ -338,6 +338,11 @@ My Tech Blogs
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Measuring perception in AI models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
+- [How undesired goals can arise with correct rewards](https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards)
+- [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)
+- [Supporting the next generation of AI leaders](https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders)
+- [Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
