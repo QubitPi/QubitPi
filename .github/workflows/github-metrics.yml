@@ -111,7 +111,7 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 100
           plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_only: Data, Knowledge Graph, ML & AI
+          plugin_starlists_only: Data, Knowledge Graph, GraphQL, ML & AI
           
       - name: Star Lists - Others
         uses: lowlighter/metrics@latest
@@ -128,4 +128,4 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 100
           plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_only: Design, Documentation, OpenStack, GraphQL, Virtualization
+          plugin_starlists_only: Design, Documentation, OpenStack, Virtualization
