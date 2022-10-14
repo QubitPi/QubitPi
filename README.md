@@ -326,7 +326,7 @@ My Tech Blogs
 -----------------------------------
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
-<img align="right" width="15%" src="./img/rua.png">
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/195799056-44da525c-8260-4b30-9e53-0ff8c3074913.png">
 
 <!-- GOOGLE-AI-BLOG:START -->
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
@@ -337,6 +337,7 @@ My Tech Blogs
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
+<img align="right" width="15%" src="./img/rua.png">
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
 - [Measuring perception in AI models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
