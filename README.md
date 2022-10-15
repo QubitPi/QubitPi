@@ -349,11 +349,11 @@ My Tech Blogs
 #### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] How to come up with possible ideas for research&lpar;for someone who is new to it&rpar;](https://www.reddit.com/r/MachineLearning/comments/y4clr8/research_how_to_come_up_with_possible_ideas_for/)
 - [[D] Cross lingual transfer for summarisation using XLM-R](https://www.reddit.com/r/MachineLearning/comments/y4ao2m/d_cross_lingual_transfer_for_summarisation_using/)
 - [[D] Could diffusion models be succesfully trained to reverse distortions other than noise?](https://www.reddit.com/r/MachineLearning/comments/y49i4s/d_could_diffusion_models_be_succesfully_trained/)
 - [[P] A tool to detect AI art](https://www.reddit.com/r/MachineLearning/comments/y492ll/p_a_tool_to_detect_ai_art/)
 - [[D] Speeding up per-frame inference on video data](https://www.reddit.com/r/MachineLearning/comments/y44iup/d_speeding_up_perframe_inference_on_video_data/)
-- [[R] Training Stable Diffusion on TPUs](https://www.reddit.com/r/MachineLearning/comments/y42rpd/r_training_stable_diffusion_on_tpus/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
