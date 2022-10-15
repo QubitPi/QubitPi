@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] neograd - A deep learning framework created from scratch using Python and NumPy](https://www.reddit.com/r/MachineLearning/comments/y4giax/p_neograd_a_deep_learning_framework_created_from/)
 - [[D] Are LLMs with more parameters better? If not, what other are the factors that matter?](https://www.reddit.com/r/MachineLearning/comments/y4fm0c/d_are_llms_with_more_parameters_better_if_not/)
 - [[D] Could a ML model be used for Image Compression?](https://www.reddit.com/r/MachineLearning/comments/y4elh1/d_could_a_ml_model_be_used_for_image_compression/)
 - [[R] MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model + Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/y4eehd/r_motiondiffuse_textdriven_human_motion/)
 - [[Research] How to come up with possible ideas for research&lpar;for someone who is new to it&rpar;](https://www.reddit.com/r/MachineLearning/comments/y4clr8/research_how_to_come_up_with_possible_ideas_for/)
-- [[D] Cross lingual transfer for summarisation using XLM-R](https://www.reddit.com/r/MachineLearning/comments/y4ao2m/d_cross_lingual_transfer_for_summarisation_using/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
