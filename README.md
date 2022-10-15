@@ -522,11 +522,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1581224622611365888)
+- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1581217316624179203)
+- [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1581206751961313282)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1580950815656714241)
 - [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1580928168219009024)
-- [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1580907277845815296)
-- [If you were to have a few extra cores which game would you play? #memgraph #coding #DevOps #Azure](https://twitter.com/memgraphdb/status/1580887929689280512)
-- [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1580862230467579905)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
