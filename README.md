@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/717153032020689025><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/80d274e83c4268bce2984ff7c9aa75cd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/717214883827941542><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4eb2620fd494a303961e8b88a29ef23b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #徇察五风# 亲爱的旅行者，全新活动「徇察五风」即将开启！ 在野外，你遇见了一位名为宏朗的冒险家。他似乎正在试图探索某处怪异的秘境…](https://t.bilibili.com/717214883827941542)
