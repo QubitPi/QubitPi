@@ -340,11 +340,11 @@ My Tech Blogs
 ### [scrum.org](scrum.org) community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [¿La integración continua está muerta?](https://www.scrum.org/resources/blog/la-integracion-continua-esta-muerta)
 - [Is Revenue a Good Product Goal?](https://www.scrum.org/resources/blog/revenue-good-product-goal)
 - [Neun Sprint-Ziel-Prinzipien, die Ihr Scrum-Team in Schwung bringen 🇩🇪](https://www.scrum.org/resources/blog/neun-sprint-ziel-prinzipien-die-ihr-scrum-team-schwung-bringen)
 - [How are Done and your Product Backlog related? 🚀 &lpar;72&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-product-backlog-related-72)
 - [Improving Private Equity Outcomes using Agility / Evidence-based Operating Systems](https://www.scrum.org/resources/blog/improving-private-equity-outcomes-using-agility-evidence-based-operating-systems)
-- [Interview with the Scrum Cow](https://www.scrum.org/resources/blog/interview-scrum-cow)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
