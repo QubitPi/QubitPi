@@ -277,11 +277,11 @@ My Tech Blogs
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Vision](https://qubitpi.github.io/jersey-guide/finalized/2022/10/15/computer-vision.html)
 - [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
 - [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
 - [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 - [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
-- [Provider v.s. @Provider](https://qubitpi.github.io/jersey-guide/finalized/2022/09/24/diprovider-vs-provider-annotation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Study Notes
