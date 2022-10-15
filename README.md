@@ -274,16 +274,6 @@ My Tech Blogs
 3. [Building Kubernetes Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 4. [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 
-#### scrum.org community blogs
-
-<!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Is Revenue a Good Product Goal?](https://www.scrum.org/resources/blog/revenue-good-product-goal)
-- [Neun Sprint-Ziel-Prinzipien, die Ihr Scrum-Team in Schwung bringen 🇩🇪](https://www.scrum.org/resources/blog/neun-sprint-ziel-prinzipien-die-ihr-scrum-team-schwung-bringen)
-- [How are Done and your Product Backlog related? 🚀 &lpar;72&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-product-backlog-related-72)
-- [Improving Private Equity Outcomes using Agility / Evidence-based Operating Systems](https://www.scrum.org/resources/blog/improving-private-equity-outcomes-using-agility-evidence-based-operating-systems)
-- [Interview with the Scrum Cow](https://www.scrum.org/resources/blog/interview-scrum-cow)
-<!-- SCRUM-DOT-ORG-BLOGS:END -->
-
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
@@ -299,6 +289,16 @@ My Tech Blogs
     <img align="center" width="47%" alt="三蹦子" src="https://user-images.githubusercontent.com/16126939/182016714-b64dda1e-69a4-4970-9036-32162debc495.gif">那条让三蹦子刀掉爱莉希雅的狗，胡堂主今天就送你往生 :)
 </a>
 </div>
+
+### Study Notes
+
+<img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
+
+- [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
+- [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/wip/2022/08/11/linear-algebra.html)
+- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/wip/2022/08/09/artificial-neural-networks.html)
+- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/wip/2022/08/08/evaluating-hypothesis.html)
+- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/wip/2022/08/07/knowledge-graph-embeddings.html)
 
 ### WIP Tech Blogs (Studying...)
 
@@ -354,15 +354,15 @@ My Tech Blogs
 - [[D] Could diffusion models be succesfully trained to reverse distortions other than noise?](https://www.reddit.com/r/MachineLearning/comments/y49i4s/d_could_diffusion_models_be_succesfully_trained/)
 <!-- REDDIT-ML:END -->
 
-### Study Notes
+### [scrum.org](scrum.org) community blogs
 
-<img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
-
-- [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
-- [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/wip/2022/08/11/linear-algebra.html)
-- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/wip/2022/08/09/artificial-neural-networks.html)
-- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/wip/2022/08/08/evaluating-hypothesis.html)
-- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/wip/2022/08/07/knowledge-graph-embeddings.html)
+<!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Is Revenue a Good Product Goal?](https://www.scrum.org/resources/blog/revenue-good-product-goal)
+- [Neun Sprint-Ziel-Prinzipien, die Ihr Scrum-Team in Schwung bringen 🇩🇪](https://www.scrum.org/resources/blog/neun-sprint-ziel-prinzipien-die-ihr-scrum-team-schwung-bringen)
+- [How are Done and your Product Backlog related? 🚀 &lpar;72&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-product-backlog-related-72)
+- [Improving Private Equity Outcomes using Agility / Evidence-based Operating Systems](https://www.scrum.org/resources/blog/improving-private-equity-outcomes-using-agility-evidence-based-operating-systems)
+- [Interview with the Scrum Cow](https://www.scrum.org/resources/blog/interview-scrum-cow)
+<!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
