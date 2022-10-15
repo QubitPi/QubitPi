@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are LLMs with more parameters better? If not, what other are the factors that matter?](https://www.reddit.com/r/MachineLearning/comments/y4fm0c/d_are_llms_with_more_parameters_better_if_not/)
 - [[D] Could a ML model be used for Image Compression?](https://www.reddit.com/r/MachineLearning/comments/y4elh1/d_could_a_ml_model_be_used_for_image_compression/)
 - [[R] MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model + Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/y4eehd/r_motiondiffuse_textdriven_human_motion/)
 - [[Research] How to come up with possible ideas for research&lpar;for someone who is new to it&rpar;](https://www.reddit.com/r/MachineLearning/comments/y4clr8/research_how_to_come_up_with_possible_ideas_for/)
 - [[D] Cross lingual transfer for summarisation using XLM-R](https://www.reddit.com/r/MachineLearning/comments/y4ao2m/d_cross_lingual_transfer_for_summarisation_using/)
-- [[D] Could diffusion models be succesfully trained to reverse distortions other than noise?](https://www.reddit.com/r/MachineLearning/comments/y49i4s/d_could_diffusion_models_be_succesfully_trained/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
