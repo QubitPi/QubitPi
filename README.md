@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Are reasoning and logic skills essential for ML research?](https://www.reddit.com/r/MachineLearning/comments/y4o2se/discussion_are_reasoning_and_logic_skills/)
 - [Draw your conversations in real time w/ OpenAI&#39;s Whisper + Stable Diffusion [P]](https://www.reddit.com/r/MachineLearning/comments/y4mj8g/draw_your_conversations_in_real_time_w_openais/)
 - [[D] Interpolation in medical imaging?](https://www.reddit.com/r/MachineLearning/comments/y4kvq2/d_interpolation_in_medical_imaging/)
 - [[D] Regession Loss](https://www.reddit.com/r/MachineLearning/comments/y4kabv/d_regession_loss/)
 - [Creating a movie from still frames [D]](https://www.reddit.com/r/MachineLearning/comments/y4jqaz/creating_a_movie_from_still_frames_d/)
-- [[D] Help me in Coursera&#39;s ML courses](https://www.reddit.com/r/MachineLearning/comments/y4j7lp/d_help_me_in_courseras_ml_courses/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
