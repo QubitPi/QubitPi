@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Concept Saliency for VAEs](https://www.reddit.com/r/MachineLearning/comments/y4unl6/d_concept_saliency_for_vaes/)
+- [[D]Use SimCLR as pretraining for image segmentation](https://www.reddit.com/r/MachineLearning/comments/y4u0zl/duse_simclr_as_pretraining_for_image_segmentation/)
+- [[R] UL2: Unifying Language Learning Paradigms - Google Research 2022 - 20B parameters outperforming 175B GTP-3 and tripling the performance of T5-XXl on one-shot summarization. Public checkpoints!](https://www.reddit.com/r/MachineLearning/comments/y4tp4b/r_ul2_unifying_language_learning_paradigms_google/)
 - [[P] A Proof-of-Concept of an AI Assistant Designer using UnrealEngine&#39;s Metahuman, stable diffusion, OpenAI&#39;s Whisper and GPT3](https://www.reddit.com/r/MachineLearning/comments/y4pzsv/p_a_proofofconcept_of_an_ai_assistant_designer/)
-- [[D] How long would it take to be qualified](https://www.reddit.com/r/MachineLearning/comments/y4ppe3/d_how_long_would_it_take_to_be_qualified/)
 - [[Discussion] Are reasoning and logic skills essential for ML research?](https://www.reddit.com/r/MachineLearning/comments/y4o2se/discussion_are_reasoning_and_logic_skills/)
-- [Draw your conversations in real time w/ OpenAI&#39;s Whisper + Stable Diffusion [P]](https://www.reddit.com/r/MachineLearning/comments/y4mj8g/draw_your_conversations_in_real_time_w_openais/)
-- [[D] Interpolation in medical imaging?](https://www.reddit.com/r/MachineLearning/comments/y4kvq2/d_interpolation_in_medical_imaging/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
