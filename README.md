@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Interpolation in medical imaging?](https://www.reddit.com/r/MachineLearning/comments/y4kvq2/d_interpolation_in_medical_imaging/)
 - [[D] Regession Loss](https://www.reddit.com/r/MachineLearning/comments/y4kabv/d_regession_loss/)
 - [Creating a movie from still frames [D]](https://www.reddit.com/r/MachineLearning/comments/y4jqaz/creating_a_movie_from_still_frames_d/)
 - [[D] Help me in Coursera&#39;s ML courses](https://www.reddit.com/r/MachineLearning/comments/y4j7lp/d_help_me_in_courseras_ml_courses/)
 - [[D] The Exploited Labor Behind Artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/y4hthz/d_the_exploited_labor_behind_artificial/)
-- [[P]project using neural Networks](https://www.reddit.com/r/MachineLearning/comments/y4hqls/pproject_using_neural_networks/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
