@@ -346,7 +346,7 @@ My Tech Blogs
 - [Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
-#### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
+### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
 - [[D] Could a ML model be used for Image Compression?](https://www.reddit.com/r/MachineLearning/comments/y4elh1/d_could_a_ml_model_be_used_for_image_compression/)
@@ -355,6 +355,8 @@ My Tech Blogs
 - [[D] Cross lingual transfer for summarisation using XLM-R](https://www.reddit.com/r/MachineLearning/comments/y4ao2m/d_cross_lingual_transfer_for_summarisation_using/)
 - [[D] Could diffusion models be succesfully trained to reverse distortions other than noise?](https://www.reddit.com/r/MachineLearning/comments/y49i4s/d_could_diffusion_models_be_succesfully_trained/)
 <!-- REDDIT-ML:END -->
+
+### Study Notes
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
