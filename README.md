@@ -99,11 +99,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》「徇察五风」玩法说明](https://ys.mihoyo.com/main/news/detail/23119)
 - [《原神》「徇察五风」活动即将开启](https://ys.mihoyo.com/main/news/detail/23118)
 - [《原神》拾枝杂谈-「妮露：浮莲映波」](https://ys.mihoyo.com/main/news/detail/23094)
 - [《原神》「神铸赋形」活动祈愿现已开启，「单手剑·圣显之钥」「单手剑·磐岩结绿」概率UP！](https://ys.mihoyo.com/main/news/detail/23089)
 - [《原神》「深秘之息」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/23088)
-- [《原神》「翩舞歈莲」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/23087)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
