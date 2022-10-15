@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The Exploited Labor Behind Artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/y4hthz/d_the_exploited_labor_behind_artificial/)
+- [[P]project using neural Networks](https://www.reddit.com/r/MachineLearning/comments/y4hqls/pproject_using_neural_networks/)
 - [Is this a good institute for donation? [D]](https://www.reddit.com/r/MachineLearning/comments/y4hgur/is_this_a_good_institute_for_donation_d/)
 - [[P] neograd - A deep learning framework created from scratch using Python and NumPy](https://www.reddit.com/r/MachineLearning/comments/y4giax/p_neograd_a_deep_learning_framework_created_from/)
 - [[D] Are LLMs with more parameters better? If not, what other are the factors that matter?](https://www.reddit.com/r/MachineLearning/comments/y4fm0c/d_are_llms_with_more_parameters_better_if_not/)
-- [[D] Could a ML model be used for Image Compression?](https://www.reddit.com/r/MachineLearning/comments/y4elh1/d_could_a_ml_model_be_used_for_image_compression/)
-- [[R] MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model + Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/y4eehd/r_motiondiffuse_textdriven_human_motion/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
