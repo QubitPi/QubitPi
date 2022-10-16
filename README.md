@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/717493309391503412><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e9169c65db7342962d72044cceeed1fb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/717524117184577668><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a327c5bebd48c74b14d0ee93bfc9bf98401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #辛焱# #生日快乐# 说这把琴在我手里好像有了生命什么的，你这么夸我，多让人不好意思。 这琴也陪伴我很久了，今天便好好用它弹奏一曲！ 哦，还...](https://t.bilibili.com/717493309391503412)
