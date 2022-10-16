@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are there any public model that can auto punctuate English text?](https://www.reddit.com/r/MachineLearning/comments/y5trnr/d_are_there_any_public_model_that_can_auto/)
+- [[D] PhD advisor doesn’t like open source software journals?](https://www.reddit.com/r/MachineLearning/comments/y5t06i/d_phd_advisor_doesnt_like_open_source_software/)
 - [[D] What is the deal with breast cancer scans?](https://www.reddit.com/r/MachineLearning/comments/y5qdk8/d_what_is_the_deal_with_breast_cancer_scans/)
 - [[D] What analysis should I do to decide between a personalisation algorithm and a general algorithm?](https://www.reddit.com/r/MachineLearning/comments/y5ns5z/d_what_analysis_should_i_do_to_decide_between_a/)
 - [[R] Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://www.reddit.com/r/MachineLearning/comments/y5m146/r_selfsupervised_geometric_correspondence_for/)
-- [[P] I built densify, a data augmentation and visualization tool for point clouds](https://www.reddit.com/r/MachineLearning/comments/y5h8i4/p_i_built_densify_a_data_augmentation_and/)
-- [[P] BFAS : Brute Force Architecture Search](https://www.reddit.com/r/MachineLearning/comments/y5fxrk/p_bfas_brute_force_architecture_search/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
