@@ -309,11 +309,11 @@ My Tech Blogs
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/195799056-44da525c-8260-4b30-9e53-0ff8c3074913.png">
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [UL2 20B: An Open Source Unified Language Learner](http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html)
+- [Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images](http://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html)
 - [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
 - [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
 - [Quantization for Fast and Environmentally Sustainable Reinforcement Learning](http://ai.googleblog.com/2022/09/quantization-for-fast-and.html)
-- [TensorStore for High-Performance, Scalable Array Storage](http://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html)
-- [View Synthesis with Transformers](http://ai.googleblog.com/2022/09/view-synthesis-with-transformers.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
