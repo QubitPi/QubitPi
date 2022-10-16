@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the deal with breast cancer scans?](https://www.reddit.com/r/MachineLearning/comments/y5qdk8/d_what_is_the_deal_with_breast_cancer_scans/)
 - [[D] What analysis should I do to decide between a personalisation algorithm and a general algorithm?](https://www.reddit.com/r/MachineLearning/comments/y5ns5z/d_what_analysis_should_i_do_to_decide_between_a/)
 - [[R] Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://www.reddit.com/r/MachineLearning/comments/y5m146/r_selfsupervised_geometric_correspondence_for/)
 - [[P] I built densify, a data augmentation and visualization tool for point clouds](https://www.reddit.com/r/MachineLearning/comments/y5h8i4/p_i_built_densify_a_data_augmentation_and/)
 - [[P] BFAS : Brute Force Architecture Search](https://www.reddit.com/r/MachineLearning/comments/y5fxrk/p_bfas_brute_force_architecture_search/)
-- [[R] can diffusion model be used for domain adaptation?](https://www.reddit.com/r/MachineLearning/comments/y5enf7/r_can_diffusion_model_be_used_for_domain/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
