@@ -546,11 +546,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [👾 Let’s build a simple recommendation engine using plain Cypher — Follow --&gt; @p_brunenberg #Neo4j #Database #SQL #Cypher #GraphDatabase](https://twitter.com/neo4j/status/1581719399064473601)
+- [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: Thanks to the ⁦@neo4j⁩ team for the kindness and the very nice speaker gift for ...](https://twitter.com/mkheck/status/1581677692889751554)
 - [Check out some of the #data and #analytics solutions @DynamicBusiness listed in its latest Tech Tuesdays column that are changing the game for various...](https://twitter.com/neo4j/status/1581645147082588160)
 - [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1581613440774250498)
 - [RT Philipp Brunenberg: In this hands-on tutorial we will implement a Link Prediction workflow within Neo4j. 1. Prepare data 2. Understand pipeline ste...](https://twitter.com/p_brunenberg/status/1581577690418941952)
-- [RT Alexander Erdl: Looking forward to import and analyse #nodes2022 agenda with @mesirii tomorrow afternoon live! Join:](https://twitter.com/alexandererdl/status/1581569197330485248)
-- [RT Adrien SALES: 📰 If you want to discover an efficient and original way to see the Information System resources in an holistic way, save the date ...](https://twitter.com/rastadidi/status/1581391351442157568)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
