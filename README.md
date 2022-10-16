@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] GPU comparison for ML](https://www.reddit.com/r/MachineLearning/comments/y5chwp/d_gpu_comparison_for_ml/)
+- [[D] How to randomly enable or disable some connections in an LSTM model by PyTorch?](https://www.reddit.com/r/MachineLearning/comments/y5chko/d_how_to_randomly_enable_or_disable_some/)
 - [[R] MDM: Human Motion Diffusion Model &lpar;text2motion + action2motion + motion-editing with inpainting&rpar; from Tel Aviv University](https://www.reddit.com/r/MachineLearning/comments/y56c8v/r_mdm_human_motion_diffusion_model_text2motion/)
 - [[D] Is the GAN architecture currently old-fashioned?](https://www.reddit.com/r/MachineLearning/comments/y4xjxw/d_is_the_gan_architecture_currently_oldfashioned/)
 - [[D] Suggestions for large-scale company name standardization?](https://www.reddit.com/r/MachineLearning/comments/y4w0sw/d_suggestions_for_largescale_company_name/)
-- [[D] Concept Saliency for VAEs](https://www.reddit.com/r/MachineLearning/comments/y4unl6/d_concept_saliency_for_vaes/)
-- [[D]Use SimCLR as pretraining for image segmentation](https://www.reddit.com/r/MachineLearning/comments/y4u0zl/duse_simclr_as_pretraining_for_image_segmentation/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
