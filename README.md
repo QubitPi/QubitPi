@@ -330,7 +330,7 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Loss functions that can be both positive and negative](https://www.reddit.com/r/MachineLearning/comments/y54roc/d_loss_functions_that_can_be_both_positive_and/)
+- [[R] MDM: Human Motion Diffusion Model &lpar;text2motion + action2motion + motion-editing with inpainting&rpar; from Tel Aviv University](https://www.reddit.com/r/MachineLearning/comments/y56c8v/r_mdm_human_motion_diffusion_model_text2motion/)
 - [[R] Non-delusional Q-learning](https://www.reddit.com/r/MachineLearning/comments/y4xnac/r_nondelusional_qlearning/)
 - [[D] Is the GAN architecture currently old-fashioned?](https://www.reddit.com/r/MachineLearning/comments/y4xjxw/d_is_the_gan_architecture_currently_oldfashioned/)
 - [[D] Suggestions for large-scale company name standardization?](https://www.reddit.com/r/MachineLearning/comments/y4w0sw/d_suggestions_for_largescale_company_name/)
