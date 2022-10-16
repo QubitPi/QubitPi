@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] People who tried workera](https://www.reddit.com/r/MachineLearning/comments/y5dbzj/d_people_who_tried_workera/)
+- [[R] can diffusion model be used for domain adaptation?](https://www.reddit.com/r/MachineLearning/comments/y5enf7/r_can_diffusion_model_be_used_for_domain/)
 - [[R] LAION Coco: 600m Synthetic Captions From LAION2B-En](https://www.reddit.com/r/MachineLearning/comments/y5cmmo/r_laion_coco_600m_synthetic_captions_from/)
 - [[D] GPU comparison for ML](https://www.reddit.com/r/MachineLearning/comments/y5chwp/d_gpu_comparison_for_ml/)
-- [[D] How to randomly enable or disable some connections in an LSTM model by PyTorch?](https://www.reddit.com/r/MachineLearning/comments/y5chko/d_how_to_randomly_enable_or_disable_some/)
 - [[R] MDM: Human Motion Diffusion Model &lpar;text2motion + action2motion + motion-editing with inpainting&rpar; from Tel Aviv University](https://www.reddit.com/r/MachineLearning/comments/y56c8v/r_mdm_human_motion_diffusion_model_text2motion/)
+- [[D] Is the GAN architecture currently old-fashioned?](https://www.reddit.com/r/MachineLearning/comments/y4xjxw/d_is_the_gan_architecture_currently_oldfashioned/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
