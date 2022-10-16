@@ -288,11 +288,11 @@ My Tech Blogs
 
 <img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
 
-- [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/wip/2022/08/12/ml-philosophy-of-learning.html)
-- [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/wip/2022/08/11/linear-algebra.html)
-- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/wip/2022/08/09/artificial-neural-networks.html)
-- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/wip/2022/08/08/evaluating-hypothesis.html)
-- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/wip/2022/08/07/knowledge-graph-embeddings.html)
+- [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/finalized/2022/08/12/ml-philosophy-of-learning.html)
+- [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/11/linear-algebra.html)
+- [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/finalized/2022/08/09/artificial-neural-networks.html)
+- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/evaluating-hypothesis.html)
+- [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/08/07/knowledge-graph-embeddings.html)
 
 <p align="center">
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
