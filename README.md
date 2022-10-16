@@ -331,10 +331,10 @@ My Tech Blogs
 
 <!-- REDDIT-ML:START -->
 - [[R] MDM: Human Motion Diffusion Model &lpar;text2motion + action2motion + motion-editing with inpainting&rpar; from Tel Aviv University](https://www.reddit.com/r/MachineLearning/comments/y56c8v/r_mdm_human_motion_diffusion_model_text2motion/)
-- [[R] Non-delusional Q-learning](https://www.reddit.com/r/MachineLearning/comments/y4xnac/r_nondelusional_qlearning/)
 - [[D] Is the GAN architecture currently old-fashioned?](https://www.reddit.com/r/MachineLearning/comments/y4xjxw/d_is_the_gan_architecture_currently_oldfashioned/)
 - [[D] Suggestions for large-scale company name standardization?](https://www.reddit.com/r/MachineLearning/comments/y4w0sw/d_suggestions_for_largescale_company_name/)
 - [[D] Concept Saliency for VAEs](https://www.reddit.com/r/MachineLearning/comments/y4unl6/d_concept_saliency_for_vaes/)
+- [[D]Use SimCLR as pretraining for image segmentation](https://www.reddit.com/r/MachineLearning/comments/y4u0zl/duse_simclr_as_pretraining_for_image_segmentation/)
 <!-- REDDIT-ML:END -->
 
 ### [scrum.org](scrum.org) community blogs
