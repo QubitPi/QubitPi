@@ -491,11 +491,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Don&#39;t worry about introducing yourself to ArangoGraph Insights Platform; we have a guided tour and demo datasets so you can get started immediately! ...](https://twitter.com/arangodb/status/1581646146161627136)
 - [Join us at @KubeCon_ + @CloudNativeFdn North America this October in Detroit, Michigan! 🚀🥑 Grab your tickets today 👇](https://twitter.com/arangodb/status/1581283763052457984)
 - [Is your weekend free? Why not try out 14 days of the ArangoGraph Insights Platform! 🤩 Sign up today to get started - no credit card is needed! 💥](https://twitter.com/arangodb/status/1581027084922941440)
 - [Did you hear the news? ArangoDB University is here! 👀🔥 Sign up for our brand new training center, including an updated version of our popular gr...](https://twitter.com/arangodb/status/1580951831890755584)
 - [RT TechTarget News: .@arangodb expands scope of #GraphDatabase platform. @TechJournalist @TTBusinessTech](https://twitter.com/TechTargetNews/status/1580951634821070848)
-- [Check out CTO @joerg_schad at @BigData_LDN 2022! 🔥🥑](https://twitter.com/arangodb/status/1580935215257554944)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
