@@ -337,6 +337,10 @@ My Tech Blogs
 - [[D] Suggestions for large-scale company name standardization?](https://www.reddit.com/r/MachineLearning/comments/y4w0sw/d_suggestions_for_largescale_company_name/)
 <!-- REDDIT-ML:END -->
 
+### Study Notes
+
+* [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
+
 ### [scrum.org](scrum.org) community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
