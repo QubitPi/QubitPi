@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What analysis should I do to decide between a personalisation algorithm and a general algorithm?](https://www.reddit.com/r/MachineLearning/comments/y5ns5z/d_what_analysis_should_i_do_to_decide_between_a/)
+- [[R] Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://www.reddit.com/r/MachineLearning/comments/y5m146/r_selfsupervised_geometric_correspondence_for/)
 - [[P] I built densify, a data augmentation and visualization tool for point clouds](https://www.reddit.com/r/MachineLearning/comments/y5h8i4/p_i_built_densify_a_data_augmentation_and/)
+- [[P] BFAS : Brute Force Architecture Search](https://www.reddit.com/r/MachineLearning/comments/y5fxrk/p_bfas_brute_force_architecture_search/)
 - [[R] can diffusion model be used for domain adaptation?](https://www.reddit.com/r/MachineLearning/comments/y5enf7/r_can_diffusion_model_be_used_for_domain/)
-- [[R] LAION Coco: 600m Synthetic Captions From LAION2B-En](https://www.reddit.com/r/MachineLearning/comments/y5cmmo/r_laion_coco_600m_synthetic_captions_from/)
-- [[D] GPU comparison for ML](https://www.reddit.com/r/MachineLearning/comments/y5chwp/d_gpu_comparison_for_ml/)
-- [[R] MDM: Human Motion Diffusion Model &lpar;text2motion + action2motion + motion-editing with inpainting&rpar; from Tel Aviv University](https://www.reddit.com/r/MachineLearning/comments/y56c8v/r_mdm_human_motion_diffusion_model_text2motion/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
