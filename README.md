@@ -545,11 +545,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [The Road to NODES workshops series starts THIS WEEK. REGISTER for FREE: #Neo4j #workshops #NODES2022](https://twitter.com/neo4j/status/1582099273247731712)
 - [Beta Opportunity for #Neo4j #Workspace! It combines our most powerful graph tools all in one place to help you get up and running with graph databases...](https://twitter.com/neo4j/status/1582069086648881152)
 - [RT Jason Koo: In Chicago Tuesday? Sessions all day introducing what&#39;s new with graphs, using graphs in AI and ML, and even 1-on-1 help for your own pr...](https://twitter.com/jalakoo/status/1582069037143445504)
 - [RT Rik Van Bruggen: Next month we are hosting a massive online conference, #nodes2022. It&#39;s going to be absolutely PACKED with &gt;100 sessions on #graph...](https://twitter.com/rvanbruggen/status/1582041210000056320)
-- [RT Kineviz: Announcing a free hands-on #GraphXR workshop this Friday, Oct. 21st, at 10am PST! Walk through the basics of #graphanalytics through #visu...](https://twitter.com/kineviz/status/1582035109250670597)
-- [Do you want to meet the creator of #Wiki? Well, here’s your chance! We are honored that Ward Cunningham will be speaking at NODES 2022, presenting “...](https://twitter.com/neo4j/status/1582023775700541440)
+- [RT PharmaTec Series: 📌 We saved you a seat! Discover how @AstraZeneca use a @neo4j Reaction #KnowledgeGraph to integrate #data from multiple source...](https://twitter.com/PharmaTecSeries/status/1582037221057900546)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
