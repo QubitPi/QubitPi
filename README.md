@@ -329,11 +329,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to find controlling value x in order to increase prediction value y to desired value treshhold](https://www.reddit.com/r/MachineLearning/comments/y66cqc/d_how_to_find_controlling_value_x_in_order_to/)
 - [[D] If implementing any cognitive function was as easy as making an API call, what would you develop?](https://www.reddit.com/r/MachineLearning/comments/y63r7d/d_if_implementing_any_cognitive_function_was_as/)
 - [[D] get this error when I run an experiment on IBM cloud using auto AI](https://www.reddit.com/r/MachineLearning/comments/y630vg/d_get_this_error_when_i_run_an_experiment_on_ibm/)
 - [[D] Accuracy of my custom object detection model](https://www.reddit.com/r/MachineLearning/comments/y630h3/d_accuracy_of_my_custom_object_detection_model/)
 - [[D] Please help us out by giving us 2-3 minutes!](https://www.reddit.com/r/MachineLearning/comments/y62gcw/d_please_help_us_out_by_giving_us_23_minutes/)
-- [[R] Embedding dates ?](https://www.reddit.com/r/MachineLearning/comments/y5ylmc/r_embedding_dates/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
