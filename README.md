@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Please help us out by giving us 2-3 minutes!](https://www.reddit.com/r/MachineLearning/comments/y62gcw/d_please_help_us_out_by_giving_us_23_minutes/)
 - [[R] Embedding dates ?](https://www.reddit.com/r/MachineLearning/comments/y5ylmc/r_embedding_dates/)
 - [[D] Now that Colab has introduced &quot;compute units&quot;. Which are the best free/cheap alternatives?](https://www.reddit.com/r/MachineLearning/comments/y5w87e/d_now_that_colab_has_introduced_compute_units/)
 - [[D] Are there any public model that can auto punctuate English text?](https://www.reddit.com/r/MachineLearning/comments/y5trnr/d_are_there_any_public_model_that_can_auto/)
 - [[D] PhD advisor doesn’t like open source software journals?](https://www.reddit.com/r/MachineLearning/comments/y5t06i/d_phd_advisor_doesnt_like_open_source_software/)
-- [[D] What is the deal with breast cancer scans?](https://www.reddit.com/r/MachineLearning/comments/y5qdk8/d_what_is_the_deal_with_breast_cancer_scans/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
