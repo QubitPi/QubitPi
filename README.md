@@ -329,11 +329,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] VAE loss terms](https://www.reddit.com/r/MachineLearning/comments/y6bqkh/d_vae_loss_terms/)
+- [[D]](https://www.reddit.com/r/MachineLearning/comments/y6bos2/d/)
 - [rx6900xt for ML? [D]](https://www.reddit.com/r/MachineLearning/comments/y6aejk/rx6900xt_for_ml_d/)
 - [[D] Clustering after instance segmentation](https://www.reddit.com/r/MachineLearning/comments/y6abd5/d_clustering_after_instance_segmentation/)
 - [[P] Awesome Image Segmentation Project Based on Deep Learning &lpar;5.6k star&rpar;](https://www.reddit.com/r/MachineLearning/comments/y68dzn/p_awesome_image_segmentation_project_based_on/)
-- [[R] Embedding dates ?](https://www.reddit.com/r/MachineLearning/comments/y5ylmc/r_embedding_dates/)
-- [[D] Now that Colab has introduced &quot;compute units&quot;. Which are the best free/cheap alternatives?](https://www.reddit.com/r/MachineLearning/comments/y5w87e/d_now_that_colab_has_introduced_compute_units/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
