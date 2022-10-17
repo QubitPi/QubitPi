@@ -525,11 +525,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1581931528581677057)
+- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1581914161038364672)
 - [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1581888246786576385)
 - [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1581672820798459904)
 - [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1581633058910134274)
-- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. If...](https://twitter.com/memgraphdb/status/1581625257135603712)
-- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1581604371884048384)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
