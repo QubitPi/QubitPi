@@ -344,8 +344,8 @@ My Tech Blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [🇫🇷 Pratiquez Scrum Professionnel !](https://www.scrum.org/resources/blog/pratiquez-scrum-professionnel)
-- [A deep dive into the purpose of each Scrum accountability](https://www.scrum.org/resources/blog/deep-dive-purpose-each-scrum-accountability)
-- [Scrum Master Interview Questions &lpar;6&rpar;: The Sprint Planning](https://www.scrum.org/resources/blog/scrum-master-interview-questions-6-sprint-planning)
+- [A Deep Dive into the purpose of each Scrum Accountability](https://www.scrum.org/resources/blog/deep-dive-purpose-each-scrum-accountability)
+- [Scrum Master Interview Questions &lpar;6&rpar;: Sprint Planning](https://www.scrum.org/resources/blog/scrum-master-interview-questions-6-sprint-planning)
 - [Template-Sammlung: für Vision, Produkt-Ziel und Sprint-Ziel](https://www.scrum.org/resources/blog/template-sammlung-fur-vision-produkt-ziel-und-sprint-ziel)
 - [Can Scrum Teams Use Scrum And Kanban, Simultaneously?](https://www.scrum.org/resources/blog/can-scrum-teams-use-scrum-and-kanban-simultaneously)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
