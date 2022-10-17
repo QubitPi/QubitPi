@@ -291,7 +291,6 @@ My Tech Blogs
 - [Machine Learning - Understanding the Philosophy of Learning through Kant’s Critique of Pure Reason](https://qubitpi.github.io/jersey-guide/finalized/2022/08/12/ml-philosophy-of-learning.html)
 - [Artificial Neural Networks - Linear Algebra Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/11/linear-algebra.html)
 - [Machine Learning - Artificial Neural Networks](https://qubitpi.github.io/jersey-guide/finalized/2022/08/09/artificial-neural-networks.html)
-- [Machine Learning - Evaluating Hypothesis](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/evaluating-hypothesis.html)
 - [Introduction to Knowledge Graph Embeddings &lpar;KGE&rpar;](https://qubitpi.github.io/jersey-guide/finalized/2022/08/07/knowledge-graph-embeddings.html)
 
 <p align="center">
