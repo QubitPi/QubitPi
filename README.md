@@ -330,11 +330,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Tutor for machine learning project](https://www.reddit.com/r/MachineLearning/comments/y5wu9c/p_tutor_for_machine_learning_project/)
 - [[D] Now that Colab has introduced &quot;compute units&quot;. Which are the best free/cheap alternatives?](https://www.reddit.com/r/MachineLearning/comments/y5w87e/d_now_that_colab_has_introduced_compute_units/)
 - [[D] Are there any public model that can auto punctuate English text?](https://www.reddit.com/r/MachineLearning/comments/y5trnr/d_are_there_any_public_model_that_can_auto/)
 - [[D] PhD advisor doesn’t like open source software journals?](https://www.reddit.com/r/MachineLearning/comments/y5t06i/d_phd_advisor_doesnt_like_open_source_software/)
 - [[D] What is the deal with breast cancer scans?](https://www.reddit.com/r/MachineLearning/comments/y5qdk8/d_what_is_the_deal_with_breast_cancer_scans/)
+- [[D] What analysis should I do to decide between a personalisation algorithm and a general algorithm?](https://www.reddit.com/r/MachineLearning/comments/y5ns5z/d_what_analysis_should_i_do_to_decide_between_a/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
