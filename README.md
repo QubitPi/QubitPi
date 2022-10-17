@@ -396,9 +396,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
-- [#OpenInfra &amp; Cloud Native Day Korea 2022 is less than a month away! Join @jimmymcarthur and many other speakers in Seoul on November 1st for a full da...](https://twitter.com/OpenStack/status/1580936885937246209)
-- [RT Alvaro Soto 🇨🇱🇲🇽: Don&#39;t forget The Open #Infrastructure Foundation Project Teams Gathering &lpar;PTG&rpar; October 17-21, 2022 - VirtualEvent #pr...](https://twitter.com/alsotoes/status/1580675461419786240)
-- [As you hopefully know, the PTG is almost here! However, did you know that there are operator + developer focused hours? Check out the ptg schedule to ...](https://twitter.com/OpenStack/status/1580574489443594240)
+- [RT OpenInfra Foundation: Happy PTG week everyone!](https://twitter.com/openinfradev/status/1581997521341386752)
+- [RT Kendall Nelson: The @openinfradev #PTG starts in 15 min!! What&#39;s your first session? #weareopeninfra](https://twitter.com/knelson92/status/1581989546274992139)
+- [RT Arne Wiebalck: As part of the @openstack PTG next week, the Bare Metal SIG will be holding an Operator Hour on Wed Oct 12 at 13h00 UTC! A great opp...](https://twitter.com/ArneWiebalck/status/1581263349165469700)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
