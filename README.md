@@ -581,8 +581,8 @@ My Tech Blogs
 - [Swell - Brand](https://dribbble.com/shots/19619291)
 - [S Studio Website](https://dribbble.com/shots/19627954)
 - [Letters](https://dribbble.com/shots/19632743)
-- [Neatsy App — AI doctor in a phone](https://dribbble.com/shots/19622660)
 - [Cub Studio Showreel 2022](https://dribbble.com/shots/19650011)
+- [Neatsy App — AI doctor in a phone](https://dribbble.com/shots/19622660)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
