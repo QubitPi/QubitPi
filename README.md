@@ -329,11 +329,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Advice on XGBoost model which is overfitted](https://www.reddit.com/r/MachineLearning/comments/y6jzkg/d_advice_on_xgboost_model_which_is_overfitted/)
+- [[D] Video Tracking vs Image detection](https://www.reddit.com/r/MachineLearning/comments/y6iu0l/d_video_tracking_vs_image_detection/)
 - [What is the best graph classification Graph Neural Network for large graphs ? [R] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/y6hciu/what_is_the_best_graph_classification_graph/)
 - [[D] Question on Copyright Datasets in Europe](https://www.reddit.com/r/MachineLearning/comments/y6gyfb/d_question_on_copyright_datasets_in_europe/)
 - [Paper looking at when DNNs learn different features during training? [R]](https://www.reddit.com/r/MachineLearning/comments/y6e2e7/paper_looking_at_when_dnns_learn_different/)
-- [rx6900xt for ML? [D]](https://www.reddit.com/r/MachineLearning/comments/y6aejk/rx6900xt_for_ml_d/)
-- [[D] Clustering after instance segmentation](https://www.reddit.com/r/MachineLearning/comments/y6abd5/d_clustering_after_instance_segmentation/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
