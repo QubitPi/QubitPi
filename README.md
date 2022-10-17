@@ -545,11 +545,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [In this blog, Tom Nijhof combines 3 datasets into a #neo4j Graph database! @wagenrace Read how, here: #Neo4j #KnowledgeGraph #GraphDatabase](https://twitter.com/neo4j/status/1582144456492404737)
 - [The Road to NODES workshops series starts THIS WEEK. REGISTER for FREE: #Neo4j #workshops #NODES2022](https://twitter.com/neo4j/status/1582099273247731712)
 - [Beta Opportunity for #Neo4j #Workspace! It combines our most powerful graph tools all in one place to help you get up and running with graph databases...](https://twitter.com/neo4j/status/1582069086648881152)
 - [RT Jason Koo: In Chicago Tuesday? Sessions all day introducing what&#39;s new with graphs, using graphs in AI and ML, and even 1-on-1 help for your own pr...](https://twitter.com/jalakoo/status/1582069037143445504)
 - [RT Rik Van Bruggen: Next month we are hosting a massive online conference, #nodes2022. It&#39;s going to be absolutely PACKED with &gt;100 sessions on #graph...](https://twitter.com/rvanbruggen/status/1582041210000056320)
-- [RT PharmaTec Series: 📌 We saved you a seat! Discover how @AstraZeneca use a @neo4j Reaction #KnowledgeGraph to integrate #data from multiple source...](https://twitter.com/PharmaTecSeries/status/1582037221057900546)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
