@@ -63,11 +63,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
-- [[百人一揆3 - 机器们的午后] 最后一个金牌到手](https://t.bilibili.com/717694640269033492)
+- [我解锁了【一骑绝尘】成就，快来看看我的本周创作表现吧～](https://t.bilibili.com/717921337233899542)
+- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://t.bilibili.com/717694640269033492)
 - [【百人一揆 - 无限的天狗党人】香菱和宵宫好配～](https://t.bilibili.com/717220012032524387)
 - [妮露卡池，但是晴宝](https://t.bilibili.com/716862060855558151)
-- [[百人一揆 - 野良犬与恶汉之梦] 好耶！首打金牌](https://t.bilibili.com/716808356600217609)
-- [安柏专场 - 芬德尼尔之顶](https://t.bilibili.com/716587170066858008)
+- [【百人一揆 - 野良犬与恶汉之梦】好耶！首打金牌](https://t.bilibili.com/716808356600217609)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Recent Uploads
