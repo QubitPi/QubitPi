@@ -490,11 +490,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn how Innoplexus used ArangoDB to create one database to manage the Innoplexus KOL discovery and management platform. Read the full case study bel...](https://twitter.com/arangodb/status/1582114242052116481)
 - [🔥🥑](https://twitter.com/arangodb/status/1582009293133713408)
 - [ArangoDB Summit is available on-demand now! 🔥 Access the recordings here. 🥑 #arangodb #arangodbsummit #graphdatabase #machinelearning #datascien...](https://twitter.com/arangodb/status/1581857558372839424)
 - [Don&#39;t worry about introducing yourself to ArangoGraph Insights Platform; we have a guided tour and demo datasets so you can get started immediately! ...](https://twitter.com/arangodb/status/1581646146161627136)
 - [Join us at @KubeCon_ + @CloudNativeFdn North America this October in Detroit, Michigan! 🚀🥑 Grab your tickets today 👇](https://twitter.com/arangodb/status/1581283763052457984)
-- [Is your weekend free? Why not try out 14 days of the ArangoGraph Insights Platform! 🤩 Sign up today to get started - no credit card is needed! 💥](https://twitter.com/arangodb/status/1581027084922941440)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
