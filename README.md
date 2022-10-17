@@ -5,7 +5,7 @@
 
 </div>
 
-[ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://www.bilibili.com/video/BV1cA4y1Q7ux)
+[ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://www.genshin-impact-api.com/)
 
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/jack20191124/)
 [ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/jack20191124)
