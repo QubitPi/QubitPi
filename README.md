@@ -545,11 +545,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Do you want to meet the creator of #Wiki? Well, here’s your chance! We are honored that Ward Cunningham will be speaking at NODES 2022, presenting “...](https://twitter.com/neo4j/status/1582023775700541440)
+- [Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1582005053950656514)
+- [Michael Hunger walks you through accessing the Marvel API, loading the data set, visualizing the data with #Bloom, and using GraphQL Toolbox. Take a l...](https://twitter.com/neo4j/status/1581996280250654721)
 - [Get a demo of how to build a large-scale digital twin. North America 👇 Europe 👇 Asia Pacific 👇 #neo4j #supplychain #digitaltwin #knowledgegra...](https://twitter.com/neo4j/status/1581963392558174209)
 - [👾 Let’s build a simple recommendation engine using plain Cypher — Follow --&gt; @p_brunenberg #Neo4j #Database #SQL #Cypher #GraphDatabase](https://twitter.com/neo4j/status/1581719399064473601)
-- [RT All Things Open: We&#39;re excited to have William Lyon &lpar;@lyonwj&rpar;, Developer Advocate for @neo4j, presenting &quot;Putting The Graph In GraphQL With The Neo...](https://twitter.com/AllThingsOpen/status/1581714088761098241)
-- [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: Thanks to the ⁦@neo4j⁩ team for the kindness and the very nice speaker gift for ...](https://twitter.com/mkheck/status/1581677692889751554)
-- [Check out some of the #data and #analytics solutions @DynamicBusiness listed in its latest Tech Tuesdays column that are changing the game for various...](https://twitter.com/neo4j/status/1581645147082588160)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
