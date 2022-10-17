@@ -578,11 +578,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Wayflyer - Slide-overs](https://dribbble.com/shots/19470569)
 - [Swell - Brand](https://dribbble.com/shots/19619291)
 - [S Studio Website](https://dribbble.com/shots/19627954)
 - [Letters](https://dribbble.com/shots/19632743)
 - [Cub Studio Showreel 2022](https://dribbble.com/shots/19650011)
-- [Neatsy App — AI doctor in a phone](https://dribbble.com/shots/19622660)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
