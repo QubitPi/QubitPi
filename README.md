@@ -329,11 +329,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [What is the best graph classification Graph Neural Network for large graphs ? [R] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/y6hciu/what_is_the_best_graph_classification_graph/)
 - [[D] Question on Copyright Datasets in Europe](https://www.reddit.com/r/MachineLearning/comments/y6gyfb/d_question_on_copyright_datasets_in_europe/)
 - [Paper looking at when DNNs learn different features during training? [R]](https://www.reddit.com/r/MachineLearning/comments/y6e2e7/paper_looking_at_when_dnns_learn_different/)
 - [rx6900xt for ML? [D]](https://www.reddit.com/r/MachineLearning/comments/y6aejk/rx6900xt_for_ml_d/)
 - [[D] Clustering after instance segmentation](https://www.reddit.com/r/MachineLearning/comments/y6abd5/d_clustering_after_instance_segmentation/)
-- [[P] Awesome Image Segmentation Project Based on Deep Learning &lpar;5.6k star&rpar;](https://www.reddit.com/r/MachineLearning/comments/y68dzn/p_awesome_image_segmentation_project_based_on/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
