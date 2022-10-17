@@ -73,7 +73,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
-- [[百人一揆3 - 机器们的午后] 最后一个金牌到手](https://www.bilibili.com/video/BV11e4y1v7wp)
+- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://www.bilibili.com/video/BV11e4y1v7wp)
 - [【百人一揆 - 无限的天狗党人】香菱和宵宫好配～](https://www.bilibili.com/video/BV14e411L7Kc)
 - [妮露卡池，但是晴宝](https://www.bilibili.com/video/BV11G4y1p7RF)
 <!-- BILIBILI-UPLOAD-LIST:END -->
