@@ -343,11 +343,11 @@ My Tech Blogs
 ### [scrum.org](scrum.org) community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum Master Interview Questions &lpar;6&rpar;: The Sprint Planning](https://www.scrum.org/resources/blog/scrum-master-interview-questions-6-sprint-planning)
 - [Template-Sammlung: für Vision, Produkt-Ziel und Sprint-Ziel](https://www.scrum.org/resources/blog/template-sammlung-fur-vision-produkt-ziel-und-sprint-ziel)
 - [Can Scrum Teams Use Scrum And Kanban, Simultaneously?](https://www.scrum.org/resources/blog/can-scrum-teams-use-scrum-and-kanban-simultaneously)
 - [Entenda de uma vez por todas o que é Definition of Done](https://www.scrum.org/resources/blog/entenda-de-uma-vez-por-todas-o-que-e-definition-done)
 - [¿La integración continua está muerta?](https://www.scrum.org/resources/blog/la-integracion-continua-esta-muerta)
-- [Is Revenue a Good Product Goal?](https://www.scrum.org/resources/blog/revenue-good-product-goal)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
