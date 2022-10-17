@@ -343,11 +343,11 @@ My Tech Blogs
 ### [scrum.org](scrum.org) community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [🇫🇷 Pratiquez Scrum Professionnel !](https://www.scrum.org/resources/blog/pratiquez-scrum-professionnel)
+- [A deep dive into the purpose of each Scrum accountability](https://www.scrum.org/resources/blog/deep-dive-purpose-each-scrum-accountability)
 - [Scrum Master Interview Questions &lpar;6&rpar;: The Sprint Planning](https://www.scrum.org/resources/blog/scrum-master-interview-questions-6-sprint-planning)
 - [Template-Sammlung: für Vision, Produkt-Ziel und Sprint-Ziel](https://www.scrum.org/resources/blog/template-sammlung-fur-vision-produkt-ziel-und-sprint-ziel)
 - [Can Scrum Teams Use Scrum And Kanban, Simultaneously?](https://www.scrum.org/resources/blog/can-scrum-teams-use-scrum-and-kanban-simultaneously)
-- [It&#39;s Health Not Bodyweight , It&#39;s Value NOT Velocity](https://www.scrum.org/resources/blog/its-health-not-bodyweight-its-value-not-velocity)
-- [Entenda de uma vez por todas o que é Definition of Done](https://www.scrum.org/resources/blog/entenda-de-uma-vez-por-todas-o-que-e-definition-done)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
