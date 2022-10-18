@@ -540,11 +540,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Steen Dupont: Looking at my @neo4j DB and the 3d mapping of all our bird records is a lovely little example of visualising the clustering of the in...](https://twitter.com/LegoMoth/status/1582291906649739266)
+- [RT Pascal Grimaud: 🚀 New @JHipster Lite release v0.19.0 with @neo4j support. Nice contribution @atomfrede ! happy to see this project so active ❤ ...](https://twitter.com/pascalgrimaud/status/1582265448716210176)
 - [In this blog, Tom Nijhof combines 3 datasets into a #neo4j Graph database! @wagenrace Read how, here: #Neo4j #KnowledgeGraph #GraphDatabase](https://twitter.com/neo4j/status/1582144456492404737)
+- [RT Francis Mangion: Rice Ken Kennedy Institute - &quot;Poster session: Neo4j graph databases visualised in virtual reality.&quot;](https://twitter.com/FrancisWasHere/status/1582135800443330560)
 - [The Road to NODES workshops series starts THIS WEEK. REGISTER for FREE: #Neo4j #workshops #NODES2022](https://twitter.com/neo4j/status/1582099273247731712)
-- [Beta Opportunity for #Neo4j #Workspace! It combines our most powerful graph tools all in one place to help you get up and running with graph databases...](https://twitter.com/neo4j/status/1582069086648881152)
-- [RT Jason Koo: In Chicago Tuesday? Sessions all day introducing what&#39;s new with graphs, using graphs in AI and ML, and even 1-on-1 help for your own pr...](https://twitter.com/jalakoo/status/1582069037143445504)
-- [RT Rik Van Bruggen: Next month we are hosting a massive online conference, #nodes2022. It&#39;s going to be absolutely PACKED with &gt;100 sessions on #graph...](https://twitter.com/rvanbruggen/status/1582041210000056320)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
