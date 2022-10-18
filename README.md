@@ -320,7 +320,7 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Is NYU Courant one of the best schools in the world for ML/NLP? NYU is investing aggressively on AI.](https://www.reddit.com/r/MachineLearning/comments/y7b4z5/d_is_nyu_courant_one_of_the_best_schools_in_the/)
+- [[P] Voice to Text Electronic Medical Record Application](https://www.reddit.com/r/MachineLearning/comments/y7cbvh/p_voice_to_text_electronic_medical_record/)
 - [[D] Are there improved criteria over MSE &lpar;Mean Square Error&rpar; in regression?](https://www.reddit.com/r/MachineLearning/comments/y79s2w/d_are_there_improved_criteria_over_mse_mean/)
 - [[P] ONNX model analysis tool in Rust](https://www.reddit.com/r/MachineLearning/comments/y79lng/p_onnx_model_analysis_tool_in_rust/)
 - [[D] What is a free tool for generating image segmentation masks?](https://www.reddit.com/r/MachineLearning/comments/y77zca/d_what_is_a_free_tool_for_generating_image/)
