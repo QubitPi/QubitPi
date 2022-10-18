@@ -398,9 +398,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [Looking for an #OpenStack-hosted private cloud? Check out the Marketplace! 🔺@Canonical’s Managed OpenStack 🔺China Mobile’s BigCloud 🔺@Cleur...](https://twitter.com/OpenStack/status/1582401722118328320)
+- [RT OpenMetal.io: New blog post on @kubernetesio Volumes on @OpenStack ! #kubnertnetes #kubernetesvolumes #openstack #openstacktutorial](https://twitter.com/openmetal_io/status/1582395368545083392)
 - [Don&#39;t forget to check out the #OpenStack operator hours this week at PTG!](https://twitter.com/OpenStack/status/1582099370321006593)
-- [RT OpenInfra Foundation: Happy PTG week everyone!](https://twitter.com/openinfradev/status/1581997521341386752)
-- [RT Kendall Nelson: The @openinfradev #PTG starts in 15 min!! What&#39;s your first session? #weareopeninfra](https://twitter.com/knelson92/status/1581989546274992139)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
