@@ -550,11 +550,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Road to NODES Workshop Series - Intro to Neo4j](https://www.youtube.com/watch?v=2oMqZUX1vZs)
 - [Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=H00eJPq2nDw)
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
 - [Esplora i tuoi dati con Neo4j Bloom](https://www.youtube.com/watch?v=h9Q1FpSQsg8)
 - [58 - Introducing Workspaces, a New Experience for Neo4j Developer Tools](https://www.youtube.com/watch?v=isCriRgnFDk)
-- [57 - New! Monitoring and Administration with Neo4j Ops Manager](https://www.youtube.com/watch?v=_XMdDM9FojY)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
