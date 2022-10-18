@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718235385242583143><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e03c0093edfe534051cdc5c04a5af9b6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #智妙明论之林# #原神音乐# 「《原神》须弥篇OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《智妙明论之林 Forest of Jnana and Vid...](https://t.bilibili.com/718235385242583143)
 - [恭喜@一只龙DragonLee @暮色会看见满天星 @T0-o-0T 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/717524117184577668)
 - [恭喜@改名后绝对中奖 @坂田银时怀里的猫 @是涛涛的水呀 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/717524117184577637)
 - [互动抽奖 #原神# #辛焱# #生日快乐# 说这把琴在我手里好像有了生命什么的，你这么夸我，多让人不好意思。 这琴也陪伴我很久了，今天便好好用它弹奏一曲！ 哦，还...](https://t.bilibili.com/717493309391503412)
 - [#原神# #徇察五风# 亲爱的旅行者，全新活动「徇察五风」即将开启！ 在野外，你遇见了一位名为宏朗的冒险家。他似乎正在试图探索某处怪异的秘境…](https://t.bilibili.com/717214883827941542)
-- [恭喜@Ania゜ @躺平冲浪青年 @林筱柒_ 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/717153032020689025)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
