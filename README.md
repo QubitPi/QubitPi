@@ -388,6 +388,11 @@ My Tech Blogs
 
 <h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
+#### Study Notes
+
+* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
+* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
+
 #### Twitter
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
@@ -409,11 +414,6 @@ My Tech Blogs
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
-
-##### Study Notes
-
-* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
-* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 
 ##### Blogs
 
