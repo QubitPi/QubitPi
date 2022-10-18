@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/717524117184577668><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a327c5bebd48c74b14d0ee93bfc9bf98401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718235385242583143><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e03c0093edfe534051cdc5c04a5af9b6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@一只龙DragonLee @暮色会看见满天星 @T0-o-0T 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/717524117184577668)
