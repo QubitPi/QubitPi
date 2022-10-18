@@ -320,11 +320,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are there improved criteria over MSE &lpar;Mean Square Error&rpar; in regression?](https://www.reddit.com/r/MachineLearning/comments/y79s2w/d_are_there_improved_criteria_over_mse_mean/)
+- [[P] ONNX model analysis tool in Rust](https://www.reddit.com/r/MachineLearning/comments/y79lng/p_onnx_model_analysis_tool_in_rust/)
 - [[D] What is a free tool for generating image segmentation masks?](https://www.reddit.com/r/MachineLearning/comments/y77zca/d_what_is_a_free_tool_for_generating_image/)
 - [[D] How frustrating are the ML interviews these days!!! TOP 3% interview joke](https://www.reddit.com/r/MachineLearning/comments/y7708w/d_how_frustrating_are_the_ml_interviews_these/)
 - [[P] Stochastic Differentiable Programming: Unbiased Automatic Differentiation for Discrete Stochastic Programs &lpar;such as particle filters, agent-based models, and more!&rpar;](https://www.reddit.com/r/MachineLearning/comments/y74w8j/p_stochastic_differentiable_programming_unbiased/)
-- [[P] XAI Recipes for the HuggingFace 🤗 Image Classification Models](https://www.reddit.com/r/MachineLearning/comments/y724g5/p_xai_recipes_for_the_huggingface_image/)
-- [[D] What unique features could diffusion model-created images have that will help classify those fakes from real images?](https://www.reddit.com/r/MachineLearning/comments/y70yj5/d_what_unique_features_could_diffusion/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
