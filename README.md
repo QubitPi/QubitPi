@@ -320,11 +320,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What unique features could diffusion model-created images have that will help classify those fakes from real images?](https://www.reddit.com/r/MachineLearning/comments/y70yj5/d_what_unique_features_could_diffusion/)
 - [[N] Machine learning-based solution could help firefighters circumvent deadly backdrafts](https://www.reddit.com/r/MachineLearning/comments/y6zoz6/n_machine_learningbased_solution_could_help/)
 - [[P] Why I quit my lucrative job at Google to start Vectara? &lpar;neural search as a service for developers everywhere&rpar;.](https://www.reddit.com/r/MachineLearning/comments/y6wkwi/p_why_i_quit_my_lucrative_job_at_google_to_start/)
 - [[D] An idea about how memory works](https://www.reddit.com/r/MachineLearning/comments/y6va54/d_an_idea_about_how_memory_works/)
 - [[D] Machine Learning conferences/journals with a mathematical slant?](https://www.reddit.com/r/MachineLearning/comments/y6v03k/d_machine_learning_conferencesjournals_with_a/)
-- [[D] Are new object detection architectures better in practice?](https://www.reddit.com/r/MachineLearning/comments/y6uj5a/d_are_new_object_detection_architectures_better/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
