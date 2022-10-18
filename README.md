@@ -410,6 +410,11 @@ My Tech Blogs
 
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
 
+##### Study Notes
+
+* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
+* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
+
 ##### Blogs
 
 <!-- KUBERNETES-BLOG:START -->
@@ -426,15 +431,15 @@ My Tech Blogs
 
 <!-- KUBERNETES-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:13 PM <a href=https://github.com/kubernetes/website/commit/4c6003344a29b5e6c8b428caca5f61d266c668da>Merge pull request #36854 from AnassKartit/patch-1</a></li><li>Mon Oct 17 2022 9:23 AM <a href=https://github.com/kubernetes/website/commit/83454addd243feca4e23a05f512d2e67efae7fa4>Merge pull request #37305 from pacoxu/patch-11</a></li><li>Mon Oct 17 2022 7:21 AM <a href=https://github.com/kubernetes/website/commit/6aac2dc17c4bcc2c455248d2853b7ac47447903d>Merge pull request #37323 from xmudrii/oct-releases</a></li><li>Sat Oct 15 2022 7:19 PM <a href=https://github.com/kubernetes/website/commit/b1f8531498d382c3da394769928604525d3c2b5e>Merge pull request #35384 from shannonxtreme/add-edit-secret-file</a></li><li>Sat Oct 15 2022 5:07 PM <a href=https://github.com/kubernetes/website/commit/81e0c94e4c66af1f1e18e5db17871eb947cce188>Merge pull request #37262 from sftim/20221010_fixup_limit_range_concept</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
+###### Study Notes
+
+* [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+
 ##### [Helm Documentation](https://helm.sh/docs/) Updates
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 <!-- HELM-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:39 PM <a href=https://github.com/helm/helm-www/commit/d8426eb209247babf240cf3d0f45ffea3d120e06>Update Helm booth heading</a></li><li>Fri Oct 14 2022 5:05 PM <a href=https://github.com/helm/helm-www/commit/f1e87f4706bfdc1b11c26e89b7f5e012186a0ecb>Merge pull request #1365 from helm/karenhchu-patch-1</a></li><li>Fri Oct 14 2022 12:03 AM <a href=https://github.com/helm/helm-www/commit/0b39c4f35fe17699236909d50d9ade42425dbd5b>Update heading</a></li><li>Thu Oct 13 2022 10:55 PM <a href=https://github.com/helm/helm-www/commit/f63633d8900d1550b8e886f18c4716888f5d2164>Update with more of Bridget&#39;s edits</a></li><li>Thu Oct 13 2022 10:23 PM <a href=https://github.com/helm/helm-www/commit/6366088f5d07e6e2e8179d79dec96bbaeb34d274>Update with Bridget&#39;s comments</a></li><!-- HELM-DOC-CHANGES:END -->
-
-##### Study Notes
-
-* [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
@@ -445,13 +450,6 @@ My Tech Blogs
 - [TLS Beyond the Web: How MongoDB Uses Let’s Encrypt for Database-to-Application Security](https://letsencrypt.org/2022/04/28/database-to-app-tls.html)
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
-
-#### Study Notes
-
-* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
-* [Deploying Jenkins to AWS](https://qubitpi.github.io/jersey-guide/finalized/2022/09/22/jenkins-on-aws.html)
-* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
-* [Rancher - A Virtualized CI/CD on top of Kubernetes](https://qubitpi.github.io/jersey-guide/finalized/2021/08/05/rancher.html)
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
 
