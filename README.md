@@ -333,7 +333,7 @@ My Tech Blogs
 
 ### Study Notes
 
-<img align="right" width="20%" alt="砂糖在学习" src="https://user-images.githubusercontent.com/16126939/188895014-3937ba3f-5c61-4e5e-8a3c-ab64e9d304fa.png">
+<img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
 * [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
 
@@ -346,6 +346,10 @@ My Tech Blogs
 - [Template-Sammlung: für Vision, Produkt-Ziel und Sprint-Ziel](https://www.scrum.org/resources/blog/template-sammlung-fur-vision-produkt-ziel-und-sprint-ziel)
 - [Can Scrum Teams Use Scrum And Kanban, Simultaneously?](https://www.scrum.org/resources/blog/can-scrum-teams-use-scrum-and-kanban-simultaneously)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
+
+
+
+
 
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
