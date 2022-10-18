@@ -329,11 +329,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Clustering Pokémon in 15 minutes with Machine Learning](https://www.reddit.com/r/MachineLearning/comments/y6qwpj/p_clustering_pokémon_in_15_minutes_with_machine/)
+- [[D] An idea about how memory works](https://www.reddit.com/r/MachineLearning/comments/y6va54/d_an_idea_about_how_memory_works/)
+- [[D] Machine Learning conferences/journals with a mathematical slant?](https://www.reddit.com/r/MachineLearning/comments/y6v03k/d_machine_learning_conferencesjournals_with_a/)
+- [[D] Are new object detection architectures better in practice?](https://www.reddit.com/r/MachineLearning/comments/y6uj5a/d_are_new_object_detection_architectures_better/)
 - [[D] Video Tracking vs Image detection](https://www.reddit.com/r/MachineLearning/comments/y6iu0l/d_video_tracking_vs_image_detection/)
 - [What is the best graph classification Graph Neural Network for large graphs ? [R] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/y6hciu/what_is_the_best_graph_classification_graph/)
-- [[D] Question on Copyright Datasets in Europe](https://www.reddit.com/r/MachineLearning/comments/y6gyfb/d_question_on_copyright_datasets_in_europe/)
-- [Paper looking at when DNNs learn different features during training? [R]](https://www.reddit.com/r/MachineLearning/comments/y6e2e7/paper_looking_at_when_dnns_learn_different/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
