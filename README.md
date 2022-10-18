@@ -324,11 +324,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Why I quit my lucrative job at Google to start Vectara? &lpar;neural search as a service for developers everywhere&rpar;.](https://www.reddit.com/r/MachineLearning/comments/y6wkwi/p_why_i_quit_my_lucrative_job_at_google_to_start/)
 - [[D] An idea about how memory works](https://www.reddit.com/r/MachineLearning/comments/y6va54/d_an_idea_about_how_memory_works/)
 - [[D] Machine Learning conferences/journals with a mathematical slant?](https://www.reddit.com/r/MachineLearning/comments/y6v03k/d_machine_learning_conferencesjournals_with_a/)
 - [[D] Are new object detection architectures better in practice?](https://www.reddit.com/r/MachineLearning/comments/y6uj5a/d_are_new_object_detection_architectures_better/)
 - [[D] Video Tracking vs Image detection](https://www.reddit.com/r/MachineLearning/comments/y6iu0l/d_video_tracking_vs_image_detection/)
-- [What is the best graph classification Graph Neural Network for large graphs ? [R] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/y6hciu/what_is_the_best_graph_classification_graph/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
