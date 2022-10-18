@@ -320,11 +320,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Stochastic Differentiable Programming: Unbiased Automatic Differentiation for Discrete Stochastic Programs &lpar;such as particle filters, agent-based models, and more!&rpar;](https://www.reddit.com/r/MachineLearning/comments/y74w8j/p_stochastic_differentiable_programming_unbiased/)
+- [[P] How to measure the distance between the phone camera and an object?](https://www.reddit.com/r/MachineLearning/comments/y74vdl/p_how_to_measure_the_distance_between_the_phone/)
 - [[P] XAI Recipes for the HuggingFace 🤗 Image Classification Models](https://www.reddit.com/r/MachineLearning/comments/y724g5/p_xai_recipes_for_the_huggingface_image/)
 - [[D] What unique features could diffusion model-created images have that will help classify those fakes from real images?](https://www.reddit.com/r/MachineLearning/comments/y70yj5/d_what_unique_features_could_diffusion/)
-- [[N] Machine learning-based solution could help firefighters circumvent deadly backdrafts](https://www.reddit.com/r/MachineLearning/comments/y6zoz6/n_machine_learningbased_solution_could_help/)
 - [[P] Why I quit my lucrative job at Google to start Vectara? &lpar;neural search as a service for developers everywhere&rpar;.](https://www.reddit.com/r/MachineLearning/comments/y6wkwi/p_why_i_quit_my_lucrative_job_at_google_to_start/)
-- [[D] An idea about how memory works](https://www.reddit.com/r/MachineLearning/comments/y6va54/d_an_idea_about_how_memory_works/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
