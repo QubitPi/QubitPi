@@ -540,11 +540,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [On October 20, we will be delivering the workshop &quot;Healthcare Analytics Using Neo4j&quot; Join our Road to NODES Workshop Series! Register for free: #NODES...](https://twitter.com/neo4j/status/1582478141183893504)
 - [See how Nis Jespersen explores the potential of combining cryptographically verifiable data with Neo4j’s Graph Data Science algorithms. #Neo4j #Knowl...](https://twitter.com/neo4j/status/1582446456404705280)
 - [Today we’re announcing Neo4j AuraDS Enterprise! Benefits include: ✅More scalability ✅Global availability ✅Secure access with SSO ✅24/7 premium su...](https://twitter.com/neo4j/status/1582412216141086722)
 - [Emil Eifrem, CEO and Founder of Neo4j, was recognized as one of the most exceptional entrepreneurs of 2022 at @GoldmanSachs&#39; Builders and Innovators S...](https://twitter.com/neo4j/status/1582310614999126018)
 - [RT Steen Dupont: Looking at my @neo4j DB and the 3d mapping of all our bird records is a lovely little example of visualising the clustering of the in...](https://twitter.com/LegoMoth/status/1582291906649739266)
-- [RT Pascal Grimaud: 🚀 New @JHipster Lite release v0.19.0 with @neo4j support. Nice contribution @atomfrede ! happy to see this project so active ❤ ...](https://twitter.com/pascalgrimaud/status/1582265448716210176)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
