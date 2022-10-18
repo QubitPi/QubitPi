@@ -58,7 +58,7 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
 
-<img align="right" width="50%" src="https://i2.hdslb.com/bfs/archive/eb4a5dd02457a20c7f107b7acdda672a5742c4f1.jpg">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
 ### Recent Activities
 
