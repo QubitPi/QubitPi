@@ -320,7 +320,7 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Are there improved criteria over MSE &lpar;Mean Square Error&rpar; in regression?](https://www.reddit.com/r/MachineLearning/comments/y79s2w/d_are_there_improved_criteria_over_mse_mean/)
+- [[D] any model / existing tool of redacting passwords/tokens from files?](https://www.reddit.com/r/MachineLearning/comments/y7hyj8/d_any_model_existing_tool_of_redacting/)
 - [[P] ONNX model analysis tool in Rust](https://www.reddit.com/r/MachineLearning/comments/y79lng/p_onnx_model_analysis_tool_in_rust/)
 - [[D] What is a free tool for generating image segmentation masks?](https://www.reddit.com/r/MachineLearning/comments/y77zca/d_what_is_a_free_tool_for_generating_image/)
 - [[D] How frustrating are the ML interviews these days!!! TOP 3% interview joke](https://www.reddit.com/r/MachineLearning/comments/y7708w/d_how_frustrating_are_the_ml_interviews_these/)
