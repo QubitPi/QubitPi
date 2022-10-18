@@ -577,7 +577,7 @@ My Tech Blogs
 - [Cub Studio Showreel 2022](https://dribbble.com/shots/19650011)
 - [Letters](https://dribbble.com/shots/19632743)
 - [S Studio Website](https://dribbble.com/shots/19627954)
-- [Neatsy App — AI doctor in a phone](https://dribbble.com/shots/19622660)
+- [SQUIRE - Booking Widget](https://dribbble.com/shots/19660093)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
