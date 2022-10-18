@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1582395838802034689)
 - [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1582377717596827649)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1582370423047884800)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several! ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1582329148546043904)
 - [Are you familiar with Gödel’s first incompleteness theorem? #memgraph #Mathematics #math](https://twitter.com/memgraphdb/status/1582303717029982208)
-- [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1582289384383995904)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
