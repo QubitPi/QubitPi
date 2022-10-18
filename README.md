@@ -520,11 +520,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Node2Vec 🗒️ Node2Vec is a random walk-based node embedding method. This method is mapping nodes that are...](https://twitter.com/memgraphdb/status/1582237293695287297)
 - [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1582015338262118400)
 - [PageRank is one of those iconic algorithms that have forever changed the technology world. Do you want to learn how to use #PageRank on #dynamic data?...](https://twitter.com/memgraphdb/status/1581987648352444416)
 - [Sometimes it is easier to explore JSON in a visual way. #memgraph #coding #json](https://twitter.com/memgraphdb/status/1581949396585181185)
 - [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1581931528581677057)
-- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1581914161038364672)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
