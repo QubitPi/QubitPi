@@ -298,7 +298,13 @@ My Tech Blogs
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/195799056-44da525c-8260-4b30-9e53-0ff8c3074913.png">
 
-<!-- GOOGLE-AI-BLOG:START --><li>Thu Oct 18 2001 12:00 AM <a href=http://ai.googleblog.com/2022/10/table-tennis-research-platform-for.html>Table Tennis: A Research Platform for Agile Robotics</a></li><li>Sun Oct 14 2001 12:00 AM <a href=http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html>UL2 20B: An Open Source Unified Language Learner</a></li><li>Sat Oct 13 2001 12:00 AM <a href=http://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html>Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images</a></li><li>Sat Oct 06 2001 12:00 AM <a href=http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html>AudioLM: a Language Modeling Approach to Audio Generation</a></li><li>Thu Oct 04 2001 12:00 AM <a href=http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html>Large Motion Frame Interpolation</a></li><!-- GOOGLE-AI-BLOG:END -->
+<!-- GOOGLE-AI-BLOG:START -->
+- [Table Tennis: A Research Platform for Agile Robotics](http://ai.googleblog.com/2022/10/table-tennis-research-platform-for.html)
+- [UL2 20B: An Open Source Unified Language Learner](http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html)
+- [Crossmodal-3600 — Multilingual Reference Captions for Geographically Diverse Images](http://ai.googleblog.com/2022/10/crossmodal-3600-multilingual-reference.html)
+- [AudioLM: a Language Modeling Approach to Audio Generation](http://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+- [Large Motion Frame Interpolation](http://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html)
+<!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 <img align="right" width="15%" src="./img/rua.png">
