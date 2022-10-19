@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] MIT releases all slides for efficient ML course](https://www.reddit.com/r/MachineLearning/comments/y8481a/r_mit_releases_all_slides_for_efficient_ml_course/)
-- [[D] Solving energy minimization problems using neural networks](https://www.reddit.com/r/MachineLearning/comments/y83jow/d_solving_energy_minimization_problems_using/)
-- [[D] Python&#39;s library to multivariate time series forecasting: Sktime, modeltime, darts.](https://www.reddit.com/r/MachineLearning/comments/y7x8vp/d_pythons_library_to_multivariate_time_series/)
-- [[D] Imagic Stable Diffusion training in 11 GB VRAM with diffusers and colab link.](https://www.reddit.com/r/MachineLearning/comments/y7u6gg/d_imagic_stable_diffusion_training_in_11_gb_vram/)
-- [[R] Research Job &amp; Internship in NLP and Graph based Learning](https://www.reddit.com/r/MachineLearning/comments/y7rcwa/r_research_job_internship_in_nlp_and_graph_based/)
+- [[R] Is there an equivalent issue of robustness in using DNNs for regression problems?](https://www.reddit.com/r/MachineLearning/comments/y8ac18/r_is_there_an_equivalent_issue_of_robustness_in/)
+- [[P] Text-to-Image Generation on Your Smartphone !](https://www.reddit.com/r/MachineLearning/comments/y8a719/p_texttoimage_generation_on_your_smartphone/)
+- [[D] Call for questions for Andrej Karpathy from Lex Fridman](https://www.reddit.com/r/MachineLearning/comments/y89xqw/d_call_for_questions_for_andrej_karpathy_from_lex/)
+- [[p] New project: AI powered form builder &lpar;fillout.com&rpar;](https://www.reddit.com/r/MachineLearning/comments/y89chg/p_new_project_ai_powered_form_builder_filloutcom/)
+- [[P] Training anime diffusion model from scratch with limited compute](https://www.reddit.com/r/MachineLearning/comments/y857n7/p_training_anime_diffusion_model_from_scratch/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
