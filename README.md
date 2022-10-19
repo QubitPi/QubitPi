@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718235385242583143><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e03c0093edfe534051cdc5c04a5af9b6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718607771800436848><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c19e55d65078f9bbe87d88a9184fb152401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #智妙明论之林# #原神音乐# 「《原神》须弥篇OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《智妙明论之林 Forest of Jnana and Vid...](https://t.bilibili.com/718235385242583143)
