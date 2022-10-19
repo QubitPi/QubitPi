@@ -320,11 +320,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] mathematical modeling of neural networks algorithms](https://www.reddit.com/r/MachineLearning/comments/y7s9vo/d_mathematical_modeling_of_neural_networks/)
 - [[R] Research Job &amp; Internship in NLP and Graph based Learning](https://www.reddit.com/r/MachineLearning/comments/y7rcwa/r_research_job_internship_in_nlp_and_graph_based/)
 - [On-Device Training Under 256KB Memory [R]](https://www.reddit.com/r/MachineLearning/comments/y7r4i2/ondevice_training_under_256kb_memory_r/)
 - [[Project] DoorDash Eng Blog: Augmenting fuzzy matching with human review to maximize precision and recall](https://www.reddit.com/r/MachineLearning/comments/y7nmez/project_doordash_eng_blog_augmenting_fuzzy/)
 - [[D] GPT-3 is a DREAM for citation-farmers - Threat Model Tuesday #1](https://www.reddit.com/r/MachineLearning/comments/y7mwmw/d_gpt3_is_a_dream_for_citationfarmers_threat/)
-- [[R] Visual Reinforcement Learning with Self-Supervised 3D Representations](https://www.reddit.com/r/MachineLearning/comments/y7l4fg/r_visual_reinforcement_learning_with/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
