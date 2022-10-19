@@ -99,11 +99,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
-- [《原神》「寻星之旅」活动即将开启](https://ys.mihoyo.com/main/news/detail/24292)
-- [早柚生日快乐｜等她走了，我们偷偷溜进厨房做些饭团吧？](https://ys.mihoyo.com/main/news/detail/24289)
 - [「《原神》须弥篇OST即将上线 」](https://ys.mihoyo.com/main/news/detail/23744)
 - [辛焱生日快乐｜哈哈，希望你能喜欢！](https://ys.mihoyo.com/main/news/detail/23120)
 - [《原神》「徇察五风」玩法说明](https://ys.mihoyo.com/main/news/detail/23119)
+- [《原神》「徇察五风」活动即将开启](https://ys.mihoyo.com/main/news/detail/23118)
+- [《原神》拾枝杂谈-「妮露：浮莲映波」](https://ys.mihoyo.com/main/news/detail/23094)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
