@@ -399,9 +399,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [#OpenInfra Foundation Platinum Member, @RedHat, Releases version 17 targeting telco stability.](https://twitter.com/OpenStack/status/1582764209305452551)
 - [Are you an #OpenStack Operator? If you are, join the Nova Operator Hour Wednesday at 16:00UTC! Its just one of many operator and user focused discussi...](https://twitter.com/OpenStack/status/1582457115989270528)
 - [RT GR-OSS: Check out this presentation on Bare Metal @kubernetesio use at @GRESEARCHjobs. Talk is by Jamie Poole and Scott Solkhon, hosted by the @Ope...](https://twitter.com/oss_gr/status/1582428297824124929)
-- [Looking for an #OpenStack-hosted private cloud? Check out the Marketplace! 🔺@Canonical’s Managed OpenStack 🔺China Mobile’s BigCloud 🔺@Cleur...](https://twitter.com/OpenStack/status/1582401722118328320)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
