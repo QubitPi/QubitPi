@@ -407,11 +407,11 @@ My Tech Blogs
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
 
 <!-- DOCKERHUB-BLOG:START -->
+- [Docker and Wasm Working Together? Find Out How at Wasm Day NA](https://www.docker.com/blog/docker-and-wasm-together-wasm-day-na/)
+- [How to Fix and Debug Docker Containers Like a Superhero](https://www.docker.com/blog/how-to-fix-and-debug-docker-containers-like-a-superhero/)
 - [9 Tips for Containerizing Your Node.js Application](https://www.docker.com/blog/9-tips-for-containerizing-your-node-js-application/)
 - [State of Application Development Survey: Tell Us How You Develop!](https://www.docker.com/blog/state-of-application-development-survey-2022/)
 - [How to Use the Postgres Docker Official Image](https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/)
-- [Simplified Deployment of Local Container Images to OpenShift](https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/)
-- [September 2022 Newsletter](https://www.docker.com/blog/september-2022-newsletter/)
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
