@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [#NODES2022 speakers include some of the brightest minds in #graphtechnology – like these brilliant women highlighted here! ✨ Join us for FREE! @JMHR...](https://twitter.com/neo4j/status/1582688107199021057)
+- [TODAY is the day you&#39;ll learn all about #graphdatabases -- you are still on time to register for the workshop &quot;Intro to Neo4j&quot; 10:00 EDT | 15:00 BST |...](https://twitter.com/neo4j/status/1582672987416715269)
+- [Re @JBJamesBrownJB @CodemotionIT Good luck with your presentation. 💪 🕸 Please share the link to your talk, slides and recording. So we can re-sh...](https://twitter.com/neo4j/status/1582656568461492224)
+- [RT Pablo Alvarez Graña: NeoDash - Neo4j Dashboard Builder. NeoDash is an open source tool for visualizing your Neo4j data. It lets you group visualiz...](https://twitter.com/miyomasfriki/status/1582623466167341057)
 - [Now you have the freedom to create a fully managed graph database with no payment required. 🍃 Plus you get to explore a variety of sample datasets ...](https://twitter.com/neo4j/status/1582547127448014849)
-- [On October 20, we will be delivering the workshop &quot;Healthcare Analytics Using Neo4j&quot; Join our Road to NODES Workshop Series! Register for free: #NODES...](https://twitter.com/neo4j/status/1582478141183893504)
-- [See how Nis Jespersen explores the potential of combining cryptographically verifiable data with Neo4j’s Graph Data Science algorithms. #Neo4j #Knowl...](https://twitter.com/neo4j/status/1582446456404705280)
-- [Today we’re announcing Neo4j AuraDS Enterprise! Benefits include: ✅More scalability ✅Global availability ✅Secure access with SSO ✅24/7 premium su...](https://twitter.com/neo4j/status/1582412216141086722)
-- [Emil Eifrem, CEO and Founder of Neo4j, was recognized as one of the most exceptional entrepreneurs of 2022 at @GoldmanSachs&#39; Builders and Innovators S...](https://twitter.com/neo4j/status/1582310614999126018)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
