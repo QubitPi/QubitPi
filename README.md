@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Naive reinforcement learning question](https://www.reddit.com/r/MachineLearning/comments/y8cs5y/d_naive_reinforcement_learning_question/)
+- [[R] State of the art audio classification](https://www.reddit.com/r/MachineLearning/comments/y8eun3/r_state_of_the_art_audio_classification/)
+- [[R] Anyone trained donut on SROIE dataset ?](https://www.reddit.com/r/MachineLearning/comments/y8e90x/r_anyone_trained_donut_on_sroie_dataset/)
 - [[D] How to augment &quot;bad&quot; samples in order to build and optimize algorithms?](https://www.reddit.com/r/MachineLearning/comments/y8c6cd/d_how_to_augment_bad_samples_in_order_to_build/)
 - [[D] Get decision rules for trained Isolation Forest outlier detection model](https://www.reddit.com/r/MachineLearning/comments/y8aidi/d_get_decision_rules_for_trained_isolation_forest/)
 - [[R] Is there an equivalent issue of robustness in using DNNs for regression problems?](https://www.reddit.com/r/MachineLearning/comments/y8ac18/r_is_there_an_equivalent_issue_of_robustness_in/)
-- [[D] Call for questions for Andrej Karpathy from Lex Fridman](https://www.reddit.com/r/MachineLearning/comments/y89xqw/d_call_for_questions_for_andrej_karpathy_from_lex/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
