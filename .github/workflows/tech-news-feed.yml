@@ -19,6 +19,7 @@ jobs:
           comment_tag_name: "GOOGLE-AI-BLOG"
           max_post_count: "5"
           feed_list: "http://feeds.feedburner.com/blogspot/gJZg"
+          template: "<li>$date <a href=$url>$title</a></li>"
   google-deepmind-blogs:
     name: Google DeepMind Blog
     runs-on: ubuntu-latest
