@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[Project], [Discussion] How would you go about creating an algorithm that can detect animal behaviour for research studies.](https://www.reddit.com/r/MachineLearning/comments/y7yomu/project_discussion_how_would_you_go_about/)
+- [[R] Meta-Labeling: Theory and Framework](https://www.reddit.com/r/MachineLearning/comments/y802ko/r_metalabeling_theory_and_framework/)
 - [[D] Python&#39;s library to multivariate time series forecasting: Sktime, modeltime, darts.](https://www.reddit.com/r/MachineLearning/comments/y7x8vp/d_pythons_library_to_multivariate_time_series/)
 - [[D] Imagic Stable Diffusion training in 11 GB VRAM with diffusers and colab link.](https://www.reddit.com/r/MachineLearning/comments/y7u6gg/d_imagic_stable_diffusion_training_in_11_gb_vram/)
-- [[D] mathematical modeling of neural networks algorithms](https://www.reddit.com/r/MachineLearning/comments/y7s9vo/d_mathematical_modeling_of_neural_networks/)
 - [[R] Research Job &amp; Internship in NLP and Graph based Learning](https://www.reddit.com/r/MachineLearning/comments/y7rcwa/r_research_job_internship_in_nlp_and_graph_based/)
+- [On-Device Training Under 256KB Memory [R]](https://www.reddit.com/r/MachineLearning/comments/y7r4i2/ondevice_training_under_256kb_memory_r/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
