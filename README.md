@@ -576,8 +576,8 @@ My Tech Blogs
 - [Wayflyer - Slide-overs](https://dribbble.com/shots/19470569)
 - [Cub Studio Showreel 2022](https://dribbble.com/shots/19650011)
 - [S Studio Website](https://dribbble.com/shots/19627954)
+- [Taxi](https://dribbble.com/shots/19676034)
 - [Letters](https://dribbble.com/shots/19632743)
-- [SQUIRE - Booking Widget](https://dribbble.com/shots/19660093)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
