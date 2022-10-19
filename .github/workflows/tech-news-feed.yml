@@ -20,7 +20,7 @@ jobs:
           max_post_count: "5"
           feed_list: "http://feeds.feedburner.com/blogspot/gJZg"
           item_exec: |
-                    post.date = post.date.split(" ").slice(0, 3);
+                    post.date = post.date.toString().split(" ").slice(0, 3);
           template: "<li>$date <a href=$url>$title</a></li>"
   google-deepmind-blogs:
     name: Google DeepMind Blog
