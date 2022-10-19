@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Für das Thema IoT Analytics werden Graphdatenbanken immer wichtiger. @neo4j ist derzeit die stärkste Graphdatenbank via @ITP_Redaktion #neo4j #graph...](https://twitter.com/neo4j/status/1582703637825978368)
 - [#NODES2022 speakers include some of the brightest minds in #graphtechnology – like these brilliant women highlighted here! ✨ Join us for FREE! @JMHR...](https://twitter.com/neo4j/status/1582688107199021057)
 - [TODAY is the day you&#39;ll learn all about #graphdatabases -- you are still on time to register for the workshop &quot;Intro to Neo4j&quot; 10:00 EDT | 15:00 BST |...](https://twitter.com/neo4j/status/1582672987416715269)
 - [Re @JBJamesBrownJB @CodemotionIT Good luck with your presentation. 💪 🕸 Please share the link to your talk, slides and recording. So we can re-sh...](https://twitter.com/neo4j/status/1582656568461492224)
 - [RT Pablo Alvarez Graña: NeoDash - Neo4j Dashboard Builder. NeoDash is an open source tool for visualizing your Neo4j data. It lets you group visualiz...](https://twitter.com/miyomasfriki/status/1582623466167341057)
-- [Now you have the freedom to create a fully managed graph database with no payment required. 🍃 Plus you get to explore a variety of sample datasets ...](https://twitter.com/neo4j/status/1582547127448014849)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
