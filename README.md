@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Get to know our new security capabilities in our Neo4j Aura cloud platform! 👇 #Neo4jAura #aws #Neo4j](https://twitter.com/neo4j/status/1582763650863226881)
 - [Get a demo of how to build a large-scale digital twin. North America: Europe: Asia Pacific: #KnowledgeGraph #Neo4j](https://twitter.com/neo4j/status/1582748493176745986)
 - [Road to NODES Workshop Series - Intro to Neo4j](https://twitter.com/neo4j/status/1582729852373053440)
 - [Für das Thema IoT Analytics werden Graphdatenbanken immer wichtiger. @neo4j ist derzeit die stärkste Graphdatenbank via @ITP_Redaktion #neo4j #graph...](https://twitter.com/neo4j/status/1582703637825978368)
 - [#NODES2022 speakers include some of the brightest minds in #graphtechnology – like these brilliant women highlighted here! ✨ Join us for FREE! @JMHR...](https://twitter.com/neo4j/status/1582688107199021057)
-- [TODAY is the day you&#39;ll learn all about #graphdatabases -- you are still on time to register for the workshop &quot;Intro to Neo4j&quot; 10:00 EDT | 15:00 BST |...](https://twitter.com/neo4j/status/1582672987416715269)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
