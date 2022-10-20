@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] tfimm ViT](https://www.reddit.com/r/MachineLearning/comments/y8ttbu/d_tfimm_vit/)
-- [[D] Understanding Posterior Collapse.](https://www.reddit.com/r/MachineLearning/comments/y8tqif/d_understanding_posterior_collapse/)
-- [[Discussion] How does backpropagation work in a deep LSTM?](https://www.reddit.com/r/MachineLearning/comments/y8sbqn/discussion_how_does_backpropagation_work_in_a/)
-- [[D] is a strong background in math/stats/cs in a necessary condition for becoming a renowned researcher in the ML community? *A passive rant*](https://www.reddit.com/r/MachineLearning/comments/y8r8ti/d_is_a_strong_background_in_mathstatscs_in_a/)
+- [[D] Discussion Panel for FOSS Instruct](https://www.reddit.com/r/MachineLearning/comments/y8y8cm/d_discussion_panel_for_foss_instruct/)
+- [[R] Learnable strides in convolution neural networks](https://www.reddit.com/r/MachineLearning/comments/y8xmfj/r_learnable_strides_in_convolution_neural_networks/)
+- [Inter camera conversion [D]](https://www.reddit.com/r/MachineLearning/comments/y8xkb6/inter_camera_conversion_d/)
 - [[R] Hardware to train language representation model on half a billion text documents](https://www.reddit.com/r/MachineLearning/comments/y8qs5m/r_hardware_to_train_language_representation_model/)
+- [[D] How yo measure Inter rater reliability for detection tasks ?](https://www.reddit.com/r/MachineLearning/comments/y8ocbw/d_how_yo_measure_inter_rater_reliability_for/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
