@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718607771800436848><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c19e55d65078f9bbe87d88a9184fb152401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718954568926363657><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0898a32310d08d1a350aa163cf525ef7401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #寻星之旅# 亲爱的旅行者，「寻星之旅」活动即将开启~ 〓活动时间〓 2022/10/21 10:00 ~ 2022/10/31 03:59 〓参与条件〓 冒险等阶≥30级 且完成魔神任务...](https://t.bilibili.com/718607771800436848)
