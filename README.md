@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Question about 5-minute poster videos for NeurIPS](https://www.reddit.com/r/MachineLearning/comments/y8m8gj/d_question_about_5minute_poster_videos_for_neurips/)
+- [[Research] Scholars Program](https://www.reddit.com/r/MachineLearning/comments/y8kpd0/research_scholars_program/)
+- [[D] How to find optimal input values for a certain output for multimodal linear model?](https://www.reddit.com/r/MachineLearning/comments/y8kd1h/d_how_to_find_optimal_input_values_for_a_certain/)
 - [[R] State of the art audio classification](https://www.reddit.com/r/MachineLearning/comments/y8eun3/r_state_of_the_art_audio_classification/)
 - [[R] Anyone trained donut on SROIE dataset ?](https://www.reddit.com/r/MachineLearning/comments/y8e90x/r_anyone_trained_donut_on_sroie_dataset/)
-- [[D] How to augment &quot;bad&quot; samples in order to build and optimize algorithms?](https://www.reddit.com/r/MachineLearning/comments/y8c6cd/d_how_to_augment_bad_samples_in_order_to_build/)
-- [[D] Get decision rules for trained Isolation Forest outlier detection model](https://www.reddit.com/r/MachineLearning/comments/y8aidi/d_get_decision_rules_for_trained_isolation_forest/)
-- [[R] Is there an equivalent issue of robustness in using DNNs for regression problems?](https://www.reddit.com/r/MachineLearning/comments/y8ac18/r_is_there_an_equivalent_issue_of_robustness_in/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
