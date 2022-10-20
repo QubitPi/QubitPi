@@ -311,11 +311,11 @@ My Tech Blogs
 <img align="right" width="15%" src="./img/rua.png">
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Digital transformation with Google Cloud](https://www.deepmind.com/blog/digital-transformation-with-google-cloud)
 - [Measuring perception in AI models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
 - [How undesired goals can arise with correct rewards](https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards)
 - [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)
 - [Supporting the next generation of AI leaders](https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders)
-- [Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
