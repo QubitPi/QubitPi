@@ -337,11 +337,11 @@ My Tech Blogs
 ### [scrum.org](scrum.org) community blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How are Done and your Sprint Backlog related? 🚀 &lpar;73&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-sprint-backlog-related-73)
 - [Usable, Useful and Valuable](https://www.scrum.org/resources/blog/usable-useful-and-valuable)
 - [Porqué ser mentor es importante](https://www.scrum.org/resources/blog/porque-ser-mentor-es-importante)
 - [[VLOG] Product Vision, Product Goal and Product Roadmap in Scrum](https://www.scrum.org/resources/blog/vlog-product-vision-product-goal-and-product-roadmap-scrum)
 - [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
-- [How I use the Scrum Guide to Find My Why and Guide Decision Making](https://www.scrum.org/resources/blog/how-i-use-scrum-guide-find-my-why-and-guide-decision-making)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 
