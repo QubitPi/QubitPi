@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;#Graphtechnology works faster than traditional platforms in helping uncover hidden patterns and relationships, connecting various elements, traversin...](https://twitter.com/neo4j/status/1583054181820080128)
 - [🔎 Let&#39;s explore the Neo4j Graph Data Science Link Prediction pipeline with a practical use case! - with Philipp Brunenberg. #tutorial #GraphDataSci...](https://twitter.com/neo4j/status/1583005273727242240)
 - [Re @NAChristakis will be present at #NODES2022! 💥 Register! You&#39;ll find in-session chat, polls, and more... #Neo4j #keynotespeaker](https://twitter.com/neo4j/status/1582908720681742336)
 - [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: I *did* know that! Come join us for free, virtually, at NODES!!!](https://twitter.com/mkheck/status/1582891379646087168)
 - [Did you know that Mark Heckler is going to be present at #NODES2022?? 💯 Join the biggest online conference for graphistas across the globe for FREE...](https://twitter.com/neo4j/status/1582869260556111872)
-- [RT Jason Koo: Have you taken @neo4j&#39;s Python GraphAcademy course? We would love your feedback!](https://twitter.com/jalakoo/status/1582839128491962368)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
