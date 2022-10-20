@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] libtensorflow_cc: Pre-built TensorFlow C++ API](https://www.reddit.com/r/MachineLearning/comments/y8ymlx/p_libtensorflow_cc_prebuilt_tensorflow_c_api/)
 - [[D] Discussion Panel for FOSS Instruct](https://www.reddit.com/r/MachineLearning/comments/y8y8cm/d_discussion_panel_for_foss_instruct/)
 - [[R] Learnable strides in convolution neural networks](https://www.reddit.com/r/MachineLearning/comments/y8xmfj/r_learnable_strides_in_convolution_neural_networks/)
 - [Inter camera conversion [D]](https://www.reddit.com/r/MachineLearning/comments/y8xkb6/inter_camera_conversion_d/)
 - [[R] Hardware to train language representation model on half a billion text documents](https://www.reddit.com/r/MachineLearning/comments/y8qs5m/r_hardware_to_train_language_representation_model/)
-- [[D] How yo measure Inter rater reliability for detection tasks ?](https://www.reddit.com/r/MachineLearning/comments/y8ocbw/d_how_yo_measure_inter_rater_reliability_for/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
