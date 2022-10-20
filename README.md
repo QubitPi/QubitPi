@@ -551,11 +551,11 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=zDA4sUCPrEg)
 - [Road to NODES Workshop Series - Intro to Neo4j](https://www.youtube.com/watch?v=2oMqZUX1vZs)
 - [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://www.youtube.com/watch?v=5DZfOLspVDM)
-- [Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=H00eJPq2nDw)
+- [NODES 2022 Agenda Part II - Discover AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=H00eJPq2nDw)
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
-- [Esplora i tuoi dati con Neo4j Bloom](https://www.youtube.com/watch?v=h9Q1FpSQsg8)
 <!-- NEO4J-YOUTUBE:END -->
 
 #### JanusGraph
