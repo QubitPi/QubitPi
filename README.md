@@ -551,9 +551,9 @@ My Tech Blogs
 ##### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://www.youtube.com/watch?v=5DZfOLspVDM)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=zDA4sUCPrEg)
 - [Road to NODES Workshop Series - Intro to Neo4j](https://www.youtube.com/watch?v=2oMqZUX1vZs)
-- [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://www.youtube.com/watch?v=5DZfOLspVDM)
 - [NODES 2022 Agenda Part II - Discover AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=H00eJPq2nDw)
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
 <!-- NEO4J-YOUTUBE:END -->
