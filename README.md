@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] is a strong background in math/stats/cs in a necessary condition for becoming a renowned researcher in the ML community? *A passive rant*](https://www.reddit.com/r/MachineLearning/comments/y8r8ti/d_is_a_strong_background_in_mathstatscs_in_a/)
+- [[R] Hardware to train language representation model on half a billion text documents](https://www.reddit.com/r/MachineLearning/comments/y8qs5m/r_hardware_to_train_language_representation_model/)
+- [[D] How do you guys determine the convoluted layer filter size and the number of dense hidden layers in CNN](https://www.reddit.com/r/MachineLearning/comments/y8qr0l/d_how_do_you_guys_determine_the_convoluted_layer/)
+- [[D]Fast text not rendering what I was expecting when doing model.test](https://www.reddit.com/r/MachineLearning/comments/y8ptab/dfast_text_not_rendering_what_i_was_expecting/)
 - [[D] How yo measure Inter rater reliability for detection tasks ?](https://www.reddit.com/r/MachineLearning/comments/y8ocbw/d_how_yo_measure_inter_rater_reliability_for/)
-- [[D] Question about 5-minute poster videos for NeurIPS](https://www.reddit.com/r/MachineLearning/comments/y8m8gj/d_question_about_5minute_poster_videos_for_neurips/)
-- [[Research] Scholars Program](https://www.reddit.com/r/MachineLearning/comments/y8kpd0/research_scholars_program/)
-- [[R] State of the art audio classification](https://www.reddit.com/r/MachineLearning/comments/y8eun3/r_state_of_the_art_audio_classification/)
-- [[R] Anyone trained donut on SROIE dataset ?](https://www.reddit.com/r/MachineLearning/comments/y8e90x/r_anyone_trained_donut_on_sroie_dataset/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
