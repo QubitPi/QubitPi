@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] DDPM vs Score Matching](https://www.reddit.com/r/MachineLearning/comments/y92tln/d_ddpm_vs_score_matching/)
+- [[R] Deep models that take distributions as inputs](https://www.reddit.com/r/MachineLearning/comments/y92r69/r_deep_models_that_take_distributions_as_inputs/)
+- [[P] introduce the new python package for easily using mini-imagenet and tiny-imagenet: MLclf.](https://www.reddit.com/r/MachineLearning/comments/y92o6t/p_introduce_the_new_python_package_for_easily/)
 - [[P] libtensorflow_cc: Pre-built TensorFlow C++ API](https://www.reddit.com/r/MachineLearning/comments/y8ymlx/p_libtensorflow_cc_prebuilt_tensorflow_c_api/)
 - [[D] Discussion Panel for FOSS Instruct](https://www.reddit.com/r/MachineLearning/comments/y8y8cm/d_discussion_panel_for_foss_instruct/)
-- [[R] Learnable strides in convolution neural networks](https://www.reddit.com/r/MachineLearning/comments/y8xmfj/r_learnable_strides_in_convolution_neural_networks/)
-- [Inter camera conversion [D]](https://www.reddit.com/r/MachineLearning/comments/y8xkb6/inter_camera_conversion_d/)
-- [[R] Hardware to train language representation model on half a billion text documents](https://www.reddit.com/r/MachineLearning/comments/y8qs5m/r_hardware_to_train_language_representation_model/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
