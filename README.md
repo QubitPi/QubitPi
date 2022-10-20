@@ -486,11 +486,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Try out the ArangoDB-DGL Adapter! 🥑 The ArangoDB-DGL Adapter exports graphs from ArangoDB into Deep Graph Library &lpar;DGL&rpar;. This blog post provides a ...](https://twitter.com/arangodb/status/1582854115951988738)
 - [ArangoDB is going to be in Detroit next week, are you? 🔥 We will be sponsoring @KubeCon_ + @CloudNativeFdn North America, October 24th - 28th. 🚀...](https://twitter.com/arangodb/status/1582763521871204352)
 - [Go graph with ArangoDB! 🔥 Learn more about why users switch from relational to graph databases and how ArangoDB is the best way to do it. 🥑 Down...](https://twitter.com/arangodb/status/1582476636984774656)
 - [ArangoDB Developer Relations Engineer @cw00dw0rd will be at @AllThingsOpen 2022 this November! 🔥 Join him to learn more on &quot;Machine Learning + Grap...](https://twitter.com/arangodb/status/1582219936927449088)
 - [RT AWS User Group Vadodara: We are thrilled to announce our next speaker for AWS Community Day Vadodara 2022. @lakhansamani , Cloud Software Engineer ...](https://twitter.com/awsugbdq/status/1582206179626754048)
-- [Learn how Innoplexus used ArangoDB to create one database to manage the Innoplexus KOL discovery and management platform. Read the full case study bel...](https://twitter.com/arangodb/status/1582114242052116481)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
