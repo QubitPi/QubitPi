@@ -542,10 +542,10 @@ My Tech Blogs
 
 <!-- NEO4J-TWITTER:START -->
 - [Re @NAChristakis will be present at #NODES2022! 💥 Register! You&#39;ll find in-session chat, polls, and more... #Neo4j #keynotespeaker](https://twitter.com/neo4j/status/1582908720681742336)
+- [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: I *did* know that! Come join us for free, virtually, at NODES!!!](https://twitter.com/mkheck/status/1582891379646087168)
 - [Did you know that Mark Heckler is going to be present at #NODES2022?? 💯 Join the biggest online conference for graphistas across the globe for FREE...](https://twitter.com/neo4j/status/1582869260556111872)
+- [RT Jason Koo: Have you taken @neo4j&#39;s Python GraphAcademy course? We would love your feedback!](https://twitter.com/jalakoo/status/1582839128491962368)
 - [RT Tom Nijhof: YHEEE! Thanks to](https://twitter.com/wagenrace/status/1582831125008744450)
-- [Re @halftep Looks perfect. 👀 If you want to see Pierre’s talk: “Playing with state machines” on Nov 17 sign up at](https://twitter.com/neo4j/status/1582827621473132544)
-- [Bijeet Singh takes a look at graph native storage and how the data structures of Neo4j nodes and relationships are modeled and stored.👀 #Neo4j #dat...](https://twitter.com/neo4j/status/1582824012584886273)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
