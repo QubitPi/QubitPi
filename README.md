@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @NAChristakis will be present at #NODES2022! 💥 Register! You&#39;ll find in-session chat, polls, and more... #Neo4j #keynotespeaker](https://twitter.com/neo4j/status/1582908720681742336)
 - [Did you know that Mark Heckler is going to be present at #NODES2022?? 💯 Join the biggest online conference for graphistas across the globe for FREE...](https://twitter.com/neo4j/status/1582869260556111872)
 - [RT Tom Nijhof: YHEEE! Thanks to](https://twitter.com/wagenrace/status/1582831125008744450)
 - [Re @halftep Looks perfect. 👀 If you want to see Pierre’s talk: “Playing with state machines” on Nov 17 sign up at](https://twitter.com/neo4j/status/1582827621473132544)
 - [Bijeet Singh takes a look at graph native storage and how the data structures of Neo4j nodes and relationships are modeled and stored.👀 #Neo4j #dat...](https://twitter.com/neo4j/status/1582824012584886273)
-- [Re @nmervaillie Put the hoodie on :&rpar; Good luck with your talk Nicolas “RDBMS to Neo4j Real Time Data Sync with Debezium and Kafka” /cc @gunnarmorlin...](https://twitter.com/neo4j/status/1582821505599123456)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
