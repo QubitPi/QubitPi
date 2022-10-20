@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [#NODES2022&#39;s agenda is available! Check out the agenda for: 🌍Americas 🌍Asia Pacific 🌍Europe, the Middle East, and Africa Don&#39;t miss the 100+ ...](https://twitter.com/neo4j/status/1583201428126175232)
+- [Last chance to vote for the 2022 @datanami Readers’ Choice Awards! The program recognizes the best and brightest innovators within the global Big Dat...](https://twitter.com/neo4j/status/1583186360705617920)
+- [Meet the Code Golf Challenge Beginner Level Winner and Runner Ups!! Congratulations! Thank you to all participants! #codgolfchallenge #codingchallenge](https://twitter.com/neo4j/status/1583165441249513473)
 - [Re @julsraemy Great to hear about successful digital humanities projects 👍🏼 Any links to slides/recording?](https://twitter.com/neo4j/status/1583158929823236096)
 - [Integrate Neo4j into your Java project! How? Take this FREE training in #GraphAcademy 🎉 Start today: #Freetraining #GraphDataBase #Neo4j #Java](https://twitter.com/neo4j/status/1583156297381588995)
-- [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://twitter.com/neo4j/status/1583092119031676929)
-- [TODAY! 📢 2nd workhop of our Road to #NODES2022 series! We will perform modeling, data ingestion, and analytics of the FDA Adverse Event Reporting S...](https://twitter.com/neo4j/status/1583068299029778432)
-- [&quot;#Graphtechnology works faster than traditional platforms in helping uncover hidden patterns and relationships, connecting various elements, traversin...](https://twitter.com/neo4j/status/1583054181820080128)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
