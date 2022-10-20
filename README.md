@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ML startups in Amsterdam](https://www.reddit.com/r/MachineLearning/comments/y8u0kt/d_ml_startups_in_amsterdam/)
+- [[D] tfimm ViT](https://www.reddit.com/r/MachineLearning/comments/y8ttbu/d_tfimm_vit/)
+- [[D] Understanding Posterior Collapse.](https://www.reddit.com/r/MachineLearning/comments/y8tqif/d_understanding_posterior_collapse/)
 - [[Discussion] How does backpropagation work in a deep LSTM?](https://www.reddit.com/r/MachineLearning/comments/y8sbqn/discussion_how_does_backpropagation_work_in_a/)
 - [[D] is a strong background in math/stats/cs in a necessary condition for becoming a renowned researcher in the ML community? *A passive rant*](https://www.reddit.com/r/MachineLearning/comments/y8r8ti/d_is_a_strong_background_in_mathstatscs_in_a/)
-- [[R] Hardware to train language representation model on half a billion text documents](https://www.reddit.com/r/MachineLearning/comments/y8qs5m/r_hardware_to_train_language_representation_model/)
-- [[D] How do you guys determine the convoluted layer filter size and the number of dense hidden layers in CNN](https://www.reddit.com/r/MachineLearning/comments/y8qr0l/d_how_do_you_guys_determine_the_convoluted_layer/)
-- [[D]Fast text not rendering what I was expecting when doing model.test](https://www.reddit.com/r/MachineLearning/comments/y8ptab/dfast_text_not_rendering_what_i_was_expecting/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
