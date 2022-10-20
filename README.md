@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718954568926363657><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0898a32310d08d1a350aa163cf525ef7401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718984680936833031><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/11feadbf85780d1845dd39422af4737b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #寻星之旅# 亲爱的旅行者，全新活动「寻星之旅」即将开启！ 一切伟大旅程的第一步都是先迈出家门。好了，璀璨的世界即将在眼前展开！那么，接下来该往哪...](https://t.bilibili.com/718954568926363657)
