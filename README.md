@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Query : Working on Bladder cancer type detection model using RCNN](https://www.reddit.com/r/MachineLearning/comments/y9a473/d_query_working_on_bladder_cancer_type_detection/)
+- [[D] Is it worth paying a data sourcing company to crowdsource a bespoke dataset?](https://www.reddit.com/r/MachineLearning/comments/y992gf/d_is_it_worth_paying_a_data_sourcing_company_to/)
 - [[P] Virtual space that transforms based on EEG data &lpar;project&rpar;](https://www.reddit.com/r/MachineLearning/comments/y961hv/p_virtual_space_that_transforms_based_on_eeg_data/)
 - [[D] DDPM vs Score Matching](https://www.reddit.com/r/MachineLearning/comments/y92tln/d_ddpm_vs_score_matching/)
 - [[R] Deep models that take distributions as inputs](https://www.reddit.com/r/MachineLearning/comments/y92r69/r_deep_models_that_take_distributions_as_inputs/)
-- [[P] introduce the new python package for easily using mini-imagenet and tiny-imagenet: MLclf.](https://www.reddit.com/r/MachineLearning/comments/y92o6t/p_introduce_the_new_python_package_for_easily/)
-- [[P] libtensorflow_cc: Pre-built TensorFlow C++ API](https://www.reddit.com/r/MachineLearning/comments/y8ymlx/p_libtensorflow_cc_prebuilt_tensorflow_c_api/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
