@@ -541,11 +541,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @julsraemy Great to hear about successful digital humanities projects 👍🏼 Any links to slides/recording?](https://twitter.com/neo4j/status/1583158929823236096)
+- [Integrate Neo4j into your Java project! How? Take this FREE training in #GraphAcademy 🎉 Start today: #Freetraining #GraphDataBase #Neo4j #Java](https://twitter.com/neo4j/status/1583156297381588995)
 - [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://twitter.com/neo4j/status/1583092119031676929)
 - [TODAY! 📢 2nd workhop of our Road to #NODES2022 series! We will perform modeling, data ingestion, and analytics of the FDA Adverse Event Reporting S...](https://twitter.com/neo4j/status/1583068299029778432)
 - [&quot;#Graphtechnology works faster than traditional platforms in helping uncover hidden patterns and relationships, connecting various elements, traversin...](https://twitter.com/neo4j/status/1583054181820080128)
-- [🔎 Let&#39;s explore the Neo4j Graph Data Science Link Prediction pipeline with a practical use case! - with Philipp Brunenberg. #tutorial #GraphDataSci...](https://twitter.com/neo4j/status/1583005273727242240)
-- [Re @NAChristakis will be present at #NODES2022! 💥 Register! You&#39;ll find in-session chat, polls, and more... #Neo4j #keynotespeaker](https://twitter.com/neo4j/status/1582908720681742336)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
