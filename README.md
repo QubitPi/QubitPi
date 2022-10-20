@@ -521,11 +521,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1582994281576292352)
+- [Do you use this config setting when working with #git? #memgraph #coding](https://twitter.com/memgraphdb/status/1582991539780788224)
+- [.@dvrkps thank you very much for you all of your contributions to #Memgraph #opensource projects. 🎇🏆 @mbudiselicbuda has just merged your latest...](https://twitter.com/memgraphdb/status/1582989075736276995)
 - [Did you know that in graph databases, data relationships are represented by graph models? You can apply machine learning algorithms and other statisti...](https://twitter.com/memgraphdb/status/1582975406847639553)
 - [Check out our blog post 📰 #Twitch #Streaming #Graph Analysis - Part 2 ➡️](https://twitter.com/memgraphdb/status/1582740104598081536)
-- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1582719220470906880)
-- [Whenever you are not sure how to write a Cypher query, you can just take a look at this cheat sheet and try again! 🤣 #memgraph #graphdatabase #cyph...](https://twitter.com/memgraphdb/status/1582712422640406528)
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1582674170995183617)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
