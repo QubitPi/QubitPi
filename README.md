@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/718984680936833031><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/11feadbf85780d1845dd39422af4737b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719009750666182675><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ccd53a3511c835623e0239416e4eba8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神音乐# 《原神》须弥篇OST「智妙明论之林」宣传MV 现已发布！ https://www.bilibili.com/video/BV14e411V7Bi/ 本次须弥篇OST宣传MV以《For ...](https://t.bilibili.com/718984680936833031)
