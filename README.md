@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Virtual space that transforms based on EEG data &lpar;project&rpar;](https://www.reddit.com/r/MachineLearning/comments/y961hv/p_virtual_space_that_transforms_based_on_eeg_data/)
 - [[D] DDPM vs Score Matching](https://www.reddit.com/r/MachineLearning/comments/y92tln/d_ddpm_vs_score_matching/)
 - [[R] Deep models that take distributions as inputs](https://www.reddit.com/r/MachineLearning/comments/y92r69/r_deep_models_that_take_distributions_as_inputs/)
 - [[P] introduce the new python package for easily using mini-imagenet and tiny-imagenet: MLclf.](https://www.reddit.com/r/MachineLearning/comments/y92o6t/p_introduce_the_new_python_package_for_easily/)
 - [[P] libtensorflow_cc: Pre-built TensorFlow C++ API](https://www.reddit.com/r/MachineLearning/comments/y8ymlx/p_libtensorflow_cc_prebuilt_tensorflow_c_api/)
-- [[D] Discussion Panel for FOSS Instruct](https://www.reddit.com/r/MachineLearning/comments/y8y8cm/d_discussion_panel_for_foss_instruct/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
