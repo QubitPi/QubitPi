@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719349598543413287><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2c24ec7e0764c1ef2d98a68f32196d59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.2# #虚空鼓动劫火高扬# #3.2版本前瞻特别节目# 旅行者们大家好，又到了派蒙的特别节目预告时间&gt; &lt; 《原神》3.2版本前瞻特别节目将于10月23日（本...](https://t.bilibili.com/719349598543413287)
+- [《原神》风物集短片-蒙德篇](https://t.bilibili.com/719348670818943048)
 - [恭喜@曾安安哟 @怀念_不如相见 @黑白。瞳孔 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/719009750666182675)
 - [互动抽奖 #原神# #原神音乐# 《原神》须弥篇OST「智妙明论之林」宣传MV 现已发布！ https://www.bilibili.com/video/BV14e411V7Bi/ 本次须弥篇OST宣传MV以《For ...](https://t.bilibili.com/718984680936833031)
 - [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.1版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/718981863456112818)
-- [#原神# #原神表情包# 《原神》表情包「派蒙的画作第18弹」现已上线 亲爱的旅行者，「派蒙的画作第18弹」表情包现已陆续开放下载，欢迎前往【微信表情包商城】、...](https://t.bilibili.com/718980312967675938)
-- [互动抽奖 #原神# #原神音乐# #原神须弥# 亲爱的旅行者，《原神》须弥篇OST《智妙明论之林 Forest of Jnana and Vidya》现已正式上线！ 欢迎旅行者前往评论区置顶...](https://t.bilibili.com/718977684448739347)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
