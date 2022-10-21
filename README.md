@@ -399,9 +399,9 @@ My Tech Blogs
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 <!-- OPENSTACK-TWITTER:START -->
+- [RT OpenInfra Foundation: Nominations for Track Chairs close in ONE WEEK! Track Chairs for each Track will help build the #OpenInfraSummit schedule and...](https://twitter.com/openinfradev/status/1583518319596154880)
+- [RT Kendall Nelson @ the OpenInfraDev #PTG: Loving the collaboration at the @openinfradev #PTG @OpenStack #TC session where the @kubernetesio #TSC join...](https://twitter.com/knelson92/status/1583496794612600833)
 - [Check out @JayTheLinuxGuy&#39;s video on some considerations to keep in mind when building your own #OpenStack private cloud!](https://twitter.com/OpenStack/status/1583126586295201792)
-- [#OpenInfra Foundation Platinum Member, @RedHat, Releases version 17 targeting telco stability.](https://twitter.com/OpenStack/status/1582764209305452551)
-- [Are you an #OpenStack Operator? If you are, join the Nova Operator Hour Wednesday at 16:00UTC! Its just one of many operator and user focused discussi...](https://twitter.com/OpenStack/status/1582457115989270528)
 <!-- OPENSTACK-TWITTER:END -->
 
 <h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
