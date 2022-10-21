@@ -578,9 +578,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Wayflyer - Slide-overs](https://dribbble.com/shots/19470569)
 - [Taxi](https://dribbble.com/shots/19676034)
-- [Cub Studio Showreel 2022](https://dribbble.com/shots/19650011)
 - [SQUIRE - Booking Widget](https://dribbble.com/shots/19660093)
 - [Solana ☀️🏕](https://dribbble.com/shots/19651167)
+- [Milkinside wallet iOS app](https://dribbble.com/shots/19663094)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
