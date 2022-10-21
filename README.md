@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Crowdsourcing data collection and labelling - good or bad?](https://www.reddit.com/r/MachineLearning/comments/y9t2w9/d_crowdsourcing_data_collection_and_labelling/)
 - [[D] Curriculum Learning must read](https://www.reddit.com/r/MachineLearning/comments/y9seog/d_curriculum_learning_must_read/)
 - [[D] Do any major ML research groups focus on policy-making applications?](https://www.reddit.com/r/MachineLearning/comments/y9ryrd/d_do_any_major_ml_research_groups_focus_on/)
 - [[R] Neural Networks with noise on Inputs and Weights of each layer](https://www.reddit.com/r/MachineLearning/comments/y9r5po/r_neural_networks_with_noise_on_inputs_and/)
 - [[P] An open-sourced SOTA solution for portrait and human segmentation on mobile devices](https://www.reddit.com/r/MachineLearning/comments/y9pd87/p_an_opensourced_sota_solution_for_portrait_and/)
-- [[D] Do POSTER papers accepted in NeurIPS&#39; workshops published in the main NeurIPS proceedings?](https://www.reddit.com/r/MachineLearning/comments/y9ne7l/d_do_poster_papers_accepted_in_neurips_workshops/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
