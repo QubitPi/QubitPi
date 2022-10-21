@@ -488,11 +488,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
+- [Graph-based AI has entered the world of Enterprise. Learn how graph AI is an integral part of different use cases, including fraud detection and senti...](https://twitter.com/arangodb/status/1583578888369999872)
 - [ArangoDB Summit was our biggest virtual event to date! Were you able to attend? If not, don&#39;t sweat it - we have you covered with the recordings avail...](https://twitter.com/arangodb/status/1583488295019118593)
 - [Our graph course got an upgrade! 👀🔥 Learn more about graph databases with our 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗚𝗿𝗮...](https://twitter.com/arangodb/status/1583216510667218947)
 - [Explore eCommerce analytics with ArangoGraph Insights Platform. Check out our demo that lets you analyze actual data from Instacart orders in the app....](https://twitter.com/arangodb/status/1583125910676307968)
 - [Try out the ArangoDB-DGL Adapter! 🥑 The ArangoDB-DGL Adapter exports graphs from ArangoDB into Deep Graph Library &lpar;DGL&rpar;. This blog post provides a ...](https://twitter.com/arangodb/status/1582854115951988738)
-- [ArangoDB is going to be in Detroit next week, are you? 🔥 We will be sponsoring @KubeCon_ + @CloudNativeFdn North America, October 24th - 28th. 🚀...](https://twitter.com/arangodb/status/1582763521871204352)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
