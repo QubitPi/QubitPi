@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Scaling Instruction-Finetuned Language Models - Flan-PaLM- Google 2022 - 75.2% on five-shot MMLU / Forecasters expected this SOTA would need until 2024! - Public checkpoints!](https://www.reddit.com/r/MachineLearning/comments/ya5ofj/r_scaling_instructionfinetuned_language_models/)
 - [[D] NLP Specializations](https://www.reddit.com/r/MachineLearning/comments/ya47ll/d_nlp_specializations/)
 - [[D] how to create scores for variables in multidimensional scaling?](https://www.reddit.com/r/MachineLearning/comments/ya2841/d_how_to_create_scores_for_variables_in/)
 - [[D][R] Staking XGBOOST and CNN/Transformer](https://www.reddit.com/r/MachineLearning/comments/y9yuza/dr_staking_xgboost_and_cnntransformer/)
 - [[Discussion] Categorical Encoding In Deep Learning](https://www.reddit.com/r/MachineLearning/comments/y9xjnh/discussion_categorical_encoding_in_deep_learning/)
-- [[P] Look up words by their description](https://www.reddit.com/r/MachineLearning/comments/y9x4ac/p_look_up_words_by_their_description/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
