@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Dagmar Waltemath: 😍The most amazing event for #graphistas is near. On November 16 for 24 hrs, #NODES2022 will happen, one of the most exciting e...](https://twitter.com/dagmarwaltemath/status/1583555368441217026)
+- [📘 FREE BOOK - Graph Databases For Dummies you to the basics of graph database technology from building a rich graph data model to deploying your fi...](https://twitter.com/neo4j/status/1583531587458969600)
+- [RT hadi varposhti:](https://twitter.com/hadivarposhti/status/1583519829675610113)
 - [RT LARUS: Hi Graphists! Again this year we will participate in @Neo4j #NODES2022, the free online #graph tech conference for developers and data scien...](https://twitter.com/AgileLARUS/status/1583471172078825472)
 - [RT Gerrit Meier: Reminder: November 16-17 there will be #nodes2022 conference. The best things? Graphs &lpar;of course&rpar;, online and free.](https://twitter.com/meistermeier/status/1583428168282619905)
-- [RT Adam Cowley: 18MB of Football data from Transfermarkt, 6 CSV files, 1.1M nodes including 800 clubs, 58k games and almost 50k players mapped and imp...](https://twitter.com/adamcowley/status/1583405155005116417)
-- [RT GraphQL Galaxy 🗓 Dec 8-9: Bring the power of graphs to iOS mobile app development with this hands-on workshop. @lyonwj will show you how to use ...](https://twitter.com/GraphQLGalaxy/status/1583373935013502977)
-- [&quot;Handling Neo4j Data with Apache Hop&quot; is our next Road to NODES workshop! Join Matt Casters and learn all about Apache Hop. Register for free:](https://twitter.com/neo4j/status/1583367654966194177)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
