@@ -523,11 +523,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1583459205381783555)
+- [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1583443993580679168)
 - [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1583398954506805250)
 - [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1583365980318666752)
 - [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1583341568383397888)
-- [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1583132694216847362)
-- [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. In the blog post below, you ...](https://twitter.com/memgraphdb/status/1583074811626283010)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
