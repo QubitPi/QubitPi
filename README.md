@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Curriculum Learning must read](https://www.reddit.com/r/MachineLearning/comments/y9seog/d_curriculum_learning_must_read/)
-- [[D] Do any major ML research groups focus on policy-making applications?](https://www.reddit.com/r/MachineLearning/comments/y9ryrd/d_do_any_major_ml_research_groups_focus_on/)
-- [[R] Neural Networks with noise on Inputs and Weights of each layer](https://www.reddit.com/r/MachineLearning/comments/y9r5po/r_neural_networks_with_noise_on_inputs_and/)
-- [[P] An open-sourced SOTA solution for portrait and human segmentation on mobile devices](https://www.reddit.com/r/MachineLearning/comments/y9pd87/p_an_opensourced_sota_solution_for_portrait_and/)
-- [[D] Do POSTER papers accepted in NeurIPS&#39; workshops published in the main NeurIPS proceedings?](https://www.reddit.com/r/MachineLearning/comments/y9ne7l/d_do_poster_papers_accepted_in_neurips_workshops/)
+- [[D][R] Staking XGBOOST and CNN/Transformer](https://www.reddit.com/r/MachineLearning/comments/y9yuza/dr_staking_xgboost_and_cnntransformer/)
+- [[Discussion] Categorical Encoding In Deep Learning](https://www.reddit.com/r/MachineLearning/comments/y9xjnh/discussion_categorical_encoding_in_deep_learning/)
+- [[P] Look up words by their description](https://www.reddit.com/r/MachineLearning/comments/y9x4ac/p_look_up_words_by_their_description/)
+- [[D] Hattie Zhou, Mila, on supermasks, iterative learning, and fortuitous forgetting](https://www.reddit.com/r/MachineLearning/comments/y9wr9l/d_hattie_zhou_mila_on_supermasks_iterative/)
+- [[R] Explaining Patterns in Data with Interpretable Autoprompting](https://www.reddit.com/r/MachineLearning/comments/y9wqx3/r_explaining_patterns_in_data_with_interpretable/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
