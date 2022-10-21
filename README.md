@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Simons: #Neo4j #Nodes2022 will happen November 16 and 17th for 24 hours around the globe. Sign up here and listen to my colleagues and mayb...](https://twitter.com/rotnroll666/status/1583330562688700416)
+- [RT Ravi Nayyar: Re @Google: &#39;[GUAC] aggregates software security metadata into a high fidelity graph database—normalizing entity identities and mappi...](https://twitter.com/ravirockks/status/1583325538617536513)
 - [#NODES2022&#39;s agenda is available! Check out the agenda for: 🌍Americas 🌍Asia Pacific 🌍Europe, the Middle East, and Africa Don&#39;t miss the 100+ ...](https://twitter.com/neo4j/status/1583201428126175232)
 - [Last chance to vote for the 2022 @datanami Readers’ Choice Awards! The program recognizes the best and brightest innovators within the global Big Dat...](https://twitter.com/neo4j/status/1583186360705617920)
 - [Meet the Code Golf Challenge Beginner Level Winner and Runner Ups!! Congratulations! Thank you to all participants! #codgolfchallenge #codingchallenge](https://twitter.com/neo4j/status/1583165441249513473)
-- [Re @julsraemy Great to hear about successful digital humanities projects 👍🏼 Any links to slides/recording?](https://twitter.com/neo4j/status/1583158929823236096)
-- [Integrate Neo4j into your Java project! How? Take this FREE training in #GraphAcademy 🎉 Start today: #Freetraining #GraphDataBase #Neo4j #Java](https://twitter.com/neo4j/status/1583156297381588995)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
