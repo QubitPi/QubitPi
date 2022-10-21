@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Curriculum Learning must read](https://www.reddit.com/r/MachineLearning/comments/y9seog/d_curriculum_learning_must_read/)
+- [[D] Do any major ML research groups focus on policy-making applications?](https://www.reddit.com/r/MachineLearning/comments/y9ryrd/d_do_any_major_ml_research_groups_focus_on/)
 - [[R] Neural Networks with noise on Inputs and Weights of each layer](https://www.reddit.com/r/MachineLearning/comments/y9r5po/r_neural_networks_with_noise_on_inputs_and/)
-- [[P] Open-source SOTA Solution for Portrait and Human Segmentation &lpar;5.7k stars&rpar;](https://www.reddit.com/r/MachineLearning/comments/y9qoun/p_opensource_sota_solution_for_portrait_and_human/)
 - [[P] An open-sourced SOTA solution for portrait and human segmentation on mobile devices](https://www.reddit.com/r/MachineLearning/comments/y9pd87/p_an_opensourced_sota_solution_for_portrait_and/)
 - [[D] Do POSTER papers accepted in NeurIPS&#39; workshops published in the main NeurIPS proceedings?](https://www.reddit.com/r/MachineLearning/comments/y9ne7l/d_do_poster_papers_accepted_in_neurips_workshops/)
-- [[D] Accurate blogs on machine learning?](https://www.reddit.com/r/MachineLearning/comments/y9n120/d_accurate_blogs_on_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
