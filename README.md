@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Neural Networks with noise on Inputs and Weights of each layer](https://www.reddit.com/r/MachineLearning/comments/y9r5po/r_neural_networks_with_noise_on_inputs_and/)
+- [[P] Open-source SOTA Solution for Portrait and Human Segmentation &lpar;5.7k stars&rpar;](https://www.reddit.com/r/MachineLearning/comments/y9qoun/p_opensource_sota_solution_for_portrait_and_human/)
 - [[P] An open-sourced SOTA solution for portrait and human segmentation on mobile devices](https://www.reddit.com/r/MachineLearning/comments/y9pd87/p_an_opensourced_sota_solution_for_portrait_and/)
-- [[D] AAAI 2023 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/y9nns2/d_aaai_2023_paper_reviews/)
 - [[D] Do POSTER papers accepted in NeurIPS&#39; workshops published in the main NeurIPS proceedings?](https://www.reddit.com/r/MachineLearning/comments/y9ne7l/d_do_poster_papers_accepted_in_neurips_workshops/)
 - [[D] Accurate blogs on machine learning?](https://www.reddit.com/r/MachineLearning/comments/y9n120/d_accurate_blogs_on_machine_learning/)
-- [[D] The performance of BERT vs. mBERT is roughly the same for text classification on sequences containing two languages. What could be the reason why?](https://www.reddit.com/r/MachineLearning/comments/y9j1hq/d_the_performance_of_bert_vs_mbert_is_roughly_the/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
