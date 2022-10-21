@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719009750666182675><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ccd53a3511c835623e0239416e4eba8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719349598543413287><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2c24ec7e0764c1ef2d98a68f32196d59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@曾安安哟 @怀念_不如相见 @黑白。瞳孔 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/719009750666182675)
