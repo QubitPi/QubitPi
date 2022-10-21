@@ -523,11 +523,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. #memgraph #gr...](https://twitter.com/memgraphdb/status/1583489215551397888)
+- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1583487532032937986)
+- [Long read: &quot;State of CSS 2022 - Web styling features of today and tomorrow, as seen at Google IO 2022, plus some extras&quot; by @argyleink published at @C...](https://twitter.com/memgraphdb/status/1583466196459868162)
+- [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1583464880954228736)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1583459205381783555)
-- [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1583443993580679168)
-- [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1583398954506805250)
-- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1583365980318666752)
-- [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1583341568383397888)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
