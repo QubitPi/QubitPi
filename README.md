@@ -99,11 +99,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》风物集短片-蒙德篇](https://ys.mihoyo.com/main/news/detail/24312)
+- [《原神》3.2版本前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/24311)
 - [《原神》「壁纸放送」](https://ys.mihoyo.com/main/news/detail/24302)
 - [《原神》表情包「派蒙的画作第18弹」现已上线](https://ys.mihoyo.com/main/news/detail/24301)
 - [《原神》须弥篇OST现已正式上线！](https://ys.mihoyo.com/main/news/detail/24300)
-- [《原神》「寻星之旅」玩法说明](https://ys.mihoyo.com/main/news/detail/24295)
-- [《原神》「寻星之旅」活动即将开启](https://ys.mihoyo.com/main/news/detail/24292)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
