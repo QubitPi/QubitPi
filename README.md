@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT GraphQL Galaxy 🗓 Dec 8-9: Bring the power of graphs to iOS mobile app development with this hands-on workshop. @lyonwj will show you how to use ...](https://twitter.com/GraphQLGalaxy/status/1583373935013502977)
+- [&quot;Handling Neo4j Data with Apache Hop&quot; is our next Road to NODES workshop! Join Matt Casters and learn all about Apache Hop. Register for free:](https://twitter.com/neo4j/status/1583367654966194177)
+- [RT Matt Casters: Next Tuesday it&#39;s happening! Our free 2h #NODES2022 workshop will showcase how you can use @ApacheHop to handle your Neo4j data. We&#39;v...](https://twitter.com/mattcasters/status/1583346439375048705)
 - [RT Michael Simons: #Neo4j #Nodes2022 will happen November 16 and 17th for 24 hours around the globe. Sign up here and listen to my colleagues and mayb...](https://twitter.com/rotnroll666/status/1583330562688700416)
 - [RT Ravi Nayyar: Re @Google: &#39;[GUAC] aggregates software security metadata into a high fidelity graph database—normalizing entity identities and mappi...](https://twitter.com/ravirockks/status/1583325538617536513)
-- [#NODES2022&#39;s agenda is available! Check out the agenda for: 🌍Americas 🌍Asia Pacific 🌍Europe, the Middle East, and Africa Don&#39;t miss the 100+ ...](https://twitter.com/neo4j/status/1583201428126175232)
-- [Last chance to vote for the 2022 @datanami Readers’ Choice Awards! The program recognizes the best and brightest innovators within the global Big Dat...](https://twitter.com/neo4j/status/1583186360705617920)
-- [Meet the Code Golf Challenge Beginner Level Winner and Runner Ups!! Congratulations! Thank you to all participants! #codgolfchallenge #codingchallenge](https://twitter.com/neo4j/status/1583165441249513473)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
