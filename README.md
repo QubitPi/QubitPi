@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Bereits 2025 wird laut Gartner bei 80 Prozent der Datenanalysen #Graphtechnologie zum Einsatz kommen. Graph Data Science liefert hierfür die Basis vi...](https://twitter.com/neo4j/status/1583667724974436352)
 - [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1583621667657375745)
 - [RT Dagmar Waltemath: 😍The most amazing event for #graphistas is near. On November 16 for 24 hrs, #NODES2022 will happen, one of the most exciting e...](https://twitter.com/dagmarwaltemath/status/1583555368441217026)
 - [📘 FREE BOOK - Graph Databases For Dummies you to the basics of graph database technology from building a rich graph data model to deploying your fi...](https://twitter.com/neo4j/status/1583531587458969600)
 - [RT hadi varposhti:](https://twitter.com/hadivarposhti/status/1583519829675610113)
-- [RT LARUS: Hi Graphists! Again this year we will participate in @Neo4j #NODES2022, the free online #graph tech conference for developers and data scien...](https://twitter.com/AgileLARUS/status/1583471172078825472)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
