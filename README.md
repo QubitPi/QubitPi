@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @favour_fyac For CSV loading check out the data importer app Also explained in the graphacademy course on data import](https://twitter.com/neo4j/status/1583716049748627456)
+- [Re @favour_fyac See the cypher for beginners course here In general First create nodes Then relationships Match &lpar;from:Label&rpar; where from. id = $fromId ...](https://twitter.com/neo4j/status/1583715560717946880)
 - [Bereits 2025 wird laut Gartner bei 80 Prozent der Datenanalysen #Graphtechnologie zum Einsatz kommen. Graph Data Science liefert hierfür die Basis vi...](https://twitter.com/neo4j/status/1583667724974436352)
+- [RT Maruthi Prithivi: #NODES2022&#39;s agenda is available! Check out the agenda for: 🌍Americas 🌍Asia Pacific 🌍Europe, the Middle East, and Africa...](https://twitter.com/maruthiprithivi/status/1583665455721771008)
 - [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1583621667657375745)
-- [RT Dagmar Waltemath: 😍The most amazing event for #graphistas is near. On November 16 for 24 hrs, #NODES2022 will happen, one of the most exciting e...](https://twitter.com/dagmarwaltemath/status/1583555368441217026)
-- [📘 FREE BOOK - Graph Databases For Dummies you to the basics of graph database technology from building a rich graph data model to deploying your fi...](https://twitter.com/neo4j/status/1583531587458969600)
-- [RT hadi varposhti:](https://twitter.com/hadivarposhti/status/1583519829675610113)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
