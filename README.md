@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [A Different Kind of AI Risk: Artificial Suffering [D]](https://www.reddit.com/r/MachineLearning/comments/yannr7/a_different_kind_of_ai_risk_artificial_suffering_d/)
+- [[R] Interesting Ai Apps](https://www.reddit.com/r/MachineLearning/comments/yammhc/r_interesting_ai_apps/)
 - [[D] Any pre trained retrieval based language models available?](https://www.reddit.com/r/MachineLearning/comments/yakn9y/d_any_pre_trained_retrieval_based_language_models/)
 - [[P] txtai 5.1 released - new translation models, OpenAI Whisper transcription and ARM Docker images](https://www.reddit.com/r/MachineLearning/comments/yajwrf/p_txtai_51_released_new_translation_models_openai/)
 - [[Discussion] Today I walk you through how to use Luma AI &lpar;NeRF&rpar; and Unity to scan real world objects where I scan a few figures, import them into Unity, use the high definition rendering pipeline, and cinemachine to give the project a cinematic look &lpar;full video in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/yahivl/discussion_today_i_walk_you_through_how_to_use/)
-- [[D] TabPFN A Transformer That Solves Small Tabular Classification Problems in a Second &lpar;SOTA on tabular data with no training&rpar;](https://www.reddit.com/r/MachineLearning/comments/ya9r9l/d_tabpfn_a_transformer_that_solves_small_tabular/)
-- [[R] Scaling Instruction-Finetuned Language Models - Flan-PaLM- Google 2022 - 75.2% on five-shot MMLU / Forecasters expected this SOTA would need until 2024! - Public checkpoints!](https://www.reddit.com/r/MachineLearning/comments/ya5ofj/r_scaling_instructionfinetuned_language_models/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
