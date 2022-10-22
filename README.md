@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] NeurIPS 2022 Statistics](https://www.reddit.com/r/MachineLearning/comments/yatiej/d_neurips_2022_statistics/)
+- [[D] What things did you learn in ML theory that are, in practice, different?](https://www.reddit.com/r/MachineLearning/comments/yas9k0/d_what_things_did_you_learn_in_ml_theory_that_are/)
 - [[D] Object Detection using Node-RED TensorFlow node](https://www.reddit.com/r/MachineLearning/comments/yaqmn3/d_object_detection_using_nodered_tensorflow_node/)
 - [[R][P] Runway Stable Diffusion Inpainting: Erase and Replace, add a mask and text prompt to replace objects in an image](https://www.reddit.com/r/MachineLearning/comments/yaqlvi/rp_runway_stable_diffusion_inpainting_erase_and/)
 - [[R] Interesting Ai Apps](https://www.reddit.com/r/MachineLearning/comments/yammhc/r_interesting_ai_apps/)
-- [[D] Any pre trained retrieval based language models available?](https://www.reddit.com/r/MachineLearning/comments/yakn9y/d_any_pre_trained_retrieval_based_language_models/)
-- [[P] txtai 5.1 released - new translation models, OpenAI Whisper transcription and ARM Docker images](https://www.reddit.com/r/MachineLearning/comments/yajwrf/p_txtai_51_released_new_translation_models_openai/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
