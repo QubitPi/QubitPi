@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] is it necessary to convert audio data from analog to digital?](https://www.reddit.com/r/MachineLearning/comments/yazfo3/p_is_it_necessary_to_convert_audio_data_from/)
 - [[Discussion] Hopfield network](https://www.reddit.com/r/MachineLearning/comments/yaz464/discussion_hopfield_network/)
 - [[Research] CORL: Offline Reinforcement Learning Library](https://www.reddit.com/r/MachineLearning/comments/yawcyk/research_corl_offline_reinforcement_learning/)
 - [[D] NeurIPS 2022 Statistics](https://www.reddit.com/r/MachineLearning/comments/yatiej/d_neurips_2022_statistics/)
 - [[D] What things did you learn in ML theory that are, in practice, different?](https://www.reddit.com/r/MachineLearning/comments/yas9k0/d_what_things_did_you_learn_in_ml_theory_that_are/)
-- [[R][P] Runway Stable Diffusion Inpainting: Erase and Replace, add a mask and text prompt to replace objects in an image](https://www.reddit.com/r/MachineLearning/comments/yaqlvi/rp_runway_stable_diffusion_inpainting_erase_and/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
