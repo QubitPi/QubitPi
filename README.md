@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719349598543413287><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2c24ec7e0764c1ef2d98a68f32196d59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/719720052364935257><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/268317c1b38c6d2c2b0cfa7846e2cbba401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #郁林寻音# 「郁林寻音」——《原神》须弥篇OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「郁林寻音」H5活动。 笔尖在纸页上划过 记...](https://t.bilibili.com/719720052364935257)
