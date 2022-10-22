@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] txtai 5.1 released - new translation models, OpenAI Whisper transcription and ARM Docker images](https://www.reddit.com/r/MachineLearning/comments/yajwrf/p_txtai_51_released_new_translation_models_openai/)
+- [[D] What is the difference between self-supervised learning and active learning?](https://www.reddit.com/r/MachineLearning/comments/yajnqc/d_what_is_the_difference_between_selfsupervised/)
 - [[Research]Goofing off - ML model to make the ultimate gay porn](https://www.reddit.com/r/MachineLearning/comments/yai4h6/researchgoofing_off_ml_model_to_make_the_ultimate/)
 - [[Discussion] Today I walk you through how to use Luma AI &lpar;NeRF&rpar; and Unity to scan real world objects where I scan a few figures, import them into Unity, use the high definition rendering pipeline, and cinemachine to give the project a cinematic look &lpar;full video in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/yahivl/discussion_today_i_walk_you_through_how_to_use/)
 - [[N] Webinar: Algotrading using ML and AI](https://www.reddit.com/r/MachineLearning/comments/yafxeo/n_webinar_algotrading_using_ml_and_ai/)
-- [[D] TabPFN A Transformer That Solves Small Tabular Classification Problems in a Second &lpar;SOTA on tabular data with no training&rpar;](https://www.reddit.com/r/MachineLearning/comments/ya9r9l/d_tabpfn_a_transformer_that_solves_small_tabular/)
-- [[R] Scaling Instruction-Finetuned Language Models - Flan-PaLM- Google 2022 - 75.2% on five-shot MMLU / Forecasters expected this SOTA would need until 2024! - Public checkpoints!](https://www.reddit.com/r/MachineLearning/comments/ya5ofj/r_scaling_instructionfinetuned_language_models/)
 <!-- REDDIT-ML:END -->
 
 ### Study Notes
