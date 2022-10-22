@@ -543,11 +543,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Martin Junghanns: Happy to announce that @knutwalker and myself will talk about &quot;Native Graph Algorithms in Rust&quot; at #Neo4j #NODES2022 on November,...](https://twitter.com/kc1s/status/1583732350894059520)
 - [Re @favour_fyac For CSV loading check out the data importer app Also explained in the graphacademy course on data import](https://twitter.com/neo4j/status/1583716049748627456)
 - [Re @favour_fyac See the cypher for beginners course here In general First create nodes Then relationships Match &lpar;from:Label&rpar; where from. id = $fromId ...](https://twitter.com/neo4j/status/1583715560717946880)
 - [Bereits 2025 wird laut Gartner bei 80 Prozent der Datenanalysen #Graphtechnologie zum Einsatz kommen. Graph Data Science liefert hierfür die Basis vi...](https://twitter.com/neo4j/status/1583667724974436352)
 - [RT Maruthi Prithivi: #NODES2022&#39;s agenda is available! Check out the agenda for: 🌍Americas 🌍Asia Pacific 🌍Europe, the Middle East, and Africa...](https://twitter.com/maruthiprithivi/status/1583665455721771008)
-- [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1583621667657375745)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
