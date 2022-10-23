@@ -476,11 +476,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
 
 <!-- ARANGO-TWITTER:START -->
-- [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1584213070016303104)
 - [New to ArangoDB? Try out our Udemy training! 🥑 Register and get started today. 🔥](https://twitter.com/arangodb/status/1583850691868897280)
 - [Graph-based AI has entered the world of Enterprise. Learn how graph AI is an integral part of different use cases, including fraud detection and senti...](https://twitter.com/arangodb/status/1583578888369999872)
 - [ArangoDB Summit was our biggest virtual event to date! Were you able to attend? If not, don&#39;t sweat it - we have you covered with the recordings avail...](https://twitter.com/arangodb/status/1583488295019118593)
 - [Our graph course got an upgrade! 👀🔥 Learn more about graph databases with our 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗚𝗿𝗮...](https://twitter.com/arangodb/status/1583216510667218947)
+- [Explore eCommerce analytics with ArangoGraph Insights Platform. Check out our demo that lets you analyze actual data from Instacart orders in the app....](https://twitter.com/arangodb/status/1583125910676307968)
 <!-- ARANGO-TWITTER:END -->
 
 ##### Official Blogs
