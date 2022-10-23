@@ -362,7 +362,7 @@ My Tech Blogs
 - [Check out @JayTheLinuxGuy&#39;s video on some considerations to keep in mind when building your own #OpenStack private cloud!](https://twitter.com/OpenStack/status/1583126586295201792)
 <!-- OPENSTACK-TWITTER:END -->
 
-<h4><a href="https://hub.docker.com/r/jack20191124/">DockerHub Blogs</a></h4>
+<h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
@@ -374,12 +374,14 @@ My Tech Blogs
 - [How to Fix and Debug Docker Containers Like a Superhero](https://www.docker.com/blog/how-to-fix-and-debug-docker-containers-like-a-superhero/)
 <!-- DOCKERHUB-BLOG:END -->
 
-<h4><img width="5%" src="./img/kubernetes-icon.png"></h4>
+<h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
+
+<img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 ##### Blogs
 
 <!-- KUBERNETES-BLOG:START -->
-- [Blog: Server Side Apply Is Great And You Should Be Using It](https://kubernetes.io/blog/2022/10/20/advanced-server-side-apply/)
+- [Blog: Server Side Apply Is Great And You Should Be Using It](https:///2022/10/20/advanced-server-side-apply/)
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
 - [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
 - [Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces](https://kubernetes.io/blog/2022/10/03/userns-alpha/)
