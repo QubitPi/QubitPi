@@ -346,13 +346,15 @@ My Tech Blogs
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
-#### Study Notes
-
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
+
+#### Study Notes
 
 * [OpenStack 101](https://youtu.be/locCs2Duk5U)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
+
+#### OpenStack News
 
 <!-- OPENSTACK-SUPERUSER:START -->
 - [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-49/)
@@ -388,17 +390,15 @@ My Tech Blogs
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
-
 <!-- KUBERNETES-DOC-CHANGES:START --><li>Sat Oct 22 2022 9:07 AM <a href=https://github.com/kubernetes/website/commit/1e1fd08cd5131320d3bb06f85d141cd52ecc7e33>Merge pull request #36498 from Krishnamohan-Yerrabilli/new_branch</a></li><li>Sat Oct 22 2022 8:57 AM <a href=https://github.com/kubernetes/website/commit/4594d02f8dd62131b0f01c1c44e20fb6f3ae816c>Update content/en/docs/tutorials/kubernetes-basics/expose/expose-intro.html</a></li><li>Sat Oct 22 2022 8:53 AM <a href=https://github.com/kubernetes/website/commit/8eb5e4650c5755e5604d249453b7b93806d5fb2c>Merge pull request #35990 from shannonxtreme/patch-3</a></li><li>Sat Oct 22 2022 8:43 AM <a href=https://github.com/kubernetes/website/commit/0f95030f8d4c93ba55f614320a36cde785683fc4>Merge pull request #36674 from ryparker/patch-1</a></li><li>Fri Oct 21 2022 10:53 PM <a href=https://github.com/kubernetes/website/commit/b2f830f5be32ff08684ba8a6a25d65835d1c1741>Merge pull request #36672 from sftim/20220411_remove_misleading_service_clusterip_detail</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
 #### [Helm Documentation](https://helm.sh/docs/) Updates
 
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
-
 <!-- HELM-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:39 PM <a href=https://github.com/helm/helm-www/commit/d8426eb209247babf240cf3d0f45ffea3d120e06>Update Helm booth heading</a></li><li>Fri Oct 14 2022 5:05 PM <a href=https://github.com/helm/helm-www/commit/f1e87f4706bfdc1b11c26e89b7f5e012186a0ecb>Merge pull request #1365 from helm/karenhchu-patch-1</a></li><li>Fri Oct 14 2022 12:03 AM <a href=https://github.com/helm/helm-www/commit/0b39c4f35fe17699236909d50d9ade42425dbd5b>Update heading</a></li><li>Thu Oct 13 2022 10:55 PM <a href=https://github.com/helm/helm-www/commit/f63633d8900d1550b8e886f18c4716888f5d2164>Update with more of Bridget&#39;s edits</a></li><li>Thu Oct 13 2022 10:23 PM <a href=https://github.com/helm/helm-www/commit/6366088f5d07e6e2e8179d79dec96bbaeb34d274>Update with Bridget&#39;s comments</a></li><!-- HELM-DOC-CHANGES:END -->
 
 #### Study Notes
+
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 * [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/finalized/2022/06/25/docker-troubleshooting.html)
