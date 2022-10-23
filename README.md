@@ -268,8 +268,6 @@ My Tech Blogs
 
 ### New Tech Blogs
 
-<img align="right" alt="七七" width="30%" src="https://user-images.githubusercontent.com/16126939/193009585-32a8fbc4-81f1-43e9-b6fc-926da5bf36b9.png">
-
 <!-- BLOG-POST-LIST:START -->
 - [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
 - [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
@@ -323,7 +321,7 @@ My Tech Blogs
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
-### Study Notes
+### <img width="5%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 * [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
 
