@@ -500,11 +500,9 @@ My Tech Blogs
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 
-### Memgraph
+<h3><img width="30%" src="./img/memgraph-logo.png"></h3>
 
 #### Twitter
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1584209539259252738)
@@ -523,8 +521,6 @@ My Tech Blogs
 ### Neo4J
 
 #### Twitter
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
 - [#Knowledgegraphs have immense analytical power and can significantly help #supplychains in Asia weather disruptions and mitigate issues. Find out more...](https://twitter.com/neo4j/status/1584190176737525761)
@@ -545,8 +541,6 @@ My Tech Blogs
 <!-- NEO4J-YOUTUBE:END -->
 
 ### JanusGraph
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188538990-70fc7280-0772-446e-a6ae-8b8af1043c68.gif">
 
 <!-- JANUSGRAPH-TWITTER:START -->
 - [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration #graph #NoSQL #ScyllaDB #OpenSource #DEVCommun...](https://twitter.com/ScyllaDB/status/1565384501559279616)
