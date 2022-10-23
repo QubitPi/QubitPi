@@ -344,7 +344,7 @@ My Tech Blogs
 - [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
-<h3><a href="https://www.openstack.org/"><img width="10%" aligh="right" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
+<h3><a href="https://www.openstack.org/"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
 #### Study Notes
 
