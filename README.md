@@ -344,10 +344,6 @@ My Tech Blogs
 - [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
-
-
-
-
 <h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
 
 #### Twitter
@@ -443,6 +439,12 @@ My Tech Blogs
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 <!-- HELM-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:39 PM <a href=https://github.com/helm/helm-www/commit/d8426eb209247babf240cf3d0f45ffea3d120e06>Update Helm booth heading</a></li><li>Fri Oct 14 2022 5:05 PM <a href=https://github.com/helm/helm-www/commit/f1e87f4706bfdc1b11c26e89b7f5e012186a0ecb>Merge pull request #1365 from helm/karenhchu-patch-1</a></li><li>Fri Oct 14 2022 12:03 AM <a href=https://github.com/helm/helm-www/commit/0b39c4f35fe17699236909d50d9ade42425dbd5b>Update heading</a></li><li>Thu Oct 13 2022 10:55 PM <a href=https://github.com/helm/helm-www/commit/f63633d8900d1550b8e886f18c4716888f5d2164>Update with more of Bridget&#39;s edits</a></li><li>Thu Oct 13 2022 10:23 PM <a href=https://github.com/helm/helm-www/commit/6366088f5d07e6e2e8179d79dec96bbaeb34d274>Update with Bridget&#39;s comments</a></li><!-- HELM-DOC-CHANGES:END -->
+
+##### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
+
+<!-- JENKINS-DOC-CHANGES:START -->
+
+<!-- JENKINS-DOC-CHANGES:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
