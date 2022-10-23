@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Stock Price Prediction_Suggestions on modifying Train and Test Data](https://www.reddit.com/r/MachineLearning/comments/ybkb12/p_stock_price_prediction_suggestions_on_modifying/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/ybjvk5/d_simple_questions_thread/)
 - [[D][P] Space Invaders while Model Training](https://www.reddit.com/r/MachineLearning/comments/ybdsm8/dp_space_invaders_while_model_training/)
 - [[D] Building the Future of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/ybd43b/d_building_the_future_of_tensorflow/)
 - [[P] Seq-nms in PyTorch](https://www.reddit.com/r/MachineLearning/comments/ybc9ha/p_seqnms_in_pytorch/)
-- [[R]Stochastic Gradient MCMC](https://www.reddit.com/r/MachineLearning/comments/yb7yn8/rstochastic_gradient_mcmc/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
