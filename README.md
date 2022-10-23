@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/720121713411489872><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e9169c65db7342962d72044cceeed1fb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/720213282106900480><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2c24ec7e0764c1ef2d98a68f32196d59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，3.2版本前瞻特别节目马上开始~[原神_哇] 直播间地址：https://live.bilibili.com/21987615](https://t.bilibili.com/720213282106900480)
