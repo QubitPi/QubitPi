@@ -300,11 +300,11 @@ My Tech Blogs
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Google at ECCV 2022](http://ai.googleblog.com/2022/10/google-at-eccv-2022.html)
 - [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](http://ai.googleblog.com/2022/10/pi-ars-accelerating-evolution-learned.html)
 - [MUSIQ: Assessing Image Aesthetic and Technical Quality with Multi-scale Transformers](http://ai.googleblog.com/2022/10/musiq-assessing-image-aesthetic-and.html)
 - [Do Modern ImageNet Classifiers Accurately Predict Perceptual Similarity?](http://ai.googleblog.com/2022/10/do-modern-imagenet-classifiers.html)
 - [Table Tennis: A Research Platform for Agile Robotics](http://ai.googleblog.com/2022/10/table-tennis-research-platform-for.html)
-- [UL2 20B: An Open Source Unified Language Learner](http://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
