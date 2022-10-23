@@ -418,7 +418,7 @@ My Tech Blogs
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
 
-<h3><a href="https://www.graphql.com/"><img width="15%" src="./img/graphql-logo.png"></a></h3>
+<h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
 #### Twitter
 
