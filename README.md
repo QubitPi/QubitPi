@@ -312,11 +312,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Is there any open-source realistic human-like TTS?](https://www.reddit.com/r/MachineLearning/comments/ybtfvt/r_is_there_any_opensource_realistic_humanlike_tts/)
 - [[R] Speech-to-speech translation for a real-world unwritten language](https://www.reddit.com/r/MachineLearning/comments/ybnnra/r_speechtospeech_translation_for_a_realworld/)
 - [[D] Comprehension issues with papers from non-English speakers](https://www.reddit.com/r/MachineLearning/comments/ybmppu/d_comprehension_issues_with_papers_from/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/ybjvk5/d_simple_questions_thread/)
 - [[D] Building the Future of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/ybd43b/d_building_the_future_of_tensorflow/)
+- [[P] Seq-nms in PyTorch](https://www.reddit.com/r/MachineLearning/comments/ybc9ha/p_seqnms_in_pytorch/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
