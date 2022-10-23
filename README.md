@@ -364,7 +364,7 @@ My Tech Blogs
 
 <h4><a href="https://hub.docker.com/r/jack20191124/">DockerHub Blogs</a></h4>
 
-<img width="25%" alight="right" src="./img/docker-cloud-logo.png">
+<img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKERHUB-BLOG:START -->
 - [Security Advisory: CVE-2022-42889 “Text4Shell”](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)
