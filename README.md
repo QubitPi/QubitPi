@@ -546,11 +546,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
 <!-- NEO4J-TWITTER:START -->
+- [#Knowledgegraphs have immense analytical power and can significantly help #supplychains in Asia weather disruptions and mitigate issues. Find out more...](https://twitter.com/neo4j/status/1584190176737525761)
+- [RT Jason Koo: Discover Python shows how to move transactional data from an SQL database -&gt; @neo4j in a Jupyter notebook.](https://twitter.com/jalakoo/status/1584183050144952326)
+- [Re @RatnaKamireddy You need to share a bit more detail :&rpar; Check out And see if one of the examples here fits If not you can ask in Good luck 👍🏼](https://twitter.com/neo4j/status/1584181237857386499)
+- [Great thread 🧵 of insights in payment/AP business processes made visible through representing the SAP documents and their links/dependencies as a g...](https://twitter.com/neo4j/status/1584179301288538112)
 - [Worauf Admins achten müssen, um das Active Directory vor Angriffen zu schützen, zeigt @ipinsiderde #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584150658797932544)
-- [Dagmar Waltemath, Professor of Medical Informatics - University Medicine Greifswald - will be present at #NODES2022 and you don&#39;t want to miss it! Tak...](https://twitter.com/neo4j/status/1583994631879946240)
-- [👉 The @Neo4j #GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform ...](https://twitter.com/neo4j/status/1583865783142481922)
-- [RT Towards Data Science: Understanding Neo4j GDS Link Predictions &lpar;with Demonstration&rpar; by @p_brunenberg](https://twitter.com/TDataScience/status/1583838338460831744)
-- [RT Adnan Ahmad: ✍️ a new blog post: Using Neo4j to visualize medicines’ class and their ingredients. #Neo4j #graphdatabase @neo4j](https://twitter.com/pknerd/status/1583819549412950017)
 <!-- NEO4J-TWITTER:END -->
 
 ##### YouTube
