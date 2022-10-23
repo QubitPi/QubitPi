@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[Project] Building English &lpar;text&rpar; to speech in x language translation system](https://www.reddit.com/r/MachineLearning/comments/ybhrxu/project_building_english_text_to_speech_in_x/)
 - [[D][P] Space Invaders while Model Training](https://www.reddit.com/r/MachineLearning/comments/ybdsm8/dp_space_invaders_while_model_training/)
 - [[D] Building the Future of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/ybd43b/d_building_the_future_of_tensorflow/)
 - [[P] Seq-nms in PyTorch](https://www.reddit.com/r/MachineLearning/comments/ybc9ha/p_seqnms_in_pytorch/)
 - [[R]Stochastic Gradient MCMC](https://www.reddit.com/r/MachineLearning/comments/yb7yn8/rstochastic_gradient_mcmc/)
+- [[D] - NeurIPS 2022 - When will openreview make the reviews of rejected papers public?](https://www.reddit.com/r/MachineLearning/comments/yb2ttn/d_neurips_2022_when_will_openreview_make_the/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
