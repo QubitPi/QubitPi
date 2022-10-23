@@ -266,15 +266,6 @@ My Tech Blogs
 - [&lpar;WIP&rpar; Standardizing Backend Software Configuration](https://qubitpi.github.io/jersey-guide/management/2022/09/07/standardizing-ws-config.html)
 <!-- MGMT-BLOG-POST-LIST:END -->
 
-#### Building Tech Infrustructure for Startup
-
-<img align="right" alt="七七" width="30%" src="https://user-images.githubusercontent.com/16126939/193009585-32a8fbc4-81f1-43e9-b6fc-926da5bf36b9.png">
-
-1. [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
-2. [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
-3. [Building Kubernetes Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
-4. [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
-
 ### New Tech Blogs
 
 <!-- BLOG-POST-LIST:START -->
@@ -353,6 +344,8 @@ My Tech Blogs
 * [OpenStack 101](https://youtu.be/locCs2Duk5U)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
+* [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
+* [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 
 #### [OpenStack News](https://superuser.openstack.org/)
 
@@ -409,6 +402,10 @@ My Tech Blogs
 <img width="20%" align="right" src="./img/dockerjenkins.png">
 
 <!-- JENKINS-DOC-CHANGES:START --><li>Fri Oct 21 2022 1:05 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/9d6cef231814e0b4156eb59cff739edf851f1224>Update Git Cache Maintenance Blog page &lpar;#5601&rpar;</a></li><li>Fri Oct 21 2022 7:31 AM <a href=https://github.com/jenkins-infra/jenkins.io/commit/42e814cb632e1050a7d837b4208c966170364dc1>Fix several typos in the documentation &lpar;#5621&rpar;</a></li><li>Thu Oct 20 2022 5:42 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/a39f61bc08ca2cad1e80f9f7792a645741323ff5>Jenkins: 2022 Election Announcement blog post &lpar;#5615&rpar;</a></li><li>Thu Oct 20 2022 5:36 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/2a606143a482ef7ff3402b9d2076f76565b5f809>update devops world URL &lpar;#5620&rpar;</a></li><li>Thu Oct 20 2022 4:29 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/116e43518c9f8467cb1ad0dac963407932eeef80>update devops world 2022 register link &lpar;#5617&rpar;</a></li><!-- JENKINS-DOC-CHANGES:END -->
+
+#### Study Notes
+
+- [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
