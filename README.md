@@ -334,7 +334,7 @@ My Tech Blogs
 
 * [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
 
-### [scrum.org](https://www.scrum.org/resources/blog) community blogs
+<h3><a href="https://www.scrum.org/resources/blog"><img width="20%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [How are Done and your Sprint Backlog related? 🚀 &lpar;73&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-sprint-backlog-related-73)
