@@ -354,7 +354,7 @@ My Tech Blogs
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 
-#### Twitter
+#### OpenStack Twitter
 
 <!-- OPENSTACK-TWITTER:START -->
 - [RT OpenInfra Foundation: Nominations for Track Chairs close in ONE WEEK! Track Chairs for each Track will help build the #OpenInfraSummit schedule and...](https://twitter.com/openinfradev/status/1583518319596154880)
@@ -362,7 +362,9 @@ My Tech Blogs
 - [Check out @JayTheLinuxGuy&#39;s video on some considerations to keep in mind when building your own #OpenStack private cloud!](https://twitter.com/OpenStack/status/1583126586295201792)
 <!-- OPENSTACK-TWITTER:END -->
 
-<h4><a href="https://hub.docker.com/r/jack20191124/"><img width="5%" src="./img/docker-cloud-logo.png"></a></h4>
+<h4><a href="https://hub.docker.com/r/jack20191124/">DockerHub Blogs</a></h4>
+
+<img width="25%" alight="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKERHUB-BLOG:START -->
 - [Security Advisory: CVE-2022-42889 “Text4Shell”](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)
