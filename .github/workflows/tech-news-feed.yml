@@ -59,6 +59,19 @@ jobs:
           max_post_count: "5"
           feed_list: "https://www.scrum.org/resources/blog/rss.xml"    
 
+  openstack-superuser:
+    name: OpenStack Superuser
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "OpenStack Superuser"
+          comment_tag_name: "OPENSTACK-SUPERUSER"
+          max_post_count: "5"
+          feed_list: "https://superuser.openstack.org/feed/"
   dockerhub-blog:
     name: DockerHub Blog
     runs-on: ubuntu-latest
