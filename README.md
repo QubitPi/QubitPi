@@ -354,6 +354,10 @@ My Tech Blogs
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 
+<!-- OPENSTACK-SUPERUSER:START -->
+
+<!-- OPENSTACK-SUPERUSER:END -->
+
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
