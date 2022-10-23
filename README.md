@@ -481,7 +481,7 @@ My Tech Blogs
 
 #### Official Blogs
 
-<img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
+<img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/197424464-8e4e7dce-17d8-43a0-870f-99c95d7b667d.GIF">
 
 <!-- ARANGO-BLOGS:START -->
 - [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad1eb75d378f813ca1bf3428985753c624913da3df137f1294)
