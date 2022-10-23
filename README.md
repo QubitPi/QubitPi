@@ -99,11 +99,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目回顾长图](https://ys.mihoyo.com/main/news/detail/24365)
+- [《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目](https://ys.mihoyo.com/main/news/detail/24366)
+- [《原神》3.2版本PV：「虚空鼓动，劫火高扬」](https://ys.mihoyo.com/main/news/detail/24367)
 - [旅人的遐想——《原神》须弥音乐的幕后](https://ys.mihoyo.com/main/news/detail/24368)
 - [「郁林寻音」——《原神》须弥篇OST宣传H5正式上线](https://ys.mihoyo.com/main/news/detail/24313)
-- [《原神》风物集短片-蒙德篇](https://ys.mihoyo.com/main/news/detail/24312)
-- [《原神》3.2版本前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/24311)
-- [《原神》「壁纸放送」](https://ys.mihoyo.com/main/news/detail/24302)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
