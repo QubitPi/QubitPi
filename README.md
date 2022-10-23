@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/720213282106900480><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2c24ec7e0764c1ef2d98a68f32196d59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [亲爱的旅行者，3.2版本前瞻特别节目马上开始~[原神_哇] 直播间地址：https://live.bilibili.com/21987615](https://t.bilibili.com/720213282106900480)
-- [恭喜@-小魔王- @FTxiaoyan @上官天华丶 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/720121713411489872)
-- [互动抽奖 #原神# #旅人的遐想# #原神音乐# 旅人的遐想——《原神》须弥音乐的幕后 现已发布~ https://www.bilibili.com/video/BV1VG411L7Kk 《原神》须弥音乐由H...](https://t.bilibili.com/720093899196989456)
-- [旅人的遐想——《原神》须弥音乐的幕后](https://t.bilibili.com/720090866963710019)
-- [恭喜@爱笑的我叫无名 @白殇丶丶 @竹沐樱 等11位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/719750636814467173)
+- [#原神# #原神音乐# 亲爱的旅行者，原神3.0版本PV音乐《The Morn a Thousand Roses Brings 千朵玫瑰带来的黎明》、3.1版本PV音乐《King Deshret and the Three Ma...](https://t.bilibili.com/720242844375187523)
+- [#原神# #原神3.2# #虚空鼓动劫火高扬# 《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目回顾长图 《原神》3.2版本「虚空鼓动，劫火高扬」将于2022年11月02日...](https://t.bilibili.com/720240765617307657)
+- [《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目](https://t.bilibili.com/720240245919973461)
+- [互动抽奖 #原神# #原神3.2# #虚空鼓动劫火高扬# 《原神》3.2版本PV：「虚空鼓动，劫火高扬」现已发布~ https://www.bilibili.com/video/BV1QP4y1U7D2 汇聚教令院...](https://t.bilibili.com/720229955182526594)
+- [《原神》3.2版本PV：「虚空鼓动，劫火高扬」](https://t.bilibili.com/720226287268921365)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
