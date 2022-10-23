@@ -59,6 +59,88 @@ jobs:
           max_post_count: "5"
           feed_list: "https://www.scrum.org/resources/blog/rss.xml"    
 
+  dockerhub-blog:
+    name: DockerHub Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New DockerHub Blog"
+          comment_tag_name: "DOCKERHUB-BLOG"
+          max_post_count: "5"
+          feed_list: "https://www.docker.com/feed/"
+  kubernetes-blog:
+    name: Kubernetes Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New Kubernetes Blog"
+          comment_tag_name: "KUBERNETES-BLOG"
+          max_post_count: "5"
+          feed_list: "https://kubernetes.io/feed.xml"
+  kubernetes-doc-changes:
+    name: Kubernetes Doc Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Kubernetes doc changes"
+          comment_tag_name: "KUBERNETES-DOC-CHANGES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/github/file/kubernetes/website/main/content/en"
+          template: "<li>$date <a href=$url>$title</a></li>"
+  helm-doc-changes:
+    name: Helm Doc Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Helm doc changes"
+          comment_tag_name: "HELM-DOC-CHANGES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/github/file/helm/helm-www/main/content/en"
+          template: "<li>$date <a href=$url>$title</a></li>"
+  jenkins-doc-changes:
+    name: Jenkins Doc Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Jenkins doc changes"
+          comment_tag_name: "JENKINS-DOC-CHANGES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/github/file/jenkins-infra/jenkins.io/master/content"
+          template: "<li>$date <a href=$url>$title</a></li>"          
+  lets-encrypt-blog:
+    name: Let's Encrypt Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "New LetsEncrypt Blog"
+          comment_tag_name: "LETS-ENCRYPT-BLOG"
+          max_post_count: "5"
+          feed_list: "https://letsencrypt.org/feed.xml" 
+
   arangodb-blogs:
     name: ArangoDB Blog
     runs-on: ubuntu-latest
@@ -178,103 +260,7 @@ jobs:
           comment_tag_name: "GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR"
           max_post_count: "5"
           feed_list: "https://rsshub.app/github/file/graphql-java/graphql-java/master/src/main/antlr"
-          template: "<li>$date <a href=$url>$title</a></li>"
-       
-  openstack-twitter:
-    name: Twitter @OpenStack
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New GraphQL Twitter Posts"
-          comment_tag_name: "OPENSTACK-TWITTER"
-          max_post_count: "3"
-          feed_list: "https://rsshub.app/twitter/user/OpenStack" 
-  dockerhub-blog:
-    name: DockerHub Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New DockerHub Blog"
-          comment_tag_name: "DOCKERHUB-BLOG"
-          max_post_count: "5"
-          feed_list: "https://www.docker.com/feed/"
-  kubernetes-blog:
-    name: Kubernetes Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Kubernetes Blog"
-          comment_tag_name: "KUBERNETES-BLOG"
-          max_post_count: "5"
-          feed_list: "https://kubernetes.io/feed.xml"
-  kubernetes-doc-changes:
-    name: Kubernetes Doc Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Kubernetes doc changes"
-          comment_tag_name: "KUBERNETES-DOC-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/kubernetes/website/main/content/en"
-          template: "<li>$date <a href=$url>$title</a></li>"
-  helm-doc-changes:
-    name: Helm Doc Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Helm doc changes"
-          comment_tag_name: "HELM-DOC-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/helm/helm-www/main/content/en"
-          template: "<li>$date <a href=$url>$title</a></li>"
-  Jenkins-doc-changes:
-    name: Jenkins Doc Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Jenkins doc changes"
-          comment_tag_name: "JENKINS-DOC-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/jenkins-infra/jenkins.io/master/content"
-          template: "<li>$date <a href=$url>$title</a></li>"          
-  
-  lets-encrypt-blog:
-    name: Let's Encrypt Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New LetsEncrypt Blog"
-          comment_tag_name: "LETS-ENCRYPT-BLOG"
-          max_post_count: "5"
-          feed_list: "https://letsencrypt.org/feed.xml"          
+          template: "<li>$date <a href=$url>$title</a></li>"         
 
   web3-foundation-twitter:
     name: Twitter @Web3 Foundation
