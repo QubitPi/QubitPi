@@ -378,8 +378,6 @@ My Tech Blogs
 
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
-##### Blogs
-
 <!-- KUBERNETES-BLOG:START -->
 - [Blog: Server Side Apply Is Great And You Should Be Using It](https:///2022/10/20/advanced-server-side-apply/)
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
@@ -388,25 +386,25 @@ My Tech Blogs
 - [Blog: Enforce CRD Immutability with CEL Transition Rules](https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/)
 <!-- KUBERNETES-BLOG:END -->
 
-##### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
+#### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194212930-581c7072-9651-456d-bff3-5991e89704f0.gif">
 
 <!-- KUBERNETES-DOC-CHANGES:START --><li>Sat Oct 22 2022 9:07 AM <a href=https://github.com/kubernetes/website/commit/1e1fd08cd5131320d3bb06f85d141cd52ecc7e33>Merge pull request #36498 from Krishnamohan-Yerrabilli/new_branch</a></li><li>Sat Oct 22 2022 8:57 AM <a href=https://github.com/kubernetes/website/commit/4594d02f8dd62131b0f01c1c44e20fb6f3ae816c>Update content/en/docs/tutorials/kubernetes-basics/expose/expose-intro.html</a></li><li>Sat Oct 22 2022 8:53 AM <a href=https://github.com/kubernetes/website/commit/8eb5e4650c5755e5604d249453b7b93806d5fb2c>Merge pull request #35990 from shannonxtreme/patch-3</a></li><li>Sat Oct 22 2022 8:43 AM <a href=https://github.com/kubernetes/website/commit/0f95030f8d4c93ba55f614320a36cde785683fc4>Merge pull request #36674 from ryparker/patch-1</a></li><li>Fri Oct 21 2022 10:53 PM <a href=https://github.com/kubernetes/website/commit/b2f830f5be32ff08684ba8a6a25d65835d1c1741>Merge pull request #36672 from sftim/20220411_remove_misleading_service_clusterip_detail</a></li><!-- KUBERNETES-DOC-CHANGES:END -->
 
-###### Study Notes
-
-* [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
-* [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/finalized/2022/06/25/docker-troubleshooting.html)
-* [Docker cAdvisor](https://qubitpi.github.io/jersey-guide/finalized/2022/06/26/docker-cAdvisor.html)
-
-##### [Helm Documentation](https://helm.sh/docs/) Updates
+#### [Helm Documentation](https://helm.sh/docs/) Updates
 
 <img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 <!-- HELM-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:39 PM <a href=https://github.com/helm/helm-www/commit/d8426eb209247babf240cf3d0f45ffea3d120e06>Update Helm booth heading</a></li><li>Fri Oct 14 2022 5:05 PM <a href=https://github.com/helm/helm-www/commit/f1e87f4706bfdc1b11c26e89b7f5e012186a0ecb>Merge pull request #1365 from helm/karenhchu-patch-1</a></li><li>Fri Oct 14 2022 12:03 AM <a href=https://github.com/helm/helm-www/commit/0b39c4f35fe17699236909d50d9ade42425dbd5b>Update heading</a></li><li>Thu Oct 13 2022 10:55 PM <a href=https://github.com/helm/helm-www/commit/f63633d8900d1550b8e886f18c4716888f5d2164>Update with more of Bridget&#39;s edits</a></li><li>Thu Oct 13 2022 10:23 PM <a href=https://github.com/helm/helm-www/commit/6366088f5d07e6e2e8179d79dec96bbaeb34d274>Update with Bridget&#39;s comments</a></li><!-- HELM-DOC-CHANGES:END -->
 
-##### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
+#### Study Notes
+
+* [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
+* [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/finalized/2022/06/25/docker-troubleshooting.html)
+* [Docker cAdvisor](https://qubitpi.github.io/jersey-guide/finalized/2022/06/26/docker-cAdvisor.html)
+
+#### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
 <!-- JENKINS-DOC-CHANGES:START --><li>Fri Oct 21 2022 1:05 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/9d6cef231814e0b4156eb59cff739edf851f1224>Update Git Cache Maintenance Blog page &lpar;#5601&rpar;</a></li><li>Fri Oct 21 2022 7:31 AM <a href=https://github.com/jenkins-infra/jenkins.io/commit/42e814cb632e1050a7d837b4208c966170364dc1>Fix several typos in the documentation &lpar;#5621&rpar;</a></li><li>Thu Oct 20 2022 5:42 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/a39f61bc08ca2cad1e80f9f7792a645741323ff5>Jenkins: 2022 Election Announcement blog post &lpar;#5615&rpar;</a></li><li>Thu Oct 20 2022 5:36 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/2a606143a482ef7ff3402b9d2076f76565b5f809>update devops world URL &lpar;#5620&rpar;</a></li><li>Thu Oct 20 2022 4:29 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/116e43518c9f8467cb1ad0dac963407932eeef80>update devops world 2022 register link &lpar;#5617&rpar;</a></li><!-- JENKINS-DOC-CHANGES:END -->
 
