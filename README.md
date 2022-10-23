@@ -354,14 +354,6 @@ My Tech Blogs
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 
-#### OpenStack Twitter
-
-<!-- OPENSTACK-TWITTER:START -->
-- [RT OpenInfra Foundation: Nominations for Track Chairs close in ONE WEEK! Track Chairs for each Track will help build the #OpenInfraSummit schedule and...](https://twitter.com/openinfradev/status/1583518319596154880)
-- [RT Kendall Nelson @ the OpenInfraDev #PTG: Loving the collaboration at the @openinfradev #PTG @OpenStack #TC session where the @kubernetesio #TSC join...](https://twitter.com/knelson92/status/1583496794612600833)
-- [Check out @JayTheLinuxGuy&#39;s video on some considerations to keep in mind when building your own #OpenStack private cloud!](https://twitter.com/OpenStack/status/1583126586295201792)
-<!-- OPENSTACK-TWITTER:END -->
-
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
