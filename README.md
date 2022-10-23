@@ -312,11 +312,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Can I initialize state for RNN?](https://www.reddit.com/r/MachineLearning/comments/ybub1r/r_can_i_initialize_state_for_rnn/)
 - [A Philosophy-Tuned AI Bot for Open-Ended Discussion [P]](https://www.reddit.com/r/MachineLearning/comments/ybu9qj/a_philosophytuned_ai_bot_for_openended_discussion/)
 - [[R] Speech-to-speech translation for a real-world unwritten language](https://www.reddit.com/r/MachineLearning/comments/ybnnra/r_speechtospeech_translation_for_a_realworld/)
 - [[D] Comprehension issues with papers from non-English speakers](https://www.reddit.com/r/MachineLearning/comments/ybmppu/d_comprehension_issues_with_papers_from/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/ybjvk5/d_simple_questions_thread/)
+- [[D] Building the Future of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/ybd43b/d_building_the_future_of_tensorflow/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
