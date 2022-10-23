@@ -1,8 +1,7 @@
 name: News Central Feed
 on:
   schedule:
-    # Runs every hour
-    - cron: '20 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
