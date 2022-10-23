@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/720093899196989456><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4efd510bc0b8816fd72bbd83a020c095401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@-小魔王- @FTxiaoyan @上官天华丶 等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/720121713411489872)
 - [互动抽奖 #原神# #旅人的遐想# #原神音乐# 旅人的遐想——《原神》须弥音乐的幕后 现已发布~ https://www.bilibili.com/video/BV1VG411L7Kk 《原神》须弥音乐由H...](https://t.bilibili.com/720093899196989456)
 - [旅人的遐想——《原神》须弥音乐的幕后](https://t.bilibili.com/720090866963710019)
 - [恭喜@爱笑的我叫无名 @白殇丶丶 @竹沐樱 等11位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/719750636814467173)
 - [互动抽奖 #原神# #郁林寻音# 「郁林寻音」——《原神》须弥篇OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「郁林寻音」H5活动。 笔尖在纸页上划过 记...](https://t.bilibili.com/719720052364935257)
-- [#原神# #原神3.2# #虚空鼓动劫火高扬# #3.2版本前瞻特别节目# 旅行者们大家好，又到了派蒙的特别节目预告时间&gt; &lt; 《原神》3.2版本前瞻特别节目将于10月23日（本...](https://t.bilibili.com/719349598543413287)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
