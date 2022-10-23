@@ -511,11 +511,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1584209539259252738)
 - [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1584169777618378754)
 - [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda. Yo...](https://twitter.com/memgraphdb/status/1584161977555128321)
 - [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1584141088478359557)
 - [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1584134796917121025)
-- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1584105854974164992)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
