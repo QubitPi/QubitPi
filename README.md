@@ -467,7 +467,7 @@ My Tech Blogs
 * [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
 * [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
 
-<h3><img width="15%" src="./img/arango-logo.webp"></h3>
+<h3><img width="20%" src="./img/arangodb-logo.png"></h3>
 
 #### Twitter
 
