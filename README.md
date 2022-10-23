@@ -348,7 +348,7 @@ My Tech Blogs
 
 #### Study Notes
 
-<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
 
 * [OpenStack 101](https://youtu.be/locCs2Duk5U)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
