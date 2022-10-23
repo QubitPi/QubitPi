@@ -325,7 +325,7 @@ My Tech Blogs
 - [[D][P] Space Invaders while Model Training](https://www.reddit.com/r/MachineLearning/comments/ybdsm8/dp_space_invaders_while_model_training/)
 - [[D] Building the Future of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/ybd43b/d_building_the_future_of_tensorflow/)
 - [[P] Seq-nms in PyTorch](https://www.reddit.com/r/MachineLearning/comments/ybc9ha/p_seqnms_in_pytorch/)
-- [[P] Some friends and I built out a mobile app to train Stable Diffusion on yourself. Any feedback is welcome!](https://www.reddit.com/r/MachineLearning/comments/yb7zl8/p_some_friends_and_i_built_out_a_mobile_app_to/)
+- [[R]Stochastic Gradient MCMC](https://www.reddit.com/r/MachineLearning/comments/yb7yn8/rstochastic_gradient_mcmc/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
