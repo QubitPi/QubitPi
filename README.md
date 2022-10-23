@@ -420,17 +420,7 @@ My Tech Blogs
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
-#### Twitter
-
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
-
-<!-- GRAPHQL-TWITTER:START -->
-- [Thrilled to welcome one of the newest members of the GraphQL Foundation, Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
-- [Take a moment to share your thoughts and opinions about the state of GraphQL in this Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
-- [RT Lee Byron: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and...](https://twitter.com/leeb/status/1530193408567828481)
-- [DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmap Check i...](https://twitter.com/GraphQL/status/1514283679299813382)
-- [RT GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉 After all the great feedback from the community, we&#39;ve incorporated changes around theming, ...](https://twitter.com/GraphiQL/status/1508062921766674439)
-<!-- GRAPHQL-TWITTER:END -->
 
 #### Study Notes
 
