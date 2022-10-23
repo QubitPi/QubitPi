@@ -444,6 +444,8 @@ My Tech Blogs
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
 
+<img align="right" width="25%" src="./img/web3-illustration.png">
+
 > "Users own their own data, not corporations"
 > 
 > \- [Web3 Foundation](https://web3.foundation/about/)
@@ -451,8 +453,6 @@ My Tech Blogs
 **I'm not a fan of Blockchain, but a fan of Blockchain linked to _Data_ through Web3.0**
 
 #### Twitter
-
-<img align="right" width="25%" src="./img/web3-illustration.png">
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
 - [RT DCENTRAL Miami: 🌴 We are excited to have Bertrand Perez of @Web3foundation join us as a speaker for Miami!📣 DCENTRAL Miami is the largest com...](https://twitter.com/DcentralCon/status/1583545649487761413)
