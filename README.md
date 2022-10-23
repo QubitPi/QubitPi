@@ -344,45 +344,6 @@ My Tech Blogs
 - [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
-<h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
-
-#### Twitter
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
-
-<!-- GRAPHQL-TWITTER:START -->
-- [Thrilled to welcome one of the newest members of the GraphQL Foundation, Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
-- [Take a moment to share your thoughts and opinions about the state of GraphQL in this Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
-- [RT Lee Byron: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and...](https://twitter.com/leeb/status/1530193408567828481)
-- [DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmap Check i...](https://twitter.com/GraphQL/status/1514283679299813382)
-- [RT GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉 After all the great feedback from the community, we&#39;ve incorporated changes around theming, ...](https://twitter.com/GraphiQL/status/1508062921766674439)
-<!-- GRAPHQL-TWITTER:END -->
-
-#### Study Notes
-
-* [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
-* [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
-* [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
-* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
-
-#### [GraphQL Specification](https://graphql.org/foundation/join/#graphql-specification) Significant Changes
-
-<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
-
-<ul>
-<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:START --><li>Thu Sep 01 2022 7:38 PM <a href=https://github.com/graphql/graphql-spec/commit/3aa021fb3651710508a37e13c71b7268189982f9>separate out IsSubType from IsValidImplementationFieldType &lpar;#977&rpar;</a></li><li>Mon Jun 27 2022 5:34 PM <a href=https://github.com/graphql/graphql-spec/commit/47a6bfdba35ad9b96cba501a52593d3f04c8c5e9>Editorial: Clarify intro for inline fragments &lpar;#969&rpar;</a></li><li>Thu Jun 23 2022 11:27 PM <a href=https://github.com/graphql/graphql-spec/commit/3885a64f3dc0f9cb64b43aaf1f77e661d98f4dca>Editorial: Error Terminology &lpar;#966&rpar;</a></li><li>Tue Jun 21 2022 8:17 PM <a href=https://github.com/graphql/graphql-spec/commit/9a96fc40f2307af15eecc3a257f85ec49adf50d9>Editorial: Clarity about subject being a GraphQL service or system &lpar;#965&rpar;</a></li><li>Tue Jun 21 2022 8:09 PM <a href=https://github.com/graphql/graphql-spec/commit/57bd86d779482e9167d2113a9ba926e2ecb74dcc>Editorial: Fix reference to object in interface introspection &lpar;#964&rpar;</a></li><!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:END -->
-</ul>
-
-#### [GraphQL Java](https://www.graphql-java.com/) Significant Changes
-
-<img align="right" width="10%" src="./img/graphql-java-logo.png">
-
-##### [ANTLR Grammar](https://github.com/graphql-java/graphql-java/tree/master/src/main/antlr) Changes
-
-<ul>
-<!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:START --><li>Mon Dec 20 2021 4:02 AM <a href=https://github.com/graphql-java/graphql-java/commit/4a82b0bbd1483d148f3abf575fe705be6d2b0f70>Allow leading pipe in directive SDL, and add leading union pipe tests &lpar;#2650&rpar;</a></li><li>Wed Jul 14 2021 1:54 AM <a href=https://github.com/graphql-java/graphql-java/commit/dd290eabdc219ba5e725e0364cddcd2210fa169b>Update ANTLR grammar with new SourceCharacter definition</a></li><li>Tue Jun 29 2021 1:10 AM <a href=https://github.com/graphql-java/graphql-java/commit/5b12cbeff757c7280177375814b92a4387db152f>Add full Unicode to parser, the happy path</a></li><li>Sun Jun 27 2021 12:19 PM <a href=https://github.com/graphql-java/graphql-java/commit/f6460192969fdd87d3dcc12c3801e095ca58e90c>Fix extend type parsing issue &lpar;#2393&rpar;</a></li><li>Sun Nov 15 2020 11:56 PM <a href=https://github.com/graphql-java/graphql-java/commit/ff3f6918330b9c78321b2fe6fce615ce2b155eac>Repeatable directives support &lpar;#2015&rpar;</a></li><!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:END -->
-</ul>
-
 <h3><a href="https://www.openstack.org/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
 #### Study Notes
@@ -453,6 +414,45 @@ My Tech Blogs
 - [TLS Beyond the Web: How MongoDB Uses Let’s Encrypt for Database-to-Application Security](https://letsencrypt.org/2022/04/28/database-to-app-tls.html)
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
+
+<h3><a href="https://www.graphql.com/"><img width="5%" src="https://user-images.githubusercontent.com/16126939/188418136-3019be72-55b4-41c0-971d-53d9ceaeecbb.png"></a></h3>
+
+#### Twitter
+
+<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188537408-11917817-1c0b-4b0e-83a2-1e7b8fe6fca9.gif">
+
+<!-- GRAPHQL-TWITTER:START -->
+- [Thrilled to welcome one of the newest members of the GraphQL Foundation, Read more about why Inigo&#39;s joined the GraphQL Foundation:](https://twitter.com/GraphQL/status/1562123613632835584)
+- [Take a moment to share your thoughts and opinions about the state of GraphQL in this Brought to you by the fine folks behind StateOfJS](https://twitter.com/GraphQL/status/1538564611045085185)
+- [RT Lee Byron: Thanks to our sponsors, it&#39;s now free to join GraphQL Conf &lpar;+ OpenJS World and cdCon, all one mega-conf!&rpar; Live talks, social events, and...](https://twitter.com/leeb/status/1530193408567828481)
+- [DataLoader is back to release cadence! @singh_saihaj from @TheGuildDev just released v2.1.0 - the first version since creating the new roadmap Check i...](https://twitter.com/GraphQL/status/1514283679299813382)
+- [RT GraphiQL: We have news about GraphiQL 2&#39;s design! 🎉 After all the great feedback from the community, we&#39;ve incorporated changes around theming, ...](https://twitter.com/GraphiQL/status/1508062921766674439)
+<!-- GRAPHQL-TWITTER:END -->
+
+#### Study Notes
+
+* [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
+* [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
+* [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
+* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
+
+#### [GraphQL Specification](https://graphql.org/foundation/join/#graphql-specification) Significant Changes
+
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
+
+<ul>
+<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:START --><li>Thu Sep 01 2022 7:38 PM <a href=https://github.com/graphql/graphql-spec/commit/3aa021fb3651710508a37e13c71b7268189982f9>separate out IsSubType from IsValidImplementationFieldType &lpar;#977&rpar;</a></li><li>Mon Jun 27 2022 5:34 PM <a href=https://github.com/graphql/graphql-spec/commit/47a6bfdba35ad9b96cba501a52593d3f04c8c5e9>Editorial: Clarify intro for inline fragments &lpar;#969&rpar;</a></li><li>Thu Jun 23 2022 11:27 PM <a href=https://github.com/graphql/graphql-spec/commit/3885a64f3dc0f9cb64b43aaf1f77e661d98f4dca>Editorial: Error Terminology &lpar;#966&rpar;</a></li><li>Tue Jun 21 2022 8:17 PM <a href=https://github.com/graphql/graphql-spec/commit/9a96fc40f2307af15eecc3a257f85ec49adf50d9>Editorial: Clarity about subject being a GraphQL service or system &lpar;#965&rpar;</a></li><li>Tue Jun 21 2022 8:09 PM <a href=https://github.com/graphql/graphql-spec/commit/57bd86d779482e9167d2113a9ba926e2ecb74dcc>Editorial: Fix reference to object in interface introspection &lpar;#964&rpar;</a></li><!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:END -->
+</ul>
+
+#### [GraphQL Java](https://www.graphql-java.com/) Significant Changes
+
+<img align="right" width="10%" src="./img/graphql-java-logo.png">
+
+##### [ANTLR Grammar](https://github.com/graphql-java/graphql-java/tree/master/src/main/antlr) Changes
+
+<ul>
+<!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:START --><li>Mon Dec 20 2021 4:02 AM <a href=https://github.com/graphql-java/graphql-java/commit/4a82b0bbd1483d148f3abf575fe705be6d2b0f70>Allow leading pipe in directive SDL, and add leading union pipe tests &lpar;#2650&rpar;</a></li><li>Wed Jul 14 2021 1:54 AM <a href=https://github.com/graphql-java/graphql-java/commit/dd290eabdc219ba5e725e0364cddcd2210fa169b>Update ANTLR grammar with new SourceCharacter definition</a></li><li>Tue Jun 29 2021 1:10 AM <a href=https://github.com/graphql-java/graphql-java/commit/5b12cbeff757c7280177375814b92a4387db152f>Add full Unicode to parser, the happy path</a></li><li>Sun Jun 27 2021 12:19 PM <a href=https://github.com/graphql-java/graphql-java/commit/f6460192969fdd87d3dcc12c3801e095ca58e90c>Fix extend type parsing issue &lpar;#2393&rpar;</a></li><li>Sun Nov 15 2020 11:56 PM <a href=https://github.com/graphql-java/graphql-java/commit/ff3f6918330b9c78321b2fe6fce615ce2b155eac>Repeatable directives support &lpar;#2015&rpar;</a></li><!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:END -->
+</ul>
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
 
