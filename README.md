@@ -268,6 +268,8 @@ My Tech Blogs
 
 ### New Tech Blogs
 
+<img align="right" alt="七七" width="30%" src="https://user-images.githubusercontent.com/16126939/193009585-32a8fbc4-81f1-43e9-b6fc-926da5bf36b9.png">
+
 <!-- BLOG-POST-LIST:START -->
 - [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
 - [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
