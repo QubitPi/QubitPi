@@ -371,7 +371,7 @@ My Tech Blogs
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
-- [Blog: Server Side Apply Is Great And You Should Be Using It](https:///2022/10/20/advanced-server-side-apply/)
+- [Blog: Server Side Apply Is Great And You Should Be Using It](https://kubernetes.io/blog/2022/10/20/advanced-server-side-apply/)
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
 - [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
 - [Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces](https://kubernetes.io/blog/2022/10/03/userns-alpha/)
