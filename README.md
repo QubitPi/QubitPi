@@ -419,7 +419,7 @@ My Tech Blogs
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
-#### Study Notes
+#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
@@ -467,13 +467,9 @@ My Tech Blogs
 * [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
 * [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
 
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560313-75a1635f-9030-47f0-a2c9-5e51a40f252a.png"></h3>
+<h3><img width="15%" src="./img/arango-logo.webp"></h3>
 
-#### ArangoDB
-
-##### Twitter
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188062867-033071de-cf81-499a-891b-485402f27c9d.png">
+#### Twitter
 
 <!-- ARANGO-TWITTER:START -->
 - [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1584213070016303104)
@@ -483,7 +479,7 @@ My Tech Blogs
 - [Our graph course got an upgrade! 👀🔥 Learn more about graph databases with our 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗚𝗿𝗮...](https://twitter.com/arangodb/status/1583216510667218947)
 <!-- ARANGO-TWITTER:END -->
 
-##### Official Blogs
+#### Official Blogs
 
 <img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/188562391-65d6124e-486d-49b3-bb97-f1d4fff250e7.png">
 
@@ -495,7 +491,7 @@ My Tech Blogs
 - [April 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: April 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93793ad1eb75d378f813ca1bf3428985753c624913da3df137f1794)
 <!-- ARANGO-BLOGS:END -->
 
-##### Study Notes
+#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 * [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
 * [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
@@ -504,9 +500,9 @@ My Tech Blogs
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 
-#### Memgraph
+### Memgraph
 
-##### Twitter
+#### Twitter
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
@@ -518,15 +514,15 @@ My Tech Blogs
 - [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1584134796917121025)
 <!-- MEMGRAPH-TWITTER:END -->
 
-##### Links
+#### Links
 
 * [Newsletter](https://memgraph.com/newsletter/)
 * [Blogs](https://memgraph.com/blog)
 * [Community Forum](https://discourse.memgraph.com/)
 
-#### Neo4J
+### Neo4J
 
-##### Twitter
+#### Twitter
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188535740-80c55f45-3a69-458e-bb09-117bd5b14a3f.png">
 
@@ -538,7 +534,7 @@ My Tech Blogs
 - [Worauf Admins achten müssen, um das Active Directory vor Angriffen zu schützen, zeigt @ipinsiderde #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584150658797932544)
 <!-- NEO4J-TWITTER:END -->
 
-##### YouTube
+#### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
 - [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://www.youtube.com/watch?v=5DZfOLspVDM)
@@ -548,7 +544,7 @@ My Tech Blogs
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
 <!-- NEO4J-YOUTUBE:END -->
 
-#### JanusGraph
+### JanusGraph
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188538990-70fc7280-0772-446e-a6ae-8b8af1043c68.gif">
 
