@@ -526,11 +526,11 @@ My Tech Blogs
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/16126939/188526522-61cc8626-e882-4759-9bae-5ce1a2c0b1be.gif">
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Learn the concepts of graph modeling in 10 days. 📢 Free graph modeling email course! 📧 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1584081443528982530)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at #memgraph #graphmodeling #graphdat...](https://twitter.com/memgraphdb/status/1583847151007719426)
 - [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #k...](https://twitter.com/memgraphdb/status/1583827263543398400)
 - [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1583817457155731456)
 - [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1583761334637715460)
+- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1583754037232402442)
 <!-- MEMGRAPH-TWITTER:END -->
 
 ##### Links
