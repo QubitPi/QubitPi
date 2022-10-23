@@ -321,11 +321,11 @@ My Tech Blogs
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Some friends and I built out a mobile app to train Stable Diffusion on yourself. Any feedback is welcome!](https://www.reddit.com/r/MachineLearning/comments/yb7zl8/p_some_friends_and_i_built_out_a_mobile_app_to/)
+- [[R]Stochastic Gradient MCMC](https://www.reddit.com/r/MachineLearning/comments/yb7yn8/rstochastic_gradient_mcmc/)
 - [[P] Using AI to find scientific Consensus. Still in beta but boy! I&#39;m totally amazed.](https://www.reddit.com/r/MachineLearning/comments/yb6yed/p_using_ai_to_find_scientific_consensus_still_in/)
 - [[D] - NeurIPS 2022 - When will openreview make the reviews of rejected papers public?](https://www.reddit.com/r/MachineLearning/comments/yb2ttn/d_neurips_2022_when_will_openreview_make_the/)
 - [[P] is it necessary to convert audio data from analog to digital?](https://www.reddit.com/r/MachineLearning/comments/yazfo3/p_is_it_necessary_to_convert_audio_data_from/)
-- [[Discussion] Hopfield network](https://www.reddit.com/r/MachineLearning/comments/yaz464/discussion_hopfield_network/)
-- [[Research] CORL: Offline Reinforcement Learning Library](https://www.reddit.com/r/MachineLearning/comments/yawcyk/research_corl_offline_reinforcement_learning/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
