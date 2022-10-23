@@ -344,11 +344,11 @@ My Tech Blogs
 - [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
-<h3><a href="https://www.openstack.org/"><img width="10%" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
+<h3><a href="https://www.openstack.org/"><img width="10%" aligh="center" src="https://user-images.githubusercontent.com/16126939/188418464-14c310af-5742-4524-9154-90b500433d58.png"></a></h3>
 
 #### Study Notes
 
-<a href="https://youtu.be/locCs2Duk5U"><img align="center" width="40%" src="./img/openstack.gif"></a>
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack.gif"></a>
 
 * [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
