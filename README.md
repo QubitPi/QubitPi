@@ -328,9 +328,9 @@ My Tech Blogs
 - [[D] NeurIPS 2022 Statistics](https://www.reddit.com/r/MachineLearning/comments/yatiej/d_neurips_2022_statistics/)
 <!-- REDDIT-ML:END -->
 
-### Study Notes
-
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
+
+### Study Notes
 
 * [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
 
