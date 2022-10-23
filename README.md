@@ -308,7 +308,7 @@ My Tech Blogs
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
-<img align="right" width="15%" src="./img/rua.png">
+<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
 - [Digital transformation with Google Cloud](https://www.deepmind.com/blog/digital-transformation-with-google-cloud)
