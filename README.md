@@ -442,9 +442,7 @@ My Tech Blogs
 
 ##### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
-<!-- JENKINS-DOC-CHANGES:START -->
-
-<!-- JENKINS-DOC-CHANGES:END -->
+<!-- JENKINS-DOC-CHANGES:START --><li>Fri Oct 21 2022 1:05 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/9d6cef231814e0b4156eb59cff739edf851f1224>Update Git Cache Maintenance Blog page &lpar;#5601&rpar;</a></li><li>Fri Oct 21 2022 7:31 AM <a href=https://github.com/jenkins-infra/jenkins.io/commit/42e814cb632e1050a7d837b4208c966170364dc1>Fix several typos in the documentation &lpar;#5621&rpar;</a></li><li>Thu Oct 20 2022 5:42 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/a39f61bc08ca2cad1e80f9f7792a645741323ff5>Jenkins: 2022 Election Announcement blog post &lpar;#5615&rpar;</a></li><li>Thu Oct 20 2022 5:36 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/2a606143a482ef7ff3402b9d2076f76565b5f809>update devops world URL &lpar;#5620&rpar;</a></li><li>Thu Oct 20 2022 4:29 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/116e43518c9f8467cb1ad0dac963407932eeef80>update devops world 2022 register link &lpar;#5617&rpar;</a></li><!-- JENKINS-DOC-CHANGES:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
