@@ -99,11 +99,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Official
 
 <!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《云·原神》PC平台限号不删档付费测试资格招募开启](https://ys.mihoyo.com/main/news/detail/24381)
+- [《原神》「琉焰华舞」宵宫同人绘画作品征集现已开启](https://ys.mihoyo.com/main/news/detail/24380)
+- [《原神》3.2版本「虚空鼓动，劫火高扬」先行展示页现已开启](https://ys.mihoyo.com/main/news/detail/24378)
 - [《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目回顾长图](https://ys.mihoyo.com/main/news/detail/24365)
 - [《原神》3.2版本「虚空鼓动，劫火高扬」前瞻特别节目](https://ys.mihoyo.com/main/news/detail/24366)
-- [《原神》3.2版本PV：「虚空鼓动，劫火高扬」](https://ys.mihoyo.com/main/news/detail/24367)
-- [旅人的遐想——《原神》须弥音乐的幕后](https://ys.mihoyo.com/main/news/detail/24368)
-- [「郁林寻音」——《原神》须弥篇OST宣传H5正式上线](https://ys.mihoyo.com/main/news/detail/24313)
 <!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
 
 #### Bilibili
