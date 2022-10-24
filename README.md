@@ -540,7 +540,7 @@ My Tech Blogs
 - [Neo4j Live: An Ethereum Network Explorer - Visualising Addresses interactions](https://www.youtube.com/watch?v=UiBSVahMWAM)
 <!-- NEO4J-YOUTUBE:END -->
 
-### JanusGraph
+<h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
 
 <!-- JANUSGRAPH-TWITTER:START -->
 - [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration #graph #NoSQL #ScyllaDB #OpenSource #DEVCommun...](https://twitter.com/ScyllaDB/status/1565384501559279616)
