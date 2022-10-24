@@ -443,11 +443,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [We are live at @KubeCon_ + @CloudNativeFdn Detroit! 🔥 Join us for our virtual office hour at 12 PM EDT. ✨ Say hi to ArangoDB at our virtual booth....](https://twitter.com/arangodb/status/1584530159046078464)
 - [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1584213070016303104)
 - [New to ArangoDB? Try out our Udemy training! 🥑 Register and get started today. 🔥](https://twitter.com/arangodb/status/1583850691868897280)
 - [Graph-based AI has entered the world of Enterprise. Learn how graph AI is an integral part of different use cases, including fraud detection and senti...](https://twitter.com/arangodb/status/1583578888369999872)
 - [ArangoDB Summit was our biggest virtual event to date! Were you able to attend? If not, don&#39;t sweat it - we have you covered with the recordings avail...](https://twitter.com/arangodb/status/1583488295019118593)
-- [Our graph course got an upgrade! 👀🔥 Learn more about graph databases with our 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗚𝗿𝗮...](https://twitter.com/arangodb/status/1583216510667218947)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
