@@ -240,9 +240,10 @@ By tapping into the collective talent and innovation of open source communities,
 &nbsp;
 [![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)
 
+[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)<img width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
+
 </div>
 
-[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)
 [![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
@@ -386,8 +387,6 @@ My Tech Blogs
 #### [Helm Documentation](https://helm.sh/docs/) Updates
 
 <!-- HELM-DOC-CHANGES:START --><li>Mon Oct 17 2022 6:39 PM <a href=https://github.com/helm/helm-www/commit/d8426eb209247babf240cf3d0f45ffea3d120e06>Update Helm booth heading</a></li><li>Fri Oct 14 2022 5:05 PM <a href=https://github.com/helm/helm-www/commit/f1e87f4706bfdc1b11c26e89b7f5e012186a0ecb>Merge pull request #1365 from helm/karenhchu-patch-1</a></li><li>Fri Oct 14 2022 12:03 AM <a href=https://github.com/helm/helm-www/commit/0b39c4f35fe17699236909d50d9ade42425dbd5b>Update heading</a></li><li>Thu Oct 13 2022 10:55 PM <a href=https://github.com/helm/helm-www/commit/f63633d8900d1550b8e886f18c4716888f5d2164>Update with more of Bridget&#39;s edits</a></li><li>Thu Oct 13 2022 10:23 PM <a href=https://github.com/helm/helm-www/commit/6366088f5d07e6e2e8179d79dec96bbaeb34d274>Update with Bridget&#39;s comments</a></li><!-- HELM-DOC-CHANGES:END -->
-
-<img align="right" width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
