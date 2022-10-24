@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Newbie question about training and epoch](https://www.reddit.com/r/MachineLearning/comments/yc13da/d_newbie_question_about_training_and_epoch/)
 - [[D] Most efficient open source language model ?](https://www.reddit.com/r/MachineLearning/comments/ybx4nt/d_most_efficient_open_source_language_model/)
 - [A Philosophy-Tuned AI Bot for Open-Ended Discussion [P]](https://www.reddit.com/r/MachineLearning/comments/ybu9qj/a_philosophytuned_ai_bot_for_openended_discussion/)
 - [[R] Speech-to-speech translation for a real-world unwritten language](https://www.reddit.com/r/MachineLearning/comments/ybnnra/r_speechtospeech_translation_for_a_realworld/)
 - [[D] Comprehension issues with papers from non-English speakers](https://www.reddit.com/r/MachineLearning/comments/ybmppu/d_comprehension_issues_with_papers_from/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/ybjvk5/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
