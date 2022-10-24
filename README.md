@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1584524362786361344)
+- [#GQLAlchemy has hit 100 stars on #GitHub! GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; -- a l...](https://twitter.com/memgraphdb/status/1584512363910533121)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1584486115808903168)
 - [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1584468245574488064)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1584450878228271104)
-- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1584424958557835264)
-- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1584209539259252738)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
