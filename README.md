@@ -331,11 +331,11 @@ My Tech Blogs
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How to navigate accountability without control as a Scrum Master](https://www.scrum.org/resources/blog/how-navigate-accountability-without-control-scrum-master)
 - [FAST Scaling: An Innovative Way to Scale Agile with James Shore](https://www.scrum.org/resources/blog/fast-scaling-innovative-way-scale-agile-james-shore)
 - [[Podcast] Four Reasons Why Scrum is Enticing for People at Senior Leadership Level](https://www.scrum.org/resources/blog/podcast-four-reasons-why-scrum-enticing-people-senior-leadership-level)
 - [6 Trümpfe: Wie du die Interaktivität von Onlineworkshops so steigerst, dass die Teilnehmer noch lange davon schwärmen](https://www.scrum.org/resources/blog/6-trumpfe-wie-du-die-interaktivitat-von-onlineworkshops-so-steigerst-dass-die)
 - [A deep dive into the purpose of each Scrum artifact](https://www.scrum.org/resources/blog/deep-dive-purpose-each-scrum-artifact)
-- [How are Done and your Sprint Backlog related? 🚀 &lpar;73&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-sprint-backlog-related-73)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
