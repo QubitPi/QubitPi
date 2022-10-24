@@ -518,7 +518,7 @@ My Tech Blogs
 * [Blogs](https://memgraph.com/blog)
 * [Community Forum](https://discourse.memgraph.com/)
 
-### Neo4J
+<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
 #### Twitter
 
