@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We are happy to share the release of “Full Stack GraphQL Applications” e-book! Learn: 📚Ways to leverage the Neo4j GraphQL Library 📚Practical t...](https://twitter.com/neo4j/status/1584635916206891010)
 - [Road to NODES workshops are on 🔥! On October 26th, we&#39;ll cover some best practices related to: ✅Using the Neo4j Graph Data Science #Python client ...](https://twitter.com/neo4j/status/1584608235440558080)
 - [Bring your friends to attend #NODES2022 and WIN a cash prize! 👀🎉 The 10 participants with the most friends attending will each receive $500. Rea...](https://twitter.com/neo4j/status/1584589053239885835)
 - [RT Ward Cunningham: I&#39;ve learned so much from @neo4j and have applied 10% of it to this quirky collaborative tool where we chat in property graphs.](https://twitter.com/WardCunningham/status/1584587349643907073)
 - [RT Jason Koo: GraphQL and Graph Databases are not the same thing - but my colleague @lyonwj will show how to combine the two at this year&#39;s ATO confer...](https://twitter.com/jalakoo/status/1584560604748079105)
+- [En recourant à une base de données orientée graphe @neo4j et à l’IA, @BNPParibas entend fortement limiter la fraude au crédit à la consommation...](https://twitter.com/neo4j/status/1584551802774720514)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
