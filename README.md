@@ -534,11 +534,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [On October 28th at 1pm UTC, join Web3 Foundation&#39;s @BillLaboon in an AMA session on all things @Polkadot &amp; @kusamanetwork. To join the session in the ...](https://twitter.com/Web3foundation/status/1584469977796513792)
 - [RT DCENTRAL Miami: 🌴 We are excited to have Bertrand Perez of @Web3foundation join us as a speaker for Miami!📣 DCENTRAL Miami is the largest com...](https://twitter.com/DcentralCon/status/1583545649487761413)
 - [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Together with @edXOnline, we&#39;re launching Web3x – online cours...](https://twitter.com/Web3foundation/status/1579851519758925824)
 - [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1579445892918448129)
 - [Re 2/ Congratulations to @AfloatTaxCredit for completing their first milestone as they work to create a marketplace for transferable tax credits. Read...](https://twitter.com/Web3foundation/status/1579445890594779136)
+- [1/ Web3 Foundation is celebrating the 15th round of grants accepted through its Grants Program. In this wave we’ve signed 37 grants. We’d like to th...](https://twitter.com/Web3foundation/status/1579445888405364737)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
