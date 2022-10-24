@@ -551,10 +551,10 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Taxi](https://dribbble.com/shots/19676034)
+- [Solana ☀️🏕](https://dribbble.com/shots/19651167)
 - [Smart Home App Dashboard](https://dribbble.com/shots/19679257)
+- [Ridwell Categories](https://dribbble.com/shots/19651910)
 - [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
-- [Immersive website design by Milkinside](https://dribbble.com/shots/19684723)
-- [Crypter 2.0 - Mobile version](https://dribbble.com/shots/19674330)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
