@@ -551,11 +551,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Wayflyer - Slide-overs](https://dribbble.com/shots/19470569)
 - [Taxi](https://dribbble.com/shots/19676034)
 - [Solana ☀️🏕](https://dribbble.com/shots/19651167)
-- [SQUIRE - Booking Widget](https://dribbble.com/shots/19660093)
-- [Milkinside wallet iOS app](https://dribbble.com/shots/19663094)
+- [Smart Home App Dashboard](https://dribbble.com/shots/19679257)
+- [Ridwell Categories](https://dribbble.com/shots/19651910)
+- [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
