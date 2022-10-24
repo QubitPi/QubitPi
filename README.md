@@ -312,6 +312,8 @@ My Tech Blogs
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
+
 <!-- REDDIT-ML:START -->
 - [[D] Newbie question about training and epoch](https://www.reddit.com/r/MachineLearning/comments/yc13da/d_newbie_question_about_training_and_epoch/)
 - [[D] Most efficient open source language model ?](https://www.reddit.com/r/MachineLearning/comments/ybx4nt/d_most_efficient_open_source_language_model/)
@@ -417,8 +419,6 @@ My Tech Blogs
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
-
-<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 * [GraphQL Resolvers](https://qubitpi.github.io/jersey-guide/finalized/2022/09/06/graphql-resolvers.html)
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
