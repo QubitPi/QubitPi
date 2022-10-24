@@ -392,9 +392,8 @@ My Tech Blogs
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
+* [Docker Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/10/24/docker-basics.html)
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
-* [Docker Troubleshooting](https://qubitpi.github.io/jersey-guide/finalized/2022/06/25/docker-troubleshooting.html)
-* [Docker cAdvisor](https://qubitpi.github.io/jersey-guide/finalized/2022/06/26/docker-cAdvisor.html)
 
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
