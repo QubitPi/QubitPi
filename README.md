@@ -328,11 +328,11 @@ My Tech Blogs
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [A deep dive into the purpose of each Scrum artifact](https://www.scrum.org/resources/blog/deep-dive-purpose-each-scrum-artifact)
 - [How are Done and your Sprint Backlog related? 🚀 &lpar;73&rpar;](https://www.scrum.org/resources/blog/how-are-done-and-your-sprint-backlog-related-73)
 - [Usable, Useful and Valuable](https://www.scrum.org/resources/blog/usable-useful-and-valuable)
 - [Porqué ser mentor es importante](https://www.scrum.org/resources/blog/porque-ser-mentor-es-importante)
 - [[VLOG] Product Vision, Product Goal and Product Roadmap in Scrum](https://www.scrum.org/resources/blog/vlog-product-vision-product-goal-and-product-roadmap-scrum)
-- [Das Scrum Master Interview &lpar;6&rpar;: Das Sprint Planning 🇩🇪](https://www.scrum.org/resources/blog/das-scrum-master-interview-6-das-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
