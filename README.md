@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] From 3D Contour Plots to AI-Generated Art](https://www.reddit.com/r/MachineLearning/comments/ycg6c6/r_from_3d_contour_plots_to_aigenerated_art/)
 - [[N] Up to $500,000 in Prizes for ML Safety Benchmark Ideas](https://www.reddit.com/r/MachineLearning/comments/ycdnhk/n_up_to_500000_in_prizes_for_ml_safety_benchmark/)
 - [[P] Turn your git repository into a shareable VSCode sandbox](https://www.reddit.com/r/MachineLearning/comments/ycdk3t/p_turn_your_git_repository_into_a_shareable/)
 - [[P] Interactive Segmentation to Improve 10 times Annotation Efficiency &lpar;5.7k star&rpar;](https://www.reddit.com/r/MachineLearning/comments/ycafzv/p_interactive_segmentation_to_improve_10_times/)
 - [[D] Causal attention masking in GPT-like models](https://www.reddit.com/r/MachineLearning/comments/yc7k6k/d_causal_attention_masking_in_gptlike_models/)
-- [[P] Let&#39;s Hijack AI! Security and Privacy Risk Simulator for Machine Learning](https://www.reddit.com/r/MachineLearning/comments/yc647p/p_lets_hijack_ai_security_and_privacy_risk/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
