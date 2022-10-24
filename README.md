@@ -442,31 +442,6 @@ My Tech Blogs
 <!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:START --><li>Mon Dec 20 2021 4:02 AM <a href=https://github.com/graphql-java/graphql-java/commit/4a82b0bbd1483d148f3abf575fe705be6d2b0f70>Allow leading pipe in directive SDL, and add leading union pipe tests &lpar;#2650&rpar;</a></li><li>Wed Jul 14 2021 1:54 AM <a href=https://github.com/graphql-java/graphql-java/commit/dd290eabdc219ba5e725e0364cddcd2210fa169b>Update ANTLR grammar with new SourceCharacter definition</a></li><li>Tue Jun 29 2021 1:10 AM <a href=https://github.com/graphql-java/graphql-java/commit/5b12cbeff757c7280177375814b92a4387db152f>Add full Unicode to parser, the happy path</a></li><li>Sun Jun 27 2021 12:19 PM <a href=https://github.com/graphql-java/graphql-java/commit/f6460192969fdd87d3dcc12c3801e095ca58e90c>Fix extend type parsing issue &lpar;#2393&rpar;</a></li><li>Sun Nov 15 2020 11:56 PM <a href=https://github.com/graphql-java/graphql-java/commit/ff3f6918330b9c78321b2fe6fce615ce2b155eac>Repeatable directives support &lpar;#2015&rpar;</a></li><!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:END -->
 </ul>
 
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
-
-<img align="right" width="25%" src="./img/web3-illustration.png">
-
-> "Users own their own data, not corporations"
-> 
-> \- [Web3 Foundation](https://web3.foundation/about/)
-
-**I'm not a fan of Blockchain, but a fan of Blockchain linked to _Data_ through Web3.0**
-
-#### Twitter
-
-<!-- WEB3-FOUNDATION-TWITTER:START -->
-- [RT DCENTRAL Miami: 🌴 We are excited to have Bertrand Perez of @Web3foundation join us as a speaker for Miami!📣 DCENTRAL Miami is the largest com...](https://twitter.com/DcentralCon/status/1583545649487761413)
-- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Together with @edXOnline, we&#39;re launching Web3x – online cours...](https://twitter.com/Web3foundation/status/1579851519758925824)
-- [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1579445892918448129)
-- [Re 2/ Congratulations to @AfloatTaxCredit for completing their first milestone as they work to create a marketplace for transferable tax credits. Read...](https://twitter.com/Web3foundation/status/1579445890594779136)
-- [1/ Web3 Foundation is celebrating the 15th round of grants accepted through its Grants Program. In this wave we’ve signed 37 grants. We’d like to th...](https://twitter.com/Web3foundation/status/1579445888405364737)
-<!-- WEB3-FOUNDATION-TWITTER:END -->
-
-#### Study Notes
-
-* [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
-* [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
-
 <h3><img width="30%" src="./img/arango-logo.png"></h3>
 
 #### Twitter
@@ -549,6 +524,31 @@ My Tech Blogs
 - [RT Anant Corporation: In Data Engineer&#39;s Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the @AWS team on @JanusGraph.](https://twitter.com/anantcorp/status/1546947807055077378)
 - [Re @apachetinkerpop This should of course read JanusGraph​.Net and Gremlin​.Net.](https://twitter.com/JanusGraph/status/1542092798710661122)
 <!-- JANUSGRAPH-TWITTER:END -->
+
+<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
+
+<img align="right" width="25%" src="./img/web3-illustration.png">
+
+> "Users own their own data, not corporations"
+> 
+> \- [Web3 Foundation](https://web3.foundation/about/)
+
+**I'm not a fan of Blockchain, but a fan of Blockchain linked to _Data_ through Web3.0**
+
+#### Twitter
+
+<!-- WEB3-FOUNDATION-TWITTER:START -->
+- [RT DCENTRAL Miami: 🌴 We are excited to have Bertrand Perez of @Web3foundation join us as a speaker for Miami!📣 DCENTRAL Miami is the largest com...](https://twitter.com/DcentralCon/status/1583545649487761413)
+- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Together with @edXOnline, we&#39;re launching Web3x – online cours...](https://twitter.com/Web3foundation/status/1579851519758925824)
+- [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1579445892918448129)
+- [Re 2/ Congratulations to @AfloatTaxCredit for completing their first milestone as they work to create a marketplace for transferable tax credits. Read...](https://twitter.com/Web3foundation/status/1579445890594779136)
+- [1/ Web3 Foundation is celebrating the 15th round of grants accepted through its Grants Program. In this wave we’ve signed 37 grants. We’d like to th...](https://twitter.com/Web3foundation/status/1579445888405364737)
+<!-- WEB3-FOUNDATION-TWITTER:END -->
+
+#### Study Notes
+
+* [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
+* [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
