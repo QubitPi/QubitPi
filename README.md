@@ -343,9 +343,7 @@ My Tech Blogs
 
 * [OpenStack 101](https://youtu.be/locCs2Duk5U)
 * [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
-* [OpenVPN](https://qubitpi.github.io/jersey-guide/finalized/2021/10/03/open-vpn.html)
 * [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
-* [Building Repository Management Infrastructure](https://qubitpi.github.io/jersey-guide/finalized/2022/10/02/nexus.html)
 
 #### [OpenStack News](https://superuser.openstack.org/)
 
