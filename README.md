@@ -366,7 +366,7 @@ My Tech Blogs
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Security Advisory: CVE-2022-42889 “Text4Shell”](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)
 - [Developer Engagement in the Remote Work Era with RedMonk and Miva](https://www.docker.com/blog/developer-engagement-in-the-remote-work-era/)
-- [Control Dev Environments Better with Hardened Desktop &lpar;and More!&rpar;](https://www.docker.com/blog/hardened-desktop-developer-environments-4-13/)
+- [Control Dev Environments Better with Hardened Docker Desktop &lpar;and More!&rpar;](https://www.docker.com/blog/hardened-desktop-developer-environments-4-13/)
 - [Docker and Wasm Working Together? Find Out How at Wasm Day NA](https://www.docker.com/blog/docker-and-wasm-together-wasm-day-na/)
 <!-- DOCKERHUB-BLOG:END -->
 
