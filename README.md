@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [BNP Paribas travaille avec @neo4j sur un projet anti-fraude. Depuis que @BNPParibas a commencé à utiliser cette approche, les taux de fraude ont dim...](https://twitter.com/neo4j/status/1584495688229875712)
 - [#Knowledgegraphs have immense analytical power and can significantly help #supplychains in Asia weather disruptions and mitigate issues. Find out more...](https://twitter.com/neo4j/status/1584190176737525761)
 - [RT Jason Koo: Discover Python shows how to move transactional data from an SQL database -&gt; @neo4j in a Jupyter notebook.](https://twitter.com/jalakoo/status/1584183050144952326)
 - [Re @RatnaKamireddy You need to share a bit more detail :&rpar; Check out And see if one of the examples here fits If not you can ask in Good luck 👍🏼](https://twitter.com/neo4j/status/1584181237857386499)
 - [Great thread 🧵 of insights in payment/AP business processes made visible through representing the SAP documents and their links/dependencies as a g...](https://twitter.com/neo4j/status/1584179301288538112)
-- [Worauf Admins achten müssen, um das Active Directory vor Angriffen zu schützen, zeigt @ipinsiderde #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584150658797932544)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
