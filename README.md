@@ -342,7 +342,7 @@ My Tech Blogs
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 * [OpenStack 101](https://youtu.be/locCs2Duk5U)
-* [OpenStack Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
+* [OpenStack Basics](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
 
 #### [OpenStack News](https://superuser.openstack.org/)
