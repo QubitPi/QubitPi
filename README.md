@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] I just tried the superpower of &#39;Let&#39; take step by step&#39; in the copilot](https://www.reddit.com/r/MachineLearning/comments/yd2hd2/r_i_just_tried_the_superpower_of_let_take_step_by/)
 - [Combining image and text embedding [P]](https://www.reddit.com/r/MachineLearning/comments/yd0549/combining_image_and_text_embedding_p/)
 - [[P] AutoPrognosis - A system for automating the design of predictive modeling pipelines tailored for clinical prognosis.](https://www.reddit.com/r/MachineLearning/comments/ycyn46/p_autoprognosis_a_system_for_automating_the/)
 - [[R] How competitive are workshop submissions at ICML?](https://www.reddit.com/r/MachineLearning/comments/ycsrol/r_how_competitive_are_workshop_submissions_at_icml/)
 - [[R] Using Large Language Models to Enhance Programming Error Messages](https://www.reddit.com/r/MachineLearning/comments/yckdsd/r_using_large_language_models_to_enhance/)
-- [[D] would diffusion language models make sense?](https://www.reddit.com/r/MachineLearning/comments/yck1sx/d_would_diffusion_language_models_make_sense/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
