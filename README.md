@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We’ve released EvoTorch 0.3.0, with VecGymNE, memory usage improvements, Colab support and more! VecGymNE enables evolutionary RL with vectorized environments and policies, especially massively parallel simulators like Brax!](https://www.reddit.com/r/MachineLearning/comments/ydj8yi/p_weve_released_evotorch_030_with_vecgymne_memory/)
 - [[D] Cover Letters are Dead? - Social Impact Tuesday #2](https://www.reddit.com/r/MachineLearning/comments/ydgwnq/d_cover_letters_are_dead_social_impact_tuesday_2/)
 - [[D] A Quick lesson from DeepMind&#39;s MuZero &lpar;AlphaGo&#39;s successor&rpar;](https://www.reddit.com/r/MachineLearning/comments/ydfjvn/d_a_quick_lesson_from_deepminds_muzero_alphagos/)
 - [[D] Tensorflow learning differently than Pytorch](https://www.reddit.com/r/MachineLearning/comments/yde1q8/d_tensorflow_learning_differently_than_pytorch/)
 - [[P] Object detection model learns backgrounds and not objects](https://www.reddit.com/r/MachineLearning/comments/ydc9n1/p_object_detection_model_learns_backgrounds_and/)
-- [Kubeflow, Jupyter notebook online. Question to community [D]](https://www.reddit.com/r/MachineLearning/comments/ydaruq/kubeflow_jupyter_notebook_online_question_to/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
