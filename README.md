@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1584932554284703745)
+- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1584914432475500545)
+- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1584914431787646977)
+- [Did you see that #Python 3.11.0 is out?😍 #memgraph #coding #opensource](https://twitter.com/memgraphdb/status/1584914243777855489)
 - [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1584907134046806018)
-- [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1584865863441825792)
-- [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1584826100131237889)
-- [Explore the European gas infrastructure network using #Memgraph’s graph analytics capabilities to visualize and extrapolate from the data. Read the b...](https://twitter.com/memgraphdb/status/1584774007970217988)
-- [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1584570163000737792)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
