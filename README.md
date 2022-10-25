@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Adrien SALES: 👋 Hi to @neo4j from #newcaledonia 🏝️ 👉 Things going everyday a bit more concrete 🤗 @neo4j #nodes22](https://twitter.com/rastadidi/status/1584817913579859969)
-- [Welche Skills Produktmanager mitbringen müssen, um erfolgreich zu sein, zeigt @COMPUTERWOCHE #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584807484488916992)
 - [Join Chaitra Ravada, Machine Learning Engineer at Twitter, during #NODES2022! In this session, we will look at how graph ML powers use cases like reco...](https://twitter.com/neo4j/status/1584796912149995524)
 - [IT&#39;S TODAY!! Want to know how and why organizations use a platform like Apache Hop for their business databases? Book your seat! #Neo4j #Workshops #Tr...](https://twitter.com/neo4j/status/1584787857637576704)
 - [We are happy to share the release of “Full Stack GraphQL Applications” e-book! Learn: 📚Ways to leverage the Neo4j GraphQL Library 📚Practical t...](https://twitter.com/neo4j/status/1584635916206891010)
+- [Road to NODES workshops are on 🔥! On October 26th, we&#39;ll cover some best practices related to: ✅Using the Neo4j Graph Data Science #Python client ...](https://twitter.com/neo4j/status/1584608235440558080)
+- [Bring your friends to attend #NODES2022 and WIN a cash prize! 👀🎉 The 10 participants with the most friends attending will each receive $500. Rea...](https://twitter.com/neo4j/status/1584589053239885835)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
