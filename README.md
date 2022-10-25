@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Combining image and text embedding [P]](https://www.reddit.com/r/MachineLearning/comments/yd0549/combining_image_and_text_embedding_p/)
+- [[P] Can anyone help me understand/deploy a simple GANs?](https://www.reddit.com/r/MachineLearning/comments/yd01mn/p_can_anyone_help_me_understanddeploy_a_simple/)
 - [[P] AutoPrognosis - A system for automating the design of predictive modeling pipelines tailored for clinical prognosis.](https://www.reddit.com/r/MachineLearning/comments/ycyn46/p_autoprognosis_a_system_for_automating_the/)
 - [[D] What technology is used in this dosa Printer?](https://www.reddit.com/r/MachineLearning/comments/ycwfdc/d_what_technology_is_used_in_this_dosa_printer/)
 - [[R] How competitive are workshop submissions at ICML?](https://www.reddit.com/r/MachineLearning/comments/ycsrol/r_how_competitive_are_workshop_submissions_at_icml/)
-- [[R] Using Large Language Models to Enhance Programming Error Messages](https://www.reddit.com/r/MachineLearning/comments/yckdsd/r_using_large_language_models_to_enhance/)
-- [[D] would diffusion language models make sense?](https://www.reddit.com/r/MachineLearning/comments/yck1sx/d_would_diffusion_language_models_make_sense/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
