@@ -554,7 +554,7 @@ My Tech Blogs
 - [Smart Home App Dashboard](https://dribbble.com/shots/19679257)
 - [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [Immersive website design by Milkinside](https://dribbble.com/shots/19684723)
-- [Crypter 2.0 - Mobile version](https://dribbble.com/shots/19674330)
+- [Flows Dashboard](https://dribbble.com/shots/19687516)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
