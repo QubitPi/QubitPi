@@ -550,11 +550,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Taxi](https://dribbble.com/shots/19676034)
 - [Smart Home App Dashboard](https://dribbble.com/shots/19679257)
 - [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [Immersive website design by Milkinside](https://dribbble.com/shots/19684723)
 - [Flows Dashboard](https://dribbble.com/shots/19687516)
+- [modern, abstract, pictorial, symbolic, minimal, simple, logos](https://dribbble.com/shots/19714466)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
