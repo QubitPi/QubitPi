@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] AI &amp; ML for Adults [all art styles being explored]](https://www.reddit.com/r/MachineLearning/comments/ydgara/p_ai_ml_for_adults_all_art_styles_being_explored/)
 - [[D] A Quick lesson from DeepMind&#39;s MuZero &lpar;AlphaGo&#39;s successor&rpar;](https://www.reddit.com/r/MachineLearning/comments/ydfjvn/d_a_quick_lesson_from_deepminds_muzero_alphagos/)
 - [[D] Tensorflow learning differently than Pytorch](https://www.reddit.com/r/MachineLearning/comments/yde1q8/d_tensorflow_learning_differently_than_pytorch/)
 - [[P] Object detection model learns backgrounds and not objects](https://www.reddit.com/r/MachineLearning/comments/ydc9n1/p_object_detection_model_learns_backgrounds_and/)
 - [Kubeflow, Jupyter notebook online. Question to community [D]](https://www.reddit.com/r/MachineLearning/comments/ydaruq/kubeflow_jupyter_notebook_online_question_to/)
-- [[N] OpenAI Gym and a bunch of the most used open source RL environments have been consolidated into a single new nonprofit &lpar;The Farama Foundation&rpar;](https://www.reddit.com/r/MachineLearning/comments/ydafsw/n_openai_gym_and_a_bunch_of_the_most_used_open/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
