@@ -495,10 +495,10 @@ My Tech Blogs
 
 <!-- NEO4J-TWITTER:START -->
 - [Road to NODES - Handling Neo4j Data with Apache Hop w/ @mattcasters](https://twitter.com/neo4j/status/1584904201767120896)
+- [RT Christophe Willemsen: I&#39;ll share all my secrets on running @neo4j on @Docker and Compose during the #nodes22 conference ! Register here](https://twitter.com/ikwattro/status/1584898288519479297)
 - [RT Adrien SALES: 👋 Hi to @neo4j from #newcaledonia 🏝️ 👉 Things going everyday a bit more concrete 🤗 @neo4j #nodes22](https://twitter.com/rastadidi/status/1584817913579859969)
 - [Welche Skills Produktmanager mitbringen müssen, um erfolgreich zu sein, zeigt @COMPUTERWOCHE #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584807484488916992)
 - [Join Chaitra Ravada, Machine Learning Engineer at Twitter, during #NODES2022! In this session, we will look at how graph ML powers use cases like reco...](https://twitter.com/neo4j/status/1584796912149995524)
-- [IT&#39;S TODAY!! Want to know how and why organizations use a platform like Apache Hop for their business databases? Book your seat! #Neo4j #Workshops #Tr...](https://twitter.com/neo4j/status/1584787857637576704)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
