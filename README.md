@@ -363,11 +363,11 @@ My Tech Blogs
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKERHUB-BLOG:START -->
+- [October Extensions Roundup: CI on Your Laptop and Hacktoberfest!](https://www.docker.com/blog/new-extensions-october-2022/)
 - [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [Security Advisory: CVE-2022-42889 “Text4Shell”](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)
 - [Developer Engagement in the Remote Work Era with RedMonk and Miva](https://www.docker.com/blog/developer-engagement-in-the-remote-work-era/)
 - [Control Dev Environments Better with Hardened Docker Desktop &lpar;and More!&rpar;](https://www.docker.com/blog/hardened-desktop-developer-environments-4-13/)
-- [Docker and Wasm Working Together? Find Out How at Wasm Day NA](https://www.docker.com/blog/docker-and-wasm-together-wasm-day-na/)
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
