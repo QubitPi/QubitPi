@@ -332,7 +332,7 @@ My Tech Blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Superhero Scrum Masters; helpful or bottleneck?](https://www.scrum.org/resources/blog/superhero-scrum-masters-helpful-or-bottleneck)
-- [How to navigate accountability without control as a Scrum Master](https://www.scrum.org/resources/blog/how-navigate-accountability-without-control-scrum-master)
+- [How to Navigate Accountability without Control as a Scrum Master](https://www.scrum.org/resources/blog/how-navigate-accountability-without-control-scrum-master)
 - [FAST Scaling: An Innovative Way to Scale Agile with James Shore](https://www.scrum.org/resources/blog/fast-scaling-innovative-way-scale-agile-james-shore)
 - [[Podcast] Four Reasons Why Scrum is Enticing for People at Senior Leadership Level](https://www.scrum.org/resources/blog/podcast-four-reasons-why-scrum-enticing-people-senior-leadership-level)
 - [6 Trümpfe: Wie du die Interaktivität von Onlineworkshops so steigerst, dass die Teilnehmer noch lange davon schwärmen](https://www.scrum.org/resources/blog/6-trumpfe-wie-du-die-interaktivitat-von-onlineworkshops-so-steigerst-dass-die)
