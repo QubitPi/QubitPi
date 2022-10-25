@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Tensorflow learning differently than Pytorch](https://www.reddit.com/r/MachineLearning/comments/yde1q8/d_tensorflow_learning_differently_than_pytorch/)
 - [[P] Object detection model learns backgrounds and not objects](https://www.reddit.com/r/MachineLearning/comments/ydc9n1/p_object_detection_model_learns_backgrounds_and/)
 - [Kubeflow, Jupyter notebook online. Question to community [D]](https://www.reddit.com/r/MachineLearning/comments/ydaruq/kubeflow_jupyter_notebook_online_question_to/)
 - [[N] OpenAI Gym and a bunch of the most used open source RL environments have been consolidated into a single new nonprofit &lpar;The Farama Foundation&rpar;](https://www.reddit.com/r/MachineLearning/comments/ydafsw/n_openai_gym_and_a_bunch_of_the_most_used_open/)
 - [[D] Question: State of the art in automated phonetic speech transcription](https://www.reddit.com/r/MachineLearning/comments/yd9gsf/d_question_state_of_the_art_in_automated_phonetic/)
-- [Combining image and text embedding [P]](https://www.reddit.com/r/MachineLearning/comments/yd0549/combining_image_and_text_embedding_p/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
