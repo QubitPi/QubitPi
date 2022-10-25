@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1584826100131237889)
 - [Explore the European gas infrastructure network using #Memgraph’s graph analytics capabilities to visualize and extrapolate from the data. Read the b...](https://twitter.com/memgraphdb/status/1584774007970217988)
 - [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1584570163000737792)
 - [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. #graphdatabase #opensou...](https://twitter.com/memgraphdb/status/1584552046321082369)
 - [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1584524362786361344)
-- [#GQLAlchemy has hit 100 stars on #GitHub! GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; -- a l...](https://twitter.com/memgraphdb/status/1584512363910533121)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
