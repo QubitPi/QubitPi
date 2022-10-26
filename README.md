@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721180860943958023><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/84c9ce0b655c20dee6fc1bc430a1c430401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721254562567028776><img align='right' src='https://i1.hdslb.com/bfs/archive/3cc4ad883edc52a23f149ec19a88fe1b31a86763.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #尘歌壶# 旅行者们好呀！在3.2版本中，尘歌壶系统将会更新「摹本」功能。让我们一起来了解一下吧~](https://t.bilibili.com/721180860943958023)
