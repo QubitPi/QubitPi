@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Ai Kenya: We are pleased to be a Community Partner for NODES 2022, @neo4j &#39;s Online Developer Expo &amp; Summit. #NODES2022 is a free, 24-hour, multi-t...](https://twitter.com/AiKenya1/status/1585162082739052544)
 - [In @DynamicBusiness, @neo4j&#39;s Nik Vora shares “Employee retention plays a key role. Businesses that can keep employees happy and engaged can expect g...](https://twitter.com/neo4j/status/1585081793740513281)
-- [RT Graphable: Loading data into a graph database and incorporating that data- find out how in this article, along with Graph ETL best practices. @neo4...](https://twitter.com/Graphable1/status/1585020630147031040)
 - [Road to NODES - Handling Neo4j Data with Apache Hop w/ @mattcasters](https://twitter.com/neo4j/status/1584904201767120896)
 - [RT Christophe Willemsen: I&#39;ll share all my secrets on running @neo4j on @Docker and Compose during the #nodes22 conference ! Register here](https://twitter.com/ikwattro/status/1584898288519479297)
+- [RT Adrien SALES: 👋 Hi to @neo4j from #newcaledonia 🏝️ 👉 Things going everyday a bit more concrete 🤗 @neo4j #nodes22](https://twitter.com/rastadidi/status/1584817913579859969)
+- [Welche Skills Produktmanager mitbringen müssen, um erfolgreich zu sein, zeigt @COMPUTERWOCHE #neo4j #graphdatabase](https://twitter.com/neo4j/status/1584807484488916992)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
