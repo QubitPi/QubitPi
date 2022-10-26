@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1585276818713710594)
+- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1585255936553324545)
+- [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1585249140358905858)
 - [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1585210886335111168)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1585193016133881858)
-- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1585153003278983168)
-- [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1584932554284703745)
-- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1584914432475500545)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
