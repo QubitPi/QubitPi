@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1585315517249748992)
-- [RT Jason Koo: Re @tb_tomaz details how to supercharge ML Models in your Python projects.](https://twitter.com/jalakoo/status/1585270080623054853)
 - [Road to NODES - Blazing Fast Graphs: Hands-on with Apache Arrow and Neo4j](https://twitter.com/neo4j/status/1585266448334655490)
 - [RT Philipp Brunenberg: Link Predictions = Binary Classification of node pairs. One special step is to combine node features into a link vector. 🅰️...](https://twitter.com/p_brunenberg/status/1585235795530620930)
 - [RT Tasos Zafeiropoulos: Have a look at the Sustaingraph! A #KnowledgeGraph around the SDGs developed in the @ARSINOE_EU project for supporting scienti...](https://twitter.com/tzafeir/status/1585229654771703809)
+- [RT Chrysi Laspidou: So happy to see our article in print! Congratulations to lead authors! @ARSINOE_EU papers are coming out and provide the tools for...](https://twitter.com/CLaspidou/status/1585212458985467905)
+- [RT Ai Kenya: We are pleased to be a Community Partner for NODES 2022, @neo4j &#39;s Online Developer Expo &amp; Summit. #NODES2022 is a free, 24-hour, multi-t...](https://twitter.com/AiKenya1/status/1585162082739052544)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
