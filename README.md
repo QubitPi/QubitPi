@@ -443,11 +443,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [It&#39;s not too late to join in on all the fun at ArangoDB Summit! 🥑 Get up to speed on the latest news from ArangoDB today with the on-demand recordi...](https://twitter.com/arangodb/status/1585300239971454977)
 - [Day 3 of @KubeCon_ + @CloudNativeFdn Detroit is live in person AND online. 🔥 Join us for our virtual office hour at 2 PM EST, and come stop by our ...](https://twitter.com/arangodb/status/1585254943094722562)
 - [The hottest graph course was upgraded, and we can&#39;t recommend it enough. 🔥🥑 Become a graph databases pro with the 𝗙𝗼𝘂𝗻𝗱𝗮𝘁�...](https://twitter.com/arangodb/status/1585028445591027712)
 - [Day 2 of @KubeCon_ + @CloudNativeFdn Detroit is here. 🔥 Join us for our virtual office hour at 10 AM EST. PS: You can also come and talk to members...](https://twitter.com/arangodb/status/1584892553165414400)
 - [Our next webinar is here! Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; on November 10th, 2022, to learn more about kube-ar...](https://twitter.com/arangodb/status/1584575451305066497)
-- [We are live at @KubeCon_ + @CloudNativeFdn Detroit! 🔥 Join us for our virtual office hour at 12 PM EDT. ✨ Say hi to ArangoDB at our virtual booth....](https://twitter.com/arangodb/status/1584530159046078464)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
