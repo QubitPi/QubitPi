@@ -551,10 +551,10 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Bank](https://dribbble.com/shots/19728311)
-- [Smart Home App Dashboard](https://dribbble.com/shots/19679257)
 - [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [dashboard: planning platform](https://dribbble.com/shots/19728297)
 - [Sendlane Platform – Components Overview](https://dribbble.com/shots/19706422)
+- [modern, abstract, pictorial, symbolic, minimal, simple, logos](https://dribbble.com/shots/19714466)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
