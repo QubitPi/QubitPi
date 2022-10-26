@@ -351,11 +351,11 @@ My Tech Blogs
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Learnings from Organizing an OpenInfra Meetup!](https://superuser.openstack.org/articles/learnings-from-organizing-an-openinfra-meetup/)
 - [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-49/)
 - [OpenStack Zed: The End of the Alphabet, The Beginning of a New Era | OpenInfra Live Recap](https://superuser.openstack.org/articles/openstack-zed-the-end-of-the-alphabet-the-beginning-of-a-new-era-openinfra-live-recap/)
 - [OpenStack Security: A Practical Guide](https://superuser.openstack.org/articles/openstack-security-a-practical-guide/)
 - [Around the World with OpenInfra Events | OpenInfra Live Recap](https://superuser.openstack.org/articles/around-the-world-with-openinfra-events-openinfra-live-recap/)
-- [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-48/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
