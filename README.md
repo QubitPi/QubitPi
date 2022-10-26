@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Python function that changed your life in regard to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/ydw9wv/d_python_function_that_changed_your_life_in/)
 - [[N] Proceedings of the First International Symposium on the Tsetlin Machine available in IEEE Xplore](https://www.reddit.com/r/MachineLearning/comments/ydtt8w/n_proceedings_of_the_first_international/)
 - [[P] Up to 12X faster GPU inference on Bert, T5 and other transformers with OpenAI Triton kernels](https://www.reddit.com/r/MachineLearning/comments/ydqmjp/p_up_to_12x_faster_gpu_inference_on_bert_t5_and/)
 - [[P] Awesome Machine Unlearning](https://www.reddit.com/r/MachineLearning/comments/ydle73/p_awesome_machine_unlearning/)
 - [Learn From Industry &amp; Research Experts at Speech AI Summit &lpar; [R], [N]&rpar;](https://www.reddit.com/r/MachineLearning/comments/ydk9pa/learn_from_industry_research_experts_at_speech_ai/)
-- [[P] We’ve released EvoTorch 0.3.0, with VecGymNE, memory usage improvements, Colab support and more! VecGymNE enables evolutionary RL with vectorized environments and policies, especially massively parallel simulators like Brax!](https://www.reddit.com/r/MachineLearning/comments/ydj8yi/p_weve_released_evotorch_030_with_vecgymne_memory/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
