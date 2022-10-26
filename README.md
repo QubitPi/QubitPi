@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Cross Validation](https://www.reddit.com/r/MachineLearning/comments/ye146o/d_cross_validation/)
 - [[D] NeurIPS 2022 Poster Design Tips](https://www.reddit.com/r/MachineLearning/comments/ye0yak/d_neurips_2022_poster_design_tips/)
 - [[D] Poisson Flow Generative Models - new physics inspired generative model](https://www.reddit.com/r/MachineLearning/comments/ye0iw7/d_poisson_flow_generative_models_new_physics/)
 - [[R] In-context Reinforcement Learning with Algorithm Distillation](https://www.reddit.com/r/MachineLearning/comments/ye0evs/r_incontext_reinforcement_learning_with_algorithm/)
 - [[D] Semantic segmentation &lpar;weak labels&rpar;](https://www.reddit.com/r/MachineLearning/comments/ye0dq7/d_semantic_segmentation_weak_labels/)
+- [[D]Cheating in AAAI 2023 rebuttal](https://www.reddit.com/r/MachineLearning/comments/ydyzlk/dcheating_in_aaai_2023_rebuttal/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
