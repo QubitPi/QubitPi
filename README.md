@@ -316,10 +316,10 @@ My Tech Blogs
 
 <!-- REDDIT-ML:START -->
 - [[P] OpenAI Whisper - 3x CPU Inference Speedup](https://www.reddit.com/r/MachineLearning/comments/yeyxlo/p_openai_whisper_3x_cpu_inference_speedup/)
-- [[R] Multilingual nlp models list needed](https://www.reddit.com/r/MachineLearning/comments/yeyq96/r_multilingual_nlp_models_list_needed/)
 - [[D] [R] Large-scale clustering](https://www.reddit.com/r/MachineLearning/comments/yexifs/d_r_largescale_clustering/)
 - [[P] Any open source LLMs with comparable ability to Gpt-3 Davinci-2 for natural language to JSON parsing? Bloom and GPT-NEO have been underwhelming.](https://www.reddit.com/r/MachineLearning/comments/yewffc/p_any_open_source_llms_with_comparable_ability_to/)
 - [[P] How to combine multiple low-quality data into one giant high-quality data?](https://www.reddit.com/r/MachineLearning/comments/yeugh4/p_how_to_combine_multiple_lowquality_data_into/)
+- [[R] RTFormer &lt;NeurIPS 2022&gt; : Real-Time Semantic Segmentation with Transformer](https://www.reddit.com/r/MachineLearning/comments/yer1s3/r_rtformer_neurips_2022_realtime_semantic/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
