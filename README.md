@@ -551,8 +551,8 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Bank](https://dribbble.com/shots/19728311)
-- [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [dashboard: planning platform](https://dribbble.com/shots/19728297)
+- [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [Sendlane Platform – Components Overview](https://dribbble.com/shots/19706422)
 - [modern, abstract, pictorial, symbolic, minimal, simple, logos](https://dribbble.com/shots/19714466)
 <!-- DRIBBBLE-TRENDING:END -->
