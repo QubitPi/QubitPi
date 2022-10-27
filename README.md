@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Any open source LLMs with comparable ability to Gpt-3 Davinci-2 for natural language to JSON parsing? Bloom and GPT-NEO have been underwhelming.](https://www.reddit.com/r/MachineLearning/comments/yewffc/p_any_open_source_llms_with_comparable_ability_to/)
 - [[Discussion] What is good model for sensitive data detection?](https://www.reddit.com/r/MachineLearning/comments/yevib8/discussion_what_is_good_model_for_sensitive_data/)
 - [[D] Building a HydraNet for Self-driving car simulation](https://www.reddit.com/r/MachineLearning/comments/yevfgy/d_building_a_hydranet_for_selfdriving_car/)
 - [[P] How to combine multiple low-quality data into one giant high-quality data?](https://www.reddit.com/r/MachineLearning/comments/yeugh4/p_how_to_combine_multiple_lowquality_data_into/)
 - [[R] RTFormer &lt;NeurIPS 2022&gt; : Real-Time Semantic Segmentation with Transformer](https://www.reddit.com/r/MachineLearning/comments/yer1s3/r_rtformer_neurips_2022_realtime_semantic/)
-- [[R] WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models](https://www.reddit.com/r/MachineLearning/comments/yeppof/r_winogavil_gamified_association_benchmark_to/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
