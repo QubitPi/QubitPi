@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;It’s important to focus on the overall goal while still recognizing that the plan you built initially may need to be shifted over time in order to a...](https://twitter.com/neo4j/status/1585395357973970965)
 - [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1585315517249748992)
 - [RT Jason Koo: Re @tb_tomaz details how to supercharge ML Models in your Python projects.](https://twitter.com/jalakoo/status/1585270080623054853)
 - [Road to NODES - Blazing Fast Graphs: Hands-on with Apache Arrow and Neo4j](https://twitter.com/neo4j/status/1585266448334655490)
 - [RT Philipp Brunenberg: Link Predictions = Binary Classification of node pairs. One special step is to combine node features into a link vector. 🅰️...](https://twitter.com/p_brunenberg/status/1585235795530620930)
-- [RT Tasos Zafeiropoulos: Have a look at the Sustaingraph! A #KnowledgeGraph around the SDGs developed in the @ARSINOE_EU project for supporting scienti...](https://twitter.com/tzafeir/status/1585229654771703809)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
