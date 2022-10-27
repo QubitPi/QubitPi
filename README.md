@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Emil Eifrem – Neo4j’s Co-founder and CEO – and Developer Relations Community Manager Andreas Kollegger will answer audience questions about #GraphT...](https://twitter.com/neo4j/status/1585640014565625858)
-- [Start your journey with #Neo4j! 🚀 This free training is for you. 💡Basic graph theory 💡Graph structures 💡Common graph use cases #GraphAcade...](https://twitter.com/neo4j/status/1585617483616116736)
 - [Re To invite your friends quickly and participate in the competition, we put together this form to help you with your tweets and linkedin posts with t...](https://twitter.com/neo4j/status/1585584515526836225)
 - [RT Dirk Fahland: This paper connects process analysis and #routinedynamics by detecting task executions in processes. Aggregation queries /w @neo4j re...](https://twitter.com/dfahland/status/1585530041059901443)
 - [RT Orie Steele:](https://twitter.com/OR13b/status/1585416945033441280)
+- [&quot;It’s important to focus on the overall goal while still recognizing that the plan you built initially may need to be shifted over time in order to a...](https://twitter.com/neo4j/status/1585395357973970965)
+- [RT Adam Cowley: If I were to do this with @neo4j, I would add a label to each node &lpar;eg. HasDate&rpar; and then add an index to that label. That way the dat...](https://twitter.com/adamcowley/status/1585352043732283392)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
