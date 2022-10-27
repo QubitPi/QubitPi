@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Can you point me to research papers where they are predicting the editing steps on images](https://www.reddit.com/r/MachineLearning/comments/yer6g9/d_can_you_point_me_to_research_papers_where_they/)
 - [[R] RTFormer &lt;NeurIPS 2022&gt; : Real-Time Semantic Segmentation with Transformer](https://www.reddit.com/r/MachineLearning/comments/yer1s3/r_rtformer_neurips_2022_realtime_semantic/)
 - [[R] WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models](https://www.reddit.com/r/MachineLearning/comments/yeppof/r_winogavil_gamified_association_benchmark_to/)
 - [[D] Extracting data from airplane HUD video?](https://www.reddit.com/r/MachineLearning/comments/yepo8j/d_extracting_data_from_airplane_hud_video/)
 - [[D] Any models that will animate images like DeepNostalgia?](https://www.reddit.com/r/MachineLearning/comments/yem6es/d_any_models_that_will_animate_images_like/)
+- [[D] Suggestions for state-of-the-art genetic algorithm implementations or alternatives for black box optimization?](https://www.reddit.com/r/MachineLearning/comments/yejznq/d_suggestions_for_stateoftheart_genetic_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
