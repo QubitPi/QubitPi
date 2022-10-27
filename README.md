@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re To invite your friends quickly and participate in the competition, we put together this form to help you with your tweets and linkedin posts with t...](https://twitter.com/neo4j/status/1585584515526836225)
-- [RT Dirk Fahland: This paper connects process analysis and #routinedynamics by detecting task executions in processes. Aggregation queries /w @neo4j re...](https://twitter.com/dfahland/status/1585530041059901443)
 - [RT Orie Steele:](https://twitter.com/OR13b/status/1585416945033441280)
 - [&quot;It’s important to focus on the overall goal while still recognizing that the plan you built initially may need to be shifted over time in order to a...](https://twitter.com/neo4j/status/1585395357973970965)
 - [RT Adam Cowley: If I were to do this with @neo4j, I would add a label to each node &lpar;eg. HasDate&rpar; and then add an index to that label. That way the dat...](https://twitter.com/adamcowley/status/1585352043732283392)
+- [RT William Lyon: Video from my #NACIS2022 talk Making Sense of Geospatial Data With Knowledge Graphs and @neo4j is now online! 🎥📺](https://twitter.com/lyonwj/status/1585339519402147842)
+- [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1585315517249748992)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
