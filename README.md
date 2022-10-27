@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Adam Cowley: ⭐️ New Article: Using #Neo4j in your next @nextjs Project](https://twitter.com/adamcowley/status/1585673880525340672)
+- [Does you team need guidance on how to start with Neo4j Graph Data Science? Well, we have the perfect guide for you🎉 Take a look at these suggested ...](https://twitter.com/neo4j/status/1585662689409466369)
+- [RT R Conference: We are excited to be a Community Partner for NODES 2022, @neo4j&#39;s Online Developer Expo &amp; Summit! #NODES2022 is a free, multi-track, ...](https://twitter.com/rstatsai/status/1585651785355567104)
 - [Emil Eifrem – Neo4j’s Co-founder and CEO – and Developer Relations Community Manager Andreas Kollegger will answer audience questions about #GraphT...](https://twitter.com/neo4j/status/1585640014565625858)
-- [Start your journey with #Neo4j! 🚀 This free training is for you. 💡Basic graph theory 💡Graph structures 💡Common graph use cases #GraphAcade...](https://twitter.com/neo4j/status/1585617483616116736)
-- [Re To invite your friends quickly and participate in the competition, we put together this form to help you with your tweets and linkedin posts with t...](https://twitter.com/neo4j/status/1585584515526836225)
-- [RT Dirk Fahland: This paper connects process analysis and #routinedynamics by detecting task executions in processes. Aggregation queries /w @neo4j re...](https://twitter.com/dfahland/status/1585530041059901443)
-- [RT Orie Steele:](https://twitter.com/OR13b/status/1585416945033441280)
+- [RT Data Umbrella: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 24hr...](https://twitter.com/DataUmbrella/status/1585631909543309312)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
