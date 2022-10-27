@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT NYC Data Hackers: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/nyhackr/status/1585693309271408666)
+- [Did you know that we have a series of videos about #Neo4j and #GraphDataBase in different languages?? 🌎 Check out Our Youtube channel : 🇪🇸 �...](https://twitter.com/neo4j/status/1585692992735674382)
 - [RT Adam Cowley: ⭐️ New Article: Using #Neo4j in your next @nextjs Project](https://twitter.com/adamcowley/status/1585673880525340672)
 - [Does you team need guidance on how to start with Neo4j Graph Data Science? Well, we have the perfect guide for you🎉 Take a look at these suggested ...](https://twitter.com/neo4j/status/1585662689409466369)
 - [RT R Conference: We are excited to be a Community Partner for NODES 2022, @neo4j&#39;s Online Developer Expo &amp; Summit! #NODES2022 is a free, multi-track, ...](https://twitter.com/rstatsai/status/1585651785355567104)
-- [Emil Eifrem – Neo4j’s Co-founder and CEO – and Developer Relations Community Manager Andreas Kollegger will answer audience questions about #GraphT...](https://twitter.com/neo4j/status/1585640014565625858)
-- [RT Data Umbrella: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 24hr...](https://twitter.com/DataUmbrella/status/1585631909543309312)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
