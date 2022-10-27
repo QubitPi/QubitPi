@@ -363,11 +363,11 @@ My Tech Blogs
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKERHUB-BLOG:START -->
+- [How to Implement Decentralized Storage Using Docker Extensions](https://www.docker.com/blog/how-to-implement-decentralized-storage-using-docker-extensions/)
 - [October 2022 Newsletter](https://www.docker.com/blog/october-2022-newsletter/)
 - [How to Use the Node Docker Official Image](https://www.docker.com/blog/how-to-use-the-node-docker-official-image/)
 - [Resolve Vulnerabilities Sooner With Contextual Data](https://www.docker.com/blog/resolve-vulnerabilities-sooner-with-contextual-data/)
 - [October Extensions Roundup: CI on Your Laptop and Hacktoberfest!](https://www.docker.com/blog/new-extensions-october-2022/)
-- [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
 <!-- DOCKERHUB-BLOG:END -->
 
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
