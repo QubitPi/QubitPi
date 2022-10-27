@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] LoG reviews](https://www.reddit.com/r/MachineLearning/comments/yf1tsg/d_log_reviews/)
 - [[Discussion] Are there masked LMs that can fill in multiple tokens per mask token?](https://www.reddit.com/r/MachineLearning/comments/yf1cyy/discussion_are_there_masked_lms_that_can_fill_in/)
 - [[Project] drafting sweet, saucy and psycho text messages with GTP-3](https://www.reddit.com/r/MachineLearning/comments/yf14p7/project_drafting_sweet_saucy_and_psycho_text/)
 - [[R] &quot;Re3: Generating Longer Stories With Recursive Reprompting and Revision&quot; - Generating stories of 2000+ words &lpar;or even much longer&rpar;](https://www.reddit.com/r/MachineLearning/comments/yezsiv/r_re3_generating_longer_stories_with_recursive/)
 - [[P] OpenAI Whisper - 3x CPU Inference Speedup](https://www.reddit.com/r/MachineLearning/comments/yeyxlo/p_openai_whisper_3x_cpu_inference_speedup/)
-- [[D] [R] Large-scale clustering](https://www.reddit.com/r/MachineLearning/comments/yexifs/d_r_largescale_clustering/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
