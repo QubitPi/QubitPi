@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1585663880998653955)
 - [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1585639213872996352)
 - [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1585628895831019523)
 - [Have you ever wondered who writes all the technical documentation here at #Memgraph or who’s answering questions and helping developers through #Disc...](https://twitter.com/memgraphdb/status/1585574184872206336)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1585536280968024064)
-- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1585514385220534272)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
