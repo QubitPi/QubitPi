@@ -498,7 +498,7 @@ My Tech Blogs
 - [Did you know that we have a series of videos about #Neo4j and #GraphDataBase in different languages?? 🌎 Check out Our Youtube channel : 🇪🇸 �...](https://twitter.com/neo4j/status/1585692992735674382)
 - [RT Adam Cowley: ⭐️ New Article: Using #Neo4j in your next @nextjs Project](https://twitter.com/adamcowley/status/1585673880525340672)
 - [Does you team need guidance on how to start with Neo4j Graph Data Science? Well, we have the perfect guide for you🎉 Take a look at these suggested ...](https://twitter.com/neo4j/status/1585662689409466369)
-- [RT R Conference: We are excited to be a Community Partner for NODES 2022, @neo4j&#39;s Online Developer Expo &amp; Summit! #NODES2022 is a free, multi-track, ...](https://twitter.com/rstatsai/status/1585651785355567104)
+- [RT LARUS: Whether you have just heard about #graph or you are searching for best practises, #NODES2022 has something for you. On November 16th, we are...](https://twitter.com/AgileLARUS/status/1585662495401951232)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
