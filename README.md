@@ -443,11 +443,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [RT Mike Staub: Of the dozens of storage technologies I&#39;ve used in my 10-year career, @arangodb is by far my favorite. They keep raising the bar.](https://twitter.com/mikestaub/status/1585834160970616833)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1585662625282678785)
 - [Today is day 4 of @KubeCon_ + @CloudNativeFdn Detroit is here and we are feeling great. 🔥 Come stop by our booth S92 to talk to members of Team Avo...](https://twitter.com/arangodb/status/1585620589322059777)
 - [Today is day 4 of @KubeCon_ + @CloudNativeFdn Detroit is here and we are feeling great. 🔥 Come stop by our booth S92 to talk to members of Team Avo...](https://twitter.com/arangodb/status/1585617338405191686)
 - [It&#39;s not too late to join in on all the fun at ArangoDB Summit! 🥑 Get up to speed on the latest news from ArangoDB today with the on-demand recordi...](https://twitter.com/arangodb/status/1585300239971454977)
+- [Day 3 of @KubeCon_ + @CloudNativeFdn Detroit is live in person AND online. 🔥 Join us for our virtual office hour at 2 PM EST, and come stop by our ...](https://twitter.com/arangodb/status/1585254943094722562)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
