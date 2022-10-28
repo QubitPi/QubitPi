@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721930891076567046><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/24f7ae0c9bb97271b3d38a551495a32b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721579249211801620><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/552a0a291ff83fc1f055124f7ad538f5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #纳西妲# 《原神》纳西妲角色PV——「生日快乐」现已发布~ https://www.bilibili.com/video/BV1AG4y1h7Ap 「花车颠呀颠，纳西妲睁开眼…」 关注...](https://t.bilibili.com/721579249211801620)
