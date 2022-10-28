@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Need help with choosing&lpar;deciding&rpar; the ML models [D]](https://www.reddit.com/r/MachineLearning/comments/yf8glz/need_help_with_choosingdeciding_the_ml_models_d/)
 - [[P] Computer Vision made easy with a new Open Source Framework. Quick and simple.](https://www.reddit.com/r/MachineLearning/comments/yf76ic/p_computer_vision_made_easy_with_a_new_open/)
 - [[D] Self-supervised/collaborative embedding?](https://www.reddit.com/r/MachineLearning/comments/yf73ll/d_selfsupervisedcollaborative_embedding/)
 - [[R] GPT for robotics: Perception-Action Causal Transformer &lpar;PACT&rpar;](https://www.reddit.com/r/MachineLearning/comments/yf5ozx/r_gpt_for_robotics_perceptionaction_causal/)
 - [[D] Do companies actually care about their model&#39;s training/inference speed?](https://www.reddit.com/r/MachineLearning/comments/yf3vtt/d_do_companies_actually_care_about_their_models/)
+- [[R] &quot;Re3: Generating Longer Stories With Recursive Reprompting and Revision&quot; - Generating stories of 2000+ words &lpar;or even much longer&rpar;](https://www.reddit.com/r/MachineLearning/comments/yezsiv/r_re3_generating_longer_stories_with_recursive/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
