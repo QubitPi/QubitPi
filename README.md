@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721946228403732630><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ac80e311a7dbf955a13f1abacf861c51401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722044540190457880><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a744c739819a34639964c809f3bb5c83401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神时光交响之章周年征集活动# #原神UP主激励计划# 《原神》「时光交响之章」二周年创意视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 *本次获奖作...](https://t.bilibili.com/722044540190457880)
