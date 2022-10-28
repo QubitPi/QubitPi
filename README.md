@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Random Forest Feature Importance](https://www.reddit.com/r/MachineLearning/comments/yfwzw0/d_random_forest_feature_importance/)
-- [[D] Feature order in SVM](https://www.reddit.com/r/MachineLearning/comments/yfwmqg/d_feature_order_in_svm/)
-- [[D] Predicting input values from taget value](https://www.reddit.com/r/MachineLearning/comments/yfqhsm/d_predicting_input_values_from_taget_value/)
-- [[D] Image segmentation not segmenting correctly](https://www.reddit.com/r/MachineLearning/comments/yfo9xa/d_image_segmentation_not_segmenting_correctly/)
 - [[D] DL Practitioners, Do You Use Layer Visualization Tools s.a GradCam in Your Process?](https://www.reddit.com/r/MachineLearning/comments/yfmtd3/d_dl_practitioners_do_you_use_layer_visualization/)
+- [[D] Looking for feedback on a dataset collaboration tool for ML projects](https://www.reddit.com/r/MachineLearning/comments/yf80n7/d_looking_for_feedback_on_a_dataset_collaboration/)
+- [[P] Computer Vision made easy with a new Open Source Framework. Quick and simple.](https://www.reddit.com/r/MachineLearning/comments/yf76ic/p_computer_vision_made_easy_with_a_new_open/)
+- [[D] Self-supervised/collaborative embedding?](https://www.reddit.com/r/MachineLearning/comments/yf73ll/d_selfsupervisedcollaborative_embedding/)
+- [[R] GPT for robotics: Perception-Action Causal Transformer &lpar;PACT&rpar;](https://www.reddit.com/r/MachineLearning/comments/yf5ozx/r_gpt_for_robotics_perceptionaction_causal/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
