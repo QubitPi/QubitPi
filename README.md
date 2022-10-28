@@ -315,7 +315,7 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Forecasting client&#39;s account balance](https://www.reddit.com/r/MachineLearning/comments/yfkqp1/p_forecasting_clients_account_balance/)
+- [[D] Looking for feedback on a dataset collaboration tool for ML projects](https://www.reddit.com/r/MachineLearning/comments/yf80n7/d_looking_for_feedback_on_a_dataset_collaboration/)
 - [[P] Computer Vision made easy with a new Open Source Framework. Quick and simple.](https://www.reddit.com/r/MachineLearning/comments/yf76ic/p_computer_vision_made_easy_with_a_new_open/)
 - [[D] Self-supervised/collaborative embedding?](https://www.reddit.com/r/MachineLearning/comments/yf73ll/d_selfsupervisedcollaborative_embedding/)
 - [[R] GPT for robotics: Perception-Action Causal Transformer &lpar;PACT&rpar;](https://www.reddit.com/r/MachineLearning/comments/yf5ozx/r_gpt_for_robotics_perceptionaction_causal/)
