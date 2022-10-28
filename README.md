@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721930891076567046><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/24f7ae0c9bb97271b3d38a551495a32b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #纳西妲# #愿慧梦成真# 有一天，梦里出现了鲜花、糖果和欢笑。 「愿慧梦成真」——《原神》新角色：纳西妲分享H5正式上线。 欢迎旅行者们前往评...](https://t.bilibili.com/721946228403732630)
+- [#原神# 亲爱的旅行者： 为了给旅行者更好的游戏体验，制作组将于近期在PC端和移动端开放预下载功能。 预下载开放时间： 2022/10/31 11:00（3.2版本更新前） 移动...](https://t.bilibili.com/721930891076567046)
 - [互动抽奖 #原神# #纳西妲# 《原神》纳西妲角色PV——「生日快乐」现已发布~ https://www.bilibili.com/video/BV1AG4y1h7Ap 「花车颠呀颠，纳西妲睁开眼…」 关注...](https://t.bilibili.com/721579249211801620)
 - [旅行者们好，今天将为大家介绍的角色是纳西妲。一起来看看吧~[原神_哇]](https://t.bilibili.com/721577840449945795)
 - [#原神# #纳西妲# 白草净华，幽宫启蛰](https://t.bilibili.com/721577217685979161)
-- [白草净华，幽宫启蛰](https://t.bilibili.com/721576427431919696)
-- [《原神》纳西妲角色PV——「生日快乐」](https://t.bilibili.com/721575370850041927)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
