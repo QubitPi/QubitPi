@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Philipp Brunenberg: How to build a recommendation engine directly in #neo4j: - No external system needed - Intuitively explainable - Results simila...](https://twitter.com/p_brunenberg/status/1585926346286534665)
 - [RT NYC Data Hackers: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/nyhackr/status/1585693309271408666)
 - [Did you know that we have a series of videos about #Neo4j and #GraphDataBase in different languages?? 🌎 Check out Our Youtube channel : 🇪🇸 �...](https://twitter.com/neo4j/status/1585692992735674382)
 - [RT Adam Cowley: ⭐️ New Article: Using #Neo4j in your next @nextjs Project](https://twitter.com/adamcowley/status/1585673880525340672)
 - [Does you team need guidance on how to start with Neo4j Graph Data Science? Well, we have the perfect guide for you🎉 Take a look at these suggested ...](https://twitter.com/neo4j/status/1585662689409466369)
+- [RT LARUS: Whether you have just heard about #graph or you are searching for best practises, #NODES2022 has something for you. On November 16th, we are...](https://twitter.com/AgileLARUS/status/1585662495401951232)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
