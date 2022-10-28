@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Our first joint AWS-Neo4j blog on the Amazon Partner Network, highlighting #AWS Sagemaker with #Neo4j’s Graph Data Science Technology to optimize ML ...](https://twitter.com/neo4j/status/1585979756436152320)
+- [RT yWorks: We are looking forward to @neo4j #NODES2022 this year &amp; Sebastian&#39;s talk: &quot;Explore your graphs visually with Jupyter Notebooks&quot;. Join for f...](https://twitter.com/yworks/status/1585964898080669696)
+- [RT Michael Simons: The thing I&#39;m most proud of professionally the last years is the Cypher-DSL… I just used it to add support for composite ids in Sp...](https://twitter.com/rotnroll666/status/1585961631435005953)
+- [RT Alexander Erdl: An #anniversary 🥳 is coming up, @BarrasaDV ! Episode 10 🤯 of #goingmeta is taking place on 1st November 5pm CET -&gt;](https://twitter.com/alexandererdl/status/1585930874163380224)
 - [RT Philipp Brunenberg: How to build a recommendation engine directly in #neo4j: - No external system needed - Intuitively explainable - Results simila...](https://twitter.com/p_brunenberg/status/1585926346286534665)
-- [RT NYC Data Hackers: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/nyhackr/status/1585693309271408666)
-- [Did you know that we have a series of videos about #Neo4j and #GraphDataBase in different languages?? 🌎 Check out Our Youtube channel : 🇪🇸 �...](https://twitter.com/neo4j/status/1585692992735674382)
-- [RT Adam Cowley: ⭐️ New Article: Using #Neo4j in your next @nextjs Project](https://twitter.com/adamcowley/status/1585673880525340672)
-- [Does you team need guidance on how to start with Neo4j Graph Data Science? Well, we have the perfect guide for you🎉 Take a look at these suggested ...](https://twitter.com/neo4j/status/1585662689409466369)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
