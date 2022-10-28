@@ -553,8 +553,8 @@ My Tech Blogs
 - [Bank](https://dribbble.com/shots/19728311)
 - [Data](https://dribbble.com/shots/19745204)
 - [dashboard: planning platform](https://dribbble.com/shots/19728297)
-- [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 - [Carty - Digital Banking Landing Page Website](https://dribbble.com/shots/19742791)
+- [Tinyspace Wordmark](https://dribbble.com/shots/19699790)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
