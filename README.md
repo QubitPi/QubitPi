@@ -534,11 +534,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Want to know more about the future of media in Web3? Join us on November 3rd in Lisbon to hear Web3 Foundation&#39;s @Ursulaok, @djtomchak of Cogency, and...](https://twitter.com/Web3foundation/status/1585986087272562688)
+- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Join the Web3x online courses from W3F and @edXOnline for the p...](https://twitter.com/Web3foundation/status/1585955703243476993)
 - [Happening now: tune in to an AMA on @Polkadot&#39;s governance system with Web3 Foundation&#39;s @BillLaboon:](https://twitter.com/Web3foundation/status/1585900315244924928)
 - [Interested in learning the fundamentals of blockchain and Web3? Take your chance to learn from the Web3 Foundation educators @BillLaboon &amp; @DrW3RK in ...](https://twitter.com/Web3foundation/status/1584927564858105859)
 - [On October 28th at 1pm UTC, join Web3 Foundation&#39;s @BillLaboon in an AMA session on all things @Polkadot &amp; @kusamanetwork. To join the session in the ...](https://twitter.com/Web3foundation/status/1584469977796513792)
-- [RT DCENTRAL Miami: 🌴 We are excited to have Bertrand Perez of @Web3foundation join us as a speaker for Miami!📣 DCENTRAL Miami is the largest com...](https://twitter.com/DcentralCon/status/1583545649487761413)
-- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Together with @edXOnline, we&#39;re launching Web3x – online cours...](https://twitter.com/Web3foundation/status/1579851519758925824)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
