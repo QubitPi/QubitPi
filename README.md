@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721930891076567046><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/24f7ae0c9bb97271b3d38a551495a32b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/721946228403732630><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ac80e311a7dbf955a13f1abacf861c51401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #纳西妲# #愿慧梦成真# 有一天，梦里出现了鲜花、糖果和欢笑。 「愿慧梦成真」——《原神》新角色：纳西妲分享H5正式上线。 欢迎旅行者们前往评...](https://t.bilibili.com/721946228403732630)
