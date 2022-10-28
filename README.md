@@ -504,11 +504,11 @@ My Tech Blogs
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Neo4j GraphDay Roma 2022](https://www.youtube.com/watch?v=ufj7wYqHMcw)
 - [Neo4j Live: Graph Data Art](https://www.youtube.com/watch?v=9Fhcgxka0T4)
 - [Going Meta - a series on graphs, semantics and knowledge - Ep 10](https://www.youtube.com/watch?v=nG62SzxOBJc)
 - [Road to NODES - Blazing Fast Graphs: Hands-on with Apache Arrow and Neo4j](https://www.youtube.com/watch?v=To6PgVvtok8)
 - [Road to NODES - Handling Neo4j Data with Apache Hop](https://www.youtube.com/watch?v=SPt7CDxOOa0)
+- [Road to NODES Workshop Series - Healthcare Anylytics Using Neo4j](https://www.youtube.com/watch?v=5DZfOLspVDM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
