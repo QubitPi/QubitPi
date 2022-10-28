@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in #Memgraph. Visualize graphs, execute ad hoc qu...](https://twitter.com/memgraphdb/status/1585976933686329344)
+- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 #memgraph #pyth...](https://twitter.com/memgraphdb/status/1585968126348361731)
 - [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1585898663242498048)
 - [🎓 #Memgraph presents graph algorithms: Bipartite matching 🗒️ A bipartite graph is a graph in which we can divide vertices into two independent ...](https://twitter.com/memgraphdb/status/1585879290444496897)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1585663880998653955)
-- [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1585639213872996352)
-- [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1585628895831019523)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
