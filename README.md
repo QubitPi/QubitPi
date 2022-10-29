@@ -455,7 +455,7 @@ My Tech Blogs
 <img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/197424464-8e4e7dce-17d8-43a0-870f-99c95d7b667d.GIF">
 
 <!-- ARANGO-BLOGS:START -->
-- [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad1eb75d378f813ca1bf3428985753c624913da3df137f1294)
+- [August 2022: What’s the Latest with ArangoDB?, Read more](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad1eb75d378f813ca1bf3428985753c624913da3df137f1294)
 - [July 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: July 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93790ad1eb75d378f813ca1bf3428985753c624913da3df137f1194)
 - [What is a Graph Database? What is a Graph Database](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93790ad08ad5d2dc5872beef3772a9d454fcb7d8139a593402a57de24)
 - [May 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: May 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93792ad1eb75d378f813ca1bf3428985753c624913da3df137f1094)
