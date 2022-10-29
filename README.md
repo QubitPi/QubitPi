@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [In the third blog of his series, Mehul Gupta queries his database with centrality algorithms to rank nodes based on importance. #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1586482525387595776)
 - [In the third blog of his series, Mehul Gupta queries his database with centrality algorithms to rank nodes based on importance. #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1586422128202731520)
 - [🤔 Why a graph database solves problems other databases won’t — with Jason Koo. #neo4j #GraphsAreEverywhere #database](https://twitter.com/neo4j/status/1586361481716703233)
 - [See how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user accounts. Zach Blumenthal expl...](https://twitter.com/neo4j/status/1586302339656388608)
 - [RT Nathan Smith: I love that Neo4j&#39;s Online Developer Education Summit will have 24 hours of free live content. No matter where you live, whether you ...](https://twitter.com/nsmith_piano/status/1586090939466108928)
-- [RT Python Chile: ¡Estamos super emocionados ser Socios Comunitarios de #NODES2022! Únete a nosotros el 16 y 17 de noviembre para la cumbre anual de ...](https://twitter.com/pythonchiledev/status/1586083710549766144)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
