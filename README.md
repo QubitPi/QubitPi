@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722044540190457880><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a744c739819a34639964c809f3bb5c83401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #枫原万叶# #生日快乐# 轻风吹过，总是伴随着许多悦耳的声响，有时也会带来熟悉的人的声音。 没错，我听到了，便早早来甲板上迎接你。 「飞叶初...](https://t.bilibili.com/722317322168041526)
 - [#原神# #原神时光交响之章周年征集活动# #原神UP主激励计划# 《原神》「时光交响之章」二周年创意视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 *本次获奖作...](https://t.bilibili.com/722044540190457880)
 - [#原神# #原神沙海蜃影摄影活动# #沙海蜃影# 《原神》「沙海蜃影」须弥沙漠主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图，再...](https://t.bilibili.com/722039115642568755)
 - [互动抽奖 #原神# #纳西妲# #愿慧梦成真# 有一天，梦里出现了鲜花、糖果和欢笑。 「愿慧梦成真」——《原神》新角色：纳西妲分享H5正式上线。 欢迎旅行者们前往评...](https://t.bilibili.com/721946228403732630)
 - [#原神# 亲爱的旅行者： 为了给旅行者更好的游戏体验，制作组将于近期在PC端和移动端开放预下载功能。 预下载开放时间： 2022/10/31 11:00（3.2版本更新前） 移动...](https://t.bilibili.com/721930891076567046)
-- [互动抽奖 #原神# #纳西妲# 《原神》纳西妲角色PV——「生日快乐」现已发布~ https://www.bilibili.com/video/BV1AG4y1h7Ap 「花车颠呀颠，纳西妲睁开眼…」 关注...](https://t.bilibili.com/721579249211801620)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
