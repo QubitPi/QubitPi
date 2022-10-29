@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1586243195893153792)
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1586236896086220801)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1586027770680954880)
 - [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1586017502991196167)
 - [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1586001597661945858)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in #Memgraph. Visualize graphs, execute ad hoc qu...](https://twitter.com/memgraphdb/status/1585976933686329344)
-- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 #memgraph #pyth...](https://twitter.com/memgraphdb/status/1585968126348361731)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
