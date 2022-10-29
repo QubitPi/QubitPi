@@ -494,11 +494,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [See how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user accounts. Zach Blumenthal expl...](https://twitter.com/neo4j/status/1586302339656388608)
 - [In this blog, we will present the solution for real-world scenarios virtually using a Neo4j graph.👏 Take a look! By Shaani Arya Srivastava, Neo4j C...](https://twitter.com/neo4j/status/1586070361304612866)
 - [Our first joint AWS-Neo4j blog on the Amazon Partner Network, highlighting #AWS Sagemaker with #Neo4j’s Graph Data Science Technology to optimize ML ...](https://twitter.com/neo4j/status/1585979756436152320)
 - [RT yWorks: We are looking forward to @neo4j #NODES2022 this year &amp; Sebastian&#39;s talk: &quot;Explore your graphs visually with Jupyter Notebooks&quot;. Join for f...](https://twitter.com/yworks/status/1585964898080669696)
 - [RT Michael Simons: The thing I&#39;m most proud of professionally the last years is the Cypher-DSL… I just used it to add support for composite ids in Sp...](https://twitter.com/rotnroll666/status/1585961631435005953)
+- [RT Alexander Erdl: An #anniversary 🥳 is coming up, @BarrasaDV ! Episode 10 🤯 of #goingmeta is taking place on 1st November 5pm CET -&gt;](https://twitter.com/alexandererdl/status/1585930874163380224)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
