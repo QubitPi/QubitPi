@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Join us on Wednesday, November 2th 2022 - 6:00 PM &lpar;CEST&rpar; for #memgraph webinar &quot;Accelerating Drug Discovery With a Biomedical Knowledge Graph&quot;. Micha...](https://twitter.com/memgraphdb/status/1586419869100441601)
 - [❤️ We love #algorithms. Especially the ones that are useful for #graphdatabases. In the next couple of days, we will introduce you to our favorite a...](https://twitter.com/memgraphdb/status/1586387640152166403)
 - [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1586382106825039872)
 - [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1586356685559537664)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1586310885156569088)
-- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1586285465187106817)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
