@@ -476,11 +476,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1586310885156569088)
 - [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1586285465187106817)
 - [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1586243195893153792)
 - [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1586236896086220801)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1586027770680954880)
-- [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1586017502991196167)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
