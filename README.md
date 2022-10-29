@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ResNet101 VS InceptionResNetV2](https://www.reddit.com/r/MachineLearning/comments/ygyq3i/d_resnet101_vs_inceptionresnetv2/)
 - [[D] Recursive Training](https://www.reddit.com/r/MachineLearning/comments/ygxzx5/d_recursive_training/)
 - [[N] Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333](https://www.reddit.com/r/MachineLearning/comments/ygtb5h/n_andrej_karpathy_tesla_ai_selfdriving_optimus/)
 - [[D] AMD GPU Performance reaches state-of-the-art](https://www.reddit.com/r/MachineLearning/comments/ygp9sc/d_amd_gpu_performance_reaches_stateoftheart/)
 - [Has any tried streaming data to an open ai gym environment? “[D]”](https://www.reddit.com/r/MachineLearning/comments/ygk7wa/has_any_tried_streaming_data_to_an_open_ai_gym/)
-- [[R] ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts + Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/ygj11f/r_ernievilg_20_improving_texttoimage_diffusion/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
