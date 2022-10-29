@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Zuckerberg: Our AI Program Can Create Video From a Line of Text](https://www.reddit.com/r/MachineLearning/comments/yge26b/n_zuckerberg_our_ai_program_can_create_video_from/)
+- [[D] What are the bottlenecks in your ML project lifecycle? What tools would you like to see more widely used?](https://www.reddit.com/r/MachineLearning/comments/ygdxqu/d_what_are_the_bottlenecks_in_your_ml_project/)
 - [[R] Request for review / feedback: Paper on deep learning for algorithm learning](https://www.reddit.com/r/MachineLearning/comments/ygdx76/r_request_for_review_feedback_paper_on_deep/)
 - [[2210.12574] The Curious Case of Absolute Position Embeddings](https://www.reddit.com/r/MachineLearning/comments/ygabc2/221012574_the_curious_case_of_absolute_position/)
 - [[R] Open source inference acceleration library - voltaML](https://www.reddit.com/r/MachineLearning/comments/yga0s1/r_open_source_inference_acceleration_library/)
-- [[P] Built an OS Platform to Annotate and Run NLP Models on PDFs](https://www.reddit.com/r/MachineLearning/comments/yg8g1k/p_built_an_os_platform_to_annotate_and_run_nlp/)
-- [[D] NeurIPS 2022 - Why is the release of the reviews delayed?](https://www.reddit.com/r/MachineLearning/comments/yg69ak/d_neurips_2022_why_is_the_release_of_the_reviews/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
