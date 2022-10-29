@@ -495,10 +495,10 @@ My Tech Blogs
 
 <!-- NEO4J-TWITTER:START -->
 - [See how easy it is to engineer graph features and create a supervised machine learning model to predict fraud risk user accounts. Zach Blumenthal expl...](https://twitter.com/neo4j/status/1586302339656388608)
-- [RT Nathan Smith: I love that Neo4j&#39;s Online Developer Education Summit will have 24 hours of free live content. No matter where you live, whether you ...](https://twitter.com/nsmith_piano/status/1586090939466108928)
-- [RT Python Chile: ¡Estamos super emocionados ser Socios Comunitarios de #NODES2022! Únete a nosotros el 16 y 17 de noviembre para la cumbre anual de ...](https://twitter.com/pythonchiledev/status/1586083710549766144)
 - [In this blog, we will present the solution for real-world scenarios virtually using a Neo4j graph.👏 Take a look! By Shaani Arya Srivastava, Neo4j C...](https://twitter.com/neo4j/status/1586070361304612866)
-- [RT GraphAware - we&#39;re hiring!: Want to discover the secrets of using @neo4j with Docker? 🔍 Join @ikwattro for his talk at Nodes 2022! Register via ...](https://twitter.com/graph_aware/status/1585999750318505988)
+- [Our first joint AWS-Neo4j blog on the Amazon Partner Network, highlighting #AWS Sagemaker with #Neo4j’s Graph Data Science Technology to optimize ML ...](https://twitter.com/neo4j/status/1585979756436152320)
+- [RT yWorks: We are looking forward to @neo4j #NODES2022 this year &amp; Sebastian&#39;s talk: &quot;Explore your graphs visually with Jupyter Notebooks&quot;. Join for f...](https://twitter.com/yworks/status/1585964898080669696)
+- [RT Michael Simons: The thing I&#39;m most proud of professionally the last years is the Cypher-DSL… I just used it to add support for composite ids in Sp...](https://twitter.com/rotnroll666/status/1585961631435005953)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
