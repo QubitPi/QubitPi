@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P]Fake News Detection Using Machine Learning](https://www.reddit.com/r/MachineLearning/comments/yhb1pf/pfake_news_detection_using_machine_learning/)
-- [[N] Andrew Ng: How AI could empower any business](https://www.reddit.com/r/MachineLearning/comments/yhb140/n_andrew_ng_how_ai_could_empower_any_business/)
-- [[P]HELP ML CAPSTONE PROJECT](https://www.reddit.com/r/MachineLearning/comments/yh7zdk/phelp_ml_capstone_project/)
-- [[D] I got this email after the first round of ML SWE round at Meta. Does it mean that I cleared the round but there&#39;s a hiring freeze in place?](https://www.reddit.com/r/MachineLearning/comments/yh5qec/d_i_got_this_email_after_the_first_round_of_ml/)
 - [[D] Is there a Tensorflow version of the HSIC bottleneck network &lpar;Deep Learning without back-propagation&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yh4x1x/d_is_there_a_tensorflow_version_of_the_hsic/)
+- [[P][R] Modern Disney Diffusion, dreambooth model trained using the diffusers implementation](https://www.reddit.com/r/MachineLearning/comments/yh3gmq/pr_modern_disney_diffusion_dreambooth_model/)
+- [[D] ResNet101 VS InceptionResNetV2](https://www.reddit.com/r/MachineLearning/comments/ygyq3i/d_resnet101_vs_inceptionresnetv2/)
+- [[D] Recursive Training](https://www.reddit.com/r/MachineLearning/comments/ygxzx5/d_recursive_training/)
+- [[N] Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333](https://www.reddit.com/r/MachineLearning/comments/ygtb5h/n_andrej_karpathy_tesla_ai_selfdriving_optimus/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
