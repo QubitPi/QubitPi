@@ -72,6 +72,21 @@ jobs:
           comment_tag_name: "OPENSTACK-SUPERUSER"
           max_post_count: "5"
           feed_list: "https://superuser.openstack.org/feed/"
+  openstack-swift-community-docker:
+    name: OpenStack docker-swift-onlyone changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "docker-swift-onlyone changes"
+          comment_tag_name: "OPENSTACK-SWIFT-COMMUNITY-DOCKER"
+          max_post_count: "5"
+          feed_list: "https://github.com/FNNDSC/docker-swift-onlyone/commits.atom"
+          template: "<li>$date <a href=$url>$title</a></li>"
+    
   dockerhub-blog:
     name: DockerHub Blog
     runs-on: ubuntu-latest
