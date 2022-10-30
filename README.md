@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722317322168041526><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c077c65106baf6aecb90a698104b8c57401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722688411636334627><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/45335be4771a537e04e4e1b7bd72fa48401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #枫原万叶# #生日快乐# 轻风吹过，总是伴随着许多悦耳的声响，有时也会带来熟悉的人的声音。 没错，我听到了，便早早来甲板上迎接你。 「飞叶初...](https://t.bilibili.com/722317322168041526)
