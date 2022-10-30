@@ -482,11 +482,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Understanding how Dynamic #Node2Vec Works on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1586657667405185024)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at link ➡️ ...](https://twitter.com/memgraphdb/status/1586602565541789697)
 - [Check out our blog post 📰 Introduction to Node Embedding ➡️](https://twitter.com/memgraphdb/status/1586601048608833536)
 - [Join us on Wednesday, November 2th 2022 - 6:00 PM &lpar;CEST&rpar; for #memgraph webinar &quot;Accelerating Drug Discovery With a Biomedical Knowledge Graph&quot;. Micha...](https://twitter.com/memgraphdb/status/1586419869100441601)
 - [❤️ We love #algorithms. Especially the ones that are useful for #graphdatabases. In the next couple of days, we will introduce you to our favorite a...](https://twitter.com/memgraphdb/status/1586387640152166403)
-- [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1586382106825039872)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
