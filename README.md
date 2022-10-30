@@ -500,11 +500,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Last workshop before #NODES2022! During this technical workshop, Daniel Bukowski, a Neo4j Customer Success Architect, will share best practices for pe...](https://twitter.com/neo4j/status/1586734704727932928)
+- [RT PyLadies Berlin: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual developer summit; it&#39;s 24hrs of ...](https://twitter.com/PyLadiesBer/status/1586733575424118784)
 - [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1586690398449242112)
 - [In the third blog of his series, Mehul Gupta queries his database with centrality algorithms to rank nodes based on importance. #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1586482525387595776)
 - [RT The JavaScript Dev: After watching a few glossy new videos, I thought I&#39;d take a closer look at Next.js and see how the framework could help me to ...](https://twitter.com/TheJSDev/status/1586473956068003844)
-- [In the third blog of his series, Mehul Gupta queries his database with centrality algorithms to rank nodes based on importance. #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1586422128202731520)
-- [🤔 Why a graph database solves problems other databases won’t — with Jason Koo. #neo4j #GraphsAreEverywhere #database](https://twitter.com/neo4j/status/1586361481716703233)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
