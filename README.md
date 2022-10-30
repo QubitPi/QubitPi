@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] POSE-NDF — modeling human pose manifolds with neural distance fields](https://www.reddit.com/r/MachineLearning/comments/yhlr66/r_posendf_modeling_human_pose_manifolds_with/)
 - [[D] Looking for suggestions on setting up autoscaling on GPU servers for AI inference &lpar;without kubernetes&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yhjpo2/d_looking_for_suggestions_on_setting_up/)
 - [[R] Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation](https://www.reddit.com/r/MachineLearning/comments/yhed62/r_museformer_transformer_with_fine_and/)
 - [[R] TOCH outperforms state of the art 3D hand-object interaction models and produces smooth interactions even before and after contact](https://www.reddit.com/r/MachineLearning/comments/yhe96t/r_toch_outperforms_state_of_the_art_3d_handobject/)
 - [[Project] Improving deep learning for tabular data with numerical embeddings &lpar;FT-Transformer&rpar;](https://www.reddit.com/r/MachineLearning/comments/yhdqlj/project_improving_deep_learning_for_tabular_data/)
-- [[P][D] Size Differentiation in Products](https://www.reddit.com/r/MachineLearning/comments/yhcaw5/pd_size_differentiation_in_products/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
