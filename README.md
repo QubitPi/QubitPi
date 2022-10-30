@@ -360,9 +360,7 @@ My Tech Blogs
 
 #### [OpenStack Swift Docker Image](https://github.com/FNNDSC/docker-swift-onlyone) Updates
 
-<!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:START -->
-
-<!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:END -->
+<!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:START --><li>Tue Oct 25 2022 12:55 AM <a href=https://github.com/FNNDSC/docker-swift-onlyone/commit/266eeaa949fba0863ade5777fa6633a1c095482c>Remove wrong ci.yml</a></li><li>Tue Oct 25 2022 12:54 AM <a href=https://github.com/FNNDSC/docker-swift-onlyone/commit/928d05a9c871738b7fb47dc983659676ecb6c066>Optionally skip expensive chown</a></li><li>Fri Oct 29 2021 12:04 AM <a href=https://github.com/FNNDSC/docker-swift-onlyone/commit/a63aa6b4c0c88f13f395c6abf455c637f0e525c6>Added CI workflow script</a></li><li>Tue Jun 15 2021 9:12 PM <a href=https://github.com/FNNDSC/docker-swift-onlyone/commit/ec8eb38d561d3831e8ad5c2611f9d823da981adf>Merge pull request #2 from zrthxn/passwords</a></li><li>Mon Jun 14 2021 9:01 AM <a href=https://github.com/FNNDSC/docker-swift-onlyone/commit/877e6e1e716a56f7e0adeff1dd6a8556b4993359>Update README.md</a></li><!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
 
