@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] You can use a machine learning docker image to save time setting up a new machine.](https://www.reddit.com/r/MachineLearning/comments/yhdmtg/p_you_can_use_a_machine_learning_docker_image_to/)
 - [[P][D] Size Differentiation in Products](https://www.reddit.com/r/MachineLearning/comments/yhcaw5/pd_size_differentiation_in_products/)
 - [[R] Deep model with inputs of unbalanced sizes](https://www.reddit.com/r/MachineLearning/comments/yhbjfi/r_deep_model_with_inputs_of_unbalanced_sizes/)
 - [[D] Is there a Tensorflow version of the HSIC bottleneck network &lpar;Deep Learning without back-propagation&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yh4x1x/d_is_there_a_tensorflow_version_of_the_hsic/)
 - [[P][R] Modern Disney Diffusion, dreambooth model trained using the diffusers implementation](https://www.reddit.com/r/MachineLearning/comments/yh3gmq/pr_modern_disney_diffusion_dreambooth_model/)
-- [[D] ResNet101 VS InceptionResNetV2](https://www.reddit.com/r/MachineLearning/comments/ygyq3i/d_resnet101_vs_inceptionresnetv2/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
