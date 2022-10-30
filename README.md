@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Photorealism - Stable diffusion + Dreambooth, trained on myself &lpar;a guy&rpar; [R]](https://www.reddit.com/r/MachineLearning/comments/yhpr7n/photorealism_stable_diffusion_dreambooth_trained/)
 - [[D] - What is the SOTA for Mixture of Experts Routers? Have MoE routers that output arithmetic or Boolean combinations of experts been used?](https://www.reddit.com/r/MachineLearning/comments/yhp5rl/d_what_is_the_sota_for_mixture_of_experts_routers/)
 - [[D] How do I get certain number of frames before every point-of-impact in a tennis game video?](https://www.reddit.com/r/MachineLearning/comments/yhmlen/d_how_do_i_get_certain_number_of_frames_before/)
 - [[R] POSE-NDF — modeling human pose manifolds with neural distance fields](https://www.reddit.com/r/MachineLearning/comments/yhlr66/r_posendf_modeling_human_pose_manifolds_with/)
 - [[D] Looking for suggestions on setting up autoscaling on GPU servers for AI inference &lpar;without kubernetes&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yhjpo2/d_looking_for_suggestions_on_setting_up/)
-- [[R] Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation](https://www.reddit.com/r/MachineLearning/comments/yhed62/r_museformer_transformer_with_fine_and/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
