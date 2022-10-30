@@ -358,6 +358,12 @@ My Tech Blogs
 - [Around the World with OpenInfra Events | OpenInfra Live Recap](https://superuser.openstack.org/articles/around-the-world-with-openinfra-events-openinfra-live-recap/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
+#### [OpenStack Swift Docker Image](https://github.com/FNNDSC/docker-swift-onlyone) Updates
+
+<!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:START -->
+
+<!-- OPENSTACK-SWIFT-COMMUNITY-DOCKER:END -->
+
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
