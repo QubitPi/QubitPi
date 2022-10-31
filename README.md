@@ -453,11 +453,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Sign up for the next ArangoDB #webinar. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; on November 10th, 2022, to learn...](https://twitter.com/arangodb/status/1587112202426875909)
 - [Wishing everyone a spooky Halloween from Team Avocado. 🥑🎃👻](https://twitter.com/arangodb/status/1587052791259865093)
 - [Unfamiliar with ArangoGraph Insights Platform? Why not get started with 14-days on us with no credit card needed! Sign up today and hop into the cloud...](https://twitter.com/arangodb/status/1586749790951456768)
 - [Our fantastic community member @davedotdev, who recently spoke at ArangoDB Summit, wrote this blog post describing his journey with discovering Arango...](https://twitter.com/arangodb/status/1586357199412027392)
 - [End your week off strong by sighing up for our upcoming #webinar. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; on Nov...](https://twitter.com/arangodb/status/1586025020765134851)
+- [Today is the last day of @KubeCon_ + @CloudNativeFdn Detroit. ✨ Come stop by our booth, S92, to talk to members of Team Avocado or visit our virtual ...](https://twitter.com/arangodb/status/1585979718834262017)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
