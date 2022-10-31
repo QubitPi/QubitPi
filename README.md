@@ -331,11 +331,11 @@ My Tech Blogs
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [When Is It Time to Stop Using Scrum?](https://www.scrum.org/resources/blog/when-it-time-stop-using-scrum)
 - [Das bestgehütetste Geheimnis erfolgreicher Facilitatoren und wie du es nutzen kannst, wenn sich die Sprint Retrospektive im Kreis dreht](https://www.scrum.org/resources/blog/das-bestgehutetste-geheimnis-erfolgreicher-facilitatoren-und-wie-du-es-nutzen-kannst)
 - [Backlog Refinement in Single-Team Scrum](https://www.scrum.org/resources/blog/backlog-refinement-single-team-scrum)
 - [10 Options To Start With Scrum](https://www.scrum.org/resources/blog/10-options-start-scrum)
 - [Cómo Devops y Scrum se complementan](https://www.scrum.org/resources/blog/como-devops-y-scrum-se-complementan)
-- [A story of why psychological safety enhances the abilities of the Scrum Team](https://www.scrum.org/resources/blog/story-why-psychological-safety-enhances-abilities-scrum-team)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
