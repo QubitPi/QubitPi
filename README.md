@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Lama Cleaner: A free and open-source inpainting tool powered by SOTA AI model. It includes models like LaMa to remove any unwanted object, defect, people from your pictures and text-driven model &lpar;stable-diffusion 1.5&rpar; to replace any thing on your pictures.](https://www.reddit.com/r/MachineLearning/comments/yicyvd/p_lama_cleaner_a_free_and_opensource_inpainting/)
 - [[D] Is Instance Norm &lpar;IN&rpar; and Batch Norm &lpar;BN&rpar; is same for the batch size of 1 of gray scale images?](https://www.reddit.com/r/MachineLearning/comments/yicdbm/d_is_instance_norm_in_and_batch_norm_bn_is_same/)
 - [[P] Serverless Jupyter Labs with GPUs, CPUs and high-speed storage](https://www.reddit.com/r/MachineLearning/comments/yic2ae/p_serverless_jupyter_labs_with_gpus_cpus_and/)
 - [[D] Fine tuning language models time and resources required](https://www.reddit.com/r/MachineLearning/comments/yiayie/d_fine_tuning_language_models_time_and_resources/)
 - [[P][N] Learn Rust as ML practitioner](https://www.reddit.com/r/MachineLearning/comments/yi86he/pn_learn_rust_as_ml_practitioner/)
-- [[P] Music Synthesis Pipeline for Raw Audio [Work in Progress]](https://www.reddit.com/r/MachineLearning/comments/yi016z/p_music_synthesis_pipeline_for_raw_audio_work_in/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
