@@ -378,8 +378,7 @@ My Tech Blogs
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
 
-<!-- DOCKER-DOC-CHANGES:START -->
-<!-- DOCKER-DOC-CHANGES:END -->
+<!-- DOCKER-DOC-CHANGES:START --><li>Mon Oct 31 2022 1:03 PM <a href=https://github.com/docker/docs/commit/38a6523d2d0e9a0472e8edf193c51be4cd5eadde>POST request changed to GET request &lpar;#16022&rpar;</a></li><li>Mon Oct 31 2022 11:05 AM <a href=https://github.com/docker/docs/commit/4ed408c90b484586f92fd47c69b4c890e866d9ff>community-fixes &lpar;#16034&rpar;</a></li><li>Mon Oct 31 2022 9:03 AM <a href=https://github.com/docker/docs/commit/a9f65d95fd1fc2a4dc24627112d3a5241d927f36>Extreme nit: Apple silicon &lpar;#16030&rpar;</a></li><li>Mon Oct 31 2022 8:44 AM <a href=https://github.com/docker/docs/commit/50c183e8b6885de3cdb08371b59e661d552a0151>Fix typo in Wasm compose example&#39;s runtime value &lpar;#16031&rpar;</a></li><li>Mon Oct 31 2022 8:01 AM <a href=https://github.com/docker/docs/commit/4544982b55185691cc0b3cbdde07111b015839e1>jekyll&lpar;last_modified_at&rpar;: fix for remote resources and data files &lpar;#1…</a></li><!-- DOCKER-DOC-CHANGES:END -->
 
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
 
