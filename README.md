@@ -504,11 +504,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [On November 9, we invite you to a techy after work with @PinkProgramming in our Malmö offices where you&#39;ll get to listen to inspiring talks by Tshepi...](https://twitter.com/neo4j/status/1587066924353179648)
 - [RT Cassidy: Re This issue is brought to you by the @neo4j #NODES2022 conference! It&#39;s a free online dev conference with 100+ speakers and spanning thr...](https://twitter.com/cassidoo/status/1586936729885450242)
 - [Re @_wilfredh explains how he developed Difftastic --&gt; a structural diff tool that compares files based on their syntax and supports over 20 programmi...](https://twitter.com/neo4j/status/1586810185615482880)
 - [Last workshop before #NODES2022! During this technical workshop, Daniel Bukowski, a Neo4j Customer Success Architect, will share best practices for pe...](https://twitter.com/neo4j/status/1586734704727932928)
 - [RT PyLadies Berlin: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual developer summit; it&#39;s 24hrs of ...](https://twitter.com/PyLadiesBer/status/1586733575424118784)
-- [Increase the accuracy of a machine learning model with graph algorithms and Python #AI #machinelearning #DataScience #Python #graphdatascience](https://twitter.com/neo4j/status/1586690398449242112)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
