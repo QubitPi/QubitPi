@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722719313920786549><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d06e5efe242a2352d228796d5275356c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [恭喜@Dlaet_云汐@雨夜下星辰@板栗好好吃66等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/722719313920786549)
-- [#原神# #虚空鼓动劫火高扬# #原神3.2# 亲爱的旅行者~今天将为各位旅行者介绍的是3.2版本中的全新武器，一起来看看吧~ （以90级精炼1阶为例）](https://t.bilibili.com/722688411636334627)
-- [互动抽奖 #原神# #枫原万叶# #生日快乐# 轻风吹过，总是伴随着许多悦耳的声响，有时也会带来熟悉的人的声音。 没错，我听到了，便早早来甲板上迎接你。 「飞叶初...](https://t.bilibili.com/722317322168041526)
-- [#原神# #原神时光交响之章周年征集活动# #原神UP主激励计划# 《原神》「时光交响之章」二周年创意视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 *本次获奖作...](https://t.bilibili.com/722044540190457880)
-- [#原神# #原神沙海蜃影摄影活动# #沙海蜃影# 《原神》「沙海蜃影」须弥沙漠主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图，再...](https://t.bilibili.com/722039115642568755)
+- [#原神# #原神3.2# #虚空鼓动劫火高扬# 旅行者们好呀~3.2版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/723062060892553235)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·千夜浮梦」「弓·飞雷之弦振」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/723060759539482705)
+- [#原神# #宵宫# #焰色天河# 亲爱的旅行者，「焰色天河」活动祈愿即将开启，「琉焰华舞·宵宫&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/723059977829220375)
+- [#原神# #纳西妲# #月草的赐慧# 亲爱的旅行者，「月草的赐慧」活动祈愿即将开启，「白草净华·纳西妲&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/723059501111968129)
+- [亲爱的旅行者，预下载功能现已在PC端和移动端开启~](https://t.bilibili.com/723044683469553687)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
