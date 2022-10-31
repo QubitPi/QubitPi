@@ -504,11 +504,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#NODES2022 is getting close! 💻 The agenda is full of thought-provoking talks that will give you new insights into how to use graphs for app develop...](https://twitter.com/neo4j/status/1587202838765228032)
 - [RT Big Data LDN - 20/21 Sept 23: 🎬 Big Data LDN 2022 Seminar: How Graph #DataScience Can Turbocharge Your #KnowledgeGraph Speaker: Kristof Neys, @n...](https://twitter.com/BigData_LDN/status/1587115212469145606)
 - [Knowledge Graph and Graph Algorithms to Find Hidden Skills is possible.🚀 Read how the NASA, used Neo4j&#39;s Graph Technology to achieve this. #MARS #N...](https://twitter.com/neo4j/status/1587112440864595969)
 - [On November 9, we invite you to a techy after work with @PinkProgramming in our Malmö offices where you&#39;ll get to listen to inspiring talks by Tshepi...](https://twitter.com/neo4j/status/1587066924353179648)
 - [RT Bert: I will be speaking on the #Nodes2022 about #Neo4j plugins. Nodes is a free online conference from developers to developers. Register now:](https://twitter.com/taseroth/status/1587040102328434690)
-- [RT Alexander Erdl: Super hyped to have @KirellBenzi as guest to show the beauty of visualisations. Data has never looked this astonishing, I assure yo...](https://twitter.com/alexandererdl/status/1587034647304626177)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
