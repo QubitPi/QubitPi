@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] When the GPU is NOT the bottleneck...?](https://www.reddit.com/r/MachineLearning/comments/yikumt/d_when_the_gpu_is_not_the_bottleneck/)
+- [[D] Any *good* open or semi-open/proprietary AI models that can inherit the sample voice intonations and re-create with another voice?](https://www.reddit.com/r/MachineLearning/comments/yiktfx/d_any_good_open_or_semiopenproprietary_ai_models/)
+- [[News] The Stack: 3 TB of permissively licensed source code - Hugging Face and ServiceNow Research Denis Kocetkov et al 2022](https://www.reddit.com/r/MachineLearning/comments/yijfkw/news_the_stack_3_tb_of_permissively_licensed/)
 - [[D] Checkpointing - save_best_only - still fault tolerance or training optimization option?](https://www.reddit.com/r/MachineLearning/comments/yiieyp/d_checkpointing_save_best_only_still_fault/)
 - [NN_GWO gives 0 value for weights [R]](https://www.reddit.com/r/MachineLearning/comments/yiie05/nn_gwo_gives_0_value_for_weights_r/)
-- [[D] Diffusion vs MCMC as sampling algorithms](https://www.reddit.com/r/MachineLearning/comments/yieq8c/d_diffusion_vs_mcmc_as_sampling_algorithms/)
-- [[P] Lama Cleaner: A free and open-source inpainting tool powered by SOTA AI model. It includes models like LaMa to remove any unwanted object, defect, people from your pictures and text-driven model &lpar;stable-diffusion 1.5&rpar; to replace any thing on your pictures.](https://www.reddit.com/r/MachineLearning/comments/yicyvd/p_lama_cleaner_a_free_and_opensource_inpainting/)
-- [[D] Is Instance Norm &lpar;IN&rpar; and Batch Norm &lpar;BN&rpar; is same for the batch size of 1 of gray scale images?](https://www.reddit.com/r/MachineLearning/comments/yicdbm/d_is_instance_norm_in_and_batch_norm_bn_is_same/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
