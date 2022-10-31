@@ -369,11 +369,11 @@ My Tech Blogs
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Announcing Docker Hub OCI Artifacts Support](https://www.docker.com/blog/announcing-docker-hub-oci-artifacts-support/)
 - [Docker Captain Take 5 — Nelson](https://www.docker.com/blog/docker-captain-take-5-nelson/)
 - [Security Advisory: Critical OpenSSL Vulnerability](https://www.docker.com/blog/security-advisory-critical-openssl-vulnerability/)
 - [How to Implement Decentralized Storage Using Docker Extensions](https://www.docker.com/blog/how-to-implement-decentralized-storage-using-docker-extensions/)
 - [October 2022 Newsletter](https://www.docker.com/blog/october-2022-newsletter/)
-- [How to Use the Node Docker Official Image](https://www.docker.com/blog/how-to-use-the-node-docker-official-image/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
