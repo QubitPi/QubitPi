@@ -332,7 +332,7 @@ My Tech Blogs
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Das bestgehütetste Geheimnis erfolgreicher Facilitatoren und wie du es nutzen kannst, wenn sich die Sprint Retrospektive im Kreis dreht](https://www.scrum.org/resources/blog/das-bestgehutetste-geheimnis-erfolgreicher-facilitatoren-und-wie-du-es-nutzen-kannst)
-- [Backlog refinement in single-team Scrum](https://www.scrum.org/resources/blog/backlog-refinement-single-team-scrum)
+- [Backlog Refinement in Single-Team Scrum](https://www.scrum.org/resources/blog/backlog-refinement-single-team-scrum)
 - [10 Options To Start With Scrum](https://www.scrum.org/resources/blog/10-options-start-scrum)
 - [Cómo Devops y Scrum se complementan](https://www.scrum.org/resources/blog/como-devops-y-scrum-se-complementan)
 - [A story of why psychological safety enhances the abilities of the Scrum Team](https://www.scrum.org/resources/blog/story-why-psychological-safety-enhances-abilities-scrum-team)
