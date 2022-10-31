@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] OpenCL backend for PyTorch - progress works with mainstream pytorch](https://www.reddit.com/r/MachineLearning/comments/yiq3zq/p_opencl_backend_for_pytorch_progress_works_with/)
 - [[P] Real time causal convNet for time series](https://www.reddit.com/r/MachineLearning/comments/yip9xn/p_real_time_causal_convnet_for_time_series/)
 - [[N] Conference on Statistics and Data Science](https://www.reddit.com/r/MachineLearning/comments/yiolsc/n_conference_on_statistics_and_data_science/)
 - [[D] Using JavaScript for ML Training/Research &lpar;not in the browser&rpar;](https://www.reddit.com/r/MachineLearning/comments/yin6ho/d_using_javascript_for_ml_trainingresearch_not_in/)
 - [[D] When the GPU is NOT the bottleneck...?](https://www.reddit.com/r/MachineLearning/comments/yikumt/d_when_the_gpu_is_not_the_bottleneck/)
-- [[D] Any *good* open or semi-open/proprietary AI models that can inherit the sample voice intonations and re-create with another voice?](https://www.reddit.com/r/MachineLearning/comments/yiktfx/d_any_good_open_or_semiopenproprietary_ai_models/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
