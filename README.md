@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/722719313920786549><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d06e5efe242a2352d228796d5275356c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723062060892553235><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/96524aecd836c7d928cde9aeac7d78cd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.2# #虚空鼓动劫火高扬# 旅行者们好呀~3.2版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/723062060892553235)
