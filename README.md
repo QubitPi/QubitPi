@@ -558,11 +558,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Bank](https://dribbble.com/shots/19728311)
 - [Data](https://dribbble.com/shots/19745204)
 - [Carty - Digital Banking Landing Page Website](https://dribbble.com/shots/19742791)
-- [dashboard: planning platform](https://dribbble.com/shots/19728297)
 - [Prime Video icons](https://dribbble.com/shots/19738384)
+- [Relume Design League RD 2: Luxury EV Landing Page](https://dribbble.com/shots/19739516)
+- [ProAgenda Website Design](https://dribbble.com/shots/19739540)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
