@@ -502,11 +502,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Join @Oxford Global Conferences for a free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple s...](https://twitter.com/neo4j/status/1587429406225694721)
-- [#NODES2022 is getting close! 💻 The agenda is full of thought-provoking talks that will give you new insights into how to use graphs for app develop...](https://twitter.com/neo4j/status/1587202838765228032)
-- [RT Big Data LDN - 20/21 Sept 23: 🎬 Big Data LDN 2022 Seminar: How Graph #DataScience Can Turbocharge Your #KnowledgeGraph Speaker: Kristof Neys, @n...](https://twitter.com/BigData_LDN/status/1587115212469145606)
-- [Knowledge Graph and Graph Algorithms to Find Hidden Skills is possible.🚀 Read how the NASA, used Neo4j&#39;s Graph Technology to achieve this. #MARS #N...](https://twitter.com/neo4j/status/1587112440864595969)
-- [On November 9, we invite you to a techy after work with @PinkProgramming in our Malmö offices where you&#39;ll get to listen to inspiring talks by Tshepi...](https://twitter.com/neo4j/status/1587066924353179648)
+- [#GraphSummit Toronto just started! 📍 Let&#39;s talk about Graphs! #Neo4j](https://twitter.com/neo4j/status/1587494714739200008)
+- [RT PharmaTec Series: Don&#39;t miss: #KnowledgeGraphs Fuel #DrugDiscovery: How @AstraZeneca Uses @neo4j&#39;. Register today: Can’t make the date? Want to re...](https://twitter.com/PharmaTecSeries/status/1587486879531892739)
+- [NeoDash is an open-source, low-code Dashboard Builder for #Neo4j. Aleksandar Simeunovic creates Super-Charged Neo4j Dashboards with NeoDash 2.1 - Take...](https://twitter.com/neo4j/status/1587474777261969410)
+- [RT GraphAware - we&#39;re hiring!: Knowledge Graphs, NLP, graph data science.. Join Vlasta on a journey of bringing archives to life! Lead Data Scientist ...](https://twitter.com/graph_aware/status/1587471780238835713)
+- [Going Meta - a series on graphs, semantics and knowledge - Ep 10 w/ @BarrasaDV](https://twitter.com/neo4j/status/1587470964325224448)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
