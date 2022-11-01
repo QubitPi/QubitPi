@@ -451,11 +451,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [In this medium article, Machine Learning Working Student, Max demonstrates How to Deploy ArangoDB Graphs on GPUs for Accelerated Graph Algorithms usin...](https://twitter.com/arangodb/status/1587565166337687559)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1587474569157279744)
 - [Learn more about graph databases with ArangoDB! 🔥 Check out this blog post to explore: ✨ What is a graph? ✨ What is a graph database? ✨ Differen...](https://twitter.com/arangodb/status/1587202771681419271)
 - [Sign up for the next ArangoDB #webinar. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; on November 10th, 2022, to learn...](https://twitter.com/arangodb/status/1587112202426875909)
 - [Wishing everyone a spooky Halloween from Team Avocado. 🥑🎃👻](https://twitter.com/arangodb/status/1587052791259865093)
+- [Unfamiliar with ArangoGraph Insights Platform? Why not get started with 14-days on us with no credit card needed! Sign up today and hop into the cloud...](https://twitter.com/arangodb/status/1586749790951456768)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
