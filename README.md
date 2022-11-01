@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there a way we can score &quot;popularity&quot; on social media posts?](https://www.reddit.com/r/MachineLearning/comments/yj2r0y/d_is_there_a_way_we_can_score_popularity_on/)
 - [[D] How to choose a good loss function for multi label classification while each label is specifically indexed?](https://www.reddit.com/r/MachineLearning/comments/yj255d/d_how_to_choose_a_good_loss_function_for_multi/)
 - [[D] Career Advice: Finished school and I feel a little lost](https://www.reddit.com/r/MachineLearning/comments/yiyb2r/d_career_advice_finished_school_and_i_feel_a/)
 - [[D] Is there a way to decode clip features to a sentence?](https://www.reddit.com/r/MachineLearning/comments/yix10u/d_is_there_a_way_to_decode_clip_features_to_a/)
 - [[R] What method can I use to sample nodes from a set with the least connectivities?](https://www.reddit.com/r/MachineLearning/comments/yiw6b6/r_what_method_can_i_use_to_sample_nodes_from_a/)
-- [[R] Do you have experience posting tasks on Mechanical Turk?](https://www.reddit.com/r/MachineLearning/comments/yivzcr/r_do_you_have_experience_posting_tasks_on/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
