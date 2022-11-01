@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723159981873954832><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/54dcc6240f3f6bbe4f237679f0dcb544401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [「奥兹的新衣服好酷！派蒙也能有吗？！」](https://t.bilibili.com/723435405241745440)
+- [互动抽奖 #原神# #纳西妲# #无垠无忧# 《原神》角色演示-「纳西妲：无垠无忧」现已发布~ https://www.bilibili.com/video/BV1PP4y1U7qA 世上每一个小小的生灵，...](https://t.bilibili.com/723433665772650504)
+- [《原神》角色演示-「纳西妲：无垠无忧」](https://t.bilibili.com/723430629222383617)
 - [#原神# #七圣召唤# 《原神》全新常驻玩法即将上线。 「七圣召唤」将是一项以PVE为主的轻度、休闲玩法，其中所有卡牌均可通过参与游戏获取，且不包含与PVP绑定的...](https://t.bilibili.com/723159981873954832)
 - [互动抽奖 #原神# #珐露珊# #机逐封秘# ▌机逐封秘 · 珐露珊 机巧易解，世殊难算 ========== 「这本书中的诸多内容，都来自珐露珊前辈的论述与手稿。惟望前辈回...](https://t.bilibili.com/723153565172891720)
-- [互动抽奖 #原神# #流浪者# #久世浮倾# ▌久世浮倾 · 流浪者 如于一处知人心，即说一切处知人心 ========== 「信仰者铸就神明的荣光，背弃者见证神明的度化。而...](https://t.bilibili.com/723152246637854721)
-- [#原神# #原神3.2# #虚空鼓动劫火高扬# 旅行者们好呀~3.2版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/723062060892553235)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·千夜浮梦」「弓·飞雷之弦振」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/723060759539482705)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
