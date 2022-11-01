@@ -484,11 +484,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1587400755555835911)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1587289740855939072)
 - [Graph algorithms are a set of instructions that traverse &lpar;visits nodes of&rpar; a graph and find specific nodes, paths, or a path between two nodes. Some o...](https://twitter.com/memgraphdb/status/1587226580924907523)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1587225810603237377)
 - [🎓 #Memgraph presents graph algorithms: Community detection 🗒️ The notion of community in a graph is analogous to the real-world notion of commu...](https://twitter.com/memgraphdb/status/1587123744165842946)
-- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1587083979878010887)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
