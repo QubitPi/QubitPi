@@ -502,11 +502,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Want to Connect your application??⛓ Discover the drivers, APIs, and connectors that facilitate the use of #Neo4j and AuraDB. #AuraDB](https://twitter.com/neo4j/status/1587519898053476355)
-- [Re @OGConferences](https://twitter.com/neo4j/status/1587506357313355776)
 - [#GraphSummit Toronto just started! 📍 Let&#39;s talk about Graphs! #Neo4j](https://twitter.com/neo4j/status/1587494714739200008)
 - [RT PharmaTec Series: Don&#39;t miss: #KnowledgeGraphs Fuel #DrugDiscovery: How @AstraZeneca Uses @neo4j&#39;. Register today: Can’t make the date? Want to re...](https://twitter.com/PharmaTecSeries/status/1587486879531892739)
 - [NeoDash is an open-source, low-code Dashboard Builder for #Neo4j. Aleksandar Simeunovic creates Super-Charged Neo4j Dashboards with NeoDash 2.1 - Take...](https://twitter.com/neo4j/status/1587474777261969410)
+- [RT GraphAware - we&#39;re hiring!: Knowledge Graphs, NLP, graph data science.. Join Vlasta on a journey of bringing archives to life! Lead Data Scientist ...](https://twitter.com/graph_aware/status/1587471780238835713)
+- [Going Meta - a series on graphs, semantics and knowledge - Ep 10 w/ @BarrasaDV](https://twitter.com/neo4j/status/1587470964325224448)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
