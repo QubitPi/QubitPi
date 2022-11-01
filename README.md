@@ -431,7 +431,6 @@ My Tech Blogs
 
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 * [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
-* [Setting Up a Minimized GraphQL Server](https://qubitpi.github.io/jersey-guide/finalized/2021/08/18/example-graphql-server.html)
 
 #### [GraphQL Specification](https://graphql.org/foundation/join/#graphql-specification) Significant Changes
 
