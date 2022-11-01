@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Meta AI | Evolutionary-scale prediction of atomic level protein structure with a language model](https://www.reddit.com/r/MachineLearning/comments/yjdt78/n_meta_ai_evolutionaryscale_prediction_of_atomic/)
 - [[P] Need pretrained EBMs for benchmarks](https://www.reddit.com/r/MachineLearning/comments/yj868d/p_need_pretrained_ebms_for_benchmarks/)
 - [[D] Machine learning prototyping on Apple silicon?](https://www.reddit.com/r/MachineLearning/comments/yj5xkp/d_machine_learning_prototyping_on_apple_silicon/)
 - [[D] Is there a way we can score &quot;popularity&quot; on social media posts?](https://www.reddit.com/r/MachineLearning/comments/yj2r0y/d_is_there_a_way_we_can_score_popularity_on/)
 - [[D] Is there a way to decode clip features to a sentence?](https://www.reddit.com/r/MachineLearning/comments/yix10u/d_is_there_a_way_to_decode_clip_features_to_a/)
-- [[R] What method can I use to sample nodes from a set with the least connectivities?](https://www.reddit.com/r/MachineLearning/comments/yiw6b6/r_what_method_can_i_use_to_sample_nodes_from_a/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
