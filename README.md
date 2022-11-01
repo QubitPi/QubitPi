@@ -331,11 +331,11 @@ My Tech Blogs
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Fixing OKR Theater Using Agile/Scrum Principles](https://www.scrum.org/resources/blog/fixing-okr-theater-using-agilescrum-principles)
 - [Really, we can have Sprint Planning twice in a Sprint?](https://www.scrum.org/resources/blog/really-we-can-have-sprint-planning-twice-sprint)
 - [Stop Looking for Leaders, Start Looking for Teammates](https://www.scrum.org/resources/blog/stop-looking-leaders-start-looking-teammates)
 - [What happens if a Scrum team becomes too large?](https://www.scrum.org/resources/blog/what-happens-if-scrum-team-becomes-too-large)
 - [When Is It Time to Stop Using Scrum?](https://www.scrum.org/resources/blog/when-it-time-stop-using-scrum)
-- [Das bestgehütetste Geheimnis erfolgreicher Facilitatoren und wie du es nutzen kannst, wenn sich die Sprint Retrospektive im Kreis dreht](https://www.scrum.org/resources/blog/das-bestgehutetste-geheimnis-erfolgreicher-facilitatoren-und-wie-du-es-nutzen-kannst)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
