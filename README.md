@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723159981873954832><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/54dcc6240f3f6bbe4f237679f0dcb544401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723435405241745440><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e6ec7e9ace8c80ce0c9529d4a530f7281669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [「奥兹的新衣服好酷！派蒙也能有吗？！」](https://t.bilibili.com/723435405241745440)
