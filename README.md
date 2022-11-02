@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [I need help getting twitter usernames of fake/bot accounts [P]](https://www.reddit.com/r/MachineLearning/comments/ykk8mx/i_need_help_getting_twitter_usernames_of_fakebot/)
 - [[P] Mixing Prompts &lpar;with Weights&rpar; in Stable Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/ykjv60/p_mixing_prompts_with_weights_in_stable_diffusion/)
 - [[D] What is the SOTA architecture for permutation-invariant approximation on graphs?](https://www.reddit.com/r/MachineLearning/comments/ykjsk1/d_what_is_the_sota_architecture_for/)
 - [[P] Implementation of MagicMix from ByteDance researchers, - New way to interpolate concepts with much more natural, geometric coherency &lpar;implemented with Stable Diffusion!&rpar;](https://www.reddit.com/r/MachineLearning/comments/ykiuq0/p_implementation_of_magicmix_from_bytedance/)
 - [[R] Sequence 2 Mat](https://www.reddit.com/r/MachineLearning/comments/ykdqla/r_sequence_2_mat/)
+- [[D] What are the benefits of being a reviewer?](https://www.reddit.com/r/MachineLearning/comments/ykbp1s/d_what_are_the_benefits_of_being_a_reviewer/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
