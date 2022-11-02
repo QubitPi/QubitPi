@@ -502,11 +502,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Data For Science: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/data4sci/status/1587572109026492417)
 - [Want to Connect your application??⛓ Discover the drivers, APIs, and connectors that facilitate the use of #Neo4j and AuraDB. #AuraDB](https://twitter.com/neo4j/status/1587519898053476355)
+- [RT Ventana Research: Re @neo4j is enabling data scientists to develop, train and run algorithms and #MachineLearning models on #graph data in its grap...](https://twitter.com/ventanaresearch/status/1587512290806489088)
 - [Re @OGConferences](https://twitter.com/neo4j/status/1587506357313355776)
-- [#GraphSummit Toronto just started! 📍 Let&#39;s talk about Graphs! #Neo4j](https://twitter.com/neo4j/status/1587494714739200008)
-- [RT PharmaTec Series: Don&#39;t miss: #KnowledgeGraphs Fuel #DrugDiscovery: How @AstraZeneca Uses @neo4j&#39;. Register today: Can’t make the date? Want to re...](https://twitter.com/PharmaTecSeries/status/1587486879531892739)
-- [NeoDash is an open-source, low-code Dashboard Builder for #Neo4j. Aleksandar Simeunovic creates Super-Charged Neo4j Dashboards with NeoDash 2.1 - Take...](https://twitter.com/neo4j/status/1587474777261969410)
+- [RT Adam Cowley: Did you know that the @Neo4j Aura Console allows you to download a .env file that you can copy and paste directly into your project? H...](https://twitter.com/adamcowley/status/1587496168954683393)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
