@@ -464,11 +464,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [#Graph is the future of data modeling. Check out why graph databases are the key and how ArangoDB is at the top of the #graphdatabase game. Learn more...](https://twitter.com/arangodb/status/1587927547240599552)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1587836965617016832)
 - [In this medium article, Machine Learning Working Student, Max demonstrates How to Deploy ArangoDB Graphs on GPUs for Accelerated Graph Algorithms usin...](https://twitter.com/arangodb/status/1587565166337687559)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1587474569157279744)
 - [Learn more about graph databases with ArangoDB! 🔥 Check out this blog post to explore: ✨ What is a graph? ✨ What is a graph database? ✨ Differen...](https://twitter.com/arangodb/status/1587202771681419271)
-- [Sign up for the next ArangoDB #webinar. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; on November 10th, 2022, to learn...](https://twitter.com/arangodb/status/1587112202426875909)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
