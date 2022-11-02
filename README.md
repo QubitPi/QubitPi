@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723724327677067331><img align='right' src='https://i0.hdslb.com/bfs/article/6a318b34b21f7de3e864a0152dad5285944b7423.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723803204746215481><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/650978a3246181002494d876a55a12e3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #冒险家试炼# 亲爱的旅行者，「冒险家试炼」活动即将开启~ 〓活动时间〓 2022/11/04 10:00 ~ 2022/11/21 03:59 〓参与条件〓 冒险等阶≥20级 〓活动说明...](https://t.bilibili.com/723803204746215481)
