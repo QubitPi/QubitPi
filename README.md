@@ -573,9 +573,9 @@ My Tech Blogs
 <!-- DRIBBBLE-TRENDING:START -->
 - [Data](https://dribbble.com/shots/19745204)
 - [Carty - Digital Banking Landing Page Website](https://dribbble.com/shots/19742791)
-- [ProAgenda Website Design](https://dribbble.com/shots/19739540)
-- [Relume Design League RD 2: Luxury EV Landing Page](https://dribbble.com/shots/19739516)
 - [USPS Stamp Set - Winter Woodland Animals](https://dribbble.com/shots/19740246)
+- [Attio - Onboarding Flow](https://dribbble.com/shots/19768774)
+- [ProAgenda Mobile Website and Custom Illustration](https://dribbble.com/shots/19748461)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
