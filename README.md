@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Instance segmentation of paper fiber networks](https://www.reddit.com/r/MachineLearning/comments/yk591e/r_instance_segmentation_of_paper_fiber_networks/)
 - [[D] NeurIPS 2022 public reviews](https://www.reddit.com/r/MachineLearning/comments/yk3ewk/d_neurips_2022_public_reviews/)
 - [[R] question about hand written OCR](https://www.reddit.com/r/MachineLearning/comments/yk1ame/r_question_about_hand_written_ocr/)
 - [[D] About the evaluation of the features extracted by an Autoencoder](https://www.reddit.com/r/MachineLearning/comments/yk17qn/d_about_the_evaluation_of_the_features_extracted/)
 - [[R] Is there any work being done on reduction of training weight vector size but not reducing computational overhead &lpar;eg pruning&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yjwvav/r_is_there_any_work_being_done_on_reduction_of/)
-- [[N] Adversarial Policies Beat Professional-Level Go AIs](https://www.reddit.com/r/MachineLearning/comments/yjryrd/n_adversarial_policies_beat_professionallevel_go/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
