@@ -315,7 +315,7 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [&quot;[Discussion]&quot;&quot;[Project]&quot; Image segmentation to identify narrow passage and wide area](https://www.reddit.com/r/MachineLearning/comments/yk1eha/discussionproject_image_segmentation_to_identify/)
+- [[D] NeurIPS 2022 public reviews](https://www.reddit.com/r/MachineLearning/comments/yk3ewk/d_neurips_2022_public_reviews/)
 - [[R] question about hand written OCR](https://www.reddit.com/r/MachineLearning/comments/yk1ame/r_question_about_hand_written_ocr/)
 - [[D] About the evaluation of the features extracted by an Autoencoder](https://www.reddit.com/r/MachineLearning/comments/yk17qn/d_about_the_evaluation_of_the_features_extracted/)
 - [[R] Is there any work being done on reduction of training weight vector size but not reducing computational overhead &lpar;eg pruning&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yjwvav/r_is_there_any_work_being_done_on_reduction_of/)
