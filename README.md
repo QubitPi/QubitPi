@@ -338,11 +338,11 @@ My Tech Blogs
 - [Stop Looking for Leaders, Start Looking for Teammates](https://www.scrum.org/resources/blog/stop-looking-leaders-start-looking-teammates)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
-<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
-
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
-> Infrastructure is the "home" to softwares. Just like "the happiest people are the people that have great families" (quoted from [Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s)), the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on tech side
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
+
+> **Infrastructure is the "home" to softwares**. Just like "the happiest people are the people that have great families" (quoted from [Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s)), the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on tech side
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
