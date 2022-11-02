@@ -342,7 +342,7 @@ My Tech Blogs
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
 
-> **Infrastructure is the "home" to softwares**. Just like "the happiest people are the people that have great families" (quoted from [Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s)), the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on in software engineering area
+> **Infrastructure is the "home" to softwares**. Just like, [quoting Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s), "the happiest people are the people that have great families" (actually that's half of my definition of a "happest" people), the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on in software engineering area
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
