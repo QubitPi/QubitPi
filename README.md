@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723435405241745440><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e6ec7e9ace8c80ce0c9529d4a530f7281669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723724327677067331><img align='right' src='https://i0.hdslb.com/bfs/article/6a318b34b21f7de3e864a0152dad5285944b7423.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》3.2版本「虚空鼓动，劫火高扬」更新说明](https://t.bilibili.com/723724327677067331)
