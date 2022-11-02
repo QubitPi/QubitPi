@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723435405241745440><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e6ec7e9ace8c80ce0c9529d4a530f7281669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [《原神》3.2版本「虚空鼓动，劫火高扬」更新说明](https://t.bilibili.com/723724327677067331)
 - [「奥兹的新衣服好酷！派蒙也能有吗？！」](https://t.bilibili.com/723435405241745440)
 - [互动抽奖 #原神# #纳西妲# #无垠无忧# 《原神》角色演示-「纳西妲：无垠无忧」现已发布~ https://www.bilibili.com/video/BV1PP4y1U7qA 世上每一个小小的生灵，...](https://t.bilibili.com/723433665772650504)
 - [《原神》角色演示-「纳西妲：无垠无忧」](https://t.bilibili.com/723430629222383617)
 - [#原神# #七圣召唤# 《原神》全新常驻玩法即将上线。 「七圣召唤」将是一项以PVE为主的轻度、休闲玩法，其中所有卡牌均可通过参与游戏获取，且不包含与PVP绑定的...](https://t.bilibili.com/723159981873954832)
+- [互动抽奖 #原神# #珐露珊# #机逐封秘# ▌机逐封秘 · 珐露珊 机巧易解，世殊难算 ========== 「这本书中的诸多内容，都来自珐露珊前辈的论述与手稿。惟望前辈回...](https://t.bilibili.com/723153565172891720)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
