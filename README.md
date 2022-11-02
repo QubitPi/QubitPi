@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Looking for project buddy](https://www.reddit.com/r/MachineLearning/comments/yjyreo/p_looking_for_project_buddy/)
 - [[R] Is there any work being done on reduction of training weight vector size but not reducing computational overhead &lpar;eg pruning&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yjwvav/r_is_there_any_work_being_done_on_reduction_of/)
 - [[D] Do we need to know low level programming languages like C++ and Rust?](https://www.reddit.com/r/MachineLearning/comments/yjwjyn/d_do_we_need_to_know_low_level_programming/)
 - [[N] Adversarial Policies Beat Professional-Level Go AIs](https://www.reddit.com/r/MachineLearning/comments/yjryrd/n_adversarial_policies_beat_professionallevel_go/)
 - [[D] [P] Bidirectional conditional text generation &lpar;generating text around another text&rpar;](https://www.reddit.com/r/MachineLearning/comments/yjqkig/d_p_bidirectional_conditional_text_generation/)
+- [[D] Any scripts to sanitize videos of text automatically?](https://www.reddit.com/r/MachineLearning/comments/yjpm00/d_any_scripts_to_sanitize_videos_of_text/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
