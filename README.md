@@ -407,6 +407,14 @@ My Tech Blogs
 * [Docker Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/10/24/docker-basics.html)
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
+#### [Chef Documentation](https://docs.chef.io/) Updates
+
+<img width="20%" align="right" src="./img/chef-logo.png">
+
+<!-- CHEF-DOC-CHANGES:START -->
+
+<!-- CHEF-DOC-CHANGES:END -->
+
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
 <img width="20%" align="right" src="./img/dockerjenkins.png">
