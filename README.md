@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [TODAY!!📢 &quot;Graph EDA Using the Neo4j GDS Client&quot; Workshop! We are getting ready for #NODES2022 -- join us! #Workshop #GraphEDA #neo4j](https://twitter.com/neo4j/status/1587731422172925952)
 - [Bereits 2025 wird laut Gartner bei 80 Prozent der Datenanalysen #Graphtechnologie zum Einsatz kommen. Graph Data Science liefert hierfür die Basis vi...](https://twitter.com/neo4j/status/1587623791986966528)
 - [RT Data For Science: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/data4sci/status/1587572109026492417)
 - [Want to Connect your application??⛓ Discover the drivers, APIs, and connectors that facilitate the use of #Neo4j and AuraDB. #AuraDB](https://twitter.com/neo4j/status/1587519898053476355)
 - [RT Ventana Research: Re @neo4j is enabling data scientists to develop, train and run algorithms and #MachineLearning models on #graph data in its grap...](https://twitter.com/ventanaresearch/status/1587512290806489088)
+- [Re @OGConferences](https://twitter.com/neo4j/status/1587506357313355776)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
