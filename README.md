@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1587817521935155203)
 - [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1587784602210504704)
 - [📃Did you see that our latest blog post &lpar; ❓Feel free to leave any questions and comments in the HN thread. #memgraph #database #memgraphdb](https://twitter.com/memgraphdb/status/1587763303400480768)
 - [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1587760351059247104)
 - [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1587759614904393729)
+- [There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smooth t...](https://twitter.com/memgraphdb/status/1587758915776913409)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
