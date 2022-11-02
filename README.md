@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1587784602210504704)
+- [📃Did you see that our latest blog post &lpar; ❓Feel free to leave any questions and comments in the HN thread. #memgraph #database #memgraphdb](https://twitter.com/memgraphdb/status/1587763303400480768)
+- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1587760351059247104)
 - [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1587759614904393729)
 - [There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smooth t...](https://twitter.com/memgraphdb/status/1587758915776913409)
-- [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1587741008556703744)
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1587736263901200384)
-- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1587714038078775296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
