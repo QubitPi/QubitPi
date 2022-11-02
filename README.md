@@ -342,7 +342,7 @@ My Tech Blogs
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
 
-> **Infrastructure is the "home" to softwares**. Just like, [quoting Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s), "the happiest people are the people that have great families", the "happiest" softwares are backed by the best-made tech infrustructure (actually that's half of what makes the happiest software in my definition), and that's what I spend most of my time on in software engineering area
+> **Infrastructure is the "home" to softwares**. Just like, [quoting Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s), "the happiest people are the people that have great families", the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on in software engineering area
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
@@ -407,7 +407,6 @@ My Tech Blogs
 * [Docker Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/10/24/docker-basics.html)
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
-
 <img width="20%" align="right" src="./img/chef-logo.png">
 
 #### [Chef Documentation](https://docs.chef.io/) Updates
@@ -416,7 +415,7 @@ My Tech Blogs
 
 #### Study Notes <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
-
+* [Infrastructure as Code (IaC)](https://qubitpi.github.io/jersey-guide/finalized/2022/11/02/infrastructure-as-code.html)
 
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
