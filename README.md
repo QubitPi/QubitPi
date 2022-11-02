@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1587648748854951937)
+- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1587646706786746368)
 - [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1587625086240145413)
 - [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1587559862761816064)
 - [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1587538775667871745)
-- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. #graphdatabase #opensou...](https://twitter.com/memgraphdb/status/1587514322170925057)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1587466282672201728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
