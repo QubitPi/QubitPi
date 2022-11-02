@@ -407,11 +407,16 @@ My Tech Blogs
 * [Docker Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/10/24/docker-basics.html)
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
-#### [Chef Documentation](https://docs.chef.io/) Updates
 
 <img width="20%" align="right" src="./img/chef-logo.png">
 
+#### [Chef Documentation](https://docs.chef.io/) Updates
+
 <!-- CHEF-DOC-CHANGES:START --><li>Thu Oct 20 2022 7:55 PM <a href=https://github.com/chef/chef-web-docs/commit/fa465c698dcb8af9861d12ac2aa54735b43eb545>minor fix &lpar;#3990&rpar;</a></li><li>Thu Oct 20 2022 7:06 PM <a href=https://github.com/chef/chef-web-docs/commit/234dfc3063b840fe8040826d0c61add51ed12b50>Add svg shortcode &lpar;#3989&rpar;</a></li><li>Mon Oct 17 2022 6:34 PM <a href=https://github.com/chef/chef-web-docs/commit/1f5a670c5807333f254ca9a267a4cd33d2b53da8>Update style guide &lpar;#3985&rpar;</a></li><li>Mon Oct 17 2022 4:21 PM <a href=https://github.com/chef/chef-web-docs/commit/cfe62dd7c470cadc816af2db348868f3f6e59f5a>Remove warnings from Automate API and RN pages &lpar;#3986&rpar;</a></li><li>Wed Oct 12 2022 1:23 PM <a href=https://github.com/chef/chef-web-docs/commit/27d23d94a33e1fb35cabc19cb15a301ba8c6314e>Typo &lpar;#3981&rpar;</a></li><!-- CHEF-DOC-CHANGES:END -->
+
+#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
+
+
 
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
