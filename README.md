@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Colab GAN3 fails to make a zip of images..👀](https://www.reddit.com/r/MachineLearning/comments/yju4un/p_colab_gan3_fails_to_make_a_zip_of_images/)
 - [[N] Adversarial Policies Beat Professional-Level Go AIs](https://www.reddit.com/r/MachineLearning/comments/yjryrd/n_adversarial_policies_beat_professionallevel_go/)
 - [[D] [P] Bidirectional conditional text generation &lpar;generating text around another text&rpar;](https://www.reddit.com/r/MachineLearning/comments/yjqkig/d_p_bidirectional_conditional_text_generation/)
 - [[D] Any scripts to sanitize videos of text automatically?](https://www.reddit.com/r/MachineLearning/comments/yjpm00/d_any_scripts_to_sanitize_videos_of_text/)
 - [[R] &quot;Broken Neural Scaling Laws&quot; paper; Presents new Functional Form that yields SotA Extrapolation of Scaling behavior for each task within large, diverse set of downstream tasks, including large-scale Vision, NLP, Diffusion Models, &quot;Emergent&quot; &quot;Unpredictable&quot; Math, Double Descent, &amp; RL.](https://www.reddit.com/r/MachineLearning/comments/yjluzj/r_broken_neural_scaling_laws_paper_presents_new/)
-- [[R] Extended submission deadline — EvoMUSART 2023 conference](https://www.reddit.com/r/MachineLearning/comments/yjhoin/r_extended_submission_deadline_evomusart_2023/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
