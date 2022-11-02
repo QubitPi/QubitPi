@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] DeepMind Intern Application 2023](https://www.reddit.com/r/MachineLearning/comments/ykhlvu/d_deepmind_intern_application_2023/)
 - [[D] Loss function train vs loss function test](https://www.reddit.com/r/MachineLearning/comments/yke6iw/d_loss_function_train_vs_loss_function_test/)
 - [[R] Sequence 2 Mat](https://www.reddit.com/r/MachineLearning/comments/ykdqla/r_sequence_2_mat/)
 - [[D] What are the benefits of being a reviewer?](https://www.reddit.com/r/MachineLearning/comments/ykbp1s/d_what_are_the_benefits_of_being_a_reviewer/)
 - [[D] Graph neural networks](https://www.reddit.com/r/MachineLearning/comments/ykajrg/d_graph_neural_networks/)
-- [[P] Stream and Upload Versioned Data](https://www.reddit.com/r/MachineLearning/comments/yk73rz/p_stream_and_upload_versioned_data/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
