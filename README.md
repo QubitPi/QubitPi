@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Read all about Neo4j AuraDB Updates! 👉Graph Visualization’s New Capabilities 👉New Security and Privacy Features Protect User Experience and mor...](https://twitter.com/neo4j/status/1587822021676830721)
+- [Road to NODES - Graph EDA Using the Neo4j GDS Client](https://twitter.com/neo4j/status/1587818253786976257)
+- [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1587806967736766464)
 - [Webinar alert! 📢 &quot;#GraphDataScience: Transforming How Data Scientists Power Their Analysis.&quot; Register! North America - November 3 --&gt; Europe - 3 No...](https://twitter.com/neo4j/status/1587791806477090818)
 - [TODAY!!📢 &quot;Graph EDA Using the Neo4j GDS Client&quot; Workshop! We are getting ready for #NODES2022 -- join us! #Workshop #GraphEDA #neo4j](https://twitter.com/neo4j/status/1587731422172925952)
-- [Bereits 2025 wird laut Gartner bei 80 Prozent der Datenanalysen #Graphtechnologie zum Einsatz kommen. Graph Data Science liefert hierfür die Basis vi...](https://twitter.com/neo4j/status/1587623791986966528)
-- [RT Data For Science: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual ONLINE developer summit; it&#39;s 2...](https://twitter.com/data4sci/status/1587572109026492417)
-- [Want to Connect your application??⛓ Discover the drivers, APIs, and connectors that facilitate the use of #Neo4j and AuraDB. #AuraDB](https://twitter.com/neo4j/status/1587519898053476355)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
