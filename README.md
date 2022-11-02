@@ -316,9 +316,9 @@ My Tech Blogs
 
 <!-- REDDIT-ML:START -->
 - [&quot;[Discussion]&quot;&quot;[Project]&quot; Image segmentation to identify narrow passage and wide area](https://www.reddit.com/r/MachineLearning/comments/yk1eha/discussionproject_image_segmentation_to_identify/)
+- [[R] question about hand written OCR](https://www.reddit.com/r/MachineLearning/comments/yk1ame/r_question_about_hand_written_ocr/)
 - [[D] About the evaluation of the features extracted by an Autoencoder](https://www.reddit.com/r/MachineLearning/comments/yk17qn/d_about_the_evaluation_of_the_features_extracted/)
 - [[R] Is there any work being done on reduction of training weight vector size but not reducing computational overhead &lpar;eg pruning&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yjwvav/r_is_there_any_work_being_done_on_reduction_of/)
-- [[D] Do we need to know low level programming languages like C++ and Rust?](https://www.reddit.com/r/MachineLearning/comments/yjwjyn/d_do_we_need_to_know_low_level_programming/)
 - [[N] Adversarial Policies Beat Professional-Level Go AIs](https://www.reddit.com/r/MachineLearning/comments/yjryrd/n_adversarial_policies_beat_professionallevel_go/)
 <!-- REDDIT-ML:END -->
 
