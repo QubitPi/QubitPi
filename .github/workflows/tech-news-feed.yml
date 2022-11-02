@@ -156,6 +156,20 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/github/file/helm/helm-www/main/content/en"
           template: "<li>$date <a href=$url>$title</a></li>"
+  chef-doc-changes:
+    name: Chef Doc Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Chef doc changes"
+          comment_tag_name: "CHEF-DOC-CHANGES"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/github/file/chef/chef-web-docs/main/content"
+          template: "<li>$date <a href=$url>$title</a></li>"  
   jenkins-doc-changes:
     name: Jenkins Doc Changes
     runs-on: ubuntu-latest
