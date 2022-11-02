@@ -415,6 +415,7 @@ My Tech Blogs
 
 #### Study Notes <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
+* [Chef 101](https://youtu.be/tt9_aWiSW5M)
 * [Infrastructure as Code (IaC)](https://qubitpi.github.io/jersey-guide/finalized/2022/11/02/infrastructure-as-code.html)
 
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
