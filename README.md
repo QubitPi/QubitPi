@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Made a text generation model to extend stable diffusion prompts with suitable style cues](https://www.reddit.com/r/MachineLearning/comments/ykxr4v/p_made_a_text_generation_model_to_extend_stable/)
 - [[P] Giving images a score with CLIP](https://www.reddit.com/r/MachineLearning/comments/ykxlto/p_giving_images_a_score_with_clip/)
 - [[D] Best NLP model for text summarization from speech](https://www.reddit.com/r/MachineLearning/comments/ykx2xb/d_best_nlp_model_for_text_summarization_from/)
 - [[P] Looking to hire someone with experience in machine learning and NLP](https://www.reddit.com/r/MachineLearning/comments/ykx1sl/p_looking_to_hire_someone_with_experience_in/)
 - [[D] Ensemble methods for Graph Neural Networks?](https://www.reddit.com/r/MachineLearning/comments/ykunne/d_ensemble_methods_for_graph_neural_networks/)
-- [[N] eDiffi: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://www.reddit.com/r/MachineLearning/comments/yks8g9/n_ediffi_texttoimage_diffusion_models_with/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
