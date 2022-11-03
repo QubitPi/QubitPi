@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [BNP Paribas travaille avec @neo4j sur un projet anti-fraude. Depuis que @BNPParibas a commencé à utiliser cette approche, les taux de fraude ont dim...](https://twitter.com/neo4j/status/1588149757645672453)
 - [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1588000534732181504)
 - [Learn and win with #NODES2022! 😎 The 10 participants with the most friends attending will each receive $500. Read how, here: #Neo4j #contest #price...](https://twitter.com/neo4j/status/1587874758078697474)
+- [RT Manning Publications: 🏷️Deal of the Day🛒 Have a Graph-powered Deal of the day! Today, Nov 2, ML for Knowledge Graphs with Neo4j, and selecte...](https://twitter.com/ManningBooks/status/1587852712468676608)
 - [Read all about Neo4j AuraDB Updates! 👉Graph Visualization’s New Capabilities 👉New Security and Privacy Features Protect User Experience and mor...](https://twitter.com/neo4j/status/1587822021676830721)
-- [Road to NODES - Graph EDA Using the Neo4j GDS Client](https://twitter.com/neo4j/status/1587818253786976257)
-- [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1587806967736766464)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
