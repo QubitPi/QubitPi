@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [If you are attending @Gartner_SYM in Barcelona, come and visit us! Join us and Make the Difference! #gartner #GartnerSYM #Neo4j #Data #GraphDatabase #...](https://twitter.com/neo4j/status/1588173959098351616)
-- [BNP Paribas travaille avec @neo4j sur un projet anti-fraude. Depuis que @BNPParibas a commencé à utiliser cette approche, les taux de fraude ont dim...](https://twitter.com/neo4j/status/1588149757645672453)
-- [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1588000534732181504)
-- [Learn and win with #NODES2022! 😎 The 10 participants with the most friends attending will each receive $500. Read how, here: #Neo4j #contest #price...](https://twitter.com/neo4j/status/1587874758078697474)
-- [RT Manning Publications: 🏷️Deal of the Day🛒 Have a Graph-powered Deal of the day! Today, Nov 2, ML for Knowledge Graphs with Neo4j, and selecte...](https://twitter.com/ManningBooks/status/1587852712468676608)
+- [Neo4j Live: Graph Data Art w/ @KirellBenzi](https://twitter.com/neo4j/status/1588218424463077378)
+- [RT Mangel Sánchez: Tenía muchísimas ganas de saber un poquito más sobre este tema, ya que he trasteado varias veces con Neo4J, pero si es con la b...](https://twitter.com/slaimer/status/1588200643948421123)
+- [RT GraphAware - we&#39;re hiring!: What is going on with your graphs? Join Fabio’s session about Temporal Graph Analysis at #NODES2022! Lead Machine Lear...](https://twitter.com/graph_aware/status/1588197561650782209)
+- [RT GraphQL Galaxy 🗓 Dec 8-9: .@darrell_warde is a senior software engineer and the GraphQL team lead at @neo4j. At #GraphQLGalaxy Darrel will have ...](https://twitter.com/GraphQLGalaxy/status/1588187133868646408)
+- [RT The Node Dev: The recent 5.2.0 release of the Neo4j JavaScript Driver features some significant improvements for TypeScript users. So much so that ...](https://twitter.com/The_Node_Dev/status/1588185483535958017)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
