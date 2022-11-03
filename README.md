@@ -525,11 +525,11 @@ My Tech Blogs
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 1: What Is Full Stack GraphQL?](https://www.youtube.com/watch?v=P6hXgvcuspg)
 - [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://www.youtube.com/watch?v=c2qkJ0lTEaI)
 - [Neo4j Live: NODES Speaker Roundtable](https://www.youtube.com/watch?v=gNWEL3-E-j4)
 - [Road to NODES - Graph EDA Using the Neo4j GDS Client](https://www.youtube.com/watch?v=oG9InPntehQ)
 - [Going Meta - Ep: 10 SPARQL based integrations... and managing graph expectations](https://www.youtube.com/watch?v=nG62SzxOBJc)
-- [Neo4j GraphDay Roma 2022](https://www.youtube.com/watch?v=ufj7wYqHMcw)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
