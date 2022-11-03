@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [AI Invisibility Cloak live AMA live now! [Discussion]](https://www.reddit.com/r/MachineLearning/comments/yl7yg3/ai_invisibility_cloak_live_ama_live_now_discussion/)
 - [[P] How to reverse engineer a neural network to get inputs from the outputs](https://www.reddit.com/r/MachineLearning/comments/yl6zg7/p_how_to_reverse_engineer_a_neural_network_to_get/)
 - [[P] Fine Tuning Stable Diffusion: Naruto Character Edition](https://www.reddit.com/r/MachineLearning/comments/yl6d9o/p_fine_tuning_stable_diffusion_naruto_character/)
 - [[D] For a decision-making multimodal network, would I need to implement a decision transformer?](https://www.reddit.com/r/MachineLearning/comments/yl3ue0/d_for_a_decisionmaking_multimodal_network_would_i/)
 - [[D] How to install and deploy OpenAI Whisper](https://www.reddit.com/r/MachineLearning/comments/yl3384/d_how_to_install_and_deploy_openai_whisper/)
-- [[P] Made a text generation model to extend stable diffusion prompts with suitable style cues](https://www.reddit.com/r/MachineLearning/comments/ykxr4v/p_made_a_text_generation_model_to_extend_stable/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
