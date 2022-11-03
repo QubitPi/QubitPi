@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#GraphSummit arrives in San Francisco! 📍 #GraphsAreEverywhere #neo4j](https://twitter.com/neo4j/status/1588277364726804480)
+- [Creating API in NestJS With @graphql/neo4j and AWS Cognito --&gt; #GraphQL #Neo4j #aws](https://twitter.com/neo4j/status/1588274880101122048)
 - [Neo4j Live: Graph Data Art w/ @KirellBenzi](https://twitter.com/neo4j/status/1588218424463077378)
 - [RT Mangel Sánchez: Tenía muchísimas ganas de saber un poquito más sobre este tema, ya que he trasteado varias veces con Neo4J, pero si es con la b...](https://twitter.com/slaimer/status/1588200643948421123)
 - [RT GraphAware - we&#39;re hiring!: What is going on with your graphs? Join Fabio’s session about Temporal Graph Analysis at #NODES2022! Lead Machine Lear...](https://twitter.com/graph_aware/status/1588197561650782209)
-- [RT GraphQL Galaxy 🗓 Dec 8-9: .@darrell_warde is a senior software engineer and the GraphQL team lead at @neo4j. At #GraphQLGalaxy Darrel will have ...](https://twitter.com/GraphQLGalaxy/status/1588187133868646408)
-- [RT The Node Dev: The recent 5.2.0 release of the Neo4j JavaScript Driver features some significant improvements for TypeScript users. So much so that ...](https://twitter.com/The_Node_Dev/status/1588185483535958017)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
