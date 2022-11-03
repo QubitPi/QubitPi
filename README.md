@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Die virtuelle Entwicklerkonferenz NODES bietet spannende Insights rund um Graphtechnologie für Entwickler, Data Scientists und Graphistas via @bigdat...](https://twitter.com/neo4j/status/1588000534732181504)
 - [Learn and win with #NODES2022! 😎 The 10 participants with the most friends attending will each receive $500. Read how, here: #Neo4j #contest #price...](https://twitter.com/neo4j/status/1587874758078697474)
 - [Read all about Neo4j AuraDB Updates! 👉Graph Visualization’s New Capabilities 👉New Security and Privacy Features Protect User Experience and mor...](https://twitter.com/neo4j/status/1587822021676830721)
 - [Road to NODES - Graph EDA Using the Neo4j GDS Client](https://twitter.com/neo4j/status/1587818253786976257)
 - [Join this free webinar to discover how #AstraZeneca use a Neo4j Reaction Knowledge Graph to integrate data from multiple sources to predict new reacti...](https://twitter.com/neo4j/status/1587806967736766464)
-- [Webinar alert! 📢 &quot;#GraphDataScience: Transforming How Data Scientists Power Their Analysis.&quot; Register! North America - November 3 --&gt; Europe - 3 No...](https://twitter.com/neo4j/status/1587791806477090818)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
