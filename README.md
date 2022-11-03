@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/723803204746215481><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/650978a3246181002494d876a55a12e3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #冒险家试炼# 全新活动「冒险家试炼」即将开启！ 为了锻炼新人冒险家的体力和意志，蒙德的冒险家协会分会长塞琉斯准备了许多锻炼关卡，只不过，这些关卡...](https://t.bilibili.com/724149529447759906)
 - [#原神# #冒险家试炼# 亲爱的旅行者，「冒险家试炼」活动即将开启~ 〓活动时间〓 2022/11/04 10:00 ~ 2022/11/21 03:59 〓参与条件〓 冒险等阶≥20级 〓活动说明...](https://t.bilibili.com/723803204746215481)
 - [互动抽奖 #原神# #香菱# #生日快乐# 你来啦，正好，来试试我的新菜式！ 这次加入了我最新研制的调料，全程大火翻炒。 不仅色泽漂亮，味道也大有变化，你尝一尝就...](https://t.bilibili.com/723801692929261650)
 - [《原神》拾枝杂谈-「纳西妲：遍解玄奥」](https://t.bilibili.com/723801645685669959)
 - [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.2版本内容招募活动「虚空鼓动，劫火高扬」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自11...](https://t.bilibili.com/723786200983273603)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·千夜浮梦」「弓·飞雷之弦振」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/723782339799285776)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
