@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Research] I need your opinion on my first research experience](https://www.reddit.com/r/MachineLearning/comments/ykyvwp/research_i_need_your_opinion_on_my_first_research/)
-- [[D] Dragon Fruit: Brain vs ML](https://www.reddit.com/r/MachineLearning/comments/ykyi7a/d_dragon_fruit_brain_vs_ml/)
 - [[P] Made a text generation model to extend stable diffusion prompts with suitable style cues](https://www.reddit.com/r/MachineLearning/comments/ykxr4v/p_made_a_text_generation_model_to_extend_stable/)
 - [[D] Ensemble methods for Graph Neural Networks?](https://www.reddit.com/r/MachineLearning/comments/ykunne/d_ensemble_methods_for_graph_neural_networks/)
 - [[N] eDiffi: Text-to-Image Diffusion Models with Ensemble of Expert Denoisers](https://www.reddit.com/r/MachineLearning/comments/yks8g9/n_ediffi_texttoimage_diffusion_models_with/)
+- [[R] ICML 2022 Paper Summaries &lpar;HUMAN&rpar;](https://www.reddit.com/r/MachineLearning/comments/ykqh58/r_icml_2022_paper_summaries_human/)
+- [[D] Solving an inverse problem with machine learning where you predict multiple output arrays from a single input array](https://www.reddit.com/r/MachineLearning/comments/ykp5k9/d_solving_an_inverse_problem_with_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
