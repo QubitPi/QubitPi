@@ -571,11 +571,11 @@ My Tech Blogs
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Data](https://dribbble.com/shots/19745204)
 - [ProAgenda Website: Pricing Page](https://dribbble.com/shots/19786463)
 - [ProAgenda Mobile Website and Custom Illustration](https://dribbble.com/shots/19748461)
 - [Attio - Onboarding Flow](https://dribbble.com/shots/19768774)
 - [APE Branding](https://dribbble.com/shots/19776976)
-- [Wallet](https://dribbble.com/shots/19782428)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
