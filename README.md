@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Why should you combine machine learning and graph tech to build your fraud detection system? Read more 👇 #memgraph #Database #FraudDetection](https://twitter.com/memgraphdb/status/1588221223774826496)
 - [The hardest part of virtual team lunch is waiting for delivery... #memgraph #database](https://twitter.com/memgraphdb/status/1588181117810925568)
 - [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1588152917713997828)
 - [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1588139655303757826)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1588122888288231424)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1588107207928856576)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
