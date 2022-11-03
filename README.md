@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724149529447759906><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/30094b4c2b499adc8206d374501c1181401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724172911229796423><img align='right' src='https://i0.hdslb.com/bfs/article/2dc3d046f60084f5d98badb0be79fe8ad3a172a9.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #冒险家试炼# 全新活动「冒险家试炼」即将开启！ 为了锻炼新人冒险家的体力和意志，蒙德的冒险家协会分会长塞琉斯准备了许多锻炼关卡，只不过，这些关卡...](https://t.bilibili.com/724149529447759906)
