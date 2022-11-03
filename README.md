@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] nature srep: Spontaneous emergence of computation in network cascades](https://www.reddit.com/r/MachineLearning/comments/ylh49r/r_nature_srep_spontaneous_emergence_of/)
 - [[N] Ethan Caballero: Broken Neural Scaling Laws | New Podcast Episode](https://www.reddit.com/r/MachineLearning/comments/ylblzi/n_ethan_caballero_broken_neural_scaling_laws_new/)
 - [[P] Open source EDA tooling](https://www.reddit.com/r/MachineLearning/comments/yl902h/p_open_source_eda_tooling/)
 - [[P] Secret Whisper: Deploy OpenAI Whisper model with privacy using BlindAI](https://www.reddit.com/r/MachineLearning/comments/yl8v3x/p_secret_whisper_deploy_openai_whisper_model_with/)
 - [AI Invisibility Cloak live AMA live now! [Discussion]](https://www.reddit.com/r/MachineLearning/comments/yl7yg3/ai_invisibility_cloak_live_ama_live_now_discussion/)
-- [[P] Fine Tuning Stable Diffusion: Naruto Character Edition](https://www.reddit.com/r/MachineLearning/comments/yl6d9o/p_fine_tuning_stable_diffusion_naruto_character/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
