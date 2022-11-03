@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Ethan Caballero: Broken Neural Scaling Laws | New Podcast Episode](https://www.reddit.com/r/MachineLearning/comments/ylb2fx/n_ethan_caballero_broken_neural_scaling_laws_new/)
 - [[R] Are AI Chatbots Trolling Me!?](https://www.reddit.com/r/MachineLearning/comments/yl9yne/r_are_ai_chatbots_trolling_me/)
 - [[P] Open source EDA tooling](https://www.reddit.com/r/MachineLearning/comments/yl902h/p_open_source_eda_tooling/)
 - [[P] Secret Whisper: Deploy OpenAI Whisper model with privacy using BlindAI](https://www.reddit.com/r/MachineLearning/comments/yl8v3x/p_secret_whisper_deploy_openai_whisper_model_with/)
 - [AI Invisibility Cloak live AMA live now! [Discussion]](https://www.reddit.com/r/MachineLearning/comments/yl7yg3/ai_invisibility_cloak_live_ama_live_now_discussion/)
-- [[P] How to reverse engineer a neural network to get inputs from the outputs](https://www.reddit.com/r/MachineLearning/comments/yl6zg7/p_how_to_reverse_engineer_a_neural_network_to_get/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
