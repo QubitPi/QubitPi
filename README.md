@@ -572,9 +572,9 @@ My Tech Blogs
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [ProAgenda Website: Pricing Page](https://dribbble.com/shots/19786463)
-- [SafePal Social Media](https://dribbble.com/shots/19759260)
 - [Wallet](https://dribbble.com/shots/19782428)
 - [Attio - Onboarding Flow](https://dribbble.com/shots/19768774)
+- [SafePal Social Media](https://dribbble.com/shots/19759260)
 - [Enterprise control panel | Dashboard Management](https://dribbble.com/shots/19765625)
 <!-- DRIBBBLE-TRENDING:END -->
 
