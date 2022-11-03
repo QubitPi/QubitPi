@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Which database to choose? Learn about the main differences between a graph database and a relational database, what kind of use-cases are best suited ...](https://twitter.com/memgraphdb/status/1588291347252801537)
 - [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1588250650609008640)
 - [Why should you combine machine learning and graph tech to build your fraud detection system? Read more 👇 #memgraph #Database #FraudDetection](https://twitter.com/memgraphdb/status/1588221223774826496)
 - [The hardest part of virtual team lunch is waiting for delivery... #memgraph #database](https://twitter.com/memgraphdb/status/1588181117810925568)
 - [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1588152917713997828)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1588139655303757826)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
