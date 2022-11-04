@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Are there any open-source implementations of Document Understanding pipelines?](https://www.reddit.com/r/MachineLearning/comments/ym44hl/r_are_there_any_opensource_implementations_of/)
 - [[D] Smallest yet decent unsupervised language model transformer?](https://www.reddit.com/r/MachineLearning/comments/ym2igx/d_smallest_yet_decent_unsupervised_language_model/)
 - [[D] Optimising input parameters for oracle system](https://www.reddit.com/r/MachineLearning/comments/ym11qe/d_optimising_input_parameters_for_oracle_system/)
 - [[N] CFP for JupyterCon Paris 2023 is open](https://www.reddit.com/r/MachineLearning/comments/ym0ox2/n_cfp_for_jupytercon_paris_2023_is_open/)
 - [[P] Learn diffusion models with Hugging Face course 🧨](https://www.reddit.com/r/MachineLearning/comments/ylz2wh/p_learn_diffusion_models_with_hugging_face_course/)
-- [[N] Large Language Models Are Human-Level Prompt Engineers](https://www.reddit.com/r/MachineLearning/comments/ylyk3x/n_large_language_models_are_humanlevel_prompt/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
