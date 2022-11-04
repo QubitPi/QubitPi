@@ -574,8 +574,8 @@ My Tech Blogs
 - [ProAgenda Website: Pricing Page](https://dribbble.com/shots/19786463)
 - [Wallet](https://dribbble.com/shots/19782428)
 - [SafePal Social Media](https://dribbble.com/shots/19759260)
-- [Attio - Onboarding Flow](https://dribbble.com/shots/19768774)
 - [Enterprise control panel | Dashboard Management](https://dribbble.com/shots/19765625)
+- [Attio - Onboarding Flow](https://dribbble.com/shots/19768774)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
