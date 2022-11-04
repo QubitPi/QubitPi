@@ -331,11 +331,11 @@ My Tech Blogs
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Nine things to do in your Sprint Planning](https://www.scrum.org/resources/blog/nine-things-do-your-sprint-planning)
 - [The importance of Done for your Product Owner 🚀 &lpar;75&rpar;](https://www.scrum.org/resources/blog/importance-done-your-product-owner-75)
 - [Wann ist es Zeit, mit Scrum Schluss zu machen? 🇩🇪](https://www.scrum.org/resources/blog/wann-ist-es-zeit-mit-scrum-schluss-zu-machen)
 - […Too much transparency in a Scrum Master?](https://www.scrum.org/resources/blog/too-much-transparency-scrum-master)
 - [If you Want to Save Money, Don&#39;t use Scrum](https://www.scrum.org/resources/blog/if-you-want-save-money-dont-use-scrum)
-- [When Scrum Doesn&#39;t Work](https://www.scrum.org/resources/blog/when-scrum-doesnt-work)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
