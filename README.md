@@ -555,11 +555,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Interested in the future of media in Web3? Learn more about the Cogency Project, launching in partnership with Web3 Foundation, and bringing together ...](https://twitter.com/Web3foundation/status/1588557757661163520)
 - [Attending #WebSummit 2022 in Lisbon? Today at 6pm WET, join Web3 Foundation&#39;s @Ursulaok, @djtomchak of Cogency, and @Publico in a discussion on Web3 a...](https://twitter.com/Web3foundation/status/1588224121057710080)
 - [Want to learn about Web3 and understand the power of possibilities with blockchain? Watch the @theunitnetwork&#39;s educational session with Web3 Foundati...](https://twitter.com/Web3foundation/status/1588108787193356288)
 - [Want to know more about the future of media in Web3? Join us on November 3rd in Lisbon to hear Web3 Foundation&#39;s @Ursulaok, @djtomchak of Cogency, and...](https://twitter.com/Web3foundation/status/1585986087272562688)
 - [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Join the Web3x online courses from W3F and @edXOnline for the p...](https://twitter.com/Web3foundation/status/1585955703243476993)
-- [Happening now: tune in to an AMA on @Polkadot&#39;s governance system with Web3 Foundation&#39;s @BillLaboon:](https://twitter.com/Web3foundation/status/1585900315244924928)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
