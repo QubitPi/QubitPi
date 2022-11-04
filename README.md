@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Large Language Models Are Human-Level Prompt Engineers](https://www.reddit.com/r/MachineLearning/comments/ylyk3x/n_large_language_models_are_humanlevel_prompt/)
 - [[D] ICLR review today?](https://www.reddit.com/r/MachineLearning/comments/ylxpx4/d_iclr_review_today/)
 - [[N] Class-action lawsuit filed against GitHub, Microsoft, and OpenAI regarding the legality of GitHub Copilot, an AI-using tool for programmers](https://www.reddit.com/r/MachineLearning/comments/ylizjt/n_classaction_lawsuit_filed_against_github/)
 - [[D] What are the major general advances in techniques?](https://www.reddit.com/r/MachineLearning/comments/ylixp5/d_what_are_the_major_general_advances_in/)
 - [[D] Chelsea Finn, Stanford: On the biggest bottlenecks in robotics and reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/yli9mf/d_chelsea_finn_stanford_on_the_biggest/)
-- [[D] DALL·E to be made available as API, OpenAI to give users full ownership rights to generated images](https://www.reddit.com/r/MachineLearning/comments/yli0r7/d_dalle_to_be_made_available_as_api_openai_to/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
