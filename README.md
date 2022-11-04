@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph dem...](https://twitter.com/neo4j/status/1588317862397202437)
 - [#GraphSummit arrives in San Francisco! 📍 #GraphsAreEverywhere #neo4j](https://twitter.com/neo4j/status/1588277364726804480)
 - [Creating API in NestJS With @graphql/neo4j and AWS Cognito --&gt; #GraphQL #Neo4j #aws](https://twitter.com/neo4j/status/1588274880101122048)
 - [Neo4j Live: Graph Data Art w/ @KirellBenzi](https://twitter.com/neo4j/status/1588218424463077378)
 - [RT Mangel Sánchez: Tenía muchísimas ganas de saber un poquito más sobre este tema, ya que he trasteado varias veces con Neo4J, pero si es con la b...](https://twitter.com/slaimer/status/1588200643948421123)
-- [RT GraphAware - we&#39;re hiring!: What is going on with your graphs? Join Fabio’s session about Temporal Graph Analysis at #NODES2022! Lead Machine Lear...](https://twitter.com/graph_aware/status/1588197561650782209)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
