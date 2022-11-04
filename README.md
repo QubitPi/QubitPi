@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724172911229796423><img align='right' src='https://i0.hdslb.com/bfs/article/2dc3d046f60084f5d98badb0be79fe8ad3a172a9.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724543833206947927><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5274e62120002dfc8a18780cb90521c7401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [七叶寂照秘密主——「正机之神」](https://t.bilibili.com/724172911229796423)
