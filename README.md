@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Recipe for the perfect retreat: ☑️take your super cool employees ☑️add a little bit of team-building activities ☑️add a lot of local cuisines an...](https://twitter.com/memgraphdb/status/1588494339134869509)
+- [Did you check out the latest #memgraph blog post from our #devrel @supe_katarina? #python #opensource #graphdatabase #database #networkx](https://twitter.com/memgraphdb/status/1588491281130553344)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1588451589244821504)
 - [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1588439766575579136)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1588408298490978305)
-- [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1588374137667461120)
-- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1588356421183225856)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
