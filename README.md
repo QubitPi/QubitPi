@@ -497,11 +497,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1588581583455490049)
 - [When NetworkX can no longer handle the analysis and vizualisation requirements of your project, and you are tired of constantly reloading data, find o...](https://twitter.com/memgraphdb/status/1588543243331186688)
 - [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1588540452415983618)
 - [Blog post from #memgraph #devrel @supe_katarina has made it today into the top 10 posts on #HackerNews 🎉 #python #opensource #graphdatabase #databa...](https://twitter.com/memgraphdb/status/1588530841676042241)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1588514122370531334)
+- [Recipe for the perfect retreat: ☑️take your super cool employees ☑️add a little bit of team-building activities ☑️add a lot of local cuisines an...](https://twitter.com/memgraphdb/status/1588494339134869509)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
