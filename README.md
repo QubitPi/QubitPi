@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Alexander Erdl: #NODES2022 is approaching fast - before it happens I am excited to host a panel of a few speakers: @st3llasia @dgg32 @owen_brierley...](https://twitter.com/alexandererdl/status/1588540570737205248)
+- [RT Nicolas ROUYER: Fond of #graphdatabase and located in #emea: here is your agenda for the Nodes2022 conference:](https://twitter.com/rrrouyer/status/1588539184704266240)
 - [How do you model user changes? 💡 Elena Kohlwey gives you a peek into what her presentation will be about during #NODES2022. Register now to listen ...](https://twitter.com/neo4j/status/1588517172158013441)
 - [RT Stu Moore: Our 2 day, round the clock #developer conference #nodes2022 is in less than 2 weeks, sign up here](https://twitter.com/StuM00re/status/1588472982338699264)
 - [RT Scoutbee: Introducing Katariina Kari as a speaker at the @Scoutbee x @Neo4j Meetup &lpar;November 24, 17:30&rpar;. @katsi111 is the lead Ontologist at Inter ...](https://twitter.com/scoutbeecompany/status/1588471141806514179)
-- [Neo4j empowers developers to rapidly learn, build, and use graph to find hidden data relationships with zero code required. Watch this short graph dem...](https://twitter.com/neo4j/status/1588317862397202437)
-- [#GraphSummit arrives in San Francisco! 📍 #GraphsAreEverywhere #neo4j](https://twitter.com/neo4j/status/1588277364726804480)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
