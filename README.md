@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Sigmoid Social, an alternative to Twitter by and for the AI Community](https://www.reddit.com/r/MachineLearning/comments/ym6j8h/d_sigmoid_social_an_alternative_to_twitter_by_and/)
+- [[Project] Applying ML model trained on individual videos to a live webcam](https://www.reddit.com/r/MachineLearning/comments/ym69zs/project_applying_ml_model_trained_on_individual/)
+- [Machine learning with kotlin? [D]](https://www.reddit.com/r/MachineLearning/comments/ym68zu/machine_learning_with_kotlin_d/)
+- [[D] Trying to blur / censor all text from my videos. What&#39;s your opinion of this script?](https://www.reddit.com/r/MachineLearning/comments/ym68g9/d_trying_to_blur_censor_all_text_from_my_videos/)
 - [[P] how to build a document labeling feedback flow?](https://www.reddit.com/r/MachineLearning/comments/ym6117/p_how_to_build_a_document_labeling_feedback_flow/)
-- [[D] NVIDIA RTX 4090 vs RTX 3090 Deep Learning Benchmarks](https://www.reddit.com/r/MachineLearning/comments/ym5b6h/d_nvidia_rtx_4090_vs_rtx_3090_deep_learning/)
-- [[R] Are there any open-source implementations of Document Understanding pipelines?](https://www.reddit.com/r/MachineLearning/comments/ym44hl/r_are_there_any_opensource_implementations_of/)
-- [[D] Smallest yet decent unsupervised language model transformer?](https://www.reddit.com/r/MachineLearning/comments/ym2igx/d_smallest_yet_decent_unsupervised_language_model/)
-- [[D] Optimising input parameters for oracle system](https://www.reddit.com/r/MachineLearning/comments/ym11qe/d_optimising_input_parameters_for_oracle_system/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
