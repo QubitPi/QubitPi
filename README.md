@@ -387,11 +387,11 @@ My Tech Blogs
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Live and let live with Kluctl and Server Side Apply](https://kubernetes.io/blog/2022/11/04/live-and-let-live-with-kluctl-and-ssa/)
 - [Blog: Server Side Apply Is Great And You Should Be Using It](https://kubernetes.io/blog/2022/10/20/advanced-server-side-apply/)
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
 - [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
 - [Blog: Kubernetes 1.25: alpha support for running Pods with user namespaces](https://kubernetes.io/blog/2022/10/03/userns-alpha/)
-- [Blog: Enforce CRD Immutability with CEL Transition Rules](https://kubernetes.io/blog/2022/09/29/enforce-immutability-using-cel/)
 <!-- KUBERNETES-BLOG:END -->
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
