@@ -515,11 +515,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Graphs for the Energy Industry? 🍃 David Swank, Founder &amp; CEO, enXchange, explains it all. #Graphstechnology #GraphDatabase #energyindustry #Neo4j](https://twitter.com/neo4j/status/1588591986935795713)
 - [RT Jason Koo: In Seattle and interested in Graph technologies? Next Thursday at The 101, experts will be giving talks about leveraging graphs in ML pr...](https://twitter.com/jalakoo/status/1588576861910716424)
-- [RT robinkim: True in every way: ⁦@inovia⁩ ⁦@pichette⁩ with ⁦@neo4j⁩ ⁦@emileifrem⁩ on stage at #WebSummit2022 on how graphs are changing the wo...](https://twitter.com/robinkim/status/1588562362646216704)
 - [5 advantages of graph vs. relational databases: Download the quick guide to learn more &gt; #AuraDBFree #Graphdatabase #Neo4j](https://twitter.com/neo4j/status/1588561931295653890)
 - [Building a full stack GraphQL application involves working with a multitier architecture. Find out more in chapter 1 from the e-book “Full Stack Grap...](https://twitter.com/neo4j/status/1588551427156332548)
+- [RT Alexander Erdl: #NODES2022 is approaching fast - before it happens I am excited to host a panel of a few speakers: @st3llasia @dgg32 @owen_brierley...](https://twitter.com/alexandererdl/status/1588540570737205248)
+- [RT Nicolas ROUYER: Fond of #graphdatabase and located in #emea: here is your agenda for the Nodes2022 conference:](https://twitter.com/rrrouyer/status/1588539184704266240)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
