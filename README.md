@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724543833206947927><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5274e62120002dfc8a18780cb90521c7401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724639293144825913><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/22118750c0bb8fd883e78116208592e5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #布耶尔最初的贤者# 《原神》过场动画-「布耶尔最初的贤者」现已发布~ https://www.bilibili.com/video/BV1yV4y1371t 「以神明的名义，统合人民...](https://t.bilibili.com/724639293144825913)
