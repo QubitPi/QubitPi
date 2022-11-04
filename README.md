@@ -315,11 +315,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Suggestions for a Noob [R]](https://www.reddit.com/r/MachineLearning/comments/ym9gw3/suggestions_for_a_noob_r/)
 - [[R] Spatial Vehicle Detection &lpar;Bounding Box&rpar;; featuring 10 class labels in 100 images taken from open media to enable testing for vehicle detection and/or urban mobility AI solutions.](https://www.reddit.com/r/MachineLearning/comments/ym8njm/r_spatial_vehicle_detection_bounding_box/)
 - [[D] Sigmoid Social, an alternative to Twitter by and for the AI Community](https://www.reddit.com/r/MachineLearning/comments/ym6j8h/d_sigmoid_social_an_alternative_to_twitter_by_and/)
 - [[Project] Applying ML model trained on individual videos to a live webcam](https://www.reddit.com/r/MachineLearning/comments/ym69zs/project_applying_ml_model_trained_on_individual/)
 - [Machine learning with kotlin? [D]](https://www.reddit.com/r/MachineLearning/comments/ym68zu/machine_learning_with_kotlin_d/)
-- [[D] Trying to blur / censor all text from my videos. What&#39;s your opinion of this script?](https://www.reddit.com/r/MachineLearning/comments/ym68g9/d_trying_to_blur_censor_all_text_from_my_videos/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
