@@ -555,11 +555,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re W3F met regularly with the SEC and attempted to break new ground and comply with U.S. federal securities laws, with respect to the offer &amp; sale, ma...](https://twitter.com/Web3foundation/status/1588593799093444609)
+- [Re On the heels of many other SEC enforcement actions and announcements, including its 21A Report of Investigation: The DAO &lpar;“The DAO Report”&rpar;, the ...](https://twitter.com/Web3foundation/status/1588593797071392768)
+- [Re In November 2019, the digital asset regulatory climate was tense. When W3F first approached FinHub, the SEC had recently filed its complaint agains...](https://twitter.com/Web3foundation/status/1588593795381465089)
+- [Web3 Foundation announces @Polkadot&#39;s native token DOT has morphed and is software, not a security! After 3 years of proactive engagement with the @SE...](https://twitter.com/Web3foundation/status/1588593793519210497)
 - [Interested in the future of media in Web3? Learn more about the Cogency Project, launching in partnership with Web3 Foundation, and bringing together ...](https://twitter.com/Web3foundation/status/1588557757661163520)
-- [Attending #WebSummit 2022 in Lisbon? Today at 6pm WET, join Web3 Foundation&#39;s @Ursulaok, @djtomchak of Cogency, and @Publico in a discussion on Web3 a...](https://twitter.com/Web3foundation/status/1588224121057710080)
-- [Want to learn about Web3 and understand the power of possibilities with blockchain? Watch the @theunitnetwork&#39;s educational session with Web3 Foundati...](https://twitter.com/Web3foundation/status/1588108787193356288)
-- [Want to know more about the future of media in Web3? Join us on November 3rd in Lisbon to hear Web3 Foundation&#39;s @Ursulaok, @djtomchak of Cogency, and...](https://twitter.com/Web3foundation/status/1585986087272562688)
-- [Interested in learning the fundamentals of blockchain, Web3, and @Polkadot technology? Join the Web3x online courses from W3F and @edXOnline for the p...](https://twitter.com/Web3foundation/status/1585955703243476993)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
