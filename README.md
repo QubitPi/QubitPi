@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A model with different data types as input?](https://www.reddit.com/r/MachineLearning/comments/ymoi5a/d_a_model_with_different_data_types_as_input/)
 - [[P] Finetuned Diffusion: multiple fine-tuned Stable Diffusion models, trained on different styles](https://www.reddit.com/r/MachineLearning/comments/ymo07f/p_finetuned_diffusion_multiple_finetuned_stable/)
 - [[D] Physics-inspired Deep Learning Models](https://www.reddit.com/r/MachineLearning/comments/ymn4xn/d_physicsinspired_deep_learning_models/)
 - [[R] Deploy Machine Learning models with](https://www.reddit.com/r/MachineLearning/comments/ymm59j/r_deploy_machine_learning_models_with/)
 - [[D] Paper bidding is a terrible system](https://www.reddit.com/r/MachineLearning/comments/ymh0eu/d_paper_bidding_is_a_terrible_system/)
-- [[D] ICLR 2023 reviews are out. How was your experience ?](https://www.reddit.com/r/MachineLearning/comments/ymctqy/d_iclr_2023_reviews_are_out_how_was_your/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
