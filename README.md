@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Digital Twin Design for Renewable Energy Exploration &lpar;Tutorial&rpar; [R]](https://www.reddit.com/r/MachineLearning/comments/ymsspa/digital_twin_design_for_renewable_energy/)
 - [How to make a classifier between handwritten and printed images&quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/ympinm/how_to_make_a_classifier_between_handwritten_and/)
 - [[D] Need help with OpenCL and Object detection.](https://www.reddit.com/r/MachineLearning/comments/ymp2kn/d_need_help_with_opencl_and_object_detection/)
 - [[D] A model with different data types as input?](https://www.reddit.com/r/MachineLearning/comments/ymoi5a/d_a_model_with_different_data_types_as_input/)
 - [[P] Finetuned Diffusion: multiple fine-tuned Stable Diffusion models, trained on different styles](https://www.reddit.com/r/MachineLearning/comments/ymo07f/p_finetuned_diffusion_multiple_finetuned_stable/)
-- [[D] Physics-inspired Deep Learning Models](https://www.reddit.com/r/MachineLearning/comments/ymn4xn/d_physicsinspired_deep_learning_models/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
