@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/724945824961789959><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1af42f62c1576d05eb7406a45a9a2bf6401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #折枝落梦# 《原神》过场动画-「折枝落梦」现已发布~ https://www.bilibili.com/video/BV17D4y1t74j 我们在梦中提出问题，又在梦中得到解答。 ...](https://t.bilibili.com/725017937479467027)
+- [《原神》过场动画-「折枝落梦」](https://t.bilibili.com/725007882943201299)
 - [恭喜@天壤の飓风@EagleVision@弃味等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/724945824961789959)
 - [互动抽奖 #原神# #布耶尔最初的贤者# 《原神》过场动画-「布耶尔最初的贤者」现已发布~ https://www.bilibili.com/video/BV1yV4y1371t 「以神明的名义，统合人民...](https://t.bilibili.com/724639293144825913)
 - [《原神》过场动画-「布耶尔最初的贤者」](https://t.bilibili.com/724636737652916240)
-- [#原神# #原神冒险家试炼# #原神UP主激励计划# 《原神》「冒险家试炼」趣味试炼挑战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年11月4...](https://t.bilibili.com/724543833206947927)
-- [七叶寂照秘密主——「正机之神」](https://t.bilibili.com/724172911229796423)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
