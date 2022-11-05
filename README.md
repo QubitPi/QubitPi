@@ -464,11 +464,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Don&#39;t worry about introducing yourself to ArangoGraph Insights Platform; we have a guided tour and demo datasets so you can get started immediately! ...](https://twitter.com/arangodb/status/1588652324637089794)
 - [Grab your spot for next Thursday, November 10th, 2022. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; to learn more abo...](https://twitter.com/arangodb/status/1588561724785020934)
 - [RT mouniiiir ⚡: Re @joerg_schad is rocking the stage talking about Graph ML : The Future of IA is GraphML... @arangodb @AMLDAfrica](https://twitter.com/mounirboulwafa/status/1588538962729390080)
 - [PrivacyPerfect had the difficult challenge of selecting the right data model to minimize architectural complexity. Find out why they selected graph an...](https://twitter.com/arangodb/status/1588289942698033152)
 - [Grab some popcorn and get ready to be up to speed with ArangoDB Summit - our first-ever two-day industry event. 🥑 Learn more about use cases, thoug...](https://twitter.com/arangodb/status/1588199334616645632)
-- [#Graph is the future of data modeling. Check out why graph databases are the key and how ArangoDB is at the top of the #graphdatabase game. Learn more...](https://twitter.com/arangodb/status/1587927547240599552)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
