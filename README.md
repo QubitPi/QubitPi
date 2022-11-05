@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] What is the amount of time you&#39;ve invested in for your NIPS/ICLR-like papers &lpar;that have been accepted&rpar; ? From getting ideas to submitting](https://www.reddit.com/r/MachineLearning/comments/yn0l8h/d_what_is_the_amount_of_time_youve_invested_in/)
 - [How to perform economic optimization without TensorFlow or PyTorch ? [Research]](https://www.reddit.com/r/MachineLearning/comments/ymzs3o/how_to_perform_economic_optimization_without/)
-- [[D] How to replicate a graphic style produced by and with the AI](https://www.reddit.com/r/MachineLearning/comments/ymzhnh/d_how_to_replicate_a_graphic_style_produced_by/)
 - [[D] Paper Explanation &amp; Author Interview - ROME: Locating and Editing Factual Associations in GPT](https://www.reddit.com/r/MachineLearning/comments/ymy3w4/d_paper_explanation_author_interview_rome/)
 - [[Discussion] ICLR2023 statistics of submission](https://www.reddit.com/r/MachineLearning/comments/ymxpad/discussion_iclr2023_statistics_of_submission/)
+- [[N] AAAI2023 workshop on Dynamical Systems and Machine Learning](https://www.reddit.com/r/MachineLearning/comments/ymugfe/n_aaai2023_workshop_on_dynamical_systems_and/)
+- [[P] Topic modeling with semantic graphs: a different approach](https://www.reddit.com/r/MachineLearning/comments/ymtxwd/p_topic_modeling_with_semantic_graphs_a_different/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
