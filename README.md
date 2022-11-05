@@ -516,11 +516,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#BioTechX is coming soon and we will be there! 🔬 8-10 November 2022 | Basel Congress Center, Switzerland Visit booth #5, meet us and let&#39;s talk abo...](https://twitter.com/neo4j/status/1588924203499229184)
 - [Attention #APAC! Take a look at #NODES2022 Agenda for the Region. You&#39;ll find begginer, intermediate and advanced talks - which one will you choose? F...](https://twitter.com/neo4j/status/1588712725852602368)
 - [Emil Eifrem, CEO and Co-Founder of @Neo4j, and Patrick Pichette presented &quot;Chasing oligarchs, curing cancer, saving democracy? How Graphs are Changing...](https://twitter.com/neo4j/status/1588632703678791682)
 - [Graphs for the Energy Industry? 🍃 David Swank, Founder &amp; CEO, enXchange, explains it all. #Graphstechnology #GraphDatabase #energyindustry #Neo4j](https://twitter.com/neo4j/status/1588591986935795713)
 - [RT Jason Koo: In Seattle and interested in Graph technologies? Next Thursday at The 101, experts will be giving talks about leveraging graphs in ML pr...](https://twitter.com/jalakoo/status/1588576861910716424)
-- [RT Galileo.XAI: Are you searching for an explanation on how to exploit a Feature Store for #Graphs on @neo4j ? ➡ Here you have the speech our Chapter...](https://twitter.com/GalileoXAI/status/1588571867660840960)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
