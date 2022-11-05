@@ -498,11 +498,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1589012130073804800)
 - [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1588916824955133956)
 - [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1588913275311427584)
 - [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1588866805346574336)
 - [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1588818792452341761)
+- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1588809137290285056)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
