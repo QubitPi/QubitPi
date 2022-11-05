@@ -315,7 +315,7 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Ridge Regression](https://www.reddit.com/r/MachineLearning/comments/ymfh91/d_ridge_regression/)
+- [[D] Paper bidding is a terrible system](https://www.reddit.com/r/MachineLearning/comments/ymh0eu/d_paper_bidding_is_a_terrible_system/)
 - [[D] ICLR 2023 reviews are out. How was your experience ?](https://www.reddit.com/r/MachineLearning/comments/ymctqy/d_iclr_2023_reviews_are_out_how_was_your/)
 - [[R] Spatial Vehicle Detection &lpar;Bounding Box&rpar;; featuring 10 class labels in 100 images taken from open media to enable testing for vehicle detection and/or urban mobility AI solutions.](https://www.reddit.com/r/MachineLearning/comments/ym8njm/r_spatial_vehicle_detection_bounding_box/)
 - [[D] Sigmoid Social, an alternative to Twitter by and for the AI Community](https://www.reddit.com/r/MachineLearning/comments/ym6j8h/d_sigmoid_social_an_alternative_to_twitter_by_and/)
