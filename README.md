@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] AAAI2023 workshop on Dynamical Systems and Machine Learning](https://www.reddit.com/r/MachineLearning/comments/ymugfe/n_aaai2023_workshop_on_dynamical_systems_and/)
 - [Is Calculus or Statistics better to learn at uni for ML? [D]](https://www.reddit.com/r/MachineLearning/comments/ymu2ml/is_calculus_or_statistics_better_to_learn_at_uni/)
 - [[P] Topic modeling with semantic graphs: a different approach](https://www.reddit.com/r/MachineLearning/comments/ymtxwd/p_topic_modeling_with_semantic_graphs_a_different/)
 - [[P] Sparse Transformers for Inference in a Real-Time Twitter Stream](https://www.reddit.com/r/MachineLearning/comments/ymtw51/p_sparse_transformers_for_inference_in_a_realtime/)
 - [[D] A model with different data types as input?](https://www.reddit.com/r/MachineLearning/comments/ymoi5a/d_a_model_with_different_data_types_as_input/)
-- [[P] Finetuned Diffusion: multiple fine-tuned Stable Diffusion models, trained on different styles](https://www.reddit.com/r/MachineLearning/comments/ymo07f/p_finetuned_diffusion_multiple_finetuned_stable/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
