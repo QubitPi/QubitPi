@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Help with making a new music recommendation dataset](https://www.reddit.com/r/MachineLearning/comments/yn2f2k/p_help_with_making_a_new_music_recommendation/)
 - [[R] APPLE research: GAUDI — a neural architect for immersive 3D scene generation](https://www.reddit.com/r/MachineLearning/comments/yn1n7c/r_apple_research_gaudi_a_neural_architect_for/)
 - [How to perform economic optimization without TensorFlow or PyTorch ? [Research]](https://www.reddit.com/r/MachineLearning/comments/ymzs3o/how_to_perform_economic_optimization_without/)
 - [[D] Paper Explanation &amp; Author Interview - ROME: Locating and Editing Factual Associations in GPT](https://www.reddit.com/r/MachineLearning/comments/ymy3w4/d_paper_explanation_author_interview_rome/)
 - [[Discussion] ICLR2023 statistics of submission](https://www.reddit.com/r/MachineLearning/comments/ymxpad/discussion_iclr2023_statistics_of_submission/)
+- [[N] AAAI2023 workshop on Dynamical Systems and Machine Learning](https://www.reddit.com/r/MachineLearning/comments/ymugfe/n_aaai2023_workshop_on_dynamical_systems_and/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
