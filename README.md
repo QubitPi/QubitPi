@@ -498,11 +498,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ #memgraph #graphdatabase #stream #dat...](https://twitter.com/memgraphdb/status/1588782188862087168)
+- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1588758763355471872)
 - [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1588581583455490049)
 - [When NetworkX can no longer handle the analysis and vizualisation requirements of your project, and you are tired of constantly reloading data, find o...](https://twitter.com/memgraphdb/status/1588543243331186688)
 - [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1588540452415983618)
-- [Blog post from #memgraph #devrel @supe_katarina has made it today into the top 10 posts on #HackerNews 🎉 #python #opensource #graphdatabase #databa...](https://twitter.com/memgraphdb/status/1588530841676042241)
-- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1588514122370531334)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
