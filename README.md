@@ -516,11 +516,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#NODES2022 Agenda for #Americas rocks! How much do you know about #GraphTechnology? Find your ideal talk: #Begginer #Intermediate #Advance Find out mo...](https://twitter.com/neo4j/status/1588954325170135041)
-- [RT cloudgear.io: Understanding graph databases with Neo4j](https://twitter.com/cloudgeario/status/1588934825926430723)
 - [#BioTechX is coming soon and we will be there! 🔬 8-10 November 2022 | Basel Congress Center, Switzerland Visit booth #5, meet us and let&#39;s talk abo...](https://twitter.com/neo4j/status/1588924203499229184)
-- [RT Patrick Pichette: Thx @emileifrem for inviting me to chat about @neo4j . Graph is changing the world and for good.](https://twitter.com/pichette/status/1588912606999613442)
 - [Attention #APAC! Take a look at #NODES2022 Agenda for the Region. You&#39;ll find begginer, intermediate and advanced talks - which one will you choose? F...](https://twitter.com/neo4j/status/1588712725852602368)
+- [Emil Eifrem, CEO and Co-Founder of @Neo4j, and Patrick Pichette presented &quot;Chasing oligarchs, curing cancer, saving democracy? How Graphs are Changing...](https://twitter.com/neo4j/status/1588632703678791682)
+- [Graphs for the Energy Industry? 🍃 David Swank, Founder &amp; CEO, enXchange, explains it all. #Graphstechnology #GraphDatabase #energyindustry #Neo4j](https://twitter.com/neo4j/status/1588591986935795713)
+- [RT Jason Koo: In Seattle and interested in Graph technologies? Next Thursday at The 101, experts will be giving talks about leveraging graphs in ML pr...](https://twitter.com/jalakoo/status/1588576861910716424)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
