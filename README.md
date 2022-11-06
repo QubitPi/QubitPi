@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/725017937479467027><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6c845dfcba0e291dc7890c0203034fff401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/725291599890743334><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/62e9d48fc432f7b6fd3277b95837ab6e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #折枝落梦# 《原神》过场动画-「折枝落梦」现已发布~ https://www.bilibili.com/video/BV17D4y1t74j 我们在梦中提出问题，又在梦中得到解答。 ...](https://t.bilibili.com/725017937479467027)
