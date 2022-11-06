@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Validation loss overfitting with higher accuracy](https://www.reddit.com/r/MachineLearning/comments/ynmk9g/d_validation_loss_overfitting_with_higher_accuracy/)
 - [[D] Technology to cut-out video elements by simply clicking on them?](https://www.reddit.com/r/MachineLearning/comments/ynjf85/d_technology_to_cutout_video_elements_by_simply/)
 - [[D] Enforcing object order in object detection](https://www.reddit.com/r/MachineLearning/comments/yni223/d_enforcing_object_order_in_object_detection/)
 - [[P] Lovely Tensors library](https://www.reddit.com/r/MachineLearning/comments/ynheaf/p_lovely_tensors_library/)
 - [[P] ICLR 2023 Submissions with Review Scores, Codes and SM Discussions](https://www.reddit.com/r/MachineLearning/comments/yngclb/p_iclr_2023_submissions_with_review_scores_codes/)
-- [[R] Reincarnating Reinforcement Learning &lpar;NeurIPS 2022&rpar; - Google Brain](https://www.reddit.com/r/MachineLearning/comments/yng63w/r_reincarnating_reinforcement_learning_neurips/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
