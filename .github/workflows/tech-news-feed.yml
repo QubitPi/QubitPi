@@ -319,7 +319,21 @@ jobs:
           comment_tag_name: "JANUSGRAPH-TWITTER"
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/JanusGraph"
-          
+   
+  martin-fowler-blog:
+    name: Martin Fowler's Blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "Martin Fowler's New Blog"
+          comment_tag_name: "MARTIN-FOWLER-BLOG"
+          max_post_count: "5"
+          feed_list: "https://martinfowler.com/feed.atom"
+
   dribbble:
     name: Dribbble - Popular Shots
     runs-on: ubuntu-latest
