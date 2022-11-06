@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R] Survey on technical debt in machine learning systems](https://www.reddit.com/r/MachineLearning/comments/yo0e5e/r_survey_on_technical_debt_in_machine_learning/)
 - [[P] Transcribe any podcast episode in just 1 minute with optimized OpenAI/whisper](https://www.reddit.com/r/MachineLearning/comments/ynz4m1/p_transcribe_any_podcast_episode_in_just_1_minute/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/yntyhz/d_simple_questions_thread/)
 - [[D] Has anyone tried coding latent diffusion from scratch? or tried other conditioning information aside from image classes and text?](https://www.reddit.com/r/MachineLearning/comments/ynq05k/d_has_anyone_tried_coding_latent_diffusion_from/)
 - [[R] A novel representation space for video-based generative tasks!!](https://www.reddit.com/r/MachineLearning/comments/ynoamn/r_a_novel_representation_space_for_videobased/)
+- [[D] Enforcing object order in object detection](https://www.reddit.com/r/MachineLearning/comments/yni223/d_enforcing_object_order_in_object_detection/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
