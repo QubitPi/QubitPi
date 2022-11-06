@@ -32,23 +32,23 @@ jobs:
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
-#   trippled-videos:
-#     name: Trippled Videos
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           committer_username: "QubitPi"
-#           committer_email: "jack20220723@gmail.com"
-#           commit_message: "New Liked-Saved-Tipped Videos"
-#           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
-#           max_post_count: "5"
-#           feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
-#           # extract video cover image
-#           item_exec: |
-#                     post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-#           template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a><br>"
+  trippled-videos:
+    name: Trippled Videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "New Liked-Saved-Tipped Videos"
+          comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
+          # extract video cover image
+          item_exec: |
+            post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
+          template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a><br>"
   columns:
     name: Columns
     runs-on: ubuntu-latest
@@ -61,7 +61,7 @@ jobs:
           commit_message: "New Bilibili Article Published"
           comment_tag_name: "BILIBILI-COLUMNS"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/bilibili/user/article/1771839550"   
+          feed_list: "https://rsshub.app/bilibili/user/article/1771839550"
   genshin-impact-activities:
     name: Genshin Impact Activities
     runs-on: ubuntu-latest
@@ -74,7 +74,7 @@ jobs:
           commit_message: "Genshin Impact New Activities"
           comment_tag_name: "BILIBILI-GENSHIN-IMPACT-ACTIVITIES"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/bilibili/user/dynamic/401742377"   
+          feed_list: "https://rsshub.app/bilibili/user/dynamic/401742377"
   genshin-impact-activities-cover-image:
     name: Genshin Impact Activities Cover Image
     runs-on: ubuntu-latest
@@ -90,6 +90,5 @@ jobs:
           feed_list: "https://rsshub.app/bilibili/user/dynamic/401742377"
           # extract video cover image
           item_exec: |
-                    post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
+            post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
           template: "<a href=$url><img align='right' src='$description' height='256px'></a><br>"
-  
