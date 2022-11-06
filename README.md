@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [what&#39;s the most used image processing algorithm in face recognition &lpar;not using any kind of AI&rpar;? [D]](https://www.reddit.com/r/MachineLearning/comments/ynwukk/whats_the_most_used_image_processing_algorithm_in/)
 - [[R] thoughts on learning like kids](https://www.reddit.com/r/MachineLearning/comments/ynw6in/r_thoughts_on_learning_like_kids/)
 - [[D]Is it possible to list all the &quot;styles&quot; that model like Stable Diffusion supports?](https://www.reddit.com/r/MachineLearning/comments/ynupwc/dis_it_possible_to_list_all_the_styles_that_model/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/yntyhz/d_simple_questions_thread/)
 - [[D] Has anyone tried coding latent diffusion from scratch? or tried other conditioning information aside from image classes and text?](https://www.reddit.com/r/MachineLearning/comments/ynq05k/d_has_anyone_tried_coding_latent_diffusion_from/)
-- [[R] A novel representation space for video-based generative tasks!!](https://www.reddit.com/r/MachineLearning/comments/ynoamn/r_a_novel_representation_space_for_videobased/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
