@@ -316,7 +316,7 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R] Reusing Prior Computation in Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/ynfweu/r_reusing_prior_computation_in_reinforcement/)
+- [[R] Reincarnating Reinforcement Learning &lpar;NeurIPS 2022&rpar; - Google Brain](https://www.reddit.com/r/MachineLearning/comments/yng63w/r_reincarnating_reinforcement_learning_neurips/)
 - [[N] &quot;Learning to Imitate&quot; blog post from Stanford AI Lab](https://www.reddit.com/r/MachineLearning/comments/ynbe8e/n_learning_to_imitate_blog_post_from_stanford_ai/)
 - [[D] DL Models Learn the Embedded Manifold of Training Data](https://www.reddit.com/r/MachineLearning/comments/yn88di/d_dl_models_learn_the_embedded_manifold_of/)
 - [[P] Summarize social media sports data with neuspo](https://www.reddit.com/r/MachineLearning/comments/yn66vt/p_summarize_social_media_sports_data_with_neuspo/)
