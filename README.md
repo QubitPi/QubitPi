@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] &quot;Learning to Imitate&quot; blog post from Stanford AI Lab](https://www.reddit.com/r/MachineLearning/comments/ynbe8e/n_learning_to_imitate_blog_post_from_stanford_ai/)
 - [[D] DL Models Learn the Embedded Manifold of Training Data](https://www.reddit.com/r/MachineLearning/comments/yn88di/d_dl_models_learn_the_embedded_manifold_of/)
 - [[P] Summarize social media sports data with neuspo](https://www.reddit.com/r/MachineLearning/comments/yn66vt/p_summarize_social_media_sports_data_with_neuspo/)
 - [[R] APPLE research: GAUDI — a neural architect for immersive 3D scene generation](https://www.reddit.com/r/MachineLearning/comments/yn1n7c/r_apple_research_gaudi_a_neural_architect_for/)
 - [How to perform economic optimization without TensorFlow or PyTorch ? [Research]](https://www.reddit.com/r/MachineLearning/comments/ymzs3o/how_to_perform_economic_optimization_without/)
-- [[D] Paper Explanation &amp; Author Interview - ROME: Locating and Editing Factual Associations in GPT](https://www.reddit.com/r/MachineLearning/comments/ymy3w4/d_paper_explanation_author_interview_rome/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
