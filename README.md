@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1589194386599976966)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1589177774417272832)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1589126326535000064)
 - [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1589073433178120193)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1589012130073804800)
+- [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1588916824955133956)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
