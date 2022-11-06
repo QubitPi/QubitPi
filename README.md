@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Has anyone tried coding latent diffusion from scratch? or tried other conditioning information aside from image classes and text?](https://www.reddit.com/r/MachineLearning/comments/ynq05k/d_has_anyone_tried_coding_latent_diffusion_from/)
 - [[R] A novel representation space for video-based generative tasks!!](https://www.reddit.com/r/MachineLearning/comments/ynoamn/r_a_novel_representation_space_for_videobased/)
 - [[D] Enforcing object order in object detection](https://www.reddit.com/r/MachineLearning/comments/yni223/d_enforcing_object_order_in_object_detection/)
 - [[P] Lovely Tensors library](https://www.reddit.com/r/MachineLearning/comments/ynheaf/p_lovely_tensors_library/)
 - [[P] ICLR 2023 Submissions with Review Scores, Codes and SM Discussions](https://www.reddit.com/r/MachineLearning/comments/yngclb/p_iclr_2023_submissions_with_review_scores_codes/)
-- [[R] Reincarnating Reinforcement Learning &lpar;NeurIPS 2022&rpar; - Google Brain](https://www.reddit.com/r/MachineLearning/comments/yng63w/r_reincarnating_reinforcement_learning_neurips/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
