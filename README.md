@@ -260,8 +260,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 * Software Architecture
 * Refactoring
 * Tesing
-* CI/CD (Continuous Integration & Continuous Delivery)
-* Software Infrustructure
+* [CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html) (Continuous Integration & Continuous Delivery)
+* [Software Infrustructure](https://qubitpi.github.io/jersey-guide/finalized/2022/11/02/infrastructure-as-code.html)
 
 ### Tech Management Topics
 
