@@ -254,6 +254,15 @@ By tapping into the collective talent and innovation of open source communities,
 My Tech Blogs
 -------------
 
+If there's a theme that runs through my work and writing on **pure** tech area, it's the interplay between the shift towards agile thinking and the technical patterns and practices that make agile software development practical. While specifics of technology change rapidly in our profession, fundamental practices and patterns are more stable. So writing about these allows me to have blogs on the following topics I'm interested in that are several years old but still as relevant as when they were written.
+
+* Agile Software Development
+* Software Architecture
+* Refactoring
+* Tesing
+* CI/CD (Continuous Integration & Continuous Delivery)
+* Software Infrustructure
+
 ### Tech Management Topics
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
