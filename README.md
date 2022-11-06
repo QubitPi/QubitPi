@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/725291599890743334><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/62e9d48fc432f7b6fd3277b95837ab6e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/725316905851682931><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/11feadbf85780d1845dd39422af4737b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，「原神天猫旗舰店」「原神米游社万有铺子」即将在11月10日20:00开启全新「迪卢克」角色印象服饰的贩售。](https://t.bilibili.com/725291599890743334)
