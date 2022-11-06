@@ -568,6 +568,11 @@ My Tech Blogs
 * [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
 * [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
 
+### Martin Fowler's Blog
+
+<!-- MARTIN-FOWLER-BLOG:START -->
+<!-- MARTIN-FOWLER-BLOG:END -->
+
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
