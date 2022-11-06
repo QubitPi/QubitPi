@@ -316,11 +316,11 @@ My Tech Blogs
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Enforcing object order in object detection](https://www.reddit.com/r/MachineLearning/comments/yni223/d_enforcing_object_order_in_object_detection/)
 - [[P] Lovely Tensors library](https://www.reddit.com/r/MachineLearning/comments/ynheaf/p_lovely_tensors_library/)
 - [[P] ICLR 2023 Submissions with Review Scores, Codes and SM Discussions](https://www.reddit.com/r/MachineLearning/comments/yngclb/p_iclr_2023_submissions_with_review_scores_codes/)
 - [[R] Reincarnating Reinforcement Learning &lpar;NeurIPS 2022&rpar; - Google Brain](https://www.reddit.com/r/MachineLearning/comments/yng63w/r_reincarnating_reinforcement_learning_neurips/)
 - [[N] &quot;Learning to Imitate&quot; blog post from Stanford AI Lab](https://www.reddit.com/r/MachineLearning/comments/ynbe8e/n_learning_to_imitate_blog_post_from_stanford_ai/)
-- [[D] DL Models Learn the Embedded Manifold of Training Data](https://www.reddit.com/r/MachineLearning/comments/yn88di/d_dl_models_learn_the_embedded_manifold_of/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
