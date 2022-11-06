@@ -498,11 +498,11 @@ My Tech Blogs
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1589126326535000064)
 - [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1589073433178120193)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1589012130073804800)
 - [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1588916824955133956)
 - [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1588913275311427584)
+- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1588866805346574336)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
