@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Describe the first time you found ML interesting?](https://www.reddit.com/r/MachineLearning/comments/yo28fd/d_describe_the_first_time_you_found_ml_interesting/)
 - [[P] Stable-diffusion&#39;s implementation of Paint-with-words : method from NVIDIA that generates images from text-labeled segmentation map.](https://www.reddit.com/r/MachineLearning/comments/yo23b9/p_stablediffusions_implementation_of/)
-- [[D] Which hyperparameters you have found to work better on large document summarization with long-t5 - Hugging Face](https://www.reddit.com/r/MachineLearning/comments/yo22v2/d_which_hyperparameters_you_have_found_to_work/)
 - [[P] Transcribe any podcast episode in just 1 minute with optimized OpenAI/whisper](https://www.reddit.com/r/MachineLearning/comments/ynz4m1/p_transcribe_any_podcast_episode_in_just_1_minute/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/yntyhz/d_simple_questions_thread/)
+- [[D] Has anyone tried coding latent diffusion from scratch? or tried other conditioning information aside from image classes and text?](https://www.reddit.com/r/MachineLearning/comments/ynq05k/d_has_anyone_tried_coding_latent_diffusion_from/)
+- [[R] A novel representation space for video-based generative tasks!!](https://www.reddit.com/r/MachineLearning/comments/ynoamn/r_a_novel_representation_space_for_videobased/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
