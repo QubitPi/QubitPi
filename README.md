@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/725660468870381568><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66350194a04bcbd2178a3b3256b47f70401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #古国守卫者# 古国守卫者——《原神》遗迹系列怪物创作的幕后 现已发布~ https://www.bilibili.com/video/BV14P4y1U7DY 从提瓦特大陆上随处可见...](https://t.bilibili.com/725660468870381568)
+- [古国守卫者——《原神》遗迹系列怪物创作的幕后](https://t.bilibili.com/725657067256283362)
 - [恭喜@覊嵳@残叶_冬荡@我要成为阿影的狗等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/725316905851682931)
 - [恭喜@墨染_无情@闪来233@神梁月丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/725316905833857170)
 - [亲爱的旅行者，「原神天猫旗舰店」「原神米游社万有铺子」即将在11月10日20:00开启全新「迪卢克」角色印象服饰的贩售。](https://t.bilibili.com/725291599890743334)
-- [互动抽奖 #原神# #折枝落梦# 《原神》过场动画-「折枝落梦」现已发布~ https://www.bilibili.com/video/BV17D4y1t74j 我们在梦中提出问题，又在梦中得到解答。 ...](https://t.bilibili.com/725017937479467027)
-- [《原神》过场动画-「折枝落梦」](https://t.bilibili.com/725007882943201299)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
