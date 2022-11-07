@@ -603,7 +603,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [SafePal Social Media](https://dribbble.com/shots/19759260)
 - [Enterprise control panel | Dashboard Management](https://dribbble.com/shots/19765625)
 - [Wallet](https://dribbble.com/shots/19782428)
-- [Figma Design System](https://dribbble.com/shots/19785217)
+- [APE Branding](https://dribbble.com/shots/19776976)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
