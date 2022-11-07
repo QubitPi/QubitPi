@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] On the spot normalization for batch based runtime](https://www.reddit.com/r/MachineLearning/comments/yohol9/d_on_the_spot_normalization_for_batch_based/)
 - [HinSage Model Doubt [D], [P]](https://www.reddit.com/r/MachineLearning/comments/yohbs5/hinsage_model_doubt_d_p/)
 - [[D] Any real world case scenario CNN object recognition with Python/Tensorflow solutions out there?](https://www.reddit.com/r/MachineLearning/comments/yofi75/d_any_real_world_case_scenario_cnn_object/)
 - [[D] Fighting Microsoft Copilot: The No-AI 3-Clause License](https://www.reddit.com/r/MachineLearning/comments/yoevid/d_fighting_microsoft_copilot_the_noai_3clause/)
 - [[Research] Is there any paper comparing classification, detection and segmentation?](https://www.reddit.com/r/MachineLearning/comments/yoe68b/research_is_there_any_paper_comparing/)
-- [[D] What&#39;s the best speech to speech deep fake voice project?](https://www.reddit.com/r/MachineLearning/comments/yod87n/d_whats_the_best_speech_to_speech_deep_fake_voice/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
