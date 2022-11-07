@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [&quot;It&#39;s been almost three years since we became a 100% remote company, and guess what? It works! Check out how we recreated our informal daily interacti...](https://twitter.com/memgraphdb/status/1589533849176117248)
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #graphdatabase #memgraphdb ...](https://twitter.com/memgraphdb/status/1589527328245293060)
 - [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1589481947411222529)
 - [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1589298069157384192)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1589245464951529472)
-- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1589194386599976966)
-- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1589177774417272832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
