@@ -428,6 +428,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 * [Chef 101](https://youtu.be/tt9_aWiSW5M)
 * [Infrastructure as Code (IaC)](https://qubitpi.github.io/aergia/blog/iac-intro)
 
+<!-- AERGIA-BLOGS:START -->
+
+<!-- AERGIA-BLOGS:END -->
+
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
 <img width="20%" align="right" src="./img/dockerjenkins.png">
