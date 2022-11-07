@@ -344,8 +344,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Product Owner &amp; Product Manager Salary Report 2022](https://www.scrum.org/resources/blog/product-owner-product-manager-salary-report-2022)
 - [A DONUT for Product Owners, unchaining them from Authority Restraints](https://www.scrum.org/resources/blog/donut-product-owners-unchaining-them-authority-restraints)
 - [Wertgetriebene Entwicklung: Eine einfache Anleitung, wie du Features priorisierst und Stakeholder zufriedenstellst](https://www.scrum.org/resources/blog/wertgetriebene-entwicklung-eine-einfache-anleitung-wie-du-features-priorisierst-und)
+- [Product Management Series: Different Types of Product Owners](https://www.scrum.org/resources/blog/product-management-series-different-types-product-owners)
 - [Como actuar cuando Agile no funciona](https://www.scrum.org/resources/blog/como-actuar-cuando-agile-no-funciona)
-- [Experiment: Support Scrum Teams To Express Clear Requests For Help](https://www.scrum.org/resources/blog/experiment-support-scrum-teams-express-clear-requests-help)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
