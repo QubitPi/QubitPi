@@ -482,11 +482,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [This week, join us for our kube-arangodb webinar! 🔥 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects,...](https://twitter.com/arangodb/status/1589663983505637380)
 - [Graph-based AI has entered the world of Enterprise. Learn how to graph AI is an integral part of different use cases, including fraud detection and se...](https://twitter.com/arangodb/status/1589271409527848961)
 - [Learn graph! Take a look at this gentle overview of graph databases that includes some tremendous graphical explanations included throughout. ✨ Read ...](https://twitter.com/arangodb/status/1588893918623662080)
 - [Don&#39;t worry about introducing yourself to ArangoGraph Insights Platform; we have a guided tour and demo datasets so you can get started immediately! ...](https://twitter.com/arangodb/status/1588652324637089794)
 - [Grab your spot for next Thursday, November 10th, 2022. 🔥 Join Software Engineer Jakub Wierzbowski &lpar;and some other special guests&rpar; to learn more abo...](https://twitter.com/arangodb/status/1588561724785020934)
+- [RT mouniiiir ⚡: Re @joerg_schad is rocking the stage talking about Graph ML : The Future of IA is GraphML... @arangodb @AMLDAfrica](https://twitter.com/mounirboulwafa/status/1588538962729390080)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
