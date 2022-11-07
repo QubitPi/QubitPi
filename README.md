@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Today starts the @gartner_sym and we will be there! Meet our team in Barcelona and discover the value of connected data. #gartner #GartnerSYM #Neo4j @...](https://twitter.com/neo4j/status/1589543397496332289)
 - [Want to know how to get started with graph databases?💻 Explore a variety of sample datasets or bring your own to create your first free graph proof...](https://twitter.com/neo4j/status/1589314474426732551)
 - [#KnowledgeGraphs are used for a wide range of applications in science and healthcare. Graphable leads us through a biology use case with a target prot...](https://twitter.com/neo4j/status/1589256324285603840)
 - [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1589227625062584321)
 - [In @DynamicBusiness, @neo4j&#39;s Nik Vora shares “Employee retention plays a key role. Businesses that can keep employees happy and engaged can expect g...](https://twitter.com/neo4j/status/1589098261972926464)
+- [🔥Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1588986032636166145)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
