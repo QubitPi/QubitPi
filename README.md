@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] Is there any paper comparing classification, detection and segmentation?](https://www.reddit.com/r/MachineLearning/comments/yoe68b/research_is_there_any_paper_comparing/)
 - [[D] What&#39;s the best speech to speech deep fake voice project?](https://www.reddit.com/r/MachineLearning/comments/yod87n/d_whats_the_best_speech_to_speech_deep_fake_voice/)
 - [[D] Git Re-Basin Paper Accused of Misinformation](https://www.reddit.com/r/MachineLearning/comments/yo5e4v/d_git_rebasin_paper_accused_of_misinformation/)
 - [[P] Stable-diffusion&#39;s implementation of Paint-with-words : method from NVIDIA that generates images from text-labeled segmentation map.](https://www.reddit.com/r/MachineLearning/comments/yo23b9/p_stablediffusions_implementation_of/)
 - [[P] Transcribe any podcast episode in just 1 minute with optimized OpenAI/whisper](https://www.reddit.com/r/MachineLearning/comments/ynz4m1/p_transcribe_any_podcast_episode_in_just_1_minute/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/yntyhz/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
