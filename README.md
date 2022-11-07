@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Chapter Two of an Introduction to Tsetlin Machines is Out!](https://www.reddit.com/r/MachineLearning/comments/yojicy/p_chapter_two_of_an_introduction_to_tsetlin/)
 - [[D] Understanding Syntactic divergence](https://www.reddit.com/r/MachineLearning/comments/yoj1t4/d_understanding_syntactic_divergence/)
 - [[D] On the spot normalization for batch based runtime](https://www.reddit.com/r/MachineLearning/comments/yohol9/d_on_the_spot_normalization_for_batch_based/)
 - [HinSage Model Doubt [D], [P]](https://www.reddit.com/r/MachineLearning/comments/yohbs5/hinsage_model_doubt_d_p/)
 - [[D] Any real world case scenario CNN object recognition with Python/Tensorflow solutions out there?](https://www.reddit.com/r/MachineLearning/comments/yofi75/d_any_real_world_case_scenario_cnn_object/)
-- [[D] Fighting Microsoft Copilot: The No-AI 3-Clause License](https://www.reddit.com/r/MachineLearning/comments/yoevid/d_fighting_microsoft_copilot_the_noai_3clause/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
