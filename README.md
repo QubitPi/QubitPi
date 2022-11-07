@@ -533,11 +533,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Manning Publications: 📢FREE eBook📢 #GraphQL—your key to creating modern full-stack applications! In Full Stack GraphQL Applications @lyonwj ...](https://twitter.com/ManningBooks/status/1589664856520769536)
+- [Are you in #Europe, The #MiddleEast, or #Africa? This is the perfect #NODES2022 AGENDA. Find beginner, intermediate and advanced talks; the talks you ...](https://twitter.com/neo4j/status/1589634158514544641)
+- [RT Hack2skill: The Neo4j Online #Developer Education Summit &lpar;#NODES2022&rpar; is back🥳with its 24-hour #globalconference⏱️ ✨Reserve your seat now: �...](https://twitter.com/hack2skill/status/1589599546430353410)
 - [5 ways to solve data challenges with graph technology: Accelerate problem-solving with Neo4j Graph Database Download the quick guide to learn more &gt; #...](https://twitter.com/neo4j/status/1589588513955221504)
 - [If you are registered to our online graph conference #NODES2020 and want a chance for $500 to host a viewing party with friends Invite all your friend...](https://twitter.com/neo4j/status/1589581556884328448)
-- [RT Sefik Ilkin Serengil: See you on Nov 16 @neo4j nodes 2022 event 👋](https://twitter.com/serengil/status/1589574876385677313)
-- [RT Michael Hunger 🇪🇺 🇺🇦: 9 DAYS TO GO! I can&#39;t wait for #NODES2022 So many technical talks by great speakers from around the world for 500...](https://twitter.com/mesirii/status/1589561065276596225)
-- [Today starts the @gartner_sym and we will be there! Meet our team in Barcelona and discover the value of connected data. #gartner #GartnerSYM #Neo4j @...](https://twitter.com/neo4j/status/1589543397496332289)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
