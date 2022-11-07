@@ -326,10 +326,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[D] At what tasks are models better than humans given the same amount of data?](https://www.reddit.com/r/MachineLearning/comments/youplu/d_at_what_tasks_are_models_better_than_humans/)
-- [[D] Where to find an image processing and ML engineer for a new project](https://www.reddit.com/r/MachineLearning/comments/yoqq1d/d_where_to_find_an_image_processing_and_ml/)
 - [[P] COCO captions translation to Nepali using Meta AI&#39;s NLLB model](https://www.reddit.com/r/MachineLearning/comments/yoo44p/p_coco_captions_translation_to_nepali_using_meta/)
 - [[D] Do you think there is a competitive future for smaller, locally trained/served models?](https://www.reddit.com/r/MachineLearning/comments/yon48p/d_do_you_think_there_is_a_competitive_future_for/)
 - [[R] Meta Labeling Architectures](https://www.reddit.com/r/MachineLearning/comments/yokuid/r_meta_labeling_architectures/)
+- [[D] Understanding Syntactic divergence](https://www.reddit.com/r/MachineLearning/comments/yoj1t4/d_understanding_syntactic_divergence/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
