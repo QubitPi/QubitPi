@@ -515,11 +515,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1589642083916054528)
 - [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1589606817771954176)
 - [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1589572125077213184)
 - [Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointing iss...](https://twitter.com/memgraphdb/status/1589565376530370560)
 - [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1589562310355558404)
-- [&quot;It&#39;s been almost three years since we became a 100% remote company, and guess what? It works! Check out how we recreated our informal daily interacti...](https://twitter.com/memgraphdb/status/1589533849176117248)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
