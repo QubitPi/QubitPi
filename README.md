@@ -429,7 +429,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 * [Infrastructure as Code (IaC)](https://qubitpi.github.io/aergia/blog/iac-intro)
 
 <!-- AERGIA-BLOGS:START -->
-
+- [Introduction to Infrastructure as Code &lpar;IaC&rpar;](https://qubitpi.github.io/aergia/blog/iac-intro)
+- [Chef Intro](https://qubitpi.github.io/aergia/blog/chef-intro)
+- [Ruby Essentials](https://qubitpi.github.io/aergia/blog/ruby)
+- [Chef Workstation](https://qubitpi.github.io/aergia/blog/chef-workstation)
+- [Chef](https://qubitpi.github.io/aergia/blog/chef)
 <!-- AERGIA-BLOGS:END -->
 
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
