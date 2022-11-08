@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] It it possible to save my conversations with customers in order to continuously train &amp; develop a ML program that can compose original responses for me?](https://www.reddit.com/r/MachineLearning/comments/yp9ydl/d_it_it_possible_to_save_my_conversations_with/)
+- [[D] Trending research in Transformers](https://www.reddit.com/r/MachineLearning/comments/yp9v7j/d_trending_research_in_transformers/)
 - [[D] Medium Article: How to code Temporal Distribution Characterization &lpar;TDC&rpar; for time series?](https://www.reddit.com/r/MachineLearning/comments/yozm3n/d_medium_article_how_to_code_temporal/)
 - [[D] At what tasks are models better than humans given the same amount of data?](https://www.reddit.com/r/MachineLearning/comments/youplu/d_at_what_tasks_are_models_better_than_humans/)
 - [[P] COCO captions translation to Nepali using Meta AI&#39;s NLLB model](https://www.reddit.com/r/MachineLearning/comments/yoo44p/p_coco_captions_translation_to_nepali_using_meta/)
-- [[D] Do you think there is a competitive future for smaller, locally trained/served models?](https://www.reddit.com/r/MachineLearning/comments/yon48p/d_do_you_think_there_is_a_competitive_future_for/)
-- [[R] Meta Labeling Architectures](https://www.reddit.com/r/MachineLearning/comments/yokuid/r_meta_labeling_architectures/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
