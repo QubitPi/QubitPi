@@ -533,11 +533,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [🎬 Big Data LDN 2022 Seminar: See Kristof Neys&#39; talk about How Graph #DataScience Can Turbocharge Your #KnowledgeGraph. #Neo4j](https://twitter.com/neo4j/status/1589860291424264192)
 - [What is a Graph Database? 👀 We are real when we say Graphs are Everywhere. Learn more: #Neo4j #Graphdatabase #GraphTechnology](https://twitter.com/neo4j/status/1589739539798450177)
 - [RT Ben Lackey: This video discusses how @neo4j runs on @googlecloud. We cover how graph data science works with Vertex AI to create novel features.](https://twitter.com/benofben/status/1589705303997952003)
 - [RT Manning Publications: 📢FREE eBook📢 #GraphQL—your key to creating modern full-stack applications! In Full Stack GraphQL Applications @lyonwj ...](https://twitter.com/ManningBooks/status/1589664856520769536)
 - [Are you in #Europe, The #MiddleEast, or #Africa? This is the perfect #NODES2022 AGENDA. Find beginner, intermediate and advanced talks; the talks you ...](https://twitter.com/neo4j/status/1589634158514544641)
+- [RT Hack2skill: The Neo4j Online #Developer Education Summit &lpar;#NODES2022&rpar; is back🥳with its 24-hour #globalconference⏱️ ✨Reserve your seat now: �...](https://twitter.com/hack2skill/status/1589599546430353410)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
