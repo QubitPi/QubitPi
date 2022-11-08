@@ -515,11 +515,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1590089782906204161)
+- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher](https://twitter.com/memgraphdb/status/1590084688047378432)
 - [Check out our blog post 📰 Importing Table Data into a Graph Database with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1590021994921304065)
 - [If a recommendation engine built on relational databases is falling apart due to the bottlenecks made by complex JOINs and never-ending schema changes...](https://twitter.com/memgraphdb/status/1589953414439792640)
 - [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1589920211947249665)
-- [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1589914629849092098)
-- [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1589804773909598209)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
