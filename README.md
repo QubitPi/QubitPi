@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Resources geared towards deep video understanding?](https://www.reddit.com/r/MachineLearning/comments/ypzlkm/d_resources_geared_towards_deep_video/)
 - [[D] Academia: The highest funded plagiarist is also an AI ethicist](https://www.reddit.com/r/MachineLearning/comments/ypzbp5/d_academia_the_highest_funded_plagiarist_is_also/)
 - [[R] Adversarial Examples of Go AIs &lpar;NeurIPS 2022&rpar;](https://www.reddit.com/r/MachineLearning/comments/ypyk75/r_adversarial_examples_of_go_ais_neurips_2022/)
 - [[D] Is there anything like beam search with BERT?](https://www.reddit.com/r/MachineLearning/comments/ypxyud/d_is_there_anything_like_beam_search_with_bert/)
 - [[Project] PixelRNN](https://www.reddit.com/r/MachineLearning/comments/ypx4aw/project_pixelrnn/)
-- [[P] NLP Job Postings Project Volunteer Opportunity](https://www.reddit.com/r/MachineLearning/comments/ypw918/p_nlp_job_postings_project_volunteer_opportunity/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
