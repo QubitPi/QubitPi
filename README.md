@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Stability.ai AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ypnujk/n_stabilityai_ama_on_november_15/)
+- [[D] Is there a model that can extract product features from an image?](https://www.reddit.com/r/MachineLearning/comments/ypnlmg/d_is_there_a_model_that_can_extract_product/)
+- [[D] using a classifier after leave one out without retraining on independent dataset](https://www.reddit.com/r/MachineLearning/comments/ypnkx6/d_using_a_classifier_after_leave_one_out_without/)
 - [[Discussion] How to add a class for None of the Above in a multilabel classification task?](https://www.reddit.com/r/MachineLearning/comments/ypm0ey/discussion_how_to_add_a_class_for_none_of_the/)
 - [can artificial intelligence machines have beliefs? [R] [P]](https://www.reddit.com/r/MachineLearning/comments/yplko0/can_artificial_intelligence_machines_have_beliefs/)
-- [[N] Interested in how to evaluate Artificial Intelligence? Join our Google Group.](https://www.reddit.com/r/MachineLearning/comments/ypkvid/n_interested_in_how_to_evaluate_artificial/)
-- [Pytorch Symbolic: an equivalent of Keras Functional API [Project]](https://www.reddit.com/r/MachineLearning/comments/ypkfwq/pytorch_symbolic_an_equivalent_of_keras/)
-- [[R] Boosting Graph Similarity Search through Pre-Computation | Proceedings of the 2021 International Conference on Management of Data](https://www.reddit.com/r/MachineLearning/comments/ypf9s4/r_boosting_graph_similarity_search_through/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
