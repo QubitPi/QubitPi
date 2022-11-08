@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] Pose Classification with Sound -- I need some very urgent help -- Anyone who can do t-SNE and PCA?](https://www.reddit.com/r/MachineLearning/comments/ypu8nm/project_pose_classification_with_sound_i_need/)
 - [ML Engineers and Web Devs Needed for Pro-Ukraine Project [Project]](https://www.reddit.com/r/MachineLearning/comments/yptrp0/ml_engineers_and_web_devs_needed_for_proukraine/)
 - [[R] Text8 dataset](https://www.reddit.com/r/MachineLearning/comments/yptou7/r_text8_dataset/)
 - [[D] Classification to predict imbalanced dataset with rare event?](https://www.reddit.com/r/MachineLearning/comments/ypq66d/d_classification_to_predict_imbalanced_dataset/)
 - [[R] How to run inference for encoder-decoder algorithm with teacher enforcement.](https://www.reddit.com/r/MachineLearning/comments/ypo4gz/r_how_to_run_inference_for_encoderdecoder/)
-- [[N] Stability.ai AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ypnujk/n_stabilityai_ama_on_november_15/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
