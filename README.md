@@ -599,11 +599,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [ProAgenda Website: Pricing Page](https://dribbble.com/shots/19786463)
 - [SafePal Social Media](https://dribbble.com/shots/19759260)
 - [Enterprise control panel | Dashboard Management](https://dribbble.com/shots/19765625)
-- [Figma Design System](https://dribbble.com/shots/19785217)
 - [Summer Break Wordmark Logo Concepts](https://dribbble.com/shots/19807402)
+- [Cruste Website](https://dribbble.com/shots/19812639)
+- [Geometric Landing](https://dribbble.com/shots/19825430)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
