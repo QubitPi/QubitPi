@@ -363,11 +363,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Binario Cloud | An OpenStack Case Study](https://superuser.openstack.org/articles/binario-cloud-an-openstack-case-study/)
 - [October 2022 Virtual PTG Summary](https://superuser.openstack.org/articles/october-2022-virtual-ptg-summary/)
 - [Learnings from Organizing an OpenInfra Meetup!](https://superuser.openstack.org/articles/learnings-from-organizing-an-openinfra-meetup/)
 - [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-49/)
 - [OpenStack Zed: The End of the Alphabet, The Beginning of a New Era | OpenInfra Live Recap](https://superuser.openstack.org/articles/openstack-zed-the-end-of-the-alphabet-the-beginning-of-a-new-era-openinfra-live-recap/)
-- [OpenStack Security: A Practical Guide](https://superuser.openstack.org/articles/openstack-security-a-practical-guide/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 #### [OpenStack Swift Docker Image](https://github.com/FNNDSC/docker-swift-onlyone) Updates
