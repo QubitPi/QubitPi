@@ -329,7 +329,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [[N] Stability.ai AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ypnujk/n_stabilityai_ama_on_november_15/)
 - [[D] Is there a model that can extract product features from an image?](https://www.reddit.com/r/MachineLearning/comments/ypnlmg/d_is_there_a_model_that_can_extract_product/)
 - [[D] using a classifier after leave one out without retraining on independent dataset](https://www.reddit.com/r/MachineLearning/comments/ypnkx6/d_using_a_classifier_after_leave_one_out_without/)
-- [[Discussion] How to add a class for None of the Above in a multilabel classification task?](https://www.reddit.com/r/MachineLearning/comments/ypm0ey/discussion_how_to_add_a_class_for_none_of_the/)
+- [[N] Interested in how to evaluate Artificial Intelligence? Join our Google Group.](https://www.reddit.com/r/MachineLearning/comments/ypkvid/n_interested_in_how_to_evaluate_artificial/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
