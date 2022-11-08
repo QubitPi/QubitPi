@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Text8 dataset](https://www.reddit.com/r/MachineLearning/comments/yptou7/r_text8_dataset/)
 - [[D] Classification to predict imbalanced dataset with rare event?](https://www.reddit.com/r/MachineLearning/comments/ypq66d/d_classification_to_predict_imbalanced_dataset/)
 - [[R] How to run inference for encoder-decoder algorithm with teacher enforcement.](https://www.reddit.com/r/MachineLearning/comments/ypo4gz/r_how_to_run_inference_for_encoderdecoder/)
 - [[N] Stability.ai AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ypnujk/n_stabilityai_ama_on_november_15/)
 - [[D] Is there a model that can extract product features from an image?](https://www.reddit.com/r/MachineLearning/comments/ypnlmg/d_is_there_a_model_that_can_extract_product/)
-- [[D] using a classifier after leave one out without retraining on independent dataset](https://www.reddit.com/r/MachineLearning/comments/ypnkx6/d_using_a_classifier_after_leave_one_out_without/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
