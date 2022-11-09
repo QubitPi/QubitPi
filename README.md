@@ -108,7 +108,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/726059080488058886><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0ee0f8cfd38617f3597c734961aa91e8401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/726376061956259846><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b44ef283f5a7c7544fcae2858e362db7401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@我是欧皇只存在梦中@得出来吗@灵骷顼熠等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/726059080488058886)
