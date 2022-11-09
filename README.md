@@ -535,11 +535,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 1: What Is Full Stack GraphQL?](https://www.youtube.com/watch?v=P6hXgvcuspg)
+- [Neo4j 5: Higher Speed with Automated Scale-out](https://www.youtube.com/watch?v=89Jk5dEXJIk)
 - [Neo4j Live: NODES Speaker Roundtable](https://www.youtube.com/watch?v=gNWEL3-E-j4)
 - [Neo4j Live: Graph Data Art](https://www.youtube.com/watch?v=9Fhcgxka0T4)
-- [Full Stack GraphQL Book Club - Chapter 1: What Is Full Stack GraphQL?](https://www.youtube.com/watch?v=P6hXgvcuspg)
 - [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://www.youtube.com/watch?v=c2qkJ0lTEaI)
-- [Road to NODES - Graph EDA Using the Neo4j GDS Client](https://www.youtube.com/watch?v=oG9InPntehQ)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
