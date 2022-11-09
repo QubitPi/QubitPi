@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Is there anyone who has been a requester on Amazon Mechanical Turk?](https://www.reddit.com/r/MachineLearning/comments/yqnt6c/discussion_is_there_anyone_who_has_been_a/)
 - [[D] Is there an advantage in learning when taking the average Gradient compared to the Gradient of just one point](https://www.reddit.com/r/MachineLearning/comments/yql3wl/d_is_there_an_advantage_in_learning_when_taking/)
 - [[Discussion] Could someone explain the math behind the number of distinct images that can be generated with a latent diffusion model?](https://www.reddit.com/r/MachineLearning/comments/yqjx2q/discussion_could_someone_explain_the_math_behind/)
 - [[D] w.T*X: Why do we transpose one of the matrices?](https://www.reddit.com/r/MachineLearning/comments/yqj687/d_wtx_why_do_we_transpose_one_of_the_matrices/)
 - [[D] Video: The New AI Model Licenses have a Legal Loophole &lpar;OpenRAIL-M of BLOOM, Stable Diffusion, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/yqj1hq/d_video_the_new_ai_model_licenses_have_a_legal/)
-- [[P] Serverless Jupyter Lab with GPUs and persistent storage](https://www.reddit.com/r/MachineLearning/comments/yqiymz/p_serverless_jupyter_lab_with_gpus_and_persistent/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
