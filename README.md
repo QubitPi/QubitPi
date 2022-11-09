@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] What is the machine learning way to automatically surfing any social media?](https://www.reddit.com/r/MachineLearning/comments/yqvc5m/d_what_is_the_machine_learning_way_to/)
-- [[D] [P] Hi, I&#39;ve been building a Auto subtitled video generator. Currently looking for collaborators experienced with flask/django, react and cloud deployment.](https://www.reddit.com/r/MachineLearning/comments/yqu206/d_p_hi_ive_been_building_a_auto_subtitled_video/)
+- [[D] Hi, I&#39;ve been building a Auto subtitled video generator. Currently looking for collaborators experienced with flask/django, react and cloud deployment.](https://www.reddit.com/r/MachineLearning/comments/yqvmw8/d_hi_ive_been_building_a_auto_subtitled_video/)
 - [[R] Neurosymbolic Programming for Science](https://www.reddit.com/r/MachineLearning/comments/yqsvol/r_neurosymbolic_programming_for_science/)
 - [[D] Best learning rate for fine tuning a pretained CNN](https://www.reddit.com/r/MachineLearning/comments/yqpo7l/d_best_learning_rate_for_fine_tuning_a_pretained/)
 - [[D] Is there an advantage in learning when taking the average Gradient compared to the Gradient of just one point](https://www.reddit.com/r/MachineLearning/comments/yql3wl/d_is_there_an_advantage_in_learning_when_taking/)
+- [[Discussion] Could someone explain the math behind the number of distinct images that can be generated with a latent diffusion model?](https://www.reddit.com/r/MachineLearning/comments/yqjx2q/discussion_could_someone_explain_the_math_behind/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
