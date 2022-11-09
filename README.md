@@ -580,11 +580,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Multiple Mastodon Accounts](https://martinfowler.com/articles/exploring-mastodon.html#multiple-mastodon-accounts)
 - [Your organization should run its own Mastodon server](https://martinfowler.com/articles/your-org-run-mastodon.html)
 - [An appeal to Americans who aren&#39;t inclined to vote in the midterm              elections](https://martinfowler.com/articles/2022-midterm-vote.html)
 - [Twitter feed now cross-posts to Mastodon](https://martinfowler.com/articles/exploring-mastodon.html#twitter-feed-to-mastodon-is-now-working)
 - [Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
-- [Bliki: ConwaysLaw](https://martinfowler.com/bliki/ConwaysLaw.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
