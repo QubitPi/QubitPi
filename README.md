@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Thank you all the Community Partners for joining us at #NODES2022! @DataUmbrella @foojayio @nyhackr @PyLadiesBer @Spain_AI @PyGhana @googledevgroups @...](https://twitter.com/neo4j/status/1590328532982456321)
 - [Announcing Graph Feature Engineering with @Neo4j and #Amazon SageMaker. Read more here: #AWS #Neo4j #GraphDataScience](https://twitter.com/neo4j/status/1590086828706742275)
 - [RT Tom Nijhof: Got my new blog out! Using #neo4j for making a #prediction #algorithm to predict a #chemical - #cell interaction!](https://twitter.com/wagenrace/status/1590081085513179137)
 - [#GraphSummit brings you the experts of #GraphTechnology to your city! Next stop: Seattle!📍 Don&#39;t miss these and other talks. Register now! #Graphsu...](https://twitter.com/neo4j/status/1590032933720625153)
 - [RT GraphAware - we&#39;re hiring!: Want to bring order to your unstructured data? Join Federica and Alessia in their session and power up your Keyword Dis...](https://twitter.com/graph_aware/status/1590007743100112901)
+- [Neo4j Live: NODES Speaker Roundtable w/ @st3llasia @dgg32 @owen_brierley @dekel_paz](https://twitter.com/neo4j/status/1590007741833445380)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
