@@ -474,11 +474,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Join CTO @joerg_schad at the @TMLS_TO on November 28th, 2022. 🔥 Grab your tickets today. 🥑](https://twitter.com/arangodb/status/1590479368760922112)
 - [Join us tomorrow for our kube-arangodb webinar! 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, l...](https://twitter.com/arangodb/status/1590388763578236929)
 - [Learn more on who&#39;s who in Data Science 🔥 Explore the specialized roles and skillsets needed for the different #datascience tasks and the best tool...](https://twitter.com/arangodb/status/1590116982497624064)
 - [Our graph course got an upgrade! 👀🔥 Learn more about graph databases with our 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗚𝗿𝗮...](https://twitter.com/arangodb/status/1590026392988954626)
 - [Did you join Kaveh Vahedipour for his wealth of knowledge on ArangoDB clusters? If not, don&#39;t worry. We have you covered with our latest webinar avail...](https://twitter.com/arangodb/status/1589754594594275329)
+- [This week, join us for our kube-arangodb webinar! 🔥 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects,...](https://twitter.com/arangodb/status/1589663983505637380)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
