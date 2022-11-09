@@ -600,8 +600,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [SafePal Social Media](https://dribbble.com/shots/19759260)
-- [Cruste Website](https://dribbble.com/shots/19812639)
 - [Summer Break Wordmark Logo Concepts](https://dribbble.com/shots/19807402)
+- [Cruste Website](https://dribbble.com/shots/19812639)
 - [Crypto City / Web site design](https://dribbble.com/shots/19829812)
 - [Geometric Landing](https://dribbble.com/shots/19825430)
 <!-- DRIBBBLE-TRENDING:END -->
