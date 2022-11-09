@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We announced today the general availability of Neo4j 5, the next-generation cloud-ready graph data platform. Read the press release here: #Neo4j5 #Neo...](https://twitter.com/neo4j/status/1590464312577069058)
 - [RT HealthECCO: We had a small community meeting this week @BioTechX_ - @AJarasch &amp; @vincent_vialard meeting @neo4j stand - let us know if you are arou...](https://twitter.com/HealthECCO/status/1590392776314724356)
 - [What Is Graph Embedding? How to Solve Bigger Problems at Scale - by Scott M. Fulton, III, Head of Developer Organic Marketing at #Neo4j #GraphEmbeddin...](https://twitter.com/neo4j/status/1590388910496047104)
 - [RT VentureBeat: Graph platform @Neo4j today announced the general availability of Neo4j 5, the latest version of its cloud-ready #graphdatabase. See h...](https://twitter.com/VentureBeat/status/1590386354424348701)
 - [Neo4j 5 has arrived! 🚀 We’re excited to announce the next generation of Neo4j Graph Database. 👉Faster performance, unbounded scale, and unmatch...](https://twitter.com/neo4j/status/1590359837535342592)
-- [Full Stack GraphQL Book Club - Chapter 1: What Is Full Stack GraphQL? w/ @lyonwj](https://twitter.com/neo4j/status/1590354911606484994)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
