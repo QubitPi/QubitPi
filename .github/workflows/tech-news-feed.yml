@@ -183,20 +183,7 @@ jobs:
           comment_tag_name: "JENKINS-DOC-CHANGES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/github/file/jenkins-infra/jenkins.io/master/content"
-          template: "<li>$date <a href=$url>$title</a></li>"   
-  aergia-blogs:
-    name: Aergia Blogs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Aergia blogs"
-          comment_tag_name: "AERGIA-BLOGS"
-          max_post_count: "5"
-          feed_list: "https://qubitpi.github.io/aergia/blog/atom.xml"           
+          template: "<li>$date <a href=$url>$title</a></li>"         
 
   lets-encrypt-blog:
     name: Let's Encrypt Blog
