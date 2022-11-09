@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️](https://twitter.com/memgraphdb/status/1590238368092196864)
+- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1590230820966408192)
+- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1590230386927288320)
+- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1590225948732956672)
 - [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1590169909715030017)
-- [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1590159081670463488)
-- [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1590155825506836480)
-- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1590089782906204161)
-- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher](https://twitter.com/memgraphdb/status/1590084688047378432)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
