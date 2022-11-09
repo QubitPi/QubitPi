@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1590447677367586824)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #graphdatabase #memgraphdb #database #sql #nosql](https://twitter.com/memgraphdb/status/1590411901544157185)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1590376060478058496)
 - [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1590364443988594690)
 - [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1590348678908112896)
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1590344522956873729)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
