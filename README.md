@@ -341,7 +341,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [5 reasons why refining your Product Backlog is worth the time](https://www.scrum.org/resources/blog/5-reasons-why-refining-your-product-backlog-worth-time)
+- [5 Reasons why Refining your Product Backlog is Worth the Time](https://www.scrum.org/resources/blog/5-reasons-why-refining-your-product-backlog-worth-time)
 - [Product Owner &amp; Product Manager Salary Report 2022](https://www.scrum.org/resources/blog/product-owner-product-manager-salary-report-2022)
 - [A DONUT for Product Owners, unchaining them from Authority Restraints](https://www.scrum.org/resources/blog/donut-product-owners-unchaining-them-authority-restraints)
 - [Wertgetriebene Entwicklung: Eine einfache Anleitung, wie du Features priorisierst und Stakeholder zufriedenstellst](https://www.scrum.org/resources/blog/wertgetriebene-entwicklung-eine-einfache-anleitung-wie-du-features-priorisierst-und)
