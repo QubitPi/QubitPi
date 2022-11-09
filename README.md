@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Modern Forecasting in Practice with Jan Gasthaus &lpar;AWS&rpar; and Tim Januschowski &lpar;Zalando&rpar;](https://www.reddit.com/r/MachineLearning/comments/yq3lkc/d_modern_forecasting_in_practice_with_jan/)
+- [[P] Open source project using ML to help you create more efficient search algorithms 1k+ Github Stars](https://www.reddit.com/r/MachineLearning/comments/yq3hpv/p_open_source_project_using_ml_to_help_you_create/)
 - [[R] Evaluation of SSL on existing sleep stage classification models](https://www.reddit.com/r/MachineLearning/comments/yq1wye/r_evaluation_of_ssl_on_existing_sleep_stage/)
 - [[P] Ransomware detection using ML. We need your suggestions to create a better model!](https://www.reddit.com/r/MachineLearning/comments/yq10sd/p_ransomware_detection_using_ml_we_need_your/)
 - [[D] Group based activity to teach basics](https://www.reddit.com/r/MachineLearning/comments/yq0jha/d_group_based_activity_to_teach_basics/)
-- [[D] What does it mean for an AI to understand? &lpar;Chinese Room Argument&rpar; - MLST Video](https://www.reddit.com/r/MachineLearning/comments/yq06d5/d_what_does_it_mean_for_an_ai_to_understand/)
-- [[D] Resources geared towards deep video understanding?](https://www.reddit.com/r/MachineLearning/comments/ypzlkm/d_resources_geared_towards_deep_video/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
