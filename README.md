@@ -111,11 +111,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/726376061956259846><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b44ef283f5a7c7544fcae2858e362db7401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #智巧灵蕈大竞逐# 亲爱的旅行者，全新活动「智巧灵蕈大竞逐」即将开启！某位须弥学者借助神秘富商的支持，举办了一场奇妙的「驯兽师大赛」，正吸引着大量...](https://t.bilibili.com/726376061956259846)
 - [恭喜@我是欧皇只存在梦中@得出来吗@灵骷顼熠等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/726059080488058886)
 - [#原神# #智巧灵蕈大竞逐# 亲爱的旅行者，「智巧灵蕈大竞逐」活动即将开启~ 〓整体玩法时间〓 2022/11/10 10:00 ~ 2022/11/28 03:59 〓活动商店开启时间〓 2022/1...](https://t.bilibili.com/726030012165128198)
 - [恭喜@疯_羊@光耀圣龙神@御坂2575等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/725688029670277159)
 - [恭喜@红豆_鲷鱼烧@kiana薪火相传@神奇香螺等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/725687995314733091)
-- [互动抽奖 #原神# #古国守卫者# 古国守卫者——《原神》遗迹系列怪物创作的幕后 现已发布~ https://www.bilibili.com/video/BV14P4y1U7DY 从提瓦特大陆上随处可见...](https://t.bilibili.com/725660468870381568)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
