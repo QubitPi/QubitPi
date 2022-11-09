@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] We need to stop reviewer 2 in ICLR](https://www.reddit.com/r/MachineLearning/comments/yq4qjg/d_we_need_to_stop_reviewer_2_in_iclr/)
-- [[D] Modern Forecasting in Practice with Jan Gasthaus &lpar;AWS&rpar; and Tim Januschowski &lpar;Zalando&rpar;](https://www.reddit.com/r/MachineLearning/comments/yq3lkc/d_modern_forecasting_in_practice_with_jan/)
-- [[P] Open source project using ML to help you create more efficient search algorithms 1k+ Github Stars](https://www.reddit.com/r/MachineLearning/comments/yq3hpv/p_open_source_project_using_ml_to_help_you_create/)
+- [[D] How to parallelize training over devices?](https://www.reddit.com/r/MachineLearning/comments/yq70kt/d_how_to_parallelize_training_over_devices/)
 - [[R] Evaluation of SSL on existing sleep stage classification models](https://www.reddit.com/r/MachineLearning/comments/yq1wye/r_evaluation_of_ssl_on_existing_sleep_stage/)
-- [[P] Ransomware detection using ML. We need your suggestions to create a better model!](https://www.reddit.com/r/MachineLearning/comments/yq10sd/p_ransomware_detection_using_ml_we_need_your/)
+- [[D] What does it mean for an AI to understand? &lpar;Chinese Room Argument&rpar; - MLST Video](https://www.reddit.com/r/MachineLearning/comments/yq06d5/d_what_does_it_mean_for_an_ai_to_understand/)
+- [[R] Adversarial Examples of Go AIs &lpar;NeurIPS 2022&rpar;](https://www.reddit.com/r/MachineLearning/comments/ypyk75/r_adversarial_examples_of_go_ais_neurips_2022/)
+- [[D] Is there anything like beam search with BERT?](https://www.reddit.com/r/MachineLearning/comments/ypxyud/d_is_there_anything_like_beam_search_with_bert/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
