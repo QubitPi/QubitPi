@@ -594,8 +594,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Cruste Website](https://dribbble.com/shots/19812639)
 - [Crypto City / Web site design](https://dribbble.com/shots/19829812)
 - [Sinport - Singapore Airport navigation app](https://dribbble.com/shots/19842259)
-- [Summer Break Wordmark Logo Concepts](https://dribbble.com/shots/19807402)
 - [ProAgenda Website Illustrations](https://dribbble.com/shots/19814206)
+- [Summer Break Wordmark Logo Concepts](https://dribbble.com/shots/19807402)
 <!-- DRIBBBLE-TRENDING:END -->
 
 Git Data Analytics - Everything is Datable
