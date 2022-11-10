@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We just launched Neo4j 5 and we’re so excited! 💥 Want to know more about this new release? Check this video out! #Neo4j5 #Neo4j #Graphdatabase](https://twitter.com/neo4j/status/1590660614741004289)
 - [Tomaz Bratanic demonstrates how to build a custom-tailored information extraction pipeline with spaCy and store the results in Neo4j. Read the article...](https://twitter.com/neo4j/status/1590511325976969216)
 - [Re @ikwattro Thanks for sharing Christophe. Great highlights. And for the readiness of Hume!](https://twitter.com/neo4j/status/1590482032685371393)
 - [We announced today the general availability of Neo4j 5, the next-generation cloud-ready graph data platform. Read the press release here: #Neo4j5 #Neo...](https://twitter.com/neo4j/status/1590464312577069058)
 - [RT HealthECCO: We had a small community meeting this week @BioTechX_ - @AJarasch &amp; @vincent_vialard meeting @neo4j stand - let us know if you are arou...](https://twitter.com/HealthECCO/status/1590392776314724356)
-- [What Is Graph Embedding? How to Solve Bigger Problems at Scale - by Scott M. Fulton, III, Head of Developer Organic Marketing at #Neo4j #GraphEmbeddin...](https://twitter.com/neo4j/status/1590388910496047104)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
