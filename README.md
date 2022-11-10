@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1590523032170561538)
+- [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1590496335442186240)
 - [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1590447677367586824)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #graphdatabase #memgraphdb #database #sql #nosql](https://twitter.com/memgraphdb/status/1590411901544157185)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1590376060478058496)
-- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1590364443988594690)
-- [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1590348678908112896)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
