@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://twitter.com/neo4j/status/1590732466629009408)
-- [RT Tomaz Bratanic: Want to investigate how are the Game of Thrones characters related to the House of Dragon? Learn how to interactively analyze and v...](https://twitter.com/tb_tomaz/status/1590726614723489799)
 - [RT Florent Biville: I Know What *We* Did Last Summer 😏 We fixed a design issue in the Bolt protocol for @neo4j , read about it here: Kudos to @Rouv...](https://twitter.com/fbiville/status/1590707068641882114)
-- [RT Mark Needham: I&#39;m reading for #nodes2022! P.S. Thanks for the jumper @alexandererdl 😎](https://twitter.com/markhneedham/status/1590694951285055489)
 - [#TBT to this great article: SQL is a powerful query language, but there are some things that just make more sense in Cypher. #Neo4j #GraphDatabase #Cy...](https://twitter.com/neo4j/status/1590693267120726017)
+- [RT Adam Cowley: Want to learn how to use Neo4j with TypeScript? Try our completely free hands-on course with live coding challenges in your browser.](https://twitter.com/adamcowley/status/1590668880518975490)
+- [We just launched Neo4j 5 and we’re so excited! 💥 Want to know more about this new release? Check this video out! #Neo4j5 #Neo4j #Graphdatabase](https://twitter.com/neo4j/status/1590660614741004289)
+- [RT Christophe Willemsen: Want to spin up a @neo4j 5 cluster with 3 primaries and 2 secondaries in seconds ? Check out my @Docker compose example that ...](https://twitter.com/ikwattro/status/1590642293215997952)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
