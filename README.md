@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] LiBai: a large-scale open-source model training toolbox](https://www.reddit.com/r/MachineLearning/comments/yr3yod/r_libai_a_largescale_opensource_model_training/)
 - [[R] Neurosymbolic Programming for Science](https://www.reddit.com/r/MachineLearning/comments/yqsvol/r_neurosymbolic_programming_for_science/)
 - [[D] Best learning rate for fine tuning a pretained CNN](https://www.reddit.com/r/MachineLearning/comments/yqpo7l/d_best_learning_rate_for_fine_tuning_a_pretained/)
 - [[D] Is there an advantage in learning when taking the average Gradient compared to the Gradient of just one point](https://www.reddit.com/r/MachineLearning/comments/yql3wl/d_is_there_an_advantage_in_learning_when_taking/)
 - [[Discussion] Could someone explain the math behind the number of distinct images that can be generated with a latent diffusion model?](https://www.reddit.com/r/MachineLearning/comments/yqjx2q/discussion_could_someone_explain_the_math_behind/)
-- [[D] Video: The New AI Model Licenses have a Legal Loophole &lpar;OpenRAIL-M of BLOOM, Stable Diffusion, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/yqj1hq/d_video_the_new_ai_model_licenses_have_a_legal/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
