@@ -381,11 +381,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [New in Docker Desktop 4.14: Greater Visibility Into Your Containers](https://www.docker.com/blog/docker-desktop-4-14-greater-visibility/)
 - [Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
 - [Developing Go Apps With Docker](https://www.docker.com/blog/developing-go-apps-docker/)
 - [Announcing Docker Hub OCI Artifacts Support](https://www.docker.com/blog/announcing-docker-hub-oci-artifacts-support/)
 - [Docker Captain Take 5 — Nelson](https://www.docker.com/blog/docker-captain-take-5-nelson/)
-- [Security Advisory: High Severity OpenSSL Vulnerabilities](https://www.docker.com/blog/security-advisory-critical-openssl-vulnerability/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
