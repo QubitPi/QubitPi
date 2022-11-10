@@ -436,7 +436,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
-- [Building Enterprise CI/CD](https://qubitpi.github.io/jersey-guide/finalized/2022/10/12/enterprise-ci-cd.html)
+- [Jenkins Reference Guide](https://qubitpi.github.io/aergia/blog/jenkins-reference)
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
