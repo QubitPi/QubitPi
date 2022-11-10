@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Rob Brennan: It&#39;s official. I&#39;m in and ready to enjoy @neo4j GraphSummit: Seattle 🎉](https://twitter.com/therobbrennan/status/1590801219408506880)
+- [RT Jason Koo: New to Graphs? Next week I&#39;ll be hosting a tour through the current Graph Database landscape during #Nodes2022 - including when you shou...](https://twitter.com/jalakoo/status/1590781446943145984)
+- [RT Arcurve Inc.: Mike and Peter are giving a presentation at NODES 2022, @neo4j‘s online developer education summit. Tune in to check it out! Registe...](https://twitter.com/arcurve/status/1590766992989904896)
 - [RT Jason Koo: &#39;Introducing Neo4j 5 for Admins&#39; by @stegemanoracle and @StuM00re next week during #Nodes2022. For more info:](https://twitter.com/jalakoo/status/1590736184724144134)
 - [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://twitter.com/neo4j/status/1590732466629009408)
-- [RT Tomaz Bratanic: Want to investigate how are the Game of Thrones characters related to the House of Dragon? Learn how to interactively analyze and v...](https://twitter.com/tb_tomaz/status/1590726614723489799)
-- [RT Florent Biville: I Know What *We* Did Last Summer 😏 We fixed a design issue in the Bolt protocol for @neo4j , read about it here: Kudos to @Rouv...](https://twitter.com/fbiville/status/1590707068641882114)
-- [RT Mark Needham: I&#39;m reading for #nodes2022! P.S. Thanks for the jumper @alexandererdl 😎](https://twitter.com/markhneedham/status/1590694951285055489)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
