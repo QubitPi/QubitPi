@@ -327,9 +327,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[Discussion] Binary classifier False-positive rate estimate](https://www.reddit.com/r/MachineLearning/comments/yrhjmd/discussion_binary_classifier_falsepositive_rate/)
 - [[R] A relabelling of the COCO 2017 dataset](https://www.reddit.com/r/MachineLearning/comments/yrfzcf/r_a_relabelling_of_the_coco_2017_dataset/)
-- [[P] Spectroscopic Characterisation and ML Modules - Any Language - Advice Needed](https://www.reddit.com/r/MachineLearning/comments/yrewyf/p_spectroscopic_characterisation_and_ml_modules/)
+- [[R] An optimal control perspective on diffusion-based generative modeling](https://www.reddit.com/r/MachineLearning/comments/yresn4/r_an_optimal_control_perspective_on/)
+- [[D] Alternatives to padding](https://www.reddit.com/r/MachineLearning/comments/yrdp48/d_alternatives_to_padding/)
 - [[R] Vector database for dense vector embeddings in a nutshell](https://www.reddit.com/r/MachineLearning/comments/yr89ip/r_vector_database_for_dense_vector_embeddings_in/)
-- [[R] LiBai: a large-scale open-source model training toolbox](https://www.reddit.com/r/MachineLearning/comments/yr3yod/r_libai_a_largescale_opensource_model_training/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
