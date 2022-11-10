@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] deodel - a mixed attributes classifier](https://www.reddit.com/r/MachineLearning/comments/yruuis/p_deodel_a_mixed_attributes_classifier/)
 - [[Discussion] Can we train with multiple sources of data, some very reliable, others less so?](https://www.reddit.com/r/MachineLearning/comments/yrjjql/discussion_can_we_train_with_multiple_sources_of/)
 - [[Discussion] Binary classifier False-positive rate estimate](https://www.reddit.com/r/MachineLearning/comments/yrhjmd/discussion_binary_classifier_falsepositive_rate/)
 - [[R] A relabelling of the COCO 2017 dataset](https://www.reddit.com/r/MachineLearning/comments/yrfzcf/r_a_relabelling_of_the_coco_2017_dataset/)
 - [[R] An optimal control perspective on diffusion-based generative modeling](https://www.reddit.com/r/MachineLearning/comments/yresn4/r_an_optimal_control_perspective_on/)
-- [[D] Alternatives to padding](https://www.reddit.com/r/MachineLearning/comments/yrdp48/d_alternatives_to_padding/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
