@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] A relabelling of the COCO 2017 dataset](https://www.reddit.com/r/MachineLearning/comments/yrfzcf/r_a_relabelling_of_the_coco_2017_dataset/)
 - [[P] Spectroscopic Characterisation and ML Modules - Any Language - Advice Needed](https://www.reddit.com/r/MachineLearning/comments/yrewyf/p_spectroscopic_characterisation_and_ml_modules/)
 - [[R] Vector database for dense vector embeddings in a nutshell](https://www.reddit.com/r/MachineLearning/comments/yr89ip/r_vector_database_for_dense_vector_embeddings_in/)
 - [[R] LiBai: a large-scale open-source model training toolbox](https://www.reddit.com/r/MachineLearning/comments/yr3yod/r_libai_a_largescale_opensource_model_training/)
 - [[R] Neurosymbolic Programming for Science](https://www.reddit.com/r/MachineLearning/comments/yqsvol/r_neurosymbolic_programming_for_science/)
-- [[D] Best learning rate for fine tuning a pretained CNN](https://www.reddit.com/r/MachineLearning/comments/yqpo7l/d_best_learning_rate_for_fine_tuning_a_pretained/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
