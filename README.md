@@ -135,7 +135,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 </div>
 
 <div align="center">
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187884178-66d88bf4-b7d2-4f34-bce6-d8b8ef4d5742.png">
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/201351281-9cc1640e-113c-41e1-adc4-ac91d38f8552.png">
 
 **I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in [Design](https://www.behance.net/jack20191124) and [Persuasion](https://trello.com/b/Ce84JiYh)**.
 
