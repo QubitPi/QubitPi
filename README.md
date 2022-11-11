@@ -509,11 +509,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We just released #Neo4j5 and @linked_do talks with @jimwebber about this! Don&#39;t miss this Spotify episode: #Neo4j #Graphdatabase](https://twitter.com/neo4j/status/1591068245527855106)
 - [5 DAYS UNTIL #NODES2022!👀 WHAT?! Register for FREE for this amazing #graph event and learn from the experts! #Neo4j #onlineconference #GraphTechnol...](https://twitter.com/neo4j/status/1591023070764216320)
 - [RT JUG Saxony: Heute stellen wir Euch das Video zum #Vortrag von Michael Hunger &lpar;@mesirii – @neo4j&rpar; vor, in dem er sich beim 9. #JUGSaxonyDay mit dem...](https://twitter.com/jugsaxony/status/1590974896813006848)
 - [RT Towards Data Science: Combining the power of graph data-science algorithms and Wikipedia data, Peder Ward aims to find the most efficient solutions...](https://twitter.com/TDataScience/status/1590910939653619712)
 - [RT Jason Koo: Next week my fellow San Diegan &lpar;and mind-blowingly smart friend&rpar; @soulcamp, will convince you to consider using a Graph Database in your...](https://twitter.com/jalakoo/status/1590887172034494465)
-- [RT Rob Brennan: It&#39;s official. I&#39;m in and ready to enjoy @neo4j GraphSummit: Seattle 🎉](https://twitter.com/therobbrennan/status/1590801219408506880)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
