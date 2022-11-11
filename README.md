@@ -309,11 +309,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Gatekeeping](https://www.reddit.com/r/MachineLearning/comments/yse7cs/d_gatekeeping/)
 - [[D] AI Hackathon - $50,000 in prizes!](https://www.reddit.com/r/MachineLearning/comments/yse66x/d_ai_hackathon_50000_in_prizes/)
 - [[D] Current Job Market in ML](https://www.reddit.com/r/MachineLearning/comments/ysc7gs/d_current_job_market_in_ml/)
 - [[D] Is there any implementation of Faster RCNN in JAX/Flax/Haiku?](https://www.reddit.com/r/MachineLearning/comments/ysc131/d_is_there_any_implementation_of_faster_rcnn_in/)
 - [[D] Timm&#39;s implementation of stochastic depth](https://www.reddit.com/r/MachineLearning/comments/ysah21/d_timms_implementation_of_stochastic_depth/)
-- [[D] Regularization &amp; augmentation for NLP finetuning](https://www.reddit.com/r/MachineLearning/comments/ys974h/d_regularization_augmentation_for_nlp_finetuning/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
