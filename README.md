@@ -507,11 +507,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1590880438557757440)
+- [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1590871484691406848)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1590831303003439104)
 - [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1590790100404867083)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1590763418604433408)
-- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1590730484161519616)
-- [Thank you @andygrove_io for such nice words about the products that we are building at #memgraph.](https://twitter.com/memgraphdb/status/1590648947315724292)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
