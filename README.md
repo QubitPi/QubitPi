@@ -309,11 +309,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Playing Atari Pong on a Microcontroller](https://www.reddit.com/r/MachineLearning/comments/ysiin1/p_playing_atari_pong_on_a_microcontroller/)
 - [[N] AWS SageMaker JumpStart now provide Stable Diffusion and Bloom models and TensorFlow Text Classification algorithms](https://www.reddit.com/r/MachineLearning/comments/yshjkw/n_aws_sagemaker_jumpstart_now_provide_stable/)
 - [[D]We just release a complete open-source solution for accelerating Stable Diffusion pretraining and fine-tuning!](https://www.reddit.com/r/MachineLearning/comments/ysfimk/dwe_just_release_a_complete_opensource_solution/)
 - [[D] AI Hackathon - $50,000 in prizes!](https://www.reddit.com/r/MachineLearning/comments/yse66x/d_ai_hackathon_50000_in_prizes/)
 - [[D] Current Job Market in ML](https://www.reddit.com/r/MachineLearning/comments/ysc7gs/d_current_job_market_in_ml/)
-- [[D] Is there any implementation of Faster RCNN in JAX/Flax/Haiku?](https://www.reddit.com/r/MachineLearning/comments/ysc131/d_is_there_any_implementation_of_faster_rcnn_in/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
