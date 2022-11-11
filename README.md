@@ -325,11 +325,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [What does your Team Optimize For?](https://www.scrum.org/resources/blog/what-does-your-team-optimize)
 - [The importance of Done for your Developers 🚀 &lpar;76&rpar;](https://www.scrum.org/resources/blog/importance-done-your-developers-76)
 - [Product Owner &amp; Produktmanager Gehaltsreport 2022 🇩🇪](https://www.scrum.org/resources/blog/product-owner-produktmanager-gehaltsreport-2022)
 - [5 Reasons why Refining your Product Backlog is Worth the Time](https://www.scrum.org/resources/blog/5-reasons-why-refining-your-product-backlog-worth-time)
 - [Product Owner &amp; Product Manager Salary Report 2022](https://www.scrum.org/resources/blog/product-owner-product-manager-salary-report-2022)
-- [A DONUT for Product Owners, unchaining them from Authority Restraints](https://www.scrum.org/resources/blog/donut-product-owners-unchaining-them-authority-restraints)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
