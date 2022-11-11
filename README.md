@@ -144,20 +144,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ---
 
-### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
-
-<img align="left" width="25%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/188263295-701ee6ab-b0d5-4716-9907-99f7393e2d66.png">
-
-<!-- DESIGN-POST-LIST:START -->
-- [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
-- [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
-- [[Design Practice] Vector Peach](https://www.behance.net/gallery/150091831/Design-Practice-Vector-Peach)
-- [[Design Practice] Paper Cut Out Effect](https://www.behance.net/gallery/149929601/Design-Practice-Paper-Cut-Out-Effect)
-- [[Design Practice] 3D Isometric Illustration](https://www.behance.net/gallery/149824473/Design-Practice-3D-Isometric-Illustration)
-<!-- DESIGN-POST-LIST:END -->
-
----
-
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
 >    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
 ></a>
@@ -595,6 +581,18 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Notes Pro mobile app](https://dribbble.com/shots/19851196)
 - [SayNoToLow – Cross-channel Business Analytics and Banking App](https://dribbble.com/shots/19850513)
 <!-- DRIBBBLE-TRENDING:END -->
+
+### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
+
+<img align="left" width="25%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/188263295-701ee6ab-b0d5-4716-9907-99f7393e2d66.png">
+
+<!-- DESIGN-POST-LIST:START -->
+- [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
+- [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
+- [[Design Practice] Vector Peach](https://www.behance.net/gallery/150091831/Design-Practice-Vector-Peach)
+- [[Design Practice] Paper Cut Out Effect](https://www.behance.net/gallery/149929601/Design-Practice-Paper-Cut-Out-Effect)
+- [[Design Practice] 3D Isometric Illustration](https://www.behance.net/gallery/149824473/Design-Practice-3D-Isometric-Illustration)
+<!-- DESIGN-POST-LIST:END -->
 
 Git Data Analytics - Everything is Datable
 ------------------------------------------
