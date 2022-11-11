@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/> Welome to Jack (Jiaqi)'s GitHub Page <img src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/>
+<img src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/>
+<img src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/>
+
+<img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
+Welome to Jack (Jiaqi)'s GitHub Page
+    
 ========================================================================================================================================
 
 </div>
@@ -129,10 +134,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Trump Part 13 - Medicare and Social Security &amp; Closing Statements] The Third Presidential Debate](https://www.youtube.com/watch?v=e3IqN8mc-0Q)
 - [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
 <!-- YOUTUBE-CHANNEL:END -->
-
-<div align="right">
-<img align="right" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
-</div>
 
 <img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201352047-2aa3e06e-e502-4129-8c0f-ef1ea9252967.png">
 
