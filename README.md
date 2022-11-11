@@ -509,11 +509,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Conway&#39;s Game of Life in Neo4j? Conway&#39;s Game of Life in @Neo4j. by Rik Van Bruggen. #Neo4j #GraphDatabase #Database](https://twitter.com/neo4j/status/1591101478462177280)
 - [We just released #Neo4j5 and @linked_do talks with @jimwebber about this! Don&#39;t miss this Spotify episode: #Neo4j #Graphdatabase](https://twitter.com/neo4j/status/1591068245527855106)
 - [5 DAYS UNTIL #NODES2022!👀 WHAT?! Register for FREE for this amazing #graph event and learn from the experts! #Neo4j #onlineconference #GraphTechnol...](https://twitter.com/neo4j/status/1591023070764216320)
+- [RT HealthECCO: 37 talks on #knowledge and 6 on #healthcare take place at #NODES2022 next week. Of course we are particularly excited about @dagmarwalt...](https://twitter.com/HealthECCO/status/1591004835758981120)
 - [RT JUG Saxony: Heute stellen wir Euch das Video zum #Vortrag von Michael Hunger &lpar;@mesirii – @neo4j&rpar; vor, in dem er sich beim 9. #JUGSaxonyDay mit dem...](https://twitter.com/jugsaxony/status/1590974896813006848)
-- [RT Towards Data Science: Combining the power of graph data-science algorithms and Wikipedia data, Peder Ward aims to find the most efficient solutions...](https://twitter.com/TDataScience/status/1590910939653619712)
-- [RT Jason Koo: Next week my fellow San Diegan &lpar;and mind-blowingly smart friend&rpar; @soulcamp, will convince you to consider using a Graph Database in your...](https://twitter.com/jalakoo/status/1590887172034494465)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
