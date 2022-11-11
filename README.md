@@ -310,10 +310,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[D] Question collection thread for Stability AI’s upcoming AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ysmwvt/d_question_collection_thread_for_stability_ais/)
-- [[D] ML-Powered Search resources by Doug Turnbull &lpar;Shopify&rpar;](https://www.reddit.com/r/MachineLearning/comments/ysmg6n/d_mlpowered_search_resources_by_doug_turnbull/)
-- [Trying to find a way to extract a specific speaker&#39;s audio from a set of video files [P]](https://www.reddit.com/r/MachineLearning/comments/yslql3/trying_to_find_a_way_to_extract_a_specific/)
 - [[P] teex: a toolbox for the evaluation of ML explanations](https://www.reddit.com/r/MachineLearning/comments/yskpj6/p_teex_a_toolbox_for_the_evaluation_of_ml/)
 - [[P] Playing Atari Pong on a Microcontroller](https://www.reddit.com/r/MachineLearning/comments/ysiin1/p_playing_atari_pong_on_a_microcontroller/)
+- [[N] AWS SageMaker JumpStart now provide Stable Diffusion and Bloom models and TensorFlow Text Classification algorithms](https://www.reddit.com/r/MachineLearning/comments/yshjkw/n_aws_sagemaker_jumpstart_now_provide_stable/)
+- [[D]We just release a complete open-source solution for accelerating Stable Diffusion pretraining and fine-tuning!](https://www.reddit.com/r/MachineLearning/comments/ysfimk/dwe_just_release_a_complete_opensource_solution/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
