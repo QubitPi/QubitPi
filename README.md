@@ -88,13 +88,13 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/187872966-88068925-5163-4d70-ab8b-1dcd879022f6.gif">
+<img align="right" width="30%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV17D4y1t74j><img src=http://i1.hdslb.com/bfs/archive/d0142002066a2eed192aed026a42ce9f5752ecf1.png width='10%'></a> <a href=https://www.bilibili.com/video/BV17D4y1t74j>《原神》过场动画-「折枝落梦」</a><br><a href=https://www.bilibili.com/video/BV1k24y1f72C><img src=http://i0.hdslb.com/bfs/archive/13e9c49d75d6a87df867331ff343dba19381be7e.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1k24y1f72C>真假草神</a><br><a href=https://www.bilibili.com/video/BV1yK411m7uE><img src=http://i1.hdslb.com/bfs/archive/477a65a4ab4e21d6e54b51f1b29ddf17c6b5c8bd.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1yK411m7uE>刻 晴 的 战 前 宣 言</a><br><a href=https://www.bilibili.com/video/BV148411h7tf><img src=http://i2.hdslb.com/bfs/archive/21658445c8a6ee8c704ee3002a8cee5a792f40f0.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV148411h7tf>全 部 都 是 我</a><br><a href=https://www.bilibili.com/video/BV12V4y137BU><img src=http://i1.hdslb.com/bfs/archive/844162bb9e144d68f592ea51f954ee933f622a5e.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV12V4y137BU>【像素原神】逃跑的太阳与须弥的月亮</a><br><!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 ---
 
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
+<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187879546-c846a0f4-c65d-4cf9-bead-570cb2a60d72.gif">
 
 ### Latest Genshin Impact News
 
