@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT JUG Saxony: Heute stellen wir Euch das Video zum #Vortrag von Michael Hunger &lpar;@mesirii – @neo4j&rpar; vor, in dem er sich beim 9. #JUGSaxonyDay mit dem...](https://twitter.com/jugsaxony/status/1590974896813006848)
-- [RT Towards Data Science: Combining the power of graph data-science algorithms and Wikipedia data, Peder Ward aims to find the most efficient solutions...](https://twitter.com/TDataScience/status/1590910939653619712)
-- [RT Jason Koo: Next week my fellow San Diegan &lpar;and mind-blowingly smart friend&rpar; @soulcamp, will convince you to consider using a Graph Database in your...](https://twitter.com/jalakoo/status/1590887172034494465)
 - [RT Rob Brennan: It&#39;s official. I&#39;m in and ready to enjoy @neo4j GraphSummit: Seattle 🎉](https://twitter.com/therobbrennan/status/1590801219408506880)
 - [RT Jason Koo: New to Graphs? Next week I&#39;ll be hosting a tour through the current Graph Database landscape during #Nodes2022 - including when you shou...](https://twitter.com/jalakoo/status/1590781446943145984)
+- [RT Arcurve Inc.: Mike and Peter are giving a presentation at NODES 2022, @neo4j‘s online developer education summit. Tune in to check it out! Registe...](https://twitter.com/arcurve/status/1590766992989904896)
+- [RT Jason Koo: &#39;Introducing Neo4j 5 for Admins&#39; by @stegemanoracle and @StuM00re next week during #Nodes2022. For more info:](https://twitter.com/jalakoo/status/1590736184724144134)
+- [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://twitter.com/neo4j/status/1590732466629009408)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
