@@ -458,11 +458,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [It&#39;s not too late to join in on all the fun at ArangoDB Summit! 🥑 Get up to speed on the latest news from ArangoDB today with the on-demand recordi...](https://twitter.com/arangodb/status/1591113551552270336)
 - [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑](https://twitter.com/arangodb/status/1590841754353532931)
 - [In one hour, learn more about kube-arangodb! 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, lett...](https://twitter.com/arangodb/status/1590766245485641728)
 - [Join CTO @joerg_schad at the @TMLS_TO on November 28th, 2022. 🔥 Grab your tickets today. 🥑](https://twitter.com/arangodb/status/1590479368760922112)
 - [Join us tomorrow for our kube-arangodb webinar! 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, l...](https://twitter.com/arangodb/status/1590388763578236929)
-- [Learn more on who&#39;s who in Data Science 🔥 Explore the specialized roles and skillsets needed for the different #datascience tasks and the best tool...](https://twitter.com/arangodb/status/1590116982497624064)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
