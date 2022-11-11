@@ -327,11 +327,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] ZerO Initialization: Initializing Neural Networks with only Zeros and Ones](https://www.reddit.com/r/MachineLearning/comments/ys36do/r_zero_initialization_initializing_neural/)
 - [[P] deodel - a mixed attributes classifier](https://www.reddit.com/r/MachineLearning/comments/yruuis/p_deodel_a_mixed_attributes_classifier/)
 - [[D] &quot;Grokking&quot; Deep Learning architectures and using them in practice](https://www.reddit.com/r/MachineLearning/comments/yrsqcz/d_grokking_deep_learning_architectures_and_using/)
 - [[Discussion] Suggestions on how to annotate X-ray images with only radiology reports available](https://www.reddit.com/r/MachineLearning/comments/yroqlt/discussion_suggestions_on_how_to_annotate_xray/)
 - [[Discussion] Can we train with multiple sources of data, some very reliable, others less so?](https://www.reddit.com/r/MachineLearning/comments/yrjjql/discussion_can_we_train_with_multiple_sources_of/)
-- [[Discussion] Binary classifier False-positive rate estimate](https://www.reddit.com/r/MachineLearning/comments/yrhjmd/discussion_binary_classifier_falsepositive_rate/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
