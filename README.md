@@ -327,11 +327,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Regularization &amp; augmentation for NLP finetuning](https://www.reddit.com/r/MachineLearning/comments/ys974h/d_regularization_augmentation_for_nlp_finetuning/)
 - [[D] Can modern AI learn, store, and reuse structured knowledge?](https://www.reddit.com/r/MachineLearning/comments/ys7y2p/d_can_modern_ai_learn_store_and_reuse_structured/)
 - [[P] Survival analysis](https://www.reddit.com/r/MachineLearning/comments/ys71pc/p_survival_analysis/)
 - [[D]Transformers!](https://www.reddit.com/r/MachineLearning/comments/ys6pve/dtransformers/)
 - [[P] Using MediaPipe in production](https://www.reddit.com/r/MachineLearning/comments/ys5huu/p_using_mediapipe_in_production/)
-- [[N] 2 new workshops from the AWS team related to Machine Learning and AWS Graviton](https://www.reddit.com/r/MachineLearning/comments/ys593n/n_2_new_workshops_from_the_aws_team_related_to/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
