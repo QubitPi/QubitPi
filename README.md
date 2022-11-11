@@ -134,13 +134,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
 <!-- YOUTUBE-CHANNEL:END -->
 
-<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201352047-2aa3e06e-e502-4129-8c0f-ef1ea9252967.png">
-
-<div align="right">
+<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png">
 
 **I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in [Design](https://www.behance.net/jack20191124) and [Persuasion](https://trello.com/b/Ce84JiYh)**.
-
-</div>
 
 ---
 
