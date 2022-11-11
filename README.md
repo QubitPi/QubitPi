@@ -134,9 +134,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
 </div>
 
-<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201351281-9cc1640e-113c-41e1-adc4-ac91d38f8552.png">
+<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201352047-2aa3e06e-e502-4129-8c0f-ef1ea9252967.png">
 
-<div align="center">
+<div align="right">
 
 **I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together. I also believe that the world tomorrow belongs to [right-brainers](https://www.danpink.com/books/whole-new-mind/), those who are creative and excel in [Design](https://www.behance.net/jack20191124) and [Persuasion](https://trello.com/b/Ce84JiYh)**.
 
