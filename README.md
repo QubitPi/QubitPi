@@ -491,11 +491,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1591507463517671425)
+- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1591499535003648003)
 - [Check out our blog post 📰 Ship it on #ARM64! Or is it #AARCH64? ➡️](https://twitter.com/memgraphdb/status/1591472404316004352)
 - [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1591443374992941056)
 - [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1591403941186502656)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1591383122007838720)
-- [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1591249590749388800)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
