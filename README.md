@@ -309,7 +309,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Any algorithm to get coordinates of classified face?](https://www.reddit.com/r/MachineLearning/comments/yt1oa6/p_any_algorithm_to_get_coordinates_of_classified/)
+- [Relative representations enable zero-shot latent space communication](https://www.reddit.com/r/MachineLearning/comments/yt6slt/relative_representations_enable_zeroshot_latent/)
 - [[D] Question collection thread for Stability AI’s upcoming AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ysmwvt/d_question_collection_thread_for_stability_ais/)
 - [[P] teex: a toolbox for the evaluation of ML explanations](https://www.reddit.com/r/MachineLearning/comments/yskpj6/p_teex_a_toolbox_for_the_evaluation_of_ml/)
 - [[P] Playing Atari Pong on a Microcontroller](https://www.reddit.com/r/MachineLearning/comments/ysiin1/p_playing_atari_pong_on_a_microcontroller/)
