@@ -578,8 +578,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Crypto City / Web site design](https://dribbble.com/shots/19829812)
 - [Sinport - Singapore Airport navigation app](https://dribbble.com/shots/19842259)
 - [Geometric Landing](https://dribbble.com/shots/19825430)
-- [Notes Pro mobile app](https://dribbble.com/shots/19851196)
 - [SayNoToLow – Cross-channel Business Analytics and Banking App](https://dribbble.com/shots/19850513)
+- [Notes Pro mobile app](https://dribbble.com/shots/19851196)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
