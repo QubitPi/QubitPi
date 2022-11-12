@@ -309,11 +309,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[N] Discussing Various Flavors of Gradient Descent &lpar;+ K-Means Clustering&rpar;](https://www.reddit.com/r/MachineLearning/comments/yt2zqa/n_discussing_various_flavors_of_gradient_descent/)
 - [[P] Any algorithm to get coordinates of classified face?](https://www.reddit.com/r/MachineLearning/comments/yt1oa6/p_any_algorithm_to_get_coordinates_of_classified/)
 - [[D] Question collection thread for Stability AI’s upcoming AMA on November 15](https://www.reddit.com/r/MachineLearning/comments/ysmwvt/d_question_collection_thread_for_stability_ais/)
 - [[P] teex: a toolbox for the evaluation of ML explanations](https://www.reddit.com/r/MachineLearning/comments/yskpj6/p_teex_a_toolbox_for_the_evaluation_of_ml/)
 - [[P] Playing Atari Pong on a Microcontroller](https://www.reddit.com/r/MachineLearning/comments/ysiin1/p_playing_atari_pong_on_a_microcontroller/)
+- [[N] AWS SageMaker JumpStart now provide Stable Diffusion and Bloom models and TensorFlow Text Classification algorithms](https://www.reddit.com/r/MachineLearning/comments/yshjkw/n_aws_sagemaker_jumpstart_now_provide_stable/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
