@@ -491,11 +491,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1591249590749388800)
+- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1591248718078119945)
+- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1591247404644257792)
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1591235059574530051)
 - [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1591152940362125312)
-- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1591125246282563584)
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1591098904317083648)
-- [Real-time analytics can answer queries within seconds, making it possible for data science teams to understand relationships, automate processes, and ...](https://twitter.com/memgraphdb/status/1591026705732435969)
-- [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1591016887391031296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
