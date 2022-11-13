@@ -309,11 +309,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Unifying Diffusion Models&#39; Latent Space, with Applications to CycleDiffusion and Guidance + Diffusers and Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/ytwygr/r_unifying_diffusion_models_latent_space_with/)
+- [[P] Gradio app for English-to-Nepali translation](https://www.reddit.com/r/MachineLearning/comments/ytwxck/p_gradio_app_for_englishtonepali_translation/)
 - [[D] Parsing query intent and filters](https://www.reddit.com/r/MachineLearning/comments/ytw7ci/d_parsing_query_intent_and_filters/)
 - [[R] detrex 0.2.0 release: New baselines for DETR models](https://www.reddit.com/r/MachineLearning/comments/ytvy3i/r_detrex_020_release_new_baselines_for_detr_models/)
 - [[N] Explainer Dashboard in-depth explained](https://www.reddit.com/r/MachineLearning/comments/ytumv1/n_explainer_dashboard_indepth_explained/)
-- [[D] When was the last time you wrote a custom neural net?](https://www.reddit.com/r/MachineLearning/comments/yto34q/d_when_was_the_last_time_you_wrote_a_custom/)
-- [[N] Vision-Language Pre-training: Basics, Recent Advances, and Future Trends - Microsoft 2022 - 102 Pages!](https://www.reddit.com/r/MachineLearning/comments/ytmb2v/n_visionlanguage_pretraining_basics_recent/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
