@@ -491,11 +491,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1591655661145825280)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1591643317691121665)
-- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1591637841766776837)
 - [Check out our blog post 📰 Understanding how Dynamic #Node2Vec Works on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1591582695590854656)
 - [🎓 #Memgraph presents graph algorithms: Bipartite matching 🗒️ A bipartite graph is a graph in which we can divide vertices into two independent ...](https://twitter.com/memgraphdb/status/1591567283112943616)
+- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1591561393974956033)
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1591507463517671425)
+- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1591499535003648003)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
