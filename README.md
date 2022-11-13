@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [A deep understanding of social networks can be used to create an artificial tipping point, changing population behavior by fostering behavioral cascad...](https://twitter.com/neo4j/status/1591776407935385602)
 - [The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zones - there will be tr...](https://twitter.com/neo4j/status/1591414774801235975)
 - [RT Gerrit Meier: Yeay, finally a new video. This time about testing with #testcontainers in general and of course also the #neo4j module. Hope the con...](https://twitter.com/meistermeier/status/1591204206731751424)
 - [Conway&#39;s Game of Life in Neo4j? Conway&#39;s Game of Life in @Neo4j. by Rik Van Bruggen. #Neo4j #GraphDatabase #Database](https://twitter.com/neo4j/status/1591101478462177280)
 - [We just released #Neo4j5 and @linked_do talks with @jimwebber about this! Don&#39;t miss this Spotify episode: #Neo4j #Graphdatabase](https://twitter.com/neo4j/status/1591068245527855106)
+- [5 DAYS UNTIL #NODES2022!👀 WHAT?! Register for FREE for this amazing #graph event and learn from the experts! #Neo4j #onlineconference #GraphTechnol...](https://twitter.com/neo4j/status/1591023070764216320)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
