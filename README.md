@@ -309,11 +309,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [can i use firebase to train and deploy ml model ?[Research][Project]](https://www.reddit.com/r/MachineLearning/comments/yts4hk/can_i_use_firebase_to_train_and_deploy_ml_model/)
 - [[D] When was the last time you wrote a custom neural net?](https://www.reddit.com/r/MachineLearning/comments/yto34q/d_when_was_the_last_time_you_wrote_a_custom/)
 - [[N] Vision-Language Pre-training: Basics, Recent Advances, and Future Trends - Microsoft 2022 - 102 Pages!](https://www.reddit.com/r/MachineLearning/comments/ytmb2v/n_visionlanguage_pretraining_basics_recent/)
 - [[D] underwater image enhancement for classification](https://www.reddit.com/r/MachineLearning/comments/ytjfy4/d_underwater_image_enhancement_for_classification/)
 - [[R] Coreference Resolution Dataset](https://www.reddit.com/r/MachineLearning/comments/ytj009/r_coreference_resolution_dataset/)
+- [[P] &quot;Numbers to Names&quot; provides a new way to explore Holocaust photo and video archives through AI/ML by helping family members, researchers &amp; historians identify faces in photo collections from the late-1800s into the post-war period.](https://www.reddit.com/r/MachineLearning/comments/ytge5t/p_numbers_to_names_provides_a_new_way_to_explore/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
