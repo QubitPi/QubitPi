@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Questions about making a career change into ML](https://www.reddit.com/r/MachineLearning/comments/yu3loh/d_questions_about_making_a_career_change_into_ml/)
 - [[P] FastDeploy: Awesome AI model deployment toolkits.&lpar;support 150+ Text,Vision,Speech AI models, provide an Easy-to-use API for deploying CV model,&lpar;For example: three lines of core code can deploy the YOLO series model&rpar;,support deployment among server, mobile, embedded and IoT devices&rpar;](https://www.reddit.com/r/MachineLearning/comments/yu3ew8/p_fastdeploy_awesome_ai_model_deployment/)
 - [[D] Looking for a book recommendation to accompany Andrew Ng Deep learning course.](https://www.reddit.com/r/MachineLearning/comments/yu0adp/d_looking_for_a_book_recommendation_to_accompany/)
 - [[R] Unifying Diffusion Models&#39; Latent Space, with Applications to CycleDiffusion and Guidance + Diffusers and Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/ytwygr/r_unifying_diffusion_models_latent_space_with/)
 - [[P] Gradio app for English-to-Nepali translation](https://www.reddit.com/r/MachineLearning/comments/ytwxck/p_gradio_app_for_englishtonepali_translation/)
-- [[R] detrex 0.2.0 release: New baselines for DETR models](https://www.reddit.com/r/MachineLearning/comments/ytvy3i/r_detrex_020_release_new_baselines_for_detr_models/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
