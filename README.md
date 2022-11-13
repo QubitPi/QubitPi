@@ -220,7 +220,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fili&show_owner=true&theme=vue)](https://github.com/QubitPi/fili)<img src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png" alt="可莉" width="15%">
+[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fili&show_owner=true&theme=vue)](https://github.com/QubitPi/fili)<img src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png" alt="可莉" width="20%">
 
 <img src="https://user-images.githubusercontent.com/16126939/196371238-20cbb9c6-0ab2-4f13-ad4c-2f5d8c90a9e3.png" alt="可莉" width="15%">&nbsp;
 &nbsp;
