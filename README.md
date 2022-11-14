@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We are getting closer to #NODES2022 and we want you to be prepared! If you miss the Road to NODES workshops, take a look at this hands-on crash course...](https://twitter.com/neo4j/status/1592215937536741378)
-- [RT Jason Koo: In 48 hours, #Nodes2022 will open with a great keynote by @NAChristakis - where he&#39;ll illustrate how social networks create new populati...](https://twitter.com/jalakoo/status/1592185647355154432)
 - [Discover AuraDB with @mesirii - NODES 2022 Special Edition](https://twitter.com/neo4j/status/1592167219592843264)
 - [Want to learn more about #Neo4j5? #NODES2022 is your chance. Register for FREE here: #Neo4j @neo4j](https://twitter.com/neo4j/status/1592149927353786374)
 - [Watch this interview from the series, Architecting with Google Cloud, and learn how #Neo4j - the first graph data science platform - gives its users a...](https://twitter.com/neo4j/status/1592144088316448768)
+- [RT Alexander Erdl: You know what? It is #NODES2022 this week! @mesirii and I will do a special #livestream today to take you through the highlights of...](https://twitter.com/alexandererdl/status/1592103295966814208)
+- [RT Sefik Ilkin Serengil: I&#39;ll be speaking at @Neo4j Nodes 2022 about Deep Face Recognition with Graphs on Nov 16 Wed 17:20 GMT. Join me, it&#39;s free, on...](https://twitter.com/serengil/status/1592100765874720768)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
