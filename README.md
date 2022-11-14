@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] I have been tasked with finding a way to be able to identify speakers among various audio files. Like lets say an audio file has a certain speaker and I want a model that can identify other audio files in which this specific speaker is speaking within my large collection of audio files.](https://www.reddit.com/r/MachineLearning/comments/yv7bd5/p_i_have_been_tasked_with_finding_a_way_to_be/)
-- [Kermit isn’t just a frog, but your one stop ML data management platform [P]](https://www.reddit.com/r/MachineLearning/comments/yv6rhk/kermit_isnt_just_a_frog_but_your_one_stop_ml_data/)
 - [[D] I Wrote a book &quot;Managing Machine Learning Projects&quot;](https://www.reddit.com/r/MachineLearning/comments/yv5ckv/d_i_wrote_a_book_managing_machine_learning/)
 - [[D] Determining semantic similarity for colloquial multilingual texts?](https://www.reddit.com/r/MachineLearning/comments/yun1ne/d_determining_semantic_similarity_for_colloquial/)
 - [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
+- [[Research] Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://www.reddit.com/r/MachineLearning/comments/yuk9ga/research_monolith_real_time_recommendation_system/)
+- [[Research] Can we possibly get access to large language models &lpar;PaLM 540B, etc&rpar; like GPT-3 but no cost?](https://www.reddit.com/r/MachineLearning/comments/yu8nna/research_can_we_possibly_get_access_to_large/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
