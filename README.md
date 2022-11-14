@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Watch this interview from the series, Architecting with Google Cloud, and learn how #Neo4j - the first graph data science platform - gives its users a...](https://twitter.com/neo4j/status/1592144088316448768)
-- [RT Alexander Erdl: You know what? It is #NODES2022 this week! @mesirii and I will do a special #livestream today to take you through the highlights of...](https://twitter.com/alexandererdl/status/1592103295966814208)
-- [RT Sefik Ilkin Serengil: I&#39;ll be speaking at @Neo4j Nodes 2022 about Deep Face Recognition with Graphs on Nov 16 Wed 17:20 GMT. Join me, it&#39;s free, on...](https://twitter.com/serengil/status/1592100765874720768)
 - [3 DAYS UNTIL #NODES2022!! Don&#39;t miss it!](https://twitter.com/neo4j/status/1591791039245082624)
 - [A deep understanding of social networks can be used to create an artificial tipping point, changing population behavior by fostering behavioral cascad...](https://twitter.com/neo4j/status/1591776407935385602)
+- [RT Michael Hunger 🇪🇺 🇺🇦: 🎉 Playing around with importing #mastodon #REST API data into #neo4j 🕸️ #WIP If you want to learn how to d...](https://twitter.com/mesirii/status/1591775208851005441)
+- [The Neo4j Online Developer Education Summit is coming soon! ✨ Join us for a live 24-hour event with sessions across all time zones - there will be tr...](https://twitter.com/neo4j/status/1591414774801235975)
+- [RT Gerrit Meier: Yeay, finally a new video. This time about testing with #testcontainers in general and of course also the #neo4j module. Hope the con...](https://twitter.com/meistermeier/status/1591204206731751424)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
