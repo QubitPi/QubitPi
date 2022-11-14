@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728254676353417257><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a28bfb503034cf4988e4423d102ff866401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728287906535309346><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66350194a04bcbd2178a3b3256b47f70401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@叶宝让我哭死@次时代最后的产物@ゲロゲロ太等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728287906535309346)
