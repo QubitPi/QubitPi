@@ -460,11 +460,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Graph is always done right with ArangoDB. 🔥🥑 In this webinar graph expert Markus Pfeiffer will explore the world of graphs with ArangoDB. Regist...](https://twitter.com/arangodb/status/1592200713345826816)
 - [Sometimes, you might be asking yourself how machines exactly learn with machine learning. 🤔 This article, written by Ravish Kumar for Enjoy Algorit...](https://twitter.com/arangodb/status/1591838318236295169)
 - [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1591445728697663488)
 - [Wrap up your week by learning why ArangoDB should be your Graph Database solution. 🥑😎 Check out why Cycode decided to go with ArangoDB with this...](https://twitter.com/arangodb/status/1591204146899738624)
 - [It&#39;s not too late to join in on all the fun at ArangoDB Summit! 🥑 Get up to speed on the latest news from ArangoDB today with the on-demand recordi...](https://twitter.com/arangodb/status/1591113551552270336)
+- [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑](https://twitter.com/arangodb/status/1590841754353532931)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
