@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
+- [[Research] Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://www.reddit.com/r/MachineLearning/comments/yuk9ga/research_monolith_real_time_recommendation_system/)
 - [[Research] Can we possibly get access to large language models &lpar;PaLM 540B, etc&rpar; like GPT-3 but no cost?](https://www.reddit.com/r/MachineLearning/comments/yu8nna/research_can_we_possibly_get_access_to_large/)
 - [[Discussion] Best practices for re-fitting Time Series Gradient Boosted model with latest data](https://www.reddit.com/r/MachineLearning/comments/yu7l5c/discussion_best_practices_for_refitting_time/)
 - [[D] ML/AI role as a disabled person](https://www.reddit.com/r/MachineLearning/comments/yu5ch3/d_mlai_role_as_a_disabled_person/)
-- [[P] FastDeploy: Awesome AI model deployment toolkits.&lpar;support 150+ Text,Vision,Speech AI models, provide an Easy-to-use API for deploying CV model,&lpar;For example: three lines of core code can deploy the YOLO series model&rpar;,support deployment among server, mobile, embedded and IoT devices&rpar;](https://www.reddit.com/r/MachineLearning/comments/yu3ew8/p_fastdeploy_awesome_ai_model_deployment/)
-- [[R] Unifying Diffusion Models&#39; Latent Space, with Applications to CycleDiffusion and Guidance + Diffusers and Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/ytwygr/r_unifying_diffusion_models_latent_space_with/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
