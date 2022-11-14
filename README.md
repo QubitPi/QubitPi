@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1592171078713069571)
+- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1592166602799300608)
 - [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1592094031097565184)
 - [How many graph database query languages do you use? Do you have a favorite one? #memgraph](https://twitter.com/memgraphdb/status/1592078009812586496)
 - [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1592063394919878657)
-- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1592022365059284992)
-- [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1592009950502567938)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
