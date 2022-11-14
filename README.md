@@ -54,8 +54,8 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr"><img width="80px" alt="宵宫" src="https://user-images.githubusercontent.com/16126939/185546834-96a832ef-4b2f-4608-a30c-2203dc2c9096.png"></a><a href="https://www.bilibili.com/video/BV1cA4y1Q7ux"><img width="64px" alt="可莉" src="https://user-images.githubusercontent.com/16126939/185545324-6d715e4f-e70d-4288-8cc4-062df5d917ea.png"></a><img width="64px" src="https://user-images.githubusercontent.com/16126939/185545446-1a03d218-45c2-4291-aa51-87bd5c9f6289.png"><img width="80px" src="https://user-images.githubusercontent.com/16126939/185549941-f3071a7b-0223-4df5-a347-19d86170c598.png"><img width="80px" src="https://user-images.githubusercontent.com/16126939/197099068-dea9efc1-59f2-490b-a22f-8c9ace13c2d9.png">
 
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="20%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/193050832-42c2b393-4fc6-4f86-adce-2cb6d3662b0b.png">
-</a>
+    <img align="center" width="15%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/193050832-42c2b393-4fc6-4f86-adce-2cb6d3662b0b.png">
+</a><img align="center" width="20%" alt="纳西妲" src="https://user-images.githubusercontent.com/16126939/201641670-05fdca3d-6a67-46ed-b492-b5ac1615c2e5.png">
 
 </div>
 
@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [How many graph database query languages do you use? Do you have a favorite one? #memgraph](https://twitter.com/memgraphdb/status/1592078009812586496)
+- [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1592063394919878657)
 - [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1592022365059284992)
 - [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1592009950502567938)
 - [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1591808603891064832)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1591798185906900992)
-- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1591787215360770054)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
