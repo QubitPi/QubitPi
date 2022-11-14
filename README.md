@@ -551,11 +551,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Re 5/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1592178544356249600)
-- [Re 4/ We’re excited to announce that @FairSquares completed their 3rd milestone as they work to create a more transparent &amp; fair housing market. Read...](https://twitter.com/Web3foundation/status/1592178542183591936)
-- [Re 3/ A shoutout to @LimeChainHQ who won and completed a new grant from W3F to research the feasibility of developing a Go Runtime framework for @Polk...](https://twitter.com/Web3foundation/status/1592178540015144960)
-- [Re 2/ Congratulations to @TapioProtocol for receiving its second grant from W3F as they work to enable XCM functionality on multiple levels for their ...](https://twitter.com/Web3foundation/status/1592178537876066311)
-- [1/ Web3 Foundation is celebrating the 16th round of grants accepted through its Grants Program. We’d like to take this opportunity to thank all of th...](https://twitter.com/Web3foundation/status/1592178535203893249)
+- [Re 5/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1592182406894784515)
+- [Re 4/ We’re excited to announce that @FairSquares completed their 3rd milestone as they work to create a more transparent &amp; fair housing market. Read...](https://twitter.com/Web3foundation/status/1592182404852387841)
+- [Re 3/ A shoutout to @LimeChainHQ who won and completed a new grant from W3F to research the feasibility of developing a Go Runtime framework for the @...](https://twitter.com/Web3foundation/status/1592182402784579584)
+- [Re 2/ Congratulations to @TapioProtocol for receiving its second grant from W3F as they work to enable XCM functionality on multiple levels for their ...](https://twitter.com/Web3foundation/status/1592182400607744010)
+- [1/ Web3 Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all ...](https://twitter.com/Web3foundation/status/1592182398376349696)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
