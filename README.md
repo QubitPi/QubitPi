@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Predicting the number of retweets of a given tweet](https://www.reddit.com/r/MachineLearning/comments/yv6eug/p_predicting_the_number_of_retweets_of_a_given/)
-- [[Project], [P] Need Help with Feature Selection after train test split](https://www.reddit.com/r/MachineLearning/comments/yv5zc8/project_p_need_help_with_feature_selection_after/)
+- [Kermit isn’t just a frog, but your one stop ML data management platform [P]](https://www.reddit.com/r/MachineLearning/comments/yv6rhk/kermit_isnt_just_a_frog_but_your_one_stop_ml_data/)
 - [[D] I Wrote a book &quot;Managing Machine Learning Projects&quot;](https://www.reddit.com/r/MachineLearning/comments/yv5ckv/d_i_wrote_a_book_managing_machine_learning/)
-- [[D] Need help with caption generating.](https://www.reddit.com/r/MachineLearning/comments/yv1mqw/d_need_help_with_caption_generating/)
-- [[R] Reward function for optimizing the average of two quantities in a continuous setting](https://www.reddit.com/r/MachineLearning/comments/yv1gfw/r_reward_function_for_optimizing_the_average_of/)
+- [[D] Determining semantic similarity for colloquial multilingual texts?](https://www.reddit.com/r/MachineLearning/comments/yun1ne/d_determining_semantic_similarity_for_colloquial/)
+- [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
+- [[Research] Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://www.reddit.com/r/MachineLearning/comments/yuk9ga/research_monolith_real_time_recommendation_system/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
