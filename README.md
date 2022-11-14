@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728254676353417257><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a28bfb503034cf4988e4423d102ff866401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@叶宝让我哭死@次时代最后的产物@ゲロゲロ太等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728287906535309346)
+- [恭喜@Pupp7et@后半夜@仕君丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728285587252969683)
+- [恭喜@loser永夜@Skathi_orca@木落归零_等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728285587233046658)
+- [恭喜@卡古拉sama@bpmf_@麟淋霖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728285587228852308)
 - [#原神# #画外旅照# 亲爱的旅行者，「画外旅照·青植之篇」活动即将开启~ 〓活动时间〓 2022/11/16 10:00 ~ 2022/12/05 03:59 〓参与条件〓 冒险等阶≥30级 完成...](https://t.bilibili.com/728254676353417257)
-- [恭喜@紫蔓瑶光@波风水门liv@纠缠-之缘等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/727914660987142151)
-- [恭喜@阿尔法qie@鲫鱼炖鼠汤@Xavier何等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/727543416904220822)
-- [#原神# #一加 Ace Pro 原神限定版# 《原神》「派蒙的画作一加手机联动篇」联动主题表情包即将上架~ 亲爱的旅行者，「派蒙的画作一加手机联动篇」联动主题表情包...](https://t.bilibili.com/727543412585136132)
-- [恭喜@荒梦藏烟渊@月下余音@怡怡子爱吃小橘等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/727172331717263505)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
