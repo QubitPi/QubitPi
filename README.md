@@ -311,7 +311,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Sieve: Process, search, and run AI models on video](https://www.reddit.com/r/MachineLearning/comments/yulmt6/p_sieve_process_search_and_run_ai_models_on_video/)
+- [[D] Determining semantic similarity for colloquial multilingual texts?](https://www.reddit.com/r/MachineLearning/comments/yun1ne/d_determining_semantic_similarity_for_colloquial/)
 - [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
 - [[Research] Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://www.reddit.com/r/MachineLearning/comments/yuk9ga/research_monolith_real_time_recommendation_system/)
 - [[Research] Can we possibly get access to large language models &lpar;PaLM 540B, etc&rpar; like GPT-3 but no cost?](https://www.reddit.com/r/MachineLearning/comments/yu8nna/research_can_we_possibly_get_access_to_large/)
