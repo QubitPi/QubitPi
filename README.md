@@ -288,11 +288,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
-- [Natural Language Assessment: A New Framework to Promote Education](http://ai.googleblog.com/2022/10/natural-language-assessment-new.html)
-- [Open Images V7 — Now Featuring Point Labels](http://ai.googleblog.com/2022/10/open-images-v7-now-featuring-point.html)
-- [Google at ECCV 2022](http://ai.googleblog.com/2022/10/google-at-eccv-2022.html)
-- [PI-ARS: Accelerating Evolution-Learned Visual-Locomotion with Predictive Information Representations](http://ai.googleblog.com/2022/10/pi-ars-accelerating-evolution-learned.html)
-- [MUSIQ: Assessing Image Aesthetic and Technical Quality with Multi-scale Transformers](http://ai.googleblog.com/2022/10/musiq-assessing-image-aesthetic-and.html)
+- [Characterizing Emergent Phenomena in Large Language Models](http://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
+- [Multi-layered Mapping of Brain Tissue via Segmentation Guided Contrastive Learning](http://ai.googleblog.com/2022/11/multi-layered-mapping-of-brain-tissue.html)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](http://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
+- [Infinite Nature: Generating 3D Flythroughs from Still Photos](http://ai.googleblog.com/2022/11/infinite-nature-generating-3d.html)
+- [Beyond Tabula Rasa: Reincarnating Reinforcement Learning](http://ai.googleblog.com/2022/11/beyond-tabula-rasa-reincarnating.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
