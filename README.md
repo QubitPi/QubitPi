@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Need help with this CNN transfer learning problem](https://www.reddit.com/r/MachineLearning/comments/yuxamo/p_need_help_with_this_cnn_transfer_learning/)
 - [[N] Awesome AI papers reviewed on Computer Vision News of November 2022](https://www.reddit.com/r/MachineLearning/comments/yurj5p/n_awesome_ai_papers_reviewed_on_computer_vision/)
 - [[R]What is actually weight and bias is?](https://www.reddit.com/r/MachineLearning/comments/yupzke/rwhat_is_actually_weight_and_bias_is/)
 - [[D] Determining semantic similarity for colloquial multilingual texts?](https://www.reddit.com/r/MachineLearning/comments/yun1ne/d_determining_semantic_similarity_for_colloquial/)
 - [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
-- [[Research] Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://www.reddit.com/r/MachineLearning/comments/yuk9ga/research_monolith_real_time_recommendation_system/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
