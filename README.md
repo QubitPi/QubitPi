@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/727914660987142151><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/929dede3982603a9cb9c26e95b1fd645401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728254676353417257><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a28bfb503034cf4988e4423d102ff866401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #画外旅照# 亲爱的旅行者，「画外旅照·青植之篇」活动即将开启~ 〓活动时间〓 2022/11/16 10:00 ~ 2022/12/05 03:59 〓参与条件〓 冒险等阶≥30级 完成...](https://t.bilibili.com/728254676353417257)
