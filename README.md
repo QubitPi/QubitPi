@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project], [P] Need Help with Feature Selection after train test split](https://www.reddit.com/r/MachineLearning/comments/yv5zc8/project_p_need_help_with_feature_selection_after/)
+- [[D] I Wrote a book &quot;Managing Machine Learning Projects&quot;](https://www.reddit.com/r/MachineLearning/comments/yv5ckv/d_i_wrote_a_book_managing_machine_learning/)
 - [[D] Need help with caption generating.](https://www.reddit.com/r/MachineLearning/comments/yv1mqw/d_need_help_with_caption_generating/)
 - [[R] Reward function for optimizing the average of two quantities in a continuous setting](https://www.reddit.com/r/MachineLearning/comments/yv1gfw/r_reward_function_for_optimizing_the_average_of/)
 - [looking for someone to train a dream booth model for a specific artist. The artist is NSFW and no longer active. I am willing to pay. DM me if you can help. [P]](https://www.reddit.com/r/MachineLearning/comments/yuzny6/looking_for_someone_to_train_a_dream_booth_model/)
-- [[P] Need help with my ML project which evaluates priorities](https://www.reddit.com/r/MachineLearning/comments/yuzcai/p_need_help_with_my_ml_project_which_evaluates/)
-- [[P] Need help with this CNN transfer learning problem](https://www.reddit.com/r/MachineLearning/comments/yuxamo/p_need_help_with_this_cnn_transfer_learning/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
