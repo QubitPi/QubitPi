@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is it legitimate for reviewers to ask you compare with papers that are not peer-reviewed?](https://www.reddit.com/r/MachineLearning/comments/yvkvgo/d_is_it_legitimate_for_reviewers_to_ask_you/)
 - [[P] 🔥 CleanRL has reached v1.0.0; Reworked documentation, JAX support, and more!](https://www.reddit.com/r/MachineLearning/comments/yvjm1r/p_cleanrl_has_reached_v100_reworked_documentation/)
 - [[D] Anything World - ML for Animation of 3D Models](https://www.reddit.com/r/MachineLearning/comments/yvdecm/d_anything_world_ml_for_animation_of_3d_models/)
 - [[D] I Wrote a book &quot;Managing Machine Learning Projects&quot;](https://www.reddit.com/r/MachineLearning/comments/yv5ckv/d_i_wrote_a_book_managing_machine_learning/)
 - [[D] Determining semantic similarity for colloquial multilingual texts?](https://www.reddit.com/r/MachineLearning/comments/yun1ne/d_determining_semantic_similarity_for_colloquial/)
-- [[D] Does anyone have a replacement for tf2up[dot]ml](https://www.reddit.com/r/MachineLearning/comments/yukxqv/d_does_anyone_have_a_replacement_for_tf2updotml/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
