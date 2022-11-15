@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;Recently, while working on a new feature for Neo4j GraphAcademy, I noticed an omission with the Neo4j JavaScript driver in TypeScript projects.&quot; &quot;Add...](https://twitter.com/neo4j/status/1592312700755136513)
 - [Are you a #Dev? Check out some of the #NODES2022 built for you. You are on time to register for FREE: @DaschnerS @WardCunningham @JMHReif #Neo4j #onli...](https://twitter.com/neo4j/status/1592250776197414916)
 - [We are getting closer to #NODES2022 and we want you to be prepared! If you miss the Road to NODES workshops, take a look at this hands-on crash course...](https://twitter.com/neo4j/status/1592215937536741378)
 - [RT Jason Koo: In 48 hours, #Nodes2022 will open with a great keynote by @NAChristakis - where he&#39;ll illustrate how social networks create new populati...](https://twitter.com/jalakoo/status/1592185647355154432)
 - [Discover AuraDB with @mesirii - NODES 2022 Special Edition](https://twitter.com/neo4j/status/1592167219592843264)
-- [Want to learn more about #Neo4j5? #NODES2022 is your chance. Register for FREE here: #Neo4j @neo4j](https://twitter.com/neo4j/status/1592149927353786374)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
