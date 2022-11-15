@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Camera settings for dataset collection](https://www.reddit.com/r/MachineLearning/comments/yvtelj/d_camera_settings_for_dataset_collection/)
 - [[Research] MinD-Vis: Seeing Beyond the Brain - Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://www.reddit.com/r/MachineLearning/comments/yvqz4t/research_mindvis_seeing_beyond_the_brain/)
 - [[P] Markov Chain Analysis of Tsetlin Machine Learning](https://www.reddit.com/r/MachineLearning/comments/yvq4g0/p_markov_chain_analysis_of_tsetlin_machine/)
 - [[D]Anyone here who works at Weils Institute at University of Michigan in DS/ML?](https://www.reddit.com/r/MachineLearning/comments/yvnzrw/danyone_here_who_works_at_weils_institute_at/)
 - [[D] Phonetic Algorithm Spellcheck Metric](https://www.reddit.com/r/MachineLearning/comments/yvngga/d_phonetic_algorithm_spellcheck_metric/)
-- [[D] Is it legitimate for reviewers to ask you compare with papers that are not peer-reviewed?](https://www.reddit.com/r/MachineLearning/comments/yvkvgo/d_is_it_legitimate_for_reviewers_to_ask_you/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
