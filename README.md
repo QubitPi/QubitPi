@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [psst... if you subscribe to #NODES2022 you&#39;ll get a digital goodie bag... Don&#39;t say we did not say :&rpar;](https://twitter.com/neo4j/status/1592472597261963265)
 - [RT Abhik: #PDBe-KB is a huge source of macromolecular structural information available as a graph database . This amazes me how structural data can be...](https://twitter.com/abhik1368/status/1592413993872035840)
 - [RT Ignatius Aditya Setyadi: The wait is over. 🚀🎉🎊 I am excited to release another open-source project, namely KnowAIS. We believe the nature ...](https://twitter.com/AdityaSetyadi/status/1592412372941279233)
 - [&quot;Recently, while working on a new feature for Neo4j GraphAcademy, I noticed an omission with the Neo4j JavaScript driver in TypeScript projects.&quot; &quot;Add...](https://twitter.com/neo4j/status/1592312700755136513)
 - [Are you a #Dev? Check out some of the #NODES2022 built for you. You are on time to register for FREE: @DaschnerS @WardCunningham @JMHReif #Neo4j #onli...](https://twitter.com/neo4j/status/1592250776197414916)
-- [We are getting closer to #NODES2022 and we want you to be prepared! If you miss the Road to NODES workshops, take a look at this hands-on crash course...](https://twitter.com/neo4j/status/1592215937536741378)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
