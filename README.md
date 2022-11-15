@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728287906535309346><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66350194a04bcbd2178a3b3256b47f70401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728628334226833424><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c9ca9a7977feeb031bf343d0fbde1760401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.2# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/728628334226833424)
