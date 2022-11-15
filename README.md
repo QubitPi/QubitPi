@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [GraphQL and REST Can Coexist. Will Lyon believes GraphQL to be the REST we’ve needed all along. Read more:](https://twitter.com/neo4j/status/1592608480573128704)
-- [RT Michael Hunger 🇪🇺 🇺🇦: Only 20 hours to go until I’ll open #NODES2022 at 8am PT tomorrow Starting with the keynote by @NAChristakis �...](https://twitter.com/mesirii/status/1592603700010577920)
-- [RT Michael Simons: Re Related to this: It makes me incredibly happy to see our documentation popping up beautifully rendered with @antoraproject at @N...](https://twitter.com/rotnroll666/status/1592576634460459008)
-- [RT Nicolas Mervaillie: I&#39;m going to #NODES2022 on Nov 16-17. Join me, it&#39;s free and across all timezones! With 100+ technical, interactive talks and d...](https://twitter.com/nmervaillie/status/1592572025872203777)
-- [RT Jennifer Reif: It’s TOMORROW! Don’t miss this amazing virtual and free event! 👩🏽‍💻❤️](https://twitter.com/JMHReif/status/1592569160659533824)
+- [Re @monk_startups @emileifrem @akollegger It is going to be GREAT! 🥳](https://twitter.com/neo4j/status/1592559535277092864)
+- [RT Sascha Peukert: Very excited to speak at #NODES2022 on Thursday at 17:40 CET about our learnings while building #Neo4j Ops Manager. Please join me ...](https://twitter.com/SasPeuk/status/1592522201424879616)
+- [RT GDG Casablanca: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual developer summit; it&#39;s 24hrs of f...](https://twitter.com/GDGCasablanca/status/1592507605230161927)
+- [RT Emil Eifrem: Sooo excited for NODES 2022 tomorrow! A full 24 hours PACKED with high signal, no fluff content from over 100 speakers broadcasted acr...](https://twitter.com/emileifrem/status/1592505278523576320)
+- [RT OpenCredo: Attending Nodes 2022, the @neo4j Online Developer Education Summit this week? Make sure to check out our Technical Delivery Director @te...](https://twitter.com/OpenCredo/status/1592473356267577344)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
