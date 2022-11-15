@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT GDG Casablanca: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual developer summit; it&#39;s 24hrs of f...](https://twitter.com/GDGCasablanca/status/1592507605230161927)
+- [RT OpenCredo: Attending Nodes 2022, the @neo4j Online Developer Education Summit this week? Make sure to check out our Technical Delivery Director @te...](https://twitter.com/OpenCredo/status/1592473356267577344)
 - [psst... if you subscribe to #NODES2022 you&#39;ll get a digital goodie bag... Don&#39;t say we did not say :&rpar;](https://twitter.com/neo4j/status/1592472597261963265)
+- [RT Michael Simons: Last call for #Nodes2022 which will start tomorrow, November 16th and run for 24 hours. Join me, it&#39;s free and across all timezones...](https://twitter.com/rotnroll666/status/1592456698836709377)
 - [RT Abhik: #PDBe-KB is a huge source of macromolecular structural information available as a graph database . This amazes me how structural data can be...](https://twitter.com/abhik1368/status/1592413993872035840)
-- [RT Ignatius Aditya Setyadi: The wait is over. 🚀🎉🎊 I am excited to release another open-source project, namely KnowAIS. We believe the nature ...](https://twitter.com/AdityaSetyadi/status/1592412372941279233)
-- [&quot;Recently, while working on a new feature for Neo4j GraphAcademy, I noticed an omission with the Neo4j JavaScript driver in TypeScript projects.&quot; &quot;Add...](https://twitter.com/neo4j/status/1592312700755136513)
-- [Are you a #Dev? Check out some of the #NODES2022 built for you. You are on time to register for FREE: @DaschnerS @WardCunningham @JMHReif #Neo4j #onli...](https://twitter.com/neo4j/status/1592250776197414916)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
