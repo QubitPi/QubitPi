@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Markov Chain Analysis of Tsetlin Machine Learning](https://www.reddit.com/r/MachineLearning/comments/yvq4g0/p_markov_chain_analysis_of_tsetlin_machine/)
 - [[D]Anyone here who works at Weils Institute at University of Michigan in DS/ML?](https://www.reddit.com/r/MachineLearning/comments/yvnzrw/danyone_here_who_works_at_weils_institute_at/)
 - [[D] Phonetic Algorithm Spellcheck Metric](https://www.reddit.com/r/MachineLearning/comments/yvngga/d_phonetic_algorithm_spellcheck_metric/)
 - [[D] Is it legitimate for reviewers to ask you compare with papers that are not peer-reviewed?](https://www.reddit.com/r/MachineLearning/comments/yvkvgo/d_is_it_legitimate_for_reviewers_to_ask_you/)
 - [[P] 🔥 CleanRL has reached v1.0.0; Reworked documentation, JAX support, and more!](https://www.reddit.com/r/MachineLearning/comments/yvjm1r/p_cleanrl_has_reached_v100_reworked_documentation/)
-- [[D] Anything World - ML for Animation of 3D Models](https://www.reddit.com/r/MachineLearning/comments/yvdecm/d_anything_world_ml_for_animation_of_3d_models/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
