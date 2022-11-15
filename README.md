@@ -580,8 +580,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [SayNoToLow – Cross-channel Business Analytics and Banking App](https://dribbble.com/shots/19850513)
 - [Sinport - Singapore Airport navigation app](https://dribbble.com/shots/19842259)
 - [Notes Pro mobile app](https://dribbble.com/shots/19851196)
+- [Stock portfolio - illustration](https://dribbble.com/shots/19837220)
 - [Neobank branding - 3D Card animation](https://dribbble.com/shots/19851639)
-- [Wayflyer - Financing](https://dribbble.com/shots/19882409)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
