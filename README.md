@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728628334226833424><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c9ca9a7977feeb031bf343d0fbde1760401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@B站大学生不要分心@修仙魍衡@李李李李李1997等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728656672409518169)
 - [#原神# #原神3.2# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/728628334226833424)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·神乐之真意」「弓·冬极白星」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/728627037133078658)
 - [#原神# #达达利亚# #暂别冬都# 亲爱的旅行者，「暂别冬都」活动祈愿即将开启，「『公子』·达达利亚&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/728626298413383698)
 - [#原神# #八重神子# #华紫樱绯# 亲爱的旅行者，「华紫樱绯」活动祈愿即将开启，「浮世笑百姿·八重神子&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多...](https://t.bilibili.com/728625778703466705)
-- [恭喜@叶宝让我哭死@次时代最后的产物@ゲロゲロ太等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728287906535309346)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
