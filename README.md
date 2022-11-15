@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @monk_startups @emileifrem @akollegger It is going to be GREAT! 🥳](https://twitter.com/neo4j/status/1592559535277092864)
-- [RT Sascha Peukert: Very excited to speak at #NODES2022 on Thursday at 17:40 CET about our learnings while building #Neo4j Ops Manager. Please join me ...](https://twitter.com/SasPeuk/status/1592522201424879616)
 - [RT GDG Casablanca: We are excited to be a Community Partner for #NODES2022! Join us on Nov 16-17 for #Neo4j&#39;s annual developer summit; it&#39;s 24hrs of f...](https://twitter.com/GDGCasablanca/status/1592507605230161927)
-- [RT Emil Eifrem: Sooo excited for NODES 2022 tomorrow! A full 24 hours PACKED with high signal, no fluff content from over 100 speakers broadcasted acr...](https://twitter.com/emileifrem/status/1592505278523576320)
 - [RT OpenCredo: Attending Nodes 2022, the @neo4j Online Developer Education Summit this week? Make sure to check out our Technical Delivery Director @te...](https://twitter.com/OpenCredo/status/1592473356267577344)
+- [psst... if you subscribe to #NODES2022 you&#39;ll get a digital goodie bag... Don&#39;t say we did not say :&rpar;](https://twitter.com/neo4j/status/1592472597261963265)
+- [RT Michael Simons: Last call for #Nodes2022 which will start tomorrow, November 16th and run for 24 hours. Join me, it&#39;s free and across all timezones...](https://twitter.com/rotnroll666/status/1592456698836709377)
+- [RT Abhik: #PDBe-KB is a huge source of macromolecular structural information available as a graph database . This amazes me how structural data can be...](https://twitter.com/abhik1368/status/1592413993872035840)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
