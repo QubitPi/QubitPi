@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] MAJOR UPDATES - The Data Science Interview Book](https://www.reddit.com/r/MachineLearning/comments/yw1j1h/p_major_updates_the_data_science_interview_book/)
 - [[D] When do you remind reviewers for the discussion? &lpar;iclr/neurips/...&rpar;](https://www.reddit.com/r/MachineLearning/comments/yw11eo/d_when_do_you_remind_reviewers_for_the_discussion/)
 - [[D] Writing models cards or datasheets](https://www.reddit.com/r/MachineLearning/comments/yvvk6q/d_writing_models_cards_or_datasheets/)
 - [[D] Camera settings for dataset collection](https://www.reddit.com/r/MachineLearning/comments/yvtelj/d_camera_settings_for_dataset_collection/)
 - [[Research] MinD-Vis: Seeing Beyond the Brain - Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://www.reddit.com/r/MachineLearning/comments/yvqz4t/research_mindvis_seeing_beyond_the_brain/)
-- [[P] Markov Chain Analysis of Tsetlin Machine Learning](https://www.reddit.com/r/MachineLearning/comments/yvq4g0/p_markov_chain_analysis_of_tsetlin_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
