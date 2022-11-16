@@ -299,11 +299,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Best practices for data enrichment](https://www.deepmind.com/blog/best-practices-for-data-enrichment)
 - [The pursuit of AI education - past, present, and future](https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future)
 - [Digital transformation with Google Cloud](https://www.deepmind.com/blog/digital-transformation-with-google-cloud)
 - [Measuring perception in AI models](https://www.deepmind.com/blog/measuring-perception-in-ai-models)
 - [How undesired goals can arise with correct rewards](https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards)
-- [Discovering novel algorithms with AlphaTensor](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
