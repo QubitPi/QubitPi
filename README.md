@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Thoughts on representing a Real world data](https://www.reddit.com/r/MachineLearning/comments/ywu1vf/p_thoughts_on_representing_a_real_world_data/)
 - [[P] MARVEL SNAP dataset &lpar;decks and cards&rpar; on kaggle](https://www.reddit.com/r/MachineLearning/comments/ywsgdh/p_marvel_snap_dataset_decks_and_cards_on_kaggle/)
 - [[D] If I bought a copy of tv series on Youtube &lpar;or other platforms&rpar;, can I use them for training a model?](https://www.reddit.com/r/MachineLearning/comments/ywrv3u/d_if_i_bought_a_copy_of_tv_series_on_youtube_or/)
 - [[P] Create a neural network with two text modes of tunable weights](https://www.reddit.com/r/MachineLearning/comments/ywphxx/p_create_a_neural_network_with_two_text_modes_of/)
 - [[D] Monitoring production image models](https://www.reddit.com/r/MachineLearning/comments/ywnbd2/d_monitoring_production_image_models/)
-- [[D] AMA: The Stability AI Team](https://www.reddit.com/r/MachineLearning/comments/yw6s1i/d_ama_the_stability_ai_team/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
