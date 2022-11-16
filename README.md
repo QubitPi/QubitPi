@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1592910884715696133)
 - [Do you follow #Memgraph YouTube channel?](https://twitter.com/memgraphdb/status/1592870039882854401)
 - [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1592851885521833985)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1592827133810061313)
 - [Check out our blog post 📰 Neo4j vs Memgraph - How to choose a graph database? ➡️](https://twitter.com/memgraphdb/status/1592721909849931776)
+- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1592710106168250368)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
