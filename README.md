@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Feasibility of applying few-shot-learning to malicious website detection &lpar;classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/ywh05m/d_feasibility_of_applying_fewshotlearning_to/)
 - [[D] AMA: The Stability AI Team](https://www.reddit.com/r/MachineLearning/comments/yw6s1i/d_ama_the_stability_ai_team/)
 - [[D] When do you remind reviewers for the discussion? &lpar;iclr/neurips/...&rpar;](https://www.reddit.com/r/MachineLearning/comments/yw11eo/d_when_do_you_remind_reviewers_for_the_discussion/)
 - [[D] Writing models cards or datasheets](https://www.reddit.com/r/MachineLearning/comments/yvvk6q/d_writing_models_cards_or_datasheets/)
 - [[D] Camera settings for dataset collection](https://www.reddit.com/r/MachineLearning/comments/yvtelj/d_camera_settings_for_dataset_collection/)
-- [[Research] MinD-Vis: Seeing Beyond the Brain - Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding](https://www.reddit.com/r/MachineLearning/comments/yvqz4t/research_mindvis_seeing_beyond_the_brain/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
