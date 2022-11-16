@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[project] Basic Keras reinforcement learning question](https://www.reddit.com/r/MachineLearning/comments/yx3s70/project_basic_keras_reinforcement_learning/)
-- [[D] Dataloaders pytorch](https://www.reddit.com/r/MachineLearning/comments/yx3rna/d_dataloaders_pytorch/)
 - [[P] Kangas V1 - Open source EDA tool for large, multimedia datasets](https://www.reddit.com/r/MachineLearning/comments/yx2krb/p_kangas_v1_open_source_eda_tool_for_large/)
 - [[P] Thoughts on representing a Real world data](https://www.reddit.com/r/MachineLearning/comments/ywu1vf/p_thoughts_on_representing_a_real_world_data/)
 - [[D] If I bought a copy of tv series on Youtube &lpar;or other platforms&rpar;, can I use them for training a model?](https://www.reddit.com/r/MachineLearning/comments/ywrv3u/d_if_i_bought_a_copy_of_tv_series_on_youtube_or/)
+- [[P] Create a neural network with two text modes of tunable weights](https://www.reddit.com/r/MachineLearning/comments/ywphxx/p_create_a_neural_network_with_two_text_modes_of/)
+- [[D] Monitoring production image models](https://www.reddit.com/r/MachineLearning/comments/ywnbd2/d_monitoring_production_image_models/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
