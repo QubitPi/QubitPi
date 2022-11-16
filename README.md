@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#NODES2022 📢 Remember you can attend as many talks as you want &lpar;one or all!&rpar; -- take a look at these agendas for Americas, APAC &amp; EMEA. You can ask...](https://twitter.com/neo4j/status/1592887765527449601)
-- [RT Sefik Ilkin Serengil: Today, I will have a talk at @Neo4j Nodes 2022 at 17:20 GMT &lpar;London Time&rpar; about Deep Face Recognition with Graphs. To join th...](https://twitter.com/serengil/status/1592871464507944960)
 - [Attending NODES? You can win a T-SHIRT! 👕 1. Share a short post about any NODES presentation, including a screenshot of the live session showing a ...](https://twitter.com/neo4j/status/1592835145769312258)
 - [Just in case you are still hesitating - here are 8 reasons you should attend #NODES2022 Hurry up!... NODES starts TODAY! #Neo4j #onlineconference #Dev...](https://twitter.com/neo4j/status/1592789686854234114)
 - [RT Emil Eifrem: Awesome to see! And NODES 2022 starts today! 24 hour of fantastic, no BS content streamed live across three time zones. And it&#39;s free!...](https://twitter.com/emileifrem/status/1592787440376610817)
+- [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: “Microsoft&#39;s Mark Heckler Bridges @Azure With @Neo4j and #Spring” Join me tomorr...](https://twitter.com/mkheck/status/1592720279121240065)
+- [RT Sony Green: Ana Areias and Mengjia &lpar;Marjorie&rpar; Kang &#39;s work on #patientjourney data is eye-opening. Their approach to mapping #healthcare events als...](https://twitter.com/sonygreen/status/1592676171682287616)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
