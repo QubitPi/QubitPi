@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#NODES2022 📢 Remember you can attend as many talks as you want &lpar;one or all!&rpar; -- take a look at these agendas for Americas, APAC &amp; EMEA. You can ask...](https://twitter.com/neo4j/status/1592887765527449601)
-- [RT Sefik Ilkin Serengil: Today, I will have a talk at @Neo4j Nodes 2022 at 17:20 GMT &lpar;London Time&rpar; about Deep Face Recognition with Graphs. To join th...](https://twitter.com/serengil/status/1592871464507944960)
-- [Attending NODES? You can win a T-SHIRT! 👕 1. Share a short post about any NODES presentation, including a screenshot of the live session showing a ...](https://twitter.com/neo4j/status/1592835145769312258)
-- [Just in case you are still hesitating - here are 8 reasons you should attend #NODES2022 Hurry up!... NODES starts TODAY! #Neo4j #onlineconference #Dev...](https://twitter.com/neo4j/status/1592789686854234114)
-- [RT Emil Eifrem: Awesome to see! And NODES 2022 starts today! 24 hour of fantastic, no BS content streamed live across three time zones. And it&#39;s free!...](https://twitter.com/emileifrem/status/1592787440376610817)
+- [Did you know DeepFace is the most popular facial recognition library for #Python? #deepface by @serengil NOW on stage #NODES2022 ttps://hopin.com/even...](https://twitter.com/neo4j/status/1592927250101555200)
+- [Siraj Munir is presenting now at #NODES2022! &quot;Modeling NFT Tweets as a Knowledge Graph Using Neo4j&quot; #csvimport #KnowledgeGraph #Neo4j @8054598573c64fb](https://twitter.com/neo4j/status/1592925778521432069)
+- [&quot;Visibility matters! Being able to see wealth inequality decreased the ability of the society to produce more wealth overall and reduced cooperation.&quot;...](https://twitter.com/neo4j/status/1592920454582632449)
+- [&quot;Real Social Networks: Humans have been involved in social networks for tens of thousands of years - not just the recent online variety.&quot; @NAChristaki...](https://twitter.com/neo4j/status/1592913421401481218)
+- [WOW! #NODES2022 kicked off!](https://twitter.com/neo4j/status/1592911660624543744)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
