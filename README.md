@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] If I bought a copy of tv series on Youtube &lpar;or other platforms&rpar;, can I use them for training a model?](https://www.reddit.com/r/MachineLearning/comments/ywrv3u/d_if_i_bought_a_copy_of_tv_series_on_youtube_or/)
 - [[P] Create a neural network with two text modes of tunable weights](https://www.reddit.com/r/MachineLearning/comments/ywphxx/p_create_a_neural_network_with_two_text_modes_of/)
 - [[D] Monitoring production image models](https://www.reddit.com/r/MachineLearning/comments/ywnbd2/d_monitoring_production_image_models/)
 - [[D] AMA: The Stability AI Team](https://www.reddit.com/r/MachineLearning/comments/yw6s1i/d_ama_the_stability_ai_team/)
 - [[D] When do you remind reviewers for the discussion? &lpar;iclr/neurips/...&rpar;](https://www.reddit.com/r/MachineLearning/comments/yw11eo/d_when_do_you_remind_reviewers_for_the_discussion/)
-- [[D] Writing models cards or datasheets](https://www.reddit.com/r/MachineLearning/comments/yvvk6q/d_writing_models_cards_or_datasheets/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
