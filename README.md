@@ -521,11 +521,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [NODES 2022 - Beginner Track EMEA](https://www.youtube.com/watch?v=pCGAJnYuHIY)
-- [NODES 2022 - Beginner Track APAC](https://www.youtube.com/watch?v=_2XAA7PcgTE)
-- [NODES 2022 - Beginner Track AMER](https://www.youtube.com/watch?v=rh83FMvQV2U)
 - [Discover AuraDB with Michael and Alexander - NODES 2022 Special Edition](https://www.youtube.com/watch?v=9Egur_z4abI)
 - [FastRP, l&#39;algoritmo di Node Embeddings della GDS di Neo4j](https://www.youtube.com/watch?v=22l165WHl4Q)
+- [Neo4j Live: NODES 2022 - What&#39;s New With Neo4j](https://www.youtube.com/watch?v=c2qkJ0lTEaI)
+- [Full Stack GraphQL Book Club - Chapter 1: What Is Full Stack GraphQL?](https://www.youtube.com/watch?v=P6hXgvcuspg)
+- [Neo4j 5: Higher Speed with Automated Scale-out](https://www.youtube.com/watch?v=89Jk5dEXJIk)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
