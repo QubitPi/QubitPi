@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Creating candidate functions using Spring Cloud Function, #Azure Functions, and #Neo4j. Next @mkheck at #NODES2022 #microsoft LIVE in a few minutes!](https://twitter.com/neo4j/status/1592994697307336706)
-- [RT Stephen Roughley: Graph data puts the verbs in the table - Katerina Nesvit @neo4j #NODES2022 #Livetweet - why have I never thought of that?!](https://twitter.com/StephenRoughle3/status/1592992116313292800)
-- [See &lpar;in&rpar;visible in your table data with #Neo4j graph #technology -- next with Dr. Kateryna Nesvit at #NODES2022 LIVE SOON:](https://twitter.com/neo4j/status/1592989659621388288)
-- [Re @rekumar_ @ElstnerMartin There is a lot of content around biochemistry: but also chemistry](https://twitter.com/neo4j/status/1592989443707002880)
-- [RT Michael Hunger 🇪🇺 🇺🇦: Makes me so happy @WardCunningham speaking about use of graphs in #FederatedWiki Graphs and Wiki have a lot in co...](https://twitter.com/mesirii/status/1592987050839793665)
+- [👉 NOW at #NODES2022 Non-player characters &lpar;simulation agents&rpar; experiences in sim can be stored and analyzed in a #cloud-based graph database. This ...](https://twitter.com/neo4j/status/1592967020739727360)
+- [Colleague/employee capacity can be imagined as a multi-layer underground mine. Learn more from Mike Morley @arcurve live at #NODES2022 at the Advanced...](https://twitter.com/neo4j/status/1592964493897650176)
+- [RT Luanne Misquitta: How grants are related - Bringing Archives to Life with @VlastaKus at #NODES2022 #livetweet](https://twitter.com/luannem/status/1592963975100379137)
+- [RT Kineviz: Happening today at 2:20 pm PST! 🎥 Follow along w/ Marjorie Kang &amp; @aareiass at #NODES2022 to visualize similar patient journeys and to ...](https://twitter.com/kineviz/status/1592960086317883395)
+- [NOW LIVE - Beginner Stage at #NODES2022 Michael S. Bandor talks about Software obsolescence visibility and risk. #Neo4j](https://twitter.com/neo4j/status/1592956949699641344)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
