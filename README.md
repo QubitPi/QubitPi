@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: “Microsoft&#39;s Mark Heckler Bridges @Azure With @Neo4j and #Spring” Join me tomorr...](https://twitter.com/mkheck/status/1592720279121240065)
+- [RT Sony Green: Ana Areias and Mengjia &lpar;Marjorie&rpar; Kang &#39;s work on #patientjourney data is eye-opening. Their approach to mapping #healthcare events als...](https://twitter.com/sonygreen/status/1592676171682287616)
+- [RT Adrien SALES: This is live, just on time for @neo4j #nodes22, #cypher #code highlighting is now supported on @github #github](https://twitter.com/rastadidi/status/1592613195310825472)
 - [GraphQL and REST Can Coexist. Will Lyon believes GraphQL to be the REST we’ve needed all along. Read more:](https://twitter.com/neo4j/status/1592608480573128704)
 - [RT Michael Hunger 🇪🇺 🇺🇦: Only 20 hours to go until I’ll open #NODES2022 at 8am PT tomorrow Starting with the keynote by @NAChristakis �...](https://twitter.com/mesirii/status/1592603700010577920)
-- [RT Michael Simons: Re Related to this: It makes me incredibly happy to see our documentation popping up beautifully rendered with @antoraproject at @N...](https://twitter.com/rotnroll666/status/1592576634460459008)
-- [RT Nicolas Mervaillie: I&#39;m going to #NODES2022 on Nov 16-17. Join me, it&#39;s free and across all timezones! With 100+ technical, interactive talks and d...](https://twitter.com/nmervaillie/status/1592572025872203777)
-- [RT Jennifer Reif: It’s TOMORROW! Don’t miss this amazing virtual and free event! 👩🏽‍💻❤️](https://twitter.com/JMHReif/status/1592569160659533824)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
