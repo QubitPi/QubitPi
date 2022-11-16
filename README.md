@@ -328,10 +328,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [How to Start With Self-management in a Great Way](https://www.scrum.org/resources/blog/how-start-self-management-great-way)
+- [What are the focus areas of an Agile Coach?](https://www.scrum.org/resources/blog/what-are-focus-areas-agile-coach)
 - [The HOW of Sprint Planning](https://www.scrum.org/resources/blog/how-sprint-planning)
 - [A Quickstart To Improve &lpar;Scrum&rpar; Team Morale](https://www.scrum.org/resources/blog/quickstart-improve-scrum-team-morale)
 - [Introducing Personal Scrum](https://www.scrum.org/resources/blog/introducing-personal-scrum)
-- [[VLOG] Why developers hate Scrum so much](https://www.scrum.org/resources/blog/vlog-why-developers-hate-scrum-so-much)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
