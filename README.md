@@ -327,8 +327,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [How to Start With Self-management in a Great Way](https://www.scrum.org/resources/blog/how-start-self-management-great-way)
 - [What are the focus areas of an Agile Coach?](https://www.scrum.org/resources/blog/what-are-focus-areas-agile-coach)
+- [How to Start With Self-management in a Great Way](https://www.scrum.org/resources/blog/how-start-self-management-great-way)
 - [The HOW of Sprint Planning](https://www.scrum.org/resources/blog/how-sprint-planning)
 - [A Quickstart To Improve &lpar;Scrum&rpar; Team Morale](https://www.scrum.org/resources/blog/quickstart-improve-scrum-team-morale)
 - [Introducing Personal Scrum](https://www.scrum.org/resources/blog/introducing-personal-scrum)
