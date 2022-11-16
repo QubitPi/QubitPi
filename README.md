@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Attending NODES? You can win a T-SHIRT! 👕 1. Share a short post about any NODES presentation, including a screenshot of the live session showing a ...](https://twitter.com/neo4j/status/1592835145769312258)
 - [Just in case you are still hesitating - here are 8 reasons you should attend #NODES2022 Hurry up!... NODES starts TODAY! #Neo4j #onlineconference #Dev...](https://twitter.com/neo4j/status/1592789686854234114)
 - [RT Emil Eifrem: Awesome to see! And NODES 2022 starts today! 24 hour of fantastic, no BS content streamed live across three time zones. And it&#39;s free!...](https://twitter.com/emileifrem/status/1592787440376610817)
 - [RT Mark⚡️Heckler, 馬克 哈格樂, مارک هکلر🇺🇸🇺🇦: “Microsoft&#39;s Mark Heckler Bridges @Azure With @Neo4j and #Spring” Join me tomorr...](https://twitter.com/mkheck/status/1592720279121240065)
 - [RT Sony Green: Ana Areias and Mengjia &lpar;Marjorie&rpar; Kang &#39;s work on #patientjourney data is eye-opening. Their approach to mapping #healthcare events als...](https://twitter.com/sonygreen/status/1592676171682287616)
-- [RT Adrien SALES: This is live, just on time for @neo4j #nodes22, #cypher #code highlighting is now supported on @github #github](https://twitter.com/rastadidi/status/1592613195310825472)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
