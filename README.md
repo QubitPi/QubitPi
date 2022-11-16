@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728656672409518169><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/15f483f622fc12c51c408e64f53cad0d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728997005624344609><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d46ddf063bd546be73a5cb1b73b8745c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #画外旅照青植之篇# #原神画外旅照摄影征集活动# 亲爱的旅行者，《原神》「画外旅照·青植之篇」摄影征集活动今日开启~ 〓活动时间〓 活动开启：11月16日...](https://t.bilibili.com/728997005624344609)
