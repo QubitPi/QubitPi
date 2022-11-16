@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] #TimeSeries #ML #production](https://www.reddit.com/r/MachineLearning/comments/yx8gnh/p_timeseries_ml_production/)
 - [[R] Is there a way/tool to do advanced search in the Proceedings of Machine Learning Research &lpar;PMLR&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yx803z/r_is_there_a_waytool_to_do_advanced_search_in_the/)
 - [[R] Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning - Epochai Pablo Villalobos et al - Trend of ever-growing ML models might slow down if data efficiency is not drastically improved!](https://www.reddit.com/r/MachineLearning/comments/yx7zft/r_will_we_run_out_of_data_an_analysis_of_the/)
 - [[P] Kangas V1 - Open source EDA tool for large, multimedia datasets](https://www.reddit.com/r/MachineLearning/comments/yx2krb/p_kangas_v1_open_source_eda_tool_for_large/)
-- [[P] Thoughts on representing a Real world data](https://www.reddit.com/r/MachineLearning/comments/ywu1vf/p_thoughts_on_representing_a_real_world_data/)
+- [[D] If I bought a copy of tv series on Youtube &lpar;or other platforms&rpar;, can I use them for training a model?](https://www.reddit.com/r/MachineLearning/comments/ywrv3u/d_if_i_bought_a_copy_of_tv_series_on_youtube_or/)
+- [[P] Create a neural network with two text modes of tunable weights](https://www.reddit.com/r/MachineLearning/comments/ywphxx/p_create_a_neural_network_with_two_text_modes_of/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
