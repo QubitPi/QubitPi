@@ -460,11 +460,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Did you hear the news? ArangoDB University is here! 👀🔥 Sign up for our brand new training center, including an updated version of our popular gr...](https://twitter.com/arangodb/status/1592653691672305664)
 - [Grab some popcorn and get ready to be up to speed with ArangoDB Summit - our first-ever two-day industry event. 🥑 Learn more about use cases, thoug...](https://twitter.com/arangodb/status/1592548005638389760)
 - [Our latest Newsletter is here! 🥑🔥 Check out the latest news and event updates happening at ArangoDB. You can also register on this page to get e...](https://twitter.com/arangodb/status/1592291299390103552)
 - [Graph is always done right with ArangoDB. 🔥🥑 In this webinar graph expert Markus Pfeiffer will explore the world of graphs with ArangoDB. Regist...](https://twitter.com/arangodb/status/1592200713345826816)
 - [Sometimes, you might be asking yourself how machines exactly learn with machine learning. 🤔 This article, written by Ravish Kumar for Enjoy Algorit...](https://twitter.com/arangodb/status/1591838318236295169)
-- [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1591445728697663488)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
