@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Our knowledge graph vision goes beyond what the #automotive industry has seen before #rlegroup says Elena Kohlwey at #NODES2022 #Neo4j #datascience #d...](https://twitter.com/neo4j/status/1593219960708415492)
-- [RT William Lyon: Re #Neo4j graph data science helps us use graph algorithms and ML to answer questions: Who&#39;s the most important? --&gt; PageRank What&#39;s ...](https://twitter.com/lyonwj/status/1593218938695221256)
-- [RT David Allen: Elena Kohlwey at #nodes2022 #livetweet We want to create innovative products that contain company&#39;s complete knowledge, shorten concep...](https://twitter.com/mdavidallen/status/1593218773527695361)
-- [RT David Allen: Re GitHub resources for @ikwattro &#39;s talk at #nodes2022](https://twitter.com/mdavidallen/status/1593212392183590913)
-- [RT William Lyon: Next #NODES2022 session with @ikwattro on using Docker and Docker Compose with #Neo4j 5 starting now Join us at](https://twitter.com/lyonwj/status/1593208024960995328)
+- [RT Luanne Misquitta: Keyword disambiguation with semantic similarity #NODES2022 #livetweet](https://twitter.com/luannem/status/1593250892278812675)
+- [#data is big and connected but also disparate. Automated #DataLineage is the biggest problem no one is solving. @techwob at #NODES2022 -Begginer Stage...](https://twitter.com/neo4j/status/1593248880837001216)
+- [Farm topologies &lpar;and the downstream value-added chain&rpar; aren&#39;t simple but actually highly interconnected #graphs. 👀 Next @noctarius2k at #NODES2022](https://twitter.com/neo4j/status/1593246367102574592)
+- [What if we need to clean and organize your Knowledge Graphs? We can use Agglomerative Clustering... Join Federica and Alessia to discover more #cluste...](https://twitter.com/neo4j/status/1593246363126353921)
+- [What if traditional Named Entity Disambiguation is not enough? We can use #Semantic Similarity Approach… Join Federica and Alessia to discover more! ...](https://twitter.com/neo4j/status/1593246354671046657)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
