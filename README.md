@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Adam Turner at #NODES2022 - Advanced Stage- 👇 Applying #neo4j graph embedding algorithms using #GraphDataScience Library - Join us:](https://twitter.com/neo4j/status/1593149455527776256)
-- [NOW AT #NODES 2022 @zakjan 👉 Native graph storage with index-free adjacency in @Neo4j enables @get_manta to traverse complex data lineage flows wit...](https://twitter.com/neo4j/status/1593145687973036033)
-- [#NeoSemantics &amp; #Fabric are useful to build a #knowledgebase from public repositories to auto-augment #appsec findings reports with #MITRE #ATT&amp;CK &amp; #...](https://twitter.com/neo4j/status/1593139397834280960)
-- [RT Thomas Silkjær: Going live at #NODES2022 at 12 CET on the topic of XRPL ETL using @neo4j.](https://twitter.com/Silkjaer/status/1593137863155421184)
-- [If you&#39;re already up in the EMEA timezones, feel free to join our #NODES2022 talks early, they are still running from the APAC region &lpar;all unique talk...](https://twitter.com/neo4j/status/1593136916224151552)
+- [NODES 2022 - Beginner Track #NODES2022](https://twitter.com/neo4j/status/1593181420734009344)
+- [RT Astrid Paramita: Participating at #NODES2022 The keynote from @NAChristakis is exceptional, and there&#39;s still time to join for a rerun in EMEA #liv...](https://twitter.com/astridparamita/status/1593174815221088258)
+- [LAST CALL FOR #Europe #TheMiddleEast and #Africa #NODES2022 will kick off soon. 🎉 Take a look at the agenda, register and participate in the talks ...](https://twitter.com/neo4j/status/1593174664066523136)
+- [Closing Q&amp;A For APAC --&gt; @emileifrem &amp; @akollegger take the #NODES2022 stage in 20 minutes!](https://twitter.com/neo4j/status/1593169593258119168)
+- [RT Emil Eifrem: My community Q&amp;A with @akollegger starts in 30 mins! Any questions are welcome! Go to](https://twitter.com/emileifrem/status/1593167855004307456)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
