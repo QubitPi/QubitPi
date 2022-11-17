@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @rastadidi NOW AT #NODES2022 What #holism means for IT services, why it matters, and how to connect that together? #timetomarket #finances #HumanRe...](https://twitter.com/neo4j/status/1593114225127424002)
-- [RT Adrien SALES: &quot;New properties emerging out of connexions&quot; from #NODES2022 #livetweet @neo4j @NAChristakis](https://twitter.com/rastadidi/status/1593096229407580160)
-- [A medical chatbot for all! #chatbot NOW LIVE AT #NODES2022, @dgg32](https://twitter.com/neo4j/status/1593095354823892992)
-- [❗Building graph applications in Streamlit can rapidly demonstrate value from data sources. David Hughes will explore a Clinical Streamlit App that wa...](https://twitter.com/neo4j/status/1593092837595578370)
-- [REMEMBER! You can win a T-SHIRT at NODES! 👕 1. Share a short post about any NODES presentation, including a screenshot of the live session showing ...](https://twitter.com/neo4j/status/1593091721939759104)
+- [Neo4j &amp; Aura 5 for Developers NEXT: Yes! Attend the next talk with @stegemangraph #NODES2022 #Neo4j5 BEGINNER STAGE!](https://twitter.com/neo4j/status/1593084035542437888)
+- [The friendship paradox: your friends have more friends than you do! @NAChristakis at #NODES2022 #Neo4j](https://twitter.com/neo4j/status/1593081504946610178)
+- [3 basic concepts to mathematically understand a #socialnetwork: -number of connections an individual has &lpar;#degree&rpar; -How central a person is in the net...](https://twitter.com/neo4j/status/1593076500357693440)
+- [NODES 2022 - Beginner Track #NODES2022](https://twitter.com/neo4j/status/1593066368903311360)
+- [#NODES2022 APAC Region is about to start 💥 You are on time to register! Interesing talks are waiting for you! Interact with the community, learn an...](https://twitter.com/neo4j/status/1593061419217555456)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
