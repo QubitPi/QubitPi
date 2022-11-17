@@ -521,10 +521,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [NODES 2022 - Beginner Track EMEA](https://www.youtube.com/watch?v=pCGAJnYuHIY)
 - [NODES 2022 - Beginner Track APAC](https://www.youtube.com/watch?v=_2XAA7PcgTE)
 - [Introducing Workspace — The Fastest Way To Build Your Neo4j Database](https://www.youtube.com/watch?v=JQwboNTFFLc)
 - [NODES 2022 - Beginner Track AMER](https://www.youtube.com/watch?v=rh83FMvQV2U)
+- [NODES 2022 - Beginner Track EMEA](https://www.youtube.com/watch?v=pCGAJnYuHIY)
 - [Discover AuraDB with Michael and Alexander - NODES 2022 Special Edition](https://www.youtube.com/watch?v=9Egur_z4abI)
 <!-- NEO4J-YOUTUBE:END -->
 
