@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Creating candidate functions using Spring Cloud Function, #Azure Functions, and #Neo4j. Next @mkheck at #NODES2022 #microsoft LIVE in a few minutes!](https://twitter.com/neo4j/status/1592994697307336706)
-- [RT Stephen Roughley: Graph data puts the verbs in the table - Katerina Nesvit @neo4j #NODES2022 #Livetweet - why have I never thought of that?!](https://twitter.com/StephenRoughle3/status/1592992116313292800)
-- [See &lpar;in&rpar;visible in your table data with #Neo4j graph #technology -- next with Dr. Kateryna Nesvit at #NODES2022 LIVE SOON:](https://twitter.com/neo4j/status/1592989659621388288)
-- [Re @rekumar_ @ElstnerMartin There is a lot of content around biochemistry: but also chemistry](https://twitter.com/neo4j/status/1592989443707002880)
-- [RT Michael Hunger 🇪🇺 🇺🇦: Makes me so happy @WardCunningham speaking about use of graphs in #FederatedWiki Graphs and Wiki have a lot in co...](https://twitter.com/mesirii/status/1592987050839793665)
+- [Why &quot;Neo4j&quot;? @emileifrem answers 🙃 #NODES2022 @akollegger](https://twitter.com/neo4j/status/1593019101089333255)
+- [Your chance in 30 minutes for a AMA with @neo4j co-founder and CEO @emileifrem hosted by @akollegger Join us at the online NODES conference and #AskEm...](https://twitter.com/neo4j/status/1593008695222632448)
+- [Ask questions to @emileifrem! 📢 Soon --&gt; Q&amp;A with @akollegger at #NODES2022](https://twitter.com/neo4j/status/1593008535725555718)
+- [Evidence Boards are analogs to #GraphDatabases-- says @jalakoo at #Neo4j&#39;s #NODES2022](https://twitter.com/neo4j/status/1593007527414976512)
+- [RT Nathan Smith: Jason Koo is on deck to talk about graph databases for Python developers at #NODES2022. It would be a great time to hop on for a sess...](https://twitter.com/nsmith_piano/status/1593006073279303680)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
