@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] RWKV-4 7B release: an attention-free RNN language model matching GPT-J performance &lpar;14B training in progress&rpar;](https://www.reddit.com/r/MachineLearning/comments/yxt8sa/r_rwkv4_7b_release_an_attentionfree_rnn_language/)
 - [[D] What happened to Butterfly factorizations in neural networks?](https://www.reddit.com/r/MachineLearning/comments/yxptqw/d_what_happened_to_butterfly_factorizations_in/)
 - [[R] The Near Future of AI is Action-Driven](https://www.reddit.com/r/MachineLearning/comments/yxf875/r_the_near_future_of_ai_is_actiondriven/)
 - [[D] Comparing multiple time series with partial time overlap](https://www.reddit.com/r/MachineLearning/comments/yxbxrf/d_comparing_multiple_time_series_with_partial/)
 - [[R] Is there a way/tool to do advanced search in the Proceedings of Machine Learning Research &lpar;PMLR&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yx803z/r_is_there_a_waytool_to_do_advanced_search_in_the/)
-- [[R] Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning - Epochai Pablo Villalobos et al - Trend of ever-growing ML models might slow down if data efficiency is not drastically improved!](https://www.reddit.com/r/MachineLearning/comments/yx7zft/r_will_we_run_out_of_data_an_analysis_of_the/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
