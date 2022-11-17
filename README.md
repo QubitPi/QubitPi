@@ -127,11 +127,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
 <!-- YOUTUBE-CHANNEL:START -->
+- [[GLog] Spiral Abyss Floor 11, Late Nov. Period](https://www.youtube.com/watch?v=gLLEZIbGrPE)
 - [[GLog] Spiral Abyss Floor 10, Late Nov. Period](https://www.youtube.com/watch?v=yFTagA9Ahj4)
 - [[GLog] Spiral Abyss Early Nov. Period](https://www.youtube.com/watch?v=q73HV21FNrI)
 - [Commemorate My First All-Pass Spiral Abyss Period!](https://www.youtube.com/watch?v=w0YeFg6-uxc)
 - [[Sangonomiya Kokomi Story Quest] Warriors&#39; Dreams Like Spring Grass Renewing](https://www.youtube.com/watch?v=7LF81N_bBd0)
-- [[Trump Part 13 - Medicare and Social Security &amp; Closing Statements] The Third Presidential Debate](https://www.youtube.com/watch?v=e3IqN8mc-0Q)
 <!-- YOUTUBE-CHANNEL:END -->
 
 <a href="https://www.bilibili.com/video/BV17D4y1t74j/"><img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png"></a>
