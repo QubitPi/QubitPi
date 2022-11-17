@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#Neo4j5 widens its performance lead over relational databases - Learn more: #Neo4j](https://twitter.com/neo4j/status/1593346801385771008)
 - [After almost 26 hours of live-streaming amazing talks we can say ...it&#39;s a wrap! Thank you for being part of #NODES2022!!! 🎉 The content will be av...](https://twitter.com/neo4j/status/1593294429783310337)
 - [RT William Lyon: Re Final views of the interactive rail routing app made with NeoDash #Neo4j #NODES2022](https://twitter.com/lyonwj/status/1593285396669964288)
 - [RT Michael Simons: My slides from @neo4j #Nodes2022 about Neo4j-Migrations and database refactoring](https://twitter.com/rotnroll666/status/1593282907363332096)
 - [Building #Neo4j Ops Manager was made so much better and simpler thanks to the amazing #Neo4j ecosystem. NOW @SasPeuk AT #NODES2022](https://twitter.com/neo4j/status/1593281576418295811)
-- [&quot;We can learn which role a node is playing and track it.&quot; Fabio Montagna is now at #NODES2022](https://twitter.com/neo4j/status/1593280370040254464)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
