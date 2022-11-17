@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [NODES 2022 - Beginner Track #NODES2022](https://twitter.com/neo4j/status/1593181420734009344)
-- [RT Astrid Paramita: Participating at #NODES2022 The keynote from @NAChristakis is exceptional, and there&#39;s still time to join for a rerun in EMEA #liv...](https://twitter.com/astridparamita/status/1593174815221088258)
-- [LAST CALL FOR #Europe #TheMiddleEast and #Africa #NODES2022 will kick off soon. 🎉 Take a look at the agenda, register and participate in the talks ...](https://twitter.com/neo4j/status/1593174664066523136)
-- [Closing Q&amp;A For APAC --&gt; @emileifrem &amp; @akollegger take the #NODES2022 stage in 20 minutes!](https://twitter.com/neo4j/status/1593169593258119168)
-- [RT Emil Eifrem: My community Q&amp;A with @akollegger starts in 30 mins! Any questions are welcome! Go to](https://twitter.com/emileifrem/status/1593167855004307456)
+- [Our knowledge graph vision goes beyond what the #automotive industry has seen before #rlegroup says Elena Kohlwey at #NODES2022 #Neo4j #datascience #d...](https://twitter.com/neo4j/status/1593219960708415492)
+- [RT William Lyon: Re #Neo4j graph data science helps us use graph algorithms and ML to answer questions: Who&#39;s the most important? --&gt; PageRank What&#39;s ...](https://twitter.com/lyonwj/status/1593218938695221256)
+- [RT David Allen: Elena Kohlwey at #nodes2022 #livetweet We want to create innovative products that contain company&#39;s complete knowledge, shorten concep...](https://twitter.com/mdavidallen/status/1593218773527695361)
+- [RT David Allen: Re GitHub resources for @ikwattro &#39;s talk at #nodes2022](https://twitter.com/mdavidallen/status/1593212392183590913)
+- [RT William Lyon: Next #NODES2022 session with @ikwattro on using Docker and Docker Compose with #Neo4j 5 starting now Join us at](https://twitter.com/lyonwj/status/1593208024960995328)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
