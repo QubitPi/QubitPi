@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 #Twitch #Streaming #Graph Analysis - Part 2 ➡️](https://twitter.com/memgraphdb/status/1593366446075269126)
 - [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1593260400811851778)
 - [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1593250225358938113)
 - [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1593236770958761985)
 - [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1593220916808323072)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1593198514384916482)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
