@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1593099453418049538)
 - [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1593019451766611973)
 - [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1593013341953617920)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1593004966444400640)
 - [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1592982944645365761)
+- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1592910884715696133)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
