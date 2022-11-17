@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1593220916808323072)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1593198514384916482)
 - [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1593150201501736960)
 - [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1593099453418049538)
 - [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1593019451766611973)
-- [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1593013341953617920)
-- [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1593004966444400640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
