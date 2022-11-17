@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Building #Neo4j Ops Manager was made so much better and simpler thanks to the amazing #Neo4j ecosystem. NOW @SasPeuk AT #NODES2022](https://twitter.com/neo4j/status/1593281576418295811)
-- [&quot;We can learn which role a node is playing and track it.&quot; Fabio Montagna is now at #NODES2022](https://twitter.com/neo4j/status/1593280370040254464)
-- [In 30 min: Final Q&amp;A with @emileifrem and @akollegger at #NODES2022 :&rpar;](https://twitter.com/neo4j/status/1593280343162896384)
-- [With NeoDash, you can build a #neo4j powered rail planner in minutes! #graph #visualization #neo4j #NeoDash Hear Niels de Jong at the Intermediate sta...](https://twitter.com/neo4j/status/1593277807848824833)
-- [RT Stephen Roughley: How to make your case for an investment... Rik Van Bruggen at #NODES2022 quoting Marc Miller - &quot;If the perception of value is not...](https://twitter.com/StephenRoughle3/status/1593275594132922369)
+- [RT Luanne Misquitta: Keyword disambiguation with semantic similarity #NODES2022 #livetweet](https://twitter.com/luannem/status/1593250892278812675)
+- [#data is big and connected but also disparate. Automated #DataLineage is the biggest problem no one is solving. @techwob at #NODES2022 -Begginer Stage...](https://twitter.com/neo4j/status/1593248880837001216)
+- [Farm topologies &lpar;and the downstream value-added chain&rpar; aren&#39;t simple but actually highly interconnected #graphs. 👀 Next @noctarius2k at #NODES2022](https://twitter.com/neo4j/status/1593246367102574592)
+- [What if we need to clean and organize your Knowledge Graphs? We can use Agglomerative Clustering... Join Federica and Alessia to discover more #cluste...](https://twitter.com/neo4j/status/1593246363126353921)
+- [What if traditional Named Entity Disambiguation is not enough? We can use #Semantic Similarity Approach… Join Federica and Alessia to discover more! ...](https://twitter.com/neo4j/status/1593246354671046657)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
