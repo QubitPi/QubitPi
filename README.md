@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Why &quot;Neo4j&quot;? @emileifrem answers 🙃 #NODES2022 @akollegger](https://twitter.com/neo4j/status/1593019101089333255)
-- [Your chance in 30 minutes for a AMA with @neo4j co-founder and CEO @emileifrem hosted by @akollegger Join us at the online NODES conference and #AskEm...](https://twitter.com/neo4j/status/1593008695222632448)
-- [Ask questions to @emileifrem! 📢 Soon --&gt; Q&amp;A with @akollegger at #NODES2022](https://twitter.com/neo4j/status/1593008535725555718)
-- [Evidence Boards are analogs to #GraphDatabases-- says @jalakoo at #Neo4j&#39;s #NODES2022](https://twitter.com/neo4j/status/1593007527414976512)
-- [RT Nathan Smith: Jason Koo is on deck to talk about graph databases for Python developers at #NODES2022. It would be a great time to hop on for a sess...](https://twitter.com/nsmith_piano/status/1593006073279303680)
+- [Neo4j &amp; Aura 5 for Developers NEXT: Yes! Attend the next talk with @stegemangraph #NODES2022 #Neo4j5 BEGINNER STAGE!](https://twitter.com/neo4j/status/1593084035542437888)
+- [The friendship paradox: your friends have more friends than you do! @NAChristakis at #NODES2022 #Neo4j](https://twitter.com/neo4j/status/1593081504946610178)
+- [3 basic concepts to mathematically understand a #socialnetwork: -number of connections an individual has &lpar;#degree&rpar; -How central a person is in the net...](https://twitter.com/neo4j/status/1593076500357693440)
+- [NODES 2022 - Beginner Track #NODES2022](https://twitter.com/neo4j/status/1593066368903311360)
+- [#NODES2022 APAC Region is about to start 💥 You are on time to register! Interesing talks are waiting for you! Interact with the community, learn an...](https://twitter.com/neo4j/status/1593061419217555456)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
