@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @rastadidi NOW AT #NODES2022 What #holism means for IT services, why it matters, and how to connect that together? #timetomarket #finances #HumanRe...](https://twitter.com/neo4j/status/1593114225127424002)
-- [RT Adrien SALES: &quot;New properties emerging out of connexions&quot; from #NODES2022 #livetweet @neo4j @NAChristakis](https://twitter.com/rastadidi/status/1593096229407580160)
-- [A medical chatbot for all! #chatbot NOW LIVE AT #NODES2022, @dgg32](https://twitter.com/neo4j/status/1593095354823892992)
-- [❗Building graph applications in Streamlit can rapidly demonstrate value from data sources. David Hughes will explore a Clinical Streamlit App that wa...](https://twitter.com/neo4j/status/1593092837595578370)
-- [REMEMBER! You can win a T-SHIRT at NODES! 👕 1. Share a short post about any NODES presentation, including a screenshot of the live session showing ...](https://twitter.com/neo4j/status/1593091721939759104)
+- [Adam Turner at #NODES2022 - Advanced Stage- 👇 Applying #neo4j graph embedding algorithms using #GraphDataScience Library - Join us:](https://twitter.com/neo4j/status/1593149455527776256)
+- [NOW AT #NODES 2022 @zakjan 👉 Native graph storage with index-free adjacency in @Neo4j enables @get_manta to traverse complex data lineage flows wit...](https://twitter.com/neo4j/status/1593145687973036033)
+- [#NeoSemantics &amp; #Fabric are useful to build a #knowledgebase from public repositories to auto-augment #appsec findings reports with #MITRE #ATT&amp;CK &amp; #...](https://twitter.com/neo4j/status/1593139397834280960)
+- [RT Thomas Silkjær: Going live at #NODES2022 at 12 CET on the topic of XRPL ETL using @neo4j.](https://twitter.com/Silkjaer/status/1593137863155421184)
+- [If you&#39;re already up in the EMEA timezones, feel free to join our #NODES2022 talks early, they are still running from the APAC region &lpar;all unique talk...](https://twitter.com/neo4j/status/1593136916224151552)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
