@@ -79,9 +79,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Uploads
 
 <!-- BILIBILI-UPLOAD-LIST:START -->
-- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://www.bilibili.com/video/BV11e4y1v7wp)
-- [【百人一揆 - 无限的天狗党人】香菱和宵宫好配～](https://www.bilibili.com/video/BV14e411L7Kc)
-- [妮露卡池，但是晴宝](https://www.bilibili.com/video/BV11G4y1p7RF)
+- [可莉邀请你加入派昂科技](https://www.bilibili.com/video/BV1kR4y1Z7T8)
+- [【原 Log】深境螺旋 11 月下半期第 11 层](https://www.bilibili.com/video/BV17P4y117DY)
+- [【原Log】深境螺旋十一月下第十层](https://www.bilibili.com/video/BV11P411g74L)
 <!-- BILIBILI-UPLOAD-LIST:END -->
 
 ### Columns
