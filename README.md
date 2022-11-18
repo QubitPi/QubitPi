@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [if tik-tok and spotify had a baby 🎶 [project]](https://www.reddit.com/r/MachineLearning/comments/yy8gsg/if_tiktok_and_spotify_had_a_baby_project/)
+- [[R] StyleGAN2-ADA on Power 9?!](https://www.reddit.com/r/MachineLearning/comments/yy82si/r_stylegan2ada_on_power_9/)
 - [[D] my PhD advisor &quot;machine learning researchers are like children, always re-discovering things that are already known and make a big deal out of it.&quot;](https://www.reddit.com/r/MachineLearning/comments/yxzaz3/d_my_phd_advisor_machine_learning_researchers_are/)
 - [[P] Pro-Ukraine ML Project to Confirm and Disseminate Field Intel Faster](https://www.reddit.com/r/MachineLearning/comments/yxxhav/p_proukraine_ml_project_to_confirm_and/)
 - [[P] SkyPilot: ML on any cloud with massive cost savings](https://www.reddit.com/r/MachineLearning/comments/yxui76/p_skypilot_ml_on_any_cloud_with_massive_cost/)
-- [[R] RWKV-4 7B release: an attention-free RNN language model matching GPT-J performance &lpar;14B training in progress&rpar;](https://www.reddit.com/r/MachineLearning/comments/yxt8sa/r_rwkv4_7b_release_an_attentionfree_rnn_language/)
-- [[D] What happened to Butterfly factorizations in neural networks?](https://www.reddit.com/r/MachineLearning/comments/yxptqw/d_what_happened_to_butterfly_factorizations_in/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
