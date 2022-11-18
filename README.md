@@ -327,11 +327,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [The importance of Done for your Scrum Master 🚀 &lpar;77&rpar;](https://www.scrum.org/resources/blog/importance-done-your-scrum-master-77)
-- [Scrum Werkzeuge und Praktiken zur Vervollständigung eines unvollständigen Frameworks, Teil 1 🇩🇪](https://www.scrum.org/resources/blog/scrum-werkzeuge-und-praktiken-zur-vervollstandigung-eines-unvollstandigen-frameworks)
-- [What are the focus areas of an Agile Coach?](https://www.scrum.org/resources/blog/what-are-focus-areas-agile-coach)
-- [How to Start With Self-management in a Great Way](https://www.scrum.org/resources/blog/how-start-self-management-great-way)
-- [The HOW of Sprint Planning](https://www.scrum.org/resources/blog/how-sprint-planning)
+- [Commitments to the Scrum Artifacts](https://www.scrum.org/resources/blog/commitments-scrum-artifacts)
+- [Rules and Recommendations in Scrum](https://www.scrum.org/resources/blog/rules-and-recommendations-scrum)
+- [PSM I Post-mortem  : Events](https://www.scrum.org/resources/blog/psm-i-post-mortem-events)
+- [PSM I Post-mortem : Self Managing Teams](https://www.scrum.org/resources/blog/psm-i-post-mortem-self-managing-teams)
+- [PSM I Post-mortem  : Scrum Values](https://www.scrum.org/resources/blog/psm-i-post-mortem-scrum-values)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
