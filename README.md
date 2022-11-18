@@ -311,7 +311,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Using resnet50 commercially?](https://www.reddit.com/r/MachineLearning/comments/yywpi8/discussion_using_resnet50_commercially/)
+- [[D] Archit Sharma, Stanford: On unsupervised and autonomous reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/yyx1a4/d_archit_sharma_stanford_on_unsupervised_and/)
 - [[D] AAAI 2023 Notification of Acceptance/Rejection](https://www.reddit.com/r/MachineLearning/comments/yyvlyz/d_aaai_2023_notification_of_acceptancerejection/)
 - [[D] Pre-processing techniques before sending data to an Entity Extraction model &lpar;for NER&rpar;](https://www.reddit.com/r/MachineLearning/comments/yyoi77/d_preprocessing_techniques_before_sending_data_to/)
 - [[P] Sentence Embeddings for code: semantic code search using a SentenceTransformers model tuned with the CodeSearchNet dataset](https://www.reddit.com/r/MachineLearning/comments/yyoalm/p_sentence_embeddings_for_code_semantic_code/)
