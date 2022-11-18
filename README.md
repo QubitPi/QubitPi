@@ -512,10 +512,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- NEO4J-TWITTER:START -->
 - [Using Neo4j Fabric for Scalable Fraud Detection on Graphs. #Neo4j5 #fraudprevention #Graphdatabase](https://twitter.com/neo4j/status/1593529604811227136)
+- [RT Rik Van Bruggen: Still smiling after a wonderful #neo4j #nodes2022 conference yesterday &lpar;and the day before&rpar;. Sessions will be published soon, but ...](https://twitter.com/rvanbruggen/status/1593525292005457920)
+- [RT Michael Hunger 🇪🇺 🇺🇦: So @neo4j #NODES2022 is a wrap. I was really afraid something would break but 100 talks and 40 hours later reliev...](https://twitter.com/mesirii/status/1593384076865507329)
 - [SUSTAINGRAPH: A Knowledge Graph for Tracking Sustainable Development Goals👇 🍃 #sustainability #Neo4j](https://twitter.com/neo4j/status/1593378479747526656)
 - [RT Christoph Engelbert: Just uploaded the slide deck of my @neo4j #NODES talk today to #slideshare](https://twitter.com/noctarius2k/status/1593367440620388352)
-- [#Neo4j5 widens its performance lead over relational databases - Learn more: #Neo4j](https://twitter.com/neo4j/status/1593346801385771008)
-- [RT Tony Hammond: Made the @pragprog best seller list 😊 #ElixirLang #Graphs](https://twitter.com/tonyhammond/status/1593345387640897537)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
