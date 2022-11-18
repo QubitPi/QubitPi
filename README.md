@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Sentence Embeddings for code: semantic code search using a SentenceTransformers model tuned with the CodeSearchNet dataset](https://www.reddit.com/r/MachineLearning/comments/yyoalm/p_sentence_embeddings_for_code_semantic_code/)
 - [[D] NLP folks who have used AllenNLP, how do you migrate your projects to other framework&lpar;s&rpar;?](https://www.reddit.com/r/MachineLearning/comments/yyglj9/d_nlp_folks_who_have_used_allennlp_how_do_you/)
 - [[P]Modern open-source OCR capabilities and which model to choose](https://www.reddit.com/r/MachineLearning/comments/yyenpp/pmodern_opensource_ocr_capabilities_and_which/)
 - [[D] Time zone for ICLR 23 first discussion stage deadline](https://www.reddit.com/r/MachineLearning/comments/yy9s5t/d_time_zone_for_iclr_23_first_discussion_stage/)
 - [[D] my PhD advisor &quot;machine learning researchers are like children, always re-discovering things that are already known and make a big deal out of it.&quot;](https://www.reddit.com/r/MachineLearning/comments/yxzaz3/d_my_phd_advisor_machine_learning_researchers_are/)
-- [[P] Pro-Ukraine ML Project to Confirm and Disseminate Field Intel Faster](https://www.reddit.com/r/MachineLearning/comments/yxxhav/p_proukraine_ml_project_to_confirm_and/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
