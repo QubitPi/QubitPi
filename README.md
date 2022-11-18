@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the equivalent of a PC Scores in UMAP?](https://www.reddit.com/r/MachineLearning/comments/yyyda3/d_what_is_the_equivalent_of_a_pc_scores_in_umap/)
 - [[D] My embarrassing trouble with inverting a GAN generator. Do GAN questions still get answered? ;-&rpar;](https://www.reddit.com/r/MachineLearning/comments/yyxsxv/d_my_embarrassing_trouble_with_inverting_a_gan/)
 - [[D] Archit Sharma, Stanford: On unsupervised and autonomous reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/yyx1a4/d_archit_sharma_stanford_on_unsupervised_and/)
 - [[D] AAAI 2023 Notification of Acceptance/Rejection](https://www.reddit.com/r/MachineLearning/comments/yyvlyz/d_aaai_2023_notification_of_acceptancerejection/)
 - [[D] Pre-processing techniques before sending data to an Entity Extraction model &lpar;for NER&rpar;](https://www.reddit.com/r/MachineLearning/comments/yyoi77/d_preprocessing_techniques_before_sending_data_to/)
-- [[P] Sentence Embeddings for code: semantic code search using a SentenceTransformers model tuned with the CodeSearchNet dataset](https://www.reddit.com/r/MachineLearning/comments/yyoalm/p_sentence_embeddings_for_code_semantic_code/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
