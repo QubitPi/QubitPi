@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728997005624344609><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d46ddf063bd546be73a5cb1b73b8745c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@日斤今天减肥了吗@狸狸灯@萝莎莉娅-大笨蛋等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/729771220717797394)
+- [恭喜@什么皮皮怪@遥丨彼方@飞絮似雪等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/729769927930544180)
 - [#原神# #画外旅照青植之篇# #原神画外旅照摄影征集活动# 亲爱的旅行者，《原神》「画外旅照·青植之篇」摄影征集活动今日开启~ 〓活动时间〓 活动开启：11月16日...](https://t.bilibili.com/728997005624344609)
 - [恭喜@B站大学生不要分心@修仙魍衡@李李李李李1997等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/728656672409518169)
 - [#原神# #原神3.2# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/728628334226833424)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·神乐之真意」「弓·冬极白星」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/728627037133078658)
-- [#原神# #达达利亚# #暂别冬都# 亲爱的旅行者，「暂别冬都」活动祈愿即将开启，「『公子』·达达利亚&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/728626298413383698)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
