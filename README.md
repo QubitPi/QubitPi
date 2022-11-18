@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/728997005624344609><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d46ddf063bd546be73a5cb1b73b8745c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/729771220717797394><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/22118750c0bb8fd883e78116208592e5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@日斤今天减肥了吗@狸狸灯@萝莎莉娅-大笨蛋等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/729771220717797394)
