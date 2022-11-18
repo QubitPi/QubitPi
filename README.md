@@ -511,11 +511,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [📍Bangalore New to the world of graph technology? Want to know what are graph databases? How to build a career in graphs? Join the conference and wo...](https://twitter.com/neo4j/status/1593710686479257605)
 - [Learn how the handling of date/time between the Neo4j server and the drivers have recently improved with @fbiville --&gt;💯 #Devrel #Neo4j](https://twitter.com/neo4j/status/1593635473699676160)
 - [RT yWorks: Drumroll, please...🥁Data Explorer for @neo4j 1.4.0 is released! With custom relation styles, geospatial map layout, improved node templa...](https://twitter.com/yworks/status/1593611278978846722)
 - [Visit us at @NDSMLSummit and learn how Graph Data Science can turbocharge your Knowledge Graph with Kristof Neys. --&gt; Stockholm - November 22nd, Machi...](https://twitter.com/neo4j/status/1593589976952082432)
 - [Using Neo4j Fabric for Scalable Fraud Detection on Graphs. #Neo4j5 #fraudprevention #Graphdatabase](https://twitter.com/neo4j/status/1593529604811227136)
-- [RT Rik Van Bruggen: Still smiling after a wonderful #neo4j #nodes2022 conference yesterday &lpar;and the day before&rpar;. Sessions will be published soon, but ...](https://twitter.com/rvanbruggen/status/1593525292005457920)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
