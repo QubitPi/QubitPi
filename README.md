@@ -460,11 +460,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1593982454612004864)
 - [Graph theory is the coolest theory around 😎 Check out this first part, of a four-part series that will explore graph theory and graph neural networ...](https://twitter.com/arangodb/status/1593740868477161472)
 - [Graph is always done right with ArangoDB. 🥑 Register today and join graph expert Markus Pfeiffer on December 7th, 2022 for a tour of ArangoDB&#39;s gra...](https://twitter.com/arangodb/status/1593650257920925697)
 - [Go graph with ArangoDB! 🔥 Learn more about why users switch from relational to graph databases and how ArangoDB is the best way to do it. 🥑 Down...](https://twitter.com/arangodb/status/1593378473166282756)
 - [Learn how Innoplexus used ArangoDB to create one database to manage the Innoplexus KOL discovery and management platform. Read the full case study bel...](https://twitter.com/arangodb/status/1593272789896941572)
-- [Graph analytics can be implemented for many different uses. In this article, Nakul Agrawal teaches you how to understand digital organization with gra...](https://twitter.com/arangodb/status/1592925477479788544)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
