@@ -235,7 +235,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
-
+[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=oauth-in-action-code&show_owner=true&theme=vue)](https://github.com/QubitPi/oauth-in-action-code)
 
 My Tech Blogs
 -------------
