@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/729833076849377315><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a428f13f3e4983bcbf02f6ff62b990ce401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #八重神子# #妙狐徜徉之影# 《原神》EP - 妙狐徜徉之影 现已发布~ https://www.bilibili.com/video/BV1bR4y1f7P2 世人难见狐之千面，狐亦难测人...](https://t.bilibili.com/730113181730471942)
+- [《原神》EP - 妙狐徜徉之影](https://t.bilibili.com/730110136599707814)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·神乐之真意」「弓·冬极白星」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/729833076849377315)
 - [#原神# #达达利亚# #暂别冬都# 亲爱的旅行者，「暂别冬都」活动祈愿现已开启，「『公子』·达达利亚&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/729832814850080803)
 - [#原神# #八重神子# #华紫樱绯# 亲爱的旅行者，「华紫樱绯」活动祈愿现已开启，「浮世笑百姿·八重神子&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多...](https://t.bilibili.com/729832295170572356)
-- [《原神》拾枝杂谈-「莱依拉：沉眠星河」](https://t.bilibili.com/729831861373632601)
-- [恭喜@日斤今天减肥了吗@狸狸灯@萝莎莉娅-大笨蛋等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/729771220717797394)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
