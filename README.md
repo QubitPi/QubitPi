@@ -493,11 +493,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1593783487500541958)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #graphdatabase #memgraphdb #database...](https://twitter.com/memgraphdb/status/1593614259560251392)
 - [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1593589285311102981)
 - [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1593565211180425216)
 - [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. #memgraph ...](https://twitter.com/memgraphdb/status/1593555367002251266)
-- [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1593544761536700416)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
