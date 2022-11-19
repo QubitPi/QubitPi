@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/729833076849377315><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a428f13f3e4983bcbf02f6ff62b990ce401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730113181730471942><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b266a5581799a074bf8a80c121fa40b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #八重神子# #妙狐徜徉之影# 《原神》EP - 妙狐徜徉之影 现已发布~ https://www.bilibili.com/video/BV1bR4y1f7P2 世人难见狐之千面，狐亦难测人...](https://t.bilibili.com/730113181730471942)
