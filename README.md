@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] train autoregressive model](https://www.reddit.com/r/MachineLearning/comments/yzewu5/d_train_autoregressive_model/)
 - [[P] statsmodels.tsa.holtwinters.ExponentialSmoothing results in NaN forecasts and parameters when fitting on entire dataset using known parameters from training model.](https://www.reddit.com/r/MachineLearning/comments/yzcuwj/p_statsmodelstsaholtwintersexponentialsmoothing/)
 - [[D] Do you know of/have worked on any papers about adversarial attacks against ViTs?](https://www.reddit.com/r/MachineLearning/comments/yzc6ge/d_do_you_know_ofhave_worked_on_any_papers_about/)
 - [[R] Versatile Diffusion: Text, Images and Variations All in One Diffusion Model + Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/yzbx2c/r_versatile_diffusion_text_images_and_variations/)
 - [[P] I want to built an OCR font recognition tool for a non-english alphabet, is there a good model I can use?](https://www.reddit.com/r/MachineLearning/comments/yzbqzp/p_i_want_to_built_an_ocr_font_recognition_tool/)
-- [[N] new SNAPCHAT feature transfers an image of an upper body garment in realtime on a person in AR](https://www.reddit.com/r/MachineLearning/comments/yzap5b/n_new_snapchat_feature_transfers_an_image_of_an/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
