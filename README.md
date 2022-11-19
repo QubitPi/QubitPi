@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] new SNAPCHAT feature transfers an image of an upper body garment in realtime on a person in AR](https://www.reddit.com/r/MachineLearning/comments/yzap5b/n_new_snapchat_feature_transfers_an_image_of_an/)
 - [[D] Voice cloning state of the art?](https://www.reddit.com/r/MachineLearning/comments/yz8vxk/d_voice_cloning_state_of_the_art/)
 - [[D] David Ha/@hardmaru of Stability AI is liking all of Elon Musk&#39;s tweets](https://www.reddit.com/r/MachineLearning/comments/yz8ljz/d_david_hahardmaru_of_stability_ai_is_liking_all/)
 - [[D] conditional entropy or alternatives for synchronizing two networks?](https://www.reddit.com/r/MachineLearning/comments/yz7nnr/d_conditional_entropy_or_alternatives_for/)
 - [[P] Any object detection library](https://www.reddit.com/r/MachineLearning/comments/yz7dig/p_any_object_detection_library/)
-- [[R] DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation](https://www.reddit.com/r/MachineLearning/comments/yz1opc/r_dexpoint_generalizable_point_cloud/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
