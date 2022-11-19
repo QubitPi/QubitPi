@@ -311,11 +311,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Contextually Optimize any Swift/Java/Python Object with Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/yzoh60/p_contextually_optimize_any_swiftjavapython/)
+- [[P] ECG classification using transformers](https://www.reddit.com/r/MachineLearning/comments/yzod3o/p_ecg_classification_using_transformers/)
 - [[D] Research internship for 6 months](https://www.reddit.com/r/MachineLearning/comments/yzmo92/d_research_internship_for_6_months/)
 - [[D] BERT related questions](https://www.reddit.com/r/MachineLearning/comments/yzh6v1/d_bert_related_questions/)
 - [[D] train autoregressive model](https://www.reddit.com/r/MachineLearning/comments/yzewu5/d_train_autoregressive_model/)
-- [[P] statsmodels.tsa.holtwinters.ExponentialSmoothing results in NaN forecasts and parameters when fitting on entire dataset using known parameters from training model.](https://www.reddit.com/r/MachineLearning/comments/yzcuwj/p_statsmodelstsaholtwintersexponentialsmoothing/)
-- [[D] Do you know of/have worked on any papers about adversarial attacks against ViTs?](https://www.reddit.com/r/MachineLearning/comments/yzc6ge/d_do_you_know_ofhave_worked_on_any_papers_about/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
