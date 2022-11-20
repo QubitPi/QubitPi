@@ -494,11 +494,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. #memgraph #grap...](https://twitter.com/memgraphdb/status/1594348848293744641)
 - [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1594326738044977152)
 - [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1594318225314963458)
 - [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1594301347733577729)
 - [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1594267816403689472)
+- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1594243401104465926)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
