@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730141017399885840><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6c845dfcba0e291dc7890c0203034fff401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730483214639955977><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5a7ce9eecd3b4039db4a2d3281d719c0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@竹间秋@莫言路遥余秋雨@正当防卫与紧急避险等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/730141017399885840)
