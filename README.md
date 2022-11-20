@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Time Series Scenario Generation with deep learning [D]](https://www.reddit.com/r/MachineLearning/comments/z02xza/time_series_scenario_generation_with_deep/)
 - [[Discussion] World modeling in ML](https://www.reddit.com/r/MachineLearning/comments/yzyap8/discussion_world_modeling_in_ml/)
 - [[D] Are researchers attempting to solve the ‘omnipotence’ requirement problem in LLMs?](https://www.reddit.com/r/MachineLearning/comments/yzy7w1/d_are_researchers_attempting_to_solve_the/)
 - [Hey guys, I started a podcast where I interview guests from different subreddits and was wondering if anyone wanted to come on to talk about machine learning. DM me if you are interested. [D]](https://www.reddit.com/r/MachineLearning/comments/yzxz6b/hey_guys_i_started_a_podcast_where_i_interview/)
 - [[R] Sim2Real multi-finger robot hand manipulation using point cloud RL](https://www.reddit.com/r/MachineLearning/comments/yzw889/r_sim2real_multifinger_robot_hand_manipulation/)
-- [[D] Better alternatives to Google’s WaveNet TTS for Mandarin?](https://www.reddit.com/r/MachineLearning/comments/yzvium/d_better_alternatives_to_googles_wavenet_tts_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
