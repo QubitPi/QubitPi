@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Diving into mathematical derivations of some formulas. As for aspiring Machine Learning Engineer in the future, do I actually need them?](https://www.reddit.com/r/MachineLearning/comments/z0b0cw/d_diving_into_mathematical_derivations_of_some/)
 - [[R] Tips on training Transformers](https://www.reddit.com/r/MachineLearning/comments/z088fo/r_tips_on_training_transformers/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/z07o4c/d_simple_questions_thread/)
 - [[D] Meta AI, MultiRay: Optimizing efficiency for large-scale AI models](https://www.reddit.com/r/MachineLearning/comments/z04exx/d_meta_ai_multiray_optimizing_efficiency_for/)
 - [Time Series Scenario Generation with deep learning [D]](https://www.reddit.com/r/MachineLearning/comments/z02xza/time_series_scenario_generation_with_deep/)
-- [[D] Why do we train language models with next word prediction instead of some kind of reinforcement learning-like setup?](https://www.reddit.com/r/MachineLearning/comments/yzzxa2/d_why_do_we_train_language_models_with_next_word/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
