@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Diablo III - All Trailers and Cinematics &lpar;Resolution upscaled with neural networks to 8K 60FPS&rpar;](https://www.reddit.com/r/MachineLearning/comments/z071f2/discussion_diablo_iii_all_trailers_and_cinematics/)
 - [[P] AI learns to play crafter](https://www.reddit.com/r/MachineLearning/comments/z05nx9/p_ai_learns_to_play_crafter/)
 - [[D] Design patterns one should learn through their machine learning job.](https://www.reddit.com/r/MachineLearning/comments/z0551p/d_design_patterns_one_should_learn_through_their/)
 - [[D] Meta AI, MultiRay: Optimizing efficiency for large-scale AI models](https://www.reddit.com/r/MachineLearning/comments/z04exx/d_meta_ai_multiray_optimizing_efficiency_for/)
 - [[D] Any consumer software for video classification and trimming?](https://www.reddit.com/r/MachineLearning/comments/z03s5w/d_any_consumer_software_for_video_classification/)
-- [Time Series Scenario Generation with deep learning [D]](https://www.reddit.com/r/MachineLearning/comments/z02xza/time_series_scenario_generation_with_deep/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
