@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What exactly do we do with the scalar output of the SVM kernel?](https://www.reddit.com/r/MachineLearning/comments/z0q4wo/d_what_exactly_do_we_do_with_the_scalar_output_of/)
 - [[R] Legged Locomotion in Challenging Terrains In The Wild directly using Egocentric Vision &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0pw8d/r_legged_locomotion_in_challenging_terrains_in/)
 - [[P] SuperVisual Crowdsourcing datasets to train action transformers using Chrome/Edge tab sharing](https://www.reddit.com/r/MachineLearning/comments/z0poil/p_supervisual_crowdsourcing_datasets_to_train/)
 - [[P] Electric Mikado &lpar;Synthesizer V voices, AI artwork&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0mj8k/p_electric_mikado_synthesizer_v_voices_ai_artwork/)
 - [[N][R] Hugging Face Machine Learning Demos now accessible through arXiv](https://www.reddit.com/r/MachineLearning/comments/z0kx6c/nr_hugging_face_machine_learning_demos_now/)
-- [DS Blocks: write modular, compact, and decoupled data science pipelines [P]](https://www.reddit.com/r/MachineLearning/comments/z0d0qe/ds_blocks_write_modular_compact_and_decoupled/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
