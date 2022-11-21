@@ -328,11 +328,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Lernen bedeutet nicht wissen! 4 Schritte, um in Schulungen jeden einzubeziehen und der reinen Wissensvermittlung den Rücken zu kehren](https://www.scrum.org/resources/blog/lernen-bedeutet-nicht-wissen-4-schritte-um-schulungen-jeden-einzubeziehen-und-der)
 - [[VLOG] Improve Your Sprint Goal With This Simple Guideline ...](https://www.scrum.org/resources/blog/vlog-improve-your-sprint-goal-simple-guideline)
 - [Un Product Owner no es un Project Manager](https://www.scrum.org/resources/blog/un-product-owner-no-es-un-project-manager)
 - [How to Handle Unplanned Work in Scrum](https://www.scrum.org/resources/blog/how-handle-unplanned-work-scrum)
 - [Como descubrir ideas más rápido y conseguir agilidad de negocio](https://www.scrum.org/resources/blog/como-descubrir-ideas-mas-rapido-y-conseguir-agilidad-de-negocio)
-- [The importance of Done for your Scrum Master 🚀 &lpar;77&rpar;](https://www.scrum.org/resources/blog/importance-done-your-scrum-master-77)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
