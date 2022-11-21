@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Electric Mikado &lpar;Synthesizer V voices, AI artwork&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0mj8k/p_electric_mikado_synthesizer_v_voices_ai_artwork/)
 - [[R] difference between variational inference and gibbs sampler](https://www.reddit.com/r/MachineLearning/comments/z0l7fj/r_difference_between_variational_inference_and/)
 - [[N][R] Hugging Face Machine Learning Demos now accessible through arXiv](https://www.reddit.com/r/MachineLearning/comments/z0kx6c/nr_hugging_face_machine_learning_demos_now/)
 - [DS Blocks: write modular, compact, and decoupled data science pipelines [P]](https://www.reddit.com/r/MachineLearning/comments/z0d0qe/ds_blocks_write_modular_compact_and_decoupled/)
 - [[R] Tips on training Transformers](https://www.reddit.com/r/MachineLearning/comments/z088fo/r_tips_on_training_transformers/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/z07o4c/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
