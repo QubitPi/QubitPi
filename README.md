@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [SVM algorithm error [R] ??](https://www.reddit.com/r/MachineLearning/comments/z11b4t/svm_algorithm_error_r/)
 - [[D] Differentiate between same background negative and positive image](https://www.reddit.com/r/MachineLearning/comments/z112h0/d_differentiate_between_same_background_negative/)
 - [[Project] Self Host Hugging Face Spaces](https://www.reddit.com/r/MachineLearning/comments/z0ua4i/project_self_host_hugging_face_spaces/)
 - [[R][D] Reading ML Papers - Workflow/Advice](https://www.reddit.com/r/MachineLearning/comments/z0t72f/rd_reading_ml_papers_workflowadvice/)
 - [[R] Legged Locomotion in Challenging Terrains In The Wild directly using Egocentric Vision &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0pw8d/r_legged_locomotion_in_challenging_terrains_in/)
-- [[P] SuperVisual Crowdsourcing datasets to train action transformers using Chrome/Edge tab sharing](https://www.reddit.com/r/MachineLearning/comments/z0poil/p_supervisual_crowdsourcing_datasets_to_train/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
