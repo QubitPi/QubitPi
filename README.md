@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Suggestions for a socially valuable project that would welcome an unpaid contributor [D]](https://www.reddit.com/r/MachineLearning/comments/z195qr/suggestions_for_a_socially_valuable_project_that/)
 - [[D]deploy stable diffusion](https://www.reddit.com/r/MachineLearning/comments/z18xz0/ddeploy_stable_diffusion/)
 - [[R] Most human evaluation of generated content is done wrong.](https://www.reddit.com/r/MachineLearning/comments/z18vsr/r_most_human_evaluation_of_generated_content_is/)
 - [[D] Malware Detection Analysis Using Machine Learning](https://www.reddit.com/r/MachineLearning/comments/z170ar/d_malware_detection_analysis_using_machine/)
 - [[D] Advice on K-Means Clustering](https://www.reddit.com/r/MachineLearning/comments/z16to7/d_advice_on_kmeans_clustering/)
-- [[D] What are considered &quot;borderline papers&quot; for the ICLR reviewer/AC discussion period?](https://www.reddit.com/r/MachineLearning/comments/z16b0b/d_what_are_considered_borderline_papers_for_the/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
