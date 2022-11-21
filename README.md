@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730483214639955977><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5a7ce9eecd3b4039db4a2d3281d719c0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730852444387409942><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/654980773ebbb053cb8fcf005e02cb5d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #刻晴# #生日快乐# 谢谢你今天陪我出来散心，适时的放松有助于提高下一阶段的工作效率。 暂时脱离繁杂的事务，驻足眺望，看着一盏盏灯逐渐亮起...](https://t.bilibili.com/730483214639955977)
