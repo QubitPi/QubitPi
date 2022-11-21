@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P]: Emojify model has overfitting &lpar;Low accuracy on validation set&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0yqy5/p_emojify_model_has_overfitting_low_accuracy_on/)
-- [&quot;[Discussion]&quot;, &quot;[Research]&quot;](https://www.reddit.com/r/MachineLearning/comments/z0wsdi/discussion_research/)
 - [[Project] Self Host Hugging Face Spaces](https://www.reddit.com/r/MachineLearning/comments/z0ua4i/project_self_host_hugging_face_spaces/)
 - [[R][D] Reading ML Papers - Workflow/Advice](https://www.reddit.com/r/MachineLearning/comments/z0t72f/rd_reading_ml_papers_workflowadvice/)
 - [[R] Legged Locomotion in Challenging Terrains In The Wild directly using Egocentric Vision &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0pw8d/r_legged_locomotion_in_challenging_terrains_in/)
+- [[P] SuperVisual Crowdsourcing datasets to train action transformers using Chrome/Edge tab sharing](https://www.reddit.com/r/MachineLearning/comments/z0poil/p_supervisual_crowdsourcing_datasets_to_train/)
+- [[P] Electric Mikado &lpar;Synthesizer V voices, AI artwork&rpar;](https://www.reddit.com/r/MachineLearning/comments/z0mj8k/p_electric_mikado_synthesizer_v_voices_ai_artwork/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
