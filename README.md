@@ -512,11 +512,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Looking forward to your contributions, across graph database and graph analytics systems. Spanning industry, academia and open-source projects. Submit...](https://twitter.com/neo4j/status/1594616326030508038)
+- [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1594612975553646593)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Re Tomorrow morning 10am CET on the livestream we’ll import #mastodon data from the public...](https://twitter.com/mesirii/status/1594423468052955136)
 - [Read the press release about general availability of Neo4j 5, the next-generation cloud-ready graph data platform. #Neo4j5 #Neo4j #GraphDataBase](https://twitter.com/neo4j/status/1594400209320218626)
 - [RT Towards Data Science: Learn how to interactively analyze and visualize the House of the Dragon and Game of Thrones family trees using Neo4j with To...](https://twitter.com/TDataScience/status/1594349094197002240)
-- [Visit us at Nordic Data Science &amp; Machine Learning Summit 2022! Let&#39;s talk about #GraphDataScience! November 22nd and 23rd, Stockholm. Hope to see you...](https://twitter.com/neo4j/status/1594299553335103489)
-- [Graphs for Network Observability &amp; CyberSecurity meetup arrives in Sydney! 📍 Join Paul Ganzon and Jackson Zheng from Commonwealth Bank and Darren W...](https://twitter.com/neo4j/status/1594073044594483201)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
