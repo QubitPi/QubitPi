@@ -329,7 +329,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Lernen bedeutet nicht wissen! 4 Schritte, um in Schulungen jeden einzubeziehen und der reinen Wissensvermittlung den Rücken zu kehren](https://www.scrum.org/resources/blog/lernen-bedeutet-nicht-wissen-4-schritte-um-schulungen-jeden-einzubeziehen-und-der)
-- [[VLOG] Improve Your Sprint Goal With This Simple Guideline ...](https://www.scrum.org/resources/blog/vlog-improve-your-sprint-goal-simple-guideline)
+- [[VLOG] Improve Your Team&#39;s Sprint Goal With This Simple Guideline ...](https://www.scrum.org/resources/blog/vlog-improve-your-teams-sprint-goal-simple-guideline)
 - [Un Product Owner no es un Project Manager](https://www.scrum.org/resources/blog/un-product-owner-no-es-un-project-manager)
 - [How to Handle Unplanned Work in Scrum](https://www.scrum.org/resources/blog/how-handle-unplanned-work-scrum)
 - [Como descubrir ideas más rápido y conseguir agilidad de negocio](https://www.scrum.org/resources/blog/como-descubrir-ideas-mas-rapido-y-conseguir-agilidad-de-negocio)
