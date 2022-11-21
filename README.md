@@ -522,8 +522,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Full Stack GraphQL Book Club - Chapter 2: Graph Thinking With GraphQL](https://www.youtube.com/watch?v=8uXLEG3qOIs)
 - [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=14l01K18Ako)
+- [Full Stack GraphQL Book Club - Chapter 2: Graph Thinking With GraphQL](https://www.youtube.com/watch?v=8uXLEG3qOIs)
 - [Neo4j: NODES 2022 Keynote - Nicholas Christakis](https://www.youtube.com/watch?v=hCMv4UJo--4)
 - [NODES 2022 - Beginner Track EMEA](https://www.youtube.com/watch?v=pCGAJnYuHIY)
 - [NODES 2022 - Beginner Track APAC](https://www.youtube.com/watch?v=_2XAA7PcgTE)
