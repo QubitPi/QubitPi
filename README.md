@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Fixing Noisy GPS Data from Powered Paragliding Flights [D]](https://www.reddit.com/r/MachineLearning/comments/z1dplo/fixing_noisy_gps_data_from_powered_paragliding/)
 - [[D] AISTATS 2023 reviews are out](https://www.reddit.com/r/MachineLearning/comments/z1dc1g/d_aistats_2023_reviews_are_out/)
 - [[Discussion] Anyone got any good resources for reverse engineering ML models?](https://www.reddit.com/r/MachineLearning/comments/z1cdck/discussion_anyone_got_any_good_resources_for/)
 - [[R] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models - Massachusetts Institute of Technology and NVIDIA Guangxuan Xiao et al - Enables INT8 for LLM bigger than 100B parameters including OPT-175B, BLOOM-176B and GLM-130B.](https://www.reddit.com/r/MachineLearning/comments/z1b2rp/r_smoothquant_accurate_and_efficient_posttraining/)
 - [Suggestions for a socially valuable project that would welcome an unpaid contributor [D]](https://www.reddit.com/r/MachineLearning/comments/z195qr/suggestions_for_a_socially_valuable_project_that/)
-- [[D]deploy stable diffusion](https://www.reddit.com/r/MachineLearning/comments/z18xz0/ddeploy_stable_diffusion/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
