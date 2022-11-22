@@ -463,7 +463,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
-
+- [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
+- [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
+- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
+- [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
+- [Notice of Vote for Proposed Final Initiating User Registration via OpenID Connect Specification](https://openid.net/2022/11/09/notice-of-vote-for-proposed-final-initiating-user-registration-via-openid-connect-specification/)
 <!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
