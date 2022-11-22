@@ -436,6 +436,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- LETS-ENCRYPT-BLOG:END -->
 
 <!-- KEYCLOAK-BLOG:START -->
+- [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
+- [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
+- [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
+- [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
+- [New Keycloak maintainer: Michal Hajas](https://www.keycloak.org/2022/09/mhajas)
 <!-- KEYCLOAK-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
