@@ -240,7 +240,11 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Keycloak
 
-<img src="https://user-images.githubusercontent.com/16126939/203302231-7e917123-1ece-4cb1-b11a-7c9fac1dc0a7.png" alt="可莉" width="15%">[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/16126939/203302231-7e917123-1ece-4cb1-b11a-7c9fac1dc0a7.png" alt="可莉" width="40%">[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
+
+</div>
 
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
