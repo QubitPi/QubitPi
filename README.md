@@ -602,11 +602,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Etsy&#39;s observability and ML infrastructure teams moving to the cloud](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-cloud-scale.html#TheChallengesOfObservingEverything)
 - [Using the cloud to scale Etsy](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-cloud-scale.html)
 - [Using CWs](https://martinfowler.com/articles/exploring-mastodon.html#using-cws)
 - [Multiple Mastodon Accounts](https://martinfowler.com/articles/exploring-mastodon.html#multiple-mastodon-accounts)
 - [Your organization should run its own Mastodon server](https://martinfowler.com/articles/your-org-run-mastodon.html)
-- [An appeal to Americans who aren&#39;t inclined to vote in the midterm              elections](https://martinfowler.com/articles/2022-midterm-vote.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
