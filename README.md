@@ -529,11 +529,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1595127939305291792)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1595076387077033988)
 - [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1595027822380294145)
 - [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. #memgraph #gr...](https://twitter.com/memgraphdb/status/1595013731624407041)
 - [RT Katarina Šupe: I continued learning about #NetworkX, and when it comes to issues with #scaling and the need for #persistence when working on appli...](https://twitter.com/supe_katarina/status/1595008123521187843)
+- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1594951820333699072)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
