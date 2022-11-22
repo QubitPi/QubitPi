@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there a repo/model that can remove filler words from Audio/Video? &lpar;ums, ahs, etc&rpar;](https://www.reddit.com/r/MachineLearning/comments/z24c8d/d_is_there_a_repomodel_that_can_remove_filler/)
 - [[R] Efficient Transformers with Dynamic Token Pooling](https://www.reddit.com/r/MachineLearning/comments/z1z6js/r_efficient_transformers_with_dynamic_token/)
 - [[R] Human-level play in the game of Diplomacy by combining language models with strategic reasoning — Meta AI](https://www.reddit.com/r/MachineLearning/comments/z1yt45/r_humanlevel_play_in_the_game_of_diplomacy_by/)
 - [[P] Semantic audio search UI using CLIP like embeddings](https://www.reddit.com/r/MachineLearning/comments/z1xuh9/p_semantic_audio_search_ui_using_clip_like/)
 - [[R] Highlights for every NeurIPS 2022 paper](https://www.reddit.com/r/MachineLearning/comments/z1w4yn/r_highlights_for_every_neurips_2022_paper/)
-- [[D] What advanced models would you like to see implemented from scratch?](https://www.reddit.com/r/MachineLearning/comments/z1vh52/d_what_advanced_models_would_you_like_to_see/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
