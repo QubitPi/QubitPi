@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/730852444387409942><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/654980773ebbb053cb8fcf005e02cb5d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731225917564649541><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4f12a633f04f49b2ad2a2214c66f255a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #无相交响诗# 亲爱的旅行者，「无相交响诗·离调乐段」活动即将开启~ 〓活动时间〓 2022/11/24 10:00 ~ 2022/12/05 03:59 〓参与条件〓 冒险等阶≥20级 ...](https://t.bilibili.com/730852444387409942)
