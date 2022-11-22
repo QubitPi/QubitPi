@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Best diffusion model archetype to train?](https://www.reddit.com/r/MachineLearning/comments/z1iyv1/d_best_diffusion_model_archetype_to_train/)
 - [[P] [R] [D] Can Machine Actually Forget Your Data?](https://www.reddit.com/r/MachineLearning/comments/z1fzrz/p_r_d_can_machine_actually_forget_your_data/)
 - [[N] YouTube: What is a Convolution? &lpar;+ Baby Yoda&rpar;](https://www.reddit.com/r/MachineLearning/comments/z1finw/n_youtube_what_is_a_convolution_baby_yoda/)
 - [Fixing Noisy GPS Data from Powered Paragliding Flights [D]](https://www.reddit.com/r/MachineLearning/comments/z1dplo/fixing_noisy_gps_data_from_powered_paragliding/)
 - [[D] AISTATS 2023 reviews are out](https://www.reddit.com/r/MachineLearning/comments/z1dc1g/d_aistats_2023_reviews_are_out/)
-- [[Discussion] Anyone got any good resources for reverse engineering ML models?](https://www.reddit.com/r/MachineLearning/comments/z1cdck/discussion_anyone_got_any_good_resources_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
