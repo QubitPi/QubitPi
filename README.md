@@ -537,11 +537,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j 5 includes more power so you can ask deeper-context questions with faster results, scale out more easily with less cost, and operate more effici...](https://twitter.com/neo4j/status/1595039544390594560)
 - [RT Jason Koo: Michael and Alex detail how to use public Mastadon data in a graph database!](https://twitter.com/jalakoo/status/1594767751431831555)
 - [RT ApeVue 🔭🦍: 🦄Unicorns and their masters - a graph database 🔭 ApeVue utilized @neo4j and @googlecloud technology to look deeply into the ...](https://twitter.com/VueApe/status/1594740982083379211)
 - [Technical guide to building an educational platform on Neo4j — with @adamcowley. #Neo4j #graphdatabase #database #sql](https://twitter.com/neo4j/status/1594717350137315328)
 - [Attention!! Find Free Neo4j Data Scientist Courses!! GraphAcademy offers you Hands-on training with no installation required. Are you ready to start y...](https://twitter.com/neo4j/status/1594671741284278273)
-- [RT PyData Amsterdam: Re @stetelepta has experience with applying Machine Learning for fraud detection and customer risk scoring. His current focus is ...](https://twitter.com/pydataamsterdam/status/1594633546811035650)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
