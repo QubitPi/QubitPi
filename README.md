@@ -547,11 +547,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT NDSML Summit: How Graph Data Science can turbocharge your Knowledge Graph? In this session, currently presented by the amazing Kristof Neys from @n...](https://twitter.com/NDSMLSummit/status/1595082273996607489)
-- [RT Jason Koo: A more streamlined UI for @neo4j is on it&#39;s way. Check out this sneak peak video from my talented co-worker @jonathanlee321 -](https://twitter.com/jalakoo/status/1595069937835544577)
 - [Neo4j 5 includes more power so you can ask deeper-context questions with faster results, scale out more easily with less cost, and operate more effici...](https://twitter.com/neo4j/status/1595039544390594560)
-- [RT Scoutbee: The Scoutbee &amp; @neo4j Data Meetup is just two days away &lpar;November 24, 17:30&rpar;! Join our expert panelists from @scoutbeecompany, @neo4j, &amp; ...](https://twitter.com/scoutbeecompany/status/1595039428871065601)
-- [RT Benoît Simard: 📣 My #neo4j #elasticsearch plugin is now available for Neo4j 5.X :](https://twitter.com/logisima/status/1594986924707643392)
+- [RT Jason Koo: Michael and Alex detail how to use public Mastadon data in a graph database!](https://twitter.com/jalakoo/status/1594767751431831555)
+- [RT ApeVue 🔭🦍: 🦄Unicorns and their masters - a graph database 🔭 ApeVue utilized @neo4j and @googlecloud technology to look deeply into the ...](https://twitter.com/VueApe/status/1594740982083379211)
+- [Technical guide to building an educational platform on Neo4j — with @adamcowley. #Neo4j #graphdatabase #database #sql](https://twitter.com/neo4j/status/1594717350137315328)
+- [Attention!! Find Free Neo4j Data Scientist Courses!! GraphAcademy offers you Hands-on training with no installation required. Are you ready to start y...](https://twitter.com/neo4j/status/1594671741284278273)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
