@@ -456,6 +456,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [New Keycloak maintainer: Michal Hajas](https://www.keycloak.org/2022/09/mhajas)
 <!-- KEYCLOAK-BLOG:END -->
 
+#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
+
+- [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
+
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
