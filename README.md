@@ -519,11 +519,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1595027822380294145)
+- [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. #memgraph #gr...](https://twitter.com/memgraphdb/status/1595013731624407041)
+- [RT Katarina Šupe: I continued learning about #NetworkX, and when it comes to issues with #scaling and the need for #persistence when working on appli...](https://twitter.com/supe_katarina/status/1595008123521187843)
 - [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1594951820333699072)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1594921606484303874)
-- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1594839191195525120)
-- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1594749129250332672)
-- [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1594749094790144001)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
