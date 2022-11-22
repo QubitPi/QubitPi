@@ -435,6 +435,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
 
+<!-- KEYCLOAK-BLOG:START -->
+<!-- KEYCLOAK-BLOG:END -->
+
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
