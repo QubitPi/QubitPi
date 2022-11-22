@@ -460,6 +460,12 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 - [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
 
+<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/keycloak.png"></a></h4>
+
+<!-- OPENID-CONNECT-BLOG:START -->
+
+<!-- OPENID-CONNECT-BLOG:END -->
+
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
