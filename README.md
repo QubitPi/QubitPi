@@ -312,11 +312,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Intermittent demand forecasting](https://www.reddit.com/r/MachineLearning/comments/z1q0mr/d_intermittent_demand_forecasting/)
 - [[D] Hyperparameter Tuning of unsupervised isolation forest](https://www.reddit.com/r/MachineLearning/comments/z1pgha/d_hyperparameter_tuning_of_unsupervised_isolation/)
 - [[D] what are the SOTA neural PDE solvers besides FNO?](https://www.reddit.com/r/MachineLearning/comments/z1nfma/d_what_are_the_sota_neural_pde_solvers_besides_fno/)
 - [[R] Upto 2.5X speed up of Stable-diffusion/Dreambooth using one line of code with voltaML.](https://www.reddit.com/r/MachineLearning/comments/z1kz7m/r_upto_25x_speed_up_of_stablediffusiondreambooth/)
 - [[D] Best diffusion model archetype to train?](https://www.reddit.com/r/MachineLearning/comments/z1iyv1/d_best_diffusion_model_archetype_to_train/)
-- [[P] [R] [D] Can Machine Actually Forget Your Data?](https://www.reddit.com/r/MachineLearning/comments/z1fzrz/p_r_d_can_machine_actually_forget_your_data/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
