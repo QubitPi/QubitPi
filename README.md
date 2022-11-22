@@ -460,7 +460,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 - [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
 
-<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/keycloak.png"></a></h4>
+<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
 
