@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] AlphaTensor - Motivation, method, and assessment](https://www.reddit.com/r/MachineLearning/comments/z1si2m/r_alphatensor_motivation_method_and_assessment/)
 - [[P] Semantic Search with SQLite](https://www.reddit.com/r/MachineLearning/comments/z1qk7k/p_semantic_search_with_sqlite/)
 - [[D] Intermittent demand forecasting](https://www.reddit.com/r/MachineLearning/comments/z1q0mr/d_intermittent_demand_forecasting/)
 - [[D] Hyperparameter Tuning of unsupervised isolation forest](https://www.reddit.com/r/MachineLearning/comments/z1pgha/d_hyperparameter_tuning_of_unsupervised_isolation/)
 - [[D] what are the SOTA neural PDE solvers besides FNO?](https://www.reddit.com/r/MachineLearning/comments/z1nfma/d_what_are_the_sota_neural_pde_solvers_besides_fno/)
-- [[R] Upto 2.5X speed up of Stable-diffusion/Dreambooth using one line of code with voltaML.](https://www.reddit.com/r/MachineLearning/comments/z1kz7m/r_upto_25x_speed_up_of_stablediffusiondreambooth/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
