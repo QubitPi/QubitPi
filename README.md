@@ -323,9 +323,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] BetterTransformer: PyTorch-native free-lunch speedups for Transformer-based models](https://www.reddit.com/r/MachineLearning/comments/z1titt/p_bettertransformer_pytorchnative_freelunch/)
 - [[R] AlphaTensor - Motivation, method, and assessment](https://www.reddit.com/r/MachineLearning/comments/z1si2m/r_alphatensor_motivation_method_and_assessment/)
 - [[P] Semantic Search with SQLite](https://www.reddit.com/r/MachineLearning/comments/z1qk7k/p_semantic_search_with_sqlite/)
-- [[D] Intermittent demand forecasting](https://www.reddit.com/r/MachineLearning/comments/z1q0mr/d_intermittent_demand_forecasting/)
 - [[D] Hyperparameter Tuning of unsupervised isolation forest](https://www.reddit.com/r/MachineLearning/comments/z1pgha/d_hyperparameter_tuning_of_unsupervised_isolation/)
 - [[D] what are the SOTA neural PDE solvers besides FNO?](https://www.reddit.com/r/MachineLearning/comments/z1nfma/d_what_are_the_sota_neural_pde_solvers_besides_fno/)
 <!-- REDDIT-ML:END -->
