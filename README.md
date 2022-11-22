@@ -494,11 +494,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1594951820333699072)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1594921606484303874)
 - [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1594839191195525120)
 - [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1594749129250332672)
 - [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1594749094790144001)
+- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1594718004268650499)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
