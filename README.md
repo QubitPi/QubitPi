@@ -435,7 +435,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
 
-<h4><a href="https://www.keycloak.org/"><img width="15%" src="./img/keycloak.png"></a></h4>
+<h4><a href="https://www.keycloak.org/"><img width="30%" src="./img/keycloak.png"></a></h4>
 
 <!-- KEYCLOAK-BLOG:START -->
 - [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
