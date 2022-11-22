@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Getting GPT-3 quality with a model 1000x smaller via distillation plus Snorkel](https://www.reddit.com/r/MachineLearning/comments/z26fui/r_getting_gpt3_quality_with_a_model_1000x_smaller/)
 - [[D] NeurIPS Breakfast](https://www.reddit.com/r/MachineLearning/comments/z25xw3/d_neurips_breakfast/)
 - [[R] Efficient Transformers with Dynamic Token Pooling](https://www.reddit.com/r/MachineLearning/comments/z1z6js/r_efficient_transformers_with_dynamic_token/)
 - [[R] Human-level play in the game of Diplomacy by combining language models with strategic reasoning — Meta AI](https://www.reddit.com/r/MachineLearning/comments/z1yt45/r_humanlevel_play_in_the_game_of_diplomacy_by/)
 - [[P] Semantic audio search UI using CLIP like embeddings](https://www.reddit.com/r/MachineLearning/comments/z1xuh9/p_semantic_audio_search_ui_using_clip_like/)
-- [[R] Highlights for every NeurIPS 2022 paper](https://www.reddit.com/r/MachineLearning/comments/z1w4yn/r_highlights_for_every_neurips_2022_paper/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
