@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Is it possible to have the following huggingface implementation](https://www.reddit.com/r/MachineLearning/comments/z1wd42/discussion_is_it_possible_to_have_the_following/)
+- [[R] Highlights for every NeurIPS 2022 paper](https://www.reddit.com/r/MachineLearning/comments/z1w4yn/r_highlights_for_every_neurips_2022_paper/)
 - [[D] What advanced models would you like to see implemented from scratch?](https://www.reddit.com/r/MachineLearning/comments/z1vh52/d_what_advanced_models_would_you_like_to_see/)
 - [[P] BetterTransformer: PyTorch-native free-lunch speedups for Transformer-based models](https://www.reddit.com/r/MachineLearning/comments/z1titt/p_bettertransformer_pytorchnative_freelunch/)
 - [[D] Hyperparameter Tuning of unsupervised isolation forest](https://www.reddit.com/r/MachineLearning/comments/z1pgha/d_hyperparameter_tuning_of_unsupervised_isolation/)
-- [[D] what are the SOTA neural PDE solvers besides FNO?](https://www.reddit.com/r/MachineLearning/comments/z1nfma/d_what_are_the_sota_neural_pde_solvers_besides_fno/)
-- [[D] Best diffusion model archetype to train?](https://www.reddit.com/r/MachineLearning/comments/z1iyv1/d_best_diffusion_model_archetype_to_train/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
