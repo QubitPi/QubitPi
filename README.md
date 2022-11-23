@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: After fighting with the youtube API for a few days - Just made the Neo4j #NODES2022 videos ...](https://twitter.com/mesirii/status/1595526556415320069)
+- [Full Stack GraphQL Book Club - Chapter 2: Graph Thinking With GraphQL @lyonwj](https://twitter.com/neo4j/status/1595519007440134144)
 - [RT Logical Graphs, LLC 💙: Re @realhatefk Gotcha. I am a #graphista, so whatever data set I can model in a graph, it usually ends up somewhere on Au...](https://twitter.com/logicalgraphs/status/1595454580820680709)
 - [RT Neo4j: Join the #GraphQL Book Club! @lyonwj and @alexandererdl will look at data modeling with GraphQL and how to build a GraphQL API application u...](https://twitter.com/neo4j/status/1595439545071566848)
 - [Join the #GraphQL Book Club! @lyonwj and @alexandererdl will look at data modeling with GraphQL and how to build a GraphQL API application using #Apol...](https://twitter.com/neo4j/status/1595439545071566848)
-- [If you’re attending AWS re:Invent 2022, visit our experts at booth 246! 💥 November 28th through December 1st in Las Vegas, Nevada.📍 Hope to see...](https://twitter.com/neo4j/status/1595417375955976193)
-- [RT Manning Publications: 📢FREE eBook📢 #GraphQL—your key to creating modern full-stack applications! In Full Stack GraphQL Applications, @lyonwj...](https://twitter.com/ManningBooks/status/1595402221096615937)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
