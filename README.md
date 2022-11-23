@@ -240,14 +240,10 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Keycloak
 
-<div align="center">
-
-<a href="https://www.bilibili.com/video/BV1wa4y1L7BW"><img src="https://user-images.githubusercontent.com/16126939/203302231-7e917123-1ece-4cb1-b11a-7c9fac1dc0a7.png" alt="可莉" width="35%"></a>[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
-
-</div>
-
+[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
+[![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
 
 My Tech Blogs
 -------------
