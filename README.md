@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Logical Graphs, LLC 💙: Re @realhatefk Gotcha. I am a #graphista, so whatever data set I can model in a graph, it usually ends up somewhere on Au...](https://twitter.com/logicalgraphs/status/1595454580820680709)
-- [RT Neo4j: Join the #GraphQL Book Club! @lyonwj and @alexandererdl will look at data modeling with GraphQL and how to build a GraphQL API application u...](https://twitter.com/neo4j/status/1595439545071566848)
 - [Join the #GraphQL Book Club! @lyonwj and @alexandererdl will look at data modeling with GraphQL and how to build a GraphQL API application using #Apol...](https://twitter.com/neo4j/status/1595439545071566848)
 - [If you’re attending AWS re:Invent 2022, visit our experts at booth 246! 💥 November 28th through December 1st in Las Vegas, Nevada.📍 Hope to see...](https://twitter.com/neo4j/status/1595417375955976193)
-- [RT Manning Publications: 📢FREE eBook📢 #GraphQL—your key to creating modern full-stack applications! In Full Stack GraphQL Applications, @lyonwj...](https://twitter.com/ManningBooks/status/1595402221096615937)
+- [Building a GraphQL API? If your backend isn&#39;t graph-ready you might run into performance problems. Learn how native graph databases like Neo4j enable ...](https://twitter.com/neo4j/status/1595161971569090560)
+- [Graphs for Coordinating, Connecting, and Mobilizing ESG Data - by Harish Arora, Managing Director, EY. #sustainability #Neo4j #GraphDatabase @EYnews](https://twitter.com/neo4j/status/1595130163905187842)
+- [RT NDSML Summit: How Graph Data Science can turbocharge your Knowledge Graph? In this session, currently presented by the amazing Kristof Neys from @n...](https://twitter.com/NDSMLSummit/status/1595082273996607489)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
