@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Category Theory for AI,AI for Category theory](https://www.reddit.com/r/MachineLearning/comments/z2hr4c/r_category_theory_for_aiai_for_category_theory/)
+- [[D] Schmidhuber: LeCun&#39;s &quot;5 best ideas 2012-22” are mostly from my lab, and older](https://www.reddit.com/r/MachineLearning/comments/z2hr3p/d_schmidhuber_lecuns_5_best_ideas_201222_are/)
 - [[P] predictive model building for y = f&lpar;X1, X2, X3,.. &rpar;](https://www.reddit.com/r/MachineLearning/comments/z2hf4t/p_predictive_model_building_for_y_fx1_x2_x3/)
 - [[D] Attend NeurIPS for a job search vs. a smaller event](https://www.reddit.com/r/MachineLearning/comments/z2akd6/d_attend_neurips_for_a_job_search_vs_a_smaller/)
 - [[D] Am I stupid for avoiding high level frameworks?](https://www.reddit.com/r/MachineLearning/comments/z2a0xg/d_am_i_stupid_for_avoiding_high_level_frameworks/)
-- [[D] Best Repo&#39;s for Speech -&gt; Phoneme Recognition](https://www.reddit.com/r/MachineLearning/comments/z28nw8/d_best_repos_for_speech_phoneme_recognition/)
-- [[R] Getting GPT-3 quality with a model 1000x smaller via distillation plus Snorkel](https://www.reddit.com/r/MachineLearning/comments/z26fui/r_getting_gpt3_quality_with_a_model_1000x_smaller/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
