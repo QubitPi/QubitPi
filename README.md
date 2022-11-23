@@ -238,12 +238,36 @@ By tapping into the collective talent and innovation of open source communities,
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
-#### Keycloak
+#### Keycloak-Related Forks
 
 [![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
 [![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
+
+<h4><a href="https://www.keycloak.org/"><img width="30%" src="./img/keycloak.png"></a></h4>
+
+<!-- KEYCLOAK-BLOG:START -->
+- [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
+- [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
+- [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
+- [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
+- [New Keycloak maintainer: Michal Hajas](https://www.keycloak.org/2022/09/mhajas)
+<!-- KEYCLOAK-BLOG:END -->
+
+#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
+
+- [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
+
+<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
+
+<!-- OPENID-CONNECT-BLOG:START -->
+- [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
+- [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
+- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
+- [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
+- [Notice of Vote for Proposed Final Initiating User Registration via OpenID Connect Specification](https://openid.net/2022/11/09/notice-of-vote-for-proposed-final-initiating-user-registration-via-openid-connect-specification/)
+<!-- OPENID-CONNECT-BLOG:END -->
 
 My Tech Blogs
 -------------
@@ -441,30 +465,6 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [TLS Beyond the Web: How MongoDB Uses Let’s Encrypt for Database-to-Application Security](https://letsencrypt.org/2022/04/28/database-to-app-tls.html)
 - [Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography](https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
-
-<h4><a href="https://www.keycloak.org/"><img width="30%" src="./img/keycloak.png"></a></h4>
-
-<!-- KEYCLOAK-BLOG:START -->
-- [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
-- [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
-- [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
-- [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
-- [New Keycloak maintainer: Michal Hajas](https://www.keycloak.org/2022/09/mhajas)
-<!-- KEYCLOAK-BLOG:END -->
-
-#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
-
-- [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
-
-<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
-
-<!-- OPENID-CONNECT-BLOG:START -->
-- [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
-- [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
-- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
-- [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
-- [Notice of Vote for Proposed Final Initiating User Registration via OpenID Connect Specification](https://openid.net/2022/11/09/notice-of-vote-for-proposed-final-initiating-user-registration-via-openid-connect-specification/)
-<!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
