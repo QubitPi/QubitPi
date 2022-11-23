@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Transfer Learning of Image Trained Network in Audio Domain](https://www.reddit.com/r/MachineLearning/comments/z30bf2/d_transfer_learning_of_image_trained_network_in/)
 - [[D] Open Source project for classifying trees / plants?](https://www.reddit.com/r/MachineLearning/comments/z2y5q5/d_open_source_project_for_classifying_trees_plants/)
 - [[Project] Background removal tool based on our recent work &quot;Revisiting Image Pyramid Structure for High Resolution Salient Object Detection&quot;](https://www.reddit.com/r/MachineLearning/comments/z2n3cl/project_background_removal_tool_based_on_our/)
 - [[R] Category Theory for AI,AI for Category theory](https://www.reddit.com/r/MachineLearning/comments/z2hr4c/r_category_theory_for_aiai_for_category_theory/)
 - [[D] Schmidhuber: LeCun&#39;s &quot;5 best ideas 2012-22” are mostly from my lab, and older](https://www.reddit.com/r/MachineLearning/comments/z2hr3p/d_schmidhuber_lecuns_5_best_ideas_201222_are/)
-- [[D] Attend NeurIPS for a job search vs. a smaller event](https://www.reddit.com/r/MachineLearning/comments/z2akd6/d_attend_neurips_for_a_job_search_vs_a_smaller/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
