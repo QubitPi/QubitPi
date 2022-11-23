@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731225917564649541><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4f12a633f04f49b2ad2a2214c66f255a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731594498770993169><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/adec78b1ee8bd6fc0672b75e3ec8f254401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.3# #六入尽明诸相皆无# #3.3版本前瞻特别节目# 旅行者们大家好，派蒙又带着特别节目的预告来啦&gt; &lt; 《原神》3.3版本前瞻特别节目——「鹿说诈骗」...](https://t.bilibili.com/731594498770993169)
