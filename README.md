@@ -529,11 +529,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1595270884830466049)
 - [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1595221130398220288)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1595154671026446342)
 - [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1595127939305291792)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1595076387077033988)
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1595027822380294145)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
