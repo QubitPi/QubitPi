@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Join the #GraphQL Book Club! @lyonwj and @alexandererdl will look at data modeling with GraphQL and how to build a GraphQL API application using #Apol...](https://twitter.com/neo4j/status/1595439545071566848)
 - [If you’re attending AWS re:Invent 2022, visit our experts at booth 246! 💥 November 28th through December 1st in Las Vegas, Nevada.📍 Hope to see...](https://twitter.com/neo4j/status/1595417375955976193)
 - [Building a GraphQL API? If your backend isn&#39;t graph-ready you might run into performance problems. Learn how native graph databases like Neo4j enable ...](https://twitter.com/neo4j/status/1595161971569090560)
 - [Graphs for Coordinating, Connecting, and Mobilizing ESG Data - by Harish Arora, Managing Director, EY. #sustainability #Neo4j #GraphDatabase @EYnews](https://twitter.com/neo4j/status/1595130163905187842)
 - [RT NDSML Summit: How Graph Data Science can turbocharge your Knowledge Graph? In this session, currently presented by the amazing Kristof Neys from @n...](https://twitter.com/NDSMLSummit/status/1595082273996607489)
-- [RT Jason Koo: A more streamlined UI for @neo4j is on it&#39;s way. Check out this sneak peak video from my talented co-worker @jonathanlee321 -](https://twitter.com/jalakoo/status/1595069937835544577)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
