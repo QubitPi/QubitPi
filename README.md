@@ -545,9 +545,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- NEO4J-TWITTER:START -->
 - [&quot;Mapping social networks of the isolated Hadza society shows that network structure is consistent with a very ancient origin of social relationships.&quot;...](https://twitter.com/neo4j/status/1595779550356594689)
 - [Graphs + Airport routes ✈👀 #TBT to this &quot;Discover AuraDS&quot; with @alexandererdl and @mesirii #GraphDataScience #Neo4j #AuraDS](https://twitter.com/neo4j/status/1595749234698878977)
+- [RT Rik Van Bruggen: Very happy to see my talk about &quot;A Developer&#39;s guide to building a graph project value case&quot; available online at](https://twitter.com/rvanbruggen/status/1595721664603557889)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On my way to #Berlin Come join me this afternoon 17:30 for the #Meetup at @scoutbeecompany ...](https://twitter.com/mesirii/status/1595716703341760514)
 - [RT InfoQ: Neo4j 5 Graph Database Supports Automated Scaling and Deployment Interoperability](https://twitter.com/InfoQ/status/1595687165320900609)
-- [🏹 Path finding algorithms find paths between two or more nodes and evaluate the availability and quality of those paths. Learn more: #Neo4j #DataSc...](https://twitter.com/neo4j/status/1595556816255037440)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
