@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731594498770993169><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/adec78b1ee8bd6fc0672b75e3ec8f254401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731942343877328915><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3e6a6660f095aaa7266f73fa1b139852401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.2# 旅行者们好呀，「无相交响诗」活动现已开启，活动中的无相之冰有哪些特性？一起来看看吧~](https://t.bilibili.com/731942343877328915)
