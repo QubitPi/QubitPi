@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1595778877661511686)
-- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1595775618976710657)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1595762175120916480)
-- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1595761500001603584)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1595660239142952960)
+- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1595574402414006277)
+- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1595570927789658112)
+- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1595533943469928449)
+- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1595479775186927616)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
