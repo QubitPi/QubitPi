@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Ukraine ML Project &lpar;training provided&rpar;](https://www.reddit.com/r/MachineLearning/comments/z3uytw/p_ukraine_ml_project_training_provided/)
 - [[D] random forest models](https://www.reddit.com/r/MachineLearning/comments/z3omic/d_random_forest_models/)
 - [[D] Crowdsourced data collection](https://www.reddit.com/r/MachineLearning/comments/z3oklu/d_crowdsourced_data_collection/)
 - [[R] Bart cross attention](https://www.reddit.com/r/MachineLearning/comments/z3meib/r_bart_cross_attention/)
 - [[P] Get the max of your data with the easier way to do machine learning in Python without coding!](https://www.reddit.com/r/MachineLearning/comments/z3jv8n/p_get_the_max_of_your_data_with_the_easier_way_to/)
-- [[D] inference on GNN](https://www.reddit.com/r/MachineLearning/comments/z3ik75/d_inference_on_gnn/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
