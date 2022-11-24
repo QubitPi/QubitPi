@@ -343,7 +343,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Latest trends in recommendation systems](https://www.reddit.com/r/MachineLearning/comments/z33g47/d_latest_trends_in_recommendation_systems/)
+- [[P] Stable Diffusion 2.0 Announcement](https://www.reddit.com/r/MachineLearning/comments/z36n5j/p_stable_diffusion_20_announcement/)
 - [[R] MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge - NVIDIA et al / Linxi Fan et al 2022](https://www.reddit.com/r/MachineLearning/comments/z32ibx/r_minedojo_building_openended_embodied_agents/)
 - [[D] Transfer Learning of Image Trained Network in Audio Domain](https://www.reddit.com/r/MachineLearning/comments/z30bf2/d_transfer_learning_of_image_trained_network_in/)
 - [[Project] Background removal tool based on our recent work &quot;Revisiting Image Pyramid Structure for High Resolution Salient Object Detection&quot;](https://www.reddit.com/r/MachineLearning/comments/z2n3cl/project_background_removal_tool_based_on_our/)
