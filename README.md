@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Cypher is Neo4j’s powerful query language! 💻 Take this one-hour training to start reading and writing data to the graph. It&#39;s free! 😮 #Cypher #...](https://twitter.com/neo4j/status/1595866378594123777)
+- [RT Arjun Bali: “Loading data from Hive to Neo4j by using Apache Hop&lpar;all inside docker containers&rpar;” by Tarun Bali](https://twitter.com/168676de4f2d4e9/status/1595831002852904962)
+- [RT Adam Cowley: Generating the same page with @nextjs and @astrodotbuild, pulling data from @neo4j. Both pages use SSR, with a bookmark component serv...](https://twitter.com/adamcowley/status/1595792675156152326)
 - [&quot;Mapping social networks of the isolated Hadza society shows that network structure is consistent with a very ancient origin of social relationships.&quot;...](https://twitter.com/neo4j/status/1595779550356594689)
-- [Graphs + Airport routes ✈👀 #TBT to this &quot;Discover AuraDS&quot; with @alexandererdl and @mesirii #GraphDataScience #Neo4j #AuraDS](https://twitter.com/neo4j/status/1595749234698878977)
-- [RT Rik Van Bruggen: Very happy to see my talk about &quot;A Developer&#39;s guide to building a graph project value case&quot; available online at](https://twitter.com/rvanbruggen/status/1595721664603557889)
-- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On my way to #Berlin Come join me this afternoon 17:30 for the #Meetup at @scoutbeecompany ...](https://twitter.com/mesirii/status/1595716703341760514)
-- [RT InfoQ: Neo4j 5 Graph Database Supports Automated Scaling and Deployment Interoperability](https://twitter.com/InfoQ/status/1595687165320900609)
+- [RT OpenCredo: Attending #ConTech2022 next week? Look out for @ebrucucen&#39;s session with @adamsci12 from @sagepublishing on &#39;Searching for Research Frau...](https://twitter.com/OpenCredo/status/1595751800019505154)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
