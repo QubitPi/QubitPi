@@ -343,7 +343,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Ukraine ML Project &lpar;training provided&rpar;](https://www.reddit.com/r/MachineLearning/comments/z3uytw/p_ukraine_ml_project_training_provided/)
+- [[P] Free Stable Diffusion 2.0 hosted interface](https://www.reddit.com/r/MachineLearning/comments/z3xpd2/p_free_stable_diffusion_20_hosted_interface/)
 - [[D] Crowdsourced data collection](https://www.reddit.com/r/MachineLearning/comments/z3oklu/d_crowdsourced_data_collection/)
 - [[R] Bart cross attention](https://www.reddit.com/r/MachineLearning/comments/z3meib/r_bart_cross_attention/)
 - [[P] Get the max of your data with the easier way to do machine learning in Python without coding!](https://www.reddit.com/r/MachineLearning/comments/z3jv8n/p_get_the_max_of_your_data_with_the_easier_way_to/)
