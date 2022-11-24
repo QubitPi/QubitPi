@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Graphs + Airport routes ✈👀 #TBT to this &quot;Discover AuraDS&quot; with @alexandererdl and @mesirii #GraphDataScience #Neo4j #AuraDS](https://twitter.com/neo4j/status/1595749234698878977)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On my way to #Berlin Come join me this afternoon 17:30 for the #Meetup at @scoutbeecompany ...](https://twitter.com/mesirii/status/1595716703341760514)
-- [RT InfoQ: Neo4j 5 Graph Database Supports Automated Scaling and Deployment Interoperability](https://twitter.com/InfoQ/status/1595687165320900609)
 - [🏹 Path finding algorithms find paths between two or more nodes and evaluate the availability and quality of those paths. Learn more: #Neo4j #DataSc...](https://twitter.com/neo4j/status/1595556816255037440)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: After fighting with the youtube API for a few days - Just made the Neo4j #NODES2022 videos ...](https://twitter.com/mesirii/status/1595526556415320069)
+- [Full Stack GraphQL Book Club - Chapter 2: Graph Thinking With GraphQL @lyonwj](https://twitter.com/neo4j/status/1595519007440134144)
+- [RT Logical Graphs, LLC 💙: Re @realhatefk Gotcha. I am a #graphista, so whatever data set I can model in a graph, it usually ends up somewhere on Au...](https://twitter.com/logicalgraphs/status/1595454580820680709)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
