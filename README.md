@@ -359,11 +359,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Wertschöpfung in Scrum 🇩🇪](https://www.scrum.org/resources/blog/wertschopfung-scrum)
 - [[VLOG] 8 Hats The Scrum Master Wears As  A True Leader Who Serves](https://www.scrum.org/resources/blog/vlog-8-hats-scrum-master-wears-true-leader-who-serves-0)
 - [This is how Scrum improves your risk-taking process](https://www.scrum.org/resources/blog/how-scrum-improves-your-risk-taking-process)
 - [How to Facilitate a Self-Organization Session for your Scrum Team](https://www.scrum.org/resources/blog/how-facilitate-self-organization-session-your-scrum-team)
 - [Value Creation in Scrum: Shift Left](https://www.scrum.org/resources/blog/value-creation-scrum-shift-left)
-- [Lernen bedeutet nicht wissen! 4 Schritte, um in Schulungen jeden einzubeziehen und der reinen Wissensvermittlung den Rücken zu kehren](https://www.scrum.org/resources/blog/lernen-bedeutet-nicht-wissen-4-schritte-um-schulungen-jeden-einzubeziehen-und-der)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
