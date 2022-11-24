@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Pre-Trained Models for Tabular Question and Answering for SEC Filings.](https://www.reddit.com/r/MachineLearning/comments/z39z7x/d_pretrained_models_for_tabular_question_and/)
 - [[P] Stable Diffusion 2.0 Announcement](https://www.reddit.com/r/MachineLearning/comments/z36n5j/p_stable_diffusion_20_announcement/)
 - [[R] MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge - NVIDIA et al / Linxi Fan et al 2022](https://www.reddit.com/r/MachineLearning/comments/z32ibx/r_minedojo_building_openended_embodied_agents/)
 - [[D] Transfer Learning of Image Trained Network in Audio Domain](https://www.reddit.com/r/MachineLearning/comments/z30bf2/d_transfer_learning_of_image_trained_network_in/)
 - [[Project] Background removal tool based on our recent work &quot;Revisiting Image Pyramid Structure for High Resolution Salient Object Detection&quot;](https://www.reddit.com/r/MachineLearning/comments/z2n3cl/project_background_removal_tool_based_on_our/)
-- [[R] Category Theory for AI,AI for Category theory](https://www.reddit.com/r/MachineLearning/comments/z2hr4c/r_category_theory_for_aiai_for_category_theory/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
