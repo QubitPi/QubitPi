@@ -492,11 +492,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Join CTO @joerg_schad at the @TMLS_TO on November 28th, 2022. 🔥 Grab your tickets today. 🥑](https://twitter.com/arangodb/status/1595749095008014336)
 - [We can tell you what a graph database is, but sometimes it&#39;s best to get insight from an outside resource. 🥑 This article by software engineer and ...](https://twitter.com/arangodb/status/1595522593892847621)
 - [Did you make it to our Challenges of a Cloud Native Database webinar with CTO @joerg_schad? ☁ 🥑 Registered to view this on-demand today. 👇](https://twitter.com/arangodb/status/1595386703212158976)
 - [The hottest graph course was upgraded, and we can&#39;t recommend it enough. 🔥🥑 Become a graph databases pro with the 𝗙𝗼𝘂𝗻𝗱𝗮𝘁�...](https://twitter.com/arangodb/status/1595160225669320704)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1595024326105108481)
-- [Our #ML Engineer, @sachins90534787 published an article on @nvidia medium page teaching you how to deploy &lpar;almost&rpar; any PyTorch Geometric model on #nvi...](https://twitter.com/arangodb/status/1594828019197128706)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
