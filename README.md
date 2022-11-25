@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1595965425933864961)
 - [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1595787209827061760)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1595778877661511686)
 - [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1595775618976710657)
 - [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1595762175120916480)
-- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1595761500001603584)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
