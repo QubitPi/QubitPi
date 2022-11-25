@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Naive Bayes for Tokenization and Sentence Splitting](https://www.reddit.com/r/MachineLearning/comments/z47kky/d_naive_bayes_for_tokenization_and_sentence/)
 - [[D] Which practical data mining book to pair with ESL?](https://www.reddit.com/r/MachineLearning/comments/z45f8d/d_which_practical_data_mining_book_to_pair_with/)
 - [[P] Free Stable Diffusion 2.0 hosted interface](https://www.reddit.com/r/MachineLearning/comments/z3xpd2/p_free_stable_diffusion_20_hosted_interface/)
 - [[P] Get the max of your data with the easier way to do machine learning in Python without coding!](https://www.reddit.com/r/MachineLearning/comments/z3jv8n/p_get_the_max_of_your_data_with_the_easier_way_to/)
 - [[D] inference on GNN](https://www.reddit.com/r/MachineLearning/comments/z3ik75/d_inference_on_gnn/)
-- [[D] Informal meetup at NeurIPS next week](https://www.reddit.com/r/MachineLearning/comments/z3huy4/d_informal_meetup_at_neurips_next_week/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
