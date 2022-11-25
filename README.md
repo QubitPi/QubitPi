@@ -331,11 +331,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [DeepMind’s latest research at NeurIPS 2022](https://www.deepmind.com/blog/deepminds-latest-research-at-neurips-2022)
 - [Building interactive agents in video game worlds](https://www.deepmind.com/blog/building-interactive-agents-in-video-game-worlds)
 - [Benchmarking the next generation of never-ending learners](https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners)
 - [Best practices for data enrichment](https://www.deepmind.com/blog/best-practices-for-data-enrichment)
 - [The pursuit of AI education - past, present, and future](https://www.deepmind.com/blog/the-pursuit-of-ai-education-past-present-and-future)
-- [Digital transformation with Google Cloud](https://www.deepmind.com/blog/digital-transformation-with-google-cloud)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
