@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1596087804584693760)
 - [#Memgraph has reached 700 stars on GitHub! ⭐️ 🙏Thank you, our dear Stargazers!!! If you didn&#39;t have a chance yet, do check out our repo at #datab...](https://twitter.com/memgraphdb/status/1596049358411243520)
 - [Join us on Wednesday, December 7th, 2022, from 6:00 PM CEST for our next meetup. This time we are bringing over two interesting speakers &lpar;@stefanak_mi...](https://twitter.com/memgraphdb/status/1596045291253370880)
 - [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1596025870191165441)
 - [🍿Check out the #Memgraph video &quot;How to contribute to a C++ project?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1596017355641212928)
-- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1595965425933864961)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
