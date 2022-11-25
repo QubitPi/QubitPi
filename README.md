@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[News] Standing Desk Black Friday Deals - Great for your home office setup](https://www.reddit.com/r/MachineLearning/comments/z4ax70/news_standing_desk_black_friday_deals_great_for/)
 - [Industry 4.0 “[Discussion]”](https://www.reddit.com/r/MachineLearning/comments/z4apvu/industry_40_discussion/)
 - [[R] Robust Learning: the past and present. The DNN has strong fitting capability, but we find ...](https://www.reddit.com/r/MachineLearning/comments/z49k7x/r_robust_learning_the_past_and_present_the_dnn/)
 - [[R] Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings](https://www.reddit.com/r/MachineLearning/comments/z48u58/r_neighborhood_contrastive_learning_for/)
 - [[D] First time NeurIPS](https://www.reddit.com/r/MachineLearning/comments/z48t6e/d_first_time_neurips/)
-- [[D] Naive Bayes for Tokenization and Sentence Splitting](https://www.reddit.com/r/MachineLearning/comments/z47kky/d_naive_bayes_for_tokenization_and_sentence/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
