@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/731966060676251652><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cc32642263753ebd13cc7617a47fb680401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732329432086216707><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/594315c64404a20f57a8a10256dae2fd401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #无忧梦乡# 「无忧梦乡」网页活动限时开启。建设兰那罗村庄，一起烹饪修行吧！~ 欢迎旅行者前往评论区置顶链接参与活动~ *尚未熟悉兰那罗的旅行者，可以...](https://t.bilibili.com/732329432086216707)
