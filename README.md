@@ -492,11 +492,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Data science is changing the healthcare system. 🩺 Learn why health care professionals are seizing the opportunity to follow along with the latest u...](https://twitter.com/arangodb/status/1596247359910019072)
 - [Graph done right with ArangoDB. 🔥 Join ArangoDBs very own graph expert Markus Pfeiffer on December 7th, 2022 for a tour of ArangoDB&#39;s graph capabil...](https://twitter.com/arangodb/status/1596111473054400513)
 - [Don&#39;t worry about introducing yourself to ArangoGraph Insights Platform; we have a guided tour and demo datasets so you can get started immediately! ...](https://twitter.com/arangodb/status/1595884988246917124)
 - [Happy Thanksgiving from Team Avocado! 🦃🥑🍁 #InsideArangoDB](https://twitter.com/arangodb/status/1595794400671432705)
 - [Join CTO @joerg_schad at the @TMLS_TO on November 28th, 2022. 🔥 Grab your tickets today. 🥑](https://twitter.com/arangodb/status/1595749095008014336)
-- [We can tell you what a graph database is, but sometimes it&#39;s best to get insight from an outside resource. 🥑 This article by software engineer and ...](https://twitter.com/arangodb/status/1595522593892847621)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
