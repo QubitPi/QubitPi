@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732486078149165192><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2870d15f213b97d74dbb36da8d4e7f3d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神音乐# 亲爱的旅行者，原神3.3版本PV音乐《All Senses Clear, All Existence Void 六入尽明，诸相皆无》现已更新加入专辑《流星的轨迹 Footprints of...](https://t.bilibili.com/732486078149165192)
+- [#原神# #原神3.3# #六入尽明诸相皆无# 《原神》3.3版本「六入尽明，诸相皆无」前瞻特别节目回顾长图 《原神》3.3版本「六入尽明，诸相皆无」将于2022年12月07日...](https://t.bilibili.com/732483999377653794)
+- [《原神》3.3版本「六入尽明，诸相皆无」前瞻特别节目](https://t.bilibili.com/732483483979481126)
+- [互动抽奖 #原神# #原神3.3# #六入尽明诸相皆无# 《原神》3.3版本PV：「六入尽明，诸相皆无」现已发布~ https://www.bilibili.com/video/BV12K411975v 稻妻自古以...](https://t.bilibili.com/732475989275181190)
 - [《原神》3.3版本PV：「六入尽明，诸相皆无」](https://t.bilibili.com/732471977758949445)
-- [亲爱的旅行者，3.3版本前瞻特别节目马上开始~[原神_哇] 直播间地址：https://live.bilibili.com/21987615](https://t.bilibili.com/732458126502002725)
-- [#原神# #无忧梦乡# 「无忧梦乡」网页活动限时开启。建设兰那罗村庄，一起烹饪修行吧！~ 欢迎旅行者前往评论区置顶链接参与活动~ *尚未熟悉兰那罗的旅行者，可以...](https://t.bilibili.com/732329432086216707)
-- [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.2版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/731966060676251652)
-- [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第19弹」现已上线 亲爱的旅行者，「派蒙的画作第19弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/731965536702824849)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
