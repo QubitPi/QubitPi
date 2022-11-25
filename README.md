@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732471977758949445><img align='right' src='https://i1.hdslb.com/bfs/archive/dee8555a11932009ebfde36acb1ea465dac3c802.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732486078149165192><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2870d15f213b97d74dbb36da8d4e7f3d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》3.3版本PV：「六入尽明，诸相皆无」](https://t.bilibili.com/732471977758949445)
