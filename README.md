@@ -543,11 +543,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Andy Emmonds, Chief Transport Analyst @TfL, and his team uses #graphtechnology as the basis of a #digitaltwin to achieve quicker identification of inc...](https://twitter.com/neo4j/status/1596111685198131201)
+- [RT Alexander Erdl: Looking forward to the next #neo4j live with @alexb_imagina about #graphql and its challenges. 📺 Tune in on 29 November](https://twitter.com/alexandererdl/status/1596077483140554752)
 - [Cypher is Neo4j’s powerful query language! 💻 Take this one-hour training to start reading and writing data to the graph. It&#39;s free! 😮 #Cypher #...](https://twitter.com/neo4j/status/1595866378594123777)
 - [RT Arjun Bali: “Loading data from Hive to Neo4j by using Apache Hop&lpar;all inside docker containers&rpar;” by Tarun Bali](https://twitter.com/168676de4f2d4e9/status/1595831002852904962)
 - [RT Adam Cowley: Generating the same page with @nextjs and @astrodotbuild, pulling data from @neo4j. Both pages use SSR, with a bookmark component serv...](https://twitter.com/adamcowley/status/1595792675156152326)
-- [&quot;Mapping social networks of the isolated Hadza society shows that network structure is consistent with a very ancient origin of social relationships.&quot;...](https://twitter.com/neo4j/status/1595779550356594689)
-- [RT OpenCredo: Attending #ConTech2022 next week? Look out for @ebrucucen&#39;s session with @adamsci12 from @sagepublishing on &#39;Searching for Research Frau...](https://twitter.com/OpenCredo/status/1595751800019505154)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
