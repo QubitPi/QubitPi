@@ -345,9 +345,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[D] Missing the forest for the trees in educational content](https://www.reddit.com/r/MachineLearning/comments/z4e1lp/d_missing_the_forest_for_the_trees_in_educational/)
 - [Find the reason “[Discussion]”](https://www.reddit.com/r/MachineLearning/comments/z4crzs/find_the_reason_discussion/)
-- [[News] Standing Desk Black Friday Deals - Great for your home office setup](https://www.reddit.com/r/MachineLearning/comments/z4ax70/news_standing_desk_black_friday_deals_great_for/)
 - [Industry 4.0 “[Discussion]”](https://www.reddit.com/r/MachineLearning/comments/z4apvu/industry_40_discussion/)
 - [[R] Robust Learning: the past and present. The DNN has strong fitting capability, but we find ...](https://www.reddit.com/r/MachineLearning/comments/z49k7x/r_robust_learning_the_past_and_present_the_dnn/)
+- [[R] Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings](https://www.reddit.com/r/MachineLearning/comments/z48u58/r_neighborhood_contrastive_learning_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
