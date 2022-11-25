@@ -612,8 +612,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Formcarry on ProductHunt 🤙](https://dribbble.com/shots/19942554)
 - [TeaTime Brand Assets](https://dribbble.com/shots/19949957)
 - [Quantia: web design](https://dribbble.com/shots/19946875)
+- [Midwest Script](https://dribbble.com/shots/19931790)
 - [Esports Analytics Web Dashboard](https://dribbble.com/shots/19944646)
-- [The Lovership Camera man](https://dribbble.com/shots/19959601)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
