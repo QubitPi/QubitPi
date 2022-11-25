@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Paper Explained - CICERO: An AI agent that negotiates, persuades, and cooperates with people &lpar;Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/z4s2kp/d_paper_explained_cicero_an_ai_agent_that/)
 - [[P] OpenELM, a library combining evolutionary algorithms and language models](https://www.reddit.com/r/MachineLearning/comments/z4pjnt/p_openelm_a_library_combining_evolutionary/)
 - [[R] Question about Neurips datasets and benchmarks track](https://www.reddit.com/r/MachineLearning/comments/z4pjd4/r_question_about_neurips_datasets_and_benchmarks/)
 - [[D] Alternatives to the shap explainability package](https://www.reddit.com/r/MachineLearning/comments/z4oxq5/d_alternatives_to_the_shap_explainability_package/)
 - [[P] AI-powered video-based chatbot: The result of merging a conversational algorithm based on GPT, a lipsync engine, a voice cloning technology and a proprietary &quot;personality cloning&quot; technique](https://www.reddit.com/r/MachineLearning/comments/z4nq9z/p_aipowered_videobased_chatbot_the_result_of/)
-- [[N] Diffusion Models Live Event](https://www.reddit.com/r/MachineLearning/comments/z4hato/n_diffusion_models_live_event/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
