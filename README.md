@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Why did we listen to our employee&#39;s needs and transform Memgraph into a completely remote company, find out below 👇 #memgraph #Database](https://twitter.com/memgraphdb/status/1596140925520338945)
-- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1596087804584693760)
-- [#Memgraph has reached 700 stars on GitHub! ⭐️ 🙏Thank you, our dear Stargazers!!! If you didn&#39;t have a chance yet, do check out our repo at #datab...](https://twitter.com/memgraphdb/status/1596049358411243520)
-- [Join us on Wednesday, December 7th, 2022, from 6:00 PM CEST for our next meetup. This time we are bringing over two interesting speakers &lpar;@stefanak_mi...](https://twitter.com/memgraphdb/status/1596045291253370880)
-- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1596025870191165441)
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1596186797414895619)
+- [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1596186199680757760)
+- [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1596183029357367296)
+- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1596180816643645441)
+- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. #memgraph #graphdatabase #me...](https://twitter.com/memgraphdb/status/1596166348115431424)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
