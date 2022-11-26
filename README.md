@@ -545,11 +545,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Check out the new release of @graphlytic — manage multiple knowledge graphs in one place. Read the blog. #neo4jcommunity #Neo4j](https://twitter.com/neo4j/status/1596571258535247873)
 - [Developer Guide Overview - take a look at this and start your journey with Graph Technology! 💪 #developerguide #dev #neo4j #GraphTechnology](https://twitter.com/neo4j/status/1596232291172646912)
 - [Walk through how graph features engineered in Neo4j can be used in a supervised learning model trained with Amazon SageMaker. Don&#39;t miss it at AWS re:...](https://twitter.com/neo4j/status/1596202167953948674)
 - [🎉We are excited to announce the introduction of Neo4j 5 and our new continuous release and product support model for our database platform designed...](https://twitter.com/neo4j/status/1596169614924324868)
 - [Andy Emmonds, Chief Transport Analyst @TfL, and his team uses #graphtechnology as the basis of a #digitaltwin to achieve quicker identification of inc...](https://twitter.com/neo4j/status/1596111685198131201)
-- [RT Alexander Erdl: Looking forward to the next #neo4j live with @alexb_imagina about #graphql and its challenges. 📺 Tune in on 29 November](https://twitter.com/alexandererdl/status/1596077483140554752)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
