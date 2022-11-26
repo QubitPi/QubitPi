@@ -343,11 +343,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Microsoft released a new version of ML.NET framework](https://www.reddit.com/r/MachineLearning/comments/z559jh/n_microsoft_released_a_new_version_of_mlnet/)
 - [[R] Approach to identify clusters on a time series](https://www.reddit.com/r/MachineLearning/comments/z54n5h/r_approach_to_identify_clusters_on_a_time_series/)
 - [[P] Musculoskeletal Simulation with Double DQN reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/z532tn/p_musculoskeletal_simulation_with_double_dqn/)
 - [[P] Accurate foot measurement and shoe size fitting tool - we collect information about 10,000 points on the foot to measure it &lpar;using AR and ML, network trained on 17,000 images&rpar; and compare the 6 measurements with shoe last measurements, which is the most accurate way to match the size.](https://www.reddit.com/r/MachineLearning/comments/z532dl/p_accurate_foot_measurement_and_shoe_size_fitting/)
 - [[P] Accurate foot measurement and shoe size fitting tool - we collect information about 10,000 points on the foot to measure it &lpar;using AR and ML, network trained on 17,000 images&rpar; and compare the 6 measurements with the last shoes measurements, which is the most accurate way to match the size.](https://www.reddit.com/r/MachineLearning/comments/z530a2/p_accurate_foot_measurement_and_shoe_size_fitting/)
-- [[P] I trained a dog to fetch a stick using Deep Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/z52bsl/p_i_trained_a_dog_to_fetch_a_stick_using_deep/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
