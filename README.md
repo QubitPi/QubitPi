@@ -525,11 +525,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1596262304286269440)
 - [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1596260284582313989)
 - [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1596238764669816832)
 - [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1596221338116423680)
 - [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1596204999809241089)
-- [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1596198968244961280)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
