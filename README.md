@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1596495995088404480)
+- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1596483157892603904)
 - [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1596468062403710976)
 - [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1596450411543609344)
 - [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1596436353981480961)
-- [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at #memgraph #graphmodeling #graphdat...](https://twitter.com/memgraphdb/status/1596422407912583169)
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1596416729160327171)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
