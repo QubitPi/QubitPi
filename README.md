@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Launch your own stable diffusion 2.0 endpoint](https://www.reddit.com/r/MachineLearning/comments/z5cps9/p_launch_your_own_stable_diffusion_20_endpoint/)
+- [[R] \Performance measure for Dynamic classifier](https://www.reddit.com/r/MachineLearning/comments/z5cn22/r_performance_measure_for_dynamic_classifier/)
 - [[R] Selective Token Generation for Few-shot Natural Language Generation](https://www.reddit.com/r/MachineLearning/comments/z51cyr/r_selective_token_generation_for_fewshot_natural/)
 - [[D] Pytorch or TensorFlow for development and deployment?](https://www.reddit.com/r/MachineLearning/comments/z50vvq/d_pytorch_or_tensorflow_for_development_and/)
 - [[D] Paper Explained - CICERO: An AI agent that negotiates, persuades, and cooperates with people &lpar;Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/z4s2kp/d_paper_explained_cicero_an_ai_agent_that/)
-- [[P] OpenELM, a library combining evolutionary algorithms and language models](https://www.reddit.com/r/MachineLearning/comments/z4pjnt/p_openelm_a_library_combining_evolutionary/)
-- [[R] Question about Neurips datasets and benchmarks track](https://www.reddit.com/r/MachineLearning/comments/z4pjd4/r_question_about_neurips_datasets_and_benchmarks/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
