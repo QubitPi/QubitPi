@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732486078149165192><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2870d15f213b97d74dbb36da8d4e7f3d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732684518509510673><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/263aa716f1a470eae25f93ec6a6edf60401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神音乐# 亲爱的旅行者，原神3.3版本PV音乐《All Senses Clear, All Existence Void 六入尽明，诸相皆无》现已更新加入专辑《流星的轨迹 Footprints of...](https://t.bilibili.com/732486078149165192)
