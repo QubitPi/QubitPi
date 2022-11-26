@@ -585,11 +585,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [RT Polkadot: For almost 2 years, Polkadot community members have been working hard to make the ecosystem safer for its users. Check the blog from @Web...](https://twitter.com/Polkadot/status/1596566485069086721)
 - [Web3 Foundation continues to support the expansion of the Web 3.0 ecosystem. Learn more about how to apply for our grants program for those interested...](https://twitter.com/Web3foundation/status/1593210969064603649)
 - [For those in Zurich: on December 13th, don&#39;t miss your chance to hear from Web3 Foundation&#39;s @BillLaboon &amp; @joepetrowski at the &quot;End of Year Party&quot; by...](https://twitter.com/Web3foundation/status/1592965728327573506)
 - [Re 5/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1592182406894784515)
 - [Re 4/ We’re excited to announce that @FairSquares completed their 3rd milestone as they work to create a more transparent &amp; fair housing market. Read...](https://twitter.com/Web3foundation/status/1592182404852387841)
-- [Re 3/ A shoutout to @LimeChainHQ who won and completed a new grant from W3F to research the feasibility of developing a Go Runtime framework for the @...](https://twitter.com/Web3foundation/status/1592182402784579584)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
