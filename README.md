@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732684518509510673><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/263aa716f1a470eae25f93ec6a6edf60401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732708974051196962><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bca84b264b260cd762b6b4284254ce93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 旅行者们好呀~今天「无相交响诗」开启的挑战是「三部曲·燃灼之炉」，登场的劲敌是：蹡蹡——无相之火 它有哪些特性？一起来看看吧~](https://t.bilibili.com/732684518509510673)
