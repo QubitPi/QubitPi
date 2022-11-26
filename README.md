@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732684518509510673><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/263aa716f1a470eae25f93ec6a6edf60401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# 旅行者们好呀~今天「无相交响诗」开启的挑战是「三部曲·燃灼之炉」，登场的劲敌是：蹡蹡——无相之火 它有哪些特性？一起来看看吧~](https://t.bilibili.com/732684518509510673)
 - [#原神# #原神音乐# 亲爱的旅行者，原神3.3版本PV音乐《All Senses Clear, All Existence Void 六入尽明，诸相皆无》现已更新加入专辑《流星的轨迹 Footprints of...](https://t.bilibili.com/732486078149165192)
 - [#原神# #原神3.3# #六入尽明诸相皆无# 《原神》3.3版本「六入尽明，诸相皆无」前瞻特别节目回顾长图 《原神》3.3版本「六入尽明，诸相皆无」将于2022年12月07日...](https://t.bilibili.com/732483999377653794)
 - [《原神》3.3版本「六入尽明，诸相皆无」前瞻特别节目](https://t.bilibili.com/732483483979481126)
 - [互动抽奖 #原神# #原神3.3# #六入尽明诸相皆无# 《原神》3.3版本PV：「六入尽明，诸相皆无」现已发布~ https://www.bilibili.com/video/BV12K411975v 稻妻自古以...](https://t.bilibili.com/732475989275181190)
-- [《原神》3.3版本PV：「六入尽明，诸相皆无」](https://t.bilibili.com/732471977758949445)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
