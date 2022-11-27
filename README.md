@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Launch your own stable diffusion 2.0 endpoint in &lt; 5 minutes with Lightning AI](https://www.reddit.com/r/MachineLearning/comments/z630su/n_launch_your_own_stable_diffusion_20_endpoint_in/)
 - [[News] 5 Most Trending Opensource MLops Tools of 2022](https://www.reddit.com/r/MachineLearning/comments/z62kp7/news_5_most_trending_opensource_mlops_tools_of/)
 - [[R] Reward Is Not Necessary: A Compositional, Self-Preserving Agent For Life-Long Learning](https://www.reddit.com/r/MachineLearning/comments/z61ope/r_reward_is_not_necessary_a_compositional/)
 - [[R] QUALCOMM demos 3D reconstruction on AR glasses — monocular depth estimation with self supervised neural network processed on glasses and smartphone in realtime](https://www.reddit.com/r/MachineLearning/comments/z60wuh/r_qualcomm_demos_3d_reconstruction_on_ar_glasses/)
 - [[P] Metric learning: theory, practice, code examples](https://www.reddit.com/r/MachineLearning/comments/z5domj/p_metric_learning_theory_practice_code_examples/)
-- [[R] Selective Token Generation for Few-shot Natural Language Generation](https://www.reddit.com/r/MachineLearning/comments/z51cyr/r_selective_token_generation_for_fewshot_natural/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
