@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1596888076990795776)
+- [Check out our blog post 📰 Introduction to Node Embedding ➡️](https://twitter.com/memgraphdb/status/1596878993537617920)
 - [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1596841019642986498)
 - [🎓 Building a recommendation engine is never an easy task because, besides considering the quality of the actual recommendations, an important facto...](https://twitter.com/memgraphdb/status/1596825670163865600)
 - [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1596809563147304960)
-- [🔎Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities and displ...](https://twitter.com/memgraphdb/status/1596804527235006465)
-- [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1596782467972734976)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
