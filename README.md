@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/732708974051196962><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bca84b264b260cd762b6b4284254ce93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733109698810609713><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b266a5581799a074bf8a80c121fa40b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@千束Chisatoちさと@翩然一笑载酒行@三门水兽等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/733109698810609713)
