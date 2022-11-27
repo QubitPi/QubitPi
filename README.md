@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733109698810609713><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b266a5581799a074bf8a80c121fa40b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733171559217234017><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f57616e63b867b23ffb055e179bb1a0e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神冒险家试炼# #原神UP主激励计划# 《原神》「冒险家试炼」趣味试炼挑战视频征集活动结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 芭柒灵： ht...](https://t.bilibili.com/733171559217234017)
