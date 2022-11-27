@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733109698810609713><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b266a5581799a074bf8a80c121fa40b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神冒险家试炼# #原神UP主激励计划# 《原神》「冒险家试炼」趣味试炼挑战视频征集活动结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 芭柒灵： ht...](https://t.bilibili.com/733171559217234017)
 - [恭喜@千束Chisatoちさと@翩然一笑载酒行@三门水兽等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/733109698810609713)
 - [#原神# #百货奇货# 亲爱的旅行者，「百货奇货」活动即将开启~ 〓活动时间〓 2022/11/28 10:00 ~ 2022/12/05 03:59 〓参与条件〓 冒险等阶≥12级 〓活动说明〓 ●...](https://t.bilibili.com/732708974051196962)
 - [互动抽奖 #原神# #砂糖# #生日快乐# 昨天的实验进展非常顺利，甚至大大超出了原本规划好的进度。 嘿嘿，多谢你送给我的实验器材，非常好用！ 唔…根据我之前的观...](https://t.bilibili.com/732707810110865424)
 - [#原神# 旅行者们好呀~今天「无相交响诗」开启的挑战是「三部曲·燃灼之炉」，登场的劲敌是：蹡蹡——无相之火 它有哪些特性？一起来看看吧~](https://t.bilibili.com/732684518509510673)
-- [#原神# #原神音乐# 亲爱的旅行者，原神3.3版本PV音乐《All Senses Clear, All Existence Void 六入尽明，诸相皆无》现已更新加入专辑《流星的轨迹 Footprints of...](https://t.bilibili.com/732486078149165192)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
