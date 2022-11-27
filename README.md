@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1596637826166030336)
+- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1596634141851648000)
 - [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. #gra...](https://twitter.com/memgraphdb/status/1596596251474202624)
 - [Whenever you are not sure how to write a Cypher query, you can just take a look at this cheat sheet and try again! 🤣 #memgraph #graphdatabase #cyph...](https://twitter.com/memgraphdb/status/1596561959339565060)
 - [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1596539158419410944)
-- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1596533417050374144)
-- [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1596530455310106624)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
