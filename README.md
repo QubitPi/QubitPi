@@ -613,8 +613,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Formcarry on ProductHunt 🤙](https://dribbble.com/shots/19942554)
 - [TeaTime Brand Assets](https://dribbble.com/shots/19949957)
-- [Quantia: web design](https://dribbble.com/shots/19946875)
 - [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
+- [Quantia: web design](https://dribbble.com/shots/19946875)
 - [Esports Analytics Web Dashboard](https://dribbble.com/shots/19944646)
 <!-- DRIBBBLE-TRENDING:END -->
 
