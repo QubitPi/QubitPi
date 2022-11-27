@@ -361,11 +361,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Como priorizar para obtener agilidad de negocio](https://www.scrum.org/resources/blog/como-priorizar-para-obtener-agilidad-de-negocio)
 - [[VLOG] What Does The Scrum Master Do All Day](https://www.scrum.org/resources/blog/vlog-what-does-scrum-master-do-all-day-0)
 - [[VLOG] Scrum Master, An Accountability ... Not A Job Title](https://www.scrum.org/resources/blog/vlog-scrum-master-accountability-not-job-title)
 - [Dual Tracking](https://www.scrum.org/resources/blog/dual-tracking)
 - [7 facilitation tips to get your Scrum Team started](https://www.scrum.org/resources/blog/7-facilitation-tips-get-your-scrum-team-started)
-- [Back to the Foundations of the Scrum Framework - Wrapping it all up 🚀 &lpar;78&rpar;](https://www.scrum.org/resources/blog/back-foundations-scrum-framework-wrapping-it-all-78)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
