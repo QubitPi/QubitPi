@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Building a recommendation engine is never an easy task because, besides considering the quality of the actual recommendations, an important facto...](https://twitter.com/memgraphdb/status/1596825670163865600)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1596809563147304960)
-- [🔎Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities and displ...](https://twitter.com/memgraphdb/status/1596804527235006465)
 - [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1596782467972734976)
 - [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1596776400710643715)
+- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1596761244404531200)
+- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1596751933489954819)
+- [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1596718416844431361)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
