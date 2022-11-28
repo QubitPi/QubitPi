@@ -614,7 +614,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
 - [The Lovership Camera man](https://dribbble.com/shots/19959601)
 - [Creative Agency](https://dribbble.com/shots/19975729)
-- [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
+- [Learning platform - app](https://dribbble.com/shots/19948806)
 - [Neil Patel Digital — Case Study](https://dribbble.com/shots/19947244)
 <!-- DRIBBBLE-TRENDING:END -->
 
