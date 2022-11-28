@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733480783977644064><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5a7ce9eecd3b4039db4a2d3281d719c0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733426671672098817><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/549a8db34851503395f3cba6629131e5401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 旅行者们好！「无相交响诗」活动今天开启了「谐谑曲·束浪之池」，劲敌无相之水正在等待旅行者的挑战。一起来看看活动中无相之水的特性吧！](https://t.bilibili.com/733426671672098817)
