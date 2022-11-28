@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Can someone send me a link to Meta&#39;s Diplomacy AI pdf?](https://www.reddit.com/r/MachineLearning/comments/z6xm4n/r_can_someone_send_me_a_link_to_metas_diplomacy/)
+- [[R] [NeurIPS 2022] 3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds](https://www.reddit.com/r/MachineLearning/comments/z6x7xc/r_neurips_2022_3dos_towards_3d_open_set_learning/)
 - [[Research] [R] NeurIPS 2022 highlights: Towards a Standardised Performance Evaluation Protocol for Cooperative MARL](https://www.reddit.com/r/MachineLearning/comments/z6vs1a/research_r_neurips_2022_highlights_towards_a/)
 - [[P] Speaking with Plato - A Deep Learning Approach to Philosophy](https://www.reddit.com/r/MachineLearning/comments/z6uy4t/p_speaking_with_plato_a_deep_learning_approach_to/)
 - [[N] Use Stable Diffusion 2 with the diffusers library](https://www.reddit.com/r/MachineLearning/comments/z6tfna/n_use_stable_diffusion_2_with_the_diffusers/)
-- [[D] What method is state of the art dimensionality reduction](https://www.reddit.com/r/MachineLearning/comments/z6p4yv/d_what_method_is_state_of_the_art_dimensionality/)
-- [[R] TorchScale: Transformers at Scale - Microsoft 2022 Shuming Ma et al - Improves modeling generality and capability, as well as training stability and efficiency.](https://www.reddit.com/r/MachineLearning/comments/z6f5kv/r_torchscale_transformers_at_scale_microsoft_2022/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
