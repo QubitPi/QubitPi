@@ -322,11 +322,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Google at NeurIPS 2022](http://ai.googleblog.com/2022/11/google-at-neurips-2022.html)
 - [Conversation Summaries in Google Chat](http://ai.googleblog.com/2022/11/conversation-summaries-in-google-chat.html)
 - [The Data Cards Playbook: A Toolkit for Transparency in Dataset Documentation](http://ai.googleblog.com/2022/11/the-data-cards-playbook-toolkit-for.html)
 - [Mixture-of-Experts with Expert Choice Routing](http://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
 - [Characterizing Emergent Phenomena in Large Language Models](http://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)
-- [Multi-layered Mapping of Brain Tissue via Segmentation Guided Contrastive Learning](http://ai.googleblog.com/2022/11/multi-layered-mapping-of-brain-tissue.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
