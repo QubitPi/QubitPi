@@ -555,11 +555,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database](https://www.youtube.com/watch?v=yI3PYW-MVvQ)
 - [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=FYLjyMZn51s)
-- [Full Stack GraphQL Book Club - Chapter 2: Graph Thinking With GraphQL](https://www.youtube.com/watch?v=8uXLEG3qOIs)
-- [Neo4j Live: Solving GraphQL challenges with 3Edges](https://www.youtube.com/watch?v=SWpU8DVlo8g)
-- [Importing Mastodon - Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=14l01K18Ako)
+- [006 Bootstrapping Your Graph Project With Neo4j Workspace - NODES2022 - Gregory King](https://www.youtube.com/watch?v=8-1YMSTXwvs)
+- [002 Introducing Neo4j 5 for Administrators - NODES2022 - John Stegeman, Stu Moore](https://www.youtube.com/watch?v=Sndxf_nQQoc)
+- [003 Modeling NFT Tweets as a Knowledge Graph Using Neo4j - NODES2022 - Siraj Munir](https://www.youtube.com/watch?v=h8q1mU0HqVc)
+- [004 Graph Pattern Matching - NODES2022 - Nadja Müller, Petra Selmer](https://www.youtube.com/watch?v=NOaI9y6fwkg)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
