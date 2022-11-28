@@ -613,9 +613,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- DRIBBBLE-TRENDING:START -->
 - [TeaTime Brand Assets](https://dribbble.com/shots/19949957)
 - [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
+- [Quantia: web design](https://dribbble.com/shots/19946875)
 - [The Lovership Camera man](https://dribbble.com/shots/19959601)
 - [Creative Agency](https://dribbble.com/shots/19975729)
-- [Learning platform - app](https://dribbble.com/shots/19948806)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
