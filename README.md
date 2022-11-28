@@ -362,7 +362,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [[VLOG] Scrum 2020 Explained under 7 minutes BUT without cutting down its core principles](https://www.scrum.org/resources/blog/vlog-scrum-2020-explained-under-7-minutes-without-cutting-down-its-core-principles)
-- [How Scrum event timeboxes make your team more effective](https://www.scrum.org/resources/blog/how-scrum-event-timeboxes-make-your-team-more-effective)
+- [How Scrum Event Timeboxes make your Team More Effective](https://www.scrum.org/resources/blog/how-scrum-event-timeboxes-make-your-team-more-effective)
 - [The Agile Fluency Model with Diana Larsen](https://www.scrum.org/resources/blog/agile-fluency-model-diana-larsen)
 - [Risikomanagement in Scrum – Warum jedes Unternehmen einen Scrum Master braucht](https://www.scrum.org/resources/blog/risikomanagement-scrum-warum-jedes-unternehmen-einen-scrum-master-braucht)
 - [How To Get Your First Scrum Master Job Without Prior Experience](https://www.scrum.org/resources/blog/how-get-your-first-scrum-master-job-without-prior-experience-0)
