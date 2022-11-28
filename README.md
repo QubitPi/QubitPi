@@ -615,7 +615,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [The Lovership Camera man](https://dribbble.com/shots/19959601)
 - [Creative Agency](https://dribbble.com/shots/19975729)
-- [Kids Health Service Website](https://dribbble.com/shots/19987427)
+- [Neil Patel Digital — Case Study](https://dribbble.com/shots/19947244)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
