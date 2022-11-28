@@ -417,11 +417,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: registry.k8s.io: faster, cheaper and Generally Available &lpar;GA&rpar;](https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/)
 - [Blog: Kubernetes Removals, Deprecations, and Major Changes in 1.26](https://kubernetes.io/blog/2022/11/18/upcoming-changes-in-kubernetes-1-26/)
 - [Blog: Live and let live with Kluctl and Server Side Apply](https://kubernetes.io/blog/2022/11/04/live-and-let-live-with-kluctl-and-ssa/)
 - [Blog: Server Side Apply Is Great And You Should Be Using It](https://kubernetes.io/blog/2022/10/20/advanced-server-side-apply/)
 - [Blog: Current State: 2019 Third Party Security Audit of Kubernetes](https://kubernetes.io/blog/2022/10/05/current-state-2019-third-party-audit/)
-- [Blog: Introducing Kueue](https://kubernetes.io/blog/2022/10/04/introducing-kueue/)
 <!-- KUBERNETES-BLOG:END -->
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
