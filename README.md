@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1597334868282720257)
+- [Re @ante_pusic_ @TheRockstarDBA + let us know if we can help further! :&rpar;](https://twitter.com/memgraphdb/status/1597322752222187520)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1597285905668407299)
 - [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1597283650189627394)
 - [🚀 The power behind any recommendation engine is the algorithms used to create recommendations. The most powerful recommendation algorithms are made...](https://twitter.com/memgraphdb/status/1597230334860562434)
-- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1597208184661463041)
-- [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1597191144563101696)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
