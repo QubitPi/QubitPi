@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] NeuRIPS Proceedings](https://www.reddit.com/r/MachineLearning/comments/z74zj2/d_neurips_proceedings/)
 - [Reddit data [P]](https://www.reddit.com/r/MachineLearning/comments/z74n9k/reddit_data_p/)
 - [[P] Stable Diffusion 2.0 and the Importance of Negative Prompts for Good Results &lpar;+ Colab Notebooks + Negative Embedding&rpar;](https://www.reddit.com/r/MachineLearning/comments/z733uy/p_stable_diffusion_20_and_the_importance_of/)
 - [[D] Why is rho in RMSprop much smaller vs. beta_2 in Adam?](https://www.reddit.com/r/MachineLearning/comments/z6yvgu/d_why_is_rho_in_rmsprop_much_smaller_vs_beta_2_in/)
 - [[D] Training LLMs collaboratively](https://www.reddit.com/r/MachineLearning/comments/z6ylfq/d_training_llms_collaboratively/)
-- [[R] [NeurIPS 2022] 3DOS: Towards 3D Open Set Learning - Benchmarking and Understanding Semantic Novelty Detection on Point Clouds](https://www.reddit.com/r/MachineLearning/comments/z6x7xc/r_neurips_2022_3dos_towards_3d_open_set_learning/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
