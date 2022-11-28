@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733426671672098817><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/549a8db34851503395f3cba6629131e5401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@夜泠ling_@愿世上永无外挂@鸣神响等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/733480783977644064)
 - [#原神# 旅行者们好！「无相交响诗」活动今天开启了「谐谑曲·束浪之池」，劲敌无相之水正在等待旅行者的挑战。一起来看看活动中无相之水的特性吧！](https://t.bilibili.com/733426671672098817)
 - [#原神# #原神冒险家试炼# #原神UP主激励计划# 《原神》「冒险家试炼」趣味试炼挑战视频征集活动结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 芭柒灵： ht...](https://t.bilibili.com/733171559217234017)
 - [恭喜@千束Chisatoちさと@翩然一笑载酒行@三门水兽等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/733109698810609713)
 - [#原神# #百货奇货# 亲爱的旅行者，「百货奇货」活动即将开启~ 〓活动时间〓 2022/11/28 10:00 ~ 2022/12/05 03:59 〓参与条件〓 冒险等阶≥12级 〓活动说明〓 ●...](https://t.bilibili.com/732708974051196962)
-- [互动抽奖 #原神# #砂糖# #生日快乐# 昨天的实验进展非常顺利，甚至大大超出了原本规划好的进度。 嘿嘿，多谢你送给我的实验器材，非常好用！ 唔…根据我之前的观...](https://t.bilibili.com/732707810110865424)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
