@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Tips to raise your kaggle score with Jupyter extension](https://www.reddit.com/r/MachineLearning/comments/z6hyau/d_tips_to_raise_your_kaggle_score_with_jupyter/)
 - [[R] TorchScale: Transformers at Scale - Microsoft 2022 Shuming Ma et al - Improves modeling generality and capability, as well as training stability and efficiency.](https://www.reddit.com/r/MachineLearning/comments/z6f5kv/r_torchscale_transformers_at_scale_microsoft_2022/)
 - [[R] Reward Is Not Necessary: A Compositional, Self-Preserving Agent For Life-Long Learning](https://www.reddit.com/r/MachineLearning/comments/z61ope/r_reward_is_not_necessary_a_compositional/)
 - [[R] QUALCOMM demos 3D reconstruction on AR glasses — monocular depth estimation with self supervised neural network processed on glasses and smartphone in realtime](https://www.reddit.com/r/MachineLearning/comments/z60wuh/r_qualcomm_demos_3d_reconstruction_on_ar_glasses/)
 - [[P] Metric learning: theory, practice, code examples](https://www.reddit.com/r/MachineLearning/comments/z5domj/p_metric_learning_theory_practice_code_examples/)
+- [[R] Selective Token Generation for Few-shot Natural Language Generation](https://www.reddit.com/r/MachineLearning/comments/z51cyr/r_selective_token_generation_for_fewshot_natural/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
