@@ -494,11 +494,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Check out this article discussing how Graph Databases will revolutionize the gaming industry through collecting, connecting, analyzing, and operationa...](https://twitter.com/arangodb/status/1597334543912112131)
 - [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1597198669320974337)
 - [Did you make it to our kube-arangodb webinar? 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, let...](https://twitter.com/arangodb/status/1596881552730099718)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1596519165216493568)
 - [Data science is changing the healthcare system. 🩺 Learn why health care professionals are seizing the opportunity to follow along with the latest u...](https://twitter.com/arangodb/status/1596247359910019072)
-- [Graph done right with ArangoDB. 🔥 Join ArangoDBs very own graph expert Markus Pfeiffer on December 7th, 2022 for a tour of ArangoDB&#39;s graph capabil...](https://twitter.com/arangodb/status/1596111473054400513)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
