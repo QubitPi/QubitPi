@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1597486517122908160)
-- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #graphda...](https://twitter.com/memgraphdb/status/1597470447947464704)
 - [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1597448377532354565)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1597413615912509447)
 - [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1597384144375398407)
+- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1597360098883559425)
+- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1597334868282720257)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
