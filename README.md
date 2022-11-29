@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Solving GraphQL challenges with 3Edges](https://www.youtube.com/watch?v=SWpU8DVlo8g)
 - [066 Playing With State Machines - NODES2022 - Pierre Halftermeyer](https://www.youtube.com/watch?v=h949rKQCr_I)
 - [048 From Game of Thrones to Information System Cartography - NODES2022 - Adrien Sales](https://www.youtube.com/watch?v=8dXe5kVbQvQ)
 - [015 Demystifying Graph Analytics With Visualization - NODES2022 - Corey Lanum](https://www.youtube.com/watch?v=SA12Z714Il8)
 - [102 Temporal Graph Analysis - NODES2022 - Fabio Montagna](https://www.youtube.com/watch?v=H0Q-TEbIQDQ)
-- [078 Neo4j With Docker and Docker Compose Deep Dive - NODES2022 - Christophe Willemsen](https://www.youtube.com/watch?v=bTE2Ngcx9vU)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
