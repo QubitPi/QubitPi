@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1597534087023042562)
-- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1597525277118193664)
-- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1597515338752659456)
-- [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1597505129506299904)
 - [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1597486517122908160)
+- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #graphda...](https://twitter.com/memgraphdb/status/1597470447947464704)
+- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1597448377532354565)
+- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1597413615912509447)
+- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1597384144375398407)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
