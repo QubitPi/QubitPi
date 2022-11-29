@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [066 Playing With State Machines - NODES2022 - Pierre Halftermeyer](https://www.youtube.com/watch?v=h949rKQCr_I)
-- [048 From Game of Thrones to Information System Cartography - NODES2022 - Adrien Sales](https://www.youtube.com/watch?v=8dXe5kVbQvQ)
-- [015 Demystifying Graph Analytics With Visualization - NODES2022 - Corey Lanum](https://www.youtube.com/watch?v=SA12Z714Il8)
-- [102 Temporal Graph Analysis - NODES2022 - Fabio Montagna](https://www.youtube.com/watch?v=H0Q-TEbIQDQ)
-- [078 Neo4j With Docker and Docker Compose Deep Dive - NODES2022 - Christophe Willemsen](https://www.youtube.com/watch?v=bTE2Ngcx9vU)
+- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=FYLjyMZn51s)
+- [006 Bootstrapping Your Graph Project With Neo4j Workspace - NODES2022 - Gregory King](https://www.youtube.com/watch?v=8-1YMSTXwvs)
+- [002 Introducing Neo4j 5 for Administrators - NODES2022 - John Stegeman, Stu Moore](https://www.youtube.com/watch?v=Sndxf_nQQoc)
+- [003 Modeling NFT Tweets as a Knowledge Graph Using Neo4j - NODES2022 - Siraj Munir](https://www.youtube.com/watch?v=h8q1mU0HqVc)
+- [004 Graph Pattern Matching - NODES2022 - Nadja Müller, Petra Selmer](https://www.youtube.com/watch?v=NOaI9y6fwkg)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
