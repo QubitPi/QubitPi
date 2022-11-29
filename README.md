@@ -586,11 +586,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [What is a light client and how this technology is solving a major challenge for blockchain interoperability? Web3 Foundation’s Alistair Stewart with ...](https://twitter.com/Web3foundation/status/1597627444038881281)
 - [On January 13th-15th, Web3 Foundation&#39;s @joepetrowski will join @WorldCryptoC to share the latest on the @Polkadot Common Good Parachains, and discuss...](https://twitter.com/Web3foundation/status/1597588604846768129)
 - [&quot;Blockchain is an important part of the Web3 vision, but it’s just a part. We believe in decentralized and fair internet where users control their da...](https://twitter.com/Web3foundation/status/1597296014234644481)
 - [RT Polkadot: For almost 2 years, Polkadot community members have been working hard to make the ecosystem safer for its users. Check the blog from @Web...](https://twitter.com/Polkadot/status/1596566485069086721)
 - [Web3 Foundation continues to support the expansion of the Web 3.0 ecosystem. Learn more about how to apply for our grants program for those interested...](https://twitter.com/Web3foundation/status/1593210969064603649)
-- [For those in Zurich: on December 13th, don&#39;t miss your chance to hear from Web3 Foundation&#39;s @BillLaboon &amp; @joepetrowski at the &quot;End of Year Party&quot; by...](https://twitter.com/Web3foundation/status/1592965728327573506)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
