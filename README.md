@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Are problems with massive amount of input features feasible?](https://www.reddit.com/r/MachineLearning/comments/z7rn5o/d_are_problems_with_massive_amount_of_input/)
 - [[r] The Singular Value Decompositions of Transformer Weight Matrices are Highly Interpretable - LessWrong](https://www.reddit.com/r/MachineLearning/comments/z7rabn/r_the_singular_value_decompositions_of/)
 - [[R] Swin v2 Sequential self-attention computation](https://www.reddit.com/r/MachineLearning/comments/z7r4r5/r_swin_v2_sequential_selfattention_computation/)
 - [[N] Towards Deep Learning for Relational Databases](https://www.reddit.com/r/MachineLearning/comments/z7r1mg/n_towards_deep_learning_for_relational_databases/)
 - [SAS Viya &quot;[Discussion]&quot;](https://www.reddit.com/r/MachineLearning/comments/z7or2m/sas_viya_discussion/)
-- [Is coding from scratch a requirement to be able to do research? [D]](https://www.reddit.com/r/MachineLearning/comments/z7h29d/is_coding_from_scratch_a_requirement_to_be_able/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
