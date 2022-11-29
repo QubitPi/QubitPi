@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1597384144375398407)
 - [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1597360098883559425)
 - [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1597334868282720257)
 - [Re @ante_pusic_ @TheRockstarDBA + let us know if we can help further! :&rpar;](https://twitter.com/memgraphdb/status/1597322752222187520)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1597285905668407299)
-- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1597283650189627394)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
