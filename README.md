@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] On-Device Training Under 256KB Memory @ NeurIPS&#39;22](https://www.reddit.com/r/MachineLearning/comments/z7j8nc/r_ondevice_training_under_256kb_memory_neurips22/)
 - [Is coding from scratch a requirement to be able to do research? [D]](https://www.reddit.com/r/MachineLearning/comments/z7h29d/is_coding_from_scratch_a_requirement_to_be_able/)
 - [[D] Very vague concept, but I feel like my idea might be cool. Someone hear me out :&rpar;](https://www.reddit.com/r/MachineLearning/comments/z7ebxk/d_very_vague_concept_but_i_feel_like_my_idea/)
 - [[D] Difference between sparse and dense information retrieval](https://www.reddit.com/r/MachineLearning/comments/z76uel/d_difference_between_sparse_and_dense_information/)
 - [[D] Reporting model performance on unavailable dataset](https://www.reddit.com/r/MachineLearning/comments/z75e3n/d_reporting_model_performance_on_unavailable/)
-- [[D] NeuRIPS Proceedings](https://www.reddit.com/r/MachineLearning/comments/z74zj2/d_neurips_proceedings/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
