@@ -549,8 +549,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [November was a great month for meetups in APAC! ✨ Thank you to all attendees and speakers! See you next time! #Meetups #GraphDataScience #GraphTechno...](https://twitter.com/neo4j/status/1597391179716464641)
 - [RT Adrien SALES: ✌️ Working on #knowledgegraphs is an endless journey with @neo4j : 👶 Build &amp; #learn with your own graph 🗣️ Speak at #nodes22...](https://twitter.com/rastadidi/status/1597334866223595521)
 - [Government #GraphSummit is taking place on December 7 in the #DC area. Register today to discover the advantages of Neo4j’s native Graph Platform, in...](https://twitter.com/neo4j/status/1597302069244968961)
+- [RT Linkurious: Don&#39;t forget to save your spot to our upcoming webinar this Thursday to learn how to comine Neo4j GDS and Linkurious Enterrpise to unco...](https://twitter.com/Linkurious/status/1597261534371233795)
 - [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1597240378419482624)
-- [👉 With Link prediction pipelines you can use machine learning to uncover hidden relationships and predict future connections in your data. #Neo4j #...](https://twitter.com/neo4j/status/1597024490675806208)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
