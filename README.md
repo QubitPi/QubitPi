@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#Neo4j5 includes more power so you can ask deeper-context questions with faster results, scale out more easily with less cost, and operate more effici...](https://twitter.com/neo4j/status/1597561134105739264)
+- [RT Get That Right: Top Reasons to Use Neo4j Database Architecture](https://twitter.com/getthatrightgtr/status/1597489840328777728)
 - [November was a great month for meetups in APAC! ✨ Thank you to all attendees and speakers! See you next time! #Meetups #GraphDataScience #GraphTechno...](https://twitter.com/neo4j/status/1597391179716464641)
 - [RT Adrien SALES: ✌️ Working on #knowledgegraphs is an endless journey with @neo4j : 👶 Build &amp; #learn with your own graph 🗣️ Speak at #nodes22...](https://twitter.com/rastadidi/status/1597334866223595521)
 - [Government #GraphSummit is taking place on December 7 in the #DC area. Register today to discover the advantages of Neo4j’s native Graph Platform, in...](https://twitter.com/neo4j/status/1597302069244968961)
-- [RT Linkurious: Don&#39;t forget to save your spot to our upcoming webinar this Thursday to learn how to comine Neo4j GDS and Linkurious Enterrpise to unco...](https://twitter.com/Linkurious/status/1597261534371233795)
-- [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1597240378419482624)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
