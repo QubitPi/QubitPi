@@ -616,7 +616,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [The Lovership Camera man](https://dribbble.com/shots/19959601)
 - [365MAG](https://dribbble.com/shots/19997553)
-- [Creative Agency](https://dribbble.com/shots/19975729)
+- [Transaction Approval Slide-Over](https://dribbble.com/shots/19997861)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
