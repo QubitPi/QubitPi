@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1597869430914048001)
+- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1597849915090259969)
 - [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1597838140617654273)
 - [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1597831389575090177)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1597813172932575232)
-- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1597719188986073088)
-- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1597622923338055685)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
