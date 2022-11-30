@@ -615,8 +615,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [365MAG](https://dribbble.com/shots/19997553)
-- [The Lovership Camera man](https://dribbble.com/shots/19959601)
 - [Financilux Website](https://dribbble.com/shots/20003928)
+- [Transaction Approval Slide-Over](https://dribbble.com/shots/19997861)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
