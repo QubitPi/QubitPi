@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/733851864848662792><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4f12a633f04f49b2ad2a2214c66f255a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/734195114359914498><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c6f51c1e1432ef6cbd2aed5edf5fe4d1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 旅行者们好~今天「无相交响诗」活动「回旋曲·森郁之笼」中登场的劲敌是无相之草，它的特性是什么呢？让我看看…](https://t.bilibili.com/734168859211202560)
