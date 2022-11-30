@@ -346,8 +346,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I&#39;m at NeurIPS, AMA](https://www.reddit.com/r/MachineLearning/comments/z8di4c/d_im_at_neurips_ama/)
 - [[R] General Intelligence Requires Rethinking Exploration - Minqi Jiang et al 2022 - Learning / exploring in the real world and maintaining open-ended learning processes that continually learn to discover and solve new problems are required!](https://www.reddit.com/r/MachineLearning/comments/z8cooz/r_general_intelligence_requires_rethinking/)
-- [[R] AI Timelines via Cumulative Optimization Power: Less Long, More Short](https://www.reddit.com/r/MachineLearning/comments/z8aqtv/r_ai_timelines_via_cumulative_optimization_power/)
 - [[D] Building pytorch with dynamically linked CUDA?](https://www.reddit.com/r/MachineLearning/comments/z86ifn/d_building_pytorch_with_dynamically_linked_cuda/)
 - [[P] torchegranate: a PyTorch rewrite of the pomegranate library for probabilistic modeling](https://www.reddit.com/r/MachineLearning/comments/z83w01/p_torchegranate_a_pytorch_rewrite_of_the/)
 - [[D] Looking for papers on bitext word alignment](https://www.reddit.com/r/MachineLearning/comments/z81zzh/d_looking_for_papers_on_bitext_word_alignment/)
