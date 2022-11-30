@@ -495,11 +495,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [We can tell you what a graph database is, but sometimes it&#39;s best to get insight from an outside resource. 🥑 This article by software engineer and ...](https://twitter.com/arangodb/status/1598059318296936458)
 - [Fire up the second half of your week by adding the ArangoDB Certification Exam to your schedule. Test your knowledge, complete the certification exami...](https://twitter.com/arangodb/status/1597923485703180288)
 - [Graph is always done right with ArangoDB. 🔥🥑 In this webinar graph expert Markus Pfeiffer will explore the world of graphs with ArangoDB. Regist...](https://twitter.com/arangodb/status/1597696920239149058)
 - [What is a #graphdatabase, you ask? 🥑 Our latest white paper explores a graph database and why it can benefit your use case. Download for even more ...](https://twitter.com/arangodb/status/1597561018221297664)
 - [Check out this article discussing how Graph Databases will revolutionize the gaming industry through collecting, connecting, analyzing, and operationa...](https://twitter.com/arangodb/status/1597334543912112131)
+- [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1597198669320974337)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
