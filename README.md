@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] CPU - which one to choose?](https://www.reddit.com/r/MachineLearning/comments/z8ychr/d_cpu_which_one_to_choose/)
 - [[D]What are the popular research keywords at NeurIPS 2022?](https://www.reddit.com/r/MachineLearning/comments/z8xulr/dwhat_are_the_popular_research_keywords_at/)
 - [[D] Slow ONNX GPU Performance](https://www.reddit.com/r/MachineLearning/comments/z8xm5g/d_slow_onnx_gpu_performance/)
 - [[D] Training imagen like model](https://www.reddit.com/r/MachineLearning/comments/z8vro3/d_training_imagen_like_model/)
 - [what is better to study bachelor in computer science or in data science to become machine learning engineer? [D]](https://www.reddit.com/r/MachineLearning/comments/z8v8zw/what_is_better_to_study_bachelor_in_computer/)
-- [[P] Sparse Transfer 1000s of Select Hugging Face NLP Transformers](https://www.reddit.com/r/MachineLearning/comments/z8u1hq/p_sparse_transfer_1000s_of_select_hugging_face/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
