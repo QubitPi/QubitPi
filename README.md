@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1598007411826200576)
 - [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1598003940137787392)
 - [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1597990325766787075)
 - [Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison betw...](https://twitter.com/memgraphdb/status/1597983979277144064)
 - [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies and, more importantly, solve a...](https://twitter.com/memgraphdb/status/1597977509802418177)
+- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1597967946055393285)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
