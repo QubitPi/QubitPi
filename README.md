@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#TBT to this article to create a clinical knowledge graph using Spark NLP &amp; Neo4j with Emre Varol. #neo4j #twin4j #SparkNLP #knowledgegraphs](https://twitter.com/neo4j/status/1597760091406667777)
 - [NEW COURSE available at #GraphAcademy! 🤓 &quot;Building Neo4j Applications with TypeScript&quot; is ready for you to start today. Learn more: #Neo4j #typescr...](https://twitter.com/neo4j/status/1597651730870722560)
 - [👉Why you need to know about graph database 👉Where it is applicable in your organization 👉 #Neo4j innovations in performance, scaling out, and...](https://twitter.com/neo4j/status/1597621757061505024)
 - [Neo4j Live: Solving GraphQL challenges with 3Edges @alexb_imagina](https://twitter.com/neo4j/status/1597617922389999616)
 - [RT Linkurious: We&#39;re excited to sponsor and attend this year&#39;s @Neo4j Government #GraphSummit! If you&#39;re in the DC area on December 7th, come stop by!...](https://twitter.com/Linkurious/status/1597606303907684355)
-- [#Neo4j5 includes more power so you can ask deeper-context questions with faster results, scale out more easily with less cost, and operate more effici...](https://twitter.com/neo4j/status/1597561134105739264)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
