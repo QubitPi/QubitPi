@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j v5.x](https://www.youtube.com/watch?v=Zv-XTQ68fEw)
 - [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=CkFoOAtk3UU)
-- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectation](https://www.youtube.com/watch?v=JrBOvdVkjU4)
+- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectations](https://www.youtube.com/watch?v=JrBOvdVkjU4)
 - [089 Neo4j 5 Foundations for Scale - NODES2022 - Hugo Firth, Tobias Johansson](https://www.youtube.com/watch?v=yHcEg0TXo3A)
 - [093 Keyword Disambiguation Using Transformers and Clustering to Build Cleaner Knowledge - NODES2022](https://www.youtube.com/watch?v=QpMHT83aN5U)
-- [100 ML Innovation More Accuracy in Predictive Models Thanks to Graph Embeddings - NODES2022](https://www.youtube.com/watch?v=VyYdc3Na2TE)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
