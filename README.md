@@ -363,7 +363,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Scrum: Dealing With Fixed Date, Fixed Budget Work](https://www.scrum.org/resources/blog/scrum-dealing-fixed-date-fixed-budget-work)
-- [Building blocks of the next generation of Organisations](https://www.scrum.org/resources/blog/building-blocks-next-generation-organisations)
+- [Building Blocks of the Next Generation of Organisations](https://www.scrum.org/resources/blog/building-blocks-next-generation-organisations)
 - [Experiment: Dig Deeper Into Problems And Potential Solutions, Together](https://www.scrum.org/resources/blog/experiment-dig-deeper-problems-and-potential-solutions-together)
 - [[VLOG] Scrum 2020 Explained under 7 minutes BUT without cutting down its core principles](https://www.scrum.org/resources/blog/vlog-scrum-2020-explained-under-7-minutes-without-cutting-down-its-core-principles)
 - [How Scrum Event Timeboxes make your Team More Effective](https://www.scrum.org/resources/blog/how-scrum-event-timeboxes-make-your-team-more-effective)
