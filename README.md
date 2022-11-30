@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1598003940137787392)
+- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1597990325766787075)
+- [Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison betw...](https://twitter.com/memgraphdb/status/1597983979277144064)
+- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies and, more importantly, solve a...](https://twitter.com/memgraphdb/status/1597977509802418177)
 - [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1597967946055393285)
-- [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1597960458421633024)
-- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1597953098928070661)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1597931123404931075)
-- [Re @zgphp @stefanak_michal Thank you for sharing the info. See you next week at meetup :&rpar;](https://twitter.com/memgraphdb/status/1597908409583824896)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
