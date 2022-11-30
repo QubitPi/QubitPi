@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Akshay: Il be happily wrapping my 2022 by speaking at Graph DB Bangalore community meetup this Dec 11th. excited already, 🥳 do register let&#39;s ca...](https://twitter.com/akshuAkshay18/status/1597936636612214786)
 - [Wow! Day 1 at #reInvent was so exciting! ✨ Did you hear Ben Lackey&#39;s presentation? Visit us at booth 246 until December 1st! Las Vegas 📍 #reinvent...](https://twitter.com/neo4j/status/1597929716635377667)
 - [RT Alexander Erdl: Did you miss @mesirii modelling #aws services as a graph in our stream on Monday? You can watch it here:](https://twitter.com/alexandererdl/status/1597895238777012226)
 - [#TBT to this article to create a clinical knowledge graph using Spark NLP &amp; Neo4j with Emre Varol. #neo4j #twin4j #SparkNLP #knowledgegraphs](https://twitter.com/neo4j/status/1597760091406667777)
 - [NEW COURSE available at #GraphAcademy! 🤓 &quot;Building Neo4j Applications with TypeScript&quot; is ready for you to start today. Learn more: #Neo4j #typescr...](https://twitter.com/neo4j/status/1597651730870722560)
-- [👉Why you need to know about graph database 👉Where it is applicable in your organization 👉 #Neo4j innovations in performance, scaling out, and...](https://twitter.com/neo4j/status/1597621757061505024)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
