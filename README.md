@@ -350,7 +350,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [what is better to study bachelor in computer science or in data science to become machine learning engineer? [D]](https://www.reddit.com/r/MachineLearning/comments/z8v8zw/what_is_better_to_study_bachelor_in_computer/)
 - [[P] Sparse Transfer 1000s of Select Hugging Face NLP Transformers](https://www.reddit.com/r/MachineLearning/comments/z8u1hq/p_sparse_transfer_1000s_of_select_hugging_face/)
 - [[D] Choose a topic from neural networks](https://www.reddit.com/r/MachineLearning/comments/z8u103/d_choose_a_topic_from_neural_networks/)
-- [[P] NLP, NER using spacy transformers](https://www.reddit.com/r/MachineLearning/comments/z8twqk/p_nlp_ner_using_spacy_transformers/)
+- [Can ANN take the boundary conditions in consideration? [D]](https://www.reddit.com/r/MachineLearning/comments/z8rkfx/can_ann_take_the_boundary_conditions_in/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
