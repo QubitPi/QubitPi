@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is 20 single layer Neural networks equals to a single 20 layer neural network?](https://www.reddit.com/r/MachineLearning/comments/z9hff3/d_is_20_single_layer_neural_networks_equals_to_a/)
 - [[D] Best Practices for Training From Scratch With Large Datasets](https://www.reddit.com/r/MachineLearning/comments/z9gy4t/d_best_practices_for_training_from_scratch_with/)
 - [[R] Overinterpretation reveals image classification model pathologies - e.g. prominent models classify a black image w/ 4-5 gray pixels as &quot;airplane&quot; with &gt;99% confidence](https://www.reddit.com/r/MachineLearning/comments/z9ec6q/r_overinterpretation_reveals_image_classification/)
 - [[D] is it a realistic goal to apply text summarization in publishable literature reviews?](https://www.reddit.com/r/MachineLearning/comments/z9e4o5/d_is_it_a_realistic_goal_to_apply_text/)
 - [[D] Can area chair ask all reviewers to be in a meeting?](https://www.reddit.com/r/MachineLearning/comments/z9403c/d_can_area_chair_ask_all_reviewers_to_be_in_a/)
-- [[D] Understanding EfficientNet Depth Scaling](https://www.reddit.com/r/MachineLearning/comments/z92dri/d_understanding_efficientnet_depth_scaling/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
