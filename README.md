@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database](https://www.youtube.com/watch?v=yI3PYW-MVvQ)
 - [013 Fashion Retail Recommendations Using Neo4j Graph Data Science and Apache Arrow - NODES2022](https://www.youtube.com/watch?v=Vrc5vHykP4M)
 - [010 PHP Devs, Change Your Life - NODES2022 - Michal Štefaňák](https://www.youtube.com/watch?v=b_OCa3oNGzM)
 - [019 Arcurve Skills and Staffing Recommender - NODES2022 - Mike Morley, Pete Tunkis](https://www.youtube.com/watch?v=m06QhNqvfMk)
 - [016 Data Management with Knowledge Graphs Bringing Archives to Life - NODES2022 - Vlasta Kůs](https://www.youtube.com/watch?v=m0EpQSz1cNc)
-- [011 Neo4j Ops Manager Intro and Roadmap - NODES2022 - Chris Shelmerdine](https://www.youtube.com/watch?v=nfi3tGyigUM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
