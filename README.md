@@ -614,8 +614,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
-- [Financilux Website](https://dribbble.com/shots/20003928)
 - [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
+- [Financilux Website](https://dribbble.com/shots/20003928)
 - [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
 <!-- DRIBBBLE-TRENDING:END -->
 
