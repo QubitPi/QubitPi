@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database @lyonwj](https://twitter.com/neo4j/status/1598357564638760960)
 - [There are a variety of ways to interact with and use graph data in #Neo4j. Check out this guide that introduces the different products we provide at N...](https://twitter.com/neo4j/status/1598331286707441665)
+- [RT Sefik Ilkin Serengil: My talk about face recognition with graphs at @neo4j nodes 2022 event is on live now! - #deepface #python #neo4j #nodes2022 #...](https://twitter.com/serengil/status/1598266225825501184)
 - [RT B. David Tyler: How @KnowRivalry handles hierarchies in @neo4j: + Create &quot;instances&quot; for entities that change over time + Create temporary relation...](https://twitter.com/DrBDT/status/1598057124361555968)
 - [RT Pierre Halftermeyer: ☑ cypher cheat sheet bookmarked for #AdventOfCode2022 with #Neo4j. #AdventOfCode](https://twitter.com/halftep/status/1598033931978186752)
-- [RT Akshay: Il be happily wrapping my 2022 by speaking at Graph DB Bangalore community meetup this Dec 11th. excited already, 🥳 do register let&#39;s ca...](https://twitter.com/akshuAkshay18/status/1597936636612214786)
-- [Wow! Day 1 at #reInvent was so exciting! ✨ Did you hear Ben Lackey&#39;s presentation? Visit us at booth 246 until December 1st! Las Vegas 📍 #reinvent...](https://twitter.com/neo4j/status/1597929716635377667)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
