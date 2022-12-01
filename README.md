@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [096 From Node to Knowledge Graph Embeddings - NODES2022 - Tomaz Bratanic](https://www.youtube.com/watch?v=Fh-alMQ7h_U)
-- [Learn with Neo4j: Deploy Neo4j applications using Netlify](https://www.youtube.com/watch?v=e9k-I_CQ9Z8)
-- [Neo4j v5.x](https://www.youtube.com/watch?v=Zv-XTQ68fEw)
-- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=CkFoOAtk3UU)
-- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectations](https://www.youtube.com/watch?v=JrBOvdVkjU4)
+- [013 Fashion Retail Recommendations Using Neo4j Graph Data Science and Apache Arrow - NODES2022](https://www.youtube.com/watch?v=Vrc5vHykP4M)
+- [010 PHP Devs, Change Your Life - NODES2022 - Michal Štefaňák](https://www.youtube.com/watch?v=b_OCa3oNGzM)
+- [019 Arcurve Skills and Staffing Recommender - NODES2022 - Mike Morley, Pete Tunkis](https://www.youtube.com/watch?v=m06QhNqvfMk)
+- [016 Data Management with Knowledge Graphs Bringing Archives to Life - NODES2022 - Vlasta Kůs](https://www.youtube.com/watch?v=m0EpQSz1cNc)
+- [011 Neo4j Ops Manager Intro and Roadmap - NODES2022 - Chris Shelmerdine](https://www.youtube.com/watch?v=nfi3tGyigUM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
