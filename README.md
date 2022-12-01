@@ -616,7 +616,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [Financilux Website](https://dribbble.com/shots/20003928)
 - [365MAG](https://dribbble.com/shots/19997553)
-- [Transaction Approval Slide-Over](https://dribbble.com/shots/19997861)
+- [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
