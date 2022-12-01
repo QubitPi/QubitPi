@@ -402,11 +402,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [New in Docker Desktop 4.15: Improving Usability and Performance for Easier Builds](https://www.docker.com/blog/docker-desktop-4-15-improved-usability-and-performance/)
 - [Find and Fix Vulnerabilities Faster Now that Docker’s a CNA](https://www.docker.com/blog/docker-becomes-mitre-cna/)
 - [November 2022 Newsletter](https://www.docker.com/blog/november-2022-newsletter/)
 - [November Extensions Roundup: Kubernetes Observability, API Testing, and More](https://www.docker.com/blog/november-extensions-roundup-kubernetes-observability-api-testing-and-more/)
 - [Enable Cloud-Native Log Observability With Parseable](https://www.docker.com/blog/enable-cloud-native-log-observability-with-parseable/)
-- [How Rapid7 Reduced Setup Time From Days to Minutes With Docker](https://www.docker.com/blog/how-rapid7-reduced-setup-time-from-days-to-minutes-with-docker/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
