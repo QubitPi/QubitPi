@@ -586,11 +586,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [On December 1st at 9am UTC/10am CET, don&#39;t miss your chance to hear Web3 Foundation&#39;s @BillLaboon discussing Web3 education and all that&#39;s happening w...](https://twitter.com/Web3foundation/status/1597947420356247554)
-- [What is a light client and how this technology is solving a major challenge for blockchain interoperability? Web3 Foundation’s Alistair Stewart with ...](https://twitter.com/Web3foundation/status/1597627444038881281)
-- [On January 13th-15th, Web3 Foundation&#39;s @joepetrowski will join @WorldCryptoC to share the latest on the @Polkadot Common Good Parachains, and discuss...](https://twitter.com/Web3foundation/status/1597588604846768129)
-- [&quot;Blockchain is an important part of the Web3 vision, but it’s just a part. We believe in decentralized and fair internet where users control their da...](https://twitter.com/Web3foundation/status/1597296014234644481)
-- [RT Polkadot: For almost 2 years, Polkadot community members have been working hard to make the ecosystem safer for its users. Check the blog from @Web...](https://twitter.com/Polkadot/status/1596566485069086721)
+- [Re 8/...This is reconfirming that we did the right thing&quot; - @d_schoenberger, Web3 Foundation CLO.](https://twitter.com/Web3foundation/status/1598078294792241152)
+- [Re 7/ &quot;Commissioner Jaime Lizàrraga made a valid point that it was not the SEC’s responsibility to provide legal advice to projects but that it woul...](https://twitter.com/Web3foundation/status/1598078290065231872)
+- [Re 6/ &quot;Tech gurus should be talking about the tech and not marketing their tokens&quot; - @josh_blockchain, U.S. Head of FinTech and Head of Blockchain and...](https://twitter.com/Web3foundation/status/1598078287737401344)
+- [Re 5/...If you sold a security pursuant to an available exemption from registration, it is a security at the time of delivery. It needs to be delivere...](https://twitter.com/Web3foundation/status/1598078285354631168)
+- [Re 4/ &quot;The @telegram case was that the SAFT does not work for its originally intended purpose. Delivery of a token is not a separate transaction from ...](https://twitter.com/Web3foundation/status/1598078282708418561)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
