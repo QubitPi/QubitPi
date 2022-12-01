@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Demo for gpt chat &quot;frontend&quot;, which adds a talking face w/ audio via realtime vid generation. really brings chat to life!](https://www.reddit.com/r/MachineLearning/comments/z9xdo0/p_demo_for_gpt_chat_frontend_which_adds_a_talking/)
 - [[R] Latest Trigger Word Detection?](https://www.reddit.com/r/MachineLearning/comments/z9w1ss/r_latest_trigger_word_detection/)
 - [[R] Statistical vs Deep Learning forecasting methods](https://www.reddit.com/r/MachineLearning/comments/z9vbw7/r_statistical_vs_deep_learning_forecasting_methods/)
 - [[Discussion] - &quot;data sourcing will be more important than model building in the era of foundational model fine-tuning&quot;](https://www.reddit.com/r/MachineLearning/comments/z9qx7a/discussion_data_sourcing_will_be_more_important/)
 - [[P] Releasing customized language model pre-training acceleration toolkit: ExtremeBERT](https://www.reddit.com/r/MachineLearning/comments/z9qp53/p_releasing_customized_language_model_pretraining/)
-- [[P] Probably the Fastest Open Source Stable Diffusion is released](https://www.reddit.com/r/MachineLearning/comments/z9q0pq/p_probably_the_fastest_open_source_stable/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
