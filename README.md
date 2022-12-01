@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [IEEE ICASSP Clairty Challenge for ML/AI Speech Enhancement [R]](https://www.reddit.com/r/MachineLearning/comments/z9mtnu/ieee_icassp_clairty_challenge_for_mlai_speech/)
+- [[D] Is it possible to get a confusion matrix for Optical Character Recognition](https://www.reddit.com/r/MachineLearning/comments/z9m37s/d_is_it_possible_to_get_a_confusion_matrix_for/)
 - [[D] Cloud providers for hobby use](https://www.reddit.com/r/MachineLearning/comments/z9kt6f/d_cloud_providers_for_hobby_use/)
 - [[R] On Distillation of Guided Diffusion Models: “For diffusion models trained on the latent-space &lpar;Stable Diffusion&rpar;, our approach is able to generate hi-fidelity images using as few as 1-4 denoising steps, accelerating inference by &gt;10x compared to existing methods on ImageNet and LAION datasets.”](https://www.reddit.com/r/MachineLearning/comments/z9ii7r/r_on_distillation_of_guided_diffusion_models_for/)
 - [[Discussion] Should I go with Threadripper 5000 and multi-GPU, or Ryzen 9 with single GPU?](https://www.reddit.com/r/MachineLearning/comments/z9i7lo/discussion_should_i_go_with_threadripper_5000_and/)
-- [OpenAI ChatGPT [R]](https://www.reddit.com/r/MachineLearning/comments/z9hr3b/openai_chatgpt_r/)
-- [[D] Is 20 single layer Neural networks equals to a single 20 layer neural network?](https://www.reddit.com/r/MachineLearning/comments/z9hff3/d_is_20_single_layer_neural_networks_equals_to_a/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
