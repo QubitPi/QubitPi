@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
+- [[D] What are promising research areas of machine learning in the humanities?](https://www.reddit.com/r/MachineLearning/comments/za27hs/d_what_are_promising_research_areas_of_machine/)
 - [[R] Coder Reviewer Reranking for Code Generation - Facebook Research 2022 Tianyi Zhang et al - Coder-Reviewer reranking leads to up to 17% absolute accuracy gain!](https://www.reddit.com/r/MachineLearning/comments/za11rb/r_coder_reviewer_reranking_for_code_generation/)
 - [[D] This book was entirely generated using ChatGPT from OpenAI!](https://www.reddit.com/r/MachineLearning/comments/za041s/d_this_book_was_entirely_generated_using_chatgpt/)
 - [[P] Step by step guide to perform A/B test and measure ML models performance](https://www.reddit.com/r/MachineLearning/comments/z9zve7/p_step_by_step_guide_to_perform_ab_test_and/)
-- [[P] Demo for gpt chat &quot;frontend&quot;, which adds a talking face w/ audio via realtime vid generation. really brings chat to life!](https://www.reddit.com/r/MachineLearning/comments/z9xdo0/p_demo_for_gpt_chat_frontend_which_adds_a_talking/)
-- [[R] Latest Trigger Word Detection?](https://www.reddit.com/r/MachineLearning/comments/z9w1ss/r_latest_trigger_word_detection/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
