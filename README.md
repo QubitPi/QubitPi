@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1598302488389623808)
 - [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1598266962215403524)
 - [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1598247796192296962)
 - [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1598241193053356032)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1598240762042503168)
-- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1598235254376042496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
