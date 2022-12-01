@@ -612,11 +612,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Dental Clinic Mobile View](https://dribbble.com/shots/19980692)
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
 - [Financilux Website](https://dribbble.com/shots/20003928)
 - [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
-- [365MAG](https://dribbble.com/shots/19997553)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
