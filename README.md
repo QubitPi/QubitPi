@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Statistical vs Deep Learning forecasting methods](https://www.reddit.com/r/MachineLearning/comments/z9vbw7/r_statistical_vs_deep_learning_forecasting_methods/)
 - [[Discussion] - &quot;data sourcing will be more important than model building in the era of foundational model fine-tuning&quot;](https://www.reddit.com/r/MachineLearning/comments/z9qx7a/discussion_data_sourcing_will_be_more_important/)
 - [[P] Releasing customized language model pre-training acceleration toolkit: ExtremeBERT](https://www.reddit.com/r/MachineLearning/comments/z9qp53/p_releasing_customized_language_model_pretraining/)
 - [[P] Probably the Fastest Open Source Stable Diffusion is released](https://www.reddit.com/r/MachineLearning/comments/z9q0pq/p_probably_the_fastest_open_source_stable/)
 - [[Project] I used whisper to transcribe 2500 episodes from around 80 podcasts and made it searchable.](https://www.reddit.com/r/MachineLearning/comments/z9ps9k/project_i_used_whisper_to_transcribe_2500/)
-- [[D] Pretraining a visual model](https://www.reddit.com/r/MachineLearning/comments/z9pjz6/d_pretraining_a_visual_model/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
