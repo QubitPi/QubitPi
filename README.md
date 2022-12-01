@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Build a model that can translate English into Spanish. In short, Implemented Transformer from scratch in TensorFlow 2.x. 🚀](https://www.reddit.com/r/MachineLearning/comments/z9p7lk/p_build_a_model_that_can_translate_english_into/)
 - [[D] Reproducing MS Vision API labels with open models](https://www.reddit.com/r/MachineLearning/comments/z9oh7v/d_reproducing_ms_vision_api_labels_with_open/)
 - [[D] Risk assessment](https://www.reddit.com/r/MachineLearning/comments/z9nt2t/d_risk_assessment/)
 - [[D]Neural Network and Decision Tree are the same](https://www.reddit.com/r/MachineLearning/comments/z9nse4/dneural_network_and_decision_tree_are_the_same/)
 - [IEEE ICASSP Clairty Challenge for ML/AI Speech Enhancement [R]](https://www.reddit.com/r/MachineLearning/comments/z9mtnu/ieee_icassp_clairty_challenge_for_mlai_speech/)
-- [[D] Is it possible to get a confusion matrix for Optical Character Recognition](https://www.reddit.com/r/MachineLearning/comments/z9m37s/d_is_it_possible_to_get_a_confusion_matrix_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
