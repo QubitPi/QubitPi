@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] I used whisper to transcribe 2500 episodes from around 80 podcasts and made it searchable.](https://www.reddit.com/r/MachineLearning/comments/z9ps9k/project_i_used_whisper_to_transcribe_2500/)
 - [[D] Pretraining a visual model](https://www.reddit.com/r/MachineLearning/comments/z9pjz6/d_pretraining_a_visual_model/)
 - [[D] Annotations Tools&#39; Bounding Box to Mask Feature Implementation](https://www.reddit.com/r/MachineLearning/comments/z9pizk/d_annotations_tools_bounding_box_to_mask_feature/)
 - [[P] Build a model that can translate English into Spanish. In short, Implemented Transformer from scratch in TensorFlow 2.x. 🚀](https://www.reddit.com/r/MachineLearning/comments/z9p7lk/p_build_a_model_that_can_translate_english_into/)
 - [[D] Reproducing MS Vision API labels with open models](https://www.reddit.com/r/MachineLearning/comments/z9oh7v/d_reproducing_ms_vision_api_labels_with_open/)
-- [[D] Risk assessment](https://www.reddit.com/r/MachineLearning/comments/z9nt2t/d_risk_assessment/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
