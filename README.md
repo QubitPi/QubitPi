@@ -345,7 +345,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Is it a good option to do PhD in the NLP field after releasing of GPTchat and GPT4?](https://www.reddit.com/r/MachineLearning/comments/zamy6o/d_is_it_a_good_option_to_do_phd_in_the_nlp_field/)
+- [[P] Fine Tuning Whisper 2-Week Community Sprint With Free GPU Access](https://www.reddit.com/r/MachineLearning/comments/zanfie/p_fine_tuning_whisper_2week_community_sprint_with/)
 - [[D] Entropy in feature engineering](https://www.reddit.com/r/MachineLearning/comments/zaifed/d_entropy_in_feature_engineering/)
 - [[Project] Awesome Matting Project with SOTA Models and End-to-end Deployment](https://www.reddit.com/r/MachineLearning/comments/za8iqj/project_awesome_matting_project_with_sota_models/)
 - [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
