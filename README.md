@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1598749311713640448)
+- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #graphda...](https://twitter.com/memgraphdb/status/1598746699639521281)
 - [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1598725947125075969)
 - [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1598723008675418120)
 - [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1598715865427578883)
-- [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1598695788787515395)
-- [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1598654151696781312)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
