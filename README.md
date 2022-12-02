@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1598695788787515395)
 - [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1598654151696781312)
 - [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1598650874854776834)
 - [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1598648605925150721)
 - [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️](https://twitter.com/memgraphdb/status/1598605689814917120)
+- [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1598602671962951684)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
