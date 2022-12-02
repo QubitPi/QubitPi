@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is it scary to do PhD in NLP after realise of GPTchat or GPT4?](https://www.reddit.com/r/MachineLearning/comments/zalf7v/d_is_it_scary_to_do_phd_in_nlp_after_realise_of/)
 - [[D] Entropy in feature engineering](https://www.reddit.com/r/MachineLearning/comments/zaifed/d_entropy_in_feature_engineering/)
 - [[Discussion] Data sourcing interview question I got - opinions wanted](https://www.reddit.com/r/MachineLearning/comments/zahes7/discussion_data_sourcing_interview_question_i_got/)
 - [[D] [R] Accuracy rate of Machine Learning Classification Algorithms vary for different data](https://www.reddit.com/r/MachineLearning/comments/zagr75/d_r_accuracy_rate_of_machine_learning/)
 - [[D] Neural Networks are just a bunch of Decision Trees](https://www.reddit.com/r/MachineLearning/comments/zagl50/d_neural_networks_are_just_a_bunch_of_decision/)
-- [[D] Machine Learning Engineer Roadmap?](https://www.reddit.com/r/MachineLearning/comments/zae8n8/d_machine_learning_engineer_roadmap/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
