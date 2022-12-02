@@ -348,9 +348,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[Project] Awesome Matting Project with SOTA Models and End-to-end Deployment](https://www.reddit.com/r/MachineLearning/comments/za8iqj/project_awesome_matting_project_with_sota_models/)
 - [Create/finetune a model for $2,500 cash compensation [P]](https://www.reddit.com/r/MachineLearning/comments/za7d1t/createfinetune_a_model_for_2500_cash_compensation/)
-- [[P] Turing Test passed? Built a developer tool to allow anyone to build personalized generative conversational AI. Feedback, thoughts, criticism welcome!](https://www.reddit.com/r/MachineLearning/comments/za75kj/p_turing_test_passed_built_a_developer_tool_to/)
 - [[D] Looking for 100 data scientists to interview for video series](https://www.reddit.com/r/MachineLearning/comments/za4yxv/d_looking_for_100_data_scientists_to_interview/)
 - [[p] Really Dumb Idea&lpar;bear with me&rpar;](https://www.reddit.com/r/MachineLearning/comments/za4dcm/p_really_dumb_ideabear_with_me/)
+- [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
