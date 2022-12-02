@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] [R] Accuracy rate of Machine Learning Classification Algorithms vary for different data](https://www.reddit.com/r/MachineLearning/comments/zagr75/d_r_accuracy_rate_of_machine_learning/)
 - [[D] Neural Networks are just a bunch of Decision Trees](https://www.reddit.com/r/MachineLearning/comments/zagl50/d_neural_networks_are_just_a_bunch_of_decision/)
 - [[D] Machine Learning Engineer Roadmap?](https://www.reddit.com/r/MachineLearning/comments/zae8n8/d_machine_learning_engineer_roadmap/)
 - [[Project] Awesome Matting Project with SOTA Models and End-to-end Deployment](https://www.reddit.com/r/MachineLearning/comments/za8iqj/project_awesome_matting_project_with_sota_models/)
 - [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
-- [[D] What are promising research areas of machine learning in the humanities?](https://www.reddit.com/r/MachineLearning/comments/za27hs/d_what_are_promising_research_areas_of_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
