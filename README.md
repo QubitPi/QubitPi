@@ -545,11 +545,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [&quot;What I really, really like about #Neo4j is that Cypher makes translating difficult biological questions into queries very, very simple&quot; Ufuk Kirik, P...](https://twitter.com/neo4j/status/1598648404049117189)
-- [🎉 Tune in for a special Learn with #neo4j live stream: @adamcowley and @jlengstorf show you on Wednesday how to deploy Neo4j Apps with @Netlify](https://twitter.com/neo4j/status/1598648201124380672)
-- [RT Pierre Halftermeyer: Re #AdventOfcode2022 day 2 playing with Elves and a &quot;Tournament Graph&quot;.](https://twitter.com/halftep/status/1598638175492136960)
-- [RT Alexander Erdl: Looking forward to great streams next week! And you don&#39;t want to miss any &lpar;hint: subscribe to @neo4j youtube channel&rpar;! We are goin...](https://twitter.com/alexandererdl/status/1598625774403190784)
 - [Avoid wildcard imports in Java to enjoy all the records. How? @rotnroll666 has the answer :&rpar; #Java #Neo4j](https://twitter.com/neo4j/status/1598421772508008449)
+- [Join to learn: 👉Why you need to know about graph database 👉Where it is applicable in your organization and more! NA: Europe: Asia Pacific: #Neo4...](https://twitter.com/neo4j/status/1598383702870032404)
+- [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database @lyonwj](https://twitter.com/neo4j/status/1598357564638760960)
+- [There are a variety of ways to interact with and use graph data in #Neo4j. Check out this guide that introduces the different products we provide at N...](https://twitter.com/neo4j/status/1598331286707441665)
+- [RT Alexander Erdl: Did you miss #NODES2022 ? My colleague @ypoirier has collected the #top20 sessions for you:](https://twitter.com/alexandererdl/status/1598315314961436672)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
