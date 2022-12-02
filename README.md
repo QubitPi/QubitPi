@@ -238,6 +238,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![Nextcloud](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=all-in-one&show_owner=true&theme=vue)](https://github.com/QubitPi/all-in-one)
+[![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=vue)](https://github.com/QubitPi/mieru)
 
 #### [Keycloak](https://www.keycloak.org/)-Related Forks
 
