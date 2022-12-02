@@ -545,11 +545,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#NODES2022 atendees made this talk one of their favourites and You have to the chance to re-watch it here! 😮 &quot;Hidden in the Clouds: Using Graph Tec...](https://twitter.com/neo4j/status/1598693519354433540)
 - [&quot;What I really, really like about #Neo4j is that Cypher makes translating difficult biological questions into queries very, very simple&quot; Ufuk Kirik, P...](https://twitter.com/neo4j/status/1598648404049117189)
 - [🎉 Tune in for a special Learn with #neo4j live stream: @adamcowley and @jlengstorf show you on Wednesday how to deploy Neo4j Apps with @Netlify](https://twitter.com/neo4j/status/1598648201124380672)
 - [RT Pierre Halftermeyer: Re #AdventOfcode2022 day 2 playing with Elves and a &quot;Tournament Graph&quot;.](https://twitter.com/halftep/status/1598638175492136960)
-- [RT Jesús Barrasa: Three graphs: 😈Attack patterns 🚒Defensive techniques 🗒️Findings &lpar;CWEs&rpar; from SAST/DAST app scans Federate the three in #Ne...](https://twitter.com/BarrasaDV/status/1598633361953947648)
+- [RT Alexander Erdl: Looking forward to great streams next week! And you don&#39;t want to miss any &lpar;hint: subscribe to @neo4j youtube channel&rpar;! We are goin...](https://twitter.com/alexandererdl/status/1598625774403190784)
+- [Avoid wildcard imports in Java to enjoy all the records. How? @rotnroll666 has the answer :&rpar; #Java #Neo4j](https://twitter.com/neo4j/status/1598421772508008449)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
