@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Create/finetune a model for $2,500 cash compensation [P]](https://www.reddit.com/r/MachineLearning/comments/za7d1t/createfinetune_a_model_for_2500_cash_compensation/)
+- [[P] Turing Test passed? Built a developer tool to allow anyone to build personalized generative conversational AI. Feedback, thoughts, criticism welcome!](https://www.reddit.com/r/MachineLearning/comments/za75kj/p_turing_test_passed_built_a_developer_tool_to/)
 - [[D] Looking for 100 data scientists to interview for video series](https://www.reddit.com/r/MachineLearning/comments/za4yxv/d_looking_for_100_data_scientists_to_interview/)
 - [[p] Really Dumb Idea&lpar;bear with me&rpar;](https://www.reddit.com/r/MachineLearning/comments/za4dcm/p_really_dumb_ideabear_with_me/)
-- [I made a Short form + AI based Spotify tool [Project]](https://www.reddit.com/r/MachineLearning/comments/za3tp7/i_made_a_short_form_ai_based_spotify_tool_project/)
 - [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
-- [[D] What are promising research areas of machine learning in the humanities?](https://www.reddit.com/r/MachineLearning/comments/za27hs/d_what_are_promising_research_areas_of_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
