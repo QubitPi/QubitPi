@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1598600154109689858)
-- [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1598582137950818305)
-- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #graphdatabase #memgraphdb ...](https://twitter.com/memgraphdb/status/1598571975416463362)
 - [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1598408308171440136)
 - [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1598373889104613384)
+- [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1598371501555781659)
+- [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1598370004487004161)
+- [Check out our blog post 📰 Importing Table Data into a Graph Database with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1598358126457196546)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
