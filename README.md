@@ -346,10 +346,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[P] Tasknet: a library for easy fine-tuning with Huggingface Trainer and Datasets](https://www.reddit.com/r/MachineLearning/comments/zantzs/p_tasknet_a_library_for_easy_finetuning_with/)
-- [[D] What advances need to happen for something like gpt3 to be able to run on consumer devices and laptops locally? Is it even a possibility?](https://www.reddit.com/r/MachineLearning/comments/zanla0/d_what_advances_need_to_happen_for_something_like/)
-- [[P] Fine Tuning Whisper 2-Week Community Sprint With Free GPU Access](https://www.reddit.com/r/MachineLearning/comments/zanfie/p_fine_tuning_whisper_2week_community_sprint_with/)
 - [[D] Entropy in feature engineering](https://www.reddit.com/r/MachineLearning/comments/zaifed/d_entropy_in_feature_engineering/)
 - [[Project] Awesome Matting Project with SOTA Models and End-to-end Deployment](https://www.reddit.com/r/MachineLearning/comments/za8iqj/project_awesome_matting_project_with_sota_models/)
+- [[D] can a MODEL &lpar;not code&rpar; created using licensed code &lpar;StyleGAN&rpar; be used for commercial use?](https://www.reddit.com/r/MachineLearning/comments/za28pb/d_can_a_model_not_code_created_using_licensed/)
+- [[D] What are promising research areas of machine learning in the humanities?](https://www.reddit.com/r/MachineLearning/comments/za27hs/d_what_are_promising_research_areas_of_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
