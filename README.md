@@ -545,11 +545,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Congrats to the winners of the Code Golf Challenge - Intermediate Level! 🎉 Well done! #Neo4j #Codingchallenge](https://twitter.com/neo4j/status/1598738914084376576)
 - [#NODES2022 atendees made this talk one of their favourites and You have to the chance to re-watch it here! 😮 &quot;Hidden in the Clouds: Using Graph Tec...](https://twitter.com/neo4j/status/1598693519354433540)
 - [&quot;What I really, really like about #Neo4j is that Cypher makes translating difficult biological questions into queries very, very simple&quot; Ufuk Kirik, P...](https://twitter.com/neo4j/status/1598648404049117189)
 - [🎉 Tune in for a special Learn with #neo4j live stream: @adamcowley and @jlengstorf show you on Wednesday how to deploy Neo4j Apps with @Netlify](https://twitter.com/neo4j/status/1598648201124380672)
 - [RT Pierre Halftermeyer: Re #AdventOfcode2022 day 2 playing with Elves and a &quot;Tournament Graph&quot;.](https://twitter.com/halftep/status/1598638175492136960)
+- [RT Jesús Barrasa: Three graphs: 😈Attack patterns 🚒Defensive techniques 🗒️Findings &lpar;CWEs&rpar; from SAST/DAST app scans Federate the three in #Ne...](https://twitter.com/BarrasaDV/status/1598633361953947648)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
