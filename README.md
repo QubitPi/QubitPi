@@ -611,8 +611,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
 - [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
+- [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
 - [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
 - [Financilux Website](https://dribbble.com/shots/20003928)
 - [Cetera Finance – Banking Mobile App](https://dribbble.com/shots/20031515)
