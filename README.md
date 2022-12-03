@@ -346,10 +346,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[R] Datasets for regression algorithms with many attributes](https://www.reddit.com/r/MachineLearning/comments/zbgwfz/r_datasets_for_regression_algorithms_with_many/)
-- [[Discussion] Approach for applying Explainable AI on Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/zbgm37/discussion_approach_for_applying_explainable_ai/)
 - [[D] What methods would you recommend for building an image-stitching AI?](https://www.reddit.com/r/MachineLearning/comments/zbg2yz/d_what_methods_would_you_recommend_for_building/)
 - [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
 - [[R] Decision Diffuser: offline RL with generative models](https://www.reddit.com/r/MachineLearning/comments/zbdfeq/r_decision_diffuser_offline_rl_with_generative/)
+- [RickandMortify: A playground for creating new episodes of Rick and Morty using the state-of-the-art in generative AI &lpar;GPT-3 + Stable Diffusion&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zbbgpq/rickandmortify_a_playground_for_creating_new/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
