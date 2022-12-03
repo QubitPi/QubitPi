@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is OpenAI using ChatGPT to apply RLHF to their next LLM/GPT4?](https://www.reddit.com/r/MachineLearning/comments/zbrm7i/d_is_openai_using_chatgpt_to_apply_rlhf_to_their/)
 - [[D] NYC to London](https://www.reddit.com/r/MachineLearning/comments/zbqlic/d_nyc_to_london/)
 - [[D] Ensemble Training Logistics and Mathematical Equivalences](https://www.reddit.com/r/MachineLearning/comments/zbkvd2/d_ensemble_training_logistics_and_mathematical/)
 - [[D] What methods would you recommend for building an image-stitching AI?](https://www.reddit.com/r/MachineLearning/comments/zbg2yz/d_what_methods_would_you_recommend_for_building/)
 - [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
-- [[R] Decision Diffuser: offline RL with generative models](https://www.reddit.com/r/MachineLearning/comments/zbdfeq/r_decision_diffuser_offline_rl_with_generative/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
