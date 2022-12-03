@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Trying to convert data for Random forest in R](https://www.reddit.com/r/MachineLearning/comments/zbonh1/p_trying_to_convert_data_for_random_forest_in_r/)
 - [[D] Ensemble Training Logistics and Mathematical Equivalences](https://www.reddit.com/r/MachineLearning/comments/zbkvd2/d_ensemble_training_logistics_and_mathematical/)
 - [[D] What methods would you recommend for building an image-stitching AI?](https://www.reddit.com/r/MachineLearning/comments/zbg2yz/d_what_methods_would_you_recommend_for_building/)
 - [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
 - [[R] Decision Diffuser: offline RL with generative models](https://www.reddit.com/r/MachineLearning/comments/zbdfeq/r_decision_diffuser_offline_rl_with_generative/)
-- [RickandMortify: A playground for creating new episodes of Rick and Morty using the state-of-the-art in generative AI &lpar;GPT-3 + Stable Diffusion&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zbbgpq/rickandmortify_a_playground_for_creating_new/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
