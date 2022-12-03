@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] can we use forcasted information for prediction?](https://www.reddit.com/r/MachineLearning/comments/zbd0oy/d_can_we_use_forcasted_information_for_prediction/)
 - [RickandMortify: A playground for creating new episodes of Rick and Morty using the state-of-the-art in generative AI &lpar;GPT-3 + Stable Diffusion&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zbbgpq/rickandmortify_a_playground_for_creating_new/)
 - [[R] Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation &lpar;paper, code, colab in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zbb9l9/r_perceiveractor_a_multitask_transformer_for/)
 - [[R] AltDiffusion-m9: multilingual stable diffusion](https://www.reddit.com/r/MachineLearning/comments/zbb0pj/r_altdiffusionm9_multilingual_stable_diffusion/)
 - [[R] SGD augmented with 2nd order information from seen sequence of gradients?](https://www.reddit.com/r/MachineLearning/comments/zb7xjb/r_sgd_augmented_with_2nd_order_information_from/)
-- [[D] Docker image for OpenAI Gym](https://www.reddit.com/r/MachineLearning/comments/zb2jcl/d_docker_image_for_openai_gym/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
