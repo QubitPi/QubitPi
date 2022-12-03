@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1599110546288246785)
-- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1599106491549720579)
-- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1599098408551284736)
-- [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. #me...](https://twitter.com/memgraphdb/status/1599088944955670528)
 - [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1598971556293758978)
+- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1598964613638508544)
+- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1598963469663059969)
+- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1598958868394024960)
+- [#Pythorch 2.0 is out 🎉 Are you using it for your #MachineLearning projects? #memgraph #megraphdb #database #graphdatabase #python #opensource](https://twitter.com/memgraphdb/status/1598952147428683776)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
