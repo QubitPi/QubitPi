@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] What are the hot topics in ML at the moment?](https://www.reddit.com/r/MachineLearning/comments/zbg68l/d_what_are_the_hot_topics_in_ml_at_the_moment/)
-- [[R] OpenAI’s GPT-4: The Much-Anticipated Follow-Up to GPT-3](https://www.reddit.com/r/MachineLearning/comments/zbg5rb/r_openais_gpt4_the_muchanticipated_followup_to/)
 - [[D] What methods would you recommend for building an image-stitching AI?](https://www.reddit.com/r/MachineLearning/comments/zbg2yz/d_what_methods_would_you_recommend_for_building/)
 - [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
 - [[R] Decision Diffuser: offline RL with generative models](https://www.reddit.com/r/MachineLearning/comments/zbdfeq/r_decision_diffuser_offline_rl_with_generative/)
+- [RickandMortify: A playground for creating new episodes of Rick and Morty using the state-of-the-art in generative AI &lpar;GPT-3 + Stable Diffusion&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zbbgpq/rickandmortify_a_playground_for_creating_new/)
+- [[R] Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation &lpar;paper, code, colab in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zbb9l9/r_perceiveractor_a_multitask_transformer_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
