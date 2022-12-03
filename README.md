@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] [UPDATE] Predict your political leaning from your reddit comment history! &lpar;Webapp linked in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zbef1q/p_update_predict_your_political_leaning_from_your/)
 - [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
 - [[R] Decision Diffuser: offline RL with generative models](https://www.reddit.com/r/MachineLearning/comments/zbdfeq/r_decision_diffuser_offline_rl_with_generative/)
 - [[D] can we use forcasted information for prediction?](https://www.reddit.com/r/MachineLearning/comments/zbd0oy/d_can_we_use_forcasted_information_for_prediction/)
 - [RickandMortify: A playground for creating new episodes of Rick and Morty using the state-of-the-art in generative AI &lpar;GPT-3 + Stable Diffusion&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zbbgpq/rickandmortify_a_playground_for_creating_new/)
-- [[R] Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation &lpar;paper, code, colab in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zbb9l9/r_perceiveractor_a_multitask_transformer_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
