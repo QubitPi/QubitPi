@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1598971556293758978)
 - [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1598964613638508544)
 - [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1598963469663059969)
 - [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1598958868394024960)
 - [#Pythorch 2.0 is out 🎉 Are you using it for your #MachineLearning projects? #memgraph #megraphdb #database #graphdatabase #python #opensource](https://twitter.com/memgraphdb/status/1598952147428683776)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1598950732765532161)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
