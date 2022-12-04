@@ -545,11 +545,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT The New Stack: Some of the freshest, most powerful ideas aren’t complicated or magic, they’re simply a perspective shift: looking at old problems...](https://twitter.com/thenewstack/status/1599230260612136961)
-- [RT Philip Rathle: You heard it here first! #ChatGPT meets #Neo4j](https://twitter.com/prathle/status/1599224207464075264)
 - [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1599032978331557888)
 - [Congrats to the winners of the Code Golf Challenge - Intermediate Level! 🎉 Well done! #Neo4j #Codingchallenge](https://twitter.com/neo4j/status/1598738914084376576)
 - [#NODES2022 atendees made this talk one of their favourites and You have to the chance to re-watch it here! 😮 &quot;Hidden in the Clouds: Using Graph Tec...](https://twitter.com/neo4j/status/1598693519354433540)
+- [RT yWorks: Sebastian&#39;s presentation at the @neo4j Nodes2022 conference was a huge success. Check it out here if you missed it: The talk covers diagram...](https://twitter.com/yworks/status/1598691784422481920)
+- [&quot;What I really, really like about #Neo4j is that Cypher makes translating difficult biological questions into queries very, very simple&quot; Ufuk Kirik, P...](https://twitter.com/neo4j/status/1598648404049117189)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
