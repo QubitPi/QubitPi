@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735738218782130260><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/578cfcbad3ef5bbfcb9aaf6f43fc3ce6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735769653665595476><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/86f1db2eefbedef7abb0231f9c4260c0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #七圣召唤# 旅行者们好呀~我们将继续为大家介绍七圣召唤的进阶规则，包括： 【牌组的搭配】 【牌组的使用】：角色牌的使用，行动牌的使用 【战斗行动与快...](https://t.bilibili.com/735769653665595476)
