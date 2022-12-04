@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735738218782130260><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/578cfcbad3ef5bbfcb9aaf6f43fc3ce6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #七圣召唤# 旅行者们好呀~我们将继续为大家介绍七圣召唤的进阶规则，包括： 【牌组的搭配】 【牌组的使用】：角色牌的使用，行动牌的使用 【战斗行动与快...](https://t.bilibili.com/735769653665595476)
+- [#原神# #七圣召唤# 旅行者们好，3.3版本将上线全新玩法「七圣召唤」。本篇说明将介绍「七圣召唤」相关的玩法规则，包括： 【玩法规则】：核心目标、游戏区域、对...](https://t.bilibili.com/735769133970358424)
 - [#原神# #原神3.3# 旅行者们好~今天将为各位旅行者介绍的是3.3版本中的全新装备，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/735738218782130260)
 - [互动抽奖 #原神# #妮露# #生日快乐# #延后发布# 刚刚玩得还尽兴吗？和朋友们在一起真是太开心了。 跟大家聊天打趣的时候，时间总是过得很快。你看，月亮都出来啦...](https://t.bilibili.com/735692760866095209)
 - [互动抽奖 #原神# #甘雨# #生日快乐# #延后发布# 这是专门为我采的清心？谢谢！那、那我就不客气了。 你要尝尝吗？唔，不用了吗？ 看样子，大部分人还是没办法接...](https://t.bilibili.com/735692288413401107)
-- [互动抽奖 #原神# #流浪者# 《原神》流浪者角色PV——「灰烬」现已发布~ https://www.bilibili.com/video/BV1J24y1k7Ky 寄希望于不属于自己的东西，结局很可能是...](https://t.bilibili.com/735680326917947445)
-- [亲爱的旅行者，今天为大家介绍的角色是流浪者，一起来看看吧~[原神_干杯]](https://t.bilibili.com/735679356266872849)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
