@@ -350,7 +350,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/zcdcoo/d_simple_questions_thread/)
 - [[D] Modern RL for Machine Control](https://www.reddit.com/r/MachineLearning/comments/zccze7/d_modern_rl_for_machine_control/)
 - [[D] Score 4.5 GNN paper from Muhan Zhang at Peking University was amazingly accepted by NeurIPS 2022](https://www.reddit.com/r/MachineLearning/comments/zcc9bg/d_score_45_gnn_paper_from_muhan_zhang_at_peking/)
-- [[D] DeepMind releases DeepNash [Game playing AI]](https://www.reddit.com/r/MachineLearning/comments/zcbnl3/d_deepmind_releases_deepnash_game_playing_ai/)
+- [[N] ICLR 2023 review score update @2022-12-04](https://www.reddit.com/r/MachineLearning/comments/zc9eub/n_iclr_2023_review_score_update_20221204/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
