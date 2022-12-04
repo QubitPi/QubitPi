@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1599447469011906560)
+- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1599443650311774209)
 - [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1599435938203058183)
 - [Check out our blog post 📰 #Twitch #Streaming #Graph Analysis - Part 2 ➡️](https://twitter.com/memgraphdb/status/1599423179184869378)
 - [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ #memgraph #graphdatabase #stream #dat...](https://twitter.com/memgraphdb/status/1599400258731130881)
-- [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1599388424632426500)
-- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1599367871922151424)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
