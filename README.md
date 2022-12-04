@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735679356266872849><img align='right' src='https://i0.hdslb.com/bfs/article/19dd6f850d5f649d3ef3403780bfecfde94a9e1c.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735738218782130260><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/578cfcbad3ef5bbfcb9aaf6f43fc3ce6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #妮露# #生日快乐# #延后发布# 刚刚玩得还尽兴吗？和朋友们在一起真是太开心了。 跟大家聊天打趣的时候，时间总是过得很快。你看，月亮都出来啦...](https://t.bilibili.com/735692760866095209)
