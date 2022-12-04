@@ -614,9 +614,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
 - [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
+- [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 - [Dental Clinic Website Design](https://dribbble.com/shots/20034563)
 - [Cetera Finance – Banking Mobile App](https://dribbble.com/shots/20031515)
-- [Neuralink Logo Redesign Concept](https://dribbble.com/shots/19998501)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
