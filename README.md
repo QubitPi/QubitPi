@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/734195114359914498><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c6f51c1e1432ef6cbd2aed5edf5fe4d1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735679356266872849><img align='right' src='https://i0.hdslb.com/bfs/article/19dd6f850d5f649d3ef3403780bfecfde94a9e1c.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，今天为大家介绍的角色是流浪者，一起来看看吧~[原神_干杯]](https://t.bilibili.com/735679356266872849)
