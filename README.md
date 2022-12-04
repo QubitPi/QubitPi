@@ -527,11 +527,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #graphdatabase #memgraphdb #database #sql #nosql](https://twitter.com/memgraphdb/status/1599305812953948160)
+- [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1599305808302542850)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1599139063319171072)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1599130139417264132)
 - [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1599119770137272327)
-- [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1599110546288246785)
-- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1599106491549720579)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
