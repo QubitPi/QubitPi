@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735769653665595476><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/86f1db2eefbedef7abb0231f9c4260c0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/735800096373866614><img align='right' src='#原神# #致旅行者的答谢信#&lt;br&gt;&lt;br&gt;亲爱的旅行者：&lt;br&gt;&lt;br&gt;这场美好的旅行，离不开大家的陪伴。在各位的支持下，《原神》获得了“PlayStation®Partner Awards 2022 GRAND AWARD”，&lt;br&gt;我们将于12月4日至12月7日，送上800原石的谢礼，感谢相伴。&lt;br&gt;&lt;br&gt;*领取说明：&lt;br&gt;每日200原石将在各服务器时间12月4日至12月7日的00:00，通过游戏内邮件逐日发放给旅行者；&lt;br&gt;原石领取时间截至3.3版本结束前，每位冒险等阶达到7级及以上的旅行者，都可以通过游戏内邮件领取本次总计800原石的礼物。&lt;br&gt;' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #七圣召唤# 旅行者们好呀~我们将继续为大家介绍七圣召唤的进阶规则，包括： 【牌组的搭配】 【牌组的使用】：角色牌的使用，行动牌的使用 【战斗行动与快...](https://t.bilibili.com/735769653665595476)
