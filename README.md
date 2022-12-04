@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] AI Best Paper Awards Reviewed by Computer Vision News &lpar;and much more&rpar;](https://www.reddit.com/r/MachineLearning/comments/zc5q5t/n_ai_best_paper_awards_reviewed_by_computer/)
 - [[D] Best object detection architecture out there in terms of accuracy alone](https://www.reddit.com/r/MachineLearning/comments/zc24rg/d_best_object_detection_architecture_out_there_in/)
 - [[R] ML and Public Relations: Applications and Examples?](https://www.reddit.com/r/MachineLearning/comments/zc0xni/r_ml_and_public_relations_applications_and/)
 - [[D] Determining the right time to quit training &lpar;CNN&rpar;](https://www.reddit.com/r/MachineLearning/comments/zc0kco/d_determining_the_right_time_to_quit_training_cnn/)
 - [[D] Beware the Black Swan](https://www.reddit.com/r/MachineLearning/comments/zc0dwu/d_beware_the_black_swan/)
-- [[D] Popular Superpixel based attribution methods?](https://www.reddit.com/r/MachineLearning/comments/zbzclc/d_popular_superpixel_based_attribution_methods/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
