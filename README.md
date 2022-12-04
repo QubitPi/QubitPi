@@ -345,11 +345,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Popular Superpixel based attribution methods?](https://www.reddit.com/r/MachineLearning/comments/zbzclc/d_popular_superpixel_based_attribution_methods/)
 - [[D][R] What are the non-black box methods to model panel data?](https://www.reddit.com/r/MachineLearning/comments/zbx2t1/dr_what_are_the_nonblack_box_methods_to_model/)
 - [[R][P] I made a Hugging Face gradio demo for text-to-3D paper Score Jacobian Chaining](https://www.reddit.com/r/MachineLearning/comments/zbwwmc/rp_i_made_a_hugging_face_gradio_demo_for_textto3d/)
 - [[D] Ensemble Training Logistics and Mathematical Equivalences](https://www.reddit.com/r/MachineLearning/comments/zbkvd2/d_ensemble_training_logistics_and_mathematical/)
 - [[D] What methods would you recommend for building an image-stitching AI?](https://www.reddit.com/r/MachineLearning/comments/zbg2yz/d_what_methods_would_you_recommend_for_building/)
-- [[D] good feature store?](https://www.reddit.com/r/MachineLearning/comments/zbech9/d_good_feature_store/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
