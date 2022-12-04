@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1599367871922151424)
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1599365872698769408)
 - [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1599311904022872066)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #graphdatabase #memgraphdb #database #sql #nosql](https://twitter.com/memgraphdb/status/1599305812953948160)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1599305808302542850)
+- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1599139063319171072)
+- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1599130139417264132)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
