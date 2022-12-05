@@ -557,11 +557,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=CkFoOAtk3UU)
-- [070 ESG Supply Chain Knowledge Graph - NODES2022 - Dr. Julian Gruemmer](https://www.youtube.com/watch?v=7JfXoubUv3Q)
-- [014 Graph Database Techniques to Reduce Risk and Innovate - NODES2022 - Michael Bandor](https://www.youtube.com/watch?v=rucTB_ie7a0)
-- [012 Graph Modeling The Shadow Graph - NODES2022 - Mark Needham](https://www.youtube.com/watch?v=Uh-ZwrY27s0)
-- [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database](https://www.youtube.com/watch?v=yI3PYW-MVvQ)
+- [028 Let&#39;s Get Functional! Pull Off a Trifecta With Spring Cloud Function, Azure Function - NODES2022](https://www.youtube.com/watch?v=0DhtxRCPQRo)
+- [029 Graph Data Science for Computer Vision - NODES2022 - Anuj Agrawal](https://www.youtube.com/watch?v=4lW2QBwZLrI)
+- [026 Neo4j Data Loading &lpar;ETL/ELT&rpar; Best Practices - NODES2022 - Anthony Krinsky](https://www.youtube.com/watch?v=5V8EWZhw6-U)
+- [025 Exploring Data With Neo4j Bloom - NODES2022 - Jeff Gagnon](https://www.youtube.com/watch?v=8nSFC7Z06P0)
+- [020 Security and Velocity Through Declarative Ingestion - NODES2022 - Zach Probst](https://www.youtube.com/watch?v=VD6EUvp2SfM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
