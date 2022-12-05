@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736078410270376040><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/601e61c9dffebd5a3ea8c252686b61e3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #七圣召唤# #牌手预演# 有人说，成为成功牌手的第一步，是收集所有的卡牌！ 「七圣召唤」卡牌先览活动——「牌手预演」现已开启~ 欢迎旅行者前...](https://t.bilibili.com/736078410270376040)
+- [#原神# #画外旅照青植之篇# #原神画外旅照摄影征集活动# 《原神》「画外旅照·青植之篇」摄影征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品...](https://t.bilibili.com/736077083112898630)
 - [互动抽奖 #原神# #流浪者# #飘然踏绿茵# 须弥的环境与稻妻不尽相同，目之所及皆是绿意。 「飘然踏绿茵」——《原神》新角色：流浪者分享H5正式上线。 欢迎旅行者...](https://t.bilibili.com/736063700000047107)
 - [互动抽奖 #原神# #流浪者# 《原神》角色演示-「流浪者：今昔离索」现已发布~ https://www.bilibili.com/video/BV1BW4y1u7CY/ 寻寻觅觅，怀感妄执数百夕。 凄凄恻...](https://t.bilibili.com/736051399225245715)
 - [#原神# #原神3.3# 旅行者们好呀~3.3版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/736050029124386837)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·图莱杜拉的回忆」「双手剑·赤角石溃杵」概率UP！ 活动期间，旅行者可以在「神铸赋形...](https://t.bilibili.com/736048508705964072)
-- [#原神# #荒泷一斗# #鬼门斗宴# 亲爱的旅行者，「鬼门斗宴」活动祈愿即将开启，「花坂豪快·荒泷一斗&lpar;岩&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/736047989021212696)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
