@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736063700000047107><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/627f023e44a969d775d2d66b498f7865401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736078410270376040><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/601e61c9dffebd5a3ea8c252686b61e3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #流浪者# #飘然踏绿茵# 须弥的环境与稻妻不尽相同，目之所及皆是绿意。 「飘然踏绿茵」——《原神》新角色：流浪者分享H5正式上线。 欢迎旅行者...](https://t.bilibili.com/736063700000047107)
