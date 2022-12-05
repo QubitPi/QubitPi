@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [070 ESG Supply Chain Knowledge Graph - NODES2022 - Dr. Julian Gruemmer](https://www.youtube.com/watch?v=7JfXoubUv3Q)
 - [014 Graph Database Techniques to Reduce Risk and Innovate - NODES2022 - Michael Bandor](https://www.youtube.com/watch?v=rucTB_ie7a0)
 - [012 Graph Modeling The Shadow Graph - NODES2022 - Mark Needham](https://www.youtube.com/watch?v=Uh-ZwrY27s0)
 - [Full Stack GraphQL Book Club - Chapter 3: Graphs In The Database](https://www.youtube.com/watch?v=yI3PYW-MVvQ)
 - [013 Fashion Retail Recommendations Using Neo4j Graph Data Science and Apache Arrow - NODES2022](https://www.youtube.com/watch?v=Vrc5vHykP4M)
+- [010 PHP Devs, Change Your Life - NODES2022 - Michal Štefaňák](https://www.youtube.com/watch?v=b_OCa3oNGzM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
