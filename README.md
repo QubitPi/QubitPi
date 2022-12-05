@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Regarding the type of Ph.D. in AI](https://www.reddit.com/r/MachineLearning/comments/zcw86q/discussion_regarding_the_type_of_phd_in_ai/)
 - [[D] Thread: Top 10 ways you can use ChatGPT for Music related stuff](https://www.reddit.com/r/MachineLearning/comments/zctiu3/d_thread_top_10_ways_you_can_use_chatgpt_for/)
 - [[D] What is the advantage of multi output regression over doing it individually for each target variable](https://www.reddit.com/r/MachineLearning/comments/zcp5jl/d_what_is_the_advantage_of_multi_output/)
 - [[D] NeurIPS 2022 Outstanding Paper modified results significantly in the camera ready](https://www.reddit.com/r/MachineLearning/comments/zcdw0k/d_neurips_2022_outstanding_paper_modified_results/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/zcdcoo/d_simple_questions_thread/)
-- [[D] Modern RL for Machine Control](https://www.reddit.com/r/MachineLearning/comments/zccze7/d_modern_rl_for_machine_control/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
