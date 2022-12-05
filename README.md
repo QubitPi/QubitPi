@@ -614,8 +614,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- DRIBBBLE-TRENDING:START -->
 - [GoodNotes - Collaborative Notes Mobile App](https://dribbble.com/shots/20017643)
 - [Fast Food, Fast Life](https://dribbble.com/shots/20024223)
-- [Retirement planner](https://dribbble.com/shots/20025764)
 - [Dental Clinic Website Design](https://dribbble.com/shots/20034563)
+- [Retirement planner](https://dribbble.com/shots/20025764)
 - [Cetera Finance – Banking Mobile App](https://dribbble.com/shots/20031515)
 <!-- DRIBBBLE-TRENDING:END -->
 
