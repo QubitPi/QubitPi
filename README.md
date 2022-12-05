@@ -587,11 +587,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Tomorrow at 6pm CEST tune into W3Fs Twitter Space to hear from @d_schoenberger, @josh_blockchain, and @daltonan on DOT morphing from a “Security” to...](https://twitter.com/Web3foundation/status/1599802512655388673)
 - [Re 8/...This is reconfirming that we did the right thing&quot; - @d_schoenberger, Web3 Foundation CLO.](https://twitter.com/Web3foundation/status/1598078294792241152)
 - [Re 7/ &quot;Commissioner Jaime Lizàrraga made a valid point that it was not the SEC’s responsibility to provide legal advice to projects but that it woul...](https://twitter.com/Web3foundation/status/1598078290065231872)
 - [Re 6/ &quot;Tech gurus should be talking about the tech and not marketing their tokens&quot; - @josh_blockchain, U.S. Head of FinTech and Head of Blockchain and...](https://twitter.com/Web3foundation/status/1598078287737401344)
 - [Re 5/...If you sold a security pursuant to an available exemption from registration, it is a security at the time of delivery. It needs to be delivere...](https://twitter.com/Web3foundation/status/1598078285354631168)
+- [Re 4/ &quot;The @telegram case was that the SAFT does not work for its originally intended purpose. Delivery of a token is not a separate transaction from ...](https://twitter.com/Web3foundation/status/1598078282708418561)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
