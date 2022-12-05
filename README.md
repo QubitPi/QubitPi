@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1599686589449637888)
 - [Read how David Meza, Sr. Data Scientist, NASA, used Neo4j&#39;s Graph Technology to achieve this helping the NASA save $2 Million on the Mission to Mars....](https://twitter.com/neo4j/status/1599485711190835201)
 - [RT The New Stack: Some of the freshest, most powerful ideas aren’t complicated or magic, they’re simply a perspective shift: looking at old problems...](https://twitter.com/thenewstack/status/1599230260612136961)
 - [RT Philip Rathle: You heard it here first! #ChatGPT meets #Neo4j](https://twitter.com/prathle/status/1599224207464075264)
 - [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1599032978331557888)
-- [Congrats to the winners of the Code Golf Challenge - Intermediate Level! 🎉 Well done! #Neo4j #Codingchallenge](https://twitter.com/neo4j/status/1598738914084376576)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
