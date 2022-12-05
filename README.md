@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736033291623202825><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cca7e3b6187441f24096a006503cb8f4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #致旅行者的答谢信# 亲爱的旅行者： 这场美好的旅行，离不开大家的陪伴。在各位的支持下，《原神》获得了“PlayStation®Partner Awards 2022 GRAND AWAR...](https://t.bilibili.com/735800096373866614)
-- [《原神》3.3版本更新维护预告](https://t.bilibili.com/735776882090311688)
-- [#原神# #七圣召唤# 旅行者们好呀~我们将继续为大家介绍七圣召唤的进阶规则，包括： 【牌组的搭配】 【牌组的使用】：角色牌的使用，行动牌的使用 【战斗行动与快...](https://t.bilibili.com/735769653665595476)
-- [#原神# #七圣召唤# 旅行者们好，3.3版本将上线全新玩法「七圣召唤」。本篇说明将介绍「七圣召唤」相关的玩法规则，包括： 【玩法规则】：核心目标、游戏区域、对...](https://t.bilibili.com/735769133970358424)
-- [#原神# #原神3.3# 旅行者们好~今天将为各位旅行者介绍的是3.3版本中的全新装备，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/735738218782130260)
+- [互动抽奖 #原神# #流浪者# #飘然踏绿茵# 须弥的环境与稻妻不尽相同，目之所及皆是绿意。 「飘然踏绿茵」——《原神》新角色：流浪者分享H5正式上线。 欢迎旅行者...](https://t.bilibili.com/736063700000047107)
+- [互动抽奖 #原神# #流浪者# 《原神》角色演示-「流浪者：今昔离索」现已发布~ https://www.bilibili.com/video/BV1BW4y1u7CY/ 寻寻觅觅，怀感妄执数百夕。 凄凄恻...](https://t.bilibili.com/736051399225245715)
+- [#原神# #原神3.3# 旅行者们好呀~3.3版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/736050029124386837)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·图莱杜拉的回忆」「双手剑·赤角石溃杵」概率UP！ 活动期间，旅行者可以在「神铸赋形...](https://t.bilibili.com/736048508705964072)
+- [#原神# #荒泷一斗# #鬼门斗宴# 亲爱的旅行者，「鬼门斗宴」活动祈愿即将开启，「花坂豪快·荒泷一斗&lpar;岩&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/736047989021212696)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
