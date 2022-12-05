@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1599672728356900866)
+- [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1599672723822841857)
+- [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1599663009034559490)
 - [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1599525038667046913)
 - [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. #memgraph ...](https://twitter.com/memgraphdb/status/1599524670990127107)
-- [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1599447469011906560)
-- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1599443650311774209)
-- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1599435938203058183)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
