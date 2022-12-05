@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Pre- and Post-deployment Risk Assessment / Quality Assurance?](https://www.reddit.com/r/MachineLearning/comments/zczilb/d_pre_and_postdeployment_risk_assessment_quality/)
 - [[D] Reason for negative forecasting](https://www.reddit.com/r/MachineLearning/comments/zcyjga/d_reason_for_negative_forecasting/)
 - [[D] Will AMD 7950X3D processor be better for ML compared to 7950X?](https://www.reddit.com/r/MachineLearning/comments/zcy55l/d_will_amd_7950x3d_processor_be_better_for_ml/)
 - [[N] Predicting Customer Churn in Telecom Industry with Machine Learning](https://www.reddit.com/r/MachineLearning/comments/zcxeu4/n_predicting_customer_churn_in_telecom_industry/)
 - [[Discussion] Regarding the type of Ph.D. in AI](https://www.reddit.com/r/MachineLearning/comments/zcw86q/discussion_regarding_the_type_of_phd_in_ai/)
-- [[D] Thread: Top 10 ways you can use ChatGPT for Music related stuff](https://www.reddit.com/r/MachineLearning/comments/zctiu3/d_thread_top_10_ways_you_can_use_chatgpt_for/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
