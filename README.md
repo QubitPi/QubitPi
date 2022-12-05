@@ -365,7 +365,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Workshop-Anleitung: So erklärst du Scrum Teams die Groan Zone – ohne Arbeit in die Vorbereitung zu investieren](https://www.scrum.org/resources/blog/workshop-anleitung-so-erklarst-du-scrum-teams-die-groan-zone-ohne-arbeit-die)
 - [Agility and Scrum According to OpenAI’s ChatGPT — Be Surprised!](https://www.scrum.org/resources/blog/agility-and-scrum-according-openais-chatgpt-be-surprised)
-- [Ser product owner es distinto de ser product manager](https://www.scrum.org/resources/blog/ser-product-owner-es-distinto-de-ser-product-manager)
+- [Ser Product Owner es distinto de ser Product Manager](https://www.scrum.org/resources/blog/ser-product-owner-es-distinto-de-ser-product-manager)
 - [What Is Personal Scrum?](https://www.scrum.org/resources/blog/what-personal-scrum)
 - [Scrum: Dealing With Fixed Date, Fixed Budget Work](https://www.scrum.org/resources/blog/scrum-dealing-fixed-date-fixed-budget-work)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
