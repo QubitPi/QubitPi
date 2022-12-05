@@ -347,11 +347,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] The Forward-Forward Algorithm: Some Preliminary Investigations [Geoffrey Hinton]](https://www.reddit.com/r/MachineLearning/comments/zdkpgb/r_the_forwardforward_algorithm_some_preliminary/)
 - [[D] New Intro to Determined AI blog post](https://www.reddit.com/r/MachineLearning/comments/zdjxg1/d_new_intro_to_determined_ai_blog_post/)
 - [[D] Is there an affordable way to host a diffusers Stable Diffusion model publicly on the Internet for &quot;real-time&quot;-inference? &lpar;CPU or Serverless GPU?&rpar;](https://www.reddit.com/r/MachineLearning/comments/zdfrnw/d_is_there_an_affordable_way_to_host_a_diffusers/)
 - [[D] Are ML platforms honestly useful or just money-making on software that&#39;s really free?](https://www.reddit.com/r/MachineLearning/comments/zdbmwl/d_are_ml_platforms_honestly_useful_or_just/)
 - [[R] Attributed Text Generation via Post-hoc Research and Revision - Google Research 2022 - Automatically researches &amp; revises the output of any LM to fix hallucinations and provide citations for each sentence!](https://www.reddit.com/r/MachineLearning/comments/zdb74a/r_attributed_text_generation_via_posthoc_research/)
-- [[D] Is it possible to increase quality of video based on image&lpar;s&rpar; via Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/zd76zn/d_is_it_possible_to_increase_quality_of_video/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
