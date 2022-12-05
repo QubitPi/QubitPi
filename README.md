@@ -529,11 +529,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1599820931710566424)
-- [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1599800590883848192)
-- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1599799400557170688)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1599736216437637120)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1599717152453541889)
+- [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1599689836088147969)
+- [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1599684007263961089)
+- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1599672728356900866)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
