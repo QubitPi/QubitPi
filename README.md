@@ -547,11 +547,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Still time to submit your talks for the #FOSDEM2023 community conference in #Brussels. There is a graph-devroom on Saturday Feb 4th Your talk can cove...](https://twitter.com/neo4j/status/1599734059982553090)
 - [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1599686589449637888)
 - [Read how David Meza, Sr. Data Scientist, NASA, used Neo4j&#39;s Graph Technology to achieve this helping the NASA save $2 Million on the Mission to Mars....](https://twitter.com/neo4j/status/1599485711190835201)
 - [RT The New Stack: Some of the freshest, most powerful ideas aren’t complicated or magic, they’re simply a perspective shift: looking at old problems...](https://twitter.com/thenewstack/status/1599230260612136961)
 - [RT Philip Rathle: You heard it here first! #ChatGPT meets #Neo4j](https://twitter.com/prathle/status/1599224207464075264)
+- [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1599032978331557888)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
