@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] DRL for automatic algorithm discovery: AlphaTensor](https://www.reddit.com/r/MachineLearning/comments/zd4wvp/r_drl_for_automatic_algorithm_discovery/)
 - [[D] Math and AI](https://www.reddit.com/r/MachineLearning/comments/zd4pja/d_math_and_ai/)
 - [[P] New Features of Image Segmentation Project PaddleSeg &lpar;6k stars&rpar;](https://www.reddit.com/r/MachineLearning/comments/zd3yem/p_new_features_of_image_segmentation_project/)
 - [[P] Save your sklearn models securely using skops](https://www.reddit.com/r/MachineLearning/comments/zd3n8s/p_save_your_sklearn_models_securely_using_skops/)
 - [[R] Local hierarchical machine learning library](https://www.reddit.com/r/MachineLearning/comments/zd36lq/r_local_hierarchical_machine_learning_library/)
-- [[D] Will AMD 7950X3D processor be better for ML compared to 7950X?](https://www.reddit.com/r/MachineLearning/comments/zcy55l/d_will_amd_7950x3d_processor_be_better_for_ml/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
