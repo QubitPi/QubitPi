@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectation @barrasaDV](https://twitter.com/neo4j/status/1600154441420013568)
 - [RT Jesús Barrasa: and more #goingmeta love... ❤️ 📢📢 All content is available on GitHub!! 📢📢 Pretty decent collection of resources by no...](https://twitter.com/BarrasaDV/status/1600103868053889024)
 - [CONNECTIONS PROBLEM: Finding the Right Path Through a Graph. @mdavidallen discusses the connection problems of large datasets with implicit and undisc...](https://twitter.com/neo4j/status/1600097843766870017)
+- [RT CambridgeIntel: The NODES2022 videos are up! 100+ sessions available on-demand, covering all aspects of graph 🤯 Don’t miss @corey_lanum and his...](https://twitter.com/CambridgeIntel/status/1600055694354530304)
 - [Adam Turner&#39;s lightning talk at NODES 2022 describes how to find features of ransomware #Bitcoin transactions from graph embeddings using Neo4j Graph ...](https://twitter.com/neo4j/status/1599841084158447632)
-- [Start your journey with #Neo4j! 🚀 This free training is for you. 💡Basic graph theory 💡Graph structures 💡Common graph use cases #GraphAcade...](https://twitter.com/neo4j/status/1599833554170650624)
-- [RT Estelle Scifo: Re @lyonwj &#39;s talk at #NODES2022 is a goldmine for those interested in #geodata! #QGIS, #leaflet, points and linestrings... All of t...](https://twitter.com/st3llasia/status/1599817124150591489)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
