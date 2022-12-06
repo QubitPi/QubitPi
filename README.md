@@ -323,11 +323,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Will You Find These Shortcuts?](http://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
 - [Talking to Robots in Real Time](http://ai.googleblog.com/2022/12/talking-to-robots-in-real-time.html)
 - [Making a Traversable Wormhole with a Quantum Computer](http://ai.googleblog.com/2022/11/making-traversable-wormhole-with.html)
 - [Better Language Models Without Massive Compute](http://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
 - [Google at NeurIPS 2022](http://ai.googleblog.com/2022/11/google-at-neurips-2022.html)
-- [Conversation Summaries in Google Chat](http://ai.googleblog.com/2022/11/conversation-summaries-in-google-chat.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
