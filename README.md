@@ -686,7 +686,7 @@ Git Data Analytics - Everything is Datable
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/QubitPi)
+![](https://hit.yhype.me/github/profile?user_id=16126939)
 
 <a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
