@@ -691,7 +691,9 @@ Git Data Analytics - Everything is Datable
 <a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
 </a>
+
 </div>
+
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 
 <div align="center">
