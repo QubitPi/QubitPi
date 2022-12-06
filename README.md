@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Stable Diffusion 1 vs 2 - What you need to know](https://www.reddit.com/r/MachineLearning/comments/zebm1l/d_stable_diffusion_1_vs_2_what_you_need_to_know/)
 - [[D] Fresh content text generation: gpt3,bloom or gpt-j/neox, T5-FLAN, etc](https://www.reddit.com/r/MachineLearning/comments/zeb93m/d_fresh_content_text_generation_gpt3bloom_or/)
 - [[D] Efficient shuffled data loading for video data](https://www.reddit.com/r/MachineLearning/comments/ze74p9/d_efficient_shuffled_data_loading_for_video_data/)
 - [[D] What Image Labelling Services Allow Labelling of NSFW Images?](https://www.reddit.com/r/MachineLearning/comments/ze6yfr/d_what_image_labelling_services_allow_labelling/)
 - [[D] EACL 2023 Discussion](https://www.reddit.com/r/MachineLearning/comments/ze2dq1/d_eacl_2023_discussion/)
-- [[R] The Forward-Forward Algorithm: Some Preliminary Investigations [Geoffrey Hinton]](https://www.reddit.com/r/MachineLearning/comments/zdkpgb/r_the_forwardforward_algorithm_some_preliminary/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
