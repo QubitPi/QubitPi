@@ -601,11 +601,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [The impact of a product delivery culture at Etsy](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-product-delivery-culture.html#BlueprintForProductDelivery)
 - [photostream 129](https://martinfowler.com/photos/129.html)
 - [Introducing a product delivery culture at Etsy](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-product-delivery-culture.html)
 - [Consequences of Etsy&#39;s move to the cloud](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-cloud-scale.html#WhatWereTheChallengesOfTheCloud)
 - [Etsy&#39;s observability and ML infrastructure teams moving to the cloud](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-cloud-scale.html#TheChallengesOfObservingEverything)
-- [Using the cloud to scale Etsy](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-cloud-scale.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
