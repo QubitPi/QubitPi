@@ -495,11 +495,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Get started with the ArangoGraph Insights Platform with our guided tour! ✨ Register today and have a 14-day free trial on us. 🥑](https://twitter.com/arangodb/status/1600233648405495808)
 - [PrivacyPerfect had the difficult challenge of selecting the right data model to minimize architectural complexity. Find out why they selected graph an...](https://twitter.com/arangodb/status/1600097740695928839)
 - [This is the week! Join us this Wednesday for our #Graph Done Right webinar! 🔥 This webinar will explore ArangoDB&#39;s graph capabilities and expand yo...](https://twitter.com/arangodb/status/1599871241686507521)
 - [Take a look at 20 different technologies expected to revolutionize the world of medicine, including graphs and big data. 😎](https://twitter.com/arangodb/status/1599735412939001858)
 - [Go graph with ArangoDB! 🔥 Learn more about why users switch from relational to graph databases and how ArangoDB is the best way to do it. 🥑 Down...](https://twitter.com/arangodb/status/1599418262013501445)
-- [Unfamiliar with ArangoGraph Insights Platform? Why not get started with 14 days on us! Sign up today and hop into the cloud with ArangoDB. ☁️](https://twitter.com/arangodb/status/1599086082875953152)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
