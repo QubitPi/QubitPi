@@ -347,10 +347,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [I&#39;m on the waitlist for Coqui 🐸💬 Studio - Coqui&#39;s first AI voice studio release! Get your spot in line too! [N]](https://www.reddit.com/r/MachineLearning/comments/zebwel/im_on_the_waitlist_for_coqui_studio_coquis_first/)
+- [[D] Considering a history of 300K roulette numbers, what would be the best approach &lpar;clustering, random forest&rpar; to predict the probability of a next number or groups of numbers?](https://www.reddit.com/r/MachineLearning/comments/zebv5q/d_considering_a_history_of_300k_roulette_numbers/)
 - [[D] Stable Diffusion 1 vs 2 - What you need to know](https://www.reddit.com/r/MachineLearning/comments/zebm1l/d_stable_diffusion_1_vs_2_what_you_need_to_know/)
 - [[D] Fresh content text generation: gpt3,bloom or gpt-j/neox, T5-FLAN, etc](https://www.reddit.com/r/MachineLearning/comments/zeb93m/d_fresh_content_text_generation_gpt3bloom_or/)
 - [[D] Efficient shuffled data loading for video data](https://www.reddit.com/r/MachineLearning/comments/ze74p9/d_efficient_shuffled_data_loading_for_video_data/)
-- [[D] What Image Labelling Services Allow Labelling of NSFW Images?](https://www.reddit.com/r/MachineLearning/comments/ze6yfr/d_what_image_labelling_services_allow_labelling/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
