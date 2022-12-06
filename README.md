@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1600140150973030401)
-- [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1600119361758527496)
 - [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1600058974488985600)
 - [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1600039644405579776)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1600039640022618113)
+- [Check out our blog post 📰 Introduction to Stream processing ➡️](https://twitter.com/memgraphdb/status/1600027737456087040)
+- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1600026305088585728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
