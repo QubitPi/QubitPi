@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @halftep #AdventOfCode2022 #day7](https://twitter.com/neo4j/status/1600486976272080896)
+- [RT Pierre Halftermeyer: Re Here is my device filesystem seen has a sunburst [generated with #neo4j #neodash] #AdventOfCode #AdventOfCode2022 #day7](https://twitter.com/halftep/status/1600481602286624768)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On our #livestream @alexandererdl and I had some fun using #ChatGPT as tool for learning, d...](https://twitter.com/mesirii/status/1600448845103607810)
 - [RT Apache Hop: Apache Hop 2.2.0 is available! ⭐ Hop GUI, Hop Web 🚀 - welcome dialog - nav viewport - data grid toolbars - config perspective ⭐ #A...](https://twitter.com/ApacheHop/status/1600441366974451712)
 - [RT GDG Goa: Knock, knock! We are elated to present to you, our speaker, Ghlen Nagels! 🎉 With the increasing popularity of NoSQL databases, Graph da...](https://twitter.com/GDG_Goa/status/1600173815769620489)
-- [RT Adam Cowley: Just over 24 hours until I chat with @jlengstorf on the @neo4j twitch channel to talk about deploying Neo4j on Netlify. It looks like ...](https://twitter.com/adamcowley/status/1600168708952899584)
-- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectation @barrasaDV](https://twitter.com/neo4j/status/1600154441420013568)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
