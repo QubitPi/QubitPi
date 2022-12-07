@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736142817592606759><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/784e08dc45b076660b6bff4986b86993472729452.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736712364621037577><img align='right' src='https://i0.hdslb.com/bfs/article/7e7406bbd4e5cbd8063004fc88312173567d1f2d.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [旅行者们好呀！今天为大家介绍的角色是珐露珊。一起来看看吧~[原神_哇]](https://t.bilibili.com/736142817592606759)
