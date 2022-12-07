@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1600524361588416512)
-- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1600519705651040258)
 - [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1600440882112745478)
 - [Check out our blog post 📰 How to build a #Spotify Recommendation Engine using #Kafka and Memgraph ➡️](https://twitter.com/memgraphdb/status/1600434990801641473)
 - [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1600431973541056516)
+- [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1600407062575456256)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1600406564950654977)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
