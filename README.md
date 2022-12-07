@@ -550,7 +550,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Learn with Neo4j: Deploy Neo4j applications using Netlify w/ @adamcowley @jlengstorf](https://twitter.com/neo4j/status/1600532003593805824)
 - [Re @halftep #AdventOfCode2022 #day7](https://twitter.com/neo4j/status/1600486976272080896)
 - [RT Pierre Halftermeyer: Re Here is my device filesystem seen has a sunburst [generated with #neo4j #neodash] #AdventOfCode #AdventOfCode2022 #day7](https://twitter.com/halftep/status/1600481602286624768)
-- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On our #livestream @alexandererdl and I had some fun using #ChatGPT as tool for learning, d...](https://twitter.com/mesirii/status/1600448845103607810)
+- [RT GraphQL Galaxy 🗓 Dec 8-9: Interested in how to make the best from #graphql and #graphdatabase? Watch the recordings from talks @neo4j #NODES2022...](https://twitter.com/GraphQLGalaxy/status/1600470608273350656)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
