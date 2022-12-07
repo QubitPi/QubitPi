@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: 🎉Great &quot;Learn With @neo4j/Jason&quot; epsiode📺with @jlengstorf and @adamcowley. Learned a ...](https://twitter.com/mesirii/status/1600558399330013185)
 - [Learn with Neo4j: Deploy Neo4j applications using Netlify w/ @adamcowley @jlengstorf](https://twitter.com/neo4j/status/1600532003593805824)
 - [Re @halftep #AdventOfCode2022 #day7](https://twitter.com/neo4j/status/1600486976272080896)
 - [RT Pierre Halftermeyer: Re Here is my device filesystem seen has a sunburst [generated with #neo4j #neodash] #AdventOfCode #AdventOfCode2022 #day7](https://twitter.com/halftep/status/1600481602286624768)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On our #livestream @alexandererdl and I had some fun using #ChatGPT as tool for learning, d...](https://twitter.com/mesirii/status/1600448845103607810)
-- [RT Apache Hop: Apache Hop 2.2.0 is available! ⭐ Hop GUI, Hop Web 🚀 - welcome dialog - nav viewport - data grid toolbars - config perspective ⭐ #A...](https://twitter.com/ApacheHop/status/1600441366974451712)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
