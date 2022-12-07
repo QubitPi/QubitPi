@@ -362,11 +362,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Why you Should be Looking for Organizational Trailblazers](https://www.scrum.org/resources/blog/why-you-should-be-looking-organizational-trailblazers)
 - [Facilitation and Conflict - Why?](https://www.scrum.org/resources/blog/facilitation-and-conflict-why)
 - [Don&#39;t make this planning mistake during Product Backlog refinement in Scrum](https://www.scrum.org/resources/blog/dont-make-planning-mistake-during-product-backlog-refinement-scrum)
 - [Workshop-Anleitung: So erklärst du Scrum Teams die Groan Zone – ohne Arbeit in die Vorbereitung zu investieren](https://www.scrum.org/resources/blog/workshop-anleitung-so-erklarst-du-scrum-teams-die-groan-zone-ohne-arbeit-die)
 - [Agility and Scrum According to OpenAI’s ChatGPT — Be Surprised!](https://www.scrum.org/resources/blog/agility-and-scrum-according-openais-chatgpt-be-surprised)
-- [Ser Product Owner es distinto de ser Product Manager](https://www.scrum.org/resources/blog/ser-product-owner-es-distinto-de-ser-product-manager)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
