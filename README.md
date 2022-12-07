@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] If you had to pick 10-20 significant papers that summarize the research trajectory of AI from the past 100 years what would they be](https://www.reddit.com/r/MachineLearning/comments/zetvmd/d_if_you_had_to_pick_1020_significant_papers_that/)
 - [[P] Build data apps with GPT-3 in hal9](https://www.reddit.com/r/MachineLearning/comments/zesjiu/p_build_data_apps_with_gpt3_in_hal9/)
 - [[D] Can AI Music Tools Compete with Artists?](https://www.reddit.com/r/MachineLearning/comments/zeic51/d_can_ai_music_tools_compete_with_artists/)
 - [[D] Stable Diffusion 1 vs 2 - What you need to know](https://www.reddit.com/r/MachineLearning/comments/zebm1l/d_stable_diffusion_1_vs_2_what_you_need_to_know/)
 - [[D] Efficient shuffled data loading for video data](https://www.reddit.com/r/MachineLearning/comments/ze74p9/d_efficient_shuffled_data_loading_for_video_data/)
-- [[D] What Image Labelling Services Allow Labelling of NSFW Images?](https://www.reddit.com/r/MachineLearning/comments/ze6yfr/d_what_image_labelling_services_allow_labelling/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
