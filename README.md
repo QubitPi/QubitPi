@@ -236,7 +236,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
-[![chartjs.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chartjs.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/chartjs.github.io)
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 
 
 #### [Keycloak](https://www.keycloak.org/)-Related Forks
