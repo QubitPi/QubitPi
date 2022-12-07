@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Best Machine Learning Algorithm for Soil Mapping and Testing [Discussion]](https://www.reddit.com/r/MachineLearning/comments/zf04in/best_machine_learning_algorithm_for_soil_mapping/)
 - [[Discussion] No-code ML for engineers](https://www.reddit.com/r/MachineLearning/comments/zf01qj/discussion_nocode_ml_for_engineers/)
 - [[R] Predictive End-to-End Enterprise Process Network Monitoring](https://www.reddit.com/r/MachineLearning/comments/zey7ca/r_predictive_endtoend_enterprise_process_network/)
 - [[D] resources related to multi-task learning for graph neural network](https://www.reddit.com/r/MachineLearning/comments/zeu703/d_resources_related_to_multitask_learning_for/)
 - [[D] If you had to pick 10-20 significant papers that summarize the research trajectory of AI from the past 100 years what would they be](https://www.reddit.com/r/MachineLearning/comments/zetvmd/d_if_you_had_to_pick_1020_significant_papers_that/)
-- [[P] Build data apps with GPT-3 in hal9](https://www.reddit.com/r/MachineLearning/comments/zesjiu/p_build_data_apps_with_gpt3_in_hal9/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
