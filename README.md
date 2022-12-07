@@ -347,10 +347,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[D] We&#39;re the Meta AI research team behind CICERO, the first AI agent to achieve human-level performance in the game Diplomacy. We’ll be answering your questions on December 8th starting at 10am PT. Ask us anything!](https://www.reddit.com/r/MachineLearning/comments/zfeh67/d_were_the_meta_ai_research_team_behind_cicero/)
+- [We&#39;re the Meta AI research team behind CICERO, the first AI agent to achieve human-level performance in the game Diplomacy. We’ll be answering your questions on December 8th starting at 10am PT. Ask us anything!](https://www.reddit.com/r/MachineLearning/comments/zfe3e8/were_the_meta_ai_research_team_behind_cicero_the/)
 - [[P] Retrieval metrics: descriptions, formulas, examples and code](https://www.reddit.com/r/MachineLearning/comments/zfahw5/p_retrieval_metrics_descriptions_formulas/)
 - [[R] Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities](https://www.reddit.com/r/MachineLearning/comments/zf4xat/r_computeefficient_deep_learning_algorithmic/)
 - [[Discussion] Suggestions on Trust Region Methods For Natural Gradient](https://www.reddit.com/r/MachineLearning/comments/zf25ue/discussion_suggestions_on_trust_region_methods/)
-- [Best Machine Learning Algorithm for Soil Mapping and Testing [Discussion]](https://www.reddit.com/r/MachineLearning/comments/zf04in/best_machine_learning_algorithm_for_soil_mapping/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
