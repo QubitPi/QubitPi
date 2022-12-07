@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736712364621037577><img align='right' src='https://i0.hdslb.com/bfs/article/7e7406bbd4e5cbd8063004fc88312173567d1f2d.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736774770504237095><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/492900d03d2c5be75cd3c7606e0c357e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #流浪者# 亲爱的旅行者，「余火变相」活动祈愿现已开启，「久世浮倾·流浪者&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建...](https://t.bilibili.com/736774770504237095)
