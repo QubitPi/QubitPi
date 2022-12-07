@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Full Stack GraphQL Book Club - Chapter 4: The Neo4j GraphQL Library](https://www.youtube.com/watch?v=jilGjRLuKYE)
-- [Neo4j Live: APOC Library Updates](https://www.youtube.com/watch?v=Wj8E9omPzro)
-- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=gMYu6OaGUOc)
-- [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectations](https://www.youtube.com/watch?v=JrBOvdVkjU4)
-- [028 Let&#39;s Get Functional! Pull Off a Trifecta With Spring Cloud Function, Azure Function - NODES2022](https://www.youtube.com/watch?v=0DhtxRCPQRo)
+- [038 Using Graph Databases for Consumer Products - NODES2022 - Chris Anthes](https://www.youtube.com/watch?v=LmL3YiEvMY4)
+- [033 Using Sport Data to Build a Graph Model of Inconsistent Hierarchies Over Time - NODES2022](https://www.youtube.com/watch?v=P9IODNNlpMc)
+- [030 Are Personal Knowledge Graphs the Next Big Thing for Search? - NODES2022 - Ashleigh Faith](https://www.youtube.com/watch?v=TCQoTpi3JJs)
+- [035 Closing Q&amp;A With Emil and Andreas AMERICAS - NODES2022 - Emil Eifrem, Andreas Kollegger](https://www.youtube.com/watch?v=YG_l-gchFXs)
+- [031 Top 10 Tips for Evaluating “Benchmark” Results - NODES2022 - Mark Quinsland](https://www.youtube.com/watch?v=YXRen3-bHwM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
