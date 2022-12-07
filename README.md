@@ -348,9 +348,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[Discussion] Best speech-to-text AIs models out there](https://www.reddit.com/r/MachineLearning/comments/zepkcx/discussion_best_speechtotext_ais_models_out_there/)
 - [[D] Can AI Music Tools Compete with Artists?](https://www.reddit.com/r/MachineLearning/comments/zeic51/d_can_ai_music_tools_compete_with_artists/)
-- [[D] Training models on an Alienware Aurora R15?](https://www.reddit.com/r/MachineLearning/comments/zehbdj/d_training_models_on_an_alienware_aurora_r15/)
 - [[D] Stable Diffusion 1 vs 2 - What you need to know](https://www.reddit.com/r/MachineLearning/comments/zebm1l/d_stable_diffusion_1_vs_2_what_you_need_to_know/)
 - [[D] Efficient shuffled data loading for video data](https://www.reddit.com/r/MachineLearning/comments/ze74p9/d_efficient_shuffled_data_loading_for_video_data/)
+- [[D] What Image Labelling Services Allow Labelling of NSFW Images?](https://www.reddit.com/r/MachineLearning/comments/ze6yfr/d_what_image_labelling_services_allow_labelling/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
