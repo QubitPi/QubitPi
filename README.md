@@ -528,11 +528,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1600393395972849665)
+- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1600392971127603200)
 - [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1600230693325398049)
 - [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1600195519036391438)
 - [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1600179600436461572)
-- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1600171851283578884)
-- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1600170599103569920)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
