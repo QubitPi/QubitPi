@@ -546,11 +546,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: On our #livestream @alexandererdl and I had some fun using #ChatGPT as tool for learning, d...](https://twitter.com/mesirii/status/1600448845103607810)
+- [RT Apache Hop: Apache Hop 2.2.0 is available! ⭐ Hop GUI, Hop Web 🚀 - welcome dialog - nav viewport - data grid toolbars - config perspective ⭐ #A...](https://twitter.com/ApacheHop/status/1600441366974451712)
 - [RT GDG Goa: Knock, knock! We are elated to present to you, our speaker, Ghlen Nagels! 🎉 With the increasing popularity of NoSQL databases, Graph da...](https://twitter.com/GDG_Goa/status/1600173815769620489)
 - [RT Adam Cowley: Just over 24 hours until I chat with @jlengstorf on the @neo4j twitch channel to talk about deploying Neo4j on Netlify. It looks like ...](https://twitter.com/adamcowley/status/1600168708952899584)
 - [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectation @barrasaDV](https://twitter.com/neo4j/status/1600154441420013568)
-- [RT Jesús Barrasa: and more #goingmeta love... ❤️ 📢📢 All content is available on GitHub!! 📢📢 Pretty decent collection of resources by no...](https://twitter.com/BarrasaDV/status/1600103868053889024)
-- [CONNECTIONS PROBLEM: Finding the Right Path Through a Graph. @mdavidallen discusses the connection problems of large datasets with implicit and undisc...](https://twitter.com/neo4j/status/1600097843766870017)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
