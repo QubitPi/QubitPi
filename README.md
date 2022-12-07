@@ -556,11 +556,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 4: The Neo4j GraphQL Library](https://www.youtube.com/watch?v=jilGjRLuKYE)
+- [Neo4j Live: APOC Library Updates](https://www.youtube.com/watch?v=Wj8E9omPzro)
+- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=gMYu6OaGUOc)
 - [Going Meta - Ep: 11 Better Graph Data Quality with Graph Expectations](https://www.youtube.com/watch?v=JrBOvdVkjU4)
 - [028 Let&#39;s Get Functional! Pull Off a Trifecta With Spring Cloud Function, Azure Function - NODES2022](https://www.youtube.com/watch?v=0DhtxRCPQRo)
-- [029 Graph Data Science for Computer Vision - NODES2022 - Anuj Agrawal](https://www.youtube.com/watch?v=4lW2QBwZLrI)
-- [026 Neo4j Data Loading &lpar;ETL/ELT&rpar; Best Practices - NODES2022 - Anthony Krinsky](https://www.youtube.com/watch?v=5V8EWZhw6-U)
-- [025 Exploring Data With Neo4j Bloom - NODES2022 - Jeff Gagnon](https://www.youtube.com/watch?v=8nSFC7Z06P0)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
