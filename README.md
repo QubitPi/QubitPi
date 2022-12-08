@@ -234,8 +234,8 @@ By tapping into the collective talent and innovation of open source communities,
 >
 > 3. Upstream repo's default branch is "master" already, and the repo itself is not a documentation repo
 >
->   - No new branch is created in fork
->   - **Rebase-style** synching takes place between "upstream/master" & "origin/master"
+>    - No new branch is created in fork
+>    - **Rebase-style** synching takes place between "upstream/master" & "origin/master"
 
 <div align="center">
 
