@@ -377,11 +377,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for advice](https://www.reddit.com/r/MachineLearning/comments/zfxni3/d_looking_for_advice/)
 - [[R] torchode: A Parallel ODE Solver for PyTorch](https://www.reddit.com/r/MachineLearning/comments/zfvb8h/r_torchode_a_parallel_ode_solver_for_pytorch/)
 - [[R] Diffusion models for 3D data generation](https://www.reddit.com/r/MachineLearning/comments/zfuot1/r_diffusion_models_for_3d_data_generation/)
 - [[D] which optimizer for contrastive learning](https://www.reddit.com/r/MachineLearning/comments/zfukou/d_which_optimizer_for_contrastive_learning/)
 - [[P] Using inpainting with image tokenisation in Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zfqdb0/p_using_inpainting_with_image_tokenisation_in/)
-- [[D] Workflows for quickly iterating over ideas without free access to super computers](https://www.reddit.com/r/MachineLearning/comments/zfp3g9/d_workflows_for_quickly_iterating_over_ideas/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
