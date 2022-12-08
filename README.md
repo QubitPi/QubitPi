@@ -583,9 +583,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- NEO4J-TWITTER:START -->
 - [🎥 These GraphQL type definitions describe a simple movies GraphQL API. How would you design a GraphQL API for a movies search app? Find out in our ...](https://twitter.com/neo4j/status/1600852872907874304)
 - [RT GraphDevroom: Only 3 days left until the CfP for the Graph Devroom ends! If you are developing, using or researching open source graph technology, ...](https://twitter.com/GraphDevroom/status/1600839651807612928)
+- [RT Pierre Halftermeyer: Re Day 8 - #AdventOfCode 2022: I&#39;ve found a great spot for my Treetop Tree House with a grid graph, #neo4j and #cypher.](https://twitter.com/halftep/status/1600797267296137216)
+- [RT bilic: We all know the saying, &quot;There&#39;s more than meets the eye.&quot; Well, the same can be said for data. When we take a closer look at data, we can o...](https://twitter.com/spectralhash/status/1600780628194385920)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: 🎉Great &quot;Learn With @neo4j/Jason&quot; epsiode📺with @jlengstorf and @adamcowley. Learned a ...](https://twitter.com/mesirii/status/1600558399330013185)
-- [Learn with Neo4j: Deploy Neo4j applications using Netlify w/ @adamcowley @jlengstorf](https://twitter.com/neo4j/status/1600532003593805824)
-- [Re @halftep #AdventOfCode2022 #day7](https://twitter.com/neo4j/status/1600486976272080896)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
