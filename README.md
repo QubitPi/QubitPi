@@ -236,7 +236,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
-[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 
 
 #### [Keycloak](https://www.keycloak.org/)-Related Forks
@@ -271,6 +270,11 @@ By tapping into the collective talent and innovation of open source communities,
 - [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
 - [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
 <!-- OPENID-CONNECT-BLOG:END -->
+
+#### Documentation-Related Forks
+
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
+[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 
 My Tech Blogs
 -------------
