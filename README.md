@@ -371,11 +371,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Deep learning model for real estate](https://www.reddit.com/r/MachineLearning/comments/zfuc3r/p_deep_learning_model_for_real_estate/)
 - [[D] Know of an API for getting all possible translations of a word?](https://www.reddit.com/r/MachineLearning/comments/zfu5je/d_know_of_an_api_for_getting_all_possible/)
 - [[D] Job application on company portal](https://www.reddit.com/r/MachineLearning/comments/zftxvq/d_job_application_on_company_portal/)
 - [[D] Using unsupervised learning to identify patterns of erroneous text recognition](https://www.reddit.com/r/MachineLearning/comments/zfqnpv/d_using_unsupervised_learning_to_identify/)
 - [[P] Using inpainting with image tokenisation in Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zfqdb0/p_using_inpainting_with_image_tokenisation_in/)
-- [[D] Workflows for quickly iterating over ideas without free access to super computers](https://www.reddit.com/r/MachineLearning/comments/zfp3g9/d_workflows_for_quickly_iterating_over_ideas/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
