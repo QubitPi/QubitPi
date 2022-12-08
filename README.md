@@ -651,7 +651,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Medtech platform: Hero](https://dribbble.com/shots/20075206)
 - [VOUM mobile app](https://dribbble.com/shots/20078554)
 - [Budgeting](https://dribbble.com/shots/20062485)
-- [3D character](https://dribbble.com/shots/20058216)
+- [Crypto wallet app dark theme](https://dribbble.com/shots/20041389)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
