@@ -381,7 +381,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Here&#39;s what ChatGPT has to say about Anakin&#39;s downfall. One day it&#39;ll also have an opinion!](https://www.reddit.com/r/MachineLearning/comments/zg6b28/d_heres_what_chatgpt_has_to_say_about_anakins/)
+- [[D] What is the recommended approach to training NN on big data set?](https://www.reddit.com/r/MachineLearning/comments/zg6s6d/d_what_is_the_recommended_approach_to_training_nn/)
 - [[D] What is the technology behind LanguageTool?](https://www.reddit.com/r/MachineLearning/comments/zg4u6i/d_what_is_the_technology_behind_languagetool/)
 - [Personal project for PhDs and scientists [P]](https://www.reddit.com/r/MachineLearning/comments/zg3bsd/personal_project_for_phds_and_scientists_p/)
 - [[D] Product Recommendation Algorithm](https://www.reddit.com/r/MachineLearning/comments/zfye9i/d_product_recommendation_algorithm/)
