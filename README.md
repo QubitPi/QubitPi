@@ -381,11 +381,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Predictive maintenance](https://www.reddit.com/r/MachineLearning/comments/zg5obr/d_predictive_maintenance/)
 - [[D] What is the technology behind LanguageTool?](https://www.reddit.com/r/MachineLearning/comments/zg4u6i/d_what_is_the_technology_behind_languagetool/)
 - [Personal project for PhDs and scientists [P]](https://www.reddit.com/r/MachineLearning/comments/zg3bsd/personal_project_for_phds_and_scientists_p/)
 - [[D] Product Recommendation Algorithm](https://www.reddit.com/r/MachineLearning/comments/zfye9i/d_product_recommendation_algorithm/)
 - [[R] torchode: A Parallel ODE Solver for PyTorch](https://www.reddit.com/r/MachineLearning/comments/zfvb8h/r_torchode_a_parallel_ode_solver_for_pytorch/)
-- [[R] Diffusion models for 3D data generation](https://www.reddit.com/r/MachineLearning/comments/zfuot1/r_diffusion_models_for_3d_data_generation/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
