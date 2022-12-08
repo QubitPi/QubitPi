@@ -218,11 +218,11 @@ By tapping into the collective talent and innovation of open source communities,
 
 > Although there have been proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295) already, all of my forks are synced [**manually**](https://qubitpi.github.io/jersey-guide/finalized/2020/08/20/29-git.html#syncing-a-forkupdate-forked-master-branch) in order to keep full control of forked content. As documentation for myself, there are 3 fork cases, each of which uses a slightly different syncing approach:
 >
-> 1. The upstream repo's default branch is "main" (**upstream/main**)
+> 1. The upstream repo's default branch is "main" (i.e. "**upstream/main**")
 > 
->    - In this case, a new default branch called "master" (**origin/master**) is created in the fork
+>    - In this case, a new default branch called "master" (i.e. "**origin/master**") is created in the fork
 >    - The fork's default branch is "master"
->    - Synching takes place between [**upstream/main** and **origin/main**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)
+>    - Synching takes place between ["**upstream/main**" and "**origin/main**"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)
 >    - Next, "origin/master" branch is **rebased** on top of the "origin/main"
 >
 > 2. The upstream repo's default branch is "master" already, but the repo is essentially a [documentation repo](https://github.com/QubitPi#documentation-related-forks)
