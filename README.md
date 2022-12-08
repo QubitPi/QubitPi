@@ -216,7 +216,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### Active Forks
 
-> Although there have been proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295) already, all of my forks are synced **manually** in order to keep full control of forked content. As documentation for myself, there are 3 fork cases, each of which uses a slightly different syncing approach:
+> Although there have been proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295) already, all of my forks are synced [**manually**](https://qubitpi.github.io/jersey-guide/finalized/2020/08/20/29-git.html#syncing-a-forkupdate-forked-master-branch) in order to keep full control of forked content. As documentation for myself, there are 3 fork cases, each of which uses a slightly different syncing approach:
 >
 > 1. The upstream repo's default branch is "main" (**upstream/main**)
 > 
