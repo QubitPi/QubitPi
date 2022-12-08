@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] For kaggle competing which non-free notebook server is better: Colab, Vertex A.I, SageMaker or other?](https://www.reddit.com/r/MachineLearning/comments/zfo3gs/d_for_kaggle_competing_which_nonfree_notebook/)
-- [[D] Model overfitting](https://www.reddit.com/r/MachineLearning/comments/zfle2p/d_model_overfitting/)
 - [[P] Using LoRA to efficiently fine-tune diffusion models. Output model less than 4MB, two times faster to train, with better performance. &lpar;Again, with Stable Diffusion&rpar;](https://www.reddit.com/r/MachineLearning/comments/zfkqjh/p_using_lora_to_efficiently_finetune_diffusion/)
-- [[D] What universities have good PhD programs in applied math/machine learning?](https://www.reddit.com/r/MachineLearning/comments/zfkqhe/d_what_universities_have_good_phd_programs_in/)
 - [[P] bias when estimating a ratio](https://www.reddit.com/r/MachineLearning/comments/zfgwlm/p_bias_when_estimating_a_ratio/)
+- [36% of HellaSwag benchmark contains errors [D]](https://www.reddit.com/r/MachineLearning/comments/zff5mh/36_of_hellaswag_benchmark_contains_errors_d/)
+- [[P] Stable Diffusion 2.1 Release](https://www.reddit.com/r/MachineLearning/comments/zff0bh/p_stable_diffusion_21_release/)
+- [[D] We&#39;re the Meta AI research team behind CICERO, the first AI agent to achieve human-level performance in the game Diplomacy. We’ll be answering your questions on December 8th starting at 10am PT. Ask us anything!](https://www.reddit.com/r/MachineLearning/comments/zfeh67/d_were_the_meta_ai_research_team_behind_cicero/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
