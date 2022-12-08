@@ -346,11 +346,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Using inpainting with image tokenisation in Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zfqdb0/p_using_inpainting_with_image_tokenisation_in/)
 - [[D] Workflows for quickly iterating over ideas without free access to super computers](https://www.reddit.com/r/MachineLearning/comments/zfp3g9/d_workflows_for_quickly_iterating_over_ideas/)
 - [[P] Using LoRA to efficiently fine-tune diffusion models. Output model less than 4MB, two times faster to train, with better performance. &lpar;Again, with Stable Diffusion&rpar;](https://www.reddit.com/r/MachineLearning/comments/zfkqjh/p_using_lora_to_efficiently_finetune_diffusion/)
 - [[P] bias when estimating a ratio](https://www.reddit.com/r/MachineLearning/comments/zfgwlm/p_bias_when_estimating_a_ratio/)
 - [36% of HellaSwag benchmark contains errors [D]](https://www.reddit.com/r/MachineLearning/comments/zff5mh/36_of_hellaswag_benchmark_contains_errors_d/)
-- [[P] Stable Diffusion 2.1 Release](https://www.reddit.com/r/MachineLearning/comments/zff0bh/p_stable_diffusion_21_release/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
