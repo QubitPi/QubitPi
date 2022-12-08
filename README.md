@@ -294,6 +294,12 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Documentation-Related Forks
 
+I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now is more on doing well for my employees and my company. This gives me much less time on writing the tech blog. I do, however, keep studying techs in a what I found more efficient approach.
+
+Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
+
+- [Git](https://qubitpi.github.io/progit2/)
+
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 
