@@ -216,26 +216,26 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### Active Forks
 
-Although there are proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295), all of my forks are synced **manually** in order to keep full control of forked content. As documentation for myself, there are 3 fork cases, each of which uses a slightly different syncing approach:
-
-1. The upstream repo's default branch is "main" (**upstream/main**)
-
-   - In this case, a new default branch called "master" (**origin/master**) is created in the fork
-   - The fork's default branch is "master"
-   - Synching takes place between [**upstream/main** and **origin/main**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)
-   - Next, "origin/master" branch is **rebased** on top of the "origin/main"
-
-2. The upstream repo's default branch is "master" already, but the repo is essentially a documentation repo
-
-   - A new "gh-pages" branch is created in the fork
-   - The fork's default branch is also "master" (i.e. origin/master)
-   - Synching takes place between "upstream/master" and origin/master
-   - Then, "gh-pages" branch is **rebased** on top of the "origin/master"
-
-3. Upstream repo's default branch is "master" already, and the repo itself is not a documentation repo
-
-  - No new branch is created in fork
-  - **Rebase-style** synching takes place between "upstream/master" & "origin/master"
+> Although there have been proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295) already, all of my forks are synced **manually** in order to keep full control of forked content. As documentation for myself, there are 3 fork cases, each of which uses a slightly different syncing approach:
+>
+> 1. The upstream repo's default branch is "main" (**upstream/main**)
+> 
+>    - In this case, a new default branch called "master" (**origin/master**) is created in the fork
+>    - The fork's default branch is "master"
+>    - Synching takes place between [**upstream/main** and **origin/main**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui)
+>    - Next, "origin/master" branch is **rebased** on top of the "origin/main"
+>
+> 2. The upstream repo's default branch is "master" already, but the repo is essentially a [documentation repo](https://github.com/QubitPi#documentation-related-forks)
+>
+>    - A new "gh-pages" branch is created in the fork
+>    - The fork's default branch is also "master" (i.e. origin/master)
+>    - Synching takes place between "upstream/master" and origin/master
+>    - Then, "gh-pages" branch is **rebased** on top of the "origin/master"
+>
+> 3. Upstream repo's default branch is "master" already, and the repo itself is not a documentation repo
+>
+>   - No new branch is created in fork
+>   - **Rebase-style** synching takes place between "upstream/master" & "origin/master"
 
 <div align="center">
 
