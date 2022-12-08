@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/736883978629283874><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bfa77cece47f46410b83ea96860a16ae401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/737160711964196880><img align='right' src='https://i0.hdslb.com/bfs/archive/b3080174eb3e9cbb0ba6d0d613bf745e5f59e0b6.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神七圣召唤视频征集活动# #原神UP主激励计划# 《原神》「七圣召唤」主题视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年12月7...](https://t.bilibili.com/736883978629283874)
