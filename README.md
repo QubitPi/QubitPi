@@ -559,11 +559,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repres...](https://twitter.com/memgraphdb/status/1600803380296916992)
 - [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1600773481121071104)
 - [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1600768996630036481)
 - [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1600759888975732736)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1600744722150178816)
+- [Check out our blog post 📰 Ship it on #ARM64! Or is it #AARCH64? ➡️](https://twitter.com/memgraphdb/status/1600739268061798401)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
