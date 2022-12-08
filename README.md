@@ -437,11 +437,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Implement User Authentication Into Your Web Application Using SuperTokens](https://www.docker.com/blog/implement-user-authentication-into-your-web-application-using-supertokens/)
 - [How to Monitor Container Memory and CPU Usage in Docker Desktop](https://www.docker.com/blog/how-to-monitor-container-memory-and-cpu-usage-in-docker-desktop/)
 - [New in Docker Desktop 4.15: Improving Usability and Performance for Easier Builds](https://www.docker.com/blog/docker-desktop-4-15-improved-usability-and-performance/)
 - [Find and Fix Vulnerabilities Faster Now that Docker’s a CNA](https://www.docker.com/blog/docker-becomes-mitre-cna/)
 - [November 2022 Newsletter](https://www.docker.com/blog/november-2022-newsletter/)
-- [November Extensions Roundup: Kubernetes Observability, API Testing, and More](https://www.docker.com/blog/november-extensions-roundup-kubernetes-observability-api-testing-and-more/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
