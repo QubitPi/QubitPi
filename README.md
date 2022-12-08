@@ -553,11 +553,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1600773481121071104)
-- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1600768996630036481)
-- [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1600759888975732736)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1600744722150178816)
 - [Check out our blog post 📰 Ship it on #ARM64! Or is it #AARCH64? ➡️](https://twitter.com/memgraphdb/status/1600739268061798401)
+- [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1600609216389062692)
+- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1600598413153865730)
+- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1600552179118620705)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
