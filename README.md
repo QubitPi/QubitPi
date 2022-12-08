@@ -371,11 +371,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] torchode: A Parallel ODE Solver for PyTorch](https://www.reddit.com/r/MachineLearning/comments/zfvb8h/r_torchode_a_parallel_ode_solver_for_pytorch/)
 - [[R] Diffusion models for 3D data generation](https://www.reddit.com/r/MachineLearning/comments/zfuot1/r_diffusion_models_for_3d_data_generation/)
 - [[D] which optimizer for contrastive learning](https://www.reddit.com/r/MachineLearning/comments/zfukou/d_which_optimizer_for_contrastive_learning/)
 - [[P] Deep learning model for real estate](https://www.reddit.com/r/MachineLearning/comments/zfuc3r/p_deep_learning_model_for_real_estate/)
 - [[D] Know of an API for getting all possible translations of a word?](https://www.reddit.com/r/MachineLearning/comments/zfu5je/d_know_of_an_api_for_getting_all_possible/)
-- [[D] Job application on company portal](https://www.reddit.com/r/MachineLearning/comments/zftxvq/d_job_application_on_company_portal/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
