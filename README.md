@@ -216,6 +216,11 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### Active Forks
 
+Although there are proven approaches for [automatically syncing forks](https://stackoverflow.com/a/61574295), all of my forks are synced **manually** in order to keep full control of forked content. As documentation for myself, the forks are maintained and forked in the following steps:
+
+1. If the original repo's default branch is "main", a new default branch called "master" is created in the fork.
+2.
+
 <div align="center">
 
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fili&show_owner=true&theme=vue)](https://github.com/QubitPi/fili)<img src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png" alt="可莉" width="20%">
