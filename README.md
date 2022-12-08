@@ -299,9 +299,11 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
 - [Git](https://qubitpi.github.io/progit2/)
+  * [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
-[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
+[![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 
 My Tech Blogs
 -------------
