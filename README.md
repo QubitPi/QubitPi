@@ -581,11 +581,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [🎥 These GraphQL type definitions describe a simple movies GraphQL API. How would you design a GraphQL API for a movies search app? Find out in our ...](https://twitter.com/neo4j/status/1600852872907874304)
 - [RT GraphDevroom: Only 3 days left until the CfP for the Graph Devroom ends! If you are developing, using or researching open source graph technology, ...](https://twitter.com/GraphDevroom/status/1600839651807612928)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: 🎉Great &quot;Learn With @neo4j/Jason&quot; epsiode📺with @jlengstorf and @adamcowley. Learned a ...](https://twitter.com/mesirii/status/1600558399330013185)
 - [Learn with Neo4j: Deploy Neo4j applications using Netlify w/ @adamcowley @jlengstorf](https://twitter.com/neo4j/status/1600532003593805824)
 - [Re @halftep #AdventOfCode2022 #day7](https://twitter.com/neo4j/status/1600486976272080896)
-- [RT Pierre Halftermeyer: Re Here is my device filesystem seen has a sunburst [generated with #neo4j #neodash] #AdventOfCode #AdventOfCode2022 #day7](https://twitter.com/halftep/status/1600481602286624768)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
