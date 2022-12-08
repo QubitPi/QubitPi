@@ -229,7 +229,7 @@ By tapping into the collective talent and innovation of open source communities,
 >
 >    - A new "gh-pages" branch is created in the fork
 >    - The fork's default branch is also "master" (i.e. origin/master)
->    - Synching takes place between "upstream/master" and origin/master
+>    - Synching takes place between "upstream/master" and "origin/master"
 >    - Then, "gh-pages" branch is **rebased** on top of the "origin/master"
 >
 > 3. Upstream repo's default branch is "master" already, and the repo itself is not a documentation repo
