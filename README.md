@@ -582,11 +582,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Today is the day! @LogConference is a new annual research conference that covers areas broadly related to #machinelearning on graphs and geometry, wit...](https://twitter.com/neo4j/status/1601178182933442561)
 - [RT Cristian Glavan: What I Learned at Neo4j’s NODES 22 Conference](https://twitter.com/Root314/status/1600958719117893640)
 - [Learn how this leading #pharma company uses knowledge graphs to drive drug synthesis prediction and novel chemical reaction discovery. @AstraZeneca No...](https://twitter.com/neo4j/status/1600943345651654657)
 - [👉 6 Steps to Activate the Value of Text to Graph Machine Learning Systems by Data Scientist, Sean Robinson. #ML #DataScience #Neo4j](https://twitter.com/neo4j/status/1600913224634875904)
 - [🎥 These GraphQL type definitions describe a simple movies GraphQL API. How would you design a GraphQL API for a movies search app? Find out in our ...](https://twitter.com/neo4j/status/1600852872907874304)
-- [RT GraphDevroom: Only 3 days left until the CfP for the Graph Devroom ends! If you are developing, using or researching open source graph technology, ...](https://twitter.com/GraphDevroom/status/1600839651807612928)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
