@@ -294,7 +294,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Documentation-Related Forks
 
-<img width="15%" align="right" src="https://user-images.githubusercontent.com/16126939/206470448-ae37ae68-a7e4-42c9-b788-ed726ceb9850.png">
+<img width="15%" align="left" src="https://user-images.githubusercontent.com/16126939/206631498-e769d729-edbe-4165-932f-38a0755e161a.png">
 
 I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now is more on doing well for my employees and my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
