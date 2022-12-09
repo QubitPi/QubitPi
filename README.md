@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/737191635727679497><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c6f51c1e1432ef6cbd2aed5edf5fe4d1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #瑶瑶# #仙蕊玲珑# ▌仙蕊玲珑 · 瑶瑶 玲珑玉质，身含仙骨 ========== 「本想把我年轻时爱用的法宝送给瑶瑶，当个防身的物件。还没等我开口，...](https://t.bilibili.com/737537187306799201)
+- [互动抽奖 #原神# #艾尔海森# #诲韬诤言# ▌诲韬诤言 · 艾尔海森 学识、思考及处事之道 ========== 「他当然非常聪明，我从不否认这一点。一个如此有才能的人仅...](https://t.bilibili.com/737535654009765941)
+- [TGA2022《原神》参选视频](https://t.bilibili.com/737529709783416866)
+- [#原神# 【致旅行者的答谢信】 在各位的支持下，《原神》获得了“TGA 2022 玩家之声”奖项，以及“TGA 2022 最佳移动游戏”和“TGA 2022 最佳持续运营游戏”双奖...](https://t.bilibili.com/737529224443723860)
 - [恭喜@枫树落下的秋叶@屑bt@吾哥春暖花开等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/737191635727679497)
-- [恭喜@钟离先生一生推@橘子-味的猫@i甜筒等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/737191635721388147)
-- [《原神》拾枝杂谈-「珐露珊：遗风有识」](https://t.bilibili.com/737160711964196880)
-- [#原神# #原神七圣召唤视频征集活动# #原神UP主激励计划# 《原神》「七圣召唤」主题视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年12月7...](https://t.bilibili.com/736883978629283874)
-- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.3版本内容招募活动「六入尽明，诸相皆无」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自12...](https://t.bilibili.com/736879696536403970)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
