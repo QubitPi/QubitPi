@@ -454,11 +454,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes v1.26: Electrifying](https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/)
 - [Blog: Forensic container checkpointing in Kubernetes](https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/)
 - [Blog: Finding suspicious syscalls with the seccomp notifier](https://kubernetes.io/blog/2022/12/02/seccomp-notifier/)
 - [Blog: Boosting Kubernetes container runtime observability with OpenTelemetry](https://kubernetes.io/blog/2022/12/01/runtime-observability-opentelemetry/)
 - [Blog: registry.k8s.io: faster, cheaper and Generally Available &lpar;GA&rpar;](https://kubernetes.io/blog/2022/11/28/registry-k8s-io-faster-cheaper-ga/)
-- [Blog: Kubernetes Removals, Deprecations, and Major Changes in 1.26](https://kubernetes.io/blog/2022/11/18/upcoming-changes-in-kubernetes-1-26/)
 <!-- KUBERNETES-BLOG:END -->
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
