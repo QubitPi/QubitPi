@@ -564,11 +564,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1601146407854956546)
-- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1601141617229971458)
-- [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1601140400730906624)
-- [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1601132341052809216)
-- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #graphda...](https://twitter.com/memgraphdb/status/1601126806077276160)
+- [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1601101155383255041)
+- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1600941988324548608)
+- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1600927735723003912)
+- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1600906596300767232)
+- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1600895388034162688)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
