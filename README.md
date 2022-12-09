@@ -531,11 +531,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Did you make it to our Graph Done Right webinar this week? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on grap...](https://twitter.com/arangodb/status/1601184914090639362)
 - [Try out the ArangoDB-DGL Adapter! 🥑 The ArangoDB-DGL Adapter exports graphs from ArangoDB into Deep Graph Library &lpar;DGL&rpar;. This blog post provides a ...](https://twitter.com/arangodb/status/1600958417190920226)
 - [Grab some popcorn and get ready to be up to speed with ArangoDB Summit - our first-ever two-day industry event. 🥑 Learn more about use cases, thoug...](https://twitter.com/arangodb/status/1600822530037751809)
 - [In our hour, join our graph expert Markus Pfeiffer to learn more on #Graph Done Right with ArangoDB!🔥 Register, and we will see you soon! 🥑](https://twitter.com/arangodb/status/1600565824573554701)
 - [Graph analytics can help you fight back against fraud detection. 🥑 Take 10 minutes of your day and learn how you can leverage graph analytics for y...](https://twitter.com/arangodb/status/1600460172605923329)
+- [Get started with the ArangoGraph Insights Platform with our guided tour! ✨ Register today and have a 14-day free trial on us. 🥑](https://twitter.com/arangodb/status/1600233648405495808)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
