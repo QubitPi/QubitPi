@@ -564,11 +564,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Bipartite matching 🗒️ A bipartite graph is a graph in which we can divide vertices into two independent ...](https://twitter.com/memgraphdb/status/1601208935582781444)
 - [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1601198951851560960)
 - [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1601146407854956546)
 - [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1601141617229971458)
 - [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1601140400730906624)
+- [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1601132341052809216)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
