@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/737191635727679497><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c6f51c1e1432ef6cbd2aed5edf5fe4d1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/737537187306799201><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3235c34f2035d575f5b9a3672f568644401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #瑶瑶# #仙蕊玲珑# ▌仙蕊玲珑 · 瑶瑶 玲珑玉质，身含仙骨 ========== 「本想把我年轻时爱用的法宝送给瑶瑶，当个防身的物件。还没等我开口，...](https://t.bilibili.com/737537187306799201)
