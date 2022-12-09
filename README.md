@@ -564,11 +564,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1601101155383255041)
 - [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1600941988324548608)
 - [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1600927735723003912)
 - [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1600906596300767232)
 - [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1600895388034162688)
+- [❗️ The data lineage graph is the single source of truth about your organization’s data. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1600841377893568512)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
