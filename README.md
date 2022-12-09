@@ -382,11 +382,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] On outlier removal](https://www.reddit.com/r/MachineLearning/comments/zgvimh/d_on_outlier_removal/)
 - [[D] Dr. Petar Veličković &lpar;Deepmind&rpar; - Categories, Graphs, Reasoning and Graph Expander Propagation](https://www.reddit.com/r/MachineLearning/comments/zgue6r/d_dr_petar_veličković_deepmind_categories_graphs/)
 - [[D] Causal ML in Natural Language Processing](https://www.reddit.com/r/MachineLearning/comments/zgs8qr/d_causal_ml_in_natural_language_processing/)
 - [[R] Large language models are not zero-shot communicators](https://www.reddit.com/r/MachineLearning/comments/zgr7nr/r_large_language_models_are_not_zeroshot/)
 - [[D] When to use 1x1 convolution](https://www.reddit.com/r/MachineLearning/comments/zgpmtn/d_when_to_use_1x1_convolution/)
-- [Generating images with a semi standard format output [project]](https://www.reddit.com/r/MachineLearning/comments/zgnu8x/generating_images_with_a_semi_standard_format/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
