@@ -382,11 +382,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Universal product recommendation model](https://www.reddit.com/r/MachineLearning/comments/zh72m5/discussion_universal_product_recommendation_model/)
-- [[P] Multi-Label Classification for Darts](https://www.reddit.com/r/MachineLearning/comments/zh6ur5/p_multilabel_classification_for_darts/)
 - [[D] Making a regression NN estimate its own regression error](https://www.reddit.com/r/MachineLearning/comments/zh69o0/d_making_a_regression_nn_estimate_its_own/)
 - [[D] Jack Parker-Holder, DeepMind: On open-endedness, evolving agents and environments, online adaptation, and offline learning](https://www.reddit.com/r/MachineLearning/comments/zh4nk8/d_jack_parkerholder_deepmind_on_openendedness/)
 - [[R] Illustrating Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://www.reddit.com/r/MachineLearning/comments/zh2u3k/r_illustrating_reinforcement_learning_from_human/)
+- [[D] Seeking efficient audio based data augmentation &lpar;bottlenecks, need advice&rpar;](https://www.reddit.com/r/MachineLearning/comments/zgz3jb/d_seeking_efficient_audio_based_data_augmentation/)
+- [Representation ability of a MLP network [D]](https://www.reddit.com/r/MachineLearning/comments/zgvr0h/representation_ability_of_a_mlp_network_d/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
