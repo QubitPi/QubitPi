@@ -265,6 +265,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
 [![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
+[![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
 
 <img width="33%" align="right" src="https://user-images.githubusercontent.com/16126939/206631917-f59a4925-6fb4-4434-8577-0af94372ae74.png">
 
