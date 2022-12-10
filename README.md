@@ -565,11 +565,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1601530356724891648)
+- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1601507314955177985)
+- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1601507314829336576)
 - [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️](https://twitter.com/memgraphdb/status/1601498325181730817)
 - [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1601494225660542977)
-- [Which database to choose? Learn about the main differences between a graph database and a relational database, what kind of use-cases are best suited ...](https://twitter.com/memgraphdb/status/1601488601061244929)
-- [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1601471466029080577)
-- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1601346022399164416)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
