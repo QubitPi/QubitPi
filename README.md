@@ -566,11 +566,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ #memgr...](https://twitter.com/memgraphdb/status/1601640707009159168)
+- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1601636431516274690)
 - [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1601632435522850818)
 - [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1601591813516689408)
 - [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 #memgraph #pyth...](https://twitter.com/memgraphdb/status/1601537024288243712)
-- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1601530356724891648)
-- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1601507314955177985)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
