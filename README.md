@@ -258,7 +258,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
 
-
 #### [Keycloak](https://www.keycloak.org/)-Related Forks
 
 [![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
@@ -281,7 +280,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
-- [Keycloak Documentation](https://qubitpi.github.io/keycloak-documentation/)
+- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/)
+- [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
