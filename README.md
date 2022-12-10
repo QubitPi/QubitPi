@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
 - [[D] CNN with automatic dataset generation](https://www.reddit.com/r/MachineLearning/comments/zi0bn6/d_cnn_with_automatic_dataset_generation/)
 - [Simulation graphics in Python [P]](https://www.reddit.com/r/MachineLearning/comments/zhxnov/simulation_graphics_in_python_p/)
 - [[D] MLOps: Retraining strategy for unsupervised topic model in production?](https://www.reddit.com/r/MachineLearning/comments/zhwair/d_mlops_retraining_strategy_for_unsupervised/)
 - [[D] ICLR discussion protocol](https://www.reddit.com/r/MachineLearning/comments/zhv8ly/d_iclr_discussion_protocol/)
-- [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
