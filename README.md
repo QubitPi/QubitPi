@@ -382,11 +382,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Machine Learning Framework in Java](https://www.reddit.com/r/MachineLearning/comments/zhpqb2/p_machine_learning_framework_in_java/)
 - [Popular ML models [D]](https://www.reddit.com/r/MachineLearning/comments/zhnk8p/popular_ml_models_d/)
 - [Write functions to calculate partial derivatives. &quot;[P]&quot;](https://www.reddit.com/r/MachineLearning/comments/zhkqkf/write_functions_to_calculate_partial_derivatives_p/)
 - [[D] Making a regression NN estimate its own regression error](https://www.reddit.com/r/MachineLearning/comments/zh69o0/d_making_a_regression_nn_estimate_its_own/)
 - [[D] Jack Parker-Holder, DeepMind: On open-endedness, evolving agents and environments, online adaptation, and offline learning](https://www.reddit.com/r/MachineLearning/comments/zh4nk8/d_jack_parkerholder_deepmind_on_openendedness/)
-- [[R] Illustrating Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://www.reddit.com/r/MachineLearning/comments/zh2u3k/r_illustrating_reinforcement_learning_from_human/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
