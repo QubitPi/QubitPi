@@ -584,11 +584,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [These #pharma experts will outline the progress the company has made at @GSK to date and describe how they perform #data transformations from SDTM to ...](https://twitter.com/neo4j/status/1601562402809647109)
 - [An unified portal for access control, project management, tracking, and reporting capabilities throughout the drug discovery lifecycle. Learn more: NA...](https://twitter.com/neo4j/status/1601275570419015687)
 - [RT yWorks: Check it out! 🔎 We’ve updated Data Explorer for @neo4j to make exploring your data easier, faster, and smarter. Now you can use the gra...](https://twitter.com/yworks/status/1601225614102593542)
 - [Today is the day! @LogConference is a new annual research conference that covers areas broadly related to #machinelearning on graphs and geometry, wit...](https://twitter.com/neo4j/status/1601178182933442561)
 - [RT Alexander Erdl: Final #neo4j live for this year is taking place next week! @Giuseppe_V_1991 will show us #apoc library updates! New features as wel...](https://twitter.com/alexandererdl/status/1601150157759840257)
+- [RT Cristian Glavan: What I Learned at Neo4j’s NODES 22 Conference](https://twitter.com/Root314/status/1600958719117893640)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
