@@ -383,11 +383,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which book to choose based on my experience?](https://www.reddit.com/r/MachineLearning/comments/zhrkp8/d_which_book_to_choose_based_on_my_experience/)
+- [[P] I made a command-line tool that explains your errors using ChatGPT &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zhrgln/p_i_made_a_commandline_tool_that_explains_your/)
 - [GPT Davinci doesn&#39;t respond to my next move. Is something bad or what? [R]](https://www.reddit.com/r/MachineLearning/comments/zhr6d4/gpt_davinci_doesnt_respond_to_my_next_move_is/)
 - [[D] BERT pre-training - masked_lm_accuracy is always zero](https://www.reddit.com/r/MachineLearning/comments/zhqvh6/d_bert_pretraining_masked_lm_accuracy_is_always/)
 - [[N] If Yann LeCun is right and AR glasses are the killer app for ML hardware, then Snapdragon AR2 chips are the next step on our path [16 slides]](https://www.reddit.com/r/MachineLearning/comments/zhqe8i/n_if_yann_lecun_is_right_and_ar_glasses_are_the/)
-- [[P] Machine Learning Framework in Java](https://www.reddit.com/r/MachineLearning/comments/zhpqb2/p_machine_learning_framework_in_java/)
-- [Popular ML models [D]](https://www.reddit.com/r/MachineLearning/comments/zhnk8p/popular_ml_models_d/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
