@@ -388,7 +388,7 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
 - [[D] &quot;#AI-based assessment of cardiac allograft rejections&quot;Lipkova et al. 2022](https://www.reddit.com/r/MachineLearning/comments/zhtagz/d_aibased_assessment_of_cardiac_allograft/)
 - [[Project] Football Players Tracking with YOLOv5 + ByteTRACK](https://www.reddit.com/r/MachineLearning/comments/zht9og/project_football_players_tracking_with_yolov5/)
-- [[D] Which book to choose based on my experience?](https://www.reddit.com/r/MachineLearning/comments/zhrkp8/d_which_book_to_choose_based_on_my_experience/)
+- [[P] I made a command-line tool that explains your errors using ChatGPT &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zhrgln/p_i_made_a_commandline_tool_that_explains_your/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
