@@ -400,11 +400,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Actively do nothing: Five powerful questioning techniques to remain curious](https://www.scrum.org/resources/blog/actively-do-nothing-five-powerful-questioning-techniques-remain-curious)
 - [No, trust should not be a Scrum value and here’s why](https://www.scrum.org/resources/blog/no-trust-should-not-be-scrum-value-and-heres-why)
 - [Nexus Daily Scrum](https://www.scrum.org/resources/blog/nexus-daily-scrum)
 - [Facilitation and Conflict - Ground Rules](https://www.scrum.org/resources/blog/facilitation-and-conflict-ground-rules)
 - [Opportunity to Influence Product Development at Scrum.org - Come Experiment With Us!](https://www.scrum.org/resources/blog/opportunity-influence-product-development-scrumorg-come-experiment-us)
-- [Wird ChatGPT Scrum Master und Product Owner in der Zukunft unterstützen oder verdrängen? 🇩🇪](https://www.scrum.org/resources/blog/wird-chatgpt-scrum-master-und-product-owner-der-zukunft-unterstutzen-oder-verdrangen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
