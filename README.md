@@ -566,11 +566,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1602028930302705665)
-- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1602008972696981506)
 - [How many graph database query languages do you use? Do you have a favorite one? #memgraph](https://twitter.com/memgraphdb/status/1601985956206284804)
 - [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1601977986965770245)
 - [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1601953353898000385)
+- [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1601928496040878080)
+- [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1601918364271640581)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
