@@ -566,11 +566,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1601860641328881665)
-- [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1601841792495788034)
 - [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1601826948023566337)
 - [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1601689222108581888)
 - [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1601686507152367617)
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ #memgr...](https://twitter.com/memgraphdb/status/1601640707009159168)
+- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1601636431516274690)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
