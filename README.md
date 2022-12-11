@@ -386,9 +386,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
 - [[D] CNN with automatic dataset generation](https://www.reddit.com/r/MachineLearning/comments/zi0bn6/d_cnn_with_automatic_dataset_generation/)
-- [[D] MLOps: Retraining strategy for unsupervised topic model in production?](https://www.reddit.com/r/MachineLearning/comments/zhwair/d_mlops_retraining_strategy_for_unsupervised/)
 - [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
 - [[D] &quot;#AI-based assessment of cardiac allograft rejections&quot;Lipkova et al. 2022](https://www.reddit.com/r/MachineLearning/comments/zhtagz/d_aibased_assessment_of_cardiac_allograft/)
+- [[Project] Football Players Tracking with YOLOv5 + ByteTRACK](https://www.reddit.com/r/MachineLearning/comments/zht9og/project_football_players_tracking_with_yolov5/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
