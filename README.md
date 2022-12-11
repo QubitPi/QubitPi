@@ -384,8 +384,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] AI project using reinforcement learning to 3D sculpt sculptures](https://www.reddit.com/r/MachineLearning/comments/zivy00/p_ai_project_using_reinforcement_learning_to_3d/)
 - [[P] Focal loss along with sampling techniques](https://www.reddit.com/r/MachineLearning/comments/ziskhg/p_focal_loss_along_with_sampling_techniques/)
-- [[P] Looking for an open-source model that would generate background information about a person, based on some variables](https://www.reddit.com/r/MachineLearning/comments/ziq543/p_looking_for_an_opensource_model_that_would/)
 - [[D] Text to Sound Design?](https://www.reddit.com/r/MachineLearning/comments/ziok3r/d_text_to_sound_design/)
 - [[R] VAE-based Tumor Segmentation](https://www.reddit.com/r/MachineLearning/comments/zin6gl/r_vaebased_tumor_segmentation/)
 - [[D] OpenReview &amp; CMT : Assigning someone else to complete reviews on your behalf](https://www.reddit.com/r/MachineLearning/comments/zimitb/d_openreview_cmt_assigning_someone_else_to/)
