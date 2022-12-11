@@ -117,11 +117,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/737537187306799201><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3235c34f2035d575f5b9a3672f568644401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@云中不识君12138@载济@akusesi等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738304891251851376)
+- [恭喜@箛兲蕶@小村pike@你和晚霞同样温柔等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738304891244511336)
+- [恭喜@渲染星月丶@小龙呆呆@小杰且火火66等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738304891231928337)
 - [互动抽奖 #原神# #瑶瑶# #仙蕊玲珑# ▌仙蕊玲珑 · 瑶瑶 玲珑玉质，身含仙骨 ========== 「本想把我年轻时爱用的法宝送给瑶瑶，当个防身的物件。还没等我开口，...](https://t.bilibili.com/737537187306799201)
 - [互动抽奖 #原神# #艾尔海森# #诲韬诤言# ▌诲韬诤言 · 艾尔海森 学识、思考及处事之道 ========== 「他当然非常聪明，我从不否认这一点。一个如此有才能的人仅...](https://t.bilibili.com/737535654009765941)
-- [TGA2022《原神》参选视频](https://t.bilibili.com/737529709783416866)
-- [#原神# 【致旅行者的答谢信】 在各位的支持下，《原神》获得了“TGA 2022 玩家之声”奖项，以及“TGA 2022 最佳移动游戏”和“TGA 2022 最佳持续运营游戏”双奖...](https://t.bilibili.com/737529224443723860)
-- [恭喜@枫树落下的秋叶@屑bt@吾哥春暖花开等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/737191635727679497)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
