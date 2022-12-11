@@ -566,11 +566,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. #memgraph #graphdatabase #memgra...](https://twitter.com/memgraphdb/status/1601874234317340674)
-- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1601874229812666368)
 - [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1601860641328881665)
 - [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1601841792495788034)
 - [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1601826948023566337)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1601689222108581888)
+- [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1601686507152367617)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
