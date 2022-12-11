@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Text to Sound Design?](https://www.reddit.com/r/MachineLearning/comments/ziok3r/d_text_to_sound_design/)
 - [[R] VAE-based Tumor Segmentation](https://www.reddit.com/r/MachineLearning/comments/zin6gl/r_vaebased_tumor_segmentation/)
 - [[D] OpenReview &amp; CMT : Assigning someone else to complete reviews on your behalf](https://www.reddit.com/r/MachineLearning/comments/zimitb/d_openreview_cmt_assigning_someone_else_to/)
 - [[D] Does Google TPU v4 compete with GPUs in price/performance?](https://www.reddit.com/r/MachineLearning/comments/zil35t/d_does_google_tpu_v4_compete_with_gpus_in/)
 - [[P] I made a tool that auto-saves your ChatGPT conversations and adds a &quot;Chat History&quot; button on the website.](https://www.reddit.com/r/MachineLearning/comments/zikps2/p_i_made_a_tool_that_autosaves_your_chatgpt/)
-- [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
