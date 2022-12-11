@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] OpenReview &amp; CMT : Assigning someone else to complete reviews on your behalf](https://www.reddit.com/r/MachineLearning/comments/zimitb/d_openreview_cmt_assigning_someone_else_to/)
 - [[D] Does Google TPU v4 compete with GPUs in price/performance?](https://www.reddit.com/r/MachineLearning/comments/zil35t/d_does_google_tpu_v4_compete_with_gpus_in/)
 - [[P] I made a tool that auto-saves your ChatGPT conversations and adds a &quot;Chat History&quot; button on the website.](https://www.reddit.com/r/MachineLearning/comments/zikps2/p_i_made_a_tool_that_autosaves_your_chatgpt/)
 - [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
 - [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
-- [[D] &quot;#AI-based assessment of cardiac allograft rejections&quot;Lipkova et al. 2022](https://www.reddit.com/r/MachineLearning/comments/zhtagz/d_aibased_assessment_of_cardiac_allograft/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
