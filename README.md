@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] AlphaTensor&#39;s DRL mechanism in depth &lpar;and its shortcomings&rpar;](https://www.reddit.com/r/MachineLearning/comments/zij34n/r_alphatensors_drl_mechanism_in_depth_and_its/)
 - [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
 - [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
 - [[D] &quot;#AI-based assessment of cardiac allograft rejections&quot;Lipkova et al. 2022](https://www.reddit.com/r/MachineLearning/comments/zhtagz/d_aibased_assessment_of_cardiac_allograft/)
 - [[Project] Football Players Tracking with YOLOv5 + ByteTRACK](https://www.reddit.com/r/MachineLearning/comments/zht9og/project_football_players_tracking_with_yolov5/)
-- [[P] I made a command-line tool that explains your errors using ChatGPT &lpar;link in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/zhrgln/p_i_made_a_commandline_tool_that_explains_your/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
