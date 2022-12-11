@@ -297,7 +297,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img width="15%" align="left" src="https://user-images.githubusercontent.com/16126939/206631498-e769d729-edbe-4165-932f-38a0755e161a.png">
 
-I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now is more on doing well for my employees and my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
+I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
