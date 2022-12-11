@@ -387,8 +387,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [[D] what should be the data selection criteria for classification model.](https://www.reddit.com/r/MachineLearning/comments/zil8p6/d_what_should_be_the_data_selection_criteria_for/)
 - [[D] Does Google TPU v4 compete with GPUs in price/performance?](https://www.reddit.com/r/MachineLearning/comments/zil35t/d_does_google_tpu_v4_compete_with_gpus_in/)
 - [[P] I made a tool that auto-saves your ChatGPT conversations and adds a &quot;Chat History&quot; button on the website.](https://www.reddit.com/r/MachineLearning/comments/zikps2/p_i_made_a_tool_that_autosaves_your_chatgpt/)
-- [[D] Any thoughts on this?](https://www.reddit.com/r/MachineLearning/comments/zijx52/d_any_thoughts_on_this/)
-- [[R] AlphaTensor&#39;s DRL mechanism in depth &lpar;and its shortcomings&rpar;](https://www.reddit.com/r/MachineLearning/comments/zij34n/r_alphatensors_drl_mechanism_in_depth_and_its/)
+- [[R] The Framework for Learning and Inference In a Forward Pass](https://www.reddit.com/r/MachineLearning/comments/zi1iif/r_the_framework_for_learning_and_inference_in_a/)
+- [[P] Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements.](https://www.reddit.com/r/MachineLearning/comments/zhugld/p_daath_ai_parser_is_an_opensource_application/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
