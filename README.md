@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] LORA Dreambooth - fine-tune Stable diffusion models twice as faster than Dreambooth method, smaller model sizes 3-4 MBs](https://www.reddit.com/r/MachineLearning/comments/zjgo9o/p_lora_dreambooth_finetune_stable_diffusion/)
 - [Mapping 3D scenes from monocular videos. [R]](https://www.reddit.com/r/MachineLearning/comments/zjftuj/mapping_3d_scenes_from_monocular_videos_r/)
 - [[D] Getting around GPT-3&#39;s 4k token limit?](https://www.reddit.com/r/MachineLearning/comments/zjf45w/d_getting_around_gpt3s_4k_token_limit/)
 - [[D] - Has Open AI said what ChatGPT&#39;s architecture is? What technique is it using to &quot;remember&quot; previous prompts?](https://www.reddit.com/r/MachineLearning/comments/zjbsie/d_has_open_ai_said_what_chatgpts_architecture_is/)
 - [[D] Industry folks, what kind of development methodology/cycle do you use?](https://www.reddit.com/r/MachineLearning/comments/zj6tkm/d_industry_folks_what_kind_of_development/)
-- [Looking for a simple text editor that uses OpenAI Whisper [D]](https://www.reddit.com/r/MachineLearning/comments/zj2395/looking_for_a_simple_text_editor_that_uses_openai/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
