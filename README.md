@@ -384,11 +384,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Stupid architecture idea](https://www.reddit.com/r/MachineLearning/comments/zjkp4b/d_stupid_architecture_idea/)
 - [[D] AI plots world domination](https://www.reddit.com/r/MachineLearning/comments/zjknd7/d_ai_plots_world_domination/)
 - [[P] I trained GPT-3 to think like Paul Graham, Elon Musk, and Steve Jobs](https://www.reddit.com/r/MachineLearning/comments/zjjxj5/p_i_trained_gpt3_to_think_like_paul_graham_elon/)
 - [[Project] hlb-CIFAR10 – 94% accuracy in 18.1 seconds on an A100, ground-up hackable codebase built for idea prototyping](https://www.reddit.com/r/MachineLearning/comments/zjj9xp/project_hlbcifar10_94_accuracy_in_181_seconds_on/)
 - [[D] Global average pooling wrt channel dimensions](https://www.reddit.com/r/MachineLearning/comments/zji0uc/d_global_average_pooling_wrt_channel_dimensions/)
+- [[P] LORA Dreambooth - fine-tune Stable diffusion models twice as faster than Dreambooth method, smaller model sizes 3-4 MBs](https://www.reddit.com/r/MachineLearning/comments/zjgo9o/p_lora_dreambooth_finetune_stable_diffusion/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
