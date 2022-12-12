@@ -386,9 +386,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <!-- REDDIT-ML:START -->
 - [[D] application paper for top tier conferences](https://www.reddit.com/r/MachineLearning/comments/zkc85c/d_application_paper_for_top_tier_conferences/)
 - [[D] Pyrenn - Early Stopping for Levenberg Algorithm](https://www.reddit.com/r/MachineLearning/comments/zk93f2/d_pyrenn_early_stopping_for_levenberg_algorithm/)
-- [[D] ML to solve the division of people into teams](https://www.reddit.com/r/MachineLearning/comments/zk72mt/d_ml_to_solve_the_division_of_people_into_teams/)
 - [[Discussion] Amazon&#39;s AutoML vs. open source statistical methods](https://www.reddit.com/r/MachineLearning/comments/zk6h8q/discussion_amazons_automl_vs_open_source/)
 - [[D] G. Hinton proposes FF – an alternative to Backprop](https://www.reddit.com/r/MachineLearning/comments/zjud5l/d_g_hinton_proposes_ff_an_alternative_to_backprop/)
+- [[Project] hlb-CIFAR10 – 94% accuracy in 18.1 seconds on an A100, ground-up hackable codebase built for idea prototyping](https://www.reddit.com/r/MachineLearning/comments/zjj9xp/project_hlbcifar10_94_accuracy_in_181_seconds_on/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
