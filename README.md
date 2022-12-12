@@ -400,11 +400,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Facilitation and Conflict - Idea Evaluation](https://www.scrum.org/resources/blog/facilitation-and-conflict-idea-evaluation)
 - [Sind Sprint-burn-down-Charts, Schätzungen oder Task-Break-Downs von User Storys verpflichtend in Scrum?](https://www.scrum.org/resources/blog/sind-sprint-burn-down-charts-schatzungen-oder-task-break-downs-von-user-storys)
 - [How can a Scrum Master serve the organization?](https://www.scrum.org/resources/blog/how-can-scrum-master-serve-organization)
 - [Nuestro análisis del 16th Annual State of Agile Report](https://www.scrum.org/resources/blog/nuestro-analisis-del-16th-annual-state-agile-report)
 - [Actively do nothing: Five powerful questioning techniques to remain curious](https://www.scrum.org/resources/blog/actively-do-nothing-five-powerful-questioning-techniques-remain-curious)
-- [No, trust should not be a Scrum value and here’s why](https://www.scrum.org/resources/blog/no-trust-should-not-be-scrum-value-and-heres-why)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
