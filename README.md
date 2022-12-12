@@ -566,11 +566,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1602296820582989829)
 - [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️](https://twitter.com/memgraphdb/status/1602266780684222466)
 - [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1602247163949584384)
 - [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1602246074957266945)
 - [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1602241652139212804)
-- [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1602241151750340608)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
