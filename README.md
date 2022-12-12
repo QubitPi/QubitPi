@@ -114,7 +114,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/738304891251851376><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3acc1faedca66b7246479e8b861bfd1a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/738645044071759877><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9d8e8021b1c4089041daf6d18a99eb2f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #秋津森夜试胆会# 亲爱的旅行者，「秋津森夜试胆会」活动即将开启~ 〓活动时间〓 玩法开启时间： 2022/12/15 10:00 ~ 2023/01/02 03:59 活动商店开启时间...](https://t.bilibili.com/738645044071759877)
