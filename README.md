@@ -584,11 +584,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [New Visualization Features for Neo4j Bloom?? 🌸 Jonathan describes the new features coming in the next update: #Neo4j #Neo4jBloom #Bloom #Updates](https://twitter.com/neo4j/status/1602318204201738241)
-- [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1602313619756449792)
-- [RT Pierre Halftermeyer: Re ➡️from graphdatascience import GraphDataScience⬅️ #neo4j in my Jupyter notebook through #graphdatascience python client...](https://twitter.com/halftep/status/1602290987237343232)
 - [How can life sciences make sense of big data when there is very little context? That’s where #knowledgegraphs come in. 👉NA &amp; EMEA: 👉APAC: Save ...](https://twitter.com/neo4j/status/1602287357893427200)
 - [RT Michael Simons: Here’s a recording from my Øredev presentation in Malmö from early November about @GraalVM and several frameworks and why and ho...](https://twitter.com/rotnroll666/status/1602183563125956608)
+- [As part of Neo4j Labs, you can use #NeoDash for free in #Neo4j Desktop to render force-directed graphs, tables, bar charts, line charts, and more. Wat...](https://twitter.com/neo4j/status/1602062686044491779)
+- [RT Alexander Erdl: Join @mesirii on Monday when we explore another fun #dataset in #neo4j AuraDB](https://twitter.com/alexandererdl/status/1601936086967664640)
+- [RT Alessandro Negro: Here’s the perfect gift 🎁 for your Christmas 🎄. ON Monday 12th of December - 50% off all eBooks at](https://twitter.com/AlessandroNegro/status/1601860443596791808)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
