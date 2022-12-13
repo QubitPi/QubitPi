@@ -46,7 +46,7 @@ Welome to Jack (Jiaqi)'s GitHub Page
 </a>
 </div>
 
-My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://paion-data.com). We are a group of people promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）.
+My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](https://paion-data.github.io/). We are a group of people promoting [eudaimonia](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL-CLnI8tPXu-gONDgFuz4MfJU9GTqbshc) inside young hearts（为世界上所有的美好和快乐而努力）.
 
 <div align="center">
 
