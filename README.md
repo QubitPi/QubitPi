@@ -597,11 +597,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [049 Connected Data Lakehouse Neo4j and Databricks Reference Data Architecture - NODES2022](https://www.youtube.com/watch?v=22qstAxlWMI)
-- [042 Doctor.ai A Graph-Based Medical Chatbot - NODES2022 - Sixing Huang](https://www.youtube.com/watch?v=CHcNy5gEtLg)
-- [041 Rapid App Prototyping Using Streamlit and Neo4j - NODES2022 - David Hughes](https://www.youtube.com/watch?v=D2MYIIjEuv4)
-- [043 Creating Graphville Neo4j Educational Platform - NODES2022 - Vlad Batushkov](https://www.youtube.com/watch?v=Q-22VJFl6Nc)
-- [044 Managing Software-BOM, Security Issues, and Their Knowledge Graphs Is Easy With Neo4 - NODES2022](https://www.youtube.com/watch?v=aIIAM0OHsjc)
+- [Neo4j Live: APOC Library Updates](https://www.youtube.com/watch?v=Wj8E9omPzro)
+- [Neo4j 5 includes more power so you can ask deeper-context questions with faster results.](https://www.youtube.com/watch?v=W4sz-yBBNlc)
+- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=gMYu6OaGUOc)
+- [Learn with Neo4j: Deploy Neo4j applications using Netlify](https://www.youtube.com/watch?v=e9k-I_CQ9Z8)
+- [038 Using Graph Databases for Consumer Products - NODES2022 - Chris Anthes](https://www.youtube.com/watch?v=LmL3YiEvMY4)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
