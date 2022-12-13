@@ -387,11 +387,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Experimental Design &amp; Common Pitfalls of Machine Learning in Finance](https://www.reddit.com/r/MachineLearning/comments/zku8uo/r_experimental_design_common_pitfalls_of_machine/)
 - [[D] WWCS -- What would ChatGPT say?](https://www.reddit.com/r/MachineLearning/comments/zks1f8/d_wwcs_what_would_chatgpt_say/)
 - [[P] Teach StableDiffusion new concepts via Textual Inversion](https://www.reddit.com/r/MachineLearning/comments/zkntan/p_teach_stablediffusion_new_concepts_via_textual/)
 - [[P] Jira for ML tool](https://www.reddit.com/r/MachineLearning/comments/zkn9jb/p_jira_for_ml_tool/)
 - [[Discussion] Amazon&#39;s AutoML vs. open source statistical methods](https://www.reddit.com/r/MachineLearning/comments/zk6h8q/discussion_amazons_automl_vs_open_source/)
-- [[D] G. Hinton proposes FF – an alternative to Backprop](https://www.reddit.com/r/MachineLearning/comments/zjud5l/d_g_hinton_proposes_ff_an_alternative_to_backprop/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
