@@ -387,11 +387,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Help with this Question](https://www.reddit.com/r/MachineLearning/comments/zkptmk/d_help_with_this_question/)
 - [[P] Teach StableDiffusion new concepts via Textual Inversion](https://www.reddit.com/r/MachineLearning/comments/zkntan/p_teach_stablediffusion_new_concepts_via_textual/)
 - [[P] Jira for ML tool](https://www.reddit.com/r/MachineLearning/comments/zkn9jb/p_jira_for_ml_tool/)
 - [[Discussion] Amazon&#39;s AutoML vs. open source statistical methods](https://www.reddit.com/r/MachineLearning/comments/zk6h8q/discussion_amazons_automl_vs_open_source/)
 - [[D] G. Hinton proposes FF – an alternative to Backprop](https://www.reddit.com/r/MachineLearning/comments/zjud5l/d_g_hinton_proposes_ff_an_alternative_to_backprop/)
+- [[Project] hlb-CIFAR10 – 94% accuracy in 18.1 seconds on an A100, ground-up hackable codebase built for idea prototyping](https://www.reddit.com/r/MachineLearning/comments/zjj9xp/project_hlbcifar10_94_accuracy_in_181_seconds_on/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
