@@ -309,6 +309,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
+[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
+
 
 My Tech Blogs
 -------------
