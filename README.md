@@ -587,11 +587,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Don&#39;t miss the chat between @emileifrem and Jonathan Lowe from @pfizer, during the last #Connections event of the year is this week. 🎉 NA &amp; EMEA: A...](https://twitter.com/neo4j/status/1602696886154035204)
-- [Neo4j Live: APOC Library Updates w/ @Giuseppe_V_1991](https://twitter.com/neo4j/status/1602691570691887104)
 - [#Neo4j and @Microsoft have partnered to bring a best-in-class solution for #Cloud developers and data scientists. #azure @Azure #ML #machinelearning #...](https://twitter.com/neo4j/status/1602664679536578560)
-- [RT LARUS: Looking for the latest updates on #APOC Library? Today is your lucky day! 🔹 Let&#39;s all meet here at 5 PM: 📢 You can&#39;t miss @neo4j Live:...](https://twitter.com/AgileLARUS/status/1602637574224461824)
 - [Re @mesirii explores #ChatGPT for Learning, Code, Data and of course, FUN! 🙃 #Neo4j](https://twitter.com/neo4j/status/1602362787103215623)
+- [New Visualization Features for Neo4j Bloom?? 🌸 Jonathan describes the new features coming in the next update: #Neo4j #Neo4jBloom #Bloom #Updates](https://twitter.com/neo4j/status/1602318204201738241)
+- [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1602313619756449792)
+- [RT Pierre Halftermeyer: Re ➡️from graphdatascience import GraphDataScience⬅️ #neo4j in my Jupyter notebook through #graphdatascience python client...](https://twitter.com/halftep/status/1602290987237343232)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
