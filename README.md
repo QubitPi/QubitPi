@@ -272,10 +272,10 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- KEYCLOAK-BLOG:START -->
 - [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
+- [Keycloak 20.0.2 released](https://www.keycloak.org/2022/11/keycloak-2002-released)
 - [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
 - [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
 - [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
-- [New Keycloak maintainer: Michal Hajas](https://www.keycloak.org/2022/09/mhajas)
 <!-- KEYCLOAK-BLOG:END -->
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
