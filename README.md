@@ -271,8 +271,8 @@ By tapping into the collective talent and innovation of open source communities,
 <h4><a href="https://www.keycloak.org/"><img width="30%" src="./img/keycloak.png"></a></h4>
 
 <!-- KEYCLOAK-BLOG:START -->
+- [Keycloak 20.0.2 released](https://www.keycloak.org/2022/12/keycloak-2002-released)
 - [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
-- [Keycloak 20.0.2 released](https://www.keycloak.org/2022/11/keycloak-2002-released)
 - [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
 - [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
 - [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
