@@ -597,11 +597,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: APOC Library Updates](https://www.youtube.com/watch?v=Wj8E9omPzro)
 - [Neo4j 5 includes more power so you can ask deeper-context questions with faster results.](https://www.youtube.com/watch?v=W4sz-yBBNlc)
 - [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=gMYu6OaGUOc)
 - [Learn with Neo4j: Deploy Neo4j applications using Netlify](https://www.youtube.com/watch?v=e9k-I_CQ9Z8)
 - [038 Using Graph Databases for Consumer Products - NODES2022 - Chris Anthes](https://www.youtube.com/watch?v=LmL3YiEvMY4)
-- [033 Using Sport Data to Build a Graph Model of Inconsistent Hierarchies Over Time - NODES2022](https://www.youtube.com/watch?v=P9IODNNlpMc)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
