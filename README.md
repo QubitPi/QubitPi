@@ -387,11 +387,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [optimization of haarcascade training [D]](https://www.reddit.com/r/MachineLearning/comments/zl275f/optimization_of_haarcascade_training_d/)
 - [[Discussion] In-painting model to decorate rooms](https://www.reddit.com/r/MachineLearning/comments/zl16ah/discussion_inpainting_model_to_decorate_rooms/)
 - [[Project] Run and fine-tune BLOOM-176B at home using a peer-to-peer network](https://www.reddit.com/r/MachineLearning/comments/zl03b0/project_run_and_finetune_bloom176b_at_home_using/)
 - [[D] Are there any distributed model training services similar to, e.g. Folding@Home?](https://www.reddit.com/r/MachineLearning/comments/zky7ly/d_are_there_any_distributed_model_training/)
 - [[P] Are probabilities from multi-label image classification networks calibrated?](https://www.reddit.com/r/MachineLearning/comments/zkwrix/p_are_probabilities_from_multilabel_image/)
-- [[D] PaddleSeg vs MMsegmentation](https://www.reddit.com/r/MachineLearning/comments/zkw3ia/d_paddleseg_vs_mmsegmentation/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
