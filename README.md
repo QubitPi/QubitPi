@@ -587,11 +587,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#Neo4j and @Microsoft have partnered to bring a best-in-class solution for #Cloud developers and data scientists. #azure @Azure #ML #machinelearning #...](https://twitter.com/neo4j/status/1602664679536578560)
 - [Re @mesirii explores #ChatGPT for Learning, Code, Data and of course, FUN! 🙃 #Neo4j](https://twitter.com/neo4j/status/1602362787103215623)
 - [New Visualization Features for Neo4j Bloom?? 🌸 Jonathan describes the new features coming in the next update: #Neo4j #Neo4jBloom #Bloom #Updates](https://twitter.com/neo4j/status/1602318204201738241)
 - [Discover AuraDB with @mesirii](https://twitter.com/neo4j/status/1602313619756449792)
 - [RT Pierre Halftermeyer: Re ➡️from graphdatascience import GraphDataScience⬅️ #neo4j in my Jupyter notebook through #graphdatascience python client...](https://twitter.com/halftep/status/1602290987237343232)
+- [How can life sciences make sense of big data when there is very little context? That’s where #knowledgegraphs come in. 👉NA &amp; EMEA: 👉APAC: Save ...](https://twitter.com/neo4j/status/1602287357893427200)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
