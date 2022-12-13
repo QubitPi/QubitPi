@@ -536,11 +536,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Team Avocado is hiring! ArangoDB is looking for a Solution Architect &lpar;West Coast&rpar; to join our team. 🥑 To learn more, check out the full job descrip...](https://twitter.com/arangodb/status/1602770372234993664)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1602634459286835203)
 - [Everything you need to know about graph analytics and big data. 🥑 Learn more about graph databases, graph analytics, and their complex use cases to...](https://twitter.com/arangodb/status/1602407956053639170)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1602272079432278016)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1602272079377727489)
-- [Did you make it to our kube-arangodb webinar? 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, let...](https://twitter.com/arangodb/status/1601954985058750466)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
