@@ -569,11 +569,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1602681055726682114)
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1602661030592757762)
 - [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1602648952221966338)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #graphdatabase #memgraphdb #database...](https://twitter.com/memgraphdb/status/1602638515078062081)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1602631401362362368)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1602608068797276161)
+- [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1602607654001680384)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
