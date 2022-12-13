@@ -301,6 +301,7 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
+- [Data Visualization](https://qubitpi.github.io/data_to_viz/)
 - [Git](https://qubitpi.github.io/progit2/)
   * [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
