@@ -456,11 +456,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.26: Windows HostProcess Containers Are Generally Available](https://kubernetes.io/blog/2022/12/13/windows-host-process-containers-ga/)
 - [Blog: Kubernetes 1.26: We&#39;re now signing our binary release artifacts!](https://kubernetes.io/blog/2022/12/12/kubernetes-release-artifact-signing/)
 - [Blog: Kubernetes v1.26: Electrifying](https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/)
 - [Blog: Forensic container checkpointing in Kubernetes](https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/)
 - [Blog: Finding suspicious syscalls with the seccomp notifier](https://kubernetes.io/blog/2022/12/02/seccomp-notifier/)
-- [Blog: Boosting Kubernetes container runtime observability with OpenTelemetry](https://kubernetes.io/blog/2022/12/01/runtime-observability-opentelemetry/)
 <!-- KUBERNETES-BLOG:END -->
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
