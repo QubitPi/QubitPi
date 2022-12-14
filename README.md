@@ -598,8 +598,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Launching AuraDS from GCP Marketplace](https://www.youtube.com/watch?v=27PMDtlSP4w)
-- [Marketplace Series: Launching Neo4j EE from AWS](https://www.youtube.com/watch?v=s_M7xLuJAX8)
+- [Marketplace Series: Launching Neo4j EE from AWS](https://www.youtube.com/watch?v=afw-_OyQ9PU)
+- [Marketplace Series: Launching AuraDS from GCP](https://www.youtube.com/watch?v=6KiNlLi7oy0)
 - [054 Knowledge Graphs Powering Active Metadata - NODES2022 - Smita Padhy](https://www.youtube.com/watch?v=JribnCZ8r2A)
 - [051 Coffee Knowledge Graph - NODES2022 - Koji Annoura](https://www.youtube.com/watch?v=Rn_hj0oMGgE)
 - [052 Construction and Application of Knowledge Graphs Manufacturing Process for Box Part - NODES2022](https://www.youtube.com/watch?v=e8Q0OJmMogo)
