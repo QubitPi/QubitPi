@@ -570,11 +570,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1603122509557436418)
 - [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1603102495823249410)
 - [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1603084238290665475)
 - [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1603060571125039105)
 - [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1603048927070224386)
+- [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1603034032475881474)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
