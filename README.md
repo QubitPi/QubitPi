@@ -388,11 +388,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Implemented Vision Transformers 🚀 from scratch using TensorFlow 2.x](https://www.reddit.com/r/MachineLearning/comments/zloof9/p_implemented_vision_transformers_from_scratch/)
 - [[Research] Graph Embeddings for Graph shape?](https://www.reddit.com/r/MachineLearning/comments/zlmvcp/research_graph_embeddings_for_graph_shape/)
 - [[D] What would happen if you normalize each sample on its on before sending it to the neural net?](https://www.reddit.com/r/MachineLearning/comments/zlm587/d_what_would_happen_if_you_normalize_each_sample/)
 - [[R] PP-Matting: High-Accuracy Natural Image Matting](https://www.reddit.com/r/MachineLearning/comments/zllpus/r_ppmatting_highaccuracy_natural_image_matting/)
 - [[D] Looking for a lightweight, simple network that can ingest unorganized pointclouds and produce 6dof poses](https://www.reddit.com/r/MachineLearning/comments/zlj4if/d_looking_for_a_lightweight_simple_network_that/)
-- [[N] Gymnasium 0.27 - the first new version since Gymnasium was announced - is now released. It has almost no breaking changes.](https://www.reddit.com/r/MachineLearning/comments/zlb319/n_gymnasium_027_the_first_new_version_since/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
