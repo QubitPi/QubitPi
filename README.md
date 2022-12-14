@@ -389,10 +389,10 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 
 <!-- REDDIT-ML:START -->
 - [[Project] NBA Clustering Project](https://www.reddit.com/r/MachineLearning/comments/zlfsc9/project_nba_clustering_project/)
-- [[R] Contemplating over PhD direction](https://www.reddit.com/r/MachineLearning/comments/zlbcq2/r_contemplating_over_phd_direction/)
 - [[N] Gymnasium 0.27 - the first new version since Gymnasium was announced - is now released. It has almost no breaking changes.](https://www.reddit.com/r/MachineLearning/comments/zlb319/n_gymnasium_027_the_first_new_version_since/)
 - [[D] Can you use GPT for named entity extraction ?](https://www.reddit.com/r/MachineLearning/comments/zl5kmi/d_can_you_use_gpt_for_named_entity_extraction/)
 - [[R] RT-1: ROBOTICS TRANSFORMER FOR REAL-WORLD CONTROL AT SCALE - Google 2022](https://www.reddit.com/r/MachineLearning/comments/zl58fd/r_rt1_robotics_transformer_for_realworld_control/)
+- [[D] Newsletter recommendations for a machine learning practitioner living outside the machine learning community?](https://www.reddit.com/r/MachineLearning/comments/zl2u6e/d_newsletter_recommendations_for_a_machine/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
