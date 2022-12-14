@@ -570,11 +570,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1602951228522172417)
-- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1602948301157974017)
-- [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1602931890868166656)
-- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1602929420758618113)
 - [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. #memgraph #graphdatabase #me...](https://twitter.com/memgraphdb/status/1602775692311150598)
+- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1602774898052562946)
+- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1602746823130898432)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1602724002761408513)
+- [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1602695113448296449)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
