@@ -598,11 +598,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Advent of Code Special - Discover AuraDB](https://www.youtube.com/watch?v=LmIupHl_lws)
 - [049 Connected Data Lakehouse Neo4j and Databricks Reference Data Architecture - NODES2022](https://www.youtube.com/watch?v=22qstAxlWMI)
 - [042 Doctor.ai A Graph-Based Medical Chatbot - NODES2022 - Sixing Huang](https://www.youtube.com/watch?v=CHcNy5gEtLg)
 - [041 Rapid App Prototyping Using Streamlit and Neo4j - NODES2022 - David Hughes](https://www.youtube.com/watch?v=D2MYIIjEuv4)
 - [043 Creating Graphville Neo4j Educational Platform - NODES2022 - Vlad Batushkov](https://www.youtube.com/watch?v=Q-22VJFl6Nc)
-- [044 Managing Software-BOM, Security Issues, and Their Knowledge Graphs Is Easy With Neo4 - NODES2022](https://www.youtube.com/watch?v=aIIAM0OHsjc)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
