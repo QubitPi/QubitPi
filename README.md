@@ -591,8 +591,8 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Investigate Family Connections Between House of the Dragon and Game of Thrones Characters 🐉 @tb_tomaz shows us how to interactively search and visu...](https://twitter.com/neo4j/status/1603057444418093058)
 - [RT Alexander Erdl: Had great fun with @mesirii this week to go over #NobelPrize API data on #neo4j AuraDB Watch now:](https://twitter.com/alexandererdl/status/1602975367014260736)
 - [RT Philipp Brunenberg: FastRP graph embeddings are implemented in the @neo4j GDS library. Have you ever wondered how they work? Let&#39;s explore by a sma...](https://twitter.com/p_brunenberg/status/1602973676810428416)
-- [RT Adrien SALES: 👮Managing &amp; reporting products #endoflife &amp; #technicaldebt debt can be a complex task...still it&#39;s a crucial #security concern⚡ ...](https://twitter.com/rastadidi/status/1602914495684173824)
-- [Leverage #Cypher map projections and #Python dynamic typing to build an Object Graph Mapper for Neo4j. @st3llasia at #NODES2022 --&gt; re-watch it! #cyph...](https://twitter.com/neo4j/status/1602785478054404096)
+- [RT CambridgeIntel: Missed #NODES2022 and not sure where to begin? The team at @Neo4j have curated a top-20 list, based on attendee feedback -delighted...](https://twitter.com/CambridgeIntel/status/1602955048241209345)
+- [RT GraphQL Galaxy 🗓 Dec 8-9: Watch this talk by Thomas Wiss from @neo4j where he talks about GraphQL Subscriptions. Using it, GraphQL API consumers...](https://twitter.com/GraphQLGalaxy/status/1602948259873705987)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
