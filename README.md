@@ -588,11 +588,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Investigate Family Connections Between House of the Dragon and Game of Thrones Characters 🐉 @tb_tomaz shows us how to interactively search and visu...](https://twitter.com/neo4j/status/1603057444418093058)
 - [RT Alexander Erdl: Had great fun with @mesirii this week to go over #NobelPrize API data on #neo4j AuraDB Watch now:](https://twitter.com/alexandererdl/status/1602975367014260736)
+- [RT Philipp Brunenberg: FastRP graph embeddings are implemented in the @neo4j GDS library. Have you ever wondered how they work? Let&#39;s explore by a sma...](https://twitter.com/p_brunenberg/status/1602973676810428416)
 - [Leverage #Cypher map projections and #Python dynamic typing to build an Object Graph Mapper for Neo4j. @st3llasia at #NODES2022 --&gt; re-watch it! #cyph...](https://twitter.com/neo4j/status/1602785478054404096)
 - [Chad Cloes describes an approach to map out and visualize software and infrastructure using Neo4j Bloom. ✨ Read more in his article! #Neo4j #Bloom #S...](https://twitter.com/neo4j/status/1602740272475029505)
-- [Don&#39;t miss the chat between @emileifrem and Jonathan Lowe from @pfizer, during the last #Connections event of the year is this week. 🎉 NA &amp; EMEA: A...](https://twitter.com/neo4j/status/1602696886154035204)
-- [Neo4j Live: APOC Library Updates w/ @Giuseppe_V_1991](https://twitter.com/neo4j/status/1602691570691887104)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
