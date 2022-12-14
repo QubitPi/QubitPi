@@ -537,11 +537,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Did you hear the news? ArangoDB University is here! 👀🔥 Sign up for our brand new training center, including an updated version of our popular gr...](https://twitter.com/arangodb/status/1602996871672250368)
 - [Team Avocado is hiring! ArangoDB is looking for a Solution Architect &lpar;West Coast&rpar; to join our team. 🥑 To learn more, check out the full job descrip...](https://twitter.com/arangodb/status/1602770372234993664)
 - [Take a look at Kaseware: FBI-grade Case Management. 🥑🔍 Learn why Kaseware chose ArangoDB to power its investigative case management system today...](https://twitter.com/arangodb/status/1602634459286835203)
 - [Everything you need to know about graph analytics and big data. 🥑 Learn more about graph databases, graph analytics, and their complex use cases to...](https://twitter.com/arangodb/status/1602407956053639170)
 - [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1602272079432278016)
+- [Add ArangoDB to your reading list! 😎 Learn more about why users are switching from relational to graph databases, and how ArangoDB is the best way ...](https://twitter.com/arangodb/status/1602272079377727489)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
