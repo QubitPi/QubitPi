@@ -388,11 +388,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] AI - A practitioner&#39;s perspective &lpar;2 part talk&rpar; where I discuss the past, present and speculation about future of AI. Please share some thoughts &amp; feedback](https://www.reddit.com/r/MachineLearning/comments/zltenm/r_ai_a_practitioners_perspective_2_part_talk/)
 - [[P] Release of lightly 1.2.39 - A python library for self-supervised learning](https://www.reddit.com/r/MachineLearning/comments/zlsbdz/p_release_of_lightly_1239_a_python_library_for/)
 - [[R] Trying to recover recent paper about activity flow](https://www.reddit.com/r/MachineLearning/comments/zlrbhf/r_trying_to_recover_recent_paper_about_activity/)
 - [[R] Efficient Methods of One-Night Global Toy Delivery &lpar;Santa Clone Genetic Algorithm solution to the Traveling Salesman Problem&rpar;](https://www.reddit.com/r/MachineLearning/comments/zlqkxe/r_efficient_methods_of_onenight_global_toy/)
 - [[P] Implemented Vision Transformers 🚀 from scratch using TensorFlow 2.x](https://www.reddit.com/r/MachineLearning/comments/zloof9/p_implemented_vision_transformers_from_scratch/)
-- [[Research] Graph Embeddings for Graph shape?](https://www.reddit.com/r/MachineLearning/comments/zlmvcp/research_graph_embeddings_for_graph_shape/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
