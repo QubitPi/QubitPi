@@ -388,11 +388,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] PP-Matting: High-Accuracy Natural Image Matting](https://www.reddit.com/r/MachineLearning/comments/zllpus/r_ppmatting_highaccuracy_natural_image_matting/)
 - [[D] Best intro to ML resources?](https://www.reddit.com/r/MachineLearning/comments/zllh8z/d_best_intro_to_ml_resources/)
 - [[D] Looking for a lightweight, simple network that can ingest unorganized pointclouds and produce 6dof poses](https://www.reddit.com/r/MachineLearning/comments/zlj4if/d_looking_for_a_lightweight_simple_network_that/)
 - [[D] Models trained on academic papers?](https://www.reddit.com/r/MachineLearning/comments/zlhiog/d_models_trained_on_academic_papers/)
 - [[Project] NBA Clustering Project](https://www.reddit.com/r/MachineLearning/comments/zlfsc9/project_nba_clustering_project/)
-- [[N] Gymnasium 0.27 - the first new version since Gymnasium was announced - is now released. It has almost no breaking changes.](https://www.reddit.com/r/MachineLearning/comments/zlb319/n_gymnasium_027_the_first_new_version_since/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
