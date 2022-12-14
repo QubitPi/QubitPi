@@ -206,6 +206,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
+[![bad-interviewees-go-to-hell](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bad-interviewees-go-to-hell&show_owner=true&theme=vue)](https://github.com/QubitPi/bad-interviewees-go-to-hell)
 
 ### Contributor
 
