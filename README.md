@@ -598,11 +598,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Marketplace Series: Launching Neo4j EE from AWS](https://www.youtube.com/watch?v=afw-_OyQ9PU)
+- [Marketplace Series: Launching AuraDS from GCP](https://www.youtube.com/watch?v=6KiNlLi7oy0)
+- [054 Knowledge Graphs Powering Active Metadata - NODES2022 - Smita Padhy](https://www.youtube.com/watch?v=JribnCZ8r2A)
 - [051 Coffee Knowledge Graph - NODES2022 - Koji Annoura](https://www.youtube.com/watch?v=Rn_hj0oMGgE)
 - [052 Construction and Application of Knowledge Graphs Manufacturing Process for Box Part - NODES2022](https://www.youtube.com/watch?v=e8Q0OJmMogo)
-- [057 Generating a Hematopoietic Stem Cell Knowledge Graph for Scientific Knowledge Discov - NODES2022](https://www.youtube.com/watch?v=i829AD3_wFU)
-- [056 Better Testing With Testcontainers - NODES2022 - Gerrit Meier](https://www.youtube.com/watch?v=r8rvWrTfmE4)
-- [Advent of Code Special - Discover AuraDB](https://www.youtube.com/watch?v=LmIupHl_lws)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
