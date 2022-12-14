@@ -388,11 +388,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] I was just asked a question and have no idea about abbreviations used](https://www.reddit.com/r/MachineLearning/comments/zm432f/d_i_was_just_asked_a_question_and_have_no_idea/)
 - [[D] Understanding batch sizes are larger learning rates &lpar;Myrtle AI&rpar;](https://www.reddit.com/r/MachineLearning/comments/zm2p9g/d_understanding_batch_sizes_are_larger_learning/)
 - [[R] Talking About Large Language Models - Murray Shanahan 2022](https://www.reddit.com/r/MachineLearning/comments/zm22ff/r_talking_about_large_language_models_murray/)
 - [[Discussion]Using RL to create sensor networks](https://www.reddit.com/r/MachineLearning/comments/zlv8bo/discussionusing_rl_to_create_sensor_networks/)
 - [[P] Release of lightly 1.2.39 - A python library for self-supervised learning](https://www.reddit.com/r/MachineLearning/comments/zlsbdz/p_release_of_lightly_1239_a_python_library_for/)
+- [[R] Trying to recover recent paper about activity flow](https://www.reddit.com/r/MachineLearning/comments/zlrbhf/r_trying_to_recover_recent_paper_about_activity/)
 <!-- REDDIT-ML:END -->
 
 <img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
