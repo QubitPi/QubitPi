@@ -678,11 +678,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Unchain My Inaccessibly-Labelled Heart](https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/)
 - [Holiday Snowtacular 2022](https://css-tricks.com/holiday-snowtacular-2022/)
 - [A Few Times Container Size Queries Would Have Helped Me Out](https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/)
 - [Setting up a screen reader testing environment on your computer](https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/)
 - [Saving Settings for a Custom WordPress Block in the Block Editor](https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/)
-- [CSS Infinite Slider Flipping Through Polaroid Images](https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
