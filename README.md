@@ -494,11 +494,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1603413811268026368)
-- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1603388034820481025)
 - [🚀 A new year calls for a new Memgraph Platform - a combination of Memgraph graph database, graph visualization tool Memgraph Lab and graph algorith...](https://twitter.com/memgraphdb/status/1603383627336785921)
 - [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1603381960843427842)
 - [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1603372102102532097)
+- [🎓 We have created a brand new course to get you familiar with the graph world. The course is designed for Python developers who want to explore too...](https://twitter.com/memgraphdb/status/1603362740688621568)
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1603354344350519296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
