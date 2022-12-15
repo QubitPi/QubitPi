@@ -304,6 +304,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
 - [Create React App](https://qubitpi.github.io/create-react-app/)
+- [TypeScript](https://qubitpi.github.io/TypeScript-Website/)
 - [Git](https://qubitpi.github.io/progit2/)
   * [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
@@ -311,6 +312,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 
 [![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
+[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
 [![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
 
 [![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
