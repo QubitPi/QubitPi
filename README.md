@@ -153,13 +153,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
 
-#### [Keycloak](https://www.keycloak.org/)-Related Forks
-
-[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
-
-[![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
-[![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
-
 #### Documentation-Related Forks
 
 <img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
@@ -187,6 +180,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
+[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
+[![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
+[![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
 
 [![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
 
