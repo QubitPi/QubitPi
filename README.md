@@ -512,11 +512,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Full Stack GraphQL Book Club - Chapter 4: The Neo4j GraphQL Library @lyonwj](https://twitter.com/neo4j/status/1603430981217968128)
-- [#Neo4j5 introduces Autonomous Clustering, which makes it easier to run and administer fault-tolerant and highly available Neo4j clusters compared to i...](https://twitter.com/neo4j/status/1603419775299993600)
 - [This #NODES2022 session will demonstrate the integration of heterogenous chemical, biological, and clinical data in a biochemical knowledge graph. #ma...](https://twitter.com/neo4j/status/1603359250201411584)
 - [Investigate Family Connections Between House of the Dragon and Game of Thrones Characters 🐉 @tb_tomaz shows us how to interactively search and visu...](https://twitter.com/neo4j/status/1603057444418093058)
 - [RT Alexander Erdl: Had great fun with @mesirii this week to go over #NobelPrize API data on #neo4j AuraDB Watch now:](https://twitter.com/alexandererdl/status/1602975367014260736)
+- [RT Philipp Brunenberg: FastRP graph embeddings are implemented in the @neo4j GDS library. Have you ever wondered how they work? Let&#39;s explore by a sma...](https://twitter.com/p_brunenberg/status/1602973676810428416)
+- [RT CambridgeIntel: Missed #NODES2022 and not sure where to begin? The team at @Neo4j have curated a top-20 list, based on attendee feedback -delighted...](https://twitter.com/CambridgeIntel/status/1602955048241209345)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
