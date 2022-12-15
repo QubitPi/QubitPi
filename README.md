@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Taking DNA as input and a person&#39;s appearance as output](https://www.reddit.com/r/MachineLearning/comments/zmx5y2/d_taking_dna_as_input_and_a_persons_appearance_as/)
 - [[D] Waveform recognition question](https://www.reddit.com/r/MachineLearning/comments/zmwewb/d_waveform_recognition_question/)
 - [[D] Small scale grants for human-in-the-loop experiments?](https://www.reddit.com/r/MachineLearning/comments/zmvn46/d_small_scale_grants_for_humanintheloop/)
 - [Neural networks and machine learning for data science in business [D]](https://www.reddit.com/r/MachineLearning/comments/zmpzz2/neural_networks_and_machine_learning_for_data/)
 - [[D] What are the strongest plain baselines for Vision Transformers on ImageNet?](https://www.reddit.com/r/MachineLearning/comments/zmpdo0/d_what_are_the_strongest_plain_baselines_for/)
-- [[D] Trying to find paper about n-grams in early transformer layers](https://www.reddit.com/r/MachineLearning/comments/zmoxp7/d_trying_to_find_paper_about_ngrams_in_early/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
