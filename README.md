@@ -303,16 +303,20 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
+- [create-react-app](https://qubitpi.github.io/create-react-app/)
 - [Git](https://qubitpi.github.io/progit2/)
   * [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
+[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
+
+[![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
+[![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
+
+[![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
+
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
-[![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
-[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
-[![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
-[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
-
 
 My Tech Blogs
 -------------
