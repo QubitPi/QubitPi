@@ -144,7 +144,7 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
-<img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
@@ -188,7 +188,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
+<img align="right" width="50%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
 ### Recent Activities
 
