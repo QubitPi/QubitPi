@@ -408,11 +408,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Das Problem mit dem Produkt-Ziel und der Product Goal Canvas — Making Your Scrum Work &lpar;28&rpar; 🇩🇪](https://www.scrum.org/resources/blog/das-problem-mit-dem-produkt-ziel-und-der-product-goal-canvas-making-your-scrum-work)
 - [Make the most of Sprint Planning](https://www.scrum.org/resources/blog/make-most-sprint-planning)
 - [Your Unfit Product Goal and the Product Goal Canvas — Making Your Scrum Work &lpar;28&rpar;](https://www.scrum.org/resources/blog/your-unfit-product-goal-and-product-goal-canvas-making-your-scrum-work-28)
 - [Product Owner coping strategies](https://www.scrum.org/resources/blog/product-owner-coping-strategies)
 - [Facilitation and Conflict - Idea Evaluation](https://www.scrum.org/resources/blog/facilitation-and-conflict-idea-evaluation)
-- [Sind Sprint-burn-down-Charts, Schätzungen oder Task-Break-Downs von User Storys verpflichtend in Scrum?](https://www.scrum.org/resources/blog/sind-sprint-burn-down-charts-schatzungen-oder-task-break-downs-von-user-storys)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
