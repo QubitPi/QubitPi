@@ -144,9 +144,7 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
-<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
-    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
-</a>
+<img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
@@ -346,7 +344,9 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [[D] Tensorflow vs. PyTorch Memory Usage](https://www.reddit.com/r/MachineLearning/comments/zm6h07/d_tensorflow_vs_pytorch_memory_usage/)
 <!-- REDDIT-ML:END -->
 
-<img align="right" width="35%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
+<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
+    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
+</a>
 
 ### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
