@@ -494,11 +494,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1603498772411064321)
+- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1603487296459784192)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1603477896361828366)
 - [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1603461623015956480)
 - [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1603441511772962817)
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1603413811268026368)
-- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1603388034820481025)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
