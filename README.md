@@ -574,11 +574,11 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1603309827853369347)
+- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1603303097224368128)
+- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1603298672686632962)
+- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1603284228724113408)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1603160254325342212)
-- [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1603122509557436418)
-- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1603102495823249410)
-- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1603084238290665475)
-- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1603060571125039105)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
