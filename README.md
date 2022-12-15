@@ -118,9 +118,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
-[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
 [![bad-interviewees-go-to-hell](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bad-interviewees-go-to-hell&show_owner=true&theme=vue)](https://github.com/QubitPi/bad-interviewees-go-to-hell)
 
 ### Contributor
@@ -188,6 +186,11 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
+
+### Archived Projects
+
+[![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
+[![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
 
 ---
 
