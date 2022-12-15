@@ -494,11 +494,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1603341905546416128)
+- [🚀 Run Link Prediction or Node Classification Algorithms and Write Custom Procedures in C++ With Mage 1.4 #memgraph #graphdatabase #memgraphdb #data...](https://twitter.com/memgraphdb/status/1603338078407606272)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1603309827853369347)
 - [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1603303097224368128)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1603298672686632962)
-- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1603284228724113408)
-- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1603160254325342212)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
