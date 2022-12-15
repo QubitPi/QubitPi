@@ -70,13 +70,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 <p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">海螺张</a></p> 
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width="40%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
-</a>
-<p align="right">Attribution - Bilibili <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">夜猫社的樱花庄</a></p> 
-</div>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 
@@ -84,6 +77,10 @@ My Open Source Projects
 -----------------------
 
 [ ![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white) ](https://trello.com/b/H6whJsET)[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![Observable ](https://img.shields.io/badge/Observable-1C1C1C?style=for-the-badge&logo=Observable&logoColor=white) ](https://observablehq.com/@jack20220723)[ ![CHEF](https://img.shields.io/badge/CHEF-F09820?style=for-the-badge&logo=Chef&logoColor=white) ](https://supermarket.chef.io/users/jack20191124)[ ![iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white) ](https://superuser.com/a/1117867/1713678)[ ![Eclipse](https://img.shields.io/badge/Frontend%20dev-F7941E?style=for-the-badge&logo=eclipseide&logoColor=white) ](https://www.eclipse.org/)[ ![IntelliJ](https://img.shields.io/badge/Backend%20dev-177DFE?style=for-the-badge&logo=intellijidea&logoColor=white) ](https://www.jetbrains.com/idea/)[ ![PyCharm](https://img.shields.io/badge/Backend%20dev-20D497?style=for-the-badge&logo=pycharm&logoColor=white) ](https://www.jetbrains.com/pycharm/)
+
+<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
+    <img align="left" width="30%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
+</a>
 
 I belive in creating software using the open source way, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. This philosophy affects everything my group do in Tech Industry as most of today’s IT leaders, who agree that enterprise open source is important, do
 
