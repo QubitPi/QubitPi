@@ -279,11 +279,6 @@ By tapping into the collective talent and innovation of open source communities,
 - [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
 <!-- KEYCLOAK-BLOG:END -->
 
-#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
-
-- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/)
-- [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
-
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
@@ -296,7 +291,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Documentation-Related Forks
 
-<img width="15%" align="left" src="https://user-images.githubusercontent.com/16126939/206631498-e769d729-edbe-4165-932f-38a0755e161a.png">
+<img width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
 I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
@@ -314,6 +309,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
 [![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
 [![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
+
+- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/)
+- [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
 [![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
 
