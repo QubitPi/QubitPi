@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Neural networks and machine learning for data science in business [D]](https://www.reddit.com/r/MachineLearning/comments/zmpzz2/neural_networks_and_machine_learning_for_data/)
 - [[D] What are the strongest plain baselines for Vision Transformers on ImageNet?](https://www.reddit.com/r/MachineLearning/comments/zmpdo0/d_what_are_the_strongest_plain_baselines_for/)
 - [[D] Trying to find paper about n-grams in early transformer layers](https://www.reddit.com/r/MachineLearning/comments/zmoxp7/d_trying_to_find_paper_about_ngrams_in_early/)
 - [[D] Search Documents Quickly with Extractive Question Answering and Sparse Transformers](https://www.reddit.com/r/MachineLearning/comments/zmnsqk/d_search_documents_quickly_with_extractive/)
 - [[P] Image search with localization and open-vocabulary reranking.](https://www.reddit.com/r/MachineLearning/comments/zmigt1/p_image_search_with_localization_and/)
-- [[D] Can we use decoders on pretrained embeddings to qualitatively assess what information the embedding contains?](https://www.reddit.com/r/MachineLearning/comments/zmiezf/d_can_we_use_decoders_on_pretrained_embeddings_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
