@@ -522,11 +522,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Launching AuraDS from GCP Marketplace](https://www.youtube.com/watch?v=27PMDtlSP4w)
-- [Marketplace Series: Launching Neo4j EE from AWS](https://www.youtube.com/watch?v=s_M7xLuJAX8)
-- [054 Knowledge Graphs Powering Active Metadata - NODES2022 - Smita Padhy](https://www.youtube.com/watch?v=JribnCZ8r2A)
-- [051 Coffee Knowledge Graph - NODES2022 - Koji Annoura](https://www.youtube.com/watch?v=Rn_hj0oMGgE)
-- [052 Construction and Application of Knowledge Graphs Manufacturing Process for Box Part - NODES2022](https://www.youtube.com/watch?v=e8Q0OJmMogo)
+- [064 A Space to Relax Guided Meditation &lpar;APAC&rpar; - NODES2022 - Anton Persson](https://www.youtube.com/watch?v=-j9dYFifQe0)
+- [068 BlueHound Community-Driven Security Based on Neo4j and NeoDash - NODES202 - Dekel Paz](https://www.youtube.com/watch?v=76MWt8uugAg)
+- [069 Fundamentals of Neo4j Graph Data Science Series 2.x – Pipelines and More - NODES2022](https://www.youtube.com/watch?v=7hx56qtf80Q)
+- [068 BlueHound Community-Driven Security Based on Neo4j and NeoDash - NODES2022 - Dekel Paz](https://www.youtube.com/watch?v=IMeZ66ZI_kM)
+- [065 Explore Your Graphs Visually With Jupyter Notebooks - NODES2022 - Sebastian Müller](https://www.youtube.com/watch?v=M_PbbMVg4ME)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
