@@ -199,19 +199,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://letsencrypt.org/feed.xml"
 
-  keycloak-blog:
-    name: Keycloak Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Keycloak Blog"
-          comment_tag_name: "KEYCLOAK-BLOG"
-          max_post_count: "5"
-          feed_list: "https://www.keycloak.org/rss.xml"
   openid-connect-blog:
     name: OpenID Connect Blog
     runs-on: ubuntu-latest
