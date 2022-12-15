@@ -268,16 +268,6 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- <img width="33%" align="right" src="https://user-images.githubusercontent.com/16126939/206631917-f59a4925-6fb4-4434-8577-0af94372ae74.png">
  -->
- 
-<h4><a href="https://www.keycloak.org/"><img width="30%" src="./img/keycloak.png"></a></h4>
-
-<!-- KEYCLOAK-BLOG:START -->
-- [Keycloak 20.0.2 released](https://www.keycloak.org/2022/12/keycloak-2002-released)
-- [FIPS 140-2 experimental support](https://www.keycloak.org/2022/11/fips)
-- [Keycloak 20.0.1 released](https://www.keycloak.org/2022/11/keycloak-2001-released)
-- [Keycloak 20.0.0 released](https://www.keycloak.org/2022/11/keycloak-2000-released)
-- [Keycloak 19.0.3 released](https://www.keycloak.org/2022/10/keycloak-1903-released)
-<!-- KEYCLOAK-BLOG:END -->
 
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
@@ -291,7 +281,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 #### Documentation-Related Forks
 
-<img width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
+<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
 I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
