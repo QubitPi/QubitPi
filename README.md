@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Image search with localization and open-vocabulary reranking.](https://www.reddit.com/r/MachineLearning/comments/zmigt1/p_image_search_with_localization_and/)
 - [[D] Can we use decoders on pretrained embeddings to qualitatively assess what information the embedding contains?](https://www.reddit.com/r/MachineLearning/comments/zmiezf/d_can_we_use_decoders_on_pretrained_embeddings_to/)
 - [Using multiple ocr for better recognition [D]](https://www.reddit.com/r/MachineLearning/comments/zme4r0/using_multiple_ocr_for_better_recognition_d/)
 - [[D] Is &quot;natural&quot; text always maximally likely according to language models ?](https://www.reddit.com/r/MachineLearning/comments/zmd6l8/d_is_natural_text_always_maximally_likely/)
 - [[D] Dealing with extremely imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/zmaobm/d_dealing_with_extremely_imbalanced_dataset/)
-- [[P] A CUDA-free instant NGP renderer: Support real-time rendering and camera interaction and consume less than 1GB of VRAM.](https://www.reddit.com/r/MachineLearning/comments/zm8ohb/p_a_cudafree_instant_ngp_renderer_support/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
