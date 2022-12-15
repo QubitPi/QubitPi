@@ -266,19 +266,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
 [![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
 
-<!-- <img width="33%" align="right" src="https://user-images.githubusercontent.com/16126939/206631917-f59a4925-6fb4-4434-8577-0af94372ae74.png">
- -->
-
-<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
-
-<!-- OPENID-CONNECT-BLOG:START -->
-- [Initiating User Registration via OpenID Connect is now a Final Specification](https://openid.net/2022/12/02/initiating-user-registration-via-openid-connect-is-now-a-final-specification/)
-- [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
-- [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
-- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
-- [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
-<!-- OPENID-CONNECT-BLOG:END -->
-
 #### Documentation-Related Forks
 
 <img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
@@ -508,6 +495,16 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 - [Nurturing Continued Growth of Our Oak CT Log](https://letsencrypt.org/2022/05/19/nurturing-ct-log-growth.html)
 - [TLS Beyond the Web: How MongoDB Uses Let’s Encrypt for Database-to-Application Security](https://letsencrypt.org/2022/04/28/database-to-app-tls.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
+
+<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
+
+<!-- OPENID-CONNECT-BLOG:START -->
+- [Initiating User Registration via OpenID Connect is now a Final Specification](https://openid.net/2022/12/02/initiating-user-registration-via-openid-connect-is-now-a-final-specification/)
+- [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
+- [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
+- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
+- [JWT Secured Authorization Response Mode for OAuth 2.0 &lpar;JARM&rpar; is now a Final Specification](https://openid.net/2022/11/09/jwt-secured-authorization-response-mode-for-oauth-2-0-jarm-is-now-a-final-specification/)
+<!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
 
