@@ -144,6 +144,10 @@ I used to extensively study technologies by [blogging](https://qubitpi.github.io
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
+<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
+    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
+</a>
+
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
 - [Create React App](https://qubitpi.github.io/create-react-app/)
@@ -279,10 +283,6 @@ If there's a theme that runs through my work and writing on **pure** tech area, 
 * [Software Infrustructure](https://qubitpi.github.io/jersey-guide/finalized/2022/11/02/infrastructure-as-code.html)
 
 ### Tech Management Topics
-
-<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
-    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
-</a>
 
 <!-- MGMT-BLOG-POST-LIST:START -->
 - [&lpar;WIP&rpar; Learning from Atlassian’s Team Playbook](https://qubitpi.github.io/jersey-guide/management/2022/09/21/learning-from-atlassian-team-playbook.html)
