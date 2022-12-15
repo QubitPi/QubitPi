@@ -59,91 +59,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 </div>
 
----
-
-My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
------------
-
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
-
-### Recent Activities
-
-<!-- BILIBILI-RECENT-ACTIVITIES:START -->
-- [可莉邀请你加入派昂科技](https://t.bilibili.com/729424286142431266)
-- [【原 Log】深境螺旋 11 月下半期第 11 层](https://t.bilibili.com/729348561582424083)
-- [【原Log】深境螺旋十一月下第十层](https://t.bilibili.com/728974731917656064)
-- [我解锁了【一骑绝尘】成就，快来看看我的本周创作表现吧～](https://t.bilibili.com/717921337233899542)
-- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://t.bilibili.com/717694640269033492)
-<!-- BILIBILI-RECENT-ACTIVITIES:END -->
-
-### Recent Uploads
-
-<!-- BILIBILI-UPLOAD-LIST:START -->
-- [可莉邀请你加入派昂科技](https://www.bilibili.com/video/BV1kR4y1Z7T8)
-- [【原 Log】深境螺旋 11 月下半期第 11 层](https://www.bilibili.com/video/BV17P4y117DY)
-- [【原Log】深境螺旋十一月下第十层](https://www.bilibili.com/video/BV11P411g74L)
-<!-- BILIBILI-UPLOAD-LIST:END -->
-
-### Columns
-
-<!-- BILIBILI-COLUMNS:START -->
-- [孤云阁 F4 初级打法](https://www.bilibili.com/read/cv18323080)
-<!-- BILIBILI-COLUMNS:END -->
-
-### Recently Liked-Saved-Tipped (一键三连) Videos
-
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
-
-<!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV1gR4y1J7aP><img src=http://i1.hdslb.com/bfs/archive/9bd2877ae50f90558e36ce0a843ae6fe2d442573.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1gR4y1J7aP>可莉只是在盘炸弹</a><br><a href=https://www.bilibili.com/video/BV1Ze411N7Nq><img src=http://i1.hdslb.com/bfs/archive/7ddcf40d60d07dfe87b0293189de8cc73137a140.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Ze411N7Nq>【原神】当纳西妲偷拍雷电将军</a><br><a href=https://www.bilibili.com/video/BV1H84y1r76H><img src=http://i1.hdslb.com/bfs/archive/f985e22e9c2fe64106ff5da81e2453de1ead475f.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1H84y1r76H>【原神】散兵，给👴抓只雷神回来 [千倾剧场]</a><br><a href=https://www.bilibili.com/video/BV1bR4y1C7RH><img src=http://i0.hdslb.com/bfs/archive/fc0b82e6fce8c465135c028994c44e602a0c1e88.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1bR4y1C7RH>【原神动画】纳西妲不想被雨淋</a><br><a href=https://www.bilibili.com/video/BV1og411J79x><img src=http://i0.hdslb.com/bfs/archive/3e0eb3071022baa027d7e75b1f47c0dab1164962.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1og411J79x>影：我儿子在须弥一定很乖吧！！〖白白剧场〗</a><br><!-- BILIBILI-TIPPED-VIDEOS:END -->
-
----
-
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187879546-c846a0f4-c65d-4cf9-bead-570cb2a60d72.gif">
-
-### Latest Genshin Impact News
-
-#### Official
-
-<!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
-- [《原神》3.2版本「虚空鼓动，劫火高扬」内容专题页上线](https://ys.mihoyo.com/main/news/detail/24419)
-- [「知识，与你分享。」——「白草净华」·纳西妲](https://ys.mihoyo.com/main/news/detail/24418)
-- [白草净华，幽宫启蛰](https://ys.mihoyo.com/main/news/detail/22728)
-- [《原神》纳西妲角色PV——「生日快乐」](https://ys.mihoyo.com/main/news/detail/24417)
-- [「B站1400W粉丝数达成！」](https://ys.mihoyo.com/main/news/detail/24425)
-<!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
-
-#### Bilibili
-
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/739365645081116677><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1001658ac5649c572338dab4175ae0fb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
-
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# 旅行者们好呀，「秋津森夜试胆会」活动即将开启！让我们来了解一下活动玩法吧~](https://t.bilibili.com/739365645081116677)
-- [恭喜@_栋_@忆深南巷@嶽咣下的影子等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738691434005135456)
-- [恭喜@_掌中萌虎_@归槐@宁睡了没等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738677264922705956)
-- [恭喜@无雪之峰@jshons@大床配大娘等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738677264916414484)
-- [#原神# #秋津森夜试胆会# 亲爱的旅行者，「秋津森夜试胆会」活动即将开启~ 〓活动时间〓 玩法开启时间： 2022/12/15 10:00 ~ 2023/01/02 03:59 活动商店开启时间...](https://t.bilibili.com/738645044071759877)
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
-
-### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
-
-<!-- YOUTUBE-CHANNEL:START -->
-- [[GLog] Spiral Abyss Floor 11, Late Nov. Period](https://www.youtube.com/watch?v=gLLEZIbGrPE)
-- [[GLog] Spiral Abyss Floor 10, Late Nov. Period](https://www.youtube.com/watch?v=yFTagA9Ahj4)
-- [[GLog] Spiral Abyss Early Nov. Period](https://www.youtube.com/watch?v=q73HV21FNrI)
-- [Commemorate My First All-Pass Spiral Abyss Period!](https://www.youtube.com/watch?v=w0YeFg6-uxc)
-- [[Sangonomiya Kokomi Story Quest] Warriors&#39; Dreams Like Spring Grass Renewing](https://www.youtube.com/watch?v=7LF81N_bBd0)
-<!-- YOUTUBE-CHANNEL:END -->
-
-<a href="https://www.bilibili.com/video/BV17D4y1t74j/"><img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png"></a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together**.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
----
-
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
 >    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
 ></a>
@@ -277,6 +192,91 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
+
+---
+
+My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
+-----------
+
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
+
+### Recent Activities
+
+<!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [可莉邀请你加入派昂科技](https://t.bilibili.com/729424286142431266)
+- [【原 Log】深境螺旋 11 月下半期第 11 层](https://t.bilibili.com/729348561582424083)
+- [【原Log】深境螺旋十一月下第十层](https://t.bilibili.com/728974731917656064)
+- [我解锁了【一骑绝尘】成就，快来看看我的本周创作表现吧～](https://t.bilibili.com/717921337233899542)
+- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://t.bilibili.com/717694640269033492)
+<!-- BILIBILI-RECENT-ACTIVITIES:END -->
+
+### Recent Uploads
+
+<!-- BILIBILI-UPLOAD-LIST:START -->
+- [可莉邀请你加入派昂科技](https://www.bilibili.com/video/BV1kR4y1Z7T8)
+- [【原 Log】深境螺旋 11 月下半期第 11 层](https://www.bilibili.com/video/BV17P4y117DY)
+- [【原Log】深境螺旋十一月下第十层](https://www.bilibili.com/video/BV11P411g74L)
+<!-- BILIBILI-UPLOAD-LIST:END -->
+
+### Columns
+
+<!-- BILIBILI-COLUMNS:START -->
+- [孤云阁 F4 初级打法](https://www.bilibili.com/read/cv18323080)
+<!-- BILIBILI-COLUMNS:END -->
+
+### Recently Liked-Saved-Tipped (一键三连) Videos
+
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
+
+<!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV1gR4y1J7aP><img src=http://i1.hdslb.com/bfs/archive/9bd2877ae50f90558e36ce0a843ae6fe2d442573.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1gR4y1J7aP>可莉只是在盘炸弹</a><br><a href=https://www.bilibili.com/video/BV1Ze411N7Nq><img src=http://i1.hdslb.com/bfs/archive/7ddcf40d60d07dfe87b0293189de8cc73137a140.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Ze411N7Nq>【原神】当纳西妲偷拍雷电将军</a><br><a href=https://www.bilibili.com/video/BV1H84y1r76H><img src=http://i1.hdslb.com/bfs/archive/f985e22e9c2fe64106ff5da81e2453de1ead475f.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1H84y1r76H>【原神】散兵，给👴抓只雷神回来 [千倾剧场]</a><br><a href=https://www.bilibili.com/video/BV1bR4y1C7RH><img src=http://i0.hdslb.com/bfs/archive/fc0b82e6fce8c465135c028994c44e602a0c1e88.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1bR4y1C7RH>【原神动画】纳西妲不想被雨淋</a><br><a href=https://www.bilibili.com/video/BV1og411J79x><img src=http://i0.hdslb.com/bfs/archive/3e0eb3071022baa027d7e75b1f47c0dab1164962.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1og411J79x>影：我儿子在须弥一定很乖吧！！〖白白剧场〗</a><br><!-- BILIBILI-TIPPED-VIDEOS:END -->
+
+---
+
+<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187879546-c846a0f4-c65d-4cf9-bead-570cb2a60d72.gif">
+
+### Latest Genshin Impact News
+
+#### Official
+
+<!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
+- [《原神》3.2版本「虚空鼓动，劫火高扬」内容专题页上线](https://ys.mihoyo.com/main/news/detail/24419)
+- [「知识，与你分享。」——「白草净华」·纳西妲](https://ys.mihoyo.com/main/news/detail/24418)
+- [白草净华，幽宫启蛰](https://ys.mihoyo.com/main/news/detail/22728)
+- [《原神》纳西妲角色PV——「生日快乐」](https://ys.mihoyo.com/main/news/detail/24417)
+- [「B站1400W粉丝数达成！」](https://ys.mihoyo.com/main/news/detail/24425)
+<!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
+
+#### Bilibili
+
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/739365645081116677><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1001658ac5649c572338dab4175ae0fb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# 旅行者们好呀，「秋津森夜试胆会」活动即将开启！让我们来了解一下活动玩法吧~](https://t.bilibili.com/739365645081116677)
+- [恭喜@_栋_@忆深南巷@嶽咣下的影子等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738691434005135456)
+- [恭喜@_掌中萌虎_@归槐@宁睡了没等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738677264922705956)
+- [恭喜@无雪之峰@jshons@大床配大娘等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/738677264916414484)
+- [#原神# #秋津森夜试胆会# 亲爱的旅行者，「秋津森夜试胆会」活动即将开启~ 〓活动时间〓 玩法开启时间： 2022/12/15 10:00 ~ 2023/01/02 03:59 活动商店开启时间...](https://t.bilibili.com/738645044071759877)
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
+
+### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
+
+<!-- YOUTUBE-CHANNEL:START -->
+- [[GLog] Spiral Abyss Floor 11, Late Nov. Period](https://www.youtube.com/watch?v=gLLEZIbGrPE)
+- [[GLog] Spiral Abyss Floor 10, Late Nov. Period](https://www.youtube.com/watch?v=yFTagA9Ahj4)
+- [[GLog] Spiral Abyss Early Nov. Period](https://www.youtube.com/watch?v=q73HV21FNrI)
+- [Commemorate My First All-Pass Spiral Abyss Period!](https://www.youtube.com/watch?v=w0YeFg6-uxc)
+- [[Sangonomiya Kokomi Story Quest] Warriors&#39; Dreams Like Spring Grass Renewing](https://www.youtube.com/watch?v=7LF81N_bBd0)
+<!-- YOUTUBE-CHANNEL:END -->
+
+<a href="https://www.bilibili.com/video/BV17D4y1t74j/"><img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png"></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together**.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
 
 My Tech Blogs
 -------------
