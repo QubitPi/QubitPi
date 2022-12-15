@@ -494,11 +494,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1603341905546416128)
-- [🚀 Run Link Prediction or Node Classification Algorithms and Write Custom Procedures in C++ With Mage 1.4 #memgraph #graphdatabase #memgraphdb #data...](https://twitter.com/memgraphdb/status/1603338078407606272)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1603309827853369347)
-- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1603303097224368128)
-- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1603298672686632962)
+- [🚀 A new year calls for a new Memgraph Platform - a combination of Memgraph graph database, graph visualization tool Memgraph Lab and graph algorith...](https://twitter.com/memgraphdb/status/1603383627336785921)
+- [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1603381960843427842)
+- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1603372102102532097)
+- [🎓 We have created a brand new course to get you familiar with the graph world. The course is designed for Python developers who want to explore too...](https://twitter.com/memgraphdb/status/1603362740688621568)
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1603354344350519296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
