@@ -133,6 +133,8 @@ By tapping into the collective talent and innovation of open source communities,
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)<img width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
 
 <img src="https://user-images.githubusercontent.com/16126939/202896434-d77b45be-6aa8-432c-a79c-c577e962578f.png" alt="可莉" width="15%">
+    
+    
 [![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
 
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
@@ -144,7 +146,6 @@ By tapping into the collective talent and innovation of open source communities,
 I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
 Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
-
 
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
