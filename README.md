@@ -171,6 +171,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
+> The forked repos that genereate all of the "documentation/study notes" above are listed at the end of the page
+
 ### Archived Projects
 
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
@@ -667,6 +669,10 @@ Git Data Analytics - Everything is Datable
     <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185776359-1a392d62-5117-4980-b5a4-19f536a43c3f.png">
 </a>
 </div>
+
+
+Comprehensive Documentation-Related Forks
+-----------------------------------------
 
 [![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
