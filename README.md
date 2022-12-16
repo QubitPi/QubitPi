@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1603719472191340546)
-- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1603708825319739392)
-- [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1603707763661705216)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1603700554722590721)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1603693720322428929)
+- [🎓 Learn how to load data, training and plot to find out who did it! It’s elementary, my dear reader. #memgraph #graphdatabase #memgraphdb #databas...](https://twitter.com/memgraphdb/status/1603674793403977731)
+- [Check out our blog post 📰 Introduction to Node Embedding ➡️](https://twitter.com/memgraphdb/status/1603659633062580225)
+- [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? #memgraph #g...](https://twitter.com/memgraphdb/status/1603650382659452928)
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1603498772411064321)
+- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1603487296459784192)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
