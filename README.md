@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1603748830050230277)
+- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1603735941616750598)
 - [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1603719472191340546)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1603708825319739392)
 - [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1603707763661705216)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1603700554722590721)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1603693720322428929)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
