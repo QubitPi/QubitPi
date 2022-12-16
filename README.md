@@ -160,8 +160,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 - [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/)
 - [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
-- [Git](https://qubitpi.github.io/progit2/)
-  * [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
+- [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
 [![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
 [![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
