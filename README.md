@@ -591,11 +591,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [CSS Infinite 3D Sliders](https://css-tricks.com/css-infinite-3d-sliders/)
 - [So, you’d like to animate the display property](https://css-tricks.com/so-youd-like-to-animate-the-display-property/)
 - [Some Links on AI-Related Stuff](https://css-tricks.com/some-links-on-ai-related-stuff/)
 - [Unchain My Inaccessibly-Labelled Heart](https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/)
 - [Holiday Snowtacular 2022](https://css-tricks.com/holiday-snowtacular-2022/)
-- [A Few Times Container Size Queries Would Have Helped Me Out](https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
