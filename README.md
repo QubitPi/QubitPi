@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Alexander Erdl: On more show next week! An #AdventOfCode2022 special with @halftep on our Monday #neo4j Aura slot! See how it can be done with Cyph...](https://twitter.com/alexandererdl/status/1603678065049030661)
-- [The easiest way to get started with #Neo4j on @Amazon Web Services &lpar;AWS&rpar; Lee shows how to deploy Neo4j Enterprise Edition from the AWS Marketplace. #A...](https://twitter.com/neo4j/status/1603676332415930369)
 - [Learn How @Neanex Uses Neo4j Digital Twin for the Construction Industry. #Neo4j #digitaltwin #constructionindustry](https://twitter.com/neo4j/status/1603480087088750604)
 - [RT Jennifer Reif: After months of waiting, my blog post is finally live on AWS! 🥳👩‍💻 #hardworkpaysoff #aws #neo4j #Cloud](https://twitter.com/JMHReif/status/1603433492469235713)
 - [Full Stack GraphQL Book Club - Chapter 4: The Neo4j GraphQL Library @lyonwj](https://twitter.com/neo4j/status/1603430981217968128)
+- [#Neo4j5 introduces Autonomous Clustering, which makes it easier to run and administer fault-tolerant and highly available Neo4j clusters compared to i...](https://twitter.com/neo4j/status/1603419775299993600)
+- [This #NODES2022 session will demonstrate the integration of heterogenous chemical, biological, and clinical data in a biochemical knowledge graph. #ma...](https://twitter.com/neo4j/status/1603359250201411584)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
