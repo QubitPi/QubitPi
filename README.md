@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #graphdatabase #memgraphdb ...](https://twitter.com/memgraphdb/status/1603866142677819394)
 - [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1603836197398249473)
 - [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1603824808424243224)
 - [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1603820444762644482)
 - [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1603806199283171355)
+- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. #memgraph #gra...](https://twitter.com/memgraphdb/status/1603796347907444736)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
