@@ -171,7 +171,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
-> The forked repos that genereate all of the "documentation/study notes" above are listed at the end of the page
+> The forked repos that genereate all of the "documentation/study notes" above are listed [at the end of this page](https://github.com/QubitPi#comprehensive-documentation-related-forks)
 
 ### Archived Projects
 
