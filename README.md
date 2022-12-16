@@ -152,12 +152,20 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
+#### Data/Knowledge Graph
+
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
 
-- [OpenStack Swift](https://qubitpi.github.io/swift/)
+#### OpenStack
+
+- [Swift](https://qubitpi.github.io/swift/)
+
+#### Frontend Technologies
 
 - [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/)
+
+#### Backend Dev
 
 - [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
