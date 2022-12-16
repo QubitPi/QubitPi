@@ -154,11 +154,10 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
-- [Create React App](https://qubitpi.github.io/create-react-app/)
-- [TypeScript](https://qubitpi.github.io/TypeScript-Website/)
 
-- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/)
-- [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
+- [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/)
+
+- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
 - [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
