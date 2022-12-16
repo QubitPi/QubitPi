@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Medical question-answering without hallucinating](https://www.reddit.com/r/MachineLearning/comments/zn0juq/p_medical_questionanswering_without_hallucinating/)
 - [[R] Any Benchmarks of RTX 3090 vs RTX 3090 Ti for NLP, Computer Vision, Deep Learning](https://www.reddit.com/r/MachineLearning/comments/zmzofp/r_any_benchmarks_of_rtx_3090_vs_rtx_3090_ti_for/)
 - [[D] Taking DNA as input and a person&#39;s appearance as output](https://www.reddit.com/r/MachineLearning/comments/zmx5y2/d_taking_dna_as_input_and_a_persons_appearance_as/)
 - [[D] Waveform recognition question](https://www.reddit.com/r/MachineLearning/comments/zmwewb/d_waveform_recognition_question/)
 - [[D] Small scale grants for human-in-the-loop experiments?](https://www.reddit.com/r/MachineLearning/comments/zmvn46/d_small_scale_grants_for_humanintheloop/)
-- [Neural networks and machine learning for data science in business [D]](https://www.reddit.com/r/MachineLearning/comments/zmpzz2/neural_networks_and_machine_learning_for_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
