@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [The graph database world is the place to be. Take a peek at this brief article on what is a graph database, how a graph database work, and the reasons...](https://twitter.com/arangodb/status/1603857525945810945)
 - [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1603721631729434625)
 - [We are #hiring! Join Team Avocado as our next Frontend Engineer. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1603495123161063424)
 - [Did you make it to our Challenges of a Cloud Native Database webinar with CTO @joerg_schad? ☁ 🥑 Registered to view this on-demand today. 👇](https://twitter.com/arangodb/status/1603359243645734914)
 - [Take 10 minutes and learn more about Personal Knowledge Graphs &lpar;PKGs&rpar;. 😎 After a brief overview, learn how PKGs impact your overall corporate knowl...](https://twitter.com/arangodb/status/1603132734050029568)
+- [Did you hear the news? ArangoDB University is here! 👀🔥 Sign up for our brand new training center, including an updated version of our popular gr...](https://twitter.com/arangodb/status/1602996871672250368)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
