@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Can You Generate Realistic Data With GPT-3?](https://www.reddit.com/r/MachineLearning/comments/znkgv8/d_can_you_generate_realistic_data_with_gpt3/)
+- [[P] Possible NLP approaches to extract &#39;goals&#39; from text](https://www.reddit.com/r/MachineLearning/comments/znkeh2/p_possible_nlp_approaches_to_extract_goals_from/)
 - [[D] What kind of effects ChatGPT or future developments may have on job market?](https://www.reddit.com/r/MachineLearning/comments/znk7bz/d_what_kind_of_effects_chatgpt_or_future/)
 - [[P] XetHub: We scaled Git to support 1 TB repos](https://www.reddit.com/r/MachineLearning/comments/znfgap/p_xethub_we_scaled_git_to_support_1_tb_repos/)
 - [[D] ML in online Retail &amp; FMCGs &lpar;CPG&rpar;](https://www.reddit.com/r/MachineLearning/comments/zndavx/d_ml_in_online_retail_fmcgs_cpg/)
-- [[P] PyCM 3.7 released: ROC curve and Precision-Recall curve are added](https://www.reddit.com/r/MachineLearning/comments/znaz08/p_pycm_37_released_roc_curve_and_precisionrecall/)
-- [[R] Ideas to combine multiple time series datasets into a single trainable dataset?](https://www.reddit.com/r/MachineLearning/comments/zn9z9s/r_ideas_to_combine_multiple_time_series_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
