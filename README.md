@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1603806199283171355)
-- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. #memgraph #gra...](https://twitter.com/memgraphdb/status/1603796347907444736)
-- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1603788057454452737)
 - [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1603773698456141827)
 - [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1603752809907863553)
+- [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1603748830050230277)
+- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1603735941616750598)
+- [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1603719472191340546)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
