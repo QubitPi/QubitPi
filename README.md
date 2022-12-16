@@ -511,11 +511,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Full Stack GraphQL Book Club - Chapter 4: The Neo4j GraphQL Library](https://www.youtube.com/watch?v=jilGjRLuKYE)
-- [064 A Space to Relax Guided Meditation &lpar;APAC&rpar; - NODES2022 - Anton Persson](https://www.youtube.com/watch?v=-j9dYFifQe0)
-- [068 BlueHound Community-Driven Security Based on Neo4j and NeoDash - NODES202 - Dekel Paz](https://www.youtube.com/watch?v=76MWt8uugAg)
-- [069 Fundamentals of Neo4j Graph Data Science Series 2.x – Pipelines and More - NODES2022](https://www.youtube.com/watch?v=7hx56qtf80Q)
-- [068 BlueHound Community-Driven Security Based on Neo4j and NeoDash - NODES2022 - Dekel Paz](https://www.youtube.com/watch?v=IMeZ66ZI_kM)
+- [071 Closing Q&amp;A With Emil and Andreas APAC - NODES2022 - Emil Eifrem, Andreas Kollegger](https://www.youtube.com/watch?v=3yAwtiQWV78)
+- [074 Building Java Applications With Quarkus and Neo4j - NODES2022 - Sebastian Daschner](https://www.youtube.com/watch?v=EfD2qa16bHM)
+- [072 Welcome to NODES 2022 – EMEA - NODES2022 - Michael Hunger](https://www.youtube.com/watch?v=Qlw2vgKCdWg)
+- [075 XRP Ledger Blockchain ETL With Neo4j - NODES2022 - Thomas Silkjaer](https://www.youtube.com/watch?v=RvlYf8bFNXY)
+- [076 Index Changes in Neo4j 5 - NODES2022 - Anton Persson](https://www.youtube.com/watch?v=ZzumgpW9OtY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
