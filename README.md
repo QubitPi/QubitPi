@@ -155,6 +155,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
 
+- [OpenStack Swift](https://qubitpi.github.io/swift/)
+
 - [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/)
 
 - [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
@@ -166,6 +168,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
+
+[![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)
 
 [![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
 [![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
