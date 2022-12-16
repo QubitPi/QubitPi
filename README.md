@@ -242,7 +242,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/739365645081116677><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1001658ac5649c572338dab4175ae0fb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/740132344023744561><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1cac8dc8644c50a50819c7fbef74e99e1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 旅行者们好呀，「秋津森夜试胆会」活动即将开启！让我们来了解一下活动玩法吧~](https://t.bilibili.com/739365645081116677)
