@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1604186368174968834)
+- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1604155965670031362)
 - [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1604146923052863488)
 - [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1604146749668438017)
 - [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1604140841462702082)
-- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. #memgraph #graphdatabase #memgr...](https://twitter.com/memgraphdb/status/1604136083179966464)
-- [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. #memgraph #graphdatabase #memgraphdb #databas...](https://twitter.com/memgraphdb/status/1604126270505246721)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
