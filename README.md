@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [ML model integration to Android Application [P]](https://www.reddit.com/r/MachineLearning/comments/zo9f7c/ml_model_integration_to_android_application_p/)
 - [[D] AI Isn’t Artificial or Intelligent](https://www.reddit.com/r/MachineLearning/comments/zo7x3x/d_ai_isnt_artificial_or_intelligent/)
 - [[D] Advances in World Models](https://www.reddit.com/r/MachineLearning/comments/zo7obq/d_advances_in_world_models/)
 - [[N] Google Unveils a New Machine Learning Add-on for Google Sheets, Called Simple ML for Sheets, Which Allows Users to Leverage the Power of Machine Learning Without Any Coding Experience](https://www.reddit.com/r/MachineLearning/comments/zo7byv/n_google_unveils_a_new_machine_learning_addon_for/)
 - [[P] I implemented an end-to-end MLOps stack example. Tutorial, files, and workspace included.](https://www.reddit.com/r/MachineLearning/comments/zo6z83/p_i_implemented_an_endtoend_mlops_stack_example/)
-- [[D] ChatGPT, crowdsourcing and similar examples](https://www.reddit.com/r/MachineLearning/comments/zo5imc/d_chatgpt_crowdsourcing_and_similar_examples/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
