@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] An application that optimizes the fuel consumption of your vehicles with artificial intelligence. Open source. Please star for support.](https://www.reddit.com/r/MachineLearning/comments/zo2hl3/p_an_application_that_optimizes_the_fuel/)
 - [[P] Problem with training and evaluation data from transformers model to Huggingface](https://www.reddit.com/r/MachineLearning/comments/zo25b6/p_problem_with_training_and_evaluation_data_from/)
 - [[P] Remove text from AI-generated images](https://www.reddit.com/r/MachineLearning/comments/zo20vb/p_remove_text_from_aigenerated_images/)
 - [[D] Manufacturing Forecast Model](https://www.reddit.com/r/MachineLearning/comments/zo1elw/d_manufacturing_forecast_model/)
 - [[D] How can AI contribute to art historical analysis and research?](https://www.reddit.com/r/MachineLearning/comments/znzl4u/d_how_can_ai_contribute_to_art_historical/)
-- [[R] GPT-Neo 125M or Bloomz-MT 300M pretrained/finetuned with Squad?](https://www.reddit.com/r/MachineLearning/comments/znzg2i/r_gptneo_125m_or_bloomzmt_300m/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
