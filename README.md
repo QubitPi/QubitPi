@@ -291,9 +291,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Data driven decision making will fail: Here’s why Fascinating and thoughtful talk from Marc Warner, CEO, Faculty](https://www.reddit.com/r/MachineLearning/comments/zo30ft/d_data_driven_decision_making_will_fail_heres_why/)
 - [[P] Football Player 3D Pose Estimation using YOLOv7](https://www.reddit.com/r/MachineLearning/comments/zo2nl1/p_football_player_3d_pose_estimation_using_yolov7/)
-- [[P] An application that optimizes the fuel consumption of your vehicles with artificial intelligence. Open source. Please star for support.](https://www.reddit.com/r/MachineLearning/comments/zo2hl3/p_an_application_that_optimizes_the_fuel/)
 - [[P] Problem with training and evaluation data from transformers model to Huggingface](https://www.reddit.com/r/MachineLearning/comments/zo25b6/p_problem_with_training_and_evaluation_data_from/)
 - [[P] Remove text from AI-generated images](https://www.reddit.com/r/MachineLearning/comments/zo20vb/p_remove_text_from_aigenerated_images/)
+- [[D] Manufacturing Forecast Model](https://www.reddit.com/r/MachineLearning/comments/zo1elw/d_manufacturing_forecast_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
