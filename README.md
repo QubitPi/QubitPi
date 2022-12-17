@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [ML exam question on Naive Bayes [Discussion]](https://www.reddit.com/r/MachineLearning/comments/zohojk/ml_exam_question_on_naive_bayes_discussion/)
 - [[D] yolov7 not finding GPU device: Solution](https://www.reddit.com/r/MachineLearning/comments/zoeu2q/d_yolov7_not_finding_gpu_device_solution/)
 - [[P] Using Vertex AI to train a model that automatically turns YouTube videos into TikTok clips](https://www.reddit.com/r/MachineLearning/comments/zoefgx/p_using_vertex_ai_to_train_a_model_that/)
 - [[D] What is the status of JEPA?](https://www.reddit.com/r/MachineLearning/comments/zocmvb/d_what_is_the_status_of_jepa/)
 - [[D] What are the prompts that Lensa AI &lpar;and other apps&rpar; are using to create the AI avatars?](https://www.reddit.com/r/MachineLearning/comments/zobmfr/d_what_are_the_prompts_that_lensa_ai_and_other/)
-- [ML model integration to Android Application [P]](https://www.reddit.com/r/MachineLearning/comments/zo9f7c/ml_model_integration_to_android_application_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
