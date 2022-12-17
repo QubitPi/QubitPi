@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1604090130251268097)
-- [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1604075743297798147)
-- [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1604070152039010304)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1604062851034976256)
 - [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. #memgraph...](https://twitter.com/memgraphdb/status/1604052280612888576)
+- [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1604009442906865664)
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #graphdatabase #memgraphdb ...](https://twitter.com/memgraphdb/status/1603866142677819394)
+- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1603836197398249473)
+- [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1603824808424243224)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
