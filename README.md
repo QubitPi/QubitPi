@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is a good architecture for evaluation functions in the game of Go?](https://www.reddit.com/r/MachineLearning/comments/znvo0l/d_what_is_a_good_architecture_for_evaluation/)
 - [[D] Is softmax a good choice for confidence?](https://www.reddit.com/r/MachineLearning/comments/zntz2d/d_is_softmax_a_good_choice_for_confidence/)
 - [Accelerating AI model embodiment project and GPTChat. [Project]](https://www.reddit.com/r/MachineLearning/comments/zntvex/accelerating_ai_model_embodiment_project_and/)
 - [[D] Is there a way to download neurips 2022 talks slides ?](https://www.reddit.com/r/MachineLearning/comments/zntsds/d_is_there_a_way_to_download_neurips_2022_talks/)
 - [Technique for classifying a collection of words into a class [P]](https://www.reddit.com/r/MachineLearning/comments/znqwje/technique_for_classifying_a_collection_of_words/)
-- [[D] Is this a fair analogy of a neural network&#39;s workings?](https://www.reddit.com/r/MachineLearning/comments/znne5j/d_is_this_a_fair_analogy_of_a_neural_networks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
