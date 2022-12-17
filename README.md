@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1604242151294046208)
-- [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1604232308227178496)
 - [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1604194076672368642)
 - [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1604186368174968834)
 - [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1604155965670031362)
+- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1604146923052863488)
+- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1604146749668438017)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
