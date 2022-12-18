@@ -290,10 +290,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Is there any good resource to learn about sports analytics](https://www.reddit.com/r/MachineLearning/comments/zotwef/d_is_there_any_good_resource_to_learn_about/)
-- [[P] Python Machine Learning By Example - Books](https://www.reddit.com/r/MachineLearning/comments/zotub1/p_python_machine_learning_by_example_books/)
-- [[P] Dive into Deep Learning - Book](https://www.reddit.com/r/MachineLearning/comments/zottl3/p_dive_into_deep_learning_book/)
-- [Learning using python &lpar;Books&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zot90s/learning_using_python_books_p/)
-- [Transformers for Machine Learning &lpar;book&rpar; [Project]](https://www.reddit.com/r/MachineLearning/comments/zot7hs/transformers_for_machine_learning_book_project/)
+- [Classic &#39;Quantum&#39; Transformers? [R]](https://www.reddit.com/r/MachineLearning/comments/zopk2t/classic_quantum_transformers_r/)
+- [[R][P] Riffusion, music generation with stable diffusion with Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/zoozn5/rp_riffusion_music_generation_with_stable/)
+- [[P] Unsupervised learning project for social media](https://www.reddit.com/r/MachineLearning/comments/zonv34/p_unsupervised_learning_project_for_social_media/)
+- [[D] Product assortment/range optimisation for stores](https://www.reddit.com/r/MachineLearning/comments/zolpl4/d_product_assortmentrange_optimisation_for_stores/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
