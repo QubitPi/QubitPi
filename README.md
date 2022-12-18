@@ -505,7 +505,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1603823798481977360)
 - [Have fun with Patterns!! 💥 Priya Jacob illustrates the new features and optimizations to #Cypher in #Neo4j5 such as syntax for label and relationsh...](https://twitter.com/neo4j/status/1603782188004261889)
 - [Re @lyonwj examines how the open source #Neo4j graph database can be used with QGIS and #Python for making sense of geospatial data during his #NODES2...](https://twitter.com/neo4j/status/1603751907276849153)
-- [RT Alexander Erdl: On more show next week! An #AdventOfCode2022 special with @halftep on our Monday #neo4j Aura slot! See how it can be done with Cyph...](https://twitter.com/alexandererdl/status/1603678065049030661)
+- [RT Gary Flood: Tech bio pioneer Basecamp Research using graph technology to find ‘in silico’ protein breakthroughs](https://twitter.com/garfage/status/1603713621711851523)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
