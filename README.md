@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Using machine learning to better understand how water behaves](https://www.reddit.com/r/MachineLearning/comments/zov0t7/n_using_machine_learning_to_better_understand_how/)
 - [[D] Is there any good resource to learn about sports analytics](https://www.reddit.com/r/MachineLearning/comments/zotwef/d_is_there_any_good_resource_to_learn_about/)
 - [Classic &#39;Quantum&#39; Transformers? [R]](https://www.reddit.com/r/MachineLearning/comments/zopk2t/classic_quantum_transformers_r/)
 - [[R][P] Riffusion, music generation with stable diffusion with Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/zoozn5/rp_riffusion_music_generation_with_stable/)
 - [[P] Unsupervised learning project for social media](https://www.reddit.com/r/MachineLearning/comments/zonv34/p_unsupervised_learning_project_for_social_media/)
-- [[D] Product assortment/range optimisation for stores](https://www.reddit.com/r/MachineLearning/comments/zolpl4/d_product_assortmentrange_optimisation_for_stores/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
