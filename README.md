@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Resources to learn and fully understand Diffusion Model Codes](https://www.reddit.com/r/MachineLearning/comments/zp6ll4/d_resources_to_learn_and_fully_understand/)
 - [[R] The Infinite Index: Information Retrieval on Generative Text-To-Image Models](https://www.reddit.com/r/MachineLearning/comments/zp4jv8/r_the_infinite_index_information_retrieval_on/)
 - [[P] Generate transcripts with Whisper AI and automatically translate with LibreTranslate](https://www.reddit.com/r/MachineLearning/comments/zp41dd/p_generate_transcripts_with_whisper_ai_and/)
 - [MAML compatible with GAN&#39;s? [D]](https://www.reddit.com/r/MachineLearning/comments/zp367h/maml_compatible_with_gans_d/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/zp1q0s/d_simple_questions_thread/)
-- [[D] Comparing Network Performance to Human Performance](https://www.reddit.com/r/MachineLearning/comments/zp1531/d_comparing_network_performance_to_human/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
