@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1604579098008879104)
 - [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1604518353758212097)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1604517672733245447)
 - [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1604514673495261191)
 - [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1604495532067622913)
-- [Check out our blog post 📰 Introduction to Streaming Databases ➡️](https://twitter.com/memgraphdb/status/1604493369417375745)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
