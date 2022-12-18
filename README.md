@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Learning using python &lpar;Books&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/zot90s/learning_using_python_books_p/)
 - [Transformers for Machine Learning &lpar;book&rpar; [Project]](https://www.reddit.com/r/MachineLearning/comments/zot7hs/transformers_for_machine_learning_book_project/)
 - [Machine Learning Engineering in Action &lpar;2022&rpar; [Project]](https://www.reddit.com/r/MachineLearning/comments/zot6r3/machine_learning_engineering_in_action_2022/)
 - [Classic &#39;Quantum&#39; Transformers? [R]](https://www.reddit.com/r/MachineLearning/comments/zopk2t/classic_quantum_transformers_r/)
 - [[R][P] Riffusion, music generation with stable diffusion with Gradio Demo](https://www.reddit.com/r/MachineLearning/comments/zoozn5/rp_riffusion_music_generation_with_stable/)
-- [[P] Unsupervised learning project for social media](https://www.reddit.com/r/MachineLearning/comments/zonv34/p_unsupervised_learning_project_for_social_media/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
