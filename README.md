@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Comparing Network Performance to Human Performance](https://www.reddit.com/r/MachineLearning/comments/zp1531/d_comparing_network_performance_to_human/)
 - [[N] Neural Rendering: Reconstruct your city in 3D using only your mobile phone and CitySynth!](https://www.reddit.com/r/MachineLearning/comments/zowhlo/n_neural_rendering_reconstruct_your_city_in_3d/)
 - [[R] Getting arXiv article published. Endorsement needed, cs.](https://www.reddit.com/r/MachineLearning/comments/zovnxo/r_getting_arxiv_article_published_endorsement/)
 - [[N] Using machine learning to better understand how water behaves](https://www.reddit.com/r/MachineLearning/comments/zov0t7/n_using_machine_learning_to_better_understand_how/)
 - [[D] Is there any good resource to learn about sports analytics](https://www.reddit.com/r/MachineLearning/comments/zotwef/d_is_there_any_good_resource_to_learn_about/)
-- [Classic &#39;Quantum&#39; Transformers? [R]](https://www.reddit.com/r/MachineLearning/comments/zopk2t/classic_quantum_transformers_r/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
