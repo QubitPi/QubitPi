@@ -17,4 +17,5 @@ jobs:
           committer_email: "jack20191124@proton.me"
           commit_message: "New Tech Blog Post"
           max_post_count: "5"
+          comment_tag_name: "TECH-BLOG-POST-LIST"
           feed_list: "https://qubitpi.github.io/jersey-guide/feed.xml"
