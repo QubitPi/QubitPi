@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R][D] a new community on Machine Learning based Early Decision Making](https://www.reddit.com/r/MachineLearning/comments/zpo59k/rd_a_new_community_on_machine_learning_based/)
+- [[D] Are proofs necessary for someone willing to learn the mathematics behind ML / Murphy, Bishop?](https://www.reddit.com/r/MachineLearning/comments/zpo597/d_are_proofs_necessary_for_someone_willing_to/)
 - [Deep learning for AWS S3 dataset [Discussion]](https://www.reddit.com/r/MachineLearning/comments/zpnzdy/deep_learning_for_aws_s3_dataset_discussion/)
 - [[D] Python, machine learning and monitoring. Where do I start?](https://www.reddit.com/r/MachineLearning/comments/zpnbut/d_python_machine_learning_and_monitoring_where_do/)
 - [[R] The alignment problem from a deep learning perspective](https://www.reddit.com/r/MachineLearning/comments/zpi765/r_the_alignment_problem_from_a_deep_learning/)
-- [[P] Image Segmentation model trained within 1 minute! Looking for beta users for feedback!](https://www.reddit.com/r/MachineLearning/comments/zpgln7/p_image_segmentation_model_trained_within_1/)
-- [[D] We’re Brian Retford, Jason Morton, and Ryan Cao, various researchers and developers in the ZKML &lpar;zero knowledge machine learning&rpar; space and we’ve been asked by r/privacy mods to help explain and answer questions about ZKML and why it’s important for the future of data privacy! AMA](https://www.reddit.com/r/MachineLearning/comments/zpg39d/d_were_brian_retford_jason_morton_and_ryan_cao/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
