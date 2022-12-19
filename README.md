@@ -179,7 +179,11 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 #### My Tech Blogs
 
 <!-- TECH-BLOG-POST-LIST:START -->
-
+- [Using OpenSSL to encrypt messages and files on Linux](https://qubitpi.github.io/jersey-guide/2022/12/19/openssl-encrypy.html)
+- [Amazon AWS Troubleshooting](https://qubitpi.github.io/jersey-guide/2022/10/12/aws-troubleshooting.html)
+- [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/2022/10/09/enterprise-security.html)
+- [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/2022/09/28/kubernetes-basics.html)
+- [Provider v.s. @Provider](https://qubitpi.github.io/jersey-guide/2022/09/24/diprovider-vs-provider-annotation.html)
 <!-- TECH-BLOG-POST-LIST:END -->
 
 ### Archived Projects
