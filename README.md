@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Image Segmentation model trained within 1 minute! Looking for beta users for feedback!](https://www.reddit.com/r/MachineLearning/comments/zpgln7/p_image_segmentation_model_trained_within_1/)
 - [[D] We’re Brian Retford, Jason Morton, and Ryan Cao, various researchers and developers in the ZKML &lpar;zero knowledge machine learning&rpar; space and we’ve been asked by r/privacy mods to help explain and answer questions about ZKML and why it’s important for the future of data privacy! AMA](https://www.reddit.com/r/MachineLearning/comments/zpg39d/d_were_brian_retford_jason_morton_and_ryan_cao/)
 - [[D] AAMAS 2023 Review Discussion](https://www.reddit.com/r/MachineLearning/comments/zpd8y5/d_aamas_2023_review_discussion/)
 - [[D] Will there be a replacement for Machine Learning Twitter?](https://www.reddit.com/r/MachineLearning/comments/zpbsat/d_will_there_be_a_replacement_for_machine/)
 - [[D] Usage of GPU profiling tools](https://www.reddit.com/r/MachineLearning/comments/zp7pfc/d_usage_of_gpu_profiling_tools/)
-- [[D] Resources to learn and fully understand Diffusion Model Codes](https://www.reddit.com/r/MachineLearning/comments/zp6ll4/d_resources_to_learn_and_fully_understand/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
