@@ -606,11 +606,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [WordPress Playground: Running WordPress in the Browser](https://css-tricks.com/wordpress-playground-run-in-browser/)
 - [CSS Infinite 3D Sliders](https://css-tricks.com/css-infinite-3d-sliders/)
 - [So, you’d like to animate the display property](https://css-tricks.com/so-youd-like-to-animate-the-display-property/)
 - [Some Links on AI-Related Stuff](https://css-tricks.com/some-links-on-ai-related-stuff/)
 - [Unchain My Inaccessibly-Labelled Heart](https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/)
-- [Holiday Snowtacular 2022](https://css-tricks.com/holiday-snowtacular-2022/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
