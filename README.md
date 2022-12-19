@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/197424464-8e4e7dce-17d8-43a0-870f-99c95d7b667d.GIF">
 
 <!-- ARANGO-BLOGS:START -->
+- [December 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: December 2022](https://rss.app/articles/cb4e791f6f6d729c1f5d4e4732d7a78a05191f251d28a2afd2e3890e8d8368c9f116b15977818177f1a2687fc0150d8c319739bf954d2f4696659024c29e1f78d7e327ffa4b778ad)
 - [December 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: December 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93695ad1eb75d378f813ca1bf3428985753c624913da3df137f1c94)
 - [October 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93696ad1eb75d378f813ca1bf3428985753c624913da3df137f1394)
 - [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad1eb75d378f813ca1bf3428985753c624913da3df137f1294)
 - [July 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: July 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93790ad1eb75d378f813ca1bf3428985753c624913da3df137f1194)
-- [What is a Graph Database? What is a Graph Database](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93790ad08ad5d2dc5872beef3772a9d454fcb7d8139a593402a57de24)
 <!-- ARANGO-BLOGS:END -->
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
