@@ -516,11 +516,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Visualization Fans?? HERE! 🙌 Wilson Chua explains how to get better graph displays with Yworks! #Visualuzation #Neo4j #graphdatabase #Jupiter](https://twitter.com/neo4j/status/1604847802659618816)
 - [What is Gephi? 🤔 Meet this free, open-source visualization and exploration software for all kinds of graphs and networks. by Dr. Verónica #visuali...](https://twitter.com/neo4j/status/1604808837701181440)
 - [RT Michael Simons: Love, that @github now supports Cypher as embedded language, as shown by @ikwattro in his ticket for @neo4j Cypher-DSL:](https://twitter.com/rotnroll666/status/1604791826288111616)
 - [Advent of Code Special with Pierre Halfermeyer @halftep - Discover AuraDB](https://twitter.com/neo4j/status/1604759824503562241)
 - [✨ Learn the basic syntax of the newly released Python client for Neo4j Graph Data Science with Tomaz Bratanic. #neo4j #Python #GraphDataScience](https://twitter.com/neo4j/status/1604451176229085184)
+- [Software testing with Testcontainers #Neo4j👇 @meistermeier will show how Testcontainers relates to other forms of providing an external system for ...](https://twitter.com/neo4j/status/1604099124005068801)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
