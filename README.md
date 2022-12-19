@@ -176,6 +176,12 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 > The forked repos that genereate all of the "documentation/study notes" above are listed [at the end of this page](https://github.com/QubitPi#comprehensive-documentation-related-forks)
 
+#### My Tech Blogs
+
+<!-- TECH-BLOG-POST-LIST:START -->
+
+<!-- TECH-BLOG-POST-LIST:END -->
+
 ### Archived Projects
 
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
