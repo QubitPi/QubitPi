@@ -498,11 +498,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1604733777967710208)
-- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1604725174624034819)
-- [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1604720074132279298)
-- [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1604587519420600320)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1604579098008879104)
+- [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1604794925715001344)
+- [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1604777056310542337)
+- [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1604774044347269123)
+- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1604770402047254528)
+- [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1604759696426024966)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
