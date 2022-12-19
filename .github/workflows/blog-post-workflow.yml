@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  finalized-blogs:
-    name: Update this repos README with latest blog posts
+  tech-blogs:
+    name: Tech Blog Post
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,18 +17,4 @@ jobs:
           committer_email: "jack20191124@proton.me"
           commit_message: "New Tech Blog Post"
           max_post_count: "5"
-          feed_list: "https://qubitpi.github.io/jersey-guide/feed/FINALIZED.xml"
-          
-  MGMT-blogs:
-    name: Update this repos README with MGMT blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Tech Mgmt Blog Post"
-          comment_tag_name: "MGMT-BLOG-POST-LIST"
-          max_post_count: "5"
-          feed_list: "https://qubitpi.github.io/jersey-guide/feed/MANAGEMENT.xml"
+          feed_list: "https://qubitpi.github.io/jersey-guide/feed.xml"
