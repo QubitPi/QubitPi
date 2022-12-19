@@ -322,11 +322,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [3 schockierende Probleme mit User Stories, die jeder Product Owner unbedingt vermeiden sollte](https://www.scrum.org/resources/blog/3-schockierende-probleme-mit-user-stories-die-jeder-product-owner-unbedingt)
 - [Análisis del ‘The Business Agility Report’ de 2022](https://www.scrum.org/resources/blog/analisis-del-business-agility-report-de-2022)
 - [Back to the Foundations of the Scrum Framework - Introduction &lpar;00&rpar;](https://www.scrum.org/resources/blog/back-foundations-scrum-framework-introduction-00)
 - [Facilitation and Conflict - Graceful Conflict](https://www.scrum.org/resources/blog/facilitation-and-conflict-graceful-conflict)
 - [Liebe Agilisten: Wie lautet die eine Frage, der ihr euch täglich stellen solltet? &lpar;Was ihr verbessern könnt, ist es nicht.&rpar;](https://www.scrum.org/resources/blog/liebe-agilisten-wie-lautet-die-eine-frage-der-ihr-euch-taglich-stellen-solltet-was)
-- [Das Problem mit dem Produkt-Ziel und der Product Goal Canvas — Making Your Scrum Work &lpar;28&rpar; 🇩🇪](https://www.scrum.org/resources/blog/das-problem-mit-dem-produkt-ziel-und-der-product-goal-canvas-making-your-scrum-work)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
