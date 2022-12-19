@@ -248,7 +248,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741244229450203152><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/748f3e2099d2f4e8b9cfff963dd84800401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741339036555149396><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ff5d048971efbc5b6586d9e9fcdc1892401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》剧情PV-「秋津羽戏」](https://t.bilibili.com/741335484619292825)
