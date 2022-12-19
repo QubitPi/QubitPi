@@ -251,11 +251,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741339036555149396><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ff5d048971efbc5b6586d9e9fcdc1892401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #秋津羽戏# 《原神》剧情PV-「秋津羽戏」现已发布~ https://www.bilibili.com/video/BV1tG411P79B 简单来说，以羽子板击球打靶，考验速度、耐性...](https://t.bilibili.com/741339036555149396)
 - [《原神》剧情PV-「秋津羽戏」](https://t.bilibili.com/741335484619292825)
 - [互动抽奖 #原神# #莱依拉# #生日快乐# 啊，谁…是、是你！对不起，让你看到我迷迷糊糊的样子… 昨天查阅文献弄得太晚，直接在图书馆睡着了… 我看看…咦，又来了...](https://t.bilibili.com/741244229450203152)
 - [恭喜@卷纸胶带@小爱同学Nikki@二次命等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/740161605624397863)
 - [恭喜@澄拾一@烤鸭527@莫筱樱子等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/740160312851824729)
-- [亲爱的旅行者，「原神天猫旗舰店」「原神米游社万有铺子」将于12月20日20:00启动ARCTECH可动系列 七七·冻冻回魂夜Ver. 1/8可动手办的贩售。](https://t.bilibili.com/740132344023744561)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
