@@ -516,11 +516,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Advent of Code Special with Pierre Halfermeyer @halftep - Discover AuraDB](https://twitter.com/neo4j/status/1604759824503562241)
 - [✨ Learn the basic syntax of the newly released Python client for Neo4j Graph Data Science with Tomaz Bratanic. #neo4j #Python #GraphDataScience](https://twitter.com/neo4j/status/1604451176229085184)
 - [Software testing with Testcontainers #Neo4j👇 @meistermeier will show how Testcontainers relates to other forms of providing an external system for ...](https://twitter.com/neo4j/status/1604099124005068801)
 - [With a single CSV file, you’ll create nodes and relationships with their properties 👀 Graphileon demonstrates the latest version of their CSV impo...](https://twitter.com/neo4j/status/1603823798481977360)
 - [Have fun with Patterns!! 💥 Priya Jacob illustrates the new features and optimizations to #Cypher in #Neo4j5 such as syntax for label and relationsh...](https://twitter.com/neo4j/status/1603782188004261889)
-- [Re @lyonwj examines how the open source #Neo4j graph database can be used with QGIS and #Python for making sense of geospatial data during his #NODES2...](https://twitter.com/neo4j/status/1603751907276849153)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
