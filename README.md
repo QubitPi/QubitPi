@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1604944669078593576)
 - [Our December newsletter is here! This month, we wanted to take a moment and reflect on everything that has happened over the last 12 months at ArangoD...](https://twitter.com/arangodb/status/1604808842415685634)
 - [Wrap up your week by learning why ArangoDB should be your Graph Database solution. 🥑😎 Check out why Cycode decided to go with ArangoDB with this...](https://twitter.com/arangodb/status/1604491700604473344)
 - [Unfamiliar with ArangoGraph Insights Platform? Why not get started with 14 days on us! Sign up today and hop into the cloud with ArangoDB. ☁️](https://twitter.com/arangodb/status/1604129307739140096)
 - [The graph database world is the place to be. Take a peek at this brief article on what is a graph database, how a graph database work, and the reasons...](https://twitter.com/arangodb/status/1603857525945810945)
-- [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1603721631729434625)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
