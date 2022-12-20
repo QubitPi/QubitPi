@@ -250,7 +250,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741339036555149396><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ff5d048971efbc5b6586d9e9fcdc1892401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741629101468549168><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2f9ac25881cd194a33da9025579a747d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #秋津羽戏# 《原神》剧情PV-「秋津羽戏」现已发布~ https://www.bilibili.com/video/BV1tG411P79B 简单来说，以羽子板击球打靶，考验速度、耐性...](https://t.bilibili.com/741339036555149396)
