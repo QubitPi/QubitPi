@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Nonparametric Masked Language Modeling - MetaAi 2022 - NPM - 500x fewer parameters than GPT-3 while outperforming it on zero-shot tasks](https://www.reddit.com/r/MachineLearning/comments/zr2en7/r_nonparametric_masked_language_modeling_metaai/)
 - [[D] Adding a new RL environment to envpool](https://www.reddit.com/r/MachineLearning/comments/zr0bjq/d_adding_a_new_rl_environment_to_envpool/)
 - [[D] ICML LaTeX template with section bookmarks](https://www.reddit.com/r/MachineLearning/comments/zqxeho/d_icml_latex_template_with_section_bookmarks/)
 - [[D] Techniques to optimize a model when the loss over the training dataset has a Power Law type curve.](https://www.reddit.com/r/MachineLearning/comments/zqtmf7/d_techniques_to_optimize_a_model_when_the_loss/)
 - [[P] flaim - State-of-the-art pre-trained vision backbones for Flax](https://www.reddit.com/r/MachineLearning/comments/zqp0ol/p_flaim_stateoftheart_pretrained_vision_backbones/)
-- [[D] Why are we stuck with Python for something that require so much speed and parallelism &lpar;neural networks&rpar;?](https://www.reddit.com/r/MachineLearning/comments/zqo8jm/d_why_are_we_stuck_with_python_for_something_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
