@@ -528,11 +528,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Innovation en Machine Learning &lpar;10 Min&rpar;](https://www.youtube.com/watch?v=JocoCwWwKCk)
-- [087 Cymple Cypher Modular Pythonic Language Extension - NODES2022 - Roei Levi](https://www.youtube.com/watch?v=9S7dsy8luLo)
-- [082 Link Prediction With Graph Data Science at Scale - NODES2022 - Florentin Dörre](https://www.youtube.com/watch?v=Ea22jAUw0Go)
-- [080 Introduction to Neo4j Plugins - NODES2022 - Bert Radke](https://www.youtube.com/watch?v=LwMuQXOm3zo)
-- [084 GraphQL Federation using the Neo4j GraphQL Library - NODES2022 - Darrell Warde](https://www.youtube.com/watch?v=u_FiRMG-jYw)
+- [Advent of Code Special - Discover AuraDB](https://www.youtube.com/watch?v=LmIupHl_lws)
+- [071 Closing Q&amp;A With Emil and Andreas APAC - NODES2022 - Emil Eifrem, Andreas Kollegger](https://www.youtube.com/watch?v=3yAwtiQWV78)
+- [074 Building Java Applications With Quarkus and Neo4j - NODES2022 - Sebastian Daschner](https://www.youtube.com/watch?v=EfD2qa16bHM)
+- [072 Welcome to NODES 2022 – EMEA - NODES2022 - Michael Hunger](https://www.youtube.com/watch?v=Qlw2vgKCdWg)
+- [075 XRP Ledger Blockchain ETL With Neo4j - NODES2022 - Thomas Silkjaer](https://www.youtube.com/watch?v=RvlYf8bFNXY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
