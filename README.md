@@ -518,7 +518,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Wallie: Anyone know and/or love @neo4j? I love to explore my own Twitter graph. I wish this was a built in feature right here into Twitter.](https://twitter.com/wallie_io/status/1604955271817613313)
+- [RT Wallie: Anyone know and/or love @neo4j? I love to explore my own Twitter graph. I wish this was a built in feature right here into Twitter.](https://twitter.com/walliesocial/status/1604955271817613313)
 - [Kruthi Krishnappa introduces us to graph databases and guides us to create nodes and formulate queries. &quot;When directly compared to MySQL, Neo4j is sig...](https://twitter.com/neo4j/status/1604910710823215104)
 - [RT Eric Kavanagh on #FutureProof: Create Dynamic Serverless Applications with Neo4j Graph Database and AWS #opensource -&gt; via](https://twitter.com/eric_kavanagh/status/1604890151200690176)
 - [RT Linkurious: Discover how the combination of @Neo4j GDS and Linkurious Enterprise can empower you to access deeper analytical insights for a range o...](https://twitter.com/Linkurious/status/1604861867519868928)
