@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Want to Search Inside Videos Like a Pro?](https://www.reddit.com/r/MachineLearning/comments/zqo7kp/dwant_to_search_inside_videos_like_a_pro/)
 - [[R][N] The first 2 introductory videos to ML-EDM :-&rpar;](https://www.reddit.com/r/MachineLearning/comments/zqlstz/rn_the_first_2_introductory_videos_to_mledm/)
 - [[R] Foresight: Deep Generative Modelling of Patient Timelines using Electronic Health Records](https://www.reddit.com/r/MachineLearning/comments/zqlczr/r_foresight_deep_generative_modelling_of_patient/)
 - [[R] Swin transformer while using a rectangular attention window](https://www.reddit.com/r/MachineLearning/comments/zql821/r_swin_transformer_while_using_a_rectangular/)
 - [[D] Question: best &#39;starting&#39; server to train deep ML models](https://www.reddit.com/r/MachineLearning/comments/zql367/d_question_best_starting_server_to_train_deep_ml/)
-- [[N] JaxLightning: PyTorch Lightning for Jax](https://www.reddit.com/r/MachineLearning/comments/zql1x4/n_jaxlightning_pytorch_lightning_for_jax/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
