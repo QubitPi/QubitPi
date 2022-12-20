@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] AllenAi Predoctoral Young Investigators Program](https://www.reddit.com/r/MachineLearning/comments/zqi2zj/d_allenai_predoctoral_young_investigators_program/)
 - [[R] Auxiliary tasks in task-oriented-dialogue systems can highly enhance generalizability and lead to more human-sounding responses. In our recent study, we were able to train an architecture with state-of-the-art benchmarks, but with 3 times less parameters than baselines.](https://www.reddit.com/r/MachineLearning/comments/zqhzyd/r_auxiliary_tasks_in_taskorienteddialogue_systems/)
 - [Sarcasm Detection model [R].](https://www.reddit.com/r/MachineLearning/comments/zqhhdc/sarcasm_detection_model_r/)
 - [[D] What happens when / when will video and audio be possible?](https://www.reddit.com/r/MachineLearning/comments/zqhdsk/d_what_happens_when_when_will_video_and_audio_be/)
 - [[D] Have trouble with non-English search queries? Fine-tuning your multilingual CLIP models may be the answer.](https://www.reddit.com/r/MachineLearning/comments/zqguya/d_have_trouble_with_nonenglish_search_queries/)
-- [[N] lama-cleaner can easily remove any watermark](https://www.reddit.com/r/MachineLearning/comments/zqf9xr/n_lamacleaner_can_easily_remove_any_watermark/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
