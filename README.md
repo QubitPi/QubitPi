@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [D] Are Optuna and Boruta Shap acceptable for academic research?](https://www.reddit.com/r/MachineLearning/comments/zq8kse/r_d_are_optuna_and_boruta_shap_acceptable_for/)
+- [[Project] the language of modifications : I collected and analyzed how humans use language to modify existing drawings at Neurips 2022. &lpar;n=60&rpar;](https://www.reddit.com/r/MachineLearning/comments/zq7y5i/project_the_language_of_modifications_i_collected/)
 - [[P] Open source discord bot for Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zq4fys/p_open_source_discord_bot_for_stable_diffusion/)
 - [[D] Is this the right way to perform PCA on the test set?](https://www.reddit.com/r/MachineLearning/comments/zq1ntb/d_is_this_the_right_way_to_perform_pca_on_the/)
 - [[R][D] a new community on Machine Learning based Early Decision Making](https://www.reddit.com/r/MachineLearning/comments/zpo59k/rd_a_new_community_on_machine_learning_based/)
-- [[R] The alignment problem from a deep learning perspective](https://www.reddit.com/r/MachineLearning/comments/zpi765/r_the_alignment_problem_from_a_deep_learning/)
-- [[D] We’re Brian Retford, Jason Morton, and Ryan Cao, various researchers and developers in the ZKML &lpar;zero knowledge machine learning&rpar; space and we’ve been asked by r/privacy mods to help explain and answer questions about ZKML and why it’s important for the future of data privacy! AMA](https://www.reddit.com/r/MachineLearning/comments/zpg39d/d_were_brian_retford_jason_morton_and_ryan_cao/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
