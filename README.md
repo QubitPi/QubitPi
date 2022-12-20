@@ -500,11 +500,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1605335804963917824)
+- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1605327543606861825)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #graphdatabase #memgraphdb #database...](https://twitter.com/memgraphdb/status/1605284297249902594)
 - [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1605250832202711044)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1605247137918472192)
-- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1605236658898550786)
-- [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1605215948868358145)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
