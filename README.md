@@ -308,9 +308,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] Generative AI Solutions for Real-World Problems](https://www.reddit.com/r/MachineLearning/comments/zqqrmt/p_generative_ai_solutions_for_realworld_problems/)
 - [[P] flaim - State-of-the-art pre-trained vision backbones for Flax](https://www.reddit.com/r/MachineLearning/comments/zqp0ol/p_flaim_stateoftheart_pretrained_vision_backbones/)
-- [[D]Want to Search Inside Videos Like a Pro?](https://www.reddit.com/r/MachineLearning/comments/zqo7kp/dwant_to_search_inside_videos_like_a_pro/)
 - [[R][N] The first 2 introductory videos to ML-EDM :-&rpar;](https://www.reddit.com/r/MachineLearning/comments/zqlstz/rn_the_first_2_introductory_videos_to_mledm/)
 - [[R] Foresight: Deep Generative Modelling of Patient Timelines using Electronic Health Records](https://www.reddit.com/r/MachineLearning/comments/zqlczr/r_foresight_deep_generative_modelling_of_patient/)
+- [[R] Swin transformer while using a rectangular attention window](https://www.reddit.com/r/MachineLearning/comments/zql821/r_swin_transformer_while_using_a_rectangular/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
