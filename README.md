@@ -306,8 +306,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Generative AI Solutions for Real-World Problems](https://www.reddit.com/r/MachineLearning/comments/zqqrmt/p_generative_ai_solutions_for_realworld_problems/)
 - [[P] flaim - State-of-the-art pre-trained vision backbones for Flax](https://www.reddit.com/r/MachineLearning/comments/zqp0ol/p_flaim_stateoftheart_pretrained_vision_backbones/)
+- [[D] Why are we stuck with Python for something that require so much speed and parallelism &lpar;neural networks&rpar;?](https://www.reddit.com/r/MachineLearning/comments/zqo8jm/d_why_are_we_stuck_with_python_for_something_that/)
 - [[R] Foresight: Deep Generative Modelling of Patient Timelines using Electronic Health Records](https://www.reddit.com/r/MachineLearning/comments/zqlczr/r_foresight_deep_generative_modelling_of_patient/)
 - [[R] Swin transformer while using a rectangular attention window](https://www.reddit.com/r/MachineLearning/comments/zql821/r_swin_transformer_while_using_a_rectangular/)
 - [[D] Question: best &#39;starting&#39; server to train deep ML models](https://www.reddit.com/r/MachineLearning/comments/zql367/d_question_best_starting_server_to_train_deep_ml/)
