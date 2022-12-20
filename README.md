@@ -500,11 +500,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1605247137918472192)
-- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1605236658898550786)
 - [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1605215948868358145)
 - [Check out our blog post 📰 Neo4j vs Memgraph - How to choose a graph database? ➡️](https://twitter.com/memgraphdb/status/1605187081499721729)
 - [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1605179717707075585)
+- [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1605176495969898496)
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1605174678921904129)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
