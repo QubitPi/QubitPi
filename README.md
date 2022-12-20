@@ -500,11 +500,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1605146293373902850)
-- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1605134912754958336)
-- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1605118592244137984)
-- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1604966652025737216)
-- [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1604958190252314625)
+- [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1605179717707075585)
+- [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1605176495969898496)
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1605174678921904129)
+- [7th Graph Data Zagreb is behind us. This time we had two speakers: Michal Štefaňák with “PHP and Graph Databases” and Srečko Zajec with “Geopol...](https://twitter.com/memgraphdb/status/1605169356434014209)
+- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1605158873400315906)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
