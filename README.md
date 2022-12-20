@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Question: best &#39;starting&#39; server to train deep ML models](https://www.reddit.com/r/MachineLearning/comments/zql367/d_question_best_starting_server_to_train_deep_ml/)
+- [[N] JaxLightning: PyTorch Lightning for Jax](https://www.reddit.com/r/MachineLearning/comments/zql1x4/n_jaxlightning_pytorch_lightning_for_jax/)
 - [[D] Deep Learning based Recommendation Systems](https://www.reddit.com/r/MachineLearning/comments/zqitxl/d_deep_learning_based_recommendation_systems/)
 - [[D] Area of research focused on extracting data from RL / AI agents in games to inform strategies used by humans?](https://www.reddit.com/r/MachineLearning/comments/zqijv4/d_area_of_research_focused_on_extracting_data/)
 - [[D] AllenAi Predoctoral Young Investigators Program](https://www.reddit.com/r/MachineLearning/comments/zqi2zj/d_allenai_predoctoral_young_investigators_program/)
-- [[R] Auxiliary tasks in task-oriented-dialogue systems can highly enhance generalizability and lead to more human-sounding responses. In our recent study, we were able to train an architecture with state-of-the-art benchmarks, but with 3 times less parameters than baselines.](https://www.reddit.com/r/MachineLearning/comments/zqhzyd/r_auxiliary_tasks_in_taskorienteddialogue_systems/)
-- [Sarcasm Detection model [R].](https://www.reddit.com/r/MachineLearning/comments/zqhhdc/sarcasm_detection_model_r/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
