@@ -467,11 +467,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Learn how Innoplexus used ArangoDB to create one database to manage the Innoplexus KOL discovery and management platform. Read the full case study bel...](https://twitter.com/arangodb/status/1605171189076426753)
 - [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1604944669078593576)
 - [Our December newsletter is here! This month, we wanted to take a moment and reflect on everything that has happened over the last 12 months at ArangoD...](https://twitter.com/arangodb/status/1604808842415685634)
 - [Wrap up your week by learning why ArangoDB should be your Graph Database solution. 🥑😎 Check out why Cycode decided to go with ArangoDB with this...](https://twitter.com/arangodb/status/1604491700604473344)
 - [Unfamiliar with ArangoGraph Insights Platform? Why not get started with 14 days on us! Sign up today and hop into the cloud with ArangoDB. ☁️](https://twitter.com/arangodb/status/1604129307739140096)
+- [The graph database world is the place to be. Take a peek at this brief article on what is a graph database, how a graph database work, and the reasons...](https://twitter.com/arangodb/status/1603857525945810945)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
