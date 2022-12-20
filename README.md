@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Sarcasm Detection model [R].](https://www.reddit.com/r/MachineLearning/comments/zqhhdc/sarcasm_detection_model_r/)
+- [[D] What happens when / when will video and audio be possible?](https://www.reddit.com/r/MachineLearning/comments/zqhdsk/d_what_happens_when_when_will_video_and_audio_be/)
 - [[D] Have trouble with non-English search queries? Fine-tuning your multilingual CLIP models may be the answer.](https://www.reddit.com/r/MachineLearning/comments/zqguya/d_have_trouble_with_nonenglish_search_queries/)
 - [[N] lama-cleaner can easily remove any watermark](https://www.reddit.com/r/MachineLearning/comments/zqf9xr/n_lamacleaner_can_easily_remove_any_watermark/)
 - [[R] [D] Are Optuna and Boruta Shap acceptable for academic research?](https://www.reddit.com/r/MachineLearning/comments/zq8kse/r_d_are_optuna_and_boruta_shap_acceptable_for/)
-- [[Project] the language of modifications : I collected and analyzed how humans use language to modify existing drawings at Neurips 2022. &lpar;n=60&rpar;](https://www.reddit.com/r/MachineLearning/comments/zq7y5i/project_the_language_of_modifications_i_collected/)
-- [[P] Open source discord bot for Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zq4fys/p_open_source_discord_bot_for_stable_diffusion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
