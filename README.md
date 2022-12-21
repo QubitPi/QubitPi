@@ -528,11 +528,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [NODES 2022 Best Of! Day 3](https://www.youtube.com/watch?v=t9a9ypM_Vx0)
-- [NODES 2022 Best Of! Day 2](https://www.youtube.com/watch?v=IniKWdap8nE)
-- [NODES 2022 Best of! Day 1](https://www.youtube.com/watch?v=s_kp0RTTgXU)
 - [Going Meta - Ep: 12 a series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=DWINSvRxIbw)
 - [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=m3hrxJltkWo)
+- [Full Stack GraphQL Book Club - Chapter 5: Building User Interfaces With React](https://www.youtube.com/watch?v=Wwm8KBkGCrc)
+- [Innovation en Machine Learning &lpar;10 Min&rpar;](https://www.youtube.com/watch?v=JocoCwWwKCk)
+- [087 Cymple Cypher Modular Pythonic Language Extension - NODES2022 - Roei Levi](https://www.youtube.com/watch?v=9S7dsy8luLo)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
