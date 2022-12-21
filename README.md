@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Build a home PC to Run Large GPT Models or use AWS](https://www.reddit.com/r/MachineLearning/comments/zrx665/d_build_a_home_pc_to_run_large_gpt_models_or_use/)
 - [[D] Opera Blobs](https://www.reddit.com/r/MachineLearning/comments/zrv6fk/d_opera_blobs/)
 - [[Project] Visualizing the patterns in Elon Musk&#39;s tweets using AI](https://www.reddit.com/r/MachineLearning/comments/zrsvgu/project_visualizing_the_patterns_in_elon_musks/)
 - [Reduce paramter count in an NN without sacrificing performance [P]](https://www.reddit.com/r/MachineLearning/comments/zrpsfm/reduce_paramter_count_in_an_nn_without/)
 - [[D] Historical Stock Price datasets](https://www.reddit.com/r/MachineLearning/comments/zrnzzl/d_historical_stock_price_datasets/)
-- [[P] Whisperer: Diarize and Transcribe audios easily for audio-dataset creation](https://www.reddit.com/r/MachineLearning/comments/zrmi4l/p_whisperer_diarize_and_transcribe_audios_easily/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
