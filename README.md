@@ -500,11 +500,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. #memgraph...](https://twitter.com/memgraphdb/status/1605501832985452545)
-- [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1605470994298294275)
-- [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1605451506186076160)
-- [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1605335804963917824)
-- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1605327543606861825)
+- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1605551599761383424)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1605543412610080769)
+- [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1605542513447772160)
+- [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1605530382970916864)
+- [Real-time analytics can answer queries within seconds, making it possible for data science teams to understand relationships, automate processes, and ...](https://twitter.com/memgraphdb/status/1605530186900013056)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
