@@ -309,8 +309,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Petals: Collaborative Inference and Fine-tuning of Large Models](https://www.reddit.com/r/MachineLearning/comments/zryuuh/petals_collaborative_inference_and_finetuning_of/)
 - [[D] Build a home PC to Run Large GPT Models or use AWS](https://www.reddit.com/r/MachineLearning/comments/zrx665/d_build_a_home_pc_to_run_large_gpt_models_or_use/)
 - [[D] Opera Blobs](https://www.reddit.com/r/MachineLearning/comments/zrv6fk/d_opera_blobs/)
-- [[Project] Visualizing the patterns in Elon Musk&#39;s tweets using AI](https://www.reddit.com/r/MachineLearning/comments/zrsvgu/project_visualizing_the_patterns_in_elon_musks/)
 - [Reduce paramter count in an NN without sacrificing performance [P]](https://www.reddit.com/r/MachineLearning/comments/zrpsfm/reduce_paramter_count_in_an_nn_without/)
+- [[D] Historical Stock Price datasets](https://www.reddit.com/r/MachineLearning/comments/zrnzzl/d_historical_stock_price_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
