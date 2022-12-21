@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Cheat sheet for pandas techniques for cleaning/prepping data](https://www.reddit.com/r/MachineLearning/comments/zrkgfb/d_cheat_sheet_for_pandas_techniques_for/)
 - [[D] Different types of pooling in Neural Nets](https://www.reddit.com/r/MachineLearning/comments/zrj6bf/d_different_types_of_pooling_in_neural_nets/)
 - [[N] Point-E: a new Dalle-like model that generates 3D Point Clouds from Prompts](https://www.reddit.com/r/MachineLearning/comments/zrfy75/n_pointe_a_new_dallelike_model_that_generates_3d/)
 - [[D] BLIP is now available on transformers, what are the cool apps you can build on top of it?](https://www.reddit.com/r/MachineLearning/comments/zrfaru/d_blip_is_now_available_on_transformers_what_are/)
 - [[D] Comparisons of finetuning efficiency/effectiveness on recent llms architectures?](https://www.reddit.com/r/MachineLearning/comments/zreu1c/d_comparisons_of_finetuning/)
-- [[R] Search for an article title](https://www.reddit.com/r/MachineLearning/comments/zretne/r_search_for_an_article_title/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
