@@ -310,7 +310,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Comparisons of finetuning efficiency/effectiveness on recent llms architectures?](https://www.reddit.com/r/MachineLearning/comments/zreu1c/d_comparisons_of_finetuning/)
 - [[R] Search for an article title](https://www.reddit.com/r/MachineLearning/comments/zretne/r_search_for_an_article_title/)
 - [[R][N] What is non-myopia in ML-EDM ?](https://www.reddit.com/r/MachineLearning/comments/zrep3l/rn_what_is_nonmyopia_in_mledm/)
-- [[D] Machine Learning And Its Importance In Data Science](https://www.reddit.com/r/MachineLearning/comments/zrcmou/d_machine_learning_and_its_importance_in_data/)
+- [[D] Running large language models on a home PC?](https://www.reddit.com/r/MachineLearning/comments/zrbfcr/d_running_large_language_models_on_a_home_pc/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
