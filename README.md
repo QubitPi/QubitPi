@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R][N] What is non-myopia in ML-EDM ?](https://www.reddit.com/r/MachineLearning/comments/zrep3l/rn_what_is_nonmyopia_in_mledm/)
 - [[D] Machine Learning And Its Importance In Data Science](https://www.reddit.com/r/MachineLearning/comments/zrcmou/d_machine_learning_and_its_importance_in_data/)
 - [[D] Running large language models on a home PC?](https://www.reddit.com/r/MachineLearning/comments/zrbfcr/d_running_large_language_models_on_a_home_pc/)
 - [[D] What GPT-esque model/platform returns peer-reviewed sources with outputs?](https://www.reddit.com/r/MachineLearning/comments/zr8zfc/d_what_gptesque_modelplatform_returns/)
 - [[R] The case for 4-bit precision: k-bit Inference Scaling Laws - Tim Dettmers and Luke Zettlemoyer - Findings show that 4-bit precision is almost universally optimal for total model bits and zero-shot accuracy!](https://www.reddit.com/r/MachineLearning/comments/zr2goj/r_the_case_for_4bit_precision_kbit_inference/)
-- [[R] Nonparametric Masked Language Modeling - MetaAi 2022 - NPM - 500x fewer parameters than GPT-3 while outperforming it on zero-shot tasks](https://www.reddit.com/r/MachineLearning/comments/zr2en7/r_nonparametric_masked_language_modeling_metaai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
