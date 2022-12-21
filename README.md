@@ -528,11 +528,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Going Meta - Ep: 12 a series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=DWINSvRxIbw)
-- [Discover AuraDB with Michael and Alexander](https://www.youtube.com/watch?v=m3hrxJltkWo)
-- [Full Stack GraphQL Book Club - Chapter 5: Building User Interfaces With React](https://www.youtube.com/watch?v=Wwm8KBkGCrc)
 - [Innovation en Machine Learning &lpar;10 Min&rpar;](https://www.youtube.com/watch?v=JocoCwWwKCk)
 - [087 Cymple Cypher Modular Pythonic Language Extension - NODES2022 - Roei Levi](https://www.youtube.com/watch?v=9S7dsy8luLo)
+- [082 Link Prediction With Graph Data Science at Scale - NODES2022 - Florentin Dörre](https://www.youtube.com/watch?v=Ea22jAUw0Go)
+- [080 Introduction to Neo4j Plugins - NODES2022 - Bert Radke](https://www.youtube.com/watch?v=LwMuQXOm3zo)
+- [084 GraphQL Federation using the Neo4j GraphQL Library - NODES2022 - Darrell Warde](https://www.youtube.com/watch?v=u_FiRMG-jYw)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
