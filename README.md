@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Opera Blobs](https://www.reddit.com/r/MachineLearning/comments/zrv6fk/d_opera_blobs/)
 - [[Project] Visualizing the patterns in Elon Musk&#39;s tweets using AI](https://www.reddit.com/r/MachineLearning/comments/zrsvgu/project_visualizing_the_patterns_in_elon_musks/)
 - [Reduce paramter count in an NN without sacrificing performance [P]](https://www.reddit.com/r/MachineLearning/comments/zrpsfm/reduce_paramter_count_in_an_nn_without/)
 - [[D] Historical Stock Price datasets](https://www.reddit.com/r/MachineLearning/comments/zrnzzl/d_historical_stock_price_datasets/)
 - [[P] Whisperer: Diarize and Transcribe audios easily for audio-dataset creation](https://www.reddit.com/r/MachineLearning/comments/zrmi4l/p_whisperer_diarize_and_transcribe_audios_easily/)
-- [[D] Cheat sheet for pandas techniques for cleaning/prepping data](https://www.reddit.com/r/MachineLearning/comments/zrkgfb/d_cheat_sheet_for_pandas_techniques_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
