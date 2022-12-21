@@ -307,10 +307,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] What GPT-esque model/platform returns peer-reviewed sources with outputs?](https://www.reddit.com/r/MachineLearning/comments/zr8zfc/d_what_gptesque_modelplatform_returns/)
+- [[R] The case for 4-bit precision: k-bit Inference Scaling Laws - Tim Dettmers and Luke Zettlemoyer - Findings show that 4-bit precision is almost universally optimal for total model bits and zero-shot accuracy!](https://www.reddit.com/r/MachineLearning/comments/zr2goj/r_the_case_for_4bit_precision_kbit_inference/)
 - [[R] Nonparametric Masked Language Modeling - MetaAi 2022 - NPM - 500x fewer parameters than GPT-3 while outperforming it on zero-shot tasks](https://www.reddit.com/r/MachineLearning/comments/zr2en7/r_nonparametric_masked_language_modeling_metaai/)
 - [[D] Adding a new RL environment to envpool](https://www.reddit.com/r/MachineLearning/comments/zr0bjq/d_adding_a_new_rl_environment_to_envpool/)
 - [[D] ICML LaTeX template with section bookmarks](https://www.reddit.com/r/MachineLearning/comments/zqxeho/d_icml_latex_template_with_section_bookmarks/)
-- [[D] Techniques to optimize a model when the loss over the training dataset has a Power Law type curve.](https://www.reddit.com/r/MachineLearning/comments/zqtmf7/d_techniques_to_optimize_a_model_when_the_loss/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
