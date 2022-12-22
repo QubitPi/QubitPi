@@ -161,7 +161,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
 - [Data Visualization](https://qubitpi.github.io/data_to_viz/)
-- [KTX Software](https://qubitpi.github.io/KTX-Software/)
+- [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/)
 
 #### OpenStack
 
