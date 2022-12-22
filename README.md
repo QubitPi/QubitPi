@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] Singularity in AI measured with data from MT evolving quality](https://www.reddit.com/r/MachineLearning/comments/zsmf37/research_singularity_in_ai_measured_with_data/)
 - [[D] L2 - Is higher always better?](https://www.reddit.com/r/MachineLearning/comments/zslfwt/d_l2_is_higher_always_better/)
-- [[P] create-tf-app: Set up and maintain a machine learning project with a single script.](https://www.reddit.com/r/MachineLearning/comments/zsl8t2/p_createtfapp_set_up_and_maintain_a_machine/)
-- [[D] where can I find a dataset for a project that I&#39;m making](https://www.reddit.com/r/MachineLearning/comments/zsjtl8/d_where_can_i_find_a_dataset_for_a_project_that/)
 - [[P] A self-driving car using Nvidia Jetson Nano, with movement controlled by a pre-trained convolution neural network &lpar;CNN&rpar; written in Taichi](https://www.reddit.com/r/MachineLearning/comments/zshrlv/p_a_selfdriving_car_using_nvidia_jetson_nano_with/)
 - [[P] question about the generate method in a model&lpar;&rpar; from huggingface](https://www.reddit.com/r/MachineLearning/comments/zschtp/p_question_about_the_generate_method_in_a_model/)
+- [[D] Using &quot;duplicates&quot; during training?](https://www.reddit.com/r/MachineLearning/comments/zsbivc/d_using_duplicates_during_training/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
