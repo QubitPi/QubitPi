@@ -325,7 +325,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [How can Product Owners get maximum value from Scrum?](https://www.scrum.org/resources/blog/how-can-product-owners-get-maximum-value-scrum)
+- [How can Product Owners get Maximum Value from Scrum?](https://www.scrum.org/resources/blog/how-can-product-owners-get-maximum-value-scrum)
 - [Scrum-friendly Environment](https://www.scrum.org/resources/blog/scrum-friendly-environment)
 - [Help Select the Book Cover of the new ‘Scrum Anti-Patterns Guide’ by Pearson](https://www.scrum.org/resources/blog/help-select-book-cover-new-scrum-anti-patterns-guide-pearson)
 - [3 schockierende Probleme mit User Stories, die jeder Product Owner unbedingt vermeiden sollte](https://www.scrum.org/resources/blog/3-schockierende-probleme-mit-user-stories-die-jeder-product-owner-unbedingt)
