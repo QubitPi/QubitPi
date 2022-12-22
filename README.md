@@ -696,6 +696,7 @@ Comprehensive Documentation-Related Forks
 [![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
+[![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)
 
 [![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)
 
