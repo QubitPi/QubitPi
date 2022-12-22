@@ -380,11 +380,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes v1.26: GA Support for Kubelet Credential Providers](https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/)
 - [Blog: Kubernetes 1.26: Introducing Validating Admission Policies](https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/)
 - [Blog: Kubernetes 1.26: Device Manager graduates to GA](https://kubernetes.io/blog/2022/12/19/devicemanager-ga/)
 - [Blog: Kubernetes 1.26: Non-Graceful Node Shutdown Moves to Beta](https://kubernetes.io/blog/2022/12/16/kubernetes-1-26-non-graceful-node-shutdown-beta/)
 - [Blog: Kubernetes 1.26: Alpha API For Dynamic Resource Allocation](https://kubernetes.io/blog/2022/12/15/dynamic-resource-allocation/)
-- [Blog: Kubernetes 1.26: Windows HostProcess Containers Are Generally Available](https://kubernetes.io/blog/2022/12/13/windows-host-process-containers-ga/)
 <!-- KUBERNETES-BLOG:END -->
 
 #### [Kubernetes Documentation](https://kubernetes.io/docs/home/) Updates
