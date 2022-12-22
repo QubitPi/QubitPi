@@ -468,11 +468,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Did you join Kaveh Vahedipour for his wealth of knowledge on ArangoDB clusters? If not, don&#39;t worry. We have you covered with our latest webinar avail...](https://twitter.com/arangodb/status/1606031835556970496)
 - [Fire up the second half of your week by adding the ArangoDB Certification Exam to your schedule. Test your knowledge, complete the certification exami...](https://twitter.com/arangodb/status/1605895942909067265)
 - [Graph analytics can help you fight back against fraud detection. 🥑 Take 10 minutes of your day and learn how you can leverage graph analytics for y...](https://twitter.com/arangodb/status/1605669458076475394)
 - [RT CambridgeIntel: Our flexible #DataVisualization technology combined with @arangodb&#39;s 🥑 powerful query language delivers a formidable investigati...](https://twitter.com/CambridgeIntel/status/1605609042537218050)
 - [Grab some popcorn and get ready to be up to speed with ArangoDB Summit - our first-ever two-day industry event. 🥑 Learn more about use cases, thoug...](https://twitter.com/arangodb/status/1605533604657897472)
+- [Are you not familiar with graph? 🤔 Check out our blog post on what is a graph database to learn the following: ✨ What is a graph? ✨ What is a gra...](https://twitter.com/arangodb/status/1605307064712142848)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
