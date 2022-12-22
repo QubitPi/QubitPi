@@ -307,7 +307,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Research] Singularity in AI measured with data from MT evolving quality](https://www.reddit.com/r/MachineLearning/comments/zsmf37/research_singularity_in_ai_measured_with_data/)
+- [[D] Diversifying your pretraining dataset](https://www.reddit.com/r/MachineLearning/comments/zsmr49/d_diversifying_your_pretraining_dataset/)
 - [[D] L2 - Is higher always better?](https://www.reddit.com/r/MachineLearning/comments/zslfwt/d_l2_is_higher_always_better/)
 - [[P] A self-driving car using Nvidia Jetson Nano, with movement controlled by a pre-trained convolution neural network &lpar;CNN&rpar; written in Taichi](https://www.reddit.com/r/MachineLearning/comments/zshrlv/p_a_selfdriving_car_using_nvidia_jetson_nano_with/)
 - [[P] question about the generate method in a model&lpar;&rpar; from huggingface](https://www.reddit.com/r/MachineLearning/comments/zschtp/p_question_about_the_generate_method_in_a_model/)
