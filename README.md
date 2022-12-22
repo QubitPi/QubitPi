@@ -254,11 +254,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/742420333231865872><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2e03d04cdbe0b92df72e8ab66311a409401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.3# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/742420333231865872)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「长柄武器·薙草之稻光」「单手剑·波乱月白经津」概率UP！ 活动期间，旅行者可以在「神铸赋...](https://t.bilibili.com/742419044738531368)
+- [#原神# #神里绫人# #苍流踏花# 亲爱的旅行者，「苍流踏花」活动祈愿即将开启，「磐祭叶守·神里绫人&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/742418250169581633)
+- [#原神# #雷电将军# #影寂天下人# 亲爱的旅行者，「影寂天下人」活动祈愿即将开启，「一心净土·雷电将军&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/742417739071619094)
 - [#原神# 百鬼奇谈，浮世戏话。 来和派蒙一起来创作轻小说吧！ 欢迎旅行者前往评论区置顶链接参与活动。 〓活动时间〓 2022年12月21日-2022年12月30日23:59 *活动...](https://t.bilibili.com/741988242344116274)
-- [#原神# #风行迷踪# 亲爱的旅行者，「风行迷踪」活动即将开启~ 〓活动时间〓 2022/12/23 10:00 ~ 2023/01/06 03:59 〓参与条件〓 冒险等阶≥20级 〓活动说明〓 ●...](https://t.bilibili.com/741986094859419671)
-- [互动抽奖 #原神# #多莉# #生日快乐# 参观了我的艾尔卡萨扎莱宫，震撼到话都说不出来了？ 门票费用记得结一下哦~只要给我做一份摩拉肉就行，多么划算！ 哦对了，...](https://t.bilibili.com/741985055474188371)
-- [#原神# #来自提瓦特的祝福# 亲爱的旅行者，「来自提瓦特的祝福」网页活动现已开启~ 欢迎旅行者前往评论区置顶链接参与活动，获得并送出专属于你的冬日祝福，即可...](https://t.bilibili.com/741629101468549168)
-- [互动抽奖 #原神# #B站粉丝数突破1500W# 「1500W粉丝数达成！」 旅行者们大家好，《原神》官方B站粉丝数现已突破1500W，为了感谢旅行者们的支持与陪伴，我们将抽...](https://t.bilibili.com/741613781310767302)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
