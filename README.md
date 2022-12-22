@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/741988242344116274><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d6cb1bff6b85055ed9c894e2ed815c2e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/742420333231865872><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2e03d04cdbe0b92df72e8ab66311a409401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 百鬼奇谈，浮世戏话。 来和派蒙一起来创作轻小说吧！ 欢迎旅行者前往评论区置顶链接参与活动。 〓活动时间〓 2022年12月21日-2022年12月30日23:59 *活动...](https://t.bilibili.com/741988242344116274)
