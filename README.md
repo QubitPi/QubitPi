@@ -307,10 +307,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Pixar cartoon movie-making using machine learning, text2movie](https://www.reddit.com/r/MachineLearning/comments/zst0ox/d_pixar_cartoon_moviemaking_using_machine/)
 - [[P] App that Determines Whether You&#39;ve Been Naughty or Nice Based on Your Reddit Comments](https://www.reddit.com/r/MachineLearning/comments/zspu96/p_app_that_determines_whether_youve_been_naughty/)
 - [[D] Any suggested data labeling services for side by side comparison?](https://www.reddit.com/r/MachineLearning/comments/zsps2t/d_any_suggested_data_labeling_services_for_side/)
 - [[P] Regression Model With Added Constraint](https://www.reddit.com/r/MachineLearning/comments/zspe6r/p_regression_model_with_added_constraint/)
-- [[P] StableDiffusion2 meets Danbooru2021 &lpar;anime&rpar;](https://www.reddit.com/r/MachineLearning/comments/zsoaw7/p_stablediffusion2_meets_danbooru2021_anime/)
 - [[D] Diversifying your pretraining dataset](https://www.reddit.com/r/MachineLearning/comments/zsmr49/d_diversifying_your_pretraining_dataset/)
 <!-- REDDIT-ML:END -->
 
