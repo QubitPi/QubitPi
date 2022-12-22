@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1605880631438856194)
-- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1605880354631741440)
-- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1605865643730927617)
 - [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1605839818189144064)
 - [🍿Check out the #Memgraph video &quot;How to contribute to a C++ project?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1605832432829218816)
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1605831329542799360)
+- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1605820937915465728)
+- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1605628419273785362)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
