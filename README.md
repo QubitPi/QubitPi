@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Study: AI Behind ChatGPT Could Help Spot Early Signs of Alzheimer&#39;s Disease](https://www.reddit.com/r/MachineLearning/comments/zsw1ll/study_ai_behind_chatgpt_could_help_spot_early/)
 - [[D] Non-deep Q learning with OpenAI gym lunar lander - anyone?](https://www.reddit.com/r/MachineLearning/comments/zsvsic/d_nondeep_q_learning_with_openai_gym_lunar_lander/)
 - [[D] When chatGPT stops being free: Run SOTA LLM in cloud](https://www.reddit.com/r/MachineLearning/comments/zstequ/d_when_chatgpt_stops_being_free_run_sota_llm_in/)
 - [[P] App that Determines Whether You&#39;ve Been Naughty or Nice Based on Your Reddit Comments](https://www.reddit.com/r/MachineLearning/comments/zspu96/p_app_that_determines_whether_youve_been_naughty/)
 - [[D] Any suggested data labeling services for side by side comparison?](https://www.reddit.com/r/MachineLearning/comments/zsps2t/d_any_suggested_data_labeling_services_for_side/)
-- [[P] Regression Model With Added Constraint](https://www.reddit.com/r/MachineLearning/comments/zspe6r/p_regression_model_with_added_constraint/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
