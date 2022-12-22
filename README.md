@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Any suggested data labeling services for side by side comparison?](https://www.reddit.com/r/MachineLearning/comments/zsps2t/d_any_suggested_data_labeling_services_for_side/)
 - [[P] Regression Model With Added Constraint](https://www.reddit.com/r/MachineLearning/comments/zspe6r/p_regression_model_with_added_constraint/)
 - [[P] StableDiffusion2 meets Danbooru2021 &lpar;anime&rpar;](https://www.reddit.com/r/MachineLearning/comments/zsoaw7/p_stablediffusion2_meets_danbooru2021_anime/)
 - [[D] Diversifying your pretraining dataset](https://www.reddit.com/r/MachineLearning/comments/zsmr49/d_diversifying_your_pretraining_dataset/)
 - [[D] L2 - Is higher always better?](https://www.reddit.com/r/MachineLearning/comments/zslfwt/d_l2_is_higher_always_better/)
-- [[P] A self-driving car using Nvidia Jetson Nano, with movement controlled by a pre-trained convolution neural network &lpar;CNN&rpar; written in Taichi](https://www.reddit.com/r/MachineLearning/comments/zshrlv/p_a_selfdriving_car_using_nvidia_jetson_nano_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
