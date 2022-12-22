@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] question about the generate method in a model&lpar;&rpar; from huggingface](https://www.reddit.com/r/MachineLearning/comments/zschtp/p_question_about_the_generate_method_in_a_model/)
 - [[D] Using &quot;duplicates&quot; during training?](https://www.reddit.com/r/MachineLearning/comments/zsbivc/d_using_duplicates_during_training/)
 - [[D] Tensorflow vs Pytorch for LSTM stock bot](https://www.reddit.com/r/MachineLearning/comments/zs6rpk/d_tensorflow_vs_pytorch_for_lstm_stock_bot/)
 - [[P] Extracting and Structuring Recipes Using GPT3](https://www.reddit.com/r/MachineLearning/comments/zrzhtq/p_extracting_and_structuring_recipes_using_gpt3/)
 - [[D] Build a home PC to Run Large GPT Models or use AWS](https://www.reddit.com/r/MachineLearning/comments/zrx665/d_build_a_home_pc_to_run_large_gpt_models_or_use/)
-- [[D] Opera Blobs](https://www.reddit.com/r/MachineLearning/comments/zrv6fk/d_opera_blobs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
