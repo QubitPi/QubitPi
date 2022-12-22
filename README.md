@@ -185,10 +185,10 @@ If there's a theme that runs through my work and writing on pure tech area, it's
 
 <!-- TECH-BLOG-POST-LIST:START -->
 - [Eclipse IDE Usage Guide](https://qubitpi.github.io/jersey-guide/2022/12/22/eclipse.html)
+- [How to Properly Fork a Maven Project?](https://qubitpi.github.io/jersey-guide/2022/12/21/fork-maven-guide.html)
 - [Using OpenSSL to encrypt messages and files on Linux](https://qubitpi.github.io/jersey-guide/2022/12/19/openssl-encrypy.html)
 - [Amazon AWS Troubleshooting](https://qubitpi.github.io/jersey-guide/2022/10/12/aws-troubleshooting.html)
 - [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/2022/10/09/enterprise-security.html)
-- [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/2022/09/28/kubernetes-basics.html)
 <!-- TECH-BLOG-POST-LIST:END -->
 
 ### Archived Projects
