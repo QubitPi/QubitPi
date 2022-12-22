@@ -519,11 +519,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#reinvent22 -- &gt; Watch our talk! 👇 Walk through how graph features in Neo4j can be used in a supervised learning model trained with #Amazon SageMak...](https://twitter.com/neo4j/status/1606001680667054094)
 - [#TBT to our incredible #NODES2022 Take a look at this recap and comment if you are excited about a new edition! 🙌 &lpar;Remember, you can watch all the ...](https://twitter.com/neo4j/status/1605941820139180034)
 - [Ready to schedule all of our #events? Take a look at this updated agenda of Neo4j&#39;s events and activities. Don&#39;t miss the opportunity! #Neo4j #events ...](https://twitter.com/neo4j/status/1605669530096787470)
 - [Here&#39;s a deeper look into Serverless Applications powered by Graph Database Technology through the lens of Neo4j&#39;s partnership with #AWS - @JMHReif, @...](https://twitter.com/neo4j/status/1605268822432284672)
 - [Kruthi Krishnappa introduces us to graph databases and guides us to create nodes and formulate queries. &quot;When directly compared to MySQL, Neo4j is sig...](https://twitter.com/neo4j/status/1604910710823215104)
+- [RT Eric Kavanagh on #FutureProof: Create Dynamic Serverless Applications with Neo4j Graph Database and AWS #opensource -&gt; via](https://twitter.com/eric_kavanagh/status/1604890151200690176)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
