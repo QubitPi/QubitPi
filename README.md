@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1605820937915465728)
 - [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1605628419273785362)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1605613533361750016)
 - [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1605606531541630976)
 - [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1605594656728911879)
+- [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1605582270265540609)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
