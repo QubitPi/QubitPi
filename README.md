@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1605935983727460352)
+- [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1605930659733770243)
 - [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1605910330319699970)
 - [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1605889342802722817)
 - [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1605880631438856194)
-- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1605880354631741440)
-- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1605865643730927617)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
