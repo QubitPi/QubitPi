@@ -365,11 +365,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [December Extensions Roundup: Improving Visibility for Your APIs and Images](https://www.docker.com/blog/new-extensions-december-2022/)
 - [Reduce Your Image Size with the Dive-In Docker Extension](https://www.docker.com/blog/reduce-your-image-size-with-the-dive-in-docker-extension/)
 - [Configure, Manage, and Simplify Your Observability Data Pipelines with the Calyptia Core Docker Extension](https://www.docker.com/blog/manage-observability-data-pipelines-with-calyptia-core-docker-extension/)
 - [Implement User Authentication Into Your Web Application Using SuperTokens](https://www.docker.com/blog/implement-user-authentication-into-your-web-application-using-supertokens/)
 - [How to Monitor Container Memory and CPU Usage in Docker Desktop](https://www.docker.com/blog/how-to-monitor-container-memory-and-cpu-usage-in-docker-desktop/)
-- [New in Docker Desktop 4.15: Improving Usability and Performance for Easier Builds](https://www.docker.com/blog/docker-desktop-4-15-improved-usability-and-performance/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
