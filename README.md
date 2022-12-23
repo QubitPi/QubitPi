@@ -159,9 +159,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Data/Knowledge Graph
 
-- [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/)
-- [Data Visualization](https://qubitpi.github.io/data_to_viz/)
-- [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/)
+[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/)
 
 #### OpenStack
 
@@ -169,13 +167,13 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies
 
-- [React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
+[React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
 
 #### Backend Dev
 
-- [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
+[Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
-- [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
+[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/)
 
 > The forked repos that genereate all of the "documentation/study notes" above are listed [at the end of this page](https://github.com/QubitPi#comprehensive-documentation-related-forks)
 
