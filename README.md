@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1606299674834571282)
-- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1606277496508407808)
-- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1606277248562200576)
 - [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1606263154350202880)
 - [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1606240572594954240)
+- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1606196998461440001)
+- [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1606189211090042880)
+- [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1606181579805626368)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
