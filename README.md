@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/742420333231865872><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2e03d04cdbe0b92df72e8ab66311a409401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/742726873626181703><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5b8a5d5427b156d3cfb8f536cf5dd0b3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.3# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/742420333231865872)
