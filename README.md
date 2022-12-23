@@ -707,6 +707,7 @@ Comprehensive Documentation-Related Forks
 [![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
 [![W3Schools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=W3Schools&show_owner=true&theme=vue)](https://github.com/QubitPi/W3Schools)
 [![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
+[![three.js](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=three.js&show_owner=true&theme=vue)](https://github.com/QubitPi/three.js)
 
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
