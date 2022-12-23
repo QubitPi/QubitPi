@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Web scraping from Google scholar articles or journal articles](https://www.reddit.com/r/MachineLearning/comments/ztczbj/d_web_scraping_from_google_scholar_articles_or/)
 - [[Discussion] Anyone else having a hard time not getting mad/cringing at the general public anthropomorphizing the hell out of chatGPT?](https://www.reddit.com/r/MachineLearning/comments/ztbsf5/discussion_anyone_else_having_a_hard_time_not/)
 - [[D] Non-deep Q learning with OpenAI gym lunar lander - anyone?](https://www.reddit.com/r/MachineLearning/comments/zsvsic/d_nondeep_q_learning_with_openai_gym_lunar_lander/)
 - [[D] When chatGPT stops being free: Run SOTA LLM in cloud](https://www.reddit.com/r/MachineLearning/comments/zstequ/d_when_chatgpt_stops_being_free_run_sota_llm_in/)
 - [[P] App that Determines Whether You&#39;ve Been Naughty or Nice Based on Your Reddit Comments](https://www.reddit.com/r/MachineLearning/comments/zspu96/p_app_that_determines_whether_youve_been_naughty/)
-- [[D] Any suggested data labeling services for side by side comparison?](https://www.reddit.com/r/MachineLearning/comments/zsps2t/d_any_suggested_data_labeling_services_for_side/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
