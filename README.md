@@ -309,9 +309,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] The chatGPT Chrome extension allows for quicker and more efficient searching by providing the answer to your Google search right on the page.](https://www.reddit.com/r/MachineLearning/comments/zt65he/d_the_chatgpt_chrome_extension_allows_for_quicker/)
 - [[D] Nick Bostrom “Superintelligence” &lpar;2014&rpar; and ChatGPT](https://www.reddit.com/r/MachineLearning/comments/zswlxf/d_nick_bostrom_superintelligence_2014_and_chatgpt/)
-- [Study: AI Behind ChatGPT Could Help Spot Early Signs of Alzheimer&#39;s Disease](https://www.reddit.com/r/MachineLearning/comments/zsw1ll/study_ai_behind_chatgpt_could_help_spot_early/)
 - [[D] Non-deep Q learning with OpenAI gym lunar lander - anyone?](https://www.reddit.com/r/MachineLearning/comments/zsvsic/d_nondeep_q_learning_with_openai_gym_lunar_lander/)
 - [[D] When chatGPT stops being free: Run SOTA LLM in cloud](https://www.reddit.com/r/MachineLearning/comments/zstequ/d_when_chatgpt_stops_being_free_run_sota_llm_in/)
+- [[P] App that Determines Whether You&#39;ve Been Naughty or Nice Based on Your Reddit Comments](https://www.reddit.com/r/MachineLearning/comments/zspu96/p_app_that_determines_whether_youve_been_naughty/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
