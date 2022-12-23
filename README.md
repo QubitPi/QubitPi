@@ -519,11 +519,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [&quot;A Developer&#39;s Guide to Building a Graph Project Value Case&quot; ---&gt; Watch this video and learn how to build a graph project value case. Rik Van Bruggen ...](https://twitter.com/neo4j/status/1606379214671953920)
 - [Loading data from Hive to Neo4j by using #Apache Hop &lpar;all inside docker containers&rpar; 🗳 Read more about how to load data stored in a relational Hive ...](https://twitter.com/neo4j/status/1606333861935333376)
 - [Wishing you and your family a wonderful holiday from all of us Nodes at Neo4j ❤](https://twitter.com/neo4j/status/1606273660867813377)
 - [NEW COURSE available at #GraphAcademy! 🤓 &quot;Building Neo4j Applications with TypeScript&quot; is ready for you to start today. Learn more: #Neo4j #typescr...](https://twitter.com/neo4j/status/1606048203425697794)
 - [#reinvent22 -- &gt; Watch our talk! 👇 Walk through how graph features in Neo4j can be used in a supervised learning model trained with #Amazon SageMak...](https://twitter.com/neo4j/status/1606001680667054094)
+- [#TBT to our incredible #NODES2022 Take a look at this recap and comment if you are excited about a new edition! 🙌 &lpar;Remember, you can watch all the ...](https://twitter.com/neo4j/status/1605941820139180034)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
