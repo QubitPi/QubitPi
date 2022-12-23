@@ -67,8 +67,6 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
-<img align="left" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -171,7 +169,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies
 
-- [React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/)
+- [React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
 
 #### Backend Dev
 
