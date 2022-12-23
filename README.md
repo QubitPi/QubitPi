@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Combining Kakaobrain&#39;s Karlo text-conditional diffusion model with Stable-Diffusion 2.1 &lpar;WebUI&rpar;](https://www.reddit.com/r/MachineLearning/comments/ztkmv7/p_combining_kakaobrains_karlo_textconditional/)
+- [[R] trying to learn the dynamics model &lpar;kinematics to forces&rpar; in flapping robots](https://www.reddit.com/r/MachineLearning/comments/ztkiut/r_trying_to_learn_the_dynamics_model_kinematics/)
 - [[D] Has anyone integrated ChatGPT with scientific papers?](https://www.reddit.com/r/MachineLearning/comments/ztjw7j/d_has_anyone_integrated_chatgpt_with_scientific/)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers: Are there any mathematical or logical proofs as to why pre trained embedding perform better or worse on downstream NLP tasks?](https://www.reddit.com/r/MachineLearning/comments/zthzsn/an_empirical_study_of_training_endtoend/)
 - [[D] Web scraping from Google scholar articles or journal articles](https://www.reddit.com/r/MachineLearning/comments/ztczbj/d_web_scraping_from_google_scholar_articles_or/)
-- [[Discussion] Anyone else having a hard time not getting mad/cringing at the general public anthropomorphizing the hell out of chatGPT?](https://www.reddit.com/r/MachineLearning/comments/ztbsf5/discussion_anyone_else_having_a_hard_time_not/)
-- [[D] Non-deep Q learning with OpenAI gym lunar lander - anyone?](https://www.reddit.com/r/MachineLearning/comments/zsvsic/d_nondeep_q_learning_with_openai_gym_lunar_lander/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
