@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Fourth brain review](https://www.reddit.com/r/MachineLearning/comments/ztv2fm/d_fourth_brain_review/)
 - [I’m looking for resources for building a chatbot without libraries like chatterbot](https://www.reddit.com/r/MachineLearning/comments/ztuowx/im_looking_for_resources_for_building_a_chatbot/)
 - [[D] Meta AI Residency 2023](https://www.reddit.com/r/MachineLearning/comments/ztq2d8/d_meta_ai_residency_2023/)
 - [[P] I trained a model to tell if you were naughty this year](https://www.reddit.com/r/MachineLearning/comments/ztnow6/p_i_trained_a_model_to_tell_if_you_were_naughty/)
 - [[P] Combining Kakaobrain&#39;s Karlo text-conditional diffusion model with Stable-Diffusion 2.1 &lpar;WebUI&rpar;](https://www.reddit.com/r/MachineLearning/comments/ztkmv7/p_combining_kakaobrains_karlo_textconditional/)
-- [[D] Has anyone integrated ChatGPT with scientific papers?](https://www.reddit.com/r/MachineLearning/comments/ztjw7j/d_has_anyone_integrated_chatgpt_with_scientific/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
