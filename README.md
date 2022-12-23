@@ -67,6 +67,8 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
+<img align="left" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 
