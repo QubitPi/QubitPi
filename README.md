@@ -311,7 +311,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] What is the point of Sparse autoencoders?](https://www.reddit.com/r/MachineLearning/comments/ztpttd/d_what_is_the_point_of_sparse_autoencoders/)
 - [[P] I trained a model to tell if you were naughty this year](https://www.reddit.com/r/MachineLearning/comments/ztnow6/p_i_trained_a_model_to_tell_if_you_were_naughty/)
 - [[P] Combining Kakaobrain&#39;s Karlo text-conditional diffusion model with Stable-Diffusion 2.1 &lpar;WebUI&rpar;](https://www.reddit.com/r/MachineLearning/comments/ztkmv7/p_combining_kakaobrains_karlo_textconditional/)
-- [[R] trying to learn the dynamics model &lpar;kinematics to forces&rpar; in flapping robots](https://www.reddit.com/r/MachineLearning/comments/ztkiut/r_trying_to_learn_the_dynamics_model_kinematics/)
+- [[D] Has anyone integrated ChatGPT with scientific papers?](https://www.reddit.com/r/MachineLearning/comments/ztjw7j/d_has_anyone_integrated_chatgpt_with_scientific/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
