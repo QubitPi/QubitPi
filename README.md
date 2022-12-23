@@ -589,7 +589,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [#29 - Mobile App Concept](https://dribbble.com/shots/20166390)
 - [VOUM website development](https://dribbble.com/shots/20169677)
 - [Apres — Brand Identity Design](https://dribbble.com/shots/20177733)
-- [Flatfile Logotype Branding, business visual identity, corporate](https://dribbble.com/shots/20166159)
+- [Flatfile Logo Branding](https://dribbble.com/shots/20166159)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
