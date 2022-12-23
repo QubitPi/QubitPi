@@ -501,11 +501,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1606263154350202880)
-- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1606240572594954240)
 - [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1606196998461440001)
 - [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1606189211090042880)
 - [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1606181579805626368)
+- [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1605989848787075077)
+- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1605980439029628945)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
