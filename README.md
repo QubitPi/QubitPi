@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I made a project to find good real-estate deals online using machine learning](https://www.reddit.com/r/MachineLearning/comments/zubok1/p_i_made_a_project_to_find_good_realestate_deals/)
+- [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/zubns9/p_implementing_convolutional_neural_network_for/)
 - [[R][P] I made an app for Instant Image/Text to 3D using PointE from OpenAI](https://www.reddit.com/r/MachineLearning/comments/zubg2u/rp_i_made_an_app_for_instant_imagetext_to_3d/)
 - [[D] GPT3 Concrete applications &lpar;With python code snippets&rpar;. Do you see other ones ?](https://www.reddit.com/r/MachineLearning/comments/zuadio/d_gpt3_concrete_applications_with_python_code/)
 - [[D] Quadratic Discriminant Analysis](https://www.reddit.com/r/MachineLearning/comments/zu7xxf/d_quadratic_discriminant_analysis/)
-- [[N] open source AR and VR algorithm toolbox launched with SLAM, structure from motion, visual localization, motion capture, motion generation, and NeRF](https://www.reddit.com/r/MachineLearning/comments/zu5cem/n_open_source_ar_and_vr_algorithm_toolbox/)
-- [[R] Researchers developed computational method for finding Causal Functional Connectivity](https://www.reddit.com/r/MachineLearning/comments/zu4gk2/r_researchers_developed_computational_method_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
