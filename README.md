@@ -161,9 +161,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/)
 
-#### OpenStack
+#### Software Infrastructure
 
-[Swift](https://qubitpi.github.io/swift/) [Chef](https://qubitpi.github.io/chef-web-docs/)
+[OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/)
 
 #### Frontend Technologies
 
