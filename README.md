@@ -509,11 +509,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [We wish all of you wonderful and joy filled holidays. 🎄🎅 #memgraph #database](https://twitter.com/memgraphdb/status/1606740518452486145)
-- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1606727081454440450)
 - [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1606708750424891393)
 - [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1606682977836142593)
 - [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1606679129092460548)
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1606644165760147457)
+- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. #memgraph #grap...](https://twitter.com/memgraphdb/status/1606644161091969027)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
