@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What&#39;s the best application you used a generative model for this year ?](https://www.reddit.com/r/MachineLearning/comments/zu9mil/d_whats_the_best_application_you_used_a/)
 - [[D] Quadratic Discriminant Analysis](https://www.reddit.com/r/MachineLearning/comments/zu7xxf/d_quadratic_discriminant_analysis/)
 - [[N] open source AR and VR algorithm toolbox launched with SLAM, structure from motion, visual localization, motion capture, motion generation, and NeRF](https://www.reddit.com/r/MachineLearning/comments/zu5cem/n_open_source_ar_and_vr_algorithm_toolbox/)
 - [[R] Researchers developed computational method for finding Causal Functional Connectivity](https://www.reddit.com/r/MachineLearning/comments/zu4gk2/r_researchers_developed_computational_method_for/)
 - [[P] Annotated History of Modern AI and Deep Learning &lpar;Schmidhuber&rpar;](https://www.reddit.com/r/MachineLearning/comments/ztxyui/p_annotated_history_of_modern_ai_and_deep/)
-- [[D] Meta AI Residency 2023](https://www.reddit.com/r/MachineLearning/comments/ztq2d8/d_meta_ai_residency_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
