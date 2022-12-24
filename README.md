@@ -716,5 +716,6 @@ Comprehensive Documentation-Related Forks
 [![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
 [![Study OAuth 2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=oauth-in-action-code&show_owner=true&theme=vue)](https://github.com/QubitPi/oauth-in-action-code)
 
+[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
