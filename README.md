@@ -163,7 +163,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### OpenStack
 
-[Swift](https://qubitpi.github.io/swift/)
+[Swift](https://qubitpi.github.io/swift/) [Chef](https://qubitpi.github.io/chef-web-docs/)
 
 #### Frontend Technologies
 
