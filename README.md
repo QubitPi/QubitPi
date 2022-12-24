@@ -68,8 +68,13 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
-[![QubitpI's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue)](https://github.com/QubitPi?tab=repositories)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+
+[![QubitpI's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue)](https://github.com/QubitPi?tab=repositories)
+    
+</div>
 
 My Open Source Projects
 -----------------------
