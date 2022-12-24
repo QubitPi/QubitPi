@@ -509,11 +509,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1606679129092460548)
 - [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1606644165760147457)
 - [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. #memgraph #grap...](https://twitter.com/memgraphdb/status/1606644161091969027)
 - [Graph algorithms are a set of instructions that traverse &lpar;visits nodes of&rpar; a graph and find specific nodes, paths, or a path between two nodes. Some o...](https://twitter.com/memgraphdb/status/1606627948995530755)
 - [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1606616492631592963)
-- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1606599956344836098)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
