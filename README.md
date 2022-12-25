@@ -315,7 +315,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] CV Review](https://www.reddit.com/r/MachineLearning/comments/zuww4t/d_cv_review/)
+- [[D] CV Review](https://www.reddit.com/r/MachineLearning/comments/zux2id/d_cv_review/)
 - [[Project] The Daily AI - A daily newsletter keeping you up-to-date in this fast moving world of AI &amp; ML!](https://www.reddit.com/r/MachineLearning/comments/zuw3b6/project_the_daily_ai_a_daily_newsletter_keeping/)
 - [[D] Productionizing large scale ML model that can forecast sales for hundred-thousands of products for multiple stores &lpar;SKU/store&rpar;](https://www.reddit.com/r/MachineLearning/comments/zujr8y/d_productionizing_large_scale_ml_model_that_can/)
 - [[D] What are some applied domains where academic ML researchers are hoping to produce impressive results soon?](https://www.reddit.com/r/MachineLearning/comments/zuc879/d_what_are_some_applied_domains_where_academic_ml/)
