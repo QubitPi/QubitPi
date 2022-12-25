@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] It was one of those nights again...](https://www.reddit.com/r/MachineLearning/comments/zv4o1t/d_it_was_one_of_those_nights_again/)
 - [[D] Are reviewer blacklists actually implemented at ML conferences?](https://www.reddit.com/r/MachineLearning/comments/zuyy3j/d_are_reviewer_blacklists_actually_implemented_at/)
 - [[D] The case for deep learning for tabular data](https://www.reddit.com/r/MachineLearning/comments/zux783/d_the_case_for_deep_learning_for_tabular_data/)
 - [[D] What are some applied domains where academic ML researchers are hoping to produce impressive results soon?](https://www.reddit.com/r/MachineLearning/comments/zuc879/d_what_are_some_applied_domains_where_academic_ml/)
 - [[P] I made a project to find good real-estate deals online using machine learning](https://www.reddit.com/r/MachineLearning/comments/zubok1/p_i_made_a_project_to_find_good_realestate_deals/)
+- [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/zubns9/p_implementing_convolutional_neural_network_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
