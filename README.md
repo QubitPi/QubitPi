@@ -509,11 +509,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1606922452851990528)
-- [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1606915977433808899)
-- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1606904716243476485)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1606765179991203845)
 - [We wish all of you wonderful and joy filled holidays. 🎄🎅 #memgraph #database](https://twitter.com/memgraphdb/status/1606740518452486145)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1606727081454440450)
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1606708750424891393)
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1606682977836142593)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
