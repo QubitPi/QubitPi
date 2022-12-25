@@ -259,7 +259,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/742726873626181703><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5b8a5d5427b156d3cfb8f536cf5dd0b3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743522533504974881><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e0e4bf324b4e367858b064e6875ccca31669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.3风行迷踪视频征集活动# #原神UP主激励计划# 《原神》「风行迷踪」趣味视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年12...](https://t.bilibili.com/742726873626181703)
