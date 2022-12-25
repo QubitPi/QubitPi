@@ -527,11 +527,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1607105172429234176)
 - [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1607044012145270787)
 - [&quot;A Developer&#39;s Guide to Building a Graph Project Value Case&quot; ---&gt; Watch this video and learn how to build a graph project value case. Rik Van Bruggen ...](https://twitter.com/neo4j/status/1606379214671953920)
 - [Loading data from Hive to Neo4j by using #Apache Hop &lpar;all inside docker containers&rpar; 🗳 Read more about how to load data stored in a relational Hive ...](https://twitter.com/neo4j/status/1606333861935333376)
 - [Wishing you and your family a wonderful holiday from all of us Nodes at Neo4j ❤](https://twitter.com/neo4j/status/1606273660867813377)
-- [NEW COURSE available at #GraphAcademy! 🤓 &quot;Building Neo4j Applications with TypeScript&quot; is ready for you to start today. Learn more: #Neo4j #typescr...](https://twitter.com/neo4j/status/1606048203425697794)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
