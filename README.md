@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Are reviewer blacklists actually implemented at ML conferences?](https://www.reddit.com/r/MachineLearning/comments/zuyy3j/d_are_reviewer_blacklists_actually_implemented_at/)
 - [[D] Productionizing large scale ML model that can forecast sales for hundred-thousands of products for multiple stores &lpar;SKU/store&rpar;](https://www.reddit.com/r/MachineLearning/comments/zujr8y/d_productionizing_large_scale_ml_model_that_can/)
 - [[D] What are some applied domains where academic ML researchers are hoping to produce impressive results soon?](https://www.reddit.com/r/MachineLearning/comments/zuc879/d_what_are_some_applied_domains_where_academic_ml/)
 - [[P] I made a project to find good real-estate deals online using machine learning](https://www.reddit.com/r/MachineLearning/comments/zubok1/p_i_made_a_project_to_find_good_realestate_deals/)
 - [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/zubns9/p_implementing_convolutional_neural_network_for/)
-- [[R][P] I made an app for Instant Image/Text to 3D using PointE from OpenAI](https://www.reddit.com/r/MachineLearning/comments/zubg2u/rp_i_made_an_app_for_instant_imagetext_to_3d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
