@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
-- [Formation of Robust Bound States of Interacting Photons](http://ai.googleblog.com/2022/12/formation-of-robust-bound-states-of.html)
-- [Private Ads Prediction with DP-SGD](http://ai.googleblog.com/2022/12/private-ads-prediction-with-dp-sgd.html)
-- [Google at EMNLP 2022](http://ai.googleblog.com/2022/12/google-at-emnlp-2022.html)
-- [Will You Find These Shortcuts?](http://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
-- [Talking to Robots in Real Time](http://ai.googleblog.com/2022/12/talking-to-robots-in-real-time.html)
+- [EHR-Safe: Generating High-Fidelity and Privacy-Preserving Synthetic Electronic Health Records](http://ai.googleblog.com/2022/12/ehr-safe-generating-high-fidelity-and.html)
+- [Differential Privacy Accounting by Connecting the Dots](http://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html)
+- [Accelerating Text Generation with Confident Adaptive Language Modeling &lpar;CALM&rpar;](http://ai.googleblog.com/2022/12/accelerating-text-generation-with.html)
+- [Who Said What? Recorder&#39;s On-device Solution for Labeling Speakers](http://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html)
+- [RT-1: Robotics Transformer for Real-World Control at Scale](http://ai.googleblog.com/2022/12/rt-1-robotics-transformer-for-real.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
