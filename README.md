@@ -262,11 +262,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743522533504974881><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e0e4bf324b4e367858b064e6875ccca31669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇]](https://t.bilibili.com/743522533504974881)
 - [#原神# #原神3.3风行迷踪视频征集活动# #原神UP主激励计划# 《原神》「风行迷踪」趣味视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年12...](https://t.bilibili.com/742726873626181703)
 - [#原神# #原神3.3# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/742420333231865872)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「长柄武器·薙草之稻光」「单手剑·波乱月白经津」概率UP！ 活动期间，旅行者可以在「神铸赋...](https://t.bilibili.com/742419044738531368)
 - [#原神# #神里绫人# #苍流踏花# 亲爱的旅行者，「苍流踏花」活动祈愿即将开启，「磐祭叶守·神里绫人&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/742418250169581633)
-- [#原神# #雷电将军# #影寂天下人# 亲爱的旅行者，「影寂天下人」活动祈愿即将开启，「一心净土·雷电将军&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/742417739071619094)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
