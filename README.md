@@ -385,10 +385,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Blog: Kubernetes 1.26: Device Manager graduates to GA](https://kubernetes.io/blog/2022/12/19/devicemanager-ga/)
 <!-- KUBERNETES-BLOG:END -->
 
-#### [Helm Documentation](https://helm.sh/docs/) Updates
-
-<!-- HELM-DOC-CHANGES:START --><li>Sun Dec 04 2022 1:16 AM <a href=https://github.com/helm/helm-www/commit/d0decda7c04293349c174e66f86c1f5712b6de88>Merge pull request #1403 from miles-w-3/libary-chart-details</a></li><li>Fri Dec 02 2022 8:30 AM <a href=https://github.com/helm/helm-www/commit/72d17c94aec3058ce1f67a9a1455702b2ab484c0>fix typo in example for `ago` function</a></li><li>Tue Nov 29 2022 3:32 AM <a href=https://github.com/helm/helm-www/commit/319df1da71f7f3aad39cacefc8071d220e259745>Added details on library chart differences from application charts</a></li><li>Tue Nov 22 2022 7:14 PM <a href=https://github.com/helm/helm-www/commit/ef38d28049db7f1164afcdb6df442df60eace1ed>Merge pull request #1359 from rchincha/zot</a></li><li>Tue Nov 22 2022 5:26 PM <a href=https://github.com/helm/helm-www/commit/ec367a86695956bb82f9993d53a09678a9a9afbe>Merge pull request #1379 from kubeshop/main</a></li><!-- HELM-DOC-CHANGES:END -->
-
 #### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
 
 <img width="20%" align="right" src="./img/dockerjenkins.png">
