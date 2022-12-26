@@ -682,8 +682,7 @@ Comprehensive Documentation-Related Forks
 
 ### Software Infrastructure
 
-[![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)
-[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)[![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
+[![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)[![docker-swift-onlyone](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=vue)](https://github.com/QubitPi/docker-swift-onlyone)[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)[![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
 
 ### Frontend Technologies
 
