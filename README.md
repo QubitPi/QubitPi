@@ -487,11 +487,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We&#39;ve recently released a new product: Neo4j Ops Manager and We learned quite a bit from the experience of building it! In this session, Sascha Peuker...](https://twitter.com/neo4j/status/1607466309813473281)
 - [NODES 2022 Best of! Day 1 #nodes2022](https://twitter.com/neo4j/status/1607420946763202561)
 - [Over the next few days we will show a #NODES2022 #bestof Starting Day1: Playing With State Machines @halftep Using Graph Technology to Understand Your...](https://twitter.com/neo4j/status/1607383103420383233)
 - [&quot;Here’s what I learned at NODES 22 about what’s possible from #DataGraphs and #DataScience. &quot; by B. Cameron Gain ✅ via @thenewstack #GraphDataScien...](https://twitter.com/neo4j/status/1607345512071438336)
-- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1607105172429234176)
-- [🆕 Course Alert - Neo4j Go Driver In the course, you will learn: ☑ All about the Neo4j Go Driver ☑ Database sessions ☑ Read and write transaction...](https://twitter.com/neo4j/status/1607044012145270787)
+- [RT Rafael del Nero: Graph Data Structure with #Java:](https://twitter.com/RafaDelNero/status/1607307916108877825)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
