@@ -109,7 +109,7 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20191124@proton.me"
-          commit_message: "Kubernetes doc changes"
+          commit_message: "Docker doc changes"
           comment_tag_name: "DOCKER-DOC-CHANGES"
           max_post_count: "5"
           feed_list: "https://github.com/docker/docs/commits.atom"
@@ -128,20 +128,6 @@ jobs:
           comment_tag_name: "KUBERNETES-BLOG"
           max_post_count: "5"
           feed_list: "https://kubernetes.io/feed.xml"
-  kubernetes-doc-changes:
-    name: Kubernetes Doc Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Kubernetes doc changes"
-          comment_tag_name: "KUBERNETES-DOC-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/kubernetes/website/main/content/en"
-          template: "<li>$date <a href=$url>$title</a></li>"
   helm-doc-changes:
     name: Helm Doc Changes
     runs-on: ubuntu-latest
