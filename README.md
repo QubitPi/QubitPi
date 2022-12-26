@@ -166,7 +166,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Software Infrastructure
 
-[OpenStack Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/)([What is OpenStack?](https://youtu.be/locCs2Duk5U)) | [OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)
+[OpenStack Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/)([What is OpenStack?](https://youtu.be/locCs2Duk5U)) | [OpenStack Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)
 
 #### Frontend Technologies
 
