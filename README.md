@@ -71,9 +71,8 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/16126939/209441276-7608f1c6-f600-4f89-8b03-9c91e3410895.png" alt="可莉" width="20%">
-[![QubitpI's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue)](https://github.com/QubitPi?tab=repositories)
-    
+<img src="https://user-images.githubusercontent.com/16126939/209441276-7608f1c6-f600-4f89-8b03-9c91e3410895.png" alt="可莉" width="20%"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue">
+
 </div>
 
 My Open Source Projects
