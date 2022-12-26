@@ -171,7 +171,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Software Infrastructure
 
-[OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/)
+[OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/)
 
 #### Frontend Technologies
 
@@ -712,7 +712,7 @@ Comprehensive Documentation-Related Forks
 ### Software Infrastructure
 
 [![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)
-[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)
+[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)[![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
 
 ### Frontend Technologies
 
