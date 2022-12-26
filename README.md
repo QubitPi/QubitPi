@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I built an API that makes it easy and cheap for developers to build ML-powered apps using Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zvzix2/p_i_built_an_api_that_makes_it_easy_and_cheap_for/)
+- [[R] Character-Aware Models Improve Visual Text Rendering - Google Research 2022 - Training the text encoder on the actual characters instead of tokens improves spelling capabilities!](https://www.reddit.com/r/MachineLearning/comments/zvzbft/r_characteraware_models_improve_visual_text/)
 - [[D] Image Dataset Visualisation](https://www.reddit.com/r/MachineLearning/comments/zvyj99/d_image_dataset_visualisation/)
 - [[D] Normalized images in UNET](https://www.reddit.com/r/MachineLearning/comments/zvraje/d_normalized_images_in_unet/)
 - [[D] SE for machine learning reaserch](https://www.reddit.com/r/MachineLearning/comments/zvnjox/d_se_for_machine_learning_reaserch/)
-- [[D] Panel Data Model Evaluation](https://www.reddit.com/r/MachineLearning/comments/zvnbdh/d_panel_data_model_evaluation/)
-- [[Discussion] Stochastic Depth with BatchNorm ?](https://www.reddit.com/r/MachineLearning/comments/zvjr02/discussion_stochastic_depth_with_batchnorm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
