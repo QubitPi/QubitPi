@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [AMD Ryzen 7 or 9 VS Intel core 7 or 9. Use ML and DL ? Which one should I buy ? [D]](https://www.reddit.com/r/MachineLearning/comments/zvrgdk/amd_ryzen_7_or_9_vs_intel_core_7_or_9_use_ml_and/)
 - [[D] Normalized images in UNET](https://www.reddit.com/r/MachineLearning/comments/zvraje/d_normalized_images_in_unet/)
 - [[D] SE for machine learning reaserch](https://www.reddit.com/r/MachineLearning/comments/zvnjox/d_se_for_machine_learning_reaserch/)
 - [[D] Panel Data Model Evaluation](https://www.reddit.com/r/MachineLearning/comments/zvnbdh/d_panel_data_model_evaluation/)
 - [[Discussion] Stochastic Depth with BatchNorm ?](https://www.reddit.com/r/MachineLearning/comments/zvjr02/discussion_stochastic_depth_with_batchnorm/)
+- [Trippy Inkpunk Style animation using Stable Diffusion [P]](https://www.reddit.com/r/MachineLearning/comments/zvbjot/trippy_inkpunk_style_animation_using_stable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
