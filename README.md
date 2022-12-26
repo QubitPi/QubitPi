@@ -673,20 +673,40 @@ Comprehensive Documentation-Related Forks
 
 ### Data/Knowledge Graph
 
-[![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)[![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)[![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
+[![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
+[![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
+[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
+[![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
+[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
 
 ### Software Infrastructure
 
-[![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)[![docker-swift-onlyone](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=vue)](https://github.com/QubitPi/docker-swift-onlyone)[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)[![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
+[![swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=swift&show_owner=true&theme=vue)](https://github.com/QubitPi/swift)
+[![docker-swift-onlyone](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=vue)](https://github.com/QubitPi/docker-swift-onlyone)
+[![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)
+[![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
 
 ### Frontend Technologies
 
-[![reactjs.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactjs.org&show_owner=true&theme=vue)](https://github.com/QubitPi/reactjs.org)[![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)[![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)[![W3Schools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=W3Schools&show_owner=true&theme=vue)](https://github.com/QubitPi/W3Schools)[![three.js](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=three.js&show_owner=true&theme=vue)](https://github.com/QubitPi/three.js)[![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
+[![reactjs.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactjs.org&show_owner=true&theme=vue)](https://github.com/QubitPi/reactjs.org)
+[![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
+[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
+[![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
+[![W3Schools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=W3Schools&show_owner=true&theme=vue)](https://github.com/QubitPi/W3Schools)
+[![three.js](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=three.js&show_owner=true&theme=vue)](https://github.com/QubitPi/three.js)
+[![mdn-content](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdn-content&show_owner=true&theme=vue)](https://github.com/QubitPi/mdn-content)
 
 ### Backend Dev
 
-[![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)[![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)[![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)[![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)[![Study OAuth 2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=oauth-in-action-code&show_owner=true&theme=vue)](https://github.com/QubitPi/oauth-in-action-code)
+[![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
+[![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
+[![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
+[![Securing React App with Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-keycloak-authentication&show_owner=true&theme=vue)](https://github.com/QubitPi/react-keycloak-authentication)
+[![keycloak-mock](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-mock&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-mock)
+[![Study OAuth 2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=oauth-in-action-code&show_owner=true&theme=vue)](https://github.com/QubitPi/oauth-in-action-code)
 
 ### Miscellaneous
 
-[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)[![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
+[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
+[![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
