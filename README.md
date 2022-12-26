@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] databrick question](https://www.reddit.com/r/MachineLearning/comments/zvuc7n/discussion_databrick_question/)
 - [[D] Outperform GPT3 in a very specific task](https://www.reddit.com/r/MachineLearning/comments/zvs3w5/d_outperform_gpt3_in_a_very_specific_task/)
 - [[D] Normalized images in UNET](https://www.reddit.com/r/MachineLearning/comments/zvraje/d_normalized_images_in_unet/)
 - [[D] SE for machine learning reaserch](https://www.reddit.com/r/MachineLearning/comments/zvnjox/d_se_for_machine_learning_reaserch/)
 - [[D] Panel Data Model Evaluation](https://www.reddit.com/r/MachineLearning/comments/zvnbdh/d_panel_data_model_evaluation/)
-- [[Discussion] Stochastic Depth with BatchNorm ?](https://www.reddit.com/r/MachineLearning/comments/zvjr02/discussion_stochastic_depth_with_batchnorm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
