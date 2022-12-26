@@ -256,7 +256,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743840253703356416><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/24a4f645a330d28868aeb47f45e50b87401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743881214820089873><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/748f3e2099d2f4e8b9cfff963dd84800401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #2022最美的夜跨年晚会# 记得一起看节目哦~ 链接：https://www.bilibili.com/kuawan/2022nye/pc](https://t.bilibili.com/743840253703356416)
