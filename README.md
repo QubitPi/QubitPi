@@ -405,12 +405,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 * [Docker Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/10/24/docker-basics.html)
 * [Kubernetes Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/09/28/kubernetes-basics.html)
 
-<img width="20%" align="right" src="./img/chef-logo.png">
-
-#### [Chef Documentation](https://docs.chef.io/) Updates
-
-<!-- CHEF-DOC-CHANGES:START --><li>Fri Dec 16 2022 7:16 PM <a href=https://github.com/chef/chef-web-docs/commit/76581541cf8be521cd8102817683e4e59c3a090e>correct most likely fetcher used with specified reporter &lpar;#4012&rpar;</a></li><li>Thu Dec 01 2022 2:40 PM <a href=https://github.com/chef/chef-web-docs/commit/2bae696b13cf33e1464ae2858ffa4405c6299cb5>Bump EOL and deprecated versions of Client -- Do Not Merge Until Nov 30 &lpar;#4002&rpar;</a></li><li>Tue Nov 15 2022 10:23 PM <a href=https://github.com/chef/chef-web-docs/commit/b899aa4931d9a8fef45f6518040877a1f4f8da4d>Update supported client version &lpar;#4001&rpar;</a></li><li>Tue Nov 08 2022 7:37 PM <a href=https://github.com/chef/chef-web-docs/commit/9bb7fbc953f560d1348fda1e349ff0ac97dadd2b>Revert &quot;Merge pull request #3960 from chef/faq_for_aws_marketplace&quot; &lpar;#3994&rpar;</a></li><li>Wed Nov 02 2022 7:49 AM <a href=https://github.com/chef/chef-web-docs/commit/d8312fd06c7fa0d17f56e9bba1221d149ed19a4c>minor changes</a></li><!-- CHEF-DOC-CHANGES:END -->
-
 #### Study Notes <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
 * [Chef 101](https://youtu.be/tt9_aWiSW5M)
