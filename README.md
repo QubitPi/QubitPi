@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I have a project that tests the combination of ChatGPT and search engines. It&#39;s an extension that displays the answer to each search query on Google, Bing, and Duckduckgo. I want everyone to test it and give me feedback](https://www.reddit.com/r/MachineLearning/comments/zvh354/p_i_have_a_project_that_tests_the_combination_of/)
 - [Shiva Trippy Trance using Stable Diffusion Deforum [P]](https://www.reddit.com/r/MachineLearning/comments/zvcwzc/shiva_trippy_trance_using_stable_diffusion/)
 - [Trippy Inkpunk Style animation using Stable Diffusion [P]](https://www.reddit.com/r/MachineLearning/comments/zvbjot/trippy_inkpunk_style_animation_using_stable/)
 - [[D] Classification task based on speech recordings](https://www.reddit.com/r/MachineLearning/comments/zvb6l5/d_classification_task_based_on_speech_recordings/)
 - [[D] Are reviewer blacklists actually implemented at ML conferences?](https://www.reddit.com/r/MachineLearning/comments/zuyy3j/d_are_reviewer_blacklists_actually_implemented_at/)
-- [[D] The case for deep learning for tabular data](https://www.reddit.com/r/MachineLearning/comments/zux783/d_the_case_for_deep_learning_for_tabular_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
