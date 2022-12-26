@@ -28,7 +28,6 @@ Welome to Jack (Jiaqi)'s GitHub Page
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jack20191124@proton.me)](mailto:jack20191124@proton.me)
 
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
 )](https://youtu.be/locCs2Duk5U)
@@ -70,10 +69,9 @@ My name is Jiaqi. I am a CEO and Co-Founder of a private [data-tech startup](htt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubitPi&count_private=true&theme=vue&hide_border=true&show_icons=true&hide=tex)](https://github.com/QubitPi?tab=repositories)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://user-images.githubusercontent.com/16126939/209441276-7608f1c6-f600-4f89-8b03-9c91e3410895.png" alt="可莉" width="20%" align="left">
-
 <div align="right">
 
+<img src="https://user-images.githubusercontent.com/16126939/209441276-7608f1c6-f600-4f89-8b03-9c91e3410895.png" alt="可莉" width="20%" align="left">
 [![QubitpI's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue)](https://github.com/QubitPi?tab=repositories)
     
 </div>
