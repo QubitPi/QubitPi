@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Shiva Trippy Trance using Stable Diffusion Deforum [P]](https://www.reddit.com/r/MachineLearning/comments/zvcwzc/shiva_trippy_trance_using_stable_diffusion/)
 - [Trippy Inkpunk Style animation using Stable Diffusion [P]](https://www.reddit.com/r/MachineLearning/comments/zvbjot/trippy_inkpunk_style_animation_using_stable/)
 - [[D] Classification task based on speech recordings](https://www.reddit.com/r/MachineLearning/comments/zvb6l5/d_classification_task_based_on_speech_recordings/)
 - [[D] Are reviewer blacklists actually implemented at ML conferences?](https://www.reddit.com/r/MachineLearning/comments/zuyy3j/d_are_reviewer_blacklists_actually_implemented_at/)
 - [[D] The case for deep learning for tabular data](https://www.reddit.com/r/MachineLearning/comments/zux783/d_the_case_for_deep_learning_for_tabular_data/)
-- [[D] What are some applied domains where academic ML researchers are hoping to produce impressive results soon?](https://www.reddit.com/r/MachineLearning/comments/zuc879/d_what_are_some_applied_domains_where_academic_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
