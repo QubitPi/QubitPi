@@ -166,7 +166,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Software Infrastructure
 
-[OpenStack Swift](https://qubitpi.github.io/swift/) | [Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)
+[OpenStack Swift](https://qubitpi.github.io/swift/)([What is OpenStack?](https://youtu.be/locCs2Duk5U)) | [Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)
 
 #### Frontend Technologies
 
@@ -343,7 +343,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
-* [OpenStack 101](https://youtu.be/locCs2Duk5U)
 * [OpenStack Basics](https://qubitpi.github.io/jersey-guide/finalized/2021/08/20/openstack.html)
 * [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/finalized/2022/10/09/enterprise-security.html)
 
