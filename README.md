@@ -436,11 +436,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [In this article for Tech Target, Gartner analyst Mark Beyer discusses what analytic leaders need to know about graph technologies. 🔥 Read the full ...](https://twitter.com/arangodb/status/1607345513275195393)
 - [From everyone here at ArangoDB - We wish you a happy holiday season.🎄🎊🎁 #InsideArangoDB](https://twitter.com/arangodb/status/1606998229362642944)
 - [Go graph with ArangoDB! 🔥 Learn more about why users switch from relational to graph databases and how ArangoDB is the best way to do it. 🥑 Down...](https://twitter.com/arangodb/status/1606666024799158272)
 - [Check out this great resource on a brief but insightful post on what is a graph database. 😎](https://twitter.com/arangodb/status/1606394239570661376)
 - [Get started with the ArangoGraph Insights Platform with our guided tour! ✨ Register today and have a 14-day free trial on us. 🥑](https://twitter.com/arangodb/status/1606258340249718785)
+- [Did you join Kaveh Vahedipour for his wealth of knowledge on ArangoDB clusters? If not, don&#39;t worry. We have you covered with our latest webinar avail...](https://twitter.com/arangodb/status/1606031835556970496)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
