@@ -257,11 +257,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743933016404918312><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ff5d048971efbc5b6586d9e9fcdc1892401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@足各人木木@lymember@Reamt等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743933016404918312)
 - [恭喜@卖黄瓜的女孩@晚安碎月@夏目c瞳等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743881214820089873)
 - [#原神# #2022最美的夜跨年晚会# 记得一起看节目哦~ 链接：https://www.bilibili.com/kuawan/2022nye/pc](https://t.bilibili.com/743840253703356416)
 - [[原神_哇]](https://t.bilibili.com/743522533504974881)
 - [#原神# #原神3.3风行迷踪视频征集活动# #原神UP主激励计划# 《原神》「风行迷踪」趣味视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 2022年12...](https://t.bilibili.com/742726873626181703)
-- [#原神# #原神3.3# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/742420333231865872)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
