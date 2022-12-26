@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1607422530884714501)
+- [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1607419413799526401)
+- [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1607414933632712707)
+- [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1607414921163071490)
 - [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1607393097524158464)
-- [❗️ If you like using NetworkX as a graph analytic tool required for your project but often need to reach for other tools, remember that #Memgraph ca...](https://twitter.com/memgraphdb/status/1607377999308939267)
-- [🍿Check out the #Memgraph video &quot;Apache Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1607369036270125058)
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1607357624860778496)
-- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1607308279838916609)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
