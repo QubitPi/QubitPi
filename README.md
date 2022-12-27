@@ -495,11 +495,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Use graph theory to discover inbreeding in family trees: you can discover every ancestor in each path to every ancestor you share with cousins.😮�...](https://twitter.com/neo4j/status/1607753404830388224)
 - [Day2 of #NODES2022 #bestof with: Neo4j Lectures of the Stanford CS224W Course - Zihao Zhang Building a Visual Rail Planner with NeoDash - Niels De Jon...](https://twitter.com/neo4j/status/1607731901892009985)
 - [Apache Hop &amp; #Neo4j🚀 #graphdatabase #ApacheHop](https://twitter.com/neo4j/status/1607709908106969093)
 - [We&#39;ve recently released a new product: Neo4j Ops Manager and We learned quite a bit from the experience of building it! In this session, Sascha Peuker...](https://twitter.com/neo4j/status/1607466309813473281)
 - [NODES 2022 Best of! Day 1 #nodes2022](https://twitter.com/neo4j/status/1607420946763202561)
-- [Over the next few days we will show a #NODES2022 #bestof Starting Day1: Playing With State Machines @halftep Using Graph Technology to Understand Your...](https://twitter.com/neo4j/status/1607383103420383233)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
