@@ -64,8 +64,8 @@ Welome to Jack (Jiaqi)'s Tech World
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
-My Open Source Projects
------------------------
+My Open Source Portfolio
+------------------------
 
 [ ![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white) ](https://trello.com/b/H6whJsET)[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![Observable ](https://img.shields.io/badge/Observable-1C1C1C?style=for-the-badge&logo=Observable&logoColor=white) ](https://observablehq.com/@jack20220723)[ ![CHEF](https://img.shields.io/badge/CHEF-F09820?style=for-the-badge&logo=Chef&logoColor=white) ](https://supermarket.chef.io/users/jack20191124)[ ![iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white) ](https://superuser.com/a/1117867/1713678)
 
