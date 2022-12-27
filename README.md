@@ -64,8 +64,6 @@ Welome to Jack (Jiaqi)'s Tech World
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
 
-<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
-
 My Open Source Projects
 -----------------------
 
@@ -80,6 +78,8 @@ I belive in creating software using the open source way, a set of principles bui
 Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
 
 By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
+
+<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
 
 [![QubitPi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2022)
 
