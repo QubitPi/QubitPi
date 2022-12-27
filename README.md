@@ -265,11 +265,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744242481686642741><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a6ef6db8f566b64895897e7e3f501f7a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@灰s_e头像@逢坂家的璎珞藤@尘埃-_-落定等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/744242481686642741)
 - [互动抽奖 #原神# #神里绫人# 《原神》EP - 信步待春之月 现已发布~ https://www.bilibili.com/video/BV1vd4y1a72B 至年末，霜风寂寂，落叶满庭。 然林野之间，隐...](https://t.bilibili.com/744223944604647497)
 - [《原神》EP - 信步待春之月](https://t.bilibili.com/744211373236420793)
 - [恭喜@足各人木木@lymember@Reamt等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743933016404918312)
 - [恭喜@卖黄瓜的女孩@晚安碎月@夏目c瞳等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743881214820089873)
-- [#原神# #2022最美的夜跨年晚会# 记得一起看节目哦~ 链接：https://www.bilibili.com/kuawan/2022nye/pc](https://t.bilibili.com/743840253703356416)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
