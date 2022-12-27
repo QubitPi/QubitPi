@@ -174,7 +174,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ###### Virtualization
 
-- [QEMU](https://qubitpi.github.io/qemu/)
+- [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
 
 #### Frontend Technologies
 
