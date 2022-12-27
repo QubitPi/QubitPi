@@ -265,11 +265,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744305398662561801><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b38232df37b4a0ebbd43a509e7f45e86401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·薙草之稻光」「单手剑·波乱月白经津」概率UP！ 活动期间，旅行者可以在「神铸赋...](https://t.bilibili.com/744305398662561801)
+- [#原神# #神里绫人# #苍流踏花# 亲爱的旅行者，「苍流踏花」活动祈愿现已开启，「磐祭叶守·神里绫人&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/744304883273826308)
+- [#原神# #雷电将军# #影寂天下人# 亲爱的旅行者，「影寂天下人」活动祈愿现已开启，「一心净土·雷电将军&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/744304148835467497)
 - [恭喜@灰s_e头像@逢坂家的璎珞藤@尘埃-_-落定等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/744242481686642741)
 - [互动抽奖 #原神# #神里绫人# 《原神》EP - 信步待春之月 现已发布~ https://www.bilibili.com/video/BV1vd4y1a72B 至年末，霜风寂寂，落叶满庭。 然林野之间，隐...](https://t.bilibili.com/744223944604647497)
-- [《原神》EP - 信步待春之月](https://t.bilibili.com/744211373236420793)
-- [恭喜@足各人木木@lymember@Reamt等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743933016404918312)
-- [恭喜@卖黄瓜的女孩@晚安碎月@夏目c瞳等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/743881214820089873)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
