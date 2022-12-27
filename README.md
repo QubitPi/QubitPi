@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R]I tried to teach ChatGPT. It went sideways.](https://www.reddit.com/r/MachineLearning/comments/zwr2e4/ri_tried_to_teach_chatgpt_it_went_sideways/)
 - [[Research] Can you use GANs to boost YOLOv5 object detection dataset?](https://www.reddit.com/r/MachineLearning/comments/zwn3zf/research_can_you_use_gans_to_boost_yolov5_object/)
 - [[D] Focused training of AutoEncoder embeddings?](https://www.reddit.com/r/MachineLearning/comments/zwmmam/d_focused_training_of_autoencoder_embeddings/)
 - [[D] Taylor &amp; Francis Article status stuck on pending editor decision for last 4 months?](https://www.reddit.com/r/MachineLearning/comments/zwmij9/d_taylor_francis_article_status_stuck_on_pending/)
 - [[P] I built a CLI helper integrating with GPT-3. It enables you to ask questions straight in your terminal](https://www.reddit.com/r/MachineLearning/comments/zwk4mg/p_i_built_a_cli_helper_integrating_with_gpt3_it/)
-- [[Discussion] 2 discrimination mechanisms that should be provided with powerful generative models e.g. ChatGPT or DALL-E](https://www.reddit.com/r/MachineLearning/comments/zwi4jx/discussion_2_discrimination_mechanisms_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
