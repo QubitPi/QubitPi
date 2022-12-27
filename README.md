@@ -444,11 +444,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [AboutYou describes in this Case Study how they built a data-driven personalization of their shopping experience with #ArangoDB. 😎 Read all about Ab...](https://twitter.com/arangodb/status/1607707889010970625)
 - [We would not be the #graphdatabase database we are today without the love and support we get from our fantastic community. 💚 Take a look and learn ...](https://twitter.com/arangodb/status/1607481388042784770)
 - [In this article for Tech Target, Gartner analyst Mark Beyer discusses what analytic leaders need to know about graph technologies. 🔥 Read the full ...](https://twitter.com/arangodb/status/1607345513275195393)
 - [From everyone here at ArangoDB - We wish you a happy holiday season.🎄🎊🎁 #InsideArangoDB](https://twitter.com/arangodb/status/1606998229362642944)
 - [Go graph with ArangoDB! 🔥 Learn more about why users switch from relational to graph databases and how ArangoDB is the best way to do it. 🥑 Down...](https://twitter.com/arangodb/status/1606666024799158272)
-- [Check out this great resource on a brief but insightful post on what is a graph database. 😎](https://twitter.com/arangodb/status/1606394239570661376)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
