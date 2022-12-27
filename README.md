@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Focused training of AutoEncoder embeddings?](https://www.reddit.com/r/MachineLearning/comments/zwmmam/d_focused_training_of_autoencoder_embeddings/)
 - [[D] Taylor &amp; Francis Article status stuck on pending editor decision for last 4 months?](https://www.reddit.com/r/MachineLearning/comments/zwmij9/d_taylor_francis_article_status_stuck_on_pending/)
 - [[P] I built a CLI helper integrating with GPT-3. It enables you to ask questions straight in your terminal](https://www.reddit.com/r/MachineLearning/comments/zwk4mg/p_i_built_a_cli_helper_integrating_with_gpt3_it/)
 - [[Discussion] 2 discrimination mechanisms that should be provided with powerful generative models e.g. ChatGPT or DALL-E](https://www.reddit.com/r/MachineLearning/comments/zwi4jx/discussion_2_discrimination_mechanisms_that/)
 - [[P] Can you distinguish AI-generated content from real art or literature? I made a little test!](https://www.reddit.com/r/MachineLearning/comments/zwht9g/p_can_you_distinguish_aigenerated_content_from/)
-- [[D] Has any research been done to counteract the fact that each training datapoint &quot;pulls the model in a different direction&quot;, partly undoing learning until shared features emerge?](https://www.reddit.com/r/MachineLearning/comments/zwd49c/d_has_any_research_been_done_to_counteract_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
