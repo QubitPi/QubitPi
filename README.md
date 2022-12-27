@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ANN for sine wave prediction](https://www.reddit.com/r/MachineLearning/comments/zw702q/d_ann_for_sine_wave_prediction/)
 - [[P] I built an API that makes it easy and cheap for developers to build ML-powered apps using Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zvzix2/p_i_built_an_api_that_makes_it_easy_and_cheap_for/)
 - [[R] Character-Aware Models Improve Visual Text Rendering - Google Research 2022 - Training the text encoder on the actual characters instead of tokens improves spelling capabilities!](https://www.reddit.com/r/MachineLearning/comments/zvzbft/r_characteraware_models_improve_visual_text/)
 - [[D] A hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/MachineLearning/comments/zvxofk/d_a_handpicked_selection_of_the_best_python/)
 - [[D] Normalized images in UNET](https://www.reddit.com/r/MachineLearning/comments/zvraje/d_normalized_images_in_unet/)
-- [[D] SE for machine learning reaserch](https://www.reddit.com/r/MachineLearning/comments/zvnjox/d_se_for_machine_learning_reaserch/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
