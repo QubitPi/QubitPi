@@ -564,8 +564,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Legendary ⚡](https://dribbble.com/shots/20188314)
 - [Artmea.io Visual Identity](https://dribbble.com/shots/20131619)
 - [Flatfile Logotype Branding, business visual identity, corporate](https://dribbble.com/shots/20166159)
-- [Spirits](https://dribbble.com/shots/20180393)
 - [W-Power - Courses Dashboard](https://dribbble.com/shots/20197120)
+- [BrightOutcome](https://dribbble.com/shots/20195285)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
