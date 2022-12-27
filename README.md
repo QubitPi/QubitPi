@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Can you distinguish AI-generated content from real art or literature? I made a little test!](https://www.reddit.com/r/MachineLearning/comments/zwht9g/p_can_you_distinguish_aigenerated_content_from/)
 - [[D] Has any research been done to counteract the fact that each training datapoint &quot;pulls the model in a different direction&quot;, partly undoing learning until shared features emerge?](https://www.reddit.com/r/MachineLearning/comments/zwd49c/d_has_any_research_been_done_to_counteract_the/)
 - [[P] I built an API that makes it easy and cheap for developers to build ML-powered apps using Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/zvzix2/p_i_built_an_api_that_makes_it_easy_and_cheap_for/)
 - [[R] Character-Aware Models Improve Visual Text Rendering - Google Research 2022 - Training the text encoder on the actual characters instead of tokens improves spelling capabilities!](https://www.reddit.com/r/MachineLearning/comments/zvzbft/r_characteraware_models_improve_visual_text/)
 - [[D] A hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/MachineLearning/comments/zvxofk/d_a_handpicked_selection_of_the_best_python/)
-- [[D] Normalized images in UNET](https://www.reddit.com/r/MachineLearning/comments/zvraje/d_normalized_images_in_unet/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
