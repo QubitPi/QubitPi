@@ -262,7 +262,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/743933016404918312><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/ff5d048971efbc5b6586d9e9fcdc1892401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744242481686642741><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a6ef6db8f566b64895897e7e3f501f7a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #神里绫人# 《原神》EP - 信步待春之月 现已发布~ https://www.bilibili.com/video/BV1vd4y1a72B 至年末，霜风寂寂，落叶满庭。 然林野之间，隐...](https://t.bilibili.com/744223944604647497)
