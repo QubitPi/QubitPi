@@ -262,7 +262,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744242481686642741><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a6ef6db8f566b64895897e7e3f501f7a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744305398662561801><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b38232df37b4a0ebbd43a509e7f45e86401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@灰s_e头像@逢坂家的璎珞藤@尘埃-_-落定等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/744242481686642741)
