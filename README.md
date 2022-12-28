@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Question about missing values. I do not understand them yet 🤣](https://www.reddit.com/r/MachineLearning/comments/zwx986/d_question_about_missing_values_i_do_not/)
 - [[R] Predicting dementia from spontaneous speech using large language models [GPT-3] &lpar;Drexel&rpar;](https://www.reddit.com/r/MachineLearning/comments/zwwkij/r_predicting_dementia_from_spontaneous_speech/)
 - [[R] PyTorch | Budget GPU Benchmarking](https://www.reddit.com/r/MachineLearning/comments/zwtgqw/r_pytorch_budget_gpu_benchmarking/)
 - [[Research] Can you use GANs to boost YOLOv5 object detection dataset?](https://www.reddit.com/r/MachineLearning/comments/zwn3zf/research_can_you_use_gans_to_boost_yolov5_object/)
 - [[D] Focused training of AutoEncoder embeddings?](https://www.reddit.com/r/MachineLearning/comments/zwmmam/d_focused_training_of_autoencoder_embeddings/)
+- [[D] Taylor &amp; Francis Article status stuck on pending editor decision for last 4 months?](https://www.reddit.com/r/MachineLearning/comments/zwmij9/d_taylor_francis_article_status_stuck_on_pending/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
