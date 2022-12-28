@@ -159,7 +159,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/)
 
 #### Software Infrastructure
-[Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)
+[Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
 ###### OpenStack
 
@@ -677,6 +677,7 @@ Comprehensive Documentation-Related Forks
 [![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)
 [![kubernetes-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kubernetes-website&show_owner=true&theme=vue)](https://github.com/QubitPi/kubernetes-website)
 [![helm-www](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=helm-www&show_owner=true&theme=vue)](https://github.com/QubitPi/helm-www)
+[![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=vue)](https://github.com/QubitPi/jenkins.io)
 
 ###### OpenStack
 
