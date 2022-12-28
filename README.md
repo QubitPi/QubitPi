@@ -393,12 +393,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Blog: Kubernetes 1.26: Introducing Validating Admission Policies](https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/)
 <!-- KUBERNETES-BLOG:END -->
 
-#### [Jenkins Documentation](https://www.jenkins.io/doc/) Updates
-
-<img width="20%" align="right" src="./img/dockerjenkins.png">
-
-<!-- JENKINS-DOC-CHANGES:START --><li>Tue Dec 27 2022 6:13 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/26af7af2eaf9f89a00fb3862b1a62a00bf2883fe>feat&lpar;documentation&rpar; Adds a blog post about running a Jenkins agent as a service &lpar;#5754&rpar;</a></li><li>Tue Dec 27 2022 5:48 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/111d85b32e8021b1400e59fd55e387a644404cf3>updated the title for better search results &lpar;#5841&rpar;</a></li><li>Tue Dec 27 2022 1:40 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/c85d0cdd06ed3233b11adc088854359e6f553093>Automated changelog for 2.384 &lpar;#5834&rpar;</a></li><li>Tue Dec 27 2022 1:29 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/bb9e16c9abf0e459c8ed9c00db6bb16dba6e1b88>Add berviantoleo as a mentor &lpar;#5847&rpar;</a></li><li>Thu Dec 22 2022 9:11 PM <a href=https://github.com/jenkins-infra/jenkins.io/commit/d57b69842a92dc79876db84d63160e8ec9cea47e>seems to be fixed &lpar;#5366&rpar;</a></li><!-- JENKINS-DOC-CHANGES:END -->
-
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
 <!-- LETS-ENCRYPT-BLOG:START -->
