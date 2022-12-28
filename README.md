@@ -11,6 +11,7 @@ Welome to Jack (Jiaqi)'s Tech World
 
 [ ![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png) ](https://www.genshin-impact-api.com/)
 
+[ ![Jami](https://img.shields.io/badge/Jami%20ID-jack20191124-0287B9?style=for-the-badge) ](https://jami.net/)
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/jack20191124/)
 [ ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/jack20191124)
 [ ![Pixiv](https://img.shields.io/badge/Pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white) ](https://www.pixiv.net/en/users/84713678)
