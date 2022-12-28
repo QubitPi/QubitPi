@@ -556,11 +556,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Legendary ⚡](https://dribbble.com/shots/20188314)
 - [Artmea.io Visual Identity](https://dribbble.com/shots/20131619)
 - [Sila Mobile App](https://dribbble.com/shots/20202390)
 - [W-Power - Courses Dashboard](https://dribbble.com/shots/20197120)
 - [BrightOutcome](https://dribbble.com/shots/20195285)
-- [Electrocars Website design: landing page home page ux ui web](https://dribbble.com/shots/20166440)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
