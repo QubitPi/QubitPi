@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1608056798128312326)
-- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1608056562395783169)
-- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1608056416664797184)
 - [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1608050632438550528)
 - [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1608043332227186689)
+- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repres...](https://twitter.com/memgraphdb/status/1608038553115557890)
+- [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1608035025248829440)
+- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1608025966072184832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
