@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1608011898544615424)
-- [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1607998491535769602)
-- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️](https://twitter.com/memgraphdb/status/1607992653097959424)
-- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1607837618296819712)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1607828657367830529)
+- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1608056798128312326)
+- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1608056562395783169)
+- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1608056416664797184)
+- [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1608050632438550528)
+- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1608043332227186689)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
