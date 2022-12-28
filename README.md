@@ -266,11 +266,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744675173879250992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/508def67d7b3ae34a632fc2bb78de031401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神主题航班# #云游花海奇旅相伴# 亲爱的旅行者~原神主题航班活动现已开启！让我们一起「云游花海 奇旅相伴」！ 活动时间：2022年12月28日 —— 2023年...](https://t.bilibili.com/744675173879250992)
 - [恭喜@Mei魅妍@江渚鹤鬼@八小梦等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/744613334940123288)
 - [#原神# 派蒙为旅行者准备了「百鬼戏话」网页活动插画壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下载并获取「百鬼戏话」网页活动更...](https://t.bilibili.com/744583274454581318)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·薙草之稻光」「单手剑·波乱月白经津」概率UP！ 活动期间，旅行者可以在「神铸赋...](https://t.bilibili.com/744305398662561801)
 - [#原神# #神里绫人# #苍流踏花# 亲爱的旅行者，「苍流踏花」活动祈愿现已开启，「磐祭叶守·神里绫人&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/744304883273826308)
-- [#原神# #雷电将军# #影寂天下人# 亲爱的旅行者，「影寂天下人」活动祈愿现已开启，「一心净土·雷电将军&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/744304148835467497)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
