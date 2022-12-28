@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Checklist of seminal NLP papers](https://www.reddit.com/r/MachineLearning/comments/zx5oup/d_checklist_of_seminal_nlp_papers/)
-- [[D] Is 16gb ram for macbook pro enough for ML??](https://www.reddit.com/r/MachineLearning/comments/zx2rdl/d_is_16gb_ram_for_macbook_pro_enough_for_ml/)
-- [[D] Sentiment on ChatGPT](https://www.reddit.com/r/MachineLearning/comments/zx0e03/d_sentiment_on_chatgpt/)
 - [[D] Protecting your model in a place where models are not intellectual property?](https://www.reddit.com/r/MachineLearning/comments/zwzzbc/d_protecting_your_model_in_a_place_where_models/)
 - [[R] Predicting dementia from spontaneous speech using large language models [GPT-3] &lpar;Drexel&rpar;](https://www.reddit.com/r/MachineLearning/comments/zwwkij/r_predicting_dementia_from_spontaneous_speech/)
+- [[R] PyTorch | Budget GPU Benchmarking](https://www.reddit.com/r/MachineLearning/comments/zwtgqw/r_pytorch_budget_gpu_benchmarking/)
+- [[Research] Can you use GANs to boost YOLOv5 object detection dataset?](https://www.reddit.com/r/MachineLearning/comments/zwn3zf/research_can_you_use_gans_to_boost_yolov5_object/)
+- [[D] Focused training of AutoEncoder embeddings?](https://www.reddit.com/r/MachineLearning/comments/zwmmam/d_focused_training_of_autoencoder_embeddings/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
