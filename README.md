@@ -490,11 +490,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1608147043465183232)
+- [NODES 2022 Best Of! Day 3 #NODES2022](https://twitter.com/neo4j/status/1608145688222629888)
 - [Day3 of #NODES2022 #bestof with: A Developer&#39;s Guide to Building a Graph Project Value Case @rvanbruggen A Graph-Based Drug Repurposing Platform Empow...](https://twitter.com/neo4j/status/1608094793111932928)
 - [Creating an interface to browse graph data can require writing out each Node / Relationship as a class ---&gt; this blog presents a super helpful tool th...](https://twitter.com/neo4j/status/1608085385820753920)
 - [Looking for a Graph Theory Video Series? Take a look at William Fiset&#39;s complete course on graph theory algorithms! #Neo4j #GraphTechnology #GraphAlgo...](https://twitter.com/neo4j/status/1607813853760442372)
-- [NODES 2022 Best Of! Day 2 #NODES2022](https://twitter.com/neo4j/status/1607783342963044353)
-- [Use graph theory to discover inbreeding in family trees: you can discover every ancestor in each path to every ancestor you share with cousins.😮�...](https://twitter.com/neo4j/status/1607753404830388224)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
