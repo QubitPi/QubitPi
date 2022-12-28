@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Checklist of seminal NLP papers](https://www.reddit.com/r/MachineLearning/comments/zx77zg/discussion_checklist_of_seminal_nlp_papers/)
 - [[P] I&#39;m building an ML-powered AI avatar-generator app that is cheaper than all the API providers](https://www.reddit.com/r/MachineLearning/comments/zx7563/p_im_building_an_mlpowered_ai_avatargenerator_app/)
 - [[D] A service for product tagging/labeling by AI](https://www.reddit.com/r/MachineLearning/comments/zx6m2w/d_a_service_for_product_tagginglabeling_by_ai/)
 - [[D] Protecting your model in a place where models are not intellectual property?](https://www.reddit.com/r/MachineLearning/comments/zwzzbc/d_protecting_your_model_in_a_place_where_models/)
 - [[R] Predicting dementia from spontaneous speech using large language models [GPT-3] &lpar;Drexel&rpar;](https://www.reddit.com/r/MachineLearning/comments/zwwkij/r_predicting_dementia_from_spontaneous_speech/)
-- [[R] PyTorch | Budget GPU Benchmarking](https://www.reddit.com/r/MachineLearning/comments/zwtgqw/r_pytorch_budget_gpu_benchmarking/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
