@@ -320,10 +320,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[P] Natural language video search using CLIP](https://www.reddit.com/r/MachineLearning/comments/zxi0nj/p_natural_language_video_search_using_clip/)
-- [[D] Has anyone else that people fear more and more AI as a whole, at time passes?](https://www.reddit.com/r/MachineLearning/comments/zxg81w/d_has_anyone_else_that_people_fear_more_and_more/)
 - [ML Impacts [D]](https://www.reddit.com/r/MachineLearning/comments/zxfjxq/ml_impacts_d/)
 - [[Project] I ask ChatGPT to draw and explain 100+ programmatic SVG images](https://www.reddit.com/r/MachineLearning/comments/zxef0f/project_i_ask_chatgpt_to_draw_and_explain_100/)
-- [[Discussion]: CodeSquire: yes, or no?](https://www.reddit.com/r/MachineLearning/comments/zxe86l/discussion_codesquire_yes_or_no/)
+- [[D] Where to publish ML software?](https://www.reddit.com/r/MachineLearning/comments/zxcp8h/d_where_to_publish_ml_software/)
+- [[P] We finally got Text-to-PowerPoint working!! &lpar;Generative AI for Slides ✨&rpar;](https://www.reddit.com/r/MachineLearning/comments/zxab4m/p_we_finally_got_texttopowerpoint_working/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
