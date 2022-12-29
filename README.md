@@ -439,11 +439,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Team Avocado is hiring! ArangoDB is #recruiting a Solution Architect &lpar;West Coast&rpar; to join our team. 🥑 To learn more, check out the full job descrip...](https://twitter.com/arangodb/status/1608568546551816194)
+- [Team Avocado is hiring! ArangoDB is #recruiting a Solution Architect &lpar;West Coast&rpar; to join our team. 🥑 To learn more, check out the full job descrip...](https://twitter.com/arangodb/status/1608568546342084613)
 - [Learn something new in the new year! Try out 14 days of the ArangoGraph Insights Platform. 🥑☁️ Sign up today to get started. 💥](https://twitter.com/arangodb/status/1608432677782274049)
 - [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1608206181339635713)
 - [Wrap up your 2022 by catching up on ArangoDB Summit! 🔥 Access the on-demand recordings of our first ever 2-day industry event. Register through the...](https://twitter.com/arangodb/status/1608070297298604033)
-- [We are #hiring! Join Team Avocado as our next Frontend Engineer. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1607843792303923200)
-- [AboutYou describes in this Case Study how they built a data-driven personalization of their shopping experience with #ArangoDB. 😎 Read all about Ab...](https://twitter.com/arangodb/status/1607707889010970625)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
