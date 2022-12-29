@@ -490,11 +490,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Graphs for the Energy Industry? 🍃 David Swank, Founder &amp; CEO, enXchange, explains it all. #Graphstechnology #GraphDatabase #energyindustry #Neo4j](https://twitter.com/neo4j/status/1608566304750854145)
 - [RT ElPandaCreador: Todos los elementos mencionados en los videos anteriores se unen con un único propósito, los #nodos vibran y las #relaciones nace...](https://twitter.com/ElpandaCreador_/status/1608508855708962816)
 - [NODES 2022 Best Of! Day 4 #NODES2022](https://twitter.com/neo4j/status/1608508139409739777)
 - [5 advantages of graph vs. relational #databases: ✨Query and analyze your data faster, easier, and more deeply with Neo4j Graph Database. ✨Move from ...](https://twitter.com/neo4j/status/1608496857495343104)
-- [RT Sefik Ilkin Serengil: How to Find False Negatives in Facial Recognition with @neo4j - #python #deepface #facialrecognition #machinelearning #deeple...](https://twitter.com/serengil/status/1608472656327675904)
+- [Day4 of #NODES2022 #bestof with: Building Neo4j Ops Manager Lessons From Dogfooding @SasPeuk Aura Enterprise is Coming to Azure Cloud - Find Out What ...](https://twitter.com/neo4j/status/1608457432476311552)
+- [&lpar;neo4j&rpar;-[:PAIRS_WITH]-&gt;&lpar;azureML&rpar; ✨ Learn about integrating Neo4j’s Graph Feature Engineering capabilities with Azure ML. Find the repository here! #...](https://twitter.com/neo4j/status/1608191095011266562)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
