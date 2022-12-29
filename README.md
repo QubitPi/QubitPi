@@ -406,11 +406,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
+- [Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps Approved](https://openid.net/2022/12/29/implementers-draft-of-openid-connect-native-sso-for-mobile-apps-approved/)
 - [FAPI 2.0 – Announcing New Drafts and Security Analysis](https://openid.net/2022/12/19/fapi-2-0-announcement/)
 - [Initiating User Registration via OpenID Connect is now a Final Specification](https://openid.net/2022/12/02/initiating-user-registration-via-openid-connect-is-now-a-final-specification/)
 - [Unmet Authentication Requirements is now a Final Specification](https://openid.net/2022/11/17/unmet-authentication-requirements-is-now-a-final-specification/)
 - [Notice of Vote for Proposed Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps](https://openid.net/2022/11/14/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-native-sso-for-mobile-apps/)
-- [Public Review Period for Two Proposed FAPI 2.0 Second Implementer’s Drafts](https://openid.net/2022/11/14/public-review-period-for-two-proposed-fapi-2-0-second-implementers-drafts/)
 <!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
