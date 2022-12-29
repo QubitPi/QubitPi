@@ -556,11 +556,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Artmea.io Visual Identity](https://dribbble.com/shots/20131619)
 - [Sila Mobile App](https://dribbble.com/shots/20202390)
+- [W-Power - Courses Dashboard](https://dribbble.com/shots/20197120)
 - [Wreath](https://dribbble.com/shots/20197960)
 - [Secret Santa // Mobile App](https://dribbble.com/shots/20204100)
-- [VR Education platform dashboard](https://dribbble.com/shots/20221682)
-- [Meditation Space - Hero Page](https://dribbble.com/shots/20216445)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
