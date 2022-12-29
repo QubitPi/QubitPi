@@ -263,7 +263,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744675173879250992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/508def67d7b3ae34a632fc2bb78de031401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/744953663854739459><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c7416e71f2a7afca751ae462a94e99401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #提纳里# #生日快乐# 没想到在这里都能被你找到，看来你对雨林愈发熟悉了。 如你所见，我正在整理关于甜水蕈的笔记，以后可能会在讲座上用到。 ...](https://t.bilibili.com/744953663854739459)
