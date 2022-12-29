@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Experiment: Take The First Steps To Automate Integration &amp; Deployment](https://www.scrum.org/resources/blog/experiment-take-first-steps-automate-integration-deployment)
 - [[Podcast] Is the Scrum Master &quot;finished&quot; because of ChatGPT?](https://www.scrum.org/resources/blog/podcast-scrum-master-finished-because-chatgpt)
 - [Usos de Scrum](https://www.scrum.org/resources/blog/usos-de-scrum)
 - [„Führungskräfte dürfen keine Scrum Master sein.“ 99 % der Scrum Master würden zustimmen – ich aber nicht](https://www.scrum.org/resources/blog/fuhrungskrafte-durfen-keine-scrum-master-sein-99-der-scrum-master-wurden-zustimmen)
 - [[VLOG] How to start agile in 2023 ...](https://www.scrum.org/resources/blog/vlog-how-start-agile-2023)
-- [[VLOG] 6 Ways To Unstuck Your Product Ownership](https://www.scrum.org/resources/blog/vlog-6-ways-unstuck-your-product-ownership)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
