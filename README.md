@@ -559,8 +559,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Sila Mobile App](https://dribbble.com/shots/20202390)
 - [Secret Santa // Mobile App](https://dribbble.com/shots/20204100)
 - [VR Education platform dashboard](https://dribbble.com/shots/20221682)
-- [Meditation Space - Hero Page](https://dribbble.com/shots/20216445)
 - [Skwurrl](https://dribbble.com/shots/20238998)
+- [Meditation Space - Hero Page](https://dribbble.com/shots/20216445)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
