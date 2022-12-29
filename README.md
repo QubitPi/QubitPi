@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1608514936782692352)
-- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #database #graphd...](https://twitter.com/memgraphdb/status/1608508420528685059)
 - [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 #memgraph #python #docker #flask #d3js](https://twitter.com/memgraphdb/status/1608466369061732355)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1608457055500640257)
 - [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1608439442544402432)
+- [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #k...](https://twitter.com/memgraphdb/status/1608436167019470851)
+- [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1608413016403345413)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
