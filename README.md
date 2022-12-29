@@ -490,11 +490,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT ElPandaCreador: Todos los elementos mencionados en los videos anteriores se unen con un único propósito, los #nodos vibran y las #relaciones nace...](https://twitter.com/ElpandaCreador_/status/1608508855708962816)
-- [NODES 2022 Best Of! Day 4 #NODES2022](https://twitter.com/neo4j/status/1608508139409739777)
-- [5 advantages of graph vs. relational #databases: ✨Query and analyze your data faster, easier, and more deeply with Neo4j Graph Database. ✨Move from ...](https://twitter.com/neo4j/status/1608496857495343104)
 - [Day4 of #NODES2022 #bestof with: Building Neo4j Ops Manager Lessons From Dogfooding @SasPeuk Aura Enterprise is Coming to Azure Cloud - Find Out What ...](https://twitter.com/neo4j/status/1608457432476311552)
 - [&lpar;neo4j&rpar;-[:PAIRS_WITH]-&gt;&lpar;azureML&rpar; ✨ Learn about integrating Neo4j’s Graph Feature Engineering capabilities with Azure ML. Find the repository here! #...](https://twitter.com/neo4j/status/1608191095011266562)
+- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1608147043465183232)
+- [NODES 2022 Best Of! Day 3 #NODES2022](https://twitter.com/neo4j/status/1608145688222629888)
+- [Day3 of #NODES2022 #bestof with: A Developer&#39;s Guide to Building a Graph Project Value Case @rvanbruggen A Graph-Based Drug Repurposing Platform Empow...](https://twitter.com/neo4j/status/1608094793111932928)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
