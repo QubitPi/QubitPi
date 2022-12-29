@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1608457055500640257)
+- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1608439442544402432)
+- [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #k...](https://twitter.com/memgraphdb/status/1608436167019470851)
 - [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1608413016403345413)
 - [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. #memgraph #database ...](https://twitter.com/memgraphdb/status/1608411507024347137)
-- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1608376525837012992)
-- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1608357652735660033)
-- [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1608351863199375361)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
