@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] LAMBADA: Backward Chaining for Automated Reasoning in Natural Language - Google Research 2022 - Significantly outperforms Chain of Thought and Select Inference in terms of prediction accuracy and proof accuracy.](https://www.reddit.com/r/MachineLearning/comments/zyeeks/r_lambada_backward_chaining_for_automated/)
 - [[D] Cross Shape Artifact in Heatmap](https://www.reddit.com/r/MachineLearning/comments/zydrc6/d_cross_shape_artifact_in_heatmap/)
 - [[D] Nesterov as a special case of PID control?](https://www.reddit.com/r/MachineLearning/comments/zyclre/d_nesterov_as_a_special_case_of_pid_control/)
 - [[R] Cramming: Training a Language Model on a Single GPU in One Day](https://www.reddit.com/r/MachineLearning/comments/zy8c99/r_cramming_training_a_language_model_on_a_single/)
 - [[D] SOTA Multiclass Model Calibration](https://www.reddit.com/r/MachineLearning/comments/zy5ddz/d_sota_multiclass_model_calibration/)
-- [[R] RegMixup: Using Mixup as a Regularizer](https://www.reddit.com/r/MachineLearning/comments/zxutpi/r_regmixup_using_mixup_as_a_regularizer/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
