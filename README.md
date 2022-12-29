@@ -386,11 +386,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.26: Job Tracking, to Support Massively Parallel Batch Workloads, Is Generally Available](https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/)
 - [Blog: Kubernetes v1.26: CPUManager goes GA](https://kubernetes.io/blog/2022/12/27/cpumanager-ga/)
 - [Blog: Kubernetes 1.26: Pod Scheduling Readiness](https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/)
 - [Blog: Kubernetes 1.26: Support for Passing Pod fsGroup to CSI Drivers At Mount Time](https://kubernetes.io/blog/2022/12/23/kubernetes-12-06-fsgroup-on-mount/)
 - [Blog: Kubernetes v1.26: GA Support for Kubelet Credential Providers](https://kubernetes.io/blog/2022/12/22/kubelet-credential-providers/)
-- [Blog: Kubernetes 1.26: Introducing Validating Admission Policies](https://kubernetes.io/blog/2022/12/20/validating-admission-policies-alpha/)
 <!-- KUBERNETES-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
