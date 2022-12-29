@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1608376525837012992)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1608357652735660033)
 - [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1608351863199375361)
 - [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1608348088904597505)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1608146129488691200)
-- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1608122349160730627)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
