@@ -321,9 +321,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R] RegMixup: Using Mixup as a Regularizer](https://www.reddit.com/r/MachineLearning/comments/zxutpi/r_regmixup_using_mixup_as_a_regularizer/)
 - [[R] Is there anything smarter than ChatGPT I’m a person who enjoys solving difficult exam questions and puzzles, me and ChatGPT work through them together. Is there anything even smarter than ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/zxujzl/r_is_there_anything_smarter_than_chatgpt_im_a/)
-- [[P] Natural language video search using CLIP](https://www.reddit.com/r/MachineLearning/comments/zxi0nj/p_natural_language_video_search_using_clip/)
 - [ML Impacts [D]](https://www.reddit.com/r/MachineLearning/comments/zxfjxq/ml_impacts_d/)
 - [[Project] I ask ChatGPT to draw and explain 100+ programmatic SVG images](https://www.reddit.com/r/MachineLearning/comments/zxef0f/project_i_ask_chatgpt_to_draw_and_explain_100/)
+- [[D] Where to publish ML software?](https://www.reddit.com/r/MachineLearning/comments/zxcp8h/d_where_to_publish_ml_software/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
