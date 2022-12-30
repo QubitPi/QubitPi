@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1608748226521202689)
 - [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1608723813650284544)
 - [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1608714251429969923)
 - [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1608710474249412608)
 - [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1608514936782692352)
-- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #database #graphd...](https://twitter.com/memgraphdb/status/1608508420528685059)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
