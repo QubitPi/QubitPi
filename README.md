@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Have you built ML models for your own use?](https://www.reddit.com/r/MachineLearning/comments/zypgdt/d_have_you_built_ml_models_for_your_own_use/)
 - [[D] Interpretability research ideas](https://www.reddit.com/r/MachineLearning/comments/zyp602/d_interpretability_research_ideas/)
+- [[D] In vision transformers, why do tokens correspond to spatial locations and not channels?](https://www.reddit.com/r/MachineLearning/comments/zymi6r/d_in_vision_transformers_why_do_tokens_correspond/)
 - [[D] Is Anthropic influential in research?](https://www.reddit.com/r/MachineLearning/comments/zyiib1/d_is_anthropic_influential_in_research/)
 - [[R] LAMBADA: Backward Chaining for Automated Reasoning in Natural Language - Google Research 2022 - Significantly outperforms Chain of Thought and Select Inference in terms of prediction accuracy and proof accuracy.](https://www.reddit.com/r/MachineLearning/comments/zyeeks/r_lambada_backward_chaining_for_automated/)
-- [[D] Cross Shape Artifact in Heatmap](https://www.reddit.com/r/MachineLearning/comments/zydrc6/d_cross_shape_artifact_in_heatmap/)
-- [[D] Nesterov as a special case of PID control?](https://www.reddit.com/r/MachineLearning/comments/zyclre/d_nesterov_as_a_special_case_of_pid_control/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
