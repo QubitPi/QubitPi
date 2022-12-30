@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Customize size of Bio-BERT pre-trained embeddings](https://www.reddit.com/r/MachineLearning/comments/zywtok/r_customize_size_of_biobert_pretrained_embeddings/)
 - [[P] Suggest ML/DL technique for real-time monitoring of current/voltage variation to predict fire.](https://www.reddit.com/r/MachineLearning/comments/zyqesd/p_suggest_mldl_technique_for_realtime_monitoring/)
 - [[P]Run CLIP on your iPhone to Search Photos offline.](https://www.reddit.com/r/MachineLearning/comments/zypzrv/prun_clip_on_your_iphone_to_search_photos_offline/)
 - [[D] Have you built ML models for your own use?](https://www.reddit.com/r/MachineLearning/comments/zypgdt/d_have_you_built_ml_models_for_your_own_use/)
 - [[D] Interpretability research ideas](https://www.reddit.com/r/MachineLearning/comments/zyp602/d_interpretability_research_ideas/)
-- [[D] In vision transformers, why do tokens correspond to spatial locations and not channels?](https://www.reddit.com/r/MachineLearning/comments/zymi6r/d_in_vision_transformers_why_do_tokens_correspond/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
