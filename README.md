@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Cloud-based GPU or new computer for training AI? [D]](https://www.reddit.com/r/MachineLearning/comments/zzex2d/cloudbased_gpu_or_new_computer_for_training_ai_d/)
 - [[D] Good online learning-to-rank models](https://www.reddit.com/r/MachineLearning/comments/zzesuu/d_good_online_learningtorank_models/)
 - [[D] What does the output of COMET metric really mean ?](https://www.reddit.com/r/MachineLearning/comments/zz3e6b/d_what_does_the_output_of_comet_metric_really_mean/)
 - [[D] Which Text to speech is this? I&#39;ve been looking for days.](https://www.reddit.com/r/MachineLearning/comments/zz0u5a/d_which_text_to_speech_is_this_ive_been_looking/)
 - [[D] NLP/NLU Research Opportunities which don&#39;t require much compute](https://www.reddit.com/r/MachineLearning/comments/zz0tua/d_nlpnlu_research_opportunities_which_dont/)
+- [[R] Customize size of Bio-BERT pre-trained embeddings](https://www.reddit.com/r/MachineLearning/comments/zywtok/r_customize_size_of_biobert_pretrained_embeddings/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
