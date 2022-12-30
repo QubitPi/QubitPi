@@ -263,7 +263,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745111770181402679><img align='right' src='https://i1.hdslb.com/bfs/archive/823c6908d9e62724ad6b8779880c6f009f521baf.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745324697493700681><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dd49db783471e7fede94dfc6b896f7e3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.3版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/745324697493700681)
