@@ -490,11 +490,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [🔎 Let&#39;s explore the Neo4j Graph Data Science Link Prediction pipeline with a practical use case! - with Philipp Brunenberg. #tutorial #GraphDataSci...](https://twitter.com/neo4j/status/1608870565678284800)
-- [NODES 2022 Best Of! Day 5 #NODES2022](https://twitter.com/neo4j/status/1608870453073805312)
 - [Day5 of #NODES2022 #bestof with: Temporal Graph Analysis - Fabio Montagna Demystifying Graph Analytics With Visualization - Corey Lanum Take Data to t...](https://twitter.com/neo4j/status/1608820323473842177)
 - [👉Vlad Batushkov, Engineering Technical Lead at Agoda, summarizes the most important aspects of the development process of Graphville: the graph edu...](https://twitter.com/neo4j/status/1608810178324865025)
 - [🔥#TBT To this Tutorial: Build a Knowledge Graph using NLP and Ontologies #neo4j #datascience #machinelearning #GraphDataScience](https://twitter.com/neo4j/status/1608605307738984450)
+- [Graphs for the Energy Industry? 🍃 David Swank, Founder &amp; CEO, enXchange, explains it all. #Graphstechnology #GraphDatabase #energyindustry #Neo4j](https://twitter.com/neo4j/status/1608566304750854145)
+- [RT ElPandaCreador: Todos los elementos mencionados en los videos anteriores se unen con un único propósito, los #nodos vibran y las #relaciones nace...](https://twitter.com/ElpandaCreador_/status/1608508855708962816)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
