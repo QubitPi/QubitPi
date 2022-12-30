@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Dynamic Katz centrality 🗒️ The constant change of information leads to the dynamic environment and creat...](https://twitter.com/memgraphdb/status/1608826239086731269)
+- [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1608799310862323712)
 - [Check out our blog post 📰 Introduction to Node Embedding ➡️](https://twitter.com/memgraphdb/status/1608781190701383680)
 - [🎓 Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker ...](https://twitter.com/memgraphdb/status/1608775405892255744)
 - [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1608748226521202689)
-- [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1608723813650284544)
-- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1608714251429969923)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
