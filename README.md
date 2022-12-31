@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Never forget your roots](https://www.reddit.com/r/MachineLearning/comments/zzsirt/d_never_forget_your_roots/)
 - [[D] I have this accuracy plot here, please could someone explain if my model is overfitting or not](https://www.reddit.com/r/MachineLearning/comments/zzrlt3/d_i_have_this_accuracy_plot_here_please_could/)
 - [[D] Does it make sense to use dropout and layer normalization in the same model?](https://www.reddit.com/r/MachineLearning/comments/zzqzoy/d_does_it_make_sense_to_use_dropout_and_layer/)
 - [[P] Finetune any Vision Transformer architecture on your custom data 🚀, Convert to TensorFlow Lite ✅](https://www.reddit.com/r/MachineLearning/comments/zzno08/p_finetune_any_vision_transformer_architecture_on/)
 - [An Open-Source Version of ChatGPT is Coming [News]](https://www.reddit.com/r/MachineLearning/comments/zzn35o/an_opensource_version_of_chatgpt_is_coming_news/)
-- [[R] 2022 Top Papers in AI — A Year of Generative Models](https://www.reddit.com/r/MachineLearning/comments/zzmmxg/r_2022_top_papers_in_ai_a_year_of_generative/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
