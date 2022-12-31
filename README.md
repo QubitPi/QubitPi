@@ -439,11 +439,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [And that&#39;s a wrap for 2022! Cheers to the new year and everything in-store. Happy New Year from Team Avocado! #InsideArangoDB 🥑💥✨🎆🎇](https://twitter.com/arangodb/status/1609202748108509184)
 - [Learn more about Machine Learning through these top 10 real-world applications of Machine Learning. 🥑 Let us know your thoughts in the thread below...](https://twitter.com/arangodb/status/1608930956051709955)
 - [Our December newsletter is here! This month, we wanted to take a moment and reflect on everything that has happened over the last 12 months at ArangoD...](https://twitter.com/arangodb/status/1608795059322773504)
 - [Team Avocado is hiring! ArangoDB is #recruiting a Solution Architect &lpar;West Coast&rpar; to join our team. 🥑 To learn more, check out the full job descrip...](https://twitter.com/arangodb/status/1608568546342084613)
 - [Learn something new in the new year! Try out 14 days of the ArangoGraph Insights Platform. 🥑☁️ Sign up today to get started. 💥](https://twitter.com/arangodb/status/1608432677782274049)
+- [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1608206181339635713)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
