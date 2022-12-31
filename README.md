@@ -266,11 +266,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745324697493700681><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dd49db783471e7fede94dfc6b896f7e3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #钟离# #生日快乐# 为方便我外出办事，堂主送来一个新钱夹作为生日礼物。 不可不说，相比记账，现钱付账更能带给人「理财」的实感。 若到了取出...](https://t.bilibili.com/745695666691375296)
 - [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.3版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/745324697493700681)
 - [[热词系列_三连]](https://t.bilibili.com/745111770181402679)
 - [互动抽奖 #原神# #提纳里# #生日快乐# 没想到在这里都能被你找到，看来你对雨林愈发熟悉了。 如你所见，我正在整理关于甜水蕈的笔记，以后可能会在讲座上用到。 ...](https://t.bilibili.com/744953663854739459)
 - [#原神# #原神主题航班# #云游花海奇旅相伴# 亲爱的旅行者~原神主题航班活动现已开启！让我们一起「云游花海 奇旅相伴」！ 活动时间：2022年12月28日 —— 2023年...](https://t.bilibili.com/744675173879250992)
-- [恭喜@Mei魅妍@江渚鹤鬼@八小梦等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/744613334940123288)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
