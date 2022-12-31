@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Re @Sumanth_077 @kgolubic Thanks! We do hope that 1K is not that far away :&rpar;](https://twitter.com/memgraphdb/status/1609192130089742337)
+- [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1609191143543037956)
+- [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1609161698274844672)
 - [🎉 #Memgraph has reached 800 stars on GitHub! 🤩](https://twitter.com/memgraphdb/status/1609147106542981122)
 - [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1609143580257402880)
-- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1609137793506107394)
-- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1609136281564356611)
-- [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1609125714468421633)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
