@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎉 #Memgraph has reached 800 stars on GitHub! 🤩](https://twitter.com/memgraphdb/status/1609147106542981122)
-- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1609143580257402880)
-- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1609137793506107394)
-- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ #...](https://twitter.com/memgraphdb/status/1609136281564356611)
 - [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1609125714468421633)
+- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1609076638087626752)
+- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. #memgraph #database #graphdat...](https://twitter.com/memgraphdb/status/1609072862165405697)
+- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1608873550529560577)
+- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1608869775878361090)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
