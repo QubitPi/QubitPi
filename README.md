@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Finetune any Vision Transformer architecture on your custom data 🚀, Convert to TensorFlow Lite ✅](https://www.reddit.com/r/MachineLearning/comments/zzno08/p_finetune_any_vision_transformer_architecture_on/)
 - [An Open-Source Version of ChatGPT is Coming [News]](https://www.reddit.com/r/MachineLearning/comments/zzn35o/an_opensource_version_of_chatgpt_is_coming_news/)
 - [[R] 2022 Top Papers in AI — A Year of Generative Models](https://www.reddit.com/r/MachineLearning/comments/zzmmxg/r_2022_top_papers_in_ai_a_year_of_generative/)
 - [[D] GPU-enabled scikit-learn](https://www.reddit.com/r/MachineLearning/comments/zzhg84/d_gpuenabled_scikitlearn/)
 - [[D] Good online learning-to-rank models](https://www.reddit.com/r/MachineLearning/comments/zzesuu/d_good_online_learningtorank_models/)
-- [[D] What does the output of COMET metric really mean ?](https://www.reddit.com/r/MachineLearning/comments/zz3e6b/d_what_does_the_output_of_comet_metric_really_mean/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
