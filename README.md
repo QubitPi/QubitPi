@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1609076638087626752)
-- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. #memgraph #database #graphdat...](https://twitter.com/memgraphdb/status/1609072862165405697)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1608873550529560577)
 - [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1608869775878361090)
 - [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1608847126905110531)
+- [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1608828757388808192)
+- [🎓 #Memgraph presents graph algorithms: Dynamic Katz centrality 🗒️ The constant change of information leads to the dynamic environment and creat...](https://twitter.com/memgraphdb/status/1608826239086731269)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
