@@ -263,7 +263,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745695666691375296><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/014632524d17a14f14c0c1690feb9598401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745880943001075955><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/81ed16f8920659f4af996bebffc708f1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #钟离# #生日快乐# 为方便我外出办事，堂主送来一个新钱夹作为生日礼物。 不可不说，相比记账，现钱付账更能带给人「理财」的实感。 若到了取出...](https://t.bilibili.com/745695666691375296)
