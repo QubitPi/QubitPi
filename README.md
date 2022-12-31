@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] [D] Auxiliary learning tasks achieve state-of-the-art results in transformer-based conversational agents with 3x fewer parameters.](https://www.reddit.com/r/MachineLearning/comments/zzyj8y/p_d_auxiliary_learning_tasks_achieve/)
 - [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/zzw67t/p_implementing_convolutional_neural_network_for/)
 - [[P] I built a web app tool to paraphrase, grammar check, and summarize text with GPT-3.](https://www.reddit.com/r/MachineLearning/comments/zzt96n/p_i_built_a_web_app_tool_to_paraphrase_grammar/)
 - [[D] Does it make sense to use dropout and layer normalization in the same model?](https://www.reddit.com/r/MachineLearning/comments/zzqzoy/d_does_it_make_sense_to_use_dropout_and_layer/)
 - [[P] Finetune any Vision Transformer architecture on your custom data 🚀, Convert to TensorFlow Lite ✅](https://www.reddit.com/r/MachineLearning/comments/zzno08/p_finetune_any_vision_transformer_architecture_on/)
-- [An Open-Source Version of ChatGPT is Coming [News]](https://www.reddit.com/r/MachineLearning/comments/zzn35o/an_opensource_version_of_chatgpt_is_coming_news/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
