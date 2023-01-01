@@ -307,7 +307,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R][P] A Stateful Multi-Context Aware Design Using OpenAI&#39;s GPT &lpar;Towards Digital Sentience&rpar;](https://www.reddit.com/r/MachineLearning/comments/100m3fh/rp_a_stateful_multicontext_aware_design_using/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/100mjlp/d_simple_questions_thread/)
 - [[D] Establishing similarity between segmentation annotation distributions](https://www.reddit.com/r/MachineLearning/comments/100bf73/d_establishing_similarity_between_segmentation/)
 - [[N] Compromised PyTorch-nightly dependency](https://www.reddit.com/r/MachineLearning/comments/100amit/n_compromised_pytorchnightly_dependency/)
 - [[D] Is there any research into using neural networks to discover classical algorithms?](https://www.reddit.com/r/MachineLearning/comments/1007w5u/d_is_there_any_research_into_using_neural/)
