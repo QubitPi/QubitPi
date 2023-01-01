@@ -187,21 +187,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Miscellaneous
 
-[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [My Tech Blogs on Knowledge Graphs](https://qubitpi.github.io/react-force-graph/)
+[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/)
 
 > The forked repos that genereate all of the "documentation/study notes" above are listed [at the end of this page](https://github.com/QubitPi#comprehensive-documentation-related-forks)
-
-#### My Tech Blogs
-
-If there's a theme that runs through my work and writing on pure tech area, it's the interplay between the shift towards agile thinking and the technical patterns and practices that make agile software development practical. While specifics of technology change rapidly in our profession, fundamental practices and patterns are more stable. So writing about these allows me to have blogs on the following topics I'm interested in that are several years old but still as relevant as when they were written.
-
-<!-- TECH-BLOG-POST-LIST:START -->
-- [The Agile Coach](https://qubitpi.github.io/jersey-guide/2023/01/01/the-agile-coach.html)
-- [How to Properly Fork a Maven Project?](https://qubitpi.github.io/jersey-guide/2022/12/21/fork-maven-guide.html)
-- [Using OpenSSL to encrypt messages and files on Linux](https://qubitpi.github.io/jersey-guide/2022/12/19/openssl-encrypy.html)
-- [Amazon AWS Troubleshooting](https://qubitpi.github.io/jersey-guide/2022/10/12/aws-troubleshooting.html)
-- [Building Enterprise Security](https://qubitpi.github.io/jersey-guide/2022/10/09/enterprise-security.html)
-<!-- TECH-BLOG-POST-LIST:END -->
 
 ### Archived Projects
 
