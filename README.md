@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What benefits &lpar;if any&rpar; of ML Summer school for currently-in-industry individuals?](https://www.reddit.com/r/MachineLearning/comments/100qfs8/d_what_benefits_if_any_of_ml_summer_school_for/)
 - [[R]Automatic Insect and plant disease detection using AI by Bhusan Chettri](https://www.reddit.com/r/MachineLearning/comments/100oywu/rautomatic_insect_and_plant_disease_detection/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/100mjlp/d_simple_questions_thread/)
 - [[D] Establishing similarity between segmentation annotation distributions](https://www.reddit.com/r/MachineLearning/comments/100bf73/d_establishing_similarity_between_segmentation/)
 - [[N] Compromised PyTorch-nightly dependency](https://www.reddit.com/r/MachineLearning/comments/100amit/n_compromised_pytorchnightly_dependency/)
-- [[D] Is there any research into using neural networks to discover classical algorithms?](https://www.reddit.com/r/MachineLearning/comments/1007w5u/d_is_there_any_research_into_using_neural/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
