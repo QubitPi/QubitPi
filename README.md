@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Establishing similarity between segmentation annotation distributions](https://www.reddit.com/r/MachineLearning/comments/100bf73/d_establishing_similarity_between_segmentation/)
+- [[D] Can you train a LLM to be good at math?](https://www.reddit.com/r/MachineLearning/comments/100bbu1/d_can_you_train_a_llm_to_be_good_at_math/)
 - [[N] Compromised PyTorch-nightly dependency](https://www.reddit.com/r/MachineLearning/comments/100amit/n_compromised_pytorchnightly_dependency/)
 - [[D] Is there any research into using neural networks to discover classical algorithms?](https://www.reddit.com/r/MachineLearning/comments/1007w5u/d_is_there_any_research_into_using_neural/)
 - [[Discussion] is attention an explanation?](https://www.reddit.com/r/MachineLearning/comments/1003d7w/discussion_is_attention_an_explanation/)
-- [[R] CNN Attention maps comparison](https://www.reddit.com/r/MachineLearning/comments/10024j1/r_cnn_attention_maps_comparison/)
-- [[P] [D] Auxiliary learning tasks achieve state-of-the-art results in transformer-based conversational agents with 3x fewer parameters.](https://www.reddit.com/r/MachineLearning/comments/zzyj8y/p_d_auxiliary_learning_tasks_achieve/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
