@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/745880943001075955><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/81ed16f8920659f4af996bebffc708f1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746071940191485970><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/98399859b6129b4a468082189723216e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 「在烟火正盛的时候，一起许下新年愿望吧！」 感谢画师：sodaサメ 绘制贺图](https://t.bilibili.com/745880943001075955)
