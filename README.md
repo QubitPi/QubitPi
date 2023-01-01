@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746071940191485970><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/98399859b6129b4a468082189723216e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746171660742164486><img align='right' src='https://i0.hdslb.com/bfs/archive/87993eb832f8dc0b84be81a44df9dda7bb439fc4.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #跨野寻踪# 亲爱的旅行者，「跨野寻踪」活动即将开启~ 〓活动时间〓 2023/01/03 10:00 ~ 2023/01/13 03:59 〓参与条件〓 冒险等阶≥20级 且完成魔神任务...](https://t.bilibili.com/746071940191485970)
