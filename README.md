@@ -309,9 +309,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Data cleaning techniques for PDF documents with semantically meaningful parts](https://www.reddit.com/r/MachineLearning/comments/100rbhp/d_data_cleaning_techniques_for_pdf_documents_with/)
 - [Has google drive started blocking gdown direct download requests based off of hashes for popular machine learning models? [D]](https://www.reddit.com/r/MachineLearning/comments/100ra17/has_google_drive_started_blocking_gdown_direct/)
-- [[D] What benefits &lpar;if any&rpar; of ML Summer school for currently-in-industry individuals?](https://www.reddit.com/r/MachineLearning/comments/100qfs8/d_what_benefits_if_any_of_ml_summer_school_for/)
 - [[R]Automatic Insect and plant disease detection using AI by Bhusan Chettri](https://www.reddit.com/r/MachineLearning/comments/100oywu/rautomatic_insect_and_plant_disease_detection/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/100mjlp/d_simple_questions_thread/)
+- [[D] Establishing similarity between segmentation annotation distributions](https://www.reddit.com/r/MachineLearning/comments/100bf73/d_establishing_similarity_between_segmentation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
