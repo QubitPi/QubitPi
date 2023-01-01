@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] 2022 in review: neuroAI comes of age](https://www.reddit.com/r/MachineLearning/comments/100vuet/r_2022_in_review_neuroai_comes_of_age/)
 - [[P] Announcing Open Source Text-to-Video Project!](https://www.reddit.com/r/MachineLearning/comments/100uhvd/p_announcing_open_source_texttovideo_project/)
 - [[D] Data cleaning techniques for PDF documents with semantically meaningful parts](https://www.reddit.com/r/MachineLearning/comments/100rbhp/d_data_cleaning_techniques_for_pdf_documents_with/)
 - [Has google drive started blocking gdown direct download requests based off of hashes for popular machine learning models? [D]](https://www.reddit.com/r/MachineLearning/comments/100ra17/has_google_drive_started_blocking_gdown_direct/)
 - [[R]Automatic Insect and plant disease detection using AI by Bhusan Chettri](https://www.reddit.com/r/MachineLearning/comments/100oywu/rautomatic_insect_and_plant_disease_detection/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/100mjlp/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
