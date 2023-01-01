@@ -460,11 +460,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1609463690150961154)
+- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1609439028473905152)
+- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1609435250601361408)
 - [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1609233169122836481)
 - [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1609229394932908033)
-- [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1609209512681930755)
-- [🎓 #Memgraph presents graph algorithms: Node2Vec 🗒️ Node2Vec is a random walk-based node embedding method. 🔗 #mage](https://twitter.com/memgraphdb/status/1609199700447469571)
-- [Re @Sumanth_077 @kgolubic Thanks! We do hope that 1K is not that far away :&rpar;](https://twitter.com/memgraphdb/status/1609192130089742337)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
