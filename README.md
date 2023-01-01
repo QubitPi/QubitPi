@@ -460,11 +460,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1609598325447168001)
 - [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. #memgraph #database #...](https://twitter.com/memgraphdb/status/1609591784803377155)
 - [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1609553531417108480)
 - [Check out our blog post 📰 #Twitch #Streaming #Graph Analysis - Part 2 ➡️](https://twitter.com/memgraphdb/status/1609552022453239808)
 - [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1609544220452200448)
-- [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1609526605075943424)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
