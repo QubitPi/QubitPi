@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Let&#39;s make this New Year a wonderful one! ✨ Happy 2023!✨](https://twitter.com/neo4j/status/1609506288559423492)
 - [🔎 Graph Visualization. This guide explains graph visualization tool options, and how to get insights from your data using visualization tools. #Neo...](https://twitter.com/neo4j/status/1608922643171868673)
 - [🔎 Let&#39;s explore the Neo4j Graph Data Science Link Prediction pipeline with a practical use case! - with Philipp Brunenberg. #tutorial #GraphDataSci...](https://twitter.com/neo4j/status/1608870565678284800)
 - [NODES 2022 Best Of! Day 5 #NODES2022](https://twitter.com/neo4j/status/1608870453073805312)
 - [Day5 of #NODES2022 #bestof with: Temporal Graph Analysis - Fabio Montagna Demystifying Graph Analytics With Visualization - Corey Lanum Take Data to t...](https://twitter.com/neo4j/status/1608820323473842177)
+- [👉Vlad Batushkov, Engineering Technical Lead at Agoda, summarizes the most important aspects of the development process of Graphville: the graph edu...](https://twitter.com/neo4j/status/1608810178324865025)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
