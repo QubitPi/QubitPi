@@ -460,11 +460,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1609553531417108480)
-- [Check out our blog post 📰 #Twitch #Streaming #Graph Analysis - Part 2 ➡️](https://twitter.com/memgraphdb/status/1609552022453239808)
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1609544220452200448)
 - [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1609526605075943424)
 - [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1609523331744530435)
+- [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1609500179543072768)
+- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1609488099884548096)
+- [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1609463690150961154)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
