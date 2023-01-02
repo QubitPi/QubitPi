@@ -460,11 +460,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1609886473909592064)
+- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1609868355963338755)
+- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1609862568037814272)
 - [❗️ The data lineage graph is the single source of truth about your organization’s data. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1609850488891097089)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1609833125818908673)
-- [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1609807204030332928)
-- [Real-time analytics can answer queries within seconds, making it possible for data science teams to understand relationships, automate processes, and ...](https://twitter.com/memgraphdb/status/1609801413625843712)
-- [Check out our blog post 📰 Understanding how Dynamic #Node2Vec Works on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1609797641050652672)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
