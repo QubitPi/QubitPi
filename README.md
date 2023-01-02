@@ -546,9 +546,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [Sila Mobile App design: iOS Android ux ui designer](https://dribbble.com/shots/20202390)
 - [Skwurrl](https://dribbble.com/shots/20238998)
+- [VR Education platform dashboard](https://dribbble.com/shots/20221682)
+- [Meditation Space - Hero Page](https://dribbble.com/shots/20216445)
 - [WIP](https://dribbble.com/shots/20237569)
-- [Swych Website Redesign](https://dribbble.com/shots/20231245)
-- [Mobility](https://dribbble.com/shots/20234035)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
