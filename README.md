@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Models that extract action items from conversation](https://www.reddit.com/r/MachineLearning/comments/1017eiu/d_models_that_extract_action_items_from/)
 - [[D] Machine Learning Illustrations](https://www.reddit.com/r/MachineLearning/comments/1017bbr/d_machine_learning_illustrations/)
 - [[D] Can I use ML/AI to read the back panels of electronic components?](https://www.reddit.com/r/MachineLearning/comments/1015pjo/d_can_i_use_mlai_to_read_the_back_panels_of/)
 - [[D] What are good ways of incorporating non-sequential context into a transformer model?](https://www.reddit.com/r/MachineLearning/comments/100y331/d_what_are_good_ways_of_incorporating/)
 - [[R] 2022 in review: neuroAI comes of age](https://www.reddit.com/r/MachineLearning/comments/100vuet/r_2022_in_review_neuroai_comes_of_age/)
-- [[D] Data cleaning techniques for PDF documents with semantically meaningful parts](https://www.reddit.com/r/MachineLearning/comments/100rbhp/d_data_cleaning_techniques_for_pdf_documents_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
