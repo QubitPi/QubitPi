@@ -460,11 +460,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1609957954668711940)
-- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1609934290124423169)
 - [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1609915918120878084)
 - [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1609906609777479681)
 - [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1609886473909592064)
+- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1609868355963338755)
+- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1609862568037814272)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
