@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I made an aim bot for destiny 2 using yolov5](https://www.reddit.com/r/MachineLearning/comments/101fobu/p_i_made_an_aim_bot_for_destiny_2_using_yolov5/)
 - [[P] Live Coding Tutorial - Diffusion Models from Scratch](https://www.reddit.com/r/MachineLearning/comments/101dlfu/p_live_coding_tutorial_diffusion_models_from/)
 - [[D] Questions about IWAE &lpar;Importance Weighted Autoencoders&rpar;](https://www.reddit.com/r/MachineLearning/comments/101csw1/d_questions_about_iwae_importance_weighted/)
 - [[D] RFC-0030: Proposal of fp8 dtype introduction to PyTorch](https://www.reddit.com/r/MachineLearning/comments/101bbx1/d_rfc0030_proposal_of_fp8_dtype_introduction_to/)
 - [[D] What do you do while you wait for training?](https://www.reddit.com/r/MachineLearning/comments/101a9gd/d_what_do_you_do_while_you_wait_for_training/)
-- [[R] Pyramid adversarial attack with PyTorch](https://www.reddit.com/r/MachineLearning/comments/1019s73/r_pyramid_adversarial_attack_with_pytorch/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
