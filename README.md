@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Marvel What_If Diffusion, model trained on images from the animated Marvel Disney+ show What If](https://www.reddit.com/r/MachineLearning/comments/1013twu/p_marvel_what_if_diffusion_model_trained_on/)
 - [[D] What are good ways of incorporating non-sequential context into a transformer model?](https://www.reddit.com/r/MachineLearning/comments/100y331/d_what_are_good_ways_of_incorporating/)
 - [[R] 2022 in review: neuroAI comes of age](https://www.reddit.com/r/MachineLearning/comments/100vuet/r_2022_in_review_neuroai_comes_of_age/)
 - [[D] Data cleaning techniques for PDF documents with semantically meaningful parts](https://www.reddit.com/r/MachineLearning/comments/100rbhp/d_data_cleaning_techniques_for_pdf_documents_with/)
 - [Has google drive started blocking gdown direct download requests based off of hashes for popular machine learning models? [D]](https://www.reddit.com/r/MachineLearning/comments/100ra17/has_google_drive_started_blocking_gdown_direct/)
-- [[R]Automatic Insect and plant disease detection using AI by Bhusan Chettri](https://www.reddit.com/r/MachineLearning/comments/100oywu/rautomatic_insect_and_plant_disease_detection/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
