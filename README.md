@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Is there any open-source alternative to voice.ai ? Looking for open-source speech to speech AI](https://www.reddit.com/r/MachineLearning/comments/101pdbw/discussion_is_there_any_opensource_alternative_to/)
 - [[D] Updated model comparison techniques review](https://www.reddit.com/r/MachineLearning/comments/101hu4h/d_updated_model_comparison_techniques_review/)
 - [[P] An old fashioned statistician is looking for other ways to analyse survival data - Is machine learning an option?](https://www.reddit.com/r/MachineLearning/comments/101hi2v/p_an_old_fashioned_statistician_is_looking_for/)
 - [[P] Can I have a prediction consider specific features?](https://www.reddit.com/r/MachineLearning/comments/101h0fx/p_can_i_have_a_prediction_consider_specific/)
 - [[P] Live Coding Tutorial - Diffusion Models from Scratch](https://www.reddit.com/r/MachineLearning/comments/101dlfu/p_live_coding_tutorial_diffusion_models_from/)
-- [[D] Questions about IWAE &lpar;Importance Weighted Autoencoders&rpar;](https://www.reddit.com/r/MachineLearning/comments/101csw1/d_questions_about_iwae_importance_weighted/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
