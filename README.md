@@ -310,8 +310,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Updated model comparison techniques review](https://www.reddit.com/r/MachineLearning/comments/101hu4h/d_updated_model_comparison_techniques_review/)
 - [[P] An old fashioned statistician is looking for other ways to analyse survival data - Is machine learning an option?](https://www.reddit.com/r/MachineLearning/comments/101hi2v/p_an_old_fashioned_statistician_is_looking_for/)
 - [[P] Can I have a prediction consider specific features?](https://www.reddit.com/r/MachineLearning/comments/101h0fx/p_can_i_have_a_prediction_consider_specific/)
-- [[P] I made an aim bot for destiny 2 using yolov5](https://www.reddit.com/r/MachineLearning/comments/101fobu/p_i_made_an_aim_bot_for_destiny_2_using_yolov5/)
 - [[P] Live Coding Tutorial - Diffusion Models from Scratch](https://www.reddit.com/r/MachineLearning/comments/101dlfu/p_live_coding_tutorial_diffusion_models_from/)
+- [[D] Questions about IWAE &lpar;Importance Weighted Autoencoders&rpar;](https://www.reddit.com/r/MachineLearning/comments/101csw1/d_questions_about_iwae_importance_weighted/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
