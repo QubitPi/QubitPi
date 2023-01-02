@@ -140,9 +140,11 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)<img width="15%" src="https://user-images.githubusercontent.com/16126939/210195393-9b2ac3dd-ecf7-4e63-a052-c5e2cf7e08e2.png">
 
+<p>
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180381755-89c80d63-4c19-40de-9e47-9e0c230b0d0a.gif">
 </a>
+</p>
 
 <img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
