@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Final Day of #NODES2022 #bestof with: Graph Algorithms and Visualization for Clinical Care Support of Pneumonia - Ana Areias, Mengjia Kang Native Grap...](https://twitter.com/neo4j/status/1610270504199258114)
 - [SUSTAINGRAPH: A Knowledge Graph for Tracking Sustainable Development Goals👇 🍃 #sustainability #Neo4j](https://twitter.com/neo4j/status/1609987911524532231)
 - [NODES 2022 Best Of! Day 6 #NODES2022](https://twitter.com/neo4j/status/1609957640594915328)
 - [Attention #Python devs! 🐍 @jalakoo has been scouring NODES sessions to create a list of the top 10 sessions you must watch. Which one did you like ...](https://twitter.com/neo4j/status/1609927556907548674)
 - [Day6 of #NODES2022 #bestof with: Tracing Your Data&#39;s DNA - @techwob Cymple Cypher Modular Pythonic Language Extension - Roei Levi Towards Real-time Kn...](https://twitter.com/neo4j/status/1609907864763514881)
+- [🌸 Graph Predictions for 2023 💡 Graph Milestones of 2022 Read @jimwebber s perspective on the past, future, and current state of graphs. --by Dan...](https://twitter.com/neo4j/status/1609897344908017667)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
