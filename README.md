@@ -462,11 +462,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1610278309459382275)
-- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1610248863532605442)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1610248106842492929)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #database #graphdatabas...](https://twitter.com/memgraphdb/status/1610224955244904448)
 - [Do you follow #Memgraph YouTube channel?](https://twitter.com/memgraphdb/status/1610208347784896512)
+- [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1610163801378152448)
+- [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1610160029298003968)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
