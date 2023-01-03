@@ -121,13 +121,6 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### Active Forks
 
-
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
-
-I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
-
-Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
-
 <div align="center">
 
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fili&show_owner=true&theme=vue)](https://github.com/QubitPi/fili)<img src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png" alt="可莉" width="20%">
@@ -147,6 +140,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)<img width="15%" src="https://user-images.githubusercontent.com/16126939/210195393-9b2ac3dd-ecf7-4e63-a052-c5e2cf7e08e2.png">
     
+</div>
+
 <p>
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180381755-89c80d63-4c19-40de-9e47-9e0c230b0d0a.gif">
