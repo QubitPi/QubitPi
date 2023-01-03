@@ -327,11 +327,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [[VLOG] 7 Reasons Values Dies In &quot;Transformation&quot;](https://www.scrum.org/resources/blog/vlog-7-reasons-values-dies-transformation)
 - [How to facilitate difficult Scrum Team conversations](https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversations)
 - [Et si le Scrum Master n’était pas le facilitateur des événements ?](https://www.scrum.org/resources/blog/et-si-le-scrum-master-netait-pas-le-facilitateur-des-evenements)
 - [Die Begriffe Vision, Mission, Strategie und Roadmap verwirren dich? Eine verblüffend einfache Erklärung](https://www.scrum.org/resources/blog/die-begriffe-vision-mission-strategie-und-roadmap-verwirren-dich-eine-verbluffend)
 - [Effective Collaboration on Sprint Board](https://www.scrum.org/resources/blog/effective-collaboration-sprint-board)
-- [The importance of Transparency during the Daily Scrum &lpar;02&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-daily-scrum-02)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
