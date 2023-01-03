@@ -256,11 +256,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746808930811773030><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5fb1ec14a60f8c1af4cb42675f5879e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@鲫豆鱼汤腐@每天胡桃直到保底@朽竹丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/746839845984272696)
 - [互动抽奖 #原神# #流浪者# #生日快乐# 好久不见，真巧啊。祝你有愉快的一天。 …不走吗？不会吧，难道是专程来找我的？ 说实话，我对过生日不甚热心，也拿不出什...](https://t.bilibili.com/746808930811773030)
 - [#原神# #跨野寻踪# 全新活动「跨野寻踪」即将开启！ 冒险家协会正在举办一场名为「跨野寻踪」的特别活动。在限定时间内搜集尽可能多的「野踪气球」，获取奖励吧...](https://t.bilibili.com/746414635637276688)
 - [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/746171660742164486)
 - [#原神# #跨野寻踪# 亲爱的旅行者，「跨野寻踪」活动即将开启~ 〓活动时间〓 2023/01/03 10:00 ~ 2023/01/13 03:59 〓参与条件〓 冒险等阶≥20级 且完成魔神任务...](https://t.bilibili.com/746071940191485970)
-- [互动抽奖 #原神# #元旦快乐# 终于来了！早就想邀你一起逛夜市，可算逮到机会。 新年伊始，有什么想买的吗？正好我们都在，可以帮你出出主意哦。 甘雨前辈见多识...](https://t.bilibili.com/746071283056246825)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
