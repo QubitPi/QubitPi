@@ -80,6 +80,12 @@ Open source software gains its strength from diverse communities of developers a
 
 By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
 
+<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
+
+I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
+
+Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
+
 <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
 
 [![QubitPi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2022)
@@ -139,12 +145,6 @@ By tapping into the collective talent and innovation of open source communities,
 <img width="15%" src="https://user-images.githubusercontent.com/16126939/195799056-44da525c-8260-4b30-9e53-0ff8c3074913.png">[![planning-poker](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=planning-poker&show_owner=true&theme=vue)](https://github.com/QubitPi/planning-poker)
 
 [![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)<img width="15%" src="https://user-images.githubusercontent.com/16126939/210195393-9b2ac3dd-ecf7-4e63-a052-c5e2cf7e08e2.png">
-
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
-
-I used to extensively study technologies by [blogging](https://qubitpi.github.io/jersey-guide/). Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
-
-Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
     
 <p>
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
