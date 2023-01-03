@@ -309,7 +309,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] ML on 150 Data Points of over 8,000 US Stocks](https://www.reddit.com/r/MachineLearning/comments/102bdva/d_ml_on_150_data_points_of_over_8000_us_stocks/)
+- [[R] Do we really need 300 floats to represent the meaning of a word? Representing words with words - a logical approach to word embedding using a self-supervised Tsetlin Machine Autoencoder.](https://www.reddit.com/r/MachineLearning/comments/102bm7w/r_do_we_really_need_300_floats_to_represent_the/)
 - [[D] Classification problem with too many features, too few samples](https://www.reddit.com/r/MachineLearning/comments/102983u/d_classification_problem_with_too_many_features/)
 - [[D] Own dataset with Denoising Diffusion Implicit Models](https://www.reddit.com/r/MachineLearning/comments/1028369/d_own_dataset_with_denoising_diffusion_implicit/)
 - [[R][D] Overlooked AI/ML papers from 2022](https://www.reddit.com/r/MachineLearning/comments/1027qvv/rd_overlooked_aiml_papers_from_2022/)
