@@ -309,11 +309,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] AMD Instinct MI25 | Machine Learning Setup on the Cheap!](https://www.reddit.com/r/MachineLearning/comments/102n6qp/r_amd_instinct_mi25_machine_learning_setup_on_the/)
 - [Is Anthropic going to launch a product in 2023 [D] ?](https://www.reddit.com/r/MachineLearning/comments/102mu5u/is_anthropic_going_to_launch_a_product_in_2023_d/)
 - [[D] Transformer effectiveness for time series forecasting &lpar;doubts&rpar;](https://www.reddit.com/r/MachineLearning/comments/102mf6v/d_transformer_effectiveness_for_time_series/)
 - [[P] Generate 3D point cloud from images using Point-E](https://www.reddit.com/r/MachineLearning/comments/102l6ne/p_generate_3d_point_cloud_from_images_using_pointe/)
 - [Chat GPT - Love, Death + Robots - making mistakes and being human [D]](https://www.reddit.com/r/MachineLearning/comments/102doe0/chat_gpt_love_death_robots_making_mistakes_and/)
-- [[N] MAgent2 - a reinforcement learning environment engine that can allows for efficient multi-agent games with hundreds or thousands of agents- is now mature within the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/102cfii/n_magent2_a_reinforcement_learning_environment/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
