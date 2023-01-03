@@ -462,11 +462,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you follow #Memgraph YouTube channel?](https://twitter.com/memgraphdb/status/1610208347784896512)
 - [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1610163801378152448)
 - [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1610160029298003968)
 - [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1610156251039633409)
 - [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1609957954668711940)
-- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1609934290124423169)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
