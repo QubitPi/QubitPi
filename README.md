@@ -253,7 +253,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746808930811773030><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5fb1ec14a60f8c1af4cb42675f5879e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746839845984272696><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/270a38b547cf05ffa743092ede6205d2401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@鲫豆鱼汤腐@每天胡桃直到保底@朽竹丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/746839845984272696)
