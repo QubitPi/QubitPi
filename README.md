@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [New Year, New Opportunities! 🍾 Learn how to build, optimize and launch your Neo4j project, all from the Neo4j experts. Start Today! #Neo4j #graphac...](https://twitter.com/neo4j/status/1610327391057969158)
+- [NODES 2022 Best Of! Day 7 #NODES2022](https://twitter.com/neo4j/status/1610319985678639107)
+- [#TBT to this useful article: With the transfer of a Wardley map into a graph database, the map can be analyzed and interpreted with structured queries...](https://twitter.com/neo4j/status/1610301486067601410)
 - [Final Day of #NODES2022 #bestof with: Graph Algorithms and Visualization for Clinical Care Support of Pneumonia - Ana Areias, Mengjia Kang Native Grap...](https://twitter.com/neo4j/status/1610270504199258114)
 - [SUSTAINGRAPH: A Knowledge Graph for Tracking Sustainable Development Goals👇 🍃 #sustainability #Neo4j](https://twitter.com/neo4j/status/1609987911524532231)
-- [NODES 2022 Best Of! Day 6 #NODES2022](https://twitter.com/neo4j/status/1609957640594915328)
-- [Attention #Python devs! 🐍 @jalakoo has been scouring NODES sessions to create a list of the top 10 sessions you must watch. Which one did you like ...](https://twitter.com/neo4j/status/1609927556907548674)
-- [Day6 of #NODES2022 #bestof with: Tracing Your Data&#39;s DNA - @techwob Cymple Cypher Modular Pythonic Language Extension - Roei Levi Towards Real-time Kn...](https://twitter.com/neo4j/status/1609907864763514881)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
