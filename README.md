@@ -490,11 +490,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [NODES 2022 Best Of! Day 7](https://www.youtube.com/watch?v=zyONU593CIE)
 - [NODES 2022 Best Of! Day 6](https://www.youtube.com/watch?v=WZ8LcpJV7gw)
 - [NODES 2022 Best Of! Day 5](https://www.youtube.com/watch?v=k1f9dhK7wg4)
 - [NODES 2022 Best Of! Day 4](https://www.youtube.com/watch?v=i5wPuuwCMQY)
 - [NODES 2022 Best Of! Day 3](https://www.youtube.com/watch?v=t9a9ypM_Vx0)
-- [NODES 2022 Best Of! Day 2](https://www.youtube.com/watch?v=IniKWdap8nE)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
