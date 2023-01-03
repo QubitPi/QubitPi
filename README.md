@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [RIFFUSION real time AI music generation with stable diffusion , Text to Music AI [R]](https://www.reddit.com/r/MachineLearning/comments/101y4ep/riffusion_real_time_ai_music_generation_with/)
 - [[R] Muse: Faster Text-to-Image Generation with Masked Generative Transformers](https://www.reddit.com/r/MachineLearning/comments/101wrvy/r_muse_faster_texttoimage_generation_with_masked/)
 - [[P] Let&#39;s Hijack AI! Security and Privacy Risk Simulator for Machine Learning](https://www.reddit.com/r/MachineLearning/comments/101tu22/p_lets_hijack_ai_security_and_privacy_risk/)
 - [[D] state of remote work for ML engineers](https://www.reddit.com/r/MachineLearning/comments/101sm6z/d_state_of_remote_work_for_ml_engineers/)
 - [[R] On Time Embeddings in Diffusion models](https://www.reddit.com/r/MachineLearning/comments/101s5kj/r_on_time_embeddings_in_diffusion_models/)
-- [[P] Hierarchical model test](https://www.reddit.com/r/MachineLearning/comments/101rxq5/p_hierarchical_model_test/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
