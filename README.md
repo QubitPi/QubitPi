@@ -309,11 +309,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R][D] Overlooked AI/ML papers from 2022](https://www.reddit.com/r/MachineLearning/comments/1027qvv/rd_overlooked_aiml_papers_from_2022/)
+- [[R] Massive Language Models Can Be Accurately Pruned in One-Shot](https://www.reddit.com/r/MachineLearning/comments/1027geh/r_massive_language_models_can_be_accurately/)
 - [[P] RATH - An Open Source, Automated Exploratory Data Analysis Tool for Augmented Analytics BI](https://www.reddit.com/r/MachineLearning/comments/1025hzc/p_rath_an_open_source_automated_exploratory_data/)
 - [[D]](https://www.reddit.com/r/MachineLearning/comments/10245u4/d/)
 - [New Bayesian optimization community [R]](https://www.reddit.com/r/MachineLearning/comments/1022mt9/new_bayesian_optimization_community_r/)
-- [[P] Time Series Clustering for grouping stock prices during Covid](https://www.reddit.com/r/MachineLearning/comments/1020vg9/p_time_series_clustering_for_grouping_stock/)
-- [RIFFUSION real time AI music generation with stable diffusion , Text to Music AI [R]](https://www.reddit.com/r/MachineLearning/comments/101y4ep/riffusion_real_time_ai_music_generation_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
