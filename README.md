@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746414635637276688><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66ef4898dcd960b245cdb5e915140f11401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746808930811773030><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5fb1ec14a60f8c1af4cb42675f5879e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #跨野寻踪# 全新活动「跨野寻踪」即将开启！ 冒险家协会正在举办一场名为「跨野寻踪」的特别活动。在限定时间内搜集尽可能多的「野踪气球」，获取奖励吧...](https://t.bilibili.com/746414635637276688)
