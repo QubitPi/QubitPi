@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1610535251637321729)
-- [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. #me...](https://twitter.com/memgraphdb/status/1610526192104312832)
-- [Graph algorithms are a set of instructions that traverse &lpar;visits nodes of&rpar; a graph and find specific nodes, paths, or a path between two nodes. Some o...](https://twitter.com/memgraphdb/status/1610522417083944962)
 - [🎓 It would be foolish to say there is an easy way to gain new knowledge, as it wouldn’t be so valuable if that were the case, but graph databases ...](https://twitter.com/memgraphdb/status/1610323103409643520)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1610314796989140992)
+- [🚀 Expert teams in the field are often tasked with creating schedules to make optimal build processes for the company’s products. #memgraph #databa...](https://twitter.com/memgraphdb/status/1610296679583850498)
+- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1610289378466664449)
+- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1610278309459382275)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
