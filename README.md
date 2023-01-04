@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Tensorflow v1.15 in google colab not working](https://www.reddit.com/r/MachineLearning/comments/102tv7q/d_tensorflow_v115_in_google_colab_not_working/)
 - [[P] liboai - A C++ Library for OpenAI](https://www.reddit.com/r/MachineLearning/comments/102sz2z/p_liboai_a_c_library_for_openai/)
 - [State of the art models for Question generation [D]](https://www.reddit.com/r/MachineLearning/comments/102r61j/state_of_the_art_models_for_question_generation_d/)
 - [[R] Issues Training CNN To Output Index To Large Array](https://www.reddit.com/r/MachineLearning/comments/102o8z8/r_issues_training_cnn_to_output_index_to_large/)
 - [[R] AMD Instinct MI25 | Machine Learning Setup on the Cheap!](https://www.reddit.com/r/MachineLearning/comments/102n6qp/r_amd_instinct_mi25_machine_learning_setup_on_the/)
-- [[D] Transformer effectiveness for time series forecasting &lpar;doubts&rpar;](https://www.reddit.com/r/MachineLearning/comments/102mf6v/d_transformer_effectiveness_for_time_series/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
