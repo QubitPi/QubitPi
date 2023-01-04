@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Is there a one-minute stock market dataset available?](https://www.reddit.com/r/MachineLearning/comments/102yiij/r_is_there_a_oneminute_stock_market_dataset/)
 - [[P] HF Spaces demo: Crosslingual youtube subtitles to videos with Whisper and DeepL](https://www.reddit.com/r/MachineLearning/comments/102xst1/p_hf_spaces_demo_crosslingual_youtube_subtitles/)
 - [[D]There is still no discussion nor response under my ICLR submission after two months. What do you think I should do?](https://www.reddit.com/r/MachineLearning/comments/102xik2/dthere_is_still_no_discussion_nor_response_under/)
 - [[D] Tensorflow v1.15 in google colab not working](https://www.reddit.com/r/MachineLearning/comments/102tv7q/d_tensorflow_v115_in_google_colab_not_working/)
 - [[P] liboai - A C++ Library for OpenAI](https://www.reddit.com/r/MachineLearning/comments/102sz2z/p_liboai_a_c_library_for_openai/)
-- [State of the art models for Question generation [D]](https://www.reddit.com/r/MachineLearning/comments/102r61j/state_of_the_art_models_for_question_generation_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
