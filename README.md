@@ -237,8 +237,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ---
 
-<img align="right" width="20%" alt="爱莉希雅" src="https://user-images.githubusercontent.com/16126939/187879546-c846a0f4-c65d-4cf9-bead-570cb2a60d72.gif">
-
 ### Latest Genshin Impact News
 
 #### Bilibili
