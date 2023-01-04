@@ -241,16 +241,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### Latest Genshin Impact News
 
-#### Official
-
-<!-- GENSHIN-IMPACT-LATEST-NEWS:START -->
-- [《原神》3.2版本「虚空鼓动，劫火高扬」内容专题页上线](https://ys.mihoyo.com/main/news/detail/24419)
-- [「知识，与你分享。」——「白草净华」·纳西妲](https://ys.mihoyo.com/main/news/detail/24418)
-- [白草净华，幽宫启蛰](https://ys.mihoyo.com/main/news/detail/22728)
-- [《原神》纳西妲角色PV——「生日快乐」](https://ys.mihoyo.com/main/news/detail/24417)
-- [「B站1400W粉丝数达成！」](https://ys.mihoyo.com/main/news/detail/24425)
-<!-- GENSHIN-IMPACT-LATEST-NEWS:END -->
-
 #### Bilibili
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/746839845984272696><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/270a38b547cf05ffa743092ede6205d2401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
