@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [NODES 2022 Best Of! Day 7](https://www.youtube.com/watch?v=zyONU593CIE)
-- [NODES 2022 Best Of! Day 6](https://www.youtube.com/watch?v=WZ8LcpJV7gw)
-- [NODES 2022 Best Of! Day 5](https://www.youtube.com/watch?v=k1f9dhK7wg4)
-- [NODES 2022 Best Of! Day 4](https://www.youtube.com/watch?v=i5wPuuwCMQY)
-- [NODES 2022 Best Of! Day 3](https://www.youtube.com/watch?v=t9a9ypM_Vx0)
+- [106 Closing Q&amp;A With Emil and Andreas EMEA - NODES2022 - Emil Eifrem, Andreas Kollegger](https://www.youtube.com/watch?v=WTqehCkWolk)
+- [099 Neo4j Migrations The Lean Way of Applying Database Refactorings to Neo4j - NODES2022](https://www.youtube.com/watch?v=5-j0xiVAeoM)
+- [097 Introduction to the Async Python Driver - NODES2022 - Rouven Bauer](https://www.youtube.com/watch?v=IMAQCmxCn28)
+- [094 Genealogy With Different Graph Technologies for Data Collection and Visualization - NODES2022](https://www.youtube.com/watch?v=M08CI6E6nAk)
+- [098 RDBMS to Neo4j Real Time Data Sync with Debezium and Kafka - NODES2022 - Nicolas Mervaillie, Alf](https://www.youtube.com/watch?v=tybfzH-JrdI)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
