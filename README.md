@@ -316,7 +316,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [[VLOG] 7 Reasons Values Die In &quot;Transformation&quot;](https://www.scrum.org/resources/blog/vlog-7-reasons-values-die-transformation)
-- [The Purpose of a Goal is Not to Reach it!](https://www.scrum.org/resources/blog/purpose-goal-not-reach-it)
+- [The Purpose of a Goal is Not to Reach It](https://www.scrum.org/resources/blog/purpose-goal-not-reach-it)
 - [How to Facilitate Difficult Scrum Team Conversation](https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversation)
 - [Et si le Scrum Master n’était pas le facilitateur des événements ?](https://www.scrum.org/resources/blog/et-si-le-scrum-master-netait-pas-le-facilitateur-des-evenements)
 - [Die Begriffe Vision, Mission, Strategie und Roadmap verwirren dich? Eine verblüffend einfache Erklärung](https://www.scrum.org/resources/blog/die-begriffe-vision-mission-strategie-und-roadmap-verwirren-dich-eine-verbluffend)
