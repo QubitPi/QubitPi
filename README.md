@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [We wrapped up 2022 by highlighting our favorite memories of 2022.🔥 Check out our 2022 year in review blog post and register to be among the first t...](https://twitter.com/arangodb/status/1610607013658075140)
 - [Did you make it to our Graph Done Right webinar this week? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on grap...](https://twitter.com/arangodb/status/1610244608725864448)
 - [Explore four benefits of data analytics in healthcare. 😎 Learn how data analytics is being used to provide insights that improve patient outcomes, ...](https://twitter.com/arangodb/status/1610018105366921217)
 - [In this recording, @davedotdev of @JuniperNetworks discusses upgrading the architecture of customers&#39; data center networks using graph technologies an...](https://twitter.com/arangodb/status/1609882227881512962)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1609565127900073987)
-- [And that&#39;s a wrap for 2022! Cheers to the new year and everything in-store. Happy New Year from Team Avocado! #InsideArangoDB 🥑💥✨🎆🎇](https://twitter.com/arangodb/status/1609202748108509184)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
