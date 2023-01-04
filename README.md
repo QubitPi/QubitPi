@@ -468,11 +468,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [One of the best series of articles of 2022: Graph Data Science for Supply Chains 💡 Check out the 3 part article, here: #Neo4j #GraphDataScience #su...](https://twitter.com/neo4j/status/1610652752157310976)
 - [In 2022, @BarrasaDV and @alexandererdl started &quot;Going Meta&quot; a monthly live stream for data practitioners with a focus on the topics of #semantics, #on...](https://twitter.com/neo4j/status/1610607045291409410)
 - [RT William Lyon: [new blog post] Spatial Search Functionality With #Neo4j 🗺️ A look at working with spatial data in @Neo4j, spatial searches like ...](https://twitter.com/lyonwj/status/1610394550127984640)
 - [New Year, New Opportunities! 🍾 Learn how to build, optimize and launch your Neo4j project, all from the Neo4j experts. Start Today! #Neo4j #graphac...](https://twitter.com/neo4j/status/1610327391057969158)
 - [NODES 2022 Best Of! Day 7 #NODES2022](https://twitter.com/neo4j/status/1610319985678639107)
-- [#TBT to this useful article: With the transfer of a Wardley map into a graph database, the map can be analyzed and interpreted with structured queries...](https://twitter.com/neo4j/status/1610301486067601410)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
