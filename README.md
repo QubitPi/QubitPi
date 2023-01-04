@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Knowledge hub for Machine Learning - looking for early adopters and community feedback](https://www.reddit.com/r/MachineLearning/comments/102rwe8/p_knowledge_hub_for_machine_learning_looking_for/)
 - [State of the art models for Question generation [D]](https://www.reddit.com/r/MachineLearning/comments/102r61j/state_of_the_art_models_for_question_generation_d/)
 - [[R] Issues Training CNN To Output Index To Large Array](https://www.reddit.com/r/MachineLearning/comments/102o8z8/r_issues_training_cnn_to_output_index_to_large/)
 - [[R] AMD Instinct MI25 | Machine Learning Setup on the Cheap!](https://www.reddit.com/r/MachineLearning/comments/102n6qp/r_amd_instinct_mi25_machine_learning_setup_on_the/)
 - [[D] Transformer effectiveness for time series forecasting &lpar;doubts&rpar;](https://www.reddit.com/r/MachineLearning/comments/102mf6v/d_transformer_effectiveness_for_time_series/)
+- [[P] Generate 3D point cloud from images using Point-E](https://www.reddit.com/r/MachineLearning/comments/102l6ne/p_generate_3d_point_cloud_from_images_using_pointe/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
