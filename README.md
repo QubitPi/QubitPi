@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [using RL for liquidity provision on Uniswap V3 [R]](https://www.reddit.com/r/MachineLearning/comments/1040nle/using_rl_for_liquidity_provision_on_uniswap_v3_r/)
 - [Combining pre-trained word embeddings [R]](https://www.reddit.com/r/MachineLearning/comments/103yk4w/combining_pretrained_word_embeddings_r/)
 - [Is there another way to determine the effect of the features other than the inbuilt features importance and SHAP values? [Research] [Discussion]](https://www.reddit.com/r/MachineLearning/comments/103xqy3/is_there_another_way_to_determine_the_effect_of/)
 - [[Discussion] Given the right seed &lpar;or input noise&rpar; and prompt, is it theoretically possible to exactly recreate an image that a latent diffusion model was trained on?](https://www.reddit.com/r/MachineLearning/comments/103ut36/discussion_given_the_right_seed_or_input_noise/)
 - [Democratizing Index Tracking: A GNN-based Meta-Learning Method for Sparse Portfolio Optimization [R] [P]](https://www.reddit.com/r/MachineLearning/comments/103upxs/democratizing_index_tracking_a_gnnbased/)
-- [[D] Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/103tn2t/d_isolation_forest/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
