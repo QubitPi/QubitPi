@@ -297,7 +297,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Accuracy metric doesn&#39;t work during CV with ElasticNet. Any ideas? [D]](https://www.reddit.com/r/MachineLearning/comments/10431wm/accuracy_metric_doesnt_work_during_cv_with/)
+- [Image matching within database? [P]](https://www.reddit.com/r/MachineLearning/comments/1043mb2/image_matching_within_database_p/)
 - [[News] AMD Instinct MI300 APU for AI and HPC announced](https://www.reddit.com/r/MachineLearning/comments/1040w4q/news_amd_instinct_mi300_apu_for_ai_and_hpc/)
 - [using RL for liquidity provision on Uniswap V3 [R]](https://www.reddit.com/r/MachineLearning/comments/1040nle/using_rl_for_liquidity_provision_on_uniswap_v3_r/)
 - [Combining pre-trained word embeddings [R]](https://www.reddit.com/r/MachineLearning/comments/103yk4w/combining_pretrained_word_embeddings_r/)
