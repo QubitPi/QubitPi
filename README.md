@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Do you have any new year&#39;s resolutions? How about joining us for our &quot;New Year, New AQL&quot; webinar to make 2023 the year you become an AQL master. ✨ Re...](https://twitter.com/arangodb/status/1611105273568960512)
 - [Start off 2023 strong by learning more about machine learning with ArangoDBs very own CTO @joerg_schad. 🥑 On January 18th, 2023 learn more on the f...](https://twitter.com/arangodb/status/1610969394162667520)
 - [Interested in how graph impacts different industries?🔬 Check out this article by IndustryWired that explores how graph technology will help the hea...](https://twitter.com/arangodb/status/1610742887766949913)
 - [We wrapped up 2022 by highlighting our favorite memories of 2022.🔥 Check out our 2022 year in review blog post and register to be among the first t...](https://twitter.com/arangodb/status/1610607013658075140)
 - [Did you make it to our Graph Done Right webinar this week? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on grap...](https://twitter.com/arangodb/status/1610244608725864448)
+- [Explore four benefits of data analytics in healthcare. 😎 Learn how data analytics is being used to provide insights that improve patient outcomes, ...](https://twitter.com/arangodb/status/1610018105366921217)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
