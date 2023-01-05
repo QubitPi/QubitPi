@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. #memgraph #database ...](https://twitter.com/memgraphdb/status/1611003083277869057)
-- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph. #memgraph #database #graphdatabase #memgraphd...](https://twitter.com/memgraphdb/status/1610993773340758016)
 - [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1610976155863064576)
 - [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1610972882380767233)
 - [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1610949733480005635)
+- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1610948221626458112)
+- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1610913241441468417)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
