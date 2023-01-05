@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [When stakeholders bypass the Product Owner](https://www.scrum.org/resources/blog/when-stakeholders-bypass-product-owner)
 - [Helft bei der Auswahl des Buchcovers des neuen ‚Scrum Anti-Patterns Guide‘ von Pearson 🇩🇪](https://www.scrum.org/resources/blog/helft-bei-der-auswahl-des-buchcovers-des-neuen-scrum-anti-patterns-guide-von-pearson)
 - [[VLOG] 7 Reasons Values Die In &quot;Transformation&quot;](https://www.scrum.org/resources/blog/vlog-7-reasons-values-die-transformation)
 - [The Purpose of a Goal is Not to Reach It](https://www.scrum.org/resources/blog/purpose-goal-not-reach-it)
 - [How to facilitate difficult Scrum Team conversations](https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversations)
-- [Et si le Scrum Master n’était pas le facilitateur des événements ?](https://www.scrum.org/resources/blog/et-si-le-scrum-master-netait-pas-le-facilitateur-des-evenements)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
