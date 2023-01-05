@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1610949733480005635)
-- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1610948221626458112)
 - [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1610913241441468417)
 - [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1610894368495255553)
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1610888576849395712)
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1610884804861464576)
+- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1610682918338269201)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
