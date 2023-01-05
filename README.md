@@ -318,7 +318,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Helft bei der Auswahl des Buchcovers des neuen ‚Scrum Anti-Patterns Guide‘ von Pearson 🇩🇪](https://www.scrum.org/resources/blog/helft-bei-der-auswahl-des-buchcovers-des-neuen-scrum-anti-patterns-guide-von-pearson)
 - [[VLOG] 7 Reasons Values Die In &quot;Transformation&quot;](https://www.scrum.org/resources/blog/vlog-7-reasons-values-die-transformation)
 - [The Purpose of a Goal is Not to Reach It](https://www.scrum.org/resources/blog/purpose-goal-not-reach-it)
-- [How to Facilitate Difficult Scrum Team Conversation](https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversation)
+- [How to facilitate difficult Scrum Team conversations](https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversations)
 - [Et si le Scrum Master n’était pas le facilitateur des événements ?](https://www.scrum.org/resources/blog/et-si-le-scrum-master-netait-pas-le-facilitateur-des-evenements)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
