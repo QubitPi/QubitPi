@@ -523,7 +523,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
-- [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop)
+- [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html)
 - [Finding accounts to follow on Mastodon](https://martinfowler.com/articles/exploring-mastodon.html#finding-accounts-to-follow)
 - [Installing Orbi Wifi Mesh broke my Sonos](https://martinfowler.com/articles/2022-orbi-sonos.html)
 - [The impact of a product delivery culture at Etsy](https://martinfowler.com/articles/bottlenecks-of-scaleups/etsy-product-delivery-culture.html#BlueprintForProductDelivery)
