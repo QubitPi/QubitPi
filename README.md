@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/747180028868952295><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0b3af6180467e385d098dc5588d64503401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/747582020633231410><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c7416e71f2a7afca751ae462a94e99401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.4# #磬弦奏华夜# #3.4版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.4版本「磬弦奏华夜」前瞻特别节目将于1月6...](https://t.bilibili.com/747180028868952295)
