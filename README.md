@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Im looking for good Datascience book using python.. looking for suggestions .](https://www.reddit.com/r/MachineLearning/comments/103qv1d/r_im_looking_for_good_datascience_book_using/)
 - [[D] Could neural networks just be like real neurons, but on a different medium? What&#39;s the difference between neurons in a brain and neurons in a computer?](https://www.reddit.com/r/MachineLearning/comments/103i8ws/d_could_neural_networks_just_be_like_real_neurons/)
 - [[D] ML in non-tech fields](https://www.reddit.com/r/MachineLearning/comments/103bdub/d_ml_in_nontech_fields/)
 - [[N] Legal NLP Dataset With Over 39,000 Examples Released](https://www.reddit.com/r/MachineLearning/comments/103b1ck/n_legal_nlp_dataset_with_over_39000_examples/)
 - [[P] T5 Implementation in PyTorch](https://www.reddit.com/r/MachineLearning/comments/103ab1b/p_t5_implementation_in_pytorch/)
-- [[D] Feature engineering book recommendation for Bioinformatics](https://www.reddit.com/r/MachineLearning/comments/1037lna/d_feature_engineering_book_recommendation_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
