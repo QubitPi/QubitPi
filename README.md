@@ -468,11 +468,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Joinal Ahmed and Chaitra Ravada discuss why Graph #MachineLearning makes more sense than the traditional ML approach, and how Graph ML powers use case...](https://twitter.com/neo4j/status/1610758000867786753)
 - [Welcome Alyson Welch, Neo4j’s First Chief Revenue Officer! Learn more about her experience through this Q&amp;A with Neo4j CEO and Co-Founder Emil Eifrem...](https://twitter.com/neo4j/status/1610697097333952513)
 - [One of the best series of articles of 2022: Graph Data Science for Supply Chains 💡 Check out the 3 part article, here: #Neo4j #GraphDataScience #su...](https://twitter.com/neo4j/status/1610652752157310976)
 - [In 2022, @BarrasaDV and @alexandererdl started &quot;Going Meta&quot; a monthly live stream for data practitioners with a focus on the topics of #semantics, #on...](https://twitter.com/neo4j/status/1610607045291409410)
 - [RT William Lyon: [new blog post] Spatial Search Functionality With #Neo4j 🗺️ A look at working with spatial data in @Neo4j, spatial searches like ...](https://twitter.com/lyonwj/status/1610394550127984640)
-- [New Year, New Opportunities! 🍾 Learn how to build, optimize and launch your Neo4j project, all from the Neo4j experts. Start Today! #Neo4j #graphac...](https://twitter.com/neo4j/status/1610327391057969158)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
