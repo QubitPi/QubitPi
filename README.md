@@ -364,11 +364,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.26: Retroactive Default StorageClass](https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/)
 - [Blog: Kubernetes v1.26: Alpha support for cross-namespace storage data sources](https://kubernetes.io/blog/2023/01/02/cross-namespace-data-sources-alpha/)
 - [Blog: Kubernetes v1.26: Advancements in Kubernetes Traffic Engineering](https://kubernetes.io/blog/2022/12/30/advancements-in-kubernetes-traffic-engineering/)
 - [Blog: Kubernetes 1.26: Job Tracking, to Support Massively Parallel Batch Workloads, Is Generally Available](https://kubernetes.io/blog/2022/12/29/scalable-job-tracking-ga/)
 - [Blog: Kubernetes v1.26: CPUManager goes GA](https://kubernetes.io/blog/2022/12/27/cpumanager-ga/)
-- [Blog: Kubernetes 1.26: Pod Scheduling Readiness](https://kubernetes.io/blog/2022/12/26/pod-scheduling-readiness-alpha/)
 <!-- KUBERNETES-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
