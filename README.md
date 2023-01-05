@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Example-guided learning of stochastic human driving policies using deep reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/103w951/p_exampleguided_learning_of_stochastic_human/)
+- [[D] Strengthening background in math for classical ML / stats.](https://www.reddit.com/r/MachineLearning/comments/103w7a6/d_strengthening_background_in_math_for_classical/)
 - [[D] Can ChatGPT replace programmers?](https://www.reddit.com/r/MachineLearning/comments/103vr6l/d_can_chatgpt_replace_programmers/)
 - [[Discussion] Given the right seed &lpar;or input noise&rpar; and prompt, is it theoretically possible to exactly recreate an image that a latent diffusion model was trained on?](https://www.reddit.com/r/MachineLearning/comments/103ut36/discussion_given_the_right_seed_or_input_noise/)
 - [Democratizing Index Tracking: A GNN-based Meta-Learning Method for Sparse Portfolio Optimization [R] [P]](https://www.reddit.com/r/MachineLearning/comments/103upxs/democratizing_index_tracking_a_gnnbased/)
-- [[D] Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/103tn2t/d_isolation_forest/)
-- [[P] Learning chatbot for MOS KIM-1 &lpar;1976, 6502 CPU, 1K RAM&rpar;, run on KIM Uno](https://www.reddit.com/r/MachineLearning/comments/103sxsd/p_learning_chatbot_for_mos_kim1_1976_6502_cpu_1k/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
