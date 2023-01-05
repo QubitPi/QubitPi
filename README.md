@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Given the right seed &lpar;or input noise&rpar; and prompt, is it theoretically possible to exactly recreate an image that a latent diffusion model was trained on?](https://www.reddit.com/r/MachineLearning/comments/103ut36/discussion_given_the_right_seed_or_input_noise/)
+- [Democratizing Index Tracking: A GNN-based Meta-Learning Method for Sparse Portfolio Optimization [R] [P]](https://www.reddit.com/r/MachineLearning/comments/103upxs/democratizing_index_tracking_a_gnnbased/)
 - [[D] Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/103tn2t/d_isolation_forest/)
 - [[P] Learning chatbot for MOS KIM-1 &lpar;1976, 6502 CPU, 1K RAM&rpar;, run on KIM Uno](https://www.reddit.com/r/MachineLearning/comments/103sxsd/p_learning_chatbot_for_mos_kim1_1976_6502_cpu_1k/)
 - [[D] BERTopic and fuzzy clustering](https://www.reddit.com/r/MachineLearning/comments/103sju2/d_bertopic_and_fuzzy_clustering/)
-- [[R] Im looking for good Datascience book using python.. looking for suggestions .](https://www.reddit.com/r/MachineLearning/comments/103qv1d/r_im_looking_for_good_datascience_book_using/)
-- [[D] Could neural networks just be like real neurons, but on a different medium? What&#39;s the difference between neurons in a brain and neurons in a computer?](https://www.reddit.com/r/MachineLearning/comments/103i8ws/d_could_neural_networks_just_be_like_real_neurons/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
