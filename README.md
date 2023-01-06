@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Quantitative Reasoning models](https://www.reddit.com/r/MachineLearning/comments/104ry8q/d_quantitative_reasoning_models/)
 - [[D] Can we train a ChatGPT based on gpt2?](https://www.reddit.com/r/MachineLearning/comments/104qj0n/d_can_we_train_a_chatgpt_based_on_gpt2/)
 - [[P] NeuralFit: a new neuro-evolution library for Python](https://www.reddit.com/r/MachineLearning/comments/104qdva/p_neuralfit_a_new_neuroevolution_library_for/)
 - [[P] Looking for a CRF python/pytorch library](https://www.reddit.com/r/MachineLearning/comments/104p5k8/p_looking_for_a_crf_pythonpytorch_library/)
 - [[P] Need Suggestions for NLP-related Research &lpar;1 year Project&rpar;](https://www.reddit.com/r/MachineLearning/comments/104m3yb/p_need_suggestions_for_nlprelated_research_1_year/)
-- [[P] Defect detection system for welding](https://www.reddit.com/r/MachineLearning/comments/104ldbr/p_defect_detection_system_for_welding/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
