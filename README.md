@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A doubt regarding Gradient Decent , what we do when we find a false minimum weight ?](https://www.reddit.com/r/MachineLearning/comments/1053lw4/d_a_doubt_regarding_gradient_decent_what_we_do/)
 - [[R] The Evolutionary Computation Methods No One Should Use](https://www.reddit.com/r/MachineLearning/comments/1051j8j/r_the_evolutionary_computation_methods_no_one/)
 - [[P] Syslog Analytics using ML](https://www.reddit.com/r/MachineLearning/comments/1050jw7/p_syslog_analytics_using_ml/)
 - [[D] Best way to package Pytorch models as a standalone application](https://www.reddit.com/r/MachineLearning/comments/1050cw1/d_best_way_to_package_pytorch_models_as_a/)
 - [[Discussion] What are some AI tools for finding sources for scientific papers?](https://www.reddit.com/r/MachineLearning/comments/104x3q3/discussion_what_are_some_ai_tools_for_finding/)
-- [[D] Fixing the angle of Skewed Paintings, see comments](https://www.reddit.com/r/MachineLearning/comments/104u2di/d_fixing_the_angle_of_skewed_paintings_see/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
