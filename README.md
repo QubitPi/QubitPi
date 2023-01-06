@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] natural language search engine for video content](https://www.reddit.com/r/MachineLearning/comments/1056yce/p_natural_language_search_engine_for_video_content/)
+- [[D] I recently quit my job to start a ML company. Would really appreciate feedback on what we&#39;re working on.](https://www.reddit.com/r/MachineLearning/comments/1056uhp/d_i_recently_quit_my_job_to_start_a_ml_company/)
+- [[D] Looking for a dataset of Text-To-Speech audiobook-style Speech Synthesis Markup Language &lpar;SSML&rpar; files](https://www.reddit.com/r/MachineLearning/comments/1056c2e/d_looking_for_a_dataset_of_texttospeech/)
 - [[D] Arbitrary IPA text to speech](https://www.reddit.com/r/MachineLearning/comments/10563ux/d_arbitrary_ipa_text_to_speech/)
 - [[R] Imagenet 2015 VID Dataset](https://www.reddit.com/r/MachineLearning/comments/1055j85/r_imagenet_2015_vid_dataset/)
-- [[R] Towards Continual Reinforcement Learning: A Review and Perspectives - Khimya Khetarpal et al DeepMind Nov 2022 - 78 Pages!](https://www.reddit.com/r/MachineLearning/comments/1055h4y/r_towards_continual_reinforcement_learning_a/)
-- [[R] The Evolutionary Computation Methods No One Should Use](https://www.reddit.com/r/MachineLearning/comments/1051j8j/r_the_evolutionary_computation_methods_no_one/)
-- [[P] Syslog Analytics using ML](https://www.reddit.com/r/MachineLearning/comments/1050jw7/p_syslog_analytics_using_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
