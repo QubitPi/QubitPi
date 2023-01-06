@@ -317,7 +317,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Agile Principles – Sustainable Pace](https://www.scrum.org/resources/blog/agile-principles-sustainable-pace)
 - [The importance of Transparency during the Sprint Review &lpar;03&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-review-03)
-- [When stakeholders bypass the Product Owner](https://www.scrum.org/resources/blog/when-stakeholders-bypass-product-owner)
+- [When Stakeholders Bypass the Product Owner](https://www.scrum.org/resources/blog/when-stakeholders-bypass-product-owner)
 - [Helft bei der Auswahl des Buchcovers des neuen ‚Scrum Anti-Patterns Guide‘ von Pearson 🇩🇪](https://www.scrum.org/resources/blog/helft-bei-der-auswahl-des-buchcovers-des-neuen-scrum-anti-patterns-guide-von-pearson)
 - [[VLOG] 7 Reasons Values Die In &quot;Transformation&quot;](https://www.scrum.org/resources/blog/vlog-7-reasons-values-die-transformation)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
