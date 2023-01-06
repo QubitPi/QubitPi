@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://www.reddit.com/r/MachineLearning/comments/104ixvi/r_neural_codec_language_models_are_zeroshot_text/)
 - [[D] Can common pooled RAM and VRAM increase devices&#39; capabilities with regards to operating on larger models?](https://www.reddit.com/r/MachineLearning/comments/104axd6/d_can_common_pooled_ram_and_vram_increase_devices/)
 - [[D] Special-purpose &quot;neuromorphic&quot; chips for AI - current state of the art?](https://www.reddit.com/r/MachineLearning/comments/104admo/d_specialpurpose_neuromorphic_chips_for_ai/)
 - [[D] SOTA Head Pose Estimation Models](https://www.reddit.com/r/MachineLearning/comments/1049z6c/d_sota_head_pose_estimation_models/)
 - [[D] Has any research been done on using GANs to develop proteins for selective binding?](https://www.reddit.com/r/MachineLearning/comments/1047i5f/d_has_any_research_been_done_on_using_gans_to/)
-- [[Project] Public MIT IAP talks on speech &amp; language ML starting Monday](https://www.reddit.com/r/MachineLearning/comments/1045wya/project_public_mit_iap_talks_on_speech_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
