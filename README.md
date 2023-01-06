@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1611284941827883011)
+- [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results.](https://twitter.com/memgraphdb/status/1611260530483666944)
 - [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1611250964425498627)
 - [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1611247189786771456)
 - [Check out our blog post 📰 Why so slow? Using Profilers to Pinpoint the Reasons of Performance Degradation ➡️](https://twitter.com/memgraphdb/status/1611051654224166913)
-- [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1611045314986639377)
-- [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. #memgraph #database ...](https://twitter.com/memgraphdb/status/1611003083277869057)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
