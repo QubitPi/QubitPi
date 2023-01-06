@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/747922169158172710><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/35b5763afaf3ac94aeda8f3d04fb33b0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748078076465774628><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/be3bab1d013174e643edbe38e4d203d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #磬弦奏华夜# #原神3.4# 《原神》3.4版本「磬弦奏华夜」前瞻特别节目回顾长图 《原神》3.4版本「磬弦奏华夜」将于2023年1月18日上线。 感谢各位旅行者的...](https://t.bilibili.com/748078076465774628)
