@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/747922169158172710><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/35b5763afaf3ac94aeda8f3d04fb33b0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [亲爱的旅行者，3.4版本前瞻特别节目马上开始啦&gt; &lt; 直播间地址：https://live.bilibili.com/21987615](https://t.bilibili.com/748042436818763849)
-- [#原神# 亲爱的旅行者，新鲜的开发组座谈会来了，一起往下看看吧！](https://t.bilibili.com/747922169158172710)
-- [恭喜@字清河@Z_包子@吉良吉影ゴゴゴ等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/747582020633231410)
-- [#原神# #原神3.4# #磬弦奏华夜# #3.4版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.4版本「磬弦奏华夜」前瞻特别节目将于1月6...](https://t.bilibili.com/747180028868952295)
-- [恭喜@鲫豆鱼汤腐@每天胡桃直到保底@朽竹丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/746839845984272696)
+- [#原神# #磬弦奏华夜# #原神3.4# 《原神》3.4版本「磬弦奏华夜」前瞻特别节目回顾长图 《原神》3.4版本「磬弦奏华夜」将于2023年1月18日上线。 感谢各位旅行者的...](https://t.bilibili.com/748078076465774628)
+- [《原神》3.4版本「磬弦奏华夜」前瞻特别节目](https://t.bilibili.com/748076792265310389)
+- [互动抽奖 #原神# #当然是原神了# 《当然是原神了》现已发布~ https://www.bilibili.com/video/BV1RK41127AT 《当然是原神了》，分为「租房篇」、「咖啡厅篇」、...](https://t.bilibili.com/748075589672370177)
+- [当然是原神了](https://t.bilibili.com/748074412850282547)
+- [互动抽奖 #原神# #原神3.4# #原神海灯节# 《原神》海灯节定格动画-「庆佳节」现已发布~ https://www.bilibili.com/video/BV13d4y1E7ro 「海灯节快乐！」 关注@原...](https://t.bilibili.com/748072948276920389)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
