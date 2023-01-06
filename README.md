@@ -468,11 +468,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We are thrilled to announce we have been recognized in the 2022 Gartner® Magic Quadrant™ for Cloud Database Management Systems! Read more: #Gartner ...](https://twitter.com/neo4j/status/1611415324552749056)
-- [RT Jennifer Reif: I&#39;ll be presenting next week on Java and microservices! Come join me - live demo included. 👩‍💻 #java #microservices](https://twitter.com/JMHReif/status/1611413590384197641)
 - [The journey for the best of the 2022 continues :&rpar; In case you missed it, here&#39;s Tomaz Bratanic&#39;s article&quot;Using #Neo4j Graph Data Science in Python to ...](https://twitter.com/neo4j/status/1611354444997840898)
 - [Combining 3 Biochemical Datasets in a Graph Database 😮 Tomas Nijhof, biomedical engineer, describes in a series of articles how to create a knowled...](https://twitter.com/neo4j/status/1611054694259953667)
 - [Full Stack GraphQL Book Club - Chapter 5: Building User Interfaces With React](https://twitter.com/neo4j/status/1611041126705950726)
+- [What Makes a Good Graph Problem? 👇 Watch the 1st video of the &quot;Ask a Data Scientist&quot; Series to hear @AJarasch&#39;s answer! Read more about Neo4j Graph...](https://twitter.com/neo4j/status/1611007215472607233)
+- [Joinal Ahmed and Chaitra Ravada discuss why Graph #MachineLearning makes more sense than the traditional ML approach, and how Graph ML powers use case...](https://twitter.com/neo4j/status/1610758000867786753)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
