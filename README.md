@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1611410264410177560)
-- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1611406490627080192)
-- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. #graphdatabase #opensou...](https://twitter.com/memgraphdb/status/1611383842543214593)
 - [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1611365470233305090)
 - [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1611362956033363970)
+- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1611336027842527232)
+- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1611317907048243202)
+- [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1611312119391129608)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
