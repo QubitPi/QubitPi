@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Benchmarking GPT-3 VS Specialized Models in different NLP tasks](https://www.reddit.com/r/MachineLearning/comments/104xogi/d_benchmarking_gpt3_vs_specialized_models_in/)
 - [[Discussion] What are some AI tools for finding sources for scientific papers?](https://www.reddit.com/r/MachineLearning/comments/104x3q3/discussion_what_are_some_ai_tools_for_finding/)
 - [[D] Fixing the angle of Skewed Paintings, see comments](https://www.reddit.com/r/MachineLearning/comments/104u2di/d_fixing_the_angle_of_skewed_paintings_see/)
 - [[D] Is it a time to seriously regulate and restrict AI research?](https://www.reddit.com/r/MachineLearning/comments/104u1ll/d_is_it_a_time_to_seriously_regulate_and_restrict/)
 - [[D] Can we train a ChatGPT based on gpt2?](https://www.reddit.com/r/MachineLearning/comments/104qj0n/d_can_we_train_a_chatgpt_based_on_gpt2/)
-- [[P] NeuralFit: a new neuro-evolution library for Python](https://www.reddit.com/r/MachineLearning/comments/104qdva/p_neuralfit_a_new_neuroevolution_library_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
