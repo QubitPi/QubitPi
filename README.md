@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1611336027842527232)
-- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka...](https://twitter.com/memgraphdb/status/1611317907048243202)
 - [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1611312119391129608)
 - [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1611284941827883011)
 - [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results.](https://twitter.com/memgraphdb/status/1611260530483666944)
+- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1611250964425498627)
+- [Betweenness centrality measures the extent to which a node or edge lies on paths between nodes, and it&#39;s very valuable when it comes to community dete...](https://twitter.com/memgraphdb/status/1611247189786771456)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
