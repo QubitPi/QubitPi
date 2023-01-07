@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748078076465774628><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/be3bab1d013174e643edbe38e4d203d0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #磬弦奏华夜# #原神3.4# 《原神》3.4版本「磬弦奏华夜」前瞻特别节目回顾长图 《原神》3.4版本「磬弦奏华夜」将于2023年1月18日上线。 感谢各位旅行者的...](https://t.bilibili.com/748078076465774628)
-- [《原神》3.4版本「磬弦奏华夜」前瞻特别节目](https://t.bilibili.com/748076792265310389)
-- [互动抽奖 #原神# #当然是原神了# 《当然是原神了》现已发布~ https://www.bilibili.com/video/BV1RK41127AT 《当然是原神了》，分为「租房篇」、「咖啡厅篇」、...](https://t.bilibili.com/748075589672370177)
-- [当然是原神了](https://t.bilibili.com/748074412850282547)
-- [互动抽奖 #原神# #原神3.4# #原神海灯节# 《原神》海灯节定格动画-「庆佳节」现已发布~ https://www.bilibili.com/video/BV13d4y1E7ro 「海灯节快乐！」 关注@原...](https://t.bilibili.com/748072948276920389)
+- [恭喜@苑芸栉@九幽鬼魑@糖醋凉拌双皮奶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/748324195265413160)
+- [亲爱的旅行者，《原神》璃月篇「皎月云间之梦」OST周边礼盒正式揭晓，并将于1月11日启动贩售。](https://t.bilibili.com/748302325291941989)
+- [#原神# #原神3.3风行迷踪视频征集活动# #原神UP主激励计划# 《原神》「风行迷踪」趣味视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 原神-胖...](https://t.bilibili.com/748299993125748745)
+- [互动抽奖 #原神# #提瓦特风尚# 《原神》提瓦特风尚·衣装PV - 合页揽花 现已发布~ https://www.bilibili.com/video/BV1LP411F7pf 世上书目众多，或严谨，或新奇...](https://t.bilibili.com/748298296610521093)
+- [#原神# 亲爱的旅行者，「地脉移涌」活动即将开启~ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝奖励时，可获得双倍奖励。 〓活动...](https://t.bilibili.com/748295852789858312)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
