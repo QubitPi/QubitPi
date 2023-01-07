@@ -90,14 +90,13 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)<img src="https://user-images.githubusercontent.com/16126939/184785710-281e8c8a-a080-4293-beb9-ce981554bafe.png" alt="可莉" width="15%">
 
-<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)
+<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="14%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
-[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">
+[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">
 
 <img src="https://user-images.githubusercontent.com/16126939/185029702-955b44ab-3570-41f2-bb36-581a7ffe38fe.png" alt="心海" width="15%">[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)
 
-[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
-<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="14%">
+[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">
     
 <img src="https://user-images.githubusercontent.com/16126939/201343244-099e84e6-e1bd-45a9-882d-61f5a11eda63.png" alt="甘雨" width="14%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=horme&show_owner=true&theme=vue)](https://github.com/QubitPi/horme)
 
