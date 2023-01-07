@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1611769886530838529)
+- [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1611766108565999617)
+- [🎓 A data lineage DB is the single source of truth for all data assets in your organization. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1611746229158830080)
 - [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1611736413153665025)
 - [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1611727860250644481)
-- [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1611698414877556736)
-- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. #memgraph #database #graphdatabas...](https://twitter.com/memgraphdb/status/1611680293391372292)
-- [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1611674509181915136)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
