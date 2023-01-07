@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [[VLOG] Creating self-managing teams is not the goal of the Scrum Master ...](https://www.scrum.org/resources/blog/vlog-creating-self-managing-teams-not-goal-scrum-master)
 - [You are a creation machine &lpar;#1&rpar;](https://www.scrum.org/resources/blog/you-are-creation-machine-1)
 - [Agile Principles – Sustainable Pace](https://www.scrum.org/resources/blog/agile-principles-sustainable-pace)
 - [The importance of Transparency during the Sprint Review &lpar;03&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-review-03)
 - [When Stakeholders Bypass the Product Owner](https://www.scrum.org/resources/blog/when-stakeholders-bypass-product-owner)
-- [Helft bei der Auswahl des Buchcovers des neuen ‚Scrum Anti-Patterns Guide‘ von Pearson 🇩🇪](https://www.scrum.org/resources/blog/helft-bei-der-auswahl-des-buchcovers-des-neuen-scrum-anti-patterns-guide-von-pearson)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
