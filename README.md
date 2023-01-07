@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Can a neural network be trained to create a general purpose lossless compression algorithm?](https://www.reddit.com/r/MachineLearning/comments/105qyil/d_can_a_neural_network_be_trained_to_create_a/)
 - [[D] Benchmarking GPT-3 vs other proprietary APIs &lpar;More details in comment&rpar;](https://www.reddit.com/r/MachineLearning/comments/105pcon/d_benchmarking_gpt3_vs_other_proprietary_apis/)
 - [[D] 5 Growing Libraries in Python for Causality Analysis](https://www.reddit.com/r/MachineLearning/comments/105oovx/d_5_growing_libraries_in_python_for_causality/)
 - [[N] 7 Predictions From The State of AI Report For 2023 ⭕](https://www.reddit.com/r/MachineLearning/comments/105n89m/n_7_predictions_from_the_state_of_ai_report_for/)
 - [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://www.reddit.com/r/MachineLearning/comments/105n593/cold_diffusion_inverting_arbitrary_image/)
-- [[D] Open source ChatGPT chatbot for Angular?](https://www.reddit.com/r/MachineLearning/comments/105lcen/d_open_source_chatgpt_chatbot_for_angular/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
