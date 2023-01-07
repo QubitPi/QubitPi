@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Automated Chart Mining in R [R] or Python [P]](https://www.reddit.com/r/MachineLearning/comments/1061qxz/automated_chart_mining_in_r_r_or_python_p/)
 - [[D] Will NLP Researchers Lose Our Jobs after ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/1060gfk/d_will_nlp_researchers_lose_our_jobs_after_chatgpt/)
 - [[D] Bachelor&#39;s in AI in Europe](https://www.reddit.com/r/MachineLearning/comments/105z8xj/d_bachelors_in_ai_in_europe/)
 - [[D] Is there a way to use a large dataset of quotes to create custom quote-generating model using GPT-3](https://www.reddit.com/r/MachineLearning/comments/105ydxy/d_is_there_a_way_to_use_a_large_dataset_of_quotes/)
 - [[RESEARCH] AI and data in finance: the role of machine learning in anti-money laundering.](https://www.reddit.com/r/MachineLearning/comments/105wzn0/research_ai_and_data_in_finance_the_role_of/)
-- [[R] Greg Yang&#39;s work on a rigorous mathematical theory for neural networks](https://www.reddit.com/r/MachineLearning/comments/105v7el/r_greg_yangs_work_on_a_rigorous_mathematical/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
