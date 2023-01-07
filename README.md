@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[RESEARCH] AI and data in finance: the role of machine learning in anti-money laundering.](https://www.reddit.com/r/MachineLearning/comments/105wzn0/research_ai_and_data_in_finance_the_role_of/)
 - [[R] VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://www.reddit.com/r/MachineLearning/comments/105wui9/r_valle_neural_codec_language_models_are_zeroshot/)
 - [[R] Greg Yang&#39;s work on a rigorous mathematical theory for neural networks](https://www.reddit.com/r/MachineLearning/comments/105v7el/r_greg_yangs_work_on_a_rigorous_mathematical/)
 - [[Project] Does anyone want to collab on some AI implementation POCs?](https://www.reddit.com/r/MachineLearning/comments/105uu50/project_does_anyone_want_to_collab_on_some_ai/)
 - [[D][P] SVM Multi-Classification, is it possible?](https://www.reddit.com/r/MachineLearning/comments/105turb/dp_svm_multiclassification_is_it_possible/)
-- [[Discussion] Is there any alternative of deep learning ?](https://www.reddit.com/r/MachineLearning/comments/105syyz/discussion_is_there_any_alternative_of_deep/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
