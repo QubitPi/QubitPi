@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748302325291941989><img align='right' src='https://i2.hdslb.com/bfs/archive/b666eb81d92d1cd76398a8e36dfc0ab0dea4b5d0.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748324195265413160><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/014632524d17a14f14c0c1690feb9598401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@苑芸栉@九幽鬼魑@糖醋凉拌双皮奶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/748324195265413160)
