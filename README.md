@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Greg Yang&#39;s work on a rigorous mathematical theory for neural networks](https://www.reddit.com/r/MachineLearning/comments/105v7el/r_greg_yangs_work_on_a_rigorous_mathematical/)
 - [[Project] Does anyone want to collab on some AI implementation POCs?](https://www.reddit.com/r/MachineLearning/comments/105uu50/project_does_anyone_want_to_collab_on_some_ai/)
 - [[D][P] SVM Multi-Classification, is it possible?](https://www.reddit.com/r/MachineLearning/comments/105turb/dp_svm_multiclassification_is_it_possible/)
 - [[Discussion] Is there any alternative of deep learning ?](https://www.reddit.com/r/MachineLearning/comments/105syyz/discussion_is_there_any_alternative_of_deep/)
 - [[D] Evaluating facts vs. fiction in large language models.](https://www.reddit.com/r/MachineLearning/comments/105swk0/d_evaluating_facts_vs_fiction_in_large_language/)
-- [[D] 5 Growing Libraries in Python for Causality Analysis](https://www.reddit.com/r/MachineLearning/comments/105oovx/d_5_growing_libraries_in_python_for_causality/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
