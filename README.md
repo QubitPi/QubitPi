@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Open source ChatGPT chatbot for Angular?](https://www.reddit.com/r/MachineLearning/comments/105lcen/d_open_source_chatgpt_chatbot_for_angular/)
+- [[D] Named Entity Recognition &lpar;NER&rpar; Libraries](https://www.reddit.com/r/MachineLearning/comments/105la5f/d_named_entity_recognition_ner_libraries/)
 - [[R] Two is Better than Many? Binary Classification as an Effective Approach to Multi-Choice Question Answering](https://www.reddit.com/r/MachineLearning/comments/105jyrg/r_two_is_better_than_many_binary_classification/)
 - [[D] Spellcheck Libraries](https://www.reddit.com/r/MachineLearning/comments/105jxl2/d_spellcheck_libraries/)
 - [Random forests, sound symbolism and Pokemon evolution: Random Forest algorithms are trained to classify Pokemon according to evolution based on the sounds that make up their names. These models are then tested on samples from an elicitation experiment and they perform better than human participants.](https://www.reddit.com/r/MachineLearning/comments/105jrv0/random_forests_sound_symbolism_and_pokemon/)
-- [[D] Which ML model should I use to analyse and detect dip in time series sequence?](https://www.reddit.com/r/MachineLearning/comments/105isni/d_which_ml_model_should_i_use_to_analyse_and/)
-- [Apple AI Residency 2023 [R]](https://www.reddit.com/r/MachineLearning/comments/105f7j0/apple_ai_residency_2023_r/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
