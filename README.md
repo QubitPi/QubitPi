@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which ML model performed way better than you expected to?](https://www.reddit.com/r/MachineLearning/comments/105bofy/d_which_ml_model_performed_way_better_than_you/)
 - [[D] compute/model libraries for &quot;classical&quot; learning?](https://www.reddit.com/r/MachineLearning/comments/105b6fo/d_computemodel_libraries_for_classical_learning/)
 - [[P] natural language search engine for video content](https://www.reddit.com/r/MachineLearning/comments/1056yce/p_natural_language_search_engine_for_video_content/)
 - [[D] I recently quit my job to start a ML company. Would really appreciate feedback on what we&#39;re working on.](https://www.reddit.com/r/MachineLearning/comments/1056uhp/d_i_recently_quit_my_job_to_start_a_ml_company/)
 - [[D] Looking for a dataset of Text-To-Speech audiobook-style Speech Synthesis Markup Language &lpar;SSML&rpar; files](https://www.reddit.com/r/MachineLearning/comments/1056c2e/d_looking_for_a_dataset_of_texttospeech/)
-- [[D] Arbitrary IPA text to speech](https://www.reddit.com/r/MachineLearning/comments/10563ux/d_arbitrary_ipa_text_to_speech/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
