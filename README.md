@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748324195265413160><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/014632524d17a14f14c0c1690feb9598401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/748695276145868900><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/12bacf4d4b7ecde05a62c76bf40846be401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@带带笨狗洞溪@今夜i月色真美@D1X2346等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/748695276145868900)
