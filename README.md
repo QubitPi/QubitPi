@@ -297,10 +297,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[Project] Major drawback/limitation of GPT-3](https://www.reddit.com/r/MachineLearning/comments/106ahcr/project_major_drawbacklimitation_of_gpt3/)
+- [[D] Why is Vulkan as a backend not used in ML over some offshoot GPU specification?](https://www.reddit.com/r/MachineLearning/comments/1068gl6/d_why_is_vulkan_as_a_backend_not_used_in_ml_over/)
 - [[R] Zero-shot cross-lingual transfer language selection using linguistic similarity](https://www.reddit.com/r/MachineLearning/comments/1067vfz/r_zeroshot_crosslingual_transfer_language/)
 - [[Project] Whisper for macOS / iOS via CoreML / Accelerate - Community call for help.](https://www.reddit.com/r/MachineLearning/comments/1064ved/project_whisper_for_macos_ios_via_coreml/)
 - [Automated Chart Mining in R [R] or Python [P]](https://www.reddit.com/r/MachineLearning/comments/1061qxz/automated_chart_mining_in_r_r_or_python_p/)
-- [[D] Will NLP Researchers Lose Our Jobs after ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/1060gfk/d_will_nlp_researchers_lose_our_jobs_after_chatgpt/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
