@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1611975743252176896)
-- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1611971965136273408)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1611769886530838529)
 - [Check out our blog post 📰 Guide to Real-Time Analytics ➡️](https://twitter.com/memgraphdb/status/1611766108565999617)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1611746229158830080)
+- [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1611736413153665025)
+- [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1611727860250644481)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
