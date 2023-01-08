@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. #memgraph #database #graphda...](https://twitter.com/memgraphdb/status/1612090245528403969)
+- [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1612088738280099842)
 - [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1612080936740421637)
 - [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1612063318419595264)
 - [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1612060048460595202)
-- [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1612036894585413634)
-- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1612024815304556549)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
