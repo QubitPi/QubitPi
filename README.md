@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 6: Client-Side GraphQL With React and Apollo Client](https://www.youtube.com/watch?v=uPYDtfNjzWA)
 - [Full Stack GraphQL Book Club - Chapter 5: Building User Interfaces With React](https://www.youtube.com/watch?v=Wwm8KBkGCrc)
 - [Ask a Data Scientist: What Makes a Good Graph Problem?](https://www.youtube.com/watch?v=cSdr0UyvyB8)
 - [106 Closing Q&amp;A With Emil and Andreas EMEA - NODES2022 - Emil Eifrem, Andreas Kollegger](https://www.youtube.com/watch?v=WTqehCkWolk)
 - [099 Neo4j Migrations The Lean Way of Applying Database Refactorings to Neo4j - NODES2022](https://www.youtube.com/watch?v=5-j0xiVAeoM)
-- [097 Introduction to the Async Python Driver - NODES2022 - Rouven Bauer](https://www.youtube.com/watch?v=IMAQCmxCn28)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
