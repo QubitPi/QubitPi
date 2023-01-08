@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Where to look to refresh and acquire new skills?](https://www.reddit.com/r/MachineLearning/comments/106rtih/dwhere_to_look_to_refresh_and_acquire_new_skills/)
 - [[P] I built Adrenaline, a debugger that fixes errors and explains them with GPT-3](https://www.reddit.com/r/MachineLearning/comments/106q6m9/p_i_built_adrenaline_a_debugger_that_fixes_errors/)
 - [[Discussion] Improving Problem Solving Skills of LLMs With Self-Directed Planning](https://www.reddit.com/r/MachineLearning/comments/106pd09/discussion_improving_problem_solving_skills_of/)
 - [FastQL: Prototype your text to image models in GraphQL with Rust backend in one line of code [P]](https://www.reddit.com/r/MachineLearning/comments/106nx0g/fastql_prototype_your_text_to_image_models_in/)
 - [[D] Have you ever used Knowledge Distillation in practice?](https://www.reddit.com/r/MachineLearning/comments/106no9h/d_have_you_ever_used_knowledge_distillation_in/)
-- [[D] Do really 87% of data science projects fail?](https://www.reddit.com/r/MachineLearning/comments/106nkp9/d_do_really_87_of_data_science_projects_fail/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
