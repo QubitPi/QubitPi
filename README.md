@@ -297,8 +297,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [FastQL: Prototype your text to image models in GraphQL with Rust backend in one line of code [P]](https://www.reddit.com/r/MachineLearning/comments/106nx0g/fastql_prototype_your_text_to_image_models_in/)
+- [[D] Have you ever used Knowledge Distillation in practice?](https://www.reddit.com/r/MachineLearning/comments/106no9h/d_have_you_ever_used_knowledge_distillation_in/)
 - [[D] Do really 87% of data science projects fail?](https://www.reddit.com/r/MachineLearning/comments/106nkp9/d_do_really_87_of_data_science_projects_fail/)
-- [[P] Looking for Data for a Table Extraction project](https://www.reddit.com/r/MachineLearning/comments/106n0lh/p_looking_for_data_for_a_table_extraction_project/)
 - [[D] What is the most complete reference on the history of neural networks?](https://www.reddit.com/r/MachineLearning/comments/106ixxx/d_what_is_the_most_complete_reference_on_the/)
 - [[R] Rethinking with Retrieval: Faithful Large Language Model Inference - Hangfeng He 2022 - Better performance than Self-consistency!](https://www.reddit.com/r/MachineLearning/comments/106ittu/r_rethinking_with_retrieval_faithful_large/)
 <!-- REDDIT-ML:END -->
