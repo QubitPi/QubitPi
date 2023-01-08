@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1612080936740421637)
+- [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1612063318419595264)
+- [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1612060048460595202)
 - [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1612036894585413634)
 - [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1612024815304556549)
-- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1612000405864517632)
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1611975743252176896)
-- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1611971965136273408)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
