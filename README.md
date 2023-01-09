@@ -314,11 +314,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Curso Evidence-Based Management #2 - El modelo lógico de proyecto](https://www.scrum.org/resources/blog/curso-evidence-based-management-2-el-modelo-logico-de-proyecto)
+- [Curso Evidence-Based Management #1 - ¿Qué es EBM?](https://www.scrum.org/resources/blog/curso-evidence-based-management-1-que-es-ebm)
+- [Curso de Evidence-Based Management en Español](https://www.scrum.org/resources/blog/curso-de-evidence-based-management-en-espanol)
 - [Entwicklungsmodell: Wie du als Scrum Master die Moderation der Scrum Events zu einer Fertigkeit des gesamten Scrum Teams machst und wirkliches Selbstmanagement förderst](https://www.scrum.org/resources/blog/entwicklungsmodell-wie-du-als-scrum-master-die-moderation-der-scrum-events-zu-einer)
 - [[VLOG] Creating self-managing teams is not the goal of the Scrum Master ...](https://www.scrum.org/resources/blog/vlog-creating-self-managing-teams-not-goal-scrum-master)
-- [You are a creation machine &lpar;#1&rpar;](https://www.scrum.org/resources/blog/you-are-creation-machine-1)
-- [Agile Principles – Sustainable Pace](https://www.scrum.org/resources/blog/agile-principles-sustainable-pace)
-- [The importance of Transparency during the Sprint Review &lpar;03&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-review-03)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
