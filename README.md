@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #database #graphdatabase #m...](https://twitter.com/memgraphdb/status/1612343917315334145)
+- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1612338129100234753)
+- [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1612334355140984833)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1612135043748569091)
 - [🎓 #Learn #Cypher with #Memgraph The UNION clause is used to combine the result of multiple queries. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1612128498256076801)
-- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. #memgraph #database #graphda...](https://twitter.com/memgraphdb/status/1612090245528403969)
-- [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1612088738280099842)
-- [Check out our blog post 📰 Batch processing vs stream processing ➡️](https://twitter.com/memgraphdb/status/1612080936740421637)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
