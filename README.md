@@ -467,11 +467,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [📍Noida New to the world of graph technology? Register for the first meetup of Graph Database Delhi/NCR powered by @Neo4j, learn from the experts an...](https://twitter.com/neo4j/status/1612430012711407616)
 - [&quot;Visibility matters! Being able to see wealth inequality decreased the ability of the society to produce more wealth overall and reduced cooperation.&quot;...](https://twitter.com/neo4j/status/1611814449597349888)
 - [Follow along in Jennifer Reif’s blog as she converts MongoDB-connected services to use Spring Cloud Config for accessing database credentials, matchi...](https://twitter.com/neo4j/status/1611754298408304640)
 - [We are thrilled to announce we have been recognized in the 2022 Gartner® Magic Quadrant™ for Cloud Database Management Systems! Read more: #Gartner ...](https://twitter.com/neo4j/status/1611415324552749056)
 - [RT Jennifer Reif: I&#39;ll be presenting next week on Java and microservices! Come join me - live demo included. 👩‍💻 #java #microservices](https://twitter.com/JMHReif/status/1611413590384197641)
+- [The journey for the best of the 2022 continues :&rpar; In case you missed it, here&#39;s Tomaz Bratanic&#39;s article&quot;Using #Neo4j Graph Data Science in Python to ...](https://twitter.com/neo4j/status/1611354444997840898)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
