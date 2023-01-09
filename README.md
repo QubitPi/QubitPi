@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 #memgraph #pyth...](https://twitter.com/memgraphdb/status/1612471005745643520)
 - [🎓 #Memgraph presents graph algorithms: Community detection 🗒️ The notion of community in a graph is analogous to the real-world notion of commu...](https://twitter.com/memgraphdb/status/1612452636183203841)
 - [Which database to choose? Learn about the main differences between a graph database and a relational database, what kind of use-cases are best suited ...](https://twitter.com/memgraphdb/status/1612443322890559490)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1612423192408215553)
 - [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1612405069902667778)
-- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1612399281079459840)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
