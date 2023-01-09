@@ -507,11 +507,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Tomorrow at 6pm CEST tune into W3Fs Twitter Space to hear from @d_schoenberger, @josh_blockchain, and @daltonan on DOT morphing from a “Security” to...](https://twitter.com/Web3foundation/status/1599802512655388673)
-- [Re 8/...This is reconfirming that we did the right thing&quot; - @d_schoenberger, Web3 Foundation CLO.](https://twitter.com/Web3foundation/status/1598078294792241152)
-- [Re 7/ &quot;Commissioner Jaime Lizàrraga made a valid point that it was not the SEC’s responsibility to provide legal advice to projects but that it woul...](https://twitter.com/Web3foundation/status/1598078290065231872)
-- [Re 6/ &quot;Tech gurus should be talking about the tech and not marketing their tokens&quot; - @josh_blockchain, U.S. Head of FinTech and Head of Blockchain and...](https://twitter.com/Web3foundation/status/1598078287737401344)
-- [Re 5/...If you sold a security pursuant to an available exemption from registration, it is a security at the time of delivery. It needs to be delivere...](https://twitter.com/Web3foundation/status/1598078285354631168)
+- [Re 7/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1612453241152831489)
+- [Re 6/ Well done to @GafiNetwork as they completed their 3rd milestone as they continue to build a truly decentralized blockchain platform for blockcha...](https://twitter.com/Web3foundation/status/1612453238803922946)
+- [Re 5/ Congrats to @tesseract_one for completing milestone 2. They continue working to improve the usability of the dapps without compromising security...](https://twitter.com/Web3foundation/status/1612453236430061575)
+- [Re 4/ We’re excited to announce that @CalamarExplorer has finished its first milestone as they continue developing the Calamar block explorer for Pol...](https://twitter.com/Web3foundation/status/1612453234081153025)
+- [Re 3/ A shoutout to @blockcoders_ for successfully completing their grant for Ink Explorer which enables @Polkadot ecosystem members to retrieve Ink c...](https://twitter.com/Web3foundation/status/1612453231656927234)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
