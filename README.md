@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] What&#39;s next for AI?](https://www.reddit.com/r/MachineLearning/comments/10766uz/n_whats_next_for_ai/)
 - [[P] [N] Creative AI Studio - History of Humankind &lpar;AI Generated Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/1075ogy/p_n_creative_ai_studio_history_of_humankind_ai/)
 - [[P] [N] Creative AI Studio - A Year in Review: 2022](https://www.reddit.com/r/MachineLearning/comments/1075g06/p_n_creative_ai_studio_a_year_in_review_2022/)
 - [[R] Learning Learning-Rates: SteDy Optimizer](https://www.reddit.com/r/MachineLearning/comments/106y5sy/r_learning_learningrates_stedy_optimizer/)
 - [[D]Where to look to refresh and acquire new skills?](https://www.reddit.com/r/MachineLearning/comments/106rtih/dwhere_to_look_to_refresh_and_acquire_new_skills/)
-- [[P] I built Adrenaline, a debugger that fixes errors and explains them with GPT-3](https://www.reddit.com/r/MachineLearning/comments/106q6m9/p_i_built_adrenaline_a_debugger_that_fixes_errors/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
