@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1612423192408215553)
-- [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1612405069902667778)
-- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1612399281079459840)
-- [It is always nice to see and read #memgraph and #MAGE related content :&rpar;](https://twitter.com/memgraphdb/status/1612394247952666626)
 - [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1612387202654244865)
+- [Check out our blog post 📰 Importing Table Data into a Graph Database with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1612369840861335553)
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #database #graphdatabase #m...](https://twitter.com/memgraphdb/status/1612343917315334145)
+- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1612338129100234753)
+- [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1612334355140984833)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
