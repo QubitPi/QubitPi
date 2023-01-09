@@ -416,11 +416,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Graph theory still have you scratching your head? Check out this great introduction to graph article that explains what graph theory is and why it is ...](https://twitter.com/arangodb/status/1612554828667912192)
 - [Kickstart 2023 with our &quot;New Year, New AQL&quot; webinar to become an AQL master with ArangoDB. ✨ Join us on January 18th, 2023. 🥑](https://twitter.com/arangodb/status/1612418948674330626)
 - [Unfamiliar with the ArangoGraph Insights Platform? Why not get started with 14 days on us! Sign up today and hop into the cloud with ArangoDB. ☁️](https://twitter.com/arangodb/status/1612101832200884225)
 - [Did you attend our Challenges of a Cloud Native Database webinar with CTO @joerg_schad? ☁ 🥑 Registered to view this on-demand today. 👇](https://twitter.com/arangodb/status/1611739450681303040)
 - [Data science is changing the healthcare system. 🩺 Learn why health care professionals are seizing the opportunity to follow along with the latest u...](https://twitter.com/arangodb/status/1611467665809309696)
+- [PrivacyPerfect had the difficult challenge of selecting the right data model to minimize architectural complexity. Find out why they selected graph an...](https://twitter.com/arangodb/status/1611331795068256257)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
