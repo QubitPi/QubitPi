@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Using ChatGPT as a chatbot to answer specific questions](https://www.reddit.com/r/MachineLearning/comments/1079mu8/discussion_using_chatgpt_as_a_chatbot_to_answer/)
 - [Best language model for filling multiple related masks [D]](https://www.reddit.com/r/MachineLearning/comments/1077x9m/best_language_model_for_filling_multiple_related/)
 - [[D] I want to use GPT-J-6B for my story-writing project but I have a few questions about it.](https://www.reddit.com/r/MachineLearning/comments/1077ni4/d_i_want_to_use_gptj6b_for_my_storywriting/)
 - [[N] What&#39;s next for AI?](https://www.reddit.com/r/MachineLearning/comments/10766uz/n_whats_next_for_ai/)
 - [[R] Learning Learning-Rates: SteDy Optimizer](https://www.reddit.com/r/MachineLearning/comments/106y5sy/r_learning_learningrates_stedy_optimizer/)
+- [[D]Where to look to refresh and acquire new skills?](https://www.reddit.com/r/MachineLearning/comments/106rtih/dwhere_to_look_to_refresh_and_acquire_new_skills/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
