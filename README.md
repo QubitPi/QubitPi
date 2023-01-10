@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749038018839445591><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/aae8116265e4e68acd9f66025892d14a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749407188455260209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2441eb7694280c5520b38bc850398368401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #闪耀的群星# #原神音乐# 「《原神》第三张角色主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《闪耀的群星3 The Stellar Moment...](https://t.bilibili.com/749038018839445591)
