@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1612851513713385472)
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1612833392306933762)
+- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1612826093731340289)
 - [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1612815021838401539)
 - [🎉🚀#Orb has been orbiting around the internet for some time now, and it has gathered over 200 stars so far :&rpar; Is your ⭐️one of those 200 stars?...](https://twitter.com/memgraphdb/status/1612790955911823360)
-- [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1612785576620564482)
-- [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1612784821348040707)
-- [🎓 Building a recommendation engine is never an easy task. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1612761670434054144)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
