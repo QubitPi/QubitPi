@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] NLP for products matching](https://www.reddit.com/r/MachineLearning/comments/1088idx/p_nlp_for_products_matching/)
 - [[R] Inject information in Transformer encoder output before decoder](https://www.reddit.com/r/MachineLearning/comments/1086rta/r_inject_information_in_transformer_encoder/)
 - [[D] Is it able to generate feature for unseen nodes without updating the adjacency matrix in GCN?](https://www.reddit.com/r/MachineLearning/comments/10815yp/d_is_it_able_to_generate_feature_for_unseen_nodes/)
 - [[P] Evaluating several topic modeling implementations. What&#39;s the current best practice? BERTopic? OpenAI Ada-002?](https://www.reddit.com/r/MachineLearning/comments/1080c3d/p_evaluating_several_topic_modeling/)
 - [[R] Class-Continuous Conditional Generative Nerual Radiance Field](https://www.reddit.com/r/MachineLearning/comments/107z8z1/r_classcontinuous_conditional_generative_nerual/)
-- [[P] Built an at-cost, pay per second, open-source API for Tortoise text-to-speech &lpar;best I&#39;ve heard!&rpar;](https://www.reddit.com/r/MachineLearning/comments/107u88d/p_built_an_atcost_pay_per_second_opensource_api/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
