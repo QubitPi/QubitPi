@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749407188455260209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2441eb7694280c5520b38bc850398368401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749438734995292201><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5fb1ec14a60f8c1af4cb42675f5879e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@__夜枫__@神世-晨曦诚@小提老婆的绿色挑染等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/749438734995292201)
