@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Finding influential historical papers in NLP and Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/108g767/r_finding_influential_historical_papers_in_nlp/)
 - [[D] The model and the code for many applications are basically a solved problem](https://www.reddit.com/r/MachineLearning/comments/108fnr8/d_the_model_and_the_code_for_many_applications/)
 - [[N] Microsoft Considers $10 Billion Investment in ChatGPT Creator --Bloomberg News](https://www.reddit.com/r/MachineLearning/comments/1088rnw/n_microsoft_considers_10_billion_investment_in/)
 - [[D] Found very similar paper to my submitted paper on Arxiv](https://www.reddit.com/r/MachineLearning/comments/1088q5t/d_found_very_similar_paper_to_my_submitted_paper/)
 - [[P] Evaluating several topic modeling implementations. What&#39;s the current best practice? BERTopic? OpenAI Ada-002?](https://www.reddit.com/r/MachineLearning/comments/1080c3d/p_evaluating_several_topic_modeling/)
-- [[R] Class-Continuous Conditional Generative Nerual Radiance Field](https://www.reddit.com/r/MachineLearning/comments/107z8z1/r_classcontinuous_conditional_generative_nerual/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
