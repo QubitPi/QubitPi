@@ -467,11 +467,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [This is the 1st part of a series where you&#39;ll discover how Neo4j supports cross-disciplinary research between technology and humanities research in co...](https://twitter.com/neo4j/status/1612871943753015298)
 - [Neo4j 5: Higher Speed with Easy Scale-Out🚀 Connecting and analyzing complex data relationships has never been easier. Learn more about #Neo4j5, her...](https://twitter.com/neo4j/status/1612810006344122369)
 - [In this blog, Artem Ryasik represents biomedical data as a graph to uncover meaningful relationships between genes and diseases., How? 👇 #Neo4j #al...](https://twitter.com/neo4j/status/1612768484626137088)
 - [In this NODES 2022 presentation, Corey Lanum, the author of the book “Visualizing Graph Data”, demonstrates how to present graph analytics in a way ...](https://twitter.com/neo4j/status/1612509582068252674)
 - [📍Noida New to the world of graph technology? Register for the first meetup of Graph Database Delhi/NCR powered by @Neo4j, learn from the experts an...](https://twitter.com/neo4j/status/1612430012711407616)
+- [&quot;Visibility matters! Being able to see wealth inequality decreased the ability of the society to produce more wealth overall and reduced cooperation.&quot;...](https://twitter.com/neo4j/status/1611814449597349888)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
