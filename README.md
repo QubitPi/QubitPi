@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1612785576620564482)
+- [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1612784821348040707)
+- [🎓 Building a recommendation engine is never an easy task. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1612761670434054144)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at #memgraph #graphmodeling #graphdat...](https://twitter.com/memgraphdb/status/1612745059329269764)
 - [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1612700516483534848)
-- [Sign up for the #Memgraph #Webinar &quot;Real-Time Graph Analytics Webinar&quot;. You will earn: - When to use graph analytics? - When to use a graph database? ...](https://twitter.com/memgraphdb/status/1612696744671821824)
-- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1612692969508700162)
-- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1612494879141072910)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
