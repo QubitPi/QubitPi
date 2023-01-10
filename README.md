@@ -535,9 +535,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [Portfolio design](https://dribbble.com/shots/20300654)
 - [Simple Things.](https://dribbble.com/shots/20325158)
-- [365MAG - Article](https://dribbble.com/shots/20324434)
 - [2023 Year of the Rabbit Badge](https://dribbble.com/shots/20326302)
 - [Branding for Letter Fintech Company](https://dribbble.com/shots/20210550)
+- [365MAG - Article](https://dribbble.com/shots/20324434)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
