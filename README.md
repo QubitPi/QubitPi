@@ -187,7 +187,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Miscellaneous
 
-[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/)
+[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/)
 
 > The forked repos that genereate all of the "documentation/study notes" above are listed [at the end of this page](https://github.com/QubitPi#comprehensive-documentation-related-forks)
 
@@ -693,3 +693,4 @@ Comprehensive Documentation-Related Forks
 
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=vue)](https://github.com/QubitPi/keep-a-changelog)
+[![sed](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=sed&show_owner=true&theme=vue)](https://github.com/QubitPi/sed)
