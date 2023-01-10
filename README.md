@@ -314,7 +314,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Self Managing Defects escaping into Prod](https://www.scrum.org/resources/blog/self-managing-defects-escaping-prod)
+- [Self Managing Defects Escaping into Prod](https://www.scrum.org/resources/blog/self-managing-defects-escaping-prod)
 - [🇮🇹 Leadership - 5 cambiamenti fondamentali](https://www.scrum.org/resources/blog/leadership-5-cambiamenti-fondamentali)
 - [A ChatGPT Job Interview for a Scrum Master Position](https://www.scrum.org/resources/blog/chatgpt-job-interview-scrum-master-position)
 - [Curso Evidence-Based Management #2 - El modelo lógico de proyecto](https://www.scrum.org/resources/blog/curso-evidence-based-management-2-el-modelo-logico-de-proyecto)
