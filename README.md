@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Math or physics degree to get into ML?](https://www.reddit.com/r/MachineLearning/comments/1080fc1/d_math_or_physics_degree_to_get_into_ml/)
 - [[P] Evaluating several topic modeling implementations. What&#39;s the current best practice? BERTopic? OpenAI Ada-002?](https://www.reddit.com/r/MachineLearning/comments/1080c3d/p_evaluating_several_topic_modeling/)
 - [[R] Class-Continuous Conditional Generative Nerual Radiance Field](https://www.reddit.com/r/MachineLearning/comments/107z8z1/r_classcontinuous_conditional_generative_nerual/)
 - [[P] Built an at-cost, pay per second, open-source API for Tortoise text-to-speech &lpar;best I&#39;ve heard!&rpar;](https://www.reddit.com/r/MachineLearning/comments/107u88d/p_built_an_atcost_pay_per_second_opensource_api/)
 - [[D] Maarten Grootendorst: BERTopic, Data Science, Psychology | Learning from ML Episode 1](https://www.reddit.com/r/MachineLearning/comments/107rrhb/d_maarten_grootendorst_bertopic_data_science/)
-- [[D] Looking for github package testing many decision tree models - it exists but I can&#39;t find it in my browser history](https://www.reddit.com/r/MachineLearning/comments/107jvpj/d_looking_for_github_package_testing_many/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
