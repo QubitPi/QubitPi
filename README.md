@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749438734995292201><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a5fb1ec14a60f8c1af4cb42675f5879e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #须弥冒险笔记# #千壑沙地# 旅行者们好呀， 位于须弥北部的新区域「千壑沙地」即将开放！如弯刀一般的沙原沟壑中，隐藏着哪些未知的风景呢？让我们一起来...](https://t.bilibili.com/749499281137729577)
 - [恭喜@__夜枫__@神世-晨曦诚@小提老婆的绿色挑染等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/749438734995292201)
 - [互动抽奖 #原神# #原神音乐# #闪耀的群星# 亲爱的旅行者，《原神》第三张角色主题OST「闪耀的群星3 The Stellar Moments Vol. 3」现已正式上线。 欢迎旅行者前往...](https://t.bilibili.com/749407188455260209)
 - [#原神# #闪耀的群星# #原神音乐# 「《原神》第三张角色主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《闪耀的群星3 The Stellar Moment...](https://t.bilibili.com/749038018839445591)
 - [互动抽奖 #原神# #托马# #生日快乐# 开满风起地的风车菊…山崖边的塞西莉亚花… 还带着清新的香味，不禁让我想起小时候蒙德城里的花店… 哈哈，我怎么像老爷爷一...](https://t.bilibili.com/749035428964728889)
-- [恭喜@带带笨狗洞溪@今夜i月色真美@D1X2346等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/748695276145868900)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
