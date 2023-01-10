@@ -507,11 +507,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Tomorrow at 2pm UTC/3pm CET, tune in to hear Web3 Foundation&#39;s @BillLaboon discuss all things @Polkadot &amp; parachains. Have a question about Polkadot a...](https://twitter.com/Web3foundation/status/1612802615309377543)
 - [Re 7/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1612453241152831489)
 - [Re 6/ Well done to @GafiNetwork as they completed their 3rd milestone as they continue to build a truly decentralized blockchain platform for blockcha...](https://twitter.com/Web3foundation/status/1612453238803922946)
 - [Re 5/ Congrats to @tesseract_one for completing milestone 2. They continue working to improve the usability of the dapps without compromising security...](https://twitter.com/Web3foundation/status/1612453236430061575)
 - [Re 4/ We’re excited to announce that @CalamarExplorer has finished its first milestone as they continue developing the Calamar block explorer for Pol...](https://twitter.com/Web3foundation/status/1612453234081153025)
+- [Re 3/ A shoutout to @blockcoders_ for successfully completing their grant for Ink Explorer which enables @Polkadot ecosystem members to retrieve Ink c...](https://twitter.com/Web3foundation/status/1612453231656927234)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
