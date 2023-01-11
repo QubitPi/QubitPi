@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] - Multi-head attention and lower feature dimensionality](https://www.reddit.com/r/MachineLearning/comments/109h5ci/d_multihead_attention_and_lower_feature/)
 - [[R] Scaling Laws for Generative Mixed-Modal Language Models](https://www.reddit.com/r/MachineLearning/comments/109cxc7/r_scaling_laws_for_generative_mixedmodal_language/)
 - [[News] &quot;Once $92 billion in profit plus $13 billion in initial investment are repaid &lpar;to Microsoft&rpar; and once the other venture investors earn $150 billion, all of the equity reverts back to OpenAI.&quot;](https://www.reddit.com/r/MachineLearning/comments/109a7pm/news_once_92_billion_in_profit_plus_13_billion_in/)
 - [[D] HuggingFace in Julia or Rust ?](https://www.reddit.com/r/MachineLearning/comments/10977w9/d_huggingface_in_julia_or_rust/)
 - [[R] I’m wrong to say that swin transformers give privilege to hight level features ?](https://www.reddit.com/r/MachineLearning/comments/1096a8c/r_im_wrong_to_say_that_swin_transformers_give/)
-- [[D] Microsoft ChatGPT investment isn&#39;t about Bing but about Cortana](https://www.reddit.com/r/MachineLearning/comments/1095os9/d_microsoft_chatgpt_investment_isnt_about_bing/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
