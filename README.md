@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749499281137729577><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e694dc814262af50df4305a8883d7930401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749754402201403413><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9b4cae5774c395cb92c82564b0353892401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #须弥冒险笔记# #千壑沙地# 旅行者们好呀， 位于须弥北部的新区域「千壑沙地」即将开放！如弯刀一般的沙原沟壑中，隐藏着哪些未知的风景呢？让我们一起来...](https://t.bilibili.com/749499281137729577)
