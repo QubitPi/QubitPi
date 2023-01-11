@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] HuggingFace in Julia or Rust ?](https://www.reddit.com/r/MachineLearning/comments/10977w9/d_huggingface_in_julia_or_rust/)
 - [[R] I’m wrong to say that swin transformers give privilege to hight level features ?](https://www.reddit.com/r/MachineLearning/comments/1096a8c/r_im_wrong_to_say_that_swin_transformers_give/)
 - [[D] Microsoft ChatGPT investment isn&#39;t about Bing but about Cortana](https://www.reddit.com/r/MachineLearning/comments/1095os9/d_microsoft_chatgpt_investment_isnt_about_bing/)
 - [[D] Any model like VALL-E available currently?](https://www.reddit.com/r/MachineLearning/comments/1091e54/d_any_model_like_valle_available_currently/)
 - [[P] LatentWeb.ai - It&#39;s like the Internet is dreaming.](https://www.reddit.com/r/MachineLearning/comments/108z4hm/p_latentwebai_its_like_the_internet_is_dreaming/)
-- [[D] Venues for a Medical NLP Publication](https://www.reddit.com/r/MachineLearning/comments/108y9f0/d_venues_for_a_medical_nlp_publication/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
