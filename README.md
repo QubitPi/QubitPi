@@ -557,11 +557,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [:has is an unforgiving selector](https://css-tricks.com/has-is-an-unforgiving-selector/)
 - [Faking Min Width on a Table Column](https://css-tricks.com/faking-min-width-on-a-table-column/)
 - [Styling Buttons in WordPress Block Themes](https://css-tricks.com/styling-buttons-in-wordpress-block-themes/)
 - [Thank You &lpar;2022 Edition&rpar;](https://css-tricks.com/thank-you-2022-edition/)
 - [2022 Roundup of Web Research](https://css-tricks.com/2022-roundup-of-web-research/)
-- [Help choose the syntax for CSS Nesting](https://css-tricks.com/help-choose-the-syntax-for-css-nesting/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
