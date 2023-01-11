@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749754402201403413><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9b4cae5774c395cb92c82564b0353892401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749808535972347990><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/339c76c2cd3233a372687c0a01347a22401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #派蒙的星光考察# #闪耀的群星# 「派蒙的星光考察」——《原神》角色主题OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「派蒙的星光考察」H5活...](https://t.bilibili.com/749808535972347990)
