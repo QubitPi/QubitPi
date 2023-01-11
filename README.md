@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Any model like VALL-E available currently?](https://www.reddit.com/r/MachineLearning/comments/1091e54/d_any_model_like_valle_available_currently/)
 - [[R] weight corelation during training](https://www.reddit.com/r/MachineLearning/comments/108zulu/r_weight_corelation_during_training/)
 - [[P] LatentWeb.ai - It&#39;s like the Internet is dreaming.](https://www.reddit.com/r/MachineLearning/comments/108z4hm/p_latentwebai_its_like_the_internet_is_dreaming/)
 - [[P] Projects to get hired](https://www.reddit.com/r/MachineLearning/comments/108yi86/p_projects_to_get_hired/)
 - [[D] Venues for a Medical NLP Publication](https://www.reddit.com/r/MachineLearning/comments/108y9f0/d_venues_for_a_medical_nlp_publication/)
-- [[D] Pre-trained weights in experiment results](https://www.reddit.com/r/MachineLearning/comments/108xc64/d_pretrained_weights_in_experiment_results/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
