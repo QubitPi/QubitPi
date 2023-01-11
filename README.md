@@ -299,8 +299,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Any model like VALL-E available currently?](https://www.reddit.com/r/MachineLearning/comments/1091e54/d_any_model_like_valle_available_currently/)
 - [[P] LatentWeb.ai - It&#39;s like the Internet is dreaming.](https://www.reddit.com/r/MachineLearning/comments/108z4hm/p_latentwebai_its_like_the_internet_is_dreaming/)
 - [[D] Venues for a Medical NLP Publication](https://www.reddit.com/r/MachineLearning/comments/108y9f0/d_venues_for_a_medical_nlp_publication/)
-- [[D] Options for data scientist who wants more social interaction](https://www.reddit.com/r/MachineLearning/comments/108u1gt/d_options_for_data_scientist_who_wants_more/)
 - [[Discussion] [Research] How do you find ARR for *ACL conferences? Do you prefer it than direct submission?](https://www.reddit.com/r/MachineLearning/comments/108t1nl/discussion_research_how_do_you_find_arr_for_acl/)
+- [[D] Soft Prompt Training Issue](https://www.reddit.com/r/MachineLearning/comments/108nein/d_soft_prompt_training_issue/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
