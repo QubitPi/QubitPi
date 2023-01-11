@@ -477,9 +477,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Full Stack GraphQL Book Club - Chapter 6: Client-Side GraphQL With React and Apollo Client](https://www.youtube.com/watch?v=uPYDtfNjzWA)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=nBVr-cSrOsY)
 - [Neo4j Live: Wardley Mapping with Neo4j](https://www.youtube.com/watch?v=UKvjYZ2kiNY)
-- [Full Stack GraphQL Book Club - Chapter 6: Client-Side GraphQL With React and Apollo Client](https://www.youtube.com/watch?v=uPYDtfNjzWA)
 - [Full Stack GraphQL Book Club - Chapter 5: Building User Interfaces With React](https://www.youtube.com/watch?v=Wwm8KBkGCrc)
 - [Ask a Data Scientist: What Makes a Good Graph Problem?](https://www.youtube.com/watch?v=cSdr0UyvyB8)
 <!-- NEO4J-YOUTUBE:END -->
