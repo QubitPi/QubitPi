@@ -467,11 +467,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Start your journey with graph databases!🚀 Download for FREE! #Ne...](https://twitter.com/neo4j/status/1613253674863566848)
 - [Full Stack GraphQL Book Club - Chapter 6: Client-Side GraphQL With React and Apollo Client @lyonwj](https://twitter.com/neo4j/status/1613185299546345476)
 - [This is the 1st part of a series where you&#39;ll discover how Neo4j supports cross-disciplinary research between technology and humanities research in co...](https://twitter.com/neo4j/status/1612871943753015298)
 - [Neo4j 5: Higher Speed with Easy Scale-Out🚀 Connecting and analyzing complex data relationships has never been easier. Learn more about #Neo4j5, her...](https://twitter.com/neo4j/status/1612810006344122369)
 - [RT Adam Cowley: Do you use @Neo4j and @code? If so, why not try this extension I&#39;ve just published. It allows you to add multiple connections and run ...](https://twitter.com/adamcowley/status/1612773756065255424)
-- [In this blog, Artem Ryasik represents biomedical data as a graph to uncover meaningful relationships between genes and diseases., How? 👇 #Neo4j #al...](https://twitter.com/neo4j/status/1612768484626137088)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
