@@ -175,7 +175,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Data/Knowledge Graph
 
-[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/)
+[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/)
 
 #### Frontend Technologies
 
@@ -648,6 +648,7 @@ Comprehensive Documentation-Related Forks
 [![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)
 [![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=vue)](https://github.com/QubitPi/cpython)
 
 ### Software Infrastructure
 
