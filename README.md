@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Pre-trained weights in experiment results](https://www.reddit.com/r/MachineLearning/comments/108xc64/d_pretrained_weights_in_experiment_results/)
 - [[D] Options for data scientist who wants more social interaction](https://www.reddit.com/r/MachineLearning/comments/108u1gt/d_options_for_data_scientist_who_wants_more/)
 - [[Discussion] [Research] How do you find ARR for *ACL conferences? Do you prefer it than direct submission?](https://www.reddit.com/r/MachineLearning/comments/108t1nl/discussion_research_how_do_you_find_arr_for_acl/)
 - [[D] Soft Prompt Training Issue](https://www.reddit.com/r/MachineLearning/comments/108nein/d_soft_prompt_training_issue/)
 - [[N] Microsoft Considers $10 Billion Investment in ChatGPT Creator --Bloomberg News](https://www.reddit.com/r/MachineLearning/comments/1088rnw/n_microsoft_considers_10_billion_investment_in/)
-- [[D] Found very similar paper to my submitted paper on Arxiv](https://www.reddit.com/r/MachineLearning/comments/1088q5t/d_found_very_similar_paper_to_my_submitted_paper/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
