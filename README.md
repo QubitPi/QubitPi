@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Microsoft ChatGPT investment isn&#39;t about Bing but about Cortana](https://www.reddit.com/r/MachineLearning/comments/1095os9/d_microsoft_chatgpt_investment_isnt_about_bing/)
 - [[D] Any model like VALL-E available currently?](https://www.reddit.com/r/MachineLearning/comments/1091e54/d_any_model_like_valle_available_currently/)
 - [[P] LatentWeb.ai - It&#39;s like the Internet is dreaming.](https://www.reddit.com/r/MachineLearning/comments/108z4hm/p_latentwebai_its_like_the_internet_is_dreaming/)
 - [[D] Venues for a Medical NLP Publication](https://www.reddit.com/r/MachineLearning/comments/108y9f0/d_venues_for_a_medical_nlp_publication/)
 - [[Discussion] [Research] How do you find ARR for *ACL conferences? Do you prefer it than direct submission?](https://www.reddit.com/r/MachineLearning/comments/108t1nl/discussion_research_how_do_you_find_arr_for_acl/)
-- [[D] Soft Prompt Training Issue](https://www.reddit.com/r/MachineLearning/comments/108nein/d_soft_prompt_training_issue/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
