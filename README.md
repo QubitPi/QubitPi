@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749808535972347990><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/339c76c2cd3233a372687c0a01347a22401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #派蒙的星光考察# #闪耀的群星# 「派蒙的星光考察」——《原神》角色主题OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「派蒙的星光考察」H5活...](https://t.bilibili.com/749808535972347990)
-- [#原神# #须弥冒险笔记# #千壑沙地# 旅行者们好呀，本期冒险笔记将为大家介绍沙漠地区的新敌人。 P.S：本期仅收录部分 敌人的介绍。关于新地区的更多内容，欢迎旅...](https://t.bilibili.com/749754402201403413)
-- [#原神# #须弥冒险笔记# #千壑沙地# 旅行者们好呀， 位于须弥北部的新区域「千壑沙地」即将开放！如弯刀一般的沙原沟壑中，隐藏着哪些未知的风景呢？让我们一起来...](https://t.bilibili.com/749499281137729577)
-- [恭喜@__夜枫__@神世-晨曦诚@小提老婆的绿色挑染等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/749438734995292201)
-- [互动抽奖 #原神# #原神音乐# #闪耀的群星# 亲爱的旅行者，《原神》第三张角色主题OST「闪耀的群星3 The Stellar Moments Vol. 3」现已正式上线。 欢迎旅行者前往...](https://t.bilibili.com/749407188455260209)
+- [互动抽奖 #原神# #艾尔海森# 《原神》艾尔海森角色PV——「疑问与沉默」现已发布~ https://www.bilibili.com/video/BV1MM411c7m6 艾尔海森从不认为只要能遍历所...](https://t.bilibili.com/750152691701776435)
+- [旅行者们好呀！今天为大家介绍的角色是艾尔海森。一起来看看吧~](https://t.bilibili.com/750151261478715414)
+- [#原神# #艾尔海森# 学识、思考及处事之道](https://t.bilibili.com/750150763265654792)
+- [学识、思考及处事之道](https://t.bilibili.com/750149972990623778)
+- [《原神》艾尔海森角色PV——「疑问与沉默」](https://t.bilibili.com/750148774683213944)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
