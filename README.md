@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] New Continual Learning Subreddit](https://www.reddit.com/r/MachineLearning/comments/109zwwn/n_new_continual_learning_subreddit/)
 - [[R] Is there any research on allowing Transformers to spent more compute on more difficult to predict tokens?](https://www.reddit.com/r/MachineLearning/comments/109z8om/r_is_there_any_research_on_allowing_transformers/)
 - [[D] Question about AI-Implementation](https://www.reddit.com/r/MachineLearning/comments/109ytv7/d_question_about_aiimplementation/)
 - [[D] Are there any papers on optimization-based approaches which combine learned parameter initializations with learned optimisers?](https://www.reddit.com/r/MachineLearning/comments/109xqw3/d_are_there_any_papers_on_optimizationbased/)
 - [[D] The Open Deep Learning Toolkit for Robotics v2.0 was just released](https://www.reddit.com/r/MachineLearning/comments/109w09k/d_the_open_deep_learning_toolkit_for_robotics_v20/)
-- [[P] Looking for someone with good NN/ deep learning experience for a paid project](https://www.reddit.com/r/MachineLearning/comments/109tysl/p_looking_for_someone_with_good_nn_deep_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
