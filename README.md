@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1613449954994839554)
 - [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1613431082325577730)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #database #graphdatabase #memgraphdb #sql #nosql](https://twitter.com/memgraphdb/status/1613425291703066624)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1613421517924081667)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1613219800922079232)
-- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1613195780134952968)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
