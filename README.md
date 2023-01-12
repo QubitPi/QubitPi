@@ -467,11 +467,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#NobelPrize --&gt; Let&#39;s make a nice dataset to import and query as a graph!🎖 with @mesirii @alexandererdl #AuraDBFree #GraphDatabase #Neo4j](https://twitter.com/neo4j/status/1613596825654632451)
 - [What Makes Graph Data Science Different From Traditional Data Science? 🤔 Alexander Jarasch answers this question in the 2nd video of our series &quot;As...](https://twitter.com/neo4j/status/1613531090227978243)
 - [Another great article from 2022: &quot;Neo4j Data Access for Your .NET Core C# Microservice&quot; Chintan Desai shares an example of a Neo4j-based Microservice ...](https://twitter.com/neo4j/status/1613506169359720448)
 - [RT Adrien SALES: 💡 Whatif I told you you can browse @neo4j versions within #neo4j itself ❔ Discover below: 👨‍🎓 Why you should do this 🧰 ...](https://twitter.com/rastadidi/status/1613259928164270080)
 - [&quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Start your journey with graph databases!🚀 Download for FREE! #Ne...](https://twitter.com/neo4j/status/1613253674863566848)
-- [RT Jason Koo: Tomorrow Sage Elliot and I will be talking about Graph Query Languages. To join us live or for more info:](https://twitter.com/jalakoo/status/1613234385968398336)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
