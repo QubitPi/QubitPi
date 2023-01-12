@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1613530486218817537)
+- [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1613512870808928259)
+- [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1613509600094961664)
 - [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1613486447452905472)
 - [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1613484936576569344)
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1613449954994839554)
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1613431082325577730)
-- [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #database #graphdatabase #memgraphdb #sql #nosql](https://twitter.com/memgraphdb/status/1613425291703066624)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
