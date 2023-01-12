@@ -535,7 +535,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [Portfolio design](https://dribbble.com/shots/20300654)
 - [Simple Things.](https://dribbble.com/shots/20325158)
-- [Branding for Letter Fintech Company](https://dribbble.com/shots/20210550)
+- [Letter Fintech Branding, visual identity, corporate brand design](https://dribbble.com/shots/20210550)
 - [2023 Year of the Rabbit Badge](https://dribbble.com/shots/20326302)
 - [365MAG - Article](https://dribbble.com/shots/20324434)
 <!-- DRIBBBLE-TRENDING:END -->
