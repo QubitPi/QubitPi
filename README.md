@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Has ML become synonymous with AI?](https://www.reddit.com/r/MachineLearning/comments/10ack6h/d_has_ml_become_synonymous_with_ai/)
 - [[D] Can someone point to research on determining usefulness of samples/datasets for training ML models?](https://www.reddit.com/r/MachineLearning/comments/10a8a14/d_can_someone_point_to_research_on_determining/)
 - [Introduction to Reinforcement Learning with Human Feedback [D]](https://www.reddit.com/r/MachineLearning/comments/10a7qmi/introduction_to_reinforcement_learning_with_human/)
 - [[D] Is there a distilled/smaller version of CLIP, or something similar?](https://www.reddit.com/r/MachineLearning/comments/10a6whe/d_is_there_a_distilledsmaller_version_of_clip_or/)
 - [[D] Transformers right-shifting for sequences with short-time dependency](https://www.reddit.com/r/MachineLearning/comments/10a5apu/d_transformers_rightshifting_for_sequences_with/)
-- [[R] Git is for Data &lpar;CIDR 2023&rpar; - Extending Git to Support Large-Scale Data](https://www.reddit.com/r/MachineLearning/comments/10a4mns/r_git_is_for_data_cidr_2023_extending_git_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
