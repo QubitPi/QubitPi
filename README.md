@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1613431082325577730)
-- [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #database #graphdatabase #memgraphdb #sql #nosql](https://twitter.com/memgraphdb/status/1613425291703066624)
-- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1613421517924081667)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1613219800922079232)
 - [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1613195780134952968)
+- [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1613177410416951297)
+- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1613174894224719880)
+- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1613168099787776000)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
