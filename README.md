@@ -314,11 +314,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [The importance of Transparency during the Sprint Retrospective &lpar;04&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-retrospective-04)
 - [7 tips for setting more effective goals](https://www.scrum.org/resources/blog/7-tips-setting-more-effective-goals)
 - [[VLOG] Who Should Be The Product Owner ....](https://www.scrum.org/resources/blog/vlog-who-should-be-product-owner)
 - [Ein ChatGPT Jobinterview für eine Scrum-Master-Position 🇩🇪](https://www.scrum.org/resources/blog/ein-chatgpt-jobinterview-fur-eine-scrum-master-position)
 - [Exploring the Differences Between a Professional and SAFe Scrum Master](https://www.scrum.org/resources/blog/exploring-differences-between-professional-and-safe-scrum-master)
-- [[VLOG] How To Stop Wasting Your Agile &quot;Transformation&quot; Budget](https://www.scrum.org/resources/blog/vlog-how-stop-wasting-your-agile-transformation-budget)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
