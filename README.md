@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Git is for Data &lpar;CIDR 2023&rpar; - Extending Git to Support Large-Scale Data](https://www.reddit.com/r/MachineLearning/comments/10a4mns/r_git_is_for_data_cidr_2023_extending_git_to/)
 - [[D] Has anyone used Reinforcement Learning from Human Feedback?](https://www.reddit.com/r/MachineLearning/comments/10a22ec/d_has_anyone_used_reinforcement_learning_from/)
 - [[D] Would you consider the computer program Theo Jansen used to design the Strandbeest &lpar;beach walking mechanisms&rpar; to be Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/10a0zgy/d_would_you_consider_the_computer_program_theo/)
 - [[N] New Continual Learning Subreddit](https://www.reddit.com/r/MachineLearning/comments/109zwwn/n_new_continual_learning_subreddit/)
 - [[R] Is there any research on allowing Transformers to spent more compute on more difficult to predict tokens?](https://www.reddit.com/r/MachineLearning/comments/109z8om/r_is_there_any_research_on_allowing_transformers/)
-- [[D] Has any work been done on VQ-VAE Language Models?](https://www.reddit.com/r/MachineLearning/comments/109yuvi/d_has_any_work_been_done_on_vqvae_language_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
