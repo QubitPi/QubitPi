@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/749808535972347990><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/339c76c2cd3233a372687c0a01347a22401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750152691701776435><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ab33b8506ff98bc7b20175174f7875e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #艾尔海森# 《原神》艾尔海森角色PV——「疑问与沉默」现已发布~ https://www.bilibili.com/video/BV1MM411c7m6 艾尔海森从不认为只要能遍历所...](https://t.bilibili.com/750152691701776435)
