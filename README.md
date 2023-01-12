@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there a distilled/smaller version of CLIP, or something similar?](https://www.reddit.com/r/MachineLearning/comments/10a6whe/d_is_there_a_distilledsmaller_version_of_clip_or/)
 - [[D] Transformers right-shifting for sequences with short-time dependency](https://www.reddit.com/r/MachineLearning/comments/10a5apu/d_transformers_rightshifting_for_sequences_with/)
 - [[R] Git is for Data &lpar;CIDR 2023&rpar; - Extending Git to Support Large-Scale Data](https://www.reddit.com/r/MachineLearning/comments/10a4mns/r_git_is_for_data_cidr_2023_extending_git_to/)
 - [[D] Has anyone used Reinforcement Learning from Human Feedback?](https://www.reddit.com/r/MachineLearning/comments/10a22ec/d_has_anyone_used_reinforcement_learning_from/)
 - [[D] Would you consider the computer program Theo Jansen used to design the Strandbeest &lpar;beach walking mechanisms&rpar; to be Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/10a0zgy/d_would_you_consider_the_computer_program_theo/)
-- [[N] New Continual Learning Subreddit](https://www.reddit.com/r/MachineLearning/comments/109zwwn/n_new_continual_learning_subreddit/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
