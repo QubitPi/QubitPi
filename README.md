@@ -507,11 +507,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Re Signatures are still being collected from other projects and organizations ready to join the call to defend privacy. To read the full letter:](https://twitter.com/Web3foundation/status/1613552063220178944)
-- [Re Protecting the privacy of people is key to ensuring the rights that compose the core of democracy. We at the Foundation hope that incoming lawmaker...](https://twitter.com/Web3foundation/status/1613552061219495936)
-- [Re Organized by @fightfortheftr &amp; signed by privacy-preserving projects including @Polkadot parachain @MantaNetwork, the call comes as an open letter ...](https://twitter.com/Web3foundation/status/1613552059080400896)
-- [Web3 Foundation believes the right to privacy and the right to code are essential for building a better web and achieving a more secure digital future...](https://twitter.com/Web3foundation/status/1613552057046241280)
 - [Tomorrow at 2pm UTC/3pm CET, tune in to hear Web3 Foundation&#39;s @BillLaboon discuss all things @Polkadot &amp; parachains. Have a question about Polkadot a...](https://twitter.com/Web3foundation/status/1612802615309377543)
+- [Re 7/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1612453241152831489)
+- [Re 6/ Well done to @GafiNetwork as they completed their 3rd milestone as they continue to build a truly decentralized blockchain platform for blockcha...](https://twitter.com/Web3foundation/status/1612453238803922946)
+- [Re 5/ Congrats to @tesseract_one for completing milestone 2. They continue working to improve the usability of the dapps without compromising security...](https://twitter.com/Web3foundation/status/1612453236430061575)
+- [Re 4/ We’re excited to announce that @CalamarExplorer has finished its first milestone as they continue developing the Calamar block explorer for Pol...](https://twitter.com/Web3foundation/status/1612453234081153025)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
