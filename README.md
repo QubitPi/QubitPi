@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] The Open Deep Learning Toolkit for Robotics v2.0 was just released](https://www.reddit.com/r/MachineLearning/comments/109w09k/d_the_open_deep_learning_toolkit_for_robotics_v20/)
 - [[P] Looking for someone with good NN/ deep learning experience for a paid project](https://www.reddit.com/r/MachineLearning/comments/109tysl/p_looking_for_someone_with_good_nn_deep_learning/)
 - [[D] Is there an easy way to use AI to create targeted resumes and cover letters?](https://www.reddit.com/r/MachineLearning/comments/109p6u3/d_is_there_an_easy_way_to_use_ai_to_create/)
 - [[D] Handling class imbalance by sample weighting](https://www.reddit.com/r/MachineLearning/comments/109lvva/d_handling_class_imbalance_by_sample_weighting/)
 - [[D] Is making a dataset publicly accessible necessary for acceptance at top-tier conferences in ML?](https://www.reddit.com/r/MachineLearning/comments/109hcyw/d_is_making_a_dataset_publicly_accessible/)
-- [[R] Scaling Laws for Generative Mixed-Modal Language Models](https://www.reddit.com/r/MachineLearning/comments/109cxc7/r_scaling_laws_for_generative_mixedmodal_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
