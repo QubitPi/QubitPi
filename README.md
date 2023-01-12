@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1613539797351505921)
-- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1613530486218817537)
-- [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1613512870808928259)
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. #graphdatabase #openso...](https://twitter.com/memgraphdb/status/1613509600094961664)
-- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1613486447452905472)
+- [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1613595546911899651)
+- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at](https://twitter.com/memgraphdb/status/1613588992536055836)
+- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1613588370793402372)
+- [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1613588367651868689)
+- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1613587823721947136)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
