@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Re @itsspam0 ArangoGraph runs on 9 different AWS regions: On the other hand, if you deploy your own ArangoDB instance, you can choose among 30 regions...](https://twitter.com/arangodb/status/1613876088261824513)
+- [Re @itsspam0 ArangoGraph &lpar;new name for ArangoDB Oasis&rpar; provides many time-saving benefits:](https://twitter.com/arangodb/status/1613875985081843712)
+- [Re @itsspam0 Yes, you can deploy ArangoDB on a self-managed EC2 instance. Customers typically do so on Linux; here are installation instructions for L...](https://twitter.com/arangodb/status/1613875693451972609)
+- [Recently, the community has released a new ArangoDB Scala client driver. 🥑 Scarango wraps ArangoDB&#39;s Java library to provide additional features an...](https://twitter.com/arangodb/status/1613868534567784449)
 - [Ready to become a AQL wizz in 2023? 🥳 Join our new AQL webinar to: 👉🏻 Help you get started with AQL. 👉🏻 Introducing some of the fundame...](https://twitter.com/arangodb/status/1613641975541923840)
-- [Want more first-hand accounts of those who have decided to use ArangoDB? 🥑 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; n...](https://twitter.com/arangodb/status/1613506099411357697)
-- [Our December newsletter is here! This month, we wanted to take a moment and reflect on everything that has happened over the last 12 months at ArangoD...](https://twitter.com/arangodb/status/1613279615086202880)
-- [Graph databases are made to solve your supply chain use cases. 🔥 Join the CTO of @Altana_AI, Ian Cadieu, to learn how they use a knowledge graph to...](https://twitter.com/arangodb/status/1613143714792148995)
-- [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1612917235978215456)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
