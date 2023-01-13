@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1613872740888453123)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1613854623349047297)
 - [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1613848832567033856)
 - [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1613831721018949633)
 - [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1613821656585146369)
+- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1613797244997668864)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
