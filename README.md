@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] training large model with eGPU](https://www.reddit.com/r/MachineLearning/comments/10arhxe/d_training_large_model_with_egpu/)
+- [Why is Super Learning / Stacking used rather rarely in practice? [D]](https://www.reddit.com/r/MachineLearning/comments/10asgah/why_is_super_learning_stacking_used_rather_rarely/)
 - [[D] Bitter lesson 2.0?](https://www.reddit.com/r/MachineLearning/comments/10aq9id/d_bitter_lesson_20/)
-- [Restful API for models to be consumed in Power Apps [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10aoxqm/restful_api_for_models_to_be_consumed_in_power/)
-- [[Project] Deepfakes - Local configuration and cloud training?](https://www.reddit.com/r/MachineLearning/comments/10an0vt/project_deepfakes_local_configuration_and_cloud/)
-- [[P] Creating A Code-Generating AI Model](https://www.reddit.com/r/MachineLearning/comments/10aka07/p_creating_a_codegenerating_ai_model/)
+- [[N] VizWiz Launches 4 AI Challenges to help blind/low vision community](https://www.reddit.com/r/MachineLearning/comments/10annw3/n_vizwiz_launches_4_ai_challenges_to_help/)
+- [[D] What&#39;s your opinion on &quot;neurocompositional computing&quot;? &lpar;Microsoft paper from April 2022&rpar;](https://www.reddit.com/r/MachineLearning/comments/10adz19/d_whats_your_opinion_on_neurocompositional/)
+- [[P] RLHF Learning to Summarize: Implementation by CarperAI with trlX](https://www.reddit.com/r/MachineLearning/comments/10adhf7/p_rlhf_learning_to_summarize_implementation_by/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
