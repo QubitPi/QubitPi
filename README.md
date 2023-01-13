@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there a community for ACL2023 authors?](https://www.reddit.com/r/MachineLearning/comments/10au6hu/d_is_there_a_community_for_acl2023_authors/)
 - [Why is Super Learning / Stacking used rather rarely in practice? [D]](https://www.reddit.com/r/MachineLearning/comments/10asgah/why_is_super_learning_stacking_used_rather_rarely/)
 - [[D] Bitter lesson 2.0?](https://www.reddit.com/r/MachineLearning/comments/10aq9id/d_bitter_lesson_20/)
 - [[N] VizWiz Launches 4 AI Challenges to help blind/low vision community](https://www.reddit.com/r/MachineLearning/comments/10annw3/n_vizwiz_launches_4_ai_challenges_to_help/)
 - [[D] What&#39;s your opinion on &quot;neurocompositional computing&quot;? &lpar;Microsoft paper from April 2022&rpar;](https://www.reddit.com/r/MachineLearning/comments/10adz19/d_whats_your_opinion_on_neurocompositional/)
-- [[P] RLHF Learning to Summarize: Implementation by CarperAI with trlX](https://www.reddit.com/r/MachineLearning/comments/10adhf7/p_rlhf_learning_to_summarize_implementation_by/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
