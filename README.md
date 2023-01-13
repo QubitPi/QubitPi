@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1613920555333206016)
-- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1613902184453738496)
-- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. #graphdatabase #memgraphdb #database #memgraph](https://twitter.com/memgraphdb/status/1613899671314874370)
 - [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1613872740888453123)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1613854623349047297)
+- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1613848832567033856)
+- [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1613831721018949633)
+- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1613821656585146369)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
