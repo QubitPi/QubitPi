@@ -345,11 +345,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Develop Your Cloud App Locally with the LocalStack Extension](https://www.docker.com/blog/develop-your-cloud-app-locally-with-the-localstack-extension/)
 - [Docker Desktop 4.16: Better Performance and Docker Extensions GA](https://www.docker.com/blog/docker-desktop-4-16-better-performance-extensions-ga/)
 - [December 2022 Newsletter](https://www.docker.com/blog/december-2022-newsletter/)
 - [December Extensions Roundup: Improving Visibility for Your APIs and Images](https://www.docker.com/blog/new-extensions-december-2022/)
 - [Reduce Your Image Size with the Dive-In Docker Extension](https://www.docker.com/blog/reduce-your-image-size-with-the-dive-in-docker-extension/)
-- [Configure, Manage, and Simplify Your Observability Data Pipelines with the Calyptia Core Docker Extension](https://www.docker.com/blog/manage-observability-data-pipelines-with-calyptia-core-docker-extension/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
