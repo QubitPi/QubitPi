@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] Deepfakes - Local configuration and cloud training?](https://www.reddit.com/r/MachineLearning/comments/10an0vt/project_deepfakes_local_configuration_and_cloud/)
 - [[Discussion] RTX 3060 vs RTX 3060 TI, what to buy?](https://www.reddit.com/r/MachineLearning/comments/10amo8i/discussion_rtx_3060_vs_rtx_3060_ti_what_to_buy/)
 - [[P] Creating A Code-Generating AI Model](https://www.reddit.com/r/MachineLearning/comments/10aka07/p_creating_a_codegenerating_ai_model/)
 - [[D] What&#39;s your opinion on &quot;neurocompositional computing&quot;? &lpar;Microsoft paper from April 2022&rpar;](https://www.reddit.com/r/MachineLearning/comments/10adz19/d_whats_your_opinion_on_neurocompositional/)
 - [[P] RLHF Learning to Summarize: Implementation by CarperAI with trlX](https://www.reddit.com/r/MachineLearning/comments/10adhf7/p_rlhf_learning_to_summarize_implementation_by/)
-- [[D] Has ML become synonymous with AI?](https://www.reddit.com/r/MachineLearning/comments/10ack6h/d_has_ml_become_synonymous_with_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
