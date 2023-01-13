@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750152691701776435><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ab33b8506ff98bc7b20175174f7875e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》PV短片——「诸苦无隙」](https://t.bilibili.com/750519872749830167)
+- [#原神# #七圣召唤# 旅行者们好呀，3.4版本更新后，「七圣召唤」玩法将新增角色牌「可莉」、「北斗」及对应天赋牌。让我们一起来了解一下吧~](https://t.bilibili.com/750496572551200774)
 - [互动抽奖 #原神# #艾尔海森# 《原神》艾尔海森角色PV——「疑问与沉默」现已发布~ https://www.bilibili.com/video/BV1MM411c7m6 艾尔海森从不认为只要能遍历所...](https://t.bilibili.com/750152691701776435)
 - [旅行者们好呀！今天为大家介绍的角色是艾尔海森。一起来看看吧~](https://t.bilibili.com/750151261478715414)
 - [#原神# #艾尔海森# 学识、思考及处事之道](https://t.bilibili.com/750150763265654792)
-- [学识、思考及处事之道](https://t.bilibili.com/750149972990623778)
-- [《原神》艾尔海森角色PV——「疑问与沉默」](https://t.bilibili.com/750148774683213944)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
