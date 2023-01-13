@@ -315,7 +315,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Story Points are not the Problem, Velocity is](https://www.scrum.org/resources/blog/story-points-are-not-problem-velocity)
 - [¿La inteligencia artificial va a reemplazar a los agile coaches?](https://www.scrum.org/resources/blog/la-inteligencia-artificial-va-reemplazar-los-agile-coaches)
 - [YDS: Why Was Estimation Replaced by Sizing in Scrum Guide 2020?](https://www.scrum.org/resources/blog/yds-why-was-estimation-replaced-sizing-scrum-guide-2020)
-- [The importance of Transparency during the Sprint Retrospective &lpar;04&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-retrospective-04)
+- [The Importance of Transparency during the Sprint Retrospective &lpar;04&rpar;](https://www.scrum.org/resources/blog/importance-transparency-during-sprint-retrospective-04)
 - [7 Tips for Setting More Effective Goals](https://www.scrum.org/resources/blog/7-tips-setting-more-effective-goals)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
