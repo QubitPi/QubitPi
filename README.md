@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750152691701776435><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ab33b8506ff98bc7b20175174f7875e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750535386197917699><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/494d5c7cc05f972240b529fae7e80639401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #艾尔海森# 书记官艾尔海森推荐了六本书，希望这次派蒙都能看得懂。 「智慧的六面」——《原神》新角色：艾尔海森分享H5正式上线。 欢迎旅行者...](https://t.bilibili.com/750535386197917699)
