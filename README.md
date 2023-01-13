@@ -309,7 +309,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
-* [Machine Learning Basics](https://qubitpi.github.io/jersey-guide/finalized/2022/08/08/machine-learning.html)
+* [Machine Learning](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning)
 
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
