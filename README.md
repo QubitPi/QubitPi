@@ -295,10 +295,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Mgr/Sr Mgr Ops Measures Posting](https://www.reddit.com/r/MachineLearning/comments/10b104z/d_mgrsr_mgr_ops_measures_posting/)
-- [[N] GPT rumors](https://www.reddit.com/r/MachineLearning/comments/10b0vrt/n_gpt_rumors/)
 - [What is difference between Logistic Regression Model and Desicion Boundary? [D]](https://www.reddit.com/r/MachineLearning/comments/10azr7k/what_is_difference_between_logistic_regression/)
 - [[D] Combining Machine Learning + Expert Knowledge &lpar;Question for Agriculture Research&rpar;](https://www.reddit.com/r/MachineLearning/comments/10awo8f/d_combining_machine_learning_expert_knowledge/)
 - [[D] Mtruk alternatives for extracting information out of text](https://www.reddit.com/r/MachineLearning/comments/10augmv/d_mtruk_alternatives_for_extracting_information/)
+- [[D] Is there a community for ACL2023 authors?](https://www.reddit.com/r/MachineLearning/comments/10au6hu/d_is_there_a_community_for_acl2023_authors/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
