@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn more about how graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure data and store i...](https://twitter.com/arangodb/status/1614004388749578240)
 - [Re @itsspam0 ArangoGraph runs on 9 different AWS regions: On the other hand, if you deploy your own ArangoDB instance, you can choose among 30 regions...](https://twitter.com/arangodb/status/1613876088261824513)
 - [Re @itsspam0 ArangoGraph &lpar;new name for ArangoDB Oasis&rpar; provides many time-saving benefits:](https://twitter.com/arangodb/status/1613875985081843712)
 - [Re @itsspam0 Yes, you can deploy ArangoDB on a self-managed EC2 instance. Customers typically do so on Linux; here are installation instructions for L...](https://twitter.com/arangodb/status/1613875693451972609)
 - [Recently, the community has released a new ArangoDB Scala client driver. 🥑 Scarango wraps ArangoDB&#39;s Java library to provide additional features an...](https://twitter.com/arangodb/status/1613868534567784449)
-- [Ready to become a AQL wizz in 2023? 🥳 Join our new AQL webinar to: 👉🏻 Help you get started with AQL. 👉🏻 Introducing some of the fundame...](https://twitter.com/arangodb/status/1613641975541923840)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
