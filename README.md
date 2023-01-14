@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] from a human motion sequence, SUMMON synthesizes physically plausible and semantically reasonable objects](https://www.reddit.com/r/MachineLearning/comments/10bqp1v/r_from_a_human_motion_sequence_summon_synthesizes/)
 - [[R] Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement - TeachMe - Bhavana Dalvi Mishra et al Allen Institute for AI](https://www.reddit.com/r/MachineLearning/comments/10boubi/r_towards_teachable_reasoning_systems_using_a/)
 - [[N] Class-action law­suit filed against Sta­bil­ity AI, DeviantArt, and Mid­journey for using the text-to-image AI Sta­ble Dif­fu­sion](https://www.reddit.com/r/MachineLearning/comments/10bkjdk/n_classaction_lawsuit_filed_against_stability_ai/)
 - [[D] What&#39;s hot for Machine Learning Research in 2023?](https://www.reddit.com/r/MachineLearning/comments/10bhpk4/d_whats_hot_for_machine_learning_research_in_2023/)
 - [[D] Is MusicGPT a viable possibility?](https://www.reddit.com/r/MachineLearning/comments/10bddey/d_is_musicgpt_a_viable_possibility/)
-- [[D] MADE: Masked Autoencoder for Density Estimation](https://www.reddit.com/r/MachineLearning/comments/10axjav/d_made_masked_autoencoder_for_density_estimation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
