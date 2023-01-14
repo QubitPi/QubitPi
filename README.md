@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] handlingclassifier.ml - predicts size category from provided product name - works with IKEA-like range of products](https://www.reddit.com/r/MachineLearning/comments/10byb8o/p_handlingclassifierml_predicts_size_category/)
 - [[P] Question regarding ID3 and cross validation](https://www.reddit.com/r/MachineLearning/comments/10bwp4v/p_question_regarding_id3_and_cross_validation/)
 - [[R] Photorealistic human image editing using attention with GANs](https://www.reddit.com/r/MachineLearning/comments/10bw2oj/r_photorealistic_human_image_editing_using/)
 - [[D] Speaker diarization: reusing fitted speaker embedding clusters?](https://www.reddit.com/r/MachineLearning/comments/10bsef1/d_speaker_diarization_reusing_fitted_speaker/)
 - [[Project] Stable Diffusion Pokémon cards](https://www.reddit.com/r/MachineLearning/comments/10bsecy/project_stable_diffusion_pokémon_cards/)
-- [[R] Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://www.reddit.com/r/MachineLearning/comments/10bsa81/r_differentiable_pointbased_radiance_fields_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
