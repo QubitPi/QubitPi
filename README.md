@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Train a Transformers Micromodel: 400KB, 95K parameters](https://www.reddit.com/r/MachineLearning/comments/10bnb95/p_train_a_transformers_micromodel_400kb_95k/)
 - [[R] YOLO v8 real-time object detection](https://www.reddit.com/r/MachineLearning/comments/10blu9l/r_yolo_v8_realtime_object_detection/)
 - [[D] Unpopular opinion : It&#39;s not always a good idea to train a model from](https://www.reddit.com/r/MachineLearning/comments/10bl27y/d_unpopular_opinion_its_not_always_a_good_idea_to/)
 - [Video Poker [P]](https://www.reddit.com/r/MachineLearning/comments/10bkl2p/video_poker_p/)
 - [[N] Class-action law­suit filed against Sta­bil­ity AI, DeviantArt, and Mid­journey for using the text-to-image AI Sta­ble Dif­fu­sion](https://www.reddit.com/r/MachineLearning/comments/10bkjdk/n_classaction_lawsuit_filed_against_stability_ai/)
-- [[D] What&#39;s hot for Machine Learning Research in 2023?](https://www.reddit.com/r/MachineLearning/comments/10bhpk4/d_whats_hot_for_machine_learning_research_in_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
