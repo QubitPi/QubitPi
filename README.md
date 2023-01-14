@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1614310122498424834)
-- [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1614306599807352834)
-- [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1614302825554612225)
 - [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1614282943681204226)
 - [Check out our blog post 📰 How to build a #Spotify Recommendation Engine using #Kafka and Memgraph ➡️](https://twitter.com/memgraphdb/status/1614273130024865794)
+- [Check out our blog post 📰 Introduction to Streaming Databases ➡️](https://twitter.com/memgraphdb/status/1614264574479327233)
+- [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1614235130616233987)
+- [The Girvan-Newman algorithm relies on the iterative elimination of edges with the highest number of shortest paths between nodes passing through them....](https://twitter.com/memgraphdb/status/1614217008203157506)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
