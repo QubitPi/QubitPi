@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What&#39;s hot for Machine Learning Research in 2023?](https://www.reddit.com/r/MachineLearning/comments/10bhpk4/d_whats_hot_for_machine_learning_research_in_2023/)
 - [[D] Is MusicGPT a viable possibility?](https://www.reddit.com/r/MachineLearning/comments/10bddey/d_is_musicgpt_a_viable_possibility/)
 - [[D] MADE: Masked Autoencoder for Density Estimation](https://www.reddit.com/r/MachineLearning/comments/10axjav/d_made_masked_autoencoder_for_density_estimation/)
 - [[D] Combining Machine Learning + Expert Knowledge &lpar;Question for Agriculture Research&rpar;](https://www.reddit.com/r/MachineLearning/comments/10awo8f/d_combining_machine_learning_expert_knowledge/)
 - [[D] Mtruk alternatives for extracting information out of text](https://www.reddit.com/r/MachineLearning/comments/10augmv/d_mtruk_alternatives_for_extracting_information/)
-- [[D] Is there a community for ACL2023 authors?](https://www.reddit.com/r/MachineLearning/comments/10au6hu/d_is_there_a_community_for_acl2023_authors/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
