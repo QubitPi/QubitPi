@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750612553850159202><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b6654abc73016e1f1580165ce5ea3919401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750921787190018128><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9d29a3d30411168954845538ff688de1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@MOMOちゃん@予我四月桃花@李宏的爸爸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750921787190018128)
