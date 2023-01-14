@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/750612553850159202><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b6654abc73016e1f1580165ce5ea3919401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@MOMOちゃん@予我四月桃花@李宏的爸爸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750921787190018128)
 - [恭喜@千鹤若雪-@hhhhhhhhllhh@MicroMicrocosm等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750612553850159202)
 - [恭喜@Akame不会画画@一切随缘メ@粑粑精灵き等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750612549557288993)
 - [恭喜@芝芝杨梅酒@奶香一刀斩_@黑水冰块等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750612549546803251)
 - [互动抽奖 #原神# #艾尔海森# 书记官艾尔海森推荐了六本书，希望这次派蒙都能看得懂。 「智慧的六面」——《原神》新角色：艾尔海森分享H5正式上线。 欢迎旅行者...](https://t.bilibili.com/750535386197917699)
-- [互动抽奖 #原神# #魈# #诸苦无隙# 《原神》PV短片——「诸苦无隙」现已发布~ https://www.bilibili.com/video/BV1R84y187Y5 许久之前，也曾有人在璃月港掠见一抹...](https://t.bilibili.com/750522393894584385)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
