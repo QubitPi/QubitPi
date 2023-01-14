@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [“Go out there in this crazy changing world, Innovate, and when you build stuff, put #Neo4j and #graphdatabases at the core of that, and then ultimate...](https://twitter.com/neo4j/status/1614245043887382528)
 - [Tom Nijhof graphs a database of over 5000 #Python packages to list the direct and indirect dependencies of each package. In doing so, he exposes vulne...](https://twitter.com/neo4j/status/1613974226423119890)
 - [💥What a graph database is and its differentiation from other databases 💥How graph data science is more powerful than traditional analytics 💥W...](https://twitter.com/neo4j/status/1613901200616992773)
 - [💥 &quot;Building a Recommendation Engine With a Neo4j GDS Machine Learning Pipeline&quot; - Did you miss this live session? Take a look! #Neo4j #GraphDataSci...](https://twitter.com/neo4j/status/1613872766264004609)
 - [Building a full stack GraphQL application involves working with a multitier architecture. Find out more in chapter 1 from the e-book “Full Stack Grap...](https://twitter.com/neo4j/status/1613639490681151500)
-- [#NobelPrize --&gt; Let&#39;s make a nice dataset to import and query as a graph!🎖 with @mesirii @alexandererdl #AuraDBFree #GraphDatabase #Neo4j](https://twitter.com/neo4j/status/1613596825654632451)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
