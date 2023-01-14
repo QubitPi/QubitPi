@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Is ChatGPT actually useful? Turns out, yes ✅. Tons of super-valuable use cases for ChatGPT](https://www.reddit.com/r/MachineLearning/comments/10bsi5h/d_is_chatgpt_actually_useful_turns_out_yes_tons/)
 - [[D] Speaker diarization: reusing fitted speaker embedding clusters?](https://www.reddit.com/r/MachineLearning/comments/10bsef1/d_speaker_diarization_reusing_fitted_speaker/)
 - [[Project] Stable Diffusion Pokémon cards](https://www.reddit.com/r/MachineLearning/comments/10bsecy/project_stable_diffusion_pokémon_cards/)
 - [[R] Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://www.reddit.com/r/MachineLearning/comments/10bsa81/r_differentiable_pointbased_radiance_fields_for/)
-- [[P] Generated SVG Avatars of Celebrities and Fictional Characters](https://www.reddit.com/r/MachineLearning/comments/10brkff/p_generated_svg_avatars_of_celebrities_and/)
+- [[R] from a human motion sequence, SUMMON synthesizes physically plausible and semantically reasonable objects](https://www.reddit.com/r/MachineLearning/comments/10bqp1v/r_from_a_human_motion_sequence_summon_synthesizes/)
+- [[R] Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement - TeachMe - Bhavana Dalvi Mishra et al Allen Institute for AI](https://www.reddit.com/r/MachineLearning/comments/10boubi/r_towards_teachable_reasoning_systems_using_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
