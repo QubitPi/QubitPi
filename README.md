@@ -295,10 +295,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Is MusicGPT a viable possibility?](https://www.reddit.com/r/MachineLearning/comments/10bddey/d_is_musicgpt_a_viable_possibility/)
+- [[D] MADE: Masked Autoencoder for Density Estimation](https://www.reddit.com/r/MachineLearning/comments/10axjav/d_made_masked_autoencoder_for_density_estimation/)
 - [[D] Combining Machine Learning + Expert Knowledge &lpar;Question for Agriculture Research&rpar;](https://www.reddit.com/r/MachineLearning/comments/10awo8f/d_combining_machine_learning_expert_knowledge/)
 - [[D] Mtruk alternatives for extracting information out of text](https://www.reddit.com/r/MachineLearning/comments/10augmv/d_mtruk_alternatives_for_extracting_information/)
 - [[D] Is there a community for ACL2023 authors?](https://www.reddit.com/r/MachineLearning/comments/10au6hu/d_is_there_a_community_for_acl2023_authors/)
-- [Why is Super Learning / Stacking used rather rarely in practice? [D]](https://www.reddit.com/r/MachineLearning/comments/10asgah/why_is_super_learning_stacking_used_rather_rarely/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
