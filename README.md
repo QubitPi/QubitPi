@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Best Predictive Model to Predict Total Monthly Stock Returns on Panel Data [P]](https://www.reddit.com/r/MachineLearning/comments/10cqf4l/best_predictive_model_to_predict_total_monthly/)
+- [Is a MSc in ML and industry experience enough for an ML Research Engineer position? [D]](https://www.reddit.com/r/MachineLearning/comments/10cq9m6/is_a_msc_in_ml_and_industry_experience_enough_for/)
 - [[P] Free PyTorch Deep Learning class, from Perceptrons to multi-GPU training and cloud deployment](https://www.reddit.com/r/MachineLearning/comments/10coj92/p_free_pytorch_deep_learning_class_from/)
 - [[D] Problem with predict/evaluate and batch_size keras](https://www.reddit.com/r/MachineLearning/comments/10cnigz/d_problem_with_predictevaluate_and_batch_size/)
 - [[R] HYPERREAL — high fidelity 6dof video with ray-conditioned sampling](https://www.reddit.com/r/MachineLearning/comments/10cni0g/r_hyperreal_high_fidelity_6dof_video_with/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/10cn8pw/d_simple_questions_thread/)
-- [[N] Will w3 see lower costs and faster training? Will Floating Point 8 Solve AI/ML Overhead?](https://www.reddit.com/r/MachineLearning/comments/10cmz3f/n_will_w3_see_lower_costs_and_faster_training/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
