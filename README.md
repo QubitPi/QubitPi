@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Your thoughts on Waabi compared to Tesla and other self driving tech](https://www.reddit.com/r/MachineLearning/comments/10cclag/dyour_thoughts_on_waabi_compared_to_tesla_and/)
 - [[D] Is there any reason hugging face GPT2 would behave &lpar;fundamentally&rpar; differently from GPT-Neo?](https://www.reddit.com/r/MachineLearning/comments/10c9287/d_is_there_any_reason_hugging_face_gpt2_would/)
 - [[D] How Long Until Most Big Movies’ Visuals Are Substantially ML-Generated?](https://www.reddit.com/r/MachineLearning/comments/10c7kho/d_how_long_until_most_big_movies_visuals_are/)
 - [[D]: Are there models like CODEX but work in a reversed way?](https://www.reddit.com/r/MachineLearning/comments/10bzll1/d_are_there_models_like_codex_but_work_in_a/)
 - [[D] Leveraging multiple photos for super resolution / restoration](https://www.reddit.com/r/MachineLearning/comments/10byvu9/d_leveraging_multiple_photos_for_super_resolution/)
-- [[P] handlingclassifier.ml - predicts size category from provided product name - works with IKEA-like range of products](https://www.reddit.com/r/MachineLearning/comments/10byb8o/p_handlingclassifierml_predicts_size_category/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
