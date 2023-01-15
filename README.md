@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/10cn8pw/d_simple_questions_thread/)
 - [[N] Will w3 see lower costs and faster training? Will Floating Point 8 Solve AI/ML Overhead?](https://www.reddit.com/r/MachineLearning/comments/10cmz3f/n_will_w3_see_lower_costs_and_faster_training/)
 - [[D] Time Embedding in Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/10chtws/d_time_embedding_in_diffusion_model/)
 - [[P] I built an app that allows you to build Image Classifiers completely on your phone. Collect data, Train models, and Preview the predictions in realtime. You can also export the model/dataset to be used anywhere else. Would love some feedback.](https://www.reddit.com/r/MachineLearning/comments/10ch0kw/p_i_built_an_app_that_allows_you_to_build_image/)
 - [[P] I built arxiv-summary.com, a list of GPT-3 generated paper summaries](https://www.reddit.com/r/MachineLearning/comments/10cgm8d/p_i_built_arxivsummarycom_a_list_of_gpt3/)
-- [[Project] Introducing Visionner &lpar;Your image dataset toolkit&rpar;](https://www.reddit.com/r/MachineLearning/comments/10cfe14/project_introducing_visionner_your_image_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
