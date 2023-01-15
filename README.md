@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751273231515648008><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/685aa77a47c6cd2d370f0dfb7a8f8ad4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751354707008552963><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c19534de6a4ad2a5db38ec45b00076b5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.4# 旅行者们好~今天将为各位旅行者介绍的是在3.4版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/751273231515648008)
