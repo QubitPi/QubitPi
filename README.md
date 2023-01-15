@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1614512456042168321)
+- [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1614508681420279815)
 - [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1614310122498424834)
 - [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1614306599807352834)
 - [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1614302825554612225)
-- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1614282943681204226)
-- [Check out our blog post 📰 How to build a #Spotify Recommendation Engine using #Kafka and Memgraph ➡️](https://twitter.com/memgraphdb/status/1614273130024865794)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
