@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] AI Security - Gumroad AI help bot refuses to answer certain questions... unless you PRIME it with a question that it WILL answer first](https://www.reddit.com/r/MachineLearning/comments/10cs851/d_ai_security_gumroad_ai_help_bot_refuses_to/)
+- [[P] Modified kmeans algorithm returns the wrong answer](https://www.reddit.com/r/MachineLearning/comments/10cs21b/p_modified_kmeans_algorithm_returns_the_wrong/)
+- [[R] hlb-CIFAR10 0.2.0: New world record for single-GPU CIFAR10, ~&lt;12.38s with one A100 &lpar;SXM4, Colab&rpar;](https://www.reddit.com/r/MachineLearning/comments/10cs13u/r_hlbcifar10_020_new_world_record_for_singlegpu/)
 - [Best Predictive Model to Predict Total Monthly Stock Returns on Panel Data [P]](https://www.reddit.com/r/MachineLearning/comments/10cqf4l/best_predictive_model_to_predict_total_monthly/)
 - [Is a MSc in ML and industry experience enough for an ML Research Engineer position? [D]](https://www.reddit.com/r/MachineLearning/comments/10cq9m6/is_a_msc_in_ml_and_industry_experience_enough_for/)
-- [[P] Free PyTorch Deep Learning class, from Perceptrons to multi-GPU training and cloud deployment](https://www.reddit.com/r/MachineLearning/comments/10coj92/p_free_pytorch_deep_learning_class_from/)
-- [[D] Problem with predict/evaluate and batch_size keras](https://www.reddit.com/r/MachineLearning/comments/10cnigz/d_problem_with_predictevaluate_and_batch_size/)
-- [[R] HYPERREAL — high fidelity 6dof video with ray-conditioned sampling](https://www.reddit.com/r/MachineLearning/comments/10cni0g/r_hyperreal_high_fidelity_6dof_video_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
