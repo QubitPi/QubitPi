@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is standard practice in RL when reporting average returns across multiple seeds in a table or a plot?](https://www.reddit.com/r/MachineLearning/comments/10cxe47/d_what_is_standard_practice_in_rl_when_reporting/)
 - [[P] Parameter optimization on a guitar amp emulation](https://www.reddit.com/r/MachineLearning/comments/10cuy16/p_parameter_optimization_on_a_guitar_amp_emulation/)
 - [[P] Summaries of Ten Interesting &amp; Influential Papers I read in 2022](https://www.reddit.com/r/MachineLearning/comments/10ctlvv/p_summaries_of_ten_interesting_influential_papers/)
 - [[Discussion] can&#39;t lives down on won&#39;t street](https://www.reddit.com/r/MachineLearning/comments/10csvlw/discussion_cant_lives_down_on_wont_street/)
 - [[D] Has deep learning peaked? The number of citations of LeCun, Bengio and more went down in 2022.](https://www.reddit.com/r/MachineLearning/comments/10cskrd/d_has_deep_learning_peaked_the_number_of/)
-- [[D] AI Security - Gumroad AI help bot refuses to answer certain questions... unless you PRIME it with a question that it WILL answer first](https://www.reddit.com/r/MachineLearning/comments/10cs851/d_ai_security_gumroad_ai_help_bot_refuses_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
