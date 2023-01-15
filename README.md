@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751354707008552963><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c19534de6a4ad2a5db38ec45b00076b5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神七圣召唤视频征集活动# #原神UP主激励计划# 《原神》「七圣召唤」主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 自由魂儿儿...](https://t.bilibili.com/751354707008552963)
 - [#原神# #原神3.4# 旅行者们好~今天将为各位旅行者介绍的是在3.4版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/751273231515648008)
 - [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/751273042508775461)
 - [恭喜@MOMOちゃん@予我四月桃花@李宏的爸爸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750921787190018128)
 - [恭喜@千鹤若雪-@hhhhhhhhllhh@MicroMicrocosm等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750612553850159202)
-- [恭喜@Akame不会画画@一切随缘メ@粑粑精灵き等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750612549557288993)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
