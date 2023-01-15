@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? #memgraph #d...](https://twitter.com/memgraphdb/status/1614671757289394187)
+- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1614665214733029376)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1614626960465969153)
 - [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. #memgraph #database ...](https://twitter.com/memgraphdb/status/1614625450168295428)
 - [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1614617651770425345)
-- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. #memgraph #tutorial #graphdataba...](https://twitter.com/memgraphdb/status/1614600033495617536)
-- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1614596762831921152)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
