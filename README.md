@@ -312,11 +312,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Curso Evidence-Based Management #3 - Metas estratégicas](https://www.scrum.org/resources/blog/curso-evidence-based-management-3-metas-estrategicas)
 - [Experiment: Limit The Maximum Length Of Your Product Backlog](https://www.scrum.org/resources/blog/experiment-limit-maximum-length-your-product-backlog)
 - [3 Probleme, die durch die Definition of Ready entstehen](https://www.scrum.org/resources/blog/3-probleme-die-durch-die-definition-ready-entstehen)
 - [Story Points are not the Problem, Velocity is](https://www.scrum.org/resources/blog/story-points-are-not-problem-velocity)
 - [¿La inteligencia artificial va a reemplazar a los agile coaches?](https://www.scrum.org/resources/blog/la-inteligencia-artificial-va-reemplazar-los-agile-coaches)
-- [YDS: Why Was Estimation Replaced by Sizing in Scrum Guide 2020?](https://www.scrum.org/resources/blog/yds-why-was-estimation-replaced-sizing-scrum-guide-2020)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
