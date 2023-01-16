@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751663957552398355><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1497020f7db37f6ed56845bd4bd86787401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751727304021901398><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a38c0819c86e87d01e86f0641e451d76401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #米卡# #晴霜的标绘# ▌晴霜的标绘 · 米卡 翎羽如穗，绘摹殊境 ========== 「把米卡这孩子选进远征队，为的是锻炼他的实战技巧。至于直属于我...](https://t.bilibili.com/751727304021901398)
