@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [❗Follow along in @JMHReif’s blog as she converts MongoDB-connected services to use Spring Cloud Config for accessing database credentials, matching ...](https://twitter.com/neo4j/status/1615052537018580994)
 - [Going Meta - Ep: 12 a series on graphs, semantics and knowledge @barrasadv](https://twitter.com/neo4j/status/1615012466341158914)
 - [“Data is a representation of the physical world, its a way of describing the word” 📢 Listen to @emileifrem with @bradfordcross at the @twolionsco...](https://twitter.com/neo4j/status/1615009685660123137)
 - [Want to get started with #Aura? Find helpful info and documentation here: #AuraDB #AuraDS #Neo4j](https://twitter.com/neo4j/status/1614930730831732739)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1614906682697519105)
-- [Check this video out! 👀 Michael Simmons explains how to debug an issue in Spring Data Neo4j with a breakpoint technique that allows, for example, f...](https://twitter.com/neo4j/status/1614791815692967936)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
