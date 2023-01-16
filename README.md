@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Stackoverflow Developer Survey Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=nBVr-cSrOsY)
 - [Ask a Data Scientist: Why Is Graph Data Science a Good Technique for Influence &amp; Importing Measures?](https://www.youtube.com/watch?v=dNiR_sBdaBM)
 - [Ask a Data Scientist: Why Is Graph Data Science a Good Technique for Pathfinding?](https://www.youtube.com/watch?v=Azd1BIwtxkk)
 - [Ask a Data Scientist: Why Is Graph Data Science a Good Technique for Pathfinding?](https://www.youtube.com/watch?v=jCNRSjrPgkM)
 - [Ask a Data Scientist: What Makes Graph Data Science Different From Traditional Data Science?](https://www.youtube.com/watch?v=xHoYIqEUhcQ)
+- [Full Stack GraphQL Book Club - Chapter 6: Client-Side GraphQL With React and Apollo Client](https://www.youtube.com/watch?v=uPYDtfNjzWA)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
