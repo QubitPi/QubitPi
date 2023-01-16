@@ -532,10 +532,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Letter Fintech Branding, visual identity, corporate brand design](https://dribbble.com/shots/20210550)
-- [2023 Year of the Rabbit Badge](https://dribbble.com/shots/20326302)
-- [Brand Dripkit](https://dribbble.com/shots/20305639)
 - [Financilux Branding](https://dribbble.com/shots/20245656)
 - [NXN Website](https://dribbble.com/shots/20346730)
+- [Ziggo Smart Suitcase Prototype](https://dribbble.com/shots/20330576)
+- [Pinecone Estates](https://dribbble.com/shots/20366766)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
