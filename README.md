@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751638282224271460><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d7c7dedd703f5b13462cd262c94e1c08401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [《原神》3.4版本「磬弦奏华夜」更新维护预告](https://t.bilibili.com/751609888208060450)
-- [#原神# #原神七圣召唤视频征集活动# #原神UP主激励计划# 《原神》「七圣召唤」主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 自由魂儿儿...](https://t.bilibili.com/751354707008552963)
-- [#原神# #原神3.4# 旅行者们好~今天将为各位旅行者介绍的是在3.4版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/751273231515648008)
-- [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/751273042508775461)
-- [恭喜@MOMOちゃん@予我四月桃花@李宏的爸爸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/750921787190018128)
+- [互动抽奖 #原神# #瑶瑶# 《原神》角色演示-「瑶瑶：仙桂莹澈」现已发布~ https://www.bilibili.com/video/BV1ev4y117Ls 瑶瑶对其他人的关心，可不会因为对方的身...](https://t.bilibili.com/751638282224271460)
+- [#原神# #神里绫华# #花时来信# 亲爱的旅行者，神里绫华衣装「花时来信」限时折扣上架商城啦！ 〓折扣时间〓 3.4版本更新后 ~ 2023/02/27 03:59 〓衣装说明〓 ● ...](https://t.bilibili.com/751636907844173825)
+- [旅行者们好呀！今天为大家介绍的角色是瑶瑶。一起来看看吧~[原神_哇]](https://t.bilibili.com/751636246420258835)
+- [#原神# #瑶瑶# 玲珑玉质，身含仙骨](https://t.bilibili.com/751635099666088023)
+- [玲珑玉质，身含仙骨](https://t.bilibili.com/751634511279685696)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
