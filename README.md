@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751663957552398355><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1497020f7db37f6ed56845bd4bd86787401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #米卡# #晴霜的标绘# ▌晴霜的标绘 · 米卡 翎羽如穗，绘摹殊境 ========== 「把米卡这孩子选进远征队，为的是锻炼他的实战技巧。至于直属于我...](https://t.bilibili.com/751727304021901398)
+- [互动抽奖 #原神# #迪希雅# #炽鬃之狮# ▌炽鬃之狮 · 迪希雅 鹫鸟的眼睛，狮子的灵魂，沙漠自由的女儿 ========== 「跟我唱唷跟我唱，拿起你的琴来跟我唱， 「唱...](https://t.bilibili.com/751725830874333475)
 - [恭喜@被星星砸昏头了呢@集电极要如何反偏@hooryan等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/751663957552398355)
 - [互动抽奖 #原神# #瑶瑶# 《原神》角色演示-「瑶瑶：仙桂莹澈」现已发布~ https://www.bilibili.com/video/BV1ev4y117Ls 瑶瑶对其他人的关心，可不会因为对方的身...](https://t.bilibili.com/751638282224271460)
 - [#原神# #神里绫华# #花时来信# 亲爱的旅行者，神里绫华衣装「花时来信」限时折扣上架商城啦！ 〓折扣时间〓 3.4版本更新后 ~ 2023/02/27 03:59 〓衣装说明〓 ● ...](https://t.bilibili.com/751636907844173825)
-- [旅行者们好呀！今天为大家介绍的角色是瑶瑶。一起来看看吧~[原神_哇]](https://t.bilibili.com/751636246420258835)
-- [#原神# #瑶瑶# 玲珑玉质，身含仙骨](https://t.bilibili.com/751635099666088023)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
