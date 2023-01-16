@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Tim Dettmers&#39; GPU advice blog updated for 4000 series](https://www.reddit.com/r/MachineLearning/comments/10dggxc/d_tim_dettmers_gpu_advice_blog_updated_for_4000/)
 - [[D] The Illustrated Stable Diffusion &lpar;Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/10dfex7/d_the_illustrated_stable_diffusion_video/)
 - [[D] Can ChatGPT flag it&#39;s own writings?](https://www.reddit.com/r/MachineLearning/comments/10df5tm/d_can_chatgpt_flag_its_own_writings/)
 - [[R] [2301.00250] DensePose From WiFi](https://www.reddit.com/r/MachineLearning/comments/10d9qt3/r_230100250_densepose_from_wifi/)
 - [[D] Grid searching data pre processing permutations when training models on structured data.](https://www.reddit.com/r/MachineLearning/comments/10d3r19/d_grid_searching_data_pre_processing_permutations/)
-- [[D] SOTA on multiple image generation from text](https://www.reddit.com/r/MachineLearning/comments/10d09uk/d_sota_on_multiple_image_generation_from_text/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
