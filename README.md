@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] The Predictive Forward-Forward Algorithm](https://www.reddit.com/r/MachineLearning/comments/10dqgw2/r_the_predictive_forwardforward_algorithm/)
 - [[D] On generated content and the future of moderation](https://www.reddit.com/r/MachineLearning/comments/10dpa9s/d_on_generated_content_and_the_future_of/)
 - [[D] Recommendation for best toolkit to manually annotate tunnels in 3D Volume?](https://www.reddit.com/r/MachineLearning/comments/10dozs5/d_recommendation_for_best_toolkit_to_manually/)
 - [[D] Visualizations for NSFW models](https://www.reddit.com/r/MachineLearning/comments/10domsy/d_visualizations_for_nsfw_models/)
 - [[P] A small tool that shuts down your machine when GPU utilization drops too low.](https://www.reddit.com/r/MachineLearning/comments/10do40p/p_a_small_tool_that_shuts_down_your_machine_when/)
-- [[D] I’m a Machine Learning Engineer for FAANG companies. What are some places I can get started doing freelance work for ML?](https://www.reddit.com/r/MachineLearning/comments/10dlogr/d_im_a_machine_learning_engineer_for_faang/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
