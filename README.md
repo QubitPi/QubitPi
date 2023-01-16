@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [London AI4Code meetup w/ Prof. Michael Pradel on LLMs of code on Jan. 17 &lpar;Tuesday&rpar; [R]](https://www.reddit.com/r/MachineLearning/comments/10dd10k/london_ai4code_meetup_w_prof_michael_pradel_on/)
 - [[D] Mean Squared error loss function for logistic regression](https://www.reddit.com/r/MachineLearning/comments/10dc0ux/d_mean_squared_error_loss_function_for_logistic/)
 - [[D] any image taggers?](https://www.reddit.com/r/MachineLearning/comments/10dadtx/d_any_image_taggers/)
 - [[D] Status quo of Brain-Computer Interface - BCI](https://www.reddit.com/r/MachineLearning/comments/10d9vi7/d_status_quo_of_braincomputer_interface_bci/)
 - [[R] [2301.00250] DensePose From WiFi](https://www.reddit.com/r/MachineLearning/comments/10d9qt3/r_230100250_densepose_from_wifi/)
-- [ML - Inference - Feedback [D]](https://www.reddit.com/r/MachineLearning/comments/10d7kdp/ml_inference_feedback_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
