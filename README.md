@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [ML - Inference - Feedback [D]](https://www.reddit.com/r/MachineLearning/comments/10d7kdp/ml_inference_feedback_d/)
 - [[N] Understanding Classification in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/10d6yhz/n_understanding_classification_in_machine_learning/)
 - [[D] ChatGPT can&#39;t count](https://www.reddit.com/r/MachineLearning/comments/10d3t41/d_chatgpt_cant_count/)
 - [[D] Grid searching data pre processing permutations when training models on structured data.](https://www.reddit.com/r/MachineLearning/comments/10d3r19/d_grid_searching_data_pre_processing_permutations/)
 - [[D] Switching from MLE to SWE?](https://www.reddit.com/r/MachineLearning/comments/10d3eio/d_switching_from_mle_to_swe/)
-- [[D] SOTA on multiple image generation from text](https://www.reddit.com/r/MachineLearning/comments/10d09uk/d_sota_on_multiple_image_generation_from_text/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
