@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Grab your spot still while you can! Join us for our first webinar of 2023, which we are sure will turn you into an AQL genius. 🔥 See you this Wedne...](https://twitter.com/arangodb/status/1615091542477217795)
 - [Grab your spot quickly to get some hands on machine learning experience with ArangoDBs very own CTO @joerg_schad. 🥑 This week on January 18th, lear...](https://twitter.com/arangodb/status/1614955665457352707)
 - [Give our Entity Resolution notebook created by our Solution Architect Victor Moey a whirl! This notebook dive into the world of Entity Resolution here...](https://twitter.com/arangodb/status/1614593255844323329)
 - [Did you make it to our Graph Done Right webinar this week? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on grap...](https://twitter.com/arangodb/status/1614276166126379010)
 - [Learn more about how graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure data and store i...](https://twitter.com/arangodb/status/1614004388749578240)
-- [Re @itsspam0 ArangoGraph runs on 9 different AWS regions: On the other hand, if you deploy your own ArangoDB instance, you can choose among 30 regions...](https://twitter.com/arangodb/status/1613876088261824513)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
