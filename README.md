@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1614906554465009666)
 - [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1614880632282177537)
 - [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1614874846550179840)
 - [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Even though they are in a new line, subqueries shoul...](https://twitter.com/memgraphdb/status/1614871071534055424)
 - [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? #memgraph #d...](https://twitter.com/memgraphdb/status/1614671757289394187)
-- [Check out our blog post 📰 How to Build a Graph Web Application with #Python, #Flask, #Docker &amp; Memgraph - Part 1 ➡️](https://twitter.com/memgraphdb/status/1614665214733029376)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
