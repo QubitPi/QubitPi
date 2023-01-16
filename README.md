@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751354707008552963><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c19534de6a4ad2a5db38ec45b00076b5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751638282224271460><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d7c7dedd703f5b13462cd262c94e1c08401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》3.4版本「磬弦奏华夜」更新维护预告](https://t.bilibili.com/751609888208060450)
