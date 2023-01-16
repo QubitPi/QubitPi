@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Less laws, more freedom. intellectual property copyright discussion.](https://www.reddit.com/r/MachineLearning/comments/10d1sgz/discussion_less_laws_more_freedom_intellectual/)
-- [Top 10 Machine Learning &amp; AI Projects &quot;[N]&quot; &quot;[R]&quot;](https://www.reddit.com/r/MachineLearning/comments/10d0h79/top_10_machine_learning_ai_projects_n_r/)
 - [[D] SOTA on multiple image generation from text](https://www.reddit.com/r/MachineLearning/comments/10d09uk/d_sota_on_multiple_image_generation_from_text/)
 - [[P] Nano GPT](https://www.reddit.com/r/MachineLearning/comments/10d06p5/p_nano_gpt/)
 - [[D] What kinds of interesting models can I train with just an RTX 4080?](https://www.reddit.com/r/MachineLearning/comments/10cxuo2/d_what_kinds_of_interesting_models_can_i_train/)
+- [[D] What is standard practice in RL when reporting average returns across multiple seeds in a table or a plot?](https://www.reddit.com/r/MachineLearning/comments/10cxe47/d_what_is_standard_practice_in_rl_when_reporting/)
+- [[P] Metric learning tutorial](https://www.reddit.com/r/MachineLearning/comments/10cwr5h/p_metric_learning_tutorial/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
