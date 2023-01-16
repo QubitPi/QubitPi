@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751638282224271460><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d7c7dedd703f5b13462cd262c94e1c08401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/751663957552398355><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1497020f7db37f6ed56845bd4bd86787401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #瑶瑶# 《原神》角色演示-「瑶瑶：仙桂莹澈」现已发布~ https://www.bilibili.com/video/BV1ev4y117Ls 瑶瑶对其他人的关心，可不会因为对方的身...](https://t.bilibili.com/751638282224271460)
