@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [2301.00250] DensePose From WiFi](https://www.reddit.com/r/MachineLearning/comments/10d9qt3/r_230100250_densepose_from_wifi/)
 - [ML - Inference - Feedback [D]](https://www.reddit.com/r/MachineLearning/comments/10d7kdp/ml_inference_feedback_d/)
 - [[N] Understanding Classification in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/10d6yhz/n_understanding_classification_in_machine_learning/)
 - [[D] ChatGPT can&#39;t count](https://www.reddit.com/r/MachineLearning/comments/10d3t41/d_chatgpt_cant_count/)
 - [[D] Grid searching data pre processing permutations when training models on structured data.](https://www.reddit.com/r/MachineLearning/comments/10d3r19/d_grid_searching_data_pre_processing_permutations/)
-- [[D] Switching from MLE to SWE?](https://www.reddit.com/r/MachineLearning/comments/10d3eio/d_switching_from_mle_to_swe/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
