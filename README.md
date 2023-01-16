@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1614959904392974336)
 - [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. #m...](https://twitter.com/memgraphdb/status/1614945391228633088)
 - [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1614941785796628480)
 - [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1614940537882087427)
 - [Check out our blog post 📰 Introduction to Stream processing ➡️](https://twitter.com/memgraphdb/status/1614935997262733313)
-- [Did you know that in graph databases, data relationships are represented by graph models? You can apply machine learning algorithms and other statisti...](https://twitter.com/memgraphdb/status/1614923920397697024)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
