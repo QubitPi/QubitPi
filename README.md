@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1615351737166008320)
 - [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1615322293386809347)
 - [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1615321537606713350)
 - [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1615298386688724994)
 - [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1615281777567727616)
-- [🎓 To help make decisions, companies perform impact analyses or what-if scenarios. Based on the careful analysis of the provided data, the outcomes ...](https://twitter.com/memgraphdb/status/1615246545409949697)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
