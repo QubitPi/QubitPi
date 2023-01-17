@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] PhD in neuromorphic computing](https://www.reddit.com/r/MachineLearning/comments/10ef59t/d_phd_in_neuromorphic_computing/)
 - [[D] Unlocking the Potential of ChatGPT: A Community Discussion](https://www.reddit.com/r/MachineLearning/comments/10eesz4/d_unlocking_the_potential_of_chatgpt_a_community/)
 - [[D] Are there any results on convergence guarantees when optimizing NNs?](https://www.reddit.com/r/MachineLearning/comments/10ee9kp/d_are_there_any_results_on_convergence_guarantees/)
 - [[N] Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content](https://www.reddit.com/r/MachineLearning/comments/10ed388/n_getty_images_is_suing_the_creators_of_ai_art/)
 - [[D] I made a comprehensive comparison of YOLO&lpar;N+1&rpar; vs YOLO&lpar;N&rpar;](https://www.reddit.com/r/MachineLearning/comments/10e9dmg/d_i_made_a_comprehensive_comparison_of_yolon1_vs/)
-- [[R] The Unconquerable Benchmark: A Machine Learning Challenge for Achieving AGI-Like Capabilities](https://www.reddit.com/r/MachineLearning/comments/10e7fxg/r_the_unconquerable_benchmark_a_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
