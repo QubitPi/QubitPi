@@ -313,7 +313,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Can ChatGPT teach you Scrum?](https://www.scrum.org/resources/blog/can-chatgpt-teach-you-scrum)
-- [Why &quot;no&quot; is part of a Scrum Product Owner’s love language](https://www.scrum.org/resources/blog/why-no-part-scrum-product-owners-love-language)
+- [Why &quot;No&quot; is part of a Scrum Product Owner’s Love Language](https://www.scrum.org/resources/blog/why-no-part-scrum-product-owners-love-language)
 - [Unlock the Power of ChatGPT for your Scrum Team](https://www.scrum.org/resources/blog/unlock-power-chatgpt-your-scrum-team)
 - [Scrum requires Psychological Safety](https://www.scrum.org/resources/blog/scrum-requires-psychological-safety)
 - [Curso Evidence-Based Management #3 - Metas estratégicas](https://www.scrum.org/resources/blog/curso-evidence-based-management-3-metas-estrategicas)
