@@ -531,11 +531,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
+- [Financilux Branding](https://dribbble.com/shots/20245656)
 - [NXN Website](https://dribbble.com/shots/20346730)
 - [Ziggo Smart Suitcase Prototype](https://dribbble.com/shots/20330576)
 - [Apres — Home page web design](https://dribbble.com/shots/20394039)
 - [Pinecone Estates](https://dribbble.com/shots/20366766)
-- [Campaign App Exploration](https://dribbble.com/shots/20360841)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
