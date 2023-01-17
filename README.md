@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1615388227518488581)
+- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1615370107303202816)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1615362812091449345)
 - [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1615351737166008320)
 - [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1615322293386809347)
-- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1615321537606713350)
-- [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #database #graphdatabase #memgraphdb](https://twitter.com/memgraphdb/status/1615298386688724994)
-- [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1615281777567727616)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
