@@ -312,11 +312,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Can ChatGPT teach you Scrum?](https://www.scrum.org/resources/blog/can-chatgpt-teach-you-scrum)
 - [Why &quot;no&quot; is part of a Scrum Product Owner’s love language](https://www.scrum.org/resources/blog/why-no-part-scrum-product-owners-love-language)
 - [Unlock the Power of ChatGPT for your Scrum Team](https://www.scrum.org/resources/blog/unlock-power-chatgpt-your-scrum-team)
 - [Scrum requires Psychological Safety](https://www.scrum.org/resources/blog/scrum-requires-psychological-safety)
 - [Curso Evidence-Based Management #3 - Metas estratégicas](https://www.scrum.org/resources/blog/curso-evidence-based-management-3-metas-estrategicas)
-- [Experiment: Limit The Maximum Length Of Your Product Backlog](https://www.scrum.org/resources/blog/experiment-limit-maximum-length-your-product-backlog)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
