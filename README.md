@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] The Unconquerable Benchmark: A Machine Learning Challenge for Achieving AGI-Like Capabilities](https://www.reddit.com/r/MachineLearning/comments/10e7fxg/r_the_unconquerable_benchmark_a_machine_learning/)
 - [[D] Is it possible to update random forest parameters with new data instead of retraining on all data?](https://www.reddit.com/r/MachineLearning/comments/10e7cls/d_is_it_possible_to_update_random_forest/)
 - [[P] featureimpact: A Python package for estimating the impact of features on ML models](https://www.reddit.com/r/MachineLearning/comments/10e3rbq/p_featureimpact_a_python_package_for_estimating/)
 - [[D] Study to be specialized or generalized DS/MLE for freelancing jobs?](https://www.reddit.com/r/MachineLearning/comments/10e1qr6/d_study_to_be_specialized_or_generalized_dsmle/)
 - [[D] GCN datasets](https://www.reddit.com/r/MachineLearning/comments/10dv8rf/d_gcn_datasets/)
-- [[P] Looking for a CV/ML freelancer](https://www.reddit.com/r/MachineLearning/comments/10dv54o/p_looking_for_a_cvml_freelancer/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
