@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1615233456555819008)
-- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1615229684278611975)
 - [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1615031634348199936)
 - [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1615007720859475970)
 - [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1614989349895999489)
+- [🎓 #Memgraph presents graph algorithms: Bipartite matching 🗒️ A bipartite graph is a graph in which we can divide vertices into two independent ...](https://twitter.com/memgraphdb/status/1614980036204924928)
+- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1614959904392974336)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
