@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] My new AI setup just dropped⚡️256 CPU cores, 64TB ECC RAM, 144TB VRAM, ∞ CUDA cores. What do you think? Should prolly be enough for real-time generative video 📺](https://www.reddit.com/r/MachineLearning/comments/10dz3jr/p_my_new_ai_setup_just_dropped256_cpu_cores_64tb/)
 - [[D] ModuleNotFoundError: No module named &#39;fbprophet&#39;](https://www.reddit.com/r/MachineLearning/comments/10dy2u2/d_modulenotfounderror_no_module_named_fbprophet/)
 - [[D] GCN datasets](https://www.reddit.com/r/MachineLearning/comments/10dv8rf/d_gcn_datasets/)
 - [[P] Looking for a CV/ML freelancer](https://www.reddit.com/r/MachineLearning/comments/10dv54o/p_looking_for_a_cvml_freelancer/)
 - [[D] Model for detecting rectangle corners?](https://www.reddit.com/r/MachineLearning/comments/10dqwqb/d_model_for_detecting_rectangle_corners/)
-- [[R] The Predictive Forward-Forward Algorithm](https://www.reddit.com/r/MachineLearning/comments/10dqgw2/r_the_predictive_forwardforward_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
