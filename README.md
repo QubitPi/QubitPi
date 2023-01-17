@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content](https://www.reddit.com/r/MachineLearning/comments/10ed388/n_getty_images_is_suing_the_creators_of_ai_art/)
 - [[D] I made a comprehensive comparison of YOLO&lpar;N+1&rpar; vs YOLO&lpar;N&rpar;](https://www.reddit.com/r/MachineLearning/comments/10e9dmg/d_i_made_a_comprehensive_comparison_of_yolon1_vs/)
 - [[R] The Unconquerable Benchmark: A Machine Learning Challenge for Achieving AGI-Like Capabilities](https://www.reddit.com/r/MachineLearning/comments/10e7fxg/r_the_unconquerable_benchmark_a_machine_learning/)
 - [[D] Is it possible to update random forest parameters with new data instead of retraining on all data?](https://www.reddit.com/r/MachineLearning/comments/10e7cls/d_is_it_possible_to_update_random_forest/)
 - [[P] featureimpact: A Python package for estimating the impact of features on ML models](https://www.reddit.com/r/MachineLearning/comments/10e3rbq/p_featureimpact_a_python_package_for_estimating/)
-- [[D] Study to be specialized or generalized DS/MLE for freelancing jobs?](https://www.reddit.com/r/MachineLearning/comments/10e1qr6/d_study_to_be_specialized_or_generalized_dsmle/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
