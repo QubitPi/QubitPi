@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ModuleNotFoundError: No module named &#39;fbprophet&#39;](https://www.reddit.com/r/MachineLearning/comments/10dy2u2/d_modulenotfounderror_no_module_named_fbprophet/)
 - [[D] GCN datasets](https://www.reddit.com/r/MachineLearning/comments/10dv8rf/d_gcn_datasets/)
 - [[P] Looking for a CV/ML freelancer](https://www.reddit.com/r/MachineLearning/comments/10dv54o/p_looking_for_a_cvml_freelancer/)
 - [[D] Model for detecting rectangle corners?](https://www.reddit.com/r/MachineLearning/comments/10dqwqb/d_model_for_detecting_rectangle_corners/)
 - [[R] The Predictive Forward-Forward Algorithm](https://www.reddit.com/r/MachineLearning/comments/10dqgw2/r_the_predictive_forwardforward_algorithm/)
-- [[D] On generated content and the future of moderation](https://www.reddit.com/r/MachineLearning/comments/10dpa9s/d_on_generated_content_and_the_future_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
