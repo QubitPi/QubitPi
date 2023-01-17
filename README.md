@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Need advice on inventory planning for my capstone project.](https://www.reddit.com/r/MachineLearning/comments/10elzic/p_need_advice_on_inventory_planning_for_my/)
 - [[R] Forcing GPT-N To Be Honest Without Supervision](https://www.reddit.com/r/MachineLearning/comments/10ekp69/r_forcing_gptn_to_be_honest_without_supervision/)
 - [[News] Trullion to release AI bookkeeping software](https://www.reddit.com/r/MachineLearning/comments/10ej5r5/news_trullion_to_release_ai_bookkeeping_software/)
 - [[R]: 15-step framework to analyze your chatbot and designate improvement steps](https://www.reddit.com/r/MachineLearning/comments/10eivfl/r_15step_framework_to_analyze_your_chatbot_and/)
 - [[P] RWKV 14B Language Model &amp; ChatRWKV : pure RNN &lpar;attention-free&rpar;, scalable and parallelizable like Transformers](https://www.reddit.com/r/MachineLearning/comments/10eh2f3/p_rwkv_14b_language_model_chatrwkv_pure_rnn/)
-- [[D] Moving from 1080ti to 4090](https://www.reddit.com/r/MachineLearning/comments/10egv6p/d_moving_from_1080ti_to_4090/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
