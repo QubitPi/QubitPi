@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1615666560751779841)
-- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1615660772952006656)
-- [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1615648694514208768)
 - [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1615620758444691456)
 - [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1615608678870130690)
+- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. #memgraph #database #graphdatab...](https://twitter.com/memgraphdb/status/1615599621819998208)
+- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1615595847898505217)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1615396533729361945)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
