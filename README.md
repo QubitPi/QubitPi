@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Sport outcome predictions](https://www.reddit.com/r/MachineLearning/comments/10erala/d_sport_outcome_predictions/)
-- [[P] Image classification](https://www.reddit.com/r/MachineLearning/comments/10eoyzg/p_image_classification/)
 - [[D] RLHF - What type of rewards to use?](https://www.reddit.com/r/MachineLearning/comments/10emf7a/d_rlhf_what_type_of_rewards_to_use/)
-- [[P] Need advice on inventory planning for my capstone project.](https://www.reddit.com/r/MachineLearning/comments/10elzic/p_need_advice_on_inventory_planning_for_my/)
-- [[R] Forcing GPT-N To Be Honest Without Supervision](https://www.reddit.com/r/MachineLearning/comments/10ekp69/r_forcing_gptn_to_be_honest_without_supervision/)
+- [[P] RWKV 14B Language Model &amp; ChatRWKV : pure RNN &lpar;attention-free&rpar;, scalable and parallelizable like Transformers](https://www.reddit.com/r/MachineLearning/comments/10eh2f3/p_rwkv_14b_language_model_chatrwkv_pure_rnn/)
+- [[D] Are there any results on convergence guarantees when optimizing NNs?](https://www.reddit.com/r/MachineLearning/comments/10ee9kp/d_are_there_any_results_on_convergence_guarantees/)
+- [[N] Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content](https://www.reddit.com/r/MachineLearning/comments/10ed388/n_getty_images_is_suing_the_creators_of_ai_art/)
+- [[D] Is it possible to update random forest parameters with new data instead of retraining on all data?](https://www.reddit.com/r/MachineLearning/comments/10e7cls/d_is_it_possible_to_update_random_forest/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
