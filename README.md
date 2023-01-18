@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1615620758444691456)
+- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1615608678870130690)
 - [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. #memgraph #database #graphdatab...](https://twitter.com/memgraphdb/status/1615599621819998208)
 - [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1615595847898505217)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1615396533729361945)
-- [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1615388227518488581)
-- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1615370107303202816)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
