@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752297894720045123><img align='right' src='https://i0.hdslb.com/bfs/article/d10f9ec25ef51f00e378e509d9f9b6cda5dfe189.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「单手剑·裁叶萃光」「长柄武器·和璞鸢」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/752343378423709716)
-- [#原神# #魈# #烟火之邀# 亲爱的旅行者，「烟火之邀」活动祈愿现已开启，「护法夜叉·魈&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组...](https://t.bilibili.com/752343086357544982)
-- [#原神# #艾尔海森# #敕诫枢谋# 亲爱的旅行者，「敕诫枢谋」活动祈愿现已开启，「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/752342579563986950)
-- [《原神》3.4版本「磬弦奏华夜」更新说明](https://t.bilibili.com/752297894720045123)
-- [恭喜@heydog嘿狗@孤心止殇@本条・二亚等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/752035042748792872)
+- [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 亲爱的旅行者，《原神》「沙堑寻洲」千壑沙地主题摄影活动今日开启~ 大地轰鸣，沙地堑壑下沙虫肆行其间。 风暴通...](https://t.bilibili.com/752377776820977704)
+- [互动抽奖 #原神# #迪奥娜# #生日快乐# 难得的休息日，我把小家伙们都带出来透透气。 你也是一起来晒太阳的吗？稍等哦，我让芬尼克给你挪个地方。 没有酒精，没有...](https://t.bilibili.com/752375741002285090)
+- [《原神》拾枝杂谈-「艾尔海森：诠辩深妙」](https://t.bilibili.com/752375247082094712)
+- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.4版本内容招募活动「磬弦奏华夜」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自1月18日起...](https://t.bilibili.com/752359729364205570)
+- [#原神# #海灯节# #磬弦奏华夜# 旅行者们好呀~海灯节将至，让我们来了解一下「磬弦奏华夜」活动的玩法吧！](https://t.bilibili.com/752351998428315656)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
