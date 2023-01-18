@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Webinar&#39;s are back! 🥑 Join us for our &quot;New Year, New AQL&quot; webinar to make 2023 the year you become an AQL master. You will learn how to get started...](https://twitter.com/arangodb/status/1615779820947783697)
 - [Team Avocado is hiring! ArangoDB is looking for a Solution Architect in Isreal to join our team. 🥑 To learn more, check out the full job descriptio...](https://twitter.com/arangodb/status/1615680438323843072)
 - [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1615453932418998286)
 - [ArangoDB webinar&#39;s are back! 🔥 Join us for our &quot;New Year, New AQL&quot; webinar to make 2023 the year you become an AQL master. You will learn how to ge...](https://twitter.com/arangodb/status/1615318048579223554)
 - [Grab your spot still while you can! Join us for our first webinar of 2023, which we are sure will turn you into an AQL genius. 🔥 See you this Wedne...](https://twitter.com/arangodb/status/1615091542477217795)
+- [Grab your spot quickly to get some hands on machine learning experience with ArangoDBs very own CTO @joerg_schad. 🥑 This week on January 18th, lear...](https://twitter.com/arangodb/status/1614955665457352707)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
