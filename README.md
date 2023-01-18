@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Database hosting is an interesting cost in the total cost of ownership and it should be taken into consideration before deciding which database t...](https://twitter.com/memgraphdb/status/1615692988188971008)
+- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1615684682896523266)
+- [The Conference on Innovative Data Systems Research &lpar;CIDR&rpar; is a systems-oriented conference. Check out what interesting people, talks and papers made M...](https://twitter.com/memgraphdb/status/1615673009712541696)
 - [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1615666560751779841)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗 #memgraph #graphmodeling #graphdatabase](https://twitter.com/memgraphdb/status/1615660772952006656)
-- [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1615648694514208768)
-- [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1615620758444691456)
-- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters even though they are n...](https://twitter.com/memgraphdb/status/1615608678870130690)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
