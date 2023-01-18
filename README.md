@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Neo4j Live: Porting Global-Chem Graph Infrastructure into Neo4j](https://www.youtube.com/watch?v=PSrrVOjnijA)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=bxuozmbPCWI)
 - [Neo4j Live: Wardley Mapping with Neo4j](https://www.youtube.com/watch?v=UKvjYZ2kiNY)
 - [Going Meta - Ep 12: Importing RDF data into Aura with Python + RDFLib](https://www.youtube.com/watch?v=DWINSvRxIbw)
 - [GraphQL Book Club - Chapter 7: Adding Authorization And Authentication](https://www.youtube.com/watch?v=WrWbGml-7x8)
+- [Stackoverflow Developer Survey Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=nBVr-cSrOsY)
+- [Ask a Data Scientist: Why Is Graph Data Science a Good Technique for Influence &amp; Importing Measures?](https://www.youtube.com/watch?v=dNiR_sBdaBM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
