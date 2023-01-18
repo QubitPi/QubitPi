@@ -295,10 +295,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[P] AI for Materials community](https://www.reddit.com/r/MachineLearning/comments/10f9nxx/p_ai_for_materials_community/)
-- [[D] Any ideas about using auto-regressive models to finish a list-wise multiple-choice task?](https://www.reddit.com/r/MachineLearning/comments/10f9kk2/d_any_ideas_about_using_autoregressive_models_to/)
-- [[D] Suggestion for approaching img-to-img?](https://www.reddit.com/r/MachineLearning/comments/10f7dyr/d_suggestion_for_approaching_imgtoimg/)
 - [[R] tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation &lpar;480 tasks+ sota encoder&rpar;](https://www.reddit.com/r/MachineLearning/comments/10f16l6/r_tasksource_structured_dataset_preprocessing/)
 - [[D] How much can you add/change in a camera ready conference paper?](https://www.reddit.com/r/MachineLearning/comments/10ezqa8/d_how_much_can_you_addchange_in_a_camera_ready/)
+- [[D] Why aren&#39;t we all using linear transformers?](https://www.reddit.com/r/MachineLearning/comments/10eolfl/d_why_arent_we_all_using_linear_transformers/)
+- [[D] RLHF - What type of rewards to use?](https://www.reddit.com/r/MachineLearning/comments/10emf7a/d_rlhf_what_type_of_rewards_to_use/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
