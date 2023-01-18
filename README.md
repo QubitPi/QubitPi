@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752297894720045123><img align='right' src='https://i0.hdslb.com/bfs/article/d10f9ec25ef51f00e378e509d9f9b6cda5dfe189.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「单手剑·裁叶萃光」「长柄武器·和璞鸢」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/752343378423709716)
+- [#原神# #魈# #烟火之邀# 亲爱的旅行者，「烟火之邀」活动祈愿现已开启，「护法夜叉·魈&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组...](https://t.bilibili.com/752343086357544982)
+- [#原神# #艾尔海森# #敕诫枢谋# 亲爱的旅行者，「敕诫枢谋」活动祈愿现已开启，「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/752342579563986950)
 - [《原神》3.4版本「磬弦奏华夜」更新说明](https://t.bilibili.com/752297894720045123)
 - [恭喜@heydog嘿狗@孤心止殇@本条・二亚等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/752035042748792872)
-- [互动抽奖 #原神# #艾尔海森# 《原神》角色演示-「艾尔海森：思而后行」现已发布~ https://www.bilibili.com/video/BV1uW4y1G7rM 关于「文弱」这一自称，艾尔海森...](https://t.bilibili.com/752009625108217878)
-- [#原神# #原神3.4# 旅行者们好呀~海灯节将至，一起来看看新版本中都有哪些精彩的活动吧！](https://t.bilibili.com/752007219928629255)
-- [《原神》3.4版本「磬弦奏华夜」活动说明](https://t.bilibili.com/752007116834734086)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
