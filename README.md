@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [🤔 Finding False Positives in Facial Recognition With #Neo4j? @serengil explains how. #deepface #machinelearning #AI](https://twitter.com/neo4j/status/1615771090847940611)
-- [The _____ data model is used by graph databases and consists of node labels, relationships, and properties. &lpar;You can always download the Fullstack Gra...](https://twitter.com/neo4j/status/1615758398305472513)
 - [GraphQL Book Club - Chapter 7: Adding Authorization And Authentication @lyonwj](https://twitter.com/neo4j/status/1615722786810626048)
 - [🤓 Are you new in #Cypher? Find all you need, here: #Neo4j #graphtechnoloy #Learning](https://twitter.com/neo4j/status/1615695621662380037)
 - [Neo4j Live: Wardley Mapping with Neo4j @tom_asel](https://twitter.com/neo4j/status/1615374721356541954)
+- [&quot;The customers started using #Neo4j, and the results that they saw – in much less time with much fewer resources – is mainly the most surprising, fo...](https://twitter.com/neo4j/status/1615373384962957313)
+- [#TBT to our best articles of 2022... today: &quot;Maintain a Companion Plant Knowledge Graph in Google Sheets and #Neo4j&quot; by Sixing Huang #knowledgegraphs ...](https://twitter.com/neo4j/status/1615352764439138304)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
