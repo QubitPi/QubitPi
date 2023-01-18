@@ -532,10 +532,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Apres — Home page web design](https://dribbble.com/shots/20394039)
+- [NXN Website](https://dribbble.com/shots/20346730)
+- [Ziggo Smart Suitcase Prototype](https://dribbble.com/shots/20330576)
 - [Pinecone Estates](https://dribbble.com/shots/20366766)
 - [Campaign App Exploration](https://dribbble.com/shots/20360841)
-- [Flyr Branding, visual identity, corporate brand design](https://dribbble.com/shots/20245780)
-- [[P] 1 → N](https://dribbble.com/shots/20343868)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
