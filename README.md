@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] A simple explanation of Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://www.reddit.com/r/MachineLearning/comments/10fh79i/r_a_simple_explanation_of_reinforcement_learning/)
 - [[P]](https://www.reddit.com/r/MachineLearning/comments/10ffcsk/p/)
 - [[R] Call for Papers: 2nd International Symposium on the Tsetlin Machine](https://www.reddit.com/r/MachineLearning/comments/10fdki9/r_call_for_papers_2nd_international_symposium_on/)
 - [[D] Do you know of any model capable of detecting generative model&lpar;GPT&rpar; generated text ?](https://www.reddit.com/r/MachineLearning/comments/10fclbg/d_do_you_know_of_any_model_capable_of_detecting/)
 - [[R] Researchers out there: which are current research directions for tree-based models?](https://www.reddit.com/r/MachineLearning/comments/10fbiz2/r_researchers_out_there_which_are_current/)
-- [[P] AI for Materials community](https://www.reddit.com/r/MachineLearning/comments/10f9nxx/p_ai_for_materials_community/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
