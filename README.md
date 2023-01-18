@@ -297,8 +297,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] We made an image de-identifier using Stable Diffusion!](https://www.reddit.com/r/MachineLearning/comments/10fjius/p_we_made_an_image_deidentifier_using_stable/)
 - [[P] MNIST Clock - Generating MNIST digits on the fly in your browser](https://www.reddit.com/r/MachineLearning/comments/10fj97z/p_mnist_clock_generating_mnist_digits_on_the_fly/)
 - [[D] [N] Book: Multimodal Deep Learning - 239 Pages! - Matthias Aßenmacher et al](https://www.reddit.com/r/MachineLearning/comments/10fj7qj/d_n_book_multimodal_deep_learning_239_pages/)
-- [Hinton proposes the Forward-Forward &lpar;FF&rpar; optimization algorithm with several theoretical pro-s when compared to back-propagation. Any thoughts?](https://www.reddit.com/r/MachineLearning/comments/10fhpct/hinton_proposes_the_forwardforward_ff/)
 - [[D] Automated Extraction of Building Geometry](https://www.reddit.com/r/MachineLearning/comments/10fhgk7/d_automated_extraction_of_building_geometry/)
+- [[R] A simple explanation of Reinforcement Learning from Human Feedback &lpar;RLHF&rpar;](https://www.reddit.com/r/MachineLearning/comments/10fh79i/r_a_simple_explanation_of_reinforcement_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
