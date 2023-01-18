@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. #memgraph #database #graphdatab...](https://twitter.com/memgraphdb/status/1615599621819998208)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1615595847898505217)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1615396533729361945)
 - [Check out our blog post 📰 19 Graph Algorithms You Can Use Right Now ➡️](https://twitter.com/memgraphdb/status/1615388227518488581)
 - [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. #memg...](https://twitter.com/memgraphdb/status/1615370107303202816)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1615362812091449345)
+- [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1615351737166008320)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
