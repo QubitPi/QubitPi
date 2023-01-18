@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752297894720045123><img align='right' src='https://i0.hdslb.com/bfs/article/d10f9ec25ef51f00e378e509d9f9b6cda5dfe189.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752377776820977704><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/69c5d0a56b7635f141a478030c0bf531401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 亲爱的旅行者，《原神》「沙堑寻洲」千壑沙地主题摄影活动今日开启~ 大地轰鸣，沙地堑壑下沙虫肆行其间。 风暴通...](https://t.bilibili.com/752377776820977704)
