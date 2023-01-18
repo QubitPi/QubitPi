@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [GraphQL Book Club - Chapter 7: Adding Authorization And Authentication @lyonwj](https://twitter.com/neo4j/status/1615722786810626048)
 - [🤓 Are you new in #Cypher? Find all you need, here: #Neo4j #graphtechnoloy #Learning](https://twitter.com/neo4j/status/1615695621662380037)
 - [Neo4j Live: Wardley Mapping with Neo4j @tom_asel](https://twitter.com/neo4j/status/1615374721356541954)
 - [&quot;The customers started using #Neo4j, and the results that they saw – in much less time with much fewer resources – is mainly the most surprising, fo...](https://twitter.com/neo4j/status/1615373384962957313)
 - [#TBT to our best articles of 2022... today: &quot;Maintain a Companion Plant Knowledge Graph in Google Sheets and #Neo4j&quot; by Sixing Huang #knowledgegraphs ...](https://twitter.com/neo4j/status/1615352764439138304)
-- [We ❤ Visualization Wilson Chua explains how to get better graph displays with Yworks! #Visualuzation #Neo4j #graphdatabase #Jupiter](https://twitter.com/neo4j/status/1615332893282156547)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
