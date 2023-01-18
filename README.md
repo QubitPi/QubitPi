@@ -294,8 +294,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation &lpar;480 tasks+ sota encoder&rpar;](https://www.reddit.com/r/MachineLearning/comments/10f16l6/r_tasksource_structured_dataset_preprocessing/)
 - [[D] How much can you add/change in a camera ready conference paper?](https://www.reddit.com/r/MachineLearning/comments/10ezqa8/d_how_much_can_you_addchange_in_a_camera_ready/)
-- [[R] A new work makes CNNs &lpar;e.g., ResNet&rpar; enjoy the BERT-style pretraining! &lpar;with a video demo&rpar;](https://www.reddit.com/r/MachineLearning/comments/10eyflc/r_a_new_work_makes_cnns_eg_resnet_enjoy_the/)
 - [[D] Why aren&#39;t we all using linear transformers?](https://www.reddit.com/r/MachineLearning/comments/10eolfl/d_why_arent_we_all_using_linear_transformers/)
 - [[D] RLHF - What type of rewards to use?](https://www.reddit.com/r/MachineLearning/comments/10emf7a/d_rlhf_what_type_of_rewards_to_use/)
 - [[P] RWKV 14B Language Model &amp; ChatRWKV : pure RNN &lpar;attention-free&rpar;, scalable and parallelizable like Transformers](https://www.reddit.com/r/MachineLearning/comments/10eh2f3/p_rwkv_14b_language_model_chatrwkv_pure_rnn/)
