@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Researchers out there: which are current research directions for tree-based models?](https://www.reddit.com/r/MachineLearning/comments/10fbiz2/r_researchers_out_there_which_are_current/)
 - [[P] AI for Materials community](https://www.reddit.com/r/MachineLearning/comments/10f9nxx/p_ai_for_materials_community/)
 - [[R] tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation &lpar;480 tasks+ sota encoder&rpar;](https://www.reddit.com/r/MachineLearning/comments/10f16l6/r_tasksource_structured_dataset_preprocessing/)
 - [[D] How much can you add/change in a camera ready conference paper?](https://www.reddit.com/r/MachineLearning/comments/10ezqa8/d_how_much_can_you_addchange_in_a_camera_ready/)
 - [[D] Why aren&#39;t we all using linear transformers?](https://www.reddit.com/r/MachineLearning/comments/10eolfl/d_why_arent_we_all_using_linear_transformers/)
-- [[D] RLHF - What type of rewards to use?](https://www.reddit.com/r/MachineLearning/comments/10emf7a/d_rlhf_what_type_of_rewards_to_use/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
