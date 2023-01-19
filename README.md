@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1616125085814870018)
+- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1616118894082625536)
 - [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. #memgraph #database #graphdatabase #memgraphd...](https://twitter.com/memgraphdb/status/1616081614919925762)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1616067200372166656)
 - [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1616049586795151361)
-- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #database #graphd...](https://twitter.com/memgraphdb/status/1616046313606418433)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1616023161513951237)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
