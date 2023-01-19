@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Human-Timescale Adaptation in an Open-Ended Task Space - &lpar;AdA&rpar; - DeepMind 2023 - Can adapt to open-ended novel embodied 3D problems as quickly as humans!](https://www.reddit.com/r/MachineLearning/comments/10g281u/r_humantimescale_adaptation_in_an_openended_task/)
 - [[D] Question about using diffusion to denoise images](https://www.reddit.com/r/MachineLearning/comments/10g1tni/d_question_about_using_diffusion_to_denoise_images/)
 - [[P] Questions about training my own transcription model in Transkribus as someone unfamiliar with the software](https://www.reddit.com/r/MachineLearning/comments/10g0mmr/p_questions_about_training_my_own_transcription/)
 - [[D] What is the name of this NLP technique?](https://www.reddit.com/r/MachineLearning/comments/10fz4b4/d_what_is_the_name_of_this_nlp_technique/)
 - [Anyone apply to Meta AI residency 2023? [D]](https://www.reddit.com/r/MachineLearning/comments/10fz3nb/anyone_apply_to_meta_ai_residency_2023_d/)
-- [[D] Inner workings of the chatgpt memory](https://www.reddit.com/r/MachineLearning/comments/10fxryj/d_inner_workings_of_the_chatgpt_memory/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
