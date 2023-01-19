@@ -312,11 +312,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Every Scrum Team works on a vibration - Professional Mind series &lpar;#2&rpar;](https://www.scrum.org/resources/blog/every-scrum-team-works-vibration-professional-mind-series-2)
 - [Wie Sie ChatGPT für Ihr Scrum-Team erfolgreicher nutzen können 🇩🇪](https://www.scrum.org/resources/blog/wie-sie-chatgpt-fur-ihr-scrum-team-erfolgreicher-nutzen-konnen)
 - [[VLOG] How to start Scrum for Enterprise Transformation](https://www.scrum.org/resources/blog/vlog-how-start-scrum-enterprise-transformation)
 - [Can ChatGPT teach you Scrum?](https://www.scrum.org/resources/blog/can-chatgpt-teach-you-scrum)
 - [Why &quot;No&quot; is part of a Scrum Product Owner’s Love Language](https://www.scrum.org/resources/blog/why-no-part-scrum-product-owners-love-language)
-- [Unlock the Power of ChatGPT for your Scrum Team](https://www.scrum.org/resources/blog/unlock-power-chatgpt-your-scrum-team)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
