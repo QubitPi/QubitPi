@@ -312,7 +312,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Product Owners, you do NOT accept the work in the Sprint Review](https://www.scrum.org/resources/blog/product-owners-you-do-not-accept-work-sprint-review)
+- [Product Owners, You do NOT Accept the Work in the Sprint Review](https://www.scrum.org/resources/blog/product-owners-you-do-not-accept-work-sprint-review)
 - [Every Scrum Team Works on a Vibration - Professional Mind Series &lpar;#2&rpar;](https://www.scrum.org/resources/blog/every-scrum-team-works-vibration-professional-mind-series-2)
 - [Wie Sie ChatGPT für Ihr Scrum-Team erfolgreicher nutzen können 🇩🇪](https://www.scrum.org/resources/blog/wie-sie-chatgpt-fur-ihr-scrum-team-erfolgreicher-nutzen-konnen)
 - [[VLOG] How to start Scrum for Enterprise Transformation](https://www.scrum.org/resources/blog/vlog-how-start-scrum-enterprise-transformation)
