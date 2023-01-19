@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Distributing OpenStack Architecture with BGP and Kubernetes Integration | OpenInfra Live Recap](https://superuser.openstack.org/articles/distributing-openstack-architecture-with-bgp-and-kubernetes-integration/)
 - [OpenStack Firewall as a Service &lpar;FWaaS&rpar;—the Basics and a Quick Tutorial](https://superuser.openstack.org/articles/openstack-firewall-as-a-service-fwaas-the-basics-and-a-quick-tutorial/)
 - [Is It Edge or Just a Piece of a Large Distributed System? – Part 2](https://superuser.openstack.org/articles/is-it-edge-or-just-a-piece-of-a-large-distributed-system-part-2/)
 - [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-51/)
 - [Is It Edge or Just a Piece of a Large Distributed System?](https://superuser.openstack.org/articles/is-it-edge-or-just-a-piece-of-a-large-distributed-system/)
-- [OpenInfra User Group Sweden, OpenInfra Forum #13](https://superuser.openstack.org/articles/openinfra-user-group-sweden-openinfra-forum-13/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
