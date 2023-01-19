@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Questions about training my own transcription model in Transkribus as someone unfamiliar with the software](https://www.reddit.com/r/MachineLearning/comments/10g0mmr/p_questions_about_training_my_own_transcription/)
 - [[D] What is the name of this NLP technique?](https://www.reddit.com/r/MachineLearning/comments/10fz4b4/d_what_is_the_name_of_this_nlp_technique/)
 - [Anyone apply to Meta AI residency 2023? [D]](https://www.reddit.com/r/MachineLearning/comments/10fz3nb/anyone_apply_to_meta_ai_residency_2023_d/)
 - [[D] Inner workings of the chatgpt memory](https://www.reddit.com/r/MachineLearning/comments/10fxryj/d_inner_workings_of_the_chatgpt_memory/)
 - [[D] very short video generation](https://www.reddit.com/r/MachineLearning/comments/10fx9l2/d_very_short_video_generation/)
-- [[D] Is there any proof or research regarding zero-shot performance of image-based vs. text-based models?](https://www.reddit.com/r/MachineLearning/comments/10fvx0k/d_is_there_any_proof_or_research_regarding/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
