@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Why Is Graph Data Science a Good Technique for Pathfinding? @AJarasch answers the question in our &quot;Ask a Data Scientist&quot; series -- learn all about the...](https://twitter.com/neo4j/status/1616058024333811715)
 - [🤔 Finding False Positives in Facial Recognition With #Neo4j? @serengil explains how. #deepface #machinelearning #AI](https://twitter.com/neo4j/status/1615771090847940611)
 - [The _____ data model is used by graph databases and consists of node labels, relationships, and properties. &lpar;You can always download the Fullstack Gra...](https://twitter.com/neo4j/status/1615758398305472513)
 - [GraphQL Book Club - Chapter 7: Adding Authorization And Authentication @lyonwj](https://twitter.com/neo4j/status/1615722786810626048)
 - [🤓 Are you new in #Cypher? Find all you need, here: #Neo4j #graphtechnoloy #Learning](https://twitter.com/neo4j/status/1615695621662380037)
-- [Neo4j Live: Wardley Mapping with Neo4j @tom_asel](https://twitter.com/neo4j/status/1615374721356541954)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
