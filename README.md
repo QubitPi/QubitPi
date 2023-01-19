@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [I&#39;m working on a project and need a open source chatbot that I can run locally and train to talk like a specific character, does anyone know one? [P]](https://www.reddit.com/r/MachineLearning/comments/10gdcmm/im_working_on_a_project_and_need_a_open_source/)
 - [[D][P] Best Speech-to-Text Model for domain-specific data - Open Source vs. Paid Services](https://www.reddit.com/r/MachineLearning/comments/10g6k72/dp_best_speechtotext_model_for_domainspecific/)
 - [[D] Pre-trained Models for Domain-Specific &lpar;i.e. Stylistic&rpar; Feature Extraction](https://www.reddit.com/r/MachineLearning/comments/10g68js/d_pretrained_models_for_domainspecific_ie/)
 - [[P] Labeling tools are great, but what about quality checks?](https://www.reddit.com/r/MachineLearning/comments/10g5ztc/p_labeling_tools_are_great_but_what_about_quality/)
 - [[D] is it time to investigate retrieval language models?](https://www.reddit.com/r/MachineLearning/comments/10g5r52/d_is_it_time_to_investigate_retrieval_language/)
-- [[P] Code super clean multi-modal PyTorch models and easily serve them through FastAPI, using DocArray](https://www.reddit.com/r/MachineLearning/comments/10g5p9o/p_code_super_clean_multimodal_pytorch_models_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
