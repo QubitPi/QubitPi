@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752839107849224211><img align='right' src='https://i1.hdslb.com/bfs/archive/7aeb320dbac4fdf30017c7a813a704b98cf4e6aa.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》2023新春短片-「鱼灯」](https://t.bilibili.com/752839107849224211)
 - [恭喜@Siuperman@星影月迹@雷尔森Yu等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/752777225946792052)
 - [#寻味之旅# #原神# 亲爱的旅行者，原神联合@光明网 发起美食内容征集活动，快来参加吧~](https://t.bilibili.com/752759118400323587)
 - [#原神# #佳韵留形# 亲爱的旅行者，《原神》「佳韵留形」海灯节主题征集活动今日开启~ 古老的国度奏响新的音符； 繁华的港城被乐声装点； 人潮涌起，新朋旧友共赏...](https://t.bilibili.com/752749046677897352)
 - [#原神# #原神微信红包封面# 亲爱的旅行者，《原神》120万份新春专属微信红包封面限时限量免费发放！ 〓领取时间〓 1月21日 ~ 1月23日 〓领取方式〓 ※新春款（限...](https://t.bilibili.com/752747723815387141)
-- [《原神》拾枝杂谈-「瑶瑶：樨馨云外飘」](https://t.bilibili.com/752746332249129093)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
