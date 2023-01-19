@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752839107849224211><img align='right' src='https://i1.hdslb.com/bfs/archive/7aeb320dbac4fdf30017c7a813a704b98cf4e6aa.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752876572835315749><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0fc5c9c524f22fc88e05c41826ddbd74401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》2023新春短片-「鱼灯」](https://t.bilibili.com/752839107849224211)
