@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] is it time to investigate retrieval language models?](https://www.reddit.com/r/MachineLearning/comments/10g5r52/d_is_it_time_to_investigate_retrieval_language/)
+- [[P] Code super clean multi-modal PyTorch models and easily serve them through FastAPI, using DocArray](https://www.reddit.com/r/MachineLearning/comments/10g5p9o/p_code_super_clean_multimodal_pytorch_models_and/)
+- [[P] Tired of generating synthetic corgis❓🐶 Check out Synthcity, a framework for synthetic tabular data](https://www.reddit.com/r/MachineLearning/comments/10g5ixy/p_tired_of_generating_synthetic_corgis_check_out/)
 - [[P] Need some recs on an NLP project](https://www.reddit.com/r/MachineLearning/comments/10g49u1/p_need_some_recs_on_an_nlp_project/)
-- [[P] stable-karlo - A UI for Karlo &lpar;open-source model based on OpenAI&#39;s unCLIP&rpar; with Stable-Diffusion v2 upscaling. Google Colab available!](https://www.reddit.com/r/MachineLearning/comments/10g2phz/p_stablekarlo_a_ui_for_karlo_opensource_model/)
 - [[R] Human-Timescale Adaptation in an Open-Ended Task Space - &lpar;AdA&rpar; - DeepMind 2023 - Can adapt to open-ended novel embodied 3D problems as quickly as humans!](https://www.reddit.com/r/MachineLearning/comments/10g281u/r_humantimescale_adaptation_in_an_openended_task/)
-- [[D] Question about using diffusion to denoise images](https://www.reddit.com/r/MachineLearning/comments/10g1tni/d_question_about_using_diffusion_to_denoise_images/)
-- [[D] What is the name of this NLP technique?](https://www.reddit.com/r/MachineLearning/comments/10fz4b4/d_what_is_the_name_of_this_nlp_technique/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
