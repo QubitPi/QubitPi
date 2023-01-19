@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1615958231859269633)
 - [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1615756615654703126)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1615732496410230785)
 - [🎓 #Learn #Cypher with #Memgraph Relationship types are case-sensitive and you cannot use the - character in a relationship type. #graphdatabase #op...](https://twitter.com/memgraphdb/status/1615714125937782791)
 - [🎓 #Learn #Cypher with #Memgraph Relationship types are styled upper-case and use the underscore character _ to separate multiple words #graphdataba...](https://twitter.com/memgraphdb/status/1615711609501917184)
-- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1615704815778287618)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
