@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1616049586795151361)
+- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #database #graphd...](https://twitter.com/memgraphdb/status/1616046313606418433)
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1616023161513951237)
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1616021650637557764)
 - [Explore the European gas infrastructure network using Memgraph’s graph analytics capabilities to visualize and extrapolate from the data.](https://twitter.com/memgraphdb/status/1615986673023684608)
-- [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1615967795354767360)
-- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1615962007445934083)
-- [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1615958231859269633)
-- [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1615756615654703126)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
