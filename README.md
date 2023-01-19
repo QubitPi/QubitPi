@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752377776820977704><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/69c5d0a56b7635f141a478030c0bf531401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#寻味之旅# #原神# 亲爱的旅行者，原神联合@光明网 发起美食内容征集活动，快来参加吧~](https://t.bilibili.com/752759118400323587)
+- [#原神# #佳韵留形# 亲爱的旅行者，《原神》「佳韵留形」海灯节主题征集活动今日开启~ 古老的国度奏响新的音符； 繁华的港城被乐声装点； 人潮涌起，新朋旧友共赏...](https://t.bilibili.com/752749046677897352)
+- [#原神# #原神微信红包封面# 亲爱的旅行者，《原神》120万份新春专属微信红包封面限时限量免费发放！ 〓领取时间〓 1月21日 ~ 1月23日 〓领取方式〓 ※新春款（限...](https://t.bilibili.com/752747723815387141)
+- [《原神》拾枝杂谈-「瑶瑶：樨馨云外飘」](https://t.bilibili.com/752746332249129093)
 - [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 亲爱的旅行者，《原神》「沙堑寻洲」千壑沙地主题摄影活动今日开启~ 大地轰鸣，沙地堑壑下沙虫肆行其间。 风暴通...](https://t.bilibili.com/752377776820977704)
-- [互动抽奖 #原神# #迪奥娜# #生日快乐# 难得的休息日，我把小家伙们都带出来透透气。 你也是一起来晒太阳的吗？稍等哦，我让芬尼克给你挪个地方。 没有酒精，没有...](https://t.bilibili.com/752375741002285090)
-- [《原神》拾枝杂谈-「艾尔海森：诠辩深妙」](https://t.bilibili.com/752375247082094712)
-- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.4版本内容招募活动「磬弦奏华夜」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自1月18日起...](https://t.bilibili.com/752359729364205570)
-- [#原神# #海灯节# #磬弦奏华夜# 旅行者们好呀~海灯节将至，让我们来了解一下「磬弦奏华夜」活动的玩法吧！](https://t.bilibili.com/752351998428315656)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
