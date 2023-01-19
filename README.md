@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] very short video generation](https://www.reddit.com/r/MachineLearning/comments/10fx9l2/d_very_short_video_generation/)
 - [[D] Is there any proof or research regarding zero-shot performance of image-based vs. text-based models?](https://www.reddit.com/r/MachineLearning/comments/10fvx0k/d_is_there_any_proof_or_research_regarding/)
 - [[D] ML Researchers/Engineers in Industry: Why don&#39;t companies use open source models more often?](https://www.reddit.com/r/MachineLearning/comments/10fqpt7/d_ml_researchersengineers_in_industry_why_dont/)
 - [[Discussion] Storing hundreds of ML models - what do you use?](https://www.reddit.com/r/MachineLearning/comments/10fq2dl/discussion_storing_hundreds_of_ml_models_what_do/)
 - [[D] Best LLM for Question/Answering with personality?](https://www.reddit.com/r/MachineLearning/comments/10fp8t1/d_best_llm_for_questionanswering_with_personality/)
-- [[R] Summary of developments in ML in 2022](https://www.reddit.com/r/MachineLearning/comments/10fls9m/r_summary_of_developments_in_ml_in_2022/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
