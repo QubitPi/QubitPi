@@ -313,7 +313,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Product Owners, you do NOT accept the work in the Sprint Review](https://www.scrum.org/resources/blog/product-owners-you-do-not-accept-work-sprint-review)
-- [Every Scrum Team works on a vibration - Professional Mind series &lpar;#2&rpar;](https://www.scrum.org/resources/blog/every-scrum-team-works-vibration-professional-mind-series-2)
+- [Every Scrum Team Works on a Vibration - Professional Mind Series &lpar;#2&rpar;](https://www.scrum.org/resources/blog/every-scrum-team-works-vibration-professional-mind-series-2)
 - [Wie Sie ChatGPT für Ihr Scrum-Team erfolgreicher nutzen können 🇩🇪](https://www.scrum.org/resources/blog/wie-sie-chatgpt-fur-ihr-scrum-team-erfolgreicher-nutzen-konnen)
 - [[VLOG] How to start Scrum for Enterprise Transformation](https://www.scrum.org/resources/blog/vlog-how-start-scrum-enterprise-transformation)
 - [Can ChatGPT teach you Scrum?](https://www.scrum.org/resources/blog/can-chatgpt-teach-you-scrum)
