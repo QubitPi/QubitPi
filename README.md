@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752759118400323587><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/57387c697843fb8c76a26514af13cb2111464329.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752777225946792052><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ab33b8506ff98bc7b20175174f7875e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#寻味之旅# #原神# 亲爱的旅行者，原神联合@光明网 发起美食内容征集活动，快来参加吧~](https://t.bilibili.com/752759118400323587)
