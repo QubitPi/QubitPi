@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. #memgraph #database #graphdatabase #memgraphd...](https://twitter.com/memgraphdb/status/1616081614919925762)
-- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1616067200372166656)
 - [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1616049586795151361)
 - [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #database #graphd...](https://twitter.com/memgraphdb/status/1616046313606418433)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1616023161513951237)
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1616021650637557764)
+- [Explore the European gas infrastructure network using Memgraph’s graph analytics capabilities to visualize and extrapolate from the data.](https://twitter.com/memgraphdb/status/1615986673023684608)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
