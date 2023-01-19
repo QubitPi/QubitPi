@@ -371,11 +371,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
 
 <!-- LETS-ENCRYPT-BLOG:START -->
+- [Thank you to our 2023 renewing sponsors](https://letsencrypt.org/2023/01/19/renewing-sponsors.html)
 - [A Look into the Engineering Culture at ISRG](https://letsencrypt.org/2023/01/12/eng-culture-at-isrg.html)
 - [Let’s Encrypt improves how we manage OCSP responses](https://letsencrypt.org/2022/12/15/ocspcaching.html)
 - [A Year-End Letter from our Executive Director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
 - [Remembering Peter Eckersley](https://letsencrypt.org/2022/09/12/remembering-peter-eckersley.html)
-- [A New Life for Certificate Revocation Lists](https://letsencrypt.org/2022/09/07/new-life-for-crls.html)
 <!-- LETS-ENCRYPT-BLOG:END -->
 
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
