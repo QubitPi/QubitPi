@@ -181,7 +181,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Backend Dev
 
-[Jersey](https://qubitpi.github.io/jersey/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
+[Jersey](https://qubitpi.github.io/jersey/) | [Hadoop](https://qubitpi.github.io/hadoop/hadoop-project/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
 #### Miscellaneous
 
@@ -682,6 +682,7 @@ Comprehensive Documentation-Related Forks
 ### Backend Dev
 
 [![jersey](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey&show_owner=true&theme=vue)](https://github.com/QubitPi/jersey)
+[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=vue)](https://github.com/QubitPi/hadoop)
 [![Keycloak Documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-documentation)
 [![Keycloak Site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak-web&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak-web)
 [![Keycloak](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keycloak&show_owner=true&theme=vue)](https://github.com/QubitPi/keycloak)
