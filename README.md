@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://www.reddit.com/r/MachineLearning/comments/10gtruu/n_openai_used_kenyan_workers_on_less_than_2_per/)
 - [[P] [R] Tired of generating synthetic corgis❓🐶 Check out Synthcity, a library for synthetic tabular data](https://www.reddit.com/r/MachineLearning/comments/10grr8m/p_r_tired_of_generating_synthetic_corgis_check/)
 - [[P] paper-hero: Yet Another Paper Search Tool](https://www.reddit.com/r/MachineLearning/comments/10gp7rm/p_paperhero_yet_another_paper_search_tool/)
 - [[D] Best models for classification of structured and text data](https://www.reddit.com/r/MachineLearning/comments/10gky5u/d_best_models_for_classification_of_structured/)
 - [[D] ICLR 2023 results.](https://www.reddit.com/r/MachineLearning/comments/10ghadg/d_iclr_2023_results/)
-- [[Discussion] I&#39;m Getting 50FPS With 4 Billion Parameters, Is That Good? - Compute Shader Implementation](https://www.reddit.com/r/MachineLearning/comments/10gffem/discussion_im_getting_50fps_with_4_billion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
