@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Best models for classification of structured and text data](https://www.reddit.com/r/MachineLearning/comments/10gky5u/d_best_models_for_classification_of_structured/)
 - [[D] ICLR 2023 results.](https://www.reddit.com/r/MachineLearning/comments/10ghadg/d_iclr_2023_results/)
 - [[Discussion] I&#39;m Getting 50FPS With 4 Billion Parameters, Is That Good? - Compute Shader Implementation](https://www.reddit.com/r/MachineLearning/comments/10gffem/discussion_im_getting_50fps_with_4_billion/)
 - [I&#39;m working on a project and need a open source chatbot that I can run locally and train to talk like a specific character, does anyone know one? [P]](https://www.reddit.com/r/MachineLearning/comments/10gdcmm/im_working_on_a_project_and_need_a_open_source/)
 - [[D][P] Best Speech-to-Text Model for domain-specific data - Open Source vs. Paid Services](https://www.reddit.com/r/MachineLearning/comments/10g6k72/dp_best_speechtotext_model_for_domainspecific/)
-- [[D] Pre-trained Models for Domain-Specific &lpar;i.e. Stylistic&rpar; Feature Extraction](https://www.reddit.com/r/MachineLearning/comments/10g68js/d_pretrained_models_for_domainspecific_ie/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
