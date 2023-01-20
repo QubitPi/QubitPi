@@ -555,11 +555,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [More Real-World Uses for :has&lpar;&rpar;](https://css-tricks.com/more-real-world-uses-for-has/)
 - [How to Transition to Manifest V3 for Chrome Extensions](https://css-tricks.com/how-to-transition-to-manifest-v3-for-chrome-extensions/)
 - [Solved With :has&lpar;&rpar;: Vertical Spacing in Long-Form Text](https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/)
 - [6 Common SVG Fails &lpar;and How to Fix Them&rpar;](https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/)
 - [:has is an unforgiving selector](https://css-tricks.com/has-is-an-unforgiving-selector/)
-- [Faking Min Width on a Table Column](https://css-tricks.com/faking-min-width-on-a-table-column/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
