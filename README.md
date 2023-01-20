@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] I&#39;ve translated Avatar 2 and made audio dubs in 16 languages](https://www.reddit.com/r/MachineLearning/comments/10gpzib/p_ive_translated_avatar_2_and_made_audio_dubs_in/)
 - [[P] paper-hero: Yet Another Paper Search Tool](https://www.reddit.com/r/MachineLearning/comments/10gp7rm/p_paperhero_yet_another_paper_search_tool/)
 - [[D] Best models for classification of structured and text data](https://www.reddit.com/r/MachineLearning/comments/10gky5u/d_best_models_for_classification_of_structured/)
 - [[D] ICLR 2023 results.](https://www.reddit.com/r/MachineLearning/comments/10ghadg/d_iclr_2023_results/)
 - [[Discussion] I&#39;m Getting 50FPS With 4 Billion Parameters, Is That Good? - Compute Shader Implementation](https://www.reddit.com/r/MachineLearning/comments/10gffem/discussion_im_getting_50fps_with_4_billion/)
+- [I&#39;m working on a project and need a open source chatbot that I can run locally and train to talk like a specific character, does anyone know one? [P]](https://www.reddit.com/r/MachineLearning/comments/10gdcmm/im_working_on_a_project_and_need_a_open_source/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
