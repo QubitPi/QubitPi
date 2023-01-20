@@ -534,7 +534,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Flatfile Branding Illustrations](https://dribbble.com/shots/20204156)
 - [Apres — Home page web design](https://dribbble.com/shots/20394039)
 - [Crypto Trading - Animation](https://dribbble.com/shots/20415217)
-- [Pinecone Estates](https://dribbble.com/shots/20366766)
+- [L.A. Public Library 150th Anniversary Poster](https://dribbble.com/shots/20420912)
 - [[P] 1 → N](https://dribbble.com/shots/20343868)
 <!-- DRIBBBLE-TRENDING:END -->
 
