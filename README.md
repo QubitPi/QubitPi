@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Download @lyonwj&#39;s e-book &quot;Fullstack GraphQL Applications&quot; for FREE and find out more! #GraphQL #Neo4j](https://twitter.com/neo4j/status/1616450597581889537)
 - [You’ve heard about graph database technology and want to know what all the buzz is about? 🙃 Take a look at this blog by Bryce Merkl Sasaki, Editor...](https://twitter.com/neo4j/status/1616429357651709954)
-- [RT Tanishka Yadav: I&#39;ll be there at Graph Database Delhi/NCR powered by @neo4j tomorrow. My first meetup of 2023! :&rpar; @gdg_noida @sidagarwal04 👋🏻...](https://twitter.com/tanishka__yadav/status/1616420831344865280)
 - [Manage EoLs Like a Boss With Adrien Sales builds a #Neodash interface with product lifecycle data. Once imported into Neo4j, he runs #Cypher queries t...](https://twitter.com/neo4j/status/1616122332816228352)
 - [DEMOS, Webinars, Meetups...around the 🌏 Ready to schedule all of our #events? Take a look at this updated agenda of Neo4j&#39;s events and activities. ...](https://twitter.com/neo4j/status/1616088764685615104)
+- [Why Is Graph Data Science a Good Technique for Pathfinding? @AJarasch answers the question in our &quot;Ask a Data Scientist&quot; series -- learn all about the...](https://twitter.com/neo4j/status/1616058024333811715)
+- [🤔 Finding False Positives in Facial Recognition With #Neo4j? @serengil explains how. #deepface #machinelearning #AI](https://twitter.com/neo4j/status/1615771090847940611)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
