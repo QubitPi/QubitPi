@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/752876572835315749><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0fc5c9c524f22fc88e05c41826ddbd74401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@魔→方@SYARRY-MILAN@因为是鸡米啊等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/753148293977997493)
+- [恭喜@次次双黄真君@Rcloris@-野猪菌-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/753148293953880147)
 - [今晚21点，记得准时收看原神新春会！ [原神_哇]](https://t.bilibili.com/753120342307766305)
 - [#原神# #原神表情包# 《原神》表情包「派蒙的画作第21弹」现已上线 亲爱的旅行者，「派蒙的画作第21弹」表情包现已陆续开放下载，欢迎前往【微信表情包商城】和...](https://t.bilibili.com/753117361622482998)
 - [互动抽奖 #原神# #miHoYo# #鱼灯# 《原神》2023新春短片-「鱼灯」现已发布~ https://www.bilibili.com/video/BV1Qd4y1V7he/ 让心里的灯，照亮回家的路。 愿2023 ...](https://t.bilibili.com/752876572835315749)
-- [《原神》2023新春短片-「鱼灯」](https://t.bilibili.com/752839107849224211)
-- [恭喜@Siuperman@星影月迹@雷尔森Yu等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/752777225946792052)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
