@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1616483697615568914)
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1616479929721290756)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1616457272808411136)
 - [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1616438904491589637)
 - [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1616436385254371329)
+- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. #g...](https://twitter.com/memgraphdb/status/1616409458141282309)
+- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1616391338999554049)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
