@@ -294,8 +294,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Computationally light-weight deep learning research topics?](https://www.reddit.com/r/MachineLearning/comments/10gzs98/d_computationally_lightweight_deep_learning/)
 - [[D] &quot;Deep Learning Tuning Playbook&quot; &lpar;recently released by Google Brain people&rpar;](https://www.reddit.com/r/MachineLearning/comments/10gxtao/d_deep_learning_tuning_playbook_recently_released/)
-- [[D] Did YouTube just add upscaling?](https://www.reddit.com/r/MachineLearning/comments/10gxs5i/d_did_youtube_just_add_upscaling/)
 - [[N] OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://www.reddit.com/r/MachineLearning/comments/10gtruu/n_openai_used_kenyan_workers_on_less_than_2_per/)
 - [[P] paper-hero: Yet Another Paper Search Tool](https://www.reddit.com/r/MachineLearning/comments/10gp7rm/p_paperhero_yet_another_paper_search_tool/)
 - [[D] Best models for classification of structured and text data](https://www.reddit.com/r/MachineLearning/comments/10gky5u/d_best_models_for_classification_of_structured/)
