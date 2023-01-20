@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#Cypher 🤔 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of the graph. Read t...](https://twitter.com/neo4j/status/1616527261905158148)
+- [RT Chris Vela: Love a fun graph to mess with! #neo4j #graphs #Cypher](https://twitter.com/velaraptor/status/1616495386322997254)
 - [Download @lyonwj&#39;s e-book &quot;Fullstack GraphQL Applications&quot; for FREE and find out more! #GraphQL #Neo4j](https://twitter.com/neo4j/status/1616450597581889537)
 - [You’ve heard about graph database technology and want to know what all the buzz is about? 🙃 Take a look at this blog by Bryce Merkl Sasaki, Editor...](https://twitter.com/neo4j/status/1616429357651709954)
 - [RT Tanishka Yadav: I&#39;ll be there at Graph Database Delhi/NCR powered by @neo4j tomorrow. My first meetup of 2023! :&rpar; @gdg_noida @sidagarwal04 👋🏻...](https://twitter.com/tanishka__yadav/status/1616420831344865280)
-- [Manage EoLs Like a Boss With Adrien Sales builds a #Neodash interface with product lifecycle data. Once imported into Neo4j, he runs #Cypher queries t...](https://twitter.com/neo4j/status/1616122332816228352)
-- [DEMOS, Webinars, Meetups...around the 🌏 Ready to schedule all of our #events? Take a look at this updated agenda of Neo4j&#39;s events and activities. ...](https://twitter.com/neo4j/status/1616088764685615104)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
