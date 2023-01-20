@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] ESANN 2023 | Special Session on Neuro-Symbolic AI &lpar;CFP&rpar;](https://www.reddit.com/r/MachineLearning/comments/10h06lu/n_esann_2023_special_session_on_neurosymbolic_ai/)
 - [[P] Photo Geolocation ML model and script that plays GeoGuessr](https://www.reddit.com/r/MachineLearning/comments/10h002p/p_photo_geolocation_ml_model_and_script_that/)
 - [[D] Computationally light-weight deep learning research topics?](https://www.reddit.com/r/MachineLearning/comments/10gzs98/d_computationally_lightweight_deep_learning/)
 - [[D] &quot;Deep Learning Tuning Playbook&quot; &lpar;recently released by Google Brain people&rpar;](https://www.reddit.com/r/MachineLearning/comments/10gxtao/d_deep_learning_tuning_playbook_recently_released/)
 - [[N] OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://www.reddit.com/r/MachineLearning/comments/10gtruu/n_openai_used_kenyan_workers_on_less_than_2_per/)
-- [[P] paper-hero: Yet Another Paper Search Tool](https://www.reddit.com/r/MachineLearning/comments/10gp7rm/p_paperhero_yet_another_paper_search_tool/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
