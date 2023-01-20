@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Object detection or image classification? Training a model to recognize playing cards](https://www.reddit.com/r/MachineLearning/comments/10hcd6g/d_object_detection_or_image_classification/)
 - [[D] Speech enhancement - like Adobe Enhance/Audo Studio](https://www.reddit.com/r/MachineLearning/comments/10hc2pi/d_speech_enhancement_like_adobe_enhanceaudo_studio/)
 - [[D] Generate data that is not a dataset](https://www.reddit.com/r/MachineLearning/comments/10haggt/d_generate_data_that_is_not_a_dataset/)
 - [[D] Not sure if time series or multiple classifications?](https://www.reddit.com/r/MachineLearning/comments/10ha8gp/d_not_sure_if_time_series_or_multiple/)
 - [[R] Is there a way to combine a knowledge graph and other types of data for ML purposes?](https://www.reddit.com/r/MachineLearning/comments/10h5nfx/r_is_there_a_way_to_combine_a_knowledge_graph_and/)
-- [[D] Discrete vs. Continuous Normalizing Flows](https://www.reddit.com/r/MachineLearning/comments/10h2a2y/d_discrete_vs_continuous_normalizing_flows/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
