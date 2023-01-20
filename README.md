@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [any good API&#39;s for producing a conversational device? [P]](https://www.reddit.com/r/MachineLearning/comments/10h4k56/any_good_apis_for_producing_a_conversational/)
 - [[D] Discrete vs. Continuous Normalizing Flows](https://www.reddit.com/r/MachineLearning/comments/10h2a2y/d_discrete_vs_continuous_normalizing_flows/)
 - [[N] ESANN 2023 | Special Session on Neuro-Symbolic AI &lpar;CFP&rpar;](https://www.reddit.com/r/MachineLearning/comments/10h06lu/n_esann_2023_special_session_on_neurosymbolic_ai/)
 - [[D] Computationally light-weight deep learning research topics?](https://www.reddit.com/r/MachineLearning/comments/10gzs98/d_computationally_lightweight_deep_learning/)
 - [[D] &quot;Deep Learning Tuning Playbook&quot; &lpar;recently released by Google Brain people&rpar;](https://www.reddit.com/r/MachineLearning/comments/10gxtao/d_deep_learning_tuning_playbook_recently_released/)
-- [[N] OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://www.reddit.com/r/MachineLearning/comments/10gtruu/n_openai_used_kenyan_workers_on_less_than_2_per/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
