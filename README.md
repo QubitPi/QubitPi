@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753597994211737605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1de5a3159abd842144a5621e7de5578a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [互动抽奖 #原神# #新春快乐# “啊，我的虾饺！你又吓我——罚你明天给我带十份酿梅花！” “好好好，二十份都没问题~！但你先拦住锅巴，感觉锅巴等会儿要来找我...](https://t.bilibili.com/753618090359521318)
 - [互动抽奖 #原神# #磬弦奏华夜# 《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」现已发布~ https://www.bilibili.com/video/BV1dM411t7Ls 新岁新象，挚友挚愿。 在...](https://t.bilibili.com/753597994211737605)
 - [《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」](https://t.bilibili.com/753596692857618473)
 - [互动抽奖 #原神# #原神3.4# #磬弦奏华夜# 《原神》剧情PV-「余音萦心」现已发布~ https://www.bilibili.com/video/BV1bY411X7Tx 过眼烟云，浮萍无根。 涓涓行水...](https://t.bilibili.com/753582626817704035)
 - [《原神》剧情PV-「余音萦心」](https://t.bilibili.com/753581303965679776)
+- [互动抽奖 #原神# #磬弦奏华夜# 别着急！最后一道菜马上就好咯！ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【288元新春礼金】1份。](https://t.bilibili.com/753488476840656921)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
