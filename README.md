@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1616686783730798592)
+- [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1616683013835726849)
 - [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1616483697615568914)
 - [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1616479929721290756)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1616457272808411136)
-- [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1616438904491589637)
-- [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1616436385254371329)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
