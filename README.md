@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753488476840656921><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/aca7a12b77819e53fc73120a52f7a1a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #磬弦奏华夜# 《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」现已发布~ https://www.bilibili.com/video/BV1dM411t7Ls 新岁新象，挚友挚愿。 在...](https://t.bilibili.com/753597994211737605)
+- [《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」](https://t.bilibili.com/753596692857618473)
+- [互动抽奖 #原神# #原神3.4# #磬弦奏华夜# 《原神》剧情PV-「余音萦心」现已发布~ https://www.bilibili.com/video/BV1bY411X7Tx 过眼烟云，浮萍无根。 涓涓行水...](https://t.bilibili.com/753582626817704035)
+- [《原神》剧情PV-「余音萦心」](https://t.bilibili.com/753581303965679776)
 - [互动抽奖 #原神# #磬弦奏华夜# 别着急！最后一道菜马上就好咯！ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【288元新春礼金】1份。](https://t.bilibili.com/753488476840656921)
-- [恭喜@魔→方@SYARRY-MILAN@因为是鸡米啊等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/753148293977997493)
-- [恭喜@次次双黄真君@Rcloris@-野猪菌-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/753148293953880147)
-- [今晚21点，记得准时收看原神新春会！ [原神_哇]](https://t.bilibili.com/753120342307766305)
-- [#原神# #原神表情包# 《原神》表情包「派蒙的画作第21弹」现已上线 亲爱的旅行者，「派蒙的画作第21弹」表情包现已陆续开放下载，欢迎前往【微信表情包商城】和...](https://t.bilibili.com/753117361622482998)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
