@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1616843314828910592)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1616839544220930048)
 - [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1616819660678111232)
 - [Whenever you are not sure how to write a Cypher query, you can just take a look at this cheat sheet and try again! 🤣 #memgraph #graphdatabase #cyph...](https://twitter.com/memgraphdb/status/1616809847160176648)
 - [Check out our blog post 📰 Best Databases For Streaming Analytics ➡️](https://twitter.com/memgraphdb/status/1616801292113907713)
+- [🔎 The current issue is that companies can’t conclude anything from all that data, which is especially disastrous if the data indicates that it’s ...](https://twitter.com/memgraphdb/status/1616783170657030145)
+- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1616771847034441728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
