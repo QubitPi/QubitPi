@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753488476840656921><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/aca7a12b77819e53fc73120a52f7a1a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753597994211737605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1de5a3159abd842144a5621e7de5578a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #磬弦奏华夜# 《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」现已发布~ https://www.bilibili.com/video/BV1dM411t7Ls 新岁新象，挚友挚愿。 在...](https://t.bilibili.com/753597994211737605)
