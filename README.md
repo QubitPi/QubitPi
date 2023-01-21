@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753597994211737605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1de5a3159abd842144a5621e7de5578a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753618090359521318><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/41fb8900e3c9426d8af35a619b6887fd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #新春快乐# “啊，我的虾饺！你又吓我——罚你明天给我带十份酿梅花！” “好好好，二十份都没问题~！但你先拦住锅巴，感觉锅巴等会儿要来找我...](https://t.bilibili.com/753618090359521318)
