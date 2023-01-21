@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Encoding](https://www.reddit.com/r/MachineLearning/comments/10hpvm8/d_encoding/)
-- [[D] Hi everyone , my question is what is the idea behind the activation&lpar;&rpar; method I don&#39;t get why we use it if instead we can use the net_input directly in the fit&lpar;&rpar; method](https://www.reddit.com/r/MachineLearning/comments/10hpask/d_hi_everyone_my_question_is_what_is_the_idea/)
 - [[R] New Tsetlin machine learning scheme creates up to 80x smaller logical rules, benefitting hardware efficiency and interpretability.](https://www.reddit.com/r/MachineLearning/comments/10holgp/r_new_tsetlin_machine_learning_scheme_creates_up/)
-- [[P] Using my wife&#39;s photos to finetune an SD 768x768 2.1v model and experimented with iconic movie characters](https://www.reddit.com/r/MachineLearning/comments/10hlrlr/p_using_my_wifes_photos_to_finetune_an_sd_768x768/)
 - [[P]Federated learning on edge devices](https://www.reddit.com/r/MachineLearning/comments/10hlp2r/pfederated_learning_on_edge_devices/)
+- [[D] Object detection or image classification? Training a model to recognize playing cards](https://www.reddit.com/r/MachineLearning/comments/10hcd6g/d_object_detection_or_image_classification/)
+- [[D] Generate data that is not a dataset](https://www.reddit.com/r/MachineLearning/comments/10haggt/d_generate_data_that_is_not_a_dataset/)
+- [[D] Not sure if time series or multiple classifications?](https://www.reddit.com/r/MachineLearning/comments/10ha8gp/d_not_sure_if_time_series_or_multiple/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
