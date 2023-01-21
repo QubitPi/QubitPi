@@ -298,7 +298,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Badminton analysis using video input](https://www.reddit.com/r/MachineLearning/comments/10hs5zo/d_badminton_analysis_using_video_input/)
 - [[R] New Tsetlin machine learning scheme creates up to 80x smaller logical rules, benefitting hardware efficiency and interpretability.](https://www.reddit.com/r/MachineLearning/comments/10holgp/r_new_tsetlin_machine_learning_scheme_creates_up/)
 - [[P]Federated learning on edge devices](https://www.reddit.com/r/MachineLearning/comments/10hlp2r/pfederated_learning_on_edge_devices/)
-- [[D] Object detection or image classification? Training a model to recognize playing cards](https://www.reddit.com/r/MachineLearning/comments/10hcd6g/d_object_detection_or_image_classification/)
+- [[D] Generate data that is not a dataset](https://www.reddit.com/r/MachineLearning/comments/10haggt/d_generate_data_that_is_not_a_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
