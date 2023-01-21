@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [🎯 Importing your data into @Neo4j just got even easier — without writing a single line of code! #Neo4j #Data #SQL #GraphDatabase](https://twitter.com/neo4j/status/1616887625574486027)
 - [Get started with Graphs with Meet Shah! Take a look at his technical overview and tutorial--&gt; #Neo4j #GraphDatabase](https://twitter.com/neo4j/status/1616797798824910850)
 - [#Cypher 🤔 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of the graph. Read t...](https://twitter.com/neo4j/status/1616527261905158148)
 - [RT Chris Vela: Love a fun graph to mess with! #neo4j #graphs #Cypher](https://twitter.com/velaraptor/status/1616495386322997254)
 - [Download @lyonwj&#39;s e-book &quot;Fullstack GraphQL Applications&quot; for FREE and find out more! #GraphQL #Neo4j](https://twitter.com/neo4j/status/1616450597581889537)
-- [You’ve heard about graph database technology and want to know what all the buzz is about? 🙃 Take a look at this blog by Bryce Merkl Sasaki, Editor...](https://twitter.com/neo4j/status/1616429357651709954)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
