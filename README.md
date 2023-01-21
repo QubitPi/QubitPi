@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Machine Learning Q and AI -- Expand your machine learning &amp; AI knowledge with 30 questions and answers &lpar;for people with intermediate to advanced ML knowledge&rpar;](https://www.reddit.com/r/MachineLearning/comments/10hue4e/p_machine_learning_q_and_ai_expand_your_machine/)
 - [ChatGPT is not all you need [R]](https://www.reddit.com/r/MachineLearning/comments/10htfwp/chatgpt_is_not_all_you_need_r/)
 - [[D] OCR on some &#39;X&#39; domain with different document layouts](https://www.reddit.com/r/MachineLearning/comments/10ht9ua/d_ocr_on_some_x_domain_with_different_document/)
 - [[D] Resources for best practices on translating business questions into aggregated datasets?](https://www.reddit.com/r/MachineLearning/comments/10hs96x/d_resources_for_best_practices_on_translating/)
 - [[D] Badminton analysis using video input](https://www.reddit.com/r/MachineLearning/comments/10hs5zo/d_badminton_analysis_using_video_input/)
-- [[R] New Tsetlin machine learning scheme creates up to 80x smaller logical rules, benefitting hardware efficiency and interpretability.](https://www.reddit.com/r/MachineLearning/comments/10holgp/r_new_tsetlin_machine_learning_scheme_creates_up/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
