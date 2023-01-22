@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Evaluation for similarity search [P]](https://www.reddit.com/r/MachineLearning/comments/10iucs0/evaluation_for_similarity_search_p/)
 - [[D] Multiple Different GPUs?](https://www.reddit.com/r/MachineLearning/comments/10ir1su/d_multiple_different_gpus/)
 - [[P] Benchmarking some PyTorch Inference Servers](https://www.reddit.com/r/MachineLearning/comments/10iqeuh/p_benchmarking_some_pytorch_inference_servers/)
 - [[R] Isotropic Linear diffusion smoothing](https://www.reddit.com/r/MachineLearning/comments/10iq9w0/r_isotropic_linear_diffusion_smoothing/)
 - [[D] ML approach/model suggestion for low regime tabular data ?](https://www.reddit.com/r/MachineLearning/comments/10io3sf/d_ml_approachmodel_suggestion_for_low_regime/)
-- [[D] EACL 2023 discussion results thread](https://www.reddit.com/r/MachineLearning/comments/10ilc7n/d_eacl_2023_discussion_results_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
