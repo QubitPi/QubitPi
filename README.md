@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753859540561166375><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04973934168d03e6f0ba3dcc36eb177a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753954570970857521><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/45f6e4528e358c61b1ec961fcbc5eaa4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [​互动抽奖 #原神# #明霄幻梦# 《原神》海灯节CM短片：明霄幻梦 现已发布～ https://www.bilibili.com/video/BV1jR4y1Y76v 万千灯火汇作明霄，万千的梦汇成此刻...](https://t.bilibili.com/753954570970857521)
