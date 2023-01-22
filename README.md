@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Azure machine learning](https://www.reddit.com/r/MachineLearning/comments/10ii8jk/d_azure_machine_learning/)
-- [ChatGPT + Wolfram Alpha: A Super Powerful Assistant [News]](https://www.reddit.com/r/MachineLearning/comments/10igjye/chatgpt_wolfram_alpha_a_super_powerful_assistant/)
-- [Beyond neural scaling law [R]](https://www.reddit.com/r/MachineLearning/comments/10ifr9b/beyond_neural_scaling_law_r/)
-- [[P] Interpretation of Movies](https://www.reddit.com/r/MachineLearning/comments/10ieukq/p_interpretation_of_movies/)
 - [[P] Introducing deadlines.openlifescience.ai - A website to easily track healthcare conference and workshop deadlines, with integrated Google Calendar notifications.](https://www.reddit.com/r/MachineLearning/comments/10i1qzm/p_introducing_deadlinesopenlifescienceai_a/)
+- [framework for training an object keypoint / pose detection CNN model for flexible robot arm [P]](https://www.reddit.com/r/MachineLearning/comments/10hx619/framework_for_training_an_object_keypoint_pose/)
+- [[D] [R] Curious about Computer Vision to time series images&lpar;for example periodic satellite images of a region&rpar;, what paper did you find most exciting/informative ?](https://www.reddit.com/r/MachineLearning/comments/10huxzg/d_r_curious_about_computer_vision_to_time_series/)
+- [ChatGPT is not all you need [R]](https://www.reddit.com/r/MachineLearning/comments/10htfwp/chatgpt_is_not_all_you_need_r/)
+- [[D] OCR on some &#39;X&#39; domain with different document layouts](https://www.reddit.com/r/MachineLearning/comments/10ht9ua/d_ocr_on_some_x_domain_with_different_document/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
