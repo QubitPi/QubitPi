@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [What is a #graphdatabase, you ask? 🥑 Our latest white paper explores a graph database and why it can benefit your use case. Download for even more ...](https://twitter.com/arangodb/status/1617129968709804033)
 - [Fire up the second half of your week by adding the ArangoDB Certification Exam to your schedule. Test your knowledge, complete the certification exami...](https://twitter.com/arangodb/status/1616812877884661762)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1616541105796907027)
 - [We are #hiring! Join Team Avocado as our next Frontend Engineer. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1616405247534010368)
 - [Come hang out with ArangoDB this February! 🥑 Learn more about fastgraphml with ArangoDB on February 15th, 2023, with Senior Machine Learning Resear...](https://twitter.com/arangodb/status/1616178690861268992)
-- [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1616042812243329024)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
