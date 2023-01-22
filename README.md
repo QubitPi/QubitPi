@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#NeoDash is an open-source dashboard builder for Neo4j. ✨ As part of Neo4j Labs, you can use NeoDash for free in Neo4j Desktop to render force-direct...](https://twitter.com/neo4j/status/1617250011217010691)
 - [👉 6 Steps to Activate the Value of Text to Graph Machine Learning Systems by Data Scientist, Sean Robinson. #ML #DataScience #Neo4j](https://twitter.com/neo4j/status/1617204979697164288)
 - [🎯 Importing your data into @Neo4j just got even easier — without writing a single line of code! #Neo4j #Data #SQL #GraphDatabase](https://twitter.com/neo4j/status/1616887625574486027)
 - [Get started with Graphs with Meet Shah! Take a look at his technical overview and tutorial--&gt; #Neo4j #GraphDatabase](https://twitter.com/neo4j/status/1616797798824910850)
 - [#Cypher 🤔 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of the graph. Read t...](https://twitter.com/neo4j/status/1616527261905158148)
+- [RT Chris Vela: Love a fun graph to mess with! #neo4j #graphs #Cypher](https://twitter.com/velaraptor/status/1616495386322997254)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
