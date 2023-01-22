@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ #memgr...](https://twitter.com/memgraphdb/status/1617208475150417923)
+- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1617201927829209093)
 - [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. Learn more about breadth-fir...](https://twitter.com/memgraphdb/status/1617163678079500289)
 - [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1617162168155226112)
 - [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1617154364757401600)
-- [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1617136750794575872)
-- [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1617133481393377286)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
