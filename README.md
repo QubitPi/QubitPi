@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] This video was fully created using AI. Images - Midjourney. Animation of peoples is D_ID. The Text is ChatGPT. The voiceover is by Play.HT. The Music is AIVA](https://www.reddit.com/r/MachineLearning/comments/10iti27/r_this_video_was_fully_created_using_ai_images/)
+- [[P] Tracking players in FIFA Volta on the PlayStation 4 using NVIDIA Jetson Xavier](https://www.reddit.com/r/MachineLearning/comments/10itgl1/p_tracking_players_in_fifa_volta_on_the/)
 - [[D] Multiple Different GPUs?](https://www.reddit.com/r/MachineLearning/comments/10ir1su/d_multiple_different_gpus/)
 - [[P] Benchmarking some PyTorch Inference Servers](https://www.reddit.com/r/MachineLearning/comments/10iqeuh/p_benchmarking_some_pytorch_inference_servers/)
 - [[R] Isotropic Linear diffusion smoothing](https://www.reddit.com/r/MachineLearning/comments/10iq9w0/r_isotropic_linear_diffusion_smoothing/)
-- [[D] ML approach/model suggestion for low regime tabular data ?](https://www.reddit.com/r/MachineLearning/comments/10io3sf/d_ml_approachmodel_suggestion_for_low_regime/)
-- [[R] ICML word template](https://www.reddit.com/r/MachineLearning/comments/10in9e9/r_icml_word_template/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
