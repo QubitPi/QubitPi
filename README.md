@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ML approach/model suggestion for low regime tabular data ?](https://www.reddit.com/r/MachineLearning/comments/10io3sf/d_ml_approachmodel_suggestion_for_low_regime/)
 - [[R] ICML word template](https://www.reddit.com/r/MachineLearning/comments/10in9e9/r_icml_word_template/)
 - [[P] Semantic search of Andrew Huberman corpus](https://www.reddit.com/r/MachineLearning/comments/10imv0a/p_semantic_search_of_andrew_huberman_corpus/)
 - [[D] EACL 2023 discussion results thread](https://www.reddit.com/r/MachineLearning/comments/10ilc7n/d_eacl_2023_discussion_results_thread/)
 - [[D] Couldn&#39;t devs of major GPTs have added an invisible but detectable watermark in the models?](https://www.reddit.com/r/MachineLearning/comments/10ijzi2/d_couldnt_devs_of_major_gpts_have_added_an/)
-- [[D]How do commercial AI models-as-a-service use data that users prompt into it?](https://www.reddit.com/r/MachineLearning/comments/10ids8d/dhow_do_commercial_ai_modelsasaservice_use_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
