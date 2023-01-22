@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Would it be possible to involve a proof assistant in the process of training a LLM?](https://www.reddit.com/r/MachineLearning/comments/10i4t17/d_would_it_be_possible_to_involve_a_proof/)
 - [[P] Introducing deadlines.openlifescience.ai - A website to easily track healthcare conference and workshop deadlines, with integrated Google Calendar notifications.](https://www.reddit.com/r/MachineLearning/comments/10i1qzm/p_introducing_deadlinesopenlifescienceai_a/)
 - [framework for training an object keypoint / pose detection CNN model for flexible robot arm [P]](https://www.reddit.com/r/MachineLearning/comments/10hx619/framework_for_training_an_object_keypoint_pose/)
 - [[D] [R] Curious about Computer Vision to time series images&lpar;for example periodic satellite images of a region&rpar;, what paper did you find most exciting/informative ?](https://www.reddit.com/r/MachineLearning/comments/10huxzg/d_r_curious_about_computer_vision_to_time_series/)
 - [ChatGPT is not all you need [R]](https://www.reddit.com/r/MachineLearning/comments/10htfwp/chatgpt_is_not_all_you_need_r/)
+- [[D] OCR on some &#39;X&#39; domain with different document layouts](https://www.reddit.com/r/MachineLearning/comments/10ht9ua/d_ocr_on_some_x_domain_with_different_document/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
