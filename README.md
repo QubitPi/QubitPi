@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [NEW Free Educational AI &amp; ML Instructional Video Content[D]](https://www.reddit.com/r/MachineLearning/comments/10j1afk/new_free_educational_ai_ml_instructional_video/)
 - [[R] Learning-Rate-Free Learning by D-Adaptation](https://www.reddit.com/r/MachineLearning/comments/10iywys/r_learningratefree_learning_by_dadaptation/)
 - [Large Language Model: world models or surface statistics? [R]](https://www.reddit.com/r/MachineLearning/comments/10iyn6x/large_language_model_world_models_or_surface/)
 - [[D] With more compute could it be easy to quickly un Mask all the people on Reddit by using text correlations to non masked publicly available text data?](https://www.reddit.com/r/MachineLearning/comments/10ixiu6/d_with_more_compute_could_it_be_easy_to_quickly/)
 - [[R] [ICLR&#39;2023 Spotlight🌟]: The first BERT-style pretraining on CNNs!](https://www.reddit.com/r/MachineLearning/comments/10ix0l1/r_iclr2023_spotlight_the_first_bertstyle/)
+- [ICML 2023 withdrawal and public review rules [D]](https://www.reddit.com/r/MachineLearning/comments/10iwrdq/icml_2023_withdrawal_and_public_review_rules_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
