@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/753954570970857521><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/45f6e4528e358c61b1ec961fcbc5eaa4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [​互动抽奖 #原神# #磬弦奏华夜# 留云真君说她做了拿手好菜，叫我们多吃些。 关注@原神 并转发，我们将随机抽选10位旅行者赠送【488元新春礼金】1份。](https://t.bilibili.com/754230634299261161)
 - [​互动抽奖 #原神# #明霄幻梦# 《原神》海灯节CM短片：明霄幻梦 现已发布～ https://www.bilibili.com/video/BV1jR4y1Y76v 万千灯火汇作明霄，万千的梦汇成此刻...](https://t.bilibili.com/753954570970857521)
 - [《原神》海灯节CM短片：明霄幻梦](https://t.bilibili.com/753952522282991638)
 - [互动抽奖 #原神# #磬弦奏华夜# 好像…忘了什么。唔，不重要。烟花，真好看。 关注@原神 并转发，我们将随机抽选10位旅行者赠送【388元新春礼金】1份。](https://t.bilibili.com/753859540561166375)
 - [互动抽奖 #原神# #新春快乐# “啊，我的虾饺！你又吓我——罚你明天给我带十份酿梅花！” “好好好，二十份都没问题~！但你先拦住锅巴，感觉锅巴等会儿要来找我...](https://t.bilibili.com/753618090359521318)
-- [互动抽奖 #原神# #磬弦奏华夜# 《原神》磬弦奏华夜活动过场动画-「虹歌灯宴」现已发布~ https://www.bilibili.com/video/BV1dM411t7Ls 新岁新象，挚友挚愿。 在...](https://t.bilibili.com/753597994211737605)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
