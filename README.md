@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1617478505985449988)
+- [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! #memgraph #database ...](https://twitter.com/memgraphdb/status/1617472715325116416)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1617460634437783553)
 - [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1617443269503340544)
 - [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. #...](https://twitter.com/memgraphdb/status/1617432019968950272)
-- [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1617417348914335746)
-- [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1617411561433227265)
-- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1617407787536982016)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
