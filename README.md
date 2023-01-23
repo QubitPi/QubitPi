@@ -478,7 +478,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [GraphQL Book Club - Chapter 8: Deploying Our Full Stack GraphQL Application](https://www.youtube.com/watch?v=rPlYywoN1EE)
 - [GraphQL Book Club - Chapter 7: Adding Authorization And Authentication](https://www.youtube.com/watch?v=WrWbGml-7x8)
 - [Neo4j Live: Porting Global-Chem Graph Infrastructure into Neo4j](https://www.youtube.com/watch?v=PSrrVOjnijA)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=bxuozmbPCWI)
+- [Museum of Modern Art - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=bxuozmbPCWI)
 - [Neo4j Live: Wardley Mapping with Neo4j](https://www.youtube.com/watch?v=UKvjYZ2kiNY)
 <!-- NEO4J-YOUTUBE:END -->
 
