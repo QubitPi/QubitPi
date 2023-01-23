@@ -505,11 +505,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Interested in the Foundation Grants Program and how it works? Check the interview with @BillLaboon, Head of Education and Grants at W3F, to learn abou...](https://twitter.com/Web3foundation/status/1617504052237008897)
 - [Hear Web3 Foundation&#39;s @BillLaboon discuss the educational resources, grants for new project developments, and other Foundation initiatives, as well a...](https://twitter.com/Web3foundation/status/1613932872250826753)
 - [Re Signatures are still being collected from other projects and organizations ready to join the call to defend privacy. To read the full letter:](https://twitter.com/Web3foundation/status/1613552063220178944)
 - [Re Protecting the privacy of people is key to ensuring the rights that compose the core of democracy. We at the Foundation hope that incoming lawmaker...](https://twitter.com/Web3foundation/status/1613552061219495936)
 - [Re Organized by @fightfortheftr &amp; signed by privacy-preserving projects including @Polkadot parachain @MantaNetwork, the call comes as an open letter ...](https://twitter.com/Web3foundation/status/1613552059080400896)
-- [Web3 Foundation believes the right to privacy and the right to code are essential for building a better web and achieving a more secure digital future...](https://twitter.com/Web3foundation/status/1613552057046241280)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
