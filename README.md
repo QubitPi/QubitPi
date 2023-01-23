@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Robust Policy Optimization is now in CleanRL 🔥!](https://www.reddit.com/r/MachineLearning/comments/10jgs8l/p_robust_policy_optimization_is_now_in_cleanrl/)
 - [[R] DeepMind: Neural Networks And The Chomsky Hierarchy](https://www.reddit.com/r/MachineLearning/comments/10ja0gg/r_deepmind_neural_networks_and_the_chomsky/)
 - [[D] An information perspective on brain](https://www.reddit.com/r/MachineLearning/comments/10j9lkm/d_an_information_perspective_on_brain/)
 - [[R] Learning-Rate-Free Learning by D-Adaptation](https://www.reddit.com/r/MachineLearning/comments/10iywys/r_learningratefree_learning_by_dadaptation/)
 - [Large Language Model: world models or surface statistics? [R]](https://www.reddit.com/r/MachineLearning/comments/10iyn6x/large_language_model_world_models_or_surface/)
-- [[D] With more compute could it be easy to quickly un Mask all the people on Reddit by using text correlations to non masked publicly available text data?](https://www.reddit.com/r/MachineLearning/comments/10ixiu6/d_with_more_compute_could_it_be_easy_to_quickly/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
