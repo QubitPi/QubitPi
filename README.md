@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] An information perspective on brain](https://www.reddit.com/r/MachineLearning/comments/10j9lkm/d_an_information_perspective_on_brain/)
 - [[D] Do you think natural language processing will make shopping filters obsolete?](https://www.reddit.com/r/MachineLearning/comments/10j7whv/d_do_you_think_natural_language_processing_will/)
 - [[R] Learning-Rate-Free Learning by D-Adaptation](https://www.reddit.com/r/MachineLearning/comments/10iywys/r_learningratefree_learning_by_dadaptation/)
 - [Large Language Model: world models or surface statistics? [R]](https://www.reddit.com/r/MachineLearning/comments/10iyn6x/large_language_model_world_models_or_surface/)
 - [[D] With more compute could it be easy to quickly un Mask all the people on Reddit by using text correlations to non masked publicly available text data?](https://www.reddit.com/r/MachineLearning/comments/10ixiu6/d_with_more_compute_could_it_be_easy_to_quickly/)
-- [[R] [ICLR&#39;2023 Spotlight🌟]: The first BERT-style pretraining on CNNs!](https://www.reddit.com/r/MachineLearning/comments/10ix0l1/r_iclr2023_spotlight_the_first_bertstyle/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
