@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Learn about three different applications of data science in health care today. This post explores data analytics, examples of how it applies to health...](https://twitter.com/arangodb/status/1617628249374220291)
 - [Decoded Health has improved access to care, patient outcomes, and physician productivity by leveraging graph-based machine learning. Learn how ArangoD...](https://twitter.com/arangodb/status/1617492384861782016)
 - [Fire up the second half of your week by adding the ArangoDB Certification Exam to your schedule. Test your knowledge, complete the certification exami...](https://twitter.com/arangodb/status/1616812877884661762)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1616541105796907027)
 - [We are #hiring! Join Team Avocado as our next Frontend Engineer. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1616405247534010368)
+- [Come hang out with ArangoDB this February! 🥑 Learn more about fastgraphml with ArangoDB on February 15th, 2023, with Senior Machine Learning Resear...](https://twitter.com/arangodb/status/1616178690861268992)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
