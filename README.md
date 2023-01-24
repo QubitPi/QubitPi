@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1617933246355865628)
-- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. #memgraph #dat...](https://twitter.com/memgraphdb/status/1617924941893992450)
-- [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1617906824950300674)
-- [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. #memgraph #database #graphdataba...](https://twitter.com/memgraphdb/status/1617899528312524800)
 - [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. #memgraph...](https://twitter.com/memgraphdb/status/1617888457975537664)
+- [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1617859010228527105)
+- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1617858254775750656)
+- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #database #graphdatabase #memgr...](https://twitter.com/memgraphdb/status/1617835100774744069)
+- [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1617818490852737024)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
