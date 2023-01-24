@@ -294,7 +294,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] CPU for ML Workstation - AMD 7950x vs Intel 13900K](https://www.reddit.com/r/MachineLearning/comments/10kiq7r/d_cpu_for_ml_workstation_amd_7950x_vs_intel_13900k/)
+- [[D] are two linear layers better than one?](https://www.reddit.com/r/MachineLearning/comments/10kjhhb/d_are_two_linear_layers_better_than_one/)
 - [H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! In H3, the researchers replace attention with a new layer based on state space models &lpar;SSMs&rpar;. With the right modifications, it can outperform transformers. Also has no fixed context length.](https://www.reddit.com/r/MachineLearning/comments/10kdeex/h3_a_new_generative_language_models_that/)
 - [[D] ICLR de-anonymization vs ICML dual submission rules](https://www.reddit.com/r/MachineLearning/comments/10kbgdf/d_iclr_deanonymization_vs_icml_dual_submission/)
 - [[D] CVPR Reviews are out](https://www.reddit.com/r/MachineLearning/comments/10kbey9/d_cvpr_reviews_are_out/)
