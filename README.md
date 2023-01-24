@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/754602252052725810><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c7c2402c1bf00157818fc1b6a2a0359a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/754632634648232006><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/07bf7c4c2899cb1c492fded9b9d813a1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@崩3第一偶像爱莉希雅@夏木今晚看什么@晓梦彡凌等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/754632634648232006)
