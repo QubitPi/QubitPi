@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#Graphdatabases can provide an excellent alternative to both SQL and other NoSQL databases when building consumer products. Learn how to get started w...](https://twitter.com/neo4j/status/1617854883230531584)
 - [RT Sefik Ilkin Serengil: Celebrity Look-Alike Prediction with DeepFace #python #deepface #machinelearning #deeplearning #computervision #imageprocessi...](https://twitter.com/serengil/status/1617630697065447425)
 - [The first meetup of Graph Database Delhi/NCR powered by #Neo4j was a huge success! 💥 +50 great graphistas joined in our mission to make graph datab...](https://twitter.com/neo4j/status/1617628334157881365)
 - [Re @DXCTechnology uses a combination of the Neo4j #GraphDatabase and the #GraphDataScience Library for its Career Navigator platform. &quot;Being able to a...](https://twitter.com/neo4j/status/1617538308531183617)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1617533897721663489)
+- [&quot;Proper modeling of a graph database may be challenging. Luckily, nowadays, we can use tools like ChatGPT that can help us to model our data&quot; Learn ho...](https://twitter.com/neo4j/status/1617492435596181505)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
