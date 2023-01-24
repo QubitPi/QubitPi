@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Jason Koo: I’ll be doing a lightning talk about the Mock Graph Data generator I made with #streamlit this Thursday. SD Monthly Python Meetup](https://twitter.com/jalakoo/status/1617994399228608512)
 - [Go Driver, JavaScript Driver, Java Driver, .NET Driver, and Python Driver... the drivers that facilitate the use of #Neo4j ... check out how: #Java #D...](https://twitter.com/neo4j/status/1617959449544560657)
 - [Neo4j Live: Porting Global-Chem Graph Infrastructure into Neo4j @SulimanSharif6](https://twitter.com/neo4j/status/1617911458544881664)
 - [&quot;In this blog, I will be discussing the path that I followed and hope it would be helpful for someone who is interested in similar technologies.&quot; Eran...](https://twitter.com/neo4j/status/1617899802494124032)
 - [#Graphdatabases can provide an excellent alternative to both SQL and other NoSQL databases when building consumer products. Learn how to get started w...](https://twitter.com/neo4j/status/1617854883230531584)
-- [RT Sefik Ilkin Serengil: Celebrity Look-Alike Prediction with DeepFace #python #deepface #machinelearning #deeplearning #computervision #imageprocessi...](https://twitter.com/serengil/status/1617630697065447425)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
