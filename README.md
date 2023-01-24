@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. #memgraph...](https://twitter.com/memgraphdb/status/1617888457975537664)
 - [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1617859010228527105)
 - [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1617858254775750656)
 - [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #database #graphdatabase #memgr...](https://twitter.com/memgraphdb/status/1617835100774744069)
 - [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1617818490852737024)
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1617773947860180992)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
