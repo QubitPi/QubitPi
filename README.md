@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! In H3, the researchers replace attention with a new layer based on state space models &lpar;SSMs&rpar;. With the right modifications, it can outperform transformers. Also has no fixed context length.](https://www.reddit.com/r/MachineLearning/comments/10kdeex/h3_a_new_generative_language_models_that/)
 - [[D] ICLR de-anonymization vs ICML dual submission rules](https://www.reddit.com/r/MachineLearning/comments/10kbgdf/d_iclr_deanonymization_vs_icml_dual_submission/)
 - [[D] CVPR Reviews are out](https://www.reddit.com/r/MachineLearning/comments/10kbey9/d_cvpr_reviews_are_out/)
 - [[D] Using all features in DNN instead of doing feature selection separately?](https://www.reddit.com/r/MachineLearning/comments/10k80os/d_using_all_features_in_dnn_instead_of_doing/)
 - [[D] What file format do you use for &gt; RAM data?](https://www.reddit.com/r/MachineLearning/comments/10k6xgs/d_what_file_format_do_you_use_for_ram_data/)
-- [[P] Machine Learning Threat Detection in k8s](https://www.reddit.com/r/MachineLearning/comments/10k60ol/p_machine_learning_threat_detection_in_k8s/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
