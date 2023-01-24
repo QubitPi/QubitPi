@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1617773947860180992)
+- [✨ Memgraph prepared another magic spell to continue the graph machine learning story. It is time to bring more great graph neural network &lpar;GNN&rpar; model...](https://twitter.com/memgraphdb/status/1617770172223262720)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1617766403582328838)
 - [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1617568302452162566)
 - [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1617544435788546052)
-- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher](https://twitter.com/memgraphdb/status/1617526065127370755)
-- [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1617516753994514432)
-- [Sign up for the #Memgraph #Webinar &quot;Real-Time Graph Analytics Webinar&quot;. You will earn: - When to use graph analytics? - When to use a graph database? ...](https://twitter.com/memgraphdb/status/1617496622476165120)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
