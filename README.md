@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Is it worth it to learn and use Large Language Models as a software developer?](https://www.reddit.com/r/MachineLearning/comments/10knbnf/discussion_is_it_worth_it_to_learn_and_use_large/)
 - [[R] Easiest way to train RNN&#39;s in MATLAB or Julia?](https://www.reddit.com/r/MachineLearning/comments/10kmc7n/r_easiest_way_to_train_rnns_in_matlab_or_julia/)
 - [Can an AI model licensed under the BigScience RAIL License v1.0 such as BLOOM be used in a program that is useful for any domain? [D]](https://www.reddit.com/r/MachineLearning/comments/10kl8y9/can_an_ai_model_licensed_under_the_bigscience/)
 - [H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! In H3, the researchers replace attention with a new layer based on state space models &lpar;SSMs&rpar;. With the right modifications, it can outperform transformers. Also has no fixed context length.](https://www.reddit.com/r/MachineLearning/comments/10kdeex/h3_a_new_generative_language_models_that/)
 - [[D] ICLR de-anonymization vs ICML dual submission rules](https://www.reddit.com/r/MachineLearning/comments/10kbgdf/d_iclr_deanonymization_vs_icml_dual_submission/)
+- [[D] CVPR Reviews are out](https://www.reddit.com/r/MachineLearning/comments/10kbey9/d_cvpr_reviews_are_out/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
