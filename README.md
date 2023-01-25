@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Accurate data or more data?](https://www.reddit.com/r/MachineLearning/comments/10l0nya/d_accurate_data_or_more_data/)
 - [[R] Best service for scientific paper correction](https://www.reddit.com/r/MachineLearning/comments/10kzfwm/r_best_service_for_scientific_paper_correction/)
 - [[D]Are there any known AI systems today that are significantly more advanced than chatGPT ?](https://www.reddit.com/r/MachineLearning/comments/10kyuhn/dare_there_any_known_ai_systems_today_that_are/)
 - [[D] Self-Supervised Contrastive Approaches that don’t use large batch size.](https://www.reddit.com/r/MachineLearning/comments/10ky2oh/d_selfsupervised_contrastive_approaches_that_dont/)
 - [[R] Tsetlin Machine in Medical Research - Striking Differences Between Tsetlin Machine Interpretability and Deep Learning Attention](https://www.reddit.com/r/MachineLearning/comments/10kw6ob/r_tsetlin_machine_in_medical_research_striking/)
-- [[R] INSTRUCTOR One Embedder , Any Task: Instruction-Finetuned Text Embeddings Paper Explanation and Collab Demo](https://www.reddit.com/r/MachineLearning/comments/10ksetd/r_instructor_one_embedder_any_task/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
