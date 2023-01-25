@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which Text To Speech is this? Been looking everywhere](https://www.reddit.com/r/MachineLearning/comments/10l71bh/d_which_text_to_speech_is_this_been_looking/)
 - [[N] Finding Data Science Jobs: Expedite Your Search With These 10 Quick Wins](https://www.reddit.com/r/MachineLearning/comments/10l4lvl/n_finding_data_science_jobs_expedite_your_search/)
 - [[D] Efficient retrieval of research information for graduate research](https://www.reddit.com/r/MachineLearning/comments/10l1a5s/d_efficient_retrieval_of_research_information_for/)
 - [[D] Accurate data or more data?](https://www.reddit.com/r/MachineLearning/comments/10l0nya/d_accurate_data_or_more_data/)
 - [[R] Best service for scientific paper correction](https://www.reddit.com/r/MachineLearning/comments/10kzfwm/r_best_service_for_scientific_paper_correction/)
-- [[D]Are there any known AI systems today that are significantly more advanced than chatGPT ?](https://www.reddit.com/r/MachineLearning/comments/10kyuhn/dare_there_any_known_ai_systems_today_that_are/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
