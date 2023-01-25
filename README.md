@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Stats for CVPR 2023 reviews](https://www.reddit.com/r/MachineLearning/comments/10l8qas/d_stats_for_cvpr_2023_reviews/)
 - [[D] Efficient retrieval of research information for graduate research](https://www.reddit.com/r/MachineLearning/comments/10l1a5s/d_efficient_retrieval_of_research_information_for/)
 - [[D] Accurate data or more data?](https://www.reddit.com/r/MachineLearning/comments/10l0nya/d_accurate_data_or_more_data/)
 - [[R] Best service for scientific paper correction](https://www.reddit.com/r/MachineLearning/comments/10kzfwm/r_best_service_for_scientific_paper_correction/)
 - [[D] Self-Supervised Contrastive Approaches that don’t use large batch size.](https://www.reddit.com/r/MachineLearning/comments/10ky2oh/d_selfsupervised_contrastive_approaches_that_dont/)
-- [[R] Tsetlin Machine in Medical Research - Striking Differences Between Tsetlin Machine Interpretability and Deep Learning Attention](https://www.reddit.com/r/MachineLearning/comments/10kw6ob/r_tsetlin_machine_in_medical_research_striking/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
