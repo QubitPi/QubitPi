@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1618250840845783040)
-- [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1618248322388561924)
-- [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1618241529327325184)
-- [The world of version control is getting more interesting each day. Learn what #Git, #GitHub, and #GitHubCLI have in common and master version control!...](https://twitter.com/memgraphdb/status/1618221397909594113)
 - [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1618203278847746048)
+- [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️](https://twitter.com/memgraphdb/status/1618197489739304960)
+- [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1618185408805830657)
+- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1618145394558369794)
+- [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1618136334538792962)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
