@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1618293127063666690)
 - [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1618269210701856768)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1618250840845783040)
 - [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1618248322388561924)
 - [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1618241529327325184)
-- [The world of version control is getting more interesting each day. Learn what #Git, #GitHub, and #GitHubCLI have in common and master version control!...](https://twitter.com/memgraphdb/status/1618221397909594113)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
