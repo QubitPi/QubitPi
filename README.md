@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [GraphQL Book Club - Chapter 8: Deploying Our Full Stack GraphQL Application](https://www.youtube.com/watch?v=rPlYywoN1EE)
 - [Neo4j Live: Graph Data Processing with Cypher](https://www.youtube.com/watch?v=X9izvIMlvk0)
 - [Neo4j Live: Crossr - Knowledge Graph based Drug Discovery](https://www.youtube.com/watch?v=rp_MxJXvK60)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=kKlUz_Vt1MM)
 - [Neo4j Live: Porting Global-Chem Graph Infrastructure into Neo4j](https://www.youtube.com/watch?v=PSrrVOjnijA)
-- [Museum of Modern Art - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=bxuozmbPCWI)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
