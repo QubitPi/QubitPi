@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Alphatensor benchmark code in Colab](https://www.reddit.com/r/MachineLearning/comments/10lc538/d_alphatensor_benchmark_code_in_colab/)
 - [[D] Publication Resume](https://www.reddit.com/r/MachineLearning/comments/10l9zly/d_publication_resume/)
 - [[R] Blogpost on comparing Chatbots like ChatGPT, LaMDA, Sparrow, BlenderBot 3, and Claude](https://www.reddit.com/r/MachineLearning/comments/10l9tet/r_blogpost_on_comparing_chatbots_like_chatgpt/)
 - [[D] Efficient retrieval of research information for graduate research](https://www.reddit.com/r/MachineLearning/comments/10l1a5s/d_efficient_retrieval_of_research_information_for/)
 - [[D] Accurate data or more data?](https://www.reddit.com/r/MachineLearning/comments/10l0nya/d_accurate_data_or_more_data/)
-- [[R] Best service for scientific paper correction](https://www.reddit.com/r/MachineLearning/comments/10kzfwm/r_best_service_for_scientific_paper_correction/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
