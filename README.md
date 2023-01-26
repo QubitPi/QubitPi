@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [We Wish You a Happy Year of the Rabbit!](https://superuser.openstack.org/articles/we-wish-you-a-happy-year-of-the-rabbit/)
 - [Large Scale Ops Deep Dive: Ubisoft | OpenInfra Live Recap](https://superuser.openstack.org/articles/large-scale-deep-dive-ubisoft/)
 - [Inside Open Infrastructure: The Latest from the OpenInfra Foundation](https://superuser.openstack.org/articles/openinfra-newsletter-52/)
 - [CSC | An OpenStack Case Study](https://superuser.openstack.org/articles/csc-an-openstack-case-study/)
 - [Distributing OpenStack Architecture with BGP and Kubernetes Integration | OpenInfra Live Recap](https://superuser.openstack.org/articles/distributing-openstack-architecture-with-bgp-and-kubernetes-integration/)
-- [OpenStack Firewall as a Service &lpar;FWaaS&rpar;—the Basics and a Quick Tutorial](https://superuser.openstack.org/articles/openstack-firewall-as-a-service-fwaas-the-basics-and-a-quick-tutorial/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
