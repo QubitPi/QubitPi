@@ -241,11 +241,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/755003724118622422><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/042656d66929dfaebb3a84fabd29d10b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [​互动抽奖 #原神# #磬弦奏华夜# 魈上仙辛苦了。粗茶淡饭，招待不周，还请多担待。 关注@原神 并转发，我们将随机抽选10位旅行者赠送【788元新春礼金】1份。](https://t.bilibili.com/755343889826578457)
 - [恭喜@可时@枫汐_satellite@毛志强等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/755003724118622422)
 - [互动抽奖 #原神# #磬弦奏华夜# 咻~啪！玉衡星大人又在工作呀，过节也该放松一下嘛~ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【688元新春礼金】1份。](https://t.bilibili.com/754972817525571682)
 - [恭喜@崩3第一偶像爱莉希雅@夏木今晚看什么@晓梦彡凌等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/754632634648232006)
 - [互动抽奖 #原神# #流光拾遗之旅# 《原神》「流光拾遗之旅」——仙闻篇·木版年画 现已发布~ https://www.bilibili.com/video/BV11R4y187kj 曾跟随岩王帝君镇灭妖...](https://t.bilibili.com/754604296481276054)
-- [互动抽奖 #原神# #磬弦奏华夜# 我又有灵感了！下一曲摇滚就和云堇的戏曲结合怎么样！ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【588元新春礼金】1份。](https://t.bilibili.com/754603239882621031)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
