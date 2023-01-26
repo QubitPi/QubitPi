@@ -465,11 +465,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Tom Nijhof, biomedical engineer, explores a chemical graph database with #NeoDash. With an input field and a result field, the addition of a full quer...](https://twitter.com/neo4j/status/1618700323572293677)
 - [✅ ATTENTION! During this webinar, you&#39;ll learn how to use #GraphQL, React, Node.js, and #Neo4j to build and deploy complex, data-intensive full-stack...](https://twitter.com/neo4j/status/1618579639558983681)
 - [🤔🤔If we have an existing #Neo4j database, we can use the ____ package to generate GraphQL type definitions and a GraphQL API on top of the exist...](https://twitter.com/neo4j/status/1618294181700734976)
 - [GraphQL Book Club - Chapter 8: Deploying Our Full Stack GraphQL Application @lyonwj #graphql](https://twitter.com/neo4j/status/1618258794445930496)
 - [What an awesome video from @fireship_dev So impressive how he put together a very concise #Neo4j explainer. If you use Neo4j and your family and frien...](https://twitter.com/neo4j/status/1618175527562670080)
-- [RT Jason Koo: I’ll be doing a lightning talk about the Mock Graph Data generator I made with #streamlit this Thursday. SD Monthly Python Meetup](https://twitter.com/jalakoo/status/1617994399228608512)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
