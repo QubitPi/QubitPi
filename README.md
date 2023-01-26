@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/755003724118622422><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/042656d66929dfaebb3a84fabd29d10b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/755343889826578457><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/961a995c23b88c20419db0fc61ea913d401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [​互动抽奖 #原神# #磬弦奏华夜# 魈上仙辛苦了。粗茶淡饭，招待不周，还请多担待。 关注@原神 并转发，我们将随机抽选10位旅行者赠送【788元新春礼金】1份。](https://t.bilibili.com/755343889826578457)
