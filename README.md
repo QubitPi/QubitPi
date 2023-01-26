@@ -505,11 +505,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Re 14/ To check the full recording of the Twitter Space on DOT morphing:](https://twitter.com/Web3foundation/status/1618550241816629251)
-- [Re 13/ @Polkadot today has delivered everything outlined in the whitepaper. It&#39;s in the hands of DOT holders, and there are over 550 teams &amp; projects ...](https://twitter.com/Web3foundation/status/1618550236930265091)
-- [Re 12/ Now, after 3 years of active engagement with the @SECGov, the Foundation is confident DOT has morphed and is not a security. It is software. Fo...](https://twitter.com/Web3foundation/status/1618550232031297541)
-- [Re 11/... as well as taking steps to manage the distribution of the DOT token so that no individual holds a large percentage of the network, turning d...](https://twitter.com/Web3foundation/status/1618550227878948865)
-- [Re 10/ The Foundation made sure the SEC&#39;s full vision of token morphing was addressed, setting up business processes and communication guidelines anal...](https://twitter.com/Web3foundation/status/1618550222568984576)
+- [Interested in the Foundation Grants Program and how it works? Check the interview with @BillLaboon, Head of Education and Grants at W3F, to learn abou...](https://twitter.com/Web3foundation/status/1617504052237008897)
+- [Hear Web3 Foundation&#39;s @BillLaboon discuss the educational resources, grants for new project developments, and other Foundation initiatives, as well a...](https://twitter.com/Web3foundation/status/1613932872250826753)
+- [Re Signatures are still being collected from other projects and organizations ready to join the call to defend privacy. To read the full letter:](https://twitter.com/Web3foundation/status/1613552063220178944)
+- [Re Protecting the privacy of people is key to ensuring the rights that compose the core of democracy. We at the Foundation hope that incoming lawmaker...](https://twitter.com/Web3foundation/status/1613552061219495936)
+- [Re Organized by @fightfortheftr &amp; signed by privacy-preserving projects including @Polkadot parachain @MantaNetwork, the call comes as an open letter ...](https://twitter.com/Web3foundation/status/1613552059080400896)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
