@@ -447,11 +447,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Neo4j vs Memgraph - How to choose a graph database? ➡️](https://twitter.com/memgraphdb/status/1618559875952386049)
+- [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️](https://twitter.com/memgraphdb/status/1618558366246211584)
+- [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1618537981618409472)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1618523384337268738)
 - [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1618504510816587778)
-- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1618498723499196422)
-- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1618494949489577988)
-- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1618293127063666690)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
