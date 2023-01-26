@@ -296,9 +296,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] A python module to generate optimized prompts &amp; solve different NLP problems using GPT-n based models and return structured python object for easy parsing](https://www.reddit.com/r/MachineLearning/comments/10m0uvd/p_a_python_module_to_generate_optimized_prompts/)
 - [A Watermark for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/10lyb7r/a_watermark_for_large_language_models/)
+- [[R] Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers](https://www.reddit.com/r/MachineLearning/comments/10ly7rw/r_why_can_gpt_learn_incontext_language_models/)
 - [[Discussion] Github like alternative for ML?](https://www.reddit.com/r/MachineLearning/comments/10lxwgd/discussion_github_like_alternative_for_ml/)
 - [Are there any projects working at an open source version of Constitutional AI? [D]](https://www.reddit.com/r/MachineLearning/comments/10lui3i/are_there_any_projects_working_at_an_open_source/)
-- [[D] Quantitative measure for smoothness of NLP autoencoder latent space](https://www.reddit.com/r/MachineLearning/comments/10ltyki/d_quantitative_measure_for_smoothness_of_nlp/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
