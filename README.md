@@ -312,11 +312,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [El Scrum Master entrega servicios de Coaching Ágil](https://www.scrum.org/resources/blog/el-scrum-master-entrega-servicios-de-coaching-agil)
 - [[VLOG] What Does The Scrum Master Do All Day &lpar;part 2&rpar;](https://www.scrum.org/resources/blog/vlog-what-does-scrum-master-do-all-day-part-2-0)
 - [Intro to Scrum &lpar;1 of 16&rpar;: What is the Scrum Framework?](https://www.scrum.org/resources/blog/intro-scrum-1-16-what-scrum-framework)
 - [Curso Evidence-Based Management #4 - La estrategia de GymTonic](https://www.scrum.org/resources/blog/curso-evidence-based-management-4-la-estrategia-de-gymtonic)
 - [Scrum Master Interview Guide 2023: The Scrum Master Role](https://www.scrum.org/resources/blog/scrum-master-interview-guide-2023-scrum-master-role)
-- [Machst du diese 5 Fehler, wenn du bei der Meeting-Moderation auf „schwierige Personen“ triffst?](https://www.scrum.org/resources/blog/machst-du-diese-5-fehler-wenn-du-bei-der-meeting-moderation-auf-schwierige-personen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
