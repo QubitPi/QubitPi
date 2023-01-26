@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] EvoTorch 0.4.0 dropped with GPU-accelerated implementations of CMA-ES, MAP-Elites and NSGA-II.](https://www.reddit.com/r/MachineLearning/comments/10lot3v/p_evotorch_040_dropped_with_gpuaccelerated/)
 - [My article clarifying the GPT-3 model names and those available for fine-tuning &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/10llps8/my_article_clarifying_the_gpt3_model_names_and/)
 - [Machine learning and black box numerical solver[D]](https://www.reddit.com/r/MachineLearning/comments/10lka00/machine_learning_and_black_box_numerical_solverd/)
 - [[D] Pretraining for CNN](https://www.reddit.com/r/MachineLearning/comments/10lk0bp/d_pretraining_for_cnn/)
 - [[P] Diffusion models best practices](https://www.reddit.com/r/MachineLearning/comments/10leaq9/p_diffusion_models_best_practices/)
-- [[D] Alphatensor benchmark code in Colab](https://www.reddit.com/r/MachineLearning/comments/10lc538/d_alphatensor_benchmark_code_in_colab/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
