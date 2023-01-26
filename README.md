@@ -533,9 +533,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [Chart Cards](https://dribbble.com/shots/20454370)
 - [Trust the Process](https://dribbble.com/shots/20459868)
-- [Custo product page](https://dribbble.com/shots/20469142)
-- [Playrcart – Notifications](https://dribbble.com/shots/20453000)
-- [Seven Summits](https://dribbble.com/shots/20439111)
+- [L.A. Public Library 150th Anniversary Poster](https://dribbble.com/shots/20420912)
+- [Midland Appliance](https://dribbble.com/shots/20425768)
+- [SafePal Branding](https://dribbble.com/shots/20421178)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
