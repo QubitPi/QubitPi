@@ -414,11 +414,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn how @DecodedHealth is transforming health care with ML, Models, Ontologies, and Graphs with ArangoDB. 🩺🥑 Check out their full case study n...](https://twitter.com/arangodb/status/1618715419337949184)
 - [2023 is the year of the graph, and we want to ensure you get your fill of graph database content. 😎 Learn how Orange&#39;s Thing in the Future uses the...](https://twitter.com/arangodb/status/1618579550828466176)
 - [Check out our first newsletter of 2023! Take a look at what ArangoDB has planned for this year, and stay up to date with all the latest ArangoDB news ...](https://twitter.com/arangodb/status/1618353038363598848)
 - [We are #hiring! Join Team Avocado as an Account Executive &lpar;West Coast&rpar;. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1618217201038774274)
 - [Come hang out with ArangoDB this February! 🥑 Learn more about fastgraphml with ArangoDB on February 15th, 2023, with Senior Machine Learning Resear...](https://twitter.com/arangodb/status/1617990644714164248)
-- [What&#39;s holding you back from becoming an expert in all things graph? 🤔 ArangoDB has built our University to help you do just that. Check out our va...](https://twitter.com/arangodb/status/1617854751835656193)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
