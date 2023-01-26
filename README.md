@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A python module to generate optimized prompts &amp; solve different NLP problems using GPT-n based models and return structured python object for easy parsing](https://www.reddit.com/r/MachineLearning/comments/10m0uvd/p_a_python_module_to_generate_optimized_prompts/)
 - [A Watermark for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/10lyb7r/a_watermark_for_large_language_models/)
 - [[Discussion] Github like alternative for ML?](https://www.reddit.com/r/MachineLearning/comments/10lxwgd/discussion_github_like_alternative_for_ml/)
 - [Are there any projects working at an open source version of Constitutional AI? [D]](https://www.reddit.com/r/MachineLearning/comments/10lui3i/are_there_any_projects_working_at_an_open_source/)
 - [[D] Quantitative measure for smoothness of NLP autoencoder latent space](https://www.reddit.com/r/MachineLearning/comments/10ltyki/d_quantitative_measure_for_smoothness_of_nlp/)
-- [[D] What are some of your favorite ML research posters?](https://www.reddit.com/r/MachineLearning/comments/10lsirk/d_what_are_some_of_your_favorite_ml_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
