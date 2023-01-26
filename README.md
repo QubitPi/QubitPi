@@ -294,11 +294,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Are there any projects working at an open source version of Constitutional AI? [D]](https://www.reddit.com/r/MachineLearning/comments/10lui3i/are_there_any_projects_working_at_an_open_source/)
 - [[D] Quantitative measure for smoothness of NLP autoencoder latent space](https://www.reddit.com/r/MachineLearning/comments/10ltyki/d_quantitative_measure_for_smoothness_of_nlp/)
 - [[D] What are some of your favorite ML research posters?](https://www.reddit.com/r/MachineLearning/comments/10lsirk/d_what_are_some_of_your_favorite_ml_research/)
 - [[D] Fastest and most accurate model for casing](https://www.reddit.com/r/MachineLearning/comments/10lqd34/d_fastest_and_most_accurate_model_for_casing/)
 - [Few questions about scalability of chatGPT [D]](https://www.reddit.com/r/MachineLearning/comments/10lp3g4/few_questions_about_scalability_of_chatgpt_d/)
-- [[P] EvoTorch 0.4.0 dropped with GPU-accelerated implementations of CMA-ES, MAP-Elites and NSGA-II.](https://www.reddit.com/r/MachineLearning/comments/10lot3v/p_evotorch_040_dropped_with_gpuaccelerated/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
