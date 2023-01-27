@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Monitoring and Retraining Models with Label-Changing Interventions](https://www.reddit.com/r/MachineLearning/comments/10ms7rt/d_monitoring_and_retraining_models_with/)
 - [[P] Using algorithms or models from papers for commercial use](https://www.reddit.com/r/MachineLearning/comments/10mqm3g/p_using_algorithms_or_models_from_papers_for/)
 - [[D] Google Predoctoral Program &lpar;India&rpar; 2023](https://www.reddit.com/r/MachineLearning/comments/10mmtky/d_google_predoctoral_program_india_2023/)
 - [[D] ImageNet2012 Advice](https://www.reddit.com/r/MachineLearning/comments/10mmniu/d_imagenet2012_advice/)
 - [[D] Best large language model for Named Entity Extraction?](https://www.reddit.com/r/MachineLearning/comments/10mmjvt/d_best_large_language_model_for_named_entity/)
-- [[R] ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware](https://www.reddit.com/r/MachineLearning/comments/10mkjrc/r_etlp_eventbased_threefactor_local_plasticity/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
