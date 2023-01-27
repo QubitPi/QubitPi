@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Where does Chat GPT get its information from? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10mbsnw/where_does_chat_gpt_get_its_information_from/)
 - [[D] Moving away from Unicode for more equal token representation across global languages?](https://www.reddit.com/r/MachineLearning/comments/10mbct5/d_moving_away_from_unicode_for_more_equal_token/)
 - [[D] Why are there no End2End Speech Recognition models using the same Encoder-Decoder learning process as BART &lpar;no CTC&rpar; ?](https://www.reddit.com/r/MachineLearning/comments/10mab6p/d_why_are_there_no_end2end_speech_recognition/)
 - [[D] score based vs. Diffusion models](https://www.reddit.com/r/MachineLearning/comments/10m4l0b/d_score_based_vs_diffusion_models/)
 - [[D] Why are GANs worse than &lpar;Latent&rpar; Diffusion Models for text2img generation?](https://www.reddit.com/r/MachineLearning/comments/10m1sdm/d_why_are_gans_worse_than_latent_diffusion_models/)
-- [[P] A python module to generate optimized prompts &amp; solve different NLP problems using GPT-n based models and return structured python object for easy parsing](https://www.reddit.com/r/MachineLearning/comments/10m0uvd/p_a_python_module_to_generate_optimized_prompts/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
