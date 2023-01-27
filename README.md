@@ -297,10 +297,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware](https://www.reddit.com/r/MachineLearning/comments/10mkjrc/r_etlp_eventbased_threefactor_local_plasticity/)
-- [[D] Train a MATLAB model using different shapes](https://www.reddit.com/r/MachineLearning/comments/10miyds/d_train_a_matlab_model_using_different_shapes/)
 - [[D] MusicLM: Generating Music From Text](https://www.reddit.com/r/MachineLearning/comments/10mhbqv/d_musiclm_generating_music_from_text/)
-- [[D] Graph-drawing software for papers](https://www.reddit.com/r/MachineLearning/comments/10mf443/d_graphdrawing_software_for_papers/)
-- [[P] Building a LSTM based model for binary classification](https://www.reddit.com/r/MachineLearning/comments/10mdtnl/p_building_a_lstm_based_model_for_binary/)
+- [[R] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://www.reddit.com/r/MachineLearning/comments/10mdhxb/r_sparsegpt_massive_language_models_can_be/)
+- [[D] Meta AI Residency 2023](https://www.reddit.com/r/MachineLearning/comments/10mcape/d_meta_ai_residency_2023/)
+- [[D] Moving away from Unicode for more equal token representation across global languages?](https://www.reddit.com/r/MachineLearning/comments/10mbct5/d_moving_away_from_unicode_for_more_equal_token/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
