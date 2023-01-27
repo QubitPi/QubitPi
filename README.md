@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1619020411722764300)
-- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1619016635511148546)
 - [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1618993985648738305)
 - [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1618975614219722754)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #databas...](https://twitter.com/memgraphdb/status/1618973100560859136)
+- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1618946171975630851)
+- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1618928053496709120)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
