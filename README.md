@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Train a MATLAB model using different shapes](https://www.reddit.com/r/MachineLearning/comments/10miyds/d_train_a_matlab_model_using_different_shapes/)
 - [[D] MusicLM: Generating Music From Text](https://www.reddit.com/r/MachineLearning/comments/10mhbqv/d_musiclm_generating_music_from_text/)
 - [[D] Graph-drawing software for papers](https://www.reddit.com/r/MachineLearning/comments/10mf443/d_graphdrawing_software_for_papers/)
 - [[P] Building a LSTM based model for binary classification](https://www.reddit.com/r/MachineLearning/comments/10mdtnl/p_building_a_lstm_based_model_for_binary/)
 - [[R] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://www.reddit.com/r/MachineLearning/comments/10mdhxb/r_sparsegpt_massive_language_models_can_be/)
-- [[P] Suggestions for models for my ML project](https://www.reddit.com/r/MachineLearning/comments/10mdebv/p_suggestions_for_models_for_my_ml_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
