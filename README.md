@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1618946171975630851)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1618928053496709120)
 - [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1618922262656176128)
 - [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. #graphdatabase #memgraphdb #database #memgraph](https://twitter.com/memgraphdb/status/1618895083704655872)
 - [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1618870674084225024)
-- [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1618861109590589442)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
