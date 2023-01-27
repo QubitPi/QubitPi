@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1618870674084225024)
+- [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1618861109590589442)
+- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. #memgraph #data...](https://twitter.com/memgraphdb/status/1618857338856669184)
 - [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1618661797564661771)
 - [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1618655487615959045)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1618613228761669633)
-- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1618603917998161920)
-- [🍿Check out the #Memgraph video &quot;How to contribute to a C++ project?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1618586300377976832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
