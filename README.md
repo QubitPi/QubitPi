@@ -119,9 +119,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
     
-<img width="15%" src="https://user-images.githubusercontent.com/16126939/195799056-44da525c-8260-4b30-9e53-0ff8c3074913.png">[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
-
-[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fili&show_owner=true&theme=vue)](https://github.com/QubitPi/fili)<img src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png" alt="可莉" width="20%">
+<img width="15%" src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png">[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
 <img src="https://user-images.githubusercontent.com/16126939/196371238-20cbb9c6-0ab2-4f13-ad4c-2f5d8c90a9e3.png" alt="可莉" width="15%">&nbsp;
 &nbsp;
