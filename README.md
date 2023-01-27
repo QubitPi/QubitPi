@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Meta AI Residency 2023](https://www.reddit.com/r/MachineLearning/comments/10mcape/d_meta_ai_residency_2023/)
 - [[D] K-means clusters as features for more complex models](https://www.reddit.com/r/MachineLearning/comments/10mc608/d_kmeans_clusters_as_features_for_more_complex/)
 - [Where does Chat GPT get its information from? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10mbsnw/where_does_chat_gpt_get_its_information_from/)
 - [[D] Moving away from Unicode for more equal token representation across global languages?](https://www.reddit.com/r/MachineLearning/comments/10mbct5/d_moving_away_from_unicode_for_more_equal_token/)
 - [[D] Why are there no End2End Speech Recognition models using the same Encoder-Decoder learning process as BART &lpar;no CTC&rpar; ?](https://www.reddit.com/r/MachineLearning/comments/10mab6p/d_why_are_there_no_end2end_speech_recognition/)
-- [[D] score based vs. Diffusion models](https://www.reddit.com/r/MachineLearning/comments/10m4l0b/d_score_based_vs_diffusion_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
