@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Migration to AWS, what questions to ask ML devs?](https://www.reddit.com/r/MachineLearning/comments/10mllx2/d_migration_to_aws_what_questions_to_ask_ml_devs/)
 - [[R] ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware](https://www.reddit.com/r/MachineLearning/comments/10mkjrc/r_etlp_eventbased_threefactor_local_plasticity/)
 - [[D] MusicLM: Generating Music From Text](https://www.reddit.com/r/MachineLearning/comments/10mhbqv/d_musiclm_generating_music_from_text/)
 - [[R] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://www.reddit.com/r/MachineLearning/comments/10mdhxb/r_sparsegpt_massive_language_models_can_be/)
 - [[D] Meta AI Residency 2023](https://www.reddit.com/r/MachineLearning/comments/10mcape/d_meta_ai_residency_2023/)
+- [[D] Moving away from Unicode for more equal token representation across global languages?](https://www.reddit.com/r/MachineLearning/comments/10mbct5/d_moving_away_from_unicode_for_more_equal_token/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
