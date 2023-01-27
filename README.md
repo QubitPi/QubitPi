@@ -449,11 +449,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1618993985648738305)
+- [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1618975614219722754)
+- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. #memgraph #databas...](https://twitter.com/memgraphdb/status/1618973100560859136)
 - [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1618946171975630851)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1618928053496709120)
-- [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1618922262656176128)
-- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. #graphdatabase #memgraphdb #database #memgraph](https://twitter.com/memgraphdb/status/1618895083704655872)
-- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1618870674084225024)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
