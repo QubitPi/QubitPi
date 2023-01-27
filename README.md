@@ -314,11 +314,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Intro to Scrum &lpar;2 of 16&rpar;: What is the Theory Behind Scrum?](https://www.scrum.org/resources/blog/intro-scrum-2-16-what-theory-behind-scrum)
 - [The importance of Transparency and the Product Backlog &lpar;06&rpar;](https://www.scrum.org/resources/blog/importance-transparency-and-product-backlog-06)
 - [The Future of Agile Roles != The Future of Agility](https://www.scrum.org/resources/blog/future-agile-roles-future-agility)
 - [Porqué no te recomendamos usar story points ni velocity](https://www.scrum.org/resources/blog/porque-no-te-recomendamos-usar-story-points-ni-velocity)
 - [El Scrum Master entrega servicios de Coaching Ágil](https://www.scrum.org/resources/blog/el-scrum-master-entrega-servicios-de-coaching-agil)
-- [[VLOG] What Does The Scrum Master Do All Day &lpar;part 2&rpar;](https://www.scrum.org/resources/blog/vlog-what-does-scrum-master-do-all-day-part-2-0)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
