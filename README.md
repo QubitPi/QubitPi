@@ -169,6 +169,10 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Docker](https://qubitpi.github.io/docker-docs/) | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
 
+###### HashiCorp (Industry Leader of Infrastructure as Code)
+
+- [Packer](http://www.packer.io/)
+
 #### Data/Knowledge Graph
 
 [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/)
@@ -665,6 +669,10 @@ Comprehensive Documentation-Related Forks
 [![qemu](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=qemu&show_owner=true&theme=vue)](https://github.com/QubitPi/qemu)
 [![qemu-web](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=qemu-web&show_owner=true&theme=vue)](https://github.com/QubitPi/qemu-web)
 [![docker-swift-onlyone](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=vue)](https://github.com/QubitPi/docker-swift-onlyone)
+
+###### HashiCorp (Industry Leader of Infrastructure as Code)
+
+[![packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer&show_owner=true&theme=vue)](https://github.com/QubitPi/packer)
 
 ### Frontend Technologies
 
