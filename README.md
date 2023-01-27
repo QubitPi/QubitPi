@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Advanced Cypher Queries](https://www.youtube.com/watch?v=Ig8lXuEOps0)
 - [Ask a Data Scientist: How Does Graph Data Science Work for Unsupervised Dimensionality Reduction?](https://www.youtube.com/watch?v=Eg2m0hHGu7M)
 - [Ask a Data Scientist: What Is Graph Supervised Machine Learning?](https://www.youtube.com/watch?v=AYAinr0KJGw)
 - [GraphQL Book Club - Chapter 9: Advanced GraphQL Considerations](https://www.youtube.com/watch?v=d1YvtXB1eK0)
 - [GraphQL Book Club - Chapter 8: Deploying Our Full Stack GraphQL Application](https://www.youtube.com/watch?v=rPlYywoN1EE)
-- [Neo4j Live: Graph Data Processing with Cypher](https://www.youtube.com/watch?v=X9izvIMlvk0)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
