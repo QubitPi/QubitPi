@@ -296,11 +296,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Google Predoctoral Program &lpar;India&rpar; 2023](https://www.reddit.com/r/MachineLearning/comments/10mmtky/d_google_predoctoral_program_india_2023/)
 - [[D] ImageNet2012 Advice](https://www.reddit.com/r/MachineLearning/comments/10mmniu/d_imagenet2012_advice/)
 - [[D] Best large language model for Named Entity Extraction?](https://www.reddit.com/r/MachineLearning/comments/10mmjvt/d_best_large_language_model_for_named_entity/)
 - [[R] ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware](https://www.reddit.com/r/MachineLearning/comments/10mkjrc/r_etlp_eventbased_threefactor_local_plasticity/)
 - [[D] MusicLM: Generating Music From Text](https://www.reddit.com/r/MachineLearning/comments/10mhbqv/d_musiclm_generating_music_from_text/)
-- [[R] SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://www.reddit.com/r/MachineLearning/comments/10mdhxb/r_sparsegpt_massive_language_models_can_be/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
