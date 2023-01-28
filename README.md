@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] GPT JupyterLab - JupyterLab extension to use OpenAI’s GPT models for code and text completion on your notebook cells.](https://www.reddit.com/r/MachineLearning/comments/10ng3pi/p_gpt_jupyterlab_jupyterlab_extension_to_use/)
 - [[P] Launching my first ever open-source project and it might make your ChatGPT answers better](https://www.reddit.com/r/MachineLearning/comments/10nfquy/p_launching_my_first_ever_opensource_project_and/)
 - [[P] Parse research papers into structured data](https://www.reddit.com/r/MachineLearning/comments/10nffir/p_parse_research_papers_into_structured_data/)
 - [[P] Annotating text with sparse human annotations and different length chunks](https://www.reddit.com/r/MachineLearning/comments/10nevwk/p_annotating_text_with_sparse_human_annotations/)
 - [[P] Framework agnostic python package for running RWKV, RNN based models.](https://www.reddit.com/r/MachineLearning/comments/10ncfch/p_framework_agnostic_python_package_for_running/)
-- [[R] META presents MAV3D — text to 3D video](https://www.reddit.com/r/MachineLearning/comments/10nccbg/r_meta_presents_mav3d_text_to_3d_video/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
