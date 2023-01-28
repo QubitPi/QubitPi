@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Interviewer asked to code neural network from scratch with plain python on a live call. Reasonable?](https://www.reddit.com/r/MachineLearning/comments/10nmaoh/d_interviewer_asked_to_code_neural_network_from/)
 - [[D] could multiple-input transformers reduce the pain of the training data acquisition problem?](https://www.reddit.com/r/MachineLearning/comments/10nlriy/d_could_multipleinput_transformers_reduce_the/)
 - [GAN Training Gradient questions [D]](https://www.reddit.com/r/MachineLearning/comments/10nlk3t/gan_training_gradient_questions_d/)
 - [[D] Goodness of fit question](https://www.reddit.com/r/MachineLearning/comments/10nhdru/d_goodness_of_fit_question/)
 - [[N] OpenAI has 1000s of contractors to fine-tune codex](https://www.reddit.com/r/MachineLearning/comments/10nhbfl/n_openai_has_1000s_of_contractors_to_finetune/)
-- [[P] GPT JupyterLab - JupyterLab extension to use OpenAI’s GPT models for code and text completion on your notebook cells.](https://www.reddit.com/r/MachineLearning/comments/10ng3pi/p_gpt_jupyterlab_jupyterlab_extension_to_use/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
