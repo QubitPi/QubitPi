@@ -173,6 +173,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 - [Packer](http://www.packer.io/)
 
+<img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
+
 #### Data/Knowledge Graph
 
 [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/)
