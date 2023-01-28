@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Parse research papers into structured data](https://www.reddit.com/r/MachineLearning/comments/10nffir/p_parse_research_papers_into_structured_data/)
 - [[D] Which text to speech software is being used for these types of YouTube videos?](https://www.reddit.com/r/MachineLearning/comments/10nf5nf/d_which_text_to_speech_software_is_being_used_for/)
 - [Idea about creating a computer usage AI, or just a Youtuber AI with finetuned GPT-3 as the brain and CLIP/YOLO as organs, inspired by MineDOJO/VPT [D]](https://www.reddit.com/r/MachineLearning/comments/10neytg/idea_about_creating_a_computer_usage_ai_or_just_a/)
 - [[P] Annotating text with sparse human annotations and different length chunks](https://www.reddit.com/r/MachineLearning/comments/10nevwk/p_annotating_text_with_sparse_human_annotations/)
 - [Understanding Chatgpt output [D]](https://www.reddit.com/r/MachineLearning/comments/10netco/understanding_chatgpt_output_d/)
-- [[P] Framework agnostic python package for running RWKV, RNN based models.](https://www.reddit.com/r/MachineLearning/comments/10ncfch/p_framework_agnostic_python_package_for_running/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
