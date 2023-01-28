@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/755714979295920210><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1c97ce7ba81793734e33213c64465057401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #流光拾遗之旅# 《原神》「流光拾遗之旅」——仙闻篇·内画 现已发布~ https://www.bilibili.com/video/BV1FY411Q7MX 将仙人所在之处的千里风光...](https://t.bilibili.com/756089771013439521)
+- [《原神》「流光拾遗之旅」——仙闻篇·内画](https://t.bilibili.com/756086098831081667)
 - [​互动抽奖 #原神# #磬弦奏华夜# 嚯！你们俩牌技了得啊，一会让我也来试试！ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【888元新春礼金】1份。](https://t.bilibili.com/755714979295920210)
 - [恭喜@天野陽菜ねぇ@-ROUND-@不知晨晓丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/755436661121220612)
 - [​互动抽奖 #原神# #磬弦奏华夜# 魈上仙辛苦了。粗茶淡饭，招待不周，还请多担待。 关注@原神 并转发，我们将随机抽选10位旅行者赠送【788元新春礼金】1份。](https://t.bilibili.com/755343889826578457)
-- [恭喜@可时@枫汐_satellite@毛志强等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/755003724118622422)
-- [互动抽奖 #原神# #磬弦奏华夜# 咻~啪！玉衡星大人又在工作呀，过节也该放松一下嘛~ 关注@原神 并转发，我们将随机抽选10位旅行者赠送【688元新春礼金】1份。](https://t.bilibili.com/754972817525571682)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
