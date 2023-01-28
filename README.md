@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1619380031003705345)
+- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1619376254720909313)
 - [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1619356372818067458)
 - [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1619346558780055552)
 - [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1619338005885460485)
-- [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1619322403087159304)
-- [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1619308562022338560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
