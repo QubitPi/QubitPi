@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Can I become ML Engineer as I&#39;m already a Front-end Developer?](https://www.reddit.com/r/MachineLearning/comments/10n8ld1/d_can_i_become_ml_engineer_as_im_already_a/)
 - [[D] Could forward-forward learning enable training large models with distributed computing?](https://www.reddit.com/r/MachineLearning/comments/10n5e8z/d_could_forwardforward_learning_enable_training/)
 - [[D] Monitoring and Retraining Models with Label-Changing Interventions](https://www.reddit.com/r/MachineLearning/comments/10ms7rt/d_monitoring_and_retraining_models_with/)
 - [[P] Using algorithms or models from papers for commercial use](https://www.reddit.com/r/MachineLearning/comments/10mqm3g/p_using_algorithms_or_models_from_papers_for/)
 - [[D] Google Predoctoral Program &lpar;India&rpar; 2023](https://www.reddit.com/r/MachineLearning/comments/10mmtky/d_google_predoctoral_program_india_2023/)
-- [[D] ImageNet2012 Advice](https://www.reddit.com/r/MachineLearning/comments/10mmniu/d_imagenet2012_advice/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
