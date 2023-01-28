@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1619261501403021313)
 - [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1619223499280732160)
 - [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1619219724914642944)
 - [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1619020411722764300)
 - [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1619016635511148546)
+- [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 #...](https://twitter.com/memgraphdb/status/1618993985648738305)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
