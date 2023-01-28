@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Framework agnostic python package for running RWKV, RNN based models.](https://www.reddit.com/r/MachineLearning/comments/10ncfch/p_framework_agnostic_python_package_for_running/)
 - [[R] META presents MAV3D — text to 3D video](https://www.reddit.com/r/MachineLearning/comments/10nccbg/r_meta_presents_mav3d_text_to_3d_video/)
 - [[D] Laptop recommendations for ML](https://www.reddit.com/r/MachineLearning/comments/10nbrss/d_laptop_recommendations_for_ml/)
 - [[D] Could forward-forward learning enable training large models with distributed computing?](https://www.reddit.com/r/MachineLearning/comments/10n5e8z/d_could_forwardforward_learning_enable_training/)
 - [[D] Monitoring and Retraining Models with Label-Changing Interventions](https://www.reddit.com/r/MachineLearning/comments/10ms7rt/d_monitoring_and_retraining_models_with/)
-- [[P] Using algorithms or models from papers for commercial use](https://www.reddit.com/r/MachineLearning/comments/10mqm3g/p_using_algorithms_or_models_from_papers_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
