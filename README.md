@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1619356372818067458)
+- [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1619346558780055552)
+- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1619338005885460485)
 - [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1619322403087159304)
 - [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1619308562022338560)
-- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1619290440728993794)
-- [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1619284653352812544)
-- [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1619283141432156160)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
