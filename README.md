@@ -570,8 +570,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 Git Data Analytics - Everything is Datable
 ------------------------------------------
 
-### My Pull Requests (PR) Analysis
-
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
 <img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
