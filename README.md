@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] Launching my first ever open-source project and it might make your ChatGPT answers better](https://www.reddit.com/r/MachineLearning/comments/10nfquy/p_launching_my_first_ever_opensource_project_and/)
 - [[P] Parse research papers into structured data](https://www.reddit.com/r/MachineLearning/comments/10nffir/p_parse_research_papers_into_structured_data/)
-- [[D] Which text to speech software is being used for these types of YouTube videos?](https://www.reddit.com/r/MachineLearning/comments/10nf5nf/d_which_text_to_speech_software_is_being_used_for/)
-- [Idea about creating a computer usage AI, or just a Youtuber AI with finetuned GPT-3 as the brain and CLIP/YOLO as organs, inspired by MineDOJO/VPT [D]](https://www.reddit.com/r/MachineLearning/comments/10neytg/idea_about_creating_a_computer_usage_ai_or_just_a/)
 - [[P] Annotating text with sparse human annotations and different length chunks](https://www.reddit.com/r/MachineLearning/comments/10nevwk/p_annotating_text_with_sparse_human_annotations/)
+- [[P] Framework agnostic python package for running RWKV, RNN based models.](https://www.reddit.com/r/MachineLearning/comments/10ncfch/p_framework_agnostic_python_package_for_running/)
+- [[R] META presents MAV3D — text to 3D video](https://www.reddit.com/r/MachineLearning/comments/10nccbg/r_meta_presents_mav3d_text_to_3d_video/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
