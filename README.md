@@ -572,10 +572,6 @@ Git Data Analytics - Everything is Datable
 
 ### My Pull Requests (PR) Analysis
 
-> [Pull Requests should be small](https://qubitpi.github.io/jersey-guide/management/2022/09/01/small-changes.html). This graph indicates whether or not I am following good tech standards:
-> 
-> <img align="center" src="./img/my-pr-analysis.png">
-
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
 <br>
 <img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
