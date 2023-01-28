@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756089771013439521><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/12d7123e8c0eeac3512682a62286c959401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756116979645939750><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/aca7a12b77819e53fc73120a52f7a1a0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #流光拾遗之旅# 《原神》「流光拾遗之旅」——仙闻篇·内画 现已发布~ https://www.bilibili.com/video/BV1FY411Q7MX 将仙人所在之处的千里风光...](https://t.bilibili.com/756089771013439521)
