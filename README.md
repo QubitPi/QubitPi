@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R] Question: what is the best approach to find similarity between a set of product titles and user query?](https://www.reddit.com/r/MachineLearning/comments/10nrqic/r_question_what_is_the_best_approach_to_find/)
-- [Ex-Google SVP Launched AI-Powered Search Engine [news]](https://www.reddit.com/r/MachineLearning/comments/10nr4cn/exgoogle_svp_launched_aipowered_search_engine_news/)
 - [[P] tiny-diffusion: a minimal PyTorch implementation of probabilistic diffusion models for 2D datasets](https://www.reddit.com/r/MachineLearning/comments/10nodn4/p_tinydiffusion_a_minimal_pytorch_implementation/)
 - [[D] Running a small Bloom checkpoint on a mini pc.](https://www.reddit.com/r/MachineLearning/comments/10nocz6/d_running_a_small_bloom_checkpoint_on_a_mini_pc/)
 - [[D] could multiple-input transformers reduce the pain of the training data acquisition problem?](https://www.reddit.com/r/MachineLearning/comments/10nlriy/d_could_multipleinput_transformers_reduce_the/)
+- [GAN Training Gradient questions [D]](https://www.reddit.com/r/MachineLearning/comments/10nlk3t/gan_training_gradient_questions_d/)
+- [[D] Goodness of fit question](https://www.reddit.com/r/MachineLearning/comments/10nhdru/d_goodness_of_fit_question/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
