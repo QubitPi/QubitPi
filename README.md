@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1619647040291540992)
+- [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #database #graphdatabase #memgraphdb...](https://twitter.com/memgraphdb/status/1619634961576873984)
 - [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1619610549033091072)
 - [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1619585888765222912)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1619582113870659584)
-- [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1619380031003705345)
-- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1619376254720909313)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
