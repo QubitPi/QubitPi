@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] GPT-Index vs Langchain](https://www.reddit.com/r/MachineLearning/comments/10o96k8/d_gptindex_vs_langchain/)
 - [[P] Targeted Summarization - A tool for information extraction](https://www.reddit.com/r/MachineLearning/comments/10o6wyx/p_targeted_summarization_a_tool_for_information/)
 - [[D] How do people keep up with ML news that is not NLP related?](https://www.reddit.com/r/MachineLearning/comments/10o441p/d_how_do_people_keep_up_with_ml_news_that_is_not/)
 - [[R] InstructPix2Pix: Learning to Follow Image Editing Instructions](https://www.reddit.com/r/MachineLearning/comments/10nxqfg/r_instructpix2pix_learning_to_follow_image/)
 - [[P] We Built an ML Search Engine that can find exact timestamps for anything on Youtube using OpenAI Whisper and UKPLab&#39;s SBERT Sentence Transformers](https://www.reddit.com/r/MachineLearning/comments/10nwz5j/p_we_built_an_ml_search_engine_that_can_find/)
-- [[Discussion] Stable Diffusion Models with Subject/Keyword References](https://www.reddit.com/r/MachineLearning/comments/10nvrvx/discussion_stable_diffusion_models_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
