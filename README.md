@@ -300,10 +300,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[P] Targeted Summarization - A tool for information extraction](https://www.reddit.com/r/MachineLearning/comments/10o6wyx/p_targeted_summarization_a_tool_for_information/)
+- [[D] How do people keep up with ML news that is not NLP related?](https://www.reddit.com/r/MachineLearning/comments/10o441p/d_how_do_people_keep_up_with_ml_news_that_is_not/)
 - [[R] InstructPix2Pix: Learning to Follow Image Editing Instructions](https://www.reddit.com/r/MachineLearning/comments/10nxqfg/r_instructpix2pix_learning_to_follow_image/)
 - [[P] We Built an ML Search Engine that can find exact timestamps for anything on Youtube using OpenAI Whisper and UKPLab&#39;s SBERT Sentence Transformers](https://www.reddit.com/r/MachineLearning/comments/10nwz5j/p_we_built_an_ml_search_engine_that_can_find/)
 - [[Discussion] Stable Diffusion Models with Subject/Keyword References](https://www.reddit.com/r/MachineLearning/comments/10nvrvx/discussion_stable_diffusion_models_with/)
-- [[P] tiny-diffusion: a minimal PyTorch implementation of probabilistic diffusion models for 2D datasets](https://www.reddit.com/r/MachineLearning/comments/10nodn4/p_tinydiffusion_a_minimal_pytorch_implementation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
