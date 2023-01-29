@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] what is roughly the cost of human-annotation vs compute to adapt a LLM?](https://www.reddit.com/r/MachineLearning/comments/10oela2/d_what_is_roughly_the_cost_of_humanannotation_vs/)
 - [[D] Google Scholar is assigning citations for my paper to a completely different paper](https://www.reddit.com/r/MachineLearning/comments/10oeabi/d_google_scholar_is_assigning_citations_for_my/)
 - [[D] AI Theory - Signal Processing?](https://www.reddit.com/r/MachineLearning/comments/10ocalm/d_ai_theory_signal_processing/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/10oazg7/d_simple_questions_thread/)
 - [[P] Automating a Youtube Shorts channel with Huggingface Transformers and After Effects](https://www.reddit.com/r/MachineLearning/comments/10oauj5/p_automating_a_youtube_shorts_channel_with/)
-- [[D] GPT-Index vs Langchain](https://www.reddit.com/r/MachineLearning/comments/10o96k8/d_gptindex_vs_langchain/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
