@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1619582113870659584)
 - [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1619380031003705345)
 - [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1619376254720909313)
 - [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1619356372818067458)
 - [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1619346558780055552)
-- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️](https://twitter.com/memgraphdb/status/1619338005885460485)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
