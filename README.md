@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We Built an ML Search Engine that can find exact timestamps for anything on Youtube using OpenAI Whisper and UKPLab&#39;s SBERT Sentence Transformers](https://www.reddit.com/r/MachineLearning/comments/10nwz5j/p_we_built_an_ml_search_engine_that_can_find/)
 - [Using reinforcement learning + parallel processing to simulate natural behaviour in a robot [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10nw153/using_reinforcement_learning_parallel_processing/)
 - [[Discussion] Stable Diffusion Models with Subject/Keyword References](https://www.reddit.com/r/MachineLearning/comments/10nvrvx/discussion_stable_diffusion_models_with/)
 - [[P] tiny-diffusion: a minimal PyTorch implementation of probabilistic diffusion models for 2D datasets](https://www.reddit.com/r/MachineLearning/comments/10nodn4/p_tinydiffusion_a_minimal_pytorch_implementation/)
 - [[D] Running a small Bloom checkpoint on a mini pc.](https://www.reddit.com/r/MachineLearning/comments/10nocz6/d_running_a_small_bloom_checkpoint_on_a_mini_pc/)
-- [[D] could multiple-input transformers reduce the pain of the training data acquisition problem?](https://www.reddit.com/r/MachineLearning/comments/10nlriy/d_could_multipleinput_transformers_reduce_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
