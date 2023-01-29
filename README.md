@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756209772398641269><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/41fb8900e3c9426d8af35a619b6887fd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756488064818216981><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04973934168d03e6f0ba3dcc36eb177a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@神里绫华吾的爱妻@流水行云无觅处@幻想乡的小小神明等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756488064818216981)
