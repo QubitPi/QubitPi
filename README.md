@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Project] LanyTek Audio2Midi Transcription](https://www.reddit.com/r/MachineLearning/comments/10o4icw/project_lanytek_audio2midi_transcription/)
-- [[P] Creating Real-World AI Models by Newbies With ChatGPT](https://www.reddit.com/r/MachineLearning/comments/10o2mw4/p_creating_realworld_ai_models_by_newbies_with/)
-- [[N] First Published Book &quot;Python and AI: The Ultimate Party Guide for Mastering the Magic of Code&quot;](https://www.reddit.com/r/MachineLearning/comments/10o1u5m/n_first_published_book_python_and_ai_the_ultimate/)
 - [[R] InstructPix2Pix: Learning to Follow Image Editing Instructions](https://www.reddit.com/r/MachineLearning/comments/10nxqfg/r_instructpix2pix_learning_to_follow_image/)
 - [[P] We Built an ML Search Engine that can find exact timestamps for anything on Youtube using OpenAI Whisper and UKPLab&#39;s SBERT Sentence Transformers](https://www.reddit.com/r/MachineLearning/comments/10nwz5j/p_we_built_an_ml_search_engine_that_can_find/)
+- [[Discussion] Stable Diffusion Models with Subject/Keyword References](https://www.reddit.com/r/MachineLearning/comments/10nvrvx/discussion_stable_diffusion_models_with/)
+- [[P] tiny-diffusion: a minimal PyTorch implementation of probabilistic diffusion models for 2D datasets](https://www.reddit.com/r/MachineLearning/comments/10nodn4/p_tinydiffusion_a_minimal_pytorch_implementation/)
+- [[D] could multiple-input transformers reduce the pain of the training data acquisition problem?](https://www.reddit.com/r/MachineLearning/comments/10nlriy/d_could_multipleinput_transformers_reduce_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
