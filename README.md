@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R] Incorrect Ranking of Vessel Segmentation Algorithms](https://www.reddit.com/r/MachineLearning/comments/10oii4a/r_incorrect_ranking_of_vessel_segmentation/)
 - [[D] Remote PhD](https://www.reddit.com/r/MachineLearning/comments/10ohc3f/d_remote_phd/)
-- [[N] An author wrote about how Stoic philosophy can help us embrace rapidly advancing AI tech. Within a month, an AI speech generator is released that reads the article for us flawlessly.](https://www.reddit.com/r/MachineLearning/comments/10oha1z/n_an_author_wrote_about_how_stoic_philosophy_can/)
 - [[N][R] Compiling and running GLM-130B on a local machine &lpar;4x 3090s, int4 quantization&rpar; - Author: Alex J. Champandard](https://www.reddit.com/r/MachineLearning/comments/10ofybj/nr_compiling_and_running_glm130b_on_a_local/)
 - [[P] AI Content Detector](https://www.reddit.com/r/MachineLearning/comments/10ofcis/p_ai_content_detector/)
+- [[D] what is roughly the cost of human-annotation vs compute to adapt a LLM?](https://www.reddit.com/r/MachineLearning/comments/10oela2/d_what_is_roughly_the_cost_of_humanannotation_vs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
