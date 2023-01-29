@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. #me...](https://twitter.com/memgraphdb/status/1619673464310317058)
+- [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1619670194078552066)
 - [Check out our blog post 📰 Introduction to Real-time Data ➡️](https://twitter.com/memgraphdb/status/1619647040291540992)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #database #graphdatabase #memgraphdb...](https://twitter.com/memgraphdb/status/1619634961576873984)
 - [Learn how to use #Docker Compose to orchestrate your graph application. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1619610549033091072)
-- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1619585888765222912)
-- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1619582113870659584)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
