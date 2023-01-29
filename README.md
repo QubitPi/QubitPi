@@ -637,16 +637,6 @@ Git Data Analytics - Everything is Datable
 Comprehensive Documentation-Related Forks
 -----------------------------------------
 
-### Data/Knowledge Graph
-
-[![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
-[![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
-[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
-[![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)
-[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
-[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
-[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=vue)](https://github.com/QubitPi/cpython)
-
 ### Software Infrastructure
 
 [![chef-web-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-web-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/chef-web-docs)
@@ -670,6 +660,17 @@ Comprehensive Documentation-Related Forks
 ###### HashiCorp (Industry Leader of Infrastructure as Code)
 
 [![packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer&show_owner=true&theme=vue)](https://github.com/QubitPi/packer)
+[![vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vault&show_owner=true&theme=vue)](https://github.com/QubitPi/vault)
+
+### Data/Knowledge Graph
+
+[![Knowledge Graph Book](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book)
+[![Knowledge Graph Book Examples](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Knowledge-Graphs-Book-Examples&show_owner=true&theme=vue)](https://github.com/QubitPi/Knowledge-Graphs-Book-Examples)
+[![data_to_viz](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=data_to_viz&show_owner=true&theme=vue)](https://github.com/QubitPi/data_to_viz)
+[![KTX-Software](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=KTX-Software&show_owner=true&theme=vue)](https://github.com/QubitPi/KTX-Software)
+[![graphviz.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphviz.github.io&show_owner=true&theme=vue)](https://github.com/QubitPi/graphviz.github.io)
+[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=vue)](https://github.com/QubitPi/react-force-graph)
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=vue)](https://github.com/QubitPi/cpython)
 
 ### Frontend Technologies
 
