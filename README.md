@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756549916644343808><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/45f6e4528e358c61b1ec961fcbc5eaa4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@月入泪_@小冒冒°@杂念吖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756549916644343808)
 - [#原神# #剪彩映虹# 火树银花，吉星高照，笙歌鼎沸，剪彩映虹。 与伙伴们一起，为海灯节的舞台表演做准备吧~ 《原神》剪彩映虹网页活动现已上线，欢迎旅行者前往...](https://t.bilibili.com/756496311141793811)
 - [恭喜@神里绫华吾的爱妻@流水行云无觅处@幻想乡的小小神明等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756488064818216981)
 - [恭喜@划水摸鱼真珺@日起月落坠星河@冬日霜雪233等31位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756209772398641269)
 - [恭喜@Vulpes-lagopus@冷鸟嘌呤连着五碳糖IO@小电视王子等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756194293348040920)
-- [恭喜@-陟遐-@ESOlVER@sogol王b等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756178827168710755)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
