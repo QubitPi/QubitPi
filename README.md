@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Did you make it to our Graph Done Right webinar? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on graph traversa...](https://twitter.com/arangodb/status/1619711985142185986)
 - [Learn how ArangoDB 3.10 brings improvements in graph capabilities and usability at scale. Join CCO and CPO @weinberger to learn more about the latest ...](https://twitter.com/arangodb/status/1619440190476488705)
 - [The latest ArangoDB Scala client driver has arrived. 🥑 Scarango wraps ArangoDB&#39;s Java library to provide additional features and Scala-specific fun...](https://twitter.com/arangodb/status/1619077807509741587)
 - [Learn something new in the new year! Try out 14 days of the ArangoGraph Insights Platform. 🥑☁️ Sign up today to get started. 💥](https://twitter.com/arangodb/status/1618941920956252160)
 - [Learn how @DecodedHealth is transforming health care with ML, Models, Ontologies, and Graphs with ArangoDB. 🩺🥑 Check out their full case study n...](https://twitter.com/arangodb/status/1618715419337949184)
+- [2023 is the year of the graph, and we want to ensure you get your fill of graph database content. 😎 Learn how Orange&#39;s Thing in the Future uses the...](https://twitter.com/arangodb/status/1618579550828466176)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
