@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Have you heard about fraud detection in large transaction networks? #memgraph #frauddetection #flask #d3js #python #graphdatabase](https://twitter.com/memgraphdb/status/1620009429394489344)
-- [🎉 This is such a nice thing to see. #Memgraph is No 1 on #HackerNews! 🚀](https://twitter.com/memgraphdb/status/1620007371438448641)
-- [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1619997350469959680)
-- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1619979984134672384)
 - [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #database #gra...](https://twitter.com/memgraphdb/status/1619954062547378176)
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1619948275263586304)
+- [💡 Relational databases can join data using keys, but they soon become inadequate when facing demands such as uncovering new insights, the causality...](https://twitter.com/memgraphdb/status/1619944498997432320)
+- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1619745186539606018)
+- [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1619738645656731648)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
