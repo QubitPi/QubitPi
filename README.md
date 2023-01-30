@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1620033335266246659)
+- [Did you see the latest #Memgraph blog post?](https://twitter.com/memgraphdb/status/1620016059838500865)
+- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1620015216351219714)
 - [Have you heard about fraud detection in large transaction networks? #memgraph #frauddetection #flask #d3js #python #graphdatabase](https://twitter.com/memgraphdb/status/1620009429394489344)
 - [🎉 This is such a nice thing to see. #Memgraph is No 1 on #HackerNews! 🚀](https://twitter.com/memgraphdb/status/1620007371438448641)
-- [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1619997350469959680)
-- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1619979984134672384)
-- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #database #gra...](https://twitter.com/memgraphdb/status/1619954062547378176)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
