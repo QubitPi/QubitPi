@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I launched “CatchGPT”, a supervised model trained with millions of text examples, to detect GPT created content](https://www.reddit.com/r/MachineLearning/comments/10pb1y3/p_i_launched_catchgpt_a_supervised_model_trained/)
 - [[D] Are there neural net plugins to assist audio editing of Youtube screencasts?](https://www.reddit.com/r/MachineLearning/comments/10p7hup/d_are_there_neural_net_plugins_to_assist_audio/)
 - [[D] What&#39;s stopping you from working on speech and voice?](https://www.reddit.com/r/MachineLearning/comments/10p66zc/d_whats_stopping_you_from_working_on_speech_and/)
 - [[D] DL university research PC suggestions?](https://www.reddit.com/r/MachineLearning/comments/10p4lhq/d_dl_university_research_pc_suggestions/)
 - [[R] Parsel: A &lpar;De-&rpar;compositional Framework for Algorithmic Reasoning with Language Models - Stanford University Eric Zelikman et al - Beats prior code generation sota by over 75%!](https://www.reddit.com/r/MachineLearning/comments/10p3afl/r_parsel_a_decompositional_framework_for/)
-- [[P] Keras model production deployment](https://www.reddit.com/r/MachineLearning/comments/10p1cwu/p_keras_model_production_deployment/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
