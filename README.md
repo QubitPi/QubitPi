@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] ChatGPT and language understanding benchmarks](https://www.reddit.com/r/MachineLearning/comments/10oyllu/discussion_chatgpt_and_language_understanding/)
 - [[D]Are There Studies on text-davinci-003&#39;s Zero/Few-shot Performance on Various Academic Benchmarks?](https://www.reddit.com/r/MachineLearning/comments/10oyi6a/dare_there_studies_on_textdavinci003s_zerofewshot/)
 - [[D] Sparse Ridge Regression](https://www.reddit.com/r/MachineLearning/comments/10oxy9j/d_sparse_ridge_regression/)
 - [[D] Hinton&#39;s Forward-Forward algorithm: Will it replace Backprop?](https://www.reddit.com/r/MachineLearning/comments/10ox18i/d_hintons_forwardforward_algorithm_will_it/)
 - [&quot;[Project]&quot; Your insights and ideas for machine learning project?](https://www.reddit.com/r/MachineLearning/comments/10ovlcw/project_your_insights_and_ideas_for_machine/)
-- [[R] A Robust Hypothesis Test for Tree Ensemble Pruning](https://www.reddit.com/r/MachineLearning/comments/10otrnf/r_a_robust_hypothesis_test_for_tree_ensemble/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
