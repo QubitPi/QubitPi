@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #database #gra...](https://twitter.com/memgraphdb/status/1619954062547378176)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1619948275263586304)
 - [💡 Relational databases can join data using keys, but they soon become inadequate when facing demands such as uncovering new insights, the causality...](https://twitter.com/memgraphdb/status/1619944498997432320)
 - [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1619745186539606018)
 - [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1619738645656731648)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ #memgraph #...](https://twitter.com/memgraphdb/status/1619700391850934274)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
