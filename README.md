@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Learn all about Full Stack GraphQL Applications! This practical book describes everything you need to know about creating a full-stack GraphQL applica...](https://twitter.com/neo4j/status/1620029119726510081)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1619980028149899264)
 - [✅ ATTENTION! During this webinar, you&#39;ll learn how to use #GraphQL, React, Node.js, and #Neo4j to build and deploy complex, data-intensive full-stack...](https://twitter.com/neo4j/status/1619802590836920321)
 - [What is Gephi? 🤔 Meet this free, open-source visualization and exploration software for all kinds of graphs and networks. by Dr. Verónica #visuali...](https://twitter.com/neo4j/status/1619699409838538752)
 - [Road to Nodes was a series of workshops we delivered to get ready for #NODES2022 In case you missed it, you can check the first one &quot;Intro to Neo4j&quot;, ...](https://twitter.com/neo4j/status/1619379799666860032)
-- [Fan of #Python and #Graphs? ❤ Check out this selection of #NODES2022 talks for Pythonistas made by @jalakoo .. you won&#39;t regret it! #Neo4j](https://twitter.com/neo4j/status/1619062729301495808)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
