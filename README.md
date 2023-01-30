@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [5 Bad Scrum Master Habits you should quit right now](https://www.scrum.org/resources/blog/5-bad-scrum-master-habits-you-should-quit-right-now)
 - [Agile Transformation: ChatGPT or McBoston?](https://www.scrum.org/resources/blog/agile-transformation-chatgpt-or-mcboston)
 - [Curso Evidence-Based Management #5: Las Metas Intermedias en EBM](https://www.scrum.org/resources/blog/curso-evidence-based-management-5-las-metas-intermedias-en-ebm)
 - [Scrum auf einem Blick: Scrum in 11 Schritten erklärt](https://www.scrum.org/resources/blog/scrum-auf-einem-blick-scrum-11-schritten-erklart)
 - [Intro to Scrum &lpar;2 of 16&rpar;: What is the Theory Behind Scrum?](https://www.scrum.org/resources/blog/intro-scrum-2-16-what-theory-behind-scrum)
-- [The importance of Transparency and the Product Backlog &lpar;06&rpar;](https://www.scrum.org/resources/blog/importance-transparency-and-product-backlog-06)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
