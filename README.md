@@ -660,7 +660,9 @@ Comprehensive Documentation-Related Forks
 
 ###### HashiCorp (Industry Leader of Infrastructure as Code)
 
-[![packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer&show_owner=true&theme=vue)](https://github.com/QubitPi/packer)
+[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-dev-portal)
+[![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-packer)
+[![hashicorp-terraform](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-terraform&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-terraform)
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-vault)
 
 ### Data/Knowledge Graph
