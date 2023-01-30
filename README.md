@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1620062781205520385)
-- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1620053470249099265)
 - [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1620033335266246659)
 - [Did you see the latest #Memgraph blog post?](https://twitter.com/memgraphdb/status/1620016059838500865)
 - [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1620015216351219714)
+- [Have you heard about fraud detection in large transaction networks? #memgraph #frauddetection #flask #d3js #python #graphdatabase](https://twitter.com/memgraphdb/status/1620009429394489344)
+- [🎉 This is such a nice thing to see. #Memgraph is No 1 on #HackerNews! 🚀](https://twitter.com/memgraphdb/status/1620007371438448641)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
