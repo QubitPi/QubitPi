@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [&quot;[Project]&quot; Your insights and ideas for machine learning project?](https://www.reddit.com/r/MachineLearning/comments/10ovlcw/project_your_insights_and_ideas_for_machine/)
 - [[R] A Robust Hypothesis Test for Tree Ensemble Pruning](https://www.reddit.com/r/MachineLearning/comments/10otrnf/r_a_robust_hypothesis_test_for_tree_ensemble/)
 - [[R] Train CIFAR10 in under 10 seconds on an A100 &lpar;new world record!&rpar;](https://www.reddit.com/r/MachineLearning/comments/10op6va/r_train_cifar10_in_under_10_seconds_on_an_a100/)
 - [[R] Industrial Case Study of GNNs with PyTorch Geometric for Document Understanding](https://www.reddit.com/r/MachineLearning/comments/10oj2ec/r_industrial_case_study_of_gnns_with_pytorch/)
 - [[R] Incorrect Ranking of Vessel Segmentation Algorithms](https://www.reddit.com/r/MachineLearning/comments/10oii4a/r_incorrect_ranking_of_vessel_segmentation/)
-- [[D] Remote PhD](https://www.reddit.com/r/MachineLearning/comments/10ohc3f/d_remote_phd/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
