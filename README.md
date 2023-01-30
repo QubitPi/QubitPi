@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What&#39;s stopping you from working on speech and voice?](https://www.reddit.com/r/MachineLearning/comments/10p66zc/d_whats_stopping_you_from_working_on_speech_and/)
 - [[D] DL university research PC suggestions?](https://www.reddit.com/r/MachineLearning/comments/10p4lhq/d_dl_university_research_pc_suggestions/)
 - [[R] Parsel: A &lpar;De-&rpar;compositional Framework for Algorithmic Reasoning with Language Models - Stanford University Eric Zelikman et al - Beats prior code generation sota by over 75%!](https://www.reddit.com/r/MachineLearning/comments/10p3afl/r_parsel_a_decompositional_framework_for/)
 - [[P] Keras model production deployment](https://www.reddit.com/r/MachineLearning/comments/10p1cwu/p_keras_model_production_deployment/)
 - [[D] I want to understand the broad steps for building something like Adept.AI](https://www.reddit.com/r/MachineLearning/comments/10p0iir/d_i_want_to_understand_the_broad_steps_for/)
-- [[Discussion] ChatGPT and language understanding benchmarks](https://www.reddit.com/r/MachineLearning/comments/10oyllu/discussion_chatgpt_and_language_understanding/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
