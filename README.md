@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Sparse Ridge Regression](https://www.reddit.com/r/MachineLearning/comments/10oxy9j/d_sparse_ridge_regression/)
 - [[D] Hinton&#39;s Forward-Forward algorithm: Will it replace Backprop?](https://www.reddit.com/r/MachineLearning/comments/10ox18i/d_hintons_forwardforward_algorithm_will_it/)
 - [&quot;[Project]&quot; Your insights and ideas for machine learning project?](https://www.reddit.com/r/MachineLearning/comments/10ovlcw/project_your_insights_and_ideas_for_machine/)
 - [[R] A Robust Hypothesis Test for Tree Ensemble Pruning](https://www.reddit.com/r/MachineLearning/comments/10otrnf/r_a_robust_hypothesis_test_for_tree_ensemble/)
 - [[D]Difference in usecases for AWS Sagemaker vs Databricks?](https://www.reddit.com/r/MachineLearning/comments/10opvjw/ddifference_in_usecases_for_aws_sagemaker_vs/)
-- [[R] Train CIFAR10 in under 10 seconds on an A100 &lpar;new world record!&rpar;](https://www.reddit.com/r/MachineLearning/comments/10op6va/r_train_cifar10_in_under_10_seconds_on_an_a100/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
