@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Feedback: We built a mobile app powered by GPT, specialising in daily task assistance](https://www.reddit.com/r/MachineLearning/comments/10oll72/p_feedback_we_built_a_mobile_app_powered_by_gpt/)
 - [[R] Industrial Case Study of GNNs with PyTorch Geometric for Document Understanding](https://www.reddit.com/r/MachineLearning/comments/10oj2ec/r_industrial_case_study_of_gnns_with_pytorch/)
 - [[R] Incorrect Ranking of Vessel Segmentation Algorithms](https://www.reddit.com/r/MachineLearning/comments/10oii4a/r_incorrect_ranking_of_vessel_segmentation/)
 - [[D] Remote PhD](https://www.reddit.com/r/MachineLearning/comments/10ohc3f/d_remote_phd/)
 - [[N][R] Compiling and running GLM-130B on a local machine &lpar;4x 3090s, int4 quantization&rpar; - Author: Alex J. Champandard](https://www.reddit.com/r/MachineLearning/comments/10ofybj/nr_compiling_and_running_glm130b_on_a_local/)
+- [[P] AI Content Detector](https://www.reddit.com/r/MachineLearning/comments/10ofcis/p_ai_content_detector/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
