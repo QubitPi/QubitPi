@@ -27,7 +27,6 @@ Welome to Jack (Jiaqi)'s Tech World
 [![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jack20191124@proton.me)](mailto:jack20191124@proton.me)
 
 [![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white
 )](https://youtu.be/locCs2Duk5U)
 [![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white
