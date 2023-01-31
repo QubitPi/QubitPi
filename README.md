@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1620395722225995776)
-- [🎓 Learn how you can easily analyze data inside Memgraph for cybersecurity use cases, since most of the use cases from that area have a network-like...](https://twitter.com/memgraphdb/status/1620394969067388928)
 - [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #kafka #...](https://twitter.com/memgraphdb/status/1620371814659641350)
 - [🔎 In graph database terminology, the PageRank algorithm is used to measure the importance of each node based on the number of incoming relationship...](https://twitter.com/memgraphdb/status/1620355206704766976)
 - [🎓 The most interesting and famous application of PageRank is certainly the one that actually sparked its creation. Google founders Larry Page and S...](https://twitter.com/memgraphdb/status/1620325950306095104)
+- [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1620323564623732737)
+- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1620303114753511425)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
