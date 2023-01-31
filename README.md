@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Are there any Machine Learning Journals that accept Viewpoint Papers &lpar;~1500+ words&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10qelxs/r_are_there_any_machine_learning_journals_that/)
 - [[P] Python wrapper of [ New AI classifier for indicating AI-written text from openai tool ]](https://www.reddit.com/r/MachineLearning/comments/10qeakp/p_python_wrapper_of_new_ai_classifier_for/)
 - [Introducing NoRef-ER: A Multi-Language Referenceless ASR Metric &lpar;on HuggingFace&rpar; [R] [P]](https://www.reddit.com/r/MachineLearning/comments/10q8gp6/introducing_norefer_a_multilanguage_referenceless/)
 - [[N] Vincent Warmerdam: Calmcode, Explosion, Open Source and Data Science | Learning From Machine Learning #2](https://www.reddit.com/r/MachineLearning/comments/10q5955/n_vincent_warmerdam_calmcode_explosion_open/)
 - [[D] Generative Model FOr Facts Extraction](https://www.reddit.com/r/MachineLearning/comments/10q45pr/d_generative_model_for_facts_extraction/)
-- [[D] Open-source auto-ml services](https://www.reddit.com/r/MachineLearning/comments/10q1qns/d_opensource_automl_services/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
