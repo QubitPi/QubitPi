@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Using VAE&#39;s latent values &lpar;or any autoencoder&rpar; for Regression.](https://www.reddit.com/r/MachineLearning/comments/10puk1k/p_using_vaes_latent_values_or_any_autoencoder_for/)
 - [[D] Have researchers given up on traditional machine learning methods?](https://www.reddit.com/r/MachineLearning/comments/10pu9eh/d_have_researchers_given_up_on_traditional/)
 - [[D] deepmind&#39;s ai vision](https://www.reddit.com/r/MachineLearning/comments/10ptxdt/d_deepminds_ai_vision/)
 - [[Discussion] Misinformation about ChatGPT and ML in media and where to find good sources of information](https://www.reddit.com/r/MachineLearning/comments/10pth85/discussion_misinformation_about_chatgpt_and_ml_in/)
 - [[R] MusicLM Text to Music from Google Research](https://www.reddit.com/r/MachineLearning/comments/10ppmbb/r_musiclm_text_to_music_from_google_research/)
-- [[D] Is the YoloR paper worth looking into?](https://www.reddit.com/r/MachineLearning/comments/10pducv/d_is_the_yolor_paper_worth_looking_into/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
