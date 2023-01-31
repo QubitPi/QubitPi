@@ -318,7 +318,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Lean Startup and Scrum](https://www.scrum.org/resources/blog/lean-startup-and-scrum)
-- [5 Bad Scrum Master Habits you should quit right now](https://www.scrum.org/resources/blog/5-bad-scrum-master-habits-you-should-quit-right-now)
+- [5 Bad Scrum Master Habits You Should Quit Right Now](https://www.scrum.org/resources/blog/5-bad-scrum-master-habits-you-should-quit-right-now)
 - [Agile Transformation: ChatGPT or McBoston?](https://www.scrum.org/resources/blog/agile-transformation-chatgpt-or-mcboston)
 - [Curso Evidence-Based Management #5: Las Metas Intermedias en EBM](https://www.scrum.org/resources/blog/curso-evidence-based-management-5-las-metas-intermedias-en-ebm)
 - [Scrum auf einem Blick: Scrum in 11 Schritten erklärt](https://www.scrum.org/resources/blog/scrum-auf-einem-blick-scrum-11-schritten-erklart)
