@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Cool ai book i made](https://www.reddit.com/r/MachineLearning/comments/10q4z79/p_cool_ai_book_i_made/)
+- [[N] Vincent Warmerdam: Calmcode, Explosion, Open Source and Data Science | Learning From Machine Learning #2](https://www.reddit.com/r/MachineLearning/comments/10q5955/n_vincent_warmerdam_calmcode_explosion_open/)
 - [[D] Generative Model FOr Facts Extraction](https://www.reddit.com/r/MachineLearning/comments/10q45pr/d_generative_model_for_facts_extraction/)
-- [A taxonomy of generative AI models [R]](https://www.reddit.com/r/MachineLearning/comments/10q1rk7/a_taxonomy_of_generative_ai_models_r/)
 - [[D] Open-source auto-ml services](https://www.reddit.com/r/MachineLearning/comments/10q1qns/d_opensource_automl_services/)
 - [[N] Monitor OpenAI API Latency, Tokens, Rate Limits, and More with Graphsignal](https://www.reddit.com/r/MachineLearning/comments/10pzktw/n_monitor_openai_api_latency_tokens_rate_limits/)
+- [[P] Fine Tuning Whisper in another language](https://www.reddit.com/r/MachineLearning/comments/10px4n6/p_fine_tuning_whisper_in_another_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
