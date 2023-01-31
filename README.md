@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/756859149980008505><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4d61188825c8b1be36eb6e82a5a782b6401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@KnowingVioleteve@奥义德德@ckyKirito等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757230235192131616)
+- [恭喜@杜鄂@小幽然然@SPG龙秀渊等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757230235156480004)
+- [恭喜@July-七月嚼吧嚼吧@芸岚卿@一个沙雕z等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757230230874095833)
 - [恭喜@烟花的宠儿@和泉纱雾kiss-me@我不是可乐冰等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756859149980008505)
 - [恭喜@月入泪_@小冒冒°@杂念吖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756549916644343808)
-- [#原神# #剪彩映虹# 火树银花，吉星高照，笙歌鼎沸，剪彩映虹。 与伙伴们一起，为海灯节的舞台表演做准备吧~ 《原神》剪彩映虹网页活动现已上线，欢迎旅行者前往...](https://t.bilibili.com/756496311141793811)
-- [恭喜@神里绫华吾的爱妻@流水行云无觅处@幻想乡的小小神明等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756488064818216981)
-- [恭喜@划水摸鱼真珺@日起月落坠星河@冬日霜雪233等31位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/756209772398641269)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
