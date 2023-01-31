@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A tool to run chat GPT on your offline data and custom data sources](https://www.reddit.com/r/MachineLearning/comments/10pxma0/p_a_tool_to_run_chat_gpt_on_your_offline_data_and/)
 - [[P] Fine Tuning Whisper in another language](https://www.reddit.com/r/MachineLearning/comments/10px4n6/p_fine_tuning_whisper_in_another_language/)
 - [[D] Have researchers given up on traditional machine learning methods?](https://www.reddit.com/r/MachineLearning/comments/10pu9eh/d_have_researchers_given_up_on_traditional/)
 - [[D] deepmind&#39;s ai vision](https://www.reddit.com/r/MachineLearning/comments/10ptxdt/d_deepminds_ai_vision/)
 - [[Discussion] Misinformation about ChatGPT and ML in media and where to find good sources of information](https://www.reddit.com/r/MachineLearning/comments/10pth85/discussion_misinformation_about_chatgpt_and_ml_in/)
-- [[R] MusicLM Text to Music from Google Research](https://www.reddit.com/r/MachineLearning/comments/10ppmbb/r_musiclm_text_to_music_from_google_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
