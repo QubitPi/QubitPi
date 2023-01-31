@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] What inputs to attention &lpar;e.g. key/value/query&rpar; are recoverable from attention outputs?](https://www.reddit.com/r/MachineLearning/comments/10pyey4/d_what_inputs_to_attention_eg_keyvaluequery_are/)
-- [[P] A tool to run chat GPT on your offline data and custom data sources](https://www.reddit.com/r/MachineLearning/comments/10pxma0/p_a_tool_to_run_chat_gpt_on_your_offline_data_and/)
+- [[N] Monitor OpenAI API Latency, Tokens, Rate Limits, and More with Graphsignal](https://www.reddit.com/r/MachineLearning/comments/10pzktw/n_monitor_openai_api_latency_tokens_rate_limits/)
 - [[P] Fine Tuning Whisper in another language](https://www.reddit.com/r/MachineLearning/comments/10px4n6/p_fine_tuning_whisper_in_another_language/)
 - [[D] Have researchers given up on traditional machine learning methods?](https://www.reddit.com/r/MachineLearning/comments/10pu9eh/d_have_researchers_given_up_on_traditional/)
 - [[D] deepmind&#39;s ai vision](https://www.reddit.com/r/MachineLearning/comments/10ptxdt/d_deepminds_ai_vision/)
+- [[D] Is the YoloR paper worth looking into?](https://www.reddit.com/r/MachineLearning/comments/10pducv/d_is_the_yolor_paper_worth_looking_into/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
