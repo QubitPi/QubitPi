@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] deepmind&#39;s ai vision](https://www.reddit.com/r/MachineLearning/comments/10ptxdt/d_deepminds_ai_vision/)
 - [[Discussion] Misinformation about ChatGPT and ML in media and where to find good sources of information](https://www.reddit.com/r/MachineLearning/comments/10pth85/discussion_misinformation_about_chatgpt_and_ml_in/)
 - [[R] MusicLM Text to Music from Google Research](https://www.reddit.com/r/MachineLearning/comments/10ppmbb/r_musiclm_text_to_music_from_google_research/)
 - [[D] Is the YoloR paper worth looking into?](https://www.reddit.com/r/MachineLearning/comments/10pducv/d_is_the_yolor_paper_worth_looking_into/)
 - [[D] Towards A Token-Free Future In NLP](https://www.reddit.com/r/MachineLearning/comments/10pb982/d_towards_a_tokenfree_future_in_nlp/)
-- [[P] I launched “CatchGPT”, a supervised model trained with millions of text examples, to detect GPT created content](https://www.reddit.com/r/MachineLearning/comments/10pb1y3/p_i_launched_catchgpt_a_supervised_model_trained/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
