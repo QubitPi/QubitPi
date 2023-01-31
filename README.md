@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[N] Monitor OpenAI API Latency, Tokens, Rate Limits, and More with Graphsignal](https://www.reddit.com/r/MachineLearning/comments/10pzktw/n_monitor_openai_api_latency_tokens_rate_limits/)
 - [[P] Fine Tuning Whisper in another language](https://www.reddit.com/r/MachineLearning/comments/10px4n6/p_fine_tuning_whisper_in_another_language/)
 - [[D] Have researchers given up on traditional machine learning methods?](https://www.reddit.com/r/MachineLearning/comments/10pu9eh/d_have_researchers_given_up_on_traditional/)
-- [[D] deepmind&#39;s ai vision](https://www.reddit.com/r/MachineLearning/comments/10ptxdt/d_deepminds_ai_vision/)
 - [[D] Is the YoloR paper worth looking into?](https://www.reddit.com/r/MachineLearning/comments/10pducv/d_is_the_yolor_paper_worth_looking_into/)
+- [[D] Towards A Token-Free Future In NLP](https://www.reddit.com/r/MachineLearning/comments/10pb982/d_towards_a_tokenfree_future_in_nlp/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
