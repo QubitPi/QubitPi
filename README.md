@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Generative Model FOr Facts Extraction](https://www.reddit.com/r/MachineLearning/comments/10q45pr/d_generative_model_for_facts_extraction/)
+- [A taxonomy of generative AI models [R]](https://www.reddit.com/r/MachineLearning/comments/10q1rk7/a_taxonomy_of_generative_ai_models_r/)
+- [[D] Open-source auto-ml services](https://www.reddit.com/r/MachineLearning/comments/10q1qns/d_opensource_automl_services/)
 - [[N] Monitor OpenAI API Latency, Tokens, Rate Limits, and More with Graphsignal](https://www.reddit.com/r/MachineLearning/comments/10pzktw/n_monitor_openai_api_latency_tokens_rate_limits/)
 - [[P] Fine Tuning Whisper in another language](https://www.reddit.com/r/MachineLearning/comments/10px4n6/p_fine_tuning_whisper_in_another_language/)
-- [[D] Have researchers given up on traditional machine learning methods?](https://www.reddit.com/r/MachineLearning/comments/10pu9eh/d_have_researchers_given_up_on_traditional/)
-- [[D] Is the YoloR paper worth looking into?](https://www.reddit.com/r/MachineLearning/comments/10pducv/d_is_the_yolor_paper_worth_looking_into/)
-- [[D] Towards A Token-Free Future In NLP](https://www.reddit.com/r/MachineLearning/comments/10pb982/d_towards_a_tokenfree_future_in_nlp/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
