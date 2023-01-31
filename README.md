@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Use Google Cloud Vertex AI, an ML development platform, and Neo4j, together! 🤓 These technologies can be used to build and deploy graph-based machi...](https://twitter.com/neo4j/status/1620391737163218944)
 - [Ever wondered Why Graph Technology Is the Future?? ✨Scalability 💥Flexibility 👋Agility Learn about Graph Data Base here! #Graphdatabase #Graphte...](https://twitter.com/neo4j/status/1620089533931945985)
 - [RT Foojay.io: The journey in #Java with @JMHReif continues! This time, set up a service that hosts the @springcloud Config server and how to wire our ...](https://twitter.com/foojayio/status/1620085874037002241)
 - [Learn all about Full Stack GraphQL Applications! This practical book describes everything you need to know about creating a full-stack GraphQL applica...](https://twitter.com/neo4j/status/1620029119726510081)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1619980028149899264)
+- [✅ ATTENTION! During this webinar, you&#39;ll learn how to use #GraphQL, React, Node.js, and #Neo4j to build and deploy complex, data-intensive full-stack...](https://twitter.com/neo4j/status/1619802590836920321)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
