@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [🔎 Discover what’s new in Graph Data Science 2.3: ✅Knowledge Graph Embedding ✅Steiner Trees ✅Negative relationships More: #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1620859803412070401)
+- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1620845089466490880)
 - [GraphQL Book Club - Chapter 9: Advanced GraphQL Considerations #graphql @lyonwj](https://twitter.com/neo4j/status/1620795715491446791)
 - [Gaston Guitart, addresses potential challenges to manual deployment of #Neo4j extensions, including SSH configuration. He proposes a framework for aut...](https://twitter.com/neo4j/status/1620754011870662656)
 - [RT Philipp Brunenberg: &quot;Data splitting looks like a trivial point in this pipeline. However, it is an essential part to understand whether you final m...](https://twitter.com/p_brunenberg/status/1620514254108655619)
-- [Neo4j Live: Crossr - Knowledge Graph based Drug Discovery](https://twitter.com/neo4j/status/1620448106390380545)
-- [Use Google Cloud Vertex AI, an ML development platform, and Neo4j, together! 🤓 These technologies can be used to build and deploy graph-based machi...](https://twitter.com/neo4j/status/1620391737163218944)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
