@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Going Meta - Ep 13: a series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=FoHAyBhcH4s)
-- [Neo4j Live: SustainGraph - A Knowledge Graph for Sustainable Development](https://www.youtube.com/watch?v=-6lr-GtsoLk)
 - [Neo4j Live: Crossr - Knowledge Graph based Drug Discovery](https://www.youtube.com/watch?v=rp_MxJXvK60)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=kKlUz_Vt1MM)
 - [Algoritmo del mese - PageRank &lpar;10 Min&rpar;](https://www.youtube.com/watch?v=z1DFg74z3WI)
+- [Ask a Data Scientist: How Does Graph Data Science Work for Unsupervised Dimensionality Reduction?](https://www.youtube.com/watch?v=Eg2m0hHGu7M)
+- [Ask a Data Scientist: What Is Graph Supervised Machine Learning?](https://www.youtube.com/watch?v=AYAinr0KJGw)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
