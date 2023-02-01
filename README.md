@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] NER output label post processing](https://www.reddit.com/r/MachineLearning/comments/10qv7r7/p_ner_output_label_post_processing/)
+- [[D] A report that compares the practices of high-performing companies in Europe to laggards in AI adoption](https://www.reddit.com/r/MachineLearning/comments/10qv72a/d_a_report_that_compares_the_practices_of/)
+- [[R] EMNLP video interviews, workshops, and posters](https://www.reddit.com/r/MachineLearning/comments/10qv5um/r_emnlp_video_interviews_workshops_and_posters/)
 - [[P] A CLI tool for easy transformer sequence classifier training and inference](https://www.reddit.com/r/MachineLearning/comments/10qpcy4/p_a_cli_tool_for_easy_transformer_sequence/)
 - [[P] Self Hostable OpenAI Alternative](https://www.reddit.com/r/MachineLearning/comments/10qobgk/p_self_hostable_openai_alternative/)
-- [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx29/r_seti_finds_eight_potential_alien_signals_with_ml/)
-- [[R] Faithful Chain-of-Thought Reasoning](https://www.reddit.com/r/MachineLearning/comments/10qhgmv/r_faithful_chainofthought_reasoning/)
-- [[D] Audio segmentation - Machine Learning algorithm to segment a audio file into multiple class](https://www.reddit.com/r/MachineLearning/comments/10qfbwg/d_audio_segmentation_machine_learning_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
