@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A CLI tool for easy transformer sequence classifier training and inference](https://www.reddit.com/r/MachineLearning/comments/10qpcy4/p_a_cli_tool_for_easy_transformer_sequence/)
 - [[P] Self Hostable OpenAI Alternative](https://www.reddit.com/r/MachineLearning/comments/10qobgk/p_self_hostable_openai_alternative/)
 - [[D] Best API / Web App or Software for Multi Speaker Tone Analysis?](https://www.reddit.com/r/MachineLearning/comments/10qnfv7/d_best_api_web_app_or_software_for_multi_speaker/)
 - [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx29/r_seti_finds_eight_potential_alien_signals_with_ml/)
 - [[D] Does ChatGPT is an example of RL for classification?](https://www.reddit.com/r/MachineLearning/comments/10qlv6g/d_does_chatgpt_is_an_example_of_rl_for/)
-- [[R] Faithful Chain-of-Thought Reasoning](https://www.reddit.com/r/MachineLearning/comments/10qhgmv/r_faithful_chainofthought_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
