@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] Self Hostable OpenAI Alternative](https://www.reddit.com/r/MachineLearning/comments/10qobgk/p_self_hostable_openai_alternative/)
 - [[D] Best API / Web App or Software for Multi Speaker Tone Analysis?](https://www.reddit.com/r/MachineLearning/comments/10qnfv7/d_best_api_web_app_or_software_for_multi_speaker/)
 - [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx29/r_seti_finds_eight_potential_alien_signals_with_ml/)
-- [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx1m/r_seti_finds_eight_potential_alien_signals_with_ml/)
 - [[D] Does ChatGPT is an example of RL for classification?](https://www.reddit.com/r/MachineLearning/comments/10qlv6g/d_does_chatgpt_is_an_example_of_rl_for/)
+- [[R] Faithful Chain-of-Thought Reasoning](https://www.reddit.com/r/MachineLearning/comments/10qhgmv/r_faithful_chainofthought_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
