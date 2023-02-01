@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1620734205863813120)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1620722124854804481)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1620683620485677057)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1620682111538663427)
 - [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1620673051288281088)
-- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1620650402424266753)
-- [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1620503686190440459)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
