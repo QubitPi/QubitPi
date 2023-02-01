@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Unfamiliar with the ArangoGraph Insights Platform? Why not get started with 14 days on us! Sign up today and hop into the cloud with ArangoDB. ☁️](https://twitter.com/arangodb/status/1620753864700952577)
 - [Check out our first newsletter of 2023! Take a look at what ArangoDB has planned for this year, and stay up to date with all the latest ArangoDB news ...](https://twitter.com/arangodb/status/1620436768712531970)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1620391464747376641)
 - [Graph-based AI has entered the world of Enterprise. Learn how to graph AI is an integral part of different use cases, including fraud detection and se...](https://twitter.com/arangodb/status/1620164963951157274)
 - [Graph databases are made to solve your supply chain use cases. 🔥 Join the CTO of @Altana_AI, Ian Cadieu, to learn how they use a knowledge graph to...](https://twitter.com/arangodb/status/1620029096712355841)
-- [Did you make it to our Graph Done Right webinar? 🥑 This webinar explores ArangoDB&#39;s graph capabilities and expands your knowledge on graph traversa...](https://twitter.com/arangodb/status/1619711985142185986)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
