@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[N] OpenAI starts selling subscriptions to its ChatGPT bot](https://www.reddit.com/r/MachineLearning/comments/10r7k0h/n_openai_starts_selling_subscriptions_to_its/)
 - [[D] Normalizing Flows in 2023?](https://www.reddit.com/r/MachineLearning/comments/10r6qn0/d_normalizing_flows_in_2023/)
 - [[D] Advice for a multi-label classification problem](https://www.reddit.com/r/MachineLearning/comments/10r5qev/d_advice_for_a_multilabel_classification_problem/)
+- [[D] Why is stable diffusion much smaller than predecessors?](https://www.reddit.com/r/MachineLearning/comments/10r5gku/d_why_is_stable_diffusion_much_smaller_than/)
 - [[R] Extracting Training Data from Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/10r57pn/r_extracting_training_data_from_diffusion_models/)
-- [[D] Vectorizing computation of the Jaccard similarity between all instances in a large dataset in Python](https://www.reddit.com/r/MachineLearning/comments/10r417m/d_vectorizing_computation_of_the_jaccard/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
