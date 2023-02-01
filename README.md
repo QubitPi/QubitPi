@@ -350,11 +350,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Enable No-Code Kubernetes with the harpoon Docker Extension](https://www.docker.com/blog/no-code-kubernetes-harpoon-docker-extension/)
 - [Docker Compose: What’s New, What’s Changing, What’s Next](https://www.docker.com/blog/new-docker-compose-v2-and-v1-deprecation/)
 - [January Extensions: Deploy Kubernetes and Develop Cloud Apps Locally](https://www.docker.com/blog/new-docker-extensions-january-2023/)
 - [Generating SBOMs for Your Image with BuildKit](https://www.docker.com/blog/generate-sboms-with-buildkit/)
 - [Highlights from the BuildKit v0.11 Release](https://www.docker.com/blog/highlights-buildkit-v0-11-release/)
-- [Develop Your Cloud App Locally with the LocalStack Extension](https://www.docker.com/blog/develop-your-cloud-app-locally-with-the-localstack-extension/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
