@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Extracting Training Data from Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/10r57pn/r_extracting_training_data_from_diffusion_models/)
 - [[D] Vectorizing computation of the Jaccard similarity between all instances in a large dataset in Python](https://www.reddit.com/r/MachineLearning/comments/10r417m/d_vectorizing_computation_of_the_jaccard/)
 - [[R] On the Expressive Power of Geometric Graph Neural Networks](https://www.reddit.com/r/MachineLearning/comments/10r31eo/r_on_the_expressive_power_of_geometric_graph/)
 - [[P] An open source tool for repeatable PyTorch experiments by embedding your code in each model checkpoint](https://www.reddit.com/r/MachineLearning/comments/10r1pg3/p_an_open_source_tool_for_repeatable_pytorch/)
 - [[D] What does a DL role look like in ten years?](https://www.reddit.com/r/MachineLearning/comments/10qzlhw/d_what_does_a_dl_role_look_like_in_ten_years/)
-- [[D] Tortoise TTS API for GPT-3.](https://www.reddit.com/r/MachineLearning/comments/10qxona/d_tortoise_tts_api_for_gpt3/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
