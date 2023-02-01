@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Memgraph as a platform includes custom analytics on graph storage, minimizing the risks by doing quick and efficient network analysis. Check out ...](https://twitter.com/memgraphdb/status/1620846444130205703)
 - [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1620829925417664514)
 - [🔎 The current issue is that companies can’t conclude anything from all that data, which is especially disastrous if the data indicates that it’s ...](https://twitter.com/memgraphdb/status/1620805928139296768)
 - [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. #memgraph...](https://twitter.com/memgraphdb/status/1620787556299292672)
 - [🎓 #Learn #Cypher with #Memgraph Sometimes it&#39;s helpful to separate new clauses with an indent. Subqueries should be indented to ensure readability....](https://twitter.com/memgraphdb/status/1620785039721074689)
-- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1620778245225414656)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
