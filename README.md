@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx29/r_seti_finds_eight_potential_alien_signals_with_ml/)
+- [[R] SETI finds eight potential alien signals with ML](https://www.reddit.com/r/MachineLearning/comments/10qlx1m/r_seti_finds_eight_potential_alien_signals_with_ml/)
 - [[D] Does ChatGPT is an example of RL for classification?](https://www.reddit.com/r/MachineLearning/comments/10qlv6g/d_does_chatgpt_is_an_example_of_rl_for/)
 - [[R] Faithful Chain-of-Thought Reasoning](https://www.reddit.com/r/MachineLearning/comments/10qhgmv/r_faithful_chainofthought_reasoning/)
 - [[D] Audio segmentation - Machine Learning algorithm to segment a audio file into multiple class](https://www.reddit.com/r/MachineLearning/comments/10qfbwg/d_audio_segmentation_machine_learning_algorithm/)
-- [[R] Are there any Machine Learning Journals that accept Viewpoint Papers &lpar;~1500+ words&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10qelxs/r_are_there_any_machine_learning_journals_that/)
-- [[P] Python wrapper of [ New AI classifier for indicating AI-written text from openai tool ]](https://www.reddit.com/r/MachineLearning/comments/10qeakp/p_python_wrapper_of_new_ai_classifier_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
