@@ -560,11 +560,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Caching Data in SvelteKit](https://css-tricks.com/caching-data-in-sveltekit/)
 - [AR, VR, and a Model for 3D in HTML](https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/)
 - [Animating CSS Grid &lpar;How To + Examples&rpar;](https://css-tricks.com/animating-css-grid-how-to-examples/)
 - [Getting Started With SvelteKit](https://css-tricks.com/getting-started-with-sveltekit/)
 - [More Real-World Uses for :has&lpar;&rpar;](https://css-tricks.com/more-real-world-uses-for-has/)
-- [How to Transition to Manifest V3 for Chrome Extensions](https://css-tricks.com/how-to-transition-to-manifest-v3-for-chrome-extensions/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
