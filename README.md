@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [La visión de producto](https://www.scrum.org/resources/blog/la-vision-de-producto)
 - [Intro to Scrum &lpar;3 of 16&rpar;: What are the Scrum Values?](https://www.scrum.org/resources/blog/intro-scrum-3-16-what-are-scrum-values)
 - [Self-managing: Scrum’s most misunderstood phrase](https://www.scrum.org/resources/blog/self-managing-scrums-most-misunderstood-phrase)
 - [Lean Startup and Scrum](https://www.scrum.org/resources/blog/lean-startup-and-scrum)
 - [5 Bad Scrum Master Habits You Should Quit Right Now](https://www.scrum.org/resources/blog/5-bad-scrum-master-habits-you-should-quit-right-now)
-- [Agile Transformation: ChatGPT or McBoston?](https://www.scrum.org/resources/blog/agile-transformation-chatgpt-or-mcboston)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
