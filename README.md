@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 A data lineage DB is the single source of truth for all data assets in your organization. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1620683620485677057)
-- [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1620682111538663427)
-- [❓ How many recommendation algorithms do you need for a successful recommendation engine? #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1620673051288281088)
 - [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1620650402424266753)
 - [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1620503686190440459)
+- [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1620486068498726912)
+- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1620469963415756809)
+- [🚀 PageRank is a mature graph algorithm that hasn’t yet lost its relevance. Even more so, with the rise of graph database usage it will surely find...](https://twitter.com/memgraphdb/status/1620461657280348163)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
