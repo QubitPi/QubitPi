@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Release Highlights: Neo4j Graph Data Science 2.3](https://www.youtube.com/watch?v=n2Bc9MSLsUs)
 - [Neo4j Live: Graph Data Processing with Cypher](https://www.youtube.com/watch?v=X9izvIMlvk0)
 - [GraphQL Book Club - Chapter 9: Advanced GraphQL Considerations](https://www.youtube.com/watch?v=d1YvtXB1eK0)
 - [Going Meta - Ep 13: a series on graphs, semantics and knowledge](https://www.youtube.com/watch?v=FoHAyBhcH4s)
 - [Neo4j Live: SustainGraph - A Knowledge Graph for Sustainable Development](https://www.youtube.com/watch?v=-6lr-GtsoLk)
-- [Neo4j Live: Crossr - Knowledge Graph based Drug Discovery](https://www.youtube.com/watch?v=rp_MxJXvK60)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
