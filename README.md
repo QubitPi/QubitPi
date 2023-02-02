@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I&#39;m at a crossroads: Bayesian methods VS Reinforcement Learning, which to choose?](https://www.reddit.com/r/MachineLearning/comments/10s0l4c/d_im_at_a_crossroads_bayesian_methods_vs/)
 - [[P] Domestic Violence Dataset](https://www.reddit.com/r/MachineLearning/comments/10s0b47/p_domestic_violence_dataset/)
 - [[P] 1-click deploy for your GPT-3 App](https://www.reddit.com/r/MachineLearning/comments/10rzx7m/p_1click_deploy_for_your_gpt3_app/)
 - [[D] Workflow chair for AI conference](https://www.reddit.com/r/MachineLearning/comments/10rzdem/d_workflow_chair_for_ai_conference/)
 - [[R] Are there any better options to chatgpt?](https://www.reddit.com/r/MachineLearning/comments/10rz7sq/r_are_there_any_better_options_to_chatgpt/)
-- [[p] I built an open source platform to deploy computationally intensive Python functions as serverless jobs, with no timeouts](https://www.reddit.com/r/MachineLearning/comments/10ryu6b/p_i_built_an_open_source_platform_to_deploy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
