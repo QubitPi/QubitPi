@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Querying with multiple vectors during embedding nearest neighbor search?](https://www.reddit.com/r/MachineLearning/comments/10rvkru/d_querying_with_multiple_vectors_during_embedding/)
 - [[D] Do high leverage points affect Neural Net and Tree-based model?](https://www.reddit.com/r/MachineLearning/comments/10rtv0b/d_do_high_leverage_points_affect_neural_net_and/)
 - [[P] Largest Cased NLP dataset](https://www.reddit.com/r/MachineLearning/comments/10rtuh5/p_largest_cased_nlp_dataset/)
 - [[D] ImageNet normalization vs [-1, 1] normalization](https://www.reddit.com/r/MachineLearning/comments/10rtis6/d_imagenet_normalization_vs_1_1_normalization/)
 - [[D] PC takes a long time to execute code, possibility to use a cloud/external device?](https://www.reddit.com/r/MachineLearning/comments/10rsldp/d_pc_takes_a_long_time_to_execute_code/)
-- [[N] Microsoft integrates GPT 3.5 into Teams](https://www.reddit.com/r/MachineLearning/comments/10rqe34/n_microsoft_integrates_gpt_35_into_teams/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
