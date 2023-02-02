@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A Gentle Introduction to AI - Rand Hindi &lpar;CEO at Zama&rpar;, Mind The Product Conference 2022 &lpar;history of AI and ML, current state, and implications for the future especially related to privacy&rpar;](https://www.reddit.com/r/MachineLearning/comments/10rm7ez/d_a_gentle_introduction_to_ai_rand_hindi_ceo_at/)
 - [[P] AI Poker/Machine Learning/Game-Theory](https://www.reddit.com/r/MachineLearning/comments/10rlos9/p_ai_pokermachine_learninggametheory/)
 - [[D] Density clustering with HDBSCAN](https://www.reddit.com/r/MachineLearning/comments/10rkjn5/d_density_clustering_with_hdbscan/)
 - [[R] Machine Learning in Finance: overview and use cases](https://www.reddit.com/r/MachineLearning/comments/10rjfo1/r_machine_learning_in_finance_overview_and_use/)
 - [[R] Sentence autoencoder](https://www.reddit.com/r/MachineLearning/comments/10rfu2x/r_sentence_autoencoder/)
-- [[D] Apple&#39;s ane-transformers - experiences?](https://www.reddit.com/r/MachineLearning/comments/10raouh/d_apples_anetransformers_experiences/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
