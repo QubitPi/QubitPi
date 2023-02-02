@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Why do LLMs like InstructGPT and LLM use RL to instead of supervised learning to learn from the user-ranked examples?](https://www.reddit.com/r/MachineLearning/comments/10rpj0f/d_why_do_llms_like_instructgpt_and_llm_use_rl_to/)
+- [[D] Inconsistent Featurespace in Data](https://www.reddit.com/r/MachineLearning/comments/10rpebe/d_inconsistent_featurespace_in_data/)
 - [[D] Commercial Use of a Model that has been trained using Human3.6M](https://www.reddit.com/r/MachineLearning/comments/10rp7ze/d_commercial_use_of_a_model_that_has_been_trained/)
 - [[D] Global Optimum of K-Means Cost Function](https://www.reddit.com/r/MachineLearning/comments/10rmi74/d_global_optimum_of_kmeans_cost_function/)
 - [[P] [R] A simplistic UI to edit images with Stable Diffusion and InstructPix2Pix](https://www.reddit.com/r/MachineLearning/comments/10rmdwa/p_r_a_simplistic_ui_to_edit_images_with_stable/)
-- [[D] Density clustering with HDBSCAN](https://www.reddit.com/r/MachineLearning/comments/10rkjn5/d_density_clustering_with_hdbscan/)
-- [[R] Machine Learning in Finance: overview and use cases](https://www.reddit.com/r/MachineLearning/comments/10rjfo1/r_machine_learning_in_finance_overview_and_use/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
