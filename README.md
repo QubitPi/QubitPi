@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Do high leverage points affect Neural Net and Tree-based model?](https://www.reddit.com/r/MachineLearning/comments/10rtv0b/d_do_high_leverage_points_affect_neural_net_and/)
+- [[P] Largest Cased NLP dataset](https://www.reddit.com/r/MachineLearning/comments/10rtuh5/p_largest_cased_nlp_dataset/)
+- [[D] ImageNet normalization vs [-1, 1] normalization](https://www.reddit.com/r/MachineLearning/comments/10rtis6/d_imagenet_normalization_vs_1_1_normalization/)
 - [[D] PC takes a long time to execute code, possibility to use a cloud/external device?](https://www.reddit.com/r/MachineLearning/comments/10rsldp/d_pc_takes_a_long_time_to_execute_code/)
 - [[N] Microsoft integrates GPT 3.5 into Teams](https://www.reddit.com/r/MachineLearning/comments/10rqe34/n_microsoft_integrates_gpt_35_into_teams/)
-- [[D] Why do LLMs like InstructGPT and LLM use RL to instead of supervised learning to learn from the user-ranked examples?](https://www.reddit.com/r/MachineLearning/comments/10rpj0f/d_why_do_llms_like_instructgpt_and_llm_use_rl_to/)
-- [[D] Inconsistent Featurespace in Data](https://www.reddit.com/r/MachineLearning/comments/10rpebe/d_inconsistent_featurespace_in_data/)
-- [[D] Commercial Use of a Model that has been trained using Human3.6M](https://www.reddit.com/r/MachineLearning/comments/10rp7ze/d_commercial_use_of_a_model_that_has_been_trained/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
