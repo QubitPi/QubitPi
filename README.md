@@ -200,6 +200,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
 
+[![vue-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vue-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/vue-docs)
+[![vuecommunity](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vuecommunity&show_owner=true&theme=vue)](https://github.com/QubitPi/vuecommunity)
+
 ---
 
 My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
@@ -678,7 +681,6 @@ Comprehensive Documentation-Related Forks
 
 [![reactjs.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactjs.org&show_owner=true&theme=vue)](https://github.com/QubitPi/reactjs.org)
 [![create-react-app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=create-react-app&show_owner=true&theme=vue)](https://github.com/QubitPi/create-react-app)
-[![vue-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vue-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/vue-docs)
 [![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
 [![prettier](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=prettier&show_owner=true&theme=vue)](https://github.com/QubitPi/prettier)
 [![W3Schools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=W3Schools&show_owner=true&theme=vue)](https://github.com/QubitPi/W3Schools)
