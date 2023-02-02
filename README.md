@@ -319,7 +319,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [La visión de producto](https://www.scrum.org/resources/blog/la-vision-de-producto)
 - [Intro to Scrum &lpar;3 of 16&rpar;: What are the Scrum Values?](https://www.scrum.org/resources/blog/intro-scrum-3-16-what-are-scrum-values)
-- [Self-managing: Scrum’s most misunderstood phrase](https://www.scrum.org/resources/blog/self-managing-scrums-most-misunderstood-phrase)
+- [Self-Managing: Scrum’s Most Misunderstood Phrase](https://www.scrum.org/resources/blog/self-managing-scrums-most-misunderstood-phrase)
 - [Lean Startup and Scrum](https://www.scrum.org/resources/blog/lean-startup-and-scrum)
 - [5 Bad Scrum Master Habits You Should Quit Right Now](https://www.scrum.org/resources/blog/5-bad-scrum-master-habits-you-should-quit-right-now)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
