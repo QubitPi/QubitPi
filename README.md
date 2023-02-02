@@ -276,11 +276,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Open Source Vizier: Towards reliable and flexible hyperparameter and blackbox optimization](http://ai.googleblog.com/2023/02/open-source-vizier-towards-reliable-and.html)
 - [The Flan Collection: Advancing open source methods for instruction tuning](http://ai.googleblog.com/2023/02/the-flan-collection-advancing-open.html)
 - [Learning with queried hints](http://ai.googleblog.com/2023/01/learning-with-queried-hints.html)
 - [Deciphering clinical abbreviations with privacy protecting ML](http://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
 - [Google Research, 2022 &amp; beyond: Responsible AI](http://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
-- [Google Research, 2022 &amp; beyond: Language, vision and generative models](http://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
