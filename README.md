@@ -540,7 +540,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Wells Coffee Co](https://dribbble.com/shots/20517655)
 - [Web site / 3D illustration](https://dribbble.com/shots/20514354)
 - [Audio-Technica Concept](https://dribbble.com/shots/20486705)
-- [Vshrеd Mobile App](https://dribbble.com/shots/20485745)
+- [Vshrеd Mobile App design: iOS Android ux ui designer](https://dribbble.com/shots/20485745)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
