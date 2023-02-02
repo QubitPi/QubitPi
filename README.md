@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1621228459728031745)
+- [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1621210844288745474)
 - [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1621198514926526465)
 - [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? #memgraph #g...](https://twitter.com/memgraphdb/status/1621192186975895554)
 - [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1621149942114062336)
-- [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1621140631472189440)
-- [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1621123017760727040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
