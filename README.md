@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] PC takes a long time to execute code, possibility to use a cloud/external device?](https://www.reddit.com/r/MachineLearning/comments/10rsldp/d_pc_takes_a_long_time_to_execute_code/)
 - [[N] Microsoft integrates GPT 3.5 into Teams](https://www.reddit.com/r/MachineLearning/comments/10rqe34/n_microsoft_integrates_gpt_35_into_teams/)
 - [[D] Why do LLMs like InstructGPT and LLM use RL to instead of supervised learning to learn from the user-ranked examples?](https://www.reddit.com/r/MachineLearning/comments/10rpj0f/d_why_do_llms_like_instructgpt_and_llm_use_rl_to/)
 - [[D] Inconsistent Featurespace in Data](https://www.reddit.com/r/MachineLearning/comments/10rpebe/d_inconsistent_featurespace_in_data/)
 - [[D] Commercial Use of a Model that has been trained using Human3.6M](https://www.reddit.com/r/MachineLearning/comments/10rp7ze/d_commercial_use_of_a_model_that_has_been_trained/)
-- [[D] Global Optimum of K-Means Cost Function](https://www.reddit.com/r/MachineLearning/comments/10rmi74/d_global_optimum_of_kmeans_cost_function/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
