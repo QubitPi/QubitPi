@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Underwhelming results with data augmented ResNet152V2 on CIFAR10, what am I doing wrong?](https://www.reddit.com/r/MachineLearning/comments/10rhayw/p_underwhelming_results_with_data_augmented/)
 - [[R] Sentence autoencoder](https://www.reddit.com/r/MachineLearning/comments/10rfu2x/r_sentence_autoencoder/)
 - [[D] Apple&#39;s ane-transformers - experiences?](https://www.reddit.com/r/MachineLearning/comments/10raouh/d_apples_anetransformers_experiences/)
 - [[D] Any open source model, or application to remove no speech parts of a video?](https://www.reddit.com/r/MachineLearning/comments/10r9biu/d_any_open_source_model_or_application_to_remove/)
 - [[N] OpenAI starts selling subscriptions to its ChatGPT bot](https://www.reddit.com/r/MachineLearning/comments/10r7k0h/n_openai_starts_selling_subscriptions_to_its/)
+- [[D] Normalizing Flows in 2023?](https://www.reddit.com/r/MachineLearning/comments/10r6qn0/d_normalizing_flows_in_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
