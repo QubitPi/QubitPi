@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Tesla Government Inc. is looking for Full Stack Developer &lpar;Remote&rpar; that has experience with #memgraph. Check out the job ad at @TeslaGov site :&rpar; #Jobs...](https://twitter.com/memgraphdb/status/1621077094997573632)
-- [Logistics and supply chain optimization, traveling, or network optimization are the most common route planning use cases. Learn more about breadth-fir...](https://twitter.com/memgraphdb/status/1621060102827479040)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1621046007831076864)
 - [Check out our blog post 📰 Recommendation System Using Online #Node2Vec with Memgraph #MAGE ➡️](https://twitter.com/memgraphdb/status/1621041227746447360)
 - [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. #graphdatabase](https://twitter.com/memgraphdb/status/1621031663609192448)
+- [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1621020841457684480)
+- [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1620870350761349122)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
