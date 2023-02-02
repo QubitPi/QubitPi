@@ -182,7 +182,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies
 
-[React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [Vue](https://qubitpi.github.io/vue-docs/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
+[React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
 
 #### Backend Dev
 
@@ -199,9 +199,6 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
-
-[![vue-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vue-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/vue-docs)
-[![vuecommunity](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vuecommunity&show_owner=true&theme=vue)](https://github.com/QubitPi/vuecommunity)
 
 ---
 
