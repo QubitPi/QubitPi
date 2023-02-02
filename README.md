@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j Live: Graph Data Processing with Cypher](https://twitter.com/neo4j/status/1621172969220485120)
 - [💪 The power of #Data and #GraphTechnology by @emileifrem at the @twolionsco podcast. Check out the entire interview with @bradfordcross here: #Grap...](https://twitter.com/neo4j/status/1621130701755105282)
 - [🔎 Discover what’s new in Graph Data Science 2.3: ✅Knowledge Graph Embedding ✅Steiner Trees ✅Negative relationships More: #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1620859803412070401)
 - [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1620845089466490880)
 - [GraphQL Book Club - Chapter 9: Advanced GraphQL Considerations #graphql @lyonwj](https://twitter.com/neo4j/status/1620795715491446791)
-- [Gaston Guitart, addresses potential challenges to manual deployment of #Neo4j extensions, including SSH configuration. He proposes a framework for aut...](https://twitter.com/neo4j/status/1620754011870662656)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
