@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Are you new and interested in Graph Data Science?💡 This book is for you! It walks you through the foundations of graph data science and you can get...](https://twitter.com/neo4j/status/1621179397016354816)
 - [Neo4j Live: Graph Data Processing with Cypher](https://twitter.com/neo4j/status/1621172969220485120)
 - [💪 The power of #Data and #GraphTechnology by @emileifrem at the @twolionsco podcast. Check out the entire interview with @bradfordcross here: #Grap...](https://twitter.com/neo4j/status/1621130701755105282)
 - [🔎 Discover what’s new in Graph Data Science 2.3: ✅Knowledge Graph Embedding ✅Steiner Trees ✅Negative relationships More: #GraphDataScience #Neo...](https://twitter.com/neo4j/status/1620859803412070401)
 - [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1620845089466490880)
-- [GraphQL Book Club - Chapter 9: Advanced GraphQL Considerations #graphql @lyonwj](https://twitter.com/neo4j/status/1620795715491446791)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
