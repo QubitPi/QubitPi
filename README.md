@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] Noisy Sentences Dataset](https://www.reddit.com/r/MachineLearning/comments/10sgxs4/r_p_noisy_sentences_dataset/)
 - [[d]? Is there a way to access youtube alphabetically or by id?](https://www.reddit.com/r/MachineLearning/comments/10sdrp4/d_is_there_a_way_to_access_youtube_alphabetically/)
 - [[p] Is it possible to add more classes to an already trained resnet image classifier model without the need to retrain it in all dataset again? [p]](https://www.reddit.com/r/MachineLearning/comments/10sa859/p_is_it_possible_to_add_more_classes_to_an/)
 - [[Project] I built a minimal stateless ML project template built on my current favourite stack](https://www.reddit.com/r/MachineLearning/comments/10s82tf/project_i_built_a_minimal_stateless_ml_project/)
 - [[P] Domestic Violence Dataset](https://www.reddit.com/r/MachineLearning/comments/10s0b47/p_domestic_violence_dataset/)
-- [[D] Workflow chair for AI conference](https://www.reddit.com/r/MachineLearning/comments/10rzdem/d_workflow_chair_for_ai_conference/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
