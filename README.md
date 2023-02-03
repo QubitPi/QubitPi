@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] editing colors on SHAP plot summary](https://www.reddit.com/r/MachineLearning/comments/10smf2i/r_editing_colors_on_shap_plot_summary/)
 - [[D] Using a public research dataset for &quot;testing&quot; NOT &quot;training&quot; a ML model](https://www.reddit.com/r/MachineLearning/comments/10sledd/d_using_a_public_research_dataset_for_testing_not/)
 - [[D] Get log probs of a sentence using OpenAI APIs?](https://www.reddit.com/r/MachineLearning/comments/10sk8qf/d_get_log_probs_of_a_sentence_using_openai_apis/)
 - [[R] Graph Mixer Networks](https://www.reddit.com/r/MachineLearning/comments/10sj2qf/r_graph_mixer_networks/)
 - [[D] Understanding Vision Transformer &lpar;ViT&rpar; - What are the prerequisites?](https://www.reddit.com/r/MachineLearning/comments/10siibd/d_understanding_vision_transformer_vit_what_are/)
-- [[R] [P] Noisy Sentences Dataset](https://www.reddit.com/r/MachineLearning/comments/10sgxs4/r_p_noisy_sentences_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
