@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Learn about #Neo4j and #GraphDataBase🌎 On Our Youtube channel you can spend: 🇪🇸 10 minutos con Neo4j 🇫🇷 10 minutes avec Neo4j 🇮🇹 ...](https://twitter.com/neo4j/status/1621467357704032258)
 - [This article presents a useful overview of RDF &lpar;Resource Description Framework&rpar; and LPG &lpar;Labeled Property Graph&rpar; models. There are links to source mat...](https://twitter.com/neo4j/status/1621255663270641664)
 - [👉Why is #GraphDataScience a good technique for unsupervised dimensionality reduction? Because data is highly complex, we want to reduce the dimensi...](https://twitter.com/neo4j/status/1621207105716850690)
 - [Are you new and interested in Graph Data Science?💡 This book is for you! It walks you through the foundations of graph data science and you can get...](https://twitter.com/neo4j/status/1621179397016354816)
 - [Neo4j Live: Graph Data Processing with Cypher](https://twitter.com/neo4j/status/1621172969220485120)
-- [💪 The power of #Data and #GraphTechnology by @emileifrem at the @twolionsco podcast. Check out the entire interview with @bradfordcross here: #Grap...](https://twitter.com/neo4j/status/1621130701755105282)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
