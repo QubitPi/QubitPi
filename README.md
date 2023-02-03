@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Topologically evolving new self-modifying multi-task learning algorithms](https://www.reddit.com/r/MachineLearning/comments/10sw0q1/r_topologically_evolving_new_selfmodifying/)
+- [[P] Any thoughts on the possibility of machine learning to retrofit HVAC in buildings?](https://www.reddit.com/r/MachineLearning/comments/10svx96/p_any_thoughts_on_the_possibility_of_machine/)
 - [[R] Multimodal Chain-of-Thought Reasoning in Language Models - Amazon Web Services Zhuosheng Zhang et al - Outperforms GPT-3.5 by 16% &lpar;75%-&gt;91%&rpar; and surpasses human performance on ScienceQA while having less than 1B params!](https://www.reddit.com/r/MachineLearning/comments/10svwch/r_multimodal_chainofthought_reasoning_in_language/)
 - [[D] Topic extraction to simplify news articles](https://www.reddit.com/r/MachineLearning/comments/10sua5b/d_topic_extraction_to_simplify_news_articles/)
 - [[P] I trained an AI model on 120M+ songs from iTunes](https://www.reddit.com/r/MachineLearning/comments/10st28f/p_i_trained_an_ai_model_on_120m_songs_from_itunes/)
-- [[N] Google Open Sources Vizier, Hyperparameter + Blackbox Optimization Service at Scale](https://www.reddit.com/r/MachineLearning/comments/10solty/n_google_open_sources_vizier_hyperparameter/)
-- [[R] editing colors on SHAP plot summary](https://www.reddit.com/r/MachineLearning/comments/10smf2i/r_editing_colors_on_shap_plot_summary/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
