@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the outputs in the transformer model ?](https://www.reddit.com/r/MachineLearning/comments/10scdfi/d_what_is_the_outputs_in_the_transformer_model/)
 - [[D] Is computer science one of the most threatened jobs due to AI?](https://www.reddit.com/r/MachineLearning/comments/10sb0sy/d_is_computer_science_one_of_the_most_threatened/)
 - [[p] Is it possible to add more classes to an already trained resnet image classifier model without the need to retrain it in all dataset again? [p]](https://www.reddit.com/r/MachineLearning/comments/10sa859/p_is_it_possible_to_add_more_classes_to_an/)
 - [[Project] I built a minimal stateless ML project template built on my current favourite stack](https://www.reddit.com/r/MachineLearning/comments/10s82tf/project_i_built_a_minimal_stateless_ml_project/)
 - [[D] I&#39;m at a crossroads: Bayesian methods VS Reinforcement Learning, which to choose?](https://www.reddit.com/r/MachineLearning/comments/10s0l4c/d_im_at_a_crossroads_bayesian_methods_vs/)
-- [[P] Domestic Violence Dataset](https://www.reddit.com/r/MachineLearning/comments/10s0b47/p_domestic_violence_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
