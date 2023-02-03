@@ -386,11 +386,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
+- [2023 OpenID Foundation Board of Directors Election Results](https://openid.net/2023/02/03/2023-openid-foundation-board-of-directors-election-results/)
 - [Second Implementer’s Drafts of Two FAPI 2.0 Specifications Approved](https://openid.net/2023/01/24/second-implementers-drafts-of-two-fapi-2-0-specifications-approved/)
 - [Notice of Vote for Proposed Second Implementer’s Drafts of Two FAPI 2.0 Specifications](https://openid.net/2023/01/08/notice-of-vote-for-proposed-second-implementers-drafts-of-two-fapi-2-0-specifications/)
 - [Announcing the 2023 OpenID Foundation Individual Community Board Members Election](https://openid.net/2023/01/03/2023-board-members-election/)
 - [Implementer’s Draft of OpenID Connect Native SSO for Mobile Apps Approved](https://openid.net/2022/12/29/implementers-draft-of-openid-connect-native-sso-for-mobile-apps-approved/)
-- [FAPI 2.0 – Announcing New Drafts and Security Analysis](https://openid.net/2022/12/19/fapi-2-0-announcement/)
 <!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
