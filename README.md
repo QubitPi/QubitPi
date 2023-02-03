@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ If you like using NetworkX as a graph analytic tool required for your project but often need to reach for other tools, remember that #Memgraph ca...](https://twitter.com/memgraphdb/status/1621458981225906177)
+- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1621431799225122817)
 - [Check out our blog post 📰 Introduction to Stream processing ➡️](https://twitter.com/memgraphdb/status/1621408394597875713)
 - [🎓 The most interesting and famous application of PageRank is certainly the one that actually sparked its creation. Google founders Larry Page and S...](https://twitter.com/memgraphdb/status/1621397827178856448)
 - [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1621394053920079872)
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1621375176771342336)
-- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1621228459728031745)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
