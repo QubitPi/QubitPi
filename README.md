@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [How many graph database query languages do you use? Do you have a favorite one? #memgraph](https://twitter.com/memgraphdb/status/1621530702054318080)
-- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1621512332454289413)
-- [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1621509813485326338)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1621482887764647937)
 - [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. #memgraph #graphdatabase #memgraphdb ...](https://twitter.com/memgraphdb/status/1621464769533280256)
+- [❗️ If you like using NetworkX as a graph analytic tool required for your project but often need to reach for other tools, remember that #Memgraph ca...](https://twitter.com/memgraphdb/status/1621458981225906177)
+- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1621431799225122817)
+- [Check out our blog post 📰 Introduction to Stream processing ➡️](https://twitter.com/memgraphdb/status/1621408394597875713)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
