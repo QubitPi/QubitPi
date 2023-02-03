@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Get log probs of a sentence using OpenAI APIs?](https://www.reddit.com/r/MachineLearning/comments/10sk8qf/d_get_log_probs_of_a_sentence_using_openai_apis/)
 - [[R] Graph Mixer Networks](https://www.reddit.com/r/MachineLearning/comments/10sj2qf/r_graph_mixer_networks/)
 - [[D] Understanding Vision Transformer &lpar;ViT&rpar; - What are the prerequisites?](https://www.reddit.com/r/MachineLearning/comments/10siibd/d_understanding_vision_transformer_vit_what_are/)
 - [[R] [P] Noisy Sentences Dataset](https://www.reddit.com/r/MachineLearning/comments/10sgxs4/r_p_noisy_sentences_dataset/)
 - [[d]? Is there a way to access youtube alphabetically or by id?](https://www.reddit.com/r/MachineLearning/comments/10sdrp4/d_is_there_a_way_to_access_youtube_alphabetically/)
-- [[p] Is it possible to add more classes to an already trained resnet image classifier model without the need to retrain it in all dataset again? [p]](https://www.reddit.com/r/MachineLearning/comments/10sa859/p_is_it_possible_to_add_more_classes_to_an/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
