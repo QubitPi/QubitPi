@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R] What’s your suggestion for offline RL?](https://www.reddit.com/r/MachineLearning/comments/10t4cxu/r_whats_your_suggestion_for_offline_rl/)
 - [[N] FT: Google invests $300mn in artificial intelligence start-up Anthropic](https://www.reddit.com/r/MachineLearning/comments/10sy4at/n_ft_google_invests_300mn_in_artificial/)
-- [[D] High False positive rate](https://www.reddit.com/r/MachineLearning/comments/10swtlc/d_high_false_positive_rate/)
 - [[R] Topologically evolving new self-modifying multi-task learning algorithms](https://www.reddit.com/r/MachineLearning/comments/10sw0q1/r_topologically_evolving_new_selfmodifying/)
 - [[P] Any thoughts on the possibility of machine learning to retrofit HVAC in buildings?](https://www.reddit.com/r/MachineLearning/comments/10svx96/p_any_thoughts_on_the_possibility_of_machine/)
+- [[R] Multimodal Chain-of-Thought Reasoning in Language Models - Amazon Web Services Zhuosheng Zhang et al - Outperforms GPT-3.5 by 16% &lpar;75%-&gt;91%&rpar; and surpasses human performance on ScienceQA while having less than 1B params!](https://www.reddit.com/r/MachineLearning/comments/10svwch/r_multimodal_chainofthought_reasoning_in_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
