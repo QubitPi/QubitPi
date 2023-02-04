@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/758343490715254817><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1c97ce7ba81793734e33213c64465057401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@恰似一只柠檬@咯叽咯叽叮叮咚@无所事事随某人等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/758715864379817991)
 - [恭喜@吸兔兔喵@光叶水青冈@姬坂乃爱厨等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/758343490715254817)
 - [恭喜@笑风云zc@是大神人@伏耶戈等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757972405542977685)
 - [#原神# #原神壁纸# 《原神》「剪彩映虹」网页活动壁纸展示。 亲爱的旅行者，这里为大家带来了「剪彩映虹」网页活动的壁纸，旅行者可以从评论区置顶链接按照自己...](https://t.bilibili.com/757972087713300521)
 - [恭喜@飘摇风雨之中@中二少年辉辉@末迭_YT等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757601324662521864)
-- [恭喜@KnowingVioleteve@奥义德德@ckyKirito等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757230235192131616)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
