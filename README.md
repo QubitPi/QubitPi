@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Mixing metadata and text in embedding for KNN search?](https://www.reddit.com/r/MachineLearning/comments/10tqljc/d_mixing_metadata_and_text_in_embedding_for_knn/)
 - [[Project] ideas NLP](https://www.reddit.com/r/MachineLearning/comments/10tp0mc/project_ideas_nlp/)
 - [[N] [R] Google announces Dreamix: a model that generates videos when given a prompt and an input image/video.](https://www.reddit.com/r/MachineLearning/comments/10tovhn/n_r_google_announces_dreamix_a_model_that/)
 - [[P] NLP Q&amp;A Bot Project Guidance](https://www.reddit.com/r/MachineLearning/comments/10to3v6/p_nlp_qa_bot_project_guidance/)
 - [[D] Could you use SVD for supervised learning?](https://www.reddit.com/r/MachineLearning/comments/10tnnb4/d_could_you_use_svd_for_supervised_learning/)
-- [[R] Coinductive guide to inductive transformer heads](https://www.reddit.com/r/MachineLearning/comments/10tnhpx/r_coinductive_guide_to_inductive_transformer_heads/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
