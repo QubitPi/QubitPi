@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Regression Matlab [R]](https://www.reddit.com/r/MachineLearning/comments/10tdmrt/regression_matlab_r/)
 - [[P] Candy Tracking and Counting with YOLOv8 + ByteTRACK + Supervision Tutorial](https://www.reddit.com/r/MachineLearning/comments/10tbwey/p_candy_tracking_and_counting_with_yolov8/)
 - [Information Retrieval book recommendations? [D]](https://www.reddit.com/r/MachineLearning/comments/10tbfjq/information_retrieval_book_recommendations_d/)
 - [[R] What’s your suggestion for offline RL?](https://www.reddit.com/r/MachineLearning/comments/10t4cxu/r_whats_your_suggestion_for_offline_rl/)
 - [[N] FT: Google invests $300mn in artificial intelligence start-up Anthropic](https://www.reddit.com/r/MachineLearning/comments/10sy4at/n_ft_google_invests_300mn_in_artificial/)
-- [[R] Topologically evolving new self-modifying multi-task learning algorithms](https://www.reddit.com/r/MachineLearning/comments/10sw0q1/r_topologically_evolving_new_selfmodifying/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
