@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1621893090809094145)
-- [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. #memgraph #graphdatabase #memgra...](https://twitter.com/memgraphdb/status/1621883276137795586)
-- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1621874718256119810)
 - [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1621845272971059200)
 - [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1621827156090261506)
+- [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1621821366872719360)
+- [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1621819858986876928)
+- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1621809288841773056)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
