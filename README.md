@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] Prompt-driven vector search with LLMs](https://www.reddit.com/r/MachineLearning/comments/10tfpnv/p_promptdriven_vector_search_with_llms/)
 - [[D] Purchasing Google Colab Pro](https://www.reddit.com/r/MachineLearning/comments/10te7e4/d_purchasing_google_colab_pro/)
 - [Regression Matlab [R]](https://www.reddit.com/r/MachineLearning/comments/10tdmrt/regression_matlab_r/)
-- [[P] Candy Tracking and Counting with YOLOv8 + ByteTRACK + Supervision Tutorial](https://www.reddit.com/r/MachineLearning/comments/10tbwey/p_candy_tracking_and_counting_with_yolov8/)
 - [Information Retrieval book recommendations? [D]](https://www.reddit.com/r/MachineLearning/comments/10tbfjq/information_retrieval_book_recommendations_d/)
+- [[R] What’s your suggestion for offline RL?](https://www.reddit.com/r/MachineLearning/comments/10t4cxu/r_whats_your_suggestion_for_offline_rl/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
