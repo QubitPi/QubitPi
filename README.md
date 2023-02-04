@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [ZUCKERBERG SAYS FACEBOOK WILL LEAN HARD INTO AI [N]](https://www.reddit.com/r/MachineLearning/comments/10ti2sh/zuckerberg_says_facebook_will_lean_hard_into_ai_n/)
 - [[P] Prompt-driven vector search with LLMs](https://www.reddit.com/r/MachineLearning/comments/10tfpnv/p_promptdriven_vector_search_with_llms/)
 - [[D] Purchasing Google Colab Pro](https://www.reddit.com/r/MachineLearning/comments/10te7e4/d_purchasing_google_colab_pro/)
 - [Regression Matlab [R]](https://www.reddit.com/r/MachineLearning/comments/10tdmrt/regression_matlab_r/)
 - [Information Retrieval book recommendations? [D]](https://www.reddit.com/r/MachineLearning/comments/10tbfjq/information_retrieval_book_recommendations_d/)
-- [[R] What’s your suggestion for offline RL?](https://www.reddit.com/r/MachineLearning/comments/10t4cxu/r_whats_your_suggestion_for_offline_rl/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
