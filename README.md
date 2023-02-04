@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Could you use SVD for supervised learning?](https://www.reddit.com/r/MachineLearning/comments/10tnnb4/d_could_you_use_svd_for_supervised_learning/)
+- [[R] Coinductive guide to inductive transformer heads](https://www.reddit.com/r/MachineLearning/comments/10tnhpx/r_coinductive_guide_to_inductive_transformer_heads/)
 - [[R] Grounding Language Models to Images for Multimodal Generation](https://www.reddit.com/r/MachineLearning/comments/10tnbhg/r_grounding_language_models_to_images_for/)
 - [[R] 3D aware image synthesis with a spherical background — BALLGAN](https://www.reddit.com/r/MachineLearning/comments/10tlrow/r_3d_aware_image_synthesis_with_a_spherical/)
 - [[D] Are large language models dangerous?](https://www.reddit.com/r/MachineLearning/comments/10tlh08/d_are_large_language_models_dangerous/)
-- [please help a bunch of students?&lpar;with pre annotated data set&rpar; we were assigned to this task with no prior knowledge of ML i don&#39;t know where to begin with we tried a couple of method which ultimately failed id be thankful for anyone who would tell me in steps what to do with this data[D]](https://www.reddit.com/r/MachineLearning/comments/10tlcb8/please_help_a_bunch_of_studentswith_pre_annotated/)
-- [[P] What tools are available for labelling data for LayoutLMv3?](https://www.reddit.com/r/MachineLearning/comments/10tkuef/p_what_tools_are_available_for_labelling_data_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
