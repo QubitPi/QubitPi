@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 In-Memory Databases that Work Great with #Python ➡️](https://twitter.com/memgraphdb/status/1621916744607473665)
+- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher](https://twitter.com/memgraphdb/status/1621912972166668288)
 - [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1621893090809094145)
 - [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. #memgraph #graphdatabase #memgra...](https://twitter.com/memgraphdb/status/1621883276137795586)
 - [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1621874718256119810)
-- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1621845272971059200)
-- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1621827156090261506)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
