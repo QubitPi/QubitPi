@@ -538,8 +538,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [PuntoPago Website Redesign](https://dribbble.com/shots/20516635)
 - [Wells Coffee Co](https://dribbble.com/shots/20517655)
-- [Otter - Tiny Illustrations](https://dribbble.com/shots/20557641)
 - [Web site / 3D illustration](https://dribbble.com/shots/20514354)
+- [Otter - Tiny Illustrations](https://dribbble.com/shots/20557641)
 - [Typographic Logo Collection](https://dribbble.com/shots/20544795)
 <!-- DRIBBBLE-TRENDING:END -->
 
