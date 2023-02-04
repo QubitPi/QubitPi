@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1621845272971059200)
 - [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1621827156090261506)
 - [Learn what is #Docker Compose and how it can help you in the application development process. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1621821366872719360)
 - [Check out our blog post 📰 How to orchestrate your graph application with #Docker Compose ➡️](https://twitter.com/memgraphdb/status/1621819858986876928)
 - [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1621809288841773056)
-- [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1621770785781174274)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
