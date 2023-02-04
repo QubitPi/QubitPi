@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;Real Social Networks: Humans have been involved in social networks for tens of thousands of years - not just the recent online variety.&quot; @NAChristaki...](https://twitter.com/neo4j/status/1621845296358608897)
 - [Now HashGNN in the Neo4j Graph Data Science Library with Adam Schill-Collberg #FOSDEM @GraphDevroom Livestream Schedule](https://twitter.com/neo4j/status/1621811652042555392)
 - [#FOSDEM @GraphDevroom live now Livestream Schedule Starting with TEDective on European Tender Data](https://twitter.com/neo4j/status/1621804351822995457)
 - [Learn about #KnowledgeGraphs! Tiroshan Madushanka explores how a knowledge graph about movies represents the actors, directors, producers, and studios...](https://twitter.com/neo4j/status/1621584371164536834)
 - [Get the #Neo4j Certification with #GraphAcademy! 🚀 It&#39;s free Free and Self-Paced---&gt; start today!](https://twitter.com/neo4j/status/1621509072796418057)
-- [Learn about #Neo4j and #GraphDataBase🌎 On Our Youtube channel you can spend: 🇪🇸 10 minutos con Neo4j 🇫🇷 10 minutes avec Neo4j 🇮🇹 ...](https://twitter.com/neo4j/status/1621467357704032258)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
