@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Are large language models dangerous?](https://www.reddit.com/r/MachineLearning/comments/10tlh08/d_are_large_language_models_dangerous/)
+- [please help a bunch of students?&lpar;with pre annotated data set&rpar; we were assigned to this task with no prior knowledge of ML i don&#39;t know where to begin with we tried a couple of method which ultimately failed id be thankful for anyone who would tell me in steps what to do with this data[D]](https://www.reddit.com/r/MachineLearning/comments/10tlcb8/please_help_a_bunch_of_studentswith_pre_annotated/)
 - [[P] What tools are available for labelling data for LayoutLMv3?](https://www.reddit.com/r/MachineLearning/comments/10tkuef/p_what_tools_are_available_for_labelling_data_for/)
 - [15 years old and bad at math [D]](https://www.reddit.com/r/MachineLearning/comments/10tkfja/15_years_old_and_bad_at_math_d/)
 - [[N] GitHub CEO on why open source developers should be exempt from the EU’s AI Act](https://www.reddit.com/r/MachineLearning/comments/10tjctk/n_github_ceo_on_why_open_source_developers_should/)
-- [[R] Bilingual &lpar;or Multilingual&rpar; Large Language models are the key to human parity on machine translations even for difficult language pairs and domains &lpar;e.g literature&rpar;. An English-Chinese comparison.](https://www.reddit.com/r/MachineLearning/comments/10tj3w3/r_bilingual_or_multilingual_large_language_models/)
-- [[R] Chinchilla data-optimal scaling laws: In plain English](https://www.reddit.com/r/MachineLearning/comments/10tj11b/r_chinchilla_dataoptimal_scaling_laws_in_plain/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
