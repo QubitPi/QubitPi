@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Code refactoring or code rewriting, what do you prefer? Source: #memgraph #devhumor #legacycode](https://twitter.com/memgraphdb/status/1621760212469256196)
-- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. #memgraph #gra...](https://twitter.com/memgraphdb/status/1621745617323151361)
 - [Check out our blog post 📰 Analyzing Real-Time Movie Reviews with #Redpanda and Memgraph ➡️](https://twitter.com/memgraphdb/status/1621595128841310209)
 - [🚀 The power behind any recommendation engine is the algorithms used to create recommendations. The most powerful recommendation algorithms are made...](https://twitter.com/memgraphdb/status/1621571217965596674)
 - [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1621557125657886721)
+- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1621553351799316481)
+- [How many graph database query languages do you use? Do you have a favorite one? #memgraph](https://twitter.com/memgraphdb/status/1621530702054318080)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
