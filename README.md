@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Using an Image Regression Model to Guide Stable Diffusion Inference.](https://www.reddit.com/r/MachineLearning/comments/10uf4c6/p_using_an_image_regression_model_to_guide_stable/)
 - [[N] &quot;I got access to Google LaMDA, the Chatbot that was so realistic that one Google engineer thought it was conscious. First impressions&quot;](https://www.reddit.com/r/MachineLearning/comments/10ucs5u/n_i_got_access_to_google_lamda_the_chatbot_that/)
 - [Objects Color Matching against a Reference Standard &lpar;ColorCODEX&rpar;? [D]](https://www.reddit.com/r/MachineLearning/comments/10ucq3t/objects_color_matching_against_a_reference/)
 - [Which Deep Learning Method to use for the classification of precious stones &lpar;like diamonds, sapphire, ruby&rpar; based on digital photo images and data set? [D]](https://www.reddit.com/r/MachineLearning/comments/10ub3mx/which_deep_learning_method_to_use_for_the/)
 - [[D] Local GUI for Custom TTS Learning?](https://www.reddit.com/r/MachineLearning/comments/10uast8/d_local_gui_for_custom_tts_learning/)
-- [[D] Generate Knowledge Graphs from Unstructured Texts with GPT-3!](https://www.reddit.com/r/MachineLearning/comments/10ua7zx/d_generate_knowledge_graphs_from_unstructured/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
