@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] How Machine Learning is Transforming Cybersecurity](https://www.reddit.com/r/MachineLearning/comments/10ul6hy/d_how_machine_learning_is_transforming/)
+- [[R] [D] PADL: Language-Directed Physics-Based Character Control by NVIDIA](https://www.reddit.com/r/MachineLearning/comments/10ul2w8/r_d_padl_languagedirected_physicsbased_character/)
 - [[P] Specific questions about programming an Artificial Inteligence](https://www.reddit.com/r/MachineLearning/comments/10ukxjh/p_specific_questions_about_programming_an/)
 - [[R] [D] The New XOR Problem](https://www.reddit.com/r/MachineLearning/comments/10ukahs/r_d_the_new_xor_problem/)
 - [[P] Developing an artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/10uk4w3/p_developing_an_artificial_intelligence/)
-- [I dreamt about this, is anyone working on it? [D]](https://www.reddit.com/r/MachineLearning/comments/10uk0lp/i_dreamt_about_this_is_anyone_working_on_it_d/)
-- [[P] I made a browser extension that uses ChatGPT to answer every StackOverflow question](https://www.reddit.com/r/MachineLearning/comments/10ujsk5/p_i_made_a_browser_extension_that_uses_chatgpt_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
