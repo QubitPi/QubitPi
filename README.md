@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Local GUI for Custom TTS Learning?](https://www.reddit.com/r/MachineLearning/comments/10uast8/d_local_gui_for_custom_tts_learning/)
 - [[D] Generate Knowledge Graphs from Unstructured Texts with GPT-3!](https://www.reddit.com/r/MachineLearning/comments/10ua7zx/d_generate_knowledge_graphs_from_unstructured/)
 - [[N] Hardee&#39;s Shows Us What AI CAN’T Do with an unAImaginable Experiment](https://www.reddit.com/r/MachineLearning/comments/10u9k16/n_hardees_shows_us_what_ai_cant_do_with_an/)
 - [Any games that use real AI system for the bots? [D]](https://www.reddit.com/r/MachineLearning/comments/10u8s4n/any_games_that_use_real_ai_system_for_the_bots_d/)
 - [[D] Isn&#39;t that the algorithm for any statistical model ?](https://www.reddit.com/r/MachineLearning/comments/10u8lcq/d_isnt_that_the_algorithm_for_any_statistical/)
-- [[R] AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/10tzs3m/r_audioldm_texttoaudio_generation_with_latent/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
