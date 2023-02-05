@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Large language models &lpar;LLM&rpar; as priority / conflict resolver for embodied AI or in general](https://www.reddit.com/r/MachineLearning/comments/10urdb4/d_large_language_models_llm_as_priority_conflict/)
+- [[D] Is there a database of English language tokens, including all dictionary words and common word segments?](https://www.reddit.com/r/MachineLearning/comments/10urbne/d_is_there_a_database_of_english_language_tokens/)
 - [[D] Is English the optimal language to train NLP models on?](https://www.reddit.com/r/MachineLearning/comments/10uqnj3/d_is_english_the_optimal_language_to_train_nlp/)
 - [[R] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://www.reddit.com/r/MachineLearning/comments/10upp62/r_blip2_bootstrapping_languageimage_pretraining/)
 - [[P] Interactive Map of NeurIPS Proceedings 1987-2022](https://www.reddit.com/r/MachineLearning/comments/10up2z8/p_interactive_map_of_neurips_proceedings_19872022/)
-- [[P] I made CoPilot for writing LaTeX &lpar;in Overleaf&rpar; - what do you think?](https://www.reddit.com/r/MachineLearning/comments/10uodnd/p_i_made_copilot_for_writing_latex_in_overleaf/)
-- [[P] NeuralFit now allows evolution of recurrent neural networks](https://www.reddit.com/r/MachineLearning/comments/10umhh8/p_neuralfit_now_allows_evolution_of_recurrent/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
