@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Why not use Stable Diffusion’s VAE to get textual embeddings? [D]](https://www.reddit.com/r/MachineLearning/comments/10uj765/why_not_use_stable_diffusions_vae_to_get_textual/)
+- [[D] Does the M2 Max 30-core GPU have any advantage over M2 Pro 19-core GPU in Machine Learning Tasks?](https://www.reddit.com/r/MachineLearning/comments/10uiwyk/d_does_the_m2_max_30core_gpu_have_any_advantage/)
 - [[P] tradeslyPro - AI Roboadvisor](https://www.reddit.com/r/MachineLearning/comments/10uiird/p_tradeslypro_ai_roboadvisor/)
 - [[D] List of Large Language Models to play with.](https://www.reddit.com/r/MachineLearning/comments/10uh62c/d_list_of_large_language_models_to_play_with/)
 - [[P] Using an Image Regression Model to Guide Stable Diffusion Inference.](https://www.reddit.com/r/MachineLearning/comments/10uf4c6/p_using_an_image_regression_model_to_guide_stable/)
-- [[N] &quot;I got access to Google LaMDA, the Chatbot that was so realistic that one Google engineer thought it was conscious. First impressions&quot;](https://www.reddit.com/r/MachineLearning/comments/10ucs5u/n_i_got_access_to_google_lamda_the_chatbot_that/)
-- [Objects Color Matching against a Reference Standard &lpar;ColorCODEX&rpar;? [D]](https://www.reddit.com/r/MachineLearning/comments/10ucq3t/objects_color_matching_against_a_reference/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
