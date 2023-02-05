@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Building robust applications using #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1622227793961521153)
+- [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1622210181542158336)
+- [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. #memgraph #graphdata...](https://twitter.com/memgraphdb/status/1622206908848283654)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1622183756852240389)
 - [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1622171674371129345)
-- [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1622147263270100992)
-- [An important part of handling data is visualizing it. Graphs as a data structure are no exception to that. We worked on an internal graph visualizatio...](https://twitter.com/memgraphdb/status/1622122603614801920)
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1622118828946726912)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
