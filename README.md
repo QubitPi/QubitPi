@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Any games that use real AI system for the bots? [D]](https://www.reddit.com/r/MachineLearning/comments/10u8s4n/any_games_that_use_real_ai_system_for_the_bots_d/)
 - [[D] Isn&#39;t that the algorithm for any statistical model ?](https://www.reddit.com/r/MachineLearning/comments/10u8lcq/d_isnt_that_the_algorithm_for_any_statistical/)
 - [[R] AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/10tzs3m/r_audioldm_texttoaudio_generation_with_latent/)
 - [[D] which of the FOSS LLM&#39;s has the best trivia knowlege?](https://www.reddit.com/r/MachineLearning/comments/10txvqc/d_which_of_the_foss_llms_has_the_best_trivia/)
 - [[D] GNN Is node information required ?](https://www.reddit.com/r/MachineLearning/comments/10twd06/d_gnn_is_node_information_required/)
-- [What text to speech does this guy use? [R]](https://www.reddit.com/r/MachineLearning/comments/10tvggb/what_text_to_speech_does_this_guy_use_r/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
