@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [D] The New XOR Problem](https://www.reddit.com/r/MachineLearning/comments/10ukahs/r_d_the_new_xor_problem/)
 - [[P] Developing an artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/10uk4w3/p_developing_an_artificial_intelligence/)
 - [I dreamt about this, is anyone working on it? [D]](https://www.reddit.com/r/MachineLearning/comments/10uk0lp/i_dreamt_about_this_is_anyone_working_on_it_d/)
 - [[P] I made a browser extension that uses ChatGPT to answer every StackOverflow question](https://www.reddit.com/r/MachineLearning/comments/10ujsk5/p_i_made_a_browser_extension_that_uses_chatgpt_to/)
 - [Are PhDs in statistics useful for ML research? [D]](https://www.reddit.com/r/MachineLearning/comments/10ujj0b/are_phds_in_statistics_useful_for_ml_research_d/)
-- [Why not use Stable Diffusion’s VAE to get textual embeddings? [D]](https://www.reddit.com/r/MachineLearning/comments/10uj765/why_not_use_stable_diffusions_vae_to_get_textual/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
