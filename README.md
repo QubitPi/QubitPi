@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1622462340028370945)
 - [❗️ The data lineage graph is the single source of truth about your organization’s data. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1622319903482036224)
 - [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1622295994049216515)
 - [Check out our blog post 📰 How to use #GQLAlchemy query builder? ➡️](https://twitter.com/memgraphdb/status/1622281903633010688)
 - [Check out our blog post 📰 Neo4j vs Memgraph - How to choose a graph database? ➡️](https://twitter.com/memgraphdb/status/1622275358560075778)
+- [🔎 In graph database terminology, the PageRank algorithm is used to measure the importance of each node based on the number of incoming relationship...](https://twitter.com/memgraphdb/status/1622237106054496258)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
