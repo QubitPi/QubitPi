@@ -373,11 +373,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: k8s.gcr.io image registry will be frozen from the 3rd of April 2023](https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/)
 - [Blog: Spotlight on SIG Instrumentation](https://kubernetes.io/blog/2023/02/03/sig-instrumentation-spotlight-2023/)
 - [Blog: Consider All Microservices Vulnerable — And Monitor Their Behavior](https://kubernetes.io/blog/2023/01/20/security-behavior-analysis/)
 - [Blog: Protect Your Mission-Critical Pods From Eviction With PriorityClass](https://kubernetes.io/blog/2023/01/12/protect-mission-critical-pods-priorityclass/)
 - [Blog: Kubernetes 1.26: Eviction policy for unhealthy pods guarded by PodDisruptionBudgets](https://kubernetes.io/blog/2023/01/06/unhealthy-pod-eviction-policy-for-pdbs/)
-- [Blog: Kubernetes 1.26: Retroactive Default StorageClass](https://kubernetes.io/blog/2023/01/05/retroactive-default-storage-class/)
 <!-- KUBERNETES-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
