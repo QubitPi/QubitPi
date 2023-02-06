@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Creating a Large Language Model of a Philosopher](https://www.reddit.com/r/MachineLearning/comments/10uxfhx/r_creating_a_large_language_model_of_a_philosopher/)
 - [[D] Yann Lecun seems to be very petty against ChatGPT](https://www.reddit.com/r/MachineLearning/comments/10uw974/d_yann_lecun_seems_to_be_very_petty_against/)
 - [[D] Open Source Implementation of Dialogue LLMs like ChatGPT with Reinforcement Learning from Human Feedback?](https://www.reddit.com/r/MachineLearning/comments/10uw0n9/d_open_source_implementation_of_dialogue_llms/)
 - [[P] I Made a Text Bot Powered by ChatGPT, DALLE 2, and Wolfram Alpha](https://www.reddit.com/r/MachineLearning/comments/10uuc79/p_i_made_a_text_bot_powered_by_chatgpt_dalle_2/)
 - [[R] deep learning and session-specific rapid recalibration for dynamic hand gesture recognition from EMG](https://www.reddit.com/r/MachineLearning/comments/10uu7h0/r_deep_learning_and_sessionspecific_rapid/)
-- [[D] AtheneWins just showcased an AI streamer bot, Does anyone know how he did this?](https://www.reddit.com/r/MachineLearning/comments/10usdy0/d_athenewins_just_showcased_an_ai_streamer_bot/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
