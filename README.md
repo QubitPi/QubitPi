@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1622516700431122433)
 - [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1622495561885577217)
 - [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1622490777594068992)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at #memgraph #graphmodeling #graphdat...](https://twitter.com/memgraphdb/status/1622481214203473923)
 - [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 #memgraph #routeplanning #cypher #Dijkstra #graphdatab...](https://twitter.com/memgraphdb/status/1622462340028370945)
+- [❗️ The data lineage graph is the single source of truth about your organization’s data. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1622319903482036224)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
