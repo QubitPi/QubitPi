@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🪄Our @memgraphmage has something new for you. 🎉 In MAGE 1.6 we introduce a module that enables developers to serialize Memgraph into Elasticsear...](https://twitter.com/memgraphdb/status/1622581335742205953)
-- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1622570050086481920)
-- [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1622551929581707265)
-- [Thank you @prahaladd for your contribution. We are sure that the #memgraph community will appreciate it :&rpar;](https://twitter.com/memgraphdb/status/1622549767153754113)
-- [Do you automate every task that can be automated? Source: #memgraph #devhumor #legacycode #automation #xkcd](https://twitter.com/memgraphdb/status/1622546141228195841)
+- [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1622617866703863809)
+- [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1622614690013622272)
+- [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1622612884604784640)
+- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1622599497321795585)
+- [Check out our blog post 📰 Importing Table Data into a Graph Database with #GQLAlchemy ➡️](https://twitter.com/memgraphdb/status/1622590184251326465)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
