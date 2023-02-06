@@ -324,11 +324,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Die 3 schlimmsten Fehler mit Working-Agreements – und wie Scrum Master diese für immer vermeiden](https://www.scrum.org/resources/blog/die-3-schlimmsten-fehler-mit-working-agreements-und-wie-scrum-master-diese-fur-immer)
 - [Intro to Scrum &lpar;4 of 16&rpar;: What is a Scrum Team?](https://www.scrum.org/resources/blog/intro-scrum-4-16-what-scrum-team)
 - [Descubrimiento de producto con Lean Startup](https://www.scrum.org/resources/blog/descubrimiento-de-producto-con-lean-startup)
 - [What is the Increment?](https://www.scrum.org/resources/blog/what-increment)
 - [Why Should I Use Personal Scrum?](https://www.scrum.org/resources/blog/why-should-i-use-personal-scrum)
-- [The importance of Transparency and the Sprint Backlog &lpar;07&rpar;](https://www.scrum.org/resources/blog/importance-transparency-and-sprint-backlog-07)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
