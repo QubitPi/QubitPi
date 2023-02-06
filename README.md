@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We made an open source platform for machine learning and data monitoring](https://www.reddit.com/r/MachineLearning/comments/10v31h4/p_we_made_an_open_source_platform_for_machine/)
 - [[P] I made image clustering and captioning tools](https://www.reddit.com/r/MachineLearning/comments/10v2vmo/p_i_made_image_clustering_and_captioning_tools/)
 - [High-speed cameras and deep learning [Research]](https://www.reddit.com/r/MachineLearning/comments/10v12fn/highspeed_cameras_and_deep_learning_research/)
 - [[R] Research trends in Graph Neural Networks &lpar;GNN&rpar;](https://www.reddit.com/r/MachineLearning/comments/10v0nkm/r_research_trends_in_graph_neural_networks_gnn/)
 - [[P] I made a browser extension that remove link Google Search Console](https://www.reddit.com/r/MachineLearning/comments/10uyltw/p_i_made_a_browser_extension_that_remove_link/)
-- [[R] Creating a Large Language Model of a Philosopher](https://www.reddit.com/r/MachineLearning/comments/10uxfhx/r_creating_a_large_language_model_of_a_philosopher/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
