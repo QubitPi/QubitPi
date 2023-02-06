@@ -182,7 +182,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies
 
-[React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
+[React](https://qubitpi.github.io/reactjs.org/) | [Create React App](https://qubitpi.github.io/create-react-app/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/)
 
 #### Backend Dev
 
