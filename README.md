@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1622658382711648262)
 - [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1622641845917605889)
 - [Check out our blog post 📰 How to Identify Essential Proteins using Betweenness Centrality ➡️](https://twitter.com/memgraphdb/status/1622617866703863809)
 - [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1622614690013622272)
 - [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1622612884604784640)
-- [🍿Check out the #Memgraph video &quot;How To Install Memgraph Platform&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1622599497321795585)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
