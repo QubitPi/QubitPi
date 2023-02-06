@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Revision code [R]](https://www.reddit.com/r/MachineLearning/comments/10vcpyb/revision_code_r/)
 - [Does the high dimensionality of AI systems that model the real world tell us something about the abstract space of ideas? [D]](https://www.reddit.com/r/MachineLearning/comments/10vbrgg/does_the_high_dimensionality_of_ai_systems_that/)
 - [[P] Forecasting methods in Time Series](https://www.reddit.com/r/MachineLearning/comments/10v9j5l/p_forecasting_methods_in_time_series/)
 - [[D] Comic book reader with speech balloon zooming](https://www.reddit.com/r/MachineLearning/comments/10v6w9t/d_comic_book_reader_with_speech_balloon_zooming/)
 - [Which strategies,framework and applications tools can be implement to automatically monitor the health of the machine learning model? [D]](https://www.reddit.com/r/MachineLearning/comments/10v6urh/which_strategiesframework_and_applications_tools/)
-- [[P] We made an open source platform for machine learning and data monitoring](https://www.reddit.com/r/MachineLearning/comments/10v31h4/p_we_made_an_open_source_platform_for_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
