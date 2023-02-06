@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🪄Our @memgraphmage has something new for you. 🎉 In MAGE 1.6 we introduce a module that enables developers to serialize Memgraph into Elasticsear...](https://twitter.com/memgraphdb/status/1622581335742205953)
+- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. #memgrap...](https://twitter.com/memgraphdb/status/1622570050086481920)
 - [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1622551929581707265)
 - [Thank you @prahaladd for your contribution. We are sure that the #memgraph community will appreciate it :&rpar;](https://twitter.com/memgraphdb/status/1622549767153754113)
 - [Do you automate every task that can be automated? Source: #memgraph #devhumor #legacycode #automation #xkcd](https://twitter.com/memgraphdb/status/1622546141228195841)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1622534064820420609)
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1622516700431122433)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
