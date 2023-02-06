@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I Made a Text Bot Powered by ChatGPT, DALLE 2, and Wolfram Alpha](https://www.reddit.com/r/MachineLearning/comments/10uuc79/p_i_made_a_text_bot_powered_by_chatgpt_dalle_2/)
 - [[R] deep learning and session-specific rapid recalibration for dynamic hand gesture recognition from EMG](https://www.reddit.com/r/MachineLearning/comments/10uu7h0/r_deep_learning_and_sessionspecific_rapid/)
 - [[D] AtheneWins just showcased an AI streamer bot, Does anyone know how he did this?](https://www.reddit.com/r/MachineLearning/comments/10usdy0/d_athenewins_just_showcased_an_ai_streamer_bot/)
 - [[D] RNN and S4 etc](https://www.reddit.com/r/MachineLearning/comments/10us9qc/d_rnn_and_s4_etc/)
 - [[D] Overview of of Chatbot Research?](https://www.reddit.com/r/MachineLearning/comments/10urfkj/d_overview_of_of_chatbot_research/)
-- [[D] Large language models &lpar;LLM&rpar; as priority / conflict resolver for embodied AI or in general](https://www.reddit.com/r/MachineLearning/comments/10urdb4/d_large_language_models_llm_as_priority_conflict/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
