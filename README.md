@@ -124,8 +124,6 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks
 
 <div align="center">
-    
-<img width="15%" src="https://user-images.githubusercontent.com/16126939/201518258-04688e15-fb83-43d1-b508-b11d6a2b88dd.png">[![Eisenhower Matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=vue)](https://github.com/QubitPi/hadoop)<img width="15%" src="https://user-images.githubusercontent.com/16126939/214986988-7d6fc586-0624-4f9d-b200-53317b02b01c.png">
     
