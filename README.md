@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Looking for string generation GAN](https://www.reddit.com/r/MachineLearning/comments/10vidvk/p_looking_for_string_generation_gan/)
 - [[D] What techniques can I use to tell if a problem is likely enough to be solved by ML so as to justify compiling the dataset?](https://www.reddit.com/r/MachineLearning/comments/10vgw7s/d_what_techniques_can_i_use_to_tell_if_a_problem/)
 - [[N] Google: An Important Next Step On Our AI Journey](https://www.reddit.com/r/MachineLearning/comments/10vgrff/n_google_an_important_next_step_on_our_ai_journey/)
 - [[N] Getty Images sues AI art generator Stable Diffusion in the US for copyright infringement](https://www.reddit.com/r/MachineLearning/comments/10vg97m/n_getty_images_sues_ai_art_generator_stable/)
 - [Revision code [R]](https://www.reddit.com/r/MachineLearning/comments/10vcpyb/revision_code_r/)
-- [Does the high dimensionality of AI systems that model the real world tell us something about the abstract space of ideas? [D]](https://www.reddit.com/r/MachineLearning/comments/10vbrgg/does_the_high_dimensionality_of_ai_systems_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
