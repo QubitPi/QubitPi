@@ -250,7 +250,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759889666030698531><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/433d7702255520435ecd2717a9a5a32a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759890696823898169><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2e2209c78f57697ee4b7331edf9b2f72401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #胡桃# #赤团开时# 亲爱的旅行者，「赤团开时」活动祈愿现已开启，「雪霁梅香·胡桃&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/759889666030698531)
