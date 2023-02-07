@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Become a certified ArangoDB expert. 🔥 Test your knowledge, complete the certification examination below, and get all the bragging rights. Register ...](https://twitter.com/arangodb/status/1623064065403678727)
 - [We are excited to share we are officially #SOC2 compliant! A big kudos to everyone involved in the process. 🥑🤝](https://twitter.com/arangodb/status/1622950918961364992)
 - [Join Deenu Yadav of Plural Technology and learn how they used graph data, knowledge graphs, and AI/ML to power new ways to analyze products, their bil...](https://twitter.com/arangodb/status/1622928176778190850)
 - [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑](https://twitter.com/arangodb/status/1622701694042755072)
 - [We are #hiring! Join Team Avocado as an Account Executive &lpar;West Coast&rpar;. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1622565794293972993)
-- [Check out our first newsletter of 2023! Take a look at what ArangoDB has planned for this year, and stay up to date with all the latest ArangoDB news ...](https://twitter.com/arangodb/status/1622248700243214338)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
