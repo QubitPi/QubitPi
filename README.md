@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1623006679175507992)
+- [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ #memgraph #graphdatabase #stream #dat...](https://twitter.com/memgraphdb/status/1622998372901691395)
+- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1622980252426285057)
 - [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1622972955893579776)
 - [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1622961881488011264)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1622932440548356096)
-- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1622931682717204481)
-- [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1622908530125668352)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
