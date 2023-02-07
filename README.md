@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] ChatGPT without size limits: upload any pdf and apply any prompt to it](https://www.reddit.com/r/MachineLearning/comments/10vnkj8/p_chatgpt_without_size_limits_upload_any_pdf_and/)
 - [[Discussion] League of Legends Reinforcement Learning Library - Interest](https://www.reddit.com/r/MachineLearning/comments/10vl5gp/discussion_league_of_legends_reinforcement/)
 - [[Project] Need Suggestions Improving the Model evaluation scores.](https://www.reddit.com/r/MachineLearning/comments/10vkyyl/project_need_suggestions_improving_the_model/)
 - [[P] I have implemented an RL agent for trading EUR/USD and I don&#39;t know what to do next...](https://www.reddit.com/r/MachineLearning/comments/10vjevw/p_i_have_implemented_an_rl_agent_for_trading/)
 - [[Project] I used a new ML algo called &quot;AnimeSR&quot; to restore the Cowboy Bebop movie and up rez it to full 4K. Here&#39;s a link to the end result - honestly think it looks amazing! &lpar;Video and Model link in post&rpar;](https://www.reddit.com/r/MachineLearning/comments/10vj1az/project_i_used_a_new_ml_algo_called_animesr_to/)
-- [[P] Looking for string generation GAN](https://www.reddit.com/r/MachineLearning/comments/10vidvk/p_looking_for_string_generation_gan/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
