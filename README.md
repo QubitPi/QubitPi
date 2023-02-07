@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Adrien SALES: 💡 #apistrategy benefits in real life: 🎯 Focus on #interoperability 🖇️ Design &amp; release an #apis 🌟 Get clean data #csv ex...](https://twitter.com/rastadidi/status/1622698311693262849)
 - [Want to learn how to conveniently explore the contents of your Neo4j graph database visually, right inside your Jupyter notebooks? Check out this #NOD...](https://twitter.com/neo4j/status/1622671530827161606)
 - [Neo4j Data Importer — Introducing File Filtering ‼ By allowing you to apply simple filters to files we’re enabling loads in more scenarios. Learn m...](https://twitter.com/neo4j/status/1622606307294339073)
 - [Monday quiz!👩‍💻🙃 ____ is a standard for encoding and transmitting JSON objects and is commonly used for authorization tokens in web applicat...](https://twitter.com/neo4j/status/1622584423647412225)
 - [RT Estelle Scifo: I&#39;ll leave this here 😇 #Neo4j #DataScience #MachineLearning #Python #book #learning @PacktPub @PacktAuthors 💙](https://twitter.com/st3llasia/status/1622502856057298945)
+- [&quot;Real Social Networks: Humans have been involved in social networks for tens of thousands of years - not just the recent online variety.&quot; @NAChristaki...](https://twitter.com/neo4j/status/1621845296358608897)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
