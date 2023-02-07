@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1622891920610545664)
 - [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1622857945833697280)
 - [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1622847379417272321)
 - [Check out our blog post 📰 Memgraph, Client Adapters and #WebAssembly. What? ➡️](https://twitter.com/memgraphdb/status/1622839828894081024)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1622832783214141440)
-- [Check out our blog post 📰 Understanding how Dynamic #Node2Vec Works on Streaming Data ➡️](https://twitter.com/memgraphdb/status/1622682289208496128)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
