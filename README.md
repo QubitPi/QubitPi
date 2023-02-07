@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Can an AMD Ryzen 5 3400G computer with 16GB of RAM effectively train an AI model?](https://www.reddit.com/r/MachineLearning/comments/10wfl8s/discussion_can_an_amd_ryzen_5_3400g_computer_with/)
 - [[D] Image object detection, but for 1 dimensional data?](https://www.reddit.com/r/MachineLearning/comments/10wffmg/d_image_object_detection_but_for_1_dimensional/)
 - [[P] Best way to add a sampling step within a neural network end-to-end?](https://www.reddit.com/r/MachineLearning/comments/10wfbf9/p_best_way_to_add_a_sampling_step_within_a_neural/)
 - [[P] We&#39;ve built ChatGPT for your pdf files.](https://www.reddit.com/r/MachineLearning/comments/10wbvjc/p_weve_built_chatgpt_for_your_pdf_files/)
 - [[D] Can output time frame cover input time frame in machine learning?](https://www.reddit.com/r/MachineLearning/comments/10wbm3q/d_can_output_time_frame_cover_input_time_frame_in/)
-- [[N] Microsoft announces new &quot;next-generation&quot; LLM, will be integrated with Bing and Edge](https://www.reddit.com/r/MachineLearning/comments/10w9en2/n_microsoft_announces_new_nextgeneration_llm_will/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
