@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Cluster-based classification/prediction](https://www.reddit.com/r/MachineLearning/comments/10w6tbt/d_clusterbased_classificationprediction/)
+- [[D] Artificial Intelligence for Manufacturing](https://www.reddit.com/r/MachineLearning/comments/10w6p1f/d_artificial_intelligence_for_manufacturing/)
 - [[N] Getty Images Claims Stable Diffusion Has Stolen 12 Million Copyrighted Images, Demands $150,000 For Each Image](https://www.reddit.com/r/MachineLearning/comments/10w6g7n/n_getty_images_claims_stable_diffusion_has_stolen/)
 - [[D] question on first time training a model](https://www.reddit.com/r/MachineLearning/comments/10w6e99/d_question_on_first_time_training_a_model/)
 - [[P] Zuko, a fresh approach to normalizing flows in PyTorch](https://www.reddit.com/r/MachineLearning/comments/10w6dg5/p_zuko_a_fresh_approach_to_normalizing_flows_in/)
-- [Model/paper ideas: reinforcement learning with a deterministic environment [D]](https://www.reddit.com/r/MachineLearning/comments/10w5f9u/modelpaper_ideas_reinforcement_learning_with_a/)
-- [[N] Beyond Transformers with PyNeuraLogic](https://www.reddit.com/r/MachineLearning/comments/10w4ssp/n_beyond_transformers_with_pyneuralogic/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
