@@ -250,7 +250,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759055012176330771><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dfefcb2b2f76b9b2c0149f681c1ca686401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759800816030711831><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2fc51249fdc2049d0d4cf7f0100e9c69401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #夜兰# #拈骰冥思之夜# 《原神》EP - 拈骰冥思之夜 https://www.bilibili.com/video/BV1KG4y1T76A 大雨滂沱前会阴云密布，花苞绽放前需抽枝发芽...](https://t.bilibili.com/759800816030711831)
