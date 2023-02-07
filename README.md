@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We&#39;ve built ChatGPT for your pdf files.](https://www.reddit.com/r/MachineLearning/comments/10wbvjc/p_weve_built_chatgpt_for_your_pdf_files/)
 - [[D] Can output time frame cover input time frame in machine learning?](https://www.reddit.com/r/MachineLearning/comments/10wbm3q/d_can_output_time_frame_cover_input_time_frame_in/)
 - [[N] Microsoft announces new &quot;next-generation&quot; LLM, will be integrated with Bing and Edge](https://www.reddit.com/r/MachineLearning/comments/10w9en2/n_microsoft_announces_new_nextgeneration_llm_will/)
 - [[Discussion] Is ChatGPT and/or OpenAI really the leader in the space?](https://www.reddit.com/r/MachineLearning/comments/10w9dsz/discussion_is_chatgpt_andor_openai_really_the/)
 - [[D] Multi-class classifications when a few of the classes are not mutually-exclusive](https://www.reddit.com/r/MachineLearning/comments/10w7vkz/d_multiclass_classifications_when_a_few_of_the/)
-- [[D] Which is the fastest and lightweight ultra realistic TTS for real-time voice cloning?](https://www.reddit.com/r/MachineLearning/comments/10w79eo/d_which_is_the_fastest_and_lightweight_ultra/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
