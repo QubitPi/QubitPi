@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Temporal graph neural networks with #PyTorch - How to create a simple recommendation engine on an Amazon dataset ➡️](https://twitter.com/memgraphdb/status/1622972955893579776)
+- [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. #memgraph #graphdatabase #memgraphdb #database](https://twitter.com/memgraphdb/status/1622961881488011264)
 - [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1622932440548356096)
 - [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1622931682717204481)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1622908530125668352)
-- [Re @widged Thank you for the pointer. 👍We will try to add it :&rpar;](https://twitter.com/memgraphdb/status/1622900251874021378)
-- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1622891920610545664)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
