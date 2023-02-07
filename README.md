@@ -487,11 +487,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Industry Use Case: Improving Public Safety in Energy and Mining](https://www.youtube.com/watch?v=7x9WMLrFhtc)
+- [What Can You Do With Graph Data Science?](https://www.youtube.com/watch?v=6bpRBNR0TzA)
+- [Building a &quot;Knowledge Asset&quot; Using Neo4j Graph Data Science](https://www.youtube.com/watch?v=1Kt9LsrBDys)
 - [Why Arcurve Uses Neo4j Graph Data Science](https://www.youtube.com/watch?v=Fak787Cr9QE)
 - [Exploración de datos con Bloom - Parte 2 - 10 Min](https://www.youtube.com/watch?v=-XYrNPE7cRU)
-- [Exploración de datos con Bloom - Parte 1 - 10 Min](https://www.youtube.com/watch?v=NxoupPA70Io)
-- [Release Highlights: Neo4j Graph Data Science 2.3](https://www.youtube.com/watch?v=n2Bc9MSLsUs)
-- [Neo4j Live: Graph Data Processing with Cypher](https://www.youtube.com/watch?v=X9izvIMlvk0)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
