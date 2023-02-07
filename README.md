@@ -567,11 +567,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [The truth about CSS selector performance](https://css-tricks.com/the-truth-about-css-selector-performance/)
 - [The Double Emphasis Thing](https://css-tricks.com/the-double-emphasis-thing/)
 - [A Fancy Hover Effect For Your Avatar](https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/)
 - [Caching Data in SvelteKit](https://css-tricks.com/caching-data-in-sveltekit/)
 - [AR, VR, and a Model for 3D in HTML](https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/)
-- [Animating CSS Grid &lpar;How To + Examples&rpar;](https://css-tricks.com/animating-css-grid-how-to-examples/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
