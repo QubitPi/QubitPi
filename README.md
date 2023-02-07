@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Microsoft announces new &quot;next-generation&quot; LLM, will be integrated with Bing and Edge](https://www.reddit.com/r/MachineLearning/comments/10w9en2/n_microsoft_announces_new_nextgeneration_llm_will/)
+- [[Discussion] Is ChatGPT and/or OpenAI really the leader in the space?](https://www.reddit.com/r/MachineLearning/comments/10w9dsz/discussion_is_chatgpt_andor_openai_really_the/)
 - [[D] Multi-class classifications when a few of the classes are not mutually-exclusive](https://www.reddit.com/r/MachineLearning/comments/10w7vkz/d_multiclass_classifications_when_a_few_of_the/)
 - [[D] Which is the fastest and lightweight ultra realistic TTS for real-time voice cloning?](https://www.reddit.com/r/MachineLearning/comments/10w79eo/d_which_is_the_fastest_and_lightweight_ultra/)
 - [[D] Artificial Intelligence for Manufacturing](https://www.reddit.com/r/MachineLearning/comments/10w6p1f/d_artificial_intelligence_for_manufacturing/)
-- [[N] Getty Images Claims Stable Diffusion Has Stolen 12 Million Copyrighted Images, Demands $150,000 For Each Image](https://www.reddit.com/r/MachineLearning/comments/10w6g7n/n_getty_images_claims_stable_diffusion_has_stolen/)
-- [[D] question on first time training a model](https://www.reddit.com/r/MachineLearning/comments/10w6e99/d_question_on_first_time_training_a_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
