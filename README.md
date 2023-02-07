@@ -306,7 +306,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] 2x 12GB M40 or 1x 24GB M40 for ML Experiments?](https://www.reddit.com/r/MachineLearning/comments/10w3wdg/d_2x_12gb_m40_or_1x_24gb_m40_for_ml_experiments/)
+- [[N] Beyond Transformers with PyNeuraLogic](https://www.reddit.com/r/MachineLearning/comments/10w4ssp/n_beyond_transformers_with_pyneuralogic/)
 - [[D] Name your favourite Github repositories for data scientists](https://www.reddit.com/r/MachineLearning/comments/10vzb0u/d_name_your_favourite_github_repositories_for/)
 - [[Discussion] Best practices for taking deep learning models to bare metal MCUs](https://www.reddit.com/r/MachineLearning/comments/10vyytq/discussion_best_practices_for_taking_deep/)
 - [[D] A ML-powered music description/tag generator? &lpar;a reverse-MusicML&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10vyvne/d_a_mlpowered_music_descriptiontag_generator_a/)
