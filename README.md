@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Name your favourite Github repositories for data scientists](https://www.reddit.com/r/MachineLearning/comments/10vzb0u/d_name_your_favourite_github_repositories_for/)
 - [[Discussion] Best practices for taking deep learning models to bare metal MCUs](https://www.reddit.com/r/MachineLearning/comments/10vyytq/discussion_best_practices_for_taking_deep/)
 - [[D] A ML-powered music description/tag generator? &lpar;a reverse-MusicML&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10vyvne/d_a_mlpowered_music_descriptiontag_generator_a/)
 - [[D] Should I focus on python or C++?](https://www.reddit.com/r/MachineLearning/comments/10vxd5z/d_should_i_focus_on_python_or_c/)
 - [[D] Python vs Swift vs Julia, what should I learn? &lpar;Any benchmarks?&rpar;](https://www.reddit.com/r/MachineLearning/comments/10vx3yv/d_python_vs_swift_vs_julia_what_should_i_learn/)
-- [[D] Papers that inject embeddings into LMs](https://www.reddit.com/r/MachineLearning/comments/10vwm8k/d_papers_that_inject_embeddings_into_lms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
