@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1622932440548356096)
-- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ #memgraph #opensource #graphdatabase](https://twitter.com/memgraphdb/status/1622931682717204481)
 - [Check out our blog post 📰 Chasing messages and offsets in the land of #librdkafka ➡️](https://twitter.com/memgraphdb/status/1622908530125668352)
 - [Re @widged Thank you for the pointer. 👍We will try to add it :&rpar;](https://twitter.com/memgraphdb/status/1622900251874021378)
 - [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1622891920610545664)
+- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1622857945833697280)
+- [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1622847379417272321)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
