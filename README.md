@@ -253,11 +253,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759055012176330771><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dfefcb2b2f76b9b2c0149f681c1ca686401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #夜兰# #拈骰冥思之夜# 《原神》EP - 拈骰冥思之夜 https://www.bilibili.com/video/BV1KG4y1T76A 大雨滂沱前会阴云密布，花苞绽放前需抽枝发芽...](https://t.bilibili.com/759800816030711831)
+- [#原神# #演武传心# 亲爱的旅行者，「演武传心」活动即将开启~ 〓活动时间〓 2023/02/09 10:00 ~ 2023/02/20 03:59 〓参与条件〓 冒险等阶≥30级 且完成魔神任务...](https://t.bilibili.com/759798204692693000)
+- [《原神》EP - 拈骰冥思之夜](https://t.bilibili.com/759796903355351125)
 - [#原神# #星彩漫天# 旅行者，你喜欢收集卡片吗？派蒙发现了一个好玩的东西！ 「星彩漫天」——《原神》烟花卡片分享H5正式上线。 欢迎旅行者前往评论区置顶链接参...](https://t.bilibili.com/759055012176330771)
 - [恭喜@恰似一只柠檬@咯叽咯叽叮叮咚@无所事事随某人等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/758715864379817991)
-- [恭喜@吸兔兔喵@光叶水青冈@姬坂乃爱厨等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/758343490715254817)
-- [恭喜@笑风云zc@是大神人@伏耶戈等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/757972405542977685)
-- [#原神# #原神壁纸# 《原神》「剪彩映虹」网页活动壁纸展示。 亲爱的旅行者，这里为大家带来了「剪彩映虹」网页活动的壁纸，旅行者可以从评论区置顶链接按照自己...](https://t.bilibili.com/757972087713300521)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
