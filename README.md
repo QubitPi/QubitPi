@@ -543,11 +543,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
 
 <!-- DRIBBBLE-TRENDING:START -->
-- [PuntoPago Website Redesign](https://dribbble.com/shots/20516635)
-- [Wells Coffee Co](https://dribbble.com/shots/20517655)
 - [Otter - Tiny Illustrations](https://dribbble.com/shots/20557641)
 - [Typographic Logo Collection](https://dribbble.com/shots/20544795)
+- [Amadeus - AI Assistant](https://dribbble.com/shots/20538187)
 - [Vshrеd Mobile App design: iOS Android ux ui designer](https://dribbble.com/shots/20485745)
+- [H infinity](https://dribbble.com/shots/20533210)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
