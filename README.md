@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [📍Toronto Join a hands-on lab specifically for #datascientists and #engineers -- Register today! #googlecloud #Neo4j](https://twitter.com/neo4j/status/1622958544508317696)
 - [What’s new and what’s been deprecated in Cypher in the latest release, #Neo4j5? 🙌Follow the code with Tomaz Bratanic as he explains the new Cyphe...](https://twitter.com/neo4j/status/1622928258797907969)
 - [&quot;Here’s what I learned at NODES 22 about what’s possible from #DataGraphs and #DataScience. &quot; by B. Cameron Gain ✅ #GraphDataScience #NODES2022 #Ne...](https://twitter.com/neo4j/status/1622837334256254977)
 - [RT Adrien SALES: 💡 #apistrategy benefits in real life: 🎯 Focus on #interoperability 🖇️ Design &amp; release an #apis 🌟 Get clean data #csv ex...](https://twitter.com/rastadidi/status/1622698311693262849)
 - [Want to learn how to conveniently explore the contents of your Neo4j graph database visually, right inside your Jupyter notebooks? Check out this #NOD...](https://twitter.com/neo4j/status/1622671530827161606)
-- [Neo4j Data Importer — Introducing File Filtering ‼ By allowing you to apply simple filters to files we’re enabling loads in more scenarios. Learn m...](https://twitter.com/neo4j/status/1622606307294339073)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
