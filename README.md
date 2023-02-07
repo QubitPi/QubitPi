@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Should I focus on python or C++?](https://www.reddit.com/r/MachineLearning/comments/10vxd5z/d_should_i_focus_on_python_or_c/)
 - [[D] Python vs Swift vs Julia, what should I learn? &lpar;Any benchmarks?&rpar;](https://www.reddit.com/r/MachineLearning/comments/10vx3yv/d_python_vs_swift_vs_julia_what_should_i_learn/)
 - [[D] Papers that inject embeddings into LMs](https://www.reddit.com/r/MachineLearning/comments/10vwm8k/d_papers_that_inject_embeddings_into_lms/)
 - [[P] Pythae 0.1.0 is out and supports distributed training for 25 Variational Autoencoders](https://www.reddit.com/r/MachineLearning/comments/10vv9mk/p_pythae_010_is_out_and_supports_distributed/)
 - [[D] Selecting a &quot;stable&quot; set of hyperparameters](https://www.reddit.com/r/MachineLearning/comments/10vv9f4/d_selecting_a_stable_set_of_hyperparameters/)
-- [Wouldn’t it be a good idea to bring a more energy efficient language into the ML world to reduce the insane costs a bit?[D]](https://www.reddit.com/r/MachineLearning/comments/10vqxtp/wouldnt_it_be_a_good_idea_to_bring_a_more_energy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
