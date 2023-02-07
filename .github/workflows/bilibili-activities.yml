@@ -49,7 +49,7 @@ jobs:
           item_exec: |
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
             extraText = post.description.match(/交易失败的菊菊/) ? "一天不看浑身难受，看了之后难受一天" : "";
-          template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a> $extraText<br>"
+          template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a> $author<br>"
   columns:
     name: Columns
     runs-on: ubuntu-latest
