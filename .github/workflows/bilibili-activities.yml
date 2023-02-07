@@ -48,9 +48,10 @@ jobs:
           custom_tags: "uploador/author/"
           # extract video cover image
           item_exec: |
-            post.title = post.description.match(/交易失败的菊菊/) ? post.title + "(一天不看浑身难受，看了之后难受一天) <img src=\"https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true\" size=\"32px\"></img>" : post.title;
+            post.author = <img src=\"https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true\" size=\"32px\"></img>
+            post.title = post.description.match(/交易失败的菊菊/) ? post.title + "(一天不看浑身难受，看了之后难受一天)" : post.title;
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a><br>"
+          template: "<a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a><br> $author"
   columns:
     name: Columns
     runs-on: ubuntu-latest
