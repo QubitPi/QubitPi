@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Getty Images Claims Stable Diffusion Has Stolen 12 Million Copyrighted Images, Demands $150,000 For Each Image](https://www.reddit.com/r/MachineLearning/comments/10w6g7n/n_getty_images_claims_stable_diffusion_has_stolen/)
+- [[D] question on first time training a model](https://www.reddit.com/r/MachineLearning/comments/10w6e99/d_question_on_first_time_training_a_model/)
+- [[P] Zuko, a fresh approach to normalizing flows in PyTorch](https://www.reddit.com/r/MachineLearning/comments/10w6dg5/p_zuko_a_fresh_approach_to_normalizing_flows_in/)
+- [Model/paper ideas: reinforcement learning with a deterministic environment [D]](https://www.reddit.com/r/MachineLearning/comments/10w5f9u/modelpaper_ideas_reinforcement_learning_with_a/)
 - [[N] Beyond Transformers with PyNeuraLogic](https://www.reddit.com/r/MachineLearning/comments/10w4ssp/n_beyond_transformers_with_pyneuralogic/)
-- [[D] Name your favourite Github repositories for data scientists](https://www.reddit.com/r/MachineLearning/comments/10vzb0u/d_name_your_favourite_github_repositories_for/)
-- [[Discussion] Best practices for taking deep learning models to bare metal MCUs](https://www.reddit.com/r/MachineLearning/comments/10vyytq/discussion_best_practices_for_taking_deep/)
-- [[D] A ML-powered music description/tag generator? &lpar;a reverse-MusicML&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10vyvne/d_a_mlpowered_music_descriptiontag_generator_a/)
-- [[D] Should I focus on python or C++?](https://www.reddit.com/r/MachineLearning/comments/10vxd5z/d_should_i_focus_on_python_or_c/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
