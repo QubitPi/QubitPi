@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Join Deenu Yadav of Plural Technology and learn how they used graph data, knowledge graphs, and AI/ML to power new ways to analyze products, their bil...](https://twitter.com/arangodb/status/1622928176778190850)
 - [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑](https://twitter.com/arangodb/status/1622701694042755072)
 - [We are #hiring! Join Team Avocado as an Account Executive &lpar;West Coast&rpar;. 🥑 Apply through our careers page today! 🔥](https://twitter.com/arangodb/status/1622565794293972993)
 - [Check out our first newsletter of 2023! Take a look at what ArangoDB has planned for this year, and stay up to date with all the latest ArangoDB news ...](https://twitter.com/arangodb/status/1622248700243214338)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1621841011700817927)
-- [Learn how @DecodedHealth is transforming health care with ML, Models, Ontologies, and Graphs with ArangoDB. 🩺🥑 Check out their full case study n...](https://twitter.com/arangodb/status/1621614513681272836)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
