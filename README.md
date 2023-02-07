@@ -532,11 +532,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 - [Exploring Mastodon: status for February 2023](https://martinfowler.com/articles/exploring-mastodon.html#status---february-2023)
 - [Remaining activities for the Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html#ObjectivesAndKeyResults)
 - [My favorite musical discoveries of 2022](https://martinfowler.com/articles/2022-music.html)
 - [Some activities for the Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html#ASampleAgendaForADataMeshAccelerateWorkshop)
-- [Data Mesh Accelerate Workshop](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
