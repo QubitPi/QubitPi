@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1623187118657875972)
 - [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. #memgraph ...](https://twitter.com/memgraphdb/status/1623040402012966949)
 - [🎓 #Memgraph presents graph algorithms: Community detection 🗒️ The notion of community in a graph is analogous to the real-world notion of commu...](https://twitter.com/memgraphdb/status/1623022781997670403)
 - [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1623006679175507992)
 - [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ #memgraph #graphdatabase #stream #dat...](https://twitter.com/memgraphdb/status/1622998372901691395)
-- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1622980252426285057)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
