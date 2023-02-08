@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1623294828053204997)
+- [Check out our blog post 📰 How to build a #Spotify Recommendation Engine using #Kafka and Memgraph ➡️](https://twitter.com/memgraphdb/status/1623276708274085888)
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1623270918184136704)
 - [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1623258839930765313)
 - [🎓 Analyzing chains of events by hopping between data points has a huge impact on database performance. The more hops on the security dataset, the m...](https://twitter.com/memgraphdb/status/1623230253660311553)
-- [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. #m...](https://twitter.com/memgraphdb/status/1623220336064925703)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1623218823846416384)
-- [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1623209767576412160)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
