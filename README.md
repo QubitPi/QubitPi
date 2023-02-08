@@ -517,11 +517,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [#StartInBlock by @ParisBlockWeek is a competition between the most promising Web3 projects supported by the Foundation. Founders will pitch 200+ inves...](https://twitter.com/Web3foundation/status/1623369760258854915)
 - [What is the role of decentralization in building a better web, what are the main regulation challenges, and how is @Polkadot bringing the benefits of ...](https://twitter.com/Web3foundation/status/1621182712395472897)
 - [Re 14/ To check the full recording of the Twitter Space on DOT morphing:](https://twitter.com/Web3foundation/status/1618550241816629251)
 - [Re 13/ @Polkadot today has delivered everything outlined in the whitepaper. It&#39;s in the hands of DOT holders, and there are over 550 teams &amp; projects ...](https://twitter.com/Web3foundation/status/1618550236930265091)
 - [Re 12/ Now, after 3 years of active engagement with the @SECGov, the Foundation is confident DOT has morphed and is not a security. It is software. Fo...](https://twitter.com/Web3foundation/status/1618550232031297541)
+- [Re 11/... as well as taking steps to manage the distribution of the DOT token so that no individual holds a large percentage of the network, turning d...](https://twitter.com/Web3foundation/status/1618550227878948865)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
