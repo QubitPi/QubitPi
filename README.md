@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discover what’s new in Graph Data Science 2.3: 🚀 ✅Knowledge Graph Embedding ✅Steiner Trees ✅Negative relationships More: #Neo4j #graphdatascien...](https://twitter.com/neo4j/status/1623297107489693696)
 - [👉Vlad Batushkov, Engineering Technical Lead at Agoda, summarizes the most important aspects of the development process of Graphville: the graph edu...](https://twitter.com/neo4j/status/1623049476775501824)
 - [👉Learn how Graph Data Science has transformed @Arcurve&#39;s use of predictive analytics and machine learning to form the foundation of their analyses....](https://twitter.com/neo4j/status/1623003862671011854)
 - [📍Toronto Join a hands-on lab specifically for #datascientists and #engineers -- Register today! #googlecloud #Neo4j](https://twitter.com/neo4j/status/1622958544508317696)
 - [What’s new and what’s been deprecated in Cypher in the latest release, #Neo4j5? 🙌Follow the code with Tomaz Bratanic as he explains the new Cyphe...](https://twitter.com/neo4j/status/1622928258797907969)
-- [RT Siddhant Agarwal: Folks in Singapore, we have an exciting meetup coming up for you. Do check it out: Note: Meetup RSVPs are closed but registration...](https://twitter.com/sidagarwal04/status/1622923418395119616)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
