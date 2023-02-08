@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1623383156312219648)
 - [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1623366691324297216)
 - [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1623342639662743552)
 - [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1623324271257784325)
 - [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 1 ➡️](https://twitter.com/memgraphdb/status/1623321755984044032)
-- [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1623314959680544770)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
