@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] 1000+ AI tools catalog - any feedback?](https://www.reddit.com/r/MachineLearning/comments/10xbc10/p_1000_ai_tools_catalog_any_feedback/)
 - [[R] pix2pixzero - Zero-shot Image-to-Image Translation](https://www.reddit.com/r/MachineLearning/comments/10x519c/r_pix2pixzero_zeroshot_imagetoimage_translation/)
 - [[Discussion] Cognitive science inspired AI research](https://www.reddit.com/r/MachineLearning/comments/10wtumf/discussion_cognitive_science_inspired_ai_research/)
 - [[D] List of RL Papers](https://www.reddit.com/r/MachineLearning/comments/10wrlrm/d_list_of_rl_papers/)
 - [[P] Scripts/Programs to collect Baseline Logs](https://www.reddit.com/r/MachineLearning/comments/10wmn7f/p_scriptsprograms_to_collect_baseline_logs/)
+- [[N] New Book on Synthetic Data​: Version 3.0 Just Released](https://www.reddit.com/r/MachineLearning/comments/10wjenb/n_new_book_on_synthetic_data_version_30_just/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
