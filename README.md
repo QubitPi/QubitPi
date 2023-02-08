@@ -324,11 +324,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [🇮🇹 Creare prodotti complessi - L&#39;esempio Spacex](https://www.scrum.org/resources/blog/creare-prodotti-complessi-lesempio-spacex)
 - [Using the Prime Directive to avoid Retrospective Witch Hunts!](https://www.scrum.org/resources/blog/using-prime-directive-avoid-retrospective-witch-hunts)
 - [Why your customer should care about Scrum](https://www.scrum.org/resources/blog/why-your-customer-should-care-about-scrum)
 - [Intro to Scrum &lpar;5 of 16&rpar;: What are Developers?](https://www.scrum.org/resources/blog/intro-scrum-5-16-what-are-developers)
 - [Definition of Done: Business Agility Abhors Technical Shoddiness](https://www.scrum.org/resources/blog/definition-done-business-agility-abhors-technical-shoddiness)
-- [Die 3 schlimmsten Fehler mit Working-Agreements – und wie Scrum Master diese für immer vermeiden](https://www.scrum.org/resources/blog/die-3-schlimmsten-fehler-mit-working-agreements-und-wie-scrum-master-diese-fur-immer)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
