@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Predicting Drug Interactions In #Pharma With #ChemicalX Integration ➡️](https://twitter.com/memgraphdb/status/1623258839930765313)
+- [🎓 Analyzing chains of events by hopping between data points has a huge impact on database performance. The more hops on the security dataset, the m...](https://twitter.com/memgraphdb/status/1623230253660311553)
 - [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. #m...](https://twitter.com/memgraphdb/status/1623220336064925703)
 - [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1623218823846416384)
 - [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1623209767576412160)
-- [Check out our blog post 📰 Best #Python Packages &lpar;Tools&rpar; for Knowledge Graphs ➡️](https://twitter.com/memgraphdb/status/1623187118657875972)
-- [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. #memgraph ...](https://twitter.com/memgraphdb/status/1623040402012966949)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
