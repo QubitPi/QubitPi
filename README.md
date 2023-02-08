@@ -544,10 +544,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Otter - Tiny Illustrations](https://dribbble.com/shots/20557641)
-- [Typographic Logo Collection](https://dribbble.com/shots/20544795)
 - [Amadeus - AI Assistant](https://dribbble.com/shots/20538187)
-- [H infinity](https://dribbble.com/shots/20533210)
-- [Coming this winter!](https://dribbble.com/shots/20537339)
+- [Typographic Logo Collection](https://dribbble.com/shots/20544795)
+- [Micromobility Website Dashboard](https://dribbble.com/shots/20467789)
+- [3D Composition](https://dribbble.com/shots/20543807)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
