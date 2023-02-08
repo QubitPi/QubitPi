@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] List of RL Papers](https://www.reddit.com/r/MachineLearning/comments/10wrlrm/d_list_of_rl_papers/)
 - [[D] What do you think about this 16 week curriculum for existing software engineers who want to pursue AI and ML?](https://www.reddit.com/r/MachineLearning/comments/10wq8sk/d_what_do_you_think_about_this_16_week_curriculum/)
 - [[P] Scripts/Programs to collect Baseline Logs](https://www.reddit.com/r/MachineLearning/comments/10wmn7f/p_scriptsprograms_to_collect_baseline_logs/)
 - [[N] New Book on Synthetic Data​: Version 3.0 Just Released](https://www.reddit.com/r/MachineLearning/comments/10wjenb/n_new_book_on_synthetic_data_version_30_just/)
 - [[P] AI/ML Engineering Tutor](https://www.reddit.com/r/MachineLearning/comments/10whegv/p_aiml_engineering_tutor/)
-- [[Discussion] Can an AMD Ryzen 5 3400G computer with 16GB of RAM effectively train an AI model?](https://www.reddit.com/r/MachineLearning/comments/10wfl8s/discussion_can_an_amd_ryzen_5_3400g_computer_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
