@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1623659730664099841)
+- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1623656460302295041)
+- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. If...](https://twitter.com/memgraphdb/status/1623633306452385792)
 - [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1623631797799059456)
 - [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated becau...](https://twitter.com/memgraphdb/status/1623607698989129728)
-- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1623596816875880448)
-- [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1623582723469193217)
-- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1623577943480967170)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
