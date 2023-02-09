@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1623765174485233666)
 - [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ #memgraph #opensource #orb](https://twitter.com/memgraphdb/status/1623747558282493952)
 - [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1623735227272032258)
 - [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1623729000471269382)
 - [Wow! 🤩 #memgraph repo just hit 1000 stars on GitHub! 🌟 A big thank you to all our supporters and contributors 🚀 #1000Stars #github](https://twitter.com/memgraphdb/status/1623691405271916550)
-- [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1623686657445699584)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
