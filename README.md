@@ -217,11 +217,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [可莉邀请你加入派昂科技](https://t.bilibili.com/760651142283657249)
 - [【原 Log】深境螺旋 11 月下半期第 11 层](https://t.bilibili.com/729348561582424083)
 - [【原Log】深境螺旋十一月下第十层](https://t.bilibili.com/728974731917656064)
 - [我解锁了【一骑绝尘】成就，快来看看我的本周创作表现吧～](https://t.bilibili.com/717921337233899542)
 - [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://t.bilibili.com/717694640269033492)
-- [【百人一揆 - 无限的天狗党人】香菱和宵宫好配～](https://t.bilibili.com/717220012032524387)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Recent Uploads
