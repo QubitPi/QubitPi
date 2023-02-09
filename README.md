@@ -250,7 +250,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/759890696823898169><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2e2209c78f57697ee4b7331edf9b2f72401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/760631999615467561><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6ae25e9982a7e0e6f880d1dd805b7b8d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 《原神》「沙堑寻洲」千壑沙地主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图...](https://t.bilibili.com/760631999615467561)
