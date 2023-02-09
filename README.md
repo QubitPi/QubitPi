@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Creating an embedding from a CNN](https://www.reddit.com/r/MachineLearning/comments/10xt36j/p_creating_an_embedding_from_a_cnn/)
 - [[PROJECT] Text cluster of MxN dimensions as training set for AI?](https://www.reddit.com/r/MachineLearning/comments/10xs9ty/project_text_cluster_of_mxn_dimensions_as/)
 - [[D] Bees: a new unit of measurement for ML model size](https://www.reddit.com/r/MachineLearning/comments/10xqtn2/d_bees_a_new_unit_of_measurement_for_ml_model_size/)
 - [[P] Get 2x Faster Transcriptions with OpenAI Whisper Large on Kernl](https://www.reddit.com/r/MachineLearning/comments/10xp54e/p_get_2x_faster_transcriptions_with_openai/)
 - [[D] Format for ICML tutorial submission?](https://www.reddit.com/r/MachineLearning/comments/10xmm87/d_format_for_icml_tutorial_submission/)
-- [[D] Are there emergent abilities of image models?](https://www.reddit.com/r/MachineLearning/comments/10xjwac/d_are_there_emergent_abilities_of_image_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
