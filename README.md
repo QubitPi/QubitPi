@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1623631797799059456)
+- [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated becau...](https://twitter.com/memgraphdb/status/1623607698989129728)
+- [Check out our blog post 📰 #Twitch #Streaming Graph Analysis - Part 3 ➡️](https://twitter.com/memgraphdb/status/1623596816875880448)
 - [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1623582723469193217)
 - [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1623577943480967170)
-- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. #memgraph #graphdatab...](https://twitter.com/memgraphdb/status/1623568378374807554)
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1623557558555357185)
-- [Did you see the latest video &quot;15 futuristic databases you’ve never heard of&quot; by @fireship_dev? #memgraph is one of those databases. 🙌 I guess that...](https://twitter.com/memgraphdb/status/1623416413250527235)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
