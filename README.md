@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Are there any AI model that I can use to improve very bad quality sound recording? Removing noise and improving overall quality](https://www.reddit.com/r/MachineLearning/comments/10xgvhj/d_are_there_any_ai_model_that_i_can_use_to/)
 - [[R] pix2pixzero - Zero-shot Image-to-Image Translation](https://www.reddit.com/r/MachineLearning/comments/10x519c/r_pix2pixzero_zeroshot_imagetoimage_translation/)
 - [[Discussion] Cognitive science inspired AI research](https://www.reddit.com/r/MachineLearning/comments/10wtumf/discussion_cognitive_science_inspired_ai_research/)
 - [[D] List of RL Papers](https://www.reddit.com/r/MachineLearning/comments/10wrlrm/d_list_of_rl_papers/)
 - [[P] Scripts/Programs to collect Baseline Logs](https://www.reddit.com/r/MachineLearning/comments/10wmn7f/p_scriptsprograms_to_collect_baseline_logs/)
-- [[N] New Book on Synthetic Data​: Version 3.0 Just Released](https://www.reddit.com/r/MachineLearning/comments/10wjenb/n_new_book_on_synthetic_data_version_30_just/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
