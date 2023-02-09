@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Understanding the Successes of Autoencoders with Discrete Representations](https://www.reddit.com/r/MachineLearning/comments/10xj2vv/d_understanding_the_successes_of_autoencoders/)
 - [What are the best resources to stay up to date with latest news ? [D]](https://www.reddit.com/r/MachineLearning/comments/10xiexu/what_are_the_best_resources_to_stay_up_to_date/)
 - [[D] Are there any AI model that I can use to improve very bad quality sound recording? Removing noise and improving overall quality](https://www.reddit.com/r/MachineLearning/comments/10xgvhj/d_are_there_any_ai_model_that_i_can_use_to/)
 - [[R] pix2pixzero - Zero-shot Image-to-Image Translation](https://www.reddit.com/r/MachineLearning/comments/10x519c/r_pix2pixzero_zeroshot_imagetoimage_translation/)
 - [[Discussion] Cognitive science inspired AI research](https://www.reddit.com/r/MachineLearning/comments/10wtumf/discussion_cognitive_science_inspired_ai_research/)
-- [[D] List of RL Papers](https://www.reddit.com/r/MachineLearning/comments/10wrlrm/d_list_of_rl_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
