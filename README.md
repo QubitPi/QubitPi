@@ -324,11 +324,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Definition of Done: Business Agilität und technische Exzellenz 🇩🇪](https://www.scrum.org/resources/blog/definition-done-business-agilitat-und-technische-exzellenz)
 - [Intro to Scrum &lpar;6 of 16&rpar;: What is a Product Owner?](https://www.scrum.org/resources/blog/intro-scrum-6-16-what-product-owner)
 - [🇮🇹 Creare prodotti complessi - L&#39;esempio Spacex](https://www.scrum.org/resources/blog/creare-prodotti-complessi-lesempio-spacex)
 - [Using the Prime Directive to avoid Retrospective Witch Hunts!](https://www.scrum.org/resources/blog/using-prime-directive-avoid-retrospective-witch-hunts)
 - [Why your customer should care about Scrum](https://www.scrum.org/resources/blog/why-your-customer-should-care-about-scrum)
-- [Intro to Scrum &lpar;5 of 16&rpar;: What are Developers?](https://www.scrum.org/resources/blog/intro-scrum-5-16-what-are-developers)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
