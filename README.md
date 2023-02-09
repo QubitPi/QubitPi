@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Taking a ML Grad class without any ML experience? [D]](https://www.reddit.com/r/MachineLearning/comments/10xy8dc/taking_a_ml_grad_class_without_any_ml_experience_d/)
+- [[D] Constrained Optimization in Deep Learning](https://www.reddit.com/r/MachineLearning/comments/10xxxpa/d_constrained_optimization_in_deep_learning/)
+- [[D] Latent spaces and weather forecasting/nowcasting](https://www.reddit.com/r/MachineLearning/comments/10xxwoe/d_latent_spaces_and_weather_forecastingnowcasting/)
 - [[D] Can we use Ray for distributed training on vertex ai ? Can someone provide me examples for the same ? Also which dataframe libraries you guys used for training machine learning models on huge datasets &lpar;100 gb+&rpar; &lpar;because pandas can&#39;t handle huge data&rpar;.](https://www.reddit.com/r/MachineLearning/comments/10xw5pr/d_can_we_use_ray_for_distributed_training_on/)
-- [[D] A crazy idea to get your hands on an open source versions of OpenAI like models](https://www.reddit.com/r/MachineLearning/comments/10xur6h/d_a_crazy_idea_to_get_your_hands_on_an_open/)
 - [[D] RTX 3090 with i7 7700k, training bottleneck](https://www.reddit.com/r/MachineLearning/comments/10xu09v/d_rtx_3090_with_i7_7700k_training_bottleneck/)
-- [[R] Research Seminar by Neural Magic: AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks](https://www.reddit.com/r/MachineLearning/comments/10xten3/r_research_seminar_by_neural_magic_acdc/)
-- [[P] Creating an embedding from a CNN](https://www.reddit.com/r/MachineLearning/comments/10xt36j/p_creating_an_embedding_from_a_cnn/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
