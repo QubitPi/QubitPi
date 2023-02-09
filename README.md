@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] MCA weird values](https://www.reddit.com/r/MachineLearning/comments/10y4i4j/d_mca_weird_values/)
 - [[D] Using LLMs as decision engines](https://www.reddit.com/r/MachineLearning/comments/10y2mu0/d_using_llms_as_decision_engines/)
 - [[D] Plot Best Run for Accuracy or Mean across runs?](https://www.reddit.com/r/MachineLearning/comments/10y2f1h/d_plot_best_run_for_accuracy_or_mean_across_runs/)
 - [[D] Dense correspondence between image/mesh](https://www.reddit.com/r/MachineLearning/comments/10y1s53/d_dense_correspondence_between_imagemesh/)
 - [[Discussion] Looking for opinions: Scale Spellbook vs. Snorkel Flow vs....?](https://www.reddit.com/r/MachineLearning/comments/10y0ksi/discussion_looking_for_opinions_scale_spellbook/)
-- [[D] Similarity b/w two vectors](https://www.reddit.com/r/MachineLearning/comments/10y08vt/d_similarity_bw_two_vectors/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
