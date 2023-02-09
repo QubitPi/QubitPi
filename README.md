@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Wow! 🤩 #memgraph repo just hit 1000 stars on GitHub! 🌟 A big thank you to all our supporters and contributors 🚀 #1000Stars #github](https://twitter.com/memgraphdb/status/1623691405271916550)
-- [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1623686657445699584)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1623677346539614209)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1623659730664099841)
 - [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1623656460302295041)
+- [🎓 #Learn #Cypher with #Memgraph When it comes to quotes, a simple rule is to use whichever provides the fewest escaped characters in the string. If...](https://twitter.com/memgraphdb/status/1623633306452385792)
+- [Check out our blog post 📰 Using on disk storage with an in-memory Graph Database ➡️](https://twitter.com/memgraphdb/status/1623631797799059456)
+- [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated becau...](https://twitter.com/memgraphdb/status/1623607698989129728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
