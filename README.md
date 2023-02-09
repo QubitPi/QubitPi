@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Have you ever wondered why is graph data science a good technique for unsupervised dimensionality reduction? Take a look at Alex&#39;s super quick video b...](https://twitter.com/neo4j/status/1623732370154168320)
 - [Going Meta - Ep 13: Creating &lpar;and RDF-izing&rpar; virtual graphs over external data @barrasaDV](https://twitter.com/neo4j/status/1623709594420924417)
 - [Bjartur Hjaltason shares his experience working with #Neo4j, &quot;The most surprising result, for now, is how easy and intuitive it is. Everything you can...](https://twitter.com/neo4j/status/1623653125151158273)
 - [RT Daniel CF Ng: ⁦@temasekpoly⁩ and ⁦@neo4j⁩ to equip students with graph technology skills](https://twitter.com/danielcfng/status/1623562512095657987)
 - [RT Daniel CF Ng: ⁦@neo4j⁩ is honoured for the ⁦@ApacInsider⁩ #Singapore Business Awards 2022 - 2nd year running - for the ‘Most Innovative #Graph...](https://twitter.com/danielcfng/status/1623533908968230913)
-- [Neo4j Live: SustainGraph - A Knowledge Graph for Sustainable Development @ElTheKits @ioanna_mand96 @ARSINOE_EU](https://twitter.com/neo4j/status/1623347466044317697)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
