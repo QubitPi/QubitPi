@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Bees: a new unit of measurement for ML model size](https://www.reddit.com/r/MachineLearning/comments/10xqtn2/d_bees_a_new_unit_of_measurement_for_ml_model_size/)
 - [[P] Get 2x Faster Transcriptions with OpenAI Whisper Large on Kernl](https://www.reddit.com/r/MachineLearning/comments/10xp54e/p_get_2x_faster_transcriptions_with_openai/)
 - [[D] Format for ICML tutorial submission?](https://www.reddit.com/r/MachineLearning/comments/10xmm87/d_format_for_icml_tutorial_submission/)
 - [[D] Are there emergent abilities of image models?](https://www.reddit.com/r/MachineLearning/comments/10xjwac/d_are_there_emergent_abilities_of_image_models/)
 - [[D] Understanding the Successes of Autoencoders with Discrete Representations](https://www.reddit.com/r/MachineLearning/comments/10xj2vv/d_understanding_the_successes_of_autoencoders/)
-- [What are the best resources to stay up to date with latest news ? [D]](https://www.reddit.com/r/MachineLearning/comments/10xiexu/what_are_the_best_resources_to_stay_up_to_date/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
