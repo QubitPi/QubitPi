@@ -308,9 +308,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[Discussion] Looking for opinions: Scale Spellbook vs. Snorkel Flow vs....?](https://www.reddit.com/r/MachineLearning/comments/10y0ksi/discussion_looking_for_opinions_scale_spellbook/)
 - [[D] Similarity b/w two vectors](https://www.reddit.com/r/MachineLearning/comments/10y08vt/d_similarity_bw_two_vectors/)
-- [[R] Ai supervising AI](https://www.reddit.com/r/MachineLearning/comments/10xzmkt/r_ai_supervising_ai/)
 - [[D]Image Recognition ability of machine learning in financial markets questions](https://www.reddit.com/r/MachineLearning/comments/10xzh2i/dimage_recognition_ability_of_machine_learning_in/)
 - [[D] Story-telling AI that I could feed data to and then ask to write a similar replica?](https://www.reddit.com/r/MachineLearning/comments/10xz47o/d_storytelling_ai_that_i_could_feed_data_to_and/)
+- [[D] Constrained Optimization in Deep Learning](https://www.reddit.com/r/MachineLearning/comments/10xxxpa/d_constrained_optimization_in_deep_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
