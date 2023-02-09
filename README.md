@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Using In-Memory Databases in Data Science ➡️](https://twitter.com/memgraphdb/status/1623582723469193217)
+- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1623577943480967170)
+- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. #memgraph #graphdatab...](https://twitter.com/memgraphdb/status/1623568378374807554)
 - [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1623557558555357185)
 - [Did you see the latest video &quot;15 futuristic databases you’ve never heard of&quot; by @fireship_dev? #memgraph is one of those databases. 🙌 I guess that...](https://twitter.com/memgraphdb/status/1623416413250527235)
-- [🎓 If you are new to Memgraph, this tutorial is a great starting point for your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1623407065396830210)
-- [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1623383156312219648)
-- [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1623366691324297216)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
