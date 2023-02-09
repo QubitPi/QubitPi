@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Bjartur Hjaltason shares his experience working with #Neo4j, &quot;The most surprising result, for now, is how easy and intuitive it is. Everything you can...](https://twitter.com/neo4j/status/1623653125151158273)
+- [RT Daniel CF Ng: ⁦@temasekpoly⁩ and ⁦@neo4j⁩ to equip students with graph technology skills](https://twitter.com/danielcfng/status/1623562512095657987)
+- [RT Daniel CF Ng: ⁦@neo4j⁩ is honoured for the ⁦@ApacInsider⁩ #Singapore Business Awards 2022 - 2nd year running - for the ‘Most Innovative #Graph...](https://twitter.com/danielcfng/status/1623533908968230913)
 - [Neo4j Live: SustainGraph - A Knowledge Graph for Sustainable Development @ElTheKits @ioanna_mand96 @ARSINOE_EU](https://twitter.com/neo4j/status/1623347466044317697)
 - [New Podcast episode!📻 @lyonwj and @jalakoo recap major news, product updates, and notable community contributions from 2022. Enjoy the episode, her...](https://twitter.com/neo4j/status/1623336709772521472)
-- [Discover what’s new in Graph Data Science 2.3: 🚀 ✅Knowledge Graph Embedding ✅Steiner Trees ✅Negative relationships More: #Neo4j #graphdatascien...](https://twitter.com/neo4j/status/1623297107489693696)
-- [👉Vlad Batushkov, Engineering Technical Lead at Agoda, summarizes the most important aspects of the development process of Graphville: the graph edu...](https://twitter.com/neo4j/status/1623049476775501824)
-- [👉Learn how Graph Data Science has transformed @Arcurve&#39;s use of predictive analytics and machine learning to form the foundation of their analyses....](https://twitter.com/neo4j/status/1623003862671011854)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
