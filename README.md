@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ #memgraph #opensource #orb](https://twitter.com/memgraphdb/status/1623747558282493952)
+- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1623735227272032258)
 - [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1623729000471269382)
 - [Wow! 🤩 #memgraph repo just hit 1000 stars on GitHub! 🌟 A big thank you to all our supporters and contributors 🚀 #1000Stars #github](https://twitter.com/memgraphdb/status/1623691405271916550)
 - [Check out our blog post 📰 Graph Use Cases in Chemical Industry ➡️](https://twitter.com/memgraphdb/status/1623686657445699584)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1623677346539614209)
-- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1623659730664099841)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
