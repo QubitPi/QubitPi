@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Cypher query language, Memgraph uses as well, enables the ingestion and manipulation of the graph storage, optimizing the high number of hops ins...](https://twitter.com/memgraphdb/status/1623970070224334848)
-- [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1623968515743965184)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1623945113528328192)
 - [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1623934539855798275)
 - [🎓 #Learn #Cypher with #Memgraph Relationship types are styled upper-case and use the underscore character _ to separate multiple words. Relationshi...](https://twitter.com/memgraphdb/status/1623930768543166465)
+- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1623911893428469760)
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1623765174485233666)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
