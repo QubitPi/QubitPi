@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Curious to explore your graph with Neo4j Bloom and other tools? Take a look at our Documentation section, where you&#39;ll find all you need! We make it e...](https://twitter.com/neo4j/status/1624030601371082753)
 - [Attention, Singapore ❗ Want to know what are graph databases? Register for FREE for the first in-person meetup of 2023 by Graph Database Singapore po...](https://twitter.com/neo4j/status/1623985351537696769)
 - [Re @lyonwj examines how the open source #Neo4j graph database can be used with QGIS and #Python for making sense of geospatial data during his #NODES2...](https://twitter.com/neo4j/status/1623788610540404736)
 - [A livestream is worth it to come re-watch: Marvel Studios API - Discover Neo4j AuraDB Free within @mesirii 😎Interested in Marvel, Interested in Gra...](https://twitter.com/neo4j/status/1623758729375100933)
 - [Have you ever wondered why is graph data science a good technique for unsupervised dimensionality reduction? Take a look at Alex&#39;s super quick video b...](https://twitter.com/neo4j/status/1623732370154168320)
+- [Going Meta - Ep 13: Creating &lpar;and RDF-izing&rpar; virtual graphs over external data @barrasaDV](https://twitter.com/neo4j/status/1623709594420924417)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
