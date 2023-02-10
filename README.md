@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What ML or ML-powered projects are you currently building?](https://www.reddit.com/r/MachineLearning/comments/10z0xzl/d_what_ml_or_mlpowered_projects_are_you_currently/)
 - [[Discussion] We are AI fully developed!](https://www.reddit.com/r/MachineLearning/comments/10yzsj8/discussion_we_are_ai_fully_developed/)
 - [[D] Locally-runnable text to speech AI?](https://www.reddit.com/r/MachineLearning/comments/10yzq25/d_locallyrunnable_text_to_speech_ai/)
 - [[D] Simulator for RL problems](https://www.reddit.com/r/MachineLearning/comments/10yzohn/d_simulator_for_rl_problems/)
 - [[Discussion] WASM equivalant to Gradio but without needing a server?](https://www.reddit.com/r/MachineLearning/comments/10yxc0k/discussion_wasm_equivalant_to_gradio_but_without/)
-- [[P] Did anyone manage to run the MusicLM implementation from lucidrains?](https://www.reddit.com/r/MachineLearning/comments/10yv962/p_did_anyone_manage_to_run_the_musiclm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
