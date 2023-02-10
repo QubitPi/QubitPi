@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1624131840767365129)
 - [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ #memgraph #graphdatabase #stream #data #k...](https://twitter.com/memgraphdb/status/1624107936141172737)
 - [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1624093842164133896)
 - [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1624090068624322579)
 - [Do you have a question about #Memgraph? Feel free to ask it at #stackoverflow. Just tag it with &quot;memgraphdb&quot; tag so that we see it ;&rpar; In our opinion, ...](https://twitter.com/memgraphdb/status/1624067419156217866)
-- [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1624049045881643016)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
