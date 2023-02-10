@@ -307,10 +307,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] The Kaggle Book : Book by Konrad Banachewicz and Luca Massaron](https://www.reddit.com/r/MachineLearning/comments/10yimi8/d_the_kaggle_book_book_by_konrad_banachewicz_and/)
-- [[Project] Directory of 2,000+ AI tools to make your day interesting! Happy browsing!](https://www.reddit.com/r/MachineLearning/comments/10yiaxn/project_directory_of_2000_ai_tools_to_make_your/)
 - [[D] Multi-Task classification vs Multi-Label classification](https://www.reddit.com/r/MachineLearning/comments/10yhkkc/d_multitask_classification_vs_multilabel/)
 - [[D] Critique of statistics research from machine learning perspectives &lpar;and vice versa&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10yfp35/d_critique_of_statistics_research_from_machine/)
 - [[D] Hugging face model](https://www.reddit.com/r/MachineLearning/comments/10yfkt8/d_hugging_face_model/)
+- [[D] Simple tensorflow model predict question](https://www.reddit.com/r/MachineLearning/comments/10ydazz/d_simple_tensorflow_model_predict_question/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
