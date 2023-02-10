@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Large Language Models Can Teach Themselves to Use Tools](https://www.reddit.com/r/MachineLearning/comments/10z2pej/r_large_language_models_can_teach_themselves_to/)
 - [[D] Is it legal to use images or videos with copyright to train a model?](https://www.reddit.com/r/MachineLearning/comments/10z1jxz/d_is_it_legal_to_use_images_or_videos_with/)
 - [[D] What ML or ML-powered projects are you currently building?](https://www.reddit.com/r/MachineLearning/comments/10z0xzl/d_what_ml_or_mlpowered_projects_are_you_currently/)
 - [[Discussion] We are AI fully developed!](https://www.reddit.com/r/MachineLearning/comments/10yzsj8/discussion_we_are_ai_fully_developed/)
 - [[D] Locally-runnable text to speech AI?](https://www.reddit.com/r/MachineLearning/comments/10yzq25/d_locallyrunnable_text_to_speech_ai/)
-- [[D] Simulator for RL problems](https://www.reddit.com/r/MachineLearning/comments/10yzohn/d_simulator_for_rl_problems/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
