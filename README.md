@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Multi-Task classification vs Multi-Label classification](https://www.reddit.com/r/MachineLearning/comments/10yhkkc/d_multitask_classification_vs_multilabel/)
 - [[D] Critique of statistics research from machine learning perspectives &lpar;and vice versa&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10yfp35/d_critique_of_statistics_research_from_machine/)
 - [[D] Hugging face model](https://www.reddit.com/r/MachineLearning/comments/10yfkt8/d_hugging_face_model/)
 - [[D] Simple tensorflow model predict question](https://www.reddit.com/r/MachineLearning/comments/10ydazz/d_simple_tensorflow_model_predict_question/)
 - [[R] Theory of Mind May Have Spontaneously Emerged in Large Language Models](https://www.reddit.com/r/MachineLearning/comments/10ybxa2/r_theory_of_mind_may_have_spontaneously_emerged/)
-- [[D] Should I put my current or past affiliation on my EACL paper?](https://www.reddit.com/r/MachineLearning/comments/10ybgb3/d_should_i_put_my_current_or_past_affiliation_on/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
