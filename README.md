@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Experiences finding a job in the US as a Mexican currently working in the UK](https://www.reddit.com/r/MachineLearning/comments/10yruoe/d_experiences_finding_a_job_in_the_us_as_a/)
 - [[P] Resume parsing + Cv analysis](https://www.reddit.com/r/MachineLearning/comments/10ymh4u/p_resume_parsing_cv_analysis/)
 - [Have you seen ruber slicing? [D]](https://www.reddit.com/r/MachineLearning/comments/10yks8z/have_you_seen_ruber_slicing_d/)
 - [[D] The Kaggle Book : Book by Konrad Banachewicz and Luca Massaron](https://www.reddit.com/r/MachineLearning/comments/10yimi8/d_the_kaggle_book_book_by_konrad_banachewicz_and/)
 - [[D] Critique of statistics research from machine learning perspectives &lpar;and vice versa&rpar;?](https://www.reddit.com/r/MachineLearning/comments/10yfp35/d_critique_of_statistics_research_from_machine/)
-- [[D] Hugging face model](https://www.reddit.com/r/MachineLearning/comments/10yfkt8/d_hugging_face_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
