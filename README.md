@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1624151240807424002)
 - [Malhar Anaokar of @i_memori shares their journey bringing the concept of &#39;institutional memory&#39; out of academia and into the real world with ArangoDB....](https://twitter.com/arangodb/status/1624015349271126018)
 - [Don&#39;t miss out on this opportunity to learn about #FastGraphML with #ArangoDB! 🥑 Register now for this upcoming webinar:](https://twitter.com/arangodb/status/1623788852719546370)
 - [A shared source of truth on the global supply chain with ArangoGraph as the foundation. 🥑 Learn more about Altana Technologies building efficient, ...](https://twitter.com/arangodb/status/1623652961950859265)
 - [RT Roxanne El Baff: 📢our demo paper will appear at #eacl2023 . We introduce an architectural framework that employs the *build-and-annotate* patter...](https://twitter.com/roxanneelbaff/status/1623620589318553601)
-- [Graph analytics can be implemented for many different uses. In this article, Nakul Agrawal teaches you how to understand digital organization with gra...](https://twitter.com/arangodb/status/1623426463230746629)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
