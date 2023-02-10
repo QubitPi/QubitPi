@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you have a question about #Memgraph? Feel free to ask it at #stackoverflow. Just tag it with &quot;memgraphdb&quot; tag so that we see it ;&rpar; In our opinion, ...](https://twitter.com/memgraphdb/status/1624067419156217866)
+- [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1624049045881643016)
 - [🍿Check out the #Memgraph video &quot;How to contribute to a C++ project?&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1624046528565321732)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. #memgraph #graphdatabase #memgraphdb #database #sql #nosql](https://twitter.com/memgraphdb/status/1624019600861003776)
 - [Check out our blog post 📰 Apache #Pulsar vs #Apache #Kafka - How to choose a data streaming platform ➡️](https://twitter.com/memgraphdb/status/1624001484198404102)
-- [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1623995696062799872)
-- [🚀 Cypher query language, Memgraph uses as well, enables the ingestion and manipulation of the graph storage, optimizing the high number of hops ins...](https://twitter.com/memgraphdb/status/1623970070224334848)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
