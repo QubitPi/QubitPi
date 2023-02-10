@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1623945113528328192)
+- [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1623934539855798275)
+- [🎓 #Learn #Cypher with #Memgraph Relationship types are styled upper-case and use the underscore character _ to separate multiple words. Relationshi...](https://twitter.com/memgraphdb/status/1623930768543166465)
 - [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1623911893428469760)
 - [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1623765174485233666)
-- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ #memgraph #opensource #orb](https://twitter.com/memgraphdb/status/1623747558282493952)
-- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1623735227272032258)
-- [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1623729000471269382)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
