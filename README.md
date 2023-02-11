@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1624489951755751426)
 - [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1624472337239183362)
 - [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1624453460883083264)
 - [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repres...](https://twitter.com/memgraphdb/status/1624449685384486913)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624429805218193414)
-- [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1624419990614028291)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
