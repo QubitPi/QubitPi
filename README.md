@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Want to hear about Visualization Features for Neo4j Bloom?? 🌸 Jonathan describes the new features coming in the next update: #Neo4j #Neo4jBloom #Bl...](https://twitter.com/neo4j/status/1624392892524507140)
 - [👀 Conversational Artificial Intelligence with Neo4j and Unreal Engine - Part 2, is here! #AI #Neo4j #DataScience](https://twitter.com/neo4j/status/1624106064059801600)
 - [Curious to explore your graph with Neo4j Bloom and other tools? Take a look at our Documentation section, where you&#39;ll find all you need! We make it e...](https://twitter.com/neo4j/status/1624030601371082753)
 - [Attention, Singapore ❗ Want to know what are graph databases? Register for FREE for the first in-person meetup of 2023 by Graph Database Singapore po...](https://twitter.com/neo4j/status/1623985351537696769)
 - [RT Daniel CF Ng: #SINGAPORE #GRAPH #MEETUP REGISTER HERE](https://twitter.com/danielcfng/status/1623960331331731456)
+- [Re @lyonwj examines how the open source #Neo4j graph database can be used with QGIS and #Python for making sense of geospatial data during his #NODES2...](https://twitter.com/neo4j/status/1623788610540404736)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
