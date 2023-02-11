@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓Cypher is a declarative query language designed to efficiently handle querying graph data. Learn Cypher with us! Sign up for #Cypher email course ...](https://twitter.com/memgraphdb/status/1624472337239183362)
+- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 #memgraph](https://twitter.com/memgraphdb/status/1624453460883083264)
+- [Sign up for the #Memgraph #Webinar &quot;Track Data Lineage With a Graph Database&quot;. The talk introduces #datalineage use cases and shows how data is repres...](https://twitter.com/memgraphdb/status/1624449685384486913)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624429805218193414)
 - [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1624419990614028291)
-- [The world of version control is getting more interesting each day. Learn what #Git, #GitHub, and #GitHubCLI have in common and master version control!...](https://twitter.com/memgraphdb/status/1624411434653294594)
-- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1624381989070438401)
-- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624363869828177920)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
