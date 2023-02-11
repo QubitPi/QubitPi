@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [The Inference Cost Of Search Disruption – Large Language Model Cost Analysis [D]](https://www.reddit.com/r/MachineLearning/comments/10zsw62/the_inference_cost_of_search_disruption_large/)
 - [[P] Argilla Spaces: data labeling and human-feedback collection on the Hugging Face Hub](https://www.reddit.com/r/MachineLearning/comments/10zsi7x/p_argilla_spaces_data_labeling_and_humanfeedback/)
 - [[D] Effectiveness of CoordConv](https://www.reddit.com/r/MachineLearning/comments/10zri4x/d_effectiveness_of_coordconv/)
 - [[News] Researchers at Brigham Young University created an AI system to reduce time spent on film studies for NFL teams. It uses deep learning and computer vision to analyze and annotate game footage, with over 90% accuracy on player detection and 85% accuracy in determining formations.](https://www.reddit.com/r/MachineLearning/comments/10zqzkd/news_researchers_at_brigham_young_university/)
 - [[P] I&#39;m using Deep Learning to play Old School game, Snake Game](https://www.reddit.com/r/MachineLearning/comments/10zqd8o/p_im_using_deep_learning_to_play_old_school_game/)
-- [[P] Understanding Large Language Models -- A Transformative Reading List](https://www.reddit.com/r/MachineLearning/comments/10zolt0/p_understanding_large_language_models_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
