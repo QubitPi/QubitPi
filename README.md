@@ -324,11 +324,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [The 1 question to figure out where you are in the product life cycle](https://www.scrum.org/resources/blog/1-question-figure-out-where-you-are-product-life-cycle)
 - [BA World: 5 Ways To Spot Fake Scrum](https://www.scrum.org/resources/blog/ba-world-5-ways-spot-fake-scrum)
 - [The importance of Transparency and the Increment &lpar;08&rpar;](https://www.scrum.org/resources/blog/importance-transparency-and-increment-08)
 - [Definition of Done: Business Agilität und technische Exzellenz 🇩🇪](https://www.scrum.org/resources/blog/definition-done-business-agilitat-und-technische-exzellenz)
 - [Intro to Scrum &lpar;6 of 16&rpar;: What is a Product Owner?](https://www.scrum.org/resources/blog/intro-scrum-6-16-what-product-owner)
-- [🇮🇹 Creare prodotti complessi - L&#39;esempio Spacex](https://www.scrum.org/resources/blog/creare-prodotti-complessi-lesempio-spacex)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
