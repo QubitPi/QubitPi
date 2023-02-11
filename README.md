@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624363869828177920)
+- [Sign up for the #Memgraph #Webinar &quot;Real-Time Graph Analytics Webinar&quot;. You will earn: - When to use graph analytics? - When to use a graph database? ...](https://twitter.com/memgraphdb/status/1624358083446161409)
+- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1624356572594941953)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1624346002751688704)
 - [🎓 Learn how to sync Memgraph with Elasticsearch using query modules and triggers and what are the benefits of having such a system. #memgraph #grap...](https://twitter.com/memgraphdb/status/1624317316237230080)
-- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. #me...](https://twitter.com/memgraphdb/status/1624307499430969346)
-- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1624296928191164419)
-- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1624282333913264128)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
