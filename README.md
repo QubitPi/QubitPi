@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1624346002751688704)
 - [🎓 Learn how to sync Memgraph with Elasticsearch using query modules and triggers and what are the benefits of having such a system. #memgraph #grap...](https://twitter.com/memgraphdb/status/1624317316237230080)
 - [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. #me...](https://twitter.com/memgraphdb/status/1624307499430969346)
 - [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1624296928191164419)
 - [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1624282333913264128)
-- [Check out our blog post 📰 Monitoring a Dynamic Contact Network with Online Community Detection ➡️](https://twitter.com/memgraphdb/status/1624131840767365129)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
