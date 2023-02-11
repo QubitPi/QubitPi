@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Hierarchical Clustering - Transforming the Distance Axis](https://www.reddit.com/r/MachineLearning/comments/10z96m2/d_hierarchical_clustering_transforming_the/)
 - [[D] Best available text to speech free AI model out there for english](https://www.reddit.com/r/MachineLearning/comments/10z6ke2/d_best_available_text_to_speech_free_ai_model_out/)
 - [[D] Is Efficient-Net same as MobileNetV2](https://www.reddit.com/r/MachineLearning/comments/10z45c0/d_is_efficientnet_same_as_mobilenetv2/)
 - [[D] Speed up HuggingFace Inference Pipeline](https://www.reddit.com/r/MachineLearning/comments/10z3qdt/d_speed_up_huggingface_inference_pipeline/)
 - [[R] Large Language Models Can Teach Themselves to Use Tools](https://www.reddit.com/r/MachineLearning/comments/10z2pej/r_large_language_models_can_teach_themselves_to/)
-- [[D] Is it legal to use images or videos with copyright to train a model?](https://www.reddit.com/r/MachineLearning/comments/10z1jxz/d_is_it_legal_to_use_images_or_videos_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
