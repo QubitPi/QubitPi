@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Introducing arxivGPT: chrome extension that summarizes arxived research papers using chatGPT](https://www.reddit.com/r/MachineLearning/comments/10zmz2d/p_introducing_arxivgpt_chrome_extension_that/)
 - [[D] Transformers for poker bot](https://www.reddit.com/r/MachineLearning/comments/10zix8k/d_transformers_for_poker_bot/)
 - [[R] UniD3: Unified Discrete Diffusion for Simultaneous Vision-Language Generation](https://www.reddit.com/r/MachineLearning/comments/10zfvz1/r_unid3_unified_discrete_diffusion_for/)
 - [[R] [ICLR&#39;2023🌟]: Vision-and-Language Framework for Open-Vocabulary Object Detection](https://www.reddit.com/r/MachineLearning/comments/10zfu64/r_iclr2023_visionandlanguage_framework_for/)
 - [[D] Hierarchical Clustering - Transforming the Distance Axis](https://www.reddit.com/r/MachineLearning/comments/10z96m2/d_hierarchical_clustering_transforming_the/)
-- [[D] Best available text to speech free AI model out there for english](https://www.reddit.com/r/MachineLearning/comments/10z6ke2/d_best_available_text_to_speech_free_ai_model_out/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
