@@ -308,9 +308,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Have their been any attempts to create a programming language specifically for machine learning?](https://www.reddit.com/r/MachineLearning/comments/1102t34/d_have_their_been_any_attempts_to_create_a/)
 - [Tiny ml or ml [D]](https://www.reddit.com/r/MachineLearning/comments/1102qrm/tiny_ml_or_ml_d/)
-- [[D] A handful of Reddit usernames cause ChatGPT to break. No one knew why... until now.](https://www.reddit.com/r/MachineLearning/comments/1101t6f/d_a_handful_of_reddit_usernames_cause_chatgpt_to/)
 - [[D] Can Google sue OpenAI for using the Transformer in their products?](https://www.reddit.com/r/MachineLearning/comments/10zzm18/d_can_google_sue_openai_for_using_the_transformer/)
 - [OpenAI Python API connection [Project]](https://www.reddit.com/r/MachineLearning/comments/10zytcx/openai_python_api_connection_project/)
+- [Storing embeddings [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10zxibb/storing_embeddings_discussion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
