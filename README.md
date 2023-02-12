@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1624746894369980417)
+- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1624743622766735363)
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1624720468841320452)
 - [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1624708388763447298)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1624683980833361920)
-- [🎓 With a graph database as its core product, a visualization tool of Memgraph Lab and the extendable graph algorithm library MAGE, Memgraph offers ...](https://twitter.com/memgraphdb/status/1624664600691068929)
-- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1624659319823208449)
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. #memgraph #tutorial #graphdatabase](https://twitter.com/memgraphdb/status/1624655541879316482)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
