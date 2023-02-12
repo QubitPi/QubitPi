@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1624812075250855938)
 - [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1624773821470281728)
 - [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. #memgraph #gra...](https://twitter.com/memgraphdb/status/1624772310270894081)
 - [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1624764510119641089)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1624746894369980417)
+- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1624743622766735363)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
