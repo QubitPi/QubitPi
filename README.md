@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] i copyed chatgpt3 &lpar;everything is same&rpar;](https://www.reddit.com/r/MachineLearning/comments/110f1mg/p_i_copyed_chatgpt3_everything_is_same/)
 - [[P] Extracting Causal Chains from Text Using Language Models](https://www.reddit.com/r/MachineLearning/comments/110ep96/p_extracting_causal_chains_from_text_using/)
 - [[D] Looking for an open source Downloadable model to run on my local device.](https://www.reddit.com/r/MachineLearning/comments/110chc7/d_looking_for_an_open_source_downloadable_model/)
 - [[N] AI Service Going down - Global Warming](https://www.reddit.com/r/MachineLearning/comments/110ccya/n_ai_service_going_down_global_warming/)
 - [[D] LLM &amp; Prompt Vulnerabilities - Is it a kind of prompt injection or hallucinating? Or shall we call it Prompt in the Middle &lpar;PiTM&rpar;](https://www.reddit.com/r/MachineLearning/comments/110b2an/d_llm_prompt_vulnerabilities_is_it_a_kind_of/)
-- [[N] Computer Vision News of February 2023 with AI, CV, DL and ML](https://www.reddit.com/r/MachineLearning/comments/110ax1r/n_computer_vision_news_of_february_2023_with_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
