@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] DIGIFACE-1M — synthetic dataset with one million images for face recognition](https://www.reddit.com/r/MachineLearning/comments/110h9ey/r_digiface1m_synthetic_dataset_with_one_million/)
+- [[D] The &lpar;minor/major?&rpar; flaw in the philosophy of OpenAI&#39;s ChatGPT purpose](https://www.reddit.com/r/MachineLearning/comments/110h7mh/d_the_minormajor_flaw_in_the_philosophy_of/)
 - [[P] Understanding &amp; Coding the Self-Attention Mechanism of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/110gh1m/p_understanding_coding_the_selfattention/)
 - [[D] Getting LLMs to explore their latent spaces](https://www.reddit.com/r/MachineLearning/comments/110fwgt/d_getting_llms_to_explore_their_latent_spaces/)
 - [[D] Bert Tokenization: Replacing person/entity names with a common token/word.](https://www.reddit.com/r/MachineLearning/comments/110fjyo/d_bert_tokenization_replacing_personentity_names/)
-- [[P] i copyed chatgpt3 &lpar;everything is same&rpar;](https://www.reddit.com/r/MachineLearning/comments/110f1mg/p_i_copyed_chatgpt3_everything_is_same/)
-- [[P] Extracting Causal Chains from Text Using Language Models](https://www.reddit.com/r/MachineLearning/comments/110ep96/p_extracting_causal_chains_from_text_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
