@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [StoryRobot - A Twitch.tv livestream where chatters can interact with the storytelling AI [P]](https://www.reddit.com/r/MachineLearning/comments/110ljqh/storyrobot_a_twitchtv_livestream_where_chatters/)
 - [The real concept behind deep learning [Discussion]](https://www.reddit.com/r/MachineLearning/comments/110ldrx/the_real_concept_behind_deep_learning_discussion/)
 - [[D]Neural-Style-PT is capable of creating complex artworks under 20 minutes.](https://www.reddit.com/r/MachineLearning/comments/110kv03/dneuralstylept_is_capable_of_creating_complex/)
 - [[D] What ML dev tools do you wish you&#39;d discovered earlier?](https://www.reddit.com/r/MachineLearning/comments/110knl0/d_what_ml_dev_tools_do_you_wish_youd_discovered/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/110j0cp/d_simple_questions_thread/)
-- [[R] [P] Adding Conditional Control to Text-to-Image Diffusion Models. &quot;This paper presents ControlNet, an end-to-end neural network architecture that controls large image diffusion models &lpar;like Stable Diffusion&rpar; to learn task-specific input conditions.&quot; Example uses the Scribble ControlNet model.](https://www.reddit.com/r/MachineLearning/comments/110i7h7/r_p_adding_conditional_control_to_texttoimage/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
