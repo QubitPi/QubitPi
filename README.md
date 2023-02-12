@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A handful of Reddit usernames cause ChatGPT to break. No one knew why... until now.](https://www.reddit.com/r/MachineLearning/comments/1101t6f/d_a_handful_of_reddit_usernames_cause_chatgpt_to/)
 - [[D] Can Google sue OpenAI for using the Transformer in their products?](https://www.reddit.com/r/MachineLearning/comments/10zzm18/d_can_google_sue_openai_for_using_the_transformer/)
 - [OpenAI Python API connection [Project]](https://www.reddit.com/r/MachineLearning/comments/10zytcx/openai_python_api_connection_project/)
 - [Storing embeddings [Discussion]](https://www.reddit.com/r/MachineLearning/comments/10zxibb/storing_embeddings_discussion/)
 - [[R] I made a mistake in a recent submission, what to do ?](https://www.reddit.com/r/MachineLearning/comments/10zxh3l/r_i_made_a_mistake_in_a_recent_submission_what_to/)
-- [AI Guitar [D]](https://www.reddit.com/r/MachineLearning/comments/10zt89t/ai_guitar_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
