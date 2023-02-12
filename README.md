@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Resources for learning advanced ML [P] [R]](https://www.reddit.com/r/MachineLearning/comments/1106tum/resources_for_learning_advanced_ml_p_r/)
+- [[P] I Made an App That Simplifies Text Data Labeling: DataLabel](https://www.reddit.com/r/MachineLearning/comments/1106q4s/p_i_made_an_app_that_simplifies_text_data/)
 - [[N] New Frontiers in Artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/11059u6/n_new_frontiers_in_artificial_intelligence/)
 - [[R] The Naughtyformer: A Transformer Understands Offensive Humor](https://www.reddit.com/r/MachineLearning/comments/1104wt4/r_the_naughtyformer_a_transformer_understands/)
 - [[D] Have their been any attempts to create a programming language specifically for machine learning?](https://www.reddit.com/r/MachineLearning/comments/1102t34/d_have_their_been_any_attempts_to_create_a/)
-- [[D] Can Google sue OpenAI for using the Transformer in their products?](https://www.reddit.com/r/MachineLearning/comments/10zzm18/d_can_google_sue_openai_for_using_the_transformer/)
-- [[R] I made a mistake in a recent submission, what to do ?](https://www.reddit.com/r/MachineLearning/comments/10zxh3l/r_i_made_a_mistake_in_a_recent_submission_what_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
