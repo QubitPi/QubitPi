@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] Adding Conditional Control to Text-to-Image Diffusion Models. &quot;This paper presents ControlNet, an end-to-end neural network architecture that controls large image diffusion models &lpar;like Stable Diffusion&rpar; to learn task-specific input conditions.&quot; Example uses the Scribble ControlNet model.](https://www.reddit.com/r/MachineLearning/comments/110i7h7/r_p_adding_conditional_control_to_texttoimage/)
 - [[D] What Are Some Cloude Machine Learning Notebooks Providers](https://www.reddit.com/r/MachineLearning/comments/110hjql/d_what_are_some_cloude_machine_learning_notebooks/)
 - [[P] I used NeuroSymbolic AI to create a self-driving car in GTA](https://www.reddit.com/r/MachineLearning/comments/110hi1y/p_i_used_neurosymbolic_ai_to_create_a_selfdriving/)
 - [[R] DIGIFACE-1M — synthetic dataset with one million images for face recognition](https://www.reddit.com/r/MachineLearning/comments/110h9ey/r_digiface1m_synthetic_dataset_with_one_million/)
 - [[D] The &lpar;minor/major?&rpar; flaw in the philosophy of OpenAI&#39;s ChatGPT purpose](https://www.reddit.com/r/MachineLearning/comments/110h7mh/d_the_minormajor_flaw_in_the_philosophy_of/)
-- [[P] Understanding &amp; Coding the Self-Attention Mechanism of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/110gh1m/p_understanding_coding_the_selfattention/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
