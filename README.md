@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A 24 hour, AI-generated fake news channel](https://www.reddit.com/r/MachineLearning/comments/110au4a/p_a_24_hour_aigenerated_fake_news_channel/)
 - [ChatGPT is too good at being a sassy redditor [Discussion]](https://www.reddit.com/r/MachineLearning/comments/110acxw/chatgpt_is_too_good_at_being_a_sassy_redditor/)
 - [[D] Q &amp; A generative text on a custom source code base... Possible?](https://www.reddit.com/r/MachineLearning/comments/1107pyq/d_q_a_generative_text_on_a_custom_source_code/)
 - [Resources for learning advanced ML [P] [R]](https://www.reddit.com/r/MachineLearning/comments/1106tum/resources_for_learning_advanced_ml_p_r/)
 - [[P] I Made an App That Simplifies Text Data Labeling: DataLabel](https://www.reddit.com/r/MachineLearning/comments/1106q4s/p_i_made_an_app_that_simplifies_text_data/)
-- [[N] New Frontiers in Artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/11059u6/n_new_frontiers_in_artificial_intelligence/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
