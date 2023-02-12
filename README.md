@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Getting LLMs to explore their latent spaces](https://www.reddit.com/r/MachineLearning/comments/110fwgt/d_getting_llms_to_explore_their_latent_spaces/)
 - [[D] Bert Tokenization: Replacing person/entity names with a common token/word.](https://www.reddit.com/r/MachineLearning/comments/110fjyo/d_bert_tokenization_replacing_personentity_names/)
 - [[P] i copyed chatgpt3 &lpar;everything is same&rpar;](https://www.reddit.com/r/MachineLearning/comments/110f1mg/p_i_copyed_chatgpt3_everything_is_same/)
 - [[P] Extracting Causal Chains from Text Using Language Models](https://www.reddit.com/r/MachineLearning/comments/110ep96/p_extracting_causal_chains_from_text_using/)
 - [[D] Looking for an open source Downloadable model to run on my local device.](https://www.reddit.com/r/MachineLearning/comments/110chc7/d_looking_for_an_open_source_downloadable_model/)
-- [[N] AI Service Going down - Global Warming](https://www.reddit.com/r/MachineLearning/comments/110ccya/n_ai_service_going_down_global_warming/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
