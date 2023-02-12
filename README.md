@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for an open source Downloadable model to run on my local device.](https://www.reddit.com/r/MachineLearning/comments/110chc7/d_looking_for_an_open_source_downloadable_model/)
+- [[N] AI Service Going down - Global Warming](https://www.reddit.com/r/MachineLearning/comments/110ccya/n_ai_service_going_down_global_warming/)
 - [[D] LLM &amp; Prompt Vulnerabilities - Is it a kind of prompt injection or hallucinating? Or shall we call it Prompt in the Middle &lpar;PiTM&rpar;](https://www.reddit.com/r/MachineLearning/comments/110b2an/d_llm_prompt_vulnerabilities_is_it_a_kind_of/)
 - [[N] Computer Vision News of February 2023 with AI, CV, DL and ML](https://www.reddit.com/r/MachineLearning/comments/110ax1r/n_computer_vision_news_of_february_2023_with_ai/)
 - [[P] A 24 hour, AI-generated fake news channel](https://www.reddit.com/r/MachineLearning/comments/110au4a/p_a_24_hour_aigenerated_fake_news_channel/)
-- [ChatGPT is too good at being a sassy redditor [Discussion]](https://www.reddit.com/r/MachineLearning/comments/110acxw/chatgpt_is_too_good_at_being_a_sassy_redditor/)
-- [[D] Q &amp; A generative text on a custom source code base... Possible?](https://www.reddit.com/r/MachineLearning/comments/1107pyq/d_q_a_generative_text_on_a_custom_source_code/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
