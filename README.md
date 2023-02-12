@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1624773821470281728)
-- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. #memgraph #gra...](https://twitter.com/memgraphdb/status/1624772310270894081)
-- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1624764510119641089)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1624746894369980417)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling #memgraph #graphmodeling #graphdatabase #tutorial](https://twitter.com/memgraphdb/status/1624743622766735363)
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1624720468841320452)
+- [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1624708388763447298)
+- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1624683980833361920)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
