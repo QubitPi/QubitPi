@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [If you are constantly switching between Microsoft Visual Studio Code and the Neo4j Browser when writing Cypher statements, you’ll appreciate the Neo4...](https://twitter.com/neo4j/status/1624800590835470337)
 - [“By representing a project’s tasks as a graph instead, we can not only easily see the various dependencies, but also use critical path analysis tech...](https://twitter.com/neo4j/status/1624498537173069825)
 - [Missed #NODES2022 videos? Take a look at this one: Nadja Müller and Petra Selmer show you how the graph pattern matching features of #Cypher are desi...](https://twitter.com/neo4j/status/1624453245929152513)
 - [Want to hear about Visualization Features for Neo4j Bloom?? 🌸 Jonathan describes the new features coming in the next update: #Neo4j #Neo4jBloom #Bl...](https://twitter.com/neo4j/status/1624392892524507140)
 - [👀 Conversational Artificial Intelligence with Neo4j and Unreal Engine - Part 2, is here! #AI #Neo4j #DataScience](https://twitter.com/neo4j/status/1624106064059801600)
-- [Curious to explore your graph with Neo4j Bloom and other tools? Take a look at our Documentation section, where you&#39;ll find all you need! We make it e...](https://twitter.com/neo4j/status/1624030601371082753)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
