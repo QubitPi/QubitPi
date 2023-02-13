@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R][N]ChatGPT Decoded: An Expert Guide to Mastering the Technology and Building Domain-Specific Intelligent Bots with GPT and Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/111bf6e/rnchatgpt_decoded_an_expert_guide_to_mastering/)
+- [[D] What are resources to start with GNN and GraphML?](https://www.reddit.com/r/MachineLearning/comments/111bb7l/d_what_are_resources_to_start_with_gnn_and_graphml/)
 - [[D] Cloud agnostic framework to avoid hyperscaler SDK lock-in?](https://www.reddit.com/r/MachineLearning/comments/111797x/d_cloud_agnostic_framework_to_avoid_hyperscaler/)
 - [[D] Engineering interviews at Anthropic AI?](https://www.reddit.com/r/MachineLearning/comments/1114o7v/d_engineering_interviews_at_anthropic_ai/)
 - [[D] Incorporating &quot;No Maintenance&quot; Examples into a Maintenance Dataset in ML](https://www.reddit.com/r/MachineLearning/comments/1113hcs/d_incorporating_no_maintenance_examples_into_a/)
-- [[D] Creating a personality based on unstructured data and using it in a chatbot to answer questions](https://www.reddit.com/r/MachineLearning/comments/1113dhj/d_creating_a_personality_based_on_unstructured/)
-- [[D] Is a non-SOTA paper still good to publish if it has an interesting method that does have strong improvements over baselines &lpar;read text for more context&rpar;? Are there good examples of this kind of work being published?](https://www.reddit.com/r/MachineLearning/comments/11129cq/d_is_a_nonsota_paper_still_good_to_publish_if_it/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
