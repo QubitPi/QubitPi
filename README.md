@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/761281244022439971><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2493a54aea2079a0ceb6ec2b8286d39c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762025085143875606><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/716c772debb93a93beb5055efa4f06b8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #艾尔海森# #生日快乐# 「啊！快看，艾尔海森这家伙，是不是在睡午觉啊！」 「嘘…派蒙声音太大了。」 「才、才没有…我明明轻声细语的… 「不...](https://t.bilibili.com/761281244022439971)
