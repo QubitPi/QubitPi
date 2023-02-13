@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Jasper Copywriting Reviews Expert Insight into AI Copywriting](https://www.reddit.com/r/MachineLearning/comments/1114rg6/d_jasper_copywriting_reviews_expert_insight_into/)
+- [[D] Engineering interviews at Anthropic AI?](https://www.reddit.com/r/MachineLearning/comments/1114o7v/d_engineering_interviews_at_anthropic_ai/)
 - [[D] Incorporating &quot;No Maintenance&quot; Examples into a Maintenance Dataset in ML](https://www.reddit.com/r/MachineLearning/comments/1113hcs/d_incorporating_no_maintenance_examples_into_a/)
 - [[D] Creating a personality based on unstructured data and using it in a chatbot to answer questions](https://www.reddit.com/r/MachineLearning/comments/1113dhj/d_creating_a_personality_based_on_unstructured/)
 - [[D] Is a non-SOTA paper still good to publish if it has an interesting method that does have strong improvements over baselines &lpar;read text for more context&rpar;? Are there good examples of this kind of work being published?](https://www.reddit.com/r/MachineLearning/comments/11129cq/d_is_a_nonsota_paper_still_good_to_publish_if_it/)
-- [[News] Free AI Text To Speech API](https://www.reddit.com/r/MachineLearning/comments/1111vyc/news_free_ai_text_to_speech_api/)
-- [[D] Diffusion Model Reverse Process Questions](https://www.reddit.com/r/MachineLearning/comments/1111gw7/d_diffusion_model_reverse_process_questions/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
