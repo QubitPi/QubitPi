@@ -255,11 +255,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- YOUTUBE-CHANNEL:START -->
+- [[GLog] Spiral Abyss Floor 12, Early Feb. Period](https://www.youtube.com/watch?v=zYyHusmXFXY)
 - [[GLog] Spiral Abyss Floor 11, Late Nov. Period](https://www.youtube.com/watch?v=gLLEZIbGrPE)
 - [[GLog] Spiral Abyss Floor 10, Late Nov. Period](https://www.youtube.com/watch?v=yFTagA9Ahj4)
 - [[GLog] Spiral Abyss Early Nov. Period](https://www.youtube.com/watch?v=q73HV21FNrI)
 - [Commemorate My First All-Pass Spiral Abyss Period!](https://www.youtube.com/watch?v=w0YeFg6-uxc)
-- [[Sangonomiya Kokomi Story Quest] Warriors&#39; Dreams Like Spring Grass Renewing](https://www.youtube.com/watch?v=7LF81N_bBd0)
 <!-- YOUTUBE-CHANNEL:END -->
 
 <!-- <a href="https://www.bilibili.com/video/BV17D4y1t74j/"><img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png"></a>
