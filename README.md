@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624999057629278210)
 - [PageRank is one of those iconic algorithms that have forever changed the technology world. Do you want to learn how to use #PageRank on #dynamic data?...](https://twitter.com/memgraphdb/status/1624856619082293250)
 - [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1624832708227522562)
 - [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1624818615424884739)
 - [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1624812075250855938)
-- [Check out our blog post 📰 Applications of the 20 most popular graph algorithms ➡️](https://twitter.com/memgraphdb/status/1624773821470281728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
