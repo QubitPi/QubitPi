@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1625195096885891077)
+- [Check out our blog post 📰 #LabelRankT – Community Detection in Dynamic Environment ➡️](https://twitter.com/memgraphdb/status/1625178553980534794)
 - [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1625154580618088448)
 - [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1625136210204102656)
 - [Check out our blog post 📰 How Node2Vec Works – A Random Walk-Based Node Embedding Method ➡️](https://twitter.com/memgraphdb/status/1625126899201499137)
-- [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. #Memgraph #streaming #graphdatabase #mage](https://twitter.com/memgraphdb/status/1625106767406415873)
-- [Check out our blog post 📰 Graph database query languages you should try ➡️](https://twitter.com/memgraphdb/status/1625088647035863043)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
