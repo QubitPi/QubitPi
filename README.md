@@ -252,7 +252,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
+<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- YOUTUBE-CHANNEL:START -->
 - [[GLog] Spiral Abyss Floor 11, Late Nov. Period](https://www.youtube.com/watch?v=gLLEZIbGrPE)
