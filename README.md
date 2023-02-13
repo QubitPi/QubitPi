@@ -301,8 +301,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] What are some papers that describe TikTok&#39;s algorithm?](https://www.reddit.com/r/MachineLearning/comments/111e9hx/r_what_are_some_papers_that_describe_tiktoks/)
 - [[R] Actually useful every day application of a Gaussian Process](https://www.reddit.com/r/MachineLearning/comments/111dvia/r_actually_useful_every_day_application_of_a/)
 - [[Discussion] are there any survey on compute required to train large DNN models ?](https://www.reddit.com/r/MachineLearning/comments/111dohm/discussion_are_there_any_survey_on_compute/)
-- [[R][N]ChatGPT Decoded: An Expert Guide to Mastering the Technology and Building Domain-Specific Intelligent Bots with GPT and Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/111bf6e/rnchatgpt_decoded_an_expert_guide_to_mastering/)
-- [[D] What are resources to start with GNN and GraphML?](https://www.reddit.com/r/MachineLearning/comments/111bb7l/d_what_are_resources_to_start_with_gnn_and_graphml/)
+- [[D] Cloud agnostic framework to avoid hyperscaler SDK lock-in?](https://www.reddit.com/r/MachineLearning/comments/111797x/d_cloud_agnostic_framework_to_avoid_hyperscaler/)
+- [[D] Engineering interviews at Anthropic AI?](https://www.reddit.com/r/MachineLearning/comments/1114o7v/d_engineering_interviews_at_anthropic_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
