@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Bertrand Provost, Senior Data Scientist at La Poste talks about their experience in Fighting Cybercrime With Bloom: #CustomerStories #Neo4j #Graphdata...](https://twitter.com/neo4j/status/1625102943195213824)
+- [Attention Graphistas from Dublin!! 📍This meetup is for you! For our first edition in this city, we are delighted to be hosted by @EY wavespace AI L...](https://twitter.com/neo4j/status/1625102570988380160)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1625053642389848064)
 - [Wondering how Cypher changed in #Neo4j5?? 🛎 Take a look at Tomaz Bratanic&#39;s review, here: #Neo4j #Cypher](https://twitter.com/neo4j/status/1624845815192645634)
 - [If you are constantly switching between Microsoft Visual Studio Code and the Neo4j Browser when writing Cypher statements, you’ll appreciate the Neo4...](https://twitter.com/neo4j/status/1624800590835470337)
-- [“By representing a project’s tasks as a graph instead, we can not only easily see the various dependencies, but also use critical path analysis tech...](https://twitter.com/neo4j/status/1624498537173069825)
-- [Missed #NODES2022 videos? Take a look at this one: Nadja Müller and Petra Selmer show you how the graph pattern matching features of #Cypher are desi...](https://twitter.com/neo4j/status/1624453245929152513)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
