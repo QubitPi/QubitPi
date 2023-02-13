@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D][R] What is the difference between the Efficient-Net V1 vs V2?](https://www.reddit.com/r/MachineLearning/comments/1110fto/dr_what_is_the_difference_between_the/)
 - [Twitter Datasets [P]](https://www.reddit.com/r/MachineLearning/comments/110zn28/twitter_datasets_p/)
 - [[P] Free Youtube Subtitles Generator](https://www.reddit.com/r/MachineLearning/comments/110zlq6/p_free_youtube_subtitles_generator/)
 - [[D] Resources for getting started with Large Language Models](https://www.reddit.com/r/MachineLearning/comments/110z8d3/d_resources_for_getting_started_with_large/)
 - [[R] Train CIFAR10 in under 8 seconds on an A100 &lpar;new world record...again!&rpar;](https://www.reddit.com/r/MachineLearning/comments/110xa5a/r_train_cifar10_in_under_8_seconds_on_an_a100_new/)
-- [[P]OneFlow v0.9.0 Came Out!](https://www.reddit.com/r/MachineLearning/comments/110vzsy/poneflow_v090_came_out/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
