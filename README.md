@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762025085143875606><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/716c772debb93a93beb5055efa4f06b8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.4版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/762025085143875606)
+- [互动抽奖 #原神# #B站粉丝数突破1600W# 「1600W粉丝数达成！」 旅行者们大家好，《原神》官方B站粉丝数现已突破1600W，为了感谢旅行者们的支持与陪伴，我们将抽...](https://t.bilibili.com/762023431580418195)
 - [互动抽奖 #原神# #艾尔海森# #生日快乐# 「啊！快看，艾尔海森这家伙，是不是在睡午觉啊！」 「嘘…派蒙声音太大了。」 「才、才没有…我明明轻声细语的… 「不...](https://t.bilibili.com/761281244022439971)
 - [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 《原神》「沙堑寻洲」千壑沙地主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图...](https://t.bilibili.com/760631999615467561)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·护摩之杖」「弓·若水」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿中...](https://t.bilibili.com/759890696823898169)
-- [#原神# #夜兰# #素霓伣天# 亲爱的旅行者，「素霓伣天」活动祈愿现已开启，「兰生幽谷·夜兰&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/759890177160118368)
-- [#原神# #胡桃# #赤团开时# 亲爱的旅行者，「赤团开时」活动祈愿现已开启，「雪霁梅香·胡桃&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/759889666030698531)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
