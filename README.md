@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 What is Real-Time Graph Analytics? ➡️](https://twitter.com/memgraphdb/status/1625070778579288065)
+- [❗️ Although some naive text-searching solutions could be built with a graph database like Memgraph, Elasticsearch is better at offering fine-grained...](https://twitter.com/memgraphdb/status/1625057323021484032)
+- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 #memgraph ...](https://twitter.com/memgraphdb/status/1625053415289106432)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1625032276605018112)
 - [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1625027493441728512)
-- [🚀 Expert teams in the field are often tasked with creating schedules to make optimal build processes for the company’s products. #memgraph #graphd...](https://twitter.com/memgraphdb/status/1625017928314757120)
-- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. #graphdatabase #opensource](https://twitter.com/memgraphdb/status/1624999057629278210)
-- [PageRank is one of those iconic algorithms that have forever changed the technology world. Do you want to learn how to use #PageRank on #dynamic data?...](https://twitter.com/memgraphdb/status/1624856619082293250)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
