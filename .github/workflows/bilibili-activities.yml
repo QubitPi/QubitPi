@@ -6,19 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  recent-uploads:
-    name: Recent Uploads
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Bilibili Uploads"
-          comment_tag_name: "BILIBILI-UPLOAD-LIST"
-          max_post_count: "3"
-          feed_list: "https://rsshub.app/bilibili/user/video/1771839550"
   recent-activities:
     name: Recent Activities (Including Recent Uploads)
     runs-on: ubuntu-latest
