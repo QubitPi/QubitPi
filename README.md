@@ -224,14 +224,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [我解锁了【一骑绝尘】成就，快来看看我的本周创作表现吧～](https://t.bilibili.com/717921337233899542)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
-### Recent Uploads
-
-<!-- BILIBILI-UPLOAD-LIST:START -->
-- [【原 Log】深境螺旋 11 月下半期第 11 层](https://www.bilibili.com/video/BV17P4y117DY)
-- [【原Log】深境螺旋十一月下第十层](https://www.bilibili.com/video/BV11P411g74L)
-- [【百人一揆3 - 机器们的午后】最后一个金牌到手](https://www.bilibili.com/video/BV11e4y1v7wp)
-<!-- BILIBILI-UPLOAD-LIST:END -->
-
 ### Columns
 
 <!-- BILIBILI-COLUMNS:START -->
