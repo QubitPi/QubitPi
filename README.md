@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762396067237986323><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/330aa1e41c77ea83887b1483120390b9401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@朝と夕の死神@酱油打路人@辞兮待君卿等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/762425427633373329)
 - [互动抽奖 #原神# #妮露# 巧克力明明是一种甜食，尝起来却有苦涩的味道，我第一次吃的时候很不习惯呢。 但是后来发现，经由苦涩对比后的甘甜，比起一般的甜，回味...](https://t.bilibili.com/762396067237986323)
 - [互动抽奖 #原神# #八重神子# 八重堂最近在新刊赠品方面推陈出新，看来是我教导有方。 你看，这个小说中原创的毛绒玩偶，还原得很不错吧？ 至于这盒期间限定的甜...](https://t.bilibili.com/762395560430796889)
 - [互动抽奖 #原神# #夜兰# 今早投了个好点数，于是我给自己放了一天假。 难得在没有任务的时候用不同的身份走访各地，别有一番趣味。 假日的最后，我决定来拜访我...](https://t.bilibili.com/762395113753149462)
 - [互动抽奖 #原神# #北斗# #生日快乐# 前方已经能看到海岸，这次的航程差不多就到这里了。 怎么样，有什么新的感想吗？ 我啊，海上的风景看多了，难免会觉得无趣。...](https://t.bilibili.com/762394860313378870)
-- [#原神# #荒泷极意堂堂斗虫大试合# 「荒泷极意堂堂斗虫大试合」斗虫小技巧 「荒泷极意堂堂斗虫大试合」活动即将于2023/02/16 10:00开启，旅行者们将与「荒泷派」...](https://t.bilibili.com/762371319611260947)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
