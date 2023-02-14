@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for advice on model architecture for embedding facial landmark coordinates into StyleGAN2 latentspace](https://www.reddit.com/r/MachineLearning/comments/112fnk8/d_looking_for_advice_on_model_architecture_for/)
 - [[D] Sentient AI Encryption](https://www.reddit.com/r/MachineLearning/comments/112fazm/d_sentient_ai_encryption/)
 - [[Discussion] Computing the derivative of a diffusion model with respect to the prompt](https://www.reddit.com/r/MachineLearning/comments/112eqxm/discussion_computing_the_derivative_of_a/)
 - [[D] self supervised learning for regression with tabular numerical data](https://www.reddit.com/r/MachineLearning/comments/112c2ad/d_self_supervised_learning_for_regression_with/)
 - [[R] Scaling Vision Transformers to 22 Billion Parameters](https://www.reddit.com/r/MachineLearning/comments/112bl3g/r_scaling_vision_transformers_to_22_billion/)
-- [[N] Miniworld is now a mature project within the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/1129gth/n_miniworld_is_now_a_mature_project_within_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
