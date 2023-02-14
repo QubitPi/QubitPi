@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Siddhant Agarwal: Final call! #Developers in #Singapore we have an exciting meetup for you tomorrow in collaboration with #GDG #Singapore and explo...](https://twitter.com/sidagarwal04/status/1625403423242981376)
 - [How to create a recommendation system with #Cypher queries? From Data Model to Loading Data to Making Recommendations, here: #Neo4j](https://twitter.com/neo4j/status/1625178094628659202)
 - [Bertrand Provost, Senior Data Scientist at La Poste talks about their experience in Fighting Cybercrime With Bloom: #CustomerStories #Neo4j #Graphdata...](https://twitter.com/neo4j/status/1625102943195213824)
 - [Attention Graphistas from Dublin!! 📍This meetup is for you! For our first edition in this city, we are delighted to be hosted by @EY wavespace AI L...](https://twitter.com/neo4j/status/1625102570988380160)
 - [Discovering Neo4j AuraDB Free with @mesirii](https://twitter.com/neo4j/status/1625053642389848064)
-- [Wondering how Cypher changed in #Neo4j5?? 🛎 Take a look at Tomaz Bratanic&#39;s review, here: #Neo4j #Cypher](https://twitter.com/neo4j/status/1624845815192645634)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
