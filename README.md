@@ -299,10 +299,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] [P] LUCAS: LUng CAncer Screening dataset](https://www.reddit.com/r/MachineLearning/comments/111w9bi/r_p_lucas_lung_cancer_screening_dataset/)
-- [[D] Looking for recommendations for an affordable API service to classify AI-generated text](https://www.reddit.com/r/MachineLearning/comments/111ux51/d_looking_for_recommendations_for_an_affordable/)
 - [[D] What are the best ways to make and run a fast custom TTS?](https://www.reddit.com/r/MachineLearning/comments/111uh53/d_what_are_the_best_ways_to_make_and_run_a_fast/)
 - [[D] Questions about becoming a machine learning engineer ?](https://www.reddit.com/r/MachineLearning/comments/111tplj/d_questions_about_becoming_a_machine_learning/)
 - [[R] Understanding metric-related pitfalls in image analysis validation](https://www.reddit.com/r/MachineLearning/comments/111lku3/r_understanding_metricrelated_pitfalls_in_image/)
+- [[R] What are some papers that describe TikTok&#39;s algorithm?](https://www.reddit.com/r/MachineLearning/comments/111e9hx/r_what_are_some_papers_that_describe_tiktoks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
