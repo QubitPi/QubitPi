@@ -509,11 +509,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [#StartInBlock by @ParisBlockWeek is a competition between the most promising Web3 projects supported by the Foundation. Founders will pitch 200+ inves...](https://twitter.com/Web3foundation/status/1623369760258854915)
-- [What is the role of decentralization in building a better web, what are the main regulation challenges, and how is @Polkadot bringing the benefits of ...](https://twitter.com/Web3foundation/status/1621182712395472897)
-- [Re 14/ To check the full recording of the Twitter Space on DOT morphing:](https://twitter.com/Web3foundation/status/1618550241816629251)
-- [Re 13/ @Polkadot today has delivered everything outlined in the whitepaper. It&#39;s in the hands of DOT holders, and there are over 550 teams &amp; projects ...](https://twitter.com/Web3foundation/status/1618550236930265091)
-- [Re 12/ Now, after 3 years of active engagement with the @SECGov, the Foundation is confident DOT has morphed and is not a security. It is software. Fo...](https://twitter.com/Web3foundation/status/1618550232031297541)
+- [Re 5/ To explore more information about staking on Polkadot, and start your staking journey, visit the Polkadot website or check the support page on a...](https://twitter.com/Web3foundation/status/1625552337002430464)
+- [Re 4/ With many new features arrived in the short time since the launch of the dashboard, learn about the latest updates as well as what&#39;s next for th...](https://twitter.com/Web3foundation/status/1625552334766936067)
+- [Re 3/ In addition to security and decentralization, Polkadot staking experience is being constantly improved &amp; simplified. As part of this process, a ...](https://twitter.com/Web3foundation/status/1625552332921442305)
+- [Re 2/ Based on groundbreaking Nominated Proof of Stake &lpar;NPoS&rpar; technology, Polkadot native staking represents a fully trustless &amp; decentralized staking...](https://twitter.com/Web3foundation/status/1625552331075887105)
+- [1/ The Foundation is fully committed to the advancement of Web3 and decentralization. With this 🧵 we want to reaffirm the benefits of native stakin...](https://twitter.com/Web3foundation/status/1625552329285017603)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
