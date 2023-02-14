@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762371319611260947><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0d0597d12e8e04e372c365185f5fccd6401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #妮露# 巧克力明明是一种甜食，尝起来却有苦涩的味道，我第一次吃的时候很不习惯呢。 但是后来发现，经由苦涩对比后的甘甜，比起一般的甜，回味...](https://t.bilibili.com/762396067237986323)
+- [互动抽奖 #原神# #八重神子# 八重堂最近在新刊赠品方面推陈出新，看来是我教导有方。 你看，这个小说中原创的毛绒玩偶，还原得很不错吧？ 至于这盒期间限定的甜...](https://t.bilibili.com/762395560430796889)
+- [互动抽奖 #原神# #夜兰# 今早投了个好点数，于是我给自己放了一天假。 难得在没有任务的时候用不同的身份走访各地，别有一番趣味。 假日的最后，我决定来拜访我...](https://t.bilibili.com/762395113753149462)
+- [互动抽奖 #原神# #北斗# #生日快乐# 前方已经能看到海岸，这次的航程差不多就到这里了。 怎么样，有什么新的感想吗？ 我啊，海上的风景看多了，难免会觉得无趣。...](https://t.bilibili.com/762394860313378870)
 - [#原神# #荒泷极意堂堂斗虫大试合# 「荒泷极意堂堂斗虫大试合」斗虫小技巧 「荒泷极意堂堂斗虫大试合」活动即将于2023/02/16 10:00开启，旅行者们将与「荒泷派」...](https://t.bilibili.com/762371319611260947)
-- [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.4版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/762025085143875606)
-- [互动抽奖 #原神# #B站粉丝数突破1600W# 「1600W粉丝数达成！」 旅行者们大家好，《原神》官方B站粉丝数现已突破1600W，为了感谢旅行者们的支持与陪伴，我们将抽...](https://t.bilibili.com/762023431580418195)
-- [互动抽奖 #原神# #艾尔海森# #生日快乐# 「啊！快看，艾尔海森这家伙，是不是在睡午觉啊！」 「嘘…派蒙声音太大了。」 「才、才没有…我明明轻声细语的… 「不...](https://t.bilibili.com/761281244022439971)
-- [#原神# #沙堑寻洲# #原神沙堑寻洲摄影征集活动# 《原神》「沙堑寻洲」千壑沙地主题摄影活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀作品请查看下图...](https://t.bilibili.com/760631999615467561)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
