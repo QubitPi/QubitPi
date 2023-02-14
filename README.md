@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Noam Brown, FAIR: On achieving human-level performance in poker and Diplomacy, and the power of spending compute at inference time](https://www.reddit.com/r/MachineLearning/comments/112jwzr/d_noam_brown_fair_on_achieving_humanlevel/)
 - [[D] Retrieval transformers with learnable queries?](https://www.reddit.com/r/MachineLearning/comments/112jnzp/d_retrieval_transformers_with_learnable_queries/)
 - [[R] [N] REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers](https://www.reddit.com/r/MachineLearning/comments/112gpf1/r_n_realtabformer_generating_realistic_relational/)
 - [[D] Looking for advice on model architecture for embedding facial landmark coordinates into StyleGAN2 latentspace](https://www.reddit.com/r/MachineLearning/comments/112fnk8/d_looking_for_advice_on_model_architecture_for/)
 - [[Discussion] Computing the derivative of a diffusion model with respect to the prompt](https://www.reddit.com/r/MachineLearning/comments/112eqxm/discussion_computing_the_derivative_of_a/)
-- [[D] self supervised learning for regression with tabular numerical data](https://www.reddit.com/r/MachineLearning/comments/112c2ad/d_self_supervised_learning_for_regression_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
