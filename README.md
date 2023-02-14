@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762425427633373329><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2fc51249fdc2049d0d4cf7f0100e9c69401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762396067237986323><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/330aa1e41c77ea83887b1483120390b9401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #妮露# 巧克力明明是一种甜食，尝起来却有苦涩的味道，我第一次吃的时候很不习惯呢。 但是后来发现，经由苦涩对比后的甘甜，比起一般的甜，回味...](https://t.bilibili.com/762396067237986323)
