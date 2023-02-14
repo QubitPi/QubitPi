@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn something new this week! Try out 14 days of the ArangoGraph Insights Platform. 🥑 Sign up today to get started. 💥](https://twitter.com/arangodb/status/1625464893628465153)
 - [In this medium article, Machine Learning Working Student, Max demonstrates How to Deploy ArangoDB Graphs on GPUs for Accelerated Graph Algorithms usin...](https://twitter.com/arangodb/status/1625238394535047175)
 - [With ArangoDB at its core, @orange has created 51 million digital twins and counting. 🥑 Read their full use case here. 👇](https://twitter.com/arangodb/status/1625102520631676928)
 - [Did you make it to our kube-arangodb webinar? 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, let...](https://twitter.com/arangodb/status/1624785421258440704)
 - [Grab some popcorn and get ready to be up to speed with ArangoDB Summit - our first-ever two-day industry event. 🥑 Learn more about use cases, thoug...](https://twitter.com/arangodb/status/1624423026220576770)
-- [Have you tried the ArangoDB Sink Connector? Learn how to install through the Confluent Hub client today. ✨](https://twitter.com/arangodb/status/1624151240807424002)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
