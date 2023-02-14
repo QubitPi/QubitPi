@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What are the best ways to make and run a fast custom TTS?](https://www.reddit.com/r/MachineLearning/comments/111uh53/d_what_are_the_best_ways_to_make_and_run_a_fast/)
 - [[D] Questions about becoming a machine learning engineer ?](https://www.reddit.com/r/MachineLearning/comments/111tplj/d_questions_about_becoming_a_machine_learning/)
 - [[R] Understanding metric-related pitfalls in image analysis validation](https://www.reddit.com/r/MachineLearning/comments/111lku3/r_understanding_metricrelated_pitfalls_in_image/)
 - [[R] What are some papers that describe TikTok&#39;s algorithm?](https://www.reddit.com/r/MachineLearning/comments/111e9hx/r_what_are_some_papers_that_describe_tiktoks/)
 - [[R] Actually useful every day application of a Gaussian Process](https://www.reddit.com/r/MachineLearning/comments/111dvia/r_actually_useful_every_day_application_of_a/)
-- [[Discussion] are there any survey on compute required to train large DNN models ?](https://www.reddit.com/r/MachineLearning/comments/111dohm/discussion_are_there_any_survey_on_compute/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
