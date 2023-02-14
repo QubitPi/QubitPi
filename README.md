@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/MachineLearning/comments/111zwsg/d_a_comprehensive_guide_handcurated_resource_list/)
+- [[D] What are your tricks/infra working with embeddings?](https://www.reddit.com/r/MachineLearning/comments/111z2hl/d_what_are_your_tricksinfra_working_with/)
 - [[P] Free GPT3-based tool to suggest terminal commands via natural language](https://www.reddit.com/r/MachineLearning/comments/111y0cu/p_free_gpt3based_tool_to_suggest_terminal/)
 - [[D] Anyone interested in training an AI for Tigris and Euphrates?](https://www.reddit.com/r/MachineLearning/comments/111xr3q/d_anyone_interested_in_training_an_ai_for_tigris/)
 - [[R] Boosted Trees Literature](https://www.reddit.com/r/MachineLearning/comments/111xfkh/r_boosted_trees_literature/)
-- [[R] [P] LUCAS: LUng CAncer Screening dataset](https://www.reddit.com/r/MachineLearning/comments/111w9bi/r_p_lucas_lung_cancer_screening_dataset/)
-- [[D] What are the best ways to make and run a fast custom TTS?](https://www.reddit.com/r/MachineLearning/comments/111uh53/d_what_are_the_best_ways_to_make_and_run_a_fast/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
