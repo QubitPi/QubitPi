@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762025085143875606><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/716c772debb93a93beb5055efa4f06b8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762371319611260947><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0d0597d12e8e04e372c365185f5fccd6401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #荒泷极意堂堂斗虫大试合# 「荒泷极意堂堂斗虫大试合」斗虫小技巧 「荒泷极意堂堂斗虫大试合」活动即将于2023/02/16 10:00开启，旅行者们将与「荒泷派」...](https://t.bilibili.com/762371319611260947)
