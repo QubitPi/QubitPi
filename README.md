@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Miniworld is now a mature project within the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/1129gth/n_miniworld_is_now_a_mature_project_within_the/)
 - [[D] Tensorflow struggles](https://www.reddit.com/r/MachineLearning/comments/11299r9/d_tensorflow_struggles/)
 - [[R] Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://www.reddit.com/r/MachineLearning/comments/11287zf/r_hitchhikers_guide_to_superresolution/)
 - [[D] Repeating important samples in every batch for NN training?](https://www.reddit.com/r/MachineLearning/comments/1126g64/d_repeating_important_samples_in_every_batch_for/)
 - [[R] Imagenet 2015 VID Dataset](https://www.reddit.com/r/MachineLearning/comments/1124hyv/r_imagenet_2015_vid_dataset/)
-- [[D] Threshold for k-means anomaly detection](https://www.reddit.com/r/MachineLearning/comments/11241dd/d_threshold_for_kmeans_anomaly_detection/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
