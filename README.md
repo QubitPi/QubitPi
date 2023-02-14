@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Do you know a useful Case-Based Reasoning &lpar;CBR&rpar; Library for Python?](https://www.reddit.com/r/MachineLearning/comments/1123k6f/discussion_do_you_know_a_useful_casebased/)
 - [[P] Smart Scraper](https://www.reddit.com/r/MachineLearning/comments/1123ibs/p_smart_scraper/)
 - [[P] Smart Scraper](https://www.reddit.com/r/MachineLearning/comments/1123i8s/p_smart_scraper/)
 - [[P] Smart Scraper](https://www.reddit.com/r/MachineLearning/comments/1123i7o/p_smart_scraper/)
 - [[Discussion] The need for noise in stable diffusion](https://www.reddit.com/r/MachineLearning/comments/11229f7/discussion_the_need_for_noise_in_stable_diffusion/)
-- [[D] Question Answering On Domain Knowledge With Semantic Search And Text Generation](https://www.reddit.com/r/MachineLearning/comments/1120pgr/d_question_answering_on_domain_knowledge_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
