@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] The need for noise in stable diffusion](https://www.reddit.com/r/MachineLearning/comments/11229f7/discussion_the_need_for_noise_in_stable_diffusion/)
 - [[D] Question Answering On Domain Knowledge With Semantic Search And Text Generation](https://www.reddit.com/r/MachineLearning/comments/1120pgr/d_question_answering_on_domain_knowledge_with/)
 - [[D] A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/MachineLearning/comments/111zwsg/d_a_comprehensive_guide_handcurated_resource_list/)
 - [[D] What are your tricks/infra working with embeddings?](https://www.reddit.com/r/MachineLearning/comments/111z2hl/d_what_are_your_tricksinfra_working_with/)
 - [[P] Free GPT3-based tool to suggest terminal commands via natural language](https://www.reddit.com/r/MachineLearning/comments/111y0cu/p_free_gpt3based_tool_to_suggest_terminal/)
-- [[D] Anyone interested in training an AI for Tigris and Euphrates?](https://www.reddit.com/r/MachineLearning/comments/111xr3q/d_anyone_interested_in_training_an_ai_for_tigris/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
