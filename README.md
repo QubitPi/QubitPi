@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] -&quot;CNN shape-texture bias&quot; - Promissing Thesis Subject?](https://www.reddit.com/r/MachineLearning/comments/112inly/research_cnn_shapetexture_bias_promissing_thesis/)
 - [[D] List of AI voice generators that can change your real voice?](https://www.reddit.com/r/MachineLearning/comments/112hdg7/d_list_of_ai_voice_generators_that_can_change/)
 - [[R] [N] REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers](https://www.reddit.com/r/MachineLearning/comments/112gpf1/r_n_realtabformer_generating_realistic_relational/)
 - [[D] Looking for advice on model architecture for embedding facial landmark coordinates into StyleGAN2 latentspace](https://www.reddit.com/r/MachineLearning/comments/112fnk8/d_looking_for_advice_on_model_architecture_for/)
 - [[D] Sentient AI Encryption](https://www.reddit.com/r/MachineLearning/comments/112fazm/d_sentient_ai_encryption/)
-- [[Discussion] Computing the derivative of a diffusion model with respect to the prompt](https://www.reddit.com/r/MachineLearning/comments/112eqxm/discussion_computing_the_derivative_of_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
