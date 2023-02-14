@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Looking for an ML data analyst experienced with EEG or time series data interested in decoding brain activity for telepathic technology!](https://www.reddit.com/r/MachineLearning/comments/111pchw/p_looking_for_an_ml_data_analyst_experienced_with/)
 - [[R] Understanding metric-related pitfalls in image analysis validation](https://www.reddit.com/r/MachineLearning/comments/111lku3/r_understanding_metricrelated_pitfalls_in_image/)
 - [[R] What are some papers that describe TikTok&#39;s algorithm?](https://www.reddit.com/r/MachineLearning/comments/111e9hx/r_what_are_some_papers_that_describe_tiktoks/)
 - [[R] Actually useful every day application of a Gaussian Process](https://www.reddit.com/r/MachineLearning/comments/111dvia/r_actually_useful_every_day_application_of_a/)
 - [[Discussion] are there any survey on compute required to train large DNN models ?](https://www.reddit.com/r/MachineLearning/comments/111dohm/discussion_are_there_any_survey_on_compute/)
-- [[D] Cloud agnostic framework to avoid hyperscaler SDK lock-in?](https://www.reddit.com/r/MachineLearning/comments/111797x/d_cloud_agnostic_framework_to_avoid_hyperscaler/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
