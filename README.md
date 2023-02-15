@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Best free chatGPT alternative for coding? ChatGPT is too busy all the time now and I&#39;m on the waiting list for the Plus. Is there something else I can use to right python code for me in the meantime?](https://www.reddit.com/r/MachineLearning/comments/11347lo/dbest_free_chatgpt_alternative_for_coding_chatgpt/)
+- [[D] Is anyone working on ML models that infer and train at the same time?](https://www.reddit.com/r/MachineLearning/comments/113448t/d_is_anyone_working_on_ml_models_that_infer_and/)
 - [Huggingface Inference API | No option for output image size? [D]](https://www.reddit.com/r/MachineLearning/comments/113414r/huggingface_inference_api_no_option_for_output/)
 - [[R] Experiences and opinions on TMLR?](https://www.reddit.com/r/MachineLearning/comments/1133r6m/r_experiences_and_opinions_on_tmlr/)
 - [[R] Event-based Backpropagation for Analog Neuromorphic Hardware](https://www.reddit.com/r/MachineLearning/comments/1130xo1/r_eventbased_backpropagation_for_analog/)
-- [[R] survey for my master thesis](https://www.reddit.com/r/MachineLearning/comments/1130910/r_survey_for_my_master_thesis/)
-- [[P] Build data web apps in Jupyter Notebook with Python only](https://www.reddit.com/r/MachineLearning/comments/112z9y9/p_build_data_web_apps_in_jupyter_notebook_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
