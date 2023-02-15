@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Best AI tool, model or service to improve audio speech quality - not noise removal](https://www.reddit.com/r/MachineLearning/comments/112xyjq/d_best_ai_tool_model_or_service_to_improve_audio/)
+- [[D] [P] GANs for prediction](https://www.reddit.com/r/MachineLearning/comments/112xssu/d_p_gans_for_prediction/)
 - [[D] What is the fastest framework for LLM conditional generation?](https://www.reddit.com/r/MachineLearning/comments/112spyb/d_what_is_the_fastest_framework_for_llm/)
 - [Reinforcement Learning based algorithms specifically for NLP[D][P]](https://www.reddit.com/r/MachineLearning/comments/112pw4o/reinforcement_learning_based_algorithms/)
 - [[D] CBAM with YOLOv7?](https://www.reddit.com/r/MachineLearning/comments/112oug6/d_cbam_with_yolov7/)
-- [[D] Noam Brown, FAIR: On achieving human-level performance in poker and Diplomacy, and the power of spending compute at inference time](https://www.reddit.com/r/MachineLearning/comments/112jwzr/d_noam_brown_fair_on_achieving_humanlevel/)
-- [[D] Retrieval transformers with learnable queries?](https://www.reddit.com/r/MachineLearning/comments/112jnzp/d_retrieval_transformers_with_learnable_queries/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
