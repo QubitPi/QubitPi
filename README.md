@@ -299,10 +299,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] Event-based Backpropagation for Analog Neuromorphic Hardware](https://www.reddit.com/r/MachineLearning/comments/1130xo1/r_eventbased_backpropagation_for_analog/)
-- [[D] Image augmentations to simulate glossy/reflective surfaces](https://www.reddit.com/r/MachineLearning/comments/1130xnx/d_image_augmentations_to_simulate/)
 - [[R] survey for my master thesis](https://www.reddit.com/r/MachineLearning/comments/1130910/r_survey_for_my_master_thesis/)
 - [[P] Build data web apps in Jupyter Notebook with Python only](https://www.reddit.com/r/MachineLearning/comments/112z9y9/p_build_data_web_apps_in_jupyter_notebook_with/)
 - [[D] Best AI tool, model or service to improve audio speech quality - not noise removal](https://www.reddit.com/r/MachineLearning/comments/112xyjq/d_best_ai_tool_model_or_service_to_improve_audio/)
+- [[D] [P] GANs for prediction](https://www.reddit.com/r/MachineLearning/comments/112xssu/d_p_gans_for_prediction/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
