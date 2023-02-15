@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Build data web apps in Jupyter Notebook with Python only](https://www.reddit.com/r/MachineLearning/comments/112z9y9/p_build_data_web_apps_in_jupyter_notebook_with/)
 - [[D] Best AI tool, model or service to improve audio speech quality - not noise removal](https://www.reddit.com/r/MachineLearning/comments/112xyjq/d_best_ai_tool_model_or_service_to_improve_audio/)
 - [[D] [P] GANs for prediction](https://www.reddit.com/r/MachineLearning/comments/112xssu/d_p_gans_for_prediction/)
 - [[D] What is the fastest framework for LLM conditional generation?](https://www.reddit.com/r/MachineLearning/comments/112spyb/d_what_is_the_fastest_framework_for_llm/)
 - [Reinforcement Learning based algorithms specifically for NLP[D][P]](https://www.reddit.com/r/MachineLearning/comments/112pw4o/reinforcement_learning_based_algorithms/)
-- [[D] CBAM with YOLOv7?](https://www.reddit.com/r/MachineLearning/comments/112oug6/d_cbam_with_yolov7/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
