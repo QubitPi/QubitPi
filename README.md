@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1625858470607228928)
-- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1625851674169319424)
-- [😍 #memgraph community, we love you!!! 😍 In the past 5 days, YOU achieved a hat trick: - 1000 stars at @github - - 1000 users at @discord - - 100...](https://twitter.com/memgraphdb/status/1625851293506973696)
-- [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1625831543074611201)
 - [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1625813423110889472)
+- [Re @peterhil @elonmusk We have some connected apps, but they are not the ones for handling DMs. Well, it&#39;s time to check them one by one. Maybe it is ...](https://twitter.com/memgraphdb/status/1625810880515522561)
+- [Anyone knows how to turn off the auto-reply bot in our DMs that we didn&#39;t turn on? 🤔 Where&#39;s the off switch? /cc @elonmusk](https://twitter.com/memgraphdb/status/1625810078623203330)
+- [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1625807635579650048)
+- [Explore the European gas infrastructure network using Memgraph’s graph analytics capabilities to visualize and extrapolate from the data.](https://twitter.com/memgraphdb/status/1625795553480114178)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
