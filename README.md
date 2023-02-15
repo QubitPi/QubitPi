@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Zeno: An Interactive Framework for Behavioral Evaluation of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1136m9i/r_zeno_an_interactive_framework_for_behavioral/)
 - [[D] GLM 130B &lpar;Chinese-English Bilingual model&rpar; translations vs Google, Deepl Translate, NLLB and chatGPT](https://www.reddit.com/r/MachineLearning/comments/1135tir/d_glm_130b_chineseenglish_bilingual_model/)
 - [[P] Pytorch seeding and independent RNG streams](https://www.reddit.com/r/MachineLearning/comments/1135alu/p_pytorch_seeding_and_independent_rng_streams/)
 - [[R] RWKV-4 14B release &lpar;and ChatRWKV&rpar; - a surprisingly strong RNN Language Model](https://www.reddit.com/r/MachineLearning/comments/1135aew/r_rwkv4_14b_release_and_chatrwkv_a_surprisingly/)
 - [[D]Best free chatGPT alternative for coding? ChatGPT is too busy all the time now and I&#39;m on the waiting list for the Plus. Is there something else I can use to right python code for me in the meantime?](https://www.reddit.com/r/MachineLearning/comments/11347lo/dbest_free_chatgpt_alternative_for_coding_chatgpt/)
-- [[D] Is anyone working on ML models that infer and train at the same time?](https://www.reddit.com/r/MachineLearning/comments/113448t/d_is_anyone_working_on_ml_models_that_infer_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
