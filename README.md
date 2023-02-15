@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Explore the European gas infrastructure network using Memgraph’s graph analytics capabilities to visualize and extrapolate from the data.](https://twitter.com/memgraphdb/status/1625795553480114178)
 - [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. #memgraph...](https://twitter.com/memgraphdb/status/1625757050436300801)
 - [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1625755541157838850)
 - [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1625746482488901633)
 - [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1625723833859600384)
-- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1625577113305636866)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
