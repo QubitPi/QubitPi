@@ -275,11 +275,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [FriendlyCore: A novel differentially private aggregation framework](http://ai.googleblog.com/2023/02/friendlycore-novel-differentially.html)
 - [Google Research, 2022 &amp; beyond: Robotics](http://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)
 - [Google Research, 2022 &amp; beyond: Algorithmic advances](http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithmic.html)
 - [Amplification at the Quantum limit](http://ai.googleblog.com/2023/02/amplification-at-quantum-limit.html)
 - [Unsupervised and semi-supervised anomaly detection with data-centric ML](http://ai.googleblog.com/2023/02/unsupervised-and-semi-supervised.html)
-- [Google Research, 2022 &amp; beyond: Algorithms for efficient deep learning](http://ai.googleblog.com/2023/02/google-research-2022-beyond-algorithms.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
