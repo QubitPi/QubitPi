@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How to get Scrum Teams comfortable asking for help](https://www.scrum.org/resources/blog/how-get-scrum-teams-comfortable-asking-help)
 - [[VLOG] Think of your Sprint Review](https://www.scrum.org/resources/blog/vlog-think-your-sprint-review)
 - [[VLOG] Scrum Values as Foundation for Professional Scrum](https://www.scrum.org/resources/blog/vlog-scrum-values-foundation-professional-scrum)
 - [Accountability and Delivery](https://www.scrum.org/resources/blog/accountability-and-delivery)
 - [Intro to Scrum &lpar;7 of 16&rpar;: What is a Scrum Master?](https://www.scrum.org/resources/blog/intro-scrum-7-16-what-scrum-master)
-- [The Scrum Master Salary Report 2023](https://www.scrum.org/resources/blog/scrum-master-salary-report-2023)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
