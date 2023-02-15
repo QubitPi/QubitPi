@@ -538,7 +538,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Prime Video icons](https://dribbble.com/shots/20621681)
 - [Atopa Website Design: business landing web page, site designer](https://dribbble.com/shots/20477297)
 - [[B] 1 → N](https://dribbble.com/shots/20556949)
-- [Co-hiking Website](https://dribbble.com/shots/20477712)
+- [Co-hiking Website Design: business landing web page, site design](https://dribbble.com/shots/20477712)
 - [Clearbit Website](https://dribbble.com/shots/20482761)
 <!-- DRIBBBLE-TRENDING:END -->
 
