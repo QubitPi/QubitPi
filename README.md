@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ML / CompSci: Train Models to Generate Discrete Structures](https://www.reddit.com/r/MachineLearning/comments/1132qqd/d_ml_compsci_train_models_to_generate_discrete/)
 - [[R] Event-based Backpropagation for Analog Neuromorphic Hardware](https://www.reddit.com/r/MachineLearning/comments/1130xo1/r_eventbased_backpropagation_for_analog/)
 - [[R] survey for my master thesis](https://www.reddit.com/r/MachineLearning/comments/1130910/r_survey_for_my_master_thesis/)
 - [[P] Build data web apps in Jupyter Notebook with Python only](https://www.reddit.com/r/MachineLearning/comments/112z9y9/p_build_data_web_apps_in_jupyter_notebook_with/)
 - [[D] Best AI tool, model or service to improve audio speech quality - not noise removal](https://www.reddit.com/r/MachineLearning/comments/112xyjq/d_best_ai_tool_model_or_service_to_improve_audio/)
-- [[D] [P] GANs for prediction](https://www.reddit.com/r/MachineLearning/comments/112xssu/d_p_gans_for_prediction/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
