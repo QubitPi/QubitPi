@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Transform your data querying experience with ChatGPT and Neo4j! 🤓 #ChatGPT #Neo4j #AI @tb_tomaz](https://twitter.com/neo4j/status/1625827353489207296)
 - [Wondering about the differences between graph and relational databases? 👀 @jalakoo explains it ALL &lpar;and with use cases!&rpar; -with @sagecodes #Neo4j #r...](https://twitter.com/neo4j/status/1625555609973059584)
 - [It&#39;s Valentine&#39;s Day! We ❤ Graphs #ValentinesDay #Neo4j](https://twitter.com/neo4j/status/1625511218537500675)
 - [Watch this video and see how @DaschnerS explains how to map query results to DTOs and/or Java records to simplify your code and make the query results...](https://twitter.com/neo4j/status/1625465405362868232)
 - [RT Siddhant Agarwal: Final call! #Developers in #Singapore we have an exciting meetup for you tomorrow in collaboration with #GDG #Singapore and explo...](https://twitter.com/sidagarwal04/status/1625403423242981376)
+- [How to create a recommendation system with #Cypher queries? From Data Model to Loading Data to Making Recommendations, here: #Neo4j](https://twitter.com/neo4j/status/1625178094628659202)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
