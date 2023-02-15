@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1625879355963449345)
+- [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1625860985704574976)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1625858470607228928)
 - [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1625851674169319424)
 - [😍 #memgraph community, we love you!!! 😍 In the past 5 days, YOU achieved a hat trick: - 1000 stars at @github - - 1000 users at @discord - - 100...](https://twitter.com/memgraphdb/status/1625851293506973696)
-- [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1625831543074611201)
-- [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1625813423110889472)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
