@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Neo4j VS Code Extension](https://www.youtube.com/watch?v=kSH4eqNARAw)
 - [TED Taks - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=t52Q9wbwuFA)
 - [Going Meta - Ep 13: Creating &lpar;and RDF-izing&rpar; virtual graphs over external data](https://www.youtube.com/watch?v=FoHAyBhcH4s)
 - [Neo4j Live: SustainGraph - A Knowledge Graph for Sustainable Development](https://www.youtube.com/watch?v=-6lr-GtsoLk)
 - [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=QGHOdI9p0l0)
-- [Ask a Data Scientist: What&#39;s the Difference Between Graph Analytics and Graph Data Science?](https://www.youtube.com/watch?v=iUwgYn-J_E0)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
