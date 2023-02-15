@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [💡Model: Relational to Graph - This guide will help transfer your existing knowledge of the processes and components used for relational data modeli...](https://twitter.com/neo4j/status/1625953619865640960)
 - [Senior Data Scientist Pete Tunkis talks about how he uses Graph Data Science to solve even the trickiest analytics and predictive modeling questions -...](https://twitter.com/neo4j/status/1625887860606869504)
 - [Transform your data querying experience with ChatGPT and Neo4j! 🤓 #ChatGPT #Neo4j #AI @tb_tomaz](https://twitter.com/neo4j/status/1625827353489207296)
 - [Wondering about the differences between graph and relational databases? 👀 @jalakoo explains it ALL &lpar;and with use cases!&rpar; -with @sagecodes #Neo4j #r...](https://twitter.com/neo4j/status/1625555609973059584)
 - [It&#39;s Valentine&#39;s Day! We ❤ Graphs #ValentinesDay #Neo4j](https://twitter.com/neo4j/status/1625511218537500675)
+- [Watch this video and see how @DaschnerS explains how to map query results to DTOs and/or Java records to simplify your code and make the query results...](https://twitter.com/neo4j/status/1625465405362868232)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
