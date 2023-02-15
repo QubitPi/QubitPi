@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Are you familiar with fraud detection? 🤔 Fraud detection is a security measure designed to prevent businesses from becoming victims of fraudulent a...](https://twitter.com/arangodb/status/1625827284216164353)
 - [Tomorrow, join our latest webinar to learn more about fastgraphml with ArangoDB with our Senior Machine Learning Research Engineer @sachins90534787. R...](https://twitter.com/arangodb/status/1625600785689022464)
 - [Learn something new this week! Try out 14 days of the ArangoGraph Insights Platform. 🥑 Sign up today to get started. 💥](https://twitter.com/arangodb/status/1625464893628465153)
 - [In this medium article, Machine Learning Working Student, Max demonstrates How to Deploy ArangoDB Graphs on GPUs for Accelerated Graph Algorithms usin...](https://twitter.com/arangodb/status/1625238394535047175)
 - [With ArangoDB at its core, @orange has created 51 million digital twins and counting. 🥑 Read their full use case here. 👇](https://twitter.com/arangodb/status/1625102520631676928)
+- [Did you make it to our kube-arangodb webinar? 🥑 In this webinar, Jakub will check how to extend Kubernetes API for our Custom ArangoDB objects, let...](https://twitter.com/arangodb/status/1624785421258440704)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
