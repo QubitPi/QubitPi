@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1625943781412376585)
 - [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1625919875007774734)
 - [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1625903478009737223)
 - [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1625879355963449345)
 - [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1625860985704574976)
+- [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1625858470607228928)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
