@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762765756511289344><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cbc598ac28c4771e97d7d27f0d4dc6f6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763136657038770274><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7ebb90d0eb84b30a1701826a019be9e0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 旅行者们好呀！新一期开发组座谈会新鲜出炉，一起来看看吧~](https://t.bilibili.com/763136657038770274)
