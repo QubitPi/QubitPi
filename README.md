@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Do you know what is graph supervised machine learning?? 🤔 In this new &quot;Ask a Data Scientists &quot; video, Alex reveals THAT and MORE. Check it out now!...](https://twitter.com/neo4j/status/1626280539551330304)
 - [Re-watch this #NODES2022 session: Learn How a cloud-native medical chatbot called #AI #chatbot](https://twitter.com/neo4j/status/1626235194989752322)
 - [Have you already explored Neo4j 5? It unleashes faster performance, unbounded scale, and unmatched agility to run Neo4j databases anywhere you want, f...](https://twitter.com/neo4j/status/1626196211970482176)
 - [RT Alexander Erdl: No #neo4j #livestream this week, so why dont you have a look at the summary of @Tom_Asel discussing #wardeymaps with graphs](https://twitter.com/alexandererdl/status/1626144803636346880)
 - [RT #gids: Don&#39;t miss this fascinating in-person talk by Priya Jacob at #GIDS, April 25-28, #Bengaluru, on graph databases and @neo4j! Discover the pot...](https://twitter.com/developersummit/status/1626028148235337728)
-- [RT Daniel CF Ng: Experience Neo4j in a click with the Sandbox - Pick a project and get started in less than 60 seconds. No download required. ⁦@ausbi...](https://twitter.com/danielcfng/status/1625991814179340289)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
