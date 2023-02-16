@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763136657038770274><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7ebb90d0eb84b30a1701826a019be9e0401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763229685993701465><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b647af953d493732d4cf1198ec384657401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #佳韵留形# #原神佳韵留形征集活动# 《原神》「佳韵留形」海灯节主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀联机拍照作品请查看下...](https://t.bilibili.com/763229685993701465)
