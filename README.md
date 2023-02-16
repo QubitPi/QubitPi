@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Re @Global Relay uses ArangoDB to model contextual relevance with search views and graph traversals. 🥑 Check out how they&#39;re doing it and how it co...](https://twitter.com/arangodb/status/1625963186557001729)
+- [🔥🔥 In 30 minutes, join us to learn more about fastgraphml with ArangoDB with Senior Machine Learning Research Engineer @sachin90534787 Secure yo...](https://twitter.com/arangodb/status/1625925924624429058)
 - [Are you familiar with fraud detection? 🤔 Fraud detection is a security measure designed to prevent businesses from becoming victims of fraudulent a...](https://twitter.com/arangodb/status/1625827284216164353)
 - [Tomorrow, join our latest webinar to learn more about fastgraphml with ArangoDB with our Senior Machine Learning Research Engineer @sachins90534787. R...](https://twitter.com/arangodb/status/1625600785689022464)
 - [Learn something new this week! Try out 14 days of the ArangoGraph Insights Platform. 🥑 Sign up today to get started. 💥](https://twitter.com/arangodb/status/1625464893628465153)
-- [In this medium article, Machine Learning Working Student, Max demonstrates How to Deploy ArangoDB Graphs on GPUs for Accelerated Graph Algorithms usin...](https://twitter.com/arangodb/status/1625238394535047175)
-- [With ArangoDB at its core, @orange has created 51 million digital twins and counting. 🥑 Read their full use case here. 👇](https://twitter.com/arangodb/status/1625102520631676928)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
