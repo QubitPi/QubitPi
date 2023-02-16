@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. #gra...](https://twitter.com/memgraphdb/status/1626214061963894784)
-- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1626196447975571456)
-- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1626193175990640641)
 - [Whenever you are not sure how to write a Cypher query, you can just take a look at this cheat sheet and try again! 🤣 #memgraph #graphdatabase #cyph...](https://twitter.com/memgraphdb/status/1626170022325362688)
 - [Check out our blog post 📰 WASM to the Moon - Introducing the Very First #WASM Based Client ➡️](https://twitter.com/memgraphdb/status/1626168510341697539)
+- [Check out our blog post 📰 How to use Memgraph with #Python and #Jupyter Notebooks ➡️](https://twitter.com/memgraphdb/status/1626133531620507649)
+- [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1626119438767357953)
+- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1626114657931997184)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
