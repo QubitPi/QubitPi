@@ -317,7 +317,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Scrum Master Gehalt 2023 — die Umfrageergebnisse 🇩🇪](https://www.scrum.org/resources/blog/scrum-master-gehalt-2023-die-umfrageergebnisse)
-- [How to get Scrum Teams comfortable asking for help](https://www.scrum.org/resources/blog/how-get-scrum-teams-comfortable-asking-help)
+- [How to get Scrum Teams Comfortable Asking for Help](https://www.scrum.org/resources/blog/how-get-scrum-teams-comfortable-asking-help)
 - [[VLOG] Think of your Sprint Review](https://www.scrum.org/resources/blog/vlog-think-your-sprint-review)
 - [[VLOG] Scrum Values as Foundation for Professional Scrum](https://www.scrum.org/resources/blog/vlog-scrum-values-foundation-professional-scrum)
 - [Accountability and Delivery](https://www.scrum.org/resources/blog/accountability-and-delivery)
