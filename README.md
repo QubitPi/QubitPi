@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Runway New AI Video Generator Early Access Request Form](https://www.reddit.com/r/MachineLearning/comments/113yefu/n_runway_new_ai_video_generator_early_access/)
 - [[D] Training networks on extremely large datasets &lpar;10+TB&rpar;?](https://www.reddit.com/r/MachineLearning/comments/113uu5e/d_training_networks_on_extremely_large_datasets/)
 - [[D] Compare open source LLMs](https://www.reddit.com/r/MachineLearning/comments/113tuwb/d_compare_open_source_llms/)
 - [[D] Bing: “I will not harm you unless you harm me first”](https://www.reddit.com/r/MachineLearning/comments/113m3ea/d_bing_i_will_not_harm_you_unless_you_harm_me/)
 - [[D] HuggingFace considered harmful to the community. /rant](https://www.reddit.com/r/MachineLearning/comments/113m1ly/d_huggingface_considered_harmful_to_the_community/)
-- [[P] Data scraping journal publications](https://www.reddit.com/r/MachineLearning/comments/113kwlo/p_data_scraping_journal_publications/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
