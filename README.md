@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Compare open source LLMs](https://www.reddit.com/r/MachineLearning/comments/113tuwb/d_compare_open_source_llms/)
 - [Distributed training of XGBoost with Serverless Google Cloud [D]](https://www.reddit.com/r/MachineLearning/comments/113n2ct/distributed_training_of_xgboost_with_serverless/)
 - [[P] exploratory data analysis for high dimensional data](https://www.reddit.com/r/MachineLearning/comments/113msqu/p_exploratory_data_analysis_for_high_dimensional/)
 - [[D] Bing: “I will not harm you unless you harm me first”](https://www.reddit.com/r/MachineLearning/comments/113m3ea/d_bing_i_will_not_harm_you_unless_you_harm_me/)
 - [[D] HuggingFace considered harmful to the community. /rant](https://www.reddit.com/r/MachineLearning/comments/113m1ly/d_huggingface_considered_harmful_to_the_community/)
-- [[P] Struggling with thesis idea and implementation](https://www.reddit.com/r/MachineLearning/comments/113lu1q/p_struggling_with_thesis_idea_and_implementation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
