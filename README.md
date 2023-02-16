@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [In-context learning: Is time to slow down?](https://www.reddit.com/r/MachineLearning/comments/113eu14/incontext_learning_is_time_to_slow_down/)
 - [[D] Variation in accuracy of predicted noise term in diffusion model as a function of timestep?](https://www.reddit.com/r/MachineLearning/comments/113dxfa/d_variation_in_accuracy_of_predicted_noise_term/)
 - [[D] Lion , An Optimizer That Outperforms Adam - Symbolic Discovery of Optimization Algorithms](https://www.reddit.com/r/MachineLearning/comments/1138jpp/d_lion_an_optimizer_that_outperforms_adam/)
 - [[R] Zeno: An Interactive Framework for Behavioral Evaluation of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1136m9i/r_zeno_an_interactive_framework_for_behavioral/)
 - [[D] GLM 130B &lpar;Chinese-English Bilingual model&rpar; translations vs Google, Deepl Translate, NLLB and chatGPT](https://www.reddit.com/r/MachineLearning/comments/1135tir/d_glm_130b_chineseenglish_bilingual_model/)
-- [[P] Pytorch seeding and independent RNG streams](https://www.reddit.com/r/MachineLearning/comments/1135alu/p_pytorch_seeding_and_independent_rng_streams/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
