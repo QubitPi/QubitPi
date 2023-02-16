@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/762765756511289344><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cbc598ac28c4771e97d7d27f0d4dc6f6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# 旅行者们好呀！新一期开发组座谈会新鲜出炉，一起来看看吧~](https://t.bilibili.com/763136657038770274)
 - [#原神# #原神3.5# #风花的呼吸# #3.5版本前瞻特别节目# 旅行者们大家好，又到了派蒙的预告时间&gt; &lt; 《原神》3.5版本「风花的呼吸」前瞻特别节目将于2月17日（本周...](https://t.bilibili.com/762765756511289344)
 - [恭喜@朝と夕の死神@酱油打路人@辞兮待君卿等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/762425427633373329)
 - [互动抽奖 #原神# #妮露# 巧克力明明是一种甜食，尝起来却有苦涩的味道，我第一次吃的时候很不习惯呢。 但是后来发现，经由苦涩对比后的甘甜，比起一般的甜，回味...](https://t.bilibili.com/762396067237986323)
 - [互动抽奖 #原神# #八重神子# 八重堂最近在新刊赠品方面推陈出新，看来是我教导有方。 你看，这个小说中原创的毛绒玩偶，还原得很不错吧？ 至于这盒期间限定的甜...](https://t.bilibili.com/762395560430796889)
-- [互动抽奖 #原神# #夜兰# 今早投了个好点数，于是我给自己放了一天假。 难得在没有任务的时候用不同的身份走访各地，别有一番趣味。 假日的最后，我决定来拜访我...](https://t.bilibili.com/762395113753149462)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
