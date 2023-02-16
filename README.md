@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1626119438767357953)
+- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! #mem...](https://twitter.com/memgraphdb/status/1626114657931997184)
+- [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. #mem...](https://twitter.com/memgraphdb/status/1626105094814019586)
+- [🎓 #Memgraph presents graph algorithms: Bipartite matching 🗒️ A bipartite graph is a graph in which we can divide vertices into two independent ...](https://twitter.com/memgraphdb/status/1626094272280682502)
 - [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1625943781412376585)
-- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. #memgraph #graphdatabase #memgraphdb #dat...](https://twitter.com/memgraphdb/status/1625919875007774734)
-- [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1625903478009737223)
-- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. #memgraph #graphdatabase #m...](https://twitter.com/memgraphdb/status/1625879355963449345)
-- [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1625860985704574976)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
