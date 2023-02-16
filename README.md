@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1626301890773282816)
 - [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1626284274662969350)
 - [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1626271944118083585)
 - [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1626265722404888577)
 - [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. #memgraph #gr...](https://twitter.com/memgraphdb/status/1626223375046823936)
+- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. #gra...](https://twitter.com/memgraphdb/status/1626214061963894784)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
