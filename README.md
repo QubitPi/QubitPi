@@ -316,7 +316,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Improve how your team uses metrics!](https://www.scrum.org/resources/blog/improve-how-your-team-uses-metrics)
+- [Improve How your Team Uses Metrics!](https://www.scrum.org/resources/blog/improve-how-your-team-uses-metrics)
 - [How the Product Owner can help raise Transparency &lpar;09&rpar;](https://www.scrum.org/resources/blog/how-product-owner-can-help-raise-transparency-09)
 - [Intro to Scrum &lpar;8 of 16&rpar;: What is a Sprint?](https://www.scrum.org/resources/blog/intro-scrum-8-16-what-sprint)
 - [Scrum Master Gehalt 2023 — die Umfrageergebnisse 🇩🇪](https://www.scrum.org/resources/blog/scrum-master-gehalt-2023-die-umfrageergebnisse)
