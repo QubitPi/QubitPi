@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] NBA play-by-play and shodetails dataset wuth season 1996/97](https://www.reddit.com/r/MachineLearning/comments/114syno/p_nba_playbyplay_and_shodetails_dataset_wuth/)
-- [[R] Extract residuals from an XGBoost regression as a single raster](https://www.reddit.com/r/MachineLearning/comments/114ss74/r_extract_residuals_from_an_xgboost_regression_as/)
-- [[Discussion] Does ChatGPT use a Markov Chain Monte Carlo method?](https://www.reddit.com/r/MachineLearning/comments/114sp63/discussion_does_chatgpt_use_a_markov_chain_monte/)
-- [[D] What is the state of the art on automated log classification?](https://www.reddit.com/r/MachineLearning/comments/114sia6/d_what_is_the_state_of_the_art_on_automated_log/)
-- [[Discussion] I hate Python workflow orchestrators. Plz halp me pick one: Airflow, Prefect, Dagster, Luigi, Metaflow](https://www.reddit.com/r/MachineLearning/comments/114rmed/discussion_i_hate_python_workflow_orchestrators/)
+- [Automated sleep tracking + prediction [P]](https://www.reddit.com/r/MachineLearning/comments/114m2wj/automated_sleep_tracking_prediction_p/)
+- [[R] Does a new published ML dataset always need to have an official train-dev-test split? Should the test set be made balanced?](https://www.reddit.com/r/MachineLearning/comments/114iieo/r_does_a_new_published_ml_dataset_always_need_to/)
+- [[D] Coauthor Paper?](https://www.reddit.com/r/MachineLearning/comments/114i9ui/d_coauthor_paper/)
+- [[N] Google is increasing the price of every Colab Pro tier by 10X! Pro is 95 Euro and Pro+ is 433 Euro per month! Without notifying users!](https://www.reddit.com/r/MachineLearning/comments/114hphp/n_google_is_increasing_the_price_of_every_colab/)
+- [[D] [R] What is your machine/deep learning research workflow?](https://www.reddit.com/r/MachineLearning/comments/114hbq3/d_r_what_is_your_machinedeep_learning_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
