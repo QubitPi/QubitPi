@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] NBA play-by-play and shodetails dataset wuth season 1996/97](https://www.reddit.com/r/MachineLearning/comments/114syno/p_nba_playbyplay_and_shodetails_dataset_wuth/)
+- [[R] Extract residuals from an XGBoost regression as a single raster](https://www.reddit.com/r/MachineLearning/comments/114ss74/r_extract_residuals_from_an_xgboost_regression_as/)
+- [[Discussion] Does ChatGPT use a Markov Chain Monte Carlo method?](https://www.reddit.com/r/MachineLearning/comments/114sp63/discussion_does_chatgpt_use_a_markov_chain_monte/)
 - [[D] What is the state of the art on automated log classification?](https://www.reddit.com/r/MachineLearning/comments/114sia6/d_what_is_the_state_of_the_art_on_automated_log/)
 - [[Discussion] I hate Python workflow orchestrators. Plz halp me pick one: Airflow, Prefect, Dagster, Luigi, Metaflow](https://www.reddit.com/r/MachineLearning/comments/114rmed/discussion_i_hate_python_workflow_orchestrators/)
-- [Automated sleep tracking + prediction [P]](https://www.reddit.com/r/MachineLearning/comments/114m2wj/automated_sleep_tracking_prediction_p/)
-- [[News] AI sensors that gather anonymized data on how different street users move &lpar;or don&#39;t&rpar; through a city. The company aims to assist strategic decision-making for transportation efficiency and sustainability.](https://www.reddit.com/r/MachineLearning/comments/114jn6w/news_ai_sensors_that_gather_anonymized_data_on/)
-- [[R] ChatGPT - model, alignment and training](https://www.reddit.com/r/MachineLearning/comments/114j203/r_chatgpt_model_alignment_and_training/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
