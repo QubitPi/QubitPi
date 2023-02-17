@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763575658494296096><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8579aef24d62d82751b44fe3b0dd0ecc401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #佳韵留形# #原神佳韵留形征集活动# 《原神》「佳韵留形」海灯节主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀联机拍照作品请查看下...](https://t.bilibili.com/763229685993701465)
+- [#原神# #佳韵留形# #原神佳韵留形征集活动# 《原神》「佳韵留形」海灯节主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀联机拍照作品请查看下...](https://t.bilibili.com/763575658494296096)
 - [#原神# 旅行者们好呀！新一期开发组座谈会新鲜出炉，一起来看看吧~](https://t.bilibili.com/763136657038770274)
 - [#原神# #原神3.5# #风花的呼吸# #3.5版本前瞻特别节目# 旅行者们大家好，又到了派蒙的预告时间&gt; &lt; 《原神》3.5版本「风花的呼吸」前瞻特别节目将于2月17日（本周...](https://t.bilibili.com/762765756511289344)
 - [恭喜@朝と夕の死神@酱油打路人@辞兮待君卿等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/762425427633373329)
