@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Short survey of optimization methods](https://www.reddit.com/r/MachineLearning/comments/114f3p1/d_short_survey_of_optimization_methods/)
+- [[D] Padding with Conv2DTranspose in Pytorch and Tensorflow](https://www.reddit.com/r/MachineLearning/comments/114f2zu/d_padding_with_conv2dtranspose_in_pytorch_and/)
 - [[P] NLP Model for sentiment analysis](https://www.reddit.com/r/MachineLearning/comments/114elpg/p_nlp_model_for_sentiment_analysis/)
 - [[R] The Table Feature Transformation Library Release](https://www.reddit.com/r/MachineLearning/comments/114de9s/r_the_table_feature_transformation_library_release/)
 - [[Discussion] Time Series methods comparisons: XGBoost, MLForecast, Prophet, ARIMAX?](https://www.reddit.com/r/MachineLearning/comments/114d166/discussion_time_series_methods_comparisons/)
-- [[R] Looking for papers which are modified variational autoencoder &lpar;VAE&rpar;](https://www.reddit.com/r/MachineLearning/comments/114c7u6/r_looking_for_papers_which_are_modified/)
-- [Efficient technique improves machine-learning models’ reliability](https://www.reddit.com/r/MachineLearning/comments/1141oip/efficient_technique_improves_machinelearning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
