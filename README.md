@@ -509,11 +509,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [W3F continues to support the expansion of the Web 3.0 ecosystem. Learn about a unique Web3 Incubation Program by Sony Network Communications and @Asta...](https://twitter.com/Web3foundation/status/1626549182528999426)
 - [What is the state of Web3 today and what are its technical implications and advantages? Hear the Foundation&#39;s @DrW3RK explaining blockchain &amp; decentra...](https://twitter.com/Web3foundation/status/1626155082357133312)
 - [Re 5/ To explore more information about staking on Polkadot, and start your staking journey, visit the Polkadot website or check the support page on a...](https://twitter.com/Web3foundation/status/1625552337002430464)
 - [Re 4/ With many new features arrived in the short time since the launch of the dashboard, learn about the latest updates as well as what&#39;s next for th...](https://twitter.com/Web3foundation/status/1625552334766936067)
 - [Re 3/ In addition to security and decentralization, Polkadot staking experience is being constantly improved &amp; simplified. As part of this process, a ...](https://twitter.com/Web3foundation/status/1625552332921442305)
-- [Re 2/ Based on groundbreaking Nominated Proof of Stake &lpar;NPoS&rpar; technology, Polkadot native staking represents a fully trustless &amp; decentralized staking...](https://twitter.com/Web3foundation/status/1625552331075887105)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
