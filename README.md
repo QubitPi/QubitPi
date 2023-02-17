@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🐞Reproducing bugs can be really painful sometimes. Did you ever find yourself in a &quot;not reproducible&quot; situation? ❓What did happen? 🔎Was there e...](https://twitter.com/memgraphdb/status/1626538199861297155)
+- [✨ Memgraph prepared another magic spell to continue the graph machine learning story. It is time to bring more great graph neural network &lpar;GNN&rpar; model...](https://twitter.com/memgraphdb/status/1626532408462811137)
 - [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1626505229704339457)
 - [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1626481828029730817)
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1626471256957546497)
-- [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results.](https://twitter.com/memgraphdb/status/1626467481001897986)
-- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1626448605392379908)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
