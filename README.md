@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn how easy it is to switch from SQL to ArangoDB today. Check out our brand new Coming from #SQL tutorial on ArangoDB University! 🥳 Register tod...](https://twitter.com/arangodb/status/1626687949667549184)
 - [Graph databases are made to solve your supply chain use cases. 🔥 Join the CTO of @Altana_AI, Ian Cadieu, to learn how they use a knowledge graph to...](https://twitter.com/arangodb/status/1626552063000805378)
 - [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1626325563919958016)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available at our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1626189664792051712)
 - [Are you familiar with fraud detection? 🤔 Fraud detection is a security measure designed to prevent businesses from becoming victims of fraudulent a...](https://twitter.com/arangodb/status/1625827284216164353)
-- [Tomorrow, join our latest webinar to learn more about fastgraphml with ArangoDB with our Senior Machine Learning Research Engineer @sachins90534787. R...](https://twitter.com/arangodb/status/1625600785689022464)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
