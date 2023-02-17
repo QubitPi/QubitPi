@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1626481828029730817)
+- [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at #memgraph #graphmodel...](https://twitter.com/memgraphdb/status/1626471256957546497)
+- [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results.](https://twitter.com/memgraphdb/status/1626467481001897986)
 - [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1626448605392379908)
 - [#Memgraph Playground is a web platform that contains a lot of helpful tutorials and examples on how complex data can be explored using the #Cypher. No...](https://twitter.com/memgraphdb/status/1626301890773282816)
-- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1626284274662969350)
-- [Check out our blog post 📰 Exploring a Twitter Network with Memgraph in a #Jupyter Notebook ➡️](https://twitter.com/memgraphdb/status/1626271944118083585)
-- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1626265722404888577)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
