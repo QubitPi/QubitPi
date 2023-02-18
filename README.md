@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763878848860258503><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2a2b06fd4e10df31d8e2d10f3a357ad8401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763909764036952386><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2493a54aea2079a0ceb6ec2b8286d39c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@纯爱战神牛頭人@小鲁同学___@羽心娜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/763909764036952386)
