@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] We are nowhere near AGI](https://www.reddit.com/r/MachineLearning/comments/115jcrd/d_we_are_nowhere_near_agi/)
 - [[N] All of this happening in AI.](https://www.reddit.com/r/MachineLearning/comments/115j9td/n_all_of_this_happening_in_ai/)
 - [[D] CFG role in diffusion vs autoregressive transformers](https://www.reddit.com/r/MachineLearning/comments/115gqjf/d_cfg_role_in_diffusion_vs_autoregressive/)
 - [[D] Any papers / articles that discusses the accuracy / usefulness of opensource LLMs?](https://www.reddit.com/r/MachineLearning/comments/115g73x/d_any_papers_articles_that_discusses_the_accuracy/)
 - [[R] Any work on model-based RLHF?](https://www.reddit.com/r/MachineLearning/comments/115fa7j/r_any_work_on_modelbased_rlhf/)
-- [[D] Please stop](https://www.reddit.com/r/MachineLearning/comments/115ez2r/d_please_stop/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
