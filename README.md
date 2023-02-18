@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Methodologies for tuning two or more unlinked classifier thresholds in tandem with custom losses?](https://www.reddit.com/r/MachineLearning/comments/115kb50/d_methodologies_for_tuning_two_or_more_unlinked/)
 - [[R] Universal Intelligence: A Definition of Machine Intelligence](https://www.reddit.com/r/MachineLearning/comments/115k7eq/r_universal_intelligence_a_definition_of_machine/)
 - [[Discussion] Apple Silicon M2: My LSTM model&#39;s training is too slow?](https://www.reddit.com/r/MachineLearning/comments/115jn7v/discussion_apple_silicon_m2_my_lstm_models/)
 - [[D] We are nowhere near AGI](https://www.reddit.com/r/MachineLearning/comments/115jcrd/d_we_are_nowhere_near_agi/)
 - [[N] All of this happening in AI.](https://www.reddit.com/r/MachineLearning/comments/115j9td/n_all_of_this_happening_in_ai/)
-- [[D] CFG role in diffusion vs autoregressive transformers](https://www.reddit.com/r/MachineLearning/comments/115gqjf/d_cfg_role_in_diffusion_vs_autoregressive/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
