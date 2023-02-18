@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1626844212380540929)
-- [Do you follow #Memgraph YouTube channel?](https://twitter.com/memgraphdb/status/1626833643795582976)
 - [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1626819049324781568)
 - [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1626668557957226500)
 - [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1626644647400378382)
+- [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph](https://twitter.com/memgraphdb/status/1626630557776871435)
+- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1626626781389406208)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
