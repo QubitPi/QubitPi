@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1627009051102945280)
 - [🍿Check out the #Memgraph video &quot;Apache Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1626990174105219072)
 - [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1626986402440269824)
 - [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 #memgraph #frauddetection #flas...](https://twitter.com/memgraphdb/status/1626966518519984128)
 - [🍿Check out the #Memgraph video &quot;How to decide about food by using Memgraph temporal types analytics?&quot; 📽️ Bon Appétit! #memgraph #video #graphd...](https://twitter.com/memgraphdb/status/1626956703349587969)
+- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. #memgraph #grap...](https://twitter.com/memgraphdb/status/1626948148370325504)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
