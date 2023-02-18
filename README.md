@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] How to Build a Similar Posts Feature for Your Gatsby Website using Machine Learning &lpar;Document Similarity&rpar;](https://www.reddit.com/r/MachineLearning/comments/115um7m/p_how_to_build_a_similar_posts_feature_for_your/)
+- [[P] Practical Steps to Reduce Hallucination and Improve Performance of Systems Built with Large Language Models like ChatGPT](https://www.reddit.com/r/MachineLearning/comments/115ujmh/p_practical_steps_to_reduce_hallucination_and/)
 - [[D] AI and science](https://www.reddit.com/r/MachineLearning/comments/115r40b/d_ai_and_science/)
 - [[R] difference between UAI and AISTATS ?](https://www.reddit.com/r/MachineLearning/comments/115n3qr/r_difference_between_uai_and_aistats/)
 - [[P] Whisper-UI Update: You can now bulk-transcribe, save &amp; search transcriptions with Streamlit &amp; SQLAlchemy 2.0 [details in the comments]](https://www.reddit.com/r/MachineLearning/comments/115m85c/p_whisperui_update_you_can_now_bulktranscribe/)
-- [[D] Methodologies for tuning two or more unlinked classifier thresholds in tandem with custom losses?](https://www.reddit.com/r/MachineLearning/comments/115kb50/d_methodologies_for_tuning_two_or_more_unlinked/)
-- [[R] Universal Intelligence: A Definition of Machine Intelligence](https://www.reddit.com/r/MachineLearning/comments/115k7eq/r_universal_intelligence_a_definition_of_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
