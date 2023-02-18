@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] what are some open problems in computer vision currently?](https://www.reddit.com/r/MachineLearning/comments/115btl3/d_what_are_some_open_problems_in_computer_vision/)
 - [[D] I asked CHATGPT to write a rap as itself about how he feels not being sentient](https://www.reddit.com/r/MachineLearning/comments/115b994/d_i_asked_chatgpt_to_write_a_rap_as_itself_about/)
 - [How to Model: Hidden Business Identification [D]](https://www.reddit.com/r/MachineLearning/comments/115a5cm/how_to_model_hidden_business_identification_d/)
 - [AI and Outsourcing: How Machine Learning is Revolutionizing Freelancing [D]](https://www.reddit.com/r/MachineLearning/comments/1156smr/ai_and_outsourcing_how_machine_learning_is/)
 - [[D] Formalising information flow in NN](https://www.reddit.com/r/MachineLearning/comments/11542tv/d_formalising_information_flow_in_nn/)
-- [[D] What are the worst ethical considerations of large language models?](https://www.reddit.com/r/MachineLearning/comments/1150kh0/d_what_are_the_worst_ethical_considerations_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
