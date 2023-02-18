@@ -300,9 +300,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Methodologies for tuning two or more unlinked classifier thresholds in tandem with custom losses?](https://www.reddit.com/r/MachineLearning/comments/115kb50/d_methodologies_for_tuning_two_or_more_unlinked/)
 - [[R] Universal Intelligence: A Definition of Machine Intelligence](https://www.reddit.com/r/MachineLearning/comments/115k7eq/r_universal_intelligence_a_definition_of_machine/)
-- [[Discussion] Apple Silicon M2: My LSTM model&#39;s training is too slow?](https://www.reddit.com/r/MachineLearning/comments/115jn7v/discussion_apple_silicon_m2_my_lstm_models/)
-- [[N] All of this happening in AI.](https://www.reddit.com/r/MachineLearning/comments/115j9td/n_all_of_this_happening_in_ai/)
 - [[D] CFG role in diffusion vs autoregressive transformers](https://www.reddit.com/r/MachineLearning/comments/115gqjf/d_cfg_role_in_diffusion_vs_autoregressive/)
+- [[D] Any papers / articles that discusses the accuracy / usefulness of opensource LLMs?](https://www.reddit.com/r/MachineLearning/comments/115g73x/d_any_papers_articles_that_discusses_the_accuracy/)
+- [[R] Any work on model-based RLHF?](https://www.reddit.com/r/MachineLearning/comments/115fa7j/r_any_work_on_modelbased_rlhf/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
