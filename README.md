@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [N] Noise2Music - Diffusion models for generating high quality music audio from text prompts, by Google Research](https://www.reddit.com/r/MachineLearning/comments/115vd0t/r_n_noise2music_diffusion_models_for_generating/)
 - [[R] difference between UAI and AISTATS ?](https://www.reddit.com/r/MachineLearning/comments/115n3qr/r_difference_between_uai_and_aistats/)
 - [[P] Whisper-UI Update: You can now bulk-transcribe, save &amp; search transcriptions with Streamlit &amp; SQLAlchemy 2.0 [details in the comments]](https://www.reddit.com/r/MachineLearning/comments/115m85c/p_whisperui_update_you_can_now_bulktranscribe/)
 - [[D] Methodologies for tuning two or more unlinked classifier thresholds in tandem with custom losses?](https://www.reddit.com/r/MachineLearning/comments/115kb50/d_methodologies_for_tuning_two_or_more_unlinked/)
 - [[R] Universal Intelligence: A Definition of Machine Intelligence](https://www.reddit.com/r/MachineLearning/comments/115k7eq/r_universal_intelligence_a_definition_of_machine/)
-- [[D] CFG role in diffusion vs autoregressive transformers](https://www.reddit.com/r/MachineLearning/comments/115gqjf/d_cfg_role_in_diffusion_vs_autoregressive/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
