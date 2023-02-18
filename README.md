@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763656717420462081><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1dd0455dd6454d94d5b784758d811c9e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763878848860258503><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2a2b06fd4e10df31d8e2d10f3a357ad8401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #风花的呼吸# #原神3.5# 《原神》3.5版本「风花的呼吸」前瞻特别节目回顾长图 《原神》3.5版本「风花的呼吸」将于2023年3月1日上线。 感谢各位旅行者的支...](https://t.bilibili.com/763656717420462081)
