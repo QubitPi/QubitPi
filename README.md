@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 #memgraph #pyth...](https://twitter.com/memgraphdb/status/1626894797855227905)
+- [Check out our blog post 📰 Memgraph Platform - What is under the hood? ➡️](https://twitter.com/memgraphdb/status/1626893288715288576)
+- [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1626882715965353987)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. #memgraph #graphdatabase #memgrap...](https://twitter.com/memgraphdb/status/1626844212380540929)
 - [Do you follow #Memgraph YouTube channel?](https://twitter.com/memgraphdb/status/1626833643795582976)
-- [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1626819049324781568)
-- [Check out our blog post 📰 Real-time visualization with #React and D3.js ➡️](https://twitter.com/memgraphdb/status/1626668557957226500)
-- [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1626644647400378382)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
