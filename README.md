@@ -298,8 +298,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Formalising information flow in NN](https://www.reddit.com/r/MachineLearning/comments/11542tv/d_formalising_information_flow_in_nn/)
 - [[D] What are the worst ethical considerations of large language models?](https://www.reddit.com/r/MachineLearning/comments/1150kh0/d_what_are_the_worst_ethical_considerations_of/)
-- [[R] Modeling breathing](https://www.reddit.com/r/MachineLearning/comments/114z15u/r_modeling_breathing/)
 - [[D] accelerating likelihood computations of diffusion models](https://www.reddit.com/r/MachineLearning/comments/114wwma/d_accelerating_likelihood_computations_of/)
 - [[D] Types of ML studies/papers](https://www.reddit.com/r/MachineLearning/comments/114wl20/d_types_of_ml_studiespapers/)
 - [Automated sleep tracking + prediction [P]](https://www.reddit.com/r/MachineLearning/comments/114m2wj/automated_sleep_tracking_prediction_p/)
