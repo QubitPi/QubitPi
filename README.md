@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763878848860258503><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2a2b06fd4e10df31d8e2d10f3a357ad8401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@纯爱战神牛頭人@小鲁同学___@羽心娜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/763909764036952386)
+- [#原神# #精通移涌# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动...](https://t.bilibili.com/763878848860258503)
 - [#原神# #风花的呼吸# #原神3.5# 《原神》3.5版本「风花的呼吸」前瞻特别节目回顾长图 《原神》3.5版本「风花的呼吸」将于2023年3月1日上线。 感谢各位旅行者的支...](https://t.bilibili.com/763656717420462081)
 - [《原神》3.5版本「风花的呼吸」前瞻特别节目](https://t.bilibili.com/763655922855706663)
 - [互动抽奖 #原神# #风花的呼吸# #原神3.5# 《原神》3.5版本PV：「风花的呼吸」现已发布~ https://www.bilibili.com/video/BV1ZM4y1f7FH 有人认为命运藏在风中，如...](https://t.bilibili.com/763649080960221203)
-- [#原神# #原神音乐# 亲爱的旅行者，原神3.5版本PV音乐《Windblume&#39;s Breath 风花的呼吸》现已更新加入专辑《流星的轨迹 Footprints of the Traveler》中。后续版...](https://t.bilibili.com/763646920603205735)
-- [必胜客x原神第二期联动即将开启，请旅行者有序参与活动，不要浪费粮食哦～ #必胜客原神联动##必胜客原神第二期# #必胜邀约寻珍之旅#](https://t.bilibili.com/763645163947950134)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
