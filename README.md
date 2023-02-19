@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Node2Vec 🗒️ Node2Vec is a random walk-based node embedding method. 🔗 #mage](https://twitter.com/memgraphdb/status/1627355331952091138)
-- [Have you heard about fraud detection in large transaction networks? Usually, such networks contain millions of relationships between POS devices, logg...](https://twitter.com/memgraphdb/status/1627348788166754307)
 - [Check out our blog post 📰 Use-Cases Of The Shortest Path Algorithm ➡️](https://twitter.com/memgraphdb/status/1627310538312110086)
 - [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1627309027670519810)
 - [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1627301226621575169)
+- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1627283608166707202)
+- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1627280340065681409)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
