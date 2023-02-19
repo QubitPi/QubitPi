@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Augmented Language Models: a Survey - Meta AI 2023](https://www.reddit.com/r/MachineLearning/comments/116ivz2/r_augmented_language_models_a_survey_meta_ai_2023/)
 - [[N] Open source solution replicates ChatGPT training process](https://www.reddit.com/r/MachineLearning/comments/116f9cl/n_open_source_solution_replicates_chatgpt/)
 - [[D] Is Google a language transformer like ChatGPT except without the G &lpar;Generative&rpar; part?](https://www.reddit.com/r/MachineLearning/comments/116c9ez/d_is_google_a_language_transformer_like_chatgpt/)
 - [[Project] Bypass OpenAI content filters](https://www.reddit.com/r/MachineLearning/comments/116bnnk/project_bypass_openai_content_filters/)
 - [Training with EEG Data [D]](https://www.reddit.com/r/MachineLearning/comments/116blfz/training_with_eeg_data_d/)
-- [[R] neural cloth simulation](https://www.reddit.com/r/MachineLearning/comments/1169uzy/r_neural_cloth_simulation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
