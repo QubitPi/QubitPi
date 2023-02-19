@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Difference between [ Offsite-Tuning: Transfer Learning without Full Model ] and Federated learning?](https://www.reddit.com/r/MachineLearning/comments/11695n4/d_difference_between_offsitetuning_transfer/)
 - [[D] Data Augmentation](https://www.reddit.com/r/MachineLearning/comments/1168z6v/d_data_augmentation/)
 - [[D] I think manual inspection is underrated. Do you agree? Which tools do you use in CV, NLP and audio?](https://www.reddit.com/r/MachineLearning/comments/1167zzs/d_i_think_manual_inspection_is_underrated_do_you/)
 - [[D] Does langchain upload all user’s data to Openai?](https://www.reddit.com/r/MachineLearning/comments/1167hw9/d_does_langchain_upload_all_users_data_to_openai/)
 - [[P] Entmenschlicht - AI generated Black Metal](https://www.reddit.com/r/MachineLearning/comments/1167gmd/p_entmenschlicht_ai_generated_black_metal/)
-- [[D] Blog post on Barlow Twins by Meta AI](https://www.reddit.com/r/MachineLearning/comments/1165m0o/d_blog_post_on_barlow_twins_by_meta_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
