@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! #memgraph #graphdatabase...](https://twitter.com/memgraphdb/status/1627283608166707202)
+- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1627280340065681409)
 - [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1627257186983243776)
 - [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1627245104074309634)
 - [🎓 It would be foolish to say there is an easy way to gain new knowledge, as it wouldn’t be so valuable if that were the case, but graph databases ...](https://twitter.com/memgraphdb/status/1627220693313114114)
-- [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1627196033426915329)
-- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1627192259245404160)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
