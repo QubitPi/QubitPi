@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 It would be foolish to say there is an easy way to gain new knowledge, as it wouldn’t be so valuable if that were the case, but graph databases ...](https://twitter.com/memgraphdb/status/1627220693313114114)
-- [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1627196033426915329)
 - [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1627192259245404160)
 - [Check out our blog post 📰 Connect to a #Pulsar Cluster and Analyze Streaming #NFT Data with Memgraph ➡️](https://twitter.com/memgraphdb/status/1627173381672955904)
 - [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1627026666714238976)
+- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. #graphalgorithms](https://twitter.com/memgraphdb/status/1627009051102945280)
+- [🍿Check out the #Memgraph video &quot;Apache Kafka London - Graph-based stream processing with Apache Kafka&quot; 📽️ #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1626990174105219072)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
