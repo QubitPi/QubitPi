@@ -298,8 +298,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [N] Mastering Diverse Domains through World Models - DreamerV3 - Deepmind 2023 - First algorithm to collect diamonds in Minecraft from scratch without human data or curricula! Now with github links!](https://www.reddit.com/r/MachineLearning/comments/116lp7a/r_n_mastering_diverse_domains_through_world/)
 - [[R] [N] In this paper, we show how a conversational model, 3.5x smaller than SOTA, can be optimized to outperform the baselines through Auxiliary Learning. Published in the ACL Anthology: &quot;Efficient Task-Oriented Dialogue Systems with Response Selection as an Auxiliary Task.&quot;](https://www.reddit.com/r/MachineLearning/comments/116kqvm/r_n_in_this_paper_we_show_how_a_conversational/)
-- [Dropping columns in column transformer &lpar;sklearn&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/116j54x/dropping_columns_in_column_transformer_sklearn_d/)
 - [[Project] Google ArXiv Papers with NLP semantic-search! Link to Github in the comments!!](https://www.reddit.com/r/MachineLearning/comments/116j33t/project_google_arxiv_papers_with_nlp/)
 - [[R] Augmented Language Models: a Survey - Meta AI 2023](https://www.reddit.com/r/MachineLearning/comments/116ivz2/r_augmented_language_models_a_survey_meta_ai_2023/)
 - [[N] Open source solution replicates ChatGPT training process](https://www.reddit.com/r/MachineLearning/comments/116f9cl/n_open_source_solution_replicates_chatgpt/)
