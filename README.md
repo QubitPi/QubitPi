@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Blog post on Barlow Twins by Meta AI](https://www.reddit.com/r/MachineLearning/comments/1165m0o/d_blog_post_on_barlow_twins_by_meta_ai/)
 - [[D] Lack of influence in modern AI](https://www.reddit.com/r/MachineLearning/comments/1163xou/d_lack_of_influence_in_modern_ai/)
 - [[D] Text Classification -- 35+ classes; 100 samples per class](https://www.reddit.com/r/MachineLearning/comments/11624cl/d_text_classification_35_classes_100_samples_per/)
 - [TorchDrug tutorial [D]](https://www.reddit.com/r/MachineLearning/comments/1160md2/torchdrug_tutorial_d/)
 - [[D] Things you wish you knew before you started training on the cloud?](https://www.reddit.com/r/MachineLearning/comments/115z9hc/d_things_you_wish_you_knew_before_you_started/)
-- [[D] Toolformer implementation using only few-shot prompting](https://www.reddit.com/r/MachineLearning/comments/115x1it/d_toolformer_implementation_using_only_fewshot/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
