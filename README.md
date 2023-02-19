@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Things you wish you knew before you started training on the cloud?](https://www.reddit.com/r/MachineLearning/comments/115z9hc/d_things_you_wish_you_knew_before_you_started/)
+- [&quot;[Project]&quot;, &quot;[Discussion]&quot;](https://www.reddit.com/r/MachineLearning/comments/115z6ag/project_discussion/)
 - [[D] Best ChatGPT Alternative](https://www.reddit.com/r/MachineLearning/comments/115yeim/d_best_chatgpt_alternative/)
 - [[D] Toolformer implementation using only few-shot prompting](https://www.reddit.com/r/MachineLearning/comments/115x1it/d_toolformer_implementation_using_only_fewshot/)
 - [[D] bounding box or instance segmentation](https://www.reddit.com/r/MachineLearning/comments/115wu59/d_bounding_box_or_instance_segmentation/)
-- [[R] [N] Noise2Music - Diffusion models for generating high quality music audio from text prompts, by Google Research](https://www.reddit.com/r/MachineLearning/comments/115vd0t/r_n_noise2music_diffusion_models_for_generating/)
-- [[R] difference between UAI and AISTATS ?](https://www.reddit.com/r/MachineLearning/comments/115n3qr/r_difference_between_uai_and_aistats/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
