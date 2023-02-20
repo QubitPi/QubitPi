@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] On papers forcing the use of GANs where it is not relevant](https://www.reddit.com/r/MachineLearning/comments/117iqtp/d_on_papers_forcing_the_use_of_gans_where_it_is/)
+- [[D] [R] [P] Data set for Mental health prediction using ML](https://www.reddit.com/r/MachineLearning/comments/117in8r/d_r_p_data_set_for_mental_health_prediction_using/)
 - [[D] Something basic I don&#39;t understand about Nerfs](https://www.reddit.com/r/MachineLearning/comments/117blae/d_something_basic_i_dont_understand_about_nerfs/)
 - [[R] Train CIFAR10 to 94% in 7 seconds or less &lpar;Lookahead with custom scheduling, CutMix, and more!&rpar;](https://www.reddit.com/r/MachineLearning/comments/1179i7z/r_train_cifar10_to_94_in_7_seconds_or_less/)
 - [[D] Does Layer Normalization compute statistics along spatial/ token axes?](https://www.reddit.com/r/MachineLearning/comments/1178rmr/d_does_layer_normalization_compute_statistics/)
-- [[R] [P] Implementation of feature extraction and ID attribution for biometric identification project](https://www.reddit.com/r/MachineLearning/comments/1172juh/r_p_implementation_of_feature_extraction_and_id/)
-- [[D] Large Language Models feasible to run on 32GB RAM / 8 GB VRAM / 24GB VRAM](https://www.reddit.com/r/MachineLearning/comments/1172jrs/d_large_language_models_feasible_to_run_on_32gb/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
