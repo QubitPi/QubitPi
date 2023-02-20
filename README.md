@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Does Layer Normalization compute statistics along spatial/ token axes?](https://www.reddit.com/r/MachineLearning/comments/1178rmr/d_does_layer_normalization_compute_statistics/)
 - [[D] What are the most effective methods and tools for summarizing long-form content like articles, editorials, and discussion threads for an app?](https://www.reddit.com/r/MachineLearning/comments/1175f80/d_what_are_the_most_effective_methods_and_tools/)
 - [[R] Question regarding time series analysis and data splitting](https://www.reddit.com/r/MachineLearning/comments/1173kws/r_question_regarding_time_series_analysis_and/)
 - [[R] [P] Implementation of feature extraction and ID attribution for biometric identification project](https://www.reddit.com/r/MachineLearning/comments/1172juh/r_p_implementation_of_feature_extraction_and_id/)
 - [[D] Large Language Models feasible to run on 32GB RAM / 8 GB VRAM / 24GB VRAM](https://www.reddit.com/r/MachineLearning/comments/1172jrs/d_large_language_models_feasible_to_run_on_32gb/)
-- [[D] What matters while running models?](https://www.reddit.com/r/MachineLearning/comments/11725n6/d_what_matters_while_running_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
