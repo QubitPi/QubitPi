@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/763909764036952386><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2493a54aea2079a0ceb6ec2b8286d39c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/764652080413540389><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/879d36c5e5eb6b0c1b70e01d34203ac3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@逍遥-风吟@上官寂暇@_约伊兹的贤狼等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/764652080413540389)
