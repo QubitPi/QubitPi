@@ -212,7 +212,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
 -----------
 
-<img align="right" width="50%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
+<img align="right" width="40%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
 ### Recent Activities
 
