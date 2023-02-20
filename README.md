@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1627755720656449555)
-- [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1627731813681532928)
 - [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1627715265491238937)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #graphdatabase #memgraphdb #database...](https://twitter.com/memgraphdb/status/1627691296490938370)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1627672925192048642)
+- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1627663614856380416)
+- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1627643479328190464)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
