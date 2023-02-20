@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Question regarding time series analysis and data splitting](https://www.reddit.com/r/MachineLearning/comments/1173kws/r_question_regarding_time_series_analysis_and/)
 - [[R] [P] Implementation of feature extraction and ID attribution for biometric identification project](https://www.reddit.com/r/MachineLearning/comments/1172juh/r_p_implementation_of_feature_extraction_and_id/)
 - [[D] Large Language Models feasible to run on 32GB RAM / 8 GB VRAM / 24GB VRAM](https://www.reddit.com/r/MachineLearning/comments/1172jrs/d_large_language_models_feasible_to_run_on_32gb/)
 - [[D] What matters while running models?](https://www.reddit.com/r/MachineLearning/comments/11725n6/d_what_matters_while_running_models/)
 - [[R] Alpha Hyperparameter For Naive Bayes Classifier Algorithm](https://www.reddit.com/r/MachineLearning/comments/11715m2/r_alpha_hyperparameter_for_naive_bayes_classifier/)
-- [[P] I&#39;ve been commissioned to make 1000+ variations of my unique geometric art, while retaining its essential characteristics. It&#39;s been suggested that I use GAN to create permutations of my art. Any advice/directions?](https://www.reddit.com/r/MachineLearning/comments/116ysq8/p_ive_been_commissioned_to_make_1000_variations/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
