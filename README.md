@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Alpha Hyperparameter For Naive Bayes Classifier Algorithm](https://www.reddit.com/r/MachineLearning/comments/11715m2/r_alpha_hyperparameter_for_naive_bayes_classifier/)
 - [[P] I&#39;ve been commissioned to make 1000+ variations of my unique geometric art, while retaining its essential characteristics. It&#39;s been suggested that I use GAN to create permutations of my art. Any advice/directions?](https://www.reddit.com/r/MachineLearning/comments/116ysq8/p_ive_been_commissioned_to_make_1000_variations/)
 - [[R] animal behavior categorizer false positives](https://www.reddit.com/r/MachineLearning/comments/116wk7p/r_animal_behavior_categorizer_false_positives/)
 - [[P] Generating Images of Variable Size with StyleGAN2](https://www.reddit.com/r/MachineLearning/comments/116u197/p_generating_images_of_variable_size_with/)
 - [[R] Using AI/ML for Quality Control for a factory?](https://www.reddit.com/r/MachineLearning/comments/116sttj/r_using_aiml_for_quality_control_for_a_factory/)
-- [[R] [N] Mastering Diverse Domains through World Models - DreamerV3 - Deepmind 2023 - First algorithm to collect diamonds in Minecraft from scratch without human data or curricula! Now with github links!](https://www.reddit.com/r/MachineLearning/comments/116lp7a/r_n_mastering_diverse_domains_through_world/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
