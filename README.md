@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1628096213139456020)
-- [🎓 To help make decisions, companies perform impact analyses or what-if scenarios. Based on the careful analysis of the provided data, the outcomes ...](https://twitter.com/memgraphdb/status/1628080106810880001)
 - [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1628071801665323010)
 - [🎓 #Memgraph presents graph algorithms: Maximum flow 🗒️ Maximum flow problem in optimization theory regards finding the maximum possible flow go...](https://twitter.com/memgraphdb/status/1628053685807853569)
 - [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1628046388318666758)
+- [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1628035312483016704)
+- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1628005869253283840)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
