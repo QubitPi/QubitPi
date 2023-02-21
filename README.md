@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1627920807833010178)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1627913257833955328)
-- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. #memgraph #graphdatabase #mem...](https://twitter.com/memgraphdb/status/1627906211952709633)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1627755720656449555)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ #memgraph #o...](https://twitter.com/memgraphdb/status/1627731813681532928)
+- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. #memgraph #tutorial #graphda...](https://twitter.com/memgraphdb/status/1627715265491238937)
+- [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. #memgraph #graphdatabase #memgraphdb #database...](https://twitter.com/memgraphdb/status/1627691296490938370)
+- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience](https://twitter.com/memgraphdb/status/1627672925192048642)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
