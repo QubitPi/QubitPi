@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Yes! We are getting ready for our upcoming GraphSummit Series! 👏 We will be announcing dates and cities very soon: Stay tuned to find out when Neo4...](https://twitter.com/neo4j/status/1627986634074464256)
 - [SUSTAINGRAPH: A Knowledge Graph for Tracking Sustainable Development Goals👇 🍃 #sustainability #Neo4j](https://twitter.com/neo4j/status/1627783168861298690)
 - [Listen to this amazing PODCAST episode ✨ @lyonwj and @jalakoo recap major news, product updates, and notable community contributions from 2022. Here:...](https://twitter.com/neo4j/status/1627712454716162059)
 - [Start your journey with graph databases!🚀 &quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Download for free now:...](https://twitter.com/neo4j/status/1627389579056619520)
 - [Have you downloaded “Full Stack GraphQL Applications” by @lyonwj ? You&#39;ll find: 📚Clear explanations of everything you need to build your applicat...](https://twitter.com/neo4j/status/1627268566373236736)
-- [Looking for a Graph Theory Video Series? Here you go!💯 Take a look at William Fiset&#39;s complete course on graph theory algorithms! #Neo4j #GraphTech...](https://twitter.com/neo4j/status/1627011848351391745)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
