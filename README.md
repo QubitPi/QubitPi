@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [ChatGPT Product Owner Job Interview](https://www.scrum.org/resources/blog/chatgpt-product-owner-job-interview)
 - [Where can scrum NOT be used?](https://www.scrum.org/resources/blog/where-can-scrum-not-be-used)
 - [Top 6 hiring trends in the age of AI that you need to know:](https://www.scrum.org/resources/blog/top-6-hiring-trends-age-ai-you-need-know)
 - [Intro to Scrum &lpar;9 of 16&rpar;: What is Sprint Planning?](https://www.scrum.org/resources/blog/intro-scrum-9-16-what-sprint-planning)
 - [Wie du als Scrum Master souverän schwierige Gespräche führst](https://www.scrum.org/resources/blog/wie-du-als-scrum-master-souveran-schwierige-gesprache-fuhrst)
-- [Ese clásico del ‘Agile is dead’](https://www.scrum.org/resources/blog/ese-clasico-del-agile-dead)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
