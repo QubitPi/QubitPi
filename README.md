@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. #graphdatabase #o...](https://twitter.com/memgraphdb/status/1628005869253283840)
+- [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1628005112500084737)
 - [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1627981962320265217)
 - [Graph algorithms are a set of instructions that traverse &lpar;visits nodes of&rpar; a graph and find specific nodes, paths, or a path between two nodes. Some o...](https://twitter.com/memgraphdb/status/1627965351806832640)
 - [Re @supe_katarina @CoreyMKimball Thank you @CoreyMKimball :&rpar;](https://twitter.com/memgraphdb/status/1627937625704103936)
-- [The Girvan-Newman algorithm relies on the iterative elimination of edges with the highest number of shortest paths between nodes passing through them....](https://twitter.com/memgraphdb/status/1627931376379912192)
-- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1627920807833010178)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
