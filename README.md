@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Discretization: equal-width beats equal-frequency?](https://www.reddit.com/r/MachineLearning/comments/1182si0/p_discretization_equalwidth_beats_equalfrequency/)
+- [[R] Check our survey paper for a label-efficient Time Series Representation Learning](https://www.reddit.com/r/MachineLearning/comments/1182oyr/r_check_our_survey_paper_for_a_labelefficient/)
+- [[D] What would be the ideal map for &quot;learning&quot; machine learning?](https://www.reddit.com/r/MachineLearning/comments/1182mkd/d_what_would_be_the_ideal_map_for_learning/)
+- [[P] minLoRA: An Easy-to-Use PyTorch Library for Applying LoRA to PyTorch Models](https://www.reddit.com/r/MachineLearning/comments/1182fqd/p_minlora_an_easytouse_pytorch_library_for/)
 - [[D] Is there any AI model that predict stocks for the next minute?](https://www.reddit.com/r/MachineLearning/comments/118220r/d_is_there_any_ai_model_that_predict_stocks_for/)
-- [[Discussion] ML on extremely large datasets and images](https://www.reddit.com/r/MachineLearning/comments/1181g88/discussion_ml_on_extremely_large_datasets_and/)
-- [Best free and open Math AI? [D]](https://www.reddit.com/r/MachineLearning/comments/117zvei/best_free_and_open_math_ai_d/)
-- [[D] Notebooks in Azure Machine Learning](https://www.reddit.com/r/MachineLearning/comments/117ze3b/d_notebooks_in_azure_machine_learning/)
-- [[D] Maybe a new prompt injection method against newBing or ChatGPT? Is this kind of research worth writing a paper?](https://www.reddit.com/r/MachineLearning/comments/117yw1w/d_maybe_a_new_prompt_injection_method_against/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
