@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Notebooks in Azure Machine Learning](https://www.reddit.com/r/MachineLearning/comments/117ze3b/d_notebooks_in_azure_machine_learning/)
 - [[D] Maybe a new prompt injection method against newBing or ChatGPT? Is this kind of research worth writing a paper?](https://www.reddit.com/r/MachineLearning/comments/117yw1w/d_maybe_a_new_prompt_injection_method_against/)
 - [[D] Best TTS for a GPT powered voice assistant](https://www.reddit.com/r/MachineLearning/comments/117xyxh/d_best_tts_for_a_gpt_powered_voice_assistant/)
 - [[D] Guidance about ESPnet](https://www.reddit.com/r/MachineLearning/comments/117ott8/d_guidance_about_espnet/)
 - [[D] On papers forcing the use of GANs where it is not relevant](https://www.reddit.com/r/MachineLearning/comments/117iqtp/d_on_papers_forcing_the_use_of_gans_where_it_is/)
-- [[D] Something basic I don&#39;t understand about Nerfs](https://www.reddit.com/r/MachineLearning/comments/117blae/d_something_basic_i_dont_understand_about_nerfs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
