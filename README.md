@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Asking other group’a “permission” before publishing?](https://www.reddit.com/r/MachineLearning/comments/117pfs8/d_asking_other_groupa_permission_before_publishing/)
 - [[D] Guidance about ESPnet](https://www.reddit.com/r/MachineLearning/comments/117ott8/d_guidance_about_espnet/)
 - [[D] What&#39;s the best way to capture a person&#39;s 3D likeness right now?](https://www.reddit.com/r/MachineLearning/comments/117o8t2/d_whats_the_best_way_to_capture_a_persons_3d/)
 - [[R] Workout Planner App](https://www.reddit.com/r/MachineLearning/comments/117mwey/r_workout_planner_app/)
 - [Potential Jobs [P]](https://www.reddit.com/r/MachineLearning/comments/117llsl/potential_jobs_p/)
-- [[D] On papers forcing the use of GANs where it is not relevant](https://www.reddit.com/r/MachineLearning/comments/117iqtp/d_on_papers_forcing_the_use_of_gans_where_it_is/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
