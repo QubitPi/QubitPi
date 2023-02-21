@@ -300,9 +300,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R] ChatGPT for Robotics: Design Principles and Model Abilities](https://www.reddit.com/r/MachineLearning/comments/11853g5/r_chatgpt_for_robotics_design_principles_and/)
 - [[D] Can we use ChatGPT to implement first-order derivatives?](https://www.reddit.com/r/MachineLearning/comments/1183ilc/d_can_we_use_chatgpt_to_implement_firstorder/)
-- [[P] Discretization: equal-width beats equal-frequency?](https://www.reddit.com/r/MachineLearning/comments/1182si0/p_discretization_equalwidth_beats_equalfrequency/)
 - [[R] Check our survey paper for a label-efficient Time Series Representation Learning](https://www.reddit.com/r/MachineLearning/comments/1182oyr/r_check_our_survey_paper_for_a_labelefficient/)
 - [[D] What would be the ideal map for &quot;learning&quot; machine learning?](https://www.reddit.com/r/MachineLearning/comments/1182mkd/d_what_would_be_the_ideal_map_for_learning/)
+- [[P] minLoRA: An Easy-to-Use PyTorch Library for Applying LoRA to PyTorch Models](https://www.reddit.com/r/MachineLearning/comments/1182fqd/p_minlora_an_easytouse_pytorch_library_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
