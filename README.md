@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Bottleneck Layers: What&#39;s your intuition?](https://www.reddit.com/r/MachineLearning/comments/118cypl/d_bottleneck_layers_whats_your_intuition/)
 - [[P] The First Depthwise-separable Convolution Animation](https://www.reddit.com/r/MachineLearning/comments/118c8pp/p_the_first_depthwiseseparable_convolution/)
 - [[R] Are there datasets of annotations of the correctness/incorrectness of the individual steps of chain-of-thought reasoning?](https://www.reddit.com/r/MachineLearning/comments/118bcjx/r_are_there_datasets_of_annotations_of_the/)
 - [[N] Cerebras launches fine-tuning of large language models in the cloud](https://www.reddit.com/r/MachineLearning/comments/1188mp8/n_cerebras_launches_finetuning_of_large_language/)
 - [[Discussion] Instruction Finetuning Dataset for GPT-NeoX on NLP Cloud](https://www.reddit.com/r/MachineLearning/comments/118645o/discussion_instruction_finetuning_dataset_for/)
-- [[R] ChatGPT for Robotics: Design Principles and Model Abilities](https://www.reddit.com/r/MachineLearning/comments/11853g5/r_chatgpt_for_robotics_design_principles_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
