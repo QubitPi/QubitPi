@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/764652080413540389><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/879d36c5e5eb6b0c1b70e01d34203ac3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@Luckyゾ@柒月酱油哥@阿列夫1-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/765023023853993989)
+- [恭喜@啵啵呆桃冰冰乐@白彼岸uhey@战役勇士等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/765023023828828208)
 - [互动抽奖 #原神# #miHoYo# #璃月食集# 《原神》寻味之旅——「璃月食集」第三期 现已发布~ https://www.bilibili.com/video/BV1zj411P717 松软的面窝窝配上祛湿...](https://t.bilibili.com/764997387171135556)
 - [《原神》寻味之旅——「璃月食集」第三期](https://t.bilibili.com/764992138743119904)
 - [恭喜@逍遥-风吟@上官寂暇@_约伊兹的贤狼等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/764652080413540389)
-- [恭喜@纯爱战神牛頭人@小鲁同学___@羽心娜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/763909764036952386)
-- [#原神# #精通移涌# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动...](https://t.bilibili.com/763878848860258503)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
