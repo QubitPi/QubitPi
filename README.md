@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1627981962320265217)
+- [Graph algorithms are a set of instructions that traverse &lpar;visits nodes of&rpar; a graph and find specific nodes, paths, or a path between two nodes. Some o...](https://twitter.com/memgraphdb/status/1627965351806832640)
 - [Re @supe_katarina @CoreyMKimball Thank you @CoreyMKimball :&rpar;](https://twitter.com/memgraphdb/status/1627937625704103936)
 - [The Girvan-Newman algorithm relies on the iterative elimination of edges with the highest number of shortest paths between nodes passing through them....](https://twitter.com/memgraphdb/status/1627931376379912192)
 - [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1627920807833010178)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1627913257833955328)
-- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. #memgraph #graphdatabase #mem...](https://twitter.com/memgraphdb/status/1627906211952709633)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
