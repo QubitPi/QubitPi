@@ -300,9 +300,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Open source version of Flamingo](https://www.reddit.com/r/MachineLearning/comments/119a32e/d_open_source_version_of_flamingo/)
 - [[N] U.S. Copyright Office decides that Kris Kashtanova&#39;s AI-involved graphic novel will remain copyright registered, but the copyright protection will be limited to the text and the whole work as a compilation](https://www.reddit.com/r/MachineLearning/comments/1198k5j/n_us_copyright_office_decides_that_kris/)
-- [[D] Ramifications If Bing is Actively Circumventing Its Own Rules?](https://www.reddit.com/r/MachineLearning/comments/1198dbd/d_ramifications_if_bing_is_actively_circumventing/)
 - [[D] Where to find fine-tuned TTS models?](https://www.reddit.com/r/MachineLearning/comments/1197k6y/d_where_to_find_finetuned_tts_models/)
 - [[N] Crowdsourcing better names for the Catch22 time series features](https://www.reddit.com/r/MachineLearning/comments/11977iy/n_crowdsourcing_better_names_for_the_catch22_time/)
+- [[P] MIT Introduction to Data-Centric AI](https://www.reddit.com/r/MachineLearning/comments/1194wm0/p_mit_introduction_to_datacentric_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
