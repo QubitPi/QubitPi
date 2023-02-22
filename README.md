@@ -536,10 +536,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Modular Large Complication Concept 4](https://dribbble.com/shots/20662999)
-- [Justalk Branding, visual identity, corporate brand design](https://dribbble.com/shots/20478087)
 - [jor 23](https://dribbble.com/shots/20684849)
 - [Pickle — Design Feedback Tool 🥒](https://dribbble.com/shots/20611935)
 - [Oucher Website](https://dribbble.com/shots/20662887)
+- [Notification Dark Modal](https://dribbble.com/shots/20680454)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
