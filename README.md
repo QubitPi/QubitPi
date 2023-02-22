@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765363236765696033><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a038a033a21c49ba846887eb347c7397401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765467776283312183><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7c7b1da3dc01b93393af0c12e753ffc9551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#必胜客原神联动# #必胜邀约同人征集# 期待旅行者们的创作~](https://t.bilibili.com/765467776283312183)
