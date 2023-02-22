@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[d] How true is this? considering multiple prompts for each completion &lpar;or single prompt&rpar;](https://www.reddit.com/r/MachineLearning/comments/1193x2v/d_how_true_is_this_considering_multiple_prompts/)
 - [[R] Provable Copyright Protection for Generative Models](https://www.reddit.com/r/MachineLearning/comments/1190lw8/r_provable_copyright_protection_for_generative/)
 - [[D] Difference Attention and Self-Attention](https://www.reddit.com/r/MachineLearning/comments/118xk9a/d_difference_attention_and_selfattention/)
 - [[P] Discretization: equal-width trumps equal-frequency?](https://www.reddit.com/r/MachineLearning/comments/118wcki/p_discretization_equalwidth_trumps_equalfrequency/)
 - [[D] Visualizing layer weights](https://www.reddit.com/r/MachineLearning/comments/118syc4/d_visualizing_layer_weights/)
-- [[D] &quot;Deep learning is the only thing that currently works at scale&quot;](https://www.reddit.com/r/MachineLearning/comments/118pof6/d_deep_learning_is_the_only_thing_that_currently/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
