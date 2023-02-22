@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Infrastructure Mapping Trailer #shorts](https://www.youtube.com/watch?v=hfCL-d0qELc)
 - [Neo4j Live: Infrastructure Mapping](https://www.youtube.com/watch?v=2F-xx4LcTng)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=9vbdS5n_ccs)
 - [Neo4j Live: Neo4j VS Code Extension](https://www.youtube.com/watch?v=kSH4eqNARAw)
 - [TED Talks - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=t52Q9wbwuFA)
-- [Going Meta - Ep 13: Creating &lpar;and RDF-izing&rpar; virtual graphs over external data](https://www.youtube.com/watch?v=FoHAyBhcH4s)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
