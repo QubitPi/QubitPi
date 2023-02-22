@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Difference Attention and Self-Attention](https://www.reddit.com/r/MachineLearning/comments/118xk9a/d_difference_attention_and_selfattention/)
+- [[D] Why this chatbot&lpar;CharacterAI&rpar; answering question when giving a gibberish input, it seems it&#39;s able to predict question based on previously asked question?](https://www.reddit.com/r/MachineLearning/comments/118x6bc/d_why_this_chatbotcharacterai_answering_question/)
 - [[P] Discretization: equal-width trumps equal-frequency?](https://www.reddit.com/r/MachineLearning/comments/118wcki/p_discretization_equalwidth_trumps_equalfrequency/)
 - [[R] Need Thai respondents for Situational Analysis](https://www.reddit.com/r/MachineLearning/comments/118ufye/r_need_thai_respondents_for_situational_analysis/)
 - [[D] Visualizing layer weights](https://www.reddit.com/r/MachineLearning/comments/118syc4/d_visualizing_layer_weights/)
-- [[D] &quot;Deep learning is the only thing that currently works at scale&quot;](https://www.reddit.com/r/MachineLearning/comments/118pof6/d_deep_learning_is_the_only_thing_that_currently/)
-- [[Discussion] Exploring the Black Box Theory and Its Implications for AI, God, and Ethics](https://www.reddit.com/r/MachineLearning/comments/118ovfo/discussion_exploring_the_black_box_theory_and_its/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
