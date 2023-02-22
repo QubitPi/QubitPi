@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765023023853993989><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/21fb58159f168402cc4376c464cef900401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [互动抽奖 #原神# #珊瑚宫心海# #生日快乐# 作为海祇岛的领袖，我带领大家逆流前行的日子也过去了许久。 我们能有如今这样和谐安宁的时光，你的努力必不可少。 前...](https://t.bilibili.com/765363236765696033)
 - [恭喜@Luckyゾ@柒月酱油哥@阿列夫1-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/765023023853993989)
 - [恭喜@啵啵呆桃冰冰乐@白彼岸uhey@战役勇士等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/765023023828828208)
 - [互动抽奖 #原神# #miHoYo# #璃月食集# 《原神》寻味之旅——「璃月食集」第三期 现已发布~ https://www.bilibili.com/video/BV1zj411P717 松软的面窝窝配上祛湿...](https://t.bilibili.com/764997387171135556)
 - [《原神》寻味之旅——「璃月食集」第三期](https://t.bilibili.com/764992138743119904)
+- [恭喜@逍遥-风吟@上官寂暇@_约伊兹的贤狼等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/764652080413540389)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
