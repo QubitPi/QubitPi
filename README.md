@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How Product Owners can maximize value with stakeholder input](https://www.scrum.org/resources/blog/how-product-owners-can-maximize-value-stakeholder-input)
 - [Why does Agile focus on values and principles rather than a prescribed set of steps?](https://www.scrum.org/resources/blog/why-does-agile-focus-values-and-principles-rather-prescribed-set-steps)
 - [Your Daily Scrum: Applying Flow Metrics to Sprint Planning](https://www.scrum.org/resources/blog/your-daily-scrum-applying-flow-metrics-sprint-planning)
 - [ChatGPT Product Owner Job Interview](https://www.scrum.org/resources/blog/chatgpt-product-owner-job-interview)
 - [Where can Scrum NOT be Used?](https://www.scrum.org/resources/blog/where-can-scrum-not-be-used)
-- [Top 6 Hiring Trends in the Age of AI that You Need to Know](https://www.scrum.org/resources/blog/top-6-hiring-trends-age-ai-you-need-know)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
