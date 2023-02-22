@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Crowdsourcing better names for the Catch22 time series features](https://www.reddit.com/r/MachineLearning/comments/11977iy/n_crowdsourcing_better_names_for_the_catch22_time/)
 - [[D] Does anyone know of any open-source projects that I can try to make explainable?](https://www.reddit.com/r/MachineLearning/comments/1196noj/d_does_anyone_know_of_any_opensource_projects/)
 - [[P] MIT Introduction to Data-Centric AI](https://www.reddit.com/r/MachineLearning/comments/1194wm0/p_mit_introduction_to_datacentric_ai/)
 - [[D] Faster Flan-T5 inference](https://www.reddit.com/r/MachineLearning/comments/1194vcc/d_faster_flant5_inference/)
 - [[d] How true is this? considering multiple prompts for each completion &lpar;or single prompt&rpar;](https://www.reddit.com/r/MachineLearning/comments/1193x2v/d_how_true_is_this_considering_multiple_prompts/)
-- [[R] Provable Copyright Protection for Generative Models](https://www.reddit.com/r/MachineLearning/comments/1190lw8/r_provable_copyright_protection_for_generative/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
