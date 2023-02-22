@@ -316,7 +316,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [What is Agile all about?](https://www.scrum.org/resources/blog/what-agile-all-about)
+- [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
 - [How Product Owners Can Maximize Value with Stakeholder Input](https://www.scrum.org/resources/blog/how-product-owners-can-maximize-value-stakeholder-input)
 - [Why does Agile Focus on Values and Principles Rather than a Prescribed Set of Steps?](https://www.scrum.org/resources/blog/why-does-agile-focus-values-and-principles-rather-prescribed-set-steps)
 - [Your Daily Scrum: Applying Flow Metrics to Sprint Planning](https://www.scrum.org/resources/blog/your-daily-scrum-applying-flow-metrics-sprint-planning)
