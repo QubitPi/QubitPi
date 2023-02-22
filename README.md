@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Exploring the Black Box Theory and Its Implications for AI, God, and Ethics](https://www.reddit.com/r/MachineLearning/comments/118ovfo/discussion_exploring_the_black_box_theory_and_its/)
 - [[R] create web corpus from commoncrawl.org](https://www.reddit.com/r/MachineLearning/comments/118od1a/r_create_web_corpus_from_commoncrawlorg/)
 - [[D] Stable Diffusion, Class images question](https://www.reddit.com/r/MachineLearning/comments/118n22u/d_stable_diffusion_class_images_question/)
 - [[R] Running evolution as an optimization process on yeast cells](https://www.reddit.com/r/MachineLearning/comments/118mm43/r_running_evolution_as_an_optimization_process_on/)
 - [Unit Normalization instead of Cross-Entropy Loss [Discussion]](https://www.reddit.com/r/MachineLearning/comments/118gie9/unit_normalization_instead_of_crossentropy_loss/)
-- [[D] Bottleneck Layers: What&#39;s your intuition?](https://www.reddit.com/r/MachineLearning/comments/118cypl/d_bottleneck_layers_whats_your_intuition/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
