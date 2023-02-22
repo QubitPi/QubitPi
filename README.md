@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765023023853993989><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/21fb58159f168402cc4376c464cef900401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765363236765696033><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a038a033a21c49ba846887eb347c7397401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #珊瑚宫心海# #生日快乐# 作为海祇岛的领袖，我带领大家逆流前行的日子也过去了许久。 我们能有如今这样和谐安宁的时光，你的努力必不可少。 前...](https://t.bilibili.com/765363236765696033)
