@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [What is an Agile Manager?](https://www.scrum.org/resources/blog/what-agile-manager)
 - [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
 - [How Product Owners Can Maximize Value with Stakeholder Input](https://www.scrum.org/resources/blog/how-product-owners-can-maximize-value-stakeholder-input)
 - [Why does Agile Focus on Values and Principles Rather than a Prescribed Set of Steps?](https://www.scrum.org/resources/blog/why-does-agile-focus-values-and-principles-rather-prescribed-set-steps)
 - [Your Daily Scrum: Applying Flow Metrics to Sprint Planning](https://www.scrum.org/resources/blog/your-daily-scrum-applying-flow-metrics-sprint-planning)
-- [Are you Giving your People the Time and Space to Learn and Improve? The 9@9 rule.](https://www.scrum.org/resources/blog/are-you-giving-your-people-time-and-space-learn-and-improve-99-rule)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
