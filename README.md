@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Discretization: equal-width beats equal-frequency?](https://www.reddit.com/r/MachineLearning/comments/118w6qr/p_discretization_equalwidth_beats_equalfrequency/)
 - [[R] Need Thai respondents for Situational Analysis](https://www.reddit.com/r/MachineLearning/comments/118ufye/r_need_thai_respondents_for_situational_analysis/)
 - [[D] Visualizing layer weights](https://www.reddit.com/r/MachineLearning/comments/118syc4/d_visualizing_layer_weights/)
 - [[D] &quot;Deep learning is the only thing that currently works at scale&quot;](https://www.reddit.com/r/MachineLearning/comments/118pof6/d_deep_learning_is_the_only_thing_that_currently/)
 - [[Discussion] Exploring the Black Box Theory and Its Implications for AI, God, and Ethics](https://www.reddit.com/r/MachineLearning/comments/118ovfo/discussion_exploring_the_black_box_theory_and_its/)
-- [[R] create web corpus from commoncrawl.org](https://www.reddit.com/r/MachineLearning/comments/118od1a/r_create_web_corpus_from_commoncrawlorg/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
