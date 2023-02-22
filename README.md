@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1628479529781018624)
 - [Thank you for attending our &quot;Graph Frontier - Exploring the Boundaries of Data Interconnectivity&quot; Meetup in #Singapore!! &lpar;Remember joining the Graph D...](https://twitter.com/neo4j/status/1628364133149163522)
 - [Software testing with Testcontainers #Neo4j👇 @meistermeier will show how Testcontainers relates to other forms of providing an external system for ...](https://twitter.com/neo4j/status/1628116372235362304)
 - [The &quot;Full Stack GraphQL Applications&quot; e-book is available! 🤓 Download it for FREE and learn how to use GraphQL with React, Node.js, and Neo4j to bu...](https://twitter.com/neo4j/status/1628062215659036675)
 - [Yes! We are getting ready for our upcoming GraphSummit Series! 👏 We will be announcing dates and cities very soon: Stay tuned to find out when Neo4...](https://twitter.com/neo4j/status/1627986634074464256)
+- [SUSTAINGRAPH: A Knowledge Graph for Tracking Sustainable Development Goals👇 🍃 #sustainability #Neo4j](https://twitter.com/neo4j/status/1627783168861298690)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
