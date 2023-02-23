@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1628838607812165635)
+- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1628820988518334465)
 - [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️ https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph #memgraph #g...](https://twitter.com/memgraphdb/status/1628808659072438272)
 - [🎓 #Memgraph presents graph algorithms: Dynamic Katz centrality 🗒️ The constant change of information leads to the dynamic environment and creat...](https://twitter.com/memgraphdb/status/1628802446897164289)
 - [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1628760087702474753)
-- [Real-time analytics can answer queries within seconds, making it possible for data science teams to understand relationships, automate processes, and ...](https://twitter.com/memgraphdb/status/1628750777647857664)
-- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1628733160254046209)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
