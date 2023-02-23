@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1628733160254046209)
+- [Check out our blog post 📰 Guide to Real-Time Analytics ➡️ https://memgraph.com/blog/guide-to-real-time-analytics #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1628729891175661568)
 - [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 https://memgraph.com...](https://twitter.com/memgraphdb/status/1628706735056642050)
 - [🔎 Database hosting is an interesting cost in the total cost of ownership and it should be taken into consideration before deciding which database t...](https://twitter.com/memgraphdb/status/1628705224893386752)
 - [Did you know that in graph databases, data relationships are represented by graph models? You can apply machine learning algorithms and other statisti...](https://twitter.com/memgraphdb/status/1628670246885240833)
-- [Check out our blog post 📰 Introduction to Streaming Databases ➡️ https://memgraph.com/blog/streaming-databases #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1628656151859544064)
-- [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1628651372882042881)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
