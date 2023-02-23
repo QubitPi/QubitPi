@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Tools for drawing/visualising Neural Networks that are pretty?](https://www.reddit.com/r/MachineLearning/comments/119w7c6/d_tools_for_drawingvisualising_neural_networks/)
 - [[P] ControlNet + ArtLine, Transform portrait styles with written instructions. GitHub Link in comments](https://www.reddit.com/r/MachineLearning/comments/119ujl5/p_controlnet_artline_transform_portrait_styles/)
 - [[News] Text to 3D environments and games is here](https://www.reddit.com/r/MachineLearning/comments/119rmad/news_text_to_3d_environments_and_games_is_here/)
 - [[D] Yann LeCun&#39;s Hot Take about programming languages for ML](https://www.reddit.com/r/MachineLearning/comments/119r6m0/d_yann_lecuns_hot_take_about_programming/)
 - [[D] 14.5M-15M is the smallest number of parameters I could find for current pretrained language models. Are there any that are smaller?](https://www.reddit.com/r/MachineLearning/comments/119onf8/d_145m15m_is_the_smallest_number_of_parameters_i/)
-- [[D] Python library to collect structured datasets across the internet](https://www.reddit.com/r/MachineLearning/comments/119o54q/d_python_library_to_collect_structured_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
