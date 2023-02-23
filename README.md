@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Did you know that in graph databases, data relationships are represented by graph models? You can apply machine learning algorithms and other statisti...](https://twitter.com/memgraphdb/status/1628670246885240833)
-- [Check out our blog post 📰 Introduction to Streaming Databases ➡️ https://memgraph.com/blog/streaming-databases #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1628656151859544064)
-- [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1628651372882042881)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1628641810703609858)
 - [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1628630990271700993)
+- [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️ https://memgraph.com/blog/link-prediction-with-node2...](https://twitter.com/memgraphdb/status/1628480496844808195)
+- [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1628456587617570816)
+- [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1628440384291364866)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
