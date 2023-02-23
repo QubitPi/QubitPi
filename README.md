@@ -317,10 +317,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [What is an Agile Manager?](https://www.scrum.org/resources/blog/what-agile-manager)
+- [Opinions vs. Evidence - How getting the definitions mixed up can impact the value of your delivery.](https://www.scrum.org/resources/blog/opinions-vs-evidence-how-getting-definitions-mixed-can-impact-value-your-delivery)
 - [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
 - [How Product Owners Can Maximize Value with Stakeholder Input](https://www.scrum.org/resources/blog/how-product-owners-can-maximize-value-stakeholder-input)
 - [Why does Agile Focus on Values and Principles Rather than a Prescribed Set of Steps?](https://www.scrum.org/resources/blog/why-does-agile-focus-values-and-principles-rather-prescribed-set-steps)
-- [Your Daily Scrum: Applying Flow Metrics to Sprint Planning](https://www.scrum.org/resources/blog/your-daily-scrum-applying-flow-metrics-sprint-planning)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
