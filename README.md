@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Neo4j Live: Neo4j VS Code Extension @adamcowley https://twitter.com/i/broadcasts/1mnGeRVmqDaJX](https://twitter.com/neo4j/status/1628783160153743362)
 - [Re @IrfanKareemAli @adamcowley Thanks @IrfanKareemAli for pointing it out and thanks @adamcowley for quick fix! :&rpar;](https://twitter.com/neo4j/status/1628725975671513097)
 - [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1628479529781018624)
 - [RT Ajeet Singh Raina 🐳: I&#39;m planning to showcase how I built the @neo4j Docker Extension in the upcoming @DockerBangalore joint @Meetup with Graph ...](https://twitter.com/ajeetsraina/status/1628379674433945607)
 - [Thank you for attending our &quot;Graph Frontier - Exploring the Boundaries of Data Interconnectivity&quot; Meetup in #Singapore!! &lpar;Remember joining the Graph D...](https://twitter.com/neo4j/status/1628364133149163522)
+- [Software testing with Testcontainers #Neo4j👇 @meistermeier will show how Testcontainers relates to other forms of providing an external system for ...](https://twitter.com/neo4j/status/1628116372235362304)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
