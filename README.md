@@ -319,7 +319,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [ChatGPT Product Owner Jobinterview 🇩🇪](https://www.scrum.org/resources/blog/chatgpt-product-owner-jobinterview)
 - [What is the goal of a goal? - Professional Mind series &lpar;#3&rpar;](https://www.scrum.org/resources/blog/what-goal-goal-professional-mind-series-3)
 - [What is an Agile Manager?](https://www.scrum.org/resources/blog/what-agile-manager)
-- [Opinions vs. Evidence - How getting the definitions mixed up can impact the value of your delivery.](https://www.scrum.org/resources/blog/opinions-vs-evidence-how-getting-definitions-mixed-can-impact-value-your-delivery)
+- [Opinions vs. Evidence - How Getting the Definitions Mixed up can impact the Value of your Delivery.](https://www.scrum.org/resources/blog/opinions-vs-evidence-how-getting-definitions-mixed-can-impact-value-your-delivery)
 - [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
