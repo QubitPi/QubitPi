@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is your view on the relationship between feature importance and AUROC scores of a model?](https://www.reddit.com/r/MachineLearning/comments/119nntx/d_what_is_your_view_on_the_relationship_between/)
 - [[D] Open source version of Flamingo](https://www.reddit.com/r/MachineLearning/comments/119a32e/d_open_source_version_of_flamingo/)
 - [[N] U.S. Copyright Office decides that Kris Kashtanova&#39;s AI-involved graphic novel will remain copyright registered, but the copyright protection will be limited to the text and the whole work as a compilation](https://www.reddit.com/r/MachineLearning/comments/1198k5j/n_us_copyright_office_decides_that_kris/)
 - [[N] Crowdsourcing better names for the Catch22 time series features](https://www.reddit.com/r/MachineLearning/comments/11977iy/n_crowdsourcing_better_names_for_the_catch22_time/)
 - [[P] MIT Introduction to Data-Centric AI](https://www.reddit.com/r/MachineLearning/comments/1194wm0/p_mit_introduction_to_datacentric_ai/)
-- [[D] Faster Flan-T5 inference](https://www.reddit.com/r/MachineLearning/comments/1194vcc/d_faster_flant5_inference/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
