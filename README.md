@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[News] Text to 3D environments and games is here](https://www.reddit.com/r/MachineLearning/comments/119rmad/news_text_to_3d_environments_and_games_is_here/)
 - [[D] Yann LeCun&#39;s Hot Take about programming languages for ML](https://www.reddit.com/r/MachineLearning/comments/119r6m0/d_yann_lecuns_hot_take_about_programming/)
 - [[D] 14.5M-15M is the smallest number of parameters I could find for current pretrained language models. Are there any that are smaller?](https://www.reddit.com/r/MachineLearning/comments/119onf8/d_145m15m_is_the_smallest_number_of_parameters_i/)
 - [[D] Python library to collect structured datasets across the internet](https://www.reddit.com/r/MachineLearning/comments/119o54q/d_python_library_to_collect_structured_datasets/)
 - [[D] Open source version of Flamingo](https://www.reddit.com/r/MachineLearning/comments/119a32e/d_open_source_version_of_flamingo/)
-- [[N] U.S. Copyright Office decides that Kris Kashtanova&#39;s AI-involved graphic novel will remain copyright registered, but the copyright protection will be limited to the text and the whole work as a compilation](https://www.reddit.com/r/MachineLearning/comments/1198k5j/n_us_copyright_office_decides_that_kris/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
