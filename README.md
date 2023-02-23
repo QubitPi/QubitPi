@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Develop Enterprise Agility With Product Groups](https://www.scrum.org/resources/blog/develop-enterprise-agility-product-groups)
 - [ChatGPT Product Owner Jobinterview 🇩🇪](https://www.scrum.org/resources/blog/chatgpt-product-owner-jobinterview)
 - [What is the goal of a goal? - Professional Mind series &lpar;#3&rpar;](https://www.scrum.org/resources/blog/what-goal-goal-professional-mind-series-3)
+- [Poniéndole picante a tu User Story mapping](https://www.scrum.org/resources/blog/poniendole-picante-tu-user-story-mapping)
 - [What is an Agile Manager?](https://www.scrum.org/resources/blog/what-agile-manager)
-- [Opinions vs. Evidence - How Getting the Definitions Mixed up can impact the Value of your Delivery.](https://www.scrum.org/resources/blog/opinions-vs-evidence-how-getting-definitions-mixed-can-impact-value-your-delivery)
-- [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
