@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1628641810703609858)
+- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1628630990271700993)
 - [Check out our blog post 📰 Link prediction with #Node2Vec in Physics Collaboration Network ➡️ https://memgraph.com/blog/link-prediction-with-node2...](https://twitter.com/memgraphdb/status/1628480496844808195)
 - [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1628456587617570816)
 - [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1628440384291364866)
-- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1628416069512708099)
-- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1628397699732045825)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
