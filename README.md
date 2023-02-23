@@ -301,8 +301,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [AI Art Survey for my dissertation [R]](https://www.reddit.com/r/MachineLearning/comments/11a5hop/ai_art_survey_for_my_dissertation_r/)
 - [[D] Are there any good FID and KID metrics implementations existing that are compatible with pytorch?](https://www.reddit.com/r/MachineLearning/comments/11a4klg/d_are_there_any_good_fid_and_kid_metrics/)
 - [[D] Data Synthetization explained in one picture](https://www.reddit.com/r/MachineLearning/comments/11a3joy/d_data_synthetization_explained_in_one_picture/)
-- [[D] Algorithms for efficiently computing the approximate nearest neighbour from a large bag of elements](https://www.reddit.com/r/MachineLearning/comments/11a2p3y/d_algorithms_for_efficiently_computing_the/)
 - [[R] Modular Deep Learning](https://www.reddit.com/r/MachineLearning/comments/11a2d2b/r_modular_deep_learning/)
+- [[D] FID calculation for GAN network](https://www.reddit.com/r/MachineLearning/comments/11a0f6r/d_fid_calculation_for_gan_network/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
