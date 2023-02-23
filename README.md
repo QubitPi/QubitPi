@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] FID calculation for GAN network](https://www.reddit.com/r/MachineLearning/comments/11a0f6r/d_fid_calculation_for_gan_network/)
 - [[p] Sail](https://www.reddit.com/r/MachineLearning/comments/11a02on/p_sail/)
 - [[D] Model size vs task complexity](https://www.reddit.com/r/MachineLearning/comments/119ydqv/d_model_size_vs_task_complexity/)
 - [[R] Download all of wikipedia as imges](https://www.reddit.com/r/MachineLearning/comments/119xb0d/r_download_all_of_wikipedia_as_imges/)
 - [[D] C3 AI for Data Science](https://www.reddit.com/r/MachineLearning/comments/119wsrn/d_c3_ai_for_data_science/)
-- [[D] Tools for drawing/visualising Neural Networks that are pretty?](https://www.reddit.com/r/MachineLearning/comments/119w7c6/d_tools_for_drawingvisualising_neural_networks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
