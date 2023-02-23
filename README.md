@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Modular Deep Learning](https://www.reddit.com/r/MachineLearning/comments/11a2d2b/r_modular_deep_learning/)
 - [[D] FID calculation for GAN network](https://www.reddit.com/r/MachineLearning/comments/11a0f6r/d_fid_calculation_for_gan_network/)
 - [[D] Model size vs task complexity](https://www.reddit.com/r/MachineLearning/comments/119ydqv/d_model_size_vs_task_complexity/)
 - [[D] Tools for drawing/visualising Neural Networks that are pretty?](https://www.reddit.com/r/MachineLearning/comments/119w7c6/d_tools_for_drawingvisualising_neural_networks/)
 - [[P] ControlNet + ArtLine, Transform portrait styles with written instructions. GitHub Link in comments](https://www.reddit.com/r/MachineLearning/comments/119ujl5/p_controlnet_artline_transform_portrait_styles/)
-- [[D] Yann LeCun&#39;s Hot Take about programming languages for ML](https://www.reddit.com/r/MachineLearning/comments/119r6m0/d_yann_lecuns_hot_take_about_programming/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
