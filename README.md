@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [ChatGPT Product Owner Jobinterview 🇩🇪](https://www.scrum.org/resources/blog/chatgpt-product-owner-jobinterview)
 - [What is the goal of a goal? - Professional Mind series &lpar;#3&rpar;](https://www.scrum.org/resources/blog/what-goal-goal-professional-mind-series-3)
 - [What is an Agile Manager?](https://www.scrum.org/resources/blog/what-agile-manager)
 - [Opinions vs. Evidence - How getting the definitions mixed up can impact the value of your delivery.](https://www.scrum.org/resources/blog/opinions-vs-evidence-how-getting-definitions-mixed-can-impact-value-your-delivery)
 - [What is Agile All About?](https://www.scrum.org/resources/blog/what-agile-all-about)
-- [How Product Owners Can Maximize Value with Stakeholder Input](https://www.scrum.org/resources/blog/how-product-owners-can-maximize-value-stakeholder-input)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
