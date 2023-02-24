@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ https://www.youtube.com/watch?v=PH9AlBX7h5M #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1629122478143332354)
+- [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1629119959249956873)
 - [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. https://memgraph.com/docs/c...](https://twitter.com/memgraphdb/status/1629093032640274432)
 - [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1629074914547273729)
 - [To ask a question, or not to ask? Source: https://www.reddit.com/r/ProgrammerHumor/comments/xeo5ab/junior_vs_senior/ #memgraph #devhumor #senior #juni...](https://twitter.com/memgraphdb/status/1629069125308805121)
-- [RT Kruno Golubic: 🚀⭐️According to the data from @OSSInsight #memgraph has seen a rise of more than 300% &lpar;+238 stars&rpar; on @github in the past 28 da...](https://twitter.com/kgolubic/status/1629058450767454213)
-- [Do you think that fixing bugs is a great way to learn about the system? Source: https://www.reddit.com/r/ProgrammerHumor/comments/xb20ro/every_new_dev...](https://twitter.com/memgraphdb/status/1629041947217129472)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
