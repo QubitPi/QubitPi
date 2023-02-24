@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Minds - A JS library to build LLM powered backends and workflows &lpar;OpenAI &amp; Cohere&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ak97p/p_minds_a_js_library_to_build_llm_powered/)
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11aje0p/a_prompt_pattern_catalog_to_enhance_prompt/)
 - [[D] Model Recommendations for Improving Image Resolution](https://www.reddit.com/r/MachineLearning/comments/11aimsy/d_model_recommendations_for_improving_image/)
 - [[D] Can ML be useful in spectra analysis?](https://www.reddit.com/r/MachineLearning/comments/11addy8/d_can_ml_be_useful_in_spectra_analysis/)
 - [[D] To the ML researchers and practitioners here, do you worry about AI safety/alignment of the type Eliezer Yudkowsky describes?](https://www.reddit.com/r/MachineLearning/comments/11ada91/d_to_the_ml_researchers_and_practitioners_here_do/)
-- [[P] What are the latest &quot;out of the box solutions&quot; for deploying the very large LLMs as API endpoints?](https://www.reddit.com/r/MachineLearning/comments/11a8tru/p_what_are_the_latest_out_of_the_box_solutions/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
