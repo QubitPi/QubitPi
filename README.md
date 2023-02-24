@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1629140847613685765)
 - [🍿Check out the #Memgraph video &quot;How to work with Github?&quot; 📽️ https://www.youtube.com/watch?v=PH9AlBX7h5M #memgraph #video #graphdatabase](https://twitter.com/memgraphdb/status/1629122478143332354)
 - [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1629119959249956873)
 - [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. https://memgraph.com/docs/c...](https://twitter.com/memgraphdb/status/1629093032640274432)
 - [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1629074914547273729)
-- [To ask a question, or not to ask? Source: https://www.reddit.com/r/ProgrammerHumor/comments/xeo5ab/junior_vs_senior/ #memgraph #devhumor #senior #juni...](https://twitter.com/memgraphdb/status/1629069125308805121)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
