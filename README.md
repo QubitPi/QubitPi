@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I am building a model to translate English to Romanized Moroccan - any tips?](https://www.reddit.com/r/MachineLearning/comments/11ary18/d_i_am_building_a_model_to_translate_english_to/)
 - [[D] Best Way to Measure LLM Uncertainty?](https://www.reddit.com/r/MachineLearning/comments/11aq4qo/d_best_way_to_measure_llm_uncertainty/)
 - [[D] AI’s Instagram Problem](https://www.reddit.com/r/MachineLearning/comments/11ao1oj/d_ais_instagram_problem/)
 - [[D] A funny story from my interview](https://www.reddit.com/r/MachineLearning/comments/11albpf/d_a_funny_story_from_my_interview/)
 - [[P] Minds - A JS library to build LLM powered backends and workflows &lpar;OpenAI &amp; Cohere&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ak97p/p_minds_a_js_library_to_build_llm_powered/)
-- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11aje0p/a_prompt_pattern_catalog_to_enhance_prompt/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
