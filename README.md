@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/765740704298172451><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64c1e756d3f8c9ebcdf1f763c2d9c608401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766082149905334281><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0f92ec2f7f004f3bb72e4bf0375a2818401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #迪希雅# 《原神》迪希雅角色PV——「沙际晨光」现已发布~ https://www.bilibili.com/video/BV1vs4y1b7rU 「墙壁的本意不是阻挡，而是保护。」 ...](https://t.bilibili.com/765740704298172451)
