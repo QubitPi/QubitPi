@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766082149905334281><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0f92ec2f7f004f3bb72e4bf0375a2818401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #七圣召唤# 旅行者们好呀，3.5版本更新后，「七圣召唤」玩法将新增角色牌「优菈」、「珊瑚宫心海」、「九条裟罗」和对应天赋牌，以及两张新装备牌。一起...](https://t.bilibili.com/766082149905334281)
 - [互动抽奖 #原神# #迪希雅# 《原神》迪希雅角色PV——「沙际晨光」现已发布~ https://www.bilibili.com/video/BV1vs4y1b7rU 「墙壁的本意不是阻挡，而是保护。」 ...](https://t.bilibili.com/765740704298172451)
 - [旅行者们好呀！今天为大家介绍的角色是「镀金旅团」的成员——迪希雅。一起来看看吧~[原神_哇]](https://t.bilibili.com/765736847390277635)
 - [#原神# #迪希雅# 鹫鸟的眼睛，狮子的灵魂，沙漠自由的女儿](https://t.bilibili.com/765736319113494544)
 - [鹫鸟的眼睛，狮子的灵魂，沙漠自由的女儿](https://t.bilibili.com/765735563185618983)
-- [《原神》迪希雅角色PV——「沙际晨光」](https://t.bilibili.com/765734459388461096)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
