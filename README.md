@@ -316,8 +316,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Improve your team&#39;s concern for quality!](https://www.scrum.org/resources/blog/improve-your-teams-concern-quality)
 - [How Facilitation is Key to Effective Scrum Events](https://www.scrum.org/resources/blog/how-facilitation-key-effective-scrum-events)
+- [Improve your team&#39;s concern for quality!](https://www.scrum.org/resources/blog/improve-your-teams-concern-quality)
 - [How the Developers can help raise Transparency &lpar;10&rpar;](https://www.scrum.org/resources/blog/how-developers-can-help-raise-transparency-10)
 - [Develop Enterprise Agility With Product Groups](https://www.scrum.org/resources/blog/develop-enterprise-agility-product-groups)
 - [ChatGPT Product Owner Jobinterview 🇩🇪](https://www.scrum.org/resources/blog/chatgpt-product-owner-jobinterview)
