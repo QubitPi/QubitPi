@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Model Recommendations for Improving Image Resolution](https://www.reddit.com/r/MachineLearning/comments/11aimsy/d_model_recommendations_for_improving_image/)
 - [[D] Can ML be useful in spectra analysis?](https://www.reddit.com/r/MachineLearning/comments/11addy8/d_can_ml_be_useful_in_spectra_analysis/)
 - [[D] To the ML researchers and practitioners here, do you worry about AI safety/alignment of the type Eliezer Yudkowsky describes?](https://www.reddit.com/r/MachineLearning/comments/11ada91/d_to_the_ml_researchers_and_practitioners_here_do/)
 - [[P] What are the latest &quot;out of the box solutions&quot; for deploying the very large LLMs as API endpoints?](https://www.reddit.com/r/MachineLearning/comments/11a8tru/p_what_are_the_latest_out_of_the_box_solutions/)
 - [AI Art Survey for my dissertation [R]](https://www.reddit.com/r/MachineLearning/comments/11a5hop/ai_art_survey_for_my_dissertation_r/)
-- [[D] Are there any good FID and KID metrics implementations existing that are compatible with pytorch?](https://www.reddit.com/r/MachineLearning/comments/11a4klg/d_are_there_any_good_fid_and_kid_metrics/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
