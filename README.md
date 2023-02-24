@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [That graph embeddings are a mathematical representation of your local network. The embeddings play a significant role in machine learning pipelines, w...](https://twitter.com/neo4j/status/1629088948902326272)
 - [🔬 Querying Common Chemicals With #ChatGPT From a #Neo4j Database: Part 2. &quot;ChatGPT offers an easy to use interface that can allow us to start trans...](https://twitter.com/neo4j/status/1628848954019397634)
 - [Get ready to build an academic #knowledgegraph using OpenAI Graph Database! Read part 3 of Fanghua &lpar;Joshua&rpar; Yu&#39;s trilogy! https://okt.to/BzRrxa #Neo4j...](https://twitter.com/neo4j/status/1628809178902061057)
 - [Neo4j Live: Neo4j VS Code Extension @adamcowley https://twitter.com/i/broadcasts/1mnGeRVmqDaJX](https://twitter.com/neo4j/status/1628783160153743362)
 - [Re @IrfanKareemAli @adamcowley Thanks @IrfanKareemAli for pointing it out and thanks @adamcowley for quick fix! :&rpar;](https://twitter.com/neo4j/status/1628725975671513097)
+- [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1628479529781018624)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
