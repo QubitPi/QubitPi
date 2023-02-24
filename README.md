@@ -538,8 +538,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [jor 23](https://dribbble.com/shots/20684849)
 - [CVMaker - CV Builder 3](https://dribbble.com/shots/20686359)
 - [Mecha Website](https://dribbble.com/shots/20683741)
-- [Something new 🪄](https://dribbble.com/shots/20707304)
 - [MYKI Branding Case, visual identity, corporate brand design](https://dribbble.com/shots/20483733)
+- [Attio – Report Creation](https://dribbble.com/shots/20715784)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
