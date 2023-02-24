@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Analyze Infrastructure Networks with Dynamic Betweenness Centrality ➡️ https://memgraph.com/blog/analyze-infrastructure...](https://twitter.com/memgraphdb/status/1629018542661140483)
-- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1629007971614093312)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1629004198913122305)
 - [🎓 Learn how to load data, training and plot to find out who did it! It’s elementary, my dear reader. https://memgraph.com/blog/become-an-inspector...](https://twitter.com/memgraphdb/status/1628985323488264193)
 - [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1628838607812165635)
+- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1628820988518334465)
+- [Check out our blog post 📰 How to migrate from #Neo4j to #Memgraph ➡️ https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph #memgraph #g...](https://twitter.com/memgraphdb/status/1628808659072438272)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
