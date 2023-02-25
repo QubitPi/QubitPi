@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Cerebras launches fine-tuning of large language models in the cloud](https://www.reddit.com/r/MachineLearning/comments/11bv3xv/n_cerebras_launches_finetuning_of_large_language/)
 - [[R][P] Hidden Markov Model implementation in R and Python for discrete and continuous observations.](https://www.reddit.com/r/MachineLearning/comments/11bt024/rp_hidden_markov_model_implementation_in_r_and/)
 - [[D] Open-source package to mix numerical, categorical and text features?](https://www.reddit.com/r/MachineLearning/comments/11bsx32/d_opensource_package_to_mix_numerical_categorical/)
 - [[D] Which conferences are worth attending?](https://www.reddit.com/r/MachineLearning/comments/11bmsx7/d_which_conferences_are_worth_attending/)
 - [[R] [P] New ways of breaking app-integrated LLMs with prompt injection](https://www.reddit.com/r/MachineLearning/comments/11bkpu3/r_p_new_ways_of_breaking_appintegrated_llms_with/)
-- [[R] [N] &quot;Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC&quot; recycling diffusion models &lpar;without any retraining&rpar;](https://www.reddit.com/r/MachineLearning/comments/11bk21t/r_n_reduce_reuse_recycle_compositional_generation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
