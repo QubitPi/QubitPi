@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1629355763163357184)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1629205270411739137)
 - [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ https://www.youtube.com/watch?v=nAJHrFbsZ6Q #memgraph #video #graphdatab...](https://twitter.com/memgraphdb/status/1629181365995405314)
 - [Check out our blog post 📰 Introduction to Node Embedding ➡️ https://memgraph.com/blog/introduction-to-node-embedding #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1629167273255510017)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1629163497694044160)
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1629140847613685765)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
