@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1629380928643497985)
+- [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1629370360364670977)
 - [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1629355763163357184)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1629205270411739137)
 - [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ https://www.youtube.com/watch?v=nAJHrFbsZ6Q #memgraph #video #graphdatab...](https://twitter.com/memgraphdb/status/1629181365995405314)
-- [Check out our blog post 📰 Introduction to Node Embedding ➡️ https://memgraph.com/blog/introduction-to-node-embedding #memgraph #graphdatabase](https://twitter.com/memgraphdb/status/1629167273255510017)
-- [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1629163497694044160)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
