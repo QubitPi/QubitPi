@@ -300,9 +300,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R][P] Hidden Markov Model implementation in R and Python for discrete and continuous observations.](https://www.reddit.com/r/MachineLearning/comments/11bt024/rp_hidden_markov_model_implementation_in_r_and/)
 - [[D] Open-source package to mix numerical, categorical and text features?](https://www.reddit.com/r/MachineLearning/comments/11bsx32/d_opensource_package_to_mix_numerical_categorical/)
-- [[News] Skyline Robotics specializes in robotic solutions for the cleaning and maintenance of building facades, specifically high-rise buildings. Their robots use advanced computer vision and ML technologies to identify and clean various types of building surfaces.](https://www.reddit.com/r/MachineLearning/comments/11bqjeq/news_skyline_robotics_specializes_in_robotic/)
 - [[D] Which conferences are worth attending?](https://www.reddit.com/r/MachineLearning/comments/11bmsx7/d_which_conferences_are_worth_attending/)
 - [[R] [P] New ways of breaking app-integrated LLMs with prompt injection](https://www.reddit.com/r/MachineLearning/comments/11bkpu3/r_p_new_ways_of_breaking_appintegrated_llms_with/)
+- [[R] [N] &quot;Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC&quot; recycling diffusion models &lpar;without any retraining&rpar;](https://www.reddit.com/r/MachineLearning/comments/11bk21t/r_n_reduce_reuse_recycle_compositional_generation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
