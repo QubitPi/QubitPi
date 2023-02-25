@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1629493419994218500)
-- [🎉🥳 Happy Friday everyone! 🎉🥳 In some time zones, it is already Friday, and in others, it will be Friday soon :&rpar; Source: @ismonkeyuser #mem...](https://twitter.com/memgraphdb/status/1629484865002274816)
 - [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1629455419180457985)
 - [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1629437299879473152)
 - [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1629431511417012224)
+- [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1629430001706647552)
+- [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1629419433369247744)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
