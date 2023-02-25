@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Distributions to represent an Image Dataset](https://www.reddit.com/r/MachineLearning/comments/11bdole/d_distributions_to_represent_an_image_dataset/)
 - [[D] Isn&#39;t self-supervised learning&lpar;SSL&rpar; simply a kind of SL?](https://www.reddit.com/r/MachineLearning/comments/11bcklh/d_isnt_selfsupervised_learningssl_simply_a_kind/)
 - [[D] Eliezer Yudkowsky and Lex Fridman](https://www.reddit.com/r/MachineLearning/comments/11bc2rg/d_eliezer_yudkowsky_and_lex_fridman/)
 - [[D] Is validation set necessary for non-neural network models, too?](https://www.reddit.com/r/MachineLearning/comments/11ayjxt/d_is_validation_set_necessary_for_nonneural/)
 - [[R] Meta AI open sources new SOTA LLM called LLaMA. 65B version &lpar;trained on 1.4T tokens&rpar; is competitive with Chinchilla and Palm-540B. 13B version outperforms OPT and GPT-3 175B on most benchmarks.](https://www.reddit.com/r/MachineLearning/comments/11awp4n/r_meta_ai_open_sources_new_sota_llm_called_llama/)
-- [[D] What is the correct term for a non-GAN system where two or more networks compete as part of training?](https://www.reddit.com/r/MachineLearning/comments/11au29r/d_what_is_the_correct_term_for_a_nongan_system/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
