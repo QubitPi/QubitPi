@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[News] Skyline Robotics specializes in robotic solutions for the cleaning and maintenance of building facades, specifically high-rise buildings. Their robots use advanced computer vision and ML technologies to identify and clean various types of building surfaces.](https://www.reddit.com/r/MachineLearning/comments/11bqjeq/news_skyline_robotics_specializes_in_robotic/)
 - [[D] Which conferences are worth attending?](https://www.reddit.com/r/MachineLearning/comments/11bmsx7/d_which_conferences_are_worth_attending/)
 - [[R] [P] New ways of breaking app-integrated LLMs with prompt injection](https://www.reddit.com/r/MachineLearning/comments/11bkpu3/r_p_new_ways_of_breaking_appintegrated_llms_with/)
 - [[R] [N] &quot;Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC&quot; recycling diffusion models &lpar;without any retraining&rpar;](https://www.reddit.com/r/MachineLearning/comments/11bk21t/r_n_reduce_reuse_recycle_compositional_generation/)
 - [[P] Introducing txtchat, next-generation conversational search and workflows](https://www.reddit.com/r/MachineLearning/comments/11bk12r/p_introducing_txtchat_nextgeneration/)
-- [[P] Need an honest take on a tool: AI powered Code Search for frontend teams](https://www.reddit.com/r/MachineLearning/comments/11bg0lk/p_need_an_honest_take_on_a_tool_ai_powered_code/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
