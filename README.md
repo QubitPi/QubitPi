@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1629563382490714114)
-- [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1629545764484423683)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1629526889948651522)
 - [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1629523118090772484)
 - [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1629503233549914112)
+- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1629493419994218500)
+- [🎉🥳 Happy Friday everyone! 🎉🥳 In some time zones, it is already Friday, and in others, it will be Friday soon :&rpar; Source: @ismonkeyuser #mem...](https://twitter.com/memgraphdb/status/1629484865002274816)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
