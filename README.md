@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Visit the link to participate in Ian Cadieu&#39;s presentation and learn how ArangoDB can be utilized for global supply chain management through a knowled...](https://twitter.com/arangodb/status/1629587056828489733)
 - [Learn how @DecodedHealth is transforming health care with ML, Models, Ontologies, and Graphs with ArangoDB. 🩺🥑 Check out their full case study n...](https://twitter.com/arangodb/status/1629224668694474753)
 - [We&#39;re proud to announce that we&#39;ve achieved #SOC2 Type 2 Compliance! This certification proves that our security protocols, processes, and procedures ...](https://twitter.com/arangodb/status/1629088777166528516)
 - [Kick off March by registering for our next webinar! 🥑 Join Solution Architect Victor Moey as he showcases how fraud detection queries work in Arang...](https://twitter.com/arangodb/status/1628862280728301568)
 - [Be an ArangoDB pro! Take the certification exam to prove your skills and show off your expertise. Sign up for the test now and start showing off! 🥑...](https://twitter.com/arangodb/status/1628771695782682629)
+- [Everything you need to know about graph analytics and big data. 🥑 Learn more about graph databases, graph analytics, and their complex use cases to...](https://twitter.com/arangodb/status/1627276836878123008)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
