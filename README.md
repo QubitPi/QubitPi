@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [N] &quot;MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation&quot; enables controllable image generation without any further training or finetuning of diffusion models.](https://www.reddit.com/r/MachineLearning/comments/11bfhx7/r_n_multidiffusion_fusing_diffusion_paths_for/)
 - [[D] Best API / Web App or Software for Multi Speaker Tone Analysis?](https://www.reddit.com/r/MachineLearning/comments/11bf7i4/d_best_api_web_app_or_software_for_multi_speaker/)
 - [[D] Distributions to represent an Image Dataset](https://www.reddit.com/r/MachineLearning/comments/11bdole/d_distributions_to_represent_an_image_dataset/)
 - [[D] Isn&#39;t self-supervised learning&lpar;SSL&rpar; simply a kind of SL?](https://www.reddit.com/r/MachineLearning/comments/11bcklh/d_isnt_selfsupervised_learningssl_simply_a_kind/)
 - [[D] Eliezer Yudkowsky and Lex Fridman](https://www.reddit.com/r/MachineLearning/comments/11bc2rg/d_eliezer_yudkowsky_and_lex_fridman/)
-- [[D] Is validation set necessary for non-neural network models, too?](https://www.reddit.com/r/MachineLearning/comments/11ayjxt/d_is_validation_set_necessary_for_nonneural/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
