@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Planting Undetectable Backdoors in Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/11bx3fj/r_planting_undetectable_backdoors_in_machine/)
 - [[R] Composer, a large &lpar;5 billion parameters&rpar; controllable diffusion model trained on billions of &lpar;text, image&rpar; pairs, comparable to SD + controlnet](https://www.reddit.com/r/MachineLearning/comments/11bwn2m/r_composer_a_large_5_billion_parameters/)
 - [[P] How To Predict UFC with XGBoost, 70% accurate](https://www.reddit.com/r/MachineLearning/comments/11bw9cl/p_how_to_predict_ufc_with_xgboost_70_accurate/)
 - [[D] Cost of data acquisition](https://www.reddit.com/r/MachineLearning/comments/11bvmia/d_cost_of_data_acquisition/)
 - [[N] Cerebras launches fine-tuning of large language models in the cloud](https://www.reddit.com/r/MachineLearning/comments/11bv3xv/n_cerebras_launches_finetuning_of_large_language/)
-- [[R][P] Hidden Markov Model implementation in R and Python for discrete and continuous observations.](https://www.reddit.com/r/MachineLearning/comments/11bt024/rp_hidden_markov_model_implementation_in_r_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
