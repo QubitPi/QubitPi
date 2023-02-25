@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] New ways of breaking app-integrated LLMs with prompt injection](https://www.reddit.com/r/MachineLearning/comments/11bkpu3/r_p_new_ways_of_breaking_appintegrated_llms_with/)
 - [[R] [N] &quot;Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC&quot; recycling diffusion models &lpar;without any retraining&rpar;](https://www.reddit.com/r/MachineLearning/comments/11bk21t/r_n_reduce_reuse_recycle_compositional_generation/)
 - [[P] Introducing txtchat, next-generation conversational search and workflows](https://www.reddit.com/r/MachineLearning/comments/11bk12r/p_introducing_txtchat_nextgeneration/)
 - [[P] Need an honest take on a tool: AI powered Code Search for frontend teams](https://www.reddit.com/r/MachineLearning/comments/11bg0lk/p_need_an_honest_take_on_a_tool_ai_powered_code/)
 - [[R] [N] 3D-aware Conditional Image Synthesis &lpar;pix2pix3D&rpar;](https://www.reddit.com/r/MachineLearning/comments/11bfm9n/r_n_3daware_conditional_image_synthesis_pix2pix3d/)
-- [[R] [N] &quot;MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation&quot; enables controllable image generation without any further training or finetuning of diffusion models.](https://www.reddit.com/r/MachineLearning/comments/11bfhx7/r_n_multidiffusion_fusing_diffusion_paths_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
