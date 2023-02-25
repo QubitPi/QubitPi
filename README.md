@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1629431511417012224)
+- [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1629430001706647552)
+- [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1629419433369247744)
 - [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1629380928643497985)
 - [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1629370360364670977)
-- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1629355763163357184)
-- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1629205270411739137)
-- [🍿Check out the #Memgraph video &quot;How to detect fraud with Memgraph?&quot; 📽️ https://www.youtube.com/watch?v=nAJHrFbsZ6Q #memgraph #video #graphdatab...](https://twitter.com/memgraphdb/status/1629181365995405314)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
