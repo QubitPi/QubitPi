@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [As part of Neo4j Labs, you can use #NeoDash for free in #Neo4j Desktop to render force-directed graphs, tables, bar charts, line charts, and more. Wat...](https://twitter.com/neo4j/status/1629591333596803072)
 - [#NODES2022 was all about learning from the best and most inspiring projects from the broader #Neo4j ecosystem. 🙋Do you want to re-watch &lpar;or watch f...](https://twitter.com/neo4j/status/1629466251889111041)
 - [💥 &quot;Building a Recommendation Engine With a Neo4j GDS Machine Learning Pipeline&quot; - Did you miss this live session? Take a look! https://okt.to/7Bcf6...](https://twitter.com/neo4j/status/1629188684355407874)
 - [Where? 👇 #Neo4j https://okt.to/CjKGa1 https://t.co/dYikjdZWcJ](https://twitter.com/neo4j/status/1629119195370737667)
 - [That graph embeddings are a mathematical representation of your local network. The embeddings play a significant role in machine learning pipelines, w...](https://twitter.com/neo4j/status/1629088948902326272)
+- [🔬 Querying Common Chemicals With #ChatGPT From a #Neo4j Database: Part 2. &quot;ChatGPT offers an easy to use interface that can allow us to start trans...](https://twitter.com/neo4j/status/1628848954019397634)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
