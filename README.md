@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1629455419180457985)
+- [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1629437299879473152)
 - [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1629431511417012224)
 - [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1629430001706647552)
 - [Wondering how to create a relationship between existing nodes in Cypher query language? Find answers to that and many other questions in the blog post...](https://twitter.com/memgraphdb/status/1629419433369247744)
-- [🎓 #Memgraph presents graph algorithms: Dynamic betweenness centrality 🗒️ MAGE includes a fully dynamic betweenness centrality computation tool ...](https://twitter.com/memgraphdb/status/1629380928643497985)
-- [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1629370360364670977)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
