@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766163329083244582><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d74778c6377e4bf3b7ccd6dc5070d60b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766847513049169926><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cac9bf6557abf10f214f9b5303864af5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #白术# #遵生合和# ▌遵生合和 · 白术 生老三千疾，何处可问医 ========== 「白先生，有心事，从来都不说…明明很讨厌『死亡』，却总在试探『...](https://t.bilibili.com/766163329083244582)
