@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Building a recommendation engine is never an easy task because. https://memgraph.com/blog/recommendation-engines-faster-than-ever-with-memgraph #...](https://twitter.com/memgraphdb/status/1629793901576847360)
+- [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1629781820613992448)
 - [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1629757408590299136)
 - [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1629732748029046790)
 - [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1629728971439865856)
-- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1629710100137910273)
-- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1629563382490714114)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
