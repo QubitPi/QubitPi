@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1629847250972073985)
+- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1629845743648358400)
+- [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️ https://memgraph.com/blog/gas-pipelines-in-europe](https://twitter.com/memgraphdb/status/1629837940418281474)
 - [Which database to choose? Learn about the main differences between a graph database and a relational database, what kind of use-cases are best suited ...](https://twitter.com/memgraphdb/status/1629820325750816768)
 - [🍿Check out the #Memgraph video &quot;Getting started with Memgraph Cloud and Memgraph Lab&quot; 📽️ https://www.youtube.com/watch?v=Hfs2lGTwyuo&amp;t=2s #memg...](https://twitter.com/memgraphdb/status/1629817051068899329)
-- [🎓 Building a recommendation engine is never an easy task because. https://memgraph.com/blog/recommendation-engines-faster-than-ever-with-memgraph #...](https://twitter.com/memgraphdb/status/1629793901576847360)
-- [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1629781820613992448)
-- [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1629757408590299136)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
