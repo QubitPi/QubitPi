@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766847513049169926><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cac9bf6557abf10f214f9b5303864af5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#必胜客原神联动# #必胜邀约寻珍之旅#必胜客×原神联动周边套餐预购即将于明日9:00开启，晚间场将于19:00开启，一起分享美味吧~](https://t.bilibili.com/766952018194464784)
 - [#原神# #原神3.5# 旅行者们好~今天将为各位旅行者介绍的是在3.5版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/766847513049169926)
 - [互动抽奖 #原神# #白术# #遵生合和# ▌遵生合和 · 白术 生老三千疾，何处可问医 ========== 「白先生，有心事，从来都不说…明明很讨厌『死亡』，却总在试探『...](https://t.bilibili.com/766163329083244582)
 - [互动抽奖 #原神# #卡维# #天穹之镜# ▌天穹之镜 · 卡维 体悟、仁爱与识美之知 ========== 「须弥学术主流不时隐瞒一个事实：对部分人来说，才能偶尔是负担。不...](https://t.bilibili.com/766162040593055753)
 - [恭喜@小村pike@布丁味的啾@がんばでYur等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/766136275054887111)
-- [#原神# #必胜客原神联动# #必胜邀约寻珍之旅# 《原神》「派蒙的画作必胜客联动篇」联动主题表情包即将上架~ 必胜客×原神 联动活动即将开启！ 必胜邀约，寻珍之...](https://t.bilibili.com/766107919679750179)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
