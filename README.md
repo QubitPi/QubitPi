@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Time to re-read this article: &quot;Neo4j Data Access for Your .NET Core C# Microservice&quot; Read Chintan Desai&#39;s example of a Neo4j-based Microservice &lpar;Web A...](https://twitter.com/neo4j/status/1629913207375634436)
 - [As part of Neo4j Labs, you can use #NeoDash for free in #Neo4j Desktop to render force-directed graphs, tables, bar charts, line charts, and more. Wat...](https://twitter.com/neo4j/status/1629591333596803072)
 - [#NODES2022 was all about learning from the best and most inspiring projects from the broader #Neo4j ecosystem. 🙋Do you want to re-watch &lpar;or watch f...](https://twitter.com/neo4j/status/1629466251889111041)
 - [💥 &quot;Building a Recommendation Engine With a Neo4j GDS Machine Learning Pipeline&quot; - Did you miss this live session? Take a look! https://okt.to/7Bcf6...](https://twitter.com/neo4j/status/1629188684355407874)
 - [Where? 👇 #Neo4j https://okt.to/CjKGa1 https://t.co/dYikjdZWcJ](https://twitter.com/neo4j/status/1629119195370737667)
+- [That graph embeddings are a mathematical representation of your local network. The embeddings play a significant role in machine learning pipelines, w...](https://twitter.com/neo4j/status/1629088948902326272)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
