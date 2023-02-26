@@ -298,9 +298,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Could someone please explain this calculation in the paper : Latent Multi-task Architecture Learning&lpar;https://arxiv.org/abs/1705.08142&rpar;](https://www.reddit.com/r/MachineLearning/comments/11c4ejj/d_could_someone_please_explain_this_calculation/)
 - [[P] [N] Democratizing the chatGPT technology through a Q&amp;A game](https://www.reddit.com/r/MachineLearning/comments/11c1hzc/p_n_democratizing_the_chatgpt_technology_through/)
 - [[D] Navigating Academic Conferences](https://www.reddit.com/r/MachineLearning/comments/11c0wvh/d_navigating_academic_conferences/)
-- [[D] Looking for someone to do a small coding job](https://www.reddit.com/r/MachineLearning/comments/11bxsk0/d_looking_for_someone_to_do_a_small_coding_job/)
 - [[R] Planting Undetectable Backdoors in Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/11bx3fj/r_planting_undetectable_backdoors_in_machine/)
 - [[R] Composer, a large &lpar;5 billion parameters&rpar; controllable diffusion model trained on billions of &lpar;text, image&rpar; pairs, comparable to SD + controlnet](https://www.reddit.com/r/MachineLearning/comments/11bwn2m/r_composer_a_large_5_billion_parameters/)
 <!-- REDDIT-ML:END -->
