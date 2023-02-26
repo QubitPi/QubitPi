@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1629930049137770497)
+- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️ https://memgraph.com/blog/wasm-a-tour-of-the-webassembly-eco...](https://twitter.com/memgraphdb/status/1629906140522848256)
 - [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1629892048059760641)
 - [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1629885505767628808)
 - [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1629847250972073985)
-- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1629845743648358400)
-- [Check out our blog post 📰 Exploring the European Gas Pipeline Network with Graph Analytics ➡️ https://memgraph.com/blog/gas-pipelines-in-europe](https://twitter.com/memgraphdb/status/1629837940418281474)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
