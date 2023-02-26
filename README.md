@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [N] VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion.](https://www.reddit.com/r/MachineLearning/comments/11c8pqz/r_n_voxformer_sparse_voxel_transformer_for/)
 - [[R] The Invention of Large Language Models &lpar;LLMs&rpar; - A brief history 🧵](https://www.reddit.com/r/MachineLearning/comments/11c7v4w/r_the_invention_of_large_language_models_llms_a/)
 - [[D] Interpretability in vision transformers without class tokens?](https://www.reddit.com/r/MachineLearning/comments/11c4q1k/d_interpretability_in_vision_transformers_without/)
 - [[P] [N] Democratizing the chatGPT technology through a Q&amp;A game](https://www.reddit.com/r/MachineLearning/comments/11c1hzc/p_n_democratizing_the_chatgpt_technology_through/)
 - [[D] Navigating Academic Conferences](https://www.reddit.com/r/MachineLearning/comments/11c0wvh/d_navigating_academic_conferences/)
-- [[R] Planting Undetectable Backdoors in Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/11bx3fj/r_planting_undetectable_backdoors_in_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
