@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [You Won’t Believe What This Low-Subscribed YouTuber Revealed About ‘AI Superpowers’ - The Book That Will Blow Your Mind! [D]](https://www.reddit.com/r/MachineLearning/comments/11cpt98/you_wont_believe_what_this_lowsubscribed_youtuber/)
+- [[D] Do I have to present at Big AI Conference to put a dent in the science of ML](https://www.reddit.com/r/MachineLearning/comments/11cplj9/d_do_i_have_to_present_at_big_ai_conference_to/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
 - [[R] Large language models generate functional protein sequences across diverse families](https://www.reddit.com/r/MachineLearning/comments/11ckcxv/r_large_language_models_generate_functional/)
 - [[D] Has anyone built a absa system?](https://www.reddit.com/r/MachineLearning/comments/11c9lsv/d_has_anyone_built_a_absa_system/)
-- [[R] [N] VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion.](https://www.reddit.com/r/MachineLearning/comments/11c8pqz/r_n_voxformer_sparse_voxel_transformer_for/)
-- [[D] Interpretability in vision transformers without class tokens?](https://www.reddit.com/r/MachineLearning/comments/11c4q1k/d_interpretability_in_vision_transformers_without/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
