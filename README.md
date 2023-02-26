@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Question about training LSTM on pre and post COVID data](https://www.reddit.com/r/MachineLearning/comments/11cts1r/r_question_about_training_lstm_on_pre_and_post/)
 - [[P] A library for creating huge Sqlite indexes at breakneck speeds](https://www.reddit.com/r/MachineLearning/comments/11csck6/p_a_library_for_creating_huge_sqlite_indexes_at/)
 - [[D] Which AI models are available to remaster old video to higher quality?](https://www.reddit.com/r/MachineLearning/comments/11crj99/d_which_ai_models_are_available_to_remaster_old/)
 - [You Won’t Believe What This Low-Subscribed YouTuber Revealed About ‘AI Superpowers’ - The Book That Will Blow Your Mind! [D]](https://www.reddit.com/r/MachineLearning/comments/11cpt98/you_wont_believe_what_this_lowsubscribed_youtuber/)
 - [[D] Do I have to present at Big AI Conference to put a dent in the science of ML](https://www.reddit.com/r/MachineLearning/comments/11cplj9/d_do_i_have_to_present_at_big_ai_conference_to/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
