@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
 - [[D] Regression model for prediction with low bias and low variance](https://www.reddit.com/r/MachineLearning/comments/11ckmse/d_regression_model_for_prediction_with_low_bias/)
 - [[R] Large language models generate functional protein sequences across diverse families](https://www.reddit.com/r/MachineLearning/comments/11ckcxv/r_large_language_models_generate_functional/)
 - [[D] What do you think of OpenAI&#39;s path towards AGI?](https://www.reddit.com/r/MachineLearning/comments/11cjmrt/d_what_do_you_think_of_openais_path_towards_agi/)
 - [[D] Has anyone built a absa system?](https://www.reddit.com/r/MachineLearning/comments/11c9lsv/d_has_anyone_built_a_absa_system/)
-- [[R] [N] VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion.](https://www.reddit.com/r/MachineLearning/comments/11c8pqz/r_n_voxformer_sparse_voxel_transformer_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
