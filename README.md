@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1630162074499268612)
+- [Check out our blog post 📰 Batch processing vs stream processing ➡️ https://memgraph.com/blog/batch-processing-vs-stream-processing #memgraph #gra...](https://twitter.com/memgraphdb/status/1630156289807351815)
+- [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️ https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #memgraph #graphd...](https://twitter.com/memgraphdb/status/1630144208374833154)
 - [🚀 If a social network or a search engine are not the products you are developing, check out how you can utilize PageRank in various other use cases...](https://twitter.com/memgraphdb/status/1630126844849659904)
 - [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters. These include: DISTIN...](https://twitter.com/memgraphdb/status/1630105705800671232)
-- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️ https://memgraph.com/blog/running-memgraph-with-python #memgraph...](https://twitter.com/memgraphdb/status/1630100924692680704)
-- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️ https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding...](https://twitter.com/memgraphdb/status/1630091362421940224)
-- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1630072485759660033)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
