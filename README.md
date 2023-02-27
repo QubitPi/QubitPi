@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️ https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding...](https://twitter.com/memgraphdb/status/1630091362421940224)
-- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1630072485759660033)
 - [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1629930049137770497)
 - [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️ https://memgraph.com/blog/wasm-a-tour-of-the-webassembly-eco...](https://twitter.com/memgraphdb/status/1629906140522848256)
 - [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1629892048059760641)
+- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1629885505767628808)
+- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1629847250972073985)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
