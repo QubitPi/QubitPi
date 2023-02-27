@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767225637673893894><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e5f1dc5e620b48fcf8d2a39696339300401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的资源下载进度，减少资源下载...](https://t.bilibili.com/767206675397476401)
-- [《原神》3.5版本「风花的呼吸」更新维护预告](https://t.bilibili.com/767195422584209447)
-- [#必胜客原神联动# #必胜邀约寻珍之旅#必胜客×原神联动周边套餐预购即将于明日9:00开启，晚间场将于19:00开启，一起分享美味吧~](https://t.bilibili.com/766952018194464784)
-- [#原神# #原神3.5# 旅行者们好~今天将为各位旅行者介绍的是在3.5版本中的全新武器，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/766847513049169926)
-- [互动抽奖 #原神# #白术# #遵生合和# ▌遵生合和 · 白术 生老三千疾，何处可问医 ========== 「白先生，有心事，从来都不说…明明很讨厌『死亡』，却总在试探『...](https://t.bilibili.com/766163329083244582)
+- [互动抽奖 #原神# #赛诺# 《原神》EP - 掬尘熠金之梦 现已发布~ https://www.bilibili.com/video/BV1ys4y1j76C 掬起一捧沙，每一粒都如同黄金的美梦； 安度一夜梦...](https://t.bilibili.com/767225637673893894)
+- [#原神# 旅行者们好呀~3.5版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/767221231040593937)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「双手剑·苇海信标」「长柄武器·赤沙之杖」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/767219929690669092)
+- [#原神# #赛诺# #雳裁冥昭# 亲爱的旅行者，「雳裁冥昭」活动祈愿即将开启，「缄秘的裁遣·赛诺&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/767219547440676901)
+- [#原神# #迪希雅# #烈阳烁金# 亲爱的旅行者，「烈阳烁金」活动祈愿即将开启，「炽鬃之狮·迪希雅&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与...](https://t.bilibili.com/767219371319754785)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
