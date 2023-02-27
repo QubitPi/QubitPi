@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Ser más eficientes no implica reducir gastos](https://www.scrum.org/resources/blog/ser-mas-eficientes-no-implica-reducir-gastos)
 - [Club Scrum: What Are You Doing all Day, ChatGPT — as a Scrum Master?](https://www.scrum.org/resources/blog/club-scrum-what-are-you-doing-all-day-chatgpt-scrum-master)
 - [3 Scrum-Erkrankungen, bei denen du als Scrum Master eine Null-Toleranz-Strategie fahren solltest](https://www.scrum.org/resources/blog/3-scrum-erkrankungen-bei-denen-du-als-scrum-master-eine-null-toleranz-strategie)
 - [Mi equipo no quiere participar en una daily Scrum ¿que hago?](https://www.scrum.org/resources/blog/mi-equipo-no-quiere-participar-en-una-daily-scrum-que-hago)
 - [Mi equipo Scrum quiere usar inteligencia artificial: ¡Hagamos experimentos!](https://www.scrum.org/resources/blog/mi-equipo-scrum-quiere-usar-inteligencia-artificial-hagamos-experimentos)
-- [Los desafíos del Scrum Master](https://www.scrum.org/resources/blog/los-desafios-del-scrum-master)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
