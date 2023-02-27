@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️ https://memgraph.com/blog/gqlalchemy-streams-triggers #memgraph #grap...](https://twitter.com/memgraphdb/status/1630200329659711488)
+- [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1630180197264654338)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1630162074499268612)
 - [Check out our blog post 📰 Batch processing vs stream processing ➡️ https://memgraph.com/blog/batch-processing-vs-stream-processing #memgraph #gra...](https://twitter.com/memgraphdb/status/1630156289807351815)
 - [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️ https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #memgraph #graphd...](https://twitter.com/memgraphdb/status/1630144208374833154)
-- [🚀 If a social network or a search engine are not the products you are developing, check out how you can utilize PageRank in various other use cases...](https://twitter.com/memgraphdb/status/1630126844849659904)
-- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters. These include: DISTIN...](https://twitter.com/memgraphdb/status/1630105705800671232)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
