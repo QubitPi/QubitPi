@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] More stable alternative to wandb?](https://www.reddit.com/r/MachineLearning/comments/11dk7nt/d_more_stable_alternative_to_wandb/)
 - [[D] What do you think of this AI ethics professor suggestion to force into law the requirement of a license to use AI like chatGPT since it&#39;s &quot;potentially dangerous&quot;?](https://www.reddit.com/r/MachineLearning/comments/11djsdo/d_what_do_you_think_of_this_ai_ethics_professor/)
 - [[D] ML engineer job stressful?](https://www.reddit.com/r/MachineLearning/comments/11diaxj/d_ml_engineer_job_stressful/)
 - [[D] CVPR Rebuttal scores are out!](https://www.reddit.com/r/MachineLearning/comments/11dh7pp/d_cvpr_rebuttal_scores_are_out/)
 - [[P] Built my first ever open-source project](https://www.reddit.com/r/MachineLearning/comments/11dgxl1/p_built_my_first_ever_opensource_project/)
-- [[D] Artificial intelligence &lpar;AI&rpar; - The system needs new structures - Construction 2](https://www.reddit.com/r/MachineLearning/comments/11delv7/d_artificial_intelligence_ai_the_system_needs_new/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
