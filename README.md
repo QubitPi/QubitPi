@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/766952018194464784><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5c6817e1c12eb3246b9e3f1374122ee2551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767206675397476401><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a9e0b712eeaa964d4cc87d0b3d917b47401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#必胜客原神联动# #必胜邀约寻珍之旅#必胜客×原神联动周边套餐预购即将于明日9:00开启，晚间场将于19:00开启，一起分享美味吧~](https://t.bilibili.com/766952018194464784)
