@@ -301,8 +301,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Filtering noisy training dataset using feedback from test-set](https://www.reddit.com/r/MachineLearning/comments/11dofqw/d_filtering_noisy_training_dataset_using_feedback/)
 - [[R] [P] SPEAR-TTS is a multi-speaker TTS that can be trained with only 15 min of single-speaker parallel data.](https://www.reddit.com/r/MachineLearning/comments/11dls9f/r_p_speartts_is_a_multispeaker_tts_that_can_be/)
 - [[D] More stable alternative to wandb?](https://www.reddit.com/r/MachineLearning/comments/11dk7nt/d_more_stable_alternative_to_wandb/)
-- [[D] What do you think of this AI ethics professor suggestion to force into law the requirement of a license to use AI like chatGPT since it&#39;s &quot;potentially dangerous&quot;?](https://www.reddit.com/r/MachineLearning/comments/11djsdo/d_what_do_you_think_of_this_ai_ethics_professor/)
 - [[D] CVPR Rebuttal scores are out!](https://www.reddit.com/r/MachineLearning/comments/11dh7pp/d_cvpr_rebuttal_scores_are_out/)
+- [[P] Built my first ever open-source project](https://www.reddit.com/r/MachineLearning/comments/11dgxl1/p_built_my_first_ever_opensource_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
