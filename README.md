@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Mi equipo Scrum quiere usar inteligencia artificial: ¡Hagamos experimentos!](https://www.scrum.org/resources/blog/mi-equipo-scrum-quiere-usar-inteligencia-artificial-hagamos-experimentos)
 - [Los desafíos del Scrum Master](https://www.scrum.org/resources/blog/los-desafios-del-scrum-master)
 - [¿Cómo se asegura un equipo Scrum de que su Definition of Done está completa?](https://www.scrum.org/resources/blog/como-se-asegura-un-equipo-scrum-de-que-su-definition-done-esta-completa)
 - [How Facilitation is Key to Effective Scrum Events](https://www.scrum.org/resources/blog/how-facilitation-key-effective-scrum-events)
 - [Improve your team&#39;s concern for quality!](https://www.scrum.org/resources/blog/improve-your-teams-concern-quality)
-- [How the Developers can help raise Transparency &lpar;10&rpar;](https://www.scrum.org/resources/blog/how-developers-can-help-raise-transparency-10)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
