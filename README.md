@@ -301,8 +301,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] In the paper : Latent Multi-task Architecture Learning &lpar;https://arxiv.org/abs/1705.08142&rpar;, how did the authors come up with the following calculation ?](https://www.reddit.com/r/MachineLearning/comments/11cwipe/d_in_the_paper_latent_multitask_architecture/)
 - [[P] Open Source Project Bluemist](https://www.reddit.com/r/MachineLearning/comments/11cvfty/p_open_source_project_bluemist/)
 - [[R] Question about training LSTM on pre and post COVID data](https://www.reddit.com/r/MachineLearning/comments/11cts1r/r_question_about_training_lstm_on_pre_and_post/)
-- [[P] A library for creating huge Sqlite indexes at breakneck speeds](https://www.reddit.com/r/MachineLearning/comments/11csck6/p_a_library_for_creating_huge_sqlite_indexes_at/)
-- [[D] Which AI models are available to remaster old video to higher quality?](https://www.reddit.com/r/MachineLearning/comments/11crj99/d_which_ai_models_are_available_to_remaster_old/)
+- [[D] Do I have to present at Big AI Conference to put a dent in the science of ML](https://www.reddit.com/r/MachineLearning/comments/11cplj9/d_do_i_have_to_present_at_big_ai_conference_to/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
