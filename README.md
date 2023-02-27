@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @st3llasia did it again! 🎉 Her latest book covers new features of the Neo4j’s #GraphDataScience library, including its handy Python client and ...](https://twitter.com/neo4j/status/1630281722066509829)
 - [Set up the newest Neo4j and AWS Partner Solution🎉 Neo4j’s AWS Partner Solution for AWS is a quick and easy way to deploy a fully-managed Neo4j clu...](https://twitter.com/neo4j/status/1630236437894373376)
 - [RT William Lyon: [new blog post] 10 Things We Learned In Full Stack GraphQL Book Club #GraphQL #Neo4j https://dev.to/lyonwj/10-things-we-learned-in-fu...](https://twitter.com/lyonwj/status/1630232502010019841)
 - [GraphSummit 2022 was amazing ... but wait to see what&#39;s coming this year!💥 Check out the dates/cities for March &lpar;more coming soon!&rpar; 14 March --&gt; Du...](https://twitter.com/neo4j/status/1630183621213536260)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1LyxBqjqRPMJN](https://twitter.com/neo4j/status/1630126891930890240)
-- [Time to re-read this article: &quot;Neo4j Data Access for Your .NET Core C# Microservice&quot; Read Chintan Desai&#39;s example of a Neo4j-based Microservice &lpar;Web A...](https://twitter.com/neo4j/status/1629913207375634436)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
