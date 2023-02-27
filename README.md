@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ML engineer job stressful?](https://www.reddit.com/r/MachineLearning/comments/11diaxj/d_ml_engineer_job_stressful/)
 - [[D] CVPR Rebuttal scores are out!](https://www.reddit.com/r/MachineLearning/comments/11dh7pp/d_cvpr_rebuttal_scores_are_out/)
 - [[P] Built my first ever open-source project](https://www.reddit.com/r/MachineLearning/comments/11dgxl1/p_built_my_first_ever_opensource_project/)
 - [[D] Artificial intelligence &lpar;AI&rpar; - The system needs new structures - Construction 2](https://www.reddit.com/r/MachineLearning/comments/11delv7/d_artificial_intelligence_ai_the_system_needs_new/)
 - [Autonomous parking using reinforcement learning in Unity [P]](https://www.reddit.com/r/MachineLearning/comments/11ddxgz/autonomous_parking_using_reinforcement_learning/)
-- [[Q][D] correct way of averaging results](https://www.reddit.com/r/MachineLearning/comments/11ddwet/qd_correct_way_of_averaging_results/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
