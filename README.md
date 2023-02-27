@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 If a social network or a search engine are not the products you are developing, check out how you can utilize PageRank in various other use cases...](https://twitter.com/memgraphdb/status/1630126844849659904)
+- [🎓 #Learn #Cypher with #Memgraph Aside from clauses, there is a number of keywords that should be styled with capital letters. These include: DISTIN...](https://twitter.com/memgraphdb/status/1630105705800671232)
+- [Check out our blog post 📰 How to manage Memgraph #Docker instances in #Python ➡️ https://memgraph.com/blog/running-memgraph-with-python #memgraph...](https://twitter.com/memgraphdb/status/1630100924692680704)
 - [Check out our blog post 📰 Graph Algorithms Cheat Sheet For Coding Interviews ➡️ https://memgraph.com/blog/graph-algorithms-cheat-sheet-for-coding...](https://twitter.com/memgraphdb/status/1630091362421940224)
 - [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1630072485759660033)
-- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1629930049137770497)
-- [Check out our blog post 📰 #WASM All Things - A Tour of the #WebAssembly Ecosystem ➡️ https://memgraph.com/blog/wasm-a-tour-of-the-webassembly-eco...](https://twitter.com/memgraphdb/status/1629906140522848256)
-- [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1629892048059760641)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
