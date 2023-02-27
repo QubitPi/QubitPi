@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] In the paper : Latent Multi-task Architecture Learning &lpar;https://arxiv.org/abs/1705.08142&rpar;, how did the authors come up with the following calculation ?](https://www.reddit.com/r/MachineLearning/comments/11cwipe/d_in_the_paper_latent_multitask_architecture/)
-- [[P] Open Source Project Bluemist](https://www.reddit.com/r/MachineLearning/comments/11cvfty/p_open_source_project_bluemist/)
-- [[R] Question about training LSTM on pre and post COVID data](https://www.reddit.com/r/MachineLearning/comments/11cts1r/r_question_about_training_lstm_on_pre_and_post/)
-- [[D] Do I have to present at Big AI Conference to put a dent in the science of ML](https://www.reddit.com/r/MachineLearning/comments/11cplj9/d_do_i_have_to_present_at_big_ai_conference_to/)
+- [[P] [D] What is a simplistic but highly visual way to demonstrate a conversational language model?](https://www.reddit.com/r/MachineLearning/comments/11cwipp/p_d_what_is_a_simplistic_but_highly_visual_way_to/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
+- [[R] Large language models generate functional protein sequences across diverse families](https://www.reddit.com/r/MachineLearning/comments/11ckcxv/r_large_language_models_generate_functional/)
+- [[R] [N] VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion.](https://www.reddit.com/r/MachineLearning/comments/11c8pqz/r_n_voxformer_sparse_voxel_transformer_for/)
+- [[D] Interpretability in vision transformers without class tokens?](https://www.reddit.com/r/MachineLearning/comments/11c4q1k/d_interpretability_in_vision_transformers_without/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
