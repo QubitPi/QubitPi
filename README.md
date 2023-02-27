@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Machine learning Bachelor thesis](https://www.reddit.com/r/MachineLearning/comments/11d7sjl/r_machine_learning_bachelor_thesis/)
 - [[N] New 1.0 release of Deep Graph Library &lpar;DGL&rpar;](https://www.reddit.com/r/MachineLearning/comments/11d5jxl/n_new_10_release_of_deep_graph_library_dgl/)
 - [[D] Is RL dead/worth researching these days?](https://www.reddit.com/r/MachineLearning/comments/11d4ka5/d_is_rl_deadworth_researching_these_days/)
 - [[P] [D] What is a simplistic but highly visual way to demonstrate a conversational language model?](https://www.reddit.com/r/MachineLearning/comments/11cwipp/p_d_what_is_a_simplistic_but_highly_visual_way_to/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11ckopj/d_simple_questions_thread/)
-- [[R] Large language models generate functional protein sequences across diverse families](https://www.reddit.com/r/MachineLearning/comments/11ckcxv/r_large_language_models_generate_functional/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
