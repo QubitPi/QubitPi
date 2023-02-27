@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Basic autodiff library for scalar values in C](https://www.reddit.com/r/MachineLearning/comments/11ddohk/p_basic_autodiff_library_for_scalar_values_in_c/)
 - [[D] Training a UNet-like architecture for semantic segmentation with 200 outcome classes.](https://www.reddit.com/r/MachineLearning/comments/11dd59q/d_training_a_unetlike_architecture_for_semantic/)
 - [[R] Initializing k-means with Ward&#39;s method/HCA](https://www.reddit.com/r/MachineLearning/comments/11dc8ib/r_initializing_kmeans_with_wards_methodhca/)
 - [[Discussion] Can you use a model trained on tweets/product reviews to do sentiment analysis on IT support tickets?](https://www.reddit.com/r/MachineLearning/comments/11dbb05/discussion_can_you_use_a_model_trained_on/)
 - [[R] Machine learning Bachelor thesis](https://www.reddit.com/r/MachineLearning/comments/11d7sjl/r_machine_learning_bachelor_thesis/)
-- [[N] New 1.0 release of Deep Graph Library &lpar;DGL&rpar;](https://www.reddit.com/r/MachineLearning/comments/11d5jxl/n_new_10_release_of_deep_graph_library_dgl/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
