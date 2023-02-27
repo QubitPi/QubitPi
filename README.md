@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1630252066030354435)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1630228013051723778)
 - [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ https:...](https://twitter.com/memgraphdb/status/1630209640226082817)
 - [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️ https://memgraph.com/blog/gqlalchemy-streams-triggers #memgraph #grap...](https://twitter.com/memgraphdb/status/1630200329659711488)
 - [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1630180197264654338)
+- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1630162074499268612)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
