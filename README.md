@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767206675397476401><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a9e0b712eeaa964d4cc87d0b3d917b47401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767225637673893894><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e5f1dc5e620b48fcf8d2a39696339300401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的资源下载进度，减少资源下载...](https://t.bilibili.com/767206675397476401)
