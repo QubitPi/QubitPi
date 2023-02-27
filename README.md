@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1630228013051723778)
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ https:...](https://twitter.com/memgraphdb/status/1630209640226082817)
 - [Check out our blog post 📰 Streaming and trigger support with #GQLAlchemy ➡️ https://memgraph.com/blog/gqlalchemy-streams-triggers #memgraph #grap...](https://twitter.com/memgraphdb/status/1630200329659711488)
 - [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1630180197264654338)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1630162074499268612)
-- [Check out our blog post 📰 Batch processing vs stream processing ➡️ https://memgraph.com/blog/batch-processing-vs-stream-processing #memgraph #gra...](https://twitter.com/memgraphdb/status/1630156289807351815)
-- [Check out our blog post 📰 #Dynamic #Pagerank on Streaming Data ➡️ https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #memgraph #graphd...](https://twitter.com/memgraphdb/status/1630144208374833154)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
