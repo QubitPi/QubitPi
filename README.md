@@ -489,11 +489,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
 
 <!-- JANUSGRAPH-TWITTER:START -->
+- [JanusGraph 0.6.3 has been released recently. This is a maintenance release that includes a lot of dependency updates, but also some bug fixes https://...](https://twitter.com/JanusGraph/status/1630601966840696836)
 - [As a preparation of the upcoming 1.0.0 release, we have just deployed the release candidate 1.0.0 RC1: https://lists.lfaidata.foundation/g/janusgraph-...](https://twitter.com/JanusGraph/status/1600822620542451712)
 - [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration https://resources.scylladb.com/scylladb-essent...](https://twitter.com/ScyllaDB/status/1565384501559279616)
 - [RT G.V&lpar;&rpar; - Gremlin Graph Database IDE: G.V&lpar;&rpar; 0.9.25 is out! Highlights: - Gremlin Query Debugging for all 🪲 - Query Editor UX Improvements - Variou...](https://twitter.com/gdotv_ltd/status/1561777125383966726)
 - [RT ScyllaDB: Learn about the broader #ScyllaDB ecosystem: #ApacheSpark, #ApacheKafka, @datadoghq @iota Chronicle, @JanusGraph @opennms Newts &amp; more �...](https://twitter.com/ScyllaDB/status/1561775885463818241)
-- [RT Anant Corporation: In Data Engineer&#39;s Lunch #65, Ryan Quey will discuss the Graph Notebook tool put out by the @AWS team on @JanusGraph. https://bu...](https://twitter.com/anantcorp/status/1546947807055077378)
 <!-- JANUSGRAPH-TWITTER:END -->
 
 <h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
