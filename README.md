@@ -301,8 +301,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] People who cannot afford hardware for ML/DL, what alternatives do you use?](https://www.reddit.com/r/MachineLearning/comments/11edkc4/d_people_who_cannot_afford_hardware_for_mldl_what/)
 - [[R] Microsoft introduce Kosmos-1, a Multimodal Large Language Model &lpar;MLLM&rpar; that can perceive general modalities, learn in context &lpar;i.e., few-shot&rpar;, and follow instructions &lpar;i.e., zero-shot&rpar;](https://www.reddit.com/r/MachineLearning/comments/11e4w40/r_microsoft_introduce_kosmos1_a_multimodal_large/)
 - [[R] [P] Inseq: An Interpretability Toolkit for Sequence Generation Models](https://www.reddit.com/r/MachineLearning/comments/11e0e0i/r_p_inseq_an_interpretability_toolkit_for/)
-- [[D] Training transformer on RTX2060](https://www.reddit.com/r/MachineLearning/comments/11dzfvf/d_training_transformer_on_rtx2060/)
 - [[R] [P] SPEAR-TTS is a multi-speaker TTS that can be trained with only 15 min of single-speaker parallel data.](https://www.reddit.com/r/MachineLearning/comments/11dls9f/r_p_speartts_is_a_multispeaker_tts_that_can_be/)
+- [[D] More stable alternative to wandb?](https://www.reddit.com/r/MachineLearning/comments/11dk7nt/d_more_stable_alternative_to_wandb/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
