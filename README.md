@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1630468092655542272)
 - [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1630457522321498115)
 - [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. https://memgraph.com/blog/inferring-knowledge...](https://twitter.com/memgraphdb/status/1630449972884766721)
 - [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1630442927980699650)
 - [🎓 Learn how you can easily analyze data inside Memgraph for cybersecurity use cases, since most of the use cases from that area have a network-like...](https://twitter.com/memgraphdb/status/1630292434453159936)
+- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1630268527792865280)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
