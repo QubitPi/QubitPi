@@ -275,11 +275,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Datasets at your fingertips in Google Search](http://ai.googleblog.com/2023/02/datasets-at-your-fingertips-in-google.html)
 - [Google Research, 2022 &amp; beyond: Research community engagement](http://ai.googleblog.com/2023/02/google-research-2022-beyond-research.html)
 - [A vision-language approach for foundational UI understanding](http://ai.googleblog.com/2023/02/a-vision-language-approach-for.html)
 - [Pre-training generalist agents using offline reinforcement learning](http://ai.googleblog.com/2023/02/pre-training-generalist-agents-using.html)
 - [Google Research, 2022 &amp; beyond: Health](http://ai.googleblog.com/2023/02/google-research-2022-beyond-health.html)
-- [Suppressing quantum errors by scaling a surface code logical qubit](http://ai.googleblog.com/2023/02/suppressing-quantum-errors-by-scaling.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
