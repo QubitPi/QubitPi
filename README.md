@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which is a better course to pursue a Machine Learning Software/Research Engineer role at industry?](https://www.reddit.com/r/MachineLearning/comments/11elzph/d_which_is_a_better_course_to_pursue_a_machine/)
 - [[R] Hyena Hierarchy: Towards Larger Convolutional Language Models](https://www.reddit.com/r/MachineLearning/comments/11ekhni/r_hyena_hierarchy_towards_larger_convolutional/)
 - [[D] Running a trained k-means clustering on new data with maximum number of iterations equal to zero or not?](https://www.reddit.com/r/MachineLearning/comments/11eg41z/d_running_a_trained_kmeans_clustering_on_new_data/)
 - [[Discussion] Open Source beats Google&#39;s AutoML for Time series](https://www.reddit.com/r/MachineLearning/comments/11effj0/discussion_open_source_beats_googles_automl_for/)
 - [[R] SMART: Self-supervised Multi-task pretrAining with contRol Transformer - A generalized pretraining framework for diverse control tasks](https://www.reddit.com/r/MachineLearning/comments/11eervy/r_smart_selfsupervised_multitask_pretraining_with/)
-- [[P] NoisyNet for Exploration](https://www.reddit.com/r/MachineLearning/comments/11ee21x/p_noisynet_for_exploration/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
