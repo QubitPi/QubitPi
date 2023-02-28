@@ -418,11 +418,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Team Avocado is looking for a new Solution Architect to join their ranks in Israel! 🥑 This is your chance to join a vibrant team and help shape the...](https://twitter.com/arangodb/status/1630674216059039746)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1630538323864289281)
 - [Jump-start your week by signing up for the ArangoDB Certification Exam. Show off your expertise by acing the exam and receiving all the recognition th...](https://twitter.com/arangodb/status/1630311832945582081)
 - [Welcome to March! Get the most out of the month by participating in our upcoming webinar with Solution Architect Victor Moey. Learn how ArangoDB&#39;s Que...](https://twitter.com/arangodb/status/1630175944731230208)
 - [Don&#39;t miss out! Take advantage of our free 14-day trial of the ArangoGraph Insights Platform. Get started now and explore what the cloud has to offer ...](https://twitter.com/arangodb/status/1629858844821053440)
-- [Visit the link to participate in Ian Cadieu&#39;s presentation and learn how ArangoDB can be utilized for global supply chain management through a knowled...](https://twitter.com/arangodb/status/1629587056828489733)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
