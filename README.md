@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Site Reliability Engineering to optimise resources, resulting in cost savings for the company it is possible. How? 🤔 Read the full story now and le...](https://twitter.com/neo4j/status/1630644187317059618)
 - [🤓Learn 👭🏾Network 💡Get Inspired GraphSummit is starting soon, and we are very happy to share what to expect from them. See you there? https...](https://twitter.com/neo4j/status/1630613969030332427)
 - [Neo4j Live: Infrastructure Mapping https://twitter.com/i/broadcasts/1yNGaNPbQqrJj](https://twitter.com/neo4j/status/1630595285159378950)
 - [✅70% reduction in the time it took to triage legal documents. ✅40% reduction in unplanned downtime. Learn how @arcurve improves productivity and bet...](https://twitter.com/neo4j/status/1630561031406731265)
 - [Re @st3llasia did it again! 🎉 Her latest book covers new features of the Neo4j’s #GraphDataScience library, including its handy Python client and ...](https://twitter.com/neo4j/status/1630281722066509829)
+- [Set up the newest Neo4j and AWS Partner Solution🎉 Neo4j’s AWS Partner Solution for AWS is a quick and easy way to deploy a fully-managed Neo4j clu...](https://twitter.com/neo4j/status/1630236437894373376)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
