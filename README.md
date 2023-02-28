@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767592067104768036><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9628e644cddd849d2b82b5676341a37d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #迪希雅# 《原神》角色演示-「迪希雅：炎狮灼烁」现已发布~ https://www.bilibili.com/video/BV1Fo4y1a7Q9 狮鬃狮尾，炎光灼灼。 赤金赤沙，烈...](https://t.bilibili.com/767592067104768036)
+- [互动抽奖 #原神# #班尼特# #生日快乐# 老爹们说在生日前几天去野外冒险，没准能找到不错的宝藏。 但是我出来好一会儿了，一个宝箱的影子都没见着…你呢，也是出...](https://t.bilibili.com/767589975459889225)
+- [《原神》角色演示-「迪希雅：炎狮灼烁」](https://t.bilibili.com/767589696312180756)
 - [互动抽奖 #原神# #赛诺# 《原神》EP - 掬尘熠金之梦 现已发布~ https://www.bilibili.com/video/BV1ys4y1j76C 掬起一捧沙，每一粒都如同黄金的美梦； 安度一夜梦...](https://t.bilibili.com/767225637673893894)
 - [#原神# 旅行者们好呀~3.5版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/767221231040593937)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「双手剑·苇海信标」「长柄武器·赤沙之杖」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/767219929690669092)
-- [#原神# #赛诺# #雳裁冥昭# 亲爱的旅行者，「雳裁冥昭」活动祈愿即将开启，「缄秘的裁遣·赛诺&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/767219547440676901)
-- [#原神# #迪希雅# #烈阳烁金# 亲爱的旅行者，「烈阳烁金」活动祈愿即将开启，「炽鬃之狮·迪希雅&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与...](https://t.bilibili.com/767219371319754785)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
