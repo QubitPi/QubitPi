@@ -299,10 +299,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] Microsoft introduce Kosmos-1, a Multimodal Large Language Model &lpar;MLLM&rpar; that can perceive general modalities, learn in context &lpar;i.e., few-shot&rpar;, and follow instructions &lpar;i.e., zero-shot&rpar;](https://www.reddit.com/r/MachineLearning/comments/11e4w40/r_microsoft_introduce_kosmos1_a_multimodal_large/)
-- [[D] Is there somthing like, a long-term customed personality version of ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/11e3c44/d_is_there_somthing_like_a_longterm_customed/)
-- [[D] What is the most &quot;opaque&quot; popular machine learning model in 2023?](https://www.reddit.com/r/MachineLearning/comments/11e22kg/d_what_is_the_most_opaque_popular_machine/)
-- [[D] Which Text to speech is this?](https://www.reddit.com/r/MachineLearning/comments/11e1fwj/d_which_text_to_speech_is_this/)
 - [[R] [P] Inseq: An Interpretability Toolkit for Sequence Generation Models](https://www.reddit.com/r/MachineLearning/comments/11e0e0i/r_p_inseq_an_interpretability_toolkit_for/)
+- [[D] Training transformer on RTX2060](https://www.reddit.com/r/MachineLearning/comments/11dzfvf/d_training_transformer_on_rtx2060/)
+- [[R] [P] SPEAR-TTS is a multi-speaker TTS that can be trained with only 15 min of single-speaker parallel data.](https://www.reddit.com/r/MachineLearning/comments/11dls9f/r_p_speartts_is_a_multispeaker_tts_that_can_be/)
+- [[D] More stable alternative to wandb?](https://www.reddit.com/r/MachineLearning/comments/11dk7nt/d_more_stable_alternative_to_wandb/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
