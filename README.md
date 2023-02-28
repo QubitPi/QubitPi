@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767225637673893894><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e5f1dc5e620b48fcf8d2a39696339300401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767592067104768036><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9628e644cddd849d2b82b5676341a37d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #赛诺# 《原神》EP - 掬尘熠金之梦 现已发布~ https://www.bilibili.com/video/BV1ys4y1j76C 掬起一捧沙，每一粒都如同黄金的美梦； 安度一夜梦...](https://t.bilibili.com/767225637673893894)
