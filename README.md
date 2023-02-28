@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] Inseq: An Interpretability Toolkit for Sequence Generation Models](https://www.reddit.com/r/MachineLearning/comments/11e0e0i/r_p_inseq_an_interpretability_toolkit_for/)
 - [[D] Training transformer on RTX2060](https://www.reddit.com/r/MachineLearning/comments/11dzfvf/d_training_transformer_on_rtx2060/)
 - [[P] [D] Ideal Input Formats For DQN Project?](https://www.reddit.com/r/MachineLearning/comments/11dy6qn/p_d_ideal_input_formats_for_dqn_project/)
 - [[P] [R] Neural Network in Fortran!](https://www.reddit.com/r/MachineLearning/comments/11dwt0m/p_r_neural_network_in_fortran/)
 - [[D] Bing copilot slams ‘live chat’ claim by Microsoft](https://www.reddit.com/r/MachineLearning/comments/11dwc9i/d_bing_copilot_slams_live_chat_claim_by_microsoft/)
-- [[R] [P] SPEAR-TTS is a multi-speaker TTS that can be trained with only 15 min of single-speaker parallel data.](https://www.reddit.com/r/MachineLearning/comments/11dls9f/r_p_speartts_is_a_multispeaker_tts_that_can_be/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
