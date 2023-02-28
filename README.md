@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767592067104768036><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9628e644cddd849d2b82b5676341a37d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767620615780696233><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76de0ced861c53b754e7e21c8ccab5e8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #迪希雅# 《原神》角色演示-「迪希雅：炎狮灼烁」现已发布~ https://www.bilibili.com/video/BV1Fo4y1a7Q9 狮鬃狮尾，炎光灼灼。 赤金赤沙，烈...](https://t.bilibili.com/767592067104768036)
