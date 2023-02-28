@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the most &quot;opaque&quot; popular machine learning model in 2023?](https://www.reddit.com/r/MachineLearning/comments/11e22kg/d_what_is_the_most_opaque_popular_machine/)
 - [[D] Which Text to speech is this?](https://www.reddit.com/r/MachineLearning/comments/11e1fwj/d_which_text_to_speech_is_this/)
 - [[R] [P] Inseq: An Interpretability Toolkit for Sequence Generation Models](https://www.reddit.com/r/MachineLearning/comments/11e0e0i/r_p_inseq_an_interpretability_toolkit_for/)
 - [[D] Training transformer on RTX2060](https://www.reddit.com/r/MachineLearning/comments/11dzfvf/d_training_transformer_on_rtx2060/)
 - [[P] [D] Ideal Input Formats For DQN Project?](https://www.reddit.com/r/MachineLearning/comments/11dy6qn/p_d_ideal_input_formats_for_dqn_project/)
-- [[P] [R] Neural Network in Fortran!](https://www.reddit.com/r/MachineLearning/comments/11dwt0m/p_r_neural_network_in_fortran/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
