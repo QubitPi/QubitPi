@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [2023 Superuser Awards Nominations Now Open](https://superuser.openstack.org/articles/2023-superuser-awards-nominations-open/)
 - [VGPU Management by OpenStack Nova and Cyborg | OpenInfra Live Recap](https://superuser.openstack.org/articles/vgpu-management-by-openstack-nova-and-cyborg/)
 - [Software Deployment Options in OpenStack: A Quick Guide](https://superuser.openstack.org/articles/software-deployment-options-in-openstack-a-quick-guide/)
 - [Georgia Cyber Center | An OpenStack Case Study](https://superuser.openstack.org/articles/georgia-cyber-center-an-openstack-case-study/)
 - [Inside Open Infrastructure: The OpenInfra Summit Schedule is Live!](https://superuser.openstack.org/articles/openinfra-newsletter-52-2/)
-- [We Wish You a Happy Year of the Rabbit!](https://superuser.openstack.org/articles/we-wish-you-a-happy-year-of-the-rabbit/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
