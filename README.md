@@ -4,8 +4,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
 <img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/>
 
-Welome to Jack (Jiaqi)'s Tech World
-===================================
+Innovation as Career
+====================
 
 </div>
 
@@ -151,7 +151,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for my employees and for my company. This gives me much less time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach.
 
-Since my blogs were essentially paraphrasing their documentations, why not simply fork their entire documentation and add my notes, if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
+Since my blogs were essentially paraphrasing their documentations, why not simply [fork their entire documentation and add my notes](https://github.com/users/QubitPi/projects/4/), if any, to it? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
