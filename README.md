@@ -524,11 +524,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Brass Birmingham becomes #1 on BoardGameGeek](https://martinfowler.com/articles/brass-brum.html)
 - [Shaky Twitter Two-Factor Authentication Interaction](https://martinfowler.com/articles/202302-twitter-auth.html)
 - [Modularizing React Applications: fixing Shotgun Surgery](https://martinfowler.com/articles/modularizing-react-apps.html#TheShotgunSurgeryProblem)
 - [Retrospectives Antipatterns](https://martinfowler.com/articles/retrospective-antipatterns.html)
 - [Modularizing React Applications: adding a new feature](https://martinfowler.com/articles/modularizing-react-apps.html#NewRequirementDonateToACharity)
-- [An example of modularizing a React application](https://martinfowler.com/articles/modularizing-react-apps.html#IntroductionOfThePaymentFeature)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
