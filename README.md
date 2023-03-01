@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767961387073798194><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/54a2b0c5bfb01092974f702a1329ce93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@丶少桐@一一_一_一_@尼科尔-Nichole等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/767991705225920529)
 - [#原神# #风花的呼吸# 亲爱的旅行者，「风花的呼吸」活动即将开启，参与获得活动专属武器「双手剑·饰铁之花」 。 〓整体玩法时间〓 2023/03/03 10:00 ~ 2023/03/...](https://t.bilibili.com/767961387073798194)
 - [《原神》拾枝杂谈-「迪希雅：热沙的赤情」](https://t.bilibili.com/767960820116095128)
 - [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.5版本内容招募活动「风花的呼吸」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自3月1日起，...](https://t.bilibili.com/767945323869896873)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「双手剑·苇海信标」「长柄武器·赤沙之杖」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/767941256539013127)
-- [#原神# #赛诺# #雳裁冥昭# 亲爱的旅行者，「雳裁冥昭」活动祈愿现已开启，「缄秘的裁遣·赛诺&lpar;雷&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/767941080446402601)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
