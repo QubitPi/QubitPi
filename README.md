@@ -316,7 +316,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Improve the quality of your team&#39;s Retrospective!](https://www.scrum.org/resources/blog/improve-quality-your-teams-retrospective)
+- [Improve the Quality of your Team&#39;s Retrospective!](https://www.scrum.org/resources/blog/improve-quality-your-teams-retrospective)
 - [Using Surveys to Improve Scrum Team Success](https://www.scrum.org/resources/blog/using-surveys-improve-scrum-team-success)
 - [The Seven Archetypes of Organizational Topologies](https://www.scrum.org/resources/blog/seven-archetypes-organizational-topologies)
 - [An introduction to Organizational Topologies](https://www.scrum.org/resources/blog/introduction-organizational-topologies)
