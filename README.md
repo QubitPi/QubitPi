@@ -365,11 +365,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
 - [Blog: Free Katacoda Kubernetes Tutorials Are Shutting Down](https://kubernetes.io/blog/2023/02/14/kubernetes-katacoda-tutorials-stop-from-2023-03-31/)
 - [Blog: k8s.gcr.io Image Registry Will Be Frozen From the 3rd of April 2023](https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/)
 - [Blog: Spotlight on SIG Instrumentation](https://kubernetes.io/blog/2023/02/03/sig-instrumentation-spotlight-2023/)
 - [Blog: Consider All Microservices Vulnerable — And Monitor Their Behavior](https://kubernetes.io/blog/2023/01/20/security-behavior-analysis/)
-- [Blog: Protect Your Mission-Critical Pods From Eviction With PriorityClass](https://kubernetes.io/blog/2023/01/12/protect-mission-critical-pods-priorityclass/)
 <!-- KUBERNETES-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
