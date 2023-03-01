@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1630828969179136001)
+- [🎓 #Memgraph presents graph algorithms: Temporal graph networks 🗒️ The temporal_graph_networks &lpar;TGNs&rpar; are a type of graph neural network &lpar;GNN&rpar; f...](https://twitter.com/memgraphdb/status/1630819911596474368)
 - [Learn how to use @docker Compose to orchestrate your graph application. https://memgraph.com/blog/how-to-orchestrate-your-graph-application-with-docke...](https://twitter.com/memgraphdb/status/1630797263864754177)
 - [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1630650545210785792)
 - [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1630632931898032129)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ https://mem...](https://twitter.com/memgraphdb/status/1630616822180454400)
-- [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1630608518410649609)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
