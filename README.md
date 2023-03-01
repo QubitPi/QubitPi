@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Blueprint: fine-tune &lpar;and serve&rpar; stable diffusion and more... &lpar;FLAN-T5 and Whisper are coming soon&rpar;](https://www.reddit.com/r/MachineLearning/comments/11fbfkb/n_blueprint_finetune_and_serve_stable_diffusion/)
+- [[D] OpenAI introduces ChatGPT and Whisper APIs &lpar;ChatGPT API is 1/10th the cost of GPT-3 API&rpar;](https://www.reddit.com/r/MachineLearning/comments/11fbccz/d_openai_introduces_chatgpt_and_whisper_apis/)
 - [[D] Any open source libraries for Recommender Systems?](https://www.reddit.com/r/MachineLearning/comments/11f9mi0/d_any_open_source_libraries_for_recommender/)
 - [[P] ChatRWKV v2 &lpar;can run RWKV 14B with 3G VRAM&rpar;, RWKV pip package, and finetuning to ctx16K](https://www.reddit.com/r/MachineLearning/comments/11f9k5g/p_chatrwkv_v2_can_run_rwkv_14b_with_3g_vram_rwkv/)
 - [[P] Packpacka - diffusion based photo colorizer](https://www.reddit.com/r/MachineLearning/comments/11f9ive/p_packpacka_diffusion_based_photo_colorizer/)
-- [[D] Useful training datasets?](https://www.reddit.com/r/MachineLearning/comments/11f6ysx/d_useful_training_datasets/)
-- [[D] What are the most known architectures of Text To Image models ?](https://www.reddit.com/r/MachineLearning/comments/11f637p/d_what_are_the_most_known_architectures_of_text/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
