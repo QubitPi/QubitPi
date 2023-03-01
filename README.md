@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Let me share my Proj: ESG AI with webpage Streamlit](https://www.reddit.com/r/MachineLearning/comments/11evzac/p_let_me_share_my_proj_esg_ai_with_webpage/)
 - [[P] [D] AI generated &quot;Peter Griffin Explains the Meme&quot; project, and discussion around the power of open source tools](https://www.reddit.com/r/MachineLearning/comments/11evl09/p_d_ai_generated_peter_griffin_explains_the_meme/)
 - [[D] backprop through beam sampling ?](https://www.reddit.com/r/MachineLearning/comments/11euzja/d_backprop_through_beam_sampling/)
 - [Is there any model that classify singing and speaking? [R]](https://www.reddit.com/r/MachineLearning/comments/11etyex/is_there_any_model_that_classify_singing_and/)
 - [SpikeGPT: 230M-parameter Spiking Neural Network trained to be a language model](https://www.reddit.com/r/MachineLearning/comments/11eqinv/spikegpt_230mparameter_spiking_neural_network/)
-- [[R] Hyena Hierarchy: Towards Larger Convolutional Language Models](https://www.reddit.com/r/MachineLearning/comments/11ekhni/r_hyena_hierarchy_towards_larger_convolutional/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
