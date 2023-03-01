@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Error in Regression training Model for CartPole-v1](https://www.reddit.com/r/MachineLearning/comments/11f5h6r/d_error_in_regression_training_model_for/)
 - [[D] Pretrained model like Resnet that specializes in Grayscale](https://www.reddit.com/r/MachineLearning/comments/11f2dzx/d_pretrained_model_like_resnet_that_specializes/)
 - [[R] ChatGPT failure increase linearly with addition on math problems](https://www.reddit.com/r/MachineLearning/comments/11f29f9/r_chatgpt_failure_increase_linearly_with_addition/)
 - [[R] EvoPrompting: Language models can create novel and effective deep neural architectures. These architectures are also able to outperform those designed by human experts &lpar;with few-shot prompting&rpar;](https://www.reddit.com/r/MachineLearning/comments/11f26ig/r_evoprompting_language_models_can_create_novel/)
 - [[D] Which EC2 instance types do you use for training neural nets?](https://www.reddit.com/r/MachineLearning/comments/11f0zs6/d_which_ec2_instance_types_do_you_use_for/)
+- [[D] Artificial intelligence &lpar;AI&rpar; - the system needs new structures - Construction 3](https://www.reddit.com/r/MachineLearning/comments/11f0oum/d_artificial_intelligence_ai_the_system_needs_new/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
