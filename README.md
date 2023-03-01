@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Graph Data Science Workshops Getting started with Neo4j](https://www.youtube.com/watch?v=Z3mhidWSOBA)
-- [Neo4j Live: Infrastructure Mapping](https://www.youtube.com/watch?v=2F-xx4LcTng)
-- [Weather Data APIs - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=9vbdS5n_ccs)
-- [Neo4j Live: Neo4j VS Code Extension](https://www.youtube.com/watch?v=kSH4eqNARAw)
-- [Neo4j Live: Infrastructure Mapping Trailer #shorts](https://www.youtube.com/watch?v=hfCL-d0qELc)
+- [Uncovering the Power of Relationships: A Neo4j Series](https://www.youtube.com/watch?v=7sPfkgjJhWg)
+- [Neo4j Live: Inspiring Women&#39;s Journeys in Tech #shorts](https://www.youtube.com/watch?v=S32Mx5RG1FA)
+- [Neo4j Live: Inspiring Women&#39;s Journeys in Tech](https://www.youtube.com/watch?v=SXgKJOF55uY)
+- [Going Meta - a series on graphs, semantics and knowledge - Ep14](https://www.youtube.com/watch?v=Aurp3eztRHM)
+- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=KOQscf3hsAk)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
