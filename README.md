@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Packpacka - diffusion based photo colorizer](https://www.reddit.com/r/MachineLearning/comments/11f9ive/p_packpacka_diffusion_based_photo_colorizer/)
 - [[D] Useful training datasets?](https://www.reddit.com/r/MachineLearning/comments/11f6ysx/d_useful_training_datasets/)
 - [[D] What are the most known architectures of Text To Image models ?](https://www.reddit.com/r/MachineLearning/comments/11f637p/d_what_are_the_most_known_architectures_of_text/)
 - [[D] Pretrained model like Resnet that specializes in Grayscale](https://www.reddit.com/r/MachineLearning/comments/11f2dzx/d_pretrained_model_like_resnet_that_specializes/)
 - [[R] ChatGPT failure increase linearly with addition on math problems](https://www.reddit.com/r/MachineLearning/comments/11f29f9/r_chatgpt_failure_increase_linearly_with_addition/)
-- [[R] EvoPrompting: Language models can create novel and effective deep neural architectures. These architectures are also able to outperform those designed by human experts &lpar;with few-shot prompting&rpar;](https://www.reddit.com/r/MachineLearning/comments/11f26ig/r_evoprompting_language_models_can_create_novel/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
