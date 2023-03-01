@@ -469,11 +469,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Are you making an impact in your career? 🙋🏻‍♀️ From space exploration to cancer research, learn how #Neo4j employees make an impact through g...](https://twitter.com/neo4j/status/1630902271549554688)
 - [#WardleyMaps 👉What they are 👉Where they are used 👉Why they are different from graphs. @alexandererdl summarizes the full-length Wardley Mappi...](https://twitter.com/neo4j/status/1630693092859707392)
 - [Use Google Cloud Vertex AI, an ML development platform, and Neo4j, together! 🤓 These technologies can be used to build and deploy graph-based machi...](https://twitter.com/neo4j/status/1630674327891763201)
 - [Site Reliability Engineering to optimise resources, resulting in cost savings for the company it is possible. How? 🤔 Read the full story now and le...](https://twitter.com/neo4j/status/1630644187317059618)
 - [🤓Learn 👭🏾Network 💡Get Inspired GraphSummit is starting soon, and we are very happy to share what to expect from them. See you there? https...](https://twitter.com/neo4j/status/1630613969030332427)
-- [Neo4j Live: Infrastructure Mapping https://twitter.com/i/broadcasts/1yNGaNPbQqrJj](https://twitter.com/neo4j/status/1630595285159378950)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
