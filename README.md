@@ -243,11 +243,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767620615780696233><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76de0ced861c53b754e7e21c8ccab5e8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》3.5版本「风花的呼吸」更新说明](https://t.bilibili.com/767883476368097440)
 - [恭喜@hentily@浅夏ご忆汐@卡戎已眠等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/767620615780696233)
 - [互动抽奖 #原神# #迪希雅# 《原神》角色演示-「迪希雅：炎狮灼烁」现已发布~ https://www.bilibili.com/video/BV1Fo4y1a7Q9 狮鬃狮尾，炎光灼灼。 赤金赤沙，烈...](https://t.bilibili.com/767592067104768036)
 - [互动抽奖 #原神# #班尼特# #生日快乐# 老爹们说在生日前几天去野外冒险，没准能找到不错的宝藏。 但是我出来好一会儿了，一个宝箱的影子都没见着…你呢，也是出...](https://t.bilibili.com/767589975459889225)
 - [《原神》角色演示-「迪希雅：炎狮灼烁」](https://t.bilibili.com/767589696312180756)
-- [互动抽奖 #原神# #赛诺# 《原神》EP - 掬尘熠金之梦 现已发布~ https://www.bilibili.com/video/BV1ys4y1j76C 掬起一捧沙，每一粒都如同黄金的美梦； 安度一夜梦...](https://t.bilibili.com/767225637673893894)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
