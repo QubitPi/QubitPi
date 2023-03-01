@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Improve the quality of your team&#39;s Retrospective!](https://www.scrum.org/resources/blog/improve-quality-your-teams-retrospective)
 - [Using Surveys to Improve Scrum Team Success](https://www.scrum.org/resources/blog/using-surveys-improve-scrum-team-success)
 - [The Seven Archetypes of Organizational Topologies](https://www.scrum.org/resources/blog/seven-archetypes-organizational-topologies)
 - [An introduction to Organizational Topologies](https://www.scrum.org/resources/blog/introduction-organizational-topologies)
 - [Stakeholder Persona Canvas: A Tool For Understanding Stakeholders Better](https://www.scrum.org/resources/blog/stakeholder-persona-canvas-tool-understanding-stakeholders-better)
-- [Five Common Scrum Mistakes That Will Ruin Your Team&#39;s Progress](https://www.scrum.org/resources/blog/five-common-scrum-mistakes-will-ruin-your-teams-progress)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
