@@ -240,7 +240,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767620615780696233><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/76de0ced861c53b754e7e21c8ccab5e8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/767883476368097440><img align='right' src='https://i0.hdslb.com/bfs/article/39b6b8064fadb5b0f9ea1cb067677c86571f3faf.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》3.5版本「风花的呼吸」更新说明](https://t.bilibili.com/767883476368097440)
