@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] OpenAi releases API for ChatGPT, Whisper](https://www.reddit.com/r/MachineLearning/comments/11fgcxi/d_openai_releases_api_for_chatgpt_whisper/)
 - [[D] Blake Lemoine: I Worked on Google&#39;s AI. My Fears Are Coming True.](https://www.reddit.com/r/MachineLearning/comments/11ffg1u/d_blake_lemoine_i_worked_on_googles_ai_my_fears/)
 - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges Michael M. Bronstein](https://www.reddit.com/r/MachineLearning/comments/11fffju/geometric_deep_learning_grids_groups_graphs/)
 - [[N] Blueprint: fine-tune &lpar;and serve&rpar; stable diffusion and more... &lpar;FLAN-T5 and Whisper are coming soon&rpar;](https://www.reddit.com/r/MachineLearning/comments/11fbfkb/n_blueprint_finetune_and_serve_stable_diffusion/)
 - [[D] OpenAI introduces ChatGPT and Whisper APIs &lpar;ChatGPT API is 1/10th the cost of GPT-3 API&rpar;](https://www.reddit.com/r/MachineLearning/comments/11fbccz/d_openai_introduces_chatgpt_and_whisper_apis/)
-- [[D] Any open source libraries for Recommender Systems?](https://www.reddit.com/r/MachineLearning/comments/11f9mi0/d_any_open_source_libraries_for_recommender/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
