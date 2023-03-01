@@ -451,11 +451,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1630952787184943106)
 - [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1630934416452116480)
 - [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphd...](https://twitter.com/memgraphdb/status/1630925104136744961)
 - [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. https://memgraph.com/blog/how-to-analyze-and-explore-the...](https://twitter.com/memgraphdb/status/1630904973738360837)
 - [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1630886851572559872)
-- [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1630881062002851846)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
