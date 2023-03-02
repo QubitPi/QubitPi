@@ -540,7 +540,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Proemion Branding, visual identity, corporate brand design](https://dribbble.com/shots/20493642)
 - [DROP — Brand Identity &amp; Website](https://dribbble.com/shots/20773114)
 - [Rivet branding](https://dribbble.com/shots/20783819)
-- [Lynq Logo Design](https://dribbble.com/shots/20731861)
+- [Upwork - Talent on Tap](https://dribbble.com/shots/20770917)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
