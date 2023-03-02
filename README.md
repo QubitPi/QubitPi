@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What are current alternatives to gradient-based NN training?](https://www.reddit.com/r/MachineLearning/comments/11fnnc7/d_what_are_current_alternatives_to_gradientbased/)
 - [[D]Continuous Target Variable](https://www.reddit.com/r/MachineLearning/comments/11fm46k/dcontinuous_target_variable/)
 - [[D] Which python library to use for training a transformer on 2D input data for predicting masked data?](https://www.reddit.com/r/MachineLearning/comments/11fj4xi/d_which_python_library_to_use_for_training_a/)
 - [discussion: [D] : Arabic TTS improvements?](https://www.reddit.com/r/MachineLearning/comments/11fj4oc/discussion_d_arabic_tts_improvements/)
 - [[D] Are Genetic Algorithms Dead?](https://www.reddit.com/r/MachineLearning/comments/11fil25/d_are_genetic_algorithms_dead/)
-- [[P] Is there a simple MNIST library for Python which already comes with the MNIST dataset inside of it, so I can just import and play without having to mess with the MNIST files themselves?](https://www.reddit.com/r/MachineLearning/comments/11fi9ef/p_is_there_a_simple_mnist_library_for_python/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
