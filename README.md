@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Intro to Scrum &lpar;11 of 16&rpar;: What is the Sprint Review?](https://www.scrum.org/resources/blog/intro-scrum-11-16-what-sprint-review)
 - [Wie mit Resultaten aus Experimenten im Sprint Review umgehen?](https://www.scrum.org/resources/blog/wie-mit-resultaten-aus-experimenten-im-sprint-review-umgehen)
 - [Club Scrum: ChatGPT, was machst Du den ganzen Tag als Scrum Master? 🇩🇪](https://www.scrum.org/resources/blog/club-scrum-chatgpt-was-machst-du-den-ganzen-tag-als-scrum-master)
 - [Theory of Constraints - What to Improve and What Not to Change](https://www.scrum.org/resources/blog/theory-constraints-what-improve-and-what-not-change)
 - [Product Titanics - How Modern Organizations Waste Adaptability](https://www.scrum.org/resources/blog/product-titanics-how-modern-organizations-waste-adaptability)
-- [Improve the Quality of your Team&#39;s Retrospective!](https://www.scrum.org/resources/blog/improve-quality-your-teams-retrospective)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
