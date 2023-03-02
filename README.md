@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Industrial robot - for wire rod automatic tagging [D]](https://www.reddit.com/r/MachineLearning/comments/11fxt20/industrial_robot_for_wire_rod_automatic_tagging_d/)
 - [Federated learning frameworks with a virtual try on deep learning model &quot;[Discussion]&quot;, &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/11fxhmn/federated_learning_frameworks_with_a_virtual_try/)
 - [[R] Best way to categorize by a product name?](https://www.reddit.com/r/MachineLearning/comments/11frud9/r_best_way_to_categorize_by_a_product_name/)
 - [[R] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges Michael M. Bronstein](https://www.reddit.com/r/MachineLearning/comments/11fp4x0/r_geometric_deep_learning_grids_groups_graphs/)
 - [[D] Podcasts about ML research?](https://www.reddit.com/r/MachineLearning/comments/11fp2tb/d_podcasts_about_ml_research/)
-- [[D] What are current alternatives to gradient-based NN training?](https://www.reddit.com/r/MachineLearning/comments/11fnnc7/d_what_are_current_alternatives_to_gradientbased/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
