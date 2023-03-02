@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [👀 What is your favorite problem you&#39;ve ever solved with graph data science? @AJarasch gives his answer. We want to read yours! 👇 #AskTheExpert h...](https://twitter.com/neo4j/status/1631399111080460292)
 - [Curious to explore your graph with Neo4j Bloom and other tools? Take a look at our Documentation section, where you&#39;ll find all you need! We make it e...](https://twitter.com/neo4j/status/1631288008820375554)
 - [Attention!! NEW GraphAcademy course available! 💥 The new Cypher Aggregations course in Graph Academy’s Cypher Learning path is the subject of this...](https://twitter.com/neo4j/status/1631248061664993280)
 - [RT Pink Programming: Are you ready for your next work interview? Let&#39;s get some intel from a tech recruiter professional, while also discovering graph...](https://twitter.com/PinkProgramming/status/1630955180253499393)
 - [Getting to Mars Faster with a #KnowledgeGraph 🚀 Read more about @NASA&#39;s Experience using Knowledge Graph for Talent Management. https://okt.to/A95I...](https://twitter.com/neo4j/status/1630946035269861376)
+- [Are you making an impact in your career? 🙋🏻‍♀️ From space exploration to cancer research, learn how #Neo4j employees make an impact through g...](https://twitter.com/neo4j/status/1630902271549554688)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
