@@ -510,11 +510,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Web3 Foundation is excited to announce that Thomas Fecker Boxler has joined as CFO. Thomas said: “I look forward to joining a highly driven and innov...](https://twitter.com/Web3foundation/status/1631325464194318336)
-- [Web3Foundation is pleased to sponsor this great hackathon centered on zero-knowledge proof, hosted by @BerkeleyRDI You&#39;ve got until March 12th to sign...](https://twitter.com/Web3foundation/status/1631313808542007301)
+- [Thomas Fecker Boxler has joined Web3 Foundation as Chief Financial Officer. He arrives at a critical juncture as W3F looks to support cutting-edge app...](https://twitter.com/Web3foundation/status/1631300842593583104)
 - [What is @Polkadot OpenGov and what are the proposed updates to governance on Polkadot? Tomorrow at 4pm CET, join an AMA session with @DrW3RK &amp; @Juan_C...](https://twitter.com/Web3foundation/status/1628735009078095874)
 - [Today at 4pm CET, join @BillLaboon of Web3 Foundation in the discussion of the latest @ink_lang update, and what it means for the @Polkadot ecosystem....](https://twitter.com/Web3foundation/status/1628014270221897729)
 - [W3F continues to support the expansion of the Web 3.0 ecosystem. Learn about a unique Web3 Incubation Program by Sony Network Communications and @Asta...](https://twitter.com/Web3foundation/status/1626549182528999426)
+- [What is the state of Web3 today and what are its technical implications and advantages? Hear the Foundation&#39;s @DrW3RK explaining blockchain &amp; decentra...](https://twitter.com/Web3foundation/status/1626155082357133312)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
