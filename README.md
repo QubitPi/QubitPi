@@ -206,6 +206,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 [![jupiter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupiter&show_owner=true&theme=vue)](https://github.com/QubitPi/jupiter)
 [![elis](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elis&show_owner=true&theme=vue)](https://github.com/QubitPi/elis)
 [![elide-quick](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-quick&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-quick)
+[![time-management-eisenhower-matrix](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=time-management-eisenhower-matrix&show_owner=true&theme=vue)](https://github.com/QubitPi/time-management-eisenhower-matrix)
 
 ---
 
