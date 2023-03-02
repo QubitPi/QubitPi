@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768308656632496162><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/43cc2830b37362f15e2d7f50ec177828401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768362790399246424><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64c1e756d3f8c9ebcdf1f763c2d9c608401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #风花的呼吸# 旅行者们好～「风花节」开启在即，一起来看看「风花的呼吸」新活动有哪些有趣的玩法吧 ！](https://t.bilibili.com/768308656632496162)
