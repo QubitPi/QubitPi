@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] Transformer for Non-NLP sequence binary classification task](https://www.reddit.com/r/MachineLearning/comments/11gf92e/p_transformer_for_nonnlp_sequence_binary/)
 - [[Research] Predicting if a time series will reach a certain limit in the following X days with classification.](https://www.reddit.com/r/MachineLearning/comments/11gesm3/research_predicting_if_a_time_series_will_reach_a/)
-- [[P] The first thing I did after the announcement of the official ChatGPT API](https://www.reddit.com/r/MachineLearning/comments/11ger04/p_the_first_thing_i_did_after_the_announcement_of/)
 - [[R] Where to purchase legitimate models &lpar;already trained&rpar; and datasets?](https://www.reddit.com/r/MachineLearning/comments/11gcwck/r_where_to_purchase_legitimate_models_already/)
 - [[Research] ActiveLab: Active Learning with Data Re-Labeling](https://www.reddit.com/r/MachineLearning/comments/11gb5aq/research_activelab_active_learning_with_data/)
+- [[D] Compare clusters from different unsupervised ML experiments](https://www.reddit.com/r/MachineLearning/comments/11g8oml/d_compare_clusters_from_different_unsupervised_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
