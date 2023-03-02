@@ -303,7 +303,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges Michael M. Bronstein](https://www.reddit.com/r/MachineLearning/comments/11fp4x0/r_geometric_deep_learning_grids_groups_graphs/)
 - [[D] Podcasts about ML research?](https://www.reddit.com/r/MachineLearning/comments/11fp2tb/d_podcasts_about_ml_research/)
 - [[D] What are current alternatives to gradient-based NN training?](https://www.reddit.com/r/MachineLearning/comments/11fnnc7/d_what_are_current_alternatives_to_gradientbased/)
-- [[D]Continuous Target Variable](https://www.reddit.com/r/MachineLearning/comments/11fm46k/dcontinuous_target_variable/)
+- [[D] Are Genetic Algorithms Dead?](https://www.reddit.com/r/MachineLearning/comments/11fil25/d_are_genetic_algorithms_dead/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
