@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1631206960547733505)
 - [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1631192868512493573)
 - [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! http...](https://twitter.com/memgraphdb/status/1631178522554146816)
 - [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1631167701392474112)
 - [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1631017210083721216)
-- [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1630993304576839682)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
