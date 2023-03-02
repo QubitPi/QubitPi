@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there an ML project out there that recommends movies based on more than the usual features?](https://www.reddit.com/r/MachineLearning/comments/11g7u60/d_is_there_an_ml_project_out_there_that/)
 - [Pairwise RankNet loss graph flatlines after 1 epoch for both val and training loss. What&#39;s going on? [P]](https://www.reddit.com/r/MachineLearning/comments/11g42jl/pairwise_ranknet_loss_graph_flatlines_after_1/)
 - [[D] Have there been any significant breakthroughs on eliminating LLM hallucinations?](https://www.reddit.com/r/MachineLearning/comments/11g306o/d_have_there_been_any_significant_breakthroughs/)
 - [[R] Simplicial Hopfield networks](https://www.reddit.com/r/MachineLearning/comments/11g2ewc/r_simplicial_hopfield_networks/)
 - [[P] A minimal framework for image diffusion &lpar;including high-resolution&rpar;](https://www.reddit.com/r/MachineLearning/comments/11g14sp/p_a_minimal_framework_for_image_diffusion/)
-- [Unable to write code from scratch for Few Shots or Zero Shot NER [Research]](https://www.reddit.com/r/MachineLearning/comments/11g0knb/unable_to_write_code_from_scratch_for_few_shots/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
