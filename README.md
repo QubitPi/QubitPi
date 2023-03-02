@@ -510,11 +510,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Thomas Fecker Boxler has joined Web3 Foundation as Chief Financial Officer. He arrives at a critical juncture as W3F looks to support cutting-edge app...](https://twitter.com/Web3foundation/status/1631300842593583104)
 - [What is @Polkadot OpenGov and what are the proposed updates to governance on Polkadot? Tomorrow at 4pm CET, join an AMA session with @DrW3RK &amp; @Juan_C...](https://twitter.com/Web3foundation/status/1628735009078095874)
 - [Today at 4pm CET, join @BillLaboon of Web3 Foundation in the discussion of the latest @ink_lang update, and what it means for the @Polkadot ecosystem....](https://twitter.com/Web3foundation/status/1628014270221897729)
 - [W3F continues to support the expansion of the Web 3.0 ecosystem. Learn about a unique Web3 Incubation Program by Sony Network Communications and @Asta...](https://twitter.com/Web3foundation/status/1626549182528999426)
 - [What is the state of Web3 today and what are its technical implications and advantages? Hear the Foundation&#39;s @DrW3RK explaining blockchain &amp; decentra...](https://twitter.com/Web3foundation/status/1626155082357133312)
-- [Re 5/ To explore more information about staking on Polkadot, and start your staking journey, visit the Polkadot website or check the support page on a...](https://twitter.com/Web3foundation/status/1625552337002430464)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
