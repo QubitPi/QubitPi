@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1631167701392474112)
 - [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1631017210083721216)
 - [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1630993304576839682)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at https://memgraph.com/docs/memgraph...](https://twitter.com/memgraphdb/status/1630977297430740995)
 - [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1630952787184943106)
-- [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1630934416452116480)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
