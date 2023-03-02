@@ -560,11 +560,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
-- [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/)
 - [An Approach to Lazy Loading Custom Elements](https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/)
 - [Different Ways to Get CSS Gradient Shadows](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)
 - [Healthcare, Selling Lemons, and the Price of Developer Experience](https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/)
 - [Moving Backgrounds](https://css-tricks.com/moving-backgrounds/)
+- [The truth about CSS selector performance](https://css-tricks.com/the-truth-about-css-selector-performance/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
