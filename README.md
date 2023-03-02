@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] Predicting if a time series will reach a certain limit in the following X days with classification.](https://www.reddit.com/r/MachineLearning/comments/11gesm3/research_predicting_if_a_time_series_will_reach_a/)
+- [[P] The first thing I did after the announcement of the official ChatGPT API](https://www.reddit.com/r/MachineLearning/comments/11ger04/p_the_first_thing_i_did_after_the_announcement_of/)
 - [[R] Where to purchase legitimate models &lpar;already trained&rpar; and datasets?](https://www.reddit.com/r/MachineLearning/comments/11gcwck/r_where_to_purchase_legitimate_models_already/)
 - [[Research] ActiveLab: Active Learning with Data Re-Labeling](https://www.reddit.com/r/MachineLearning/comments/11gb5aq/research_activelab_active_learning_with_data/)
 - [[D] Compare clusters from different unsupervised ML experiments](https://www.reddit.com/r/MachineLearning/comments/11g8oml/d_compare_clusters_from_different_unsupervised_ml/)
-- [[D] Is there an ML project out there that recommends movies based on more than the usual features?](https://www.reddit.com/r/MachineLearning/comments/11g7u60/d_is_there_an_ml_project_out_there_that/)
-- [[N] EleutherAI has formed a non-profit](https://www.reddit.com/r/MachineLearning/comments/11g4a9p/n_eleutherai_has_formed_a_nonprofit/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
