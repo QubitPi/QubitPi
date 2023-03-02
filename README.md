@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Simplicial Hopfield networks](https://www.reddit.com/r/MachineLearning/comments/11g2ewc/r_simplicial_hopfield_networks/)
 - [[P] A minimal framework for image diffusion &lpar;including high-resolution&rpar;](https://www.reddit.com/r/MachineLearning/comments/11g14sp/p_a_minimal_framework_for_image_diffusion/)
 - [Unable to write code from scratch for Few Shots or Zero Shot NER [Research]](https://www.reddit.com/r/MachineLearning/comments/11g0knb/unable_to_write_code_from_scratch_for_few_shots/)
 - [Industrial robot - for wire rod automatic tagging [D]](https://www.reddit.com/r/MachineLearning/comments/11fxt20/industrial_robot_for_wire_rod_automatic_tagging_d/)
 - [Federated learning frameworks with a virtual try on deep learning model &quot;[Discussion]&quot;, &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/11fxhmn/federated_learning_frameworks_with_a_virtual_try/)
-- [[R] Best way to categorize by a product name?](https://www.reddit.com/r/MachineLearning/comments/11frud9/r_best_way_to_categorize_by_a_product_name/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
