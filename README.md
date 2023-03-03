@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] Message Quality Control for video](https://www.reddit.com/r/MachineLearning/comments/11guiav/r_message_quality_control_for_video/)
 - [[D] Cycle consistency with diffusion models?](https://www.reddit.com/r/MachineLearning/comments/11gmysn/d_cycle_consistency_with_diffusion_models/)
 - [[D] offline speech to text - trainable](https://www.reddit.com/r/MachineLearning/comments/11gldec/d_offline_speech_to_text_trainable/)
-- [[P] InventBot - Invent Original Ideas with Keywords](https://www.reddit.com/r/MachineLearning/comments/11gkzwc/p_inventbot_invent_original_ideas_with_keywords/)
 - [[D] Sergey Levine, UC Berkeley, on offline RL and the evolution of deep reinforcement learning and robotics](https://www.reddit.com/r/MachineLearning/comments/11gkkql/d_sergey_levine_uc_berkeley_on_offline_rl_and_the/)
+- [[P] Transformer for Non-NLP sequence binary classification task](https://www.reddit.com/r/MachineLearning/comments/11gf92e/p_transformer_for_nonnlp_sequence_binary/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
