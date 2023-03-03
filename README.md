@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768679763278561313><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2b1042cce2966725e09269166ced49f9401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768704420713070725><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cf929900f6833c2639740a80af6c4ef4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神风物之歌视频征集活动# #原神UP主激励计划# 《原神》「风物之歌」主题视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 3月3日——3...](https://t.bilibili.com/768704420713070725)
