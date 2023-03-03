@@ -510,11 +510,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Web3 Foundation CEO Bertrand Perez was a guest on the @randizuckerberg podcast RZMB, in its ‘Family Friendly Metaverse’ episode. Bertrand addressed ...](https://twitter.com/Web3foundation/status/1631679606678855680)
 - [Web3 Foundation is excited to announce that Thomas Fecker Boxler has joined as CFO. Thomas said: “I look forward to joining a highly driven and innov...](https://twitter.com/Web3foundation/status/1631325464194318336)
 - [Web3Foundation is pleased to sponsor this great hackathon centered on zero-knowledge proof, hosted by @BerkeleyRDI You&#39;ve got until March 12th to sign...](https://twitter.com/Web3foundation/status/1631313808542007301)
 - [What is @Polkadot OpenGov and what are the proposed updates to governance on Polkadot? Tomorrow at 4pm CET, join an AMA session with @DrW3RK &amp; @Juan_C...](https://twitter.com/Web3foundation/status/1628735009078095874)
 - [Today at 4pm CET, join @BillLaboon of Web3 Foundation in the discussion of the latest @ink_lang update, and what it means for the @Polkadot ecosystem....](https://twitter.com/Web3foundation/status/1628014270221897729)
+- [W3F continues to support the expansion of the Web 3.0 ecosystem. Learn about a unique Web3 Incubation Program by Sony Network Communications and @Asta...](https://twitter.com/Web3foundation/status/1626549182528999426)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
