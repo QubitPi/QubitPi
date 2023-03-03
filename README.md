@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Assistance Requested: Learning Deep Learning for Graduate Studies in Bioengineering](https://www.reddit.com/r/MachineLearning/comments/11hg3cs/d_assistance_requested_learning_deep_learning_for/)
 - [[D] What is your personal motivation for ML?](https://www.reddit.com/r/MachineLearning/comments/11hf3mh/d_what_is_your_personal_motivation_for_ml/)
-- [[D]Can anyone give some advice on this model?](https://www.reddit.com/r/MachineLearning/comments/11hf19i/dcan_anyone_give_some_advice_on_this_model/)
 - [[R] High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.reddit.com/r/MachineLearning/comments/11hayge/r_highresolution_image_reconstruction_with_latent/)
 - [[D] Using the Results of a Machine Learning to &quot;Guess&quot; the Dataset Used to Train a Machine Learning Model?](https://www.reddit.com/r/MachineLearning/comments/11h6rij/d_using_the_results_of_a_machine_learning_to/)
+- [[D] Facebooks LLaMA leaks via torrent file in PR](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
