@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We usually don&#39;t release new things on Friday, but this is a special occasion :&rpar; 🎉 Thanks to our friends from @kapa_ai you can now use #ChatGPT to ...](https://twitter.com/memgraphdb/status/1631679542845915140)
+- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1631677561167130625)
+- [One of the most common applications of graph traversal algorithms is route planning and optimization problems. In the blog post below, learn how to so...](https://twitter.com/memgraphdb/status/1631659192669880320)
 - [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at https://memgraph.com/docs/memgraph...](https://twitter.com/memgraphdb/status/1631629748425072641)
 - [Learn how to build a simple #Python web application from scratch! The application will simulate how a POS device gets compromised, after which the car...](https://twitter.com/memgraphdb/status/1631611629400891393)
-- [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1631605839705325569)
-- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphd...](https://twitter.com/memgraphdb/status/1631578659696832512)
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. https://memgraph.com/blog/how-to-analyze-and-explore-the...](https://twitter.com/memgraphdb/status/1631555257175007233)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
