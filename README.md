@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768757167182315529><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c13beefb3e3c486bd0a8d5f57351fdf7401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #风花节# #风物之歌# 旅行者，欢迎来到风花节，蒙德城内正在举办一项叫做「风物之歌」的小游戏。在这项小游戏里，你能够像蒙德城里的吟游诗人一样，弹奏...](https://t.bilibili.com/768757167182315529)
+- [恭喜@武12郎@云雀齐光@以夏还冬等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/768733875598786610)
+- [恭喜@吃蔬菜的北极熊@山野之间有雾灯@不是很重要的延等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/768733875572572224)
+- [恭喜@寻愿XY@星夜雨梦@7wzの等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/768733875570475032)
 - [#原神# #原神风物之歌视频征集活动# #原神UP主激励计划# 《原神》「风物之歌」主题视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 3月3日——3...](https://t.bilibili.com/768704420713070725)
-- [互动抽奖 #原神# #七七# #生日快乐# 到了，这里有很多小团雀，蹦蹦跳跳。七七，喜欢这里。 唔，小团雀们还不认识你，我来介绍。 你看…啊，起风了。小团雀都飞走...](https://t.bilibili.com/768702943218106710)
-- [#原神# #风花的呼吸# 旅行者们好~「风花的呼吸」活动已经开启，参与其中的「风物之歌」玩法，可以演奏乐曲，编辑曲谱，还能在「乐曲交流」平台上和其他旅行者交...](https://t.bilibili.com/768679763278561313)
-- [恭喜@白大SyAs@南極快沒有冰山@だぃすきよ等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/768362790399246424)
-- [#原神# #风花的呼吸# 旅行者们好～「风花节」开启在即，一起来看看「风花的呼吸」新活动有哪些有趣的玩法吧 ！](https://t.bilibili.com/768308656632496162)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
