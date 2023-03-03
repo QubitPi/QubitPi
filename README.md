@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768362790399246424><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64c1e756d3f8c9ebcdf1f763c2d9c608401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #风花的呼吸# 旅行者们好~「风花的呼吸」活动已经开启，参与其中的「风物之歌」玩法，可以演奏乐曲，编辑曲谱，还能在「乐曲交流」平台上和其他旅行者交...](https://t.bilibili.com/768679763278561313)
 - [恭喜@白大SyAs@南極快沒有冰山@だぃすきよ等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/768362790399246424)
 - [#原神# #风花的呼吸# 旅行者们好～「风花节」开启在即，一起来看看「风花的呼吸」新活动有哪些有趣的玩法吧 ！](https://t.bilibili.com/768308656632496162)
 - [恭喜@丶少桐@一一_一_一_@尼科尔-Nichole等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/767991705225920529)
 - [#原神# #风花的呼吸# 亲爱的旅行者，「风花的呼吸」活动即将开启，参与获得活动专属武器「双手剑·饰铁之花」 。 〓整体玩法时间〓 2023/03/03 10:00 ~ 2023/03/...](https://t.bilibili.com/767961387073798194)
-- [《原神》拾枝杂谈-「迪希雅：热沙的赤情」](https://t.bilibili.com/767960820116095128)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
