@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Plans for the weekend: new episode available!! This time, feast on various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Ne...](https://twitter.com/neo4j/status/1631686072500465665)
 - [We have successfully undergone a SOC2 Type II assessment! Enterprise Organizations can trust #Neo4j to manage their critical data and infrastructure--...](https://twitter.com/neo4j/status/1631659464741863424)
 - [Take advantage of these free training sessions during March and April. 💻 Register for FREE and save them in your calendar! https://okt.to/7Fzqwj #N...](https://twitter.com/neo4j/status/1631640634766286848)
 - [👀 What is your favorite problem you&#39;ve ever solved with graph data science? @AJarasch gives his answer. We want to read yours! 👇 #AskTheExpert h...](https://twitter.com/neo4j/status/1631399111080460292)
 - [Curious to explore your graph with Neo4j Bloom and other tools? Take a look at our Documentation section, where you&#39;ll find all you need! We make it e...](https://twitter.com/neo4j/status/1631288008820375554)
+- [Attention!! NEW GraphAcademy course available! 💥 The new Cypher Aggregations course in Graph Academy’s Cypher Learning path is the subject of this...](https://twitter.com/neo4j/status/1631248061664993280)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
