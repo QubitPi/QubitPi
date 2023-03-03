@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Facebooks LLaMA leaks via torrent file in PR](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
 - [[P] We are building a curated list of open source tooling for data-centric AI workflows, looking for contributions.](https://www.reddit.com/r/MachineLearning/comments/11gzasl/p_we_are_building_a_curated_list_of_open_source/)
 - [[D] Which models are usually used in space elasticity in retail? Can GBMs be used?](https://www.reddit.com/r/MachineLearning/comments/11gxqfh/d_which_models_are_usually_used_in_space/)
 - [[R] Message Quality Control for video](https://www.reddit.com/r/MachineLearning/comments/11guiav/r_message_quality_control_for_video/)
 - [[D] Cycle consistency with diffusion models?](https://www.reddit.com/r/MachineLearning/comments/11gmysn/d_cycle_consistency_with_diffusion_models/)
-- [[D] offline speech to text - trainable](https://www.reddit.com/r/MachineLearning/comments/11gldec/d_offline_speech_to_text_trainable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
