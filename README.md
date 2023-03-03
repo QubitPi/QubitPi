@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768362790399246424><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64c1e756d3f8c9ebcdf1f763c2d9c608401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/768679763278561313><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2b1042cce2966725e09269166ced49f9401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #风花的呼吸# 旅行者们好~「风花的呼吸」活动已经开启，参与其中的「风物之歌」玩法，可以演奏乐曲，编辑曲谱，还能在「乐曲交流」平台上和其他旅行者交...](https://t.bilibili.com/768679763278561313)
