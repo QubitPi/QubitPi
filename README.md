@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.reddit.com/r/MachineLearning/comments/11hayge/r_highresolution_image_reconstruction_with_latent/)
 - [[D] Using the Results of a Machine Learning to &quot;Guess&quot; the Dataset Used to Train a Machine Learning Model?](https://www.reddit.com/r/MachineLearning/comments/11h6rij/d_using_the_results_of_a_machine_learning_to/)
 - [[Discussion] Does anyone else feel threatened by ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/11h4sbj/discussion_does_anyone_else_feel_threatened_by/)
-- [[P] Where can I find more life sciences patient datasets?](https://www.reddit.com/r/MachineLearning/comments/11h4hwb/p_where_can_i_find_more_life_sciences_patient/)
 - [[D] Facebooks LLaMA leaks via torrent file in PR](https://www.reddit.com/r/MachineLearning/comments/11h3p2x/d_facebooks_llama_leaks_via_torrent_file_in_pr/)
+- [[P] We are building a curated list of open source tooling for data-centric AI workflows, looking for contributions.](https://www.reddit.com/r/MachineLearning/comments/11gzasl/p_we_are_building_a_curated_list_of_open_source/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
