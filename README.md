@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. https://memgraph.com/blog/how-to-analyze-and-explore-the...](https://twitter.com/memgraphdb/status/1631555257175007233)
-- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1631544685440167937)
 - [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1631522038174171141)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1631375321093009408)
 - [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1631357705800523776)
+- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1631339623602429953)
+- [RT Marko Srsan: Great to participate in the @moderndatastack Summit 2023 powered by @cocoadotvc and @calfonsorico :&rpar; https://t.co/LsXp6XqpYf](https://twitter.com/msrsan/status/1631332363258011660)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
