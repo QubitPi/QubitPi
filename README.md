@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Take a look at this 6 Steps to Activate the Value of Text to Graph Machine Learning Systems ---&gt; by Data Scientist, Sean Robinson. https://okt.to/kwfz...](https://twitter.com/neo4j/status/1632072689060831233)
 - [Manage EoLs Like a Boss With http://endoflife.date! Adrien Sales builds a #Neodash interface with product lifecycle data. Once imported into Neo4j, he...](https://twitter.com/neo4j/status/1631755352956981249)
 - [Plans for the weekend: new episode available!! This time, feast on various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Ne...](https://twitter.com/neo4j/status/1631686072500465665)
 - [We have successfully undergone a SOC2 Type II assessment! Enterprise Organizations can trust #Neo4j to manage their critical data and infrastructure--...](https://twitter.com/neo4j/status/1631659464741863424)
 - [Take advantage of these free training sessions during March and April. 💻 Register for FREE and save them in your calendar! https://okt.to/7Fzqwj #N...](https://twitter.com/neo4j/status/1631640634766286848)
-- [👀 What is your favorite problem you&#39;ve ever solved with graph data science? @AJarasch gives his answer. We want to read yours! 👇 #AskTheExpert h...](https://twitter.com/neo4j/status/1631399111080460292)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
