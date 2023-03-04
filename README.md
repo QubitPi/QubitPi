@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What Kinds of Machine Learning Algorithms Are Suitable For This Problem?](https://www.reddit.com/r/MachineLearning/comments/11i69r9/d_what_kinds_of_machine_learning_algorithms_are/)
 - [[P] Apple Siri + OpenAI ChatGPT + Retrieval augmented generation - Discussing with an AI that knows me better than I know myself](https://www.reddit.com/r/MachineLearning/comments/11i5755/p_apple_siri_openai_chatgpt_retrieval_augmented/)
 - [[D] Is it possible to run Meta&#39;s LLaMA 65B model on consumer-grade hardware?](https://www.reddit.com/r/MachineLearning/comments/11i4olx/d_is_it_possible_to_run_metas_llama_65b_model_on/)
 - [[Research] ChatGPT Claims It Can Do Zero-Shot Image Classification &lpar;I Called Its Bluff&rpar;](https://www.reddit.com/r/MachineLearning/comments/11hzck7/research_chatgpt_claims_it_can_do_zeroshot_image/)
 - [[D] Resources for catching up on large generative models](https://www.reddit.com/r/MachineLearning/comments/11hyu2q/d_resources_for_catching_up_on_large_generative/)
-- [[P] Which state-of-the-art models are most suitable for recommending chnages to SQL code for the simplest programming tasks?](https://www.reddit.com/r/MachineLearning/comments/11hysfy/p_which_stateoftheart_models_are_most_suitable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
