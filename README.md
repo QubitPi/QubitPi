@@ -299,7 +299,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Deep Learning Dragons - a webcomic about machine learning papers, explained via a fantasy storyline](https://www.reddit.com/r/MachineLearning/comments/11hub45/p_deep_learning_dragons_a_webcomic_about_machine/)
+- [[P] Wrapyfi for distributing LLaMA by Meta on different machines](https://www.reddit.com/r/MachineLearning/comments/11hvufr/p_wrapyfi_for_distributing_llama_by_meta_on/)
 - [[P] Searching repo for code of a feature](https://www.reddit.com/r/MachineLearning/comments/11htht2/p_searching_repo_for_code_of_a_feature/)
 - [[P] LazyShell - GPT based autocomplete for zsh](https://www.reddit.com/r/MachineLearning/comments/11hscl1/p_lazyshell_gpt_based_autocomplete_for_zsh/)
 - [[D] Is there a new SOTA for text-to-talking-head generation?](https://www.reddit.com/r/MachineLearning/comments/11hrw1f/d_is_there_a_new_sota_for_texttotalkinghead/)
