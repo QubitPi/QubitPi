@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [¿El Product Owner y el Scrum Master deben pelearse siempre?](https://www.scrum.org/resources/blog/el-product-owner-y-el-scrum-master-deben-pelearse-siempre)
 - [Create a learning environment for your team!](https://www.scrum.org/resources/blog/create-learning-environment-your-team)
 - [[VLOG] Scrum is not an iterative mini-waterfall project management method](https://www.scrum.org/resources/blog/vlog-scrum-not-iterative-mini-waterfall-project-management-method)
 - [How the Scrum Master can help raise Transparency &lpar;11&rpar;](https://www.scrum.org/resources/blog/how-scrum-master-can-help-raise-transparency-11)
 - [¿Qué puede aprender un área comercial o de negocios de las prácticas de excelencia técnica en el desarrollo de software?](https://www.scrum.org/resources/blog/que-puede-aprender-un-area-comercial-o-de-negocios-de-las-practicas-de-excelencia)
-- [Improving Your Scrum with the Agile Kata &lpar;Part II&rpar;](https://www.scrum.org/resources/blog/improving-your-scrum-agile-kata-part-ii)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
