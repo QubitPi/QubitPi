@@ -299,9 +299,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I want to create a single-speaker TTS model in a language that&#39;s not English](https://www.reddit.com/r/MachineLearning/comments/11iaefq/p_i_want_to_create_a_singlespeaker_tts_model_in_a/)
+- [[R] vid2avatar: 3D avatar reconstruction from videos in the wild via self-supervised scene decomposition](https://www.reddit.com/r/MachineLearning/comments/11iaapp/r_vid2avatar_3d_avatar_reconstruction_from_videos/)
 - [[R] Inside the mind of a superhuman Go model: How does Leela Zero read ladders?](https://www.reddit.com/r/MachineLearning/comments/11i9uxm/r_inside_the_mind_of_a_superhuman_go_model_how/)
-- [[D] What Kinds of Machine Learning Algorithms Are Suitable For This Problem?](https://www.reddit.com/r/MachineLearning/comments/11i69r9/d_what_kinds_of_machine_learning_algorithms_are/)
-- [[P] Apple Siri + OpenAI ChatGPT + Retrieval augmented generation - Discussing with an AI that knows me better than I know myself](https://www.reddit.com/r/MachineLearning/comments/11i5755/p_apple_siri_openai_chatgpt_retrieval_augmented/)
 - [[D] Is it possible to run Meta&#39;s LLaMA 65B model on consumer-grade hardware?](https://www.reddit.com/r/MachineLearning/comments/11i4olx/d_is_it_possible_to_run_metas_llama_65b_model_on/)
 - [[D] Resources for catching up on large generative models](https://www.reddit.com/r/MachineLearning/comments/11hyu2q/d_resources_for_catching_up_on_large_generative/)
 <!-- REDDIT-ML:END -->
