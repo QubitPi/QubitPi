@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] ChatGPT Claims It Can Do Zero-Shot Image Classification &lpar;I Called Its Bluff&rpar;](https://www.reddit.com/r/MachineLearning/comments/11hzck7/research_chatgpt_claims_it_can_do_zeroshot_image/)
 - [[D] Resources for catching up on large generative models](https://www.reddit.com/r/MachineLearning/comments/11hyu2q/d_resources_for_catching_up_on_large_generative/)
 - [[P] Which state-of-the-art models are most suitable for recommending chnages to SQL code for the simplest programming tasks?](https://www.reddit.com/r/MachineLearning/comments/11hysfy/p_which_stateoftheart_models_are_most_suitable/)
 - [[P] My presentation video on Demystifying Deep Learning, natural language processing &lpar;Especially chatGPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/11hynd8/p_my_presentation_video_on_demystifying_deep/)
 - [TFlite just dropped to 62% [P]](https://www.reddit.com/r/MachineLearning/comments/11hyab0/tflite_just_dropped_to_62_p/)
-- [[D] The Sentences Computers Can&#39;t Understand, But Humans Can](https://www.reddit.com/r/MachineLearning/comments/11hxwsm/d_the_sentences_computers_cant_understand_but/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
