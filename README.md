@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Variable size input to pre-trained BERT model](https://www.reddit.com/r/MachineLearning/comments/11hqaek/r_variable_size_input_to_pretrained_bert_model/)
 - [[R] Language models can now teach themselves HOW to use tools &lpar;i.e any API&rpar; in real time, completely automated. When given a task, SLAPA knows to search for the API documentation and learn all the information. Then he create API calls. If they don&#39;t work, he learns from his mistake and tries again.](https://www.reddit.com/r/MachineLearning/comments/11hp2nu/r_language_models_can_now_teach_themselves_how_to/)
 - [[D] Assistance Requested: Learning Deep Learning for Graduate Studies in Bioengineering](https://www.reddit.com/r/MachineLearning/comments/11hg3cs/d_assistance_requested_learning_deep_learning_for/)
 - [[D] What is your personal motivation for ML?](https://www.reddit.com/r/MachineLearning/comments/11hf3mh/d_what_is_your_personal_motivation_for_ml/)
 - [[R] High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.reddit.com/r/MachineLearning/comments/11hayge/r_highresolution_image_reconstruction_with_latent/)
-- [[D] Using the Results of a Machine Learning to &quot;Guess&quot; the Dataset Used to Train a Machine Learning Model?](https://www.reddit.com/r/MachineLearning/comments/11h6rij/d_using_the_results_of_a_machine_learning_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
