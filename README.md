@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Did you get access to Meta AI&#39;s LLAMA? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/11hxvib/did_you_get_access_to_meta_ais_llama_discussion/)
+- [[P] Prompt templates and task chains - run with Python, YAML or FastAPI](https://www.reddit.com/r/MachineLearning/comments/11hxuzv/p_prompt_templates_and_task_chains_run_with/)
 - [Machine Learning / Artificial Intelligence Projects “[Project]”](https://www.reddit.com/r/MachineLearning/comments/11hxj1d/machine_learning_artificial_intelligence_projects/)
 - [Neural Network visualisation. Looking for an improvement.[R]](https://www.reddit.com/r/MachineLearning/comments/11hx9tk/neural_network_visualisation_looking_for_an/)
 - [[P] Celery-ai: OpenAI Keyboard Integration for Linux](https://www.reddit.com/r/MachineLearning/comments/11hwyvk/p_celeryai_openai_keyboard_integration_for_linux/)
-- [[D] Testing the New Bing vs ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11hwxx1/d_testing_the_new_bing_vs_chatgpt/)
-- [[P] Wrapyfi for distributing LLaMA by Meta on different machines](https://www.reddit.com/r/MachineLearning/comments/11hvufr/p_wrapyfi_for_distributing_llama_by_meta_on/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
