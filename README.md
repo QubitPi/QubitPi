@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Neural Network visualisation. Looking for an improvement.[R]](https://www.reddit.com/r/MachineLearning/comments/11hx9tk/neural_network_visualisation_looking_for_an/)
 - [[P] Celery-ai: OpenAI Keyboard Integration for Linux](https://www.reddit.com/r/MachineLearning/comments/11hwyvk/p_celeryai_openai_keyboard_integration_for_linux/)
 - [[D] Testing the New Bing vs ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11hwxx1/d_testing_the_new_bing_vs_chatgpt/)
 - [[P] Wrapyfi for distributing LLaMA by Meta on different machines](https://www.reddit.com/r/MachineLearning/comments/11hvufr/p_wrapyfi_for_distributing_llama_by_meta_on/)
 - [[P] Searching repo for code of a feature](https://www.reddit.com/r/MachineLearning/comments/11htht2/p_searching_repo_for_code_of_a_feature/)
-- [[P] LazyShell - GPT based autocomplete for zsh](https://www.reddit.com/r/MachineLearning/comments/11hscl1/p_lazyshell_gpt_based_autocomplete_for_zsh/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
