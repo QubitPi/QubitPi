@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. https://memgraph.com/docs/cypher-manu...](https://twitter.com/memgraphdb/status/1631992136068476931)
+- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1631974013806231554)
 - [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1631966720419037185)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1631956146608111616)
 - [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1631917644193447936)
-- [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1631907075180707841)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1631892478105100288)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
