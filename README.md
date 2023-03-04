@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1632063727896862722)
+- [🎓 #Learn #Cypher with #Memgraph Node labels should be written using CamelCase and start with an upper-case letter. Node labels are case-sensitive. ...](https://twitter.com/memgraphdb/status/1632059831237369859)
+- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1632039950039351296)
 - [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1632030136848531461)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. https://memgraph.com/docs/cypher-manu...](https://twitter.com/memgraphdb/status/1631992136068476931)
-- [#MAGE is an open-source library that contains graph algorithms in the form of query modules you can use right away with our graph database. MAGE is pa...](https://twitter.com/memgraphdb/status/1631974013806231554)
-- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1631966720419037185)
-- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1631956146608111616)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
