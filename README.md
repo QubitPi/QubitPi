@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn the fundamentals of graph databases and ArangoDB with our AQL Fundamentals course. 🥑 Enroll in the AQL Fundamentals course today! https://okt...](https://twitter.com/arangodb/status/1632033172887068676)
 - [Make the most of March with our upcoming webinar featuring Solution Architect Victor Moey. Discover how ArangoDB&#39;s Query Language &lpar;AQL&rpar; can help detec...](https://twitter.com/arangodb/status/1631761382768013313)
 - [Pop the popcorn and get ready to get up-to-date with ArangoDB Summit - our inaugural two-day industry event! 🍿 Get well-versed in use cases, cuttin...](https://twitter.com/arangodb/status/1631625498416541696)
 - [Check out this exciting article on graph database technology to prevent next-generation fraud! Find out how graph databases can help identify and trac...](https://twitter.com/arangodb/status/1631398998970859528)
 - [Powered by ArangoDB, @orange has created a staggering 51 million digital twins and counting! 🥑🔥 To learn more about their impressive use case, c...](https://twitter.com/arangodb/status/1631263087889113088)
-- [Discover the simplicity of transitioning from #SQL to ArangoDB! Our new Coming from SQL tutorial on ArangoDB University is here to help you make the s...](https://twitter.com/arangodb/status/1630900721465053184)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
