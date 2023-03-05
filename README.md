@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control - Google 2023](https://www.reddit.com/r/MachineLearning/comments/11j6y82/r_grounded_decoding_guiding_text_generation_with/)
 - [social media face filters vs AI filter [D]](https://www.reddit.com/r/MachineLearning/comments/11j5oj0/social_media_face_filters_vs_ai_filter_d/)
 - [Great Quantization Libraries? [D]](https://www.reddit.com/r/MachineLearning/comments/11j5go4/great_quantization_libraries_d/)
 - [[D] Transfer Learning: Perspectives from Psychological Perspective](https://www.reddit.com/r/MachineLearning/comments/11j4qq0/d_transfer_learning_perspectives_from/)
 - [[D] Mixup Data Augmentation for Image Segmentation](https://www.reddit.com/r/MachineLearning/comments/11j1nhk/d_mixup_data_augmentation_for_image_segmentation/)
-- [[D] [P] LLMs for Text Classification &lpar;7B parameters&rpar;](https://www.reddit.com/r/MachineLearning/comments/11j0shw/d_p_llms_for_text_classification_7b_parameters/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
