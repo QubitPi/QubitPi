@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Structure based drug design and machine learning vs. deep learning models](https://www.reddit.com/r/MachineLearning/comments/11je7pd/p_structure_based_drug_design_and_machine/)
 - [[D] Open source recommendations for a conversational AI](https://www.reddit.com/r/MachineLearning/comments/11jak1x/d_open_source_recommendations_for_a/)
 - [[D] I applied k-means clustering for single variable at work but I think it&#39;s of no use](https://www.reddit.com/r/MachineLearning/comments/11j8h8b/d_i_applied_kmeans_clustering_for_single_variable/)
 - [[R] Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control - Google 2023](https://www.reddit.com/r/MachineLearning/comments/11j6y82/r_grounded_decoding_guiding_text_generation_with/)
 - [social media face filters vs AI filter [D]](https://www.reddit.com/r/MachineLearning/comments/11j5oj0/social_media_face_filters_vs_ai_filter_d/)
-- [Great Quantization Libraries? [D]](https://www.reddit.com/r/MachineLearning/comments/11j5go4/great_quantization_libraries_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
