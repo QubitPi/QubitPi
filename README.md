@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Machine learning books on Kindle](https://www.reddit.com/r/MachineLearning/comments/11jfgry/d_machine_learning_books_on_kindle/)
 - [[P] I fine-tuned ChatGPT on StackOverflow to make a chatbot that debugs your code](https://www.reddit.com/r/MachineLearning/comments/11jf5gx/p_i_finetuned_chatgpt_on_stackoverflow_to_make_a/)
 - [[P] We built Life Copilot - an AI assistant that can understand text + images &amp; control a browser to surf the internet using MULTI·ON &lpar;multion.ai&rpar; to do things for you!](https://www.reddit.com/r/MachineLearning/comments/11jeu5i/p_we_built_life_copilot_an_ai_assistant_that_can/)
 - [[P] Structure based drug design and machine learning vs. deep learning models](https://www.reddit.com/r/MachineLearning/comments/11je7pd/p_structure_based_drug_design_and_machine/)
 - [[D] Open source recommendations for a conversational AI](https://www.reddit.com/r/MachineLearning/comments/11jak1x/d_open_source_recommendations_for_a/)
-- [[D] I applied k-means clustering for single variable at work but I think it&#39;s of no use](https://www.reddit.com/r/MachineLearning/comments/11j8h8b/d_i_applied_kmeans_clustering_for_single_variable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
