@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher https://memgraph.com/docs/cy...](https://twitter.com/memgraphdb/status/1632294124236750849)
 - [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1632269463151099905)
 - [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1632246815151075330)
 - [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. https://memgraph.com/blog/dynamic-page-rank-on-s...](https://twitter.com/memgraphdb/status/1632100096140537857)
 - [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1632082478876827648)
-- [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1632063727896862722)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
