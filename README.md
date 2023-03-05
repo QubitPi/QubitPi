@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The MATCH clause is used to obtain data from the database by matching it to a given pattern. https://memgraph.com/d...](https://twitter.com/memgraphdb/status/1632442853266735109)
+- [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗https://memgraph.com/learn-graph-modeling #memgr...](https://twitter.com/memgraphdb/status/1632428761030307847)
 - [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1632422218427662336)
 - [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1632382456153227265)
 - [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1632374656211582976)
-- [❓Do you like to play with graphs? Come to #Memgraph Playground! No downloads, installations, or registration required. Just choose a tutorial and try...](https://twitter.com/memgraphdb/status/1632353768053387265)
-- [Do you follow #Memgraph YouTube channel? https://www.youtube.com/channel/UCZ3HOJvHGxtQ_JHxOselBYg](https://twitter.com/memgraphdb/status/1632330613750394880)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
