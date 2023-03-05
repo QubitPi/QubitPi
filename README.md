@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [To RL or Not to RL? [D]](https://www.reddit.com/r/MachineLearning/comments/11itl7g/to_rl_or_not_to_rl_d/)
 - [[D] Productization of deep learning models - what are the best practices?](https://www.reddit.com/r/MachineLearning/comments/11isomm/d_productization_of_deep_learning_models_what_are/)
 - [[P] A mobile-friendly way to edit photos with ControlNet and instruct-pix2pix.](https://www.reddit.com/r/MachineLearning/comments/11is9ge/p_a_mobilefriendly_way_to_edit_photos_with/)
 - [[D] What is the best model I can use to make an intelligent search on large chunks of text? &lpar;other than OpenAI&#39;s offerings&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ip6sw/d_what_is_the_best_model_i_can_use_to_make_an/)
 - [[D] Building an Open-Source LLM Provider for Self-Hosting](https://www.reddit.com/r/MachineLearning/comments/11iooio/d_building_an_opensource_llm_provider_for/)
-- [[D] Video 2 Minecraft — Comparing ControlNet and Gen1](https://www.reddit.com/r/MachineLearning/comments/11igrea/d_video_2_minecraft_comparing_controlnet_and_gen1/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
