@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Discretization: equal-width vs equal-frequency](https://www.reddit.com/r/MachineLearning/comments/11iyim9/d_discretization_equalwidth_vs_equalfrequency/)
+- [[Discussion] The official website for the GTSRB dataset is down and I can&#39;t fint the original paper](https://www.reddit.com/r/MachineLearning/comments/11iyi6u/discussion_the_official_website_for_the_gtsrb/)
 - [[R] RWKV &lpar;100% RNN&rpar; can genuinely model ctx4k+ documents in Pile, and RWKV model+inference+generation in 150 lines of Python](https://www.reddit.com/r/MachineLearning/comments/11iwt1b/r_rwkv_100_rnn_can_genuinely_model_ctx4k/)
 - [[D] Ethics of minecraft stable diffusion](https://www.reddit.com/r/MachineLearning/comments/11iun48/d_ethics_of_minecraft_stable_diffusion/)
 - [[D] LLaMA Model Parallelization and Server Configuration](https://www.reddit.com/r/MachineLearning/comments/11iul6f/d_llama_model_parallelization_and_server/)
-- [To RL or Not to RL? [D]](https://www.reddit.com/r/MachineLearning/comments/11itl7g/to_rl_or_not_to_rl_d/)
-- [[D] Productization of deep learning models - what are the best practices?](https://www.reddit.com/r/MachineLearning/comments/11isomm/d_productization_of_deep_learning_models_what_are/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
