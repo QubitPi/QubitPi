@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [N] Dropout Reduces Underfitting - Liu et al.](https://www.reddit.com/r/MachineLearning/comments/11izjc1/r_n_dropout_reduces_underfitting_liu_et_al/)
+- [[Discussion] The official website for GTSRB is down](https://www.reddit.com/r/MachineLearning/comments/11iyv5s/discussion_the_official_website_for_gtsrb_is_down/)
 - [[D] Discretization: equal-width vs equal-frequency](https://www.reddit.com/r/MachineLearning/comments/11iyim9/d_discretization_equalwidth_vs_equalfrequency/)
 - [[R] RWKV &lpar;100% RNN&rpar; can genuinely model ctx4k+ documents in Pile, and RWKV model+inference+generation in 150 lines of Python](https://www.reddit.com/r/MachineLearning/comments/11iwt1b/r_rwkv_100_rnn_can_genuinely_model_ctx4k/)
 - [[D] Ethics of minecraft stable diffusion](https://www.reddit.com/r/MachineLearning/comments/11iun48/d_ethics_of_minecraft_stable_diffusion/)
-- [[D] LLaMA Model Parallelization and Server Configuration](https://www.reddit.com/r/MachineLearning/comments/11iul6f/d_llama_model_parallelization_and_server/)
-- [To RL or Not to RL? [D]](https://www.reddit.com/r/MachineLearning/comments/11itl7g/to_rl_or_not_to_rl_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
