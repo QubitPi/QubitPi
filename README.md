@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/769476045908738104><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e5f1dc5e620b48fcf8d2a39696339300401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/769816374861103144><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/81046088ec58038d7d12bf1c21b80f81401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #瑶瑶# #生日快乐# 你一会儿还有安排吗？是不是还没有吃午饭？不如来我家吃吧，我来下厨~ 别客气啦，只是午饭添一双碗筷而已！ 你送了我生日礼...](https://t.bilibili.com/769816374861103144)
