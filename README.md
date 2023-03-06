@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 - [[D] Best way to run LLMs in the cloud?](https://www.reddit.com/r/MachineLearning/comments/11jjd18/d_best_way_to_run_llms_in_the_cloud/)
 - [Best ML algorithm and methods/metrics to evaluate Multiclass Classification Problem with several classes? [P]](https://www.reddit.com/r/MachineLearning/comments/11jiwmk/best_ml_algorithm_and_methodsmetrics_to_evaluate/)
 - [[D] Need your opinion: built a conversational AI study buddy &lpar;for kids&rpar;](https://www.reddit.com/r/MachineLearning/comments/11jh0dp/d_need_your_opinion_built_a_conversational_ai/)
 - [[P] I built a chatbot that helps you debug your code](https://www.reddit.com/r/MachineLearning/comments/11jgig0/p_i_built_a_chatbot_that_helps_you_debug_your_code/)
-- [[D] Machine learning books on Kindle](https://www.reddit.com/r/MachineLearning/comments/11jfgry/d_machine_learning_books_on_kindle/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
