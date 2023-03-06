@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Classifying &lpar;binary&rpar; multiple time-series with LSTM/CNN](https://www.reddit.com/r/MachineLearning/comments/11k396m/discussion_classifying_binary_multiple_timeseries/)
-- [[R] [P] YOLOv5 Object Detection](https://www.reddit.com/r/MachineLearning/comments/11k2jnb/r_p_yolov5_object_detection/)
-- [[D] Artificial Intelligence &lpar;AI&rpar; - The system needs new structures - Construction 4](https://www.reddit.com/r/MachineLearning/comments/11k2azz/d_artificial_intelligence_ai_the_system_needs_new/)
-- [[D] Best approach to take](https://www.reddit.com/r/MachineLearning/comments/11k2966/d_best_approach_to_take/)
+- [[P] NLP of Spanish speakers](https://www.reddit.com/r/MachineLearning/comments/11k41fo/p_nlp_of_spanish_speakers/)
 - [[D] Are there any standard methods for finding nearest-neighbours for a subset &lpar;rather than a single point&rpar;?](https://www.reddit.com/r/MachineLearning/comments/11k23xl/d_are_there_any_standard_methods_for_finding/)
+- [[R] We found nearly half a billion duplicated images on LAION-2B-en.](https://www.reddit.com/r/MachineLearning/comments/11jyrfj/r_we_found_nearly_half_a_billion_duplicated/)
+- [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
+- [[D] Best way to run LLMs in the cloud?](https://www.reddit.com/r/MachineLearning/comments/11jjd18/d_best_way_to_run_llms_in_the_cloud/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
