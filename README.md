@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I’m a Machine Learning Engineer for FAANG companies. What are some places looking for freelance / contract work for ML?](https://www.reddit.com/r/MachineLearning/comments/11kcpye/d_im_a_machine_learning_engineer_for_faang/)
 - [[D] The MMSegmentation library from OpenMMLab appears to return the wrong results when computing basic image segmentation metrics such as the Jaccard index &lpar;IoU - intersection-over-union&rpar;. It appears to compute recall &lpar;sensitivity&rpar; instead of IoU, which artificially inflates the performance metrics.](https://www.reddit.com/r/MachineLearning/comments/11kbuzq/d_the_mmsegmentation_library_from_openmmlab/)
 - [[D] Does best subset selection in Linear Regression always perform better than Forward and Backward Stepwise selection?](https://www.reddit.com/r/MachineLearning/comments/11k9oxr/d_does_best_subset_selection_in_linear_regression/)
 - [[R] EvoTorch: Scalable Evolutionary Computation in Python &lpar;technical report describing the EvoTorch library&rpar;](https://www.reddit.com/r/MachineLearning/comments/11k9es7/r_evotorch_scalable_evolutionary_computation_in/)
 - [[P] SIR model for COVID data + gradio demo](https://www.reddit.com/r/MachineLearning/comments/11k6qp5/p_sir_model_for_covid_data_gradio_demo/)
-- [What is the future of AI in medicine? [D]](https://www.reddit.com/r/MachineLearning/comments/11k4qzs/what_is_the_future_of_ai_in_medicine_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
