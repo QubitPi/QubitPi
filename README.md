@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Identifying and preventing fraud is a complex problem for many industries where a high volume of transactional data is difficult to trace. 🥑🔥 Th...](https://twitter.com/arangodb/status/1632712664148328449)
 - [ArangoDB is #SOC2 Type 2 compliant. 🔥 For further details, please refer to our full announcement below. https://okt.to/Yu5JEA](https://twitter.com/arangodb/status/1632395556659122181)
 - [Learn the fundamentals of graph databases and ArangoDB with our AQL Fundamentals course. 🥑 Enroll in the AQL Fundamentals course today! https://okt...](https://twitter.com/arangodb/status/1632033172887068676)
 - [Make the most of March with our upcoming webinar featuring Solution Architect Victor Moey. Discover how ArangoDB&#39;s Query Language &lpar;AQL&rpar; can help detec...](https://twitter.com/arangodb/status/1631761382768013313)
 - [Pop the popcorn and get ready to get up-to-date with ArangoDB Summit - our inaugural two-day industry event! 🍿 Get well-versed in use cases, cuttin...](https://twitter.com/arangodb/status/1631625498416541696)
-- [Check out this exciting article on graph database technology to prevent next-generation fraud! Find out how graph databases can help identify and trac...](https://twitter.com/arangodb/status/1631398998970859528)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
