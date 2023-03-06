@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Is this a fair Self-Assessment of how well someone knows ML/AI? [R]](https://www.reddit.com/r/MachineLearning/comments/11jmfpw/is_this_a_fair_selfassessment_of_how_well_someone/)
-- [[P] Predicting Product Demand/Sales](https://www.reddit.com/r/MachineLearning/comments/11jm9gu/p_predicting_product_demandsales/)
-- [[D] PyTorch logo meets ControlNet](https://www.reddit.com/r/MachineLearning/comments/11jlqyy/d_pytorch_logo_meets_controlnet/)
 - [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 - [[D] Best way to run LLMs in the cloud?](https://www.reddit.com/r/MachineLearning/comments/11jjd18/d_best_way_to_run_llms_in_the_cloud/)
+- [[P] I built a chatbot that helps you debug your code](https://www.reddit.com/r/MachineLearning/comments/11jgig0/p_i_built_a_chatbot_that_helps_you_debug_your_code/)
+- [[P] Structure based drug design and machine learning vs. deep learning models](https://www.reddit.com/r/MachineLearning/comments/11je7pd/p_structure_based_drug_design_and_machine/)
+- [[D] Open source recommendations for a conversational AI](https://www.reddit.com/r/MachineLearning/comments/11jak1x/d_open_source_recommendations_for_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
