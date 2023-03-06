@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Does best subset selection in Linear Regression always perform better than Forward and Backward Stepwise selection?](https://www.reddit.com/r/MachineLearning/comments/11k9oxr/d_does_best_subset_selection_in_linear_regression/)
 - [[R] EvoTorch: Scalable Evolutionary Computation in Python &lpar;technical report describing the EvoTorch library&rpar;](https://www.reddit.com/r/MachineLearning/comments/11k9es7/r_evotorch_scalable_evolutionary_computation_in/)
 - [[D] Webinar on Architectures for Running ML at the Edge](https://www.reddit.com/r/MachineLearning/comments/11k7xu8/d_webinar_on_architectures_for_running_ml_at_the/)
 - [[P] SIR model for COVID data + gradio demo](https://www.reddit.com/r/MachineLearning/comments/11k6qp5/p_sir_model_for_covid_data_gradio_demo/)
 - [What is the future of AI in medicine? [D]](https://www.reddit.com/r/MachineLearning/comments/11k4qzs/what_is_the_future_of_ai_in_medicine_d/)
-- [[P] NLP of Spanish speakers](https://www.reddit.com/r/MachineLearning/comments/11k41fo/p_nlp_of_spanish_speakers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
