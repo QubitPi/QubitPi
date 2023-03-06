@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] We found nearly half a billion duplicated images on LAION-2B-en.](https://www.reddit.com/r/MachineLearning/comments/11jyrfj/r_we_found_nearly_half_a_billion_duplicated/)
 - [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 - [[D] Best way to run LLMs in the cloud?](https://www.reddit.com/r/MachineLearning/comments/11jjd18/d_best_way_to_run_llms_in_the_cloud/)
 - [[P] I built a chatbot that helps you debug your code](https://www.reddit.com/r/MachineLearning/comments/11jgig0/p_i_built_a_chatbot_that_helps_you_debug_your_code/)
 - [[R] Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control - Google 2023](https://www.reddit.com/r/MachineLearning/comments/11j6y82/r_grounded_decoding_guiding_text_generation_with/)
-- [Great Quantization Libraries? [D]](https://www.reddit.com/r/MachineLearning/comments/11j5go4/great_quantization_libraries_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
