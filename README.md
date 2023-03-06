@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#CyberSecurity #Visualization Fanghua &lpar;Joshua&rpar; Yu demonstrates a low code approach to combine #Bloom with open source intelligence platform OTX to ena...](https://twitter.com/neo4j/status/1632833528877531143)
 - [✨Building a #knowledgegraph using labeled property graph technology ✨Capturing the evolution of user interactions with the business ✨Using knowledg...](https://twitter.com/neo4j/status/1632818433321476099)
 - [👀What are the motivations and experiences of women working in technical fields? Join our livestream, March 8th, to hear Alison, AJ, Emily, and Syd ...](https://twitter.com/neo4j/status/1632783376917602304)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1ZkJzXyyXRDKv](https://twitter.com/neo4j/status/1632754258599870465)
 - [Are you Ready for #GraphSummit2023? March 14th is the first one in Dublin, followed by Stockholm and London.🙌 Take a look at the agenda and stay tu...](https://twitter.com/neo4j/status/1632727935172968451)
+- [What is #Cypher?? 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of the graph. R...](https://twitter.com/neo4j/status/1632450680433639424)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
