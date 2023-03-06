@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1ZkJzXyyXRDKv](https://twitter.com/neo4j/status/1632754258599870465)
+- [Are you Ready for #GraphSummit2023? March 14th is the first one in Dublin, followed by Stockholm and London.🙌 Take a look at the agenda and stay tu...](https://twitter.com/neo4j/status/1632727935172968451)
 - [What is #Cypher?? 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of the graph. R...](https://twitter.com/neo4j/status/1632450680433639424)
 - [2022 Gartner® Magic Quadrant™ for Cloud Database Management Systems---&gt; You can download your complimentary copy of the full report and learn why #N...](https://twitter.com/neo4j/status/1632350263615864836)
 - [Re @lyonwj explores some techniques for working with geospatial data in #Neo4j. We will cover some basic spatial Cypher functions, spatial search, rou...](https://twitter.com/neo4j/status/1632133588337537026)
-- [Take a look at this 6 Steps to Activate the Value of Text to Graph Machine Learning Systems ---&gt; by Data Scientist, Sean Robinson. https://okt.to/kwfz...](https://twitter.com/neo4j/status/1632072689060831233)
-- [Manage EoLs Like a Boss With http://endoflife.date! Adrien Sales builds a #Neodash interface with product lifecycle data. Once imported into Neo4j, he...](https://twitter.com/neo4j/status/1631755352956981249)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
