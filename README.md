@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Slurm workload manager](https://www.reddit.com/r/MachineLearning/comments/11jwd1v/d_slurm_workload_manager/)
 - [[Project] : Truck Number Plate Detection](https://www.reddit.com/r/MachineLearning/comments/11jv642/project_truck_number_plate_detection/)
 - [[N] March 2023 with AI, CV, DL and Machine Learning](https://www.reddit.com/r/MachineLearning/comments/11jtuvt/n_march_2023_with_ai_cv_dl_and_machine_learning/)
 - [[D] Dall E results are absolutely terrible. Every result is covered in gibberish language. Here&#39;s a prime example below. I have yet to get a single result with English text or atleast not covered in nonsense. Anyone able to get useable results?](https://www.reddit.com/r/MachineLearning/comments/11jnyg3/d_dall_e_results_are_absolutely_terrible_every/)
 - [[P] Introducing hlb-gpt: A rapid prototyping toolbench in &lt;350 lines of code to speed up your LLM research exploration](https://www.reddit.com/r/MachineLearning/comments/11jnmru/p_introducing_hlbgpt_a_rapid_prototyping/)
-- [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
