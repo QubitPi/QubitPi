@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Is this a fair Self-Assessment of how well someone knows ML/AI? [R]](https://www.reddit.com/r/MachineLearning/comments/11jmfpw/is_this_a_fair_selfassessment_of_how_well_someone/)
+- [[P] Predicting Product Demand/Sales](https://www.reddit.com/r/MachineLearning/comments/11jm9gu/p_predicting_product_demandsales/)
 - [[D] PyTorch logo meets ControlNet](https://www.reddit.com/r/MachineLearning/comments/11jlqyy/d_pytorch_logo_meets_controlnet/)
 - [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 - [[D] Best way to run LLMs in the cloud?](https://www.reddit.com/r/MachineLearning/comments/11jjd18/d_best_way_to_run_llms_in_the_cloud/)
-- [Best ML algorithm and methods/metrics to evaluate Multiclass Classification Problem with several classes? [P]](https://www.reddit.com/r/MachineLearning/comments/11jiwmk/best_ml_algorithm_and_methodsmetrics_to_evaluate/)
-- [[D] Need your opinion: built a conversational AI study buddy &lpar;for kids&rpar;](https://www.reddit.com/r/MachineLearning/comments/11jh0dp/d_need_your_opinion_built_a_conversational_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
