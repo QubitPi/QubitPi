@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1632805241157480448)
+- [Another pole position for #memgraph on #HackerNews front page. 🏎️🏆 https://twitter.com/kgolubic/status/1632778218334715918](https://twitter.com/memgraphdb/status/1632802768388849670)
+- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. https://memgraph.com/docs/c...](https://twitter.com/memgraphdb/status/1632789263430328321)
 - [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1632764727024648193)
 - [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. https://memgraph....](https://twitter.com/memgraphdb/status/1632746356556156930)
-- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1632737044844670978)
-- [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1632716910952325120)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1632698789742931969)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
