@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1632829150699323397)
+- [Re @Roger_Sanchez .@Roger_Sanchez, thanks for sharing! Do you use graph databases?](https://twitter.com/memgraphdb/status/1632824403288285187)
+- [Re @winsontang .@winsontang do you also use graph databases?](https://twitter.com/memgraphdb/status/1632823475504128004)
+- [Re @nachiket_kanore .@nachiket_kanore thank you for sharing our documentation page :&rpar; Do you also use graph databases?](https://twitter.com/memgraphdb/status/1632822443218812928)
 - [#Memgraph Playground goes beyond case studies: learn which graph algorithms to use with your streams, master graph algorithms in minutes and get a jum...](https://twitter.com/memgraphdb/status/1632805241157480448)
-- [Another pole position for #memgraph on #HackerNews front page. 🏎️🏆 https://twitter.com/kgolubic/status/1632778218334715918](https://twitter.com/memgraphdb/status/1632802768388849670)
-- [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. https://memgraph.com/docs/c...](https://twitter.com/memgraphdb/status/1632789263430328321)
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1632764727024648193)
-- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. https://memgraph....](https://twitter.com/memgraphdb/status/1632746356556156930)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
