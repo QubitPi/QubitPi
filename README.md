@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Webinar on Architectures for Running ML at the Edge](https://www.reddit.com/r/MachineLearning/comments/11k7xu8/d_webinar_on_architectures_for_running_ml_at_the/)
+- [[P] SIR model for COVID data + gradio demo](https://www.reddit.com/r/MachineLearning/comments/11k6qp5/p_sir_model_for_covid_data_gradio_demo/)
 - [What is the future of AI in medicine? [D]](https://www.reddit.com/r/MachineLearning/comments/11k4qzs/what_is_the_future_of_ai_in_medicine_d/)
 - [[P] NLP of Spanish speakers](https://www.reddit.com/r/MachineLearning/comments/11k41fo/p_nlp_of_spanish_speakers/)
 - [[D] Are there any standard methods for finding nearest-neighbours for a subset &lpar;rather than a single point&rpar;?](https://www.reddit.com/r/MachineLearning/comments/11k23xl/d_are_there_any_standard_methods_for_finding/)
-- [[R] We found nearly half a billion duplicated images on LAION-2B-en.](https://www.reddit.com/r/MachineLearning/comments/11jyrfj/r_we_found_nearly_half_a_billion_duplicated/)
-- [Optimized implementation of training/fine-tuning of LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/11jk5ky/optimized_implementation_of_trainingfinetuning_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
