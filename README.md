@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum im Selbststudium – Teil 2: Scrum in 11 Schritten im Schnelldurchlauf erklärt](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-2-scrum-11-schritten-im-schnelldurchlauf-erklart)
 - [El Scrum Master brinda servicios de coaching](https://www.scrum.org/resources/blog/el-scrum-master-brinda-servicios-de-coaching)
 - [9 Ways an Agile Manager Helps Grow a Team](https://www.scrum.org/resources/blog/9-ways-agile-manager-helps-grow-team)
 - [Scrum im Selbststudium: Der Scrum Guide in 19 Artikeln erklärt](https://www.scrum.org/resources/blog/scrum-im-selbststudium-der-scrum-guide-19-artikeln-erklart)
 - [The Three Daily Scrum Questions Won’t Die — Making Your Scrum Work &lpar;29&rpar;](https://www.scrum.org/resources/blog/three-daily-scrum-questions-wont-die-making-your-scrum-work-29)
-- [¿El Product Owner y el Scrum Master deben pelearse siempre?](https://www.scrum.org/resources/blog/el-product-owner-y-el-scrum-master-deben-pelearse-siempre)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
