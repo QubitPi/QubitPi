@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Analysis of 200+ ML competitions in 2022](https://www.reddit.com/r/MachineLearning/comments/11kzkla/r_analysis_of_200_ml_competitions_in_2022/)
 - [[R][D] Measuring the Gender Gap in Animated Films using Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11kx4ba/rd_measuring_the_gender_gap_in_animated_films/)
 - [[D] Tutorial: Run LLaMA on 8gb vram on windows &lpar;thanks to bitsandbytes 8bit quantization&rpar;](https://www.reddit.com/r/MachineLearning/comments/11kwdu9/d_tutorial_run_llama_on_8gb_vram_on_windows/)
 - [[D] Kaggle or Upwork while working in a company](https://www.reddit.com/r/MachineLearning/comments/11kw74g/d_kaggle_or_upwork_while_working_in_a_company/)
 - [[R] An overview of Imitation Learning &lpar;by D. Garg&rpar;](https://www.reddit.com/r/MachineLearning/comments/11kw5oh/r_an_overview_of_imitation_learning_by_d_garg/)
-- [[D] Neat project that would &quot;fit&quot; onto a 4090?](https://www.reddit.com/r/MachineLearning/comments/11ktxjl/d_neat_project_that_would_fit_onto_a_4090/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
