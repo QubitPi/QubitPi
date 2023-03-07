@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Neat project that would &quot;fit&quot; onto a 4090?](https://www.reddit.com/r/MachineLearning/comments/11ktxjl/d_neat_project_that_would_fit_onto_a_4090/)
+- [[R] Dedup-ing LAION &lpar;60M duplicates&rpar; and ImageNet &lpar;1.2M duplicates&rpar; with fastdup](https://www.reddit.com/r/MachineLearning/comments/11ktvkk/r_deduping_laion_60m_duplicates_and_imagenet_12m/)
 - [[D] Tortoise TTS for real time voice assistant](https://www.reddit.com/r/MachineLearning/comments/11ktdee/d_tortoise_tts_for_real_time_voice_assistant/)
 - [[D] &lpar;3D&rpar; Image data augmentation techniques for increasing learning robustness in DL models?](https://www.reddit.com/r/MachineLearning/comments/11ksf39/d_3d_image_data_augmentation_techniques_for/)
 - [[D]Custom Trained Networks for EasyOCR](https://www.reddit.com/r/MachineLearning/comments/11ksajc/dcustom_trained_networks_for_easyocr/)
-- [[N] tinygrad 0.5.0 released](https://www.reddit.com/r/MachineLearning/comments/11ksa12/n_tinygrad_050_released/)
-- [[R] Google Research: PaLM-E: An Embodied Multimodal Language Model](https://www.reddit.com/r/MachineLearning/comments/11krj67/r_google_research_palme_an_embodied_multimodal/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
