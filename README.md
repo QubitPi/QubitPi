@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] PaLM-E: An Embodied Multimodal Language Model - Google 2023 - Exhibits positve transfer learning!](https://www.reddit.com/r/MachineLearning/comments/11krgp4/r_palme_an_embodied_multimodal_language_model/)
 - [[R] Created a Discord server with LLaMA 13B](https://www.reddit.com/r/MachineLearning/comments/11kr20f/r_created_a_discord_server_with_llama_13b/)
 - [[D] LoRA vs P-Tuning for LLMS?](https://www.reddit.com/r/MachineLearning/comments/11kpjas/d_lora_vs_ptuning_for_llms/)
 - [[R][P] Navigating a deep reinforcement learning agent with virtual guidance](https://www.reddit.com/r/MachineLearning/comments/11kogmq/rp_navigating_a_deep_reinforcement_learning_agent/)
 - [[R] implement YOLOv5 with python script](https://www.reddit.com/r/MachineLearning/comments/11kobh7/r_implement_yolov5_with_python_script/)
-- [[R] Understanding the Diffusion Objective as a Weighted Integral of ELBOs](https://www.reddit.com/r/MachineLearning/comments/11klm5o/r_understanding_the_diffusion_objective_as_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
