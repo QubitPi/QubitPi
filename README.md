@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Tutorial: Run LLaMA on 8gb vram on windows &lpar;thanks to bitsandbytes 8bit quantization&rpar;](https://www.reddit.com/r/MachineLearning/comments/11kwdu9/d_tutorial_run_llama_on_8gb_vram_on_windows/)
 - [[D] Kaggle or Upwork while working in a company](https://www.reddit.com/r/MachineLearning/comments/11kw74g/d_kaggle_or_upwork_while_working_in_a_company/)
 - [[R] An overview of Imitation Learning &lpar;by D. Garg&rpar;](https://www.reddit.com/r/MachineLearning/comments/11kw5oh/r_an_overview_of_imitation_learning_by_d_garg/)
 - [[D] Neat project that would &quot;fit&quot; onto a 4090?](https://www.reddit.com/r/MachineLearning/comments/11ktxjl/d_neat_project_that_would_fit_onto_a_4090/)
 - [[R] Dedup-ing LAION &lpar;60M duplicates&rpar; and ImageNet &lpar;1.2M duplicates&rpar; with fastdup](https://www.reddit.com/r/MachineLearning/comments/11ktvkk/r_deduping_laion_60m_duplicates_and_imagenet_12m/)
-- [[D] Tortoise TTS for real time voice assistant](https://www.reddit.com/r/MachineLearning/comments/11ktdee/d_tortoise_tts_for_real_time_voice_assistant/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
