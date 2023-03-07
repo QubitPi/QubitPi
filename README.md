@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R][P] Navigating a deep reinforcement learning agent with virtual guidance](https://www.reddit.com/r/MachineLearning/comments/11kogmq/rp_navigating_a_deep_reinforcement_learning_agent/)
 - [[R] implement YOLOv5 with python script](https://www.reddit.com/r/MachineLearning/comments/11kobh7/r_implement_yolov5_with_python_script/)
 - [[R] Understanding the Diffusion Objective as a Weighted Integral of ELBOs](https://www.reddit.com/r/MachineLearning/comments/11klm5o/r_understanding_the_diffusion_objective_as_a/)
 - [[R] PyReason: logic for use with ML](https://www.reddit.com/r/MachineLearning/comments/11kk3iq/r_pyreason_logic_for_use_with_ml/)
 - [[Research] Universal Speech Model by Google Research](https://www.reddit.com/r/MachineLearning/comments/11kimff/research_universal_speech_model_by_google_research/)
-- [[D] Resources for instruction fine tuning T5/llama or similar models?](https://www.reddit.com/r/MachineLearning/comments/11ke0an/d_resources_for_instruction_fine_tuning_t5llama/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
