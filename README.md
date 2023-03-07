@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [How many graph database query languages do you use? Do you have a favorite one? https://memgraph.com #memgraph](https://twitter.com/memgraphdb/status/1633038780654313472)
 - [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 https://memgraph.co...](https://twitter.com/memgraphdb/status/1633004809333735427)
 - [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1632994237053648897)
 - [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1632979642394050560)
 - [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1632829150699323397)
-- [Re @Roger_Sanchez .@Roger_Sanchez, thanks for sharing! Do you use graph databases?](https://twitter.com/memgraphdb/status/1632824403288285187)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
