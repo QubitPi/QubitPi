@@ -318,7 +318,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Managing Risk: Unpacking Scrum&#39;s Risk Management Strategy](https://www.scrum.org/resources/blog/managing-risk-unpacking-scrums-risk-management-strategy)
-- [Scrum is not an excuse to ignore emergencies](https://www.scrum.org/resources/blog/scrum-not-excuse-ignore-emergencies)
+- [Scrum is Not an Excuse to Ignore Emergencies](https://www.scrum.org/resources/blog/scrum-not-excuse-ignore-emergencies)
 - [Unlocking the Power of Systems Thinking: How to Design High-Performing Systems That Delight Customers](https://www.scrum.org/resources/blog/unlocking-power-systems-thinking-how-design-high-performing-systems-delight)
 - [Scrum im Selbststudium – Teil 2: Scrum in 11 Schritten im Schnelldurchlauf erklärt](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-2-scrum-11-schritten-im-schnelldurchlauf-erklart)
 - [El Scrum Master brinda servicios de coaching](https://www.scrum.org/resources/blog/el-scrum-master-brinda-servicios-de-coaching)
