@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Graphversation - IWD Special!](https://www.youtube.com/watch?v=tTCDlTWvcr8)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=KOQscf3hsAk)
 - [Uncovering the Power of Relationships: A Neo4j Series](https://www.youtube.com/watch?v=7sPfkgjJhWg)
 - [Neo4j Live: Inspiring Women&#39;s Journeys in Tech #shorts](https://www.youtube.com/watch?v=S32Mx5RG1FA)
 - [Neo4j Live: Inspiring Women&#39;s Journeys in Tech](https://www.youtube.com/watch?v=SXgKJOF55uY)
+- [Going Meta - a series on graphs, semantics and knowledge - Ep14](https://www.youtube.com/watch?v=Aurp3eztRHM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
