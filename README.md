@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. https://memgraph....](https://twitter.com/memgraphdb/status/1633145231733342208)
-- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1633127112390627328)
-- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1633119817254273026)
 - [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1633078544812199936)
 - [#Memgraph Cloud offers instances from 1 GB RAM, so you can start your graph project without breaking the bank. Confidently scale to instances of 2GB, ...](https://twitter.com/memgraphdb/status/1633055392224751616)
+- [How many graph database query languages do you use? Do you have a favorite one? https://memgraph.com #memgraph](https://twitter.com/memgraphdb/status/1633038780654313472)
+- [Did you ever use a graph database? Given their popularity in recent years, it seems that everyone is using them for something 💯 https://memgraph.co...](https://twitter.com/memgraphdb/status/1633004809333735427)
+- [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1632994237053648897)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
