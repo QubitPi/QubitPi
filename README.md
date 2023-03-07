@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [It&#39;s Tomorrow!! 👀What are the motivations and experiences of women working in technical fields? Join our livestream! Hosted by Yolande Poirier. htt...](https://twitter.com/neo4j/status/1633202882140049409)
 - [RT 1stWebDesigner: Why You Should Consider Graphs For Your Next GraphQL Project - https://bit.ly/3ZHET8x Adam Cowley examines the Graph behind GraphQL...](https://twitter.com/1stwebdesigner/status/1633166464395137025)
 - [Going Meta - Ep14: Taxonomy reconciliation @barrasadv https://twitter.com/i/broadcasts/1ZkKzXyVZbZJv](https://twitter.com/neo4j/status/1633131689974312960)
 - [&quot;Neo4j is a strategic partner and the most complete and powerful graph database we found. So we decided to use Neo4j as our graph database.&quot; says Simo...](https://twitter.com/neo4j/status/1633090563586097152)
 - [#CyberSecurity #Visualization Fanghua &lpar;Joshua&rpar; Yu demonstrates a low code approach to combine #Bloom with open source intelligence platform OTX to ena...](https://twitter.com/neo4j/status/1632833528877531143)
-- [✨Building a #knowledgegraph using labeled property graph technology ✨Capturing the evolution of user interactions with the business ✨Using knowledg...](https://twitter.com/neo4j/status/1632818433321476099)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
