@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R] Train pose etimation with additional key points](https://www.reddit.com/r/MachineLearning/comments/11l7wcq/r_train_pose_etimation_with_additional_key_points/)
-- [[D] Are we in the mainframe era of large models?](https://www.reddit.com/r/MachineLearning/comments/11l6ici/d_are_we_in_the_mainframe_era_of_large_models/)
 - [[D] - Have neural networks that modulate their own loss functions been attempted? Is there any active research into this area?](https://www.reddit.com/r/MachineLearning/comments/11l66uj/d_have_neural_networks_that_modulate_their_own/)
 - [[D] To Make Your Model Better, First Figure Out What&#39;s Wrong](https://www.reddit.com/r/MachineLearning/comments/11l4xo0/d_to_make_your_model_better_first_figure_out/)
 - [[D] The Emergent Abilities of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/11l49y5/d_the_emergent_abilities_of_large_language_models/)
+- [[D] Can someone explain the discrepancy between the findings of LLaMA and Chinchilla?](https://www.reddit.com/r/MachineLearning/comments/11l3as6/d_can_someone_explain_the_discrepancy_between_the/)
+- [[R] Analysis of 200+ ML competitions in 2022](https://www.reddit.com/r/MachineLearning/comments/11kzkla/r_analysis_of_200_ml_competitions_in_2022/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
