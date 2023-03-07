@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Understanding the Diffusion Objective as a Weighted Integral of ELBOs](https://www.reddit.com/r/MachineLearning/comments/11klm5o/r_understanding_the_diffusion_objective_as_a/)
 - [[R] PyReason: logic for use with ML](https://www.reddit.com/r/MachineLearning/comments/11kk3iq/r_pyreason_logic_for_use_with_ml/)
 - [[Research] Universal Speech Model by Google Research](https://www.reddit.com/r/MachineLearning/comments/11kimff/research_universal_speech_model_by_google_research/)
 - [[D] Resources for instruction fine tuning T5/llama or similar models?](https://www.reddit.com/r/MachineLearning/comments/11ke0an/d_resources_for_instruction_fine_tuning_t5llama/)
 - [[R] Tiny Classifier Circuits: Evolving Accelerators for Tabular Data](https://www.reddit.com/r/MachineLearning/comments/11kdumf/r_tiny_classifier_circuits_evolving_accelerators/)
-- [[D] I’m a Machine Learning Engineer for FAANG companies. What are some places looking for freelance / contract work for ML?](https://www.reddit.com/r/MachineLearning/comments/11kcpye/d_im_a_machine_learning_engineer_for_faang/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
