@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We tracked mentions of OpenAI, Bing, and Bard across social media to find out who&#39;s the most talked about in Silicon Valley](https://www.reddit.com/r/MachineLearning/comments/11l3eh4/p_we_tracked_mentions_of_openai_bing_and_bard/)
 - [[D] Can someone explain the discrepancy between the findings of LLaMA and Chinchilla?](https://www.reddit.com/r/MachineLearning/comments/11l3as6/d_can_someone_explain_the_discrepancy_between_the/)
 - [[R] Where can I train a deep learning algorithm with a $1 million budget?](https://www.reddit.com/r/MachineLearning/comments/11l353h/r_where_can_i_train_a_deep_learning_algorithm/)
 - [[D] Flux.jl &gt; 0.13.0 just breaks my model](https://www.reddit.com/r/MachineLearning/comments/11l2ab4/d_fluxjl_0130_just_breaks_my_model/)
 - [[R] Analysis of 200+ ML competitions in 2022](https://www.reddit.com/r/MachineLearning/comments/11kzkla/r_analysis_of_200_ml_competitions_in_2022/)
-- [[D] Tutorial: Run LLaMA on 8gb vram on windows &lpar;thanks to bitsandbytes 8bit quantization&rpar;](https://www.reddit.com/r/MachineLearning/comments/11kwdu9/d_tutorial_run_llama_on_8gb_vram_on_windows/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
