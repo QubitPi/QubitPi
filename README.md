@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Did you hear the last podcast? This time, feast on various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Neo4j’s Developer...](https://twitter.com/neo4j/status/1633540863279382529)
 - [Neo4j Live: Inspiring Women&#39;s Journeys in Tech https://twitter.com/i/broadcasts/1nAKErBZjAAGL](https://twitter.com/neo4j/status/1633513235793182720)
 - [The Great Graph Debate: Revolutionary concept in databases or niche curiosity? Don’t forget to cast your vote via @TheRegister! https://okt.to/Ea0v85...](https://twitter.com/neo4j/status/1633485502283227137)
 - [RT Siddhant Agarwal: #GraphDB #Bangalore community powered by @Neo4j and @DockerBangalore community are coming together this 11th March for an excitin...](https://twitter.com/sidagarwal04/status/1633444957339156480)
 - [Don&#39;t miss our #IWD2023 livestream today &quot;Inspiring Women’s Journey in Tech&quot; where you&#39; will learn tips about how you too can thrive in tech. Let&#39;s #...](https://twitter.com/neo4j/status/1633437614165377027)
-- [It&#39;s Tomorrow!! 👀What are the motivations and experiences of women working in technical fields? Join our livestream! Hosted by Yolande Poirier. htt...](https://twitter.com/neo4j/status/1633202882140049409)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
