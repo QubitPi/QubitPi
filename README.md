@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I&#39;m a dentist and during my remaining lifetime I would like to take part in laying groundwork for future autonomic robots powered by AI that are capable of performing dental procedures. What technologies should I start to learn?](https://www.reddit.com/r/MachineLearning/comments/11lqpst/d_im_a_dentist_and_during_my_remaining_lifetime_i/)
 - [Plant Disease Detection [Project]](https://www.reddit.com/r/MachineLearning/comments/11lpzjy/plant_disease_detection_project/)
 - [[R] Prismer: An Open Source Vision-Language Model with An Ensemble of Experts.](https://www.reddit.com/r/MachineLearning/comments/11lcspc/r_prismer_an_open_source_visionlanguage_model/)
 - [[D] - Have neural networks that modulate their own loss functions been attempted? Is there any active research into this area?](https://www.reddit.com/r/MachineLearning/comments/11l66uj/d_have_neural_networks_that_modulate_their_own/)
 - [[D] To Make Your Model Better, First Figure Out What&#39;s Wrong](https://www.reddit.com/r/MachineLearning/comments/11l4xo0/d_to_make_your_model_better_first_figure_out/)
-- [[D] The Emergent Abilities of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/11l49y5/d_the_emergent_abilities_of_large_language_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
