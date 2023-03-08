@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn what is @Docker Compose and how it can help you in the application development process. https://memgraph.com/blog/how-to-orchestrate-your-graph-...](https://twitter.com/memgraphdb/status/1633514112385957888)
 - [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 https://memgraph.com...](https://twitter.com/memgraphdb/status/1633489503792033792)
 - [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1633471129703661570)
 - [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1633461818298601472)
 - [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1633441687916756992)
-- [To all the incredible women who make the world a better place, happy #InternationalWomensDay ! https://t.co/fQxuF0z1Hs](https://twitter.com/memgraphdb/status/1633438741023866882)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
