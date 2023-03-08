@@ -560,11 +560,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Creating a Clock with the New CSS sin&lpar;&rpar; and cos&lpar;&rpar; Trigonometry Functions](https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/)
 - [Managing Fonts in WordPress Block Themes](https://css-tricks.com/managing-fonts-in-wordpress-block-themes/)
 - [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/)
 - [An Approach to Lazy Loading Custom Elements](https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/)
 - [Different Ways to Get CSS Gradient Shadows](https://css-tricks.com/different-ways-to-get-css-gradient-shadows/)
-- [Healthcare, Selling Lemons, and the Price of Developer Experience](https://css-tricks.com/healthcare-selling-lemons-and-the-price-of-developer-experience/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
