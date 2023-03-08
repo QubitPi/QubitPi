@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1633423565444853761)
-- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. https://memgraph.com/do...](https://twitter.com/memgraphdb/status/1633417777456328705)
-- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1633405701295861761)
 - [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1633365689397288961)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1633356625934254081)
+- [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1633333978206806016)
+- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1633187260614193152)
+- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1633169643463639040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
