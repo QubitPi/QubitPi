@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Machine/Deep learning jupyter notebooks for computer vision, NLP, and recommender systems](https://www.reddit.com/r/MachineLearning/comments/11mbikv/d_machinedeep_learning_jupyter_notebooks_for/)
 - [[D] Does/Could it exist: LLMs as a means of specifying an Image Analysis Procedure](https://www.reddit.com/r/MachineLearning/comments/11maelv/d_doescould_it_exist_llms_as_a_means_of/)
 - [[N] My first article on GANs, with full Python implementation and replicable results](https://www.reddit.com/r/MachineLearning/comments/11m9enj/n_my_first_article_on_gans_with_full_python/)
 - [[D] Text embedding model for financial documents](https://www.reddit.com/r/MachineLearning/comments/11m99js/d_text_embedding_model_for_financial_documents/)
 - [[D] In AI, is bigger always better? Article in Nature; Bing summary and comment](https://www.reddit.com/r/MachineLearning/comments/11m57gr/d_in_ai_is_bigger_always_better_article_in_nature/)
-- [[R] Reinforcement Learning With C++.](https://www.reddit.com/r/MachineLearning/comments/11m54z6/r_reinforcement_learning_with_c/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
