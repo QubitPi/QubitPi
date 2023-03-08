@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Are you familiar with fraud detection? 🤔 Fraud detection is a security measure designed to prevent businesses from becoming victims of fraudulent a...](https://twitter.com/arangodb/status/1633573325728546820)
 - [Today we celebrate the incredible achievements of women across the globe. Notably, we want to recognize the amazing women who help make ArangoDB the c...](https://twitter.com/arangodb/status/1633505376577683458)
 - [Did you make it to our first ever 2-day industry event, ArangoDB Summit? 🔥 If not, no worries! You can now check out all the presentations from our...](https://twitter.com/arangodb/status/1633437436473663494)
 - [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1633210932804608000)
 - [Get started with graphs and ArangoDB! 🔥 Check out our AQL Fundamentals course available on our brand new ArangoDB University. Get started with this...](https://twitter.com/arangodb/status/1633075053037223936)
-- [Take advantage of this month and join us for our upcoming webinar with Solution Architect Victor Moey to learn about ArangoDB&#39;s Query Language &lpar;AQL&rpar; a...](https://twitter.com/arangodb/status/1632848542002827264)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
