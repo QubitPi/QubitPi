@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Artificial influencer on instagram [P]](https://www.reddit.com/r/MachineLearning/comments/11m3umk/artificial_influencer_on_instagram_p/)
+- [[D] In AI, is bigger always better? Article in Nature; Bing summary and comment](https://www.reddit.com/r/MachineLearning/comments/11m57gr/d_in_ai_is_bigger_always_better_article_in_nature/)
+- [[R] Reinforcement Learning With C++.](https://www.reddit.com/r/MachineLearning/comments/11m54z6/r_reinforcement_learning_with_c/)
+- [Semantic Search: With Exclusions [P][D]](https://www.reddit.com/r/MachineLearning/comments/11m4wim/semantic_search_with_exclusions_pd/)
+- [[P] Feste, an open-source framework to optimize and parallelize NLP tasks](https://www.reddit.com/r/MachineLearning/comments/11m4l8y/p_feste_an_opensource_framework_to_optimize_and/)
 - [[D] Has Anyone Used AutoML?](https://www.reddit.com/r/MachineLearning/comments/11m34uz/d_has_anyone_used_automl/)
-- [[D] GPT 3.5 Turbo Issue - Any Suggestions?](https://www.reddit.com/r/MachineLearning/comments/11m2ayd/d_gpt_35_turbo_issue_any_suggestions/)
-- [[D] Label Encoding of Multiple Columns?](https://www.reddit.com/r/MachineLearning/comments/11m2ao0/d_label_encoding_of_multiple_columns/)
-- [[D] 6 month masters in AI worth it?](https://www.reddit.com/r/MachineLearning/comments/11m1rt5/d_6_month_masters_in_ai_worth_it/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
