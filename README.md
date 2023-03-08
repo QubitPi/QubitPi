@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Neo4j Live: Conversational Artificial Intelligence With Neo4j and Unreal Engine](https://www.youtube.com/watch?v=0r4fwxd5tKU)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=9c9WWDMskXQ)
 - [Going Meta - Ep 14: Taxonomy reconciliation](https://www.youtube.com/watch?v=Aurp3eztRHM)
 - [Graphversation - IWD Special!](https://www.youtube.com/watch?v=tTCDlTWvcr8)
-- [Pay Gap Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=KOQscf3hsAk)
+- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=KOQscf3hsAk)
+- [Uncovering the Power of Relationships: A Neo4j Series](https://www.youtube.com/watch?v=7sPfkgjJhWg)
+- [Neo4j Live: Inspiring Women&#39;s Journeys in Tech #shorts](https://www.youtube.com/watch?v=S32Mx5RG1FA)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
