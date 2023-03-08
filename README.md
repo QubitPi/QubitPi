@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [The Great Graph Debate: Revolutionary concept in databases or niche curiosity? Don’t forget to cast your vote via @TheRegister! https://okt.to/Ea0v85...](https://twitter.com/neo4j/status/1633485502283227137)
+- [RT Siddhant Agarwal: #GraphDB #Bangalore community powered by @Neo4j and @DockerBangalore community are coming together this 11th March for an excitin...](https://twitter.com/sidagarwal04/status/1633444957339156480)
 - [Don&#39;t miss our #IWD2023 livestream today &quot;Inspiring Women’s Journey in Tech&quot; where you&#39; will learn tips about how you too can thrive in tech. Let&#39;s #...](https://twitter.com/neo4j/status/1633437614165377027)
 - [It&#39;s Tomorrow!! 👀What are the motivations and experiences of women working in technical fields? Join our livestream! Hosted by Yolande Poirier. htt...](https://twitter.com/neo4j/status/1633202882140049409)
 - [RT 1stWebDesigner: Why You Should Consider Graphs For Your Next GraphQL Project - https://bit.ly/3ZHET8x Adam Cowley examines the Graph behind GraphQL...](https://twitter.com/1stwebdesigner/status/1633166464395137025)
-- [Going Meta - Ep14: Taxonomy reconciliation @barrasadv https://twitter.com/i/broadcasts/1ZkKzXyVZbZJv](https://twitter.com/neo4j/status/1633131689974312960)
-- [&quot;Neo4j is a strategic partner and the most complete and powerful graph database we found. So we decided to use Neo4j as our graph database.&quot; says Simo...](https://twitter.com/neo4j/status/1633090563586097152)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
