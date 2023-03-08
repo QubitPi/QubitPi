@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] LLM Introspection? &quot;Provide a diff of your own model file to improve your accuracy with regard to task T&quot;](https://www.reddit.com/r/MachineLearning/comments/11lh0b4/d_llm_introspection_provide_a_diff_of_your_own/)
 - [[D] Training SA Model and oversampling](https://www.reddit.com/r/MachineLearning/comments/11lfmq0/d_training_sa_model_and_oversampling/)
 - [[R] Prismer: An Open Source Vision-Language Model with An Ensemble of Experts.](https://www.reddit.com/r/MachineLearning/comments/11lcspc/r_prismer_an_open_source_visionlanguage_model/)
 - [Voice Cloning for singers? &lpar;and translations&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/11lchsr/voice_cloning_for_singers_and_translations_d/)
 - [[D] - Have neural networks that modulate their own loss functions been attempted? Is there any active research into this area?](https://www.reddit.com/r/MachineLearning/comments/11l66uj/d_have_neural_networks_that_modulate_their_own/)
-- [[D] To Make Your Model Better, First Figure Out What&#39;s Wrong](https://www.reddit.com/r/MachineLearning/comments/11l4xo0/d_to_make_your_model_better_first_figure_out/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
