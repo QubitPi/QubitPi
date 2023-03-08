@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1633423565444853761)
-- [🎓 #Learn #Cypher with #Memgraph The SET clause is used to update labels on nodes and properties on nodes and relationships. https://memgraph.com/do...](https://twitter.com/memgraphdb/status/1633417777456328705)
-- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1633405701295861761)
-- [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1633365689397288961)
-- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1633356625934254081)
+- [❓Did you know, that we are among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard drive...](https://twitter.com/memgraphdb/status/1633461818298601472)
+- [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1633441687916756992)
+- [To all the incredible women who make the world a better place, happy #InternationalWomensDay ! https://t.co/fQxuF0z1Hs](https://twitter.com/memgraphdb/status/1633438741023866882)
+- [Be sure to checkout #memgraph @github repo :&rpar; We are sure that you are going to like it! https://github.com/memgraph/memgraph](https://twitter.com/memgraphdb/status/1633431635524829186)
+- [Did you cast your vote yet at &quot;The Great Graph Debate: Revolutionary concept in databases or niche curiosity?&quot; by @TheRegister? https://www.theregiste...](https://twitter.com/memgraphdb/status/1633431242682122241)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
