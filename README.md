@@ -302,8 +302,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] GPT 3.5 Turbo Issue - Any Suggestions?](https://www.reddit.com/r/MachineLearning/comments/11m2ayd/d_gpt_35_turbo_issue_any_suggestions/)
 - [[D] Label Encoding of Multiple Columns?](https://www.reddit.com/r/MachineLearning/comments/11m2ao0/d_label_encoding_of_multiple_columns/)
 - [[D] 6 month masters in AI worth it?](https://www.reddit.com/r/MachineLearning/comments/11m1rt5/d_6_month_masters_in_ai_worth_it/)
-- [[D] Save bandwidth by using a torrent to distribute more efficiently](https://www.reddit.com/r/MachineLearning/comments/11lytz9/d_save_bandwidth_by_using_a_torrent_to_distribute/)
 - [[P] Introducing the GitHub profile summarizer](https://www.reddit.com/r/MachineLearning/comments/11ly4d9/p_introducing_the_github_profile_summarizer/)
+- [[R] Prismer: An Open Source Vision-Language Model with An Ensemble of Experts.](https://www.reddit.com/r/MachineLearning/comments/11lcspc/r_prismer_an_open_source_visionlanguage_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
