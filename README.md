@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] JAX vs PyTorch in 2023](https://www.reddit.com/r/MachineLearning/comments/11myoug/d_jax_vs_pytorch_in_2023/)
 - [[P] CNN training limited by my hardware](https://www.reddit.com/r/MachineLearning/comments/11mwh2q/p_cnn_training_limited_by_my_hardware/)
 - [[D] What is the best way to fine tune a LLM with your own data and build a custom text classifier?](https://www.reddit.com/r/MachineLearning/comments/11mw2xy/d_what_is_the_best_way_to_fine_tune_a_llm_with/)
 - [[D] Is a diverse dataset necessary for accuracy if the conditions in which inference will be used are narrow?](https://www.reddit.com/r/MachineLearning/comments/11mvjtu/d_is_a_diverse_dataset_necessary_for_accuracy_if/)
 - [[P] Applying SHAP on forecasting LSTM for multivariate time-series](https://www.reddit.com/r/MachineLearning/comments/11mv9hy/p_applying_shap_on_forecasting_lstm_for/)
-- [[D] where do you train your models?](https://www.reddit.com/r/MachineLearning/comments/11muwce/d_where_do_you_train_your_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
