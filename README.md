@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Do you know the difference between graph analytics and graph data science? This is a fundamental question many people working in graph data science an...](https://twitter.com/neo4j/status/1633920716394602497)
 - [Hey! A new PODCAST episode is now available!! 🛎 Various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Neo4j’s Developer...](https://twitter.com/neo4j/status/1633887888671756288)
-- [Become a champion! Join this meetup next Tuesday @ypoirier https://twitter.com/StarofJava/status/1633364122023632896](https://twitter.com/neo4j/status/1633881545898594304)
+- [Become a champion! Join this meetup next Tuesday @ypoirier](https://twitter.com/neo4j/status/1633881545898594304)
 - [We will be at the Gartner Data &amp; Analytics Summit in Orlando on March 20 – 22! Come find us to learn how graph technology can help you meet your busi...](https://twitter.com/neo4j/status/1633842610782769153)
 - [There are four main ways #knowledgegraphs, like those used in Neo4j #GraphDataScience, can help power conversational AI. 💡Contextual awareness 🤓...](https://twitter.com/neo4j/status/1633814978950987777)
+- [RT William Lyon: 🗺️🌐 New @Neo4j Bloom release includes support for coordinate layout for graph visualizations 🌐🗺️ Here are all U.S. airp...](https://twitter.com/lyonwj/status/1633584454102024192)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
