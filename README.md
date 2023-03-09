@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1633743678677340161)
+- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1633729584645689344)
 - [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1633715239492505602)
 - [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph...](https://twitter.com/memgraphdb/status/1633704416128962561)
 - [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. https://memgraph.com/blog/how-to-migrate-from-ne...](https://twitter.com/memgraphdb/status/1633553927991078912)
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 https://memgraph.com/blog/how-to-build-a-route-plannin...](https://twitter.com/memgraphdb/status/1633530018684084224)
-- [Learn what is @Docker Compose and how it can help you in the application development process. https://memgraph.com/blog/how-to-orchestrate-your-graph-...](https://twitter.com/memgraphdb/status/1633514112385957888)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
