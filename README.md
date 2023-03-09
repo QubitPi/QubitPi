@@ -301,9 +301,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [&quot;[Discussion]&quot; Do you use synthetic data in your projects?](https://www.reddit.com/r/MachineLearning/comments/11mo71a/discussion_do_you_use_synthetic_data_in_your/)
 - [[R] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://www.reddit.com/r/MachineLearning/comments/11mlwty/r_visual_chatgpt_talking_drawing_and_editing_with/)
-- [[D] Feature Engineering](https://www.reddit.com/r/MachineLearning/comments/11mgijd/d_feature_engineering/)
 - [[D] Bag of items to item model](https://www.reddit.com/r/MachineLearning/comments/11mfc07/d_bag_of_items_to_item_model/)
-- [[P] I built a Spotify iOS tool that makes a &#39;Discover Daily&#39; endless feed](https://www.reddit.com/r/MachineLearning/comments/11mcm7k/p_i_built_a_spotify_ios_tool_that_makes_a/)
+- [[P] What Cloud Instance provider?](https://www.reddit.com/r/MachineLearning/comments/11mcm6q/p_what_cloud_instance_provider/)
+- [[D] Machine/Deep learning jupyter notebooks for computer vision, NLP, and recommender systems](https://www.reddit.com/r/MachineLearning/comments/11mbikv/d_machinedeep_learning_jupyter_notebooks_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
