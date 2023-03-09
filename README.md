@@ -276,11 +276,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [The BirdCLEF 2023 Challenge: Pushing the frontiers of biodiversity monitoring](http://ai.googleblog.com/2023/03/the-birdclef-2023-challenge-pushing.html)
 - [Announcing the ICDAR 2023 Competition on Hierarchical Text Detection and Recognition](http://ai.googleblog.com/2023/03/announcing-icdar-2023-competition-on.html)
 - [Universal Speech Model &lpar;USM&rpar;: State-of-the-art speech AI for 100+ languages](http://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 - [Performer-MPC: Navigation via real-time, on-robot transformers](http://ai.googleblog.com/2023/03/performer-mpc-navigation-via-real-time.html)
 - [Distributed differential privacy for federated learning](http://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
-- [Teaching old labels new tricks in heterogeneous graphs](http://ai.googleblog.com/2023/03/teaching-old-labels-new-tricks-in.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
