@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1633833519138091008)
-- [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public @GitHub repositories at https://g...](https://twitter.com/memgraphdb/status/1633824207153901568)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1633803319180251139)
 - [When we’re building demo applications to showcase #Memgraph, we always use @Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1633778655045230594)
 - [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1633743678677340161)
+- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1633729584645689344)
+- [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1633715239492505602)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
