@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We are super excited to share a real honest review of #Memgraph with you! The review was created by Ashleigh Faith, a data scientist and researcher. C...](https://twitter.com/memgraphdb/status/1633876201470300161)
 - [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1633833519138091008)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public @GitHub repositories at https://g...](https://twitter.com/memgraphdb/status/1633824207153901568)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1633803319180251139)
 - [When we’re building demo applications to showcase #Memgraph, we always use @Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1633778655045230594)
-- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1633743678677340161)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
