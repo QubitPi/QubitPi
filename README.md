@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/770286158356676643><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f95deddf5258953b2ed5b3fa03424fc6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/770929445701681253><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a8aa29ef75bc7ccbaf379845949a3596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #魔女的茶会# 《原神》剧情PV-「魔女的茶会」现已发布~ https://www.bilibili.com/video/BV1z84y1P7FY 突然接到来自古老灯盏的联络，即使是「诸...](https://t.bilibili.com/770286158356676643)
