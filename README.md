@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Cancer detection model](https://www.reddit.com/r/MachineLearning/comments/11mscsa/r_cancer_detection_model/)
 - [[R] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://www.reddit.com/r/MachineLearning/comments/11mlwty/r_visual_chatgpt_talking_drawing_and_editing_with/)
 - [[D] Why are so many tokens needed to train large language models?](https://www.reddit.com/r/MachineLearning/comments/11misax/d_why_are_so_many_tokens_needed_to_train_large/)
 - [[D] Bag of items to item model](https://www.reddit.com/r/MachineLearning/comments/11mfc07/d_bag_of_items_to_item_model/)
 - [[P] What Cloud Instance provider?](https://www.reddit.com/r/MachineLearning/comments/11mcm6q/p_what_cloud_instance_provider/)
-- [[D] Machine/Deep learning jupyter notebooks for computer vision, NLP, and recommender systems](https://www.reddit.com/r/MachineLearning/comments/11mbikv/d_machinedeep_learning_jupyter_notebooks_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
