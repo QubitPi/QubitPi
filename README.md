@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Applying SHAP on forecasting LSTM for multivariate time-series](https://www.reddit.com/r/MachineLearning/comments/11mv9hy/p_applying_shap_on_forecasting_lstm_for/)
 - [[D] where do you train your models?](https://www.reddit.com/r/MachineLearning/comments/11muwce/d_where_do_you_train_your_models/)
 - [[Research] Feature Extraction for Geospatial Vector Data](https://www.reddit.com/r/MachineLearning/comments/11mtctv/research_feature_extraction_for_geospatial_vector/)
 - [[N] CFP: IJCAI 2023 Workshop on Knowledge-Based Compositional Generalization &lpar;KBCG&rpar;](https://www.reddit.com/r/MachineLearning/comments/11msqu6/n_cfp_ijcai_2023_workshop_on_knowledgebased/)
 - [[R] Cancer detection model](https://www.reddit.com/r/MachineLearning/comments/11mscsa/r_cancer_detection_model/)
-- [[R] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://www.reddit.com/r/MachineLearning/comments/11mlwty/r_visual_chatgpt_talking_drawing_and_editing_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
