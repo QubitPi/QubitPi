@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/770929445701681253><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a8aa29ef75bc7ccbaf379845949a3596401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/771301823659114529><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d76947f372b79382f1e385ad842f56dd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式即将开启~ 〓活动时间〓 2023/03/11 10:00 ~ 2023/03/20 03:59 〓参与条件〓 冒险等阶≥32级 完成魔神任...](https://t.bilibili.com/770929445701681253)
