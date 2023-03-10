@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Join Deenu Yadav of Plural Technology and learn how they used graph data, knowledge graphs, and AI/ML to power new ways to analyze products, their bil...](https://twitter.com/arangodb/status/1634298096254369793)
 - [Learn more on how graph can be used to combat fraud detection! Join Solution Architect Victor Moey to learn about ArangoDB&#39;s Query Language &lpar;AQL&rpar; and ...](https://twitter.com/arangodb/status/1634162216558526464)
 - [RT KEDA: We are happy to release KEDA 2.10.0 🎉 ⚡Here are some highlights released: - New ArangoDB Scaler - New &lpar;experimental&rpar; GitHub Actions Scale...](https://twitter.com/kedaorg/status/1634131991758241794)
 - [ArangoDB helps Cognitiv+ dramatically improve the customer experience while supporting multiple use cases. 🥑 Learn how ArangoDB was Cognitiv+ choic...](https://twitter.com/arangodb/status/1633935722620104706)
 - [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1633799845289906177)
+- [Are you familiar with fraud detection? 🤔 Fraud detection is a security measure designed to prevent businesses from becoming victims of fraudulent a...](https://twitter.com/arangodb/status/1633573325728546820)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
