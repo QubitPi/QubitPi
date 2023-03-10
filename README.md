@@ -338,11 +338,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
-- [Examination of Cost Differences Between Private Cloud and Hyperscalers | OpenInfra Live Recap](https://superuser.openstack.org/articles/examination-of-cost-differences-between-private-cloud-and-hyperscalers/)
-- [Appreciating the Need for Edge Location Standards or Schemas](https://superuser.openstack.org/articles/appreciating-the-need-for-edge-location-standards-or-schemas/)
-- [2023 Superuser Awards Nominations Now Open](https://superuser.openstack.org/articles/2023-superuser-awards-nominations-open/)
-- [VGPU Management by OpenStack Nova and Cyborg | OpenInfra Live Recap](https://superuser.openstack.org/articles/vgpu-management-by-openstack-nova-and-cyborg/)
-- [Software Deployment Options in OpenStack: A Quick Guide](https://superuser.openstack.org/articles/software-deployment-options-in-openstack-a-quick-guide/)
+- [Examination of Cost Differences Between Private Cloud and Hyperscalers | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/examination-of-cost-differences-between-private-cloud-and-hyperscalers/)
+- [Appreciating the Need for Edge Location Standards or Schemas](https://superuser.openinfra.dev/articles/appreciating-the-need-for-edge-location-standards-or-schemas/)
+- [2023 Superuser Awards Nominations Now Open](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominations-open/)
+- [VGPU Management by OpenStack Nova and Cyborg | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/vgpu-management-by-openstack-nova-and-cyborg/)
+- [Software Deployment Options in OpenStack: A Quick Guide](https://superuser.openinfra.dev/articles/software-deployment-options-in-openstack-a-quick-guide/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
