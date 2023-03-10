@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [&quot;[Project]&quot; , &quot;[Discussion]&quot; Looking for suggestions for a model to use in an image similarity task](https://www.reddit.com/r/MachineLearning/comments/11nwtdn/project_discussion_looking_for_suggestions_for_a/)
 - [[D] Is BERT going to be obsolete by ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/11nva57/d_is_bert_going_to_be_obsolete_by_chatgpt/)
 - [[P] Counterpoint - a generative model for Fugues and Chorales in the style of J.S. Bach &lpar;with samples&rpar;](https://www.reddit.com/r/MachineLearning/comments/11nrrx6/p_counterpoint_a_generative_model_for_fugues_and/)
 - [[P] RWKV 14B is a strong chatbot despite only trained on Pile &lpar;16G VRAM for 14B ctx4096 INT8, more optimizations incoming&rpar;](https://www.reddit.com/r/MachineLearning/comments/11nre6t/p_rwkv_14b_is_a_strong_chatbot_despite_only/)
 - [[D] Version 2.1 of the Open Deep Learning Toolkit for Robotics is already available!](https://www.reddit.com/r/MachineLearning/comments/11nrako/d_version_21_of_the_open_deep_learning_toolkit/)
-- [[R] GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://www.reddit.com/r/MachineLearning/comments/11nmmjw/r_gigagan_scaling_up_gans_for_texttoimage/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
