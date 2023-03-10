@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @TheRegister Readers did it! Graph Database won the debate! Congrats @jimwebber! 🎉 Thank you @datadictum and @TheRegister :&rpar; https://okt.to/nPyj...](https://twitter.com/neo4j/status/1634252949462327302)
-- [RT William Lyon: &quot;How to graph relationships between points with Geopandas GeoDataFrame and #Neo4j data?&quot;🌎#StackOverflow https://stackoverflow.com/...](https://twitter.com/lyonwj/status/1634249072952606720)
 - [Pythonista and in San Francisco? Pay attention! 👀 We are excited to announce our partnership with San Francisco Python Meetup group :&rpar; Come and joi...](https://twitter.com/neo4j/status/1634224871969259522)
-- [RT William Lyon: Here&#39;s one for the Minneapolis area #OpenStreetMap road network --&gt; #Neo4j --&gt; graph data science --&gt; @Neo4j Bloom #dataviz https://t...](https://twitter.com/lyonwj/status/1634210819012452354)
 - [We love getting together with other graphistas and hearing great stories from our customers! #GraphSummit2023 is getting closer - see the agenda! In t...](https://twitter.com/neo4j/status/1634169861071949826)
+- [RT Jim Webber: The debate between @andy_pavlo and I has ended with the public vote coming out in favour of graph databases. Kudos to Andy for putting ...](https://twitter.com/jimwebber/status/1634131158551212036)
+- [Do you know the difference between graph analytics and graph data science? This is a fundamental question many people working in graph data science an...](https://twitter.com/neo4j/status/1633920716394602497)
+- [Hey! A new PODCAST episode is now available!! 🛎 Various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Neo4j’s Developer...](https://twitter.com/neo4j/status/1633887888671756288)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
