@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which free AI models are best to generate talking animation from a given input image - lip synching](https://www.reddit.com/r/MachineLearning/comments/11nqdp9/d_which_free_ai_models_are_best_to_generate/)
 - [[N] OpenAI&#39;s API - full walkthrough](https://www.reddit.com/r/MachineLearning/comments/11nprt2/n_openais_api_full_walkthrough/)
 - [[R] GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://www.reddit.com/r/MachineLearning/comments/11nmmjw/r_gigagan_scaling_up_gans_for_texttoimage/)
 - [[D] What format my dataset should be in a “U-net”](https://www.reddit.com/r/MachineLearning/comments/11nmmc6/d_what_format_my_dataset_should_be_in_a_unet/)
 - [[P] ESG scoring with Node2Vec and web-site with streamlit!](https://www.reddit.com/r/MachineLearning/comments/11nmaw9/p_esg_scoring_with_node2vec_and_website_with/)
-- [Recent advances in multimodal models: What are your thoughts on chain of thoughts models? [D]](https://www.reddit.com/r/MachineLearning/comments/11nl766/recent_advances_in_multimodal_models_what_are/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
