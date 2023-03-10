@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1634166463241019392)
-- [🚀⭐️The graph created using @StarHistoryHQ shows that the number of stars for #memgraph @github repository is still rising. A big thank you to all...](https://twitter.com/memgraphdb/status/1634154546975891456)
-- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1634148342761488389)
-- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience https://memgraph...](https://twitter.com/memgraphdb/status/1634142555548860418)
 - [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 https://memgrap...](https://twitter.com/memgraphdb/status/1634115377851449344)
+- [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 https://memgraph.com/blog/how-to-visua...](https://twitter.com/memgraphdb/status/1634091971387039744)
+- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling https://memgraph.com/docs/memgraph/tutorials/graph-modeli...](https://twitter.com/memgraphdb/status/1634081402000998401)
+- [Always wanted to identify the most influential developer within your @Github network? Check out how by using Pagerank. https://memgraph.com/blog/how-t...](https://twitter.com/memgraphdb/status/1634058752276983808)
+- [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1633912037452525569)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
