@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum Master Power-Ups](https://www.scrum.org/resources/blog/scrum-master-power-ups)
 - [La facilitación en Scrum](https://www.scrum.org/resources/blog/la-facilitacion-en-scrum)
 - [Create a Learning Environment for your Team!](https://www.scrum.org/resources/blog/create-learning-environment-your-team)
 - [Scrum im Selbststudium – Teil 5: Die Grundlage eines funktionierenden empirischen Prozesses ist Vertrauen.](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-5-die-grundlage-eines-funktionierenden-empirischen)
 - [Scrum im Selbststudium – Teil 4: Zur Lösung komplexer Probleme hat sich ein empirischer Ansatz bewährt](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-4-zur-losung-komplexer-probleme-hat-sich-ein-empirischer)
-- [Die drei Daily Scrum Fragen werden nicht verstummen 🇩🇪](https://www.scrum.org/resources/blog/die-drei-daily-scrum-fragen-werden-nicht-verstummen)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
