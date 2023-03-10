@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] I gave ChatGPT voice and face](https://www.reddit.com/r/MachineLearning/comments/11nzm6v/p_i_gave_chatgpt_voice_and_face/)
 - [[D] What&#39;s the Time and Space Complexity of Transformer Models Inference?](https://www.reddit.com/r/MachineLearning/comments/11nzinb/d_whats_the_time_and_space_complexity_of/)
 - [[D] Subreddit with AI tools only](https://www.reddit.com/r/MachineLearning/comments/11nzhdy/d_subreddit_with_ai_tools_only/)
 - [[D] What are the Inputs to a Model That Plays Dynamic RTS Games Like StarCraft?](https://www.reddit.com/r/MachineLearning/comments/11nyeem/d_what_are_the_inputs_to_a_model_that_plays/)
 - [[P] Frouros: A Python library for drift detection in Machine Learning problems](https://www.reddit.com/r/MachineLearning/comments/11nx6ak/p_frouros_a_python_library_for_drift_detection_in/)
+- [&quot;[Project]&quot; , &quot;[Discussion]&quot; Looking for suggestions for a model to use in an image similarity task](https://www.reddit.com/r/MachineLearning/comments/11nwtdn/project_discussion_looking_for_suggestions_for_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
