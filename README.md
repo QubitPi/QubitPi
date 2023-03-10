@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/771301823659114529><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d76947f372b79382f1e385ad842f56dd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/771331467497177157><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/eeff9291605ab0117422f80b3c0d7aae401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@小野寺真央@这年代取个名字就这么难吗@矢泽茶泡饭等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/771331467497177157)
