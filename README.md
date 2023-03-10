@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1634195907435458560)
 - [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1634166463241019392)
 - [🚀⭐️The graph created using @StarHistoryHQ shows that the number of stars for #memgraph @github repository is still rising. A big thank you to all...](https://twitter.com/memgraphdb/status/1634154546975891456)
 - [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1634148342761488389)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience https://memgraph...](https://twitter.com/memgraphdb/status/1634142555548860418)
+- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 https://memgrap...](https://twitter.com/memgraphdb/status/1634115377851449344)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
