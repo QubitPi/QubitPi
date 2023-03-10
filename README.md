@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/771301823659114529><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d76947f372b79382f1e385ad842f56dd401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第22弹」现已上线 亲爱的旅行者，「派蒙的画作第22弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/771301823659114529)
+- [互动抽奖 #原神# #申鹤# #生日快乐# 自踏入仙门，凡俗便如尘埃般散去… 但与你结识后，我竟也有了企盼这一日的心情。 我无法描述它，只是心口变得很温暖。 这种...](https://t.bilibili.com/771300779955847207)
 - [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式即将开启~ 〓活动时间〓 2023/03/11 10:00 ~ 2023/03/20 03:59 〓参与条件〓 冒险等阶≥32级 完成魔神任...](https://t.bilibili.com/770929445701681253)
 - [互动抽奖 #原神# #魔女的茶会# 《原神》剧情PV-「魔女的茶会」现已发布~ https://www.bilibili.com/video/BV1z84y1P7FY 突然接到来自古老灯盏的联络，即使是「诸...](https://t.bilibili.com/770286158356676643)
 - [《原神》剧情PV-「魔女的茶会」](https://t.bilibili.com/770280106776068100)
-- [恭喜@云逸祥云@星影月迹@和风-落叶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/770218224885170244)
-- [恭喜@MaYeT千羽田天@_风早早_@天下悠悠等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/770218212001316904)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
