@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Pythonista and in San Francisco? Pay attention! 👀 We are excited to announce our partnership with San Francisco Python Meetup group :&rpar; Come and joi...](https://twitter.com/neo4j/status/1634224871969259522)
 - [We love getting together with other graphistas and hearing great stories from our customers! #GraphSummit2023 is getting closer - see the agenda! In t...](https://twitter.com/neo4j/status/1634169861071949826)
+- [RT Jim Webber: The debate between @andy_pavlo and I has ended with the public vote coming out in favour of graph databases. Kudos to Andy for putting ...](https://twitter.com/jimwebber/status/1634131158551212036)
 - [Do you know the difference between graph analytics and graph data science? This is a fundamental question many people working in graph data science an...](https://twitter.com/neo4j/status/1633920716394602497)
 - [Hey! A new PODCAST episode is now available!! 🛎 Various topics from ChatGPT, Graph Databases, and the Cypher Query Language with Neo4j’s Developer...](https://twitter.com/neo4j/status/1633887888671756288)
-- [Become a champion! Join this meetup next Tuesday @ypoirier https://twitter.com/StarofJava/status/1633364122023632896](https://twitter.com/neo4j/status/1633881545898594304)
-- [We will be at the Gartner Data &amp; Analytics Summit in Orlando on March 20 – 22! Come find us to learn how graph technology can help you meet your busi...](https://twitter.com/neo4j/status/1633842610782769153)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
