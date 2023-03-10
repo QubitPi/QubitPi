@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Project] POC ChatGPT Audio Bot &lpar;like Google Assistant and Alexa&rpar; - Opensource](https://www.reddit.com/r/MachineLearning/comments/11nfryx/project_poc_chatgpt_audio_bot_like_google/)
 - [[D] chatGPT and AI ethics](https://www.reddit.com/r/MachineLearning/comments/11nenyo/d_chatgpt_and_ai_ethics/)
 - [[D] Neuron Modeling](https://www.reddit.com/r/MachineLearning/comments/11ned6g/d_neuron_modeling/)
 - [[R] GigaGAN: A Large-scale Modified GAN Architecture for Text-to-Image Synthesis. Better FID Score than Stable Diffusion v1.5, DALL·E 2, and Parti-750M. Generates 512px outputs at 0.13s. Native Prompt mixing, Prompt Interpolation and Style Mixing. A GigaGAN Upscaler is also introduced &lpar;Up to 4K&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ncsvd/r_gigagan_a_largescale_modified_gan_architecture/)
 - [[N] GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany - heise online](https://www.reddit.com/r/MachineLearning/comments/11mzqxu/n_gpt4_is_coming_next_week_and_it_will_be/)
+- [[R] Survey on Visual Analytics for Explainable Deep Learning](https://www.reddit.com/r/MachineLearning/comments/11mz7mj/r_survey_on_visual_analytics_for_explainable_deep/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
