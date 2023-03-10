@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Literature for few shot hot-dog vs not-hot-dog classification](https://www.reddit.com/r/MachineLearning/comments/11nc6ax/d_literature_for_few_shot_hotdog_vs_nothotdog/)
 - [[R] role of depth in image warping for monocular depth estimation](https://www.reddit.com/r/MachineLearning/comments/11nb64q/r_role_of_depth_in_image_warping_for_monocular/)
 - [[D] Tutorial on fine-tuning LLaMa?](https://www.reddit.com/r/MachineLearning/comments/11n91pi/d_tutorial_on_finetuning_llama/)
 - [[P] Audio Input Auto Error Detection / Speech Unusable for Text Encoded Data Set](https://www.reddit.com/r/MachineLearning/comments/11n47f1/p_audio_input_auto_error_detection_speech/)
 - [[N] GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany - heise online](https://www.reddit.com/r/MachineLearning/comments/11mzqxu/n_gpt4_is_coming_next_week_and_it_will_be/)
-- [[R] Survey on Visual Analytics for Explainable Deep Learning](https://www.reddit.com/r/MachineLearning/comments/11mz7mj/r_survey_on_visual_analytics_for_explainable_deep/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
