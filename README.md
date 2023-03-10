@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 https://memgrap...](https://twitter.com/memgraphdb/status/1634115377851449344)
 - [What&#39;s your favorite web framework? Ours is Flask, and there are a ton of tutorials to prove it. Exhibit A 👇 https://memgraph.com/blog/how-to-visua...](https://twitter.com/memgraphdb/status/1634091971387039744)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling https://memgraph.com/docs/memgraph/tutorials/graph-modeli...](https://twitter.com/memgraphdb/status/1634081402000998401)
 - [Always wanted to identify the most influential developer within your @Github network? Check out how by using Pagerank. https://memgraph.com/blog/how-t...](https://twitter.com/memgraphdb/status/1634058752276983808)
 - [🎓 #Memgraph presents graph algorithms: Betweenness centrality 🗒️ Betweenness centrality measures the extent to which a node lies on paths betwe...](https://twitter.com/memgraphdb/status/1633912037452525569)
-- [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ https://awesomedata.stream/ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1633894420272619522)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
