@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is ML a big boys game now?](https://www.reddit.com/r/MachineLearning/comments/11njpb9/d_is_ml_a_big_boys_game_now/)
 - [[R] RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://www.reddit.com/r/MachineLearning/comments/11njhnz/r_rodin_a_generative_model_for_sculpting_3d/)
 - [[P] Implementing Vision Transformer &lpar;ViT&rpar; from Scratch using PyTorch](https://www.reddit.com/r/MachineLearning/comments/11nj58o/p_implementing_vision_transformer_vit_from/)
 - [[D] Is it possible to train LLaMa?](https://www.reddit.com/r/MachineLearning/comments/11nhl03/d_is_it_possible_to_train_llama/)
 - [[D] Neuron Modeling](https://www.reddit.com/r/MachineLearning/comments/11ned6g/d_neuron_modeling/)
-- [[N] GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany - heise online](https://www.reddit.com/r/MachineLearning/comments/11mzqxu/n_gpt4_is_coming_next_week_and_it_will_be/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
