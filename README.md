@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1634278700475732001)
 - [🎓 Learn how to load data, training and plot to find out who did it! It’s elementary, my dear reader. https://memgraph.com/blog/become-an-inspector...](https://twitter.com/memgraphdb/status/1634254796352790556)
 - [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1634240700312109069)
 - [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1634236924830310400)
 - [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1634214276389822464)
-- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1634195907435458560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
