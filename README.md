@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] One Shot Learning Tasks](https://www.reddit.com/r/MachineLearning/comments/11o8tgd/d_one_shot_learning_tasks/)
 - [[D] Bring back the old arXiv favicon](https://www.reddit.com/r/MachineLearning/comments/11o703k/d_bring_back_the_old_arxiv_favicon/)
 - [[D] What Improvements Accelerate the AI field Multiple orders of magnitude every year?](https://www.reddit.com/r/MachineLearning/comments/11o1vjw/d_what_improvements_accelerate_the_ai_field/)
 - [[D] What&#39;s the Time and Space Complexity of Transformer Models Inference?](https://www.reddit.com/r/MachineLearning/comments/11nzinb/d_whats_the_time_and_space_complexity_of/)
 - [[D] Subreddit with AI tools only](https://www.reddit.com/r/MachineLearning/comments/11nzhdy/d_subreddit_with_ai_tools_only/)
-- [[D] What are the Inputs to a Model That Plays Dynamic RTS Games Like StarCraft?](https://www.reddit.com/r/MachineLearning/comments/11nyeem/d_what_are_the_inputs_to_a_model_that_plays/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
