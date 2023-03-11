@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Detailed Explanation of how AlphaFold Works, Protein Folding and Design](https://www.reddit.com/r/MachineLearning/comments/11ok44i/p_detailed_explanation_of_how_alphafold_works/)
+- [How this AI team at Canva helped creators pick the perfect keywords using a Language Model [D]](https://www.reddit.com/r/MachineLearning/comments/11ok11c/how_this_ai_team_at_canva_helped_creators_pick/)
 - [[P] Ask a subreddit - The collective GPT-embodied wisdom of Reddit communities](https://www.reddit.com/r/MachineLearning/comments/11oj9pm/p_ask_a_subreddit_the_collective_gptembodied/)
 - [[D] Input size equal to seasonality for timeseries forecasting](https://www.reddit.com/r/MachineLearning/comments/11oh727/d_input_size_equal_to_seasonality_for_timeseries/)
 - [[D] Is Pytorch Lightning + Wandb a good combination for research?](https://www.reddit.com/r/MachineLearning/comments/11oh450/d_is_pytorch_lightning_wandb_a_good_combination/)
-- [[Discussion] Are projects like ggml the most realistic way to make custom LLM training, fine-tuning and inference accessible?](https://www.reddit.com/r/MachineLearning/comments/11ocrog/discussion_are_projects_like_ggml_the_most/)
-- [[D] Development challenges of an autonomous gardening robot using object detection and mapping.](https://www.reddit.com/r/MachineLearning/comments/11oax7a/d_development_challenges_of_an_autonomous/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
