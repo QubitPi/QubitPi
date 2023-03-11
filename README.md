@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [BOOK CLUB: 10 Things We Learned In Full Stack GraphQL! In a series of videos, @lyonwj highlights some of the main takeaways of his book, Full Stack Gr...](https://twitter.com/neo4j/status/1634589264657752065)
 - [Paul Drangeid demonstrates how to host #NeoDash on #Azure with Docker. Once the application is created and configured, you can share your NeoDash repo...](https://twitter.com/neo4j/status/1634544971482034179)
 - [RT Ajeet Singh Raina 🐳: Time to kickstart the event with the overview of @Neo4j #Docker Extensions for IoT Sensors in the ongoing @DockerBangalore ...](https://twitter.com/ajeetsraina/status/1634449180109447168)
 - [Re @TheRegister Readers did it! Graph Database won the debate! Congrats @jimwebber! 🎉 Thank you @datadictum and @TheRegister :&rpar; https://okt.to/nPyj...](https://twitter.com/neo4j/status/1634252949462327302)
 - [RT William Lyon: &quot;How to graph relationships between points with Geopandas GeoDataFrame and #Neo4j data?&quot;🌎#StackOverflow https://stackoverflow.com/...](https://twitter.com/lyonwj/status/1634249072952606720)
+- [Pythonista and in San Francisco? Pay attention! 👀 We are excited to announce our partnership with San Francisco Python Meetup group :&rpar; Come and joi...](https://twitter.com/neo4j/status/1634224871969259522)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
