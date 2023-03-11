@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1634600488388665349)
+- [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1634596544375582721)
+- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1634576666038083584)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1634566849508540418)
 - [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. https://memgra...](https://twitter.com/memgraphdb/status/1634528850326503424)
-- [🎓 With a graph database as its core product, a visualization tool of Memgraph Lab and the extendable graph algorithm library MAGE, #Memgraph offers...](https://twitter.com/memgraphdb/status/1634510730350280706)
-- [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1634503431455899648)
-- [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. https://memgraph.com...](https://twitter.com/memgraphdb/status/1634492864007741440)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
