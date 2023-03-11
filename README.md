@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] K-Fold Cross-Validation and Hyperparameter Tuning](https://www.reddit.com/r/MachineLearning/comments/11owag7/d_kfold_crossvalidation_and_hyperparameter_tuning/)
 - [[D] Have my first coding interview next week but can&#39;t remember most SQL, Sklearn, and Tensorflow. Am I screwed?](https://www.reddit.com/r/MachineLearning/comments/11ovmrz/d_have_my_first_coding_interview_next_week_but/)
 - [[D] What model, methodology is state of the art to calculate similarity of given 2 images?](https://www.reddit.com/r/MachineLearning/comments/11os9wy/d_what_model_methodology_is_state_of_the_art_to/)
 - [[P] Introducing confidenceinterval, the long missing python library for computing confidence intervals](https://www.reddit.com/r/MachineLearning/comments/11orezx/p_introducing_confidenceinterval_the_long_missing/)
 - [[D] Statsmodels ARIMA model predict function not working](https://www.reddit.com/r/MachineLearning/comments/11or4qb/d_statsmodels_arima_model_predict_function_not/)
-- [[D] Looking for eye gaze detection dataset](https://www.reddit.com/r/MachineLearning/comments/11oqhhj/d_looking_for_eye_gaze_detection_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
