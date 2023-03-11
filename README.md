@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. https://memgra...](https://twitter.com/memgraphdb/status/1634528850326503424)
 - [🎓 With a graph database as its core product, a visualization tool of Memgraph Lab and the extendable graph algorithm library MAGE, #Memgraph offers...](https://twitter.com/memgraphdb/status/1634510730350280706)
 - [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1634503431455899648)
 - [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. https://memgraph.com...](https://twitter.com/memgraphdb/status/1634492864007741440)
 - [🔎 The current issue is that companies can’t conclude anything from all that data, which is especially disastrous if the data indicates that it’s ...](https://twitter.com/memgraphdb/status/1634454357260357632)
-- [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1634443791372263425)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
