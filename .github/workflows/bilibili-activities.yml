@@ -19,26 +19,26 @@ jobs:
           comment_tag_name: "BILIBILI-RECENT-ACTIVITIES"
           max_post_count: "5"
           feed_list: "https://rsshub.app/bilibili/user/dynamic/1771839550"
-  trippled-videos:
-    name: Trippled Videos
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Liked-Saved-Tipped Videos"
-          comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
-          custom_tags: "uploador/author/"
-          # extract video cover image
-          item_exec: |
-            post.feedName = post.description.match(/交易失败的菊菊/) ? "(一天不看浑身难受，看了之后难受一天) <img src='https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true' width='40px'>" : "";
-            post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<p><a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a> $feedName</p><br>"
-          disable_html_encoding: true
+#   trippled-videos:
+#     name: Trippled Videos
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           committer_username: "QubitPi"
+#           committer_email: "jack20220723@gmail.com"
+#           commit_message: "New Liked-Saved-Tipped Videos"
+#           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
+#           max_post_count: "5"
+#           feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
+#           custom_tags: "uploador/author/"
+#           # extract video cover image
+#           item_exec: |
+#             post.feedName = post.description.match(/交易失败的菊菊/) ? "(一天不看浑身难受，看了之后难受一天) <img src='https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true' width='40px'>" : "";
+#             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
+#           template: "<p><a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a> $feedName</p><br>"
+#           disable_html_encoding: true
   columns:
     name: Columns
     runs-on: ubuntu-latest
