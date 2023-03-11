@@ -467,6 +467,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
+[![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
+
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
