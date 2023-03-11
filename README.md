@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is Pytorch Lightning + Wandb a good combination for research?](https://www.reddit.com/r/MachineLearning/comments/11oh450/d_is_pytorch_lightning_wandb_a_good_combination/)
 - [[Discussion] Are projects like ggml the most realistic way to make custom LLM training, fine-tuning and inference accessible?](https://www.reddit.com/r/MachineLearning/comments/11ocrog/discussion_are_projects_like_ggml_the_most/)
 - [[D] Development challenges of an autonomous gardening robot using object detection and mapping.](https://www.reddit.com/r/MachineLearning/comments/11oax7a/d_development_challenges_of_an_autonomous/)
 - [[D] Bounding box learning in OCR process](https://www.reddit.com/r/MachineLearning/comments/11oag6d/d_bounding_box_learning_in_ocr_process/)
 - [[D] Development challenges of an autonomous gardening robot using object detection and mapping.](https://www.reddit.com/r/MachineLearning/comments/11oaek2/d_development_challenges_of_an_autonomous/)
-- [[P] GITModel: Dynamically generate high-quality hierarchical topic tree representations of GitHub repositories using customizable GNN message passing layers, chatgpt, and topic modeling.](https://www.reddit.com/r/MachineLearning/comments/11o97on/p_gitmodel_dynamically_generate_highquality/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
