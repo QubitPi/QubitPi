@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What model, methodology is state of the art to calculate similarity of given 2 images?](https://www.reddit.com/r/MachineLearning/comments/11os9wy/d_what_model_methodology_is_state_of_the_art_to/)
 - [[P] Introducing confidenceinterval, the long missing python library for computing confidence intervals](https://www.reddit.com/r/MachineLearning/comments/11orezx/p_introducing_confidenceinterval_the_long_missing/)
 - [[D] Statsmodels ARIMA model predict function not working](https://www.reddit.com/r/MachineLearning/comments/11or4qb/d_statsmodels_arima_model_predict_function_not/)
 - [[D] Looking for eye gaze detection dataset](https://www.reddit.com/r/MachineLearning/comments/11oqhhj/d_looking_for_eye_gaze_detection_dataset/)
 - [[p] I built a ChatGPT podcast studio to produce random audio podcasts for me lol. https://aipodcastmania.web.app/](https://www.reddit.com/r/MachineLearning/comments/11opf45/p_i_built_a_chatgpt_podcast_studio_to_produce/)
-- [[D] Unsupervised Learning — have there been any big advances recently?](https://www.reddit.com/r/MachineLearning/comments/11onol2/d_unsupervised_learning_have_there_been_any_big/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
