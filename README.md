@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Looking to build an enthusiastic community for exploring AI](https://www.reddit.com/r/MachineLearning/comments/11pjxd6/dlooking_to_build_an_enthusiastic_community_for/)
 - [[P] Trying to create Ar Filter](https://www.reddit.com/r/MachineLearning/comments/11piukp/p_trying_to_create_ar_filter/)
 - [[D] I want to learn NLP](https://www.reddit.com/r/MachineLearning/comments/11pisde/d_i_want_to_learn_nlp/)
 - [[N] MICROSOFT SAYS OPENAI’S LATEST BLOCKBUSTER AI IS DROPPING “NEXT WEEK”](https://www.reddit.com/r/MachineLearning/comments/11pgmbr/n_microsoft_says_openais_latest_blockbuster_ai_is/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11pgj86/d_simple_questions_thread/)
-- [[D] Tracking Dancing People](https://www.reddit.com/r/MachineLearning/comments/11p9p67/d_tracking_dancing_people/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
