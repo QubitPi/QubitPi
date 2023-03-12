@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/11p3a0j/d_finetuning_20b_llms_with_rlhf_on_a_24gb/)
 - [[D] Major in stats and neuro with a minor in cs or major in stats with a double minor in cs and neuro or major in stats with a minor in cs](https://www.reddit.com/r/MachineLearning/comments/11p2mhx/d_major_in_stats_and_neuro_with_a_minor_in_cs_or/)
 - [[R] Validating Product Idea: Host Your Machine Learning Model in Seconds without Infrastructure](https://www.reddit.com/r/MachineLearning/comments/11p2jhz/r_validating_product_idea_host_your_machine/)
 - [Text2Image ControlNet and Stable Diffusion [R]](https://www.reddit.com/r/MachineLearning/comments/11p1oqq/text2image_controlnet_and_stable_diffusion_r/)
 - [[P] vanilla-llama an hackable plain-pytorch implementation of LLaMA that can be run on any system &lpar;if you have enough resources&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ozl85/p_vanillallama_an_hackable_plainpytorch/)
-- [[R] ODISE: Stable Diffusion but for Open-Vocabulary Segmentation and Detection](https://www.reddit.com/r/MachineLearning/comments/11oykrc/r_odise_stable_diffusion_but_for_openvocabulary/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
