@@ -304,9 +304,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] Trying to create Ar Filter](https://www.reddit.com/r/MachineLearning/comments/11piukp/p_trying_to_create_ar_filter/)
 - [[D] I want to learn NLP](https://www.reddit.com/r/MachineLearning/comments/11pisde/d_i_want_to_learn_nlp/)
-- [Is this ethical? I made a dating app bot to get dates and it actually works [D]](https://www.reddit.com/r/MachineLearning/comments/11ph3v4/is_this_ethical_i_made_a_dating_app_bot_to_get/)
 - [[N] MICROSOFT SAYS OPENAI’S LATEST BLOCKBUSTER AI IS DROPPING “NEXT WEEK”](https://www.reddit.com/r/MachineLearning/comments/11pgmbr/n_microsoft_says_openais_latest_blockbuster_ai_is/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11pgj86/d_simple_questions_thread/)
+- [[D] Tracking Dancing People](https://www.reddit.com/r/MachineLearning/comments/11p9p67/d_tracking_dancing_people/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
