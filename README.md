@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which jobs in the machine learning domain do you think will be in demand in future?](https://www.reddit.com/r/MachineLearning/comments/11p65yz/d_which_jobs_in_the_machine_learning_domain_do/)
 - [[D] Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/11p3a0j/d_finetuning_20b_llms_with_rlhf_on_a_24gb/)
 - [Text2Image ControlNet and Stable Diffusion [R]](https://www.reddit.com/r/MachineLearning/comments/11p1oqq/text2image_controlnet_and_stable_diffusion_r/)
 - [[P] vanilla-llama an hackable plain-pytorch implementation of LLaMA that can be run on any system &lpar;if you have enough resources&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ozl85/p_vanillallama_an_hackable_plainpytorch/)
 - [[R] ODISE: Stable Diffusion but for Open-Vocabulary Segmentation and Detection](https://www.reddit.com/r/MachineLearning/comments/11oykrc/r_odise_stable_diffusion_but_for_openvocabulary/)
-- [[D] What model, methodology is state of the art to calculate similarity of given 2 images?](https://www.reddit.com/r/MachineLearning/comments/11os9wy/d_what_model_methodology_is_state_of_the_art_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
