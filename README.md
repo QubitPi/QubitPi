@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11pgj86/d_simple_questions_thread/)
 - [ChatGPT has a cleaner mind than me [D]](https://www.reddit.com/r/MachineLearning/comments/11pd9kz/chatgpt_has_a_cleaner_mind_than_me_d/)
 - [[D] Tracking Dancing People](https://www.reddit.com/r/MachineLearning/comments/11p9p67/d_tracking_dancing_people/)
 - [[D] How chatGPT works and AI ethics](https://www.reddit.com/r/MachineLearning/comments/11p8sm3/d_how_chatgpt_works_and_ai_ethics/)
 - [[D] Scale up of huge model](https://www.reddit.com/r/MachineLearning/comments/11p8sdb/d_scale_up_of_huge_model/)
-- [[D] 2015 ICLR Important Paper Lists!](https://www.reddit.com/r/MachineLearning/comments/11p8rzt/d_2015_iclr_important_paper_lists/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
