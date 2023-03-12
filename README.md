@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Album2Vec—Music Meets Machine Learning](https://www.reddit.com/r/MachineLearning/comments/11pst36/p_album2vecmusic_meets_machine_learning/)
 - [[R] Introducing Ursa from Speechmatics | 25% improvement over Whisper](https://www.reddit.com/r/MachineLearning/comments/11prxd9/r_introducing_ursa_from_speechmatics_25/)
 - [[D] Recommendations sources for Understanding Advanced Mathematical Concepts in Research Papers?](https://www.reddit.com/r/MachineLearning/comments/11pqfhm/d_recommendations_sources_for_understanding/)
 - [[D] Unpacking the HF in RLHF - How Humans Teach LLMs to be Better](https://www.reddit.com/r/MachineLearning/comments/11ppxt4/d_unpacking_the_hf_in_rlhf_how_humans_teach_llms/)
 - [[D] Is anyone trying to just brute force intelligence with enormous model sizes and existing SOTA architectures? Are there technical limitations stopping us?](https://www.reddit.com/r/MachineLearning/comments/11poqmh/d_is_anyone_trying_to_just_brute_force/)
-- [[N] AtMan could solve the biggest problem of ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11pofer/n_atman_could_solve_the_biggest_problem_of_chatgpt/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
