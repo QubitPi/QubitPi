@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] PromptLab: playground to test chains of prompts faster](https://www.reddit.com/r/MachineLearning/comments/11pnppv/p_promptlab_playground_to_test_chains_of_prompts/)
 - [[P] Discord Chatbot for LLaMA 4-bit quantized that runs 13b in &lt;9 GiB VRAM](https://www.reddit.com/r/MachineLearning/comments/11pmz69/p_discord_chatbot_for_llama_4bit_quantized_that/)
-- [[D] Replicate.com vs. Custom ML API cost](https://www.reddit.com/r/MachineLearning/comments/11pm9dy/d_replicatecom_vs_custom_ml_api_cost/)
 - [[D]Looking to build an enthusiastic community for exploring AI](https://www.reddit.com/r/MachineLearning/comments/11pjxd6/dlooking_to_build_an_enthusiastic_community_for/)
-- [[P] Trying to create Ar Filter](https://www.reddit.com/r/MachineLearning/comments/11piukp/p_trying_to_create_ar_filter/)
-- [[D] I want to learn NLP](https://www.reddit.com/r/MachineLearning/comments/11pisde/d_i_want_to_learn_nlp/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/11pgj86/d_simple_questions_thread/)
+- [[D] Tracking Dancing People](https://www.reddit.com/r/MachineLearning/comments/11p9p67/d_tracking_dancing_people/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
