@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] vanilla-llama an hackable plain-pytorch implementation of LLaMA that can be run on any system &lpar;if you have enough resources&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ozl85/p_vanillallama_an_hackable_plainpytorch/)
 - [[R] ODISE: Stable Diffusion but for Open-Vocabulary Segmentation and Detection](https://www.reddit.com/r/MachineLearning/comments/11oykrc/r_odise_stable_diffusion_but_for_openvocabulary/)
 - [[P] idea for a project health related](https://www.reddit.com/r/MachineLearning/comments/11oxdyd/p_idea_for_a_project_health_related/)
 - [[D] K-Fold Cross-Validation and Hyperparameter Tuning](https://www.reddit.com/r/MachineLearning/comments/11owag7/d_kfold_crossvalidation_and_hyperparameter_tuning/)
 - [[D] Have my first coding interview next week but can&#39;t remember most SQL, Sklearn, and Tensorflow. Am I screwed?](https://www.reddit.com/r/MachineLearning/comments/11ovmrz/d_have_my_first_coding_interview_next_week_but/)
-- [[D] What model, methodology is state of the art to calculate similarity of given 2 images?](https://www.reddit.com/r/MachineLearning/comments/11os9wy/d_what_model_methodology_is_state_of_the_art_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
