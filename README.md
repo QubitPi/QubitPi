@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] How chatGPT works and AI ethics](https://www.reddit.com/r/MachineLearning/comments/11p8sm3/d_how_chatgpt_works_and_ai_ethics/)
+- [[D] Scale up of huge model](https://www.reddit.com/r/MachineLearning/comments/11p8sdb/d_scale_up_of_huge_model/)
+- [[D] 2015 ICLR Important Paper Lists!](https://www.reddit.com/r/MachineLearning/comments/11p8rzt/d_2015_iclr_important_paper_lists/)
 - [[N] Man beats machine at Go in human victory over AI : « It shows once again we’ve been far too hasty to ascribe superhuman levels of intelligence to machines. »](https://www.reddit.com/r/MachineLearning/comments/11p6hjl/n_man_beats_machine_at_go_in_human_victory_over/)
 - [[D] Which jobs in the machine learning domain do you think will be in demand in future?](https://www.reddit.com/r/MachineLearning/comments/11p65yz/d_which_jobs_in_the_machine_learning_domain_do/)
-- [[D] Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/11p3a0j/d_finetuning_20b_llms_with_rlhf_on_a_24gb/)
-- [Text2Image ControlNet and Stable Diffusion [R]](https://www.reddit.com/r/MachineLearning/comments/11p1oqq/text2image_controlnet_and_stable_diffusion_r/)
-- [[P] vanilla-llama an hackable plain-pytorch implementation of LLaMA that can be run on any system &lpar;if you have enough resources&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ozl85/p_vanillallama_an_hackable_plainpytorch/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
