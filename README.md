@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Unpacking the HF in RLHF - How Humans Teach LLMs to be Better](https://www.reddit.com/r/MachineLearning/comments/11ppxt4/d_unpacking_the_hf_in_rlhf_how_humans_teach_llms/)
 - [[D] Is anyone trying to just brute force intelligence with enormous model sizes and existing SOTA architectures? Are there technical limitations stopping us?](https://www.reddit.com/r/MachineLearning/comments/11poqmh/d_is_anyone_trying_to_just_brute_force/)
 - [[N] AtMan could solve the biggest problem of ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11pofer/n_atman_could_solve_the_biggest_problem_of_chatgpt/)
 - [[D] What&#39;s the mathematical notation for &quot;top k argmax&quot;?](https://www.reddit.com/r/MachineLearning/comments/11po6qw/d_whats_the_mathematical_notation_for_top_k_argmax/)
 - [[P] PromptLab: playground to test chains of prompts faster](https://www.reddit.com/r/MachineLearning/comments/11pnppv/p_promptlab_playground_to_test_chains_of_prompts/)
-- [[P] Discord Chatbot for LLaMA 4-bit quantized that runs 13b in &lt;9 GiB VRAM](https://www.reddit.com/r/MachineLearning/comments/11pmz69/p_discord_chatbot_for_llama_4bit_quantized_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
