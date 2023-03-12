@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Training time is too long!](https://www.reddit.com/r/MachineLearning/comments/11pb73y/p_training_time_is_too_long/)
 - [[D] Tracking Dancing People](https://www.reddit.com/r/MachineLearning/comments/11p9p67/d_tracking_dancing_people/)
 - [[D] How chatGPT works and AI ethics](https://www.reddit.com/r/MachineLearning/comments/11p8sm3/d_how_chatgpt_works_and_ai_ethics/)
 - [[D] Scale up of huge model](https://www.reddit.com/r/MachineLearning/comments/11p8sdb/d_scale_up_of_huge_model/)
 - [[D] 2015 ICLR Important Paper Lists!](https://www.reddit.com/r/MachineLearning/comments/11p8rzt/d_2015_iclr_important_paper_lists/)
+- [[N] Man beats machine at Go in human victory over AI : « It shows once again we’ve been far too hasty to ascribe superhuman levels of intelligence to machines. »](https://www.reddit.com/r/MachineLearning/comments/11p6hjl/n_man_beats_machine_at_go_in_human_victory_over/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
