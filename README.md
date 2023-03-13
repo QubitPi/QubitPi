@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Optimal Data Acquisition Strategy](https://www.reddit.com/r/MachineLearning/comments/11qg55j/r_optimal_data_acquisition_strategy/)
 - [[D] Importance of square root in denominator for AdaGrad](https://www.reddit.com/r/MachineLearning/comments/11qfpbf/d_importance_of_square_root_in_denominator_for/)
 - [[R] Stanford-Alpaca 7B model &lpar;an instruction tuned version of LLaMA&rpar; performs as well as text-davinci-003](https://www.reddit.com/r/MachineLearning/comments/11qfcwb/r_stanfordalpaca_7b_model_an_instruction_tuned/)
 - [[D]: Generalisation ability of autoencoders](https://www.reddit.com/r/MachineLearning/comments/11qejcz/d_generalisation_ability_of_autoencoders/)
 - [[R] New grand challenge on generative models for medical imaging](https://www.reddit.com/r/MachineLearning/comments/11qdji0/r_new_grand_challenge_on_generative_models_for/)
-- [[P] Introducing 🌀 Ciclo: A functional training loops library for JAX](https://www.reddit.com/r/MachineLearning/comments/11qc3nz/p_introducing_ciclo_a_functional_training_loops/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
