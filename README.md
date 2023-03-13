@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Which topic in deep learning do you think will become relevant or popular in the future?](https://www.reddit.com/r/MachineLearning/comments/11pyvoe/d_which_topic_in_deep_learning_do_you_think_will/)
 - [[R] Introducing Ursa from Speechmatics | 25% improvement over Whisper](https://www.reddit.com/r/MachineLearning/comments/11prxd9/r_introducing_ursa_from_speechmatics_25/)
 - [[D] What&#39;s the mathematical notation for &quot;top k argmax&quot;?](https://www.reddit.com/r/MachineLearning/comments/11po6qw/d_whats_the_mathematical_notation_for_top_k_argmax/)
 - [[P] PromptLab: playground to test chains of prompts faster](https://www.reddit.com/r/MachineLearning/comments/11pnppv/p_promptlab_playground_to_test_chains_of_prompts/)
 - [[P] Discord Chatbot for LLaMA 4-bit quantized that runs 13b in &lt;9 GiB VRAM](https://www.reddit.com/r/MachineLearning/comments/11pmz69/p_discord_chatbot_for_llama_4bit_quantized_that/)
-- [[D]Looking to build an enthusiastic community for exploring AI](https://www.reddit.com/r/MachineLearning/comments/11pjxd6/dlooking_to_build_an_enthusiastic_community_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
