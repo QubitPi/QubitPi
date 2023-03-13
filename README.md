@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @PinkProgramming and us are partnering again to give you tips on how to sharpen your interviews If you are near Malmö, make sure to register and a...](https://twitter.com/neo4j/status/1635264498083807232)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1MYxNgXREzQKw](https://twitter.com/neo4j/status/1635200523463970816)
 - [RT Siddhant Agarwal: Folks in #Sydney, don&#39;t miss out on this amazing meetup by #GraphDatabase #Sydney #meetup group powered by @Neo4j in collaboratio...](https://twitter.com/sidagarwal04/status/1635136100288036864)
 - [Graph Data Science for Dummies e-book walks you through the foundations of graph data science - download for free! 👉 https://okt.to/ipSuQD #Neo4j #...](https://twitter.com/neo4j/status/1634969020821561345)
 - [&quot;Proper modeling of a graph database may be challenging. Luckily, nowadays, we can use tools like ChatGPT that can help us to model our data&quot; Learn ho...](https://twitter.com/neo4j/status/1634907862534352898)
+- [In this NODES 2022 presentation, Corey Lanum, the author of the book “Visualizing Graph Data”, demonstrates how to present graph analytics in a way ...](https://twitter.com/neo4j/status/1634651174128287750)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
