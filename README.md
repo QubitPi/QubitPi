@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1635301442302124033)
-- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1635283071904923652)
-- [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1635273760646348800)
 - [❗️ The data lineage graph is the single source of truth about your organization’s data. https://memgraph.com/blog/manage-all-your-data-lineage-need...](https://twitter.com/memgraphdb/status/1635253627869691904)
 - [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1635235505364148224)
+- [❗️ Although some naive text-searching solutions could be built with a graph database like Memgraph, Elasticsearch is better at offering fine-grained...](https://twitter.com/memgraphdb/status/1635229720085164034)
+- [❓ How many recommendation algorithms do you need for a successful recommendation engine? https://memgraph.com/blog/five-recommendation-algorithms-no-...](https://twitter.com/memgraphdb/status/1635217638828695552)
+- [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. https://memgraph.com/blog/why-should-you-combine-machine...](https://twitter.com/memgraphdb/status/1635200275534192640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
