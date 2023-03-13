@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Album2Vec—Music Meets Machine Learning](https://www.reddit.com/r/MachineLearning/comments/11pst36/p_album2vecmusic_meets_machine_learning/)
 - [[R] Introducing Ursa from Speechmatics | 25% improvement over Whisper](https://www.reddit.com/r/MachineLearning/comments/11prxd9/r_introducing_ursa_from_speechmatics_25/)
-- [[D] Recommendations sources for Understanding Advanced Mathematical Concepts in Research Papers?](https://www.reddit.com/r/MachineLearning/comments/11pqfhm/d_recommendations_sources_for_understanding/)
-- [[D] Unpacking the HF in RLHF - How Humans Teach LLMs to be Better](https://www.reddit.com/r/MachineLearning/comments/11ppxt4/d_unpacking_the_hf_in_rlhf_how_humans_teach_llms/)
-- [[D] Is anyone trying to just brute force intelligence with enormous model sizes and existing SOTA architectures? Are there technical limitations stopping us?](https://www.reddit.com/r/MachineLearning/comments/11poqmh/d_is_anyone_trying_to_just_brute_force/)
+- [[D] What&#39;s the mathematical notation for &quot;top k argmax&quot;?](https://www.reddit.com/r/MachineLearning/comments/11po6qw/d_whats_the_mathematical_notation_for_top_k_argmax/)
+- [[P] PromptLab: playground to test chains of prompts faster](https://www.reddit.com/r/MachineLearning/comments/11pnppv/p_promptlab_playground_to_test_chains_of_prompts/)
+- [[P] Discord Chatbot for LLaMA 4-bit quantized that runs 13b in &lt;9 GiB VRAM](https://www.reddit.com/r/MachineLearning/comments/11pmz69/p_discord_chatbot_for_llama_4bit_quantized_that/)
+- [[D]Looking to build an enthusiastic community for exploring AI](https://www.reddit.com/r/MachineLearning/comments/11pjxd6/dlooking_to_build_an_enthusiastic_community_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
