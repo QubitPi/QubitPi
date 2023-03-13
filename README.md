@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Unsure about LSTM behavior on Bitcoin price predictions](https://www.reddit.com/r/MachineLearning/comments/11qo8cv/p_unsure_about_lstm_behavior_on_bitcoin_price/)
 - [[P] ControlNetInpaint: No extra training and you can use 📝text +🌌image + 😷mask to generate new images.](https://www.reddit.com/r/MachineLearning/comments/11qnv4c/p_controlnetinpaint_no_extra_training_and_you_can/)
 - [[D] ChatGPT without text limits.](https://www.reddit.com/r/MachineLearning/comments/11qgxs8/d_chatgpt_without_text_limits/)
 - [[D] Are modern generative AI models on a path to significantly improved truthfulness?](https://www.reddit.com/r/MachineLearning/comments/11qgasm/d_are_modern_generative_ai_models_on_a_path_to/)
 - [[R] Optimal Data Acquisition Strategy](https://www.reddit.com/r/MachineLearning/comments/11qg55j/r_optimal_data_acquisition_strategy/)
-- [[D] Importance of square root in denominator for AdaGrad](https://www.reddit.com/r/MachineLearning/comments/11qfpbf/d_importance_of_square_root_in_denominator_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
