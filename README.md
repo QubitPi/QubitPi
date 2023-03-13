@@ -515,11 +515,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re 4/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1635315948956815360)
+- [Re 3/ A shoutout to @Liberland_org who have completed their 1st milestone as they work to create the Liberland blockchain. https://twitter.com/Liberla...](https://twitter.com/Web3foundation/status/1635315946582872064)
+- [Re 2/ Congratulations to @Decentrations for successfully completing their grant to build the Supersig pallet, which is like multisig but with more fle...](https://twitter.com/Web3foundation/status/1635315944217268225)
+- [1/ Web3 Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all ...](https://twitter.com/Web3foundation/status/1635315942187237376)
 - [Web3 Foundation CEO Bertrand Perez was a guest on the @randizuckerberg podcast RZMB, in its ‘Family Friendly Metaverse’ episode. Bertrand addressed ...](https://twitter.com/Web3foundation/status/1631679606678855680)
-- [Web3 Foundation is excited to announce that Thomas Fecker Boxler has joined as CFO. Thomas said: “I look forward to joining a highly driven and innov...](https://twitter.com/Web3foundation/status/1631325464194318336)
-- [Web3Foundation is pleased to sponsor this great hackathon centered on zero-knowledge proof, hosted by @BerkeleyRDI You&#39;ve got until March 12th to sign...](https://twitter.com/Web3foundation/status/1631313808542007301)
-- [What is @Polkadot OpenGov and what are the proposed updates to governance on Polkadot? Tomorrow at 4pm CET, join an AMA session with @DrW3RK &amp; @Juan_C...](https://twitter.com/Web3foundation/status/1628735009078095874)
-- [Today at 4pm CET, join @BillLaboon of Web3 Foundation in the discussion of the latest @ink_lang update, and what it means for the @Polkadot ecosystem....](https://twitter.com/Web3foundation/status/1628014270221897729)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
