@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Sagemaker studio notebooks vs Colab Pro+ [D]](https://www.reddit.com/r/MachineLearning/comments/11q7jlo/sagemaker_studio_notebooks_vs_colab_pro_d/)
 - [[Research] NeRFshop: Interactive Editing of Neural Radiance Fields, I3D 2023](https://www.reddit.com/r/MachineLearning/comments/11q6gco/research_nerfshop_interactive_editing_of_neural/)
 - [[Discussion] Searching for end-to-end MLOps training solution](https://www.reddit.com/r/MachineLearning/comments/11q53pp/discussion_searching_for_endtoend_mlops_training/)
 - [[R] Universal Instance Perception as Object Discovery and Retrieval &lpar;Video Demo&rpar;](https://www.reddit.com/r/MachineLearning/comments/11pzoa2/r_universal_instance_perception_as_object/)
 - [[D] Which topic in deep learning do you think will become relevant or popular in the future?](https://www.reddit.com/r/MachineLearning/comments/11pyvoe/d_which_topic_in_deep_learning_do_you_think_will/)
-- [[R] Introducing Ursa from Speechmatics | 25% improvement over Whisper](https://www.reddit.com/r/MachineLearning/comments/11prxd9/r_introducing_ursa_from_speechmatics_25/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
