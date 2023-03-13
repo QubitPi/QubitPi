@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Stanford-Alpaca 7B model &lpar;an instruction tuned version of LLaMA&rpar; performs as well as text-davinci-003](https://www.reddit.com/r/MachineLearning/comments/11qfcwb/r_stanfordalpaca_7b_model_an_instruction_tuned/)
 - [[D]: Generalisation ability of autoencoders](https://www.reddit.com/r/MachineLearning/comments/11qejcz/d_generalisation_ability_of_autoencoders/)
 - [[R] New grand challenge on generative models for medical imaging](https://www.reddit.com/r/MachineLearning/comments/11qdji0/r_new_grand_challenge_on_generative_models_for/)
 - [[P] Introducing 🌀 Ciclo: A functional training loops library for JAX](https://www.reddit.com/r/MachineLearning/comments/11qc3nz/p_introducing_ciclo_a_functional_training_loops/)
 - [[D] ICML 2023 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/11q9pqj/d_icml_2023_paper_reviews/)
-- [[R] MathPrompter: Mathematical Reasoning using Large Language Models. New State of the Art on MultiArith &lpar; 78.7% to 92.5%&rpar; with Text-Davinci 002](https://www.reddit.com/r/MachineLearning/comments/11q8w62/r_mathprompter_mathematical_reasoning_using_large/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
