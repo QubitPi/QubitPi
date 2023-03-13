@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1MYxNgXREzQKw](https://twitter.com/neo4j/status/1635200523463970816)
 - [Graph Data Science for Dummies e-book walks you through the foundations of graph data science - download for free! 👉 https://okt.to/ipSuQD #Neo4j #...](https://twitter.com/neo4j/status/1634969020821561345)
 - [&quot;Proper modeling of a graph database may be challenging. Luckily, nowadays, we can use tools like ChatGPT that can help us to model our data&quot; Learn ho...](https://twitter.com/neo4j/status/1634907862534352898)
 - [In this NODES 2022 presentation, Corey Lanum, the author of the book “Visualizing Graph Data”, demonstrates how to present graph analytics in a way ...](https://twitter.com/neo4j/status/1634651174128287750)
 - [BOOK CLUB: 10 Things We Learned In Full Stack GraphQL! In a series of videos, @lyonwj highlights some of the main takeaways of his book, Full Stack Gr...](https://twitter.com/neo4j/status/1634589264657752065)
-- [Paul Drangeid demonstrates how to host #NeoDash on #Azure with Docker. Once the application is created and configured, you can share your NeoDash repo...](https://twitter.com/neo4j/status/1634544971482034179)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
