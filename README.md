@@ -320,7 +320,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Why your team’s Scrum Genius might be holding you back](https://www.scrum.org/resources/blog/why-your-teams-scrum-genius-might-be-holding-you-back)
+- [Why Your Team’s Scrum Genius Might be Holding You Back](https://www.scrum.org/resources/blog/why-your-teams-scrum-genius-might-be-holding-you-back)
 - [The Stoic Scrum Master](https://www.scrum.org/resources/blog/stoic-scrum-master)
 - [🇮🇹 Facilitazione](https://www.scrum.org/resources/blog/facilitazione)
 - [Scrum im Selbststudium – Teil 6: Die Scrum Artefakte stellen Transparenz her](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-6-die-scrum-artefakte-stellen-transparenz-her)
