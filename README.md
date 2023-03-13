@@ -320,11 +320,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum im Selbststudium – Teil 6: Die Scrum Artefakte stellen Transparenz her](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-6-die-scrum-artefakte-stellen-transparenz-her)
 - [Improve your team&#39;s concern psychological safety!](https://www.scrum.org/resources/blog/improve-your-teams-concern-psychological-safety)
 - [Por una organización sin silos ni divisiones](https://www.scrum.org/resources/blog/por-una-organizacion-sin-silos-ni-divisiones)
 - [Do You build The Right Product?](https://www.scrum.org/resources/blog/do-you-build-right-product)
 - [Definition of &#39;Done&#39;: What It Is and How It Supports Scrum Events](https://www.scrum.org/resources/blog/definition-done-what-it-and-how-it-supports-scrum-events)
-- [Scrum Master Power-Ups](https://www.scrum.org/resources/blog/scrum-master-power-ups)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
