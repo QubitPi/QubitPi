@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. https://memgraph.com/blog/why-should-you-combine-machine...](https://twitter.com/memgraphdb/status/1635200275534192640)
-- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ https:...](https://twitter.com/memgraphdb/status/1635179133645758464)
 - [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1635164792427257857)
 - [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1635145916259893248)
 - [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1635003476542476289)
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1634979571534536705)
+- [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1634965476412645376)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
