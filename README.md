@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1635164792427257857)
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1635145916259893248)
 - [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1635003476542476289)
 - [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1634979571534536705)
 - [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1634965476412645376)
-- [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1634958935471046667)
-- [✨ Memgraph prepared another magic spell to continue the graph machine learning story. It is time to bring more great graph neural network &lpar;GNN&rpar; model...](https://twitter.com/memgraphdb/status/1634919171774611458)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
