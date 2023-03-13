@@ -247,11 +247,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772042705482022967><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/615e786fedd3037c67810b9a0a0a829a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@秋葉アキハ@AE-ir@鸣梓只会阿巴等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/772444727317364768)
 - [#原神# #振晶的复核实验# 亲爱的旅行者，「振晶的复核实验」活动即将开启~ 〓活动时间〓 2023/03/14 10:00 ~ 2023/03/27 03:59 〓参与条件〓 冒险等阶≥28级 且...](https://t.bilibili.com/772042705482022967)
 - [恭喜@小野寺真央@这年代取个名字就这么难吗@矢泽茶泡饭等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/771331467497177157)
 - [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第22弹」现已上线 亲爱的旅行者，「派蒙的画作第22弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/771301823659114529)
 - [互动抽奖 #原神# #申鹤# #生日快乐# 自踏入仙门，凡俗便如尘埃般散去… 但与你结识后，我竟也有了企盼这一日的心情。 我无法描述它，只是心口变得很温暖。 这种...](https://t.bilibili.com/771300779955847207)
-- [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式即将开启~ 〓活动时间〓 2023/03/11 10:00 ~ 2023/03/20 03:59 〓参与条件〓 冒险等阶≥32级 完成魔神任...](https://t.bilibili.com/770929445701681253)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
