@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Does anyone have a pdf of Hinton’s talk “Aetherial Symbols”?](https://www.reddit.com/r/MachineLearning/comments/11reurv/d_does_anyone_have_a_pdf_of_hintons_talk/)
 - [[N] FastKafka - free open source python lib for building Kafka-based services](https://www.reddit.com/r/MachineLearning/comments/11rdzgf/n_fastkafka_free_open_source_python_lib_for/)
 - [[News] OpenAI Announced GPT-4](https://www.reddit.com/r/MachineLearning/comments/11rc02e/news_openai_announced_gpt4/)
 - [[D] Query regarding regression](https://www.reddit.com/r/MachineLearning/comments/11rb6uj/d_query_regarding_regression/)
 - [[D]Query on the uniqueness of GPT-based chatbots](https://www.reddit.com/r/MachineLearning/comments/11r9etj/dquery_on_the_uniqueness_of_gptbased_chatbots/)
-- [[D] On research directions being &quot;out of date&quot;](https://www.reddit.com/r/MachineLearning/comments/11r97fn/d_on_research_directions_being_out_of_date/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
