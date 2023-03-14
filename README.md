@@ -320,11 +320,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum im Selbststudium – Teil 7: Die mögliche Zukunft – Das Product Backlog](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-7-die-mogliche-zukunft-das-product-backlog)
 - [Why Your Team’s Scrum Genius Might be Holding You Back](https://www.scrum.org/resources/blog/why-your-teams-scrum-genius-might-be-holding-you-back)
 - [The Stoic Scrum Master](https://www.scrum.org/resources/blog/stoic-scrum-master)
 - [🇮🇹 Facilitazione](https://www.scrum.org/resources/blog/facilitazione)
 - [Scrum im Selbststudium – Teil 6: Die Scrum Artefakte stellen Transparenz her](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-6-die-scrum-artefakte-stellen-transparenz-her)
-- [Improve your team&#39;s concern psychological safety!](https://www.scrum.org/resources/blog/improve-your-teams-concern-psychological-safety)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
