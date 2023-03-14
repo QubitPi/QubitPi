@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] 2022 State of Competitive ML -- The Downfall of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/11r363i/d_2022_state_of_competitive_ml_the_downfall_of/)
 - [&quot;[D]&quot; ,&quot;[R]&quot; Applications of Deep belief Networks](https://www.reddit.com/r/MachineLearning/comments/11r157c/d_r_applications_of_deep_belief_networks/)
 - [[D] NLP - Merging token embeddings for smaller input sizes](https://www.reddit.com/r/MachineLearning/comments/11r10yz/d_nlp_merging_token_embeddings_for_smaller_input/)
 - [[R] Training Small Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/11qynbp/r_training_small_diffusion_model/)
 - [[P] Build a Question Answer system/chat bot trained on documentation.](https://www.reddit.com/r/MachineLearning/comments/11qxys6/p_build_a_question_answer_systemchat_bot_trained/)
-- [[D] Comparing models implemented in PyTorch and Tensorflow](https://www.reddit.com/r/MachineLearning/comments/11qwzb6/d_comparing_models_implemented_in_pytorch_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
