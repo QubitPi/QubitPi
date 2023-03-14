@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Bayesian interpretation of distortion in autoencoders](https://www.reddit.com/r/MachineLearning/comments/11r7vgq/d_bayesian_interpretation_of_distortion_in/)
 - [[D] Graph neural networks for NLP](https://www.reddit.com/r/MachineLearning/comments/11r7u11/d_graph_neural_networks_for_nlp/)
 - [[D] Can I use Explainer from the Shap package in python on a tree model instead of TreeExplainer](https://www.reddit.com/r/MachineLearning/comments/11r79a0/d_can_i_use_explainer_from_the_shap_package_in/)
 - [Interesting sources on Anomaly Detection [R]](https://www.reddit.com/r/MachineLearning/comments/11r5g3z/interesting_sources_on_anomaly_detection_r/)
 - [[P] Enriched Huggingface dataset &lpar;+embeddings, baseline, edge cases&rpar; for the DCASE Anomalous Sound Detection challenge](https://www.reddit.com/r/MachineLearning/comments/11r4xtf/p_enriched_huggingface_dataset_embeddings/)
-- [[D] 2022 State of Competitive ML -- The Downfall of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/11r363i/d_2022_state_of_competitive_ml_the_downfall_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
