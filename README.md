@@ -320,11 +320,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [5 Ways Empiricism Can Make You a Better Scrum Master](https://www.scrum.org/resources/blog/5-ways-empiricism-can-make-you-better-scrum-master)
 - [Map Your Route to Mastering Agile Fluency](https://www.scrum.org/resources/blog/map-your-route-mastering-agile-fluency)
 - [Tribes and Squads. How adaptive is that?](https://www.scrum.org/resources/blog/tribes-and-squads-how-adaptive)
 - [Agile Principles - Become More Effective](https://www.scrum.org/resources/blog/agile-principles-become-more-effective)
 - [Scrum im Selbststudium – Teil 7: Die mögliche Zukunft – Das Product Backlog](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-7-die-mogliche-zukunft-das-product-backlog)
-- [Why Your Team’s Scrum Genius Might be Holding You Back](https://www.scrum.org/resources/blog/why-your-teams-scrum-genius-might-be-holding-you-back)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
