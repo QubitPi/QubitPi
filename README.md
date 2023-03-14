@@ -244,7 +244,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772786220168118308><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/672d4a08f59d4d4d4e1d9e6ec9900833401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772815812514807816><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f95deddf5258953b2ed5b3fa03424fc6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@月下老婆世界第一可爱@地狱星宇@中二的野牛等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/772815812514807816)
