@@ -302,7 +302,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] awesome-gpt4: A curated list of tools and resources regarding the GPT-4 language model.](https://www.reddit.com/r/MachineLearning/comments/11rd8l4/p_awesomegpt4_a_curated_list_of_tools_and/)
+- [[N] FastKafka - free open source python lib for building Kafka-based services](https://www.reddit.com/r/MachineLearning/comments/11rdzgf/n_fastkafka_free_open_source_python_lib_for/)
 - [[News] OpenAI Announced GPT-4](https://www.reddit.com/r/MachineLearning/comments/11rc02e/news_openai_announced_gpt4/)
 - [[D] Query regarding regression](https://www.reddit.com/r/MachineLearning/comments/11rb6uj/d_query_regarding_regression/)
 - [[D]Query on the uniqueness of GPT-based chatbots](https://www.reddit.com/r/MachineLearning/comments/11r9etj/dquery_on_the_uniqueness_of_gptbased_chatbots/)
