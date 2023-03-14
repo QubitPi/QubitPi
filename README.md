@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1635541523419873280)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1635530951437479937)
 - [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1635516357113421825)
 - [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1635365865397862400)
 - [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1635341956715782146)
+- [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1635325651208085533)
+- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1635301442302124033)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
