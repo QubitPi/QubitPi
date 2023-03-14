@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Find out why SQL databases are outdated for real-time recommendation engines. https://memgraph.com/blog/faster-recommendations-with-graph-databases...](https://twitter.com/memgraphdb/status/1635723973538316289)
 - [🚀 PageRank is a mature graph algorithm that hasn’t yet lost its relevance. Even more so, with the rise of graph database usage it will surely find...](https://twitter.com/memgraphdb/status/1635706357943762957)
 - [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1635690251917176841)
 - [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1635681949325963265)
 - [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1635663830289137665)
-- [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1635656532258963456)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
