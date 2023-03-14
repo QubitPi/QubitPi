@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Gartner: “By 2025, graph technologies will be used in 80% of data and analytics innovations, up from 10% in 2021, facilitating rapid decision-making ...](https://twitter.com/neo4j/status/1635611815232122881)
 - [Graphversation - IWD Special! https://twitter.com/i/broadcasts/1vOGwMOWblMxB](https://twitter.com/neo4j/status/1635498503391838210)
 - [NEO4j DATA IMPORTER: Introducing File Filtering📢 The latest release introduces a new way to load more data sources without pre-processing. More: ht...](https://twitter.com/neo4j/status/1635370211191975936)
 - [Cyber attackers adapt quickly — operate in stealth mode — to exploit their victims’ sensitive data: How can you mitigate those risks? Find out from...](https://twitter.com/neo4j/status/1635324968681771008)
 - [Re @PinkProgramming and us are partnering again to give you tips on how to sharpen your interviews If you are near Malmö, make sure to register and a...](https://twitter.com/neo4j/status/1635264498083807232)
-- [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1MYxNgXREzQKw](https://twitter.com/neo4j/status/1635200523463970816)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
