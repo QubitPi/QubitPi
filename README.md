@@ -247,11 +247,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772786220168118308><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/672d4a08f59d4d4d4e1d9e6ec9900833401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #荒泷一斗# 本大爷今天带来了我的「挚爱」，特意分享给你！ 当当——怎么样，就是这些棒棒糖！是不是很诱人？ 我作为荒泷派的老大，有的是老大...](https://t.bilibili.com/772786220168118308)
+- [互动抽奖 #原神# #魈# 谢谢你愿意诉说旅行见闻，其间虽有千钧一发之时，但幸好一切顺遂。 我没有特别的故事作为回报…这包点心送予你。 听说是能补充能量的甜品...](https://t.bilibili.com/772785863683735577)
+- [互动抽奖 #原神# #琴# #生日快乐# 今日的风温暖和煦，让人的心情也为之振奋。 或许是该多出来走走了。 能在爱与感谢的节日期间里度过生日，也是一件颇为浪漫的事...](https://t.bilibili.com/772784987536621622)
 - [恭喜@秋葉アキハ@AE-ir@鸣梓只会阿巴等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/772444727317364768)
 - [#原神# #振晶的复核实验# 亲爱的旅行者，「振晶的复核实验」活动即将开启~ 〓活动时间〓 2023/03/14 10:00 ~ 2023/03/27 03:59 〓参与条件〓 冒险等阶≥28级 且...](https://t.bilibili.com/772042705482022967)
-- [恭喜@小野寺真央@这年代取个名字就这么难吗@矢泽茶泡饭等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/771331467497177157)
-- [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第22弹」现已上线 亲爱的旅行者，「派蒙的画作第22弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/771301823659114529)
-- [互动抽奖 #原神# #申鹤# #生日快乐# 自踏入仙门，凡俗便如尘埃般散去… 但与你结识后，我竟也有了企盼这一日的心情。 我无法描述它，只是心口变得很温暖。 这种...](https://t.bilibili.com/771300779955847207)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
