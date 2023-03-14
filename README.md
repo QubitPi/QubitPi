@@ -304,9 +304,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [Interesting sources on Anomaly Detection [R]](https://www.reddit.com/r/MachineLearning/comments/11r5g3z/interesting_sources_on_anomaly_detection_r/)
 - [[P] Enriched Huggingface dataset &lpar;+embeddings, baseline, edge cases&rpar; for the DCASE Anomalous Sound Detection challenge](https://www.reddit.com/r/MachineLearning/comments/11r4xtf/p_enriched_huggingface_dataset_embeddings/)
-- [[D] Factor Significant vs Hyperparameter Tuning](https://www.reddit.com/r/MachineLearning/comments/11r4fn1/d_factor_significant_vs_hyperparameter_tuning/)
 - [[D] 2022 State of Competitive ML -- The Downfall of TensorFlow](https://www.reddit.com/r/MachineLearning/comments/11r363i/d_2022_state_of_competitive_ml_the_downfall_of/)
 - [&quot;[D]&quot; ,&quot;[R]&quot; Applications of Deep belief Networks](https://www.reddit.com/r/MachineLearning/comments/11r157c/d_r_applications_of_deep_belief_networks/)
+- [[D] NLP - Merging token embeddings for smaller input sizes](https://www.reddit.com/r/MachineLearning/comments/11r10yz/d_nlp_merging_token_embeddings_for_smaller_input/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
