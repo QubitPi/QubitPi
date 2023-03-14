@@ -455,11 +455,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1635516357113421825)
 - [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1635365865397862400)
 - [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1635341956715782146)
 - [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1635325651208085533)
 - [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1635301442302124033)
+- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1635283071904923652)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
