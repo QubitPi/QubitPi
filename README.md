@@ -475,11 +475,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Take advantage of these live FREE DEMOS! Learn from the experts all about #GraphDataBase and #GraphDataScience Register, here: https://okt.to/dGp7ty #...](https://twitter.com/neo4j/status/1635732601217449993)
 - [Wow, our first #GraphSummit of the year is over and we are very happy to kick off this tour!🎉🌏 Next events? https://okt.to/7wiyCv 📸 Ferenc Ku...](https://twitter.com/neo4j/status/1635702409950265350)
 - [#CyberSecurity 👉 Empowering Open Source Cyber Threat Intelligence Analysis with Graph Visualization https://okt.to/XOQjPJ. #Neo4j #Bloom #Visualiza...](https://twitter.com/neo4j/status/1635687361592930321)
 - [Neo4j Live: Conversational Artificial Intelligence With Neo4j and Unreal Engine https://twitter.com/i/broadcasts/1djGXlLyOYLGZ](https://twitter.com/neo4j/status/1635668478517719040)
 - [Building a Simple Movie Recommender With #Python and #Neo4j 📽 Dimitris Panagopoulos explains how to use a graph database to create a simple movie r...](https://twitter.com/neo4j/status/1635657050230235138)
-- [Gartner: “By 2025, graph technologies will be used in 80% of data and analytics innovations, up from 10% in 2021, facilitating rapid decision-making ...](https://twitter.com/neo4j/status/1635611815232122881)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
