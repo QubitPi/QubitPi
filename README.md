@@ -303,10 +303,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [Productionize training pipeline vs model artifact? [D]](https://www.reddit.com/r/MachineLearning/comments/11qu3qc/productionize_training_pipeline_vs_model_artifact/)
-- [[P] NEW RELEASE - ML-Solution Templates - Customer Churn Prediction Template](https://www.reddit.com/r/MachineLearning/comments/11qtpwm/p_new_release_mlsolution_templates_customer_churn/)
 - [[P] ControlNetInpaint: No extra training and you can use 📝text +🌌image + 😷mask to generate new images.](https://www.reddit.com/r/MachineLearning/comments/11qnv4c/p_controlnetinpaint_no_extra_training_and_you_can/)
 - [[D] ChatGPT without text limits.](https://www.reddit.com/r/MachineLearning/comments/11qgxs8/d_chatgpt_without_text_limits/)
 - [[D] Are modern generative AI models on a path to significantly improved truthfulness?](https://www.reddit.com/r/MachineLearning/comments/11qgasm/d_are_modern_generative_ai_models_on_a_path_to/)
+- [[R] Optimal Data Acquisition Strategy](https://www.reddit.com/r/MachineLearning/comments/11qg55j/r_optimal_data_acquisition_strategy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
