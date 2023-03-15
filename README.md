@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Are GFLOPS or Parameter Size more informative?](https://www.reddit.com/r/MachineLearning/comments/11royv4/d_are_gflops_or_parameter_size_more_informative/)
 - [[D] GPT-4 Speculation](https://www.reddit.com/r/MachineLearning/comments/11romcb/d_gpt4_speculation/)
 - [[D] The absolute state of ML in the 2020s](https://www.reddit.com/r/MachineLearning/comments/11ro3fg/d_the_absolute_state_of_ml_in_the_2020s/)
 - [[R] OpenAI&#39;s ARC Challenges GPT-4 to Reproduce and Gather Resources Independently.](https://www.reddit.com/r/MachineLearning/comments/11rnqcl/r_openais_arc_challenges_gpt4_to_reproduce_and/)
 - [[D] Choosing Cloud vs local hardware for training LLMs. What&#39;s best for a small research group?](https://www.reddit.com/r/MachineLearning/comments/11rnppe/d_choosing_cloud_vs_local_hardware_for_training/)
-- [[D] Model for pattern classification](https://www.reddit.com/r/MachineLearning/comments/11rnj5k/d_model_for_pattern_classification/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
