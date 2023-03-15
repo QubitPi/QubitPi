@@ -94,6 +94,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)<img src="https://user-images.githubusercontent.com/16126939/184785710-281e8c8a-a080-4293-beb9-ce981554bafe.png" alt="可莉" width="15%">
 
+<img src="https://user-images.githubusercontent.com/16126939/225261148-96d4053d-2851-4cce-88c4-c23ce0bd5a80.png" alt="可莉" width="15%">[![Messier-61](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Messier-61&show_owner=true&theme=vue)](https://github.com/QubitPi/Messier-61)
+    
 <img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="14%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
 [![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">
