@@ -485,11 +485,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Ask a Data Scientist: What Is Your Favorite Problem You&#39;ve Ever Solved With Graph Data Science?](https://www.youtube.com/watch?v=Vabbf-Mn9q0)
-- [Ask a Data Scientist: What Are Graph Embeddings and Why Are They Important?](https://www.youtube.com/watch?v=ri7V-RWj2AU)
-- [Ask a Data Scientist: Why Is Graph Data Technique for Influence &amp; Importance Measures?](https://www.youtube.com/watch?v=-DNmqP69ZTs)
-- [Ask a Data Scientist: Why Is Graph Data Science a Good Technique for Pathfinding?](https://www.youtube.com/watch?v=8mwfT-q7Tho)
-- [Ask a Data Scientist: What Makes a Good Graph Problem?](https://www.youtube.com/watch?v=jJbMW5SMNGI)
+- [Neo4j Live: Conversational Artificial Intelligence With Neo4j and Unreal Engine](https://www.youtube.com/watch?v=0r4fwxd5tKU)
+- [Graphversation - IWD Special!](https://www.youtube.com/watch?v=tTCDlTWvcr8)
+- [Hotel Review Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=9c9WWDMskXQ)
+- [What&#39;s New in Neo4j Data Importer](https://www.youtube.com/watch?v=JXU7TxC_ExI)
+- [Neo4j Live: Inspiring Women&#39;s Journeys in Tech](https://www.youtube.com/watch?v=SXgKJOF55uY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
