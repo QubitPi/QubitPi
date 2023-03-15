@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Testing regimes for Data Science &amp; MLOps code](https://www.reddit.com/r/MachineLearning/comments/11rtjok/d_testing_regimes_for_data_science_mlops_code/)
+- [[D] AI model for hierarchy-permission system building](https://www.reddit.com/r/MachineLearning/comments/11rti28/d_ai_model_for_hierarchypermission_system_building/)
+- [[D] ChatGPT Plus waitlist](https://www.reddit.com/r/MachineLearning/comments/11rthqf/d_chatgpt_plus_waitlist/)
 - [[D] Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/11rrvgt/d_isolation_forest/)
 - [[D] Vegetarian Wolves and Stochastic Parrots: The Future of Prompt Engineering with GPT-4?](https://www.reddit.com/r/MachineLearning/comments/11rqb7u/d_vegetarian_wolves_and_stochastic_parrots_the/)
-- [[R] Has there been a big advancement in ML after the transformer model?](https://www.reddit.com/r/MachineLearning/comments/11rppi2/r_has_there_been_a_big_advancement_in_ml_after/)
-- [[D] Are GFLOPS or Parameter Size more informative?](https://www.reddit.com/r/MachineLearning/comments/11royv4/d_are_gflops_or_parameter_size_more_informative/)
-- [[D] GPT-4 Speculation](https://www.reddit.com/r/MachineLearning/comments/11romcb/d_gpt4_speculation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
