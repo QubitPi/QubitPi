@@ -473,11 +473,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Thank you for visiting our booth and attending our talks at CDAO Brisbane! 📸Nodes and graphistas in our booth, Peter Philipp, GM #Neo4j ANZ, and Da...](https://twitter.com/neo4j/status/1636134203715735552)
 - [We will be at the Gartner Data &amp; Analytics Summit in Orlando on March 20 – 22! Meet us to learn how graph technology can help you meet your business ...](https://twitter.com/neo4j/status/1636058246048784385)
 - [Training Series - Intro to Neo4j https://twitter.com/i/broadcasts/1jMJgLPnQpMxL](https://twitter.com/neo4j/status/1636016296130400261)
 - [Check this agenda out! 👇 Take a look at the upcoming demos, Europe&#39;s-timezone-friendy! Register and learn FOR FREE https://okt.to/Xkhcmi #Neo4jDemo...](https://twitter.com/neo4j/status/1635989465557528577)
 - [RT Alexander Erdl: Last chance to register for our #neo4j intro training this afternoon with @mesirii https://go.neo4j.com/WBR-230315-Training-Series-...](https://twitter.com/alexandererdl/status/1635938933858004992)
-- [Take advantage of these live FREE DEMOS! Learn from the experts all about #GraphDataBase and #GraphDataScience Register, here: https://okt.to/dGp7ty #...](https://twitter.com/neo4j/status/1635732601217449993)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
