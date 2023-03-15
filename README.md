@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Learn how you can easily analyze data inside Memgraph for cybersecurity use cases, since most of the use cases from that area have a network-like...](https://twitter.com/memgraphdb/status/1635902400396443649)
 - [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1635893341819752449)
 - [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1635870690803957760)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. https://memgraph.com/blog/faster-recommendations-with-graph-databases...](https://twitter.com/memgraphdb/status/1635723973538316289)
 - [🚀 PageRank is a mature graph algorithm that hasn’t yet lost its relevance. Even more so, with the rise of graph database usage it will surely find...](https://twitter.com/memgraphdb/status/1635706357943762957)
-- [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1635690251917176841)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
