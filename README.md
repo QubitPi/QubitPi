@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Vegetarian Wolves and Stochastic Parrots: The Future of Prompt Engineering with GPT-4?](https://www.reddit.com/r/MachineLearning/comments/11rqb7u/d_vegetarian_wolves_and_stochastic_parrots_the/)
 - [[R] Has there been a big advancement in ML after the transformer model?](https://www.reddit.com/r/MachineLearning/comments/11rppi2/r_has_there_been_a_big_advancement_in_ml_after/)
 - [[D] Are GFLOPS or Parameter Size more informative?](https://www.reddit.com/r/MachineLearning/comments/11royv4/d_are_gflops_or_parameter_size_more_informative/)
 - [[D] GPT-4 Speculation](https://www.reddit.com/r/MachineLearning/comments/11romcb/d_gpt4_speculation/)
 - [[D] The absolute state of ML in the 2020s](https://www.reddit.com/r/MachineLearning/comments/11ro3fg/d_the_absolute_state_of_ml_in_the_2020s/)
-- [[R] OpenAI&#39;s ARC Challenges GPT-4 to Reproduce and Gather Resources Independently.](https://www.reddit.com/r/MachineLearning/comments/11rnqcl/r_openais_arc_challenges_gpt4_to_reproduce_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
