@@ -98,7 +98,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)<img src="https://user-images.githubusercontent.com/16126939/185029702-955b44ab-3570-41f2-bb36-581a7ffe38fe.png" alt="心海" width="15%">
 
-![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">[
+[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">
 
 [![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)<img src="https://user-images.githubusercontent.com/16126939/184785193-847340ec-36ee-4e2c-94ba-fb821800fc21.png" alt="可莉" width="15%">
 
