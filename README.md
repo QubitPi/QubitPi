@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[N] ⛓ LangFlow — An Open Source UI for LangChain](https://www.reddit.com/r/MachineLearning/comments/11s3smp/n_langflow_an_open_source_ui_for_langchain/)
 - [[D] Closed Domain Chat-GPT / LLM wrangling](https://www.reddit.com/r/MachineLearning/comments/11s3oxd/d_closed_domain_chatgpt_llm_wrangling/)
 - [[D] Taking Abstract Algebra?](https://www.reddit.com/r/MachineLearning/comments/11s3oly/d_taking_abstract_algebra/)
 - [[D] Is there an expectation that epochs/learning rates should be kept the same between benchmark experiments?](https://www.reddit.com/r/MachineLearning/comments/11s1zfh/d_is_there_an_expectation_that_epochslearning/)
 - [[R] ConvNextV2](https://www.reddit.com/r/MachineLearning/comments/11s1paj/r_convnextv2/)
+- [[D] Alternatives to Mediapipe&#39;s FaceMesh for 3D Face Reconstruction](https://www.reddit.com/r/MachineLearning/comments/11s01af/d_alternatives_to_mediapipes_facemesh_for_3d_face/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
