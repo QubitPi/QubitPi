@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Anyone else witnessing a panic inside NLP orgs of big tech companies?](https://www.reddit.com/r/MachineLearning/comments/11rizyb/d_anyone_else_witnessing_a_panic_inside_nlp_orgs/)
 - [[Discussion] Huggingface for AI tooling](https://www.reddit.com/r/MachineLearning/comments/11rhu1v/discussion_huggingface_for_ai_tooling/)
 - [[N] Baidu to Unveil Conversational AI ERNIE Bot on March 16 &lpar;Live&rpar;](https://www.reddit.com/r/MachineLearning/comments/11rfxca/n_baidu_to_unveil_conversational_ai_ernie_bot_on/)
 - [[P] We are building a curated list of awesome curated list closely related to machine learning, looking for contributions.](https://www.reddit.com/r/MachineLearning/comments/11rfbnw/p_we_are_building_a_curated_list_of_awesome/)
 - [[D] Does anyone have a pdf of Hinton’s talk “Aetherial Symbols”?](https://www.reddit.com/r/MachineLearning/comments/11reurv/d_does_anyone_have_a_pdf_of_hintons_talk/)
-- [[N] FastKafka - free open source python lib for building Kafka-based services](https://www.reddit.com/r/MachineLearning/comments/11rdzgf/n_fastkafka_free_open_source_python_lib_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
