@@ -114,8 +114,6 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-[![bad-interviewees-go-to-hell](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bad-interviewees-go-to-hell&show_owner=true&theme=vue)](https://github.com/QubitPi/bad-interviewees-go-to-hell)
-
 ### Contributor
 
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=vue)](https://github.com/yahoo/fili)
