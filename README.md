@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1636066735773171713)
-- [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1636050563400974343)
 - [🎓 Real-time software can differ widely from use case to use case. In general, real-time software is built with time requirements in mind and should...](https://twitter.com/memgraphdb/status/1636026219429863426)
 - [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1636007847329779712)
 - [In our first featured community call, Memgraph&#39;s valued Discord member Sören Klein will educate us about the history of graph databases and share som...](https://twitter.com/memgraphdb/status/1636002670841417729)
+- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1635998534691352576)
+- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1635978403261079554)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
