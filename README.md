@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What does it mean if accuracy, precision, recall, and F1 scores are all the same value?](https://www.reddit.com/r/MachineLearning/comments/11rvdd4/d_what_does_it_mean_if_accuracy_precision_recall/)
 - [[D] When to expect announcement of accepted workshops for IJCAI?](https://www.reddit.com/r/MachineLearning/comments/11rutje/d_when_to_expect_announcement_of_accepted/)
 - [[D] What do people think about OpenAI not releasing its research but benefiting from others’ research? Should google meta enforce its patents against them?](https://www.reddit.com/r/MachineLearning/comments/11rtzv6/d_what_do_people_think_about_openai_not_releasing/)
 - [[R] Is there any NeRF labelling standard?](https://www.reddit.com/r/MachineLearning/comments/11rtvc6/r_is_there_any_nerf_labelling_standard/)
 - [[D] Testing regimes for Data Science &amp; MLOps code](https://www.reddit.com/r/MachineLearning/comments/11rtjok/d_testing_regimes_for_data_science_mlops_code/)
-- [[D] ChatGPT Plus waitlist](https://www.reddit.com/r/MachineLearning/comments/11rthqf/d_chatgpt_plus_waitlist/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
