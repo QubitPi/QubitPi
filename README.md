@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Data preprocessing for MLM vs. CLM](https://www.reddit.com/r/MachineLearning/comments/11s6gj8/d_data_preprocessing_for_mlm_vs_clm/)
+- [[D] Is LLM training compression?](https://www.reddit.com/r/MachineLearning/comments/11s6cus/d_is_llm_training_compression/)
 - [[D] GPT-3 will ignore tools when it disagrees with them](https://www.reddit.com/r/MachineLearning/comments/11s654g/d_gpt3_will_ignore_tools_when_it_disagrees_with/)
 - [[N] PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever](https://www.reddit.com/r/MachineLearning/comments/11s58n4/n_pytorch_20_our_next_generation_release_that_is/)
 - [[D] Closed Domain Chat-GPT / LLM wrangling](https://www.reddit.com/r/MachineLearning/comments/11s3oxd/d_closed_domain_chatgpt_llm_wrangling/)
-- [[D] Taking Abstract Algebra?](https://www.reddit.com/r/MachineLearning/comments/11s3oly/d_taking_abstract_algebra/)
-- [[D] Is there an expectation that epochs/learning rates should be kept the same between benchmark experiments?](https://www.reddit.com/r/MachineLearning/comments/11s1zfh/d_is_there_an_expectation_that_epochslearning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
