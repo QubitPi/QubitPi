@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Any other ICML reviewers noticing strange scores for the papers they&#39;re assigned to?](https://www.reddit.com/r/MachineLearning/comments/11scezi/d_any_other_icml_reviewers_noticing_strange/)
 - [[D] Our community must get serious about opposing OpenAI](https://www.reddit.com/r/MachineLearning/comments/11sboh1/d_our_community_must_get_serious_about_opposing/)
 - [[N] Mozilla launched a responsible AI challenge and I&#39;m stoked about it](https://www.reddit.com/r/MachineLearning/comments/11s8yk2/n_mozilla_launched_a_responsible_ai_challenge_and/)
 - [[D] GPT-3 will ignore tools when it disagrees with them](https://www.reddit.com/r/MachineLearning/comments/11s654g/d_gpt3_will_ignore_tools_when_it_disagrees_with/)
 - [[N] PyTorch 2.0: Our next generation release that is faster, more Pythonic and Dynamic as ever](https://www.reddit.com/r/MachineLearning/comments/11s58n4/n_pytorch_20_our_next_generation_release_that_is/)
-- [[D] Closed Domain Chat-GPT / LLM wrangling](https://www.reddit.com/r/MachineLearning/comments/11s3oxd/d_closed_domain_chatgpt_llm_wrangling/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
