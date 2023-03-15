@@ -133,9 +133,9 @@ By tapping into the collective talent and innovation of open source communities,
 &nbsp;
 &nbsp;
 
-[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)<img width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
-
 <img src="https://user-images.githubusercontent.com/16126939/202896434-d77b45be-6aa8-432c-a79c-c577e962578f.png" alt="可莉" width="15%">[![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
+
+[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)<img width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
     
 </div>
 
