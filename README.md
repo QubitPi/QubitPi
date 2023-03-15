@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1635978403261079554)
+- [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1635960282139746305)
 - [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. https://me...](https://twitter.com/memgraphdb/status/1635954493492801537)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1635942415851724801)
 - [🎓 Learn how you can easily analyze data inside Memgraph for cybersecurity use cases, since most of the use cases from that area have a network-like...](https://twitter.com/memgraphdb/status/1635902400396443649)
-- [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1635893341819752449)
-- [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1635870690803957760)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
