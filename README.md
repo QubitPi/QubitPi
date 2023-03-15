@@ -318,11 +318,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Product mnagement - Why a Product Owner needs to go beyond Scrum](https://www.scrum.org/resources/blog/product-mnagement-why-product-owner-needs-go-beyond-scrum)
 - [Malas interpretaciones del Product Owner](https://www.scrum.org/resources/blog/malas-interpretaciones-del-product-owner)
 - [Scrum im Selbststudium – Teil 8: Die Gegenwart – Das Sprint Backlog](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-8-die-gegenwart-das-sprint-backlog)
 - [Intro to Scrum &lpar;12 of 16&rpar;: What is the Sprint Retrospective?](https://www.scrum.org/resources/blog/intro-scrum-12-16-what-sprint-retrospective)
 - [5 Ways Empiricism Can Make You a Better Scrum Master](https://www.scrum.org/resources/blog/5-ways-empiricism-can-make-you-better-scrum-master)
-- [Map Your Route to Mastering Agile Fluency](https://www.scrum.org/resources/blog/map-your-route-mastering-agile-fluency)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
