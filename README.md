@@ -302,11 +302,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Model for pattern classification](https://www.reddit.com/r/MachineLearning/comments/11rnj5k/d_model_for_pattern_classification/)
 - [techniques to monitor forecasting and regression models? [R][P]](https://www.reddit.com/r/MachineLearning/comments/11rmsce/techniques_to_monitor_forecasting_and_regression/)
 - [Modern language models refute Chomsky’s approach to language [R]](https://www.reddit.com/r/MachineLearning/comments/11rmgzs/modern_language_models_refute_chomskys_approach/)
 - [[D] Anyone else witnessing a panic inside NLP orgs of big tech companies?](https://www.reddit.com/r/MachineLearning/comments/11rizyb/d_anyone_else_witnessing_a_panic_inside_nlp_orgs/)
 - [[Discussion] Huggingface for AI tooling](https://www.reddit.com/r/MachineLearning/comments/11rhu1v/discussion_huggingface_for_ai_tooling/)
-- [[N] Baidu to Unveil Conversational AI ERNIE Bot on March 16 &lpar;Live&rpar;](https://www.reddit.com/r/MachineLearning/comments/11rfxca/n_baidu_to_unveil_conversational_ai_ernie_bot_on/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
