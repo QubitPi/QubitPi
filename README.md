@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What do people think about OpenAI not releasing its research but benefiting from others’ research? Should google meta enforce its patents against them?](https://www.reddit.com/r/MachineLearning/comments/11rtzv6/d_what_do_people_think_about_openai_not_releasing/)
+- [[R] Is there any NeRF labelling standard?](https://www.reddit.com/r/MachineLearning/comments/11rtvc6/r_is_there_any_nerf_labelling_standard/)
 - [[D] Testing regimes for Data Science &amp; MLOps code](https://www.reddit.com/r/MachineLearning/comments/11rtjok/d_testing_regimes_for_data_science_mlops_code/)
 - [[D] AI model for hierarchy-permission system building](https://www.reddit.com/r/MachineLearning/comments/11rti28/d_ai_model_for_hierarchypermission_system_building/)
 - [[D] ChatGPT Plus waitlist](https://www.reddit.com/r/MachineLearning/comments/11rthqf/d_chatgpt_plus_waitlist/)
-- [[D] Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/11rrvgt/d_isolation_forest/)
-- [[D] Vegetarian Wolves and Stochastic Parrots: The Future of Prompt Engineering with GPT-4?](https://www.reddit.com/r/MachineLearning/comments/11rqb7u/d_vegetarian_wolves_and_stochastic_parrots_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
