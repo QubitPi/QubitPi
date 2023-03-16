@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1636370235187138572)
+- [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1636360920275320832)
 - [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. https://memgraph.com/blog/join-t...](https://twitter.com/memgraphdb/status/1636340034126086147)
 - [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1636315370343505921)
 - [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. ht...](https://twitter.com/memgraphdb/status/1636280392377327618)
-- [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1636266299121696768)
-- [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1636251956124569601)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
