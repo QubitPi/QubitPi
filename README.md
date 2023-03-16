@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] bloomz.cpp: Run any BLOOM-like model in pure C++](https://www.reddit.com/r/MachineLearning/comments/11spw6r/n_bloomzcpp_run_any_bloomlike_model_in_pure_c/)
 - [[D]Will the AI use and distribution be under strict government control?](https://www.reddit.com/r/MachineLearning/comments/11sorz7/dwill_the_ai_use_and_distribution_be_under_strict/)
 - [[D] ChatGPT responds to criticisms of GPT-4&#39;s high test scores.](https://www.reddit.com/r/MachineLearning/comments/11slj7z/d_chatgpt_responds_to_criticisms_of_gpt4s_high/)
 - [[D] Challenges for Keras as a Deep Learning Framework](https://www.reddit.com/r/MachineLearning/comments/11sie8k/d_challenges_for_keras_as_a_deep_learning/)
 - [[N] A $250k contest to read ancient Roman papyrus scrolls with ML](https://www.reddit.com/r/MachineLearning/comments/11sgn67/n_a_250k_contest_to_read_ancient_roman_papyrus/)
-- [[P] Multimedia GPT: Can ChatGPT/GPT-4 be used for vision / audio tasks just by prompt engineering?](https://www.reddit.com/r/MachineLearning/comments/11sfj5s/p_multimedia_gpt_can_chatgptgpt4_be_used_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
