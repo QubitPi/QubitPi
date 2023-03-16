@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [YOLOV5s Training on Custom Violence Data Detecting Issue &quot;[Discussion]&quot;](https://www.reddit.com/r/MachineLearning/comments/11sxfkd/yolov5s_training_on_custom_violence_data/)
-- [[D] Advantage of learning R as a machine learning researcher in 2023](https://www.reddit.com/r/MachineLearning/comments/11sv13o/d_advantage_of_learning_r_as_a_machine_learning/)
 - [[D] Comparison of the Model prediction uncertainty of two different models](https://www.reddit.com/r/MachineLearning/comments/11stv9f/d_comparison_of_the_model_prediction_uncertainty/)
 - [[D] paperspace or another cloud service](https://www.reddit.com/r/MachineLearning/comments/11stojh/d_paperspace_or_another_cloud_service/)
 - [[N] bloomz.cpp: Run any BLOOM-like model in pure C++](https://www.reddit.com/r/MachineLearning/comments/11spw6r/n_bloomzcpp_run_any_bloomlike_model_in_pure_c/)
+- [[D]Will the AI use and distribution be under strict government control?](https://www.reddit.com/r/MachineLearning/comments/11sorz7/dwill_the_ai_use_and_distribution_be_under_strict/)
+- [[D] Challenges for Keras as a Deep Learning Framework](https://www.reddit.com/r/MachineLearning/comments/11sie8k/d_challenges_for_keras_as_a_deep_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
