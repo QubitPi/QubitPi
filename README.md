@@ -245,11 +245,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772815812514807816><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f95deddf5258953b2ed5b3fa03424fc6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.5# #风花的呼吸# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/773591470698397698)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「长柄武器·息灾」「单手剑·雾切之回光」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/773590182235471895)
+- [#原神# #神里绫华# #白鹭之庭# 亲爱的旅行者，「白鹭之庭」活动祈愿即将开启，「白鹭霜华·神里绫华&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/773589404822274084)
+- [#原神# #申鹤# #出尘入世# 亲爱的旅行者，「出尘入世」活动祈愿即将开启，「孤辰茕怀·申鹤&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/773588889423052868)
 - [恭喜@月下老婆世界第一可爱@地狱星宇@中二的野牛等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/772815812514807816)
-- [互动抽奖 #原神# #神里绫人# 前几天和熟识的摊主聊到最近流行的小吃，被他推荐了这款甜点。 听说八重堂还出了限定口味的赠品，看来是真的很受欢迎。 于是我便叫...](https://t.bilibili.com/772802364937601081)
-- [互动抽奖 #原神# #荒泷一斗# 本大爷今天带来了我的「挚爱」，特意分享给你！ 当当——怎么样，就是这些棒棒糖！是不是很诱人？ 我作为荒泷派的老大，有的是老大...](https://t.bilibili.com/772786220168118308)
-- [互动抽奖 #原神# #魈# 谢谢你愿意诉说旅行见闻，其间虽有千钧一发之时，但幸好一切顺遂。 我没有特别的故事作为回报…这包点心送予你。 听说是能补充能量的甜品...](https://t.bilibili.com/772785863683735577)
-- [互动抽奖 #原神# #琴# #生日快乐# 今日的风温暖和煦，让人的心情也为之振奋。 或许是该多出来走走了。 能在爱与感谢的节日期间里度过生日，也是一件颇为浪漫的事...](https://t.bilibili.com/772784987536621622)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
