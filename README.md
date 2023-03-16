@@ -513,11 +513,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Tomorrow at 3:30pm CET, don&#39;t miss your chance to hear the Foundation&#39;s @uosvald discuss opportunities in the @Polkadot ecosystem, and learn about the...](https://twitter.com/Web3foundation/status/1636409467431534601)
 - [Re 4/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1635315948956815360)
 - [Re 3/ A shoutout to @Liberland_org who have completed their 1st milestone as they work to create the Liberland blockchain. https://twitter.com/Liberla...](https://twitter.com/Web3foundation/status/1635315946582872064)
 - [Re 2/ Congratulations to @Decentrations for successfully completing their grant to build the Supersig pallet, which is like multisig but with more fle...](https://twitter.com/Web3foundation/status/1635315944217268225)
 - [1/ Web3 Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all ...](https://twitter.com/Web3foundation/status/1635315942187237376)
-- [Web3 Foundation CEO Bertrand Perez was a guest on the @randizuckerberg podcast RZMB, in its ‘Family Friendly Metaverse’ episode. Bertrand addressed ...](https://twitter.com/Web3foundation/status/1631679606678855680)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
