@@ -473,11 +473,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [New #Neo4j Bloom release includes support for coordinate layout for graph #visualizations 🗺 Here we analyze the road network of Boston City and use...](https://twitter.com/neo4j/status/1636382190631264257)
-- [We acqui-hired 11 full-time specialists from Distributed Technology Associates &lpar;DTA&rpar; in a major expansion of our global cloud-managed services &lpar;CMS&rpar; c...](https://twitter.com/neo4j/status/1636351686699630594)
 - [#digitaltwins are in and Hays Hutton from @PaloAltoNtwks breaks down the architecture behind a digital twin of a large Google Cloud Platform implement...](https://twitter.com/neo4j/status/1636140243832152065)
 - [Thank you for visiting our booth and attending our talks at CDAO Brisbane! 📸Nodes and graphistas in our booth, Peter Philipp, GM #Neo4j ANZ, and Da...](https://twitter.com/neo4j/status/1636134203715735552)
 - [We will be at the Gartner Data &amp; Analytics Summit in Orlando on March 20 – 22! Meet us to learn how graph technology can help you meet your business ...](https://twitter.com/neo4j/status/1636058246048784385)
+- [Training Series - Intro to Neo4j https://twitter.com/i/broadcasts/1jMJgLPnQpMxL](https://twitter.com/neo4j/status/1636016296130400261)
+- [Check this agenda out! 👇 Take a look at the upcoming demos, Europe&#39;s-timezone-friendy! Register and learn FOR FREE https://okt.to/Xkhcmi #Neo4jDemo...](https://twitter.com/neo4j/status/1635989465557528577)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
