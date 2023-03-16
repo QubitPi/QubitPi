@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Advantage of learning R as a machine learning researcher in 2023](https://www.reddit.com/r/MachineLearning/comments/11sv13o/d_advantage_of_learning_r_as_a_machine_learning/)
 - [[D] Comparison of the Model prediction uncertainty of two different models](https://www.reddit.com/r/MachineLearning/comments/11stv9f/d_comparison_of_the_model_prediction_uncertainty/)
 - [[D] paperspace or another cloud service](https://www.reddit.com/r/MachineLearning/comments/11stojh/d_paperspace_or_another_cloud_service/)
 - [[D] Using mpirun to Launch a LLaMA Inference Job Across Multiple Cloud Instances](https://www.reddit.com/r/MachineLearning/comments/11stog8/d_using_mpirun_to_launch_a_llama_inference_job/)
 - [[R] Alpaca - Train Your GPT-4 for Less Than $100](https://www.reddit.com/r/MachineLearning/comments/11stgzi/r_alpaca_train_your_gpt4_for_less_than_100/)
-- [[D] Looking for a ML book to keep as a &quot;personal summary&quot;](https://www.reddit.com/r/MachineLearning/comments/11ssfst/d_looking_for_a_ml_book_to_keep_as_a_personal/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
