@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] A $250k contest to read ancient Roman papyrus scrolls with ML](https://www.reddit.com/r/MachineLearning/comments/11sgn67/n_a_250k_contest_to_read_ancient_roman_papyrus/)
 - [[P] Multimedia GPT: Can ChatGPT/GPT-4 be used for vision / audio tasks just by prompt engineering?](https://www.reddit.com/r/MachineLearning/comments/11sfj5s/p_multimedia_gpt_can_chatgptgpt4_be_used_for/)
 - [In your experience, are AI Ethics teams valuable/effective? [D]](https://www.reddit.com/r/MachineLearning/comments/11sfhzx/in_your_experience_are_ai_ethics_teams/)
 - [[D]What&#39;s the best prompt to image generator out there?](https://www.reddit.com/r/MachineLearning/comments/11sdjd1/dwhats_the_best_prompt_to_image_generator_out/)
 - [[D] Any other ICML reviewers noticing strange scores for the papers they&#39;re assigned to?](https://www.reddit.com/r/MachineLearning/comments/11scezi/d_any_other_icml_reviewers_noticing_strange/)
-- [[D] Our community must get serious about opposing OpenAI](https://www.reddit.com/r/MachineLearning/comments/11sboh1/d_our_community_must_get_serious_about_opposing/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
