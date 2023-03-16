@@ -242,7 +242,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/772815812514807816><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f95deddf5258953b2ed5b3fa03424fc6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/773591470698397698><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e409fae1c3cf5353530bb339cd039e37401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.5# #风花的呼吸# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/773591470698397698)
