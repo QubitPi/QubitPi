@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1636448751144280069)
 - [🎓 The most interesting and famous application of PageRank is certainly the one that actually sparked its creation. Google founders Larry Page and S...](https://twitter.com/memgraphdb/status/1636431134228660236)
 - [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1636412786610782208)
 - [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1636370235187138572)
 - [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1636360920275320832)
+- [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. https://memgraph.com/blog/join-t...](https://twitter.com/memgraphdb/status/1636340034126086147)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
