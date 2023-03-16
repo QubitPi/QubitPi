@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Applying PCA on the output features](https://www.reddit.com/r/MachineLearning/comments/11t7g70/p_applying_pca_on_the_output_features/)
 - [[R] Memory Augmented Large Language Models are Computationally Universal](https://www.reddit.com/r/MachineLearning/comments/11t421q/r_memory_augmented_large_language_models_are/)
 - [[P] nanoT5 - Inspired by Jonas Geiping&#39;s Cramming and Andrej Karpathy&#39;s nanoGPT, we fill the gap of a repository for pre-training T5-style &quot;LLMs&quot; under a limited budget in PyTorch](https://www.reddit.com/r/MachineLearning/comments/11t1857/p_nanot5_inspired_by_jonas_geipings_cramming_and/)
 - [[D] Creating an open platform for collecting corrective feedback on conversational ML products &amp; projects](https://www.reddit.com/r/MachineLearning/comments/11szdo9/d_creating_an_open_platform_for_collecting/)
 - [[D] Comparison of the Model prediction uncertainty of two different models](https://www.reddit.com/r/MachineLearning/comments/11stv9f/d_comparison_of_the_model_prediction_uncertainty/)
+- [[D] paperspace or another cloud service](https://www.reddit.com/r/MachineLearning/comments/11stojh/d_paperspace_or_another_cloud_service/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
