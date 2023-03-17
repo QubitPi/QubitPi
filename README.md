@@ -420,11 +420,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Ready to take your security and compliance to the next level? ArangoDB is now #SOC2 Type 2 compliant. 🥑 Ensure that your data and operations are sa...](https://twitter.com/arangodb/status/1636819724100091907)
 - [Discover the simplicity of transitioning from #SQL to ArangoDB! Our new Coming from SQL tutorial on ArangoDB University is here to help you make the s...](https://twitter.com/arangodb/status/1636683815908147202)
 - [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑 https://okt.to/nVQXxu](https://twitter.com/arangodb/status/1636457334535864320)
 - [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1636321441783205891)
 - [Our next webinar is only 1 hour away! 🔥 Join Solution Architect Vctor Moey in mastering ArangoDB&#39;s Query Language &lpar;AQL&rpar; and learn how to uncover fr...](https://twitter.com/arangodb/status/1636019444110565376)
-- [Identifying and preventing fraud is a complex problem for many industries where a high volume of transactional data is difficult to trace. 🥑🔥 Th...](https://twitter.com/arangodb/status/1635959078936518656)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
