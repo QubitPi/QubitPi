@@ -245,11 +245,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/773929063742963992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/db55959a594b5b5000ed807f29f6d3cd401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@無聲墨霜@自在逍遥乐无穷@特麻头特没头等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/773929063742963992)
 - [旅行者们好呀！今天为大家介绍的角色是米卡。一起来看看吧~[原神_哇]](https://t.bilibili.com/773900880169664560)
 - [#原神# #米卡# 翎羽如穗，绘摹殊境](https://t.bilibili.com/773900192946585608)
 - [翎羽如穗，绘摹殊境](https://t.bilibili.com/773900188678881318)
 - [《原神》角色演示-「米卡：绘羽的领行」](https://t.bilibili.com/773898225843175427)
-- [#原神# #原神3.5# #风花的呼吸# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/773591470698397698)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
