@@ -483,11 +483,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [GraphGPT with Varun Shenoy](https://www.youtube.com/watch?v=A6uTdDs6E-E)
 - [Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=otCRuINPUak)
 - [Neo4j Live: OpenSanctions Trailer #shorts](https://www.youtube.com/watch?v=1DBFZJZnxW8)
 - [Neo4j Live: OpenSanctions](https://www.youtube.com/watch?v=T3uGVrrMeTo)
 - [Ask a Data Scientist: What Is Your Favorite Problem You&#39;ve Ever Solved With Graph Data Science?](https://www.youtube.com/watch?v=Vabbf-Mn9q0)
+- [Ask a Data Scientist: What Are Graph Embeddings and Why Are They Important?](https://www.youtube.com/watch?v=ri7V-RWj2AU)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
