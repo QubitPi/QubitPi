@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Large Language Model Dislikes Cats](https://www.reddit.com/r/MachineLearning/comments/11tual0/d_large_language_model_dislikes_cats/)
 - [ML models for User Recognition using Keystroke Dynamics [P]](https://www.reddit.com/r/MachineLearning/comments/11tst59/ml_models_for_user_recognition_using_keystroke/)
 - [[D] An Instruct Version Of GPT-J Using Stanford Alpaca&#39;s Dataset](https://www.reddit.com/r/MachineLearning/comments/11tqryd/d_an_instruct_version_of_gptj_using_stanford/)
 - [[D] ACL 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/11tp27j/d_acl_2023_paper_reviews/)
 - [[D] PyTorch 2.0 Native Flash Attention 32k Context Window](https://www.reddit.com/r/MachineLearning/comments/11tmpc5/d_pytorch_20_native_flash_attention_32k_context/)
-- [[R] RWKV 14B ctx8192 is a zero-shot instruction-follower without finetuning, 23 token/s on 3090 after latest optimization &lpar;16G VRAM is enough, and you can stream layers to save more VRAM&rpar;](https://www.reddit.com/r/MachineLearning/comments/11teywc/r_rwkv_14b_ctx8192_is_a_zeroshot/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
