@@ -473,11 +473,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @JMHReif explores how microservices divide functionality and responsibility and multiply their forces to handle load and complexity. Learn more fro...](https://twitter.com/neo4j/status/1636819712066633753)
 - [SaaS for proactive procurement provider @Scoutbee needed to give clients in-depth insights into suppliers. How? by using Neo4j knowledge graphs--- rea...](https://twitter.com/neo4j/status/1636805133257277461)
 - [Re #ChatGPT](https://twitter.com/neo4j/status/1636794181715623948)
 - [GraphGPT with Varun Shenoy https://twitter.com/i/broadcasts/1DXxyvOEPQYKM](https://twitter.com/neo4j/status/1636791195719569408)
 - [RT William Lyon: My latest post on @smashingmag is a tutorial on full stack GraphQL w/ #NextJS, #Neo4j AuraDB, &amp; @vercel Check it out here: https://ww...](https://twitter.com/lyonwj/status/1636727735178625024)
-- [RT Alexander Erdl: Want to find out if that shiny yacht 🛥️ in the harbour actually was seized by the authorities? With @open_sanctions you can! Jo...](https://twitter.com/alexandererdl/status/1636664923559456774)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
