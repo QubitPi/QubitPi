@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] RWKV 14B ctx8192 is a zero-shot instruction-follower without finetuning, 23 token/s on 3090 after latest optimization &lpar;16G VRAM is enough, and you can stream layers to save more VRAM&rpar;](https://www.reddit.com/r/MachineLearning/comments/11teywc/r_rwkv_14b_ctx8192_is_a_zeroshot/)
 - [LLMs are getting much cheaper — business impact? [D]](https://www.reddit.com/r/MachineLearning/comments/11tenm7/llms_are_getting_much_cheaper_business_impact_d/)
 - [[D] 5 days ago I asked a question.](https://www.reddit.com/r/MachineLearning/comments/11tdjao/d_5_days_ago_i_asked_a_question/)
 - [training KGE model [Project]](https://www.reddit.com/r/MachineLearning/comments/11tda6k/training_kge_model_project/)
 - [[R] Memory Augmented Large Language Models are Computationally Universal](https://www.reddit.com/r/MachineLearning/comments/11t421q/r_memory_augmented_large_language_models_are/)
-- [[P] nanoT5 - Inspired by Jonas Geiping&#39;s Cramming and Andrej Karpathy&#39;s nanoGPT, we fill the gap of a repository for pre-training T5-style &quot;LLMs&quot; under a limited budget in PyTorch](https://www.reddit.com/r/MachineLearning/comments/11t1857/p_nanot5_inspired_by_jonas_geipings_cramming_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
