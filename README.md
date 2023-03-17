@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Will Chat GPT X replace Software Engineers and if so when ?](https://www.reddit.com/r/MachineLearning/comments/11u5voe/d_will_chat_gpt_x_replace_software_engineers_and/)
 - [[D] Newbie question about Stanford Alpaca 7b fine-tuning](https://www.reddit.com/r/MachineLearning/comments/11u4u6b/d_newbie_question_about_stanford_alpaca_7b/)
 - [[R] ViperGPT: Visual Inference via Python Execution for Reasoning](https://www.reddit.com/r/MachineLearning/comments/11ty65w/r_vipergpt_visual_inference_via_python_execution/)
 - [[N] Jumpy 1.0 has now been released by the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/11twq6s/n_jumpy_10_has_now_been_released_by_the_farama/)
 - [[R] Online AI Game Announcement](https://www.reddit.com/r/MachineLearning/comments/11twgbv/r_online_ai_game_announcement/)
-- [[D] Generate diverse candidates with T5?](https://www.reddit.com/r/MachineLearning/comments/11tujkb/d_generate_diverse_candidates_with_t5/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
