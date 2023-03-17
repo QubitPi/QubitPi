@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] ACL 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/11tp27j/d_acl_2023_paper_reviews/)
 - [[D] PyTorch 2.0 Native Flash Attention 32k Context Window](https://www.reddit.com/r/MachineLearning/comments/11tmpc5/d_pytorch_20_native_flash_attention_32k_context/)
 - [[R] RWKV 14B ctx8192 is a zero-shot instruction-follower without finetuning, 23 token/s on 3090 after latest optimization &lpar;16G VRAM is enough, and you can stream layers to save more VRAM&rpar;](https://www.reddit.com/r/MachineLearning/comments/11teywc/r_rwkv_14b_ctx8192_is_a_zeroshot/)
 - [LLMs are getting much cheaper — business impact? [D]](https://www.reddit.com/r/MachineLearning/comments/11tenm7/llms_are_getting_much_cheaper_business_impact_d/)
 - [[D] 5 days ago I asked a question.](https://www.reddit.com/r/MachineLearning/comments/11tdjao/d_5_days_ago_i_asked_a_question/)
-- [training KGE model [Project]](https://www.reddit.com/r/MachineLearning/comments/11tda6k/training_kge_model_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
