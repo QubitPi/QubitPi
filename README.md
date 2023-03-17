@@ -242,7 +242,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/773900880169664560><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5b3dbc07a80d751f8dc534e59799b7e0472729452.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/773929063742963992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/db55959a594b5b5000ed807f29f6d3cd401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [旅行者们好呀！今天为大家介绍的角色是米卡。一起来看看吧~[原神_哇]](https://t.bilibili.com/773900880169664560)
