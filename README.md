@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Another jax or pytorch post, but for writing the algorithms from scratch for study.](https://www.reddit.com/r/MachineLearning/comments/11u06qe/d_another_jax_or_pytorch_post_but_for_writing_the/)
+- [[P] train/test temporal split at the user/id level](https://www.reddit.com/r/MachineLearning/comments/11u0664/p_traintest_temporal_split_at_the_userid_level/)
 - [[R] ViperGPT: Visual Inference via Python Execution for Reasoning](https://www.reddit.com/r/MachineLearning/comments/11ty65w/r_vipergpt_visual_inference_via_python_execution/)
 - [[D] Does the TikTok makeup filter rely on GAN model?](https://www.reddit.com/r/MachineLearning/comments/11ty5i9/d_does_the_tiktok_makeup_filter_rely_on_gan_model/)
 - [[N] Jumpy 1.0 has now been released by the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/11twq6s/n_jumpy_10_has_now_been_released_by_the_farama/)
-- [ToAdam Optimizer [D]](https://www.reddit.com/r/MachineLearning/comments/11tw614/toadam_optimizer_d/)
-- [[Discussion]: good papers on use of machine learning or deep learning in social media &lpar;or any other applications&rpar; for recommendation systems](https://www.reddit.com/r/MachineLearning/comments/11tvmje/discussion_good_papers_on_use_of_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
