@@ -322,7 +322,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Der Stoische Scrum Master 🇩🇪](https://www.scrum.org/resources/blog/der-stoische-scrum-master)
 - [How To Lead Scrum Masters With Liberating Structures?](https://www.scrum.org/resources/blog/how-lead-scrum-masters-liberating-structures)
 - [Scrum im Selbststudium – Teil 9: Die Vergangenheit – Das Produkt Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-9-die-vergangenheit-das-produkt-inkrement)
-- [Facilitation Techniques for creating a healthy space, consensus and collaboration](https://www.scrum.org/resources/blog/facilitation-techniques-creating-healthy-space-consensus-and-collaboration)
+- [Facilitation Techniques for Creating a Healthy Space, Consensus and Collaboration](https://www.scrum.org/resources/blog/facilitation-techniques-creating-healthy-space-consensus-and-collaboration)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
