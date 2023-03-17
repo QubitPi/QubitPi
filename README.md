@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Is it worth it getting into ML/DL now? &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/11tmz03/is_it_worth_it_getting_into_mldl_now_d/)
 - [[D] GPT-4 is really dumb](https://www.reddit.com/r/MachineLearning/comments/11tmu9u/d_gpt4_is_really_dumb/)
 - [[D] PyTorch 2.0 Native Flash Attention 32k Context Window](https://www.reddit.com/r/MachineLearning/comments/11tmpc5/d_pytorch_20_native_flash_attention_32k_context/)
 - [[P]: Can i create a text completion, algorithm using markov models?](https://www.reddit.com/r/MachineLearning/comments/11tgdiy/p_can_i_create_a_text_completion_algorithm_using/)
 - [[R] RWKV 14B ctx8192 is a zero-shot instruction-follower without finetuning, 23 token/s on 3090 after latest optimization &lpar;16G VRAM is enough, and you can stream layers to save more VRAM&rpar;](https://www.reddit.com/r/MachineLearning/comments/11teywc/r_rwkv_14b_ctx8192_is_a_zeroshot/)
-- [LLMs are getting much cheaper — business impact? [D]](https://www.reddit.com/r/MachineLearning/comments/11tenm7/llms_are_getting_much_cheaper_business_impact_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
