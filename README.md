@@ -302,9 +302,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[R] ViperGPT: Visual Inference via Python Execution for Reasoning](https://www.reddit.com/r/MachineLearning/comments/11ty65w/r_vipergpt_visual_inference_via_python_execution/)
 - [[N] Jumpy 1.0 has now been released by the Farama Foundation](https://www.reddit.com/r/MachineLearning/comments/11twq6s/n_jumpy_10_has_now_been_released_by_the_farama/)
+- [[R] Online AI Game Announcement](https://www.reddit.com/r/MachineLearning/comments/11twgbv/r_online_ai_game_announcement/)
 - [[D] instruction tuning : what should I read?](https://www.reddit.com/r/MachineLearning/comments/11tugik/d_instruction_tuning_what_should_i_read/)
 - [[D] An Instruct Version Of GPT-J Using Stanford Alpaca&#39;s Dataset](https://www.reddit.com/r/MachineLearning/comments/11tqryd/d_an_instruct_version_of_gptj_using_stanford/)
-- [[D] ACL 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/11tp27j/d_acl_2023_paper_reviews/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
