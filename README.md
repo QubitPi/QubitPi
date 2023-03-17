@@ -473,11 +473,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Alexander Erdl: Want to find out if that shiny yacht 🛥️ in the harbour actually was seized by the authorities? With @open_sanctions you can! Jo...](https://twitter.com/alexandererdl/status/1636664923559456774)
 - [#GraphSummit2023 is arriving in Asia Pacific - Mark your calendar to meet our graph experts and customers, network with graphistas, and learn: you&#39;ll ...](https://twitter.com/neo4j/status/1636593277221601281)
 - [Getting started with #Neo4j is easier with simple paths through the driver APIs in all our 5 official drivers! Now you run your graph queries with a c...](https://twitter.com/neo4j/status/1636439206628081684)
 - [Sean Robinson, from @Graphable1 explains how integrating graph data science into the data science workflow provides new methods to extract information...](https://twitter.com/neo4j/status/1636427291830960133)
 - [New #Neo4j Bloom release includes support for coordinate layout for graph #visualizations 🗺 Here we analyze the road network of Boston City and use...](https://twitter.com/neo4j/status/1636382190631264257)
+- [We acqui-hired 11 full-time specialists from Distributed Technology Associates &lpar;DTA&rpar; in a major expansion of our global cloud-managed services &lpar;CMS&rpar; c...](https://twitter.com/neo4j/status/1636351686699630594)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
