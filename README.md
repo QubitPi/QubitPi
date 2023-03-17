@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📚 Discover 42 fascinating graph articles perfect for your next reading session! Topics cover graph algorithms, streaming data, and more. #graphdata...](https://twitter.com/memgraphdb/status/1636685056868532224)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1636679270897446914)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1636652090872279042)
 - [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1636628685313720322)
 - [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1636618118196867072)
-- [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1636595466577014789)
-- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1636448751144280069)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
