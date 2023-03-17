@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I doing project to analyze chatgpt and human thinking.](https://www.reddit.com/r/MachineLearning/comments/11tvzly/p_i_doing_project_to_analyze_chatgpt_and_human/)
+- [[Discussion]: good papers on use of machine learning or deep learning in social media &lpar;or any other applications&rpar; for recommendation systems](https://www.reddit.com/r/MachineLearning/comments/11tvmje/discussion_good_papers_on_use_of_machine_learning/)
 - [[D] instruction tuning : what should I read?](https://www.reddit.com/r/MachineLearning/comments/11tugik/d_instruction_tuning_what_should_i_read/)
 - [ML models for User Recognition using Keystroke Dynamics [P]](https://www.reddit.com/r/MachineLearning/comments/11tst59/ml_models_for_user_recognition_using_keystroke/)
 - [[D] An Instruct Version Of GPT-J Using Stanford Alpaca&#39;s Dataset](https://www.reddit.com/r/MachineLearning/comments/11tqryd/d_an_instruct_version_of_gptj_using_stanford/)
-- [[D] ACL 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/11tp27j/d_acl_2023_paper_reviews/)
-- [[D] PyTorch 2.0 Native Flash Attention 32k Context Window](https://www.reddit.com/r/MachineLearning/comments/11tmpc5/d_pytorch_20_native_flash_attention_32k_context/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
