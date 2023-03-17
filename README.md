@@ -543,7 +543,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Texas State Fair](https://dribbble.com/shots/20901827)
 - [Filibuster - Logo](https://dribbble.com/shots/20879327)
 - [Clearbit Website Design: business landing web page site designer](https://dribbble.com/shots/20674858)
-- [Let&#39;s Color the World](https://dribbble.com/shots/20893971)
+- [LR](https://dribbble.com/shots/20930506)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
