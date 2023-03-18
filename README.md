@@ -301,10 +301,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Question about multi-Head-Attention - more precisely about processing embedding dimensions](https://www.reddit.com/r/MachineLearning/comments/11v34ep/d_question_about_multiheadattention_more/)
-- [[P] I got annoyed by building and maintaining custom web scrapers, so I built an LLM-powered no-code tool that can turn any website into an API.](https://www.reddit.com/r/MachineLearning/comments/11v2gsh/p_i_got_annoyed_by_building_and_maintaining/)
 - [[P] [D] datasetGPT - A command-line tool to generate datasets by inferencing LLMs. Supports OpenAI, Cohere, and Petals.](https://www.reddit.com/r/MachineLearning/comments/11v261n/p_d_datasetgpt_a_commandline_tool_to_generate/)
 - [[D] LLama model 65B - pay per prompt](https://www.reddit.com/r/MachineLearning/comments/11v1eu7/d_llama_model_65b_pay_per_prompt/)
 - [[R] FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://www.reddit.com/r/MachineLearning/comments/11uzioo/r_fatezero_fusing_attentions_for_zeroshot/)
+- [[R] ChatGLM-6B - an open source 6.2 billion parameter Eng/Chinese bilingual LLM trained on 1T tokens, supplemented by supervised fine-tuning, feedback bootstrap, and RLHF. Runs on consumer grade GPUs](https://www.reddit.com/r/MachineLearning/comments/11utpud/r_chatglm6b_an_open_source_62_billion_parameter/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
