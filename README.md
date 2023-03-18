@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] LLama model 65B - pay per prompt](https://www.reddit.com/r/MachineLearning/comments/11v1eu7/d_llama_model_65b_pay_per_prompt/)
 - [[R] FateZero: Fusing Attentions for Zero-shot Text-based Video Editing](https://www.reddit.com/r/MachineLearning/comments/11uzioo/r_fatezero_fusing_attentions_for_zeroshot/)
 - [[R] ChatGLM-6B - an open source 6.2 billion parameter Eng/Chinese bilingual LLM trained on 1T tokens, supplemented by supervised fine-tuning, feedback bootstrap, and RLHF. Runs on consumer grade GPUs](https://www.reddit.com/r/MachineLearning/comments/11utpud/r_chatglm6b_an_open_source_62_billion_parameter/)
 - [[Research] Alpaca 7B language model running on my Pixel 7](https://www.reddit.com/r/MachineLearning/comments/11usq7o/research_alpaca_7b_language_model_running_on_my/)
 - [[D] Current best Voice cloning software?](https://www.reddit.com/r/MachineLearning/comments/11uspua/d_current_best_voice_cloning_software/)
-- [[D] ACL 2023 Conference Review Scores vs Acceptance](https://www.reddit.com/r/MachineLearning/comments/11uo54y/d_acl_2023_conference_review_scores_vs_acceptance/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
