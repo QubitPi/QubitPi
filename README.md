@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎬 Explore real-time movie reviews with @redpandadata &amp; Memgraph! Boost your data-driven recommendations in no time. #Redpanda #Memgraph #RealTimeAn...](https://twitter.com/memgraphdb/status/1637155909435531264)
 - [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1637137072690458628)
 - [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1637133260940619779)
 - [🌐 AmpliGraph: the open-source toolkit democratizing graph representation learning! Ideal for #Python-based knowledge graph completion, information ...](https://twitter.com/memgraphdb/status/1637113380552032258)
 - [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1637103566878908416)
-- [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1637065566203641856)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
