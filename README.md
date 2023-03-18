@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Totally Open Alternatives to ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/d_totally_open_alternatives_to_chatgpt/)
 - [[D] Unit and Integration Testing for ML Pipelines](https://www.reddit.com/r/MachineLearning/comments/11ujf7d/d_unit_and_integration_testing_for_ml_pipelines/)
 - [[D] Are there any open source feature stores that do not rely on K8s?](https://www.reddit.com/r/MachineLearning/comments/11uhrq8/d_are_there_any_open_source_feature_stores_that/)
 - [[R] Vid2Seq: a pretrained visual language model for describing multi-event videos](https://www.reddit.com/r/MachineLearning/comments/11ubylx/r_vid2seq_a_pretrained_visual_language_model_for/)
 - [[P] Web Stable Diffusion](https://www.reddit.com/r/MachineLearning/comments/11u8uk6/p_web_stable_diffusion/)
-- [[D] Will Chat GPT X replace Software Engineers and if so when ?](https://www.reddit.com/r/MachineLearning/comments/11u5voe/d_will_chat_gpt_x_replace_software_engineers_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
