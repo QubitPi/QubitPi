@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1637040149434335232)
-- [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1637029576764268548)
 - [🚀 Memgraph as a platform includes custom analytics on graph storage, minimizing the risks by doing quick and efficient network analysis. Check out ...](https://twitter.com/memgraphdb/status/1636991075935047681)
 - [🎓 Learn how to sync Memgraph with Elasticsearch using query modules and triggers and what are the benefits of having such a system. https://memgrap...](https://twitter.com/memgraphdb/status/1636980504456036352)
 - [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1636965909083430912)
+- [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1636815415966937089)
+- [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1636791507901349911)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
