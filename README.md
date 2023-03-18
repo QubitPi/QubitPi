@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I built a salient feature extraction model to collect image data straight out of your hands.](https://www.reddit.com/r/MachineLearning/comments/11un32i/p_i_built_a_salient_feature_extraction_model_to/)
 - [[R] The Philosophy of Deep Learning - free conference next weekend with live streaming](https://www.reddit.com/r/MachineLearning/comments/11ulg8f/r_the_philosophy_of_deep_learning_free_conference/)
 - [[Discussion] Future of ML after chatGPT.](https://www.reddit.com/r/MachineLearning/comments/11ul904/discussion_future_of_ml_after_chatgpt/)
 - [[D] Totally Open Alternatives to ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/d_totally_open_alternatives_to_chatgpt/)
 - [[D] Unit and Integration Testing for ML Pipelines](https://www.reddit.com/r/MachineLearning/comments/11ujf7d/d_unit_and_integration_testing_for_ml_pipelines/)
-- [[D] Are there any open source feature stores that do not rely on K8s?](https://www.reddit.com/r/MachineLearning/comments/11uhrq8/d_are_there_any_open_source_feature_stores_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
