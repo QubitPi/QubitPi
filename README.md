@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1636965909083430912)
 - [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1636815415966937089)
 - [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1636791507901349911)
 - [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1636777416281538568)
 - [💡 Discover how to tackle fraud detection in the insurance industry with our artificial heterogeneous graph dataset! See how #NodeClassification can...](https://twitter.com/memgraphdb/status/1636773642825613318)
-- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. https://memgraph.com/blog/mo...](https://twitter.com/memgraphdb/status/1636750992396910592)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
