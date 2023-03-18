@@ -301,10 +301,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] ChatGLM-6B - an open source 6.2 billion parameter Eng/Chinese bilingual LLM trained on 1T tokens, supplemented by supervised fine-tuning, feedback bootstrap, and RLHF. Runs on consumer grade GPUs](https://www.reddit.com/r/MachineLearning/comments/11utpud/r_chatglm6b_an_open_source_62_billion_parameter/)
-- [[R] resource for learning Computer-Vision](https://www.reddit.com/r/MachineLearning/comments/11utp9n/r_resource_for_learning_computervision/)
 - [[Research] Alpaca 7B language model running on my Pixel 7](https://www.reddit.com/r/MachineLearning/comments/11usq7o/research_alpaca_7b_language_model_running_on_my/)
 - [[D] Current best Voice cloning software?](https://www.reddit.com/r/MachineLearning/comments/11uspua/d_current_best_voice_cloning_software/)
 - [[D] ACL 2023 Conference Review Scores vs Acceptance](https://www.reddit.com/r/MachineLearning/comments/11uo54y/d_acl_2023_conference_review_scores_vs_acceptance/)
+- [[P] I built a salient feature extraction model to collect image data straight out of your hands.](https://www.reddit.com/r/MachineLearning/comments/11un32i/p_i_built_a_salient_feature_extraction_model_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
