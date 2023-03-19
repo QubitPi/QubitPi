@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] &quot;Glaze&quot; claims to be able to apply an invisible filter to images to prevent them being useful for training image models. Real tech, or a grift?](https://www.reddit.com/r/MachineLearning/comments/11v972n/d_glaze_claims_to_be_able_to_apply_an_invisible/)
 - [[P] Let&#39;s build ChatGPT](https://www.reddit.com/r/MachineLearning/comments/11v6bvv/p_lets_build_chatgpt/)
 - [[P] The next generation of Stanford Alpaca](https://www.reddit.com/r/MachineLearning/comments/11v4h5z/p_the_next_generation_of_stanford_alpaca/)
 - [[D] Language model output based on only fixed set of value or variable either via prompting or fine-tuning](https://www.reddit.com/r/MachineLearning/comments/11v3lej/d_language_model_output_based_on_only_fixed_set/)
 - [[D] Question about multi-Head-Attention - more precisely about processing embedding dimensions](https://www.reddit.com/r/MachineLearning/comments/11v34ep/d_question_about_multiheadattention_more/)
-- [[P] [D] datasetGPT - A command-line tool to generate datasets by inferencing LLMs. Supports OpenAI, Cohere, and Petals.](https://www.reddit.com/r/MachineLearning/comments/11v261n/p_d_datasetgpt_a_commandline_tool_to_generate/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
