@@ -477,11 +477,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1637559845191655428)
 - [Do you know the story behind the name &quot;Neo4j&quot;? Well, Emil Eifrem, our CEO, answers this and other questions from the audience in a #NODES2022 Q&amp;A. �...](https://twitter.com/neo4j/status/1637514306815238148)
 - [Phani Dathar will be at the Google booth talking about Neo4j on Google Cloud-- don&#39;t miss it if you&#39;ll beGartner Data &amp; Analytics Summit in Orlando! Y...](https://twitter.com/neo4j/status/1637429226721669121)
 - [Do you know what #Cypher is? 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of t...](https://twitter.com/neo4j/status/1637198209733783556)
 - [👉Learn how Graph Data Science has transformed @Arcurve&#39;s use of predictive analytics and machine learning to form the foundation of their analyses....](https://twitter.com/neo4j/status/1637149950243921921)
-- [Re @JMHReif explores how microservices divide functionality and responsibility and multiply their forces to handle load and complexity. Learn more fro...](https://twitter.com/neo4j/status/1636819712066633753)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
