@@ -453,11 +453,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌊 Dive into streaming analytics with top databases like Amazon Kinesis, Memgraph, Apache Storm, Apache Kafka, and StreamSQL. Achieve real-time insi...](https://twitter.com/memgraphdb/status/1637404045085138945)
+- [⚡️ Unleash the power of stream processing for real-time analytics &amp; IoT applications! #RealTimeAnalytics #IoT #StreamProcessing @apache_pulsar @Redp...](https://twitter.com/memgraphdb/status/1637391965137371136)
 - [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1637367556896899072)
 - [💡 Build dynamic movie recommendations with @redpandadata &amp; Memgraph! Streamline your data analysis process with real-time streaming. #MovieRecommen...](https://twitter.com/memgraphdb/status/1637342893076611072)
 - [🔥 Power up your real-time data processing with Memgraph! Boost efficiency using in-memory storage and explore complex relationships in real-time. #...](https://twitter.com/memgraphdb/status/1637320243256217601)
-- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. https://memgraph.com/blog/sol...](https://twitter.com/memgraphdb/status/1637173525860556800)
-- [🎬 Explore real-time movie reviews with @redpandadata &amp; Memgraph! Boost your data-driven recommendations in no time. #Redpanda #Memgraph #RealTimeAn...](https://twitter.com/memgraphdb/status/1637155909435531264)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
