@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] 🤖🌟 Unlock the Power of Personal AI: Introducing ChatLLaMA, Your Custom Personal Assistant! 🚀💬](https://www.reddit.com/r/MachineLearning/comments/11w03sy/r_unlock_the_power_of_personal_ai_introducing/)
 - [[D] For those who have worked 5+ years in the field, what are you up to now?](https://www.reddit.com/r/MachineLearning/comments/11vygjb/d_for_those_who_have_worked_5_years_in_the_field/)
 - [[D] Systematised Network Diagrams](https://www.reddit.com/r/MachineLearning/comments/11vv056/d_systematised_network_diagrams/)
 - [[P] Orphic - A natural language interface for *nix systems &lpar;Powered by GPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vt26u/p_orphic_a_natural_language_interface_for_nix/)
 - [[D] Do you find jobs that ask for knowledge/skills in multiple areas of AI unreasonable?](https://www.reddit.com/r/MachineLearning/comments/11vsvkt/d_do_you_find_jobs_that_ask_for_knowledgeskills/)
-- [[R] What are the current must-read papers representing the state of the art in machine learning research?](https://www.reddit.com/r/MachineLearning/comments/11vs3oe/r_what_are_the_current_mustread_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
