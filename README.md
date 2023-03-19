@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] First open source text to video 1.7 billion parameter diffusion model is out](https://www.reddit.com/r/MachineLearning/comments/11vozd5/r_first_open_source_text_to_video_17_billion/)
 - [[Project] What if FastAPI supported NumPy arrays and Pillow images?](https://www.reddit.com/r/MachineLearning/comments/11vmgj6/project_what_if_fastapi_supported_numpy_arrays/)
 - [[R] Quantitative comparison of ChatGPT and GPT-4 performance on multiple open source datasets](https://www.reddit.com/r/MachineLearning/comments/11vl691/r_quantitative_comparison_of_chatgpt_and_gpt4/)
 - [[Project] Deploying ML models on Kubernetes - Video tutorial](https://www.reddit.com/r/MachineLearning/comments/11visqu/project_deploying_ml_models_on_kubernetes_video/)
 - [[D] What is the best approach to create embeddings for time series with additional historical events to use with Transformers model?](https://www.reddit.com/r/MachineLearning/comments/11vijsc/d_what_is_the_best_approach_to_create_embeddings/)
-- [[P] searchGPT - a bing-like LLM-based Grounded Search Engine &lpar;with Demo, github&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vi82q/p_searchgpt_a_binglike_llmbased_grounded_search/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
