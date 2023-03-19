@@ -457,11 +457,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1637516287000674308)
 - [🚀 Explore how Memgraph&#39;s in-memory graph database simplifies the creation of #KnowledgeGraphs, enabling fast &amp; efficient decision-making for busine...](https://twitter.com/memgraphdb/status/1637502190863503365)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ https://memg...](https://twitter.com/memgraphdb/status/1637495650609774592)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1637455888393859074)
 - [🚀 If a social network or a search engine are not the products you are developing, check out how you can utilize PageRank. Recommendation Engines ht...](https://twitter.com/memgraphdb/status/1637448084253818880)
+- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1637427200122142720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
