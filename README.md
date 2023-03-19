@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] Deploying ML models on Kubernetes - Video tutorial](https://www.reddit.com/r/MachineLearning/comments/11visqu/project_deploying_ml_models_on_kubernetes_video/)
 - [[D] What is the best approach to create embeddings for time series with additional historical events to use with Transformers model?](https://www.reddit.com/r/MachineLearning/comments/11vijsc/d_what_is_the_best_approach_to_create_embeddings/)
 - [[P] searchGPT - a bing-like LLM-based Grounded Search Engine &lpar;with Demo, github&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vi82q/p_searchgpt_a_binglike_llmbased_grounded_search/)
 - [[N] RadioGPT: &#39;World’s first&#39; AI-driven radio station is here](https://www.reddit.com/r/MachineLearning/comments/11vgug3/n_radiogpt_worlds_first_aidriven_radio_station_is/)
 - [[R] [P] Statically parameterized gated MLPs help TabTransformer-like architecture to achieve state-of-the-art benchmarks for deep learning-based tabular modeling.](https://www.reddit.com/r/MachineLearning/comments/11vg87k/r_p_statically_parameterized_gated_mlps_help/)
-- [[P] I got annoyed by building and maintaining custom web scrapers, so I built an LLM-powered tool that can turn any website into an API.](https://www.reddit.com/r/MachineLearning/comments/11vfcne/p_i_got_annoyed_by_building_and_maintaining/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
