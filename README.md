@@ -322,11 +322,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Tus errores más comunes en Agile](https://www.scrum.org/resources/blog/tus-errores-mas-comunes-en-agile)
 - [Business Agility Examples: 4 Companies Who Weren’t Agile And What We Can Learn](https://www.scrum.org/resources/blog/business-agility-examples-4-companies-who-werent-agile-and-what-we-can-learn)
 - [Scrum im Selbststudium – Teil 10: Scrum Events erlauben, die Artefakte zu überprüfen und anzupassen](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-10-scrum-events-erlauben-die-artefakte-zu-uberprufen-und)
 - [Der Stoische Scrum Master 🇩🇪](https://www.scrum.org/resources/blog/der-stoische-scrum-master)
 - [How To Lead Scrum Masters With Liberating Structures?](https://www.scrum.org/resources/blog/how-lead-scrum-masters-liberating-structures)
-- [Scrum im Selbststudium – Teil 9: Die Vergangenheit – Das Produkt Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-9-die-vergangenheit-das-produkt-inkrement)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
