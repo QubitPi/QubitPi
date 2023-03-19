@@ -473,11 +473,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Phani Dathar will be at the Google booth talking about Neo4j on Google Cloud-- don&#39;t miss it if you&#39;ll beGartner Data &amp; Analytics Summit in Orlando! Y...](https://twitter.com/neo4j/status/1637429226721669121)
 - [Do you know what #Cypher is? 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of t...](https://twitter.com/neo4j/status/1637198209733783556)
 - [👉Learn how Graph Data Science has transformed @Arcurve&#39;s use of predictive analytics and machine learning to form the foundation of their analyses....](https://twitter.com/neo4j/status/1637149950243921921)
 - [Re @JMHReif explores how microservices divide functionality and responsibility and multiply their forces to handle load and complexity. Learn more fro...](https://twitter.com/neo4j/status/1636819712066633753)
 - [SaaS for proactive procurement provider @Scoutbee needed to give clients in-depth insights into suppliers. How? by using Neo4j knowledge graphs--- rea...](https://twitter.com/neo4j/status/1636805133257277461)
-- [Re #ChatGPT](https://twitter.com/neo4j/status/1636794181715623948)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
