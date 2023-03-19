@@ -300,11 +300,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] searchGPT - a bing-like LLM-based Grounded Search Engine &lpar;with Demo, github&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vi82q/p_searchgpt_a_binglike_llmbased_grounded_search/)
 - [[N] RadioGPT: &#39;World’s first&#39; AI-driven radio station is here](https://www.reddit.com/r/MachineLearning/comments/11vgug3/n_radiogpt_worlds_first_aidriven_radio_station_is/)
 - [[R] [P] Statically parameterized gated MLPs help TabTransformer-like architecture to achieve state-of-the-art benchmarks for deep learning-based tabular modeling.](https://www.reddit.com/r/MachineLearning/comments/11vg87k/r_p_statically_parameterized_gated_mlps_help/)
 - [[P] I got annoyed by building and maintaining custom web scrapers, so I built an LLM-powered tool that can turn any website into an API.](https://www.reddit.com/r/MachineLearning/comments/11vfcne/p_i_got_annoyed_by_building_and_maintaining/)
 - [[P] We gave GPT-3.5 tools that developers use and let it use them in a sandboxed cloud environment &lpar;Demo&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vfbo9/p_we_gave_gpt35_tools_that_developers_use_and_let/)
-- [[P] I made a command-line tool to record dialogues between two ChatGPT agents or inference multiple LLM backends at scale.](https://www.reddit.com/r/MachineLearning/comments/11vf8hb/p_i_made_a_commandline_tool_to_record_dialogues/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
