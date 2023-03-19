@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Orphic - A natural language interface for *nix systems &lpar;Powered by GPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vt26u/p_orphic_a_natural_language_interface_for_nix/)
 - [[D] Do you find jobs that ask for knowledge/skills in multiple areas of AI unreasonable?](https://www.reddit.com/r/MachineLearning/comments/11vsvkt/d_do_you_find_jobs_that_ask_for_knowledgeskills/)
 - [[R] What are the current must-read papers representing the state of the art in machine learning research?](https://www.reddit.com/r/MachineLearning/comments/11vs3oe/r_what_are_the_current_mustread_papers/)
 - [[D] Bayesian Optimization in ML](https://www.reddit.com/r/MachineLearning/comments/11vrknw/d_bayesian_optimization_in_ml/)
 - [[P] ML Feedback Widget: Use customer feedback as ground truth for your production ML models](https://www.reddit.com/r/MachineLearning/comments/11vqh5g/p_ml_feedback_widget_use_customer_feedback_as/)
-- [[P] Semantic Feature Embeddings from Hashtags](https://www.reddit.com/r/MachineLearning/comments/11vqfow/p_semantic_feature_embeddings_from_hashtags/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
