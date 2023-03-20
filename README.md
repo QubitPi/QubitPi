@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Doing my thesis on autonomy and Explainablity in machine learning, curious as to what Algorthims/methods I should use. Any Ideas?](https://www.reddit.com/r/MachineLearning/comments/11wg9rl/d_doing_my_thesis_on_autonomy_and_explainablity/)
 - [[P] TherapistGPT](https://www.reddit.com/r/MachineLearning/comments/11wf81c/p_therapistgpt/)
 - [[Discussion] In which way could Machine Learning be useful for a journaling app?](https://www.reddit.com/r/MachineLearning/comments/11weeks/discussion_in_which_way_could_machine_learning_be/)
 - [[D] Incorporating external data in LSTM models for sales forecasting in e-commerce](https://www.reddit.com/r/MachineLearning/comments/11weava/d_incorporating_external_data_in_lstm_models_for/)
 - [[News] Prompt engineering blog from OpenAI applied AI head](https://www.reddit.com/r/MachineLearning/comments/11waamh/news_prompt_engineering_blog_from_openai_applied/)
-- [[D] IJCAI 2023 Rebuttal Discussion](https://www.reddit.com/r/MachineLearning/comments/11w8x8d/d_ijcai_2023_rebuttal_discussion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
