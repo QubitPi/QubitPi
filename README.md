@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1637838155746357250)
+- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1637819785537892352)
+- [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results. https://memgraph....](https://twitter.com/memgraphdb/status/1637810472459153409)
 - [An important part of handling data is visualizing it. Graphs as a data structure are no exception to that. We worked on an internal graph visualizatio...](https://twitter.com/memgraphdb/status/1637790341095907330)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1637772221874597890)
-- [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1637766433257009154)
-- [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1637754354043088897)
-- [🚀 Experience lightning-fast traversals with graph databases in your IAM systems, making it easier to check user permissions and maintain security. ...](https://twitter.com/memgraphdb/status/1637736989465214976)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
