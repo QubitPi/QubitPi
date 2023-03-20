@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Grownet build and examples with sckitlearn compatibility or pytorch/keras [P]](https://www.reddit.com/r/MachineLearning/comments/11wz8u8/grownet_build_and_examples_with_sckitlearn/)
 - [[D] Is ML doomed to end up closed-source?](https://www.reddit.com/r/MachineLearning/comments/11wxabh/d_is_ml_doomed_to_end_up_closedsource/)
 - [[R][D] Papers on Transductive Learning](https://www.reddit.com/r/MachineLearning/comments/11wvv5t/rd_papers_on_transductive_learning/)
 - [[D] Machine Learning Masters applications in March](https://www.reddit.com/r/MachineLearning/comments/11wutgl/d_machine_learning_masters_applications_in_march/)
 - [[P] OpenAssistant is now live on reddit &lpar;Open Source ChatGPT alternative&rpar;](https://www.reddit.com/r/MachineLearning/comments/11wt2fl/p_openassistant_is_now_live_on_reddit_open_source/)
-- [[D] Hyperparameter robustness of RL algorithms](https://www.reddit.com/r/MachineLearning/comments/11wrqw2/d_hyperparameter_robustness_of_rl_algorithms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
