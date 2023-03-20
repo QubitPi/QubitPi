@@ -325,7 +325,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Scrum im Selbststudium – Teil 11: Sprint – Erstellung eines Inkrements](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-11-sprint-erstellung-eines-inkrements)
 - [Unlocking Agile Success: Aligning Your Organizational Design with Strategic Focus](https://www.scrum.org/resources/blog/unlocking-agile-success-aligning-your-organizational-design-strategic-focus)
-- [Yeah, go right ahead and cheat on your Scrum Master certification](https://www.scrum.org/resources/blog/yeah-go-right-ahead-and-cheat-your-scrum-master-certification)
+- [Yeah, Go Right Ahead and Cheat on your Scrum Master Certification](https://www.scrum.org/resources/blog/yeah-go-right-ahead-and-cheat-your-scrum-master-certification)
 - [ChatGPT 4: A Bargain for Scrum Practitioners?](https://www.scrum.org/resources/blog/chatgpt-4-bargain-scrum-practitioners)
 - [Tus errores más comunes en Agile](https://www.scrum.org/resources/blog/tus-errores-mas-comunes-en-agile)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
