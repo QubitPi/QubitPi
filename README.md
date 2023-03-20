@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Join #AWS and #Neo4j for our upcoming Dev Day, where you&#39;ll learn, how to easily deploy the Neo4j graph database from the AWS Marketplace and more! Re...](https://twitter.com/neo4j/status/1637801248953966592)
+- [RT Bucharest Tech Week: Does Neo4j-Migrations work for you yet? 🤔 ✍️ Author of #springboot &amp; the founder of @euregjug, @rotnroll666 is coming to ...](https://twitter.com/TechWeekRO/status/1637724088876650497)
+- [RT Daniel CF Ng: REGISTER NOW FOR #GraphSummit 2023 - the largest gathering of Graph enthusiasts! - #Sydney on May 3: https://lnkd.in/dYG5uBqt - #Canb...](https://twitter.com/danielcfng/status/1637694634053754880)
 - [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1637559845191655428)
 - [Do you know the story behind the name &quot;Neo4j&quot;? Well, Emil Eifrem, our CEO, answers this and other questions from the audience in a #NODES2022 Q&amp;A. �...](https://twitter.com/neo4j/status/1637514306815238148)
-- [Phani Dathar will be at the Google booth talking about Neo4j on Google Cloud-- don&#39;t miss it if you&#39;ll beGartner Data &amp; Analytics Summit in Orlando! Y...](https://twitter.com/neo4j/status/1637429226721669121)
-- [Do you know what #Cypher is? 👉A declarative graph query language that allows for expressive and efficient querying, updating and administering of t...](https://twitter.com/neo4j/status/1637198209733783556)
-- [👉Learn how Graph Data Science has transformed @Arcurve&#39;s use of predictive analytics and machine learning to form the foundation of their analyses....](https://twitter.com/neo4j/status/1637149950243921921)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
