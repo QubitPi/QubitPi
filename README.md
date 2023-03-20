@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] IJCAI 2023 Rebuttal Discussion](https://www.reddit.com/r/MachineLearning/comments/11w8x8d/d_ijcai_2023_rebuttal_discussion/)
 - [[D] Best ChatBot that can be run locally?](https://www.reddit.com/r/MachineLearning/comments/11w8lp2/d_best_chatbot_that_can_be_run_locally/)
 - [Alpaca 7B Training - $75/Hour --&gt; Bay Area? [P]](https://www.reddit.com/r/MachineLearning/comments/11w7dab/alpaca_7b_training_75hour_bay_area_p/)
 - [[R] What do we think about Meta-Interpretive Learning?](https://www.reddit.com/r/MachineLearning/comments/11w4kqd/r_what_do_we_think_about_metainterpretive_learning/)
 - [[D] Modern Topic Modeling/Discovery](https://www.reddit.com/r/MachineLearning/comments/11w116z/d_modern_topic_modelingdiscovery/)
-- [[R] 🤖🌟 Unlock the Power of Personal AI: Introducing ChatLLaMA, Your Custom Personal Assistant! 🚀💬](https://www.reddit.com/r/MachineLearning/comments/11w03sy/r_unlock_the_power_of_personal_ai_introducing/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
