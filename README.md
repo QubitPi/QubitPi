@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]: Vanishing Gradients and Resnets](https://www.reddit.com/r/MachineLearning/comments/11wmpoj/d_vanishing_gradients_and_resnets/)
+- [[D] Python XGBoost native Dmatrix VS SciKit API Dataframes](https://www.reddit.com/r/MachineLearning/comments/11wmdr0/d_python_xgboost_native_dmatrix_vs_scikit_api/)
 - [[R] CodeAlpaca - Instruction following model to generate code](https://www.reddit.com/r/MachineLearning/comments/11wm83d/r_codealpaca_instruction_following_model_to/)
 - [I am trying to build a solution for developers and am doing [Research] on the Investment Intentions for a AI &amp; Machine Learning Bootcamp in 2023.](https://www.reddit.com/r/MachineLearning/comments/11wkxu9/i_am_trying_to_build_a_solution_for_developers/)
 - [ICML rebuttals still not visible to reviewers? [D]](https://www.reddit.com/r/MachineLearning/comments/11wkacx/icml_rebuttals_still_not_visible_to_reviewers_d/)
-- [[P] Action Recognition in Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11wjk9x/p_action_recognition_in_computer_vision/)
-- [[D] M2 Pro 32 GB vs M2 Max 64GB for DL](https://www.reddit.com/r/MachineLearning/comments/11whiiv/d_m2_pro_32_gb_vs_m2_max_64gb_for_dl/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
