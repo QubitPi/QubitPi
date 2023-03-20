@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] OpenAssistant is now live on reddit &lpar;Open Source ChatGPT alternative&rpar;](https://www.reddit.com/r/MachineLearning/comments/11wt2fl/p_openassistant_is_now_live_on_reddit_open_source/)
 - [[D] Hyperparameter robustness of RL algorithms](https://www.reddit.com/r/MachineLearning/comments/11wrqw2/d_hyperparameter_robustness_of_rl_algorithms/)
 - [[D] Determining quality of training images with some metrics](https://www.reddit.com/r/MachineLearning/comments/11wreix/d_determining_quality_of_training_images_with/)
 - [[Project] Alpaca-30B: Facebook&#39;s 30b parameter LLaMa fine-tuned on the Alpaca dataset](https://www.reddit.com/r/MachineLearning/comments/11wqmga/project_alpaca30b_facebooks_30b_parameter_llama/)
 - [[P] Make AI Robust and Trustworthy with CAPSA!](https://www.reddit.com/r/MachineLearning/comments/11wqh9u/p_make_ai_robust_and_trustworthy_with_capsa/)
-- [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://www.reddit.com/r/MachineLearning/comments/11wp80k/colt5_faster_longrange_transformers_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
