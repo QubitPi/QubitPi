@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1637766433257009154)
-- [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1637754354043088897)
-- [🚀 Experience lightning-fast traversals with graph databases in your IAM systems, making it easier to check user permissions and maintain security. ...](https://twitter.com/memgraphdb/status/1637736989465214976)
 - [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1637715850592387072)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1637701506794233858)
+- [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1637682630379356161)
+- [✈️ Discover how Memgraph Lab can improve air traffic routing and simplify complex tasks! #AirTrafficControl #GraphDatabase 🌐 #memgraph #database ...](https://twitter.com/memgraphdb/status/1637540192876732418)
+- [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1637516287000674308)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
