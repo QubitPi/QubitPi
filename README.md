@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Action Recognition in Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11wjk9x/p_action_recognition_in_computer_vision/)
 - [[D] M2 Pro 32 GB vs M2 Max 64GB for DL](https://www.reddit.com/r/MachineLearning/comments/11whiiv/d_m2_pro_32_gb_vs_m2_max_64gb_for_dl/)
 - [Smarty-GPT: wrapper of prompts/contexts [P]](https://www.reddit.com/r/MachineLearning/comments/11whc0s/smartygpt_wrapper_of_promptscontexts_p/)
 - [[D] Doing my thesis on autonomy and Explainablity in machine learning, curious as to what Algorthims/methods I should use. Any Ideas?](https://www.reddit.com/r/MachineLearning/comments/11wg9rl/d_doing_my_thesis_on_autonomy_and_explainablity/)
 - [[P] TherapistGPT](https://www.reddit.com/r/MachineLearning/comments/11wf81c/p_therapistgpt/)
-- [[Discussion] In which way could Machine Learning be useful for a journaling app?](https://www.reddit.com/r/MachineLearning/comments/11weeks/discussion_in_which_way_could_machine_learning_be/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
