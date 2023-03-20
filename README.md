@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1637682630379356161)
 - [✈️ Discover how Memgraph Lab can improve air traffic routing and simplify complex tasks! #AirTrafficControl #GraphDatabase 🌐 #memgraph #database ...](https://twitter.com/memgraphdb/status/1637540192876732418)
 - [❗️ In case fraudsters foolishly think they can outsmart an analytics team, they probably haven’t come across their new best friend - fraud detectio...](https://twitter.com/memgraphdb/status/1637516287000674308)
 - [🚀 Explore how Memgraph&#39;s in-memory graph database simplifies the creation of #KnowledgeGraphs, enabling fast &amp; efficient decision-making for busine...](https://twitter.com/memgraphdb/status/1637502190863503365)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ https://memg...](https://twitter.com/memgraphdb/status/1637495650609774592)
+- [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1637455888393859074)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
