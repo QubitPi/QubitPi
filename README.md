@@ -304,11 +304,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] What do we think about Meta-Interpretive Learning?](https://www.reddit.com/r/MachineLearning/comments/11w4kqd/r_what_do_we_think_about_metainterpretive_learning/)
 - [[D] Modern Topic Modeling/Discovery](https://www.reddit.com/r/MachineLearning/comments/11w116z/d_modern_topic_modelingdiscovery/)
 - [[R] 🤖🌟 Unlock the Power of Personal AI: Introducing ChatLLaMA, Your Custom Personal Assistant! 🚀💬](https://www.reddit.com/r/MachineLearning/comments/11w03sy/r_unlock_the_power_of_personal_ai_introducing/)
 - [[D] For those who have worked 5+ years in the field, what are you up to now?](https://www.reddit.com/r/MachineLearning/comments/11vygjb/d_for_those_who_have_worked_5_years_in_the_field/)
 - [[D] Systematised Network Diagrams](https://www.reddit.com/r/MachineLearning/comments/11vv056/d_systematised_network_diagrams/)
-- [[P] Orphic - A natural language interface for *nix systems &lpar;Powered by GPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/11vt26u/p_orphic_a_natural_language_interface_for_nix/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
