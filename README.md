@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [An important part of handling data is visualizing it. Graphs as a data structure are no exception to that. We worked on an internal graph visualizatio...](https://twitter.com/memgraphdb/status/1637790341095907330)
-- [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1637772221874597890)
 - [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1637766433257009154)
 - [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1637754354043088897)
 - [🚀 Experience lightning-fast traversals with graph databases in your IAM systems, making it easier to check user permissions and maintain security. ...](https://twitter.com/memgraphdb/status/1637736989465214976)
+- [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1637715850592387072)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1637701506794233858)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
