@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Determining quality of training images with some metrics](https://www.reddit.com/r/MachineLearning/comments/11wreix/d_determining_quality_of_training_images_with/)
 - [[Project] Alpaca-30B: Facebook&#39;s 30b parameter LLaMa fine-tuned on the Alpaca dataset](https://www.reddit.com/r/MachineLearning/comments/11wqmga/project_alpaca30b_facebooks_30b_parameter_llama/)
 - [[P] Make AI Robust and Trustworthy with CAPSA!](https://www.reddit.com/r/MachineLearning/comments/11wqh9u/p_make_ai_robust_and_trustworthy_with_capsa/)
 - [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://www.reddit.com/r/MachineLearning/comments/11wp80k/colt5_faster_longrange_transformers_with/)
 - [IJCAI 2023 Reviews discussion [D]](https://www.reddit.com/r/MachineLearning/comments/11wopqb/ijcai_2023_reviews_discussion_d/)
-- [[D]: Vanishing Gradients and Resnets](https://www.reddit.com/r/MachineLearning/comments/11wmpoj/d_vanishing_gradients_and_resnets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
