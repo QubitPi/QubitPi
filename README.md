@@ -425,11 +425,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1637770981077819392)
 - [Don&#39;t miss out! Take advantage of our free 14-day trial of the ArangoGraph Insights Platform. Get started now and explore what the cloud has to offer ...](https://twitter.com/arangodb/status/1637544491371442176)
 - [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1637272687054553090)
 - [Ready to take your security and compliance to the next level? ArangoDB is now #SOC2 Type 2 compliant. 🥑 Ensure that your data and operations are sa...](https://twitter.com/arangodb/status/1636819724100091907)
 - [Discover the simplicity of transitioning from #SQL to ArangoDB! Our new Coming from SQL tutorial on ArangoDB University is here to help you make the s...](https://twitter.com/arangodb/status/1636683815908147202)
-- [If you use Visual Studio Code and #ArangoDB Query Language, check out this #VSCode syntax highlighting plugin for#AQL. 🥑 https://okt.to/nVQXxu](https://twitter.com/arangodb/status/1636457334535864320)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
