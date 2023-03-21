@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1638078239691137025)
-- [🚀 The power behind any recommendation engine is the algorithms used to create recommendations. The most powerful recommendation algorithms are made...](https://twitter.com/memgraphdb/status/1638067670208720896)
 - [🎤 Dive into the world of #Eurovision with graph analytics! Unravel strategic voting and political rivalries. @Eurovision #graphdatabase #dataanalys...](https://twitter.com/memgraphdb/status/1638053073539956737)
 - [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1637902579303690240)
 - [🔍 Speed up data exploration with #GraphDatabases! Performance is key when making informed decisions in real time. Dive into how graph tech can help...](https://twitter.com/memgraphdb/status/1637878671443632130)
+- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1637862284100788226)
+- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1637838155746357250)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
