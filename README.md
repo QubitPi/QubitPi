@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] + [R] Doublespeak.chat: LLM Sandbox Escape Game](https://www.reddit.com/r/MachineLearning/comments/11xicim/p_r_doublespeakchat_llm_sandbox_escape_game/)
 - [[D] Overview of advancements in Graph Neural Networks](https://www.reddit.com/r/MachineLearning/comments/11xi27b/d_overview_of_advancements_in_graph_neural/)
 - [[p] detrex v0.3.0: A Major Update to Our Detection Transformer Codebase!](https://www.reddit.com/r/MachineLearning/comments/11xhzhy/p_detrex_v030_a_major_update_to_our_detection/)
 - [[R] Comparison of XAI libraries for Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11xh0i8/r_comparison_of_xai_libraries_for_computer_vision/)
 - [[D] Does label distribution affect models performance, especially for deep learning models?](https://www.reddit.com/r/MachineLearning/comments/11xgwzs/d_does_label_distribution_affect_models/)
-- [[D] Stable Diffusion + 3D model texture generate](https://www.reddit.com/r/MachineLearning/comments/11xek23/d_stable_diffusion_3d_model_texture_generate/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
