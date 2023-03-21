@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[R] ML or AI techniques to gather people&#39;s sentiments](https://www.reddit.com/r/MachineLearning/comments/11xc13q/r_ml_or_ai_techniques_to_gather_peoples_sentiments/)
 - [[D] Machine learning for credit risk scoring for SME](https://www.reddit.com/r/MachineLearning/comments/11xbewd/d_machine_learning_for_credit_risk_scoring_for_sme/)
 - [[D]The Ethical Implications of AI](https://www.reddit.com/r/MachineLearning/comments/11x837e/dthe_ethical_implications_of_ai/)
 - [[D] Im looking for an ai that can put together parts of an image that are loss, due to bad image quality?](https://www.reddit.com/r/MachineLearning/comments/11x4meq/d_im_looking_for_an_ai_that_can_put_together/)
 - [[D] Is ML doomed to end up closed-source?](https://www.reddit.com/r/MachineLearning/comments/11wxabh/d_is_ml_doomed_to_end_up_closedsource/)
+- [[R][D] Papers on Transductive Learning](https://www.reddit.com/r/MachineLearning/comments/11wvv5t/rd_papers_on_transductive_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
