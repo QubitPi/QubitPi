@@ -247,7 +247,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775476269876772914><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5b07154d295c94e369bbf96f6d60136c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775476531870826498><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/329e35b375a740e589f554f241f42552401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·息灾」「单手剑·雾切之回光」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/775476531870826498)
