@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Run LLaMA LLM chatbots on any cloud with one click](https://www.reddit.com/r/MachineLearning/comments/11xvo1i/p_run_llama_llm_chatbots_on_any_cloud_with_one/)
 - [[R] SPDF - Sparse Pre-training and Dense Fine-tuning for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/11xskuk/r_spdf_sparse_pretraining_and_dense_finetuning/)
 - [[D] Running an LLM on &quot;low&quot; compute power machines?](https://www.reddit.com/r/MachineLearning/comments/11xpohv/d_running_an_llm_on_low_compute_power_machines/)
 - [Save money with Spot - blog [News]](https://www.reddit.com/r/MachineLearning/comments/11xlvod/save_money_with_spot_blog_news/)
 - [[D] Largest available encoder-only model for text?](https://www.reddit.com/r/MachineLearning/comments/11xla2s/d_largest_available_encoderonly_model_for_text/)
-- [[D] Overview of advancements in Graph Neural Networks](https://www.reddit.com/r/MachineLearning/comments/11xi27b/d_overview_of_advancements_in_graph_neural/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
