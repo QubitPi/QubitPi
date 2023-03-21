@@ -195,7 +195,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ![](https://img.shields.io/badge/REACT-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/Never%20use-VUE-red?style=for-the-badge) ![](https://img.shields.io/badge/Extremely%20hate-Next.js-black?style=for-the-badge)
 
-[Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/reactjs.org/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Babel](https://qubitpi.github.io/babel-website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/)
+[Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Babel](https://qubitpi.github.io/babel-website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/)
 
 #### Backend Dev
 
