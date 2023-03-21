@@ -247,7 +247,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775043612026077209><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/466494afa76f52803e62ff8bdb4607e9401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775385061951275143><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1f953e2e8959ff557606c34935ada534401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #灵蕈棋阵# 亲爱的旅行者，「灵蕈棋阵」活动即将开启~ 〓活动时间〓 2023/03/23 10:00 ~ 2023/04/03 03:59 〓参与条件〓 冒险等阶≥30级 完成魔神任务「...](https://t.bilibili.com/775385061951275143)
