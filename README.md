@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1638226967328595968)
+- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1638218663156236289)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1638200545415516161)
+- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1638193247322267651)
 - [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1638151973928161283)
-- [We have quite a few public @github repositories, 67 to be precise, but our biggest one is https://github.com/memgraph/memgraph. As you can see, the nu...](https://twitter.com/memgraphdb/status/1638133659793346563)
-- [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1638128819797123073)
-- [💡 Relational databases can join data using keys, but they soon become inadequate when facing demands such as uncovering new insights, the causality...](https://twitter.com/memgraphdb/status/1638112212286939136)
-- [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1638078239691137025)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
