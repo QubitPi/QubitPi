@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1638128819797123073)
+- [💡 Relational databases can join data using keys, but they soon become inadequate when facing demands such as uncovering new insights, the causality...](https://twitter.com/memgraphdb/status/1638112212286939136)
 - [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1638078239691137025)
 - [🚀 The power behind any recommendation engine is the algorithms used to create recommendations. The most powerful recommendation algorithms are made...](https://twitter.com/memgraphdb/status/1638067670208720896)
 - [🎤 Dive into the world of #Eurovision with graph analytics! Unravel strategic voting and political rivalries. @Eurovision #graphdatabase #dataanalys...](https://twitter.com/memgraphdb/status/1638053073539956737)
-- [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1637902579303690240)
-- [🔍 Speed up data exploration with #GraphDatabases! Performance is key when making informed decisions in real time. Dive into how graph tech can help...](https://twitter.com/memgraphdb/status/1637878671443632130)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
