@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#tbt to this article that we all loved :&rpar; Is a knowledge graph capable of capturing human knowledge? Impressive writeup from Alessandro Negro from @Gr...](https://twitter.com/neo4j/status/1638180451507646469)
+- [Slice and Dice Your Graph Data With Neo4j Bloom 👇 You can display different Neo4j graphs and explore graph data using the search feature, expanding...](https://twitter.com/neo4j/status/1638163659313610752)
 - [RT OpenCredo: Read the final part of &quot;Ingesting Big Data into Neo4j,&quot; a blog series by @ebrucucen and @FahranWallace and learn how to use the neo4j-ad...](https://twitter.com/OpenCredo/status/1638140901905285120)
 - [Re @ElsevierConnect at #graphsummit2023 London 📍 https://t.co/HMEZTmiYCh](https://twitter.com/neo4j/status/1638139342576136192)
 - [RT Graph Everywhere: 20 de Abril 👉🏼¡nos vemos en el Health and Pharma Graph Summit Madrid! Con @AJarasch, @gabriel_antoja y @joseptg compartire...](https://twitter.com/grapheverywhere/status/1638121417186197504)
-- [Join #AWS and #Neo4j for our upcoming Dev Day, where you&#39;ll learn, how to easily deploy the Neo4j graph database from the AWS Marketplace and more! Re...](https://twitter.com/neo4j/status/1637941353584664577)
-- [&quot;What Makes Graph Data Science Different From Traditional Data Science?&quot; Get the answer to this essential question from data scientist Alison Cossette...](https://twitter.com/neo4j/status/1637907257655455745)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
