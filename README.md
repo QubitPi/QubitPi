@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Stable Diffusion + 3D model texture generate](https://www.reddit.com/r/MachineLearning/comments/11xek23/d_stable_diffusion_3d_model_texture_generate/)
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://www.reddit.com/r/MachineLearning/comments/11xduyz/zero1to3_zeroshot_one_image_to_3d_object/)
 - [[Project] Machine Learning for Audio: A library for audio analysis, feature extraction, etc](https://www.reddit.com/r/MachineLearning/comments/11xd1iz/project_machine_learning_for_audio_a_library_for/)
 - [[D] Machine learning for credit risk scoring for SME](https://www.reddit.com/r/MachineLearning/comments/11xbewd/d_machine_learning_for_credit_risk_scoring_for_sme/)
 - [[D] Im looking for an ai that can put together parts of an image that are loss, due to bad image quality?](https://www.reddit.com/r/MachineLearning/comments/11x4meq/d_im_looking_for_an_ai_that_can_put_together/)
-- [[D] Is ML doomed to end up closed-source?](https://www.reddit.com/r/MachineLearning/comments/11wxabh/d_is_ml_doomed_to_end_up_closedsource/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
