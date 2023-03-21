@@ -344,11 +344,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Graphcore | An OpenStack Case Study](https://superuser.openinfra.dev/articles/graphcore-an-openstack-case-study/)
 - [How to Attach a New Volume to a VM in OpenStack](https://superuser.openinfra.dev/articles/how-to-attach-a-new-volume-to-a-vm-in-openstack/)
 - [Inject Workloads with Kata Containers in Istio](https://superuser.openinfra.dev/articles/inject-workloads-with-kata-containers-in-istio/)
 - [Examination of Cost Differences Between Private Cloud and Hyperscalers | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/examination-of-cost-differences-between-private-cloud-and-hyperscalers/)
 - [Appreciating the Need for Edge Location Standards or Schemas](https://superuser.openinfra.dev/articles/appreciating-the-need-for-edge-location-standards-or-schemas/)
-- [2023 Superuser Awards Nominations Now Open](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominations-open/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
