@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1638243072348680217)
 - [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1638226967328595968)
 - [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1638218663156236289)
 - [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1638200545415516161)
 - [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1638193247322267651)
-- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1638151973928161283)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
