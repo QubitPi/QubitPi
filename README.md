@@ -305,9 +305,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [SmartyGPT: now with ChatGPT and GPT4 [P]](https://www.reddit.com/r/MachineLearning/comments/11xyk8c/smartygpt_now_with_chatgpt_and_gpt4_p/)
 - [[D] Is attention ALIBI Attention with Linear Biases implemented in both decoder and encoder?](https://www.reddit.com/r/MachineLearning/comments/11xx7a8/d_is_attention_alibi_attention_with_linear_biases/)
 - [[D] Implementation of NER Model with relationship extraction?](https://www.reddit.com/r/MachineLearning/comments/11xwrkl/d_implementation_of_ner_model_with_relationship/)
-- [AskYourPdf, an AI-powered chatbot [Project]](https://www.reddit.com/r/MachineLearning/comments/11xwg6r/askyourpdf_an_aipowered_chatbot_project/)
 - [[D] [P] Curating open-source projects and community demos around GPT-4](https://www.reddit.com/r/MachineLearning/comments/11xwb10/d_p_curating_opensource_projects_and_community/)
 - [[D] fx= &lpar;1/sigma√2π&rpar;*e^&lpar;-&lpar;x-u&rpar;^2/2sigma^2&rpar;](https://www.reddit.com/r/MachineLearning/comments/11xw2z5/d_fx_1sigma2πexu22sigma2/)
 <!-- REDDIT-ML:END -->
