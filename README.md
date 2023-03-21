@@ -247,7 +247,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775385061951275143><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1f953e2e8959ff557606c34935ada534401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775476269876772914><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5b07154d295c94e369bbf96f6d60136c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #神里绫华# #白鹭之庭# 亲爱的旅行者，「白鹭之庭」活动祈愿现已开启，「白鹭霜华·神里绫华&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/775476269876772914)
