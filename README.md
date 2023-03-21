@@ -488,11 +488,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: OpenSanctions](https://www.youtube.com/watch?v=T3uGVrrMeTo)
+- [Coordinate layouts — Neo4j Bloom](https://www.youtube.com/watch?v=ZYIasTOhLtI)
 - [GraphStuff.fm: Innovation Vertex](https://www.youtube.com/watch?v=NS3xEFR1jCA)
 - [GraphGPT with Varun Shenoy](https://www.youtube.com/watch?v=A6uTdDs6E-E)
 - [Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=otCRuINPUak)
-- [Neo4j Live: OpenSanctions Trailer #shorts](https://www.youtube.com/watch?v=1DBFZJZnxW8)
-- [Neo4j Live: OpenSanctions](https://www.youtube.com/watch?v=T3uGVrrMeTo)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
