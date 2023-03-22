@@ -356,11 +356,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Announcing Docker+Wasm Technical Preview 2](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/)
 - [We apologize. We did a terrible job announcing the end of Docker Free Teams.](https://www.docker.com/blog/we-apologize-we-did-a-terrible-job-announcing-the-end-of-docker-free-teams/)
 - [Distributed Cloud-Native Graph Database with NebulaGraph Docker Extension](https://www.docker.com/blog/distributed-cloud-native-graph-database-nebulagraph-docker-extension/)
 - [February Extensions: Easily Connect Local Containers to a Kubernetes Cluster and More](https://www.docker.com/blog/new-docker-extensions-february-2023/)
 - [Docker Desktop 4.17: New Functionality for a Better Development Experience](https://www.docker.com/blog/docker-desktop-4-17-new-development-functionality/)
-- [Secure Your Kubernetes Clusters with the Kubescape Docker Extension](https://www.docker.com/blog/secure-kubernetes-with-kubescape-extension/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
