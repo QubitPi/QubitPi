@@ -308,8 +308,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] CleanVision: Audit your Image Data for better Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11ym81i/p_cleanvision_audit_your_image_data_for_better/)
 - [[D] ICML 2023 Reviewer-Author Discussion](https://www.reddit.com/r/MachineLearning/comments/11ylumz/d_icml_2023_reviewerauthor_discussion/)
 - [[P] Recommendation of one type of content based on another type of content](https://www.reddit.com/r/MachineLearning/comments/11yjz8s/p_recommendation_of_one_type_of_content_based_on/)
-- [[P] A ChatGPT-powered Ipython interpreter to data science in natural language](https://www.reddit.com/r/MachineLearning/comments/11yi2tu/p_a_chatgptpowered_ipython_interpreter_to_data/)
-- [[P] Writing Advice](https://www.reddit.com/r/MachineLearning/comments/11yhfua/p_writing_advice/)
+- [[P] CodeAlpaca Code and Data release](https://www.reddit.com/r/MachineLearning/comments/11yh8x8/p_codealpaca_code_and_data_release/)
+- [[Project] Q-learning from 2 to 3 dimensions](https://www.reddit.com/r/MachineLearning/comments/11ygfrq/project_qlearning_from_2_to_3_dimensions/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
