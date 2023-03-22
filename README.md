@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ https://memgraph.com/blog/how-to-find-all-weig...](https://twitter.com/memgraphdb/status/1638407405863071745)
 - [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1638260692162674688)
 - [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1638243072348680217)
 - [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1638226967328595968)
 - [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1638218663156236289)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1638200545415516161)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
