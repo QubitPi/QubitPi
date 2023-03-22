@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] ChatLLaMA - A ChatGPT style chatbot for Facebook&#39;s LLaMA](https://www.reddit.com/r/MachineLearning/comments/11yof4h/p_chatllama_a_chatgpt_style_chatbot_for_facebooks/)
 - [[R] Prompting ChatGPT for visual math and text reasoning](https://www.reddit.com/r/MachineLearning/comments/11ynzc1/r_prompting_chatgpt_for_visual_math_and_text/)
 - [[D] Do you have a free and unlimited chat that specializes only in teaching programming or computing in general?](https://www.reddit.com/r/MachineLearning/comments/11yntgf/d_do_you_have_a_free_and_unlimited_chat_that/)
 - [[P] CleanVision: Audit your Image Data for better Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11ym81i/p_cleanvision_audit_your_image_data_for_better/)
 - [[D] ICML 2023 Reviewer-Author Discussion](https://www.reddit.com/r/MachineLearning/comments/11ylumz/d_icml_2023_reviewerauthor_discussion/)
-- [[P] Recommendation of one type of content based on another type of content](https://www.reddit.com/r/MachineLearning/comments/11yjz8s/p_recommendation_of_one_type_of_content_based_on/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
