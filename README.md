@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [GNNs are gaining tons of recognition in the machine learning community due to their potential for solving complex tasks in social networks, drug disco...](https://twitter.com/neo4j/status/1638526181795418115)
 - [Knowledge Graph - Based Chatbot With #GPT-3 and #Neo4j Learn how to develop a chatbot that provides answers based on data stored in a knowledge graph ...](https://twitter.com/neo4j/status/1638224063335112715)
 - [Neo4j Live: OpenSanctions @open_sanctions https://twitter.com/i/broadcasts/1yoJMZpyABNxQ](https://twitter.com/neo4j/status/1638205173448470529)
 - [#tbt to this article that we all loved :&rpar; Is a knowledge graph capable of capturing human knowledge? Impressive writeup from Alessandro Negro from @Gr...](https://twitter.com/neo4j/status/1638180451507646469)
 - [Slice and Dice Your Graph Data With Neo4j Bloom 👇 You can display different Neo4j graphs and explore graph data using the search feature, expanding...](https://twitter.com/neo4j/status/1638163659313610752)
-- [RT OpenCredo: Read the final part of &quot;Ingesting Big Data into Neo4j,&quot; a blog series by @ebrucucen and @FahranWallace and learn how to use the neo4j-ad...](https://twitter.com/OpenCredo/status/1638140901905285120)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
