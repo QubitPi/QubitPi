@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A ChatGPT-powered Ipython interpreter to data science in natural language](https://www.reddit.com/r/MachineLearning/comments/11yi2tu/p_a_chatgptpowered_ipython_interpreter_to_data/)
 - [[P] Writing Advice](https://www.reddit.com/r/MachineLearning/comments/11yhfua/p_writing_advice/)
 - [[P] CodeAlpaca Code and Data release](https://www.reddit.com/r/MachineLearning/comments/11yh8x8/p_codealpaca_code_and_data_release/)
 - [[Project] ChatLLaMA - A ChatGPT style chatbot for Facebook&#39;s LLaMA](https://www.reddit.com/r/MachineLearning/comments/11ygviq/project_chatllama_a_chatgpt_style_chatbot_for/)
 - [[Project] Q-learning from 2 to 3 dimensions](https://www.reddit.com/r/MachineLearning/comments/11ygfrq/project_qlearning_from_2_to_3_dimensions/)
-- [[D] Information about the International Conference on Neural Information Processing &lpar;ICONIP&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ycdwb/d_information_about_the_international_conference/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
