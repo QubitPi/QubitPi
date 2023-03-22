@@ -323,11 +323,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Product Owner by Sprinting Heads](https://www.scrum.org/resources/blog/product-owner-sprinting-heads)
+- [All The Scrum Things](https://www.scrum.org/resources/blog/all-scrum-things)
 - [Nothing Compares 2 Scrum](https://www.scrum.org/resources/blog/nothing-compares-2-scrum)
 - [Should the Product Owner ‘close’ Product Backlog items?](https://www.scrum.org/resources/blog/should-product-owner-close-product-backlog-items)
 - [Scrum Song](https://www.scrum.org/resources/blog/scrum-song)
-- [I Want To Know What Scrum Is](https://www.scrum.org/resources/blog/i-want-know-what-scrum)
-- [Why is Satya Nadella a better example of agile leadership than Steve Jobs?](https://www.scrum.org/resources/blog/why-satya-nadella-better-example-agile-leadership-steve-jobs)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
