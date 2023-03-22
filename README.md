@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Last Weekend we hosted a meet-up in our Malmö office together with @PinkProgramming We provided tips &amp; tricks for interviews and Cypher basics to 40 ...](https://twitter.com/neo4j/status/1638586386201604096)
 - [Can crowd-sourcing chatbots produce more accurate results? 🤔 Sixing Huang demonstrates an ensemble chatbot in Google Colab. Read &quot;Doctor.ai+GPT-3+K...](https://twitter.com/neo4j/status/1638557542191095808)
 - [Training Series: Intermediate Cypher https://twitter.com/i/broadcasts/1djGXlMeRLVGZ](https://twitter.com/neo4j/status/1638552910798938112)
 - [RT OpenSanctions: Listen to @pudo talk about the origins of @open_sanctions, and how investigators can use graph analytics to find leads in yesterday&#39;...](https://twitter.com/open_sanctions/status/1638545967682027520)
 - [GNNs are gaining tons of recognition in the machine learning community due to their potential for solving complex tasks in social networks, drug disco...](https://twitter.com/neo4j/status/1638526181795418115)
-- [RT Christoph Engelbert | @noctarius2k@mastodon.online: Re @neo4j&#39;s very own @mesirii at @JavaLandConf, talking about bad things that can happen with t...](https://twitter.com/noctarius2k/status/1638514432656519168)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
