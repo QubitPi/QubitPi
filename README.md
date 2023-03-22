@@ -547,7 +547,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Niagara Falls](https://dribbble.com/shots/20935537)
 - [LR](https://dribbble.com/shots/20930506)
 - [Brainwave - AI UI Kit](https://dribbble.com/shots/20928432)
-- [Cape Cobra](https://dribbble.com/shots/20922080)
+- [FYNSEC - Website design for cybersecurity company](https://dribbble.com/shots/20944059)
 - [Nuntio Social Media Branding](https://dribbble.com/shots/20925410)
 <!-- DRIBBBLE-TRENDING:END -->
 
