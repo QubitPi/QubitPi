@@ -323,7 +323,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [What can we measure in a Scrum Team..?](https://www.scrum.org/resources/blog/what-can-we-measure-scrum-team)
+- [What Can We Measure in a Scrum Team?](https://www.scrum.org/resources/blog/what-can-we-measure-scrum-team)
 - [Product Owner by Sprinting Heads](https://www.scrum.org/resources/blog/product-owner-sprinting-heads)
 - [Raising Climate Awareness in Scrum Teams - a Scrum Master’s Journey](https://www.scrum.org/resources/blog/raising-climate-awareness-scrum-teams-scrum-masters-journey)
 - [All The Scrum Things](https://www.scrum.org/resources/blog/all-scrum-things)
