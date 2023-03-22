@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Graph databases make IAM systems more efficient by enabling fast lookups and dynamic graph algorithms. Say goodbye to traditional IAM struggles! ...](https://twitter.com/memgraphdb/status/1638544560367255552)
-- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1638535247288492041)
 - [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1638515116307087362)
 - [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1638496995462594560)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1638491209281728515)
+- [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1638479129870737410)
+- [🌟 Dynamic algorithms in graph databases make IAM systems more flexible, allowing for easy updates and improved scalability. Boost your security tod...](https://twitter.com/memgraphdb/status/1638439117343145985)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
