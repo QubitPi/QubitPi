@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] GPT-4 Discord Chatbot](https://www.reddit.com/r/MachineLearning/comments/11ya3uw/project_gpt4_discord_chatbot/)
 - [[P] fastLLaMa, A python wrapper to run llama.cpp](https://www.reddit.com/r/MachineLearning/comments/11y9qgg/p_fastllama_a_python_wrapper_to_run_llamacpp/)
 - [[D] Bing Rejects A Theory Because It Conflicts With Its Own Experience](https://www.reddit.com/r/MachineLearning/comments/11y8x51/d_bing_rejects_a_theory_because_it_conflicts_with/)
 - [[R] MM-ReAct: Prompting ChatGPT for Multimodal Reasoning and Action](https://www.reddit.com/r/MachineLearning/comments/11y70rx/r_mmreact_prompting_chatgpt_for_multimodal/)
 - [[Project] AI Voice Narrated Audiobooks](https://www.reddit.com/r/MachineLearning/comments/11y65ey/project_ai_voice_narrated_audiobooks/)
-- [[R] Data Annotation &amp; Data Labeling with AI](https://www.reddit.com/r/MachineLearning/comments/11y2mmi/r_data_annotation_data_labeling_with_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
