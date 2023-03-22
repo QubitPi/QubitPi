@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1638562933306171395)
+- [RT Ajeet Singh Raina 🐳: Experience the power of Memgraph hassle-free! Simply head to Docker Desktop dashboard&#39;s Extensions and start using it witho...](https://twitter.com/ajeetsraina/status/1638562832533929984)
+- [📢We are so proud that #memgraph CTO @mbudiselicbuda will give a keynote at the largest regional #opensource developer&#39;s #conference - DORS/CLUC 202...](https://twitter.com/memgraphdb/status/1638557177303429123)
 - [🌐 Graph databases make IAM systems more efficient by enabling fast lookups and dynamic graph algorithms. Say goodbye to traditional IAM struggles! ...](https://twitter.com/memgraphdb/status/1638544560367255552)
 - [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1638535247288492041)
-- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1638515116307087362)
-- [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1638496995462594560)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1638491209281728515)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
