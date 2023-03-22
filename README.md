@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] OpenAI Just Terminated my API access, any alternatives?](https://www.reddit.com/r/MachineLearning/comments/11z0z3s/d_openai_just_terminated_my_api_access_any/)
 - [[P] New auqa AI features that will make test case creation faster](https://www.reddit.com/r/MachineLearning/comments/11z00ex/p_new_auqa_ai_features_that_will_make_test_case/)
 - [[P] New auqa AI features that will make test case creation faster](https://www.reddit.com/r/MachineLearning/comments/11yzyre/p_new_auqa_ai_features_that_will_make_test_case/)
 - [[R] Introducing SIFT: A New Family of Sparse Iso-FLOP Transformations to Improve the Accuracy of Computer Vision and Language Models](https://www.reddit.com/r/MachineLearning/comments/11yzsz6/r_introducing_sift_a_new_family_of_sparse_isoflop/)
 - [[D] I&#39;m new and I would like some guidance](https://www.reddit.com/r/MachineLearning/comments/11yxh66/d_im_new_and_i_would_like_some_guidance/)
-- [[D] In your opinion, what are the seminal papers in Deep Learning &amp; Reinforcement Learning in the past 2 years?](https://www.reddit.com/r/MachineLearning/comments/11yvmas/d_in_your_opinion_what_are_the_seminal_papers_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
