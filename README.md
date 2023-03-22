@@ -305,10 +305,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] fastLLaMa, A python wrapper to run llama.cpp](https://www.reddit.com/r/MachineLearning/comments/11y9qgg/p_fastllama_a_python_wrapper_to_run_llamacpp/)
 - [[D] Bing Rejects A Theory Because It Conflicts With Its Own Experience](https://www.reddit.com/r/MachineLearning/comments/11y8x51/d_bing_rejects_a_theory_because_it_conflicts_with/)
 - [[R] MM-ReAct: Prompting ChatGPT for Multimodal Reasoning and Action](https://www.reddit.com/r/MachineLearning/comments/11y70rx/r_mmreact_prompting_chatgpt_for_multimodal/)
 - [[Project] AI Voice Narrated Audiobooks](https://www.reddit.com/r/MachineLearning/comments/11y65ey/project_ai_voice_narrated_audiobooks/)
-- [[N] You&#39;re INVITED to the webinar: Customer Churn Prediction with an ML Solution Template](https://www.reddit.com/r/MachineLearning/comments/11y30r2/n_youre_invited_to_the_webinar_customer_churn/)
 - [[R] Data Annotation &amp; Data Labeling with AI](https://www.reddit.com/r/MachineLearning/comments/11y2mmi/r_data_annotation_data_labeling_with_ai/)
 <!-- REDDIT-ML:END -->
 
