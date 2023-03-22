@@ -488,11 +488,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Training Series: Intermediate Cypher](https://www.youtube.com/watch?v=IJBTdWig564)
-- [Slice and Dice your Data with Neo4j Bloom](https://www.youtube.com/watch?v=9CEpvcCBuvc)
 - [Neo4j Live: SchemaSmith for Data Governance Trailer #shorts](https://www.youtube.com/watch?v=T672sycsMYs)
 - [Neo4j Live: SchemaSmith for Data Governance](https://www.youtube.com/watch?v=xEaC6ArmSlw)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=hSttMcYxdKQ)
+- [Training Series: Intermediate Cypher](https://www.youtube.com/watch?v=IJBTdWig564)
+- [Neo4j Live: OpenSanctions](https://www.youtube.com/watch?v=T3uGVrrMeTo)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
