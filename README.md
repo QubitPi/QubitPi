@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] [D] GitHub Copilot X Announced](https://www.reddit.com/r/MachineLearning/comments/11ypgcf/n_d_github_copilot_x_announced/)
+- [[D] What is your methodology for reviewing preprints?](https://www.reddit.com/r/MachineLearning/comments/11ypbw2/d_what_is_your_methodology_for_reviewing_preprints/)
 - [[P] ChatLLaMA - A ChatGPT style chatbot for Facebook&#39;s LLaMA](https://www.reddit.com/r/MachineLearning/comments/11yof4h/p_chatllama_a_chatgpt_style_chatbot_for_facebooks/)
 - [[R] Prompting ChatGPT for visual math and text reasoning](https://www.reddit.com/r/MachineLearning/comments/11ynzc1/r_prompting_chatgpt_for_visual_math_and_text/)
 - [[D] Do you have a free and unlimited chat that specializes only in teaching programming or computing in general?](https://www.reddit.com/r/MachineLearning/comments/11yntgf/d_do_you_have_a_free_and_unlimited_chat_that/)
-- [[P] CleanVision: Audit your Image Data for better Computer Vision](https://www.reddit.com/r/MachineLearning/comments/11ym81i/p_cleanvision_audit_your_image_data_for_better/)
-- [[D] ICML 2023 Reviewer-Author Discussion](https://www.reddit.com/r/MachineLearning/comments/11ylumz/d_icml_2023_reviewerauthor_discussion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
