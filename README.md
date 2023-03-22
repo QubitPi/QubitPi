@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [GPT-4 For SQL Schema Generation + Unstructured Feature Extraction [D]](https://www.reddit.com/r/MachineLearning/comments/11ytoh1/gpt4_for_sql_schema_generation_unstructured/)
 - [[D] NLP: Infer intent of finalising a transaction in a dialogue/chat system](https://www.reddit.com/r/MachineLearning/comments/11yruj3/d_nlp_infer_intent_of_finalising_a_transaction_in/)
 - [[D] ICML rebuttal discussion stage](https://www.reddit.com/r/MachineLearning/comments/11yr9k9/d_icml_rebuttal_discussion_stage/)
 - [Machine Learning for Materials[D]](https://www.reddit.com/r/MachineLearning/comments/11yppjz/machine_learning_for_materialsd/)
 - [[N] [D] GitHub Copilot X Announced](https://www.reddit.com/r/MachineLearning/comments/11ypgcf/n_d_github_copilot_x_announced/)
-- [[D] What is your methodology for reviewing preprints?](https://www.reddit.com/r/MachineLearning/comments/11ypbw2/d_what_is_your_methodology_for_reviewing_preprints/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
