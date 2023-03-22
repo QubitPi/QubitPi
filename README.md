@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1638627355081179136)
 - [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1638603449913712649)
 - [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1638587203679920147)
 - [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1638562933306171395)
 - [RT Ajeet Singh Raina 🐳: Experience the power of Memgraph hassle-free! Simply head to Docker Desktop dashboard&#39;s Extensions and start using it witho...](https://twitter.com/ajeetsraina/status/1638562832533929984)
-- [📢We are so proud that #memgraph CTO @mbudiselicbuda will give a keynote at the largest regional #opensource developer&#39;s #conference - DORS/CLUC 202...](https://twitter.com/memgraphdb/status/1638557177303429123)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
