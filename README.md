@@ -247,7 +247,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775476531870826498><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/329e35b375a740e589f554f241f42552401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/775730360118935606><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b7122635f4dda6b919bb894b6c4f56a8401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #灵蕈棋阵# 旅行者们好呀，「灵蕈棋阵」活动即将于2023/03/23 10:00开启，旅行者们在首届「月莲杯驯兽师大赛」上结识的友人推出了全新游戏，加油完成挑战...](https://t.bilibili.com/775730360118935606)
