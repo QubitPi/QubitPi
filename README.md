@@ -324,10 +324,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Product Owner by Sprinting Heads](https://www.scrum.org/resources/blog/product-owner-sprinting-heads)
+- [Raising Climate Awareness in Scrum Teams - a Scrum Master’s Journey](https://www.scrum.org/resources/blog/raising-climate-awareness-scrum-teams-scrum-masters-journey)
 - [All The Scrum Things](https://www.scrum.org/resources/blog/all-scrum-things)
 - [Nothing Compares 2 Scrum](https://www.scrum.org/resources/blog/nothing-compares-2-scrum)
 - [Should the Product Owner ‘close’ Product Backlog items?](https://www.scrum.org/resources/blog/should-product-owner-close-product-backlog-items)
-- [Scrum Song](https://www.scrum.org/resources/blog/scrum-song)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
