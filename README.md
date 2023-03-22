@@ -306,10 +306,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[Project] Q-learning from 2 to 3 dimensions](https://www.reddit.com/r/MachineLearning/comments/11ygfrq/project_qlearning_from_2_to_3_dimensions/)
-- [[Project] Q-learning algorithm](https://www.reddit.com/r/MachineLearning/comments/11yg5ns/project_qlearning_algorithm/)
 - [[D] Information about the International Conference on Neural Information Processing &lpar;ICONIP&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ycdwb/d_information_about_the_international_conference/)
 - [[D] 100% accuracy of Random Forest Breast Cancer Prediction](https://www.reddit.com/r/MachineLearning/comments/11yccp8/d_100_accuracy_of_random_forest_breast_cancer/)
 - [[d] combined image/text dataset](https://www.reddit.com/r/MachineLearning/comments/11ybo0n/d_combined_imagetext_dataset/)
+- [[D] Overwhelmed by fast advances in recent weeks](https://www.reddit.com/r/MachineLearning/comments/11ybjsi/d_overwhelmed_by_fast_advances_in_recent_weeks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
