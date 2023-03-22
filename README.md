@@ -568,11 +568,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Some Cross-Browser DevTools Features You Might Not Know](https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/)
 - [Making Calendars With Accessibility and Internationalization in Mind](https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/)
 - [5 Mistakes I Made When Starting My First React Project](https://css-tricks.com/5-mistakes-starting-react/)
 - [Creating a Clock with the New CSS sin&lpar;&rpar; and cos&lpar;&rpar; Trigonometry Functions](https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/)
 - [Managing Fonts in WordPress Block Themes](https://css-tricks.com/managing-fonts-in-wordpress-block-themes/)
-- [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/)
 <!-- CSS-TRIKCS:END -->
 
 Git Data Analytics - Everything is Datable
