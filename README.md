@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Writing Advice](https://www.reddit.com/r/MachineLearning/comments/11yhfua/p_writing_advice/)
+- [[P] CodeAlpaca Code and Data release](https://www.reddit.com/r/MachineLearning/comments/11yh8x8/p_codealpaca_code_and_data_release/)
+- [[Project] ChatLLaMA - A ChatGPT style chatbot for Facebook&#39;s LLaMA](https://www.reddit.com/r/MachineLearning/comments/11ygviq/project_chatllama_a_chatgpt_style_chatbot_for/)
 - [[Project] Q-learning from 2 to 3 dimensions](https://www.reddit.com/r/MachineLearning/comments/11ygfrq/project_qlearning_from_2_to_3_dimensions/)
 - [[D] Information about the International Conference on Neural Information Processing &lpar;ICONIP&rpar;](https://www.reddit.com/r/MachineLearning/comments/11ycdwb/d_information_about_the_international_conference/)
-- [[D] 100% accuracy of Random Forest Breast Cancer Prediction](https://www.reddit.com/r/MachineLearning/comments/11yccp8/d_100_accuracy_of_random_forest_breast_cancer/)
-- [[d] combined image/text dataset](https://www.reddit.com/r/MachineLearning/comments/11ybo0n/d_combined_imagetext_dataset/)
-- [[D] Overwhelmed by fast advances in recent weeks](https://www.reddit.com/r/MachineLearning/comments/11ybjsi/d_overwhelmed_by_fast_advances_in_recent_weeks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
