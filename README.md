@@ -425,11 +425,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Graph databases are made to solve your supply chain use cases. 🔥 Join the CTO of @Altana_AI, Ian Cadieu, to learn how they use a knowledge graph to...](https://twitter.com/arangodb/status/1638495764765724678)
 - [Fraud can be a significant business issue, but with ArangoDB, you can combat it head-on! 🥑👊🏻 Check out their latest blog post to learn more a...](https://twitter.com/arangodb/status/1638269261700296704)
 - [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1638133363423707137)
 - [We can tell you what a graph database is, but sometimes it&#39;s best to get insight from an outside resource. 🥑 This article by software engineer and ...](https://twitter.com/arangodb/status/1637906867874586624)
 - [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1637770981077819392)
+- [Don&#39;t miss out! Take advantage of our free 14-day trial of the ArangoGraph Insights Platform. Get started now and explore what the cloud has to offer ...](https://twitter.com/arangodb/status/1637544491371442176)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
