@@ -323,11 +323,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum im Selbststudium – Teil 13: Daily Scrum – Tägliche Überprüfung des Fortschritts in Richtung des Sprint‐Ziels und Justierung der geplanten Arbeit](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-13-daily-scrum-tagliche-uberprufung-des-fortschritts)
 - [Unlocking Agile Success: Aligning Your Organizational Design with Strategic Focus](https://www.scrum.org/resources/blog/unlocking-agile-success-aligning-your-organizational-design-strategic-focus)
 - [Scrum im Selbststudium – Teil 12: Sprint Planning – Planung der Arbeit des Sprints](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-12-sprint-planning-planung-der-arbeit-des-sprints)
 - [Scrum im Selbststudium – Teil 11: Sprint – Erstellung eines Inkrements](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-11-sprint-erstellung-eines-inkrements)
 - [Yeah, Go Right Ahead and Cheat on your Scrum Master Certification](https://www.scrum.org/resources/blog/yeah-go-right-ahead-and-cheat-your-scrum-master-certification)
-- [ChatGPT 4: A Bargain for Scrum Practitioners?](https://www.scrum.org/resources/blog/chatgpt-4-bargain-scrum-practitioners)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
