@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Kentucky Derby Race Tracking; featuring tracking by program number and position across 320 frames taken from open media to enable testing of predictive analytics, player performance tracking and improve betting sports](https://www.reddit.com/r/MachineLearning/comments/11zhph5/r_kentucky_derby_race_tracking_featuring_tracking/)
+- [[R] Question about Selection of Machine Learning Type for a Neuroscience/Biomedical Engineering Problem](https://www.reddit.com/r/MachineLearning/comments/11zhnzb/r_question_about_selection_of_machine_learning/)
 - [[N] Prompt-to-voice &lpar;Dall-E for Voice&rpar;](https://www.reddit.com/r/MachineLearning/comments/11zgmb2/n_prompttovoice_dalle_for_voice/)
 - [[N] PyG 2.3.0 released: PyTorch 2.0 support, native sparse tensor support, explainability and accelerations](https://www.reddit.com/r/MachineLearning/comments/11zgl87/n_pyg_230_released_pytorch_20_support_native/)
 - [[R] Learning laws of physics via RL with units constraints](https://www.reddit.com/r/MachineLearning/comments/11zg77q/r_learning_laws_of_physics_via_rl_with_units/)
-- [[P] New toolchain to train robust spiking NNs for mixed-signal Neuromorphic chips](https://www.reddit.com/r/MachineLearning/comments/11zg5rr/p_new_toolchain_to_train_robust_spiking_nns_for/)
-- [[D] LLMs’ use of synthetic data](https://www.reddit.com/r/MachineLearning/comments/11zf6h0/d_llms_use_of_synthetic_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
