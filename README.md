@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] GPT-4 powered full stack web development with no manual coding](https://www.reddit.com/r/MachineLearning/comments/11z7r4c/p_gpt4_powered_full_stack_web_development_with_no/)
 - [I made a tool that saves your ChatGPT conversations in .md file. And it&#39;s Open Source. [P]](https://www.reddit.com/r/MachineLearning/comments/11z56ro/i_made_a_tool_that_saves_your_chatgpt/)
 - [[R] Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://www.reddit.com/r/MachineLearning/comments/11z3ymj/r_sparks_of_artificial_general_intelligence_early/)
 - [[P] One of the best ChatGPT-like models &lpar;possibly better than OpenAssistant, Stanford Alpaca, ChatGLM and others&rpar;](https://www.reddit.com/r/MachineLearning/comments/11z2z3v/p_one_of_the_best_chatgptlike_models_possibly/)
 - [[D] OpenAI Just Terminated my API access, any alternatives?](https://www.reddit.com/r/MachineLearning/comments/11z0z3s/d_openai_just_terminated_my_api_access_any/)
-- [[P] New auqa AI features that will make test case creation faster](https://www.reddit.com/r/MachineLearning/comments/11z00ex/p_new_auqa_ai_features_that_will_make_test_case/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
