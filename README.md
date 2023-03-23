@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Prompt-to-voice &lpar;Dall-E for Voice&rpar;](https://www.reddit.com/r/MachineLearning/comments/11zgmb2/n_prompttovoice_dalle_for_voice/)
+- [[N] PyG 2.3.0 released: PyTorch 2.0 support, native sparse tensor support, explainability and accelerations](https://www.reddit.com/r/MachineLearning/comments/11zgl87/n_pyg_230_released_pytorch_20_support_native/)
 - [[R] Learning laws of physics via RL with units constraints](https://www.reddit.com/r/MachineLearning/comments/11zg77q/r_learning_laws_of_physics_via_rl_with_units/)
 - [[P] New toolchain to train robust spiking NNs for mixed-signal Neuromorphic chips](https://www.reddit.com/r/MachineLearning/comments/11zg5rr/p_new_toolchain_to_train_robust_spiking_nns_for/)
 - [[D] LLMs’ use of synthetic data](https://www.reddit.com/r/MachineLearning/comments/11zf6h0/d_llms_use_of_synthetic_data/)
-- [[D] Logistic weka in sklearn](https://www.reddit.com/r/MachineLearning/comments/11zcqtm/d_logistic_weka_in_sklearn/)
-- [[D][R] Concerns about using Conformer with Classification Token](https://www.reddit.com/r/MachineLearning/comments/11zcouh/dr_concerns_about_using_conformer_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
