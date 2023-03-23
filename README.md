@@ -307,9 +307,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[P] The noisy sentences dataset: 550K sentences in 5 European languages augmented with noise for training and evaluating spell correction tools or machine learning models.](https://www.reddit.com/r/MachineLearning/comments/11zyi1s/p_the_noisy_sentences_dataset_550k_sentences_in_5/)
 - [[D] [P] I asked GPT-4 to try &amp; dethrone the transformer. After some iterations, this is where it got to. I am not well versed in ML at all &lpar;understatement&rpar; &amp; did this out of curiosity. I have no way to judge it nor computational power to train it. Can anyone tell me whether it did a good job?](https://www.reddit.com/r/MachineLearning/comments/11zxcn9/d_p_i_asked_gpt4_to_try_dethrone_the_transformer/)
-- [[D] LLM Research and or volunteering opportunities](https://www.reddit.com/r/MachineLearning/comments/11zugpk/d_llm_research_and_or_volunteering_opportunities/)
 - [[N] Swiss DoD researchers published today a report on how they think LLMs will impact cyber-security and cyber defense](https://www.reddit.com/r/MachineLearning/comments/11ztr2r/n_swiss_dod_researchers_published_today_a_report/)
 - [[N] ChatGPT plugins](https://www.reddit.com/r/MachineLearning/comments/11zsdwv/n_chatgpt_plugins/)
+- [[D] Cost for serving realtime inferences of a model like PaLM 62B](https://www.reddit.com/r/MachineLearning/comments/11zqq6f/d_cost_for_serving_realtime_inferences_of_a_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
