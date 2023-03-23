@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Thank you @TomWeinandy and @BigramPoetry, for this nice poem about #memgraph.](https://twitter.com/memgraphdb/status/1638821996820586496)
+- [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1638852086124404736)
+- [Thank you @TomWeinandy and @BigramPoetry, for this nice poem about #memgraph. https://twitter.com/BigramPoetry/status/1638243086512926721](https://twitter.com/memgraphdb/status/1638821996820586496)
 - [Thank you @netokracija for the announcement of keynote speakers for @dorscluc where #memgraph CTO @mbudiselicbuda will give a keynote. https://www.net...](https://twitter.com/memgraphdb/status/1638820456303329281)
 - [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1638817106274951169)
 - [Re @amarjeet @ajeetsraina You can try to run #Memgraph Platform directly using the following command: docker run -it -p 7687:7687 -p 7444:7444 -p 3000...](https://twitter.com/memgraphdb/status/1638814503864336386)
-- [What is your favorite #memgraph #dataset? Spin up a Memgraph using @Docker and let us know! https://memgraph.com/docs/memgraph/installation](https://twitter.com/memgraphdb/status/1638807719460184064)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
