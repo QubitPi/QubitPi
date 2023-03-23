@@ -305,9 +305,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Starting a discord server to teach people ML](https://www.reddit.com/r/MachineLearning/comments/11zu9et/d_starting_a_discord_server_to_teach_people_ml/)
 - [[N] Swiss DoD researchers published today a report on how they think LLMs will impact cyber-security and cyber defense](https://www.reddit.com/r/MachineLearning/comments/11ztr2r/n_swiss_dod_researchers_published_today_a_report/)
 - [[N] ChatGPT plugins](https://www.reddit.com/r/MachineLearning/comments/11zsdwv/n_chatgpt_plugins/)
-- [[D] can anyone suggest some Django framework tutorial???](https://www.reddit.com/r/MachineLearning/comments/11zro44/d_can_anyone_suggest_some_django_framework/)
 - [[D] Cost for serving realtime inferences of a model like PaLM 62B](https://www.reddit.com/r/MachineLearning/comments/11zqq6f/d_cost_for_serving_realtime_inferences_of_a_model/)
 - [[P][R][D] Feature Subset Selection &lpar;NP-Hard&rpar;](https://www.reddit.com/r/MachineLearning/comments/11zqosr/prd_feature_subset_selection_nphard/)
 <!-- REDDIT-ML:END -->
