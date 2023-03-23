@@ -425,11 +425,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn more about how to graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure and store dat...](https://twitter.com/arangodb/status/1638994047573577728)
 - [2023 is the year of the graph, and we want to ensure you get your fill of graph database content. 😎 Learn how Orange&#39;s Thing in the Future uses the...](https://twitter.com/arangodb/status/1638858143810850817)
 - [#Graph is the future of data modeling. Check out why graph databases are crucial and how ArangoDB is at the top of the #graphdatabase game. Learn more...](https://twitter.com/arangodb/status/1638631656524492800)
 - [Graph databases are made to solve your supply chain use cases. 🔥 Join the CTO of @Altana_AI, Ian Cadieu, to learn how they use a knowledge graph to...](https://twitter.com/arangodb/status/1638495764765724678)
 - [Fraud can be a significant business issue, but with ArangoDB, you can combat it head-on! 🥑👊🏻 Check out their latest blog post to learn more a...](https://twitter.com/arangodb/status/1638269261700296704)
-- [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1638133363423707137)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
