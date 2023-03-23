@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Lost [D]](https://www.reddit.com/r/MachineLearning/comments/11zcrom/lost_d/)
+- [[D] Logistic weka in sklearn](https://www.reddit.com/r/MachineLearning/comments/11zcqtm/d_logistic_weka_in_sklearn/)
+- [[D][R] Concerns about using Conformer with Classification Token](https://www.reddit.com/r/MachineLearning/comments/11zcouh/dr_concerns_about_using_conformer_with/)
+- [[D] LLaMA or Alpaca Weights](https://www.reddit.com/r/MachineLearning/comments/11zcog6/d_llama_or_alpaca_weights/)
 - [[D] Question for use of ML in adaptive authentication](https://www.reddit.com/r/MachineLearning/comments/11zce7u/d_question_for_use_of_ml_in_adaptive/)
-- [[D] ML model to find text/similar text in pdf](https://www.reddit.com/r/MachineLearning/comments/11za7qe/d_ml_model_to_find_textsimilar_text_in_pdf/)
-- [[P] Open-source GPT4 &amp; LangChain Chatbot for large PDF docs](https://www.reddit.com/r/MachineLearning/comments/11z9s3g/p_opensource_gpt4_langchain_chatbot_for_large_pdf/)
-- [[P] GPT-4 powered full stack web development with no manual coding](https://www.reddit.com/r/MachineLearning/comments/11z7r4c/p_gpt4_powered_full_stack_web_development_with_no/)
-- [I made a tool that saves your ChatGPT conversations in .md file. And it&#39;s Open Source. [P]](https://www.reddit.com/r/MachineLearning/comments/11z56ro/i_made_a_tool_that_saves_your_chatgpt/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
