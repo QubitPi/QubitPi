@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. https://memgraph.com/blog/j...](https://twitter.com/memgraphdb/status/1638967848919011328)
+- [Re @TectonicWave Thank you :&rpar; 🙌](https://twitter.com/memgraphdb/status/1638959099613179908)
+- [🔄 Turn your batch data into streaming data with Kafka, Redpanda &amp; Pulsar! Optimize your data processing strategy for real-time insights. #DataStrea...](https://twitter.com/memgraphdb/status/1638949482795790336)
 - [Re 📢 If Memgraph Lab would make exploring your graphs easier, download it &lpar;https://memgraph.com/download&rpar; and check the docs for changelog and more...](https://twitter.com/memgraphdb/status/1638922392494829569)
 - [Re ✅ The new notification section will keep you up to date with new releases of #Memgraph products, such as new algorithms in the graph library MAGE ...](https://twitter.com/memgraphdb/status/1638922390355734529)
-- [Re 💾 The new version of #Memgraph Lab automatically saves the changes to your favorite queries in the Query Collection and the visual styling of th...](https://twitter.com/memgraphdb/status/1638922387147091968)
-- [Re 🏎️ Sometimes, visualizing query results with more than 3,5k nodes or 8,5k relationships can take some time. That is why now #Memgraph Lab will ...](https://twitter.com/memgraphdb/status/1638922384085504001)
-- [Re 📑 When query modules have a lot of procedures, like the @networkx_team integration nxalg, you can narrow down the list of procedures by entering...](https://twitter.com/memgraphdb/status/1638922381115678720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
