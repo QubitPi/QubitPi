@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] LLMs’ use of synthetic data](https://www.reddit.com/r/MachineLearning/comments/11zf6h0/d_llms_use_of_synthetic_data/)
 - [[D] Logistic weka in sklearn](https://www.reddit.com/r/MachineLearning/comments/11zcqtm/d_logistic_weka_in_sklearn/)
 - [[D][R] Concerns about using Conformer with Classification Token](https://www.reddit.com/r/MachineLearning/comments/11zcouh/dr_concerns_about_using_conformer_with/)
 - [[D] LLaMA or Alpaca Weights](https://www.reddit.com/r/MachineLearning/comments/11zcog6/d_llama_or_alpaca_weights/)
 - [[D] Question for use of ML in adaptive authentication](https://www.reddit.com/r/MachineLearning/comments/11zce7u/d_question_for_use_of_ml_in_adaptive/)
-- [[D] ML model to find text/similar text in pdf](https://www.reddit.com/r/MachineLearning/comments/11za7qe/d_ml_model_to_find_textsimilar_text_in_pdf/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
