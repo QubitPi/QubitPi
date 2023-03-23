@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 With the rising number of cyber-attacks followed by the massive digitalization of companies, the right tool is needed to maximize performance and...](https://twitter.com/memgraphdb/status/1638906948220497921)
-- [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. https://memgr...](https://twitter.com/memgraphdb/status/1638897635640897536)
-- [Re @amarjeet @ajeetsraina Can you please join our @discord server so we can have more direct contact with you and help you? Our server is located at h...](https://twitter.com/memgraphdb/status/1638883072987787268)
-- [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1638876748317335553)
-- [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1638852086124404736)
+- [Re 📢 If Memgraph Lab would make exploring your graphs easier, download it &lpar;https://memgraph.com/download&rpar; and check the docs for changelog and more...](https://twitter.com/memgraphdb/status/1638922392494829569)
+- [Re ✅ The new notification section will keep you up to date with new releases of #Memgraph products, such as new algorithms in the graph library MAGE ...](https://twitter.com/memgraphdb/status/1638922390355734529)
+- [Re 💾 The new version of #Memgraph Lab automatically saves the changes to your favorite queries in the Query Collection and the visual styling of th...](https://twitter.com/memgraphdb/status/1638922387147091968)
+- [Re 🏎️ Sometimes, visualizing query results with more than 3,5k nodes or 8,5k relationships can take some time. That is why now #Memgraph Lab will ...](https://twitter.com/memgraphdb/status/1638922384085504001)
+- [Re 📑 When query modules have a lot of procedures, like the @networkx_team integration nxalg, you can narrow down the list of procedures by entering...](https://twitter.com/memgraphdb/status/1638922381115678720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
