@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 With the rising number of cyber-attacks followed by the massive digitalization of companies, the right tool is needed to maximize performance and...](https://twitter.com/memgraphdb/status/1638906948220497921)
+- [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. https://memgr...](https://twitter.com/memgraphdb/status/1638897635640897536)
 - [Re @amarjeet @ajeetsraina Can you please join our @discord server so we can have more direct contact with you and help you? Our server is located at h...](https://twitter.com/memgraphdb/status/1638883072987787268)
 - [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1638876748317335553)
 - [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1638852086124404736)
-- [Thank you @TomWeinandy and @BigramPoetry, for this nice poem about #memgraph. https://twitter.com/BigramPoetry/status/1638243086512926721](https://twitter.com/memgraphdb/status/1638821996820586496)
-- [Thank you @netokracija for the announcement of keynote speakers for @dorscluc where #memgraph CTO @mbudiselicbuda will give a keynote. https://www.net...](https://twitter.com/memgraphdb/status/1638820456303329281)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
