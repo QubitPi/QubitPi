@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] ChatGPT plugins](https://www.reddit.com/r/MachineLearning/comments/11zsdwv/n_chatgpt_plugins/)
 - [[D] can anyone suggest some Django framework tutorial???](https://www.reddit.com/r/MachineLearning/comments/11zro44/d_can_anyone_suggest_some_django_framework/)
 - [[D] Cost for serving realtime inferences of a model like PaLM 62B](https://www.reddit.com/r/MachineLearning/comments/11zqq6f/d_cost_for_serving_realtime_inferences_of_a_model/)
 - [[P][R][D] Feature Subset Selection &lpar;NP-Hard&rpar;](https://www.reddit.com/r/MachineLearning/comments/11zqosr/prd_feature_subset_selection_nphard/)
 - [[D] Best decoder only Language model under 400M parameters ?](https://www.reddit.com/r/MachineLearning/comments/11zq93r/d_best_decoder_only_language_model_under_400m/)
-- [[P] An online evaluation tool for binary classifiers](https://www.reddit.com/r/MachineLearning/comments/11zohp6/p_an_online_evaluation_tool_for_binary_classifiers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
