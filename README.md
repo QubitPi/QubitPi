@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Conformer-1 - A state-of-the-art speech recognition model trained on 650K hours of data](https://www.reddit.com/r/MachineLearning/comments/11zmb0q/n_conformer1_a_stateoftheart_speech_recognition/)
 - [[D] What&#39;s the technology behind Bing&#39;s chat: summarization with citations.](https://www.reddit.com/r/MachineLearning/comments/11zly8t/d_whats_the_technology_behind_bings_chat/)
 - [[R] Zero-shot Sign Pose Embedding model](https://www.reddit.com/r/MachineLearning/comments/11zlu03/r_zeroshot_sign_pose_embedding_model/)
 - [[D] [R] GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/11zi0km/d_r_gpts_are_gpts_an_early_look_at_the_labor/)
 - [[R] Kentucky Derby Race Tracking; featuring tracking by program number and position across 320 frames taken from open media to enable testing of predictive analytics, player performance tracking and improve betting sports](https://www.reddit.com/r/MachineLearning/comments/11zhph5/r_kentucky_derby_race_tracking_featuring_tracking/)
-- [[R] Question about Selection of Machine Learning Type for a Neuroscience/Biomedical Engineering Problem](https://www.reddit.com/r/MachineLearning/comments/11zhnzb/r_question_about_selection_of_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
