@@ -545,10 +545,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Niagara Falls](https://dribbble.com/shots/20935537)
-- [LR](https://dribbble.com/shots/20930506)
 - [Fleet / Fuel Card - Fintech Product](https://dribbble.com/shots/20977673)
 - [FYNSEC - Website design for cybersecurity company](https://dribbble.com/shots/20944059)
 - [Creative South 🍑](https://dribbble.com/shots/20977312)
+- [Puzzle Website](https://dribbble.com/shots/20715142)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
