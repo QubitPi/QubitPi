@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Database hosting is an interesting cost in the total cost of ownership and it should be taken into consideration before deciding which database t...](https://twitter.com/memgraphdb/status/1638803016236277760)
-- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1638788671209082881)
-- [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1638777850164842496)
-- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1638627355081179136)
-- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1638603449913712649)
+- [Thank you @TomWeinandy and @BigramPoetry, for this nice poem about #memgraph.](https://twitter.com/memgraphdb/status/1638821996820586496)
+- [Thank you @netokracija for the announcement of keynote speakers for @dorscluc where #memgraph CTO @mbudiselicbuda will give a keynote. https://www.net...](https://twitter.com/memgraphdb/status/1638820456303329281)
+- [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1638817106274951169)
+- [Re @amarjeet @ajeetsraina You can try to run #Memgraph Platform directly using the following command: docker run -it -p 7687:7687 -p 7444:7444 -p 3000...](https://twitter.com/memgraphdb/status/1638814503864336386)
+- [What is your favorite #memgraph #dataset? Spin up a Memgraph using @Docker and let us know! https://memgraph.com/docs/memgraph/installation](https://twitter.com/memgraphdb/status/1638807719460184064)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
