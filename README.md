@@ -323,11 +323,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Intro to Scrum &lpar;13 of 16&rpar;: What are Scrum Artifacts?](https://www.scrum.org/resources/blog/intro-scrum-13-16-what-are-scrum-artifacts)
 - [8 Choices of a Product Owner](https://www.scrum.org/resources/blog/8-choices-product-owner)
 - [Scrum im Selbststudium – Teil 14: Sprint Review – Überprüfung der Ergebnisse des Sprints und Planung, was als Nächstes getan werden sollte](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-14-sprint-review-uberprufung-der-ergebnisse-des-sprints)
 - [What Can We Measure in a Scrum Team?](https://www.scrum.org/resources/blog/what-can-we-measure-scrum-team)
 - [Product Owner by Sprinting Heads](https://www.scrum.org/resources/blog/product-owner-sprinting-heads)
-- [Raising Climate Awareness in Scrum Teams - a Scrum Master’s Journey](https://www.scrum.org/resources/blog/raising-climate-awareness-scrum-teams-scrum-masters-journey)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
