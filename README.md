@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Database hosting is an interesting cost in the total cost of ownership and it should be taken into consideration before deciding which database t...](https://twitter.com/memgraphdb/status/1638803016236277760)
+- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1638788671209082881)
+- [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1638777850164842496)
 - [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1638627355081179136)
 - [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1638603449913712649)
-- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1638587203679920147)
-- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1638562933306171395)
-- [RT Ajeet Singh Raina 🐳: Experience the power of Memgraph hassle-free! Simply head to Docker Desktop dashboard&#39;s Extensions and start using it witho...](https://twitter.com/ajeetsraina/status/1638562832533929984)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
