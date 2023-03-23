@@ -305,7 +305,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Best decider only Language model under 300M parameters ?](https://www.reddit.com/r/MachineLearning/comments/11zoje9/d_best_decider_only_language_model_under_300m/)
+- [[D] Best decoder only Language model under 400M parameters ?](https://www.reddit.com/r/MachineLearning/comments/11zq93r/d_best_decoder_only_language_model_under_400m/)
 - [[P] An online evaluation tool for binary classifiers](https://www.reddit.com/r/MachineLearning/comments/11zohp6/p_an_online_evaluation_tool_for_binary_classifiers/)
 - [[N] Conformer-1 - A state-of-the-art speech recognition model trained on 650K hours of data](https://www.reddit.com/r/MachineLearning/comments/11zmb0q/n_conformer1_a_stateoftheart_speech_recognition/)
 - [[R] Zero-shot Sign Pose Embedding model](https://www.reddit.com/r/MachineLearning/comments/11zlu03/r_zeroshot_sign_pose_embedding_model/)
