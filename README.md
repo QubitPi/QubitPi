@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [💥 The @CSX team uses Neo4j to run a centralized repository of shipment data represented through a near-real-time graph to provide more accurate and...](https://twitter.com/neo4j/status/1638903720510623746)
 - [RT Builder.ai: Intelligent Systems Team, assemble! 😎 Our data experts attended @neo4j &#39;s #GraphSummit touching up their expertise on Knowledge Grap...](https://twitter.com/Builderai/status/1638871966986784770)
 - [RT GDG Noida: Hey, there data enthusiasts! 📊 With insightful talks, interactive demos, and ample opportunities to connect with like-minded people, ...](https://twitter.com/gdg_noida/status/1638797702606753793)
 - [Join @lyonwj for a FREE online workshop where we will learn how to use #OpenStreetMap data with #Neo4j to build a routing web application. Yes, As you...](https://twitter.com/neo4j/status/1638631652745428992)
 - [Last Weekend we hosted a meet-up in our Malmö office together with @PinkProgramming We provided tips &amp; tricks for interviews and Cypher basics to 40 ...](https://twitter.com/neo4j/status/1638586386201604096)
-- [Can crowd-sourcing chatbots produce more accurate results? 🤔 Sixing Huang demonstrates an ensemble chatbot in Google Colab. Read &quot;Doctor.ai+GPT-3+K...](https://twitter.com/neo4j/status/1638557542191095808)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
