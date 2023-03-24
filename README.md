@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1639239890817941509)
+- [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1639221772594851841)
+- [🚀 Cypher query language, Memgraph uses as well, enables the ingestion and manipulation of the graph storage, optimizing the high number of hops ins...](https://twitter.com/memgraphdb/status/1639215985591988224)
 - [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1639188806560813056)
 - [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1639165401774030848)
-- [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1639154830957776896)
-- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. https://memgraph.com/blog/graph...](https://twitter.com/memgraphdb/status/1639132185163886592)
-- [🏆 Which countries predicted Eurovision winners best? Analyze voting patterns and geopolitics with graph analytics! @Eurovision #graphs #bigdata #me...](https://twitter.com/memgraphdb/status/1638985466866466817)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
