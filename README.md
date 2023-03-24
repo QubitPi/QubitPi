@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[N] Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.reddit.com/r/MachineLearning/comments/120o4wu/n_hello_dolly_democratizing_the_magic_of_chatgpt/)
 - [[P] CUDA accelerated implementation of K-Planes and CoBaFa &lpar;recent NeRF techniques&rpar;](https://www.reddit.com/r/MachineLearning/comments/120nisq/p_cuda_accelerated_implementation_of_kplanes_and/)
 - [[D] Is there a way to &quot;clone&quot; or change a voice to sound like another without using TTS models?](https://www.reddit.com/r/MachineLearning/comments/120ncun/d_is_there_a_way_to_clone_or_change_a_voice_to/)
 - [[N] Critical exploit in MLflow](https://www.reddit.com/r/MachineLearning/comments/120iklh/n_critical_exploit_in_mlflow/)
 - [[P] Reinforcement learning evolutionary hyperparameter optimization - 10x speed up](https://www.reddit.com/r/MachineLearning/comments/120h120/p_reinforcement_learning_evolutionary/)
+- [[D] I just realised: GPT-4 with image input can interpret any computer screen, any userinterface and any combination of them.](https://www.reddit.com/r/MachineLearning/comments/120guce/d_i_just_realised_gpt4_with_image_input_can/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
