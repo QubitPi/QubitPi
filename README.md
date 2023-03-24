@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Reminder: Use the report button and read the rules!](https://www.reddit.com/r/MachineLearning/comments/120f4oy/reminder_use_the_report_button_and_read_the_rules/)
 - [[R] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity](https://www.reddit.com/r/MachineLearning/comments/120el87/r_artificial_muses_generative_artificial/)
 - [[P] Attention all drivers! 🚗💨 Want to predict driving behavior using Machine Learning? Check out this project!](https://www.reddit.com/r/MachineLearning/comments/120d8hi/p_attention_all_drivers_want_to_predict_driving/)
 - [[D] Are there any methods to deal with false-negatives in a binary classification problem?](https://www.reddit.com/r/MachineLearning/comments/120cy4r/d_are_there_any_methods_to_deal_with/)
 - [[P] ChatGPT with GPT-2: A minimum example of aligning language models with RLHF similar to ChatGPT](https://www.reddit.com/r/MachineLearning/comments/120csub/p_chatgpt_with_gpt2_a_minimum_example_of_aligning/)
-- [[D] is it possible to use encodings from the vggface2 for face swap](https://www.reddit.com/r/MachineLearning/comments/1205ij6/d_is_it_possible_to_use_encodings_from_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
