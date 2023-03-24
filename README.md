@@ -309,7 +309,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Ben Eysenbach, CMU: On designing simpler and more principled RL algorithms](https://www.reddit.com/r/MachineLearning/comments/12000z1/d_ben_eysenbach_cmu_on_designing_simpler_and_more/)
 - [[D] What is the best open source chatbot AI to do transfer learning on?](https://www.reddit.com/r/MachineLearning/comments/11zzgzc/d_what_is_the_best_open_source_chatbot_ai_to_do/)
 - [[P] The noisy sentences dataset: 550K sentences in 5 European languages augmented with noise for training and evaluating spell correction tools or machine learning models.](https://www.reddit.com/r/MachineLearning/comments/11zyi1s/p_the_noisy_sentences_dataset_550k_sentences_in_5/)
-- [[N] Swiss DoD researchers published today a report on how they think LLMs will impact cyber-security and cyber defense](https://www.reddit.com/r/MachineLearning/comments/11ztr2r/n_swiss_dod_researchers_published_today_a_report/)
+- [[D] Which AI model for RTX 3080 10GB?](https://www.reddit.com/r/MachineLearning/comments/11zvtlx/d_which_ai_model_for_rtx_3080_10gb/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
