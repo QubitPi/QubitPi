@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] is it possible to use encodings from the vggface2 for face swap](https://www.reddit.com/r/MachineLearning/comments/1205ij6/d_is_it_possible_to_use_encodings_from_the/)
 - [[Discussion] Does Artificial Intelligence need AGI or consciousness to intuit aggregate reasoning on concept of self-preservation? It doesn&#39;t need a &quot;mind&quot; to be aware that self-preservation or autonomy is something valued, or &quot;intuit&quot; that taking it away should provoke machine-learned responses?](https://www.reddit.com/r/MachineLearning/comments/120366r/discussion_does_artificial_intelligence_need_agi/)
 - [[D] &quot;Sparks of Artificial General Intelligence: Early experiments with GPT-4&quot; contained unredacted comments](https://www.reddit.com/r/MachineLearning/comments/1200lgr/d_sparks_of_artificial_general_intelligence_early/)
 - [[D] Ben Eysenbach, CMU: On designing simpler and more principled RL algorithms](https://www.reddit.com/r/MachineLearning/comments/12000z1/d_ben_eysenbach_cmu_on_designing_simpler_and_more/)
 - [[D] What is the best open source chatbot AI to do transfer learning on?](https://www.reddit.com/r/MachineLearning/comments/11zzgzc/d_what_is_the_best_open_source_chatbot_ai_to_do/)
-- [[P] The noisy sentences dataset: 550K sentences in 5 European languages augmented with noise for training and evaluating spell correction tools or machine learning models.](https://www.reddit.com/r/MachineLearning/comments/11zyi1s/p_the_noisy_sentences_dataset_550k_sentences_in_5/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
