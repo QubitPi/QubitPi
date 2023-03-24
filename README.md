@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1639188806560813056)
 - [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1639165401774030848)
 - [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1639154830957776896)
 - [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. https://memgraph.com/blog/graph...](https://twitter.com/memgraphdb/status/1639132185163886592)
 - [🏆 Which countries predicted Eurovision winners best? Analyze voting patterns and geopolitics with graph analytics! @Eurovision #graphs #bigdata #me...](https://twitter.com/memgraphdb/status/1638985466866466817)
-- [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. https://memgraph.com/blog/j...](https://twitter.com/memgraphdb/status/1638967848919011328)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
