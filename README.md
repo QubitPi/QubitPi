@@ -545,7 +545,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- DRIBBBLE-TRENDING:START -->
 - [Fleet / Fuel Card - Fintech Product](https://dribbble.com/shots/20977673)
-- [Puzzle Website](https://dribbble.com/shots/20715142)
+- [Puzzle Website Design: business landing web page, site designer](https://dribbble.com/shots/20715142)
 - [Creative South 🍑](https://dribbble.com/shots/20977312)
 - [Wander Dashboard](https://dribbble.com/shots/20986158)
 - [FYNSEC - Website design for cybersecurity company](https://dribbble.com/shots/20944059)
