@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] I&#39;ve got an ML job but I have some questions](https://www.reddit.com/r/MachineLearning/comments/120l93t/d_ive_got_an_ml_job_but_i_have_some_questions/)
 - [[N] Critical exploit in MLflow](https://www.reddit.com/r/MachineLearning/comments/120iklh/n_critical_exploit_in_mlflow/)
 - [[P] Reinforcement learning evolutionary hyperparameter optimization - 10x speed up](https://www.reddit.com/r/MachineLearning/comments/120h120/p_reinforcement_learning_evolutionary/)
 - [[D] I just realised: GPT-4 with image input can interpret any computer screen, any userinterface and any combination of them.](https://www.reddit.com/r/MachineLearning/comments/120guce/d_i_just_realised_gpt4_with_image_input_can/)
 - [Reminder: Use the report button and read the rules!](https://www.reddit.com/r/MachineLearning/comments/120f4oy/reminder_use_the_report_button_and_read_the_rules/)
+- [[R] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity](https://www.reddit.com/r/MachineLearning/comments/120el87/r_artificial_muses_generative_artificial/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
