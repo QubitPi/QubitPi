@@ -306,10 +306,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[P] Playing Pokémon battles with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/120spol/p_playing_pokémon_battles_with_chatgpt/)
-- [[N] Remote file access vulnerability in `mlflow server` and `mlflow ui` CLIs ⚠️ ⚠️](https://www.reddit.com/r/MachineLearning/comments/120sg4g/n_remote_file_access_vulnerability_in_mlflow/)
 - [[D] There should not be &quot;handoff&quot; of the model between the Data Science team and the Platform team](https://www.reddit.com/r/MachineLearning/comments/120rvm5/d_there_should_not_be_handoff_of_the_model/)
 - [[D] Salary for Machine Learning Researcher with PhD?](https://www.reddit.com/r/MachineLearning/comments/120rfxd/d_salary_for_machine_learning_researcher_with_phd/)
 - [[D] Speeding up multiclass classification ML model with 100+ features?](https://www.reddit.com/r/MachineLearning/comments/120r8pb/d_speeding_up_multiclass_classification_ml_model/)
+- [[P] CUDA accelerated implementation of K-Planes and CoBaFa &lpar;recent NeRF techniques&rpar;](https://www.reddit.com/r/MachineLearning/comments/120nisq/p_cuda_accelerated_implementation_of_kplanes_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
