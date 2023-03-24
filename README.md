@@ -478,11 +478,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Vijaya Durga N’s blog is an introduction to creating a graph data model, querying, and visualizing using Neo4j Browser and Neo4j Bloom. Take a look a...](https://twitter.com/neo4j/status/1639371541837414400)
 - [RT Daniel CF Ng: JOIN US FOR #GraphMeetUp at #GraphSummit2023 at :- - May 3: #Sydney https://lnkd.in/g2Djbr_8 - May 9: #Melbourne https://lnkd.in/gHmy...](https://twitter.com/danielcfng/status/1639298032385785856)
 - [Don&#39;t miss the financial crimes webinar in collaboration with @experoinc where you&#39;ll see a demo of their financial crimes application powered by #Neo...](https://twitter.com/neo4j/status/1638958050341163008)
 - [The @CSX eam uses Neo4j to run a centralized repository of shipment data represented through a near-real-time graph to provide more accurate and granu...](https://twitter.com/neo4j/status/1638926097965543430)
 - [http://GraphStuff.fm: Innovation Vertex https://twitter.com/i/broadcasts/1lPKqBpaeDmGb](https://twitter.com/neo4j/status/1638918082549927936)
-- [💥 The @CSX team uses Neo4j to run a centralized repository of shipment data represented through a near-real-time graph to provide more accurate and...](https://twitter.com/neo4j/status/1638903720510623746)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
