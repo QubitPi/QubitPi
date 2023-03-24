@@ -306,10 +306,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity](https://www.reddit.com/r/MachineLearning/comments/120el87/r_artificial_muses_generative_artificial/)
-- [[P] has anyone seen steve.ai](https://www.reddit.com/r/MachineLearning/comments/120dlyh/p_has_anyone_seen_steveai/)
 - [[P] Attention all drivers! 🚗💨 Want to predict driving behavior using Machine Learning? Check out this project!](https://www.reddit.com/r/MachineLearning/comments/120d8hi/p_attention_all_drivers_want_to_predict_driving/)
 - [[D] Are there any methods to deal with false-negatives in a binary classification problem?](https://www.reddit.com/r/MachineLearning/comments/120cy4r/d_are_there_any_methods_to_deal_with/)
 - [[P] ChatGPT with GPT-2: A minimum example of aligning language models with RLHF similar to ChatGPT](https://www.reddit.com/r/MachineLearning/comments/120csub/p_chatgpt_with_gpt2_a_minimum_example_of_aligning/)
+- [[D] is it possible to use encodings from the vggface2 for face swap](https://www.reddit.com/r/MachineLearning/comments/1205ij6/d_is_it_possible_to_use_encodings_from_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
