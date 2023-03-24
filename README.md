@@ -548,7 +548,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Puzzle Website Design: business landing web page, site designer](https://dribbble.com/shots/20715142)
 - [Wander Dashboard](https://dribbble.com/shots/20986158)
 - [Creative South 🍑](https://dribbble.com/shots/20977312)
-- [FYNSEC - Website design for cybersecurity company](https://dribbble.com/shots/20944059)
+- [Digest](https://dribbble.com/shots/20977447)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
