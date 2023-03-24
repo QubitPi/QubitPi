@@ -458,11 +458,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1639352133995864064)
 - [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ h...](https://twitter.com/memgraphdb/status/1639328223522877440)
 - [🚨 Facing an emergency landing? Find the nearest airport quickly with Memgraph Lab! #EmergencyLanding #AirTravelSafety 🛬 #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1639314133631008768)
 - [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1639310355049639937)
 - [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1639287706826973192)
+- [🌊 Visualize the impact of undersea cable damages on global internet connectivity using dynamic betweenness centrality and Memgraph&#39;s MAGE. #GraphAl...](https://twitter.com/memgraphdb/status/1639269334517268480)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
