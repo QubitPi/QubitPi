@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.reddit.com/r/MachineLearning/comments/120usfk/r_hello_dolly_democratizing_the_magic_of_chatgpt/)
 - [[D] Research area for going into MLE](https://www.reddit.com/r/MachineLearning/comments/120tzev/d_research_area_for_going_into_mle/)
 - [[P] DDPG using Transformers](https://www.reddit.com/r/MachineLearning/comments/120trcm/p_ddpg_using_transformers/)
 - [[P] Playing Pokémon battles with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/120spol/p_playing_pokémon_battles_with_chatgpt/)
 - [[D] There should not be &quot;handoff&quot; of the model between the Data Science team and the Platform team](https://www.reddit.com/r/MachineLearning/comments/120rvm5/d_there_should_not_be_handoff_of_the_model/)
-- [[D] Salary for Machine Learning Researcher with PhD?](https://www.reddit.com/r/MachineLearning/comments/120rfxd/d_salary_for_machine_learning_researcher_with_phd/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
