@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] ChatGPT with GPT-2: A minimum example of aligning language models with RLHF similar to ChatGPT](https://www.reddit.com/r/MachineLearning/comments/120csub/p_chatgpt_with_gpt2_a_minimum_example_of_aligning/)
 - [[D]: Learning from data](https://www.reddit.com/r/MachineLearning/comments/120a9gp/d_learning_from_data/)
 - [[D] is it possible to use encodings from the vggface2 for face swap](https://www.reddit.com/r/MachineLearning/comments/1205ij6/d_is_it_possible_to_use_encodings_from_the/)
 - [[D] &quot;Sparks of Artificial General Intelligence: Early experiments with GPT-4&quot; contained unredacted comments](https://www.reddit.com/r/MachineLearning/comments/1200lgr/d_sparks_of_artificial_general_intelligence_early/)
 - [[D] Ben Eysenbach, CMU: On designing simpler and more principled RL algorithms](https://www.reddit.com/r/MachineLearning/comments/12000z1/d_ben_eysenbach_cmu_on_designing_simpler_and_more/)
-- [[D] What is the best open source chatbot AI to do transfer learning on?](https://www.reddit.com/r/MachineLearning/comments/11zzgzc/d_what_is_the_best_open_source_chatbot_ai_to_do/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
