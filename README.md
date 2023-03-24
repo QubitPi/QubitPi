@@ -305,11 +305,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] There should not be &quot;handoff&quot; of the model between the Data Science team and the Platform team](https://www.reddit.com/r/MachineLearning/comments/120rvm5/d_there_should_not_be_handoff_of_the_model/)
 - [[D] Salary for Machine Learning Researcher with PhD?](https://www.reddit.com/r/MachineLearning/comments/120rfxd/d_salary_for_machine_learning_researcher_with_phd/)
 - [[D] Speeding up multiclass classification ML model with 100+ features?](https://www.reddit.com/r/MachineLearning/comments/120r8pb/d_speeding_up_multiclass_classification_ml_model/)
 - [[P] CUDA accelerated implementation of K-Planes and CoBaFa &lpar;recent NeRF techniques&rpar;](https://www.reddit.com/r/MachineLearning/comments/120nisq/p_cuda_accelerated_implementation_of_kplanes_and/)
 - [[D] Is there a way to &quot;clone&quot; or change a voice to sound like another without using TTS models?](https://www.reddit.com/r/MachineLearning/comments/120ncun/d_is_there_a_way_to_clone_or_change_a_voice_to/)
-- [[N] Critical exploit in MLflow](https://www.reddit.com/r/MachineLearning/comments/120iklh/n_critical_exploit_in_mlflow/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
