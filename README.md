@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Discover 3 powerful queries for finding hidden patterns in your #KnowledgeGraph! Uncover fraudulent activities &amp; alternative actions for guarante...](https://twitter.com/memgraphdb/status/1639673760943833089)
+- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1639669976079429632)
+- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1639650097083600901)
 - [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. htt...](https://twitter.com/memgraphdb/status/1639640279232958464)
 - [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1639602281732788224)
-- [🎓 Building a recommendation engine is never an easy task. An important factor is the speed at which the recommendations are given to the customers....](https://twitter.com/memgraphdb/status/1639584159143428096)
-- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1639576863604629504)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1639566293530734592)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
