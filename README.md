@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Poet GPT: Generate acrostic texts with GPT-4](https://www.reddit.com/r/MachineLearning/comments/121oryr/p_poet_gpt_generate_acrostic_texts_with_gpt4/)
 - [[D] What happens if you give as input to bard or GPT4 an ASCII version of a screenshot of a video game and ask it from what game it has been taken or to describe the next likely action or the input?](https://www.reddit.com/r/MachineLearning/comments/121nwoi/d_what_happens_if_you_give_as_input_to_bard_or/)
 - [[D] Keeping track of ML advancements](https://www.reddit.com/r/MachineLearning/comments/121mvp5/d_keeping_track_of_ml_advancements/)
 - [[P] Generating and annotating a large semi-synthetics image dataset in seconds with videos processed by salient extract.](https://www.reddit.com/r/MachineLearning/comments/121lc7i/p_generating_and_annotating_a_large/)
 - [[D] Is there _any_ open source or hosted alternative to WebGPT, the web browsing LLM? I&#39;ve managed to reproduce a lot of it with langchain but it&#39;s not as powerful.](https://www.reddit.com/r/MachineLearning/comments/121kerr/d_is_there_any_open_source_or_hosted_alternative/)
-- [[D] Do you use a website or program to organise and annotate your papers?](https://www.reddit.com/r/MachineLearning/comments/121k5og/d_do_you_use_a_website_or_program_to_organise_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
