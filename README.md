@@ -307,10 +307,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Can the Databricks Dolly model be downloaded from somewhere?](https://www.reddit.com/r/MachineLearning/comments/121ueww/d_can_the_databricks_dolly_model_be_downloaded/)
-- [[News] Lex Friedman interview with Sam Altman has just been published](https://www.reddit.com/r/MachineLearning/comments/121uc9x/news_lex_friedman_interview_with_sam_altman_has/)
 - [[R] Researchers Use AI to Generate Images Based on People&#39;s Brain Activity](https://www.reddit.com/r/MachineLearning/comments/121u5ik/r_researchers_use_ai_to_generate_images_based_on/)
 - [[Discussion] ML-algorithm for text -classification wanted](https://www.reddit.com/r/MachineLearning/comments/121tsv0/discussion_mlalgorithm_for_text_classification/)
 - [[P] A &#39;ChatGPT Interface&#39; to Explore Your ML Datasets -&gt; app.activeloop.ai](https://www.reddit.com/r/MachineLearning/comments/121t6tp/p_a_chatgpt_interface_to_explore_your_ml_datasets/)
+- [[P] Moonshine – open-source, pretrained ML models for satellite data](https://www.reddit.com/r/MachineLearning/comments/121rng8/p_moonshine_opensource_pretrained_ml_models_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
