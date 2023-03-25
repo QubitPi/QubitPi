@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[News] Lex Friedman interview with Sam Altman has just been published](https://www.reddit.com/r/MachineLearning/comments/121uc9x/news_lex_friedman_interview_with_sam_altman_has/)
+- [[R] Researchers Use AI to Generate Images Based on People&#39;s Brain Activity](https://www.reddit.com/r/MachineLearning/comments/121u5ik/r_researchers_use_ai_to_generate_images_based_on/)
+- [[Discussion] ML-algorithm for text -classification wanted](https://www.reddit.com/r/MachineLearning/comments/121tsv0/discussion_mlalgorithm_for_text_classification/)
 - [[P] A &#39;ChatGPT Interface&#39; to Explore Your ML Datasets -&gt; app.activeloop.ai](https://www.reddit.com/r/MachineLearning/comments/121t6tp/p_a_chatgpt_interface_to_explore_your_ml_datasets/)
 - [[P] Moonshine – open-source, pretrained ML models for satellite data](https://www.reddit.com/r/MachineLearning/comments/121rng8/p_moonshine_opensource_pretrained_ml_models_for/)
-- [[R] Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators demo is out](https://www.reddit.com/r/MachineLearning/comments/121r1he/r_text2videozero_texttoimage_diffusion_models_are/)
-- [[P] Poet GPT: Generate acrostic texts with GPT-4](https://www.reddit.com/r/MachineLearning/comments/121oryr/p_poet_gpt_generate_acrostic_texts_with_gpt4/)
-- [[D] What happens if you give as input to bard or GPT4 an ASCII version of a screenshot of a video game and ask it from what game it has been taken or to describe the next likely action or the input?](https://www.reddit.com/r/MachineLearning/comments/121nwoi/d_what_happens_if_you_give_as_input_to_bard_or/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
