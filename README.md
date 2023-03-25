@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1639576863604629504)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1639566293530734592)
 - [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1639527787487952899)
 - [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1639517218131288064)
 - [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. https://memgraph.com/blog/data-persis...](https://twitter.com/memgraphdb/status/1639502625971507201)
+- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1639352133995864064)
+- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ h...](https://twitter.com/memgraphdb/status/1639328223522877440)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
