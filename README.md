@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1639710240764567552)
 - [⚡️ Find out how iCentral, a fast and efficient online algorithm for betweenness centrality, can help analyze infrastructure networks in real-time. #...](https://twitter.com/memgraphdb/status/1639692626638036992)
 - [🔍 Discover 3 powerful queries for finding hidden patterns in your #KnowledgeGraph! Uncover fraudulent activities &amp; alternative actions for guarante...](https://twitter.com/memgraphdb/status/1639673760943833089)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1639669976079429632)
 - [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1639650097083600901)
+- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. htt...](https://twitter.com/memgraphdb/status/1639640279232958464)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
