@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Machine Learning with Python, Complete Tutorial](https://www.reddit.com/r/MachineLearning/comments/121wmcj/r_machine_learning_with_python_complete_tutorial/)
+- [[R] Instruct-NeRF2NeRF enables instruction-based editing of NeRFs via a 2D diffusion model](https://www.reddit.com/r/MachineLearning/comments/121wa1a/r_instructnerf2nerf_enables_instructionbased/)
 - [[P] Can I do better than this? [Image near-duplicate and similarities clustering]](https://www.reddit.com/r/MachineLearning/comments/121v5st/p_can_i_do_better_than_this_image_nearduplicate/)
 - [[D] Can the Databricks Dolly model be downloaded from somewhere?](https://www.reddit.com/r/MachineLearning/comments/121ueww/d_can_the_databricks_dolly_model_be_downloaded/)
 - [[R] Researchers Use AI to Generate Images Based on People&#39;s Brain Activity](https://www.reddit.com/r/MachineLearning/comments/121u5ik/r_researchers_use_ai_to_generate_images_based_on/)
-- [[Discussion] ML-algorithm for text -classification wanted](https://www.reddit.com/r/MachineLearning/comments/121tsv0/discussion_mlalgorithm_for_text_classification/)
-- [[P] A &#39;ChatGPT Interface&#39; to Explore Your ML Datasets -&gt; app.activeloop.ai](https://www.reddit.com/r/MachineLearning/comments/121t6tp/p_a_chatgpt_interface_to_explore_your_ml_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
