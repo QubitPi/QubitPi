@@ -58,7 +58,7 @@ _Open Innovation_ as Career
 <img width="64px" src="https://user-images.githubusercontent.com/16126939/185549037-0ecd8d29-a3bc-4aa2-855f-7bd8be51ed93.png">&nbsp;&nbsp;<img width="64px" src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif">
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr"><img width="80px" alt="宵宫" src="https://user-images.githubusercontent.com/16126939/185546834-96a832ef-4b2f-4608-a30c-2203dc2c9096.png"></a><a href="https://www.bilibili.com/video/BV1cA4y1Q7ux"><img width="64px" alt="可莉" src="https://user-images.githubusercontent.com/16126939/185545324-6d715e4f-e70d-4288-8cc4-062df5d917ea.png"></a><img width="64px" src="https://user-images.githubusercontent.com/16126939/185545446-1a03d218-45c2-4291-aa51-87bd5c9f6289.png"><img width="80px" src="https://user-images.githubusercontent.com/16126939/185549941-f3071a7b-0223-4df5-a347-19d86170c598.png"><img width="80px" src="https://user-images.githubusercontent.com/16126939/197099068-dea9efc1-59f2-490b-a22f-8c9ace13c2d9.png">
 
-[_为世间所有的美好而努力_ / _May you, the beauty of this world, always shaine_](https://www.bilibili.com/video/BV1E24y1E7Up)
+[_为世间所有的美好而努力_ / _May you, the beauty of this world, always shine](https://www.bilibili.com/video/BV1E24y1E7Up)
 </div>
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
