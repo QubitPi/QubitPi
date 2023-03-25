@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [A Guide to Querying Neo4j Graph Database in Pandas/SQL Style Using Cypher📢 https://okt.to/Agwx1M #Neo4j #graphdatabases #cypher https://t.co/nd9wXe...](https://twitter.com/neo4j/status/1639658458193575939)
-- [Learn about #KnowledgeGraphs! Tiroshan Madushanka explores how a knowledge graph about movies represents the actors, directors, producers, and studios...](https://twitter.com/neo4j/status/1639641812058144768)
 - [Vijaya Durga N’s blog is an introduction to creating a graph data model, querying, and visualizing using Neo4j Browser and Neo4j Bloom. Take a look a...](https://twitter.com/neo4j/status/1639371541837414400)
 - [RT Daniel CF Ng: JOIN US FOR #GraphMeetUp at #GraphSummit2023 at :- - May 3: #Sydney https://lnkd.in/g2Djbr_8 - May 9: #Melbourne https://lnkd.in/gHmy...](https://twitter.com/danielcfng/status/1639298032385785856)
 - [Don&#39;t miss the financial crimes webinar in collaboration with @experoinc where you&#39;ll see a demo of their financial crimes application powered by #Neo...](https://twitter.com/neo4j/status/1638958050341163008)
+- [The @CSX eam uses Neo4j to run a centralized repository of shipment data represented through a near-real-time graph to provide more accurate and granu...](https://twitter.com/neo4j/status/1638926097965543430)
+- [http://GraphStuff.fm: Innovation Vertex https://twitter.com/i/broadcasts/1lPKqBpaeDmGb](https://twitter.com/neo4j/status/1638918082549927936)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
