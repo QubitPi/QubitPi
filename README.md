@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there _any_ open source or hosted alternative to WebGPT, the web browsing LLM? I&#39;ve managed to reproduce a lot of it with langchain but it&#39;s not as powerful.](https://www.reddit.com/r/MachineLearning/comments/121kerr/d_is_there_any_open_source_or_hosted_alternative/)
 - [[D] Do you use a website or program to organise and annotate your papers?](https://www.reddit.com/r/MachineLearning/comments/121k5og/d_do_you_use_a_website_or_program_to_organise_and/)
 - [[D]: Different data normalisation schemes for GANs](https://www.reddit.com/r/MachineLearning/comments/121jylg/d_different_data_normalisation_schemes_for_gans/)
 - [Multimodal Learning Database for Respiratory Medicine [Research]](https://www.reddit.com/r/MachineLearning/comments/121jfsu/multimodal_learning_database_for_respiratory/)
 - [[N] Top 15 YouTube Channels to Level Up Your Machine Learning Skills - KDnuggets](https://www.reddit.com/r/MachineLearning/comments/121im97/n_top_15_youtube_channels_to_level_up_your/)
-- [[R] Labelled gender stereotypes dataset](https://www.reddit.com/r/MachineLearning/comments/121hqpy/r_labelled_gender_stereotypes_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
