@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Multimodal Learning Database for Respiratory Medicine [Research]](https://www.reddit.com/r/MachineLearning/comments/121jfsu/multimodal_learning_database_for_respiratory/)
 - [[N] Top 15 YouTube Channels to Level Up Your Machine Learning Skills - KDnuggets](https://www.reddit.com/r/MachineLearning/comments/121im97/n_top_15_youtube_channels_to_level_up_your/)
 - [[R] Labelled gender stereotypes dataset](https://www.reddit.com/r/MachineLearning/comments/121hqpy/r_labelled_gender_stereotypes_dataset/)
 - [[R] Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://www.reddit.com/r/MachineLearning/comments/121gxag/r_text2videozero_texttoimage_diffusion_models_are/)
 - [[R] Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://www.reddit.com/r/MachineLearning/comments/121guys/r_text2room_extracting_textured_3d_meshes_from_2d/)
-- [[R] Is there a diffusion-based model that inpaints with image prompt?](https://www.reddit.com/r/MachineLearning/comments/121f1jp/r_is_there_a_diffusionbased_model_that_inpaints/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
