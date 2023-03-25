@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] New paper in Nature Medicine describes how NarxCare can result in inequitable outcomes for patient groups based on how they have implemented variables with ML](https://www.reddit.com/r/MachineLearning/comments/121x2yi/r_new_paper_in_nature_medicine_describes_how/)
 - [[R] Machine Learning with Python, Complete Tutorial](https://www.reddit.com/r/MachineLearning/comments/121wmcj/r_machine_learning_with_python_complete_tutorial/)
 - [[R] Instruct-NeRF2NeRF enables instruction-based editing of NeRFs via a 2D diffusion model](https://www.reddit.com/r/MachineLearning/comments/121wa1a/r_instructnerf2nerf_enables_instructionbased/)
 - [[P] Can I do better than this? [Image near-duplicate and similarities clustering]](https://www.reddit.com/r/MachineLearning/comments/121v5st/p_can_i_do_better_than_this_image_nearduplicate/)
 - [[D] Can the Databricks Dolly model be downloaded from somewhere?](https://www.reddit.com/r/MachineLearning/comments/121ueww/d_can_the_databricks_dolly_model_be_downloaded/)
-- [[R] Researchers Use AI to Generate Images Based on People&#39;s Brain Activity](https://www.reddit.com/r/MachineLearning/comments/121u5ik/r_researchers_use_ai_to_generate_images_based_on/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
