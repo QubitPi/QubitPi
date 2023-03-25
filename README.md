@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [What&#39;s holding you back from becoming an expert in all things graph? 🤔 ArangoDB has built our University to help you do just that. Check out our va...](https://twitter.com/arangodb/status/1639628221716250625)
 - [Powered by ArangoDB, @orange has created a staggering 51 million digital twins and counting! 🥑🔥 To learn more about their impressive use case, c...](https://twitter.com/arangodb/status/1639356422516531200)
 - [Identifying and preventing fraud is a complex problem for many industries where a high volume of transactional data is difficult to trace. 🥑🔥 Th...](https://twitter.com/arangodb/status/1639220581206999040)
 - [Learn more about how to graph analytics can transform enterprise data protection. This article discusses using graph analytics to secure and store dat...](https://twitter.com/arangodb/status/1638994047573577728)
 - [2023 is the year of the graph, and we want to ensure you get your fill of graph database content. 😎 Learn how Orange&#39;s Thing in the Future uses the...](https://twitter.com/arangodb/status/1638858143810850817)
-- [#Graph is the future of data modeling. Check out why graph databases are crucial and how ArangoDB is at the top of the #graphdatabase game. Learn more...](https://twitter.com/arangodb/status/1638631656524492800)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
