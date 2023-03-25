@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What do you think is the biggest ethical dilemma facing AI development today?](https://www.reddit.com/r/MachineLearning/comments/121ahjs/d_what_do_you_think_is_the_biggest_ethical/)
 - [[D] Do we really need 100B+ parameters in a large language model?](https://www.reddit.com/r/MachineLearning/comments/121a8p4/d_do_we_really_need_100b_parameters_in_a_large/)
 - [Alpaca 7B Training - $75/Hour --&gt; Bay Area? [P]](https://www.reddit.com/r/MachineLearning/comments/1219c01/alpaca_7b_training_75hour_bay_area_p/)
 - [[P] DAD-3DHeads Annotation Process](https://www.reddit.com/r/MachineLearning/comments/1218k6d/p_dad3dheads_annotation_process/)
 - [[D] ML code project to extract text and speaker from podcast video?](https://www.reddit.com/r/MachineLearning/comments/1217ch1/d_ml_code_project_to_extract_text_and_speaker/)
-- [[R] Reflexion: an autonomous agent with dynamic memory and self-reflection - Noah Shinn et al 2023 Northeastern University Boston - Outperforms GPT-4 on HumanEval accuracy &lpar;0.67 --&gt; 0.88&rpar;!](https://www.reddit.com/r/MachineLearning/comments/1215dbl/r_reflexion_an_autonomous_agent_with_dynamic/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
