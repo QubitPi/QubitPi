@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Ingredients of an Impeccable Benchmark](https://www.reddit.com/r/MachineLearning/comments/121z0yx/r_ingredients_of_an_impeccable_benchmark/)
 - [[N] OpenAI Vendor Lock-in: The Ironic Story of How OpenAI Went from Open Source to &quot;Open Your Wallet&quot;, and some FOSS alternatives you can try right now.](https://www.reddit.com/r/MachineLearning/comments/121yr50/n_openai_vendor_lockin_the_ironic_story_of_how/)
 - [[R] New paper in Nature Medicine describes how NarxCare can result in inequitable outcomes for patient groups based on how they have implemented variables with ML](https://www.reddit.com/r/MachineLearning/comments/121x2yi/r_new_paper_in_nature_medicine_describes_how/)
 - [[R] Machine Learning with Python, Complete Tutorial](https://www.reddit.com/r/MachineLearning/comments/121wmcj/r_machine_learning_with_python_complete_tutorial/)
 - [[R] Instruct-NeRF2NeRF enables instruction-based editing of NeRFs via a 2D diffusion model](https://www.reddit.com/r/MachineLearning/comments/121wa1a/r_instructnerf2nerf_enables_instructionbased/)
-- [[P] Can I do better than this? [Image near-duplicate and similarities clustering]](https://www.reddit.com/r/MachineLearning/comments/121v5st/p_can_i_do_better_than_this_image_nearduplicate/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
