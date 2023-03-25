@@ -310,7 +310,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[N] March 2023 - Recent Instruction/Chat-Based Models and their parents](https://www.reddit.com/r/MachineLearning/comments/121domd/n_march_2023_recent_instructionchatbased_models/)
 - [[D] ChatGpt plugins: are tech innovators feeding a beast that may ultimately devour them?](https://www.reddit.com/r/MachineLearning/comments/121deu6/d_chatgpt_plugins_are_tech_innovators_feeding_a/)
 - [[P] Apple Photo Scores: AI Judges Your Photos](https://www.reddit.com/r/MachineLearning/comments/121dal8/p_apple_photo_scores_ai_judges_your_photos/)
-- [[D] What do you think is the biggest ethical dilemma facing AI development today?](https://www.reddit.com/r/MachineLearning/comments/121ahjs/d_what_do_you_think_is_the_biggest_ethical/)
+- [[D] Do we really need 100B+ parameters in a large language model?](https://www.reddit.com/r/MachineLearning/comments/121a8p4/d_do_we_really_need_100b_parameters_in_a_large/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
