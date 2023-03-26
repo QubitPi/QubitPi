@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Join #AWS and #Neo4j for our upcoming Dev Day, where you&#39;ll learn, how to easily deploy the Neo4j graph database from the AWS Marketplace and more! Re...](https://twitter.com/neo4j/status/1640066125739307010)
 - [If you are constantly switching between Microsoft Visual Studio Code and the Neo4j Browser when writing Cypher statements, you’ll appreciate the Neo4...](https://twitter.com/neo4j/status/1640044967283359750)
 - [Learn, learn, and learn!🖥 Thank you for coming to @agoda&#39;s workshop: GraphQL Gateway using Hot Chocolate &amp; #Neo4j :&rpar; in Bangkok 📍 Join the group...](https://twitter.com/neo4j/status/1639930235092172801)
 - [As the Life Sciences sector becomes increasingly data-driven, knowledge graph technology is helping companies uncover connections and insights from mu...](https://twitter.com/neo4j/status/1639688630229671937)
 - [A Guide to Querying Neo4j Graph Database in Pandas/SQL Style Using Cypher📢 https://okt.to/Agwx1M #Neo4j #graphdatabases #cypher https://t.co/nd9wXe...](https://twitter.com/neo4j/status/1639658458193575939)
+- [Learn about #KnowledgeGraphs! Tiroshan Madushanka explores how a knowledge graph about movies represents the actors, directors, producers, and studios...](https://twitter.com/neo4j/status/1639641812058144768)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
