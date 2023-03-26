@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Angle Tracking for Football using Python and Mediapipe [P]](https://www.reddit.com/r/MachineLearning/comments/122hxmb/angle_tracking_for_football_using_python_and/)
 - [Is it possible to merge transformers? [D]](https://www.reddit.com/r/MachineLearning/comments/122fj05/is_it_possible_to_merge_transformers_d/)
 - [[D] Transition from classical computer vision engineer to machine learning engineer](https://www.reddit.com/r/MachineLearning/comments/122etks/d_transition_from_classical_computer_vision/)
 - [I made a chrome extension to make chatGPT bots from any web content in seconds [P]](https://www.reddit.com/r/MachineLearning/comments/122bju6/i_made_a_chrome_extension_to_make_chatgpt_bots/)
 - [[Discussion] I&#39;m amazed by the level of common sense a large language model has, GPT4&#39;s answer in this case seems to be very reasonable.](https://www.reddit.com/r/MachineLearning/comments/122a8zi/discussion_im_amazed_by_the_level_of_common_sense/)
-- [[D] Title: Best tools and frameworks for working with million-billion image datasets?](https://www.reddit.com/r/MachineLearning/comments/12285x7/d_title_best_tools_and_frameworks_for_working/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
