@@ -308,8 +308,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] How to get an MLE role?](https://www.reddit.com/r/MachineLearning/comments/122chtu/d_how_to_get_an_mle_role/)
 - [I made a chrome extension to make chatGPT bots from any web content in seconds [P]](https://www.reddit.com/r/MachineLearning/comments/122bju6/i_made_a_chrome_extension_to_make_chatgpt_bots/)
-- [[Discussion] I&#39;m amazed by the level of common sense a large language model has, GPT4&#39;s answer in this case seems to be very reasonable.](https://www.reddit.com/r/MachineLearning/comments/122a8zi/discussion_im_amazed_by_the_level_of_common_sense/)
 - [[D] Title: Best tools and frameworks for working with million-billion image datasets?](https://www.reddit.com/r/MachineLearning/comments/12285x7/d_title_best_tools_and_frameworks_for_working/)
+- [[D] Alternatives to Arxiv Sanity Lite?](https://www.reddit.com/r/MachineLearning/comments/12284vb/d_alternatives_to_arxiv_sanity_lite/)
 - [Graph networks for time series [D] [P]](https://www.reddit.com/r/MachineLearning/comments/1226aw3/graph_networks_for_time_series_d_p/)
 <!-- REDDIT-ML:END -->
 
