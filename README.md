@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Favorite tips for staying up to date with AI/Deep Learning research and news?](https://www.reddit.com/r/MachineLearning/comments/122r3sr/d_favorite_tips_for_staying_up_to_date_with/)
+- [[R] New article in Nature Medicine describes the risks of using an AI- &amp; ML-based tool known as NarxCare to guide opioid prescription decision making](https://www.reddit.com/r/MachineLearning/comments/122qsjp/r_new_article_in_nature_medicine_describes_the/)
 - [[P] Using ChatGPT plugins with LLaMA](https://www.reddit.com/r/MachineLearning/comments/122q3h7/p_using_chatgpt_plugins_with_llama/)
 - [[P] Alpaca-LoRA chat bot for Rocket.Chat](https://www.reddit.com/r/MachineLearning/comments/122ps0k/p_alpacalora_chat_bot_for_rocketchat/)
 - [[D] GPT4 and coding problems](https://www.reddit.com/r/MachineLearning/comments/122ppu0/d_gpt4_and_coding_problems/)
-- [Real-Time Push Up Tracking using Python and Mediapipe Tutorial [P]](https://www.reddit.com/r/MachineLearning/comments/122pi1m/realtime_push_up_tracking_using_python_and/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/122oxap/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
