@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1640061809246781440)
 - [🧠 Explore PyKEEN, the #Python library for building and evaluating knowledge graphs and embedding models. Featuring hyperparameter optimization and ...](https://twitter.com/memgraphdb/status/1640037901923655680)
 - [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? https://memg...](https://twitter.com/memgraphdb/status/1640023808978329602)
 - [🎓 To help make decisions, companies perform impact analyses or what-if scenarios. Based on the careful analysis of the provided data, the outcomes ...](https://twitter.com/memgraphdb/status/1640017266388467715)
 - [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1639977503153373185)
-- [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1639969703031451657)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
