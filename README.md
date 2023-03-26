@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] A.I learns to beat a challenging game from scratch](https://www.reddit.com/r/MachineLearning/comments/122oq6w/p_ai_learns_to_beat_a_challenging_game_from/)
+- [Tools for to solve domain gap between source and target data [D]](https://www.reddit.com/r/MachineLearning/comments/122ooez/tools_for_to_solve_domain_gap_between_source_and/)
 - [[N] GOOGLE’S BARD AI CREDIBLY ACCUSED OF PLAGIARIZING WITHOUT CREDIT](https://www.reddit.com/r/MachineLearning/comments/122mlh8/n_googles_bard_ai_credibly_accused_of/)
 - [[D] Best practices for fine-tuning NLP models for prompt-based applications?](https://www.reddit.com/r/MachineLearning/comments/122mc1c/d_best_practices_for_finetuning_nlp_models_for/)
 - [Angle Tracking for Football using Python and Mediapipe [P]](https://www.reddit.com/r/MachineLearning/comments/122hxmb/angle_tracking_for_football_using_python_and/)
-- [Is it possible to merge transformers? [D]](https://www.reddit.com/r/MachineLearning/comments/122fj05/is_it_possible_to_merge_transformers_d/)
-- [I made a chrome extension to make chatGPT bots from any web content in seconds [P]](https://www.reddit.com/r/MachineLearning/comments/122bju6/i_made_a_chrome_extension_to_make_chatgpt_bots/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
