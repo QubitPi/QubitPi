@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [I made a chrome extension to make chatGPT bots from any web content in seconds [P]](https://www.reddit.com/r/MachineLearning/comments/122bju6/i_made_a_chrome_extension_to_make_chatgpt_bots/)
 - [[Discussion] I&#39;m amazed by the level of common sense a large language model has, GPT4&#39;s answer in this case seems to be very reasonable.](https://www.reddit.com/r/MachineLearning/comments/122a8zi/discussion_im_amazed_by_the_level_of_common_sense/)
 - [[D] Title: Best tools and frameworks for working with million-billion image datasets?](https://www.reddit.com/r/MachineLearning/comments/12285x7/d_title_best_tools_and_frameworks_for_working/)
 - [[D] Alternatives to Arxiv Sanity Lite?](https://www.reddit.com/r/MachineLearning/comments/12284vb/d_alternatives_to_arxiv_sanity_lite/)
 - [[R] In-hand object rotation with only tactile sensing, without seeing](https://www.reddit.com/r/MachineLearning/comments/1225qg1/r_inhand_object_rotation_with_only_tactile/)
-- [[D] Attention/transformer encoder for small tokens](https://www.reddit.com/r/MachineLearning/comments/1225bef/d_attentiontransformer_encoder_for_small_tokens/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
