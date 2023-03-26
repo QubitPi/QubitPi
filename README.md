@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] BLLR](https://www.reddit.com/r/MachineLearning/comments/1234bce/d_bllr/)
+- [[D] Definitive Test For AGI](https://www.reddit.com/r/MachineLearning/comments/1234air/d_definitive_test_for_agi/)
+- [[D][R] BLLR - Logistic Liniar Regression](https://www.reddit.com/r/MachineLearning/comments/1234a66/dr_bllr_logistic_liniar_regression/)
 - [[D] E-Commerce Dataset for Product Recommendation](https://www.reddit.com/r/MachineLearning/comments/1233pzh/d_ecommerce_dataset_for_product_recommendation/)
 - [In-depth analysis of five latest research papers on Auto-Exposure algorithms. [D]](https://www.reddit.com/r/MachineLearning/comments/1232gge/indepth_analysis_of_five_latest_research_papers/)
-- [[D] Build a ChatGPT from zero](https://www.reddit.com/r/MachineLearning/comments/12327d1/d_build_a_chatgpt_from_zero/)
-- [[D] Alternatives to double-blind reviewing?](https://www.reddit.com/r/MachineLearning/comments/122vt2h/d_alternatives_to_doubleblind_reviewing/)
-- [[P] SimpleAI : A self-hosted alternative to OpenAI API](https://www.reddit.com/r/MachineLearning/comments/122tddh/p_simpleai_a_selfhosted_alternative_to_openai_api/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
