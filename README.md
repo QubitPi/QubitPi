@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. https://memgraph.com/blog...](https://twitter.com/memgraphdb/status/1639948811572314113)
+- [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1639925660964597761)
+- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1639913582321188866)
 - [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1639889170163179523)
 - [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1639864506732933121)
-- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. https://memgraph.com/blog/manage-...](https://twitter.com/memgraphdb/status/1639841859844358146)
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1639710240764567552)
-- [⚡️ Find out how iCentral, a fast and efficient online algorithm for betweenness centrality, can help analyze infrastructure networks in real-time. #...](https://twitter.com/memgraphdb/status/1639692626638036992)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
