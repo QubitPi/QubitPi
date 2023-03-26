@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] SimpleAI : A self-hosted alternative to OpenAI API](https://www.reddit.com/r/MachineLearning/comments/122tddh/p_simpleai_a_selfhosted_alternative_to_openai_api/)
 - [Have deepfakes become so realistic that they can fool people into thinking they are genuine? [D]](https://www.reddit.com/r/MachineLearning/comments/122t1b5/have_deepfakes_become_so_realistic_that_they_can/)
 - [[D] Favorite tips for staying up to date with AI/Deep Learning research and news?](https://www.reddit.com/r/MachineLearning/comments/122r3sr/d_favorite_tips_for_staying_up_to_date_with/)
 - [[R] New article in Nature Medicine describes the risks of using an AI- &amp; ML-based tool known as NarxCare to guide opioid prescription decision making](https://www.reddit.com/r/MachineLearning/comments/122qsjp/r_new_article_in_nature_medicine_describes_the/)
 - [[P] Using ChatGPT plugins with LLaMA](https://www.reddit.com/r/MachineLearning/comments/122q3h7/p_using_chatgpt_plugins_with_llama/)
-- [[P] Alpaca-LoRA chat bot for Rocket.Chat](https://www.reddit.com/r/MachineLearning/comments/122ps0k/p_alpacalora_chat_bot_for_rocketchat/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
