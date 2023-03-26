@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [In-depth analysis of five latest research papers on Auto-Exposure algorithms. [D]](https://www.reddit.com/r/MachineLearning/comments/1232gge/indepth_analysis_of_five_latest_research_papers/)
 - [[D] Build a ChatGPT from zero](https://www.reddit.com/r/MachineLearning/comments/12327d1/d_build_a_chatgpt_from_zero/)
 - [[D] Alternatives to double-blind reviewing?](https://www.reddit.com/r/MachineLearning/comments/122vt2h/d_alternatives_to_doubleblind_reviewing/)
 - [[P] SimpleAI : A self-hosted alternative to OpenAI API](https://www.reddit.com/r/MachineLearning/comments/122tddh/p_simpleai_a_selfhosted_alternative_to_openai_api/)
 - [Have deepfakes become so realistic that they can fool people into thinking they are genuine? [D]](https://www.reddit.com/r/MachineLearning/comments/122t1b5/have_deepfakes_become_so_realistic_that_they_can/)
-- [[D] Favorite tips for staying up to date with AI/Deep Learning research and news?](https://www.reddit.com/r/MachineLearning/comments/122r3sr/d_favorite_tips_for_staying_up_to_date_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
