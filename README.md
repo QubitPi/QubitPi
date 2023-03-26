@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1639977503153373185)
+- [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1639969703031451657)
 - [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. https://memgraph.com/blog...](https://twitter.com/memgraphdb/status/1639948811572314113)
 - [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1639925660964597761)
 - [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1639913582321188866)
-- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1639889170163179523)
-- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1639864506732933121)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
