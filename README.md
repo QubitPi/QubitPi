@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D]Suggestions on keeping Llama index cost down](https://www.reddit.com/r/MachineLearning/comments/123j77g/dsuggestions_on_keeping_llama_index_cost_down/)
+- [[D] A Handbook on modern or classical&lpar;but still viable&rpar; AI algorithms not focused exclusively on NNs?](https://www.reddit.com/r/MachineLearning/comments/123is8x/d_a_handbook_on_modern_or_classicalbut_still/)
 - [My ChatGPT Chrome Extension that saves conversations in .md files is finally approved by the Chrome Web Store. It&#39;s still and so will continue to be Open Source. [P]](https://www.reddit.com/r/MachineLearning/comments/123ingw/my_chatgpt_chrome_extension_that_saves/)
 - [ICML: Responding to reviewer after reviewer-author discussion period has passed? [D]](https://www.reddit.com/r/MachineLearning/comments/123gvu2/icml_responding_to_reviewer_after_reviewerauthor/)
 - [[D]GPT-4 might be able to tell you if it hallucinated](https://www.reddit.com/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/)
-- [[D] Will prompting the LLM to review it&#39;s own answer be any helpful to reduce chances of hallucinations? I tested couple of tricky questions and it seems it might work.](https://www.reddit.com/r/MachineLearning/comments/123b4f0/d_will_prompting_the_llm_to_review_its_own_answer/)
-- [[D] Can we train a decompiler?](https://www.reddit.com/r/MachineLearning/comments/123asbg/d_can_we_train_a_decompiler/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
