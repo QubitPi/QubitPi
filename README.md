@@ -307,10 +307,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [ICML: Responding to reviewer after reviewer-author discussion period has passed? [D]](https://www.reddit.com/r/MachineLearning/comments/123gvu2/icml_responding_to_reviewer_after_reviewerauthor/)
-- [[D] onehotencoding](https://www.reddit.com/r/MachineLearning/comments/123giou/d_onehotencoding/)
-- [[D][R] Research paper - BLLR &quot; Budd´s Logistic Liniear Regression&quot; - A hybrid algorithm.](https://www.reddit.com/r/MachineLearning/comments/123fdsr/dr_research_paper_bllr_budds_logistic_liniear/)
-- [[R] Introducing: ChatGPT Plugins! 😮😮](https://www.reddit.com/r/MachineLearning/comments/123e9i0/r_introducing_chatgpt_plugins/)
 - [[D]GPT-4 might be able to tell you if it hallucinated](https://www.reddit.com/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/)
+- [[D] Will prompting the LLM to review it&#39;s own answer be any helpful to reduce chances of hallucinations? I tested couple of tricky questions and it seems it might work.](https://www.reddit.com/r/MachineLearning/comments/123b4f0/d_will_prompting_the_llm_to_review_its_own_answer/)
+- [[D] Can we train a decompiler?](https://www.reddit.com/r/MachineLearning/comments/123asbg/d_can_we_train_a_decompiler/)
+- [[P] I built an ML tool visualize political narratives, moderation and bots throughout the entire history of r/politics](https://www.reddit.com/r/MachineLearning/comments/1236045/p_i_built_an_ml_tool_visualize_political/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
