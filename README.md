@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1640275969851138050)
-- [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1640258604899942400)
 - [🧪 Dive into the world of graph algorithms with these insightful articles. Learn about Node2Vec, PageRank, and more! #graphalgorithms #memgraph #dat...](https://twitter.com/memgraphdb/status/1640237467843325953)
 - [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph. https://memgraph.com/blog/networkx-developers...](https://twitter.com/memgraphdb/status/1640223121629126656)
 - [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1640204246317514752)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1640061809246781440)
+- [🧠 Explore PyKEEN, the #Python library for building and evaluating knowledge graphs and embedding models. Featuring hyperparameter optimization and ...](https://twitter.com/memgraphdb/status/1640037901923655680)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
