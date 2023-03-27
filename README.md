@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. http...](https://twitter.com/memgraphdb/status/1640424194222505999)
+- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1640400287427964928)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. https://memgraph.com/blog/manage-all-your-data-lineage-...](https://twitter.com/memgraphdb/status/1640384166217801729)
 - [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1640359770199662592)
 - [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. https://...](https://twitter.com/memgraphdb/status/1640341401849282560)
-- [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1640332088267137030)
-- [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1640311955150852097)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
