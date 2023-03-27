@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1640359770199662592)
+- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. https://...](https://twitter.com/memgraphdb/status/1640341401849282560)
+- [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1640332088267137030)
 - [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1640311955150852097)
 - [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1640293837716303872)
-- [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1640288048922361858)
-- [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1640275969851138050)
-- [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1640258604899942400)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
