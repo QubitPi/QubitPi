@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1640311955150852097)
-- [🚀 Memgraph’s streams feature helps simplify data ingestion by organizing component processes. You no longer need to funnel all data to one complex...](https://twitter.com/memgraphdb/status/1640293837716303872)
-- [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1640288048922361858)
 - [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1640275969851138050)
 - [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1640258604899942400)
+- [🧪 Dive into the world of graph algorithms with these insightful articles. Learn about Node2Vec, PageRank, and more! #graphalgorithms #memgraph #dat...](https://twitter.com/memgraphdb/status/1640237467843325953)
+- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph. https://memgraph.com/blog/networkx-developers...](https://twitter.com/memgraphdb/status/1640223121629126656)
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1640204246317514752)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
