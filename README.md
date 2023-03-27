@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] BLLR](https://www.reddit.com/r/MachineLearning/comments/1234bce/d_bllr/)
+- [[D] GPT Question Answering with Reasoning](https://www.reddit.com/r/MachineLearning/comments/1234qny/d_gpt_question_answering_with_reasoning/)
+- [[P] Stay Ahead of Scammers: A GPT-4 powered SMS bot to Keep You Safe from Phishing Texts](https://www.reddit.com/r/MachineLearning/comments/1234idq/p_stay_ahead_of_scammers_a_gpt4_powered_sms_bot/)
 - [[D] Definitive Test For AGI](https://www.reddit.com/r/MachineLearning/comments/1234air/d_definitive_test_for_agi/)
 - [[D][R] BLLR - Logistic Liniar Regression](https://www.reddit.com/r/MachineLearning/comments/1234a66/dr_bllr_logistic_liniar_regression/)
 - [[D] E-Commerce Dataset for Product Recommendation](https://www.reddit.com/r/MachineLearning/comments/1233pzh/d_ecommerce_dataset_for_product_recommendation/)
-- [In-depth analysis of five latest research papers on Auto-Exposure algorithms. [D]](https://www.reddit.com/r/MachineLearning/comments/1232gge/indepth_analysis_of_five_latest_research_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
