@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Data-centric Artificial Intelligence: A Survey](https://www.reddit.com/r/MachineLearning/comments/123nmdd/r_datacentric_artificial_intelligence_a_survey/)
+- [Approaches to add logical reasoning into LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/123nczy/approaches_to_add_logical_reasoning_into_llms_d/)
+- [[R] BLLR &quot;Budd´s Logistic Linear Regression&quot; - A hybrid algorithm for neural network](https://www.reddit.com/r/MachineLearning/comments/123mfpa/r_bllr_budds_logistic_linear_regression_a_hybrid/)
+- [[D] Have LLMs that have access to their prior hidden states been created, either through passing them in as inputs along with the tokens or some other form of long term memory?](https://www.reddit.com/r/MachineLearning/comments/123l8ly/d_have_llms_that_have_access_to_their_prior/)
 - [[D]Suggestions on keeping Llama index cost down](https://www.reddit.com/r/MachineLearning/comments/123j77g/dsuggestions_on_keeping_llama_index_cost_down/)
-- [[D] A Handbook on modern or classical&lpar;but still viable&rpar; AI algorithms not focused exclusively on NNs?](https://www.reddit.com/r/MachineLearning/comments/123is8x/d_a_handbook_on_modern_or_classicalbut_still/)
-- [My ChatGPT Chrome Extension that saves conversations in .md files is finally approved by the Chrome Web Store. It&#39;s still and so will continue to be Open Source. [P]](https://www.reddit.com/r/MachineLearning/comments/123ingw/my_chatgpt_chrome_extension_that_saves/)
-- [ICML: Responding to reviewer after reviewer-author discussion period has passed? [D]](https://www.reddit.com/r/MachineLearning/comments/123gvu2/icml_responding_to_reviewer_after_reviewerauthor/)
-- [[D]GPT-4 might be able to tell you if it hallucinated](https://www.reddit.com/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
