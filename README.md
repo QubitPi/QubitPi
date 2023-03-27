@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] two copies of gpt-3.5 &lpar;one playing as the oracle, and another as the guesser&rpar; performs poorly on the game of 20 Questions &lpar;68/1823&rpar;.](https://www.reddit.com/r/MachineLearning/comments/12435uq/p_two_copies_of_gpt35_one_playing_as_the_oracle/)
 - [[R] Is my ALiBi mask correct?](https://www.reddit.com/r/MachineLearning/comments/1240vfq/r_is_my_alibi_mask_correct/)
 - [[D] Unity vs Unreal for Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/123xwkz/d_unity_vs_unreal_for_machine_learning/)
 - [[D] 3d model generation](https://www.reddit.com/r/MachineLearning/comments/123xa6r/d_3d_model_generation/)
 - [[D] ICML2023 Review Experience Thread](https://www.reddit.com/r/MachineLearning/comments/123wjtv/d_icml2023_review_experience_thread/)
-- [[P] 🎉 Announcing Auto-Analyst: An open-source AI tool for data analytics! 🎉](https://www.reddit.com/r/MachineLearning/comments/123w6sv/p_announcing_autoanalyst_an_opensource_ai_tool/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
