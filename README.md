@@ -251,11 +251,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/777639915459444759><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/42acce8f1706fa5005a5b370be79194b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@朔夜时雨薰风@赫萝の蜜渍桃子@叁月橙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/777639915459444759)
 - [恭喜@酩酊踏雪行@雨重心残@此人无呼吸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/777268834582134840)
 - [互动抽奖 #原神# #神里绫人# #生日快乐# 许久不见了。 未曾想过会在清晨见到你呢。家妹常说稻妻这个时段适合散步，今日天色又美，但愿你是在闲散旅行而非为什么...](https://t.bilibili.com/777237953792442532)
 - [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.5版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/776592140998279220)
 - [#原神# #灵蕈棋阵# 旅行者们好呀，「灵蕈棋阵」活动即将于2023/03/23 10:00开启，旅行者们在首届「月莲杯驯兽师大赛」上结识的友人推出了全新游戏，加油完成挑战...](https://t.bilibili.com/775730360118935606)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「长柄武器·息灾」「单手剑·雾切之回光」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动...](https://t.bilibili.com/775476531870826498)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
