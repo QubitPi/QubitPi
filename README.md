@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [How do we foster a culture where people can be their whole selves here at Neo4j? Hear from a few of our fellow nodes in this video :&rpar; Don&#39;t forget to ...](https://twitter.com/neo4j/status/1640398708616339457)
 - [Learn the basics of #Neo4j #GraphDataScience and how it can help you to identify fraudulent activities faster. APAC: https://okt.to/1hNUQy EMEA: https...](https://twitter.com/neo4j/status/1640338040567545858)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1BdxYyMdMVyxX](https://twitter.com/neo4j/status/1640262594970931202)
 - [Join #AWS and #Neo4j for our upcoming Dev Day, where you&#39;ll learn, how to easily deploy the Neo4j graph database from the AWS Marketplace and more! Re...](https://twitter.com/neo4j/status/1640066125739307010)
 - [If you are constantly switching between Microsoft Visual Studio Code and the Neo4j Browser when writing Cypher statements, you’ll appreciate the Neo4...](https://twitter.com/neo4j/status/1640044967283359750)
-- [Learn, learn, and learn!🖥 Thank you for coming to @agoda&#39;s workshop: GraphQL Gateway using Hot Chocolate &amp; #Neo4j :&rpar; in Bangkok 📍 Join the group...](https://twitter.com/neo4j/status/1639930235092172801)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
