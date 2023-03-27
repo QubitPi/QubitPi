@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Introducing: ChatGPT Plugins! 😮😮](https://www.reddit.com/r/MachineLearning/comments/123e9i0/r_introducing_chatgpt_plugins/)
 - [[D]GPT-4 might be able to tell you if it hallucinated](https://www.reddit.com/r/MachineLearning/comments/123b66w/dgpt4_might_be_able_to_tell_you_if_it_hallucinated/)
 - [[D] Will prompting the LLM to review it&#39;s own answer be any helpful to reduce chances of hallucinations? I tested couple of tricky questions and it seems it might work.](https://www.reddit.com/r/MachineLearning/comments/123b4f0/d_will_prompting_the_llm_to_review_its_own_answer/)
 - [[D] Can we train a decompiler?](https://www.reddit.com/r/MachineLearning/comments/123asbg/d_can_we_train_a_decompiler/)
 - [[P] I built an ML tool visualize political narratives, moderation and bots throughout the entire history of r/politics](https://www.reddit.com/r/MachineLearning/comments/1236045/p_i_built_an_ml_tool_visualize_political/)
-- [[D] GPT Question Answering with Reasoning](https://www.reddit.com/r/MachineLearning/comments/1234qny/d_gpt_question_answering_with_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
