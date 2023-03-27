@@ -326,7 +326,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Creating a Personal Readme for Scrum Masters](https://www.scrum.org/resources/blog/creating-personal-readme-scrum-masters)
 - [Scrum im Selbststudium – Teil 16: Das Scrum Team übernimmt die Verantwortung, jeden Sprint ein wertvolles Inkrement bereitzustellen](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-16-das-scrum-team-ubernimmt-die-verantwortung-jeden)
-- [Checklist for better goals in Scrum &lpar;Sprint and Product&rpar;](https://www.scrum.org/resources/blog/checklist-better-goals-scrum-sprint-and-product)
+- [Checklist for Better Goals in Scrum &lpar;Sprint and Product&rpar;](https://www.scrum.org/resources/blog/checklist-better-goals-scrum-sprint-and-product)
 - [[VLOG] Comprehensive Explanation on Definition of Done and Increment](https://www.scrum.org/resources/blog/vlog-comprehensive-explanation-definition-done-and-increment)
 - [Definition of &#39;Done&#39;: Dysfunctions &amp; Tips](https://www.scrum.org/resources/blog/definition-done-dysfunctions-tips)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
