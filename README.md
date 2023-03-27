@@ -489,7 +489,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=hSttMcYxdKQ)
+- [Git Commit History - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=hSttMcYxdKQ)
 - [GraphStuff.fm: Innovation Vertex](https://www.youtube.com/watch?v=NS3xEFR1jCA)
 - [Training Series: Intermediate Cypher](https://www.youtube.com/watch?v=IJBTdWig564)
 - [Slice and Dice your Data with Neo4j Bloom](https://www.youtube.com/watch?v=9CEpvcCBuvc)
