@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] Predicting Finger Movement and Pressure with Machine Learning and Open Hardware Bracelet](https://www.reddit.com/r/MachineLearning/comments/123r591/n_predicting_finger_movement_and_pressure_with/)
 - [[D] Debugging mean collapse/suboptimal learning in deep regression models](https://www.reddit.com/r/MachineLearning/comments/123pu4o/d_debugging_mean_collapsesuboptimal_learning_in/)
 - [[D] Instruct Datasets for Commercial Use](https://www.reddit.com/r/MachineLearning/comments/123oovw/d_instruct_datasets_for_commercial_use/)
 - [What can be a cool final-year project on Large Language Models?[D]](https://www.reddit.com/r/MachineLearning/comments/123nvhx/what_can_be_a_cool_finalyear_project_on_large/)
 - [[R] Data-centric Artificial Intelligence: A Survey](https://www.reddit.com/r/MachineLearning/comments/123nmdd/r_datacentric_artificial_intelligence_a_survey/)
-- [Approaches to add logical reasoning into LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/123nczy/approaches_to_add_logical_reasoning_into_llms_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
