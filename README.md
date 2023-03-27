@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Instruct Datasets for Commercial Use](https://www.reddit.com/r/MachineLearning/comments/123oovw/d_instruct_datasets_for_commercial_use/)
 - [What can be a cool final-year project on Large Language Models?[D]](https://www.reddit.com/r/MachineLearning/comments/123nvhx/what_can_be_a_cool_finalyear_project_on_large/)
 - [[R] Data-centric Artificial Intelligence: A Survey](https://www.reddit.com/r/MachineLearning/comments/123nmdd/r_datacentric_artificial_intelligence_a_survey/)
 - [Approaches to add logical reasoning into LLMs [D]](https://www.reddit.com/r/MachineLearning/comments/123nczy/approaches_to_add_logical_reasoning_into_llms_d/)
 - [[R] BLLR &quot;Budd´s Logistic Linear Regression&quot; - A hybrid algorithm for neural network](https://www.reddit.com/r/MachineLearning/comments/123mfpa/r_bllr_budds_logistic_linear_regression_a_hybrid/)
-- [[D] Have LLMs that have access to their prior hidden states been created, either through passing them in as inputs along with the tokens or some other form of long term memory?](https://www.reddit.com/r/MachineLearning/comments/123l8ly/d_have_llms_that_have_access_to_their_prior/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
