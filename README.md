@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1640589285555306496)
+- [💰 Stay ahead of your competition by leveraging graph databases for your knowledge graphs. Learn the 4 reasons why Graph Tech is a game-changer. #kn...](https://twitter.com/memgraphdb/status/1640574689243193345)
 - [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. http...](https://twitter.com/memgraphdb/status/1640424194222505999)
 - [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1640400287427964928)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. https://memgraph.com/blog/manage-all-your-data-lineage-...](https://twitter.com/memgraphdb/status/1640384166217801729)
-- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1640359770199662592)
-- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. https://...](https://twitter.com/memgraphdb/status/1640341401849282560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
