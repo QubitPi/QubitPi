@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Find out why SQL databases are outdated for real-time recommendation engines. https://memgraph.com/blog/faster-recommendations-with-graph-databases...](https://twitter.com/memgraphdb/status/1640673587462914049)
 - [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. ht...](https://twitter.com/memgraphdb/status/1640650437308055553)
 - [🔎 Fraud detection is a process that detects and prevents fraudsters from obtaining money or property through false means. Fraud detection is preval...](https://twitter.com/memgraphdb/status/1640633826584981505)
 - [Listen to the podcast episode &quot;The Shape of Work&quot; that features #memgraph HR Sara Štetić. She talked about various skills required in HR as well as ...](https://twitter.com/memgraphdb/status/1640609079201607680)
 - [⛈️ Avoid dangerous weather on your flight route with Memgraph Lab&#39;s graph database technology! #StormEvasion #FlightSafety ☁️ #memgraph #database ...](https://twitter.com/memgraphdb/status/1640599855310487554)
-- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1640589285555306496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
