@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [👀 @lyonwj explores how to build a full-stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your Grap...](https://twitter.com/neo4j/status/1640790887386042369)
-- [🚨 Big news! #Neo4j AuraDS Enterprise on @AWS has arrived as part of our Early Access Program. Sign up to build, train, deploy, monitor, and integra...](https://twitter.com/neo4j/status/1640775577752707072)
 - [During #IWD2023 we live-streamed a women&#39;s panel where we talked about the journeys of different colleagues in the Tech Industry.✅ Hear Syd&#39;s tips an...](https://twitter.com/neo4j/status/1640745882856431621)
 - [&quot;What Makes Graph Data Science Different From Traditional Data Science?&quot; This time, Alison Cossette answers in our series Ask a Data Scientist. #Neo4j...](https://twitter.com/neo4j/status/1640717459203432452)
-- [RT Jason Koo: OpenStreetMap + Leaflet.js + Neo4j workshop tomorrow morning with the amazing @lyonwj! https://buff.ly/40mvpj1](https://twitter.com/jalakoo/status/1640715895109734403)
+- [RT Siddhant Agarwal: It was a wonderful collabaration bw @neo4j and @googldevsin. Thanks @prasadseth for the support! :D](https://twitter.com/sidagarwal04/status/1640599977666957313)
+- [Did you read it? @st3llasia&#39;s latest book covers new features of the Neo4j’s Graph Data Science library, including its handy Python client and the in...](https://twitter.com/neo4j/status/1640467500805529604)
+- [How do we foster a culture where people can be their whole selves here at Neo4j? Hear from a few of our fellow nodes in this video :&rpar; Don&#39;t forget to ...](https://twitter.com/neo4j/status/1640398708616339457)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
