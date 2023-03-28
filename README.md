@@ -306,7 +306,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Open letter of researchers demanding to shut down AI experiments for 6 months](https://www.reddit.com/r/MachineLearning/comments/124xjnb/d_open_letter_of_researchers_demanding_to_shut/)
+- [[P] Kangas 2.0: EDA for Computer Vision Datasets](https://www.reddit.com/r/MachineLearning/comments/124zler/p_kangas_20_eda_for_computer_vision_datasets/)
 - [[P] Architecting the Edge for AI/ML](https://www.reddit.com/r/MachineLearning/comments/124xfnd/p_architecting_the_edge_for_aiml/)
 - [&quot;[D]&quot; Is wandb.ai worth using?](https://www.reddit.com/r/MachineLearning/comments/124xa6b/d_is_wandbai_worth_using/)
 - [[P] I made a calculator that is able to estimate the amount of VRam you need to load a model and suggest an amount for training](https://www.reddit.com/r/MachineLearning/comments/124tqvb/p_i_made_a_calculator_that_is_able_to_estimate/)
