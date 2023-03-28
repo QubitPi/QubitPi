@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1640670101232820226)
 - [Learn the fundamentals of ArangoDB’s query language, AQL, with our free AQL Fundamentals course. You will learn basic CRUD operations, matching docum...](https://twitter.com/arangodb/status/1640443592060575749)
 - [Identifying and preventing fraud is a complex problem for many industries where a high volume of transactional data is difficult to trace. 🥑🔥 Th...](https://twitter.com/arangodb/status/1640307701832994816)
 - [Did you attend our #FastGraphML with #ArangoDB webinar with Machine Learning Engineer Sachin Sharma? 🥑 Watch the recording today: https://okt.to/zL...](https://twitter.com/arangodb/status/1639990613247442945)
 - [What&#39;s holding you back from becoming an expert in all things graph? 🤔 ArangoDB has built our University to help you do just that. Check out our va...](https://twitter.com/arangodb/status/1639628221716250625)
-- [Powered by ArangoDB, @orange has created a staggering 51 million digital twins and counting! 🥑🔥 To learn more about their impressive use case, c...](https://twitter.com/arangodb/status/1639356422516531200)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
