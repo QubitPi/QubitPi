@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [During #IWD2023 we live-streamed a women&#39;s panel where we talked about the journeys of different colleagues in the Tech Industry.✅ Hear Syd&#39;s tips an...](https://twitter.com/neo4j/status/1640745882856431621)
 - [&quot;What Makes Graph Data Science Different From Traditional Data Science?&quot; This time, Alison Cossette answers in our series Ask a Data Scientist. #Neo4j...](https://twitter.com/neo4j/status/1640717459203432452)
 - [RT Siddhant Agarwal: It was a wonderful collabaration bw @neo4j and @googldevsin. Thanks @prasadseth for the support! :D](https://twitter.com/sidagarwal04/status/1640599977666957313)
 - [Did you read it? @st3llasia&#39;s latest book covers new features of the Neo4j’s Graph Data Science library, including its handy Python client and the in...](https://twitter.com/neo4j/status/1640467500805529604)
 - [How do we foster a culture where people can be their whole selves here at Neo4j? Hear from a few of our fellow nodes in this video :&rpar; Don&#39;t forget to ...](https://twitter.com/neo4j/status/1640398708616339457)
-- [Learn the basics of #Neo4j #GraphDataScience and how it can help you to identify fraudulent activities faster. APAC: https://okt.to/1hNUQy EMEA: https...](https://twitter.com/neo4j/status/1640338040567545858)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
