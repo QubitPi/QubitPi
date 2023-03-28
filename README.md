@@ -310,7 +310,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Variance in reported results on ImageNet between papers [D]](https://www.reddit.com/r/MachineLearning/comments/124pbq5/variance_in_reported_results_on_imagenet_between/)
 - [[PROJECT] Application of machine learning to manual interpretatoins](https://www.reddit.com/r/MachineLearning/comments/124o7g4/project_application_of_machine_learning_to_manual/)
 - [[D] Tips for training/fine-tuning LLM for low resource languages](https://www.reddit.com/r/MachineLearning/comments/124nfj0/d_tips_for_trainingfinetuning_llm_for_low/)
-- [Does GPT4 use YOLO like algorithm [D]](https://www.reddit.com/r/MachineLearning/comments/124miz8/does_gpt4_use_yolo_like_algorithm_d/)
+- [[D] With ML tools progressing so fast, what are some ways you&#39;ve taken advantage of them personally?](https://www.reddit.com/r/MachineLearning/comments/124k4e5/d_with_ml_tools_progressing_so_fast_what_are_some/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
