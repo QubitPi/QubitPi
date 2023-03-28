@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] What is the state of the art for Logos Image Retrieval?](https://www.reddit.com/r/MachineLearning/comments/124jq9i/r_what_is_the_state_of_the_art_for_logos_image/)
 - [[P] Consistency: Diffusion in a Single Forward Pass 🚀](https://www.reddit.com/r/MachineLearning/comments/124jfoa/p_consistency_diffusion_in_a_single_forward_pass/)
 - [[P] Clustering face embeddings &lpar;512d&rpar; using GCN&#39;s &lpar;not knowing the amount of needed clusters&rpar;](https://www.reddit.com/r/MachineLearning/comments/124iv13/p_clustering_face_embeddings_512d_using_gcns_not/)
 - [Future of AI/ML Skills/Methodologies and Applications [D]](https://www.reddit.com/r/MachineLearning/comments/124hxal/future_of_aiml_skillsmethodologies_and/)
 - [[PROJECT] Built a new tool using NER to extract data from ANY documents](https://www.reddit.com/r/MachineLearning/comments/124hlea/project_built_a_new_tool_using_ner_to_extract/)
-- [[R] Looking for a book](https://www.reddit.com/r/MachineLearning/comments/124g0xw/r_looking_for_a_book/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
