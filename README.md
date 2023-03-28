@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Clustering face embeddings &lpar;512d&rpar; using GCN&#39;s &lpar;not knowing the amount of needed clusters&rpar;](https://www.reddit.com/r/MachineLearning/comments/124iv13/p_clustering_face_embeddings_512d_using_gcns_not/)
 - [Future of AI/ML Skills/Methodologies and Applications [D]](https://www.reddit.com/r/MachineLearning/comments/124hxal/future_of_aiml_skillsmethodologies_and/)
 - [[PROJECT] Built a new tool using NER to extract data from ANY documents](https://www.reddit.com/r/MachineLearning/comments/124hlea/project_built_a_new_tool_using_ner_to_extract/)
 - [[R] Looking for a book](https://www.reddit.com/r/MachineLearning/comments/124g0xw/r_looking_for_a_book/)
 - [[P] ChatGPT Survey: Performance on NLP datasets](https://www.reddit.com/r/MachineLearning/comments/124frc3/p_chatgpt_survey_performance_on_nlp_datasets/)
-- [[R] Feature Clustering: A Simple Solution to Many Machine Learning Problems](https://www.reddit.com/r/MachineLearning/comments/124fjts/r_feature_clustering_a_simple_solution_to_many/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
