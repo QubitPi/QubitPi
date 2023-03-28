@@ -324,11 +324,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Add this special ingredient to improve your Scrum events](https://www.scrum.org/resources/blog/add-special-ingredient-improve-your-scrum-events)
 - [Scrum im Selbststudium – Teil 17: Der Product Owner maximiert den Wert des Produkts](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-17-der-product-owner-maximiert-den-wert-des-produkts)
 - [Creating a Personal Readme for Scrum Masters](https://www.scrum.org/resources/blog/creating-personal-readme-scrum-masters)
 - [Scrum im Selbststudium – Teil 16: Das Scrum Team übernimmt die Verantwortung, jeden Sprint ein wertvolles Inkrement bereitzustellen](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-16-das-scrum-team-ubernimmt-die-verantwortung-jeden)
 - [Checklist for Better Goals in Scrum &lpar;Sprint and Product&rpar;](https://www.scrum.org/resources/blog/checklist-better-goals-scrum-sprint-and-product)
-- [[VLOG] Comprehensive Explanation on Definition of Done and Increment](https://www.scrum.org/resources/blog/vlog-comprehensive-explanation-definition-done-and-increment)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
