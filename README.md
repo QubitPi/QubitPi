@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Raven 7B &amp; 14B 🐦&lpar;RWKV finetuned on Alpaca+CodeAlpaca+Guanaco&rpar; and Gradio Demo for Raven 7B](https://www.reddit.com/r/MachineLearning/comments/124tsbm/p_raven_7b_14b_rwkv_finetuned_on/)
 - [[P] I made a calculator that is able to estimate the amount of VRam you need to load a model and suggest an amount for training](https://www.reddit.com/r/MachineLearning/comments/124tqvb/p_i_made_a_calculator_that_is_able_to_estimate/)
 - [[R] Build and personalize LLMs on your own data - Take back control with xTuring!](https://www.reddit.com/r/MachineLearning/comments/124r3v0/r_build_and_personalize_llms_on_your_own_data/)
 - [Variance in reported results on ImageNet between papers [D]](https://www.reddit.com/r/MachineLearning/comments/124pbq5/variance_in_reported_results_on_imagenet_between/)
 - [[PROJECT] Application of machine learning to manual interpretatoins](https://www.reddit.com/r/MachineLearning/comments/124o7g4/project_application_of_machine_learning_to_manual/)
-- [[D] Tips for training/fine-tuning LLM for low resource languages](https://www.reddit.com/r/MachineLearning/comments/124nfj0/d_tips_for_trainingfinetuning_llm_for_low/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
