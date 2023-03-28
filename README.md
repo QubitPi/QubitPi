@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Feature Clustering: A Simple Solution to Many Machine Learning Problems](https://www.reddit.com/r/MachineLearning/comments/124fjts/r_feature_clustering_a_simple_solution_to_many/)
+- [[R] LEURN: Learning Explainable Univariate Rules with Neural Networks](https://www.reddit.com/r/MachineLearning/comments/124ff04/r_leurn_learning_explainable_univariate_rules/)
 - [[N] OpenAI may have benchmarked GPT-4’s coding ability on it’s own training data](https://www.reddit.com/r/MachineLearning/comments/124eyso/n_openai_may_have_benchmarked_gpt4s_coding/)
 - [[D] Small language model suitable for personal-scale pre-training research?](https://www.reddit.com/r/MachineLearning/comments/124er9o/d_small_language_model_suitable_for_personalscale/)
 - [[Discussion] Recommendations from ChatGPT vs traditional recommendation algorithms?](https://www.reddit.com/r/MachineLearning/comments/1249bvt/discussion_recommendations_from_chatgpt_vs/)
-- [[D] Can DeepL learn from edits to the translations it produces immediately?](https://www.reddit.com/r/MachineLearning/comments/1248fka/d_can_deepl_learn_from_edits_to_the_translations/)
-- [[D] Is French the most widely used language in ML circles after English? If not, what are some useful &lpar;natural&rpar; languages in the field of machine learning?](https://www.reddit.com/r/MachineLearning/comments/124604y/d_is_french_the_most_widely_used_language_in_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
