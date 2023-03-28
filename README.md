@@ -42,7 +42,7 @@ _Open Innovation_ as Career
 
 <div align="center">
 
-![](https://img.shields.io/badge/NO-VIM-red?style=for-the-badge) ![](https://img.shields.io/badge/EMACS-brightgreen?style=for-the-badge&logoColor=white&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/F**K-TENCENT-red?style=for-the-badge) 
+![](https://img.shields.io/badge/NO-VIM-red?style=for-the-badge) [![](https://img.shields.io/badge/EMACS-brightgreen?style=for-the-badge&logoColor=white&logo=GitHub%20Sponsors)](https://www.gnu.org/software/emacs/) ![](https://img.shields.io/badge/F**K-TENCENT-red?style=for-the-badge) 
 
 </div>
 
