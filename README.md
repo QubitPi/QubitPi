@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I built a UI to ChatGPT for easily making plots](https://www.reddit.com/r/MachineLearning/comments/124lc79/p_i_built_a_ui_to_chatgpt_for_easily_making_plots/)
 - [[News] New book - Scaling Machine Learning w/ Spark](https://www.reddit.com/r/MachineLearning/comments/124kp7b/news_new_book_scaling_machine_learning_w_spark/)
 - [[D] With ML tools progressing so fast, what are some ways you&#39;ve taken advantage of them personally?](https://www.reddit.com/r/MachineLearning/comments/124k4e5/d_with_ml_tools_progressing_so_fast_what_are_some/)
 - [[R] What is the state of the art for Logos Image Retrieval?](https://www.reddit.com/r/MachineLearning/comments/124jq9i/r_what_is_the_state_of_the_art_for_logos_image/)
 - [[P] Consistency: Diffusion in a Single Forward Pass 🚀](https://www.reddit.com/r/MachineLearning/comments/124jfoa/p_consistency_diffusion_in_a_single_forward_pass/)
-- [[P] Clustering face embeddings &lpar;512d&rpar; using GCN&#39;s &lpar;not knowing the amount of needed clusters&rpar;](https://www.reddit.com/r/MachineLearning/comments/124iv13/p_clustering_face_embeddings_512d_using_gcns_not/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
