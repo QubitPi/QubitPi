@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Should software developers be concerned of AI? [D]](https://www.reddit.com/r/MachineLearning/comments/1253cv7/should_software_developers_be_concerned_of_ai_d/)
 - [Digital twin experiences? [Research]](https://www.reddit.com/r/MachineLearning/comments/1251wff/digital_twin_experiences_research/)
 - [ICML 2023 - What are the chances of a paper with 2 weak accepts &lpar;confidence: 5/5, 3/5&rpar; and 1 borderline accept &lpar;Confidence: 3/5&rpar;? [Discussion] [Research]](https://www.reddit.com/r/MachineLearning/comments/1251aso/icml_2023_what_are_the_chances_of_a_paper_with_2/)
 - [[P] Kangas 2.0: EDA for Computer Vision Datasets](https://www.reddit.com/r/MachineLearning/comments/124zler/p_kangas_20_eda_for_computer_vision_datasets/)
 - [[P] Architecting the Edge for AI/ML](https://www.reddit.com/r/MachineLearning/comments/124xfnd/p_architecting_the_edge_for_aiml/)
-- [&quot;[D]&quot; Is wandb.ai worth using?](https://www.reddit.com/r/MachineLearning/comments/124xa6b/d_is_wandbai_worth_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
