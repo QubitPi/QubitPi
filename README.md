@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Recommendations from ChatGPT vs traditional recommendation algorithms?](https://www.reddit.com/r/MachineLearning/comments/1249bvt/discussion_recommendations_from_chatgpt_vs/)
 - [[D] Can DeepL learn from edits to the translations it produces immediately?](https://www.reddit.com/r/MachineLearning/comments/1248fka/d_can_deepl_learn_from_edits_to_the_translations/)
 - [[D] Take home coding exercise from Reinforcement learning research company](https://www.reddit.com/r/MachineLearning/comments/1246v58/d_take_home_coding_exercise_from_reinforcement/)
 - [[D] Is French the most widely used language in ML circles after English? If not, what are some useful &lpar;natural&rpar; languages in the field of machine learning?](https://www.reddit.com/r/MachineLearning/comments/124604y/d_is_french_the_most_widely_used_language_in_ml/)
 - [[D] FOMO on the rapid pace of LLMs](https://www.reddit.com/r/MachineLearning/comments/1244q71/d_fomo_on_the_rapid_pace_of_llms/)
-- [[P] two copies of gpt-3.5 &lpar;one playing as the oracle, and another as the guesser&rpar; performs poorly on the game of 20 Questions &lpar;68/1823&rpar;.](https://www.reddit.com/r/MachineLearning/comments/12435uq/p_two_copies_of_gpt35_one_playing_as_the_oracle/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
