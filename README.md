@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Pause Giant AI Experiments: An Open Letter [N]](https://www.reddit.com/r/MachineLearning/comments/1255cha/pause_giant_ai_experiments_an_open_letter_n/)
 - [[D] I&#39;ve got a Job offer but I&#39;m scared](https://www.reddit.com/r/MachineLearning/comments/12540yp/d_ive_got_a_job_offer_but_im_scared/)
 - [[D] Prediction time! Lets update those Bayesian priors! How long until human-level AGI?](https://www.reddit.com/r/MachineLearning/comments/1253kns/d_prediction_time_lets_update_those_bayesian/)
 - [Should software developers be concerned of AI? [D]](https://www.reddit.com/r/MachineLearning/comments/1253cv7/should_software_developers_be_concerned_of_ai_d/)
 - [Digital twin experiences? [Research]](https://www.reddit.com/r/MachineLearning/comments/1251wff/digital_twin_experiences_research/)
+- [ICML 2023 - What are the chances of a paper with 2 weak accepts &lpar;confidence: 5/5, 3/5&rpar; and 1 borderline accept &lpar;Confidence: 3/5&rpar;? [Discussion] [Research]](https://www.reddit.com/r/MachineLearning/comments/1251aso/icml_2023_what_are_the_chances_of_a_paper_with_2/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
