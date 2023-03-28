@@ -251,11 +251,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778088000837910581><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6c2c3c967ca513330e2456a26b05ff0d551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#必胜邀约寻珍之旅# #必胜客原神联动# 必胜客x原神联动礼品卡&amp;电子会员卡说明，请旅行者查收~](https://t.bilibili.com/778088000837910581)
+- [亲爱的旅行者，必胜客×原神联动将于4月3日正式开启，请查收这份主题店体验攻略吧~#必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/778087433900130308)
+- [#原神# #原神风物之歌视频征集活动# #原神UP主激励计划# 《原神》「风物之歌」主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 自旋的玻色...](https://t.bilibili.com/778074587653996633)
+- [《原神》手柄（无线控制器）使用FAQ](https://t.bilibili.com/778072899693051943)
 - [恭喜@朔夜时雨薰风@赫萝の蜜渍桃子@叁月橙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/777639915459444759)
-- [恭喜@酩酊踏雪行@雨重心残@此人无呼吸等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/777268834582134840)
-- [互动抽奖 #原神# #神里绫人# #生日快乐# 许久不见了。 未曾想过会在清晨见到你呢。家妹常说稻妻这个时段适合散步，今日天色又美，但愿你是在闲散旅行而非为什么...](https://t.bilibili.com/777237953792442532)
-- [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.5版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/776592140998279220)
-- [#原神# #灵蕈棋阵# 旅行者们好呀，「灵蕈棋阵」活动即将于2023/03/23 10:00开启，旅行者们在首届「月莲杯驯兽师大赛」上结识的友人推出了全新游戏，加油完成挑战...](https://t.bilibili.com/775730360118935606)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
