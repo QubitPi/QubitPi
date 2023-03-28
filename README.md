@@ -357,11 +357,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Enabling a No-Code Performance Testing Platform Using the Ddosify Docker Extension](https://www.docker.com/blog/no-code-performance-testing-using-ddosify-extension/)
+- [Containerizing an Event Posting App Built with the MEAN Stack](https://www.docker.com/blog/containerizing-an-event-posting-app-built-with-the-mean-stack/)
 - [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 - [Effortlessly Build Machine Learning Apps with Hugging Face’s Docker Spaces](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
 - [Docker and Hugging Face Partner to Democratize AI](https://www.docker.com/blog/docker-and-hugging-face-partner-to-democratize-ai/)
-- [Docker and Ambassador Labs Announce Telepresence for Docker, Improving the Kubernetes Development Experience](https://www.docker.com/blog/telepresence-for-docker/)
-- [Announcing Docker+Wasm Technical Preview 2](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/)
 <!-- DOCKER-BLOG:END -->
 
 #### [Docker Documentation](https://docs.docker.com/) Updates
