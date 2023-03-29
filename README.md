@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [If you have questions around Neo4j, AuraDB, Graph Data Science, Data Import &amp; Integration, our Driver and more, make sure to ask them on our Community...](https://twitter.com/neo4j/status/1640979615672856577)
-- [TODAY is workshop day: &quot;Build A Routing Application with #Neo4j, #OpenStreetMap, and Leaflet.js.&quot; @lyonwj New Neo4j Bloom release includes support for...](https://twitter.com/neo4j/status/1640979127116210176)
 - [👀 @lyonwj explores how to build a full-stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your Grap...](https://twitter.com/neo4j/status/1640790887386042369)
 - [🚨 Big news! #Neo4j AuraDS Enterprise on @AWS has arrived as part of our Early Access Program. Sign up to build, train, deploy, monitor, and integra...](https://twitter.com/neo4j/status/1640775577752707072)
 - [During #IWD2023 we live-streamed a women&#39;s panel where we talked about the journeys of different colleagues in the Tech Industry.✅ Hear Syd&#39;s tips an...](https://twitter.com/neo4j/status/1640745882856431621)
+- [&quot;What Makes Graph Data Science Different From Traditional Data Science?&quot; This time, Alison Cossette answers in our series Ask a Data Scientist. #Neo4j...](https://twitter.com/neo4j/status/1640717459203432452)
+- [RT Jason Koo: OpenStreetMap + Leaflet.js + Neo4j workshop tomorrow morning with the amazing @lyonwj! https://buff.ly/40mvpj1](https://twitter.com/jalakoo/status/1640715895109734403)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
