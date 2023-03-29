@@ -549,7 +549,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Digest](https://dribbble.com/shots/20977447)
 - [Storage Rent Mobile App design: iOS Android ux ui designer](https://dribbble.com/shots/20715967)
 - [Wiza - Facelift](https://dribbble.com/shots/21030610)
-- [Oppo ColorOS 7 Icons Branding](https://dribbble.com/shots/20866045)
+- [Oppo ColorOS Icons &amp; Design System](https://dribbble.com/shots/20715841)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
