@@ -489,10 +489,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Training Series - Build A Routing Web Application](https://www.youtube.com/watch?v=Z4XZgsbaD9c)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=oUg-ogCEXZk)
 - [Going Meta - a series on graphs, semantics and knowledge Episode 15](https://www.youtube.com/watch?v=m7kg33OsI_A)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=ozBLJv84QWM)
-- [Training Series - Build A Routing Web Application](https://www.youtube.com/watch?v=Z4XZgsbaD9c)
 - [Neo4j + Process Tempo presents Reduce API Security Risk by Leveraging Graph Analytics](https://www.youtube.com/watch?v=j7lmT6VySXQ)
 <!-- NEO4J-YOUTUBE:END -->
 
