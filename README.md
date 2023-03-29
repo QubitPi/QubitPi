@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Style/ object consistent image generation](https://www.reddit.com/r/MachineLearning/comments/1262zh9/d_style_object_consistent_image_generation/)
 - [[D] Training a 65b LLaMA model](https://www.reddit.com/r/MachineLearning/comments/12618zu/d_training_a_65b_llama_model/)
 - [[D] Anyone aware of research that examines the effect of different beam sizes during LLM evaluation?](https://www.reddit.com/r/MachineLearning/comments/1260hmu/d_anyone_aware_of_research_that_examines_the/)
 - [[P] Imaginary programming: implementation-free TypeScript functions for GPT-powered web development](https://www.reddit.com/r/MachineLearning/comments/125y2et/p_imaginary_programming_implementationfree/)
 - [[D] Improvements/alternatives to U-net for medical images segmentation?](https://www.reddit.com/r/MachineLearning/comments/125xdrq/d_improvementsalternatives_to_unet_for_medical/)
-- [[D] What would be the best way to build a catalogue of faces based on a bunch of videos?](https://www.reddit.com/r/MachineLearning/comments/125wu1j/d_what_would_be_the_best_way_to_build_a_catalogue/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
