@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Explore eCommerce analytics with ArangoGraph Insights Platform. Check out our demo that lets you analyze actual data from Instacart orders in the app....](https://twitter.com/arangodb/status/1641168371587620867)
 - [Don&#39;t miss the incredible opportunity to dive into the cutting-edge world of graph and graphML! All the content from our inaugural Summit on the futur...](https://twitter.com/arangodb/status/1641032476142231553)
 - [Re @_sh286 The Go Driver tutorials are part of our University, you can access those here: https://university.arangodb.com/ 🥑](https://twitter.com/arangodb/status/1641005595275808768)
 - [Fraud can be a significant business issue, but with ArangoDB, you can combat it head-on! 🥑👊🏻 Check out our latest blog post to learn more abo...](https://twitter.com/arangodb/status/1640805984741347340)
 - [Re @_sh286 You don&#39;t need to register to access our documentation! You can find it here: https://www.arangodb.com/docs/stable/ 🥑](https://twitter.com/arangodb/status/1640769112468062222)
+- [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1640670101232820226)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
