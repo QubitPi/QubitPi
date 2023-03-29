@@ -325,7 +325,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Scrum im Selbststudium – Teil 18: Die Entwickler schaffen jeden Sprint ein nutzbares Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-18-die-entwickler-schaffen-jeden-sprint-ein-nutzbares)
-- [Scrum es un contenedor](https://www.scrum.org/resources/blog/scrum-es-un-contenedor)
+- [Scrum es un Contenedor](https://www.scrum.org/resources/blog/scrum-es-un-contenedor)
 - [Experiment: Diagnose Scrum In Your Organization With Panarchy](https://www.scrum.org/resources/blog/experiment-diagnose-scrum-your-organization-panarchy)
 - [Add This Special Ingredient to Improve your Scrum Events](https://www.scrum.org/resources/blog/add-special-ingredient-improve-your-scrum-events)
 - [Scrum im Selbststudium – Teil 17: Der Product Owner maximiert den Wert des Produkts](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-17-der-product-owner-maximiert-den-wert-des-produkts)
