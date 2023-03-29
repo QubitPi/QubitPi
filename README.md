@@ -479,11 +479,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#Neo4j and @googlecloud Extend Strategic Partnership With New Native Integration to Google Cloud’s BigQuery Cloud Data Warehouse! 🎉 Read more abou...](https://twitter.com/neo4j/status/1641077538720972801)
+- [Training Series - Build A Routing Web Application https://twitter.com/i/broadcasts/1ZkKzXdNoOoJv](https://twitter.com/neo4j/status/1641074104806563840)
 - [If you have questions around Neo4j, AuraDB, Graph Data Science, Data Import &amp; Integration, our Driver and more, make sure to ask them on our Community...](https://twitter.com/neo4j/status/1640979615672856577)
 - [TODAY is workshop day: &quot;Build A Routing Application with #Neo4j, #OpenStreetMap, and Leaflet.js.&quot; @lyonwj New Neo4j Bloom release includes support for...](https://twitter.com/neo4j/status/1640979127116210176)
 - [👀 @lyonwj explores how to build a full-stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your Grap...](https://twitter.com/neo4j/status/1640790887386042369)
-- [🚨 Big news! #Neo4j AuraDS Enterprise on @AWS has arrived as part of our Early Access Program. Sign up to build, train, deploy, monitor, and integra...](https://twitter.com/neo4j/status/1640775577752707072)
-- [During #IWD2023 we live-streamed a women&#39;s panel where we talked about the journeys of different colleagues in the Tech Industry.✅ Hear Syd&#39;s tips an...](https://twitter.com/neo4j/status/1640745882856431621)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
