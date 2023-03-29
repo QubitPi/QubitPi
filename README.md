@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What would be the best way to build a catalogue of faces based on a bunch of videos?](https://www.reddit.com/r/MachineLearning/comments/125wu1j/d_what_would_be_the_best_way_to_build_a_catalogue/)
 - [[Discussion] Using GIFs to contextualize LLM responses](https://www.reddit.com/r/MachineLearning/comments/125wfru/discussion_using_gifs_to_contextualize_llm/)
 - [[R] The Debate Over Understanding in AI’s Large Language Models](https://www.reddit.com/r/MachineLearning/comments/125uxab/r_the_debate_over_understanding_in_ais_large/)
 - [[D] The best way to train an LLM on company data](https://www.reddit.com/r/MachineLearning/comments/125qztx/d_the_best_way_to_train_an_llm_on_company_data/)
 - [[D] llama 7b vs 65b ?](https://www.reddit.com/r/MachineLearning/comments/125q87z/d_llama_7b_vs_65b/)
-- [[D] Alternatives to fb Hydra?](https://www.reddit.com/r/MachineLearning/comments/125nf35/d_alternatives_to_fb_hydra/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
