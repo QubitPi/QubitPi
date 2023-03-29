@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] GPT-4 being used as a &quot;Task-driven Autonomous Agent&quot;](https://www.reddit.com/r/MachineLearning/comments/125ic2t/d_gpt4_being_used_as_a_taskdriven_autonomous_agent/)
 - [[D] All neural units have the same gradient and doesn’t change with training](https://www.reddit.com/r/MachineLearning/comments/125hj5n/d_all_neural_units_have_the_same_gradient_and/)
 - [[D] Elon Musk, Yoshua Bengio, Steve Wozniak, Andrew Yang, And 1100+ More Signed An Open Letter Asking All AI Labs To Immediately Stop For At Least 6 Months](https://www.reddit.com/r/MachineLearning/comments/125h48a/d_elon_musk_yoshua_bengio_steve_wozniak_andrew/)
 - [[D] What Revolution A.I needs to step-up it&#39;s game](https://www.reddit.com/r/MachineLearning/comments/125gbmz/d_what_revolution_ai_needs_to_stepup_its_game/)
 - [[R] You Only Segment Once: Towards Real-Time Panoptic Segmentation [CVPR 2023]](https://www.reddit.com/r/MachineLearning/comments/125eo4f/r_you_only_segment_once_towards_realtime_panoptic/)
-- [[D] Very good article about the current limitations of GPT-n models](https://www.reddit.com/r/MachineLearning/comments/125ejg0/d_very_good_article_about_the_current_limitations/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
