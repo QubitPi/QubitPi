@@ -426,11 +426,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Re @_sh286 The Go Driver tutorials are part of our University, you can access those here: https://university.arangodb.com/ 🥑](https://twitter.com/arangodb/status/1641005595275808768)
 - [Fraud can be a significant business issue, but with ArangoDB, you can combat it head-on! 🥑👊🏻 Check out our latest blog post to learn more abo...](https://twitter.com/arangodb/status/1640805984741347340)
 - [Re @_sh286 You don&#39;t need to register to access our documentation! You can find it here: https://www.arangodb.com/docs/stable/ 🥑](https://twitter.com/arangodb/status/1640769112468062222)
 - [Resoto is a product offered by Some Engineering, whose mission is to make cloud infrastructure searchable and accessible. ☁️💥 The problem? Resoto...](https://twitter.com/arangodb/status/1640670101232820226)
 - [Learn the fundamentals of ArangoDB’s query language, AQL, with our free AQL Fundamentals course. You will learn basic CRUD operations, matching docum...](https://twitter.com/arangodb/status/1640443592060575749)
-- [Identifying and preventing fraud is a complex problem for many industries where a high volume of transactional data is difficult to trace. 🥑🔥 Th...](https://twitter.com/arangodb/status/1640307701832994816)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
