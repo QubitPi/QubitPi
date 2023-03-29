@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] You Only Segment Once: Towards Real-Time Panoptic Segmentation [CVPR 2023]](https://www.reddit.com/r/MachineLearning/comments/125eo4f/r_you_only_segment_once_towards_realtime_panoptic/)
+- [[D] Very good article about the current limitations of GPT-n models](https://www.reddit.com/r/MachineLearning/comments/125ejg0/d_very_good_article_about_the_current_limitations/)
 - [[R] AI-Virology Integration](https://www.reddit.com/r/MachineLearning/comments/125dh20/r_aivirology_integration/)
 - [[P], Unknown Patterns Recognizition](https://www.reddit.com/r/MachineLearning/comments/125d18a/p_unknown_patterns_recognizition/)
 - [[D] Tool Assist Feature, NLP that suggests tools based on need?](https://www.reddit.com/r/MachineLearning/comments/125b317/d_tool_assist_feature_nlp_that_suggests_tools/)
-- [[D] Do model weights have the same license as the modem architecture?](https://www.reddit.com/r/MachineLearning/comments/1258kp5/d_do_model_weights_have_the_same_license_as_the/)
-- [[D] Pause Giant AI Experiments: An Open Letter. Signatories include Stuart Russell, Elon Musk, and Steve Wozniak](https://www.reddit.com/r/MachineLearning/comments/12589ne/d_pause_giant_ai_experiments_an_open_letter/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
