@@ -251,11 +251,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778088000837910581><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6c2c3c967ca513330e2456a26b05ff0d551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/778360761325977600)
+- [#原神# 亲爱的旅行者，「有香自西来·寻味北地」活动即将开启~ 〓活动时间〓 2023/03/31 10:00 ~ 2023/04/10 03:59 〓参与条件〓 冒险等阶≥20级可进行调料制作 ...](https://t.bilibili.com/778352708233986088)
+- [#原神# #盛典与慧业# #原神3.6版本前瞻特别节目# #原神3.6# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.6版本「盛典与慧业」前瞻特别节目将于3...](https://t.bilibili.com/778351797728182342)
 - [#必胜邀约寻珍之旅# #必胜客原神联动# 必胜客x原神联动礼品卡&amp;电子会员卡说明，请旅行者查收~](https://t.bilibili.com/778088000837910581)
 - [亲爱的旅行者，必胜客×原神联动将于4月3日正式开启，请查收这份主题店体验攻略吧~#必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/778087433900130308)
-- [#原神# #原神风物之歌视频征集活动# #原神UP主激励计划# 《原神》「风物之歌」主题视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 自旋的玻色...](https://t.bilibili.com/778074587653996633)
-- [《原神》手柄（无线控制器）使用FAQ](https://t.bilibili.com/778072899693051943)
-- [恭喜@朔夜时雨薰风@赫萝の蜜渍桃子@叁月橙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/777639915459444759)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
