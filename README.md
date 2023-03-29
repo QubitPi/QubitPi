@@ -248,7 +248,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778088000837910581><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/6c2c3c967ca513330e2456a26b05ff0d551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778360761325977600><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8d7f640afb4b39f3f85c2e7931a51ad43493089586972896.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/778360761325977600)
