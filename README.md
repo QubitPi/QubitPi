@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ https:...](https://twitter.com/memgraphdb/status/1641036730517078019)
+- [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1641018613804007427)
+- [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1641012826125877248)
 - [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1641000746006216706)
 - [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1640960729707626498)
-- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. htt...](https://twitter.com/memgraphdb/status/1640951670975733760)
-- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1640929020932943873)
-- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ https://memgraph.com/blog/you-want-a-fast-easy-to-use-and...](https://twitter.com/memgraphdb/status/1640782306771189760)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
