@@ -459,11 +459,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1641148973543981064)
 - [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1641125063771422720)
 - [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1641109084500897792)
 - [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1641084545884626946)
 - [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1641066175810379776)
-- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1641056864300310528)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
