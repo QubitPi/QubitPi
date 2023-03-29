@@ -306,8 +306,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Summer School on Systems Vision Science in Tuebingen, Germany, application deadline this Friday](https://www.reddit.com/r/MachineLearning/comments/125k7yg/d_summer_school_on_systems_vision_science_in/)
 - [[D] What are the problems you face in your data science workflow?](https://www.reddit.com/r/MachineLearning/comments/125jbob/d_what_are_the_problems_you_face_in_your_data/)
-- [[D] What Revolution A.I needs to step-up it&#39;s game](https://www.reddit.com/r/MachineLearning/comments/125gbmz/d_what_revolution_ai_needs_to_stepup_its_game/)
 - [[R] You Only Segment Once: Towards Real-Time Panoptic Segmentation [CVPR 2023]](https://www.reddit.com/r/MachineLearning/comments/125eo4f/r_you_only_segment_once_towards_realtime_panoptic/)
 - [[R] AI-Virology Integration](https://www.reddit.com/r/MachineLearning/comments/125dh20/r_aivirology_integration/)
 - [[D] Do model weights have the same license as the modem architecture?](https://www.reddit.com/r/MachineLearning/comments/1258kp5/d_do_model_weights_have_the_same_license_as_the/)
