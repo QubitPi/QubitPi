@@ -308,9 +308,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Do model weights have the same license as the modem architecture?](https://www.reddit.com/r/MachineLearning/comments/1258kp5/d_do_model_weights_have_the_same_license_as_the/)
 - [[D] Pause Giant AI Experiments: An Open Letter. Signatories include Stuart Russell, Elon Musk, and Steve Wozniak](https://www.reddit.com/r/MachineLearning/comments/12589ne/d_pause_giant_ai_experiments_an_open_letter/)
-- [[D] I&#39;ve got a Job offer but I&#39;m scared](https://www.reddit.com/r/MachineLearning/comments/12540yp/d_ive_got_a_job_offer_but_im_scared/)
 - [[D] Prediction time! Lets update those Bayesian priors! How long until human-level AGI?](https://www.reddit.com/r/MachineLearning/comments/1253kns/d_prediction_time_lets_update_those_bayesian/)
 - [Should software developers be concerned of AI? [D]](https://www.reddit.com/r/MachineLearning/comments/1253cv7/should_software_developers_be_concerned_of_ai_d/)
+- [Digital twin experiences? [Research]](https://www.reddit.com/r/MachineLearning/comments/1251wff/digital_twin_experiences_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
