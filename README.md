@@ -306,11 +306,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Using GIFs to contextualize LLM responses](https://www.reddit.com/r/MachineLearning/comments/125wfru/discussion_using_gifs_to_contextualize_llm/)
+- [[R] The Debate Over Understanding in AI’s Large Language Models](https://www.reddit.com/r/MachineLearning/comments/125uxab/r_the_debate_over_understanding_in_ais_large/)
 - [[D] The best way to train an LLM on company data](https://www.reddit.com/r/MachineLearning/comments/125qztx/d_the_best_way_to_train_an_llm_on_company_data/)
 - [[D] llama 7b vs 65b ?](https://www.reddit.com/r/MachineLearning/comments/125q87z/d_llama_7b_vs_65b/)
 - [[D] Alternatives to fb Hydra?](https://www.reddit.com/r/MachineLearning/comments/125nf35/d_alternatives_to_fb_hydra/)
-- [[Discussion] IsItBS: asking GPT to reflect x times will create a feedback loop that causes it to scrutinize itself x times?](https://www.reddit.com/r/MachineLearning/comments/125nchg/discussion_isitbs_asking_gpt_to_reflect_x_times/)
-- [[D] Summer School on Systems Vision Science in Tuebingen, Germany, application deadline this Friday](https://www.reddit.com/r/MachineLearning/comments/125k7yg/d_summer_school_on_systems_vision_science_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
