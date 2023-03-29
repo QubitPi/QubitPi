@@ -325,7 +325,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Experiment: Diagnose Scrum In Your Organization With Panarchy](https://www.scrum.org/resources/blog/experiment-diagnose-scrum-your-organization-panarchy)
-- [Add This Special Ingredient to Improve your Scrum events](https://www.scrum.org/resources/blog/add-special-ingredient-improve-your-scrum-events)
+- [Add This Special Ingredient to Improve your Scrum Events](https://www.scrum.org/resources/blog/add-special-ingredient-improve-your-scrum-events)
 - [Scrum im Selbststudium – Teil 17: Der Product Owner maximiert den Wert des Produkts](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-17-der-product-owner-maximiert-den-wert-des-produkts)
 - [Creating a Personal Readme for Scrum Masters](https://www.scrum.org/resources/blog/creating-personal-readme-scrum-masters)
 - [Scrum im Selbststudium – Teil 16: Das Scrum Team übernimmt die Verantwortung, jeden Sprint ein wertvolles Inkrement bereitzustellen](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-16-das-scrum-team-ubernimmt-die-verantwortung-jeden)
