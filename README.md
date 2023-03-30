@@ -156,7 +156,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Software Infrastructure
 
-[Chef](https://qubitpi.github.io/chef-web-docs/)([Chef 101](https://youtu.be/tt9_aWiSW5M)) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
+[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
 ###### [OpenStack](https://youtu.be/locCs2Duk5U)
 
@@ -168,10 +168,6 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 ###### Virtualization
 
 [Docker](https://qubitpi.github.io/docker-docs/) | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
-
-###### HashiCorp (Industry Leader of Infrastructure as Code)
-
-[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
