@@ -443,11 +443,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1641324629519204358)
-- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1641310282977800192)
-- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1641299463993008129)
 - [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1641148973543981064)
 - [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1641125063771422720)
+- [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1641109084500897792)
+- [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1641084545884626946)
+- [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1641066175810379776)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
