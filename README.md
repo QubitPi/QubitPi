@@ -274,11 +274,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges](http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html)
 - [Leveraging transfer learning for large scale differentially private image classification](http://ai.googleblog.com/2023/03/leveraging-transfer-learning-for-large.html)
 - [PRESTO – A multilingual dataset for parsing realistic task-oriented dialogues](http://ai.googleblog.com/2023/03/presto-multilingual-dataset-for-parsing.html)
 - [Detecting novel systemic biomarkers in external eye photos](http://ai.googleblog.com/2023/03/detecting-novel-systemic-biomarkers-in.html)
 - [Visual language maps for robot navigation](http://ai.googleblog.com/2023/03/visual-language-maps-for-robot.html)
-- [Vid2Seq: a pretrained visual language model for describing multi-event videos](http://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
