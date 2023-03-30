@@ -150,7 +150,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-### How I Learn Technology Everyday
+### How I Learn Technologies Everyday
 
 </div>
 
