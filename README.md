@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Interview for degree project ML/GD/AI](https://www.reddit.com/r/MachineLearning/comments/126lwsn/r_interview_for_degree_project_mlgdai/)
 - [[D] Can large language models be applied to language translation?](https://www.reddit.com/r/MachineLearning/comments/126kzb6/d_can_large_language_models_be_applied_to/)
 - [[R] [P] Alzheimer&#39;s Disease Identification and Classification: Should you use .nii or .jpg format for ADNI Dataset?](https://www.reddit.com/r/MachineLearning/comments/126k4t9/r_p_alzheimers_disease_identification_and/)
 - [[P] Quick and easy assessment of table dataset predictability](https://www.reddit.com/r/MachineLearning/comments/126ht7c/p_quick_and_easy_assessment_of_table_dataset/)
 - [[N] Object detection with YOLO and extreme clicking in a semi automatic combination](https://www.reddit.com/r/MachineLearning/comments/126ge5z/n_object_detection_with_yolo_and_extreme_clicking/)
-- [[D] What do you think about all this hype for ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/126ft3c/d_what_do_you_think_about_all_this_hype_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
