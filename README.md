@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT William Lyon: 🗺️ If you missed yesterday&#39;s workshop on working with #OpenStreetMap #GIS data in @Neo4j you can find the recording here: https:/...](https://twitter.com/lyonwj/status/1641460762970591233)
-- [4 GraphSummits and counting! 🌎🎉 NEXT: 18 April 2023 —&gt; Munich 19 April 2023—&gt; Irvine 20 April 2023—&gt; Amsterdam And many more in Europe, North...](https://twitter.com/neo4j/status/1641460371302105088)
-- [Neo4j Live: SchemaSmith for Data Governance https://twitter.com/i/broadcasts/1ZkJzXdAdooKv](https://twitter.com/neo4j/status/1641455246525321216)
-- [Do you use the application drivers to connect to #Neo4j? The team would love your #feedback, and there’s a new simplified API to learn about and help...](https://twitter.com/neo4j/status/1641440792471539712)
+- [4 GraphSummits and counting! 🌎🎉 NEXT: 18 April 2023 —&gt; Munich 19 April 2023—&gt; Irvine 20 April 2023—&gt; Amsterdam And many more in Europe, North...](https://twitter.com/neo4j/status/1641410242750697473)
 - [Have you downloaded “Full Stack GraphQL Applications” by @lyonwj ? You&#39;ll find: 📚Clear explanations of everything you need to build your applicat...](https://twitter.com/neo4j/status/1641171673591234564)
+- [The team from @ARSINOE_EU joined @alexandererdl&#39;s livestream to present their Knowledge Graph.👇 Their knowledge graph consists of 5M nodes and 10M ...](https://twitter.com/neo4j/status/1641141195660197918)
+- [Slice and Dice Your Graph Data With Neo4j Bloom 👇 You can display different Neo4j graphs and explore graph data using the search feature, expanding...](https://twitter.com/neo4j/status/1641105220825382912)
+- [#Neo4j and @googlecloud Extend Strategic Partnership With New Native Integration to Google Cloud’s BigQuery Cloud Data Warehouse! 🎉 Read more abou...](https://twitter.com/neo4j/status/1641077538720972801)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
