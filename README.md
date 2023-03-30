@@ -198,7 +198,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Babel](https://qubitpi.github.io/babel-website/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/)
 
-#### Backend Dev<sup>![](https://img.shields.io/badge/Jersey-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/Never%20use-SPRING-red?style=for-the-badge)</sup>
+#### Backend Dev<sup>![](https://img.shields.io/badge/Jersey-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/Never%20use-SPRING-red?style=flat-square)</sup>
 
 [Jersey](https://qubitpi.github.io/jersey/) | [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Java](https://qubitpi.github.io/graphql-java-page/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/) | [Hadoop](https://qubitpi.github.io/hadoop/hadoop-project/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
