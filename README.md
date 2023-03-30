@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1641428566326800391)
+- [🌟 Unleash the power of real-time streaming with #Memgraph, an open-source graph database compatible with #Neo4j! Boost your performance with our in...](https://twitter.com/memgraphdb/status/1641422658628665344)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1641419255324241922)
 - [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1641398365651861506)
 - [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ https://mem...](https://twitter.com/memgraphdb/status/1641373704478130177)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1641338722456092672)
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1641324629519204358)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
