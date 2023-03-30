@@ -317,9 +317,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Erstellen eines persönlichen Readme für Scrum Master mit ChatGPT 🇩🇪](https://www.scrum.org/resources/blog/erstellen-eines-personlichen-readme-fur-scrum-master-mit-chatgpt)
 - [Scrum im Selbststudium – Teil 19: Der Scrum Master verantwortet die Effektivität des Scrum Teams](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-19-der-scrum-master-verantwortet-die-effektivitat-des)
+- [Lessons from a PST on preparing for the PSPO III exam - spoiler alert, I failed the first time](https://www.scrum.org/resources/blog/lessons-pst-preparing-pspo-iii-exam-spoiler-alert-i-failed-first-time)
 - [Scrum im Selbststudium – Teil 18: Die Entwickler schaffen jeden Sprint ein nutzbares Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-18-die-entwickler-schaffen-jeden-sprint-ein-nutzbares)
 - [Scrum es un Contenedor](https://www.scrum.org/resources/blog/scrum-es-un-contenedor)
-- [Experiment: Diagnose Scrum In Your Organization With Panarchy](https://www.scrum.org/resources/blog/experiment-diagnose-scrum-your-organization-panarchy)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
