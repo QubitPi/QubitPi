@@ -152,6 +152,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### How I Learn Technologies Everyday
 
+> Open Source Implies Open Information Freely Available
+
 </div>
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leaves me literally no time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach below.
