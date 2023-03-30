@@ -171,8 +171,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ###### HashiCorp (Industry Leader of Infrastructure as Code)
 
-- [Packer](http://www.packer.io/)
-- [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
