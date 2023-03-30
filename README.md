@@ -316,11 +316,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Scrum im Selbststudium – Teil 19: Der Scrum Master verantwortet die Effektivität des Scrum Teams](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-19-der-scrum-master-verantwortet-die-effektivitat-des)
 - [Scrum im Selbststudium – Teil 18: Die Entwickler schaffen jeden Sprint ein nutzbares Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-18-die-entwickler-schaffen-jeden-sprint-ein-nutzbares)
 - [Scrum es un Contenedor](https://www.scrum.org/resources/blog/scrum-es-un-contenedor)
 - [Experiment: Diagnose Scrum In Your Organization With Panarchy](https://www.scrum.org/resources/blog/experiment-diagnose-scrum-your-organization-panarchy)
 - [Add This Special Ingredient to Improve your Scrum Events](https://www.scrum.org/resources/blog/add-special-ingredient-improve-your-scrum-events)
-- [Scrum im Selbststudium – Teil 17: Der Product Owner maximiert den Wert des Produkts](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-17-der-product-owner-maximiert-den-wert-des-produkts)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
