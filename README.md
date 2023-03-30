@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What do you think about all this hype for ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/126ft3c/d_what_do_you_think_about_all_this_hype_for/)
 - [[R] LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://www.reddit.com/r/MachineLearning/comments/1266d02/r_llamaadapter_efficient_finetuning_of_language/)
 - [[P] Fabrice Bellard&#39;s TextSynth Server](https://www.reddit.com/r/MachineLearning/comments/1264t4a/p_fabrice_bellards_textsynth_server/)
 - [[D] Style/ object consistent image generation](https://www.reddit.com/r/MachineLearning/comments/1262zh9/d_style_object_consistent_image_generation/)
 - [[D] Training a 65b LLaMA model](https://www.reddit.com/r/MachineLearning/comments/12618zu/d_training_a_65b_llama_model/)
-- [[D] Anyone aware of research that examines the effect of different beam sizes during LLM evaluation?](https://www.reddit.com/r/MachineLearning/comments/1260hmu/d_anyone_aware_of_research_that_examines_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
