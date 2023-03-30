@@ -156,7 +156,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leaves me literally no time on writing the tech blogs. I do, however, keep studying techs in a what I found more efficient approach below.
 
-Since my blogs were essentially paraphrasing their documentations, why not simply [fork their entire documentation and add my notes, if any, to it](https://github.com/users/QubitPi/projects/4/)? That basically saves a lot of my time and packs everything in a more giant notebook of forks. So here they are:
+Since my blogs were essentially paraphrasing their documentations, why not simply [fork their entire documentation and add my notes, if any, to it](https://github.com/users/QubitPi/projects/4/)? That basically saves a lot of my time and packs everything in a more giant notebook of open-sourced documentation forks. So here they are:
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
