@@ -150,7 +150,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-### I Learn Technologies Everyday throught Open Source
+### I Learn Technologies Everyday through Open Source
 
 > Because I believe _Open Source Implies Open Information Freely Available_
 
