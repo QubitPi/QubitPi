@@ -152,7 +152,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### How I Learn Technologies Everyday
 
-> Open Source Implies Open Information Freely Available
+> Because I believe _Open Source Implies Open Information Freely Available_
 
 </div>
 
