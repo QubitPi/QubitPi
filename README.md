@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [How Sprint Planning supports Inspection &lpar;12&rpar;](https://www.scrum.org/resources/blog/how-sprint-planning-supports-inspection-12)
 - [Erstellen eines persönlichen Readme für Scrum Master mit ChatGPT 🇩🇪](https://www.scrum.org/resources/blog/erstellen-eines-personlichen-readme-fur-scrum-master-mit-chatgpt)
 - [Scrum im Selbststudium – Teil 19: Der Scrum Master verantwortet die Effektivität des Scrum Teams](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-19-der-scrum-master-verantwortet-die-effektivitat-des)
 - [Lessons from a PST on Preparing for the PSPO III Exam - Spoiler Alert, I Failed the First Time](https://www.scrum.org/resources/blog/lessons-pst-preparing-pspo-iii-exam-spoiler-alert-i-failed-first-time)
 - [Scrum im Selbststudium – Teil 18: Die Entwickler schaffen jeden Sprint ein nutzbares Inkrement](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-18-die-entwickler-schaffen-jeden-sprint-ein-nutzbares)
-- [Scrum es un Contenedor](https://www.scrum.org/resources/blog/scrum-es-un-contenedor)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
