@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1641507082552725505)
-- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1641489464680669186)
 - [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. https://memgraph.com/blog/data-persis...](https://twitter.com/memgraphdb/status/1641471301192753152)
 - [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1641428566326800391)
 - [🌟 Unleash the power of real-time streaming with #Memgraph, an open-source graph database compatible with #Neo4j! Boost your performance with our in...](https://twitter.com/memgraphdb/status/1641422658628665344)
+- [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1641419255324241922)
+- [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1641398365651861506)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
