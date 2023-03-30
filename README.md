@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn how @DecodedHealth is transforming health care with ML models, ontologies, and graphs with ArangoDB. 🩺🥑 Check out their full case study be...](https://twitter.com/arangodb/status/1641530752754917390)
 - [Re @_sh286 Our documentation itself is available as mentioned above. While we do require registration for our University, all the courses there are av...](https://twitter.com/arangodb/status/1641422492316172297)
 - [Great news! ArangoDB has achieved #SOC2 compliance. This means our customers can trust us to securely handle their sensitive data. 💥 Check out our ...](https://twitter.com/arangodb/status/1641394918613499907)
 - [Explore eCommerce analytics with ArangoGraph Insights Platform. Check out our demo that lets you analyze actual data from Instacart orders in the app....](https://twitter.com/arangodb/status/1641168371587620867)
 - [Don&#39;t miss the incredible opportunity to dive into the cutting-edge world of graph and graphML! All the content from our inaugural Summit on the futur...](https://twitter.com/arangodb/status/1641032476142231553)
-- [Re @_sh286 The Go Driver tutorials are part of our University, you can access those here: https://university.arangodb.com/ 🥑](https://twitter.com/arangodb/status/1641005595275808768)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
