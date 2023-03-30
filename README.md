@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs - Yaobo Liang et al Microsoft 2023](https://www.reddit.com/r/MachineLearning/comments/126wvkq/r_taskmatrixai_completing_tasks_by_connecting/)
 - [[D] AI Explainability and Alignment through Natural Language Internal Interfaces](https://www.reddit.com/r/MachineLearning/comments/126wg0o/d_ai_explainability_and_alignment_through_natural/)
 - [Thought experiment: we&#39;re only [x] # of hardware improvements away from &quot;AGI&quot; [D]](https://www.reddit.com/r/MachineLearning/comments/126umdi/thought_experiment_were_only_x_of_hardware/)
 - [[D] Turns out, Othello-GPT does have a world model.](https://www.reddit.com/r/MachineLearning/comments/126rgih/d_turns_out_othellogpt_does_have_a_world_model/)
 - [[D] Directed Graph-based Machine Learning Pipeline tool?](https://www.reddit.com/r/MachineLearning/comments/126qw8z/d_directed_graphbased_machine_learning_pipeline/)
-- [[R] AdaSubS: An Adaptive RL Algorithm &lpar;top 5% oral ICLR2023&rpar;](https://www.reddit.com/r/MachineLearning/comments/126p9vm/r_adasubs_an_adaptive_rl_algorithm_top_5_oral/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
