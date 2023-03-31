@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1641743390709538816)
+- [📢 Memgraph Lab is a visual UI for exploring and managing data stored in the #Memgraph database. Check out the new features in Memgraph Lab 2.5 belo...](https://twitter.com/memgraphdb/status/1641742244523671552)
+- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1641737598979719170)
 - [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1641710420502142976)
 - [Re @thesource51 @discord Take a look at our blog posts, especially those in the category Under the hood &lpar;https://memgraph.com/blog?topics=Under+the+Ho...](https://twitter.com/memgraphdb/status/1641697666554900480)
-- [Re @thesource51 Thank you @thesource51 for including #Memgraph in your list :&rpar; If you&#39;ll need any help with your research, just ping us here or join o...](https://twitter.com/memgraphdb/status/1641687291830710272)
-- [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1641687015480520705)
-- [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1641676448523010049)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
