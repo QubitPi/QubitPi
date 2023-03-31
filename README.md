@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1641710420502142976)
-- [Re @thesource51 @discord Take a look at our blog posts, especially those in the category Under the hood &lpar;https://memgraph.com/blog?topics=Under+the+Ho...](https://twitter.com/memgraphdb/status/1641697666554900480)
 - [Re @thesource51 Thank you @thesource51 for including #Memgraph in your list :&rpar; If you&#39;ll need any help with your research, just ping us here or join o...](https://twitter.com/memgraphdb/status/1641687291830710272)
 - [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1641687015480520705)
 - [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1641676448523010049)
+- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. https://memgrap...](https://twitter.com/memgraphdb/status/1641653796550868992)
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1641507082552725505)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
