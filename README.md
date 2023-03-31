@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779093323803525121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bec5362c2ddc873324e4f83fb7a8778b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启~ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝奖励时，可获得双倍奖...](https://t.bilibili.com/779093323803525121)
-- [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/778360761325977600)
-- [#原神# 亲爱的旅行者，「有香自西来·寻味北地」活动即将开启~ 〓活动时间〓 2023/03/31 10:00 ~ 2023/04/10 03:59 〓参与条件〓 冒险等阶≥20级可进行调料制作 ...](https://t.bilibili.com/778352708233986088)
-- [#原神# #盛典与慧业# #原神3.6版本前瞻特别节目# #原神3.6# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.6版本「盛典与慧业」前瞻特别节目将于3...](https://t.bilibili.com/778351797728182342)
-- [#必胜邀约寻珍之旅# #必胜客原神联动# 必胜客x原神联动礼品卡&amp;电子会员卡说明，请旅行者查收~](https://t.bilibili.com/778088000837910581)
+- [#原神# #盛典与慧业# #原神3.6# 《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图 《原神》3.6版本「盛典与慧业」将于2023年4月12日上线。 感谢各位旅行者的...](https://t.bilibili.com/779236346213433353)
+- [《原神》3.6版本「盛典与慧业」前瞻特别节目](https://t.bilibili.com/779235057726390358)
+- [[原神_哇][原神_哇]](https://t.bilibili.com/779233228095488002)
+- [#原神# #原神音乐# 亲爱的旅行者，原神3.6版本PV音乐《A Parade of Providence 盛典与慧业》现已更新加入专辑《流星的轨迹 Footprints of the Traveler》中。后...](https://t.bilibili.com/779228963155214421)
+- [互动抽奖 #原神# #原神3.6# #盛典与慧业# 《原神》3.6版本PV：「盛典与慧业」现已发布~ https://www.bilibili.com/video/BV1Ds4y1J7n3 生命伴随痛苦与欢愉，在历...](https://t.bilibili.com/779227610252050468)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
