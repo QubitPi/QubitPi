@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779093323803525121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bec5362c2ddc873324e4f83fb7a8778b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779236346213433353><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dfd4cab7ea4d3c96718e004ad17ee03e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #盛典与慧业# #原神3.6# 《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图 《原神》3.6版本「盛典与慧业」将于2023年4月12日上线。 感谢各位旅行者的...](https://t.bilibili.com/779236346213433353)
