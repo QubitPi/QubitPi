@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [April 1st, you&#39;ll be able to hear a new podcast episode, and Emil Eifrem sent an excellent question for the hosts...🔥 Wanna know the answer? Subscr...](https://twitter.com/neo4j/status/1641795042456006656)
 - [Here we discuss a new representation of a graph’s database schema that provides a catalog of labels and types and their combination into actual entit...](https://twitter.com/neo4j/status/1641545972479152131)
 - [Jack Wallen sets up the Neo4j Desktop app on Pop!_OS Linux. He walks us through the required steps of Neo4j AppImage download, installation, and confi...](https://twitter.com/neo4j/status/1641500639124414470)
 - [RT William Lyon: 🗺️ If you missed yesterday&#39;s workshop on working with #OpenStreetMap #GIS data in @Neo4j you can find the recording here: https:/...](https://twitter.com/lyonwj/status/1641460762970591233)
 - [4 GraphSummits and counting! 🌎🎉 NEXT: 18 April 2023 —&gt; Munich 19 April 2023—&gt; Irvine 20 April 2023—&gt; Amsterdam And many more in Europe, North...](https://twitter.com/neo4j/status/1641460371302105088)
-- [Neo4j Live: SchemaSmith for Data Governance https://twitter.com/i/broadcasts/1ZkJzXdAdooKv](https://twitter.com/neo4j/status/1641455246525321216)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
