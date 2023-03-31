@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Intro to Scrum &lpar;14 of 16&rpar;: What is the Product Backlog and Product Goal?](https://www.scrum.org/resources/blog/intro-scrum-14-16-what-product-backlog-and-product-goal)
 - [¿Por qué los coaches de vida se hacen pasar por agile coaches?](https://www.scrum.org/resources/blog/por-que-los-coaches-de-vida-se-hacen-pasar-por-agile-coaches)
 - [Agile Principles - Effective Communication](https://www.scrum.org/resources/blog/agile-principles-effective-communication)
 - [How Sprint Planning supports Inspection &lpar;12&rpar;](https://www.scrum.org/resources/blog/how-sprint-planning-supports-inspection-12)
 - [Erstellen eines persönlichen Readme für Scrum Master mit ChatGPT 🇩🇪](https://www.scrum.org/resources/blog/erstellen-eines-personlichen-readme-fur-scrum-master-mit-chatgpt)
-- [Scrum im Selbststudium – Teil 19: Der Scrum Master verantwortet die Effektivität des Scrum Teams](https://www.scrum.org/resources/blog/scrum-im-selbststudium-teil-19-der-scrum-master-verantwortet-die-effektivitat-des)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
