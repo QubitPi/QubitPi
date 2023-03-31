@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [ArangoDB helps Cognitiv+ dramatically improve the customer experience while supporting multiple use cases. 🥑 Learn how ArangoDB was Cognitiv+ choic...](https://twitter.com/arangodb/status/1641893141765672978)
 - [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1641757244067913735)
 - [Learn how @DecodedHealth is transforming health care with ML models, ontologies, and graphs with ArangoDB. 🩺🥑 Check out their full case study be...](https://twitter.com/arangodb/status/1641530752754917390)
 - [RT Joerg: Re @arangodb And ArangoDB uses resoto as well, so full circle here. Kudos to @someengineering!](https://twitter.com/joerg_schad/status/1641519034859397131)
 - [Re @_sh286 Our documentation itself is available as mentioned above. While we do require registration for our University, all the courses there are av...](https://twitter.com/arangodb/status/1641422492316172297)
-- [Great news! ArangoDB has achieved #SOC2 compliance. This means our customers can trust us to securely handle their sensitive data. 💥 Check out our ...](https://twitter.com/arangodb/status/1641394918613499907)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
