@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[discussion] Anybody Working with VITMAE?](https://www.reddit.com/r/MachineLearning/comments/1280rhi/discussion_anybody_working_with_vitmae/)
 - [[D] Grid computing for LLMs](https://www.reddit.com/r/MachineLearning/comments/127yb0i/d_grid_computing_for_llms/)
 - [[News] Twitter algorithm now open source](https://www.reddit.com/r/MachineLearning/comments/127wy7i/news_twitter_algorithm_now_open_source/)
 - [[D] [R] On what kind of machine does Midjorney, the art generating AI, runs on?](https://www.reddit.com/r/MachineLearning/comments/127s5lk/d_r_on_what_kind_of_machine_does_midjorney_the/)
 - [[D] Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://www.reddit.com/r/MachineLearning/comments/127qz0b/d_where_are_we_in_the_search_for_an_artificial/)
-- [[P] CAPPr: use OpenAI or HuggingFace models to easily do zero-shot text classification](https://www.reddit.com/r/MachineLearning/comments/127pbst/p_cappr_use_openai_or_huggingface_models_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
