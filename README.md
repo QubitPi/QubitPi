@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1641835746221801472)
-- [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1641831972681990149)
 - [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1641809322211528704)
 - [Welcome and congratulations on joining #memgraph, Ani! We look forward to sharing many laughs, wins, and successes with you on our team. https://t.co/...](https://twitter.com/memgraphdb/status/1641808508432666624)
 - [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1641790953647222786)
+- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1641761506789294080)
+- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1641743390709538816)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
