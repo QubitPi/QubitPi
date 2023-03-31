@@ -244,9 +244,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #盛典与慧业# #原神3.6# 《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图 《原神》3.6版本「盛典与慧业」将于2023年4月12日上线。 感谢各位旅行者的...](https://t.bilibili.com/779236346213433353)
 - [《原神》3.6版本「盛典与慧业」前瞻特别节目](https://t.bilibili.com/779235057726390358)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/779233228095488002)
 - [#原神# #原神音乐# 亲爱的旅行者，原神3.6版本PV音乐《A Parade of Providence 盛典与慧业》现已更新加入专辑《流星的轨迹 Footprints of the Traveler》中。后...](https://t.bilibili.com/779228963155214421)
 - [互动抽奖 #原神# #原神3.6# #盛典与慧业# 《原神》3.6版本PV：「盛典与慧业」现已发布~ https://www.bilibili.com/video/BV1Ds4y1J7n3 生命伴随痛苦与欢愉，在历...](https://t.bilibili.com/779227610252050468)
+- [《原神》3.6版本PV：「盛典与慧业」](https://t.bilibili.com/779226107016642627)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
