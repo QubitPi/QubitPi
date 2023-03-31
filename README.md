@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] - Is it too late to foray into AI / ML? Need honest suggestions.](https://www.reddit.com/r/MachineLearning/comments/127qgw3/d_is_it_too_late_to_foray_into_ai_ml_need_honest/)
 - [[P] CAPPr: use OpenAI or HuggingFace models to easily do zero-shot text classification](https://www.reddit.com/r/MachineLearning/comments/127pbst/p_cappr_use_openai_or_huggingface_models_to/)
 - [[P] TUI for the Slurm Workload Manager](https://www.reddit.com/r/MachineLearning/comments/127jpfy/p_tui_for_the_slurm_workload_manager/)
 - [[N] AutoML research videos freely available on youtube](https://www.reddit.com/r/MachineLearning/comments/127dhmh/n_automl_research_videos_freely_available_on/)
 - [[D][N] LAION Launches Petition to Establish an International Publicly Funded Supercomputing Facility for Open Source Large-scale AI Research and its Safety](https://www.reddit.com/r/MachineLearning/comments/127asin/dn_laion_launches_petition_to_establish_an/)
-- [[P] OTO: Automatically Train and Compress General DNNs](https://www.reddit.com/r/MachineLearning/comments/127amnk/p_oto_automatically_train_and_compress_general/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
