@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778360761325977600><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8d7f640afb4b39f3f85c2e7931a51ad43493089586972896.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779093323803525121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bec5362c2ddc873324e4f83fb7a8778b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启~ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝奖励时，可获得双倍奖...](https://t.bilibili.com/779093323803525121)
