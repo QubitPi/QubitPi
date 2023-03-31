@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1641761506789294080)
 - [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1641743390709538816)
 - [📢 Memgraph Lab is a visual UI for exploring and managing data stored in the #Memgraph database. Check out the new features in Memgraph Lab 2.5 belo...](https://twitter.com/memgraphdb/status/1641742244523671552)
 - [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1641737598979719170)
 - [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1641710420502142976)
+- [Re @thesource51 @discord Take a look at our blog posts, especially those in the category Under the hood &lpar;https://memgraph.com/blog?topics=Under+the+Ho...](https://twitter.com/memgraphdb/status/1641697666554900480)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
