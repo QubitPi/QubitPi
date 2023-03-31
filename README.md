@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/778360761325977600><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8d7f640afb4b39f3f85c2e7931a51ad43493089586972896.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启~ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启示之花」领取秘宝奖励时，可获得双倍奖...](https://t.bilibili.com/779093323803525121)
 - [好耶！[原神_哇][原神_哇]](https://t.bilibili.com/778360761325977600)
 - [#原神# 亲爱的旅行者，「有香自西来·寻味北地」活动即将开启~ 〓活动时间〓 2023/03/31 10:00 ~ 2023/04/10 03:59 〓参与条件〓 冒险等阶≥20级可进行调料制作 ...](https://t.bilibili.com/778352708233986088)
 - [#原神# #盛典与慧业# #原神3.6版本前瞻特别节目# #原神3.6# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.6版本「盛典与慧业」前瞻特别节目将于3...](https://t.bilibili.com/778351797728182342)
 - [#必胜邀约寻珍之旅# #必胜客原神联动# 必胜客x原神联动礼品卡&amp;电子会员卡说明，请旅行者查收~](https://t.bilibili.com/778088000837910581)
-- [亲爱的旅行者，必胜客×原神联动将于4月3日正式开启，请查收这份主题店体验攻略吧~#必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/778087433900130308)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
