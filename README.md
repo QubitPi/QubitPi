@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Join our Sky360 open source project to observe the skies and contribute to citizen science! [R] [P]](https://www.reddit.com/r/MachineLearning/comments/127e7xn/join_our_sky360_open_source_project_to_observe/)
 - [[N] AutoML research videos freely available on youtube](https://www.reddit.com/r/MachineLearning/comments/127dhmh/n_automl_research_videos_freely_available_on/)
 - [Subject: DeepMind&#39;s Flamingo models, a brief try [D]](https://www.reddit.com/r/MachineLearning/comments/127czdn/subject_deepminds_flamingo_models_a_brief_try_d/)
 - [[D][N] LAION Launches Petition to Establish an International Publicly Funded Supercomputing Facility for Open Source Large-scale AI Research and its Safety](https://www.reddit.com/r/MachineLearning/comments/127asin/dn_laion_launches_petition_to_establish_an/)
 - [[P] OTO: Automatically Train and Compress General DNNs](https://www.reddit.com/r/MachineLearning/comments/127amnk/p_oto_automatically_train_and_compress_general/)
-- [Any good AI meme generators? &lpar;An open letter to AI developers who have derailed from seeking the good of humanity&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/127a8km/any_good_ai_meme_generators_an_open_letter_to_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
