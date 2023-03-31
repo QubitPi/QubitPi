@@ -539,7 +539,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Oppo Icon Branding Design: iconography icons pack flat vector](https://dribbble.com/shots/20866045)
 - [Magma Site Development](https://dribbble.com/shots/21043115)
 - [Wiza - Facelift](https://dribbble.com/shots/21030610)
-- [Storage Rent Mobile App](https://dribbble.com/shots/20865869)
+- [Storage Rent Mobile App design: iOS Android ux ui designer](https://dribbble.com/shots/20865869)
 - [Coral Cell Logomark](https://dribbble.com/shots/21046734)
 <!-- DRIBBBLE-TRENDING:END -->
 
