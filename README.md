@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Re @thesource51 Thank you @thesource51 for including #Memgraph in your list :&rpar; If you&#39;ll need any help with your research, just ping us here or join o...](https://twitter.com/memgraphdb/status/1641687291830710272)
-- [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1641687015480520705)
-- [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1641676448523010049)
-- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. https://memgrap...](https://twitter.com/memgraphdb/status/1641653796550868992)
 - [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1641507082552725505)
+- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1641489464680669186)
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. https://memgraph.com/blog/data-persis...](https://twitter.com/memgraphdb/status/1641471301192753152)
+- [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1641428566326800391)
+- [🌟 Unleash the power of real-time streaming with #Memgraph, an open-source graph database compatible with #Neo4j! Boost your performance with our in...](https://twitter.com/memgraphdb/status/1641422658628665344)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
