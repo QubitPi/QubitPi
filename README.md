@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Web application with machine leaning[R]](https://www.reddit.com/r/MachineLearning/comments/127504x/web_application_with_machine_leaningr/)
+- [[D] Yan LeCun&#39;s recent recommendations](https://www.reddit.com/r/MachineLearning/comments/1274w45/d_yan_lecuns_recent_recommendations/)
 - [[P] Introducing Vicuna: An open-source language model based on LLaMA 13B](https://www.reddit.com/r/MachineLearning/comments/1271po7/p_introducing_vicuna_an_opensource_language_model/)
 - [[P] Reinforcement Learning: Defining an Action Space](https://www.reddit.com/r/MachineLearning/comments/12709hw/p_reinforcement_learning_defining_an_action_space/)
 - [[D] What are your top 3 pain points as an ML developer in 2023?](https://www.reddit.com/r/MachineLearning/comments/126zxjo/d_what_are_your_top_3_pain_points_as_an_ml/)
-- [[D] Dataset to figuring out LLM&#39;s zero shot memorization capabilities?](https://www.reddit.com/r/MachineLearning/comments/126ypj9/d_dataset_to_figuring_out_llms_zero_shot/)
-- [[R] TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs - Yaobo Liang et al Microsoft 2023](https://www.reddit.com/r/MachineLearning/comments/126wvkq/r_taskmatrixai_completing_tasks_by_connecting/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
