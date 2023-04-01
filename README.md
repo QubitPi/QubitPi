@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] A Complete Survey on Generative AI &lpar;AIGC&rpar;: Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://www.reddit.com/r/MachineLearning/comments/128bmv4/r_a_complete_survey_on_generative_ai_aigc_is/)
 - [[D] Multilingual Retrieve &amp; Re-Rank Models](https://www.reddit.com/r/MachineLearning/comments/1286n6w/d_multilingual_retrieve_rerank_models/)
 - [[discussion] Anybody Working with VITMAE?](https://www.reddit.com/r/MachineLearning/comments/1280rhi/discussion_anybody_working_with_vitmae/)
 - [[D] Grid computing for LLMs](https://www.reddit.com/r/MachineLearning/comments/127yb0i/d_grid_computing_for_llms/)
 - [[News] Twitter algorithm now open source](https://www.reddit.com/r/MachineLearning/comments/127wy7i/news_twitter_algorithm_now_open_source/)
-- [[D] [R] On what kind of machine does Midjorney, the art generating AI, runs on?](https://www.reddit.com/r/MachineLearning/comments/127s5lk/d_r_on_what_kind_of_machine_does_midjorney_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
