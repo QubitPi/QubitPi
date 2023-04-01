@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Discord captcha used what seems to be AI generated images. Anyone know what its purpose is? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/1292a0o/discord_captcha_used_what_seems_to_be_ai/)
 - [[D] Extracting information such as plaintiff name, case number, date of filing, from scanned legal documents that are not consistent in formatting?](https://www.reddit.com/r/MachineLearning/comments/1292385/d_extracting_information_such_as_plaintiff_name/)
 - [[D] State of the art for contextual bandit optimization](https://www.reddit.com/r/MachineLearning/comments/12914wp/d_state_of_the_art_for_contextual_bandit/)
 - [[D] - Machine Learning Engineering tech stack](https://www.reddit.com/r/MachineLearning/comments/1290nci/d_machine_learning_engineering_tech_stack/)
 - [[R] GPTrillion - the world’s first open-source 1.5 trillion parameter model](https://www.reddit.com/r/MachineLearning/comments/12906gx/r_gptrillion_the_worlds_first_opensource_15/)
-- [Code Validation [P]](https://www.reddit.com/r/MachineLearning/comments/128w96a/code_validation_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
