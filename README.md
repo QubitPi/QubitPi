@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Code Validation [P]](https://www.reddit.com/r/MachineLearning/comments/128w96a/code_validation_p/)
+- [Machine Learning Question [P]](https://www.reddit.com/r/MachineLearning/comments/128w837/machine_learning_question_p/)
+- [[N] Baker Lab open sourced RFDiffusion](https://www.reddit.com/r/MachineLearning/comments/128w4s6/n_baker_lab_open_sourced_rfdiffusion/)
 - [[R] NVIDIA BundleSDF: neural 6dof tracking and 3D reconstruction of unknown objects [code coming soon]](https://www.reddit.com/r/MachineLearning/comments/128vri6/r_nvidia_bundlesdf_neural_6dof_tracking_and_3d/)
 - [[R] Side-by-side comparison between fine-tuned and non fine-tuned pedestrian detection models on videos from CityPersons](https://www.reddit.com/r/MachineLearning/comments/128vgxi/r_sidebyside_comparison_between_finetuned_and_non/)
-- [[P] AI Learns to Drive | Deliver Pizza](https://www.reddit.com/r/MachineLearning/comments/128vdlg/p_ai_learns_to_drive_deliver_pizza/)
-- [[P] Unofficial, Community-Managed OpenAPI Spec for Vector Search Database Pinecone](https://www.reddit.com/r/MachineLearning/comments/128trcr/p_unofficial_communitymanaged_openapi_spec_for/)
-- [[D] Fine-tune GPT on sketch data &lpar;stroke-3&rpar;](https://www.reddit.com/r/MachineLearning/comments/128thwd/d_finetune_gpt_on_sketch_data_stroke3/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
