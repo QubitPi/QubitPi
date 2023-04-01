@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I made a video about Nixified.AI, a project I&#39;m starting to make AI more reproducible and easy to self-host and run on Windows/Mac/Linux easily, without containers. It features InvokeAI and KoboldAI to start with.](https://www.reddit.com/r/MachineLearning/comments/128oqbh/p_i_made_a_video_about_nixifiedai_a_project_im/)
 - [[D] Best free tool for labeling dicom images](https://www.reddit.com/r/MachineLearning/comments/128o2ky/d_best_free_tool_for_labeling_dicom_images/)
 - [[P] An implementation of LLaMA based on nanoGPT](https://www.reddit.com/r/MachineLearning/comments/128nprz/p_an_implementation_of_llama_based_on_nanogpt/)
 - [[D] Best LLM model for Arabic based closed book question answering](https://www.reddit.com/r/MachineLearning/comments/128nmdb/d_best_llm_model_for_arabic_based_closed_book/)
 - [[R] [P] I generated a 30K-utterance dataset by making GPT-4 prompt two ChatGPT instances to converse.](https://www.reddit.com/r/MachineLearning/comments/128lo83/r_p_i_generated_a_30kutterance_dataset_by_making/)
-- [[P] ChatGPT Survey: Performance on NLP datasets](https://www.reddit.com/r/MachineLearning/comments/128ji6w/p_chatgpt_survey_performance_on_nlp_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
