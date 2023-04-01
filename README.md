@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] State of the art for contextual bandit optimization](https://www.reddit.com/r/MachineLearning/comments/12914wp/d_state_of_the_art_for_contextual_bandit/)
 - [[D] - Machine Learning Engineering tech stack](https://www.reddit.com/r/MachineLearning/comments/1290nci/d_machine_learning_engineering_tech_stack/)
 - [[R] GPTrillion - the world’s first open-source 1.5 trillion parameter model](https://www.reddit.com/r/MachineLearning/comments/12906gx/r_gptrillion_the_worlds_first_opensource_15/)
 - [[R] What is the best job in ML?](https://www.reddit.com/r/MachineLearning/comments/128ynq2/r_what_is_the_best_job_in_ml/)
 - [Code Validation [P]](https://www.reddit.com/r/MachineLearning/comments/128w96a/code_validation_p/)
-- [Machine Learning Question [P]](https://www.reddit.com/r/MachineLearning/comments/128w837/machine_learning_question_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
