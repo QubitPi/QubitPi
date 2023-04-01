@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779236346213433353><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dfd4cab7ea4d3c96718e004ad17ee03e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #盛典与慧业# #原神3.6# 《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图 《原神》3.6版本「盛典与慧业」将于2023年4月12日上线。 感谢各位旅行者的...](https://t.bilibili.com/779236346213433353)
-- [《原神》3.6版本「盛典与慧业」前瞻特别节目](https://t.bilibili.com/779235057726390358)
-- [#原神# #原神音乐# 亲爱的旅行者，原神3.6版本PV音乐《A Parade of Providence 盛典与慧业》现已更新加入专辑《流星的轨迹 Footprints of the Traveler》中。后...](https://t.bilibili.com/779228963155214421)
-- [互动抽奖 #原神# #原神3.6# #盛典与慧业# 《原神》3.6版本PV：「盛典与慧业」现已发布~ https://www.bilibili.com/video/BV1Ds4y1J7n3 生命伴随痛苦与欢愉，在历...](https://t.bilibili.com/779227610252050468)
-- [《原神》3.6版本PV：「盛典与慧业」](https://t.bilibili.com/779226107016642627)
+- [恭喜@八重神子大人的小脚脚@怡咂qwq@雪地里的黎明等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/779495345654595636)
+- [#原神# #原神喵# 「喵？喵。」 ——总是独来独往的猫咪，对人爱答不理。](https://t.bilibili.com/779468274474680329)
+- [#原神# #原神喵# 「喵，喵。」 ——身手矫健，散发着低调气质的猫咪。](https://t.bilibili.com/779466985987637264)
+- [#原神# #原神喵# 「喵喵喵，喵喵，喵喵！」 ——经常在街道上巡视的认真猫咪。](https://t.bilibili.com/779465718943973379)
+- [#原神# #原神喵# 「...喵。喵喵喵。」 ——白天十分沉静，夜晚却又十分活跃的猫咪。](https://t.bilibili.com/779464404712292451)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
