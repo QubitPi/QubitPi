@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Counterfactual Regret Minimization Regret Sum Always &lt; 0](https://www.reddit.com/r/MachineLearning/comments/128rob9/p_counterfactual_regret_minimization_regret_sum/)
 - [[R] Energy-Efficient Adaptive 3D Sensing &lpar;CVPR 2023&rpar;](https://www.reddit.com/r/MachineLearning/comments/128qxq6/r_energyefficient_adaptive_3d_sensing_cvpr_2023/)
 - [[D] Same architecture, different dataset, can&#39;t detect anything with object detection model.](https://www.reddit.com/r/MachineLearning/comments/128qscs/d_same_architecture_different_dataset_cant_detect/)
 - [[D] Improving ChatGPTs output with recursion.](https://www.reddit.com/r/MachineLearning/comments/128q0vz/d_improving_chatgpts_output_with_recursion/)
 - [[P] I made a video about Nixified.AI, a project I&#39;m starting to make AI more reproducible and easy to self-host and run on Windows/Mac/Linux easily, without containers. It features InvokeAI and KoboldAI to start with.](https://www.reddit.com/r/MachineLearning/comments/128oqbh/p_i_made_a_video_about_nixifiedai_a_project_im/)
-- [[D] Best free tool for labeling dicom images](https://www.reddit.com/r/MachineLearning/comments/128o2ky/d_best_free_tool_for_labeling_dicom_images/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
