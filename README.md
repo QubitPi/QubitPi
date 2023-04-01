@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1642038833897168897)
+- [❗️ Although some naive text-searching solutions could be built with a graph database like Memgraph, Elasticsearch is better at offering fine-grained...](https://twitter.com/memgraphdb/status/1642024239015383040)
 - [🚀 Build C++ Graph Analytics effortlessly with the new Memgraph C++ API! Supercharge your pipeline without memory worries. #GraphAnalytics #cplusplu...](https://twitter.com/memgraphdb/status/1641873748499259403)
 - [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1641849839838195712)
 - [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1641835746221801472)
-- [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1641831972681990149)
-- [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1641809322211528704)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
