@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] I generated a 30K-utterance dataset by making GPT-4 prompt two ChatGPT instances to converse.](https://www.reddit.com/r/MachineLearning/comments/128lo83/r_p_i_generated_a_30kutterance_dataset_by_making/)
 - [[P] ChatGPT Survey: Performance on NLP datasets](https://www.reddit.com/r/MachineLearning/comments/128ji6w/p_chatgpt_survey_performance_on_nlp_datasets/)
 - [[D] What text completion tasks do you like for testing out large language models?](https://www.reddit.com/r/MachineLearning/comments/128gdyx/d_what_text_completion_tasks_do_you_like_for/)
 - [[R] A Complete Survey on Generative AI &lpar;AIGC&rpar;: Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://www.reddit.com/r/MachineLearning/comments/128bmv4/r_a_complete_survey_on_generative_ai_aigc_is/)
 - [[D] Multilingual Retrieve &amp; Re-Rank Models](https://www.reddit.com/r/MachineLearning/comments/1286n6w/d_multilingual_retrieve_rerank_models/)
-- [[discussion] Anybody Working with VITMAE?](https://www.reddit.com/r/MachineLearning/comments/1280rhi/discussion_anybody_working_with_vitmae/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
