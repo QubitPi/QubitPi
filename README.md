@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. https://memgraph.com/blog/solving-most-co...](https://twitter.com/memgraphdb/status/1642123895791579138)
-- [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. https://memgraph.com/blog/networkx-developers-...](https://twitter.com/memgraphdb/status/1642105778470375426)
 - [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1642098479857106945)
 - [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1642087910714351618)
 - [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. https...](https://twitter.com/memgraphdb/status/1642049403727888384)
+- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1642038833897168897)
+- [❗️ Although some naive text-searching solutions could be built with a graph database like Memgraph, Elasticsearch is better at offering fine-grained...](https://twitter.com/memgraphdb/status/1642024239015383040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
