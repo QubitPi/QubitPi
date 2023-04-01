@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Side-by-side comparison between fine-tuned and non fine-tuned pedestrian detection models on videos from CityPersons](https://www.reddit.com/r/MachineLearning/comments/128vgxi/r_sidebyside_comparison_between_finetuned_and_non/)
+- [[P] AI Learns to Drive | Deliver Pizza](https://www.reddit.com/r/MachineLearning/comments/128vdlg/p_ai_learns_to_drive_deliver_pizza/)
 - [[P] Unofficial, Community-Managed OpenAPI Spec for Vector Search Database Pinecone](https://www.reddit.com/r/MachineLearning/comments/128trcr/p_unofficial_communitymanaged_openapi_spec_for/)
 - [[D] Fine-tune GPT on sketch data &lpar;stroke-3&rpar;](https://www.reddit.com/r/MachineLearning/comments/128thwd/d_finetune_gpt_on_sketch_data_stroke3/)
 - [[D] Are there currently available LLMs that can fine-tune models using proprietary data of sufficient quality for businesses to utilize effectively?](https://www.reddit.com/r/MachineLearning/comments/128sg68/d_are_there_currently_available_llms_that_can/)
-- [[D] POV: you’re browsing through the COCO dataset at work &amp; find some… unexpected stuff](https://www.reddit.com/r/MachineLearning/comments/128s80d/d_pov_youre_browsing_through_the_coco_dataset_at/)
-- [[P] Counterfactual Regret Minimization Regret Sum Always &lt; 0](https://www.reddit.com/r/MachineLearning/comments/128rob9/p_counterfactual_regret_minimization_regret_sum/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
