@@ -297,7 +297,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] gpt4 copypasta](https://www.reddit.com/r/MachineLearning/comments/128j33i/d_gpt4_copypasta/)
+- [[P] ChatGPT Survey: Performance on NLP datasets](https://www.reddit.com/r/MachineLearning/comments/128ji6w/p_chatgpt_survey_performance_on_nlp_datasets/)
 - [[D] What text completion tasks do you like for testing out large language models?](https://www.reddit.com/r/MachineLearning/comments/128gdyx/d_what_text_completion_tasks_do_you_like_for/)
 - [[R] A Complete Survey on Generative AI &lpar;AIGC&rpar;: Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://www.reddit.com/r/MachineLearning/comments/128bmv4/r_a_complete_survey_on_generative_ai_aigc_is/)
 - [[D] Multilingual Retrieve &amp; Re-Rank Models](https://www.reddit.com/r/MachineLearning/comments/1286n6w/d_multilingual_retrieve_rerank_models/)
