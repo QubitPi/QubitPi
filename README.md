@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace - Yongliang Shen et al Microsoft Research Asia 2023 - Able to cover numerous sophisticated AI tasks in different modalities and domains and achieve impressive results!](https://www.reddit.com/r/MachineLearning/comments/129qi8p/r_hugginggpt_solving_ai_tasks_with_chatgpt_and/)
 - [[N] Finance GPT released : BloombergGPT &lpar;50B parameters&rpar;](https://www.reddit.com/r/MachineLearning/comments/129n7d2/n_finance_gpt_released_bloomberggpt_50b_parameters/)
 - [Need ideas for a project I have in mind [Project]](https://www.reddit.com/r/MachineLearning/comments/129l6ag/need_ideas_for_a_project_i_have_in_mind_project/)
 - [[P] rwkv.cpp: FP16 &amp; INT4 inference on CPU for RWKV language model](https://www.reddit.com/r/MachineLearning/comments/129ijci/p_rwkvcpp_fp16_int4_inference_on_cpu_for_rwkv/)
 - [[P] max_tokens being ignored in llama index &lpar;gpt index&rpar;](https://www.reddit.com/r/MachineLearning/comments/129htkf/p_max_tokens_being_ignored_in_llama_index_gpt/)
-- [[P] Easy assessment of dataset predictability](https://www.reddit.com/r/MachineLearning/comments/129g1lz/p_easy_assessment_of_dataset_predictability/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
