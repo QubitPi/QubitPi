@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. https://memgraph.com...](https://twitter.com/memgraphdb/status/1642506416555532288)
 - [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1642485530792194050)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1642462376241905665)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1642450295346065408)
 - [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ https://memgraph.com/blog/how-to-find-all-weig...](https://twitter.com/memgraphdb/status/1642425885880877058)
+- [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1642401222031187971)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
