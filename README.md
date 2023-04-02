@@ -628,6 +628,9 @@ Git Data Analytics - Everything is Datable
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 
 <div align="center">
+    
+我的旅途不会结束；我不曾忘记；我永不放弃
+    
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
     <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185776359-1a392d62-5117-4980-b5a4-19f536a43c3f.png">
 </a>
