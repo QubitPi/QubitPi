@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Expand StarGAN PyTorch implementation](https://www.reddit.com/r/MachineLearning/comments/12980d7/d_expand_stargan_pytorch_implementation/)
 - [Chain of thought prompting [R]](https://www.reddit.com/r/MachineLearning/comments/1297rx9/chain_of_thought_prompting_r/)
 - [[P] I built a sarcastic robot using GPT-4](https://www.reddit.com/r/MachineLearning/comments/1295muh/p_i_built_a_sarcastic_robot_using_gpt4/)
 - [[D] AGI Unleashed: Game Theory, Byzantine Generals, and the Heuristic Imperatives](https://www.reddit.com/r/MachineLearning/comments/1294932/d_agi_unleashed_game_theory_byzantine_generals/)
 - [[P]Notes analysis with ChatGPT and topic modeling](https://www.reddit.com/r/MachineLearning/comments/1292wbk/pnotes_analysis_with_chatgpt_and_topic_modeling/)
-- [[Discussion] Training CycleGAN creates weird &quot;holes&quot; in the generated pictures. Can anyone tell me what it might be?](https://www.reddit.com/r/MachineLearning/comments/1292sul/discussion_training_cyclegan_creates_weird_holes/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
