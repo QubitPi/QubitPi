@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [🚀Want to get started with #Graphs? Learn the basics of Neo4j and the property graph model with our FREE course at #GraphAcademy! https://okt.to/P6K...](https://twitter.com/neo4j/status/1642612135384498176)
 - [💥 &quot;Building a Recommendation Engine With a Neo4j GDS Machine Learning Pipeline&quot; - Did you miss this live session? Philip Brunenberg explains how to...](https://twitter.com/neo4j/status/1642566335992397826)
 - [This article presents a helpful overview of RDF &lpar;Resource Description Framework&rpar; and LPG &lpar;Labeled Property Graph&rpar; models. There are links to source ma...](https://twitter.com/neo4j/status/1642255542675550209)
 - [A few weeks ago, we proudly announced that we have successfully undergone a SOC2 Type II assessment! Enterprise Organizations can trust #Neo4j to mana...](https://twitter.com/neo4j/status/1642229351734190081)
 - [Do you use the application drivers to connect to #Neo4j? The team would love your #feedback, and there’s a new simplified API to learn about and help...](https://twitter.com/neo4j/status/1642167452497788930)
+- [#WardleyMaps 👉What they are 👉Where they are used 👉Why they are different from graphs. @alexandererdl summarizes the full-length Wardley Mappi...](https://twitter.com/neo4j/status/1642162671700135936)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
