@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 The best algorithm for the job depends on the type of graph and the needs of the application. ➡️ https://memgraph.com/blog/how-to-find-all-weig...](https://twitter.com/memgraphdb/status/1642425885880877058)
-- [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1642401222031187971)
 - [🎓 Since graph databases were first introduced, a lot of research has been done on the side of computer science, bringing graphs to machine learning...](https://twitter.com/memgraphdb/status/1642378575968886784)
 - [🚀 Expert teams in the field are often tasked with creating schedules to make optimal build processes for the company’s products. https://memgraph....](https://twitter.com/memgraphdb/status/1642231857637990400)
 - [🧠 Explore your cybersecurity graph storage with Memgraph and answer crucial questions about threats. Leverage MAGE, Memgraph&#39;s Advanced Graph Exten...](https://twitter.com/memgraphdb/status/1642214240680308736)
+- [💡 Relational databases can join data using keys, but they soon become inadequate when facing demands such as uncovering new insights, the causality...](https://twitter.com/memgraphdb/status/1642195650690285572)
+- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1642191592348954626)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
