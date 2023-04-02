@@ -299,9 +299,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] What is Explainable AI and what is its role in ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/129xjds/d_what_is_explainable_ai_and_what_is_its_role_in/)
 - [[P] Engshell: A GPT-4 Driven English-Language Shell for Code Execution with Recursive Capabilities](https://www.reddit.com/r/MachineLearning/comments/129wzdk/p_engshell_a_gpt4_driven_englishlanguage_shell/)
-- [[P] I built a free translation chat app that does translation in-app with AI](https://www.reddit.com/r/MachineLearning/comments/129wdy8/p_i_built_a_free_translation_chat_app_that_does/)
 - [[P] Poet GPT Update: New Features and Free GPT-4 Generation &lpar;example in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/129u1lh/p_poet_gpt_update_new_features_and_free_gpt4/)
 - [[D] Should we draw inspiration from Deep learning/Computer vision world for fine-tuning LLMs?](https://www.reddit.com/r/MachineLearning/comments/129syji/d_should_we_draw_inspiration_from_deep/)
+- [[P] I built a chatbot that lets you talk to any Github repository](https://www.reddit.com/r/MachineLearning/comments/129sqba/p_i_built_a_chatbot_that_lets_you_talk_to_any/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
