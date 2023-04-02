@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] AGI Unleashed: Game Theory, Byzantine Generals, and the Heuristic Imperatives](https://www.reddit.com/r/MachineLearning/comments/1294932/d_agi_unleashed_game_theory_byzantine_generals/)
 - [[P]Notes analysis with ChatGPT and topic modeling](https://www.reddit.com/r/MachineLearning/comments/1292wbk/pnotes_analysis_with_chatgpt_and_topic_modeling/)
 - [[Discussion] Training CycleGAN creates weird &quot;holes&quot; in the generated pictures. Can anyone tell me what it might be?](https://www.reddit.com/r/MachineLearning/comments/1292sul/discussion_training_cyclegan_creates_weird_holes/)
 - [Discord captcha used what seems to be AI generated images. Anyone know what its purpose is? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/1292a0o/discord_captcha_used_what_seems_to_be_ai/)
 - [[D] Extracting information such as plaintiff name, case number, date of filing, from scanned legal documents that are not consistent in formatting?](https://www.reddit.com/r/MachineLearning/comments/1292385/d_extracting_information_such_as_plaintiff_name/)
-- [[D] State of the art for contextual bandit optimization](https://www.reddit.com/r/MachineLearning/comments/12914wp/d_state_of_the_art_for_contextual_bandit/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
