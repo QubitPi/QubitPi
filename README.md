@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Project] Predicting Football &lpar;Soccer&rpar; Match Outcomes Using Bookmaker Betting Odds](https://www.reddit.com/r/MachineLearning/comments/12a0aud/project_predicting_football_soccer_match_outcomes/)
 - [[D] 4 hours before the deadline, only 39% of ICML meta-reviews were complete](https://www.reddit.com/r/MachineLearning/comments/129znu6/d_4_hours_before_the_deadline_only_39_of_icml/)
 - [[D] Jensen Huang interview with Ilya Sutskever - Open AI](https://www.reddit.com/r/MachineLearning/comments/129zh50/d_jensen_huang_interview_with_ilya_sutskever_open/)
 - [[D] What is Explainable AI and what is its role in ChatGPT?](https://www.reddit.com/r/MachineLearning/comments/129xjds/d_what_is_explainable_ai_and_what_is_its_role_in/)
 - [[P] Engshell: A GPT-4 Driven English-Language Shell for Code Execution with Recursive Capabilities](https://www.reddit.com/r/MachineLearning/comments/129wzdk/p_engshell_a_gpt4_driven_englishlanguage_shell/)
-- [[P] Poet GPT Update: New Features and Free GPT-4 Generation &lpar;example in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/129u1lh/p_poet_gpt_update_new_features_and_free_gpt4/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
