@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] I built a free translation chat app that does translation in-app with AI](https://www.reddit.com/r/MachineLearning/comments/129wdy8/p_i_built_a_free_translation_chat_app_that_does/)
 - [[P] Poet GPT Update: New Features and Free GPT-4 Generation &lpar;example in comments&rpar;](https://www.reddit.com/r/MachineLearning/comments/129u1lh/p_poet_gpt_update_new_features_and_free_gpt4/)
 - [[D] Should we draw inspiration from Deep learning/Computer vision world for fine-tuning LLMs?](https://www.reddit.com/r/MachineLearning/comments/129syji/d_should_we_draw_inspiration_from_deep/)
 - [[P] I built a chatbot that lets you talk to any Github repository](https://www.reddit.com/r/MachineLearning/comments/129sqba/p_i_built_a_chatbot_that_lets_you_talk_to_any/)
 - [[p] Poker AI Counterfactual Regret Minimization Algorithm vs PioSolver](https://www.reddit.com/r/MachineLearning/comments/129rmyq/p_poker_ai_counterfactual_regret_minimization/)
-- [[R] HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace - Yongliang Shen et al Microsoft Research Asia 2023 - Able to cover numerous sophisticated AI tasks in different modalities and domains and achieve impressive results!](https://www.reddit.com/r/MachineLearning/comments/129qi8p/r_hugginggpt_solving_ai_tasks_with_chatgpt_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
