@@ -297,7 +297,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D]](https://www.reddit.com/r/MachineLearning/comments/129f2i3/d/)
+- [[D] - Methods for panel/longitudinal data forecasting](https://www.reddit.com/r/MachineLearning/comments/129f5e6/d_methods_for_panellongitudinal_data_forecasting/)
 - [[D] 2 Siding ReLU via its forward weight connections](https://www.reddit.com/r/MachineLearning/comments/129com7/d_2_siding_relu_via_its_forward_weight_connections/)
 - [[P] Auto-GPT : Recursively self-debugging, self-developing, self-improving, able to write it&#39;s own code using GPT-4 and execute Python scripts](https://www.reddit.com/r/MachineLearning/comments/129cle0/p_autogpt_recursively_selfdebugging/)
 - [[D] Expand StarGAN PyTorch implementation](https://www.reddit.com/r/MachineLearning/comments/12980d7/d_expand_stargan_pytorch_implementation/)
