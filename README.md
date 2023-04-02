@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] I created an AI Ethics frame work which is logic focused and resource focused, what do people think?](https://www.reddit.com/r/MachineLearning/comments/129mi41/d_i_created_an_ai_ethics_frame_work_which_is/)
 - [Need ideas for a project I have in mind [Project]](https://www.reddit.com/r/MachineLearning/comments/129l6ag/need_ideas_for_a_project_i_have_in_mind_project/)
 - [[P] rwkv.cpp: FP16 &amp; INT4 inference on CPU for RWKV language model](https://www.reddit.com/r/MachineLearning/comments/129ijci/p_rwkvcpp_fp16_int4_inference_on_cpu_for_rwkv/)
 - [[P] max_tokens being ignored in llama index &lpar;gpt index&rpar;](https://www.reddit.com/r/MachineLearning/comments/129htkf/p_max_tokens_being_ignored_in_llama_index_gpt/)
 - [[P] Easy assessment of dataset predictability](https://www.reddit.com/r/MachineLearning/comments/129g1lz/p_easy_assessment_of_dataset_predictability/)
-- [[R] Stanford Hazy Research: &quot;These models hold the promise to have context lengths of millions… or maybe even a billion!&quot;](https://www.reddit.com/r/MachineLearning/comments/129feur/r_stanford_hazy_research_these_models_hold_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
