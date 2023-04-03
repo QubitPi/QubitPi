@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1642848673263501313)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1642830552804864000)
 - [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1642824765277609984)
 - [📰Did you read the @Medium post &quot;What’s next! here comes MemGraph &lpar;a fast Neo4J&rpar;&quot; by @thesource51? https://medium.com/@thesource5/whats-next-here-c...](https://twitter.com/memgraphdb/status/1642820778038099969)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ https://memg...](https://twitter.com/memgraphdb/status/1642812685657022464)
-- [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1642795318038200320)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1642774181518376960)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
