@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Large Language Model [D]](https://www.reddit.com/r/MachineLearning/comments/12ads0n/large_language_model_d/)
 - [Self-Refine: Iterative Refinement with Self-Feedback - a novel approach that allows LLMs to iteratively refine outputs and incorporate feedback along multiple dimensions to improve performance on diverse tasks](https://www.reddit.com/r/MachineLearning/comments/12aabdm/selfrefine_iterative_refinement_with_selffeedback/)
 - [[D] Practical challenge of training the large language model LLM?](https://www.reddit.com/r/MachineLearning/comments/12a6ila/d_practical_challenge_of_training_the_large/)
 - [[D] Any options for using GPT models using proprietary data ?](https://www.reddit.com/r/MachineLearning/comments/12a1dqm/d_any_options_for_using_gpt_models_using/)
 - [[D] 4 hours before the deadline, only 39% of ICML meta-reviews were complete](https://www.reddit.com/r/MachineLearning/comments/129znu6/d_4_hours_before_the_deadline_only_39_of_icml/)
-- [[D] Jensen Huang interview with Ilya Sutskever - Open AI](https://www.reddit.com/r/MachineLearning/comments/129zh50/d_jensen_huang_interview_with_ilya_sutskever_open/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
