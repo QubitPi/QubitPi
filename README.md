@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779557175975477312><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/38723d2348cfee9574c307b4087d26a7401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/780179645587783685><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cbf8ef5d017353ff70c99d9883be814d551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，必胜客×原神联动已正式开启，快和伙伴们一起踏上寻珍之旅吧~ #必胜客原神联动开启# #必胜客原神联动#](https://t.bilibili.com/780179645587783685)
