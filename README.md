@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Neural Network Trash Classification Robot](https://www.reddit.com/r/MachineLearning/comments/12a4o7g/p_neural_network_trash_classification_robot/)
+- [[D] Practical challenge of training the large language model LLM?](https://www.reddit.com/r/MachineLearning/comments/12a6ila/d_practical_challenge_of_training_the_large/)
 - [[D] Any options for using GPT models using proprietary data ?](https://www.reddit.com/r/MachineLearning/comments/12a1dqm/d_any_options_for_using_gpt_models_using/)
-- [[D] is there an adblocking dns with machine learning ? since using a fixed blacklist seems way too obsolete in 2023 with ads domains spawning like crazy. i am using nextdns currently it supports dis and many more](https://www.reddit.com/r/MachineLearning/comments/12a146y/d_is_there_an_adblocking_dns_with_machine/)
-- [[Project] Predicting Football &lpar;Soccer&rpar; Match Outcomes Using Bookmaker Betting Odds](https://www.reddit.com/r/MachineLearning/comments/12a0aud/project_predicting_football_soccer_match_outcomes/)
 - [[D] 4 hours before the deadline, only 39% of ICML meta-reviews were complete](https://www.reddit.com/r/MachineLearning/comments/129znu6/d_4_hours_before_the_deadline_only_39_of_icml/)
+- [[D] Jensen Huang interview with Ilya Sutskever - Open AI](https://www.reddit.com/r/MachineLearning/comments/129zh50/d_jensen_huang_interview_with_ilya_sutskever_open/)
+- [[P] Engshell: A GPT-4 Driven English-Language Shell for Code Execution with Recursive Capabilities](https://www.reddit.com/r/MachineLearning/comments/129wzdk/p_engshell_a_gpt4_driven_englishlanguage_shell/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
