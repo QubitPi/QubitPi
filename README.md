@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Self-Refine: Iterative Refinement with Self-Feedback - a novel approach that allows LLMs to iteratively refine outputs and incorporate feedback along multiple dimensions to improve performance on diverse tasks](https://www.reddit.com/r/MachineLearning/comments/12aabdm/selfrefine_iterative_refinement_with_selffeedback/)
 - [[R] any Computer Science / AI arxive authors here? looking for an endorsement on a research paper](https://www.reddit.com/r/MachineLearning/comments/12a8es7/r_any_computer_science_ai_arxive_authors_here/)
 - [[D] help! looking for some post-processing techniques for improving classification in satellite images](https://www.reddit.com/r/MachineLearning/comments/12a8efm/d_help_looking_for_some_postprocessing_techniques/)
 - [[D] Practical challenge of training the large language model LLM?](https://www.reddit.com/r/MachineLearning/comments/12a6ila/d_practical_challenge_of_training_the_large/)
 - [[D] Any options for using GPT models using proprietary data ?](https://www.reddit.com/r/MachineLearning/comments/12a1dqm/d_any_options_for_using_gpt_models_using/)
-- [[D] 4 hours before the deadline, only 39% of ICML meta-reviews were complete](https://www.reddit.com/r/MachineLearning/comments/129znu6/d_4_hours_before_the_deadline_only_39_of_icml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
