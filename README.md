@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there currently anything comparable to the OpenAI API?](https://www.reddit.com/r/MachineLearning/comments/12arwkf/d_is_there_currently_anything_comparable_to_the/)
 - [[D]What prompt details/parameters I should give to DALL-E to generate an image &quot;of the past&quot;](https://www.reddit.com/r/MachineLearning/comments/12are3i/dwhat_prompt_detailsparameters_i_should_give_to/)
 - [[D] Synthetic data for data privacy/anonimization purposes?](https://www.reddit.com/r/MachineLearning/comments/12aq49v/d_synthetic_data_for_data_privacyanonimization/)
 - [[D] Modeling conditional time series using deep learning](https://www.reddit.com/r/MachineLearning/comments/12aoyh8/d_modeling_conditional_time_series_using_deep/)
 - [Do deep ensembles and regular ensembles coincide for classification tasks? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12aowi5/do_deep_ensembles_and_regular_ensembles_coincide/)
-- [[R] Language Models can Solve Computer Tasks](https://www.reddit.com/r/MachineLearning/comments/12aol15/r_language_models_can_solve_computer_tasks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
