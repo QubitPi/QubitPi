@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Tomaz Bratanic, demonstrates how graph neural networks capture and encode the relationships between data points and enhance document classification ac...](https://twitter.com/neo4j/status/1642950140993388544)
 - [Are you ready to hear amazing Graph Database cases that will blow your mind?? 🙌 Listen to the new podcast episode @lyonwj, @jalakoo, @alison_cosset...](https://twitter.com/neo4j/status/1642920003862159362)
 - [Our First Lunch &amp; Learn event featuring #Neo4j customer speakers is arriving soon! Thomas Larsen of @ABBgroupnews will be speaking about how his team ...](https://twitter.com/neo4j/status/1642890021479890945)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1vOxwMAnqArGB](https://twitter.com/neo4j/status/1642885944025178112)
-- [You are still on time to give your feedback! https://twitter.com/neo4j/status/1642167452497788930](https://twitter.com/neo4j/status/1642676121966723076)
+- [You are still on time to give your feedback!](https://twitter.com/neo4j/status/1642676121966723076)
+- [🚀Want to get started with #Graphs? Learn the basics of Neo4j and the property graph model with our FREE course at #GraphAcademy! https://okt.to/P6K...](https://twitter.com/neo4j/status/1642612135384498176)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
