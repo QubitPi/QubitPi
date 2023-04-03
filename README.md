@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/779557175975477312><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/38723d2348cfee9574c307b4087d26a7401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [亲爱的旅行者，必胜客×原神联动已正式开启，快和伙伴们一起踏上寻珍之旅吧~ #必胜客原神联动开启# #必胜客原神联动#](https://t.bilibili.com/780179645587783685)
 - [#原神# #原神喵# 「咦！这是什么？！让我看看...有真味茶泡饭、『蒙德往事』、蛋包饭圆舞曲和绝境求生烤鱼。难道是猫猫们留给大家的礼物？！好像也有旅行者的份...](https://t.bilibili.com/779557175975477312)
 - [恭喜@八重神子大人的小脚脚@怡咂qwq@雪地里的黎明等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/779495345654595636)
 - [#原神# #原神喵# 「喵？喵。」 ——总是独来独往的猫咪，对人爱答不理。](https://t.bilibili.com/779468274474680329)
 - [#原神# #原神喵# 「喵，喵。」 ——身手矫健，散发着低调气质的猫咪。](https://t.bilibili.com/779466985987637264)
-- [#原神# #原神喵# 「喵喵喵，喵喵，喵喵！」 ——经常在街道上巡视的认真猫咪。](https://t.bilibili.com/779465718943973379)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
