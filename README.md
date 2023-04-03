@@ -300,8 +300,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Modeling conditional time series using deep learning](https://www.reddit.com/r/MachineLearning/comments/12aoyh8/d_modeling_conditional_time_series_using_deep/)
 - [Do deep ensembles and regular ensembles coincide for classification tasks? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12aowi5/do_deep_ensembles_and_regular_ensembles_coincide/)
 - [[R] Language Models can Solve Computer Tasks](https://www.reddit.com/r/MachineLearning/comments/12aol15/r_language_models_can_solve_computer_tasks/)
-- [Large Language Models - Fireside chat! [N]](https://www.reddit.com/r/MachineLearning/comments/12annq1/large_language_models_fireside_chat_n/)
-- [[D] ML engineer interview prep resources on particular topics](https://www.reddit.com/r/MachineLearning/comments/12alz9k/d_ml_engineer_interview_prep_resources_on/)
+- [[D] Looking for Examples of Machine Learning in Transportation](https://www.reddit.com/r/MachineLearning/comments/12aljve/d_looking_for_examples_of_machine_learning_in/)
+- [[News] Call for Papers: Workshop on Text Mining and Generation &lpar;TMG&rpar; @ ICCBR 2023](https://www.reddit.com/r/MachineLearning/comments/12ajslv/news_call_for_papers_workshop_on_text_mining_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
