@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1642920894052933636)
-- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1642896488127766536)
 - [🎓 Learn how to load data, training and plot to find out who did it! It’s elementary, my dear reader. https://memgraph.com/blog/become-an-inspector...](https://twitter.com/memgraphdb/status/1642878117290057731)
 - [🚀 PageRank is a mature graph algorithm that hasn’t yet lost its relevance. Even more so, with the rise of graph database usage it will surely find...](https://twitter.com/memgraphdb/status/1642868802621669377)
 - [🎓 Learn how to avoid all of that boilerplate code and smoothly deploy applications by using Memgraph on which you can perform graph analytics using...](https://twitter.com/memgraphdb/status/1642848673263501313)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1642830552804864000)
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1642824765277609984)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
