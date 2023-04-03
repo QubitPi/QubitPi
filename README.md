@@ -336,11 +336,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [A Comprehensive Guide to Configuring GPU Passthrough in OpenStack for High-Performance Computing](https://superuser.openinfra.dev/articles/a-comprehensive-guide-to-configuring-gpu-passthrough-in-openstack-for-high-performance-computing/)
 - [Tuning IO Performance for LVM-based Cinder Volumes in OpenStack](https://superuser.openinfra.dev/articles/tuning-io-performance-for-lvm-based-cinder-volumes-in-openstack/)
 - [Viet OpenInfra User Group Holds Its 30th Meetup](https://superuser.openinfra.dev/articles/viet-openinfra-user-group-holds-its-30th-meetup/)
 - [Part 2 – How to Restore Volumes and Snapshots in OpenStack](https://superuser.openinfra.dev/articles/part-2-how-to-restore-volumes-and-snapshots-in-openstack/)
 - [Part 1 – How to Back Up in OpenStack](https://superuser.openinfra.dev/articles/part-1-how-to-back-up-in-openstack/)
-- [OpenStack Antelope: A New Era | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/openstack-antelope-a-new-era/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
