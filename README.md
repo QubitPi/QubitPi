@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Workshop Design with ChatGPT](https://www.scrum.org/resources/blog/workshop-design-chatgpt)
 - [Improve how your team navigates &lpar;relational&rpar; team conflict!](https://www.scrum.org/resources/blog/improve-how-your-team-navigates-relational-team-conflict)
 - [Scrum Master als Karriereeinstieg – Steht die Agile-Coaching-Branche vor dem Aus?](https://www.scrum.org/resources/blog/scrum-master-als-karriereeinstieg-steht-die-agile-coaching-branche-vor-dem-aus)
 - [Stakeholder Exploration: Part 1 of 4 Steps in Stakeholder Engagement](https://www.scrum.org/resources/blog/stakeholder-exploration-part-1-4-steps-stakeholder-engagement)
 - [Answer These 3 Questions to Determine If You&#39;re Getting Value from Scrum](https://www.scrum.org/resources/blog/answer-these-3-questions-determine-if-youre-getting-value-scrum)
-- [Intro to Scrum &lpar;14 of 16&rpar;: What is the Product Backlog and Product Goal?](https://www.scrum.org/resources/blog/intro-scrum-14-16-what-product-backlog-and-product-goal)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
