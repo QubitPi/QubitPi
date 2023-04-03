@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Hugging Face model quality?](https://www.reddit.com/r/MachineLearning/comments/12awsrv/d_hugging_face_model_quality/)
 - [[D] Can LLMs accelerate scientific research?](https://www.reddit.com/r/MachineLearning/comments/12avdpv/d_can_llms_accelerate_scientific_research/)
 - [Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images [R] [N] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/12av0ph/parcellevel_flood_and_drought_detection_for/)
 - [[D] Is there currently anything comparable to the OpenAI API?](https://www.reddit.com/r/MachineLearning/comments/12arwkf/d_is_there_currently_anything_comparable_to_the/)
 - [[D]What prompt details/parameters I should give to DALL-E to generate an image &quot;of the past&quot;](https://www.reddit.com/r/MachineLearning/comments/12are3i/dwhat_prompt_detailsparameters_i_should_give_to/)
-- [[D] Synthetic data for data privacy/anonimization purposes?](https://www.reddit.com/r/MachineLearning/comments/12aq49v/d_synthetic_data_for_data_privacyanonimization/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
