@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Stop Recurring Problems in Retrospectives. How?](https://www.scrum.org/resources/blog/stop-recurring-problems-retrospectives-how)
 - [How this Company Flipped Failure into Massive Success with a &#39;Scrum Reboot&#39;!](https://www.scrum.org/resources/blog/how-company-flipped-failure-massive-success-scrum-reboot)
 - [Workshop Design with ChatGPT](https://www.scrum.org/resources/blog/workshop-design-chatgpt)
 - [Improve How your Team Navigates &lpar;Relational&rpar; Team Conflict!](https://www.scrum.org/resources/blog/improve-how-your-team-navigates-relational-team-conflict)
 - [Scrum Master als Karriereeinstieg – Steht die Agile-Coaching-Branche vor dem Aus?](https://www.scrum.org/resources/blog/scrum-master-als-karriereeinstieg-steht-die-agile-coaching-branche-vor-dem-aus)
-- [Stakeholder Exploration: Part 1 of 4 Steps in Stakeholder Engagement](https://www.scrum.org/resources/blog/stakeholder-exploration-part-1-4-steps-stakeholder-engagement)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
