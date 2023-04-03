@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Language Models can Solve Computer Tasks](https://www.reddit.com/r/MachineLearning/comments/12aol15/r_language_models_can_solve_computer_tasks/)
 - [Large Language Models - Fireside chat! [N]](https://www.reddit.com/r/MachineLearning/comments/12annq1/large_language_models_fireside_chat_n/)
 - [[D] ML engineer interview prep resources on particular topics](https://www.reddit.com/r/MachineLearning/comments/12alz9k/d_ml_engineer_interview_prep_resources_on/)
 - [[D] Looking for Examples of Machine Learning in Transportation](https://www.reddit.com/r/MachineLearning/comments/12aljve/d_looking_for_examples_of_machine_learning_in/)
 - [[News] Call for Papers: Workshop on Text Mining and Generation &lpar;TMG&rpar; @ ICCBR 2023](https://www.reddit.com/r/MachineLearning/comments/12ajslv/news_call_for_papers_workshop_on_text_mining_and/)
-- [Semantic segmentation for contour analysis [D]](https://www.reddit.com/r/MachineLearning/comments/12aguqa/semantic_segmentation_for_contour_analysis_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
