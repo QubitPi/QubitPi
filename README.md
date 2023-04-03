@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] AI Control Idea: Give an AGI the primary objective of deleting itself, but construct obstacles to this as best we can, all other objectives are secondary, if it becomes too powerful it would just shut itself off.](https://www.reddit.com/r/MachineLearning/comments/12am8lw/d_ai_control_idea_give_an_agi_the_primary/)
 - [[D] ML engineer interview prep resources on particular topics](https://www.reddit.com/r/MachineLearning/comments/12alz9k/d_ml_engineer_interview_prep_resources_on/)
 - [[D] Looking for Examples of Machine Learning in Transportation](https://www.reddit.com/r/MachineLearning/comments/12aljve/d_looking_for_examples_of_machine_learning_in/)
 - [[News] Call for Papers: Workshop on Text Mining and Generation &lpar;TMG&rpar; @ ICCBR 2023](https://www.reddit.com/r/MachineLearning/comments/12ajslv/news_call_for_papers_workshop_on_text_mining_and/)
 - [Semantic segmentation for contour analysis [D]](https://www.reddit.com/r/MachineLearning/comments/12aguqa/semantic_segmentation_for_contour_analysis_d/)
-- [[D] Language model based Tools for research. Finding papers and summarizing research questions](https://www.reddit.com/r/MachineLearning/comments/12ag44q/d_language_model_based_tools_for_research_finding/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
