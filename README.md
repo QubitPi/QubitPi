@@ -315,7 +315,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [How can an organization develop its Agile capabilities?](https://www.scrum.org/resources/blog/how-can-organization-develop-its-agile-capabilities)
+- [How Can an Organization Develop its Agile capabilities?](https://www.scrum.org/resources/blog/how-can-organization-develop-its-agile-capabilities)
 - [Scrum For Startups: Finding the Sweet Spot](https://www.scrum.org/resources/blog/scrum-startups-finding-sweet-spot)
 - [Mitosis and Express Kickoff](https://www.scrum.org/resources/blog/mitosis-and-express-kickoff)
 - [Intro to Scrum &lpar;15 of 16&rpar;: What is the Sprint Backlog and Sprint Goal?](https://www.scrum.org/resources/blog/intro-scrum-15-16-what-sprint-backlog-and-sprint-goal)
