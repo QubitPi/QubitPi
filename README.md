@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [What was your reason for choosing #memgraph graph database?](https://twitter.com/memgraphdb/status/1643137036252004357)
-- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1643136570600353794)
-- [🎓 To help make decisions, companies perform impact analyses or what-if scenarios. Based on the careful analysis of the provided data, the outcomes ...](https://twitter.com/memgraphdb/status/1643125998483918848)
 - [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1643111403627184128)
 - [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1642960913182367765)
+- [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1642937005020438528)
+- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1642920894052933636)
+- [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1642896488127766536)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
