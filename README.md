@@ -418,10 +418,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- ARANGO-TWITTER:START -->
 - [Jump-start your week by signing up for the ArangoDB Certification Exam. Show off your expertise by acing the exam and receiving all the recognition th...](https://twitter.com/arangodb/status/1642980299364605952)
-- [Malhar Anaokar of @i_memori shares their journey bringing the concept of &#39;institutional memory&#39; out of academia and into the real world with ArangoDB....](https://twitter.com/arangodb/status/1642844420931289089)
 - [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1642527321612603393)
 - [Unfamiliar with the ArangoGraph Insights Platform? Why not get started with 14 days on us? 🥑 Sign up today and hop into the cloud with ArangoDB. ☁...](https://twitter.com/arangodb/status/1642164928973885441)
 - [ArangoDB helps Cognitiv+ dramatically improve the customer experience while supporting multiple use cases. 🥑 Learn how ArangoDB was Cognitiv+ choic...](https://twitter.com/arangodb/status/1641893141765672978)
+- [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1641757244067913735)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
