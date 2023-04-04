@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] What are best ways/resources to monetize new AI models and LLMs ?](https://www.reddit.com/r/MachineLearning/comments/12bgwlu/d_what_are_best_waysresources_to_monetize_new_ai/)
+- [[D] Knowledge distillation to a different architecture](https://www.reddit.com/r/MachineLearning/comments/12bi81b/d_knowledge_distillation_to_a_different/)
 - [[Discussion] Thoughts on interpretability](https://www.reddit.com/r/MachineLearning/comments/12bg5b9/discussion_thoughts_on_interpretability/)
-- [Will AI news replace regular news? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12bf1p2/will_ai_news_replace_regular_news_discussion/)
 - [[R] AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/12bdnlo/r_audit_audio_editing_by_following_instructions/)
 - [[D] Are there any MIT licenced &lpar;or similar&rpar; open-sourced instruction-tuned LLMs available?](https://www.reddit.com/r/MachineLearning/comments/12bcfti/d_are_there_any_mit_licenced_or_similar/)
+- [[D] What to do in this brave new world?](https://www.reddit.com/r/MachineLearning/comments/12bc8ym/d_what_to_do_in_this_brave_new_world/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
