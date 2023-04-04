@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1643187151117459456)
-- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1643170543997276160)
-- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1643160972134064128)
 - [What was your reason for choosing #memgraph graph database?](https://twitter.com/memgraphdb/status/1643137036252004357)
 - [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1643136570600353794)
+- [🎓 To help make decisions, companies perform impact analyses or what-if scenarios. Based on the careful analysis of the provided data, the outcomes ...](https://twitter.com/memgraphdb/status/1643125998483918848)
+- [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1643111403627184128)
+- [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1642960913182367765)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
