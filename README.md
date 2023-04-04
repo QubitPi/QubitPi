@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What to do in this brave new world?](https://www.reddit.com/r/MachineLearning/comments/12bc8ym/d_what_to_do_in_this_brave_new_world/)
 - [[P] Introducing NeuCore - a no-code AI tool for your solutions](https://www.reddit.com/r/MachineLearning/comments/12bc26s/p_introducing_neucore_a_nocode_ai_tool_for_your/)
 - [[D] SIGIR 2023 Paper Notification](https://www.reddit.com/r/MachineLearning/comments/12bbkuf/d_sigir_2023_paper_notification/)
 - [[D] Expanding LLM token limits via fine tuning or transformers-adapters.](https://www.reddit.com/r/MachineLearning/comments/12bbawi/d_expanding_llm_token_limits_via_fine_tuning_or/)
 - [[D] Understanding vector embeddings](https://www.reddit.com/r/MachineLearning/comments/12b9wfq/d_understanding_vector_embeddings/)
-- [[D] Closed AI Models Make Bad Baselines](https://www.reddit.com/r/MachineLearning/comments/12b9tx7/d_closed_ai_models_make_bad_baselines/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
