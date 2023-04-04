@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] SIGIR 2023 Paper Notification](https://www.reddit.com/r/MachineLearning/comments/12bbkuf/d_sigir_2023_paper_notification/)
 - [[D] Expanding LLM token limits via fine tuning or transformers-adapters.](https://www.reddit.com/r/MachineLearning/comments/12bbawi/d_expanding_llm_token_limits_via_fine_tuning_or/)
 - [[D] Understanding vector embeddings](https://www.reddit.com/r/MachineLearning/comments/12b9wfq/d_understanding_vector_embeddings/)
 - [[D] Closed AI Models Make Bad Baselines](https://www.reddit.com/r/MachineLearning/comments/12b9tx7/d_closed_ai_models_make_bad_baselines/)
 - [[R] Is there any ML/AI model that determines personalities based on signatures?](https://www.reddit.com/r/MachineLearning/comments/12b8dcu/r_is_there_any_mlai_model_that_determines/)
-- [Deploy ONNX Model in Android Studio [Project]](https://www.reddit.com/r/MachineLearning/comments/12b7rju/deploy_onnx_model_in_android_studio_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
