@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model &lpar;CVPR 2023&rpar;](https://www.reddit.com/r/MachineLearning/comments/12bohof/r_datid3d_diversitypreserved_domain_adaptation/)
 - [Code for Donald Hoffman&#39;s Computational Evolutionary Perception [R]](https://www.reddit.com/r/MachineLearning/comments/12bj1z3/code_for_donald_hoffmans_computational/)
 - [[D] Knowledge distillation to a different architecture](https://www.reddit.com/r/MachineLearning/comments/12bi81b/d_knowledge_distillation_to_a_different/)
 - [[Discussion] Thoughts on interpretability](https://www.reddit.com/r/MachineLearning/comments/12bg5b9/discussion_thoughts_on_interpretability/)
 - [[R] AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/12bdnlo/r_audit_audio_editing_by_following_instructions/)
-- [[D] Are there any MIT licenced &lpar;or similar&rpar; open-sourced instruction-tuned LLMs available?](https://www.reddit.com/r/MachineLearning/comments/12bcfti/d_are_there_any_mit_licenced_or_similar/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
