@@ -297,7 +297,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[Discussion] Neural networks do not understand](https://www.reddit.com/r/MachineLearning/comments/12buk7l/discussion_neural_networks_do_not_understand/)
+- [[D] Any suggestions about oxford&#39;s machine learning summer school?](https://www.reddit.com/r/MachineLearning/comments/12bvg7a/d_any_suggestions_about_oxfords_machine_learning/)
 - [[D] Research on vector based context for LLMs?](https://www.reddit.com/r/MachineLearning/comments/12bt195/d_research_on_vector_based_context_for_llms/)
 - [[D] Random Forest regression: selection of best via cross-validation and validation of the model via bootstraping](https://www.reddit.com/r/MachineLearning/comments/12bquvz/d_random_forest_regression_selection_of_best_via/)
 - [[R] DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model &lpar;CVPR 2023&rpar;](https://www.reddit.com/r/MachineLearning/comments/12bohof/r_datid3d_diversitypreserved_domain_adaptation/)
