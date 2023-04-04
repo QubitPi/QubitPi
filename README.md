@@ -298,10 +298,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] RPTQ: W3A3 Quantization for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/12b6pp7/r_rptq_w3a3_quantization_for_large_language_models/)
-- [[D] Risk of AI?](https://www.reddit.com/r/MachineLearning/comments/12b1shl/d_risk_of_ai/)
 - [Whats better to then go into machine learning?[Discussion]](https://www.reddit.com/r/MachineLearning/comments/12az2qb/whats_better_to_then_go_into_machine/)
 - [[P] The weights neccessary to construct Vicuna, a fine-tuned LLM with capabilities comparable to GPT3.5, has now been released](https://www.reddit.com/r/MachineLearning/comments/12ay0vt/p_the_weights_neccessary_to_construct_vicuna_a/)
 - [[D] Hugging Face model quality?](https://www.reddit.com/r/MachineLearning/comments/12awsrv/d_hugging_face_model_quality/)
+- [[D] Can LLMs accelerate scientific research?](https://www.reddit.com/r/MachineLearning/comments/12avdpv/d_can_llms_accelerate_scientific_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
