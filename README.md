@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @ICIJorg What an impactful investigation. Surfacing the shell companies and connecting the dots between the actual owners, intermediaries and benef...](https://twitter.com/neo4j/status/1643223288406048769)
+- [Wednesday date?🙃 These short, 30-minute events are held every Wednesday at 9:30 GMT and give you a close-up look at Neo4j use cases like Customer 3...](https://twitter.com/neo4j/status/1643222004953231363)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Looking forward to my friend @meistermeier giving the @SpringData @Neo4j online training ne...](https://twitter.com/mesirii/status/1643171168214499328)
+- [RT ICIJ: Happy #PanamaPapers anniversary! Often we take these moments to tell you how the investigation led to laws changed, bad folks arrested, money...](https://twitter.com/ICIJorg/status/1643051563240550400)
 - [Tomaz Bratanic, demonstrates how graph neural networks capture and encode the relationships between data points and enhance document classification ac...](https://twitter.com/neo4j/status/1642950140993388544)
-- [Are you ready to hear amazing Graph Database cases that will blow your mind?? 🙌 Listen to the new podcast episode @lyonwj, @jalakoo, @alison_cosset...](https://twitter.com/neo4j/status/1642920003862159362)
-- [Our First Lunch &amp; Learn event featuring #Neo4j customer speakers is arriving soon! Thomas Larsen of @ABBgroupnews will be speaking about how his team ...](https://twitter.com/neo4j/status/1642890021479890945)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1vOxwMAnqArGB](https://twitter.com/neo4j/status/1642885944025178112)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
