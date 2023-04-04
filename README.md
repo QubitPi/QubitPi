@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Great news for our #python community. First release of #neomodel 5 is out, graph object mapping for python. Thanks 🙏 to @mariusconjeaud and the pro...](https://twitter.com/neo4j/status/1643253043608137728)
-- [We are happy to welcome Sudhir Hasbe as our new Chief Product Officer! @shasbe will oversee Neo4j&#39;s software portfolio across its native graph databas...](https://twitter.com/neo4j/status/1643244563312590848)
 - [Re @ICIJorg What an impactful investigation. Surfacing the shell companies and connecting the dots between the actual owners, intermediaries and benef...](https://twitter.com/neo4j/status/1643223288406048769)
 - [Wednesday date?🙃 These short, 30-minute events are held every Wednesday at 9:30 GMT and give you a close-up look at Neo4j use cases like Customer 3...](https://twitter.com/neo4j/status/1643222004953231363)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Looking forward to my friend @meistermeier giving the @SpringData @Neo4j online training ne...](https://twitter.com/mesirii/status/1643171168214499328)
+- [RT ICIJ: Happy #PanamaPapers anniversary! Often we take these moments to tell you how the investigation led to laws changed, bad folks arrested, money...](https://twitter.com/ICIJorg/status/1643051563240550400)
+- [Tomaz Bratanic, demonstrates how graph neural networks capture and encode the relationships between data points and enhance document classification ac...](https://twitter.com/neo4j/status/1642950140993388544)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
