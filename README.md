@@ -297,8 +297,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Will AI news replace regular news? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12bf1p2/will_ai_news_replace_regular_news_discussion/)
 - [[R] AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/12bdnlo/r_audit_audio_editing_by_following_instructions/)
-- [[D] Guest article by Yervant Kulbashian &lpar;Engineering Manager, AI Platform&rpar;: „The green swan“ - Part 1](https://www.reddit.com/r/MachineLearning/comments/12bcluz/d_guest_article_by_yervant_kulbashian_engineering/)
 - [[D] Are there any MIT licenced &lpar;or similar&rpar; open-sourced instruction-tuned LLMs available?](https://www.reddit.com/r/MachineLearning/comments/12bcfti/d_are_there_any_mit_licenced_or_similar/)
 - [[D] What to do in this brave new world?](https://www.reddit.com/r/MachineLearning/comments/12bc8ym/d_what_to_do_in_this_brave_new_world/)
 - [[P] Introducing NeuCore - a no-code AI tool for your solutions](https://www.reddit.com/r/MachineLearning/comments/12bc26s/p_introducing_neucore_a_nocode_ai_tool_for_your/)
