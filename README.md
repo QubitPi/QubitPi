@@ -297,10 +297,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Closed AI Models Make Bad Baselines](https://www.reddit.com/r/MachineLearning/comments/12b9tx7/d_closed_ai_models_make_bad_baselines/)
 - [[R] Is there any ML/AI model that determines personalities based on signatures?](https://www.reddit.com/r/MachineLearning/comments/12b8dcu/r_is_there_any_mlai_model_that_determines/)
 - [Deploy ONNX Model in Android Studio [Project]](https://www.reddit.com/r/MachineLearning/comments/12b7rju/deploy_onnx_model_in_android_studio_project/)
 - [[R] RPTQ: W3A3 Quantization for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/12b6pp7/r_rptq_w3a3_quantization_for_large_language_models/)
-- [Whats better to then go into machine learning?[Discussion]](https://www.reddit.com/r/MachineLearning/comments/12az2qb/whats_better_to_then_go_into_machine/)
 - [[P] The weights neccessary to construct Vicuna, a fine-tuned LLM with capabilities comparable to GPT3.5, has now been released](https://www.reddit.com/r/MachineLearning/comments/12ay0vt/p_the_weights_neccessary_to_construct_vicuna_a/)
 <!-- REDDIT-ML:END -->
 
