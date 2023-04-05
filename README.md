@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Neo4j Live: CloudQuery Traier #shorts](https://www.youtube.com/watch?v=cjLazBCDtJU)
-- [Neo4j Live: CloudQuery](https://www.youtube.com/watch?v=o-thc4SVDFg)
 - [Exploración de datos con Bloom - Parte 2 - 10 Min](https://www.youtube.com/watch?v=uZszZA5Yjag)
 - [Exploración de datos con Bloom - Parte 1 - 10 Min](https://www.youtube.com/watch?v=UWNLY-iPd-0)
 - [Tree of Life - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=ozBLJv84QWM)
+- [Neo4j Live: SchemaSmith for Data Governance](https://www.youtube.com/watch?v=xEaC6ArmSlw)
+- [Training Series - Build A Routing Web Application](https://www.youtube.com/watch?v=Z4XZgsbaD9c)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
