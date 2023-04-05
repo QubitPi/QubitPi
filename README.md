@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1643549538366398470)
-- [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1643537461312647169)
 - [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. https://...](https://twitter.com/memgraphdb/status/1643497445467275264)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1643488388270440452)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. https://memgraph.com/blog/mo...](https://twitter.com/memgraphdb/status/1643465735983845376)
+- [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1643319021503229953)
+- [🎓 Learn how to sync Memgraph with Elasticsearch using query modules and triggers and what are the benefits of having such a system. https://memgrap...](https://twitter.com/memgraphdb/status/1643301404440682527)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
