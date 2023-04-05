@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Tensorflow: I&#39;m getting different results from the same code depending on where I run it. [D]](https://www.reddit.com/r/MachineLearning/comments/12cei5a/tensorflow_im_getting_different_results_from_the/)
+- [[D] OxML summer school reviews](https://www.reddit.com/r/MachineLearning/comments/12ceen1/d_oxml_summer_school_reviews/)
 - [[P] 10x faster reinforcement learning HPO - now with CNNs!](https://www.reddit.com/r/MachineLearning/comments/12cdvy0/p_10x_faster_reinforcement_learning_hpo_now_with/)
 - [[D] Predict raster at a finer spatial scale using Random Forest regression. Should I split the data set when fine-tuning the RF model?](https://www.reddit.com/r/MachineLearning/comments/12cdt7w/d_predict_raster_at_a_finer_spatial_scale_using/)
 - [[N] Growing machine learning models](https://www.reddit.com/r/MachineLearning/comments/12ccup4/n_growing_machine_learning_models/)
-- [[Discussion] Feature selection](https://www.reddit.com/r/MachineLearning/comments/12cbzff/discussion_feature_selection/)
-- [[R] A complete survey on ChatGPT: One Small Step for Generative AI, One Giant Leap for AGI](https://www.reddit.com/r/MachineLearning/comments/12c89tm/r_a_complete_survey_on_chatgpt_one_small_step_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
