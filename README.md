@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] &quot;Our Approach to AI Safety&quot; by OpenAI](https://www.reddit.com/r/MachineLearning/comments/12cvkvn/d_our_approach_to_ai_safety_by_openai/)
 - [[P] A Practical Guide to Enhancing Models for Custom Use-cases](https://www.reddit.com/r/MachineLearning/comments/12comfy/p_a_practical_guide_to_enhancing_models_for/)
 - [[D] Anyone else having issues with this book?](https://www.reddit.com/r/MachineLearning/comments/12co26t/d_anyone_else_having_issues_with_this_book/)
 - [[D] Should I stem and remove stopwords?](https://www.reddit.com/r/MachineLearning/comments/12cnp6s/d_should_i_stem_and_remove_stopwords/)
 - [[R] Evidence for Mesa-Optimization?](https://www.reddit.com/r/MachineLearning/comments/12clbmc/r_evidence_for_mesaoptimization/)
-- [[N] Koala: A Dialogue Model for Academic Research](https://www.reddit.com/r/MachineLearning/comments/12clb7d/n_koala_a_dialogue_model_for_academic_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
