@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Ready to take your security and compliance to the next level? ArangoDB is now #SOC2 Type 2 compliant. 🥑 Ensure that your data and operations are sa...](https://twitter.com/arangodb/status/1643569221450825730)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1643342692863049735)
 - [Are you tired of #fraud being a constant threat to your business? ArangoDB has just the solution with its state-of-the-art graph database. 🥑 Don&#39;t ...](https://twitter.com/arangodb/status/1643206791835144193)
 - [Jump-start your week by signing up for the ArangoDB Certification Exam. Show off your expertise by acing the exam and receiving all the recognition th...](https://twitter.com/arangodb/status/1642980299364605952)
 - [In this new ArangoDB white paper, learn more about a graph database, why you should choose one, their prominent use cases, and how to go beyond graphs...](https://twitter.com/arangodb/status/1642527321612603393)
+- [Unfamiliar with the ArangoGraph Insights Platform? Why not get started with 14 days on us? 🥑 Sign up today and hop into the cloud with ArangoDB. ☁...](https://twitter.com/arangodb/status/1642164928973885441)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
