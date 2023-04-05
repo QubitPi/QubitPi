@@ -298,10 +298,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D]Random Projections for Neural Networks](https://www.reddit.com/r/MachineLearning/comments/12c4euj/drandom_projections_for_neural_networks/)
-- [[R] Instruction fine-tuning details for decoder based LMs](https://www.reddit.com/r/MachineLearning/comments/12c129x/r_instruction_finetuning_details_for_decoder/)
 - [[D] Instruction fine-tuning details for decoder based LMs](https://www.reddit.com/r/MachineLearning/comments/12c0m93/d_instruction_finetuning_details_for_decoder/)
 - [Edge Impulse releases Python SDK for deploying ML models to edge hardware [News]](https://www.reddit.com/r/MachineLearning/comments/12bz8hg/edge_impulse_releases_python_sdk_for_deploying_ml/)
 - [[D] Any suggestions about oxford&#39;s machine learning summer school?](https://www.reddit.com/r/MachineLearning/comments/12bvg7a/d_any_suggestions_about_oxfords_machine_learning/)
+- [[D] Research on vector based context for LLMs?](https://www.reddit.com/r/MachineLearning/comments/12bt195/d_research_on_vector_based_context_for_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
