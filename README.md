@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] OSS ChatGPT trust, safety, &amp; enablement platform to secure the organization and the individual!](https://www.reddit.com/r/MachineLearning/comments/12d09f5/p_oss_chatgpt_trust_safety_enablement_platform_to/)
 - [[D] What happens to the model-centric vs data-centric debate in the era of foundation models?](https://www.reddit.com/r/MachineLearning/comments/12czwf1/d_what_happens_to_the_modelcentric_vs_datacentric/)
 - [[D] Got a job in ML](https://www.reddit.com/r/MachineLearning/comments/12cyvhw/d_got_a_job_in_ml/)
 - [[D] Research on &quot;inverting&quot; LLMs: going from contextual word embedding vectors to the original input tokens.](https://www.reddit.com/r/MachineLearning/comments/12cwf1l/d_research_on_inverting_llms_going_from/)
 - [[R] New open-source Python software for sample-efficient Bayesian inference](https://www.reddit.com/r/MachineLearning/comments/12cw2wg/r_new_opensource_python_software_for/)
-- [[D] &quot;Our Approach to AI Safety&quot; by OpenAI](https://www.reddit.com/r/MachineLearning/comments/12cvkvn/d_our_approach_to_ai_safety_by_openai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
