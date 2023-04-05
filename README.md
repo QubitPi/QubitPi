@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Livestream with @mesirii! 🎉 He will explore various techniques where you can collaborate with ChatGPT whilst working with graph databases: Providin...](https://twitter.com/neo4j/status/1643659837874503693)
 - [Announcing April&#39;s live #demos!🔥 These short, 30-minute events are held every Wednesday and Friday and give you a close-up look at Neo4j use cases ...](https://twitter.com/neo4j/status/1643615056133869568)
 - [Going Meta - a series on graphs, semantics and knowledge Episode 15 https://twitter.com/i/broadcasts/1mnxeRXeRvvKX](https://twitter.com/neo4j/status/1643610730946760709)
 - [What do you love most about a new month? You&#39;re in luck, if your answer is a new episode with @BarrasaDV and @alexandererdl of #goingmeta Tune in late...](https://twitter.com/neo4j/status/1643583018471153672)
 - [Why graph data science is a Good Technique for Pathfinding?🤔 @alison_cossette answers this... is it perhaps the only technique for pathfinding? �...](https://twitter.com/neo4j/status/1643297868956983316)
-- [RT Sudhir Hasbe: Super excited to join Neo4j a market leader in Graph Database and Analytics as Chief Product Officer. Over the past few years at Goog...](https://twitter.com/shasbe/status/1643254232018210816)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
