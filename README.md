@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [What is a product, platform and service?](https://www.scrum.org/resources/blog/what-product-platform-and-service)
 - [The Art of Saying No: How Product Owners Can Make Tough Decisions](https://www.scrum.org/resources/blog/art-saying-no-how-product-owners-can-make-tough-decisions)
 - [Vom Junior zum Experten: Wie du einen Mentor findest, der dich bei deiner Entwicklung als Scrum Master unterstützt](https://www.scrum.org/resources/blog/vom-junior-zum-experten-wie-du-einen-mentor-findest-der-dich-bei-deiner-entwicklung)
 - [Psychological Safety: The Key to Team Success](https://www.scrum.org/resources/blog/psychological-safety-key-team-success)
 - [How Can an Organization Develop its Agile capabilities?](https://www.scrum.org/resources/blog/how-can-organization-develop-its-agile-capabilities)
-- [Scrum For Startups: Finding the Sweet Spot](https://www.scrum.org/resources/blog/scrum-startups-finding-sweet-spot)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
