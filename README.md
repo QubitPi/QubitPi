@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Rank your experience with open source LLMs](https://www.reddit.com/r/MachineLearning/comments/12dgoan/d_rank_your_experience_with_open_source_llms/)
-- [getting accuracy 1 in train, validation, test [D]](https://www.reddit.com/r/MachineLearning/comments/12dg8j6/getting_accuracy_1_in_train_validation_test_d/)
 - [[P] What obvious and non obvious problems come up when &quot;productising&quot; a medical imaging pipeline into a clinical decision support tool?](https://www.reddit.com/r/MachineLearning/comments/12dg6ur/p_what_obvious_and_non_obvious_problems_come_up/)
-- [Open source machine learning project proposal [P]](https://www.reddit.com/r/MachineLearning/comments/12demxl/open_source_machine_learning_project_proposal_p/)
 - [SpotiFile : Music dataset creation &lpar;&amp; lyrics&rpar; made easy [P]](https://www.reddit.com/r/MachineLearning/comments/12de41i/spotifile_music_dataset_creation_lyrics_made_easy/)
+- [[P] JTokkit - a Java tokenizer library for usage with OpenAI models](https://www.reddit.com/r/MachineLearning/comments/12ddqbk/p_jtokkit_a_java_tokenizer_library_for_usage_with/)
+- [Planning research on Code Switched English-Urdu-Roman Urdu language pairs [D] [R]](https://www.reddit.com/r/MachineLearning/comments/12d6tp4/planning_research_on_code_switched/)
+- [[R] Introducing Segment Anything: Working toward the first foundation model for image segmentation](https://www.reddit.com/r/MachineLearning/comments/12d0s7w/r_introducing_segment_anything_working_toward_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
