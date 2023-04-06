@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Working with Various OpenAI Models - My Thoughts and Experiences](https://www.reddit.com/r/MachineLearning/comments/12dkla0/d_working_with_various_openai_models_my_thoughts/)
 - [Attention in image reconstruction &lpar;regression&rpar; [R] [D]](https://www.reddit.com/r/MachineLearning/comments/12di5n8/attention_in_image_reconstruction_regression_r_d/)
 - [[D] What is the state of the art of language information compression &lpar;auto-encoders?&rpar;](https://www.reddit.com/r/MachineLearning/comments/12dhe7e/d_what_is_the_state_of_the_art_of_language/)
 - [[P] What obvious and non obvious problems come up when &quot;productising&quot; a medical imaging pipeline into a clinical decision support tool?](https://www.reddit.com/r/MachineLearning/comments/12dg6ur/p_what_obvious_and_non_obvious_problems_come_up/)
 - [SpotiFile : Music dataset creation &lpar;&amp; lyrics&rpar; made easy [P]](https://www.reddit.com/r/MachineLearning/comments/12de41i/spotifile_music_dataset_creation_lyrics_made_easy/)
-- [[P] JTokkit - a Java tokenizer library for usage with OpenAI models](https://www.reddit.com/r/MachineLearning/comments/12ddqbk/p_jtokkit_a_java_tokenizer_library_for_usage_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
