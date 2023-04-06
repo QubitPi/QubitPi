@@ -538,7 +538,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- DRIBBBLE-TRENDING:START -->
 - [Custo® - How it works](https://dribbble.com/shots/21063935)
 - [[P] 1 → N](https://dribbble.com/shots/21021513)
-- [Flatfile Branding](https://dribbble.com/shots/20919358)
+- [Flatfile Branding, visual identity, corporate brand design](https://dribbble.com/shots/20919358)
 - [Brainwave AI UI Kit - Add New List Modal](https://dribbble.com/shots/21091477)
 - [EV charger website design](https://dribbble.com/shots/21072112)
 <!-- DRIBBBLE-TRENDING:END -->
