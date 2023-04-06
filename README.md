@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1643965281608376322)
+- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1643955967883632640)
 - [🎓 With a graph database as its core product, Memgraph Lab, and MAGE, Memgraph offers a complete 3-in-1 solution to analyze cybersecurity use cases....](https://twitter.com/memgraphdb/status/1643935079473852417)
 - [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. https://memgraph.com/blog/inferring-knowledge...](https://twitter.com/memgraphdb/status/1643910418320990208)
 - [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1643875438849146885)
-- [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? https://memg...](https://twitter.com/memgraphdb/status/1643861342938361862)
-- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1643846998079025153)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
