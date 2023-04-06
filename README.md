@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] OpenAssistant First Models are here! &lpar;Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/12e1t90/d_openassistant_first_models_are_here_video/)
 - [[D] Open LLMs for Commercial Use](https://www.reddit.com/r/MachineLearning/comments/12e1dnc/d_open_llms_for_commercial_use/)
 - [[D] PDF QA using open source tools - confidential data constraint](https://www.reddit.com/r/MachineLearning/comments/12e0fr0/d_pdf_qa_using_open_source_tools_confidential/)
 - [[D] Is all the talk about what GPT can do on Twitter and Reddit exaggerated or fairly accurate?](https://www.reddit.com/r/MachineLearning/comments/12dz4hh/d_is_all_the_talk_about_what_gpt_can_do_on/)
 - [[P] GLIP + SAM for zero-shot instance segmentation](https://www.reddit.com/r/MachineLearning/comments/12dx457/p_glip_sam_for_zeroshot_instance_segmentation/)
-- [[D] What&#39;s up with the sudden change to YouTube Transcripts? They seem much improved.](https://www.reddit.com/r/MachineLearning/comments/12dx1mt/d_whats_up_with_the_sudden_change_to_youtube/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
