@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] GLIP + SAM for zero-shot instance segmentation](https://www.reddit.com/r/MachineLearning/comments/12dx457/p_glip_sam_for_zeroshot_instance_segmentation/)
+- [[D] What&#39;s up with the sudden change to YouTube Transcripts? They seem much improved.](https://www.reddit.com/r/MachineLearning/comments/12dx1mt/d_whats_up_with_the_sudden_change_to_youtube/)
 - [[P] GPT powered note taking](https://www.reddit.com/r/MachineLearning/comments/12dvplv/p_gpt_powered_note_taking/)
 - [[P] Image restoration with Transformers using fal-serverless](https://www.reddit.com/r/MachineLearning/comments/12duzg3/p_image_restoration_with_transformers_using/)
 - [[P] I built an app with multiple AI tools to personlize lists, plans, and advice](https://www.reddit.com/r/MachineLearning/comments/12dspi8/p_i_built_an_app_with_multiple_ai_tools_to/)
-- [[P] Segment Anything combined with CLIP &lpar;Huggingface Space and Colab provided&rpar;](https://www.reddit.com/r/MachineLearning/comments/12dqn3j/p_segment_anything_combined_with_clip_huggingface/)
-- [[Discussion] Certification for Self Taught ML Specialists](https://www.reddit.com/r/MachineLearning/comments/12do51z/discussion_certification_for_self_taught_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
