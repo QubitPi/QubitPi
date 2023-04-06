@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Protecting against cyber fraud just got easier with graph and entity resolution techniques! Check out this informative blog post by ArangoDB to learn ...](https://twitter.com/arangodb/status/1644067465922596876)
 - [What&#39;s holding you back from becoming an expert in all things graph? 🤔 ArangoDB has built our University to help you do just that. Check out our va...](https://twitter.com/arangodb/status/1643931677138333696)
 - [Re @Global Relay uses ArangoDB to model contextual relevance with search views and graph traversals. 🥑 Check out how they&#39;re doing it and how it co...](https://twitter.com/arangodb/status/1643705091587702784)
 - [Ready to take your security and compliance to the next level? ArangoDB is now #SOC2 Type 2 compliant. 🥑 Ensure that your data and operations are sa...](https://twitter.com/arangodb/status/1643569221450825730)
 - [ArangoDB is the go to database for many. 💥 Learn how ArangoDB helps @JuniperNetworks standardize their customers&#39; network designs to ensure high pe...](https://twitter.com/arangodb/status/1643342692863049735)
+- [Are you tired of #fraud being a constant threat to your business? ArangoDB has just the solution with its state-of-the-art graph database. 🥑 Don&#39;t ...](https://twitter.com/arangodb/status/1643206791835144193)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
