@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Segment Anything combined with CLIP &lpar;Huggingface Space and Colab provided&rpar;](https://www.reddit.com/r/MachineLearning/comments/12dqn3j/p_segment_anything_combined_with_clip_huggingface/)
 - [[D] setup for big data training on a single computer.](https://www.reddit.com/r/MachineLearning/comments/12dox20/d_setup_for_big_data_training_on_a_single_computer/)
 - [[Discussion] Certification for Self Taught ML Specialists](https://www.reddit.com/r/MachineLearning/comments/12do51z/discussion_certification_for_self_taught_ml/)
 - [[D][P] Working on a machine learning project: approaches, best-practices and insights?](https://www.reddit.com/r/MachineLearning/comments/12dnn50/dp_working_on_a_machine_learning_project/)
 - [[P] AI-Genie, type a project name and let GPT4 do the rest!](https://www.reddit.com/r/MachineLearning/comments/12dme66/p_aigenie_type_a_project_name_and_let_gpt4_do_the/)
-- [[D] Working with Various OpenAI Models - My Thoughts and Experiences](https://www.reddit.com/r/MachineLearning/comments/12dkla0/d_working_with_various_openai_models_my_thoughts/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
