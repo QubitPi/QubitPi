@@ -480,11 +480,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=oUg-ogCEXZk)
 - [Going Meta - Ep 15: Building a Semantic Data App with Streamlit](https://www.youtube.com/watch?v=m7kg33OsI_A)
 - [Neo4j Live: CloudQuery Traier #shorts](https://www.youtube.com/watch?v=cjLazBCDtJU)
 - [Neo4j Live: CloudQuery](https://www.youtube.com/watch?v=o-thc4SVDFg)
 - [Exploración de datos con Bloom - Parte 2 - 10 Min](https://www.youtube.com/watch?v=uZszZA5Yjag)
-- [Exploración de datos con Bloom - Parte 1 - 10 Min](https://www.youtube.com/watch?v=UWNLY-iPd-0)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
