@@ -316,7 +316,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
 - [Workshop Design mit ChatGPT 🇩🇪](https://www.scrum.org/resources/blog/workshop-design-mit-chatgpt)
-- [What is a product, platform and service?](https://www.scrum.org/resources/blog/what-product-platform-and-service)
+- [What is a Product, Platform and Service?](https://www.scrum.org/resources/blog/what-product-platform-and-service)
 - [The Art of Saying No: How Product Owners Can Make Tough Decisions](https://www.scrum.org/resources/blog/art-saying-no-how-product-owners-can-make-tough-decisions)
 - [Vom Junior zum Experten: Wie du einen Mentor findest, der dich bei deiner Entwicklung als Scrum Master unterstützt](https://www.scrum.org/resources/blog/vom-junior-zum-experten-wie-du-einen-mentor-findest-der-dich-bei-deiner-entwicklung)
 - [Psychological Safety: The Key to Team Success](https://www.scrum.org/resources/blog/psychological-safety-key-team-success)
