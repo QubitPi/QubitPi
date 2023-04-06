@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Introducing Needle 🪡, Neo4j&#39;s new design system that provides our developers and designers with the tools to build high-quality products and experi...](https://twitter.com/neo4j/status/1643992010284732417)
 - [Interested in learning about #GraphNeuralNetworks &lpar;GNNs&rpar; and Graph #MachineLearning &lpar;GML&rpar;? We are developing a series and have just released our 1st o...](https://twitter.com/neo4j/status/1643961811295674369)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit https://twitter.com/i/broadcasts/1rmxPkmpddZJN](https://twitter.com/neo4j/status/1643886108642533377)
 - [Livestream with @mesirii! 🎉 He will explore various techniques where you can collaborate with ChatGPT whilst working with graph databases: Providin...](https://twitter.com/neo4j/status/1643659837874503693)
 - [RT AtomicJar: We are thrilled to announce the new @testcontainers Official Modules program with our inaugural partners @CockroachDB @_localstack @neo4...](https://twitter.com/AtomicJarInc/status/1643652878031003651)
-- [Announcing April&#39;s live #demos!🔥 These short, 30-minute events are held every Wednesday and Friday and give you a close-up look at Neo4j use cases ...](https://twitter.com/neo4j/status/1643615056133869568)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
