@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp https://m...](https://twitter.com/memgraphdb/status/1644043797087547405)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1644026181811937280)
 - [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1644008191343091712)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1643965281608376322)
 - [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1643955967883632640)
+- [🎓 With a graph database as its core product, Memgraph Lab, and MAGE, Memgraph offers a complete 3-in-1 solution to analyze cybersecurity use cases....](https://twitter.com/memgraphdb/status/1643935079473852417)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
