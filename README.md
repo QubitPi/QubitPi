@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] What is it like to work on niche topics that aren&#39;t LLM or Vision?](https://www.reddit.com/r/MachineLearning/comments/12ehsay/d_what_is_it_like_to_work_on_niche_topics_that/)
 - [[R] Text-to-image Diffusion Models in Generative AI: A Survey](https://www.reddit.com/r/MachineLearning/comments/12ehcez/r_texttoimage_diffusion_models_in_generative_ai_a/)
 - [[R] Series of Surveys on ChatGPT, Generative AI &lpar;AIGC&rpar;, and Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/12egmoo/r_series_of_surveys_on_chatgpt_generative_ai_aigc/)
 - [[R] A survey on graph diffusion models](https://www.reddit.com/r/MachineLearning/comments/12eexvl/r_a_survey_on_graph_diffusion_models/)
 - [[D] what hardware would you buy with 5000-6000 usd, to train cv models?](https://www.reddit.com/r/MachineLearning/comments/12edjft/d_what_hardware_would_you_buy_with_50006000_usd/)
-- [[D] Training a diffusion model](https://www.reddit.com/r/MachineLearning/comments/12edbzi/d_training_a_diffusion_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
