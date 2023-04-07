@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1644298222993649664)
+- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1644280104036474881)
 - [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1644274316761071619)
 - [Re 🆕 If any of the abovementioned features or improvements would make analyzing your graphs easier, download the new Memgraph v2.7 and check the do...](https://twitter.com/memgraphdb/status/1644258301389963264)
 - [Re ⚡ With the few final tweaks to the LOAD CSV importing, this feature is currently running as fast as possible. All shortest path now supports multi...](https://twitter.com/memgraphdb/status/1644258299460866049)
-- [Re 🔐 You can now choose between #SHA256 and #bcrypt password #encryption #algorithms. SHA256 can handle authorization of multiple connections to th...](https://twitter.com/memgraphdb/status/1644258290065342464)
-- [Re ⏹️ If at any point you stop being interested in the results of the query you ran or the procedure is taking too long to execute, you can stop the...](https://twitter.com/memgraphdb/status/1644258286219173888)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
