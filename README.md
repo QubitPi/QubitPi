@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Form Filling Robot [P]](https://www.reddit.com/r/MachineLearning/comments/12eorct/form_filling_robot_p/)
 - [[R] PopulAtion Parameter Averaging &lpar;PAPA&rpar;](https://www.reddit.com/r/MachineLearning/comments/12enf8d/r_population_parameter_averaging_papa/)
 - [Text to fashion AI [P]](https://www.reddit.com/r/MachineLearning/comments/12eljv6/text_to_fashion_ai_p/)
 - [[R][P] Dataset Question [https://vcipl-okstate.org/pbvs/bench/Data/03/download.html] [OSU Color and Thermal Database ]](https://www.reddit.com/r/MachineLearning/comments/12elg47/rp_dataset_question/)
 - [[D] What is it like to work on niche topics that aren&#39;t LLM or Vision?](https://www.reddit.com/r/MachineLearning/comments/12ehsay/d_what_is_it_like_to_work_on_niche_topics_that/)
-- [[R] Text-to-image Diffusion Models in Generative AI: A Survey](https://www.reddit.com/r/MachineLearning/comments/12ehcez/r_texttoimage_diffusion_models_in_generative_ai_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
