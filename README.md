@@ -318,7 +318,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Intro to Scrum &lpar;16 of 16&rpar;: What is the Increment and the Definition of Done?](https://www.scrum.org/resources/blog/intro-scrum-16-16-what-increment-and-definition-done)
 - [Use “What, So What, Now What” During The Sprint Retrospective](https://www.scrum.org/resources/blog/use-what-so-what-now-what-during-sprint-retrospective)
 - [8 Probleme bei der Durchführung der Scrum Events und umfangreiche Anleitungen, diese zu beheben](https://www.scrum.org/resources/blog/8-probleme-bei-der-durchfuhrung-der-scrum-events-und-umfangreiche-anleitungen-diese)
-- [How the Daily Scrum supports Inspection &lpar;13&rpar;](https://www.scrum.org/resources/blog/how-daily-scrum-supports-inspection-13)
+- [How the Daily Scrum Supports Inspection &lpar;13&rpar;](https://www.scrum.org/resources/blog/how-daily-scrum-supports-inspection-13)
 - [Workshop Design mit ChatGPT 🇩🇪](https://www.scrum.org/resources/blog/workshop-design-mit-chatgpt)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
