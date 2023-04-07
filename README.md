@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [I need a programmatical way to isolate the points in the &quot;shaded&quot; &lpar;green scribble&rpar; area. The X axis is predicted, Y actual. I know the model could use work. On 200+ different datasets is has similar results, centering etc is quite a different. I need to isolate the upper right predictions. Ideas?[P]](https://www.reddit.com/r/MachineLearning/comments/12evcyf/i_need_a_programmatical_way_to_isolate_the_points/)
 - [[D] Making software that can deviate from preprogrammed rules](https://www.reddit.com/r/MachineLearning/comments/12euqsa/d_making_software_that_can_deviate_from/)
 - [[R] Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster](https://www.reddit.com/r/MachineLearning/comments/12et59x/r_cerebrasgpt_open_computeoptimal_language_models/)
 - [[P] Best architecture for speech to text](https://www.reddit.com/r/MachineLearning/comments/12err5a/p_best_architecture_for_speech_to_text/)
 - [[R] I made an Awesome Papers List for Fine-Grained Image Classification with 1-slide summary of papers for each year and 1-slide summary of each paper &lpar;currently summary and slides only available from 2011 to 2015 but plan to add up to 2023 during the next weeks&rpar; along with a Github Pages companion!](https://www.reddit.com/r/MachineLearning/comments/12eowfa/r_i_made_an_awesome_papers_list_for_finegrained/)
+- [Form Filling Robot [P]](https://www.reddit.com/r/MachineLearning/comments/12eorct/form_filling_robot_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
