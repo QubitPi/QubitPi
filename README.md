@@ -299,9 +299,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [Text to fashion AI [P]](https://www.reddit.com/r/MachineLearning/comments/12eljv6/text_to_fashion_ai_p/)
 - [[R][P] Dataset Question [https://vcipl-okstate.org/pbvs/bench/Data/03/download.html] [OSU Color and Thermal Database ]](https://www.reddit.com/r/MachineLearning/comments/12elg47/rp_dataset_question/)
-- [[D] GPT-4 Technical Report: A blog post masquerading as scientific literature](https://www.reddit.com/r/MachineLearning/comments/12ekw5p/d_gpt4_technical_report_a_blog_post_masquerading/)
 - [[D] What is it like to work on niche topics that aren&#39;t LLM or Vision?](https://www.reddit.com/r/MachineLearning/comments/12ehsay/d_what_is_it_like_to_work_on_niche_topics_that/)
 - [[R] Text-to-image Diffusion Models in Generative AI: A Survey](https://www.reddit.com/r/MachineLearning/comments/12ehcez/r_texttoimage_diffusion_models_in_generative_ai_a/)
+- [[R] Series of Surveys on ChatGPT, Generative AI &lpar;AIGC&rpar;, and Diffusion Models](https://www.reddit.com/r/MachineLearning/comments/12egmoo/r_series_of_surveys_on_chatgpt_generative_ai_aigc/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
