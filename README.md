@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1644274316761071619)
-- [Re 🆕 If any of the abovementioned features or improvements would make analyzing your graphs easier, download the new Memgraph v2.7 and check the do...](https://twitter.com/memgraphdb/status/1644258301389963264)
-- [Re ⚡ With the few final tweaks to the LOAD CSV importing, this feature is currently running as fast as possible. All shortest path now supports multi...](https://twitter.com/memgraphdb/status/1644258299460866049)
-- [Re 🔐 You can now choose between #SHA256 and #bcrypt password #encryption #algorithms. SHA256 can handle authorization of multiple connections to th...](https://twitter.com/memgraphdb/status/1644258290065342464)
-- [Re ⏹️ If at any point you stop being interested in the results of the query you ran or the procedure is taking too long to execute, you can stop the...](https://twitter.com/memgraphdb/status/1644258286219173888)
+- [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1644223730850177026)
+- [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1644213162579771398)
+- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1644190514260979718)
+- [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp https://m...](https://twitter.com/memgraphdb/status/1644043797087547405)
+- [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1644026181811937280)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
