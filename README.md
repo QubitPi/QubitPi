@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1644213162579771398)
+- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1644190514260979718)
 - [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp https://m...](https://twitter.com/memgraphdb/status/1644043797087547405)
 - [🔎 In the digital world, people, services, and devices have an identity, sometimes even more than one, and those identities are becoming increasingl...](https://twitter.com/memgraphdb/status/1644026181811937280)
 - [🚀 Find vulnerabilities and security issues, or perform any other data analysis in your Identity and Access Management system with Memgraph, and ens...](https://twitter.com/memgraphdb/status/1644008191343091712)
-- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1643965281608376322)
-- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1643955967883632640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
