@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] I made an Awesome Papers List for Fine-Grained Image Classification with 1-slide summary of papers for each year and 1-slide summary of each paper &lpar;currently summary and slides only available from 2011 to 2015 but plan to add up to 2023 during the next weeks&rpar; along with a Github Pages companion!](https://www.reddit.com/r/MachineLearning/comments/12eowfa/r_i_made_an_awesome_papers_list_for_finegrained/)
 - [Form Filling Robot [P]](https://www.reddit.com/r/MachineLearning/comments/12eorct/form_filling_robot_p/)
 - [[R] PopulAtion Parameter Averaging &lpar;PAPA&rpar;](https://www.reddit.com/r/MachineLearning/comments/12enf8d/r_population_parameter_averaging_papa/)
 - [Text to fashion AI [P]](https://www.reddit.com/r/MachineLearning/comments/12eljv6/text_to_fashion_ai_p/)
 - [[R][P] Dataset Question [https://vcipl-okstate.org/pbvs/bench/Data/03/download.html] [OSU Color and Thermal Database ]](https://www.reddit.com/r/MachineLearning/comments/12elg47/rp_dataset_question/)
-- [[D] What is it like to work on niche topics that aren&#39;t LLM or Vision?](https://www.reddit.com/r/MachineLearning/comments/12ehsay/d_what_is_it_like_to_work_on_niche_topics_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
