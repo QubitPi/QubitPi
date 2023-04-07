@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Any NLP annotation service recommendations?](https://www.reddit.com/r/MachineLearning/comments/12e6ziw/d_any_nlp_annotation_service_recommendations/)
+- [[P] Grounded-Segment-Anything: Zero-shot Detection and Segmentation](https://www.reddit.com/r/MachineLearning/comments/12e6y3x/p_groundedsegmentanything_zeroshot_detection_and/)
 - [[D] Distil GPT](https://www.reddit.com/r/MachineLearning/comments/12e61jt/d_distil_gpt/)
 - [[D] Local chatGPT for python co-programming?](https://www.reddit.com/r/MachineLearning/comments/12e2mtg/d_local_chatgpt_for_python_coprogramming/)
 - [[D] OpenAssistant First Models are here! &lpar;Video&rpar;](https://www.reddit.com/r/MachineLearning/comments/12e1t90/d_openassistant_first_models_are_here_video/)
-- [[D] Open LLMs for Commercial Use](https://www.reddit.com/r/MachineLearning/comments/12e1dnc/d_open_llms_for_commercial_use/)
-- [[D] PDF QA using open source tools - confidential data constraint](https://www.reddit.com/r/MachineLearning/comments/12e0fr0/d_pdf_qa_using_open_source_tools_confidential/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
