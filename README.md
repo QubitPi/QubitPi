@@ -274,11 +274,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Towards ML-enabled cleaning robots](http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)
 - [Directing ML toward natural hazard mitigation through collaboration](http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html)
 - [How Project Starline improves remote communication](http://ai.googleblog.com/2023/04/how-project-starline-improves-remote.html)
 - [Pre-trained Gaussian processes for Bayesian optimization](http://ai.googleblog.com/2023/04/pre-trained-gaussian-processes-for.html)
 - [Scaling vision transformers to 22 billion parameters](http://ai.googleblog.com/2023/03/scaling-vision-transformers-to-22.html)
-- [Data-centric ML benchmarking: Announcing DataPerf’s 2023 challenges](http://ai.googleblog.com/2023/03/data-centric-ml-benchmarking-announcing.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
