@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782062941529702440><img align='right' src='https://i1.hdslb.com/bfs/archive/2d6371ffcc3bac9f4851cbdda2f917bc956fd97e.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782184364520767490><img align='right' src='https://i0.hdslb.com/bfs/archive/ef1ddce0c8e28693e351bcbccf8b7f08ffbc45c9.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，原神提瓦特乐园主题展活动将于4月15-5月21日在成都、天津两地开展，一起来看看吧~[原神_哇]](https://t.bilibili.com/782184364520767490)
