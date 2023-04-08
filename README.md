@@ -216,11 +216,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [原来理解、原谅一个人，真的可以让自己的心变得自由，当这个人永远地离去，我们不再狠这个人，也不会因为过去的留念而停下我们坚定的脚步，实际上，我们会心怀感...](https://t.bilibili.com/782113360126672946)
 - [[崩坏3·光辉矢愿_小喇叭]识宝是真憨憨](https://t.bilibili.com/781434016557432886)
 - [派昂的新开发者软件就要发布了，激动！](https://t.bilibili.com/781116906236018692)
 - [深境螺旋 2023 4月 上半期 第十二层 第三间](https://t.bilibili.com/781115939895640098)
 - [深境螺旋 2023 4月 上半期 第十二层 第二间](https://t.bilibili.com/780008332253462616)
-- [工作再忙也不能错过前瞻和原石[原神_点赞] #原神#](https://t.bilibili.com/780005682222989319)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Columns
