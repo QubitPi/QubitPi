@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782062941529702440><img align='right' src='https://i1.hdslb.com/bfs/archive/2d6371ffcc3bac9f4851cbdda2f917bc956fd97e.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇][原神_哇]](https://t.bilibili.com/782062941529702440)
 - [恭喜@漪人@言栖玉@没内味儿-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/781721852380708919)
 - [#原神# #原神3.6# 旅行者们好呀，3.6版本更新后，「七圣召唤」玩法将新增角色牌「神里绫人」、「荒泷一斗」、「提纳里」和对应天赋牌，以及两张新的行动牌。一起...](https://t.bilibili.com/781716788612169735)
 - [互动抽奖 #原神# #迪希雅# 你说我今天的妆容很好看？哈哈，谢谢！能收到你的赞美，花费的时间就值了！ 今天我来做向导，带你去一些只有佣兵才知道的沙漠观景点。...](https://t.bilibili.com/781691027397279956)
 - [亲爱的旅行者，必胜客×原神联动已正式开启，快和伙伴们一起踏上寻珍之旅吧~ #必胜客原神联动开启# #必胜客原神联动#](https://t.bilibili.com/780179645587783685)
-- [#原神# #原神喵# 「咦！这是什么？！让我看看...有真味茶泡饭、『蒙德往事』、蛋包饭圆舞曲和绝境求生烤鱼。难道是猫猫们留给大家的礼物？！好像也有旅行者的份...](https://t.bilibili.com/779557175975477312)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
