@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Did somebody testet Vicuna [R]](https://www.reddit.com/r/MachineLearning/comments/12fqxa3/did_somebody_testet_vicuna_r/)
+- [[D] Do AIs have inner monologues?](https://www.reddit.com/r/MachineLearning/comments/12fqu8g/d_do_ais_have_inner_monologues/)
+- [[P] Magic Copy - Meta&#39;s Segment Anything Model in a Chrome Extension](https://www.reddit.com/r/MachineLearning/comments/12fqrjv/p_magic_copy_metas_segment_anything_model_in_a/)
 - [[P] Blog post explaining CLIP by OpenAI](https://www.reddit.com/r/MachineLearning/comments/12fp9nq/p_blog_post_explaining_clip_by_openai/)
 - [[R] Residual Radiance Field: a highly compact neural representation for realtime free-viewpoint video rendering on long-duration dynamic scenes](https://www.reddit.com/r/MachineLearning/comments/12fm1o0/r_residual_radiance_field_a_highly_compact_neural/)
-- [[P]Train your own models with GAIA](https://www.reddit.com/r/MachineLearning/comments/12fl4ol/ptrain_your_own_models_with_gaia/)
-- [[P] Datasynth: Synthetic data generation and normalization functions using LangChain + LLMs](https://www.reddit.com/r/MachineLearning/comments/12fkkay/p_datasynth_synthetic_data_generation_and/)
-- [[P] A system for deep learning and reinforcement learning.](https://www.reddit.com/r/MachineLearning/comments/12fjeme/p_a_system_for_deep_learning_and_reinforcement/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
