@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1644768572051259398)
 - [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. https://memgra...](https://twitter.com/memgraphdb/status/1644750955185831936)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. https://memgraph.com/blog/manage-all-your-data-lineage-...](https://twitter.com/memgraphdb/status/1644732194559074308)
 - [🚀 Building a recommendation system using Memgraph is simpler than you think. Explore the power of product characteristics and see how they can tran...](https://twitter.com/memgraphdb/status/1644728305017397249)
 - [⚡️ Read more about using #Memgraph in managing energy network systems for stable &amp; reliable service! #EnergyManagement https://memgraph.com/energy-m...](https://twitter.com/memgraphdb/status/1644708428005212160)
-- [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1644698609772908545)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
