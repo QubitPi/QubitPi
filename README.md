@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1644586121089761280)
+- [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection #memgraph #...](https://twitter.com/memgraphdb/status/1644575550810337281)
 - [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1644560953785065472)
 - [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1644410461843070991)
 - [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1644386553542725632)
-- [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. https://memgraph.com/blog/networkx-developers-...](https://twitter.com/memgraphdb/status/1644372460681281537)
-- [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity #memgraph #database #memgraphdb #graphda...](https://twitter.com/memgraphdb/status/1644368686180884481)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
