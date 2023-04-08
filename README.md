@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1644698609772908545)
 - [💥 Discover the future of data analytics with our Real-Time Graph Analytics #Memgraph Webinar! Get insights from @supe_katarina, a DevRel Engineer a...](https://twitter.com/memgraphdb/status/1644660612549492737)
 - [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1644642493395345408)
 - [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1644635193360121856)
 - [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1644624625576321025)
-- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1644586121089761280)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
