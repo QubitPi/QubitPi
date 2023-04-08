@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#CyberSecurity 👉 Fanghua &lpar;Joshua&rpar; Yu demonstrates a low code approach to combine Bloom – the graph #visualization tool from #Neo4j AuraDB – with ...](https://twitter.com/neo4j/status/1644773117410127873)
 - [Here we discuss a new representation of a graph’s database schema that provides a catalog of labels and types and their combination into actual entit...](https://twitter.com/neo4j/status/1644713482326089728)
 - [#GraphSummit2023 Asia Pacific is starting soon! 🔥 Check out the cities and dates and register! Meet with our customers to understand the power of G...](https://twitter.com/neo4j/status/1644158135316119559)
 - [Learn the basics of #Neo4j #GraphDataScience and how it can help you to identify fraudulent activities faster. APAC: https://okt.to/uemBoS EMEA: https...](https://twitter.com/neo4j/status/1644082567849689092)
 - [Introducing Needle 🪡, Neo4j&#39;s new design system that provides our developers and designers with the tools to build high-quality products and experi...](https://twitter.com/neo4j/status/1643992010284732417)
-- [Interested in learning about #GraphNeuralNetworks &lpar;GNNs&rpar; and Graph #MachineLearning &lpar;GML&rpar;? We are developing a series and have just released our 1st o...](https://twitter.com/neo4j/status/1643961811295674369)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
