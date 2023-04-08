@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Is there a model that is good at recognising objects in videos, specifically animals?](https://www.reddit.com/r/MachineLearning/comments/12f8l2q/p_is_there_a_model_that_is_good_at_recognising/)
 - [[Discussion] Storing code into a vector database](https://www.reddit.com/r/MachineLearning/comments/12f017j/discussion_storing_code_into_a_vector_database/)
 - [[D] LLM Concurrent Throughput](https://www.reddit.com/r/MachineLearning/comments/12ezjdn/d_llm_concurrent_throughput/)
 - [[P] Variable Length Time series output for fixed length input vector](https://www.reddit.com/r/MachineLearning/comments/12ez5b1/p_variable_length_time_series_output_for_fixed/)
 - [[D] Implementing trained LLMs with analog circuit components?](https://www.reddit.com/r/MachineLearning/comments/12eyfi0/d_implementing_trained_llms_with_analog_circuit/)
-- [[D] Making software that can deviate from preprogrammed rules](https://www.reddit.com/r/MachineLearning/comments/12euqsa/d_making_software_that_can_deviate_from/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
