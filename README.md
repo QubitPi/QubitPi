@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1644635193360121856)
+- [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1644624625576321025)
 - [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1644586121089761280)
 - [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection #memgraph #...](https://twitter.com/memgraphdb/status/1644575550810337281)
 - [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1644560953785065472)
-- [🚀 Graph databases are superior compared to relational databases when talking about energy management systems due to their efficient performance, sc...](https://twitter.com/memgraphdb/status/1644410461843070991)
-- [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1644386553542725632)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
