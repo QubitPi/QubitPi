@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Residual Radiance Field: a highly compact neural representation for realtime free-viewpoint video rendering on long-duration dynamic scenes](https://www.reddit.com/r/MachineLearning/comments/12fm1o0/r_residual_radiance_field_a_highly_compact_neural/)
 - [[P]Train your own models with GAIA](https://www.reddit.com/r/MachineLearning/comments/12fl4ol/ptrain_your_own_models_with_gaia/)
 - [[P] Datasynth: Synthetic data generation and normalization functions using LangChain + LLMs](https://www.reddit.com/r/MachineLearning/comments/12fkkay/p_datasynth_synthetic_data_generation_and/)
 - [[P] A system for deep learning and reinforcement learning.](https://www.reddit.com/r/MachineLearning/comments/12fjeme/p_a_system_for_deep_learning_and_reinforcement/)
 - [[D] What do you think about this issue on Auto-GPT?](https://www.reddit.com/r/MachineLearning/comments/12fhhs3/d_what_do_you_think_about_this_issue_on_autogpt/)
-- [[P] Llama on Windows &lpar;WSL&rpar; fast and easy](https://www.reddit.com/r/MachineLearning/comments/12fg7sc/p_llama_on_windows_wsl_fast_and_easy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
