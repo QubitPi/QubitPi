@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1645090694959079425)
 - [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1645050931493457920)
 - [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1645043130905812993)
 - [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1645022242999287813)
 - [🌐 Uncover the power of data lineage in our #Memgraph Webinar featuring @get_manta Flow! Explore how graph technology helps analyze interconnected s...](https://twitter.com/memgraphdb/status/1644999090814500865)
-- [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1644987011026042880)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
