@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] The Complete Guide to Spiking Neural Networks](https://www.reddit.com/r/MachineLearning/comments/12gr91a/d_the_complete_guide_to_spiking_neural_networks/)
 - [[P] Llama model easy &amp; fast installer](https://www.reddit.com/r/MachineLearning/comments/12go0dm/p_llama_model_easy_fast_installer/)
 - [[R] Grounded-Segment-Anything: Automatically Detect , Segment and Generate Anything with Image and Text Inputs](https://www.reddit.com/r/MachineLearning/comments/12gnnfs/r_groundedsegmentanything_automatically_detect/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/12gls93/d_simple_questions_thread/)
 - [[D] High-quality RTSP streams for testing ML applications?](https://www.reddit.com/r/MachineLearning/comments/12gll1q/d_highquality_rtsp_streams_for_testing_ml/)
-- [From Deep to Long Learning](https://www.reddit.com/r/MachineLearning/comments/12gkrah/from_deep_to_long_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
