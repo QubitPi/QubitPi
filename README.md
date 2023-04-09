@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Uncover the power of data lineage in our #Memgraph Webinar featuring @get_manta Flow! Explore how graph technology helps analyze interconnected s...](https://twitter.com/memgraphdb/status/1644999090814500865)
-- [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1644987011026042880)
 - [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. https://m...](https://twitter.com/memgraphdb/status/1644962601867067392)
 - [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1644937937350434816)
 - [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1644915289505648640)
+- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1644768572051259398)
+- [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. https://memgra...](https://twitter.com/memgraphdb/status/1644750955185831936)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
