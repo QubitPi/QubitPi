@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Training GNN variation - GCN but facing issues with initializing node vectors](https://www.reddit.com/r/MachineLearning/comments/12gggdz/r_training_gnn_variation_gcn_but_facing_issues/)
 - [[D] Using a Binary classifier for disease prediction to graph the probability of disease occurrence over time](https://www.reddit.com/r/MachineLearning/comments/12gewvu/d_using_a_binary_classifier_for_disease/)
 - [[P] Slice Finder: A framework for discovering explainable, anomalous data subsets](https://www.reddit.com/r/MachineLearning/comments/12g9iyx/p_slice_finder_a_framework_for_discovering/)
 - [Lasso Constraint Intersection [D]](https://www.reddit.com/r/MachineLearning/comments/12g2184/lasso_constraint_intersection_d/)
 - [[D] Comparing LLaMA and Alpaca](https://www.reddit.com/r/MachineLearning/comments/12fzpuy/d_comparing_llama_and_alpaca/)
-- [[P] We&#39;re building an IDE that&#39;s powered by AI agents](https://www.reddit.com/r/MachineLearning/comments/12fy31k/p_were_building_an_ide_thats_powered_by_ai_agents/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
