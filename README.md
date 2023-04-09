@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] I once read a paper...](https://www.reddit.com/r/MachineLearning/comments/12gwyzg/r_i_once_read_a_paper/)
 - [[D] Struggling to Find Remote AI Jobs? Would You Find an AI-Powered Aggregator for Remote AI Job Boards Useful?](https://www.reddit.com/r/MachineLearning/comments/12gvtk6/d_struggling_to_find_remote_ai_jobs_would_you/)
 - [A Tale of History: A Family Essay about AI Drama [D]](https://www.reddit.com/r/MachineLearning/comments/12gsrrx/a_tale_of_history_a_family_essay_about_ai_drama_d/)
 - [[D] What&#39;s the hottest topic in ML right now?](https://www.reddit.com/r/MachineLearning/comments/12gshmq/d_whats_the_hottest_topic_in_ml_right_now/)
 - [[R] Neural Volumetric Memory for Legged Locomotion, CVPR23 Highlight](https://www.reddit.com/r/MachineLearning/comments/12gs05e/r_neural_volumetric_memory_for_legged_locomotion/)
-- [[D] The Complete Guide to Spiking Neural Networks](https://www.reddit.com/r/MachineLearning/comments/12gr91a/d_the_complete_guide_to_spiking_neural_networks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
