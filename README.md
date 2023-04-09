@@ -301,7 +301,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] Grounded-Segment-Anything: Automatically Detect , Segment and Generate Anything with Image and Text Inputs](https://www.reddit.com/r/MachineLearning/comments/12gnnfs/r_groundedsegmentanything_automatically_detect/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/12gls93/d_simple_questions_thread/)
 - [[D] High-quality RTSP streams for testing ML applications?](https://www.reddit.com/r/MachineLearning/comments/12gll1q/d_highquality_rtsp_streams_for_testing_ml/)
-- [[D] Please recommend an NLP textbook](https://www.reddit.com/r/MachineLearning/comments/12gl8nh/d_please_recommend_an_nlp_textbook/)
+- [From Deep to Long Learning](https://www.reddit.com/r/MachineLearning/comments/12gkrah/from_deep_to_long_learning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
