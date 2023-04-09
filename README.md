@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/12gls93/d_simple_questions_thread/)
 - [[D] High-quality RTSP streams for testing ML applications?](https://www.reddit.com/r/MachineLearning/comments/12gll1q/d_highquality_rtsp_streams_for_testing_ml/)
 - [[D] Please recommend an NLP textbook](https://www.reddit.com/r/MachineLearning/comments/12gl8nh/d_please_recommend_an_nlp_textbook/)
 - [From Deep to Long Learning](https://www.reddit.com/r/MachineLearning/comments/12gkrah/from_deep_to_long_learning/)
 - [[D] For anybody who wants a thorough guide of Swin Transformer and implementation with PyTorch](https://www.reddit.com/r/MachineLearning/comments/12ghoy8/d_for_anybody_who_wants_a_thorough_guide_of_swin/)
-- [[D] Using a Binary classifier for disease prediction to graph the probability of disease occurrence over time](https://www.reddit.com/r/MachineLearning/comments/12gewvu/d_using_a_binary_classifier_for_disease/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
