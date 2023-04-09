@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1645050931493457920)
-- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1645043130905812993)
-- [With Orb, graph data is defined with a list of nodes and edges, but the style of each node and edge is defined with a few callback functions: getNodeS...](https://twitter.com/memgraphdb/status/1645022242999287813)
 - [🌐 Uncover the power of data lineage in our #Memgraph Webinar featuring @get_manta Flow! Explore how graph technology helps analyze interconnected s...](https://twitter.com/memgraphdb/status/1644999090814500865)
 - [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1644987011026042880)
+- [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. https://m...](https://twitter.com/memgraphdb/status/1644962601867067392)
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1644937937350434816)
+- [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1644915289505648640)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
