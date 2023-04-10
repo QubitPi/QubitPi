@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❓ It’s true every recommendation engine requires a performant database to analyze the data and provide the recommendation, but why exactly does Memg...](https://twitter.com/memgraphdb/status/1645310895629783040)
+- [❗️ The data lineage graph is the single source of truth about your organization’s data. https://memgraph.com/blog/manage-all-your-data-lineage-need...](https://twitter.com/memgraphdb/status/1645296549792972802)
 - [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1645277676662398977)
 - [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1645135237205065731)
 - [💡 Dive into the world of new databases with this @fireship_dev video, including #Memgraph! Learn how these innovative technologies are revolutioniz...](https://twitter.com/memgraphdb/status/1645111330318295044)
-- [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1645097237360279553)
-- [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1645090694959079425)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
