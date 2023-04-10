@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A Baby GPT](https://www.reddit.com/r/MachineLearning/comments/12h1zld/d_a_baby_gpt/)
+- [[P] I made an auto-emoji picker for Mac with chatGPT 🤖😁](https://www.reddit.com/r/MachineLearning/comments/12h1ttc/p_i_made_an_autoemoji_picker_for_mac_with_chatgpt/)
 - [Generating images using Stable Diffusion one at a time is frustrating, time-consuming, and costly. So we made this Google Colab Notebook that can generate bulk images by just providing a list of prompts in one go! [P]](https://www.reddit.com/r/MachineLearning/comments/12h1e0k/generating_images_using_stable_diffusion_one_at_a/)
 - [[D] Intersection between active learning and model calibration?](https://www.reddit.com/r/MachineLearning/comments/12h1anq/d_intersection_between_active_learning_and_model/)
 - [[P] iOS App to Easily Finetune and Run Inference with Vision Models](https://www.reddit.com/r/MachineLearning/comments/12h19dy/p_ios_app_to_easily_finetune_and_run_inference/)
-- [[D] Shy does PyTorch load all batch data simultaneously?](https://www.reddit.com/r/MachineLearning/comments/12h16ul/d_shy_does_pytorch_load_all_batch_data/)
-- [Video Compression using Generative Models: A survey [D]](https://www.reddit.com/r/MachineLearning/comments/12gywr4/video_compression_using_generative_models_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
