@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782433090377089032><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e43daca481957dd622db87497656f03a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782790002183503873><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1945ef64dd80d307c0d142a0da04d928401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.6# #盛典与慧业# 旅行者们好~今天将为各位旅行者介绍的是3.6版本中的全新装备，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/782433090377089032)
