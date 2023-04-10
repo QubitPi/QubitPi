@@ -384,11 +384,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
 
 <!-- OPENID-CONNECT-BLOG:START -->
+- [Announcing the 2023 OpenID Foundation Kim Cameron Award Recipients](https://openid.net/2023/04/10/2023-kim-cameron-award-recipients/)
 - [Open for Comment: “Government-issued Digital Credentials and the Privacy Landscape” Whitepaper](https://openid.net/2023/04/05/open-for-comment-privacy-landscape-whitepaper/)
 - [Public Review Period for Proposed FAPI 2.0 Message Signing Implementer’s Draft](https://openid.net/2023/03/24/public-review-period-for-proposed-fapi-2-0-message-signing-implementers-draft/)
 - [FAPI 2.0 Conformance Tests and Certifications Now Available](https://openid.net/2023/03/21/fapi-2-conformance-tests-available/)
 - [Registration is Now Open for the OpenID Foundation Workshop at Microsoft – Monday, April 17, 2023](https://openid.net/2023/03/17/registration-workshop-at-microsoft/)
-- [Public Review Period for Proposed Second Implementer’s Draft of OpenID for Verifiable Presentations Specification](https://openid.net/2023/03/09/public-review-period-for-proposed-second-implementers-draft-of-openid-for-verifiable-presentations-specification/)
 <!-- OPENID-CONNECT-BLOG:END -->
 
 <h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
