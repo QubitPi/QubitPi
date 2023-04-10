@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Recommender System for managerial decisions.[P][D]](https://www.reddit.com/r/MachineLearning/comments/12hz7k3/recommender_system_for_managerial_decisionspd/)
 - [[D] A better way to compute the Fréchet Inception Distance &lpar;FID&rpar;](https://www.reddit.com/r/MachineLearning/comments/12hv2u6/d_a_better_way_to_compute_the_fréchet_inception/)
 - [[P] GlobalGPT: Modularized conversational AI model](https://www.reddit.com/r/MachineLearning/comments/12htamz/p_globalgpt_modularized_conversational_ai_model/)
 - [[D] Masters in Business Analytics &lpar;UMN&rpar; vs Data Science &lpar;SUNY Buffalo&rpar;](https://www.reddit.com/r/MachineLearning/comments/12hs6ta/d_masters_in_business_analytics_umn_vs_data/)
 - [The state of machine learning for playing &quot;games&quot;? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12hs2sh/the_state_of_machine_learning_for_playing_games/)
-- [[R] Breaking Ground in Machine Learning for Healthcare: Our Paper on Personalized Communication for Breast Cancer Diagnosis at #CHI2023](https://www.reddit.com/r/MachineLearning/comments/12hroxt/r_breaking_ground_in_machine_learning_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
