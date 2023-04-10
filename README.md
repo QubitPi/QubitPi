@@ -297,9 +297,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Is Deep Learning Suitable for Time Series Forecasting?](https://www.reddit.com/r/MachineLearning/comments/12hjh4m/r_is_deep_learning_suitable_for_time_series/)
 - [[D] What are some reputable sources that offer legally licensed datasets suitable for commercial use, which can be used to train fine tune a stable diffusion model utilising images and videos?](https://www.reddit.com/r/MachineLearning/comments/12haryy/d_what_are_some_reputable_sources_that_offer/)
 - [[R] Amazon ML challenge](https://www.reddit.com/r/MachineLearning/comments/12h73rp/r_amazon_ml_challenge/)
-- [Should I do a PhD ? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12h6vxr/should_i_do_a_phd_discussion/)
 - [[D] Is it possible to train the same LLM instance on different users&#39; data?](https://www.reddit.com/r/MachineLearning/comments/12h2knv/d_is_it_possible_to_train_the_same_llm_instance/)
 - [[D] A Baby GPT](https://www.reddit.com/r/MachineLearning/comments/12h1zld/d_a_baby_gpt/)
 <!-- REDDIT-ML:END -->
