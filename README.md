@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Masters in Business Analytics &lpar;UMN&rpar; vs Data Science &lpar;SUNY Buffalo&rpar;](https://www.reddit.com/r/MachineLearning/comments/12hs6ta/d_masters_in_business_analytics_umn_vs_data/)
+- [The state of machine learning for playing &quot;games&quot;? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12hs2sh/the_state_of_machine_learning_for_playing_games/)
 - [[R] Breaking Ground in Machine Learning for Healthcare: Our Paper on Personalized Communication for Breast Cancer Diagnosis at #CHI2023](https://www.reddit.com/r/MachineLearning/comments/12hroxt/r_breaking_ground_in_machine_learning_for/)
 - [[R] Generative Agents: Interactive Simulacra of Human Behavior - Joon Sung Park et al Stanford University 2023](https://www.reddit.com/r/MachineLearning/comments/12hluz1/r_generative_agents_interactive_simulacra_of/)
 - [[R] InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://www.reddit.com/r/MachineLearning/comments/12hjp1t/r_internvideo_general_video_foundation_models_via/)
-- [[R] Is Deep Learning Suitable for Time Series Forecasting?](https://www.reddit.com/r/MachineLearning/comments/12hjh4m/r_is_deep_learning_suitable_for_time_series/)
-- [[D] What are some reputable sources that offer legally licensed datasets suitable for commercial use, which can be used to train fine tune a stable diffusion model utilising images and videos?](https://www.reddit.com/r/MachineLearning/comments/12haryy/d_what_are_some_reputable_sources_that_offer/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
