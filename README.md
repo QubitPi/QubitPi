@@ -510,11 +510,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @kusamane...](https://twitter.com/Web3foundation/status/1645442781823881216)
+- [Re 2/ Congratulations to @FairSquares on finishing the Web3 Foundation grant programs as they work towards building a transparent housing operating sy...](https://twitter.com/Web3foundation/status/1645442779042963457)
+- [1/ The Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all o...](https://twitter.com/Web3foundation/status/1645442776568348673)
 - [Last week the Foundation&#39;s @DrW3RK provided a comprehensive overview of the @Polkadot ecosystem and the various teams &amp; projects within the network. T...](https://twitter.com/Web3foundation/status/1644683278618697728)
 - [Today at 6:30pm CEST, join the Foundation&#39;s @DrW3RK and @encodeclub to learn about the @Polkadot ecosystem and its governance structure, as well as ho...](https://twitter.com/Web3foundation/status/1643158353189675013)
-- [This Thursday at 5pm CEST, join the Foundation&#39;s @filippoweb3 and @michalis_fr to learn about multi-signature accounts, social recovery, and other adv...](https://twitter.com/Web3foundation/status/1642912251064512514)
-- [Tomorrow at 3:30pm CET, don&#39;t miss your chance to hear the Foundation&#39;s @uosvald discuss opportunities in the @Polkadot ecosystem, and learn about the...](https://twitter.com/Web3foundation/status/1636409467431534601)
-- [Re 4/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @Kusamane...](https://twitter.com/Web3foundation/status/1635315948956815360)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
