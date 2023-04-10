@@ -336,11 +336,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Optimizing Performance of OpenStack Cloud Instances with CPU Pinning: A Step-by-Step Guide](https://superuser.openinfra.dev/articles/optimizing-performance-of-openstack-cloud-instances-with-cpu-pinning-a-step-by-step-guide/)
 - [Large Scale Ops Deep Dive: Société Générale | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/large-scale-deep-dive-ops-societe-generale/)
 - [Kata Community Updates | Spring 2023](https://superuser.openinfra.dev/articles/kata-community-updates-spring-2023/)
 - [A Comprehensive Guide to Configuring GPU Passthrough in OpenStack for High-Performance Computing](https://superuser.openinfra.dev/articles/a-comprehensive-guide-to-configuring-gpu-passthrough-in-openstack-for-high-performance-computing/)
 - [Tuning IO Performance for LVM-based Cinder Volumes in OpenStack](https://superuser.openinfra.dev/articles/tuning-io-performance-for-lvm-based-cinder-volumes-in-openstack/)
-- [Viet OpenInfra User Group Holds Its 30th Meetup](https://superuser.openinfra.dev/articles/viet-openinfra-user-group-holds-its-30th-meetup/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
