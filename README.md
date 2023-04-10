@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782806752555958281><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a52cc1549c2eee4f69798245b4dc3810401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782837800848326696><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d6ee62252d3789efae6b60f168f8822d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.6# #盛典与慧业# 旅行者们好呀~3.6版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/782806752555958281)
