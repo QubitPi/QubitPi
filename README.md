@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#GlobalGraphCelebrationDay is getting closer, and we want to know how much you know about Graphs :&rpar; 🎉 1st Q: Who’s the founder of Graph Theory?](https://twitter.com/neo4j/status/1645536439923539968)
 - [We Love hearing our customers&#39; insights! Take a look at the @Gartner_Peer Insights and learn how #Graphs can help your business succeed: https://okt.t...](https://twitter.com/neo4j/status/1645456766904172546)
 - [It is not too late to register for our #training on @springcentral with @meistermeier later this week: https://okt.to/ZhmEUT](https://twitter.com/neo4j/status/1645335929844793345)
 - [In this #NODES2022 presentation, Corey Lanum, the author of the book “Visualizing Graph Data”, demonstrates how to present graph analytics in a way ...](https://twitter.com/neo4j/status/1645166208801439748)
 - [Do you know the story behind the name &quot;Neo4j&quot;? Emil Eifrem, our CEO, answered this during #NODES2022 😊 https://okt.to/pDyrj5 #Neo4j](https://twitter.com/neo4j/status/1645121163578810369)
+- [#CyberSecurity 👉 Fanghua &lpar;Joshua&rpar; Yu demonstrates a low code approach to combine Bloom – the graph #visualization tool from #Neo4j AuraDB – with ...](https://twitter.com/neo4j/status/1644773117410127873)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
