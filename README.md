@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782790002183503873><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1945ef64dd80d307c0d142a0da04d928401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.6# #盛典与慧业# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的资源...](https://t.bilibili.com/782790002183503873)
+- [《原神》3.6版本「盛典与慧业」更新维护预告](https://t.bilibili.com/782781008496820263)
 - [#原神# #原神3.6# #盛典与慧业# 旅行者们好~今天将为各位旅行者介绍的是3.6版本中的全新装备，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/782433090377089032)
 - [亲爱的旅行者，原神提瓦特乐园主题展活动将于4月15-5月21日在成都、天津两地开展，一起来看看吧~[原神_哇]](https://t.bilibili.com/782184364520767490)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/782062941529702440)
-- [恭喜@漪人@言栖玉@没内味儿-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/781721852380708919)
-- [#原神# #原神3.6# 旅行者们好呀，3.6版本更新后，「七圣召唤」玩法将新增角色牌「神里绫人」、「荒泷一斗」、「提纳里」和对应天赋牌，以及两张新的行动牌。一起...](https://t.bilibili.com/781716788612169735)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
