@@ -298,10 +298,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] Generative Agents: Interactive Simulacra of Human Behavior - Joon Sung Park et al Stanford University 2023](https://www.reddit.com/r/MachineLearning/comments/12hluz1/r_generative_agents_interactive_simulacra_of/)
-- [[Project] Cant get NASNet to perform](https://www.reddit.com/r/MachineLearning/comments/12hkvxm/project_cant_get_nasnet_to_perform/)
 - [[R] InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://www.reddit.com/r/MachineLearning/comments/12hjp1t/r_internvideo_general_video_foundation_models_via/)
 - [[R] Is Deep Learning Suitable for Time Series Forecasting?](https://www.reddit.com/r/MachineLearning/comments/12hjh4m/r_is_deep_learning_suitable_for_time_series/)
 - [[D] What are some reputable sources that offer legally licensed datasets suitable for commercial use, which can be used to train fine tune a stable diffusion model utilising images and videos?](https://www.reddit.com/r/MachineLearning/comments/12haryy/d_what_are_some_reputable_sources_that_offer/)
+- [[R] Amazon ML challenge](https://www.reddit.com/r/MachineLearning/comments/12h73rp/r_amazon_ml_challenge/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
