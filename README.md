@@ -417,11 +417,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
+- [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1645381249689591814)
 - [Powered by ArangoDB, @orange has created a staggering 51 million digital twins and counting! 🥑🔥 To learn more about their impressive use case, c...](https://twitter.com/arangodb/status/1645064030162239488)
 - [Discover the simplicity of transitioning from #SQL to ArangoDB! Our new Coming from SQL tutorial on ArangoDB University is here to help you make the s...](https://twitter.com/arangodb/status/1644701646205616129)
 - [Join Deenu Yadav of Plural Technology and learn how they used graph data, knowledge graphs, and AI/ML to power new ways to analyze products, their bil...](https://twitter.com/arangodb/status/1644293952416231427)
 - [Protecting against cyber fraud just got easier with graph and entity resolution techniques! Check out this informative blog post by ArangoDB to learn ...](https://twitter.com/arangodb/status/1644067465922596876)
-- [What&#39;s holding you back from becoming an expert in all things graph? 🤔 ArangoDB has built our University to help you do just that. Check out our va...](https://twitter.com/arangodb/status/1643931677138333696)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
