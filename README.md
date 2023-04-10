@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
+- [Building for Agility: The Role of Commodity Platforms](https://www.scrum.org/resources/blog/building-agility-role-commodity-platforms)
 - [My Grumpiest Take on Scrum](https://www.scrum.org/resources/blog/my-grumpiest-take-scrum)
 - [Stakeholder Analysis and Mapping: Part 2 of 4 Steps of Stakeholder Engagement](https://www.scrum.org/resources/blog/stakeholder-analysis-and-mapping-part-2-4-steps-stakeholder-engagement)
 - [Machst du diese Fehler bei Produkt-Zielen?](https://www.scrum.org/resources/blog/machst-du-diese-fehler-bei-produkt-zielen)
 - [Agile OKRs to Measure Improvement in Flow and Value Outcomes OKRs](https://www.scrum.org/resources/blog/agile-okrs-measure-improvement-flow-and-value-outcomes-okrs)
-- [4 Q&#39;s - Experimentation](https://www.scrum.org/resources/blog/4-qs-experimentation)
 <!-- SCRUM-DOT-ORG-BLOGS:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
