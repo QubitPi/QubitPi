@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782806752555958281><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a52cc1549c2eee4f69798245b4dc3810401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #原神3.6# #盛典与慧业# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的资源...](https://t.bilibili.com/782790002183503873)
-- [《原神》3.6版本「盛典与慧业」更新维护预告](https://t.bilibili.com/782781008496820263)
-- [#原神# #原神3.6# #盛典与慧业# 旅行者们好~今天将为各位旅行者介绍的是3.6版本中的全新装备，一起来看看吧~ （以下武器均以90级精炼1阶为例）](https://t.bilibili.com/782433090377089032)
-- [亲爱的旅行者，原神提瓦特乐园主题展活动将于4月15-5月21日在成都、天津两地开展，一起来看看吧~[原神_哇]](https://t.bilibili.com/782184364520767490)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/782062941529702440)
+- [#原神# #原神3.6# #盛典与慧业# 旅行者们好呀~3.6版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/782806752555958281)
+- [#原神# #合剂演进# 亲爱的旅行者，「合剂演进」活动即将开启~ 〓活动时间〓 2023/04/13 10:00 ~ 2023/04/24 03:59 〓参与条件〓 冒险等阶≥20级 〓活动说明〓 ●...](https://t.bilibili.com/782806237133668361)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·千夜浮梦」「单手剑·圣显之钥」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈...](https://t.bilibili.com/782805464066818052)
+- [#原神# #妮露# #翩舞歈莲# 亲爱的旅行者，「翩舞歈莲」活动祈愿即将开启，「莲光落舞筵·妮露&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/782804686649425952)
+- [#原神# #纳西妲# #月草的赐慧# 亲爱的旅行者，「月草的赐慧」活动祈愿即将开启，「白草净华·纳西妲&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/782804175574532121)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
