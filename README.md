@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1645414829249777665)
-- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1645405518242955266)
 - [📊 Learn to track data lineage with graph technology! Join our #Memgraph Webinar and discover how @get_manta Flow uses a #graphdatabase for efficien...](https://twitter.com/memgraphdb/status/1645385388863762433)
 - [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity https://memgraph.com/cybersecurity #memg...](https://twitter.com/memgraphdb/status/1645367269143330816)
 - [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1645361479892213760)
+- [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1645349399676026885)
+- [💼 Dive into data lineage use cases with our #Memgraph Webinar and see how @get_manta Flow leverages graph databases for fast, efficient data proces...](https://twitter.com/memgraphdb/status/1645332035664265218)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
