@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Are there open source voice to voice cloning models &lpar;like voice ai&rpar;](https://www.reddit.com/r/MachineLearning/comments/12iqct8/p_are_there_open_source_voice_to_voice_cloning/)
 - [Alpaca, LLaMa, Vicuna [D]](https://www.reddit.com/r/MachineLearning/comments/12iprnz/alpaca_llama_vicuna_d/)
 - [[D] vMF-VAEs vs Gaussian VAEs](https://www.reddit.com/r/MachineLearning/comments/12inwiu/d_vmfvaes_vs_gaussian_vaes/)
 - [[D] Weight Compression in LLMs/Neural Networks](https://www.reddit.com/r/MachineLearning/comments/12il30o/d_weight_compression_in_llmsneural_networks/)
 - [[R] Finetuning T5 on a new task or fientuning it for machine translation on a new language](https://www.reddit.com/r/MachineLearning/comments/12ik13w/r_finetuning_t5_on_a_new_task_or_fientuning_it/)
-- [[D] &quot;There are substantial innovations that distinguish these three models, but they are almost entirely restricted to infrastructural innovations in high-performance computing rather than model-design work that is specific to language technology.&quot; Is this true?](https://www.reddit.com/r/MachineLearning/comments/12ig4qq/d_there_are_substantial_innovations_that/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
