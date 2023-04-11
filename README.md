@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1645795591904178176)
-- [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1645788293261561859)
 - [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1645747018751524866)
 - [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1645723866705059842)
 - [👩‍💻 Data enthusiast @AshleighNFaith dives into #Memgraph - the graph in-memory solution for tricky real-time streaming challenges! 📊 Learn m...](https://twitter.com/memgraphdb/status/1645707255914823681)
+- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. https://memgraph.com/blog/manage-...](https://twitter.com/memgraphdb/status/1645673285806444545)
+- [🎓 Graph solutions, such as Memgraph, provide security analysis out of the box, making any required checks and decision-making easier and more perfo...](https://twitter.com/memgraphdb/status/1645662714260344833)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
