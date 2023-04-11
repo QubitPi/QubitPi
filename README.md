@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Seeking Advice on Relocating to UK, Canada, or Switzerland as a Master&#39;s Graduate in Data Science](https://www.reddit.com/r/MachineLearning/comments/12itnw6/r_seeking_advice_on_relocating_to_uk_canada_or/)
 - [AI Alignment Independent Research [P]](https://www.reddit.com/r/MachineLearning/comments/12ir693/ai_alignment_independent_research_p/)
 - [[P] Are there open source voice to voice cloning models &lpar;like voice ai&rpar;](https://www.reddit.com/r/MachineLearning/comments/12iqct8/p_are_there_open_source_voice_to_voice_cloning/)
 - [Alpaca, LLaMa, Vicuna [D]](https://www.reddit.com/r/MachineLearning/comments/12iprnz/alpaca_llama_vicuna_d/)
 - [[D] vMF-VAEs vs Gaussian VAEs](https://www.reddit.com/r/MachineLearning/comments/12inwiu/d_vmfvaes_vs_gaussian_vaes/)
-- [[D] Weight Compression in LLMs/Neural Networks](https://www.reddit.com/r/MachineLearning/comments/12il30o/d_weight_compression_in_llmsneural_networks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
