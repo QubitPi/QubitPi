@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Finetuning T5 on a new task or fientuning it for machine translation on a new language](https://www.reddit.com/r/MachineLearning/comments/12ik13w/r_finetuning_t5_on_a_new_task_or_fientuning_it/)
 - [[D] &quot;There are substantial innovations that distinguish these three models, but they are almost entirely restricted to infrastructural innovations in high-performance computing rather than model-design work that is specific to language technology.&quot; Is this true?](https://www.reddit.com/r/MachineLearning/comments/12ig4qq/d_there_are_substantial_innovations_that/)
 - [[D] An application that JSONifys OpenAI API responses to enhance development](https://www.reddit.com/r/MachineLearning/comments/12id67f/d_an_application_that_jsonifys_openai_api/)
 - [[D] Putting your ML models into production](https://www.reddit.com/r/MachineLearning/comments/12ib4wv/d_putting_your_ml_models_into_production/)
 - [[D] Dumb question: is GPT3 model open-sourced?](https://www.reddit.com/r/MachineLearning/comments/12i862d/d_dumb_question_is_gpt3_model_opensourced/)
-- [[D] The model used in the AI generated Jay-z vocals](https://www.reddit.com/r/MachineLearning/comments/12i7kob/d_the_model_used_in_the_ai_generated_jayz_vocals/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
