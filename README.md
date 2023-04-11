@@ -470,11 +470,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Want to hear @alison_cossette&#39;s tips for women? Check out the entire discussion of the Women&#39;s panel on March 8th and hear their incredible stories an...](https://twitter.com/neo4j/status/1645824406986403840)
 - [Neo4j Live: CloudQuery @cloudqueryio https://twitter.com/i/broadcasts/1vOxwMAEnrdGB](https://twitter.com/neo4j/status/1645800322223296512)
 - [RT AtomicJar: ICYMI: Last week AtomicJar, Inc. launched our Official Modules program with partners @CockroachDB @_localstack @neo4j @redpandadata @Str...](https://twitter.com/AtomicJarInc/status/1645798507851431940)
 - [🙋Want to learn something new this week? Why not register for the upcoming Spring Data Training taking place on Wednesday: https://okt.to/GDKUo3 #tr...](https://twitter.com/neo4j/status/1645794356694257666)
 - [In a few hours @alexandererdl talks to @cloudqueryio about #CyberSecurity by analyzing and visualizing infrastructure as a graph. Join live: https://o...](https://twitter.com/neo4j/status/1645774110645952514)
-- [#GlobalGraphCelebrationDay is getting closer, and we want to know how much you know about Graphs :&rpar; 🎉 1st Q: Who’s the founder of Graph Theory?](https://twitter.com/neo4j/status/1645536439923539968)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
