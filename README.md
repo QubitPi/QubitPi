@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/782837800848326696><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d6ee62252d3789efae6b60f168f8822d401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783178417548820537><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c73ee12a82475ac8117d623dccc3a1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #绮良良# #檐宇猫游# ▌檐宇猫游 · 绮良良 歧尾骏足，通达万户 ========== 「这只猫又可爱极了，特别是趁她睡着，在她耳边说『快递要超时了』...](https://t.bilibili.com/782837800848326696)
