@@ -364,11 +364,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes v1.27: Chill Vibes](https://kubernetes.io/blog/2023/04/11/kubernetes-v1-27-release/)
 - [Blog: Keeping Kubernetes Secure with Updated Go Versions](https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions/)
 - [Blog: Kubernetes Validating Admission Policies: A Practical Example](https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/)
 - [Blog: Kubernetes Removals and Major Changes In v1.27](https://kubernetes.io/blog/2023/03/17/upcoming-changes-in-kubernetes-v1-27/)
 - [Blog: k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know](https://kubernetes.io/blog/2023/03/10/image-registry-redirect/)
-- [Blog: Forensic container analysis](https://kubernetes.io/blog/2023/03/10/forensic-container-analysis/)
 <!-- KUBERNETES-BLOG:END -->
 
 <h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
