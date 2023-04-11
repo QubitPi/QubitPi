@@ -300,8 +300,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] I created a one-liner QnA over docs bot with LangChain and GPT. Do you like it?](https://www.reddit.com/r/MachineLearning/comments/12iwu6k/p_i_created_a_oneliner_qna_over_docs_bot_with/)
 - [[R] Going further under Grounded-Segment-Anything: integrating Whisper and ChatGPT](https://www.reddit.com/r/MachineLearning/comments/12iulqu/r_going_further_under_groundedsegmentanything/)
 - [[R] Correct way to implement client-level DP in Federated Learning](https://www.reddit.com/r/MachineLearning/comments/12iu9xc/r_correct_way_to_implement_clientlevel_dp_in/)
-- [[R] Seeking Advice on Relocating to UK, Canada, or Switzerland as a Master&#39;s Graduate in Data Science](https://www.reddit.com/r/MachineLearning/comments/12itnw6/r_seeking_advice_on_relocating_to_uk_canada_or/)
 - [AI Alignment Independent Research [P]](https://www.reddit.com/r/MachineLearning/comments/12ir693/ai_alignment_independent_research_p/)
+- [[P] Are there open source voice to voice cloning models &lpar;like voice ai&rpar;](https://www.reddit.com/r/MachineLearning/comments/12iqct8/p_are_there_open_source_voice_to_voice_cloning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
