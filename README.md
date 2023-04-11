@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] TTS Voice Google Clone](https://www.reddit.com/r/MachineLearning/comments/12i3e67/p_tts_voice_google_clone/)
 - [[Project] Did anyone work with models that transfer human characters from 2D to 3D?](https://www.reddit.com/r/MachineLearning/comments/12i28fk/project_did_anyone_work_with_models_that_transfer/)
 - [[D] A better way to compute the Fréchet Inception Distance &lpar;FID&rpar;](https://www.reddit.com/r/MachineLearning/comments/12hv2u6/d_a_better_way_to_compute_the_fréchet_inception/)
 - [[P] GlobalGPT: Modularized conversational AI model](https://www.reddit.com/r/MachineLearning/comments/12htamz/p_globalgpt_modularized_conversational_ai_model/)
 - [The state of machine learning for playing &quot;games&quot;? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12hs2sh/the_state_of_machine_learning_for_playing_games/)
-- [[R] Breaking Ground in Machine Learning for Healthcare: Our Paper on Personalized Communication for Breast Cancer Diagnosis at #CHI2023](https://www.reddit.com/r/MachineLearning/comments/12hroxt/r_breaking_ground_in_machine_learning_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
