@@ -315,7 +315,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.scrum.org/resources/blog"><img width="10%" src="https://user-images.githubusercontent.com/16126939/197373270-2e2cbf96-6e78-4fbe-8245-e54b4f392708.svg"></a></h3>
 
 <!-- SCRUM-DOT-ORG-BLOGS:START -->
-- [Activity is not a measure of success in Scrum](https://www.scrum.org/resources/blog/activity-not-measure-success-scrum)
+- [Activity is Not a Measure of Success in Scrum](https://www.scrum.org/resources/blog/activity-not-measure-success-scrum)
 - [4 Q&#39;s - Experimentation](https://www.scrum.org/resources/blog/4-qs-experimentation)
 - [Building for Agility: The Role of Commodity Platforms](https://www.scrum.org/resources/blog/building-agility-role-commodity-platforms)
 - [My Grumpiest Take on Scrum](https://www.scrum.org/resources/blog/my-grumpiest-take-scrum)
