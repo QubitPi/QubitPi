@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] An application that JSONifys OpenAI API responses to enhance development](https://www.reddit.com/r/MachineLearning/comments/12id67f/d_an_application_that_jsonifys_openai_api/)
 - [[D] Putting your ML models into production](https://www.reddit.com/r/MachineLearning/comments/12ib4wv/d_putting_your_ml_models_into_production/)
 - [[D] Dumb question: is GPT3 model open-sourced?](https://www.reddit.com/r/MachineLearning/comments/12i862d/d_dumb_question_is_gpt3_model_opensourced/)
 - [[D] The model used in the AI generated Jay-z vocals](https://www.reddit.com/r/MachineLearning/comments/12i7kob/d_the_model_used_in_the_ai_generated_jayz_vocals/)
 - [Seeking Collaborators for a Research Paper on Pneumonia Prediction Using CNN [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12i7578/seeking_collaborators_for_a_research_paper_on/)
-- [[D] GBT does not generate 4000 tokens or even half](https://www.reddit.com/r/MachineLearning/comments/12i5lyx/d_gbt_does_not_generate_4000_tokens_or_even_half/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
