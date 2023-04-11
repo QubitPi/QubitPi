@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1645855736889593860)
+- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1645838119575355402)
+- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues h...](https://twitter.com/memgraphdb/status/1645822013091508225)
+- [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1645813711473369088)
 - [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1645795591904178176)
-- [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1645788293261561859)
-- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1645747018751524866)
-- [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1645723866705059842)
-- [👩‍💻 Data enthusiast @AshleighNFaith dives into #Memgraph - the graph in-memory solution for tricky real-time streaming challenges! 📊 Learn m...](https://twitter.com/memgraphdb/status/1645707255914823681)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
