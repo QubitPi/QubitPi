@@ -450,11 +450,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1645648116123680769)
 - [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1645497624328380444)
 - [🔥 Calling all #developers with a passion for #GraphDatabases! Jump in and join our thriving community at @github! 🌟 [https://github.com/memgraph...](https://twitter.com/memgraphdb/status/1645473718771109888)
 - [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1645457628976275457)
 - [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine #memgraph #database #memg...](https://twitter.com/memgraphdb/status/1645433201987399684)
-- [🚀 As a graph database, Memgraph fits perfectly into the knowledge graph use case. It also offers free and open-source graph analytics algorithms. h...](https://twitter.com/memgraphdb/status/1645414829249777665)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
