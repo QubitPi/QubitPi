@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Seeking Collaborators for a Research Paper on Pneumonia Prediction Using CNN [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12i7578/seeking_collaborators_for_a_research_paper_on/)
 - [[D] GBT does not generate 4000 tokens or even half](https://www.reddit.com/r/MachineLearning/comments/12i5lyx/d_gbt_does_not_generate_4000_tokens_or_even_half/)
 - [[D] Data Annotation Done by Machine Learning/AI?](https://www.reddit.com/r/MachineLearning/comments/12i5kgd/d_data_annotation_done_by_machine_learningai/)
 - [YOLO in edge? &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/12i507p/yolo_in_edge_d/)
 - [[P] TTS Voice Google Clone](https://www.reddit.com/r/MachineLearning/comments/12i3e67/p_tts_voice_google_clone/)
-- [[Project] Did anyone work with models that transfer human characters from 2D to 3D?](https://www.reddit.com/r/MachineLearning/comments/12i28fk/project_did_anyone_work_with_models_that_transfer/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
