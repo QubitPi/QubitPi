@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783178417548820537><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c73ee12a82475ac8117d623dccc3a1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #纳西妲# #如风如露之思# 《原神》EP - 如风如露之思 现已发布~ https://www.bilibili.com/video/BV1wm4y1m7DC 植物的生长，需要水，需要风，需...](https://t.bilibili.com/783178417548820537)
+- [《原神》EP - 如风如露之思](https://t.bilibili.com/783175363827073091)
 - [互动抽奖 #原神# #绮良良# #檐宇猫游# ▌檐宇猫游 · 绮良良 歧尾骏足，通达万户 ========== 「这只猫又可爱极了，特别是趁她睡着，在她耳边说『快递要超时了』...](https://t.bilibili.com/782837800848326696)
 - [#原神# #原神3.6# #盛典与慧业# 旅行者们好呀~3.6版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/782806752555958281)
 - [#原神# #合剂演进# 亲爱的旅行者，「合剂演进」活动即将开启~ 〓活动时间〓 2023/04/13 10:00 ~ 2023/04/24 03:59 〓参与条件〓 冒险等阶≥20级 〓活动说明〓 ●...](https://t.bilibili.com/782806237133668361)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·千夜浮梦」「单手剑·圣显之钥」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈...](https://t.bilibili.com/782805464066818052)
-- [#原神# #妮露# #翩舞歈莲# 亲爱的旅行者，「翩舞歈莲」活动祈愿即将开启，「莲光落舞筵·妮露&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/782804686649425952)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
