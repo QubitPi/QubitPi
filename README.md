@@ -161,7 +161,17 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
-#### [OpenStack](https://youtu.be/locCs2Duk5U) & Virtualization
+#### Data/Knowledge Graph
+
+> ~~"All knowledge is controlled by Google"~~
+
+[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
+
+#### Immutable Infrastructure<sup>![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white) ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)</sup>
+
+[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
+
+##### [OpenStack](https://youtu.be/locCs2Duk5U) & Virtualization
 
 [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/swift/)
 
@@ -170,22 +180,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Docker](https://qubitpi.github.io/docker-docs/) | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
 
-#### Immutable Infrastructure
-
-[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
-
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
-
-#### Data/Knowledge Graph
-
-> ~~"All knowledge is controlled by Google"~~
-
-[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
-
-##### Graph Database
-
-- [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/)
-- [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/)
 
 #### Frontend Technologies <sup>![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
@@ -194,6 +189,11 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 #### Backend Dev <sup>![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
 
 [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Jersey](https://qubitpi.github.io/jersey/) | [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Java](https://qubitpi.github.io/graphql-java-page/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/) | [Hadoop](https://qubitpi.github.io/hadoop/hadoop-project/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
+
+##### Graph Database
+
+- [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/)
+- [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/)
 
 #### Miscellaneous
 
