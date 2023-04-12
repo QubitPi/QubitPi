@@ -419,11 +419,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
-- [Join CTO @joerg_schad for an exciting webinar on April 26th to learn about Graph Done Right: What and Why Graph! 🚀🔍 This webinar will cover the ...](https://twitter.com/arangodb/status/1646241802087723008)
 - [Learn the fundamentals of ArangoDB’s query language, AQL, with our free AQL Fundamentals course. You will learn basic CRUD operations, matching docum...](https://twitter.com/arangodb/status/1646105911977562113)
 - [🎉 Join us for an exciting webinar on &quot;Cyber Security at @FiniteStateInc with ArangoDB.&quot; 💻🛡️ Learn from experts as they discuss using ArangoG...](https://twitter.com/arangodb/status/1645879409931329536)
 - [RT Finite State: Mark your calendars for Friday, April 21st at 11:30am EDT for our Webinar with @arangodb! Our CEO @mattwyckhouse joins the ArangoDB t...](https://twitter.com/FiniteStateInc/status/1645804918241124354)
 - [Don&#39;t miss out! Take advantage of our free 14-day trial of the ArangoGraph Insights Platform. Get started now and explore what the cloud has to offer ...](https://twitter.com/arangodb/status/1645743521872195587)
+- [Learn how @FiniteStateInc uses ArangoDB to trace security vulnerabilities across software supply chains. Join Gün Akkor as he explores his experience...](https://twitter.com/arangodb/status/1645381249689591814)
 <!-- ARANGO-TWITTER:END -->
 
 #### Official Blogs
