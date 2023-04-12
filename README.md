@@ -482,11 +482,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Graphville Trailer #shorts](https://www.youtube.com/watch?v=Z_4BplzwqkU)
 - [Neo4j Live: Graphville](https://www.youtube.com/watch?v=q8CxkX2MYhE)
 - [Training Series - Spring Data Neo4j](https://www.youtube.com/watch?v=laAOQLKWy0o)
 - [Neo4j Live: CloudQuery](https://www.youtube.com/watch?v=o-thc4SVDFg)
 - [Graphversation Ep. 2 &lpar;Recommendation Engine in Ed-tech Using Neo4j &amp; GDS&rpar;](https://www.youtube.com/watch?v=SoU-hrfZ14c)
-- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=oUg-ogCEXZk)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
