@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Experience fine-tuning GPT3 on medical research papers](https://www.reddit.com/r/MachineLearning/comments/12jw0i7/r_experience_finetuning_gpt3_on_medical_research/)
+- [[D] Alpaca-LoRa Fine Tuning](https://www.reddit.com/r/MachineLearning/comments/12jvzqp/d_alpacalora_fine_tuning/)
 - [[R] Revolutionizing Sentence Embeddings with Residual RNNs and Match Drop](https://www.reddit.com/r/MachineLearning/comments/12jtsdj/r_revolutionizing_sentence_embeddings_with/)
 - [[D] CycleGAN Diffusion equivalent](https://www.reddit.com/r/MachineLearning/comments/12jtq2i/d_cyclegan_diffusion_equivalent/)
 - [[D] Approaches to optimize LLM runetime](https://www.reddit.com/r/MachineLearning/comments/12jtp1t/d_approaches_to_optimize_llm_runetime/)
-- [[N] Dolly 2.0, an open source, instruction-following LLM for research and commercial use](https://www.reddit.com/r/MachineLearning/comments/12jqbzp/n_dolly_20_an_open_source_instructionfollowing/)
-- [[R] Emergent autonomous scientific research capabilities of large language models](https://www.reddit.com/r/MachineLearning/comments/12jofpb/r_emergent_autonomous_scientific_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
