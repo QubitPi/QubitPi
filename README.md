@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1646222403809181698)
 - [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1646198494460297217)
 - [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1646182558265122822)
 - [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1646157978918068224)
 - [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1646139606281093120)
-- [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1646130295026995200)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
