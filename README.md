@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783178417548820537><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c73ee12a82475ac8117d623dccc3a1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783469049413632004><img align='right' src='https://i0.hdslb.com/bfs/article/1f523e736a49d7f4c21d85583da676f419dcf8ee.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #纳西妲# #如风如露之思# 《原神》EP - 如风如露之思 现已发布~ https://www.bilibili.com/video/BV1wm4y1m7DC 植物的生长，需要水，需要风，需...](https://t.bilibili.com/783178417548820537)
