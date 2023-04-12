@@ -218,11 +218,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [活泼到令人头疼的胡桃的专属原神风格形象](https://t.bilibili.com/783687229442621504)
 - [来看看活泼到令人头疼的胡桃的专属原神风格形象吧~](https://t.bilibili.com/783685996747161685)
 - [活泼到令人头疼的胡桃的专属原神风格形象来啦~](https://t.bilibili.com/783685159240073219)
 - [原来理解、原谅一个人，真的可以让自己的心变得自由，当这个人永远地离去，我们不再狠这个人，也不会因为过去的留念而停下我们坚定的脚步，实际上，我们会心怀感...](https://t.bilibili.com/782113360126672946)
 - [[崩坏3·光辉矢愿_小喇叭]识宝是真憨憨](https://t.bilibili.com/781434016557432886)
-- [派昂的新开发者软件就要发布了，激动！](https://t.bilibili.com/781116906236018692)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 ### Columns
