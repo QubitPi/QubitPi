@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Diffusion Models as Masked Autoencoders](https://www.reddit.com/r/MachineLearning/comments/12k345n/r_diffusion_models_as_masked_autoencoders/)
 - [getting input value error in flatten layer of cnn [D]](https://www.reddit.com/r/MachineLearning/comments/12jyp83/getting_input_value_error_in_flatten_layer_of_cnn/)
 - [[D] What are the best speech to text tools currently available ?](https://www.reddit.com/r/MachineLearning/comments/12jyduh/d_what_are_the_best_speech_to_text_tools/)
 - [[N] MERCK DATATHON COMPETITION FOR TOP DATA SCIENTISTS!](https://www.reddit.com/r/MachineLearning/comments/12jxdp0/n_merck_datathon_competition_for_top_data/)
 - [[D] Other &lpar;less efficient&rpar; way of training a language LSTM?](https://www.reddit.com/r/MachineLearning/comments/12jwtuv/d_other_less_efficient_way_of_training_a_language/)
-- [[R] Experience fine-tuning GPT3 on medical research papers](https://www.reddit.com/r/MachineLearning/comments/12jw0i7/r_experience_finetuning_gpt3_on_medical_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
