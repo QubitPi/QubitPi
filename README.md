@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783469049413632004><img align='right' src='https://i0.hdslb.com/bfs/article/1f523e736a49d7f4c21d85583da676f419dcf8ee.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·千夜浮梦」「单手剑·圣显之钥」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈...](https://t.bilibili.com/783516474424688646)
+- [#原神# #妮露# #翩舞歈莲# 亲爱的旅行者，「翩舞歈莲」活动祈愿现已开启，「莲光落舞筵·妮露&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武...](https://t.bilibili.com/783516143714304057)
+- [#原神# #纳西妲# #月草的赐慧# 亲爱的旅行者，「月草的赐慧」活动祈愿现已开启，「白草净华·纳西妲&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角...](https://t.bilibili.com/783515666945671185)
 - [《原神》3.6版本「盛典与慧业」更新说明](https://t.bilibili.com/783469049413632004)
 - [互动抽奖 #原神# #纳西妲# #如风如露之思# 《原神》EP - 如风如露之思 现已发布~ https://www.bilibili.com/video/BV1wm4y1m7DC 植物的生长，需要水，需要风，需...](https://t.bilibili.com/783178417548820537)
-- [《原神》EP - 如风如露之思](https://t.bilibili.com/783175363827073091)
-- [互动抽奖 #原神# #绮良良# #檐宇猫游# ▌檐宇猫游 · 绮良良 歧尾骏足，通达万户 ========== 「这只猫又可爱极了，特别是趁她睡着，在她耳边说『快递要超时了』...](https://t.bilibili.com/782837800848326696)
-- [#原神# #原神3.6# #盛典与慧业# 旅行者们好呀~3.6版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/782806752555958281)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
