@@ -512,11 +512,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- WEB3-FOUNDATION-TWITTER:START -->
+- [Re For more information about the grants program, visit http://web3.foundation/grants. To apply for the Foundation Grants Program for development &amp; re...](https://twitter.com/Web3foundation/status/1646145976334184449)
+- [More than 500 projects have now been funded by the Foundation Grants Program - another remarkable milestone we&#39;re celebrating this week. Check the blo...](https://twitter.com/Web3foundation/status/1646145969354862594)
 - [Re Another milestone to celebrate - more than 500 projects funded by the Foundation Grants Program so far! Interested in development &amp; research relate...](https://twitter.com/Web3foundation/status/1645725301173878785)
 - [Web3 Foundation celebrates the 17th round of grants accepted. In this wave we’ve signed 46 grants, and we’d like to take this opportunity to thank a...](https://twitter.com/Web3foundation/status/1645725298741133313)
 - [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @kusamane...](https://twitter.com/Web3foundation/status/1645442781823881216)
-- [Re 2/ Congratulations to @FairSquares on finishing the Web3 Foundation grant programs as they work towards building a transparent housing operating sy...](https://twitter.com/Web3foundation/status/1645442779042963457)
-- [1/ The Foundation continues to celebrate milestones for projects coming through its Grants Program. We’d like to take this opportunity to thank all o...](https://twitter.com/Web3foundation/status/1645442776568348673)
 <!-- WEB3-FOUNDATION-TWITTER:END -->
 
 #### Study Notes
