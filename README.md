@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1646034164100087809)
 - [🚀 Check out how you can utilize PageRank in various other use cases or knowledge graphs built to infer knowledge in these niches. Recommendation En...](https://twitter.com/memgraphdb/status/1646025101207281664)
 - [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection https://mem...](https://twitter.com/memgraphdb/status/1646002450875162626)
 - [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1645855736889593860)
 - [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1645838119575355402)
-- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues h...](https://twitter.com/memgraphdb/status/1645822013091508225)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
