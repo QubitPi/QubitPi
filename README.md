@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] [P] Slideflow 2.0: End-to-end digital pathology toolkit with RPi-compatible deployment](https://www.reddit.com/r/MachineLearning/comments/12k41tb/r_p_slideflow_20_endtoend_digital_pathology/)
 - [[R] Diffusion Models as Masked Autoencoders](https://www.reddit.com/r/MachineLearning/comments/12k345n/r_diffusion_models_as_masked_autoencoders/)
 - [getting input value error in flatten layer of cnn [D]](https://www.reddit.com/r/MachineLearning/comments/12jyp83/getting_input_value_error_in_flatten_layer_of_cnn/)
 - [[D] What are the best speech to text tools currently available ?](https://www.reddit.com/r/MachineLearning/comments/12jyduh/d_what_are_the_best_speech_to_text_tools/)
 - [[N] MERCK DATATHON COMPETITION FOR TOP DATA SCIENTISTS!](https://www.reddit.com/r/MachineLearning/comments/12jxdp0/n_merck_datathon_competition_for_top_data/)
-- [[D] Other &lpar;less efficient&rpar; way of training a language LSTM?](https://www.reddit.com/r/MachineLearning/comments/12jwtuv/d_other_less_efficient_way_of_training_a_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
