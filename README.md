@@ -542,7 +542,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [LogoLounge Book 14 Submitted Logos](https://dribbble.com/shots/21119947)
 - [Transferto | Cross-chain swaps](https://dribbble.com/shots/21165015)
 - [Agency Landing Page Animation](https://dribbble.com/shots/21131181)
-- [Green Vision - Workflow optimization website](https://dribbble.com/shots/21126264)
+- [Stable Branding](https://dribbble.com/shots/21022481)
 <!-- DRIBBBLE-TRENDING:END -->
 
 ### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
