@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783548583602290744><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3e8b1d9b8384993161eb88b2ff71a936401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783639130101776465><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e55b134917d9c576d82b11c84ca3da97401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@小君猴猫@DC九月霜叶@然然的表演时间等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/783639130101776465)
