@@ -482,11 +482,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Training Series - Spring Data Neo4j](https://www.youtube.com/watch?v=laAOQLKWy0o)
 - [What makes graph data science a good technique for unsupervised dimensionality reduction?](https://www.youtube.com/watch?v=TU3xpczmHI0)
 - [What makes graph data science good for unsupervised or semi-supervised clustering and association?](https://www.youtube.com/watch?v=ghOGAgth4sI)
 - [Why is Graph data science a good technique for influence and importance measures?](https://www.youtube.com/watch?v=2X4ZZGjOtXo)
 - [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=KbMHtm3y6PI)
-- [As a Data Scientist: What Is Your Favorite Problem You&#39;ve Ever Solved With Graph Data Science?](https://www.youtube.com/watch?v=9zk5hcHV3-I)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
