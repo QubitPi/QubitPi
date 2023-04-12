@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Planning to train a Rizz factor prediction model. Need data input. [P]](https://www.reddit.com/r/MachineLearning/comments/12js1hz/planning_to_train_a_rizz_factor_prediction_model/)
 - [[P] Building a Search Engine for AI Agents](https://www.reddit.com/r/MachineLearning/comments/12jrf72/p_building_a_search_engine_for_ai_agents/)
 - [[N] Dolly 2.0, an open source, instruction-following LLM for research and commercial use](https://www.reddit.com/r/MachineLearning/comments/12jqbzp/n_dolly_20_an_open_source_instructionfollowing/)
 - [[R] Emergent autonomous scientific research capabilities of large language models](https://www.reddit.com/r/MachineLearning/comments/12jofpb/r_emergent_autonomous_scientific_research/)
 - [[D] Demixing Listening Test - Music Source Separation Software](https://www.reddit.com/r/MachineLearning/comments/12jlxhh/d_demixing_listening_test_music_source_separation/)
-- [[D] Looking for publicly available generative image datasets labeled with human preferences or scores. Any recommendations?](https://www.reddit.com/r/MachineLearning/comments/12jjml7/d_looking_for_publicly_available_generative_image/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
