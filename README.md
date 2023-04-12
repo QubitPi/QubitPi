@@ -472,11 +472,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;Why Is Graph Data Science a Good Technique for Influence and Importing Measures?&quot; We found @alison_cossette&#39;s answer very clear, explaining why conte...](https://twitter.com/neo4j/status/1646242265369640961)
 - [Are you based in #NorthAmerica and want to learn about the power of graphs? 🌎 Our first #GraphSummit in the region will occur on April 18th in #Irv...](https://twitter.com/neo4j/status/1646182026142162946)
 - [Re You got it! Right answer: Leonhard Euler :&rpar;](https://twitter.com/neo4j/status/1646154372382965763)
 - [We want to know how much you know about #Graphs as we get closer to #GlobalGraphCelebrationDay So...What is the correct number?? 👇 The ___ Bridges ...](https://twitter.com/neo4j/status/1646153967661981698)
 - [Training Series - Spring Data Neo4j https://twitter.com/i/broadcasts/1kvJpmWvYlQxE](https://twitter.com/neo4j/status/1646147524216881155)
-- [RT Daniel CF Ng: REGISTRATION OF #GraphSummit, #GraphWorkshop and #GraphMeetUp #Mumbai ON JUNE 13 IS OPEN HERE https://lnkd.in/guZXDJTz Dr. Jim Webber...](https://twitter.com/danielcfng/status/1646047508261646337)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
