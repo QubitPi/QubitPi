@@ -170,7 +170,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Docker](https://qubitpi.github.io/docker-docs/) | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
 
-#### Software Infrastructure
+#### Immutable Infrastructure
 
 [Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
