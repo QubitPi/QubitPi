@@ -452,11 +452,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ How many recommendation algorithms do you need for a successful recommendation engine? https://memgraph.com/blog/five-recommendation-algorithms-no-...](https://twitter.com/memgraphdb/status/1646092041460539392)
-- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ h...](https://twitter.com/memgraphdb/status/1646086256684613633)
-- [🌐 Check out @fireship_dev&#39;s video on the top 15 new databases, highlighting #Memgraph! Discover how this powerful #graphdatabase is shaping the fut...](https://twitter.com/memgraphdb/status/1646074174824235012)
 - [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1646034164100087809)
 - [🚀 Check out how you can utilize PageRank in various other use cases or knowledge graphs built to infer knowledge in these niches. Recommendation En...](https://twitter.com/memgraphdb/status/1646025101207281664)
+- [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection https://mem...](https://twitter.com/memgraphdb/status/1646002450875162626)
+- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1645855736889593860)
+- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1645838119575355402)
 <!-- MEMGRAPH-TWITTER:END -->
 
 #### Links
