@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] data sheet about plants temperature and moisture needed?](https://www.reddit.com/r/MachineLearning/comments/12j5xk3/d_data_sheet_about_plants_temperature_and/)
+- [[R] RRHF: Rank Responses to Align Language Models with Human Feedback without tears - Zheng Yuan et al Alibaba Damo Academy](https://www.reddit.com/r/MachineLearning/comments/12j5aw4/r_rrhf_rank_responses_to_align_language_models/)
 - [[D] Would a Tesla M40 provide cheap inference acceleration for self-hosted LLMs?](https://www.reddit.com/r/MachineLearning/comments/12j4z1u/d_would_a_tesla_m40_provide_cheap_inference/)
-- [[P] A curated list of top AI research papers](https://www.reddit.com/r/MachineLearning/comments/12iz0kz/p_a_curated_list_of_top_ai_research_papers/)
 - [[D] Brain and Neck CT scan dataset](https://www.reddit.com/r/MachineLearning/comments/12ixtnx/d_brain_and_neck_ct_scan_dataset/)
 - [[P] I created a one-liner QnA over docs bot with LangChain and GPT. Do you like it?](https://www.reddit.com/r/MachineLearning/comments/12iwu6k/p_i_created_a_oneliner_qna_over_docs_bot_with/)
-- [[R] Going further under Grounded-Segment-Anything: integrating Whisper and ChatGPT](https://www.reddit.com/r/MachineLearning/comments/12iulqu/r_going_further_under_groundedsegmentanything/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
