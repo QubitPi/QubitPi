@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] [P]](https://www.reddit.com/r/MachineLearning/comments/12j9ui5/d_p/)
 - [[P] Composable-AI for AGI](https://www.reddit.com/r/MachineLearning/comments/12j8yal/p_composableai_for_agi/)
 - [[D] data sheet about plants temperature and moisture needed?](https://www.reddit.com/r/MachineLearning/comments/12j5xk3/d_data_sheet_about_plants_temperature_and/)
 - [[R] RRHF: Rank Responses to Align Language Models with Human Feedback without tears - Zheng Yuan et al Alibaba Damo Academy](https://www.reddit.com/r/MachineLearning/comments/12j5aw4/r_rrhf_rank_responses_to_align_language_models/)
 - [[D] Would a Tesla M40 provide cheap inference acceleration for self-hosted LLMs?](https://www.reddit.com/r/MachineLearning/comments/12j4z1u/d_would_a_tesla_m40_provide_cheap_inference/)
-- [[D] Brain and Neck CT scan dataset](https://www.reddit.com/r/MachineLearning/comments/12ixtnx/d_brain_and_neck_ct_scan_dataset/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
