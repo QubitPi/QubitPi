@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Was the Adobe Voco demonstration fake?](https://www.reddit.com/r/MachineLearning/comments/12kmb9s/d_was_the_adobe_voco_demonstration_fake/)
 - [[P] CNN &amp; LSTM for multi-class review classification](https://www.reddit.com/r/MachineLearning/comments/12klgct/p_cnn_lstm_for_multiclass_review_classification/)
 - [[P] Open in OverLeaf - Browser extension to open arxiv.org paper directly on overleaf](https://www.reddit.com/r/MachineLearning/comments/12kl20l/p_open_in_overleaf_browser_extension_to_open/)
 - [[D] What is the best open source text to speech model?](https://www.reddit.com/r/MachineLearning/comments/12kjof5/d_what_is_the_best_open_source_text_to_speech/)
 - [[P] Need Guidance on one ML Project](https://www.reddit.com/r/MachineLearning/comments/12kgh23/p_need_guidance_on_one_ml_project/)
+- [Aplaca dataset translated into polish [N] [R]](https://www.reddit.com/r/MachineLearning/comments/12kegp8/aplaca_dataset_translated_into_polish_n_r/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
