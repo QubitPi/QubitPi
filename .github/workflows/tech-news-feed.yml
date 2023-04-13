@@ -99,35 +99,7 @@ jobs:
           commit_message: "New Kubernetes Blog"
           comment_tag_name: "KUBERNETES-BLOG"
           max_post_count: "5"
-          feed_list: "https://kubernetes.io/feed.xml"     
-
-  lets-encrypt-blog:
-    name: Let's Encrypt Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New LetsEncrypt Blog"
-          comment_tag_name: "LETS-ENCRYPT-BLOG"
-          max_post_count: "5"
-          feed_list: "https://letsencrypt.org/feed.xml"
-
-  openid-connect-blog:
-    name: OpenID Connect Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New OpenID Connect Blog"
-          comment_tag_name: "OPENID-CONNECT-BLOG"
-          max_post_count: "5"
-          feed_list: "https://openid.net/feed/"
+          feed_list: "https://kubernetes.io/feed.xml"
 
   memgraph-twitter:
     name: Twitter @Memgraph
