@@ -378,10 +378,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Effortlessly Build Machine Learning Apps with Hugging Face’s Docker Spaces](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
 <!-- DOCKER-BLOG:END -->
 
-#### [Docker Documentation](https://docs.docker.com/) Updates
-
-<!-- DOCKER-DOC-CHANGES:START --><li>Wed Apr 12 2023 9:38 PM <a href=https://github.com/docker/docs/commit/5e81075d93dab81d654ef8a5b28d9ea0e41eb796>update button style &lpar;#17045&rpar;</a></li><li>Wed Apr 12 2023 9:38 PM <a href=https://github.com/docker/docs/commit/5cc58035b493bdcb74acc3fad731cf6521ee4974>update part 5 &lpar;#17054&rpar;</a></li><li>Wed Apr 12 2023 2:07 PM <a href=https://github.com/docker/docs/commit/3f6e5455d89901233a2b60c2418dfa0b59cf5081>move faqs &lpar;#17097&rpar;</a></li><li>Wed Apr 12 2023 11:23 AM <a href=https://github.com/docker/docs/commit/27485b9f7c5b634aeb65a0e525fd8e2969f8e67e>Link CVE ID CVE-2023-1802 in the Security section of the 4.18 release…</a></li><li>Wed Apr 12 2023 10:55 AM <a href=https://github.com/docker/docs/commit/48af387a283f53b9f1d0ec271b8b9fa6fc690446>Merge pull request #17085 from ChrisChinchilla/chrisward/vale-acr</a></li><!-- DOCKER-DOC-CHANGES:END -->
-
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
 
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
