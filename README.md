@@ -382,30 +382,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [FAPI 2.0 Conformance Tests and Certifications Now Available](https://openid.net/2023/03/21/fapi-2-conformance-tests-available/)
 <!-- OPENID-CONNECT-BLOG:END -->
 
-<h3><a href="https://www.graphql.com/"><img width="25%" src="./img/graphql-logo.png"></a></h3>
-
-#### Twitter
-
-<!-- ARANGO-TWITTER:START -->
-- [Join CTO @joerg_schad for an exciting webinar on April 26th to learn about Graph Done Right: What and Why Graph! 🚀🔍 This webinar will cover the ...](https://twitter.com/arangodb/status/1646241802087723008)
-- [Learn the fundamentals of ArangoDB’s query language, AQL, with our free AQL Fundamentals course. You will learn basic CRUD operations, matching docum...](https://twitter.com/arangodb/status/1646105911977562113)
-- [🎉 Join us for an exciting webinar on &quot;Cyber Security at @FiniteStateInc with ArangoDB.&quot; 💻🛡️ Learn from experts as they discuss using ArangoG...](https://twitter.com/arangodb/status/1645879409931329536)
-- [RT Finite State: Mark your calendars for Friday, April 21st at 11:30am EDT for our Webinar with @arangodb! Our CEO @mattwyckhouse joins the ArangoDB t...](https://twitter.com/FiniteStateInc/status/1645804918241124354)
-- [Don&#39;t miss out! Take advantage of our free 14-day trial of the ArangoGraph Insights Platform. Get started now and explore what the cloud has to offer ...](https://twitter.com/arangodb/status/1645743521872195587)
-<!-- ARANGO-TWITTER:END -->
-
-#### Official Blogs
-
-<img align="right" width="45%" src="https://user-images.githubusercontent.com/16126939/197424464-8e4e7dce-17d8-43a0-870f-99c95d7b667d.GIF">
-
-<!-- ARANGO-BLOGS:START -->
-- [December 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: December 2022](https://rss.app/articles/cb4e791f6f6d729c1f5d4e4732d7a78a05191f251d28a2afd2e3890e8d8368c9f116b15977818177f1a2687fc0150d8c319739bf954d2f4696659024c29e1f78d7e327ffa4b778ad)
-- [December 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: December 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93695ad1eb75d378f813ca1bf3428985753c624913da3df137f1c94)
-- [October 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c93696ad1eb75d378f813ca1bf3428985753c624913da3df137f1394)
-- [August 2022: What&#39;s the Latest with ArangoDB? ArangoDB Newsletter: August 2022](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad1eb75d378f813ca1bf3428985753c624913da3df137f1294)
-- [August 2022: ArangoDB Cloud Monthly Newsletter August 2022: Oasis Monthly Newsletter](https://rss.app/articles/cb4e791f6f6d729c04434f0c7ec4b4850c111423513cbdec8db0d748d7c9379fad10a44f309bc336a6e529218a504bc622c86ae9dd)
-<!-- ARANGO-BLOGS:END -->
-
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 * [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
