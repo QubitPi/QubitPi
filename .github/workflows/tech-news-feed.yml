@@ -143,32 +143,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://rsshub.app/twitter/user/web3foundation"
 
-  arangodb-blogs:
-    name: ArangoDB Blog
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New ArangoDB Blogs"
-          comment_tag_name: "ARANGO-BLOGS"
-          max_post_count: "5"
-          feed_list: "https://rss.app/feeds/q4XkB1Z7kdXRBkgM.xml"
-  arangodb-twitter:
-    name: Twitter @arangodb
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New ArangoDB Twitter Posts"
-          comment_tag_name: "ARANGO-TWITTER"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/arangodb"
   memgraph-twitter:
     name: Twitter @Memgraph
     runs-on: ubuntu-latest
