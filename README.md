@@ -402,8 +402,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
 
-### Frontend
-
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
