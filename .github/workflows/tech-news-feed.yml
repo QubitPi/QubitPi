@@ -183,20 +183,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://martinfowler.com/feed.atom"
 
-  dribbble:
-    name: Dribbble - Popular Shots
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Dribbble Trending"
-          comment_tag_name: "DRIBBBLE-TRENDING"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/dribbble/popular/week"
-
   css-tricks:
     name: CSS Tricks
     runs-on: ubuntu-latest
