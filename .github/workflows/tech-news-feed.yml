@@ -71,21 +71,7 @@ jobs:
           commit_message: "New DockerHub Blog"
           comment_tag_name: "DOCKER-BLOG"
           max_post_count: "5"
-          feed_list: "https://www.docker.com/feed/"
-  docker-doc-changes:
-    name: Docker Doc Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Docker doc changes"
-          comment_tag_name: "DOCKER-DOC-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://github.com/docker/docs/commits.atom"
-          template: "<li>$date <a href=$url>$title</a></li>"        
+          feed_list: "https://www.docker.com/feed/"      
 
   kubernetes-blog:
     name: Kubernetes Blog
