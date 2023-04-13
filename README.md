@@ -399,26 +399,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Blog: k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know](https://kubernetes.io/blog/2023/03/10/image-registry-redirect/)
 <!-- KUBERNETES-BLOG:END -->
 
-<h4><a href="https://letsencrypt.org/"><img width="15%" src="./img/letsencrypt-logo.svg"></a></h4>
-
-<!-- LETS-ENCRYPT-BLOG:START -->
-- [Improving Resiliency and Reliability for Let’s Encrypt with ARI](https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html)
-- [Thank you to our 2023 renewing sponsors](https://letsencrypt.org/2023/01/19/renewing-sponsors.html)
-- [A Look into the Engineering Culture at ISRG](https://letsencrypt.org/2023/01/12/eng-culture-at-isrg.html)
-- [Let’s Encrypt improves how we manage OCSP responses](https://letsencrypt.org/2022/12/15/ocspcaching.html)
-- [A Year-End Letter from our Executive Director](https://letsencrypt.org/2022/12/05/ed-letter-2022.html)
-<!-- LETS-ENCRYPT-BLOG:END -->
-
-<h4><a href="https://openid.net/connect/"><img width="30%" src="./img/openid-connect-logo.png"></a></h4>
-
-<!-- OPENID-CONNECT-BLOG:START -->
-- [Notice of Vote for Proposed Second Implementer’s Draft of OpenID for Verifiable Presentations Specification](https://openid.net/2023/04/10/notice-of-vote-for-proposed-second-implementers-draft-of-openid-for-verifiable-presentations-specification/)
-- [Announcing the 2023 OpenID Foundation Kim Cameron Award Recipients](https://openid.net/2023/04/10/2023-kim-cameron-award-recipients/)
-- [Open for Comment: “Government-issued Digital Credentials and the Privacy Landscape” Whitepaper](https://openid.net/2023/04/05/open-for-comment-privacy-landscape-whitepaper/)
-- [Public Review Period for Proposed FAPI 2.0 Message Signing Implementer’s Draft](https://openid.net/2023/03/24/public-review-period-for-proposed-fapi-2-0-message-signing-implementers-draft/)
-- [FAPI 2.0 Conformance Tests and Certifications Now Available](https://openid.net/2023/03/21/fapi-2-conformance-tests-available/)
-<!-- OPENID-CONNECT-BLOG:END -->
-
 #### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
 
 * [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
