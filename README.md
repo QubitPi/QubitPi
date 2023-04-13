@@ -428,41 +428,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
 
-<h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
-
-<!-- JANUSGRAPH-TWITTER:START -->
-- [JanusGraph 0.6.3 has been released recently. This is a maintenance release that includes a lot of dependency updates, but also some bug fixes https://...](https://twitter.com/JanusGraph/status/1630601966840696836)
-- [As a preparation of the upcoming 1.0.0 release, we have just deployed the release candidate 1.0.0 RC1: https://lists.lfaidata.foundation/g/janusgraph-...](https://twitter.com/JanusGraph/status/1600822620542451712)
-- [RT ScyllaDB: Learn how @JanusGraph leverages ScyllaDB &amp; explore potential use cases for the integration https://resources.scylladb.com/scylladb-essent...](https://twitter.com/ScyllaDB/status/1565384501559279616)
-- [RT G.V&lpar;&rpar; - Gremlin Graph Database IDE: G.V&lpar;&rpar; 0.9.25 is out! Highlights: - Gremlin Query Debugging for all 🪲 - Query Editor UX Improvements - Variou...](https://twitter.com/gdotv_ltd/status/1561777125383966726)
-- [RT ScyllaDB: Learn about the broader #ScyllaDB ecosystem: #ApacheSpark, #ApacheKafka, @datadoghq @iota Chronicle, @JanusGraph @opennms Newts &amp; more �...](https://twitter.com/ScyllaDB/status/1561775885463818241)
-<!-- JANUSGRAPH-TWITTER:END -->
-
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/189066071-c27b0dba-6bde-4e4b-a288-18f71c56ebb4.png"></h3>
-
-<img align="right" width="25%" src="./img/web3-illustration.png">
-
-> "Users own their own data, not corporations"
-> 
-> \- [Web3 Foundation](https://web3.foundation/about/)
-
-**I'm not a fan of Blockchain, but a fan of Blockchain linked to _Data_ through Web3.0**
-
-#### Twitter
-
-<!-- WEB3-FOUNDATION-TWITTER:START -->
-- [Re For more information about the grants program, visit http://web3.foundation/grants. To apply for the Foundation Grants Program for development &amp; re...](https://twitter.com/Web3foundation/status/1646145976334184449)
-- [More than 500 projects have now been funded by the Foundation Grants Program - another remarkable milestone we&#39;re celebrating this week. Check the blo...](https://twitter.com/Web3foundation/status/1646145969354862594)
-- [Re Another milestone to celebrate - more than 500 projects funded by the Foundation Grants Program so far! Interested in development &amp; research relate...](https://twitter.com/Web3foundation/status/1645725301173878785)
-- [Web3 Foundation celebrates the 17th round of grants accepted. In this wave we’ve signed 46 grants, and we’d like to take this opportunity to thank a...](https://twitter.com/Web3foundation/status/1645725298741133313)
-- [Re 3/ W3F continues to support the expansion of the Web 3.0 ecosystem. If you’re interested in development &amp; research related to @Polkadot, @kusamane...](https://twitter.com/Web3foundation/status/1645442781823881216)
-<!-- WEB3-FOUNDATION-TWITTER:END -->
-
-#### Study Notes
-
-* [Web3 X](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/web-3-dot-0.html)
-* [Blockchain 101](https://qubitpi.github.io/jersey-guide/finalized/2022/09/08/blockchain-101.html)
-
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
