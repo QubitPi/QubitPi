@@ -143,35 +143,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://openid.net/feed/"
 
-  graphql-spec-significant-changes:
-    name: GraphQL Spec Significant Changes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New GraphQL Spec Changes"
-          comment_tag_name: "GRAPHQL-SPEC-SIGNIFICANT-CHANGES"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/graphql/graphql-spec/main/spec"
-          template: "<li>$date <a href=$url>$title</a></li>"                    
-  graphql-java-significant-changes-antlr:
-    name: GraphQL Java Significant Changes (ANTLR Grammar)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New GraphQL Java ANTLR Changes"
-          comment_tag_name: "GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/github/file/graphql-java/graphql-java/master/src/main/antlr"
-          template: "<li>$date <a href=$url>$title</a></li>"         
-
   web3-foundation-twitter:
     name: Twitter @Web3 Foundation
     runs-on: ubuntu-latest
