@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] So we can run LLMs at home now. But that about tool-assisted LLMs?](https://www.reddit.com/r/MachineLearning/comments/12l7a06/d_so_we_can_run_llms_at_home_now_but_that_about/)
 - [[D] Nethack](https://www.reddit.com/r/MachineLearning/comments/12l1xfj/d_nethack/)
 - [[D] Should I go for masters degree or college for machine learning?](https://www.reddit.com/r/MachineLearning/comments/12l0ad7/d_should_i_go_for_masters_degree_or_college_for/)
 - [[P] Historical 1-min OHLC crypto prices 1900+ coins dataset with code](https://www.reddit.com/r/MachineLearning/comments/12kz12h/p_historical_1min_ohlc_crypto_prices_1900_coins/)
 - [Node Embedding Clarification &quot;[R]&quot;](https://www.reddit.com/r/MachineLearning/comments/12kyo1u/node_embedding_clarification_r/)
-- [[P] Balacoon: free-to-use text-to-speech](https://www.reddit.com/r/MachineLearning/comments/12kw7f0/p_balacoon_freetouse_texttospeech/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
