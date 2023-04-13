@@ -314,6 +314,42 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 * [Machine Learning](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning)
 
+<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
+
+[![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
+
+#### Twitter
+
+<!-- NEO4J-TWITTER:START -->
+- [Calling all #datascientists! Be one of the first to experience this cutting-edge, fully-managed graph data science service designed for enterprise-sca...](https://twitter.com/neo4j/status/1646258427264466953)
+- [&quot;Why Is Graph Data Science a Good Technique for Influence and Importing Measures?&quot; We found @alison_cossette&#39;s answer very clear, explaining why conte...](https://twitter.com/neo4j/status/1646242265369640961)
+- [Are you based in #NorthAmerica and want to learn about the power of graphs? 🌎 Our first #GraphSummit in the region will occur on April 18th in #Irv...](https://twitter.com/neo4j/status/1646182026142162946)
+- [Re You got it! Right answer: Leonhard Euler :&rpar;](https://twitter.com/neo4j/status/1646154372382965763)
+- [We want to know how much you know about #Graphs as we get closer to #GlobalGraphCelebrationDay So...What is the correct number?? 👇 The ___ Bridges ...](https://twitter.com/neo4j/status/1646153967661981698)
+<!-- NEO4J-TWITTER:END -->
+
+#### YouTube
+
+<!-- NEO4J-YOUTUBE:START -->
+- [Training Series - Spring Data Neo4j](https://www.youtube.com/watch?v=laAOQLKWy0o)
+- [What makes graph data science a good technique for unsupervised dimensionality reduction?](https://www.youtube.com/watch?v=TU3xpczmHI0)
+- [What makes graph data science good for unsupervised or semi-supervised clustering and association?](https://www.youtube.com/watch?v=ghOGAgth4sI)
+- [Why is Graph data science a good technique for influence and importance measures?](https://www.youtube.com/watch?v=2X4ZZGjOtXo)
+- [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=KbMHtm3y6PI)
+<!-- NEO4J-YOUTUBE:END -->
+
+<h3><img width="30%" src="./img/memgraph-logo.png"></h3>
+
+#### Twitter
+
+<!-- MEMGRAPH-TWITTER:START -->
+- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1646383717001097216)
+- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1646372895642337281)
+- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1646222403809181698)
+- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1646198494460297217)
+- [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1646182558265122822)
+<!-- MEMGRAPH-TWITTER:END -->
+
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
@@ -391,48 +427,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 * [ArangoDB Graphs](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
 * [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
 * [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
-
-<h3><img width="30%" src="./img/memgraph-logo.png"></h3>
-
-#### Twitter
-
-<!-- MEMGRAPH-TWITTER:START -->
-- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1646383717001097216)
-- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1646372895642337281)
-- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1646222403809181698)
-- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1646198494460297217)
-- [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1646182558265122822)
-<!-- MEMGRAPH-TWITTER:END -->
-
-#### Links
-
-* [Newsletter](https://memgraph.com/newsletter/)
-* [Blogs](https://memgraph.com/blog)
-* [Community Forum](https://discourse.memgraph.com/)
-
-<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
-
-[![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
-
-#### Twitter
-
-<!-- NEO4J-TWITTER:START -->
-- [Calling all #datascientists! Be one of the first to experience this cutting-edge, fully-managed graph data science service designed for enterprise-sca...](https://twitter.com/neo4j/status/1646258427264466953)
-- [&quot;Why Is Graph Data Science a Good Technique for Influence and Importing Measures?&quot; We found @alison_cossette&#39;s answer very clear, explaining why conte...](https://twitter.com/neo4j/status/1646242265369640961)
-- [Are you based in #NorthAmerica and want to learn about the power of graphs? 🌎 Our first #GraphSummit in the region will occur on April 18th in #Irv...](https://twitter.com/neo4j/status/1646182026142162946)
-- [Re You got it! Right answer: Leonhard Euler :&rpar;](https://twitter.com/neo4j/status/1646154372382965763)
-- [We want to know how much you know about #Graphs as we get closer to #GlobalGraphCelebrationDay So...What is the correct number?? 👇 The ___ Bridges ...](https://twitter.com/neo4j/status/1646153967661981698)
-<!-- NEO4J-TWITTER:END -->
-
-#### YouTube
-
-<!-- NEO4J-YOUTUBE:START -->
-- [Training Series - Spring Data Neo4j](https://www.youtube.com/watch?v=laAOQLKWy0o)
-- [What makes graph data science a good technique for unsupervised dimensionality reduction?](https://www.youtube.com/watch?v=TU3xpczmHI0)
-- [What makes graph data science good for unsupervised or semi-supervised clustering and association?](https://www.youtube.com/watch?v=ghOGAgth4sI)
-- [Why is Graph data science a good technique for influence and importance measures?](https://www.youtube.com/watch?v=2X4ZZGjOtXo)
-- [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=KbMHtm3y6PI)
-<!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/janusgraph-logo.png"></h3>
 
