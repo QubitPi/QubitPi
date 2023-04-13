@@ -44,20 +44,6 @@ jobs:
           comment_tag_name: "REDDIT-ML"
           max_post_count: "5"
           feed_list: "https://www.reddit.com/r/MachineLearning/.rss"  
-          
-  scrum-dot-org-blogs:
-    name: scrum.org Blogs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New scrum.org Blog Post"
-          comment_tag_name: "SCRUM-DOT-ORG-BLOGS"
-          max_post_count: "5"
-          feed_list: "https://www.scrum.org/resources/blog/rss.xml"    
 
   openstack-superuser:
     name: OpenStack Superuser
