@@ -39,6 +39,7 @@ _Open Innovation_ as Career
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu_UEGos5Mf-9IXCy7adGbpA)
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 
 <div align="center">
 
@@ -479,27 +480,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
-<h3><img width="5%" src="https://user-images.githubusercontent.com/16126939/188560691-b1399551-c09c-47ce-a2fd-95732c057804.png"></h3>
-
-<!-- DRIBBBLE-TRENDING:START -->
-- [Transferto | Cross-chain swaps](https://dribbble.com/shots/21165015)
-- [LogoLounge Book 14 Submitted Logos](https://dribbble.com/shots/21119947)
-- [Stable Branding, visual identity, corporate brand design](https://dribbble.com/shots/21022481)
-- [Green Vision - Workflow optimization website](https://dribbble.com/shots/21126264)
-- [Agency Landing Page Animation](https://dribbble.com/shots/21131181)
-<!-- DRIBBBLE-TRENDING:END -->
-
-### My [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
-
-<img align="left" width="25%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/188263295-701ee6ab-b0d5-4716-9907-99f7393e2d66.png">
-
-<!-- DESIGN-POST-LIST:START -->
-- [[Color Palette] 雷电将军](https://www.behance.net/gallery/151020177/Color-Palette-)
-- [[Design Practice] Vector Donut](https://www.behance.net/gallery/150426875/Design-Practice-Vector-Donut)
-- [[Design Practice] Vector Peach](https://www.behance.net/gallery/150091831/Design-Practice-Vector-Peach)
-- [[Design Practice] Paper Cut Out Effect](https://www.behance.net/gallery/149929601/Design-Practice-Paper-Cut-Out-Effect)
-- [[Design Practice] 3D Isometric Illustration](https://www.behance.net/gallery/149824473/Design-Practice-3D-Isometric-Illustration)
-<!-- DESIGN-POST-LIST:END -->
 
 ### Frontend
 
