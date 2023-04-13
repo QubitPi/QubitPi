@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Understanding Neural networks in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12k9isg/d_understanding_neural_networks_in_machine/)
 - [[D] Pursue your dream job in machine learning with mljobs.info! A job board tailored towards ML opportunities.](https://www.reddit.com/r/MachineLearning/comments/12k9anz/d_pursue_your_dream_job_in_machine_learning_with/)
 - [[D] Using Discord bots as &quot;endpoint&quot; for ML/DL projects in Python - Suggestions and Improvements](https://www.reddit.com/r/MachineLearning/comments/12k8516/d_using_discord_bots_as_endpoint_for_mldl/)
 - [[R] Graduate Research Internships in Toronto](https://www.reddit.com/r/MachineLearning/comments/12k6377/r_graduate_research_internships_in_toronto/)
 - [[R] [P] Slideflow 2.0: End-to-end digital pathology toolkit with RPi-compatible deployment](https://www.reddit.com/r/MachineLearning/comments/12k41tb/r_p_slideflow_20_endtoend_digital_pathology/)
-- [[R] Diffusion Models as Masked Autoencoders](https://www.reddit.com/r/MachineLearning/comments/12k345n/r_diffusion_models_as_masked_autoencoders/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
