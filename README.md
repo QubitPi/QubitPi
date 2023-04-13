@@ -299,11 +299,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Using Discord bots as &quot;endpoint&quot; for ML/DL projects in Python - Suggestions and Improvements](https://www.reddit.com/r/MachineLearning/comments/12k8516/d_using_discord_bots_as_endpoint_for_mldl/)
 - [[R] Graduate Research Internships in Toronto](https://www.reddit.com/r/MachineLearning/comments/12k6377/r_graduate_research_internships_in_toronto/)
 - [[R] [P] Slideflow 2.0: End-to-end digital pathology toolkit with RPi-compatible deployment](https://www.reddit.com/r/MachineLearning/comments/12k41tb/r_p_slideflow_20_endtoend_digital_pathology/)
 - [[R] Diffusion Models as Masked Autoencoders](https://www.reddit.com/r/MachineLearning/comments/12k345n/r_diffusion_models_as_masked_autoencoders/)
 - [getting input value error in flatten layer of cnn [D]](https://www.reddit.com/r/MachineLearning/comments/12jyp83/getting_input_value_error_in_flatten_layer_of_cnn/)
-- [[D] What are the best speech to text tools currently available ?](https://www.reddit.com/r/MachineLearning/comments/12jyduh/d_what_are_the_best_speech_to_text_tools/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
