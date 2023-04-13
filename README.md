@@ -390,15 +390,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Blog: k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know](https://kubernetes.io/blog/2023/03/10/image-registry-redirect/)
 <!-- KUBERNETES-BLOG:END -->
 
-#### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
-
-* [Graph Analytics and Machine Learning through ArangoDB](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/ml-arango.html)
-* [ArangoDB Query Language (AQL)](https://qubitpi.github.io/jersey-guide/finalized/2022/09/02/arango-aql.html)
-* [ArangoDB Java Driver](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-java-driver.html)
-* [ArangoDB Graphs](https://qubitpi.github.io/jersey-guide/finalized/2022/09/03/arango-general-graphs.html)
-* [ArangoDB Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/08/19/arangodb.html)
-* [ArangoDB Architecture](https://qubitpi.github.io/jersey-guide/finalized/2022/09/05/arango-architecture.html)
-
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
