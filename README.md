@@ -320,11 +320,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Did you miss this livestream?? @mesirii spills the beans on how to supercharge your graph coding skills with the help of #ChatGPT. https://okt.to/kafy...](https://twitter.com/neo4j/status/1646499045970411523)
 - [Calling all #datascientists! Be one of the first to experience this cutting-edge, fully-managed graph data science service designed for enterprise-sca...](https://twitter.com/neo4j/status/1646258427264466953)
 - [&quot;Why Is Graph Data Science a Good Technique for Influence and Importing Measures?&quot; We found @alison_cossette&#39;s answer very clear, explaining why conte...](https://twitter.com/neo4j/status/1646242265369640961)
 - [Are you based in #NorthAmerica and want to learn about the power of graphs? 🌎 Our first #GraphSummit in the region will occur on April 18th in #Irv...](https://twitter.com/neo4j/status/1646182026142162946)
 - [Re You got it! Right answer: Leonhard Euler :&rpar;](https://twitter.com/neo4j/status/1646154372382965763)
-- [We want to know how much you know about #Graphs as we get closer to #GlobalGraphCelebrationDay So...What is the correct number?? 👇 The ___ Bridges ...](https://twitter.com/neo4j/status/1646153967661981698)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
