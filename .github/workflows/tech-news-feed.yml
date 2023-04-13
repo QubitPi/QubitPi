@@ -129,20 +129,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://openid.net/feed/"
 
-  web3-foundation-twitter:
-    name: Twitter @Web3 Foundation
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Web3 Foundation Blog"
-          comment_tag_name: "WEB3-FOUNDATION-TWITTER"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/web3foundation"
-
   memgraph-twitter:
     name: Twitter @Memgraph
     runs-on: ubuntu-latest
@@ -182,19 +168,6 @@ jobs:
           comment_tag_name: "NEO4J-YOUTUBE"
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
-  janusgraph-twitter:
-    name: Twitter @JanusGraph
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New JanuesGraph Twitter Posts"
-          comment_tag_name: "JANUSGRAPH-TWITTER"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/JanusGraph"
    
   martin-fowler-blog:
     name: Martin Fowler's Blog
