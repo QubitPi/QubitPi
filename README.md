@@ -298,7 +298,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Making use of company/client data](https://www.reddit.com/r/MachineLearning/comments/12kmslj/d_making_use_of_companyclient_data/)
+- [Keeping most meaningful tokens in transformer&#39;s history buffer [D]](https://www.reddit.com/r/MachineLearning/comments/12ko86d/keeping_most_meaningful_tokens_in_transformers/)
 - [[P] CNN &amp; LSTM for multi-class review classification](https://www.reddit.com/r/MachineLearning/comments/12klgct/p_cnn_lstm_for_multiclass_review_classification/)
 - [[P] Open in OverLeaf - Browser extension to open arxiv.org paper directly on overleaf](https://www.reddit.com/r/MachineLearning/comments/12kl20l/p_open_in_overleaf_browser_extension_to_open/)
 - [[D] What is the best open source text to speech model?](https://www.reddit.com/r/MachineLearning/comments/12kjof5/d_what_is_the_best_open_source_text_to_speech/)
