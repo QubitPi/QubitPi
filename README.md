@@ -400,22 +400,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 * [GraphQL Reference Guide](https://qubitpi.github.io/jersey-guide/finalized/2022/04/26/graphql.html)
 * [React - The GraphQL Frontend](https://qubitpi.github.io/jersey-guide/finalized/2022/08/30/react-basics.html)
 
-#### [GraphQL Specification](https://graphql.org/foundation/join/#graphql-specification) Significant Changes
-
-<ul>
-<!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:START --><li>Sat Feb 11 2023 12:20 AM <a href=https://github.com/graphql/graphql-spec/commit/afc0a35d271ba9502c3c68aeda6e6c6fbc223774>Add links to contributed custom scalar specs at scalars.graphql.org &lpar;#1009&rpar;</a></li><li>Thu Feb 09 2023 7:26 PM <a href=https://github.com/graphql/graphql-spec/commit/4e93488096479c3fcfcc905126c8d157ad2e8c4c>Fix ambiguity around when schema definition may be omitted &lpar;#987&rpar;</a></li><li>Thu Feb 02 2023 7:08 PM <a href=https://github.com/graphql/graphql-spec/commit/12b7ad7f0fe6ac3996fd5a2bc564357cd2dcb0bc>add explanation about argument name uniqueness. &lpar;#891&rpar;</a></li><li>Thu Jan 12 2023 10:18 PM <a href=https://github.com/graphql/graphql-spec/commit/559063cb37c14ed74050f73efd3971ee13ff134d>Change &#39;server&#39; to &#39;service&#39; &lpar;#1005&rpar;</a></li><li>Thu Jan 12 2023 8:35 PM <a href=https://github.com/graphql/graphql-spec/commit/cbb83545cf8eeb5106856dda8f9d0b750f553124>Fix broken license link &lpar;#1007&rpar;</a></li><!-- GRAPHQL-SPEC-SIGNIFICANT-CHANGES:END -->
-</ul>
-
-#### [GraphQL Java](https://www.graphql-java.com/) Significant Changes
-
-##### [ANTLR Grammar](https://github.com/graphql-java/graphql-java/tree/master/src/main/antlr) Changes
-
-<ul>
-<!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:START --><li>Sat Jan 14 2023 2:42 AM <a href=https://github.com/graphql-java/graphql-java/commit/94aadfee1a1aa8d78da57d15492174ef39e0e65d>Fix extend schema directives</a></li><li>Mon Dec 20 2021 4:02 AM <a href=https://github.com/graphql-java/graphql-java/commit/4a82b0bbd1483d148f3abf575fe705be6d2b0f70>Allow leading pipe in directive SDL, and add leading union pipe tests &lpar;#2650&rpar;</a></li><li>Wed Jul 14 2021 1:54 AM <a href=https://github.com/graphql-java/graphql-java/commit/dd290eabdc219ba5e725e0364cddcd2210fa169b>Update ANTLR grammar with new SourceCharacter definition</a></li><li>Tue Jun 29 2021 1:10 AM <a href=https://github.com/graphql-java/graphql-java/commit/5b12cbeff757c7280177375814b92a4387db152f>Add full Unicode to parser, the happy path</a></li><li>Sun Jun 27 2021 12:19 PM <a href=https://github.com/graphql-java/graphql-java/commit/f6460192969fdd87d3dcc12c3801e095ca58e90c>Fix extend type parsing issue &lpar;#2393&rpar;</a></li><!-- GRAPHQL-JAVA-SIGNIFICANT-CHANGES-ANTLR:END -->
-</ul>
-
-<h3><img width="30%" src="./img/arango-logo.png"></h3>
-
 #### Twitter
 
 <!-- ARANGO-TWITTER:START -->
