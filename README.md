@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Dolly 2.0 Series - Colab Notebook](https://www.reddit.com/r/MachineLearning/comments/12l82kv/p_dolly_20_series_colab_notebook/)
 - [[Discussion] Is there a good example of training LLaMA 30B/65B &lpar;not fine-tuning with instruct-following datasets&rpar;](https://www.reddit.com/r/MachineLearning/comments/12l7tj4/discussion_is_there_a_good_example_of_training/)
 - [[D] So we can run LLMs at home now. But that about tool-assisted LLMs?](https://www.reddit.com/r/MachineLearning/comments/12l7a06/d_so_we_can_run_llms_at_home_now_but_that_about/)
 - [[D] Nethack](https://www.reddit.com/r/MachineLearning/comments/12l1xfj/d_nethack/)
 - [[D] Should I go for masters degree or college for machine learning?](https://www.reddit.com/r/MachineLearning/comments/12l0ad7/d_should_i_go_for_masters_degree_or_college_for/)
-- [[P] Historical 1-min OHLC crypto prices 1900+ coins dataset with code](https://www.reddit.com/r/MachineLearning/comments/12kz12h/p_historical_1min_ohlc_crypto_prices_1900_coins/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
