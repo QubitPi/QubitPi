@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Thought about this blog post from 2012?](https://www.reddit.com/r/MachineLearning/comments/12lzic4/d_thought_about_this_blog_post_from_2012/)
 - [[D] Switch Net 4 combining small width neural layers into a wide layer using a fast transform](https://www.reddit.com/r/MachineLearning/comments/12lydvm/d_switch_net_4_combining_small_width_neural/)
 - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://www.reddit.com/r/MachineLearning/comments/12lxavs/choose_your_weapon_survival_strategies_for/)
 - [[D] Interacting with local sql db file with langchain via chat](https://www.reddit.com/r/MachineLearning/comments/12lv64h/d_interacting_with_local_sql_db_file_with/)
 - [ML hackathon &quot;[P]&quot;](https://www.reddit.com/r/MachineLearning/comments/12lv1r9/ml_hackathon_p/)
-- [[D] Transformers: One model to rule them all?](https://www.reddit.com/r/MachineLearning/comments/12luqik/d_transformers_one_model_to_rule_them_all/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
