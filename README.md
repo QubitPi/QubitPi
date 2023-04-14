@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Interacting with local sql db file with langchain via chat](https://www.reddit.com/r/MachineLearning/comments/12lv64h/d_interacting_with_local_sql_db_file_with/)
 - [ML hackathon &quot;[P]&quot;](https://www.reddit.com/r/MachineLearning/comments/12lv1r9/ml_hackathon_p/)
 - [[D] Transformers: One model to rule them all?](https://www.reddit.com/r/MachineLearning/comments/12luqik/d_transformers_one_model_to_rule_them_all/)
 - [[Project] Building Multi task AI agent with LangChain and using Aim to trace and visualize the executions](https://www.reddit.com/r/MachineLearning/comments/12lu7ro/project_building_multi_task_ai_agent_with/)
 - [[D] Are there any LLMs that support adult content?](https://www.reddit.com/r/MachineLearning/comments/12lrh6v/d_are_there_any_llms_that_support_adult_content/)
-- [[D] Using RLHF beyond preference tuning](https://www.reddit.com/r/MachineLearning/comments/12lnwyq/d_using_rlhf_beyond_preference_tuning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
