@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1646834938375749632)
+- [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1646816818735067136)
+- [🎵 Explore the impact of neighborly love on #Eurovision voting with graphs. Is it about the song or something more? @Eurovision #datainsights #graph...](https://twitter.com/memgraphdb/status/1646811031136608258)
 - [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1646783853153886209)
 - [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1646760448723697664)
-- [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement #memgraph #database #memgraphdb #graphd...](https://twitter.com/memgraphdb/status/1646749876883955712)
-- [🚀 Discover the power of #Memgraph, a high-performance graph database! Explore our @github repo and join the future of data management. 👉 https:/...](https://twitter.com/memgraphdb/status/1646727227206254593)
-- [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph https://memgraph.com/knowledge-graph](https://twitter.com/memgraphdb/status/1646580513451245569)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
