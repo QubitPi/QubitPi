@@ -309,10 +309,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] What is the point of physics-informed neural networks if you need to know the actual physics?](https://www.reddit.com/r/MachineLearning/comments/12lzzv6/d_what_is_the_point_of_physicsinformed_neural/)
-- [[D] Switch Net 4 combining small width neural layers into a wide layer using a fast transform](https://www.reddit.com/r/MachineLearning/comments/12lydvm/d_switch_net_4_combining_small_width_neural/)
 - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://www.reddit.com/r/MachineLearning/comments/12lxavs/choose_your_weapon_survival_strategies_for/)
 - [[D] Interacting with local sql db file with langchain via chat](https://www.reddit.com/r/MachineLearning/comments/12lv64h/d_interacting_with_local_sql_db_file_with/)
 - [ML hackathon &quot;[P]&quot;](https://www.reddit.com/r/MachineLearning/comments/12lv1r9/ml_hackathon_p/)
+- [[D] Transformers: One model to rule them all?](https://www.reddit.com/r/MachineLearning/comments/12luqik/d_transformers_one_model_to_rule_them_all/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
