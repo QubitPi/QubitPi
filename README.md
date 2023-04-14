@@ -187,9 +187,9 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies <sup>![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
-[Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/) | [Jest](https://qubitpi.github.io/jest/) | [Babel](https://qubitpi.github.io/babel-website/)
+[Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/)| [Babel](https://qubitpi.github.io/babel-website/)
 
-[testing-library](https://qubitpi.github.io/testing-library-docs/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/)
+[Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/)
 
 [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/)
 
