@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Are you attending #PyConUS 2023? 🐍 Join @alison_cossette &amp; @jalakooon on a journey to break free from the empire of if-then statements and unlock t...](https://twitter.com/neo4j/status/1646936441035825168)
-- [Tomorrow is #GlobalGraphCelebrationDay! BUT... Do you know why we celebrate every April 15th? #Neo4j](https://twitter.com/neo4j/status/1646914045604159495)
-- [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, @tb_tomaz uses GPT-4 as a...](https://twitter.com/neo4j/status/1646906307885113344)
-- [RT Alexander Erdl: What is your preferred way of learning new tech? Books, videos, online courses? I am talking to @graphville next on how to learn wi...](https://twitter.com/alexandererdl/status/1646849784396021760)
 - [In 2021, we launched #Graphs4APAC initiative to provide Asia Pacific professionals with #free training, materials, and tools to learn and enhance thei...](https://twitter.com/neo4j/status/1646845921538326528)
+- [We are excited to announce that we&#39;ve been selected as the winners of the “Data Technology Solution of the Year” in 2023&#39;s Data Breakthrough Awards!...](https://twitter.com/neo4j/status/1646641217579409408)
+- [Our First Lunch &amp; Learn event featuring #Neo4j customer speakers is arriving soon! Thomas Larsen of @ABBgroupnews will be speaking about how his team ...](https://twitter.com/neo4j/status/1646574289347289089)
+- [Did you miss this livestream?? @mesirii spills the beans on how to supercharge your graph coding skills with the help of #ChatGPT. https://okt.to/kafy...](https://twitter.com/neo4j/status/1646499045970411523)
+- [Calling all #datascientists! Be one of the first to experience this cutting-edge, fully-managed graph data science service designed for enterprise-sca...](https://twitter.com/neo4j/status/1646258427264466953)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
