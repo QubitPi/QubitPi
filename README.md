@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] SEEM: Segment Everything Everywhere All at Once](https://www.reddit.com/r/MachineLearning/comments/12lf2l3/r_seem_segment_everything_everywhere_all_at_once/)
+- [Which Predictive Maintenance method to use? [P]](https://www.reddit.com/r/MachineLearning/comments/12le9cz/which_predictive_maintenance_method_to_use_p/)
 - [[D] What &quot;type&quot; of federated learning is it when the feature space and sample space are shared for all clients?](https://www.reddit.com/r/MachineLearning/comments/12ldzpi/d_what_type_of_federated_learning_is_it_when_the/)
 - [[P] Ideas on this fraud detection problem](https://www.reddit.com/r/MachineLearning/comments/12lb0f0/p_ideas_on_this_fraud_detection_problem/)
 - [[P] Neural Network Architecture Suggestions](https://www.reddit.com/r/MachineLearning/comments/12l95ew/p_neural_network_architecture_suggestions/)
-- [[P] Dolly 2.0 Series - Colab Notebook](https://www.reddit.com/r/MachineLearning/comments/12l82kv/p_dolly_20_series_colab_notebook/)
-- [[Discussion] Is there a good example of training LLaMA 30B/65B &lpar;not fine-tuning with instruct-following datasets&rpar;](https://www.reddit.com/r/MachineLearning/comments/12l7tj4/discussion_is_there_a_good_example_of_training/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
