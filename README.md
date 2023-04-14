@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking](https://www.reddit.com/r/MachineLearning/comments/12mbd98/r_vision_diffmask_faithful_interpretation_of/)
 - [Alternatives to Pinecone? &lpar;Vector databases&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/12m9pg0/alternatives_to_pinecone_vector_databases_d/)
 - [[P] Predictive Maintenance Method](https://www.reddit.com/r/MachineLearning/comments/12m7f0h/p_predictive_maintenance_method/)
 - [[P] Microsoft Semantic Kernel: Revolutionizing App Development with AI-Infused SDK](https://www.reddit.com/r/MachineLearning/comments/12m4qsd/p_microsoft_semantic_kernel_revolutionizing_app/)
 - [[D] Ai voice changer for multiple languages ?](https://www.reddit.com/r/MachineLearning/comments/12m3nzi/d_ai_voice_changer_for_multiple_languages/)
-- [[D] What is the point of physics-informed neural networks if you need to know the actual physics?](https://www.reddit.com/r/MachineLearning/comments/12lzzv6/d_what_is_the_point_of_physicsinformed_neural/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
