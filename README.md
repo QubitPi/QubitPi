@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] Find Target Vocabulry size for Sub-word tokenizatio](https://www.reddit.com/r/MachineLearning/comments/12ls68e/p_find_target_vocabulry_size_for_subword/)
 - [[D] Are there any LLMs that support adult content?](https://www.reddit.com/r/MachineLearning/comments/12lrh6v/d_are_there_any_llms_that_support_adult_content/)
 - [[D] Using RLHF beyond preference tuning](https://www.reddit.com/r/MachineLearning/comments/12lnwyq/d_using_rlhf_beyond_preference_tuning/)
-- [[D] externalTo](https://www.reddit.com/r/MachineLearning/comments/12lnhy0/d_externalto/)
 - [[R] de&lpar;ep&rpar;tangle, detecting overlapping splines](https://www.reddit.com/r/MachineLearning/comments/12lmf2v/r_deeptangle_detecting_overlapping_splines/)
+- [[P] Image captioning and image hashtag generation.](https://www.reddit.com/r/MachineLearning/comments/12llh3t/p_image_captioning_and_image_hashtag_generation/)
+- [[D] On which texts should TfidfVectorizer be fitted when using TF-IDF cosine for text similarity?](https://www.reddit.com/r/MachineLearning/comments/12lksij/d_on_which_texts_should_tfidfvectorizer_be_fitted/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
