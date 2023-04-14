@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Learn how to build robust applications using GQLAlchemy! This tutorial shows you how to create a part of a @Twitch analytics app 🎮 #GQLAlchemy...](https://twitter.com/memgraphdb/status/1646882753130921985)
-- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1646864381844639744)
 - [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1646834938375749632)
 - [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1646816818735067136)
 - [🎵 Explore the impact of neighborly love on #Eurovision voting with graphs. Is it about the song or something more? @Eurovision #datainsights #graph...](https://twitter.com/memgraphdb/status/1646811031136608258)
+- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1646783853153886209)
+- [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1646760448723697664)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
