@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [In 2021, we launched #Graphs4APAC initiative to provide Asia Pacific professionals with #free training, materials, and tools to learn and enhance thei...](https://twitter.com/neo4j/status/1646845921538326528)
 - [We are excited to announce that we&#39;ve been selected as the winners of the “Data Technology Solution of the Year” in 2023&#39;s Data Breakthrough Awards!...](https://twitter.com/neo4j/status/1646641217579409408)
 - [Our First Lunch &amp; Learn event featuring #Neo4j customer speakers is arriving soon! Thomas Larsen of @ABBgroupnews will be speaking about how his team ...](https://twitter.com/neo4j/status/1646574289347289089)
 - [Did you miss this livestream?? @mesirii spills the beans on how to supercharge your graph coding skills with the help of #ChatGPT. https://okt.to/kafy...](https://twitter.com/neo4j/status/1646499045970411523)
 - [Calling all #datascientists! Be one of the first to experience this cutting-edge, fully-managed graph data science service designed for enterprise-sca...](https://twitter.com/neo4j/status/1646258427264466953)
-- [&quot;Why Is Graph Data Science a Good Technique for Influence and Importing Measures?&quot; We found @alison_cossette&#39;s answer very clear, explaining why conte...](https://twitter.com/neo4j/status/1646242265369640961)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
