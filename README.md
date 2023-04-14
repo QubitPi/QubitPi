@@ -285,11 +285,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Beyond automatic differentiation](http://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html)
 - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 - [UniPi: Learning universal policies via text-guided video generation](http://ai.googleblog.com/2023/04/unipi-learning-universal-policies-via.html)
 - [Developing an aging clock using deep learning on retinal images](http://ai.googleblog.com/2023/04/developing-aging-clock-using-deep.html)
 - [Towards ML-enabled cleaning robots](http://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)
-- [Directing ML toward natural hazard mitigation through collaboration](http://ai.googleblog.com/2023/04/directing-ml-toward-natural-hazard.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
