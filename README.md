@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Strategies for building a hybrid search engine?](https://www.reddit.com/r/MachineLearning/comments/12mlvty/d_strategies_for_building_a_hybrid_search_engine/)
 - [[D] Intents training database for Personal Assistant project](https://www.reddit.com/r/MachineLearning/comments/12miptc/d_intents_training_database_for_personal/)
 - [[D] Are uni-directional models the SotA for multi-label text classification problems?](https://www.reddit.com/r/MachineLearning/comments/12mgvv0/d_are_unidirectional_models_the_sota_for/)
 - [[D] Creating model from large categorical data set](https://www.reddit.com/r/MachineLearning/comments/12mgcqg/d_creating_model_from_large_categorical_data_set/)
 - [[D] PhD Applications in the UK/Europe](https://www.reddit.com/r/MachineLearning/comments/12mfx0j/d_phd_applications_in_the_ukeurope/)
-- [[D] Image Captioning problem where we expect a specific type of answer depending on the objects in the image](https://www.reddit.com/r/MachineLearning/comments/12mf5f6/d_image_captioning_problem_where_we_expect_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
