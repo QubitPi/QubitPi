@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Happy Global Graph Celebration Day 2023!!✨ Every April 15th, we honor the birthday of the man behind it all: Leonhard Euler 🎉 Join the celebration...](https://twitter.com/neo4j/status/1647211978920697858)
 - [Are you attending #PyConUS 2023? 🐍 Join @alison_cossette &amp; @jalakooon on a journey to break free from the empire of if-then statements and unlock t...](https://twitter.com/neo4j/status/1646936441035825168)
 - [Tomorrow is #GlobalGraphCelebrationDay! BUT... Do you know why we celebrate every April 15th? #Neo4j](https://twitter.com/neo4j/status/1646914045604159495)
 - [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, @tb_tomaz uses GPT-4 as a...](https://twitter.com/neo4j/status/1646906307885113344)
 - [RT Alexander Erdl: What is your preferred way of learning new tech? Books, videos, online courses? I am talking to @graphville next on how to learn wi...](https://twitter.com/alexandererdl/status/1646849784396021760)
-- [In 2021, we launched #Graphs4APAC initiative to provide Asia Pacific professionals with #free training, materials, and tools to learn and enhance thei...](https://twitter.com/neo4j/status/1646845921538326528)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
