@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine https://memgraph.com/reco...](https://twitter.com/memgraphdb/status/1647122833657479168)
 - [🔬 Join our special #Memgraph Webinar on accelerating drug discovery with a Biomedical Knowledge Graph! Learn how @AstraZeneca leverages the BIKG fo...](https://twitter.com/memgraphdb/status/1647112263545810945)
 - [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. https://memgraph.com/blog/graph...](https://twitter.com/memgraphdb/status/1647097670362701825)
 - [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1646947178458537984)
 - [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1646923271995023384)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1646909175379755009)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
