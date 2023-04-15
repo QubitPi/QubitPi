@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Generative Agents: Interactive Simulacra of Human Behavior [D]](https://www.reddit.com/r/MachineLearning/comments/12nae0j/generative_agents_interactive_simulacra_of_human/)
 - [[P] [Colabdog.com] Slightly Better Github Repo Search :&rpar;](https://www.reddit.com/r/MachineLearning/comments/12n5lvp/p_colabdogcom_slightly_better_github_repo_search/)
 - [AI UI - user interface for interacting with AI, includes voiced and animated chat bot [Project]](https://www.reddit.com/r/MachineLearning/comments/12n3c4i/ai_ui_user_interface_for_interacting_with_ai/)
 - [SNN researcher[D]](https://www.reddit.com/r/MachineLearning/comments/12n2tqm/snn_researcherd/)
 - [recommendation for a good paper to extract hand gestures features [D]](https://www.reddit.com/r/MachineLearning/comments/12n2g9h/recommendation_for_a_good_paper_to_extract_hand/)
-- [[P] Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters](https://www.reddit.com/r/MachineLearning/comments/12n1vzy/p_understanding_parameterefficient_finetuning_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
