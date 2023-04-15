@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. https://memgraph.com/blog/graph...](https://twitter.com/memgraphdb/status/1647097670362701825)
 - [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1646947178458537984)
 - [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1646923271995023384)
 - [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1646909175379755009)
 - [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1646905401688879104)
+- [🚀 Learn how to build robust applications using GQLAlchemy! This tutorial shows you how to create a part of a @Twitch analytics app 🎮 #GQLAlchemy...](https://twitter.com/memgraphdb/status/1646882753130921985)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
