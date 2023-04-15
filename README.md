@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P],[R] Looking for the best tool for text classification into fine-grained categories for a news website.](https://www.reddit.com/r/MachineLearning/comments/12ncabh/pr_looking_for_the_best_tool_for_text/)
 - [[P] OpenAssistant - The world&#39;s largest open-source replication of ChatGPT](https://www.reddit.com/r/MachineLearning/comments/12nbixk/p_openassistant_the_worlds_largest_opensource/)
 - [Generative Agents: Interactive Simulacra of Human Behavior [D]](https://www.reddit.com/r/MachineLearning/comments/12nae0j/generative_agents_interactive_simulacra_of_human/)
 - [[P] [Colabdog.com] Slightly Better Github Repo Search :&rpar;](https://www.reddit.com/r/MachineLearning/comments/12n5lvp/p_colabdogcom_slightly_better_github_repo_search/)
 - [AI UI - user interface for interacting with AI, includes voiced and animated chat bot [Project]](https://www.reddit.com/r/MachineLearning/comments/12n3c4i/ai_ui_user_interface_for_interacting_with_ai/)
-- [SNN researcher[D]](https://www.reddit.com/r/MachineLearning/comments/12n2tqm/snn_researcherd/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
