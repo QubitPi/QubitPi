@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [SNN researcher[D]](https://www.reddit.com/r/MachineLearning/comments/12n2tqm/snn_researcherd/)
 - [recommendation for a good paper to extract hand gestures features [D]](https://www.reddit.com/r/MachineLearning/comments/12n2g9h/recommendation_for_a_good_paper_to_extract_hand/)
 - [[P] Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters](https://www.reddit.com/r/MachineLearning/comments/12n1vzy/p_understanding_parameterefficient_finetuning_of/)
 - [On the topic of Machine Conciousness](https://www.reddit.com/r/MachineLearning/comments/12n1rnt/on_the_topic_of_machine_conciousness/)
 - [[D][P] Represent Analog Circuits as Graphs](https://www.reddit.com/r/MachineLearning/comments/12mzfex/dp_represent_analog_circuits_as_graphs/)
-- [[D] What are current SOTA algorithms and loss functions for learning high-level image similarity?](https://www.reddit.com/r/MachineLearning/comments/12mwzhq/d_what_are_current_sota_algorithms_and_loss/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
