@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Internet Explorer: An online agent that, given a task, learns on the web, self-supervised!](https://www.reddit.com/r/MachineLearning/comments/12nf2dz/r_internet_explorer_an_online_agent_that_given_a/)
 - [[D] If AGI companies are disrupting every other company, then who is disrupting the AGI companies?](https://www.reddit.com/r/MachineLearning/comments/12nde99/d_if_agi_companies_are_disrupting_every_other/)
 - [&quot;[D]&quot; Difference between an image segmetation and convolutional autoencoder](https://www.reddit.com/r/MachineLearning/comments/12nd5nm/d_difference_between_an_image_segmetation_and/)
 - [[P],[R] Looking for the best tool for text classification into fine-grained categories for a news website.](https://www.reddit.com/r/MachineLearning/comments/12ncabh/pr_looking_for_the_best_tool_for_text/)
 - [[P] OpenAssistant - The world&#39;s largest open-source replication of ChatGPT](https://www.reddit.com/r/MachineLearning/comments/12nbixk/p_openassistant_the_worlds_largest_opensource/)
-- [Generative Agents: Interactive Simulacra of Human Behavior [D]](https://www.reddit.com/r/MachineLearning/comments/12nae0j/generative_agents_interactive_simulacra_of_human/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
