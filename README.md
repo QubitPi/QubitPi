@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] AI Meme Generator](https://www.reddit.com/r/MachineLearning/comments/12mv53t/p_ai_meme_generator/)
 - [[R] Bert and XLNet: 85% Neurons Redundant, 92% Removable for Downstream Tasks](https://www.reddit.com/r/MachineLearning/comments/12ms3wo/r_bert_and_xlnet_85_neurons_redundant_92/)
 - [Emergence of Symbols in Neural Networks for Semantic Understanding and Communication](https://www.reddit.com/r/MachineLearning/comments/12mpjbx/emergence_of_symbols_in_neural_networks_for/)
 - [[Project] Web LLM](https://www.reddit.com/r/MachineLearning/comments/12mn4dc/project_web_llm/)
 - [[D] Strategies for building a hybrid search engine?](https://www.reddit.com/r/MachineLearning/comments/12mlvty/d_strategies_for_building_a_hybrid_search_engine/)
-- [[D] Intents training database for Personal Assistant project](https://www.reddit.com/r/MachineLearning/comments/12miptc/d_intents_training_database_for_personal/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
