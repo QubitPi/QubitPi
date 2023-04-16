@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] As a developer the current rate of ML progress doesn&#39;t make any sense to me](https://www.reddit.com/r/MachineLearning/comments/12ok5b6/d_as_a_developer_the_current_rate_of_ml_progress/)
 - [[P] CHARLIE - Voice/text chat with a roleplaying ChatGPT with a voiced live2d avatar and more](https://www.reddit.com/r/MachineLearning/comments/12ojpxj/p_charlie_voicetext_chat_with_a_roleplaying/)
 - [[D] Any AI tools Recommendations for Finding Articles and Books?](https://www.reddit.com/r/MachineLearning/comments/12ojkba/d_any_ai_tools_recommendations_for_finding/)
 - [[D] Text To Image GAN on Custom Dataset](https://www.reddit.com/r/MachineLearning/comments/12ohxx1/d_text_to_image_gan_on_custom_dataset/)
 - [BERT Explorer - Analyzing the &quot;T&quot; of GPT [R][P]](https://www.reddit.com/r/MachineLearning/comments/12ohh4l/bert_explorer_analyzing_the_t_of_gpt_rp/)
-- [[R] How Will It Drape Like? Capturing Fabric Mechanics from Depth Images](https://www.reddit.com/r/MachineLearning/comments/12oh5xm/r_how_will_it_drape_like_capturing_fabric/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
