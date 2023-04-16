@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] [colabdog.com] Prioritize data science ideas better using with our value/effort taskboard :&rpar;](https://www.reddit.com/r/MachineLearning/comments/12nv92w/p_colabdogcom_prioritize_data_science_ideas/)
 - [[P] A Community for Dolly Builders &lpar;Awesome Dolly&rpar;](https://www.reddit.com/r/MachineLearning/comments/12nka2a/p_a_community_for_dolly_builders_awesome_dolly/)
 - [[D] Grounding Large Language Models in a Cognitive Foundation: How to Build Someone We Can Talk To](https://www.reddit.com/r/MachineLearning/comments/12nhwk9/d_grounding_large_language_models_in_a_cognitive/)
 - [[D] Binary Classification Whether a Text Data is Pro or Against a Reference Policy or Statement](https://www.reddit.com/r/MachineLearning/comments/12nhh62/d_binary_classification_whether_a_text_data_is/)
 - [llama-lite: a proof of concept fast sentence embeddings service based on llama.cpp &lpar;~1ms per token on CPU&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/12ng50q/llamalite_a_proof_of_concept_fast_sentence/)
-- [[P] AI Generated music sample](https://www.reddit.com/r/MachineLearning/comments/12nfaej/p_ai_generated_music_sample/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
