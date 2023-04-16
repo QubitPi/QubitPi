@@ -254,11 +254,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/783639130101776465><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e55b134917d9c576d82b11c84ca3da97401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@想做炜翔的狗@章鱼每天困得想死@PsyduckLHL等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/785061618974195861)
 - [恭喜@小君猴猫@DC九月霜叶@然然的表演时间等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/783639130101776465)
 - [互动抽奖 #原神# #妮露# #四时旋舞之熙# 《原神》EP - 四时旋舞之熙 现已发布~ https://www.bilibili.com/video/BV1dh411g7a9 缬花随衣角起舞，飞鸟自晴空起舞，...](https://t.bilibili.com/783548583602290744)
 - [#原神# #原神3.6# #盛典与慧业# 旅行者们好~ 在新版本中，旅行者们将面临全新的敌人——「阿佩普的绿洲守望者」。它有什么特殊的机制，又该如何应对呢？一起来看...](https://t.bilibili.com/783547634388303872)
 - [《原神》EP - 四时旋舞之熙](https://t.bilibili.com/783546449003544580)
-- [#原神# #原神3.6# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.6版本内容招募活动「盛典与慧业」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自...](https://t.bilibili.com/783530884057792534)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
