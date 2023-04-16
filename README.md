@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Must know AI ML concept: Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/12ob0qr/d_must_know_ai_ml_concept_reinforcement_learning/)
 - [[D] What stops a hypothetical world-altering strong AI from altering its internal metrics of success and &#39;short-circuiting&#39;?](https://www.reddit.com/r/MachineLearning/comments/12o8ijb/d_what_stops_a_hypothetical_worldaltering_strong/)
 - [[D] Noob VC trying to understand the ML landscape](https://www.reddit.com/r/MachineLearning/comments/12o74g8/d_noob_vc_trying_to_understand_the_ml_landscape/)
 - [Downsides of predicting sentiment using a dictionary-based sentiment &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/12o6m4w/downsides_of_predicting_sentiment_using_a/)
 - [[P] Build open instruction-tuned datasets and models](https://www.reddit.com/r/MachineLearning/comments/12o68dh/p_build_open_instructiontuned_datasets_and_models/)
-- [[D] Image generation model with text in the image feasibility?](https://www.reddit.com/r/MachineLearning/comments/12o4zb2/d_image_generation_model_with_text_in_the_image/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
