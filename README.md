@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Build open instruction-tuned datasets and models](https://www.reddit.com/r/MachineLearning/comments/12o68dh/p_build_open_instructiontuned_datasets_and_models/)
 - [[D] Image generation model with text in the image feasibility?](https://www.reddit.com/r/MachineLearning/comments/12o4zb2/d_image_generation_model_with_text_in_the_image/)
 - [[D] Theoretically Estimating the number of matrix multiplications in a DNN](https://www.reddit.com/r/MachineLearning/comments/12nxa7y/d_theoretically_estimating_the_number_of_matrix/)
 - [[P] [colabdog.com] Prioritize data science ideas better using with our value/effort taskboard :&rpar;](https://www.reddit.com/r/MachineLearning/comments/12nv92w/p_colabdogcom_prioritize_data_science_ideas/)
 - [[P] A Community for Dolly Builders &lpar;Awesome Dolly&rpar;](https://www.reddit.com/r/MachineLearning/comments/12nka2a/p_a_community_for_dolly_builders_awesome_dolly/)
-- [[D] Grounding Large Language Models in a Cognitive Foundation: How to Build Someone We Can Talk To](https://www.reddit.com/r/MachineLearning/comments/12nhwk9/d_grounding_large_language_models_in_a_cognitive/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
