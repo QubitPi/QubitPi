@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Chat With Any GitHub Repo - Code Understanding with @LangChainAI &amp; @activeloopai](https://www.reddit.com/r/MachineLearning/comments/12oh07a/p_chat_with_any_github_repo_code_understanding/)
 - [[D] Peak LLM - Is the party going to be over soon?](https://www.reddit.com/r/MachineLearning/comments/12oggz7/d_peak_llm_is_the_party_going_to_be_over_soon/)
 - [[D] RTX 3060 12 GB for stable diffusion, BERT and LLama](https://www.reddit.com/r/MachineLearning/comments/12oge7w/d_rtx_3060_12_gb_for_stable_diffusion_bert_and/)
 - [[D] Must know AI ML concept: Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/12ob0qr/d_must_know_ai_ml_concept_reinforcement_learning/)
 - [[D] What stops a hypothetical world-altering strong AI from altering its internal metrics of success and &#39;short-circuiting&#39;?](https://www.reddit.com/r/MachineLearning/comments/12o8ijb/d_what_stops_a_hypothetical_worldaltering_strong/)
-- [[D] Noob VC trying to understand the ML landscape](https://www.reddit.com/r/MachineLearning/comments/12o74g8/d_noob_vc_trying_to_understand_the_ml_landscape/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
