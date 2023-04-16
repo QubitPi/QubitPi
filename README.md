@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Projected graphs, or subgraphs in mathematical terms, are graphs with an edge set and a vertex set belonging to a subset of an edge set and a ver...](https://twitter.com/memgraphdb/status/1647474652103557122)
 - [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1647452004191547394)
 - [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement #memgraph #database #memgraphdb #graphdatab...](https://twitter.com/memgraphdb/status/1647305286930124805)
 - [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1647287669808832513)
 - [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1647268983932870658)
-- [🔎 If you want to find out which page is the most influential within the documentation, there is a PageRank algorithm to help you out. https://memgr...](https://twitter.com/memgraphdb/status/1647265020093366274)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
