@@ -101,7 +101,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img src="https://user-images.githubusercontent.com/16126939/208559538-a0b3f656-b7b5-4b32-accf-280ad4b5d6ce.png" alt="可莉" width="15%">[![Messier-61](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Messier-61&show_owner=true&theme=vue)](https://github.com/QubitPi/Messier-61)
 
-[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img width="15%" src="https://user-images.githubusercontent.com/16126939/215232947-81f4a2b6-4cc4-4a64-83a6-483067f733f4.png">
+[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
     
 <img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
@@ -113,7 +113,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
 
-[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
+[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)<img width="15%" src="https://user-images.githubusercontent.com/16126939/215232947-81f4a2b6-4cc4-4a64-83a6-483067f733f4.png">
 
 </div>
 
