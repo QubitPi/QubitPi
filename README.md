@@ -101,17 +101,19 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img src="https://user-images.githubusercontent.com/16126939/208559538-a0b3f656-b7b5-4b32-accf-280ad4b5d6ce.png" alt="可莉" width="15%">[![Messier-61](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Messier-61&show_owner=true&theme=vue)](https://github.com/QubitPi/Messier-61)
 
-[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">
-
-<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
+[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img width="15%" src="https://user-images.githubusercontent.com/16126939/215232947-81f4a2b6-4cc4-4a64-83a6-483067f733f4.png">
     
-[![horme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=horme&show_owner=true&theme=vue)](https://github.com/QubitPi/horme)<img src="https://user-images.githubusercontent.com/16126939/201343244-099e84e6-e1bd-45a9-882d-61f5a11eda63.png" alt="甘雨" width="14%">
+<img src="https://user-images.githubusercontent.com/16126939/193008346-7800ef86-ee2f-4abb-87ed-79d8ec2701d8.png" alt="甘雨" width="13%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
-<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
+[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">
+    
+<img src="https://user-images.githubusercontent.com/16126939/201343244-099e84e6-e1bd-45a9-882d-61f5a11eda63.png" alt="甘雨" width="14%">[![horme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=horme&show_owner=true&theme=vue)](https://github.com/QubitPi/horme)
 
-[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)<img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">
+[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
 
-<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)
+<img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
+
+[![alexander](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=alexander&show_owner=true&theme=vue)](https://github.com/QubitPi/alexander)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
 
 </div>
 
@@ -127,8 +129,6 @@ By tapping into the collective talent and innovation of open source communities,
 <div align="center">
 
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=vue)](https://github.com/QubitPi/hadoop)<img width="15%" src="https://user-images.githubusercontent.com/16126939/214986988-7d6fc586-0624-4f9d-b200-53317b02b01c.png">
-    
-<img width="15%" src="https://user-images.githubusercontent.com/16126939/215232947-81f4a2b6-4cc4-4a64-83a6-483067f733f4.png">[![componentdriven.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=componentdriven.org&show_owner=true&theme=vue)](https://github.com/QubitPi/componentdriven.org)
 
 [![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)<img src="https://user-images.githubusercontent.com/16126939/196371238-20cbb9c6-0ab2-4f13-ad4c-2f5d8c90a9e3.png" alt="可莉" width="15%">&nbsp;
 &nbsp;
@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] Could TikTok be gathering information about user that could influence US politics?](https://www.reddit.com/r/MachineLearning/comments/12p0n7f/d_could_tiktok_be_gathering_information_about/)
 - [Biology-inspired Computer Vision [D]](https://www.reddit.com/r/MachineLearning/comments/12ouwjn/biologyinspired_computer_vision_d/)
 - [[D] Boundary conditions in neural network output?](https://www.reddit.com/r/MachineLearning/comments/12otx5i/d_boundary_conditions_in_neural_network_output/)
 - [[D][P]Cost-sensitive SVM hyperparametr optimization](https://www.reddit.com/r/MachineLearning/comments/12ordzr/dpcostsensitive_svm_hyperparametr_optimization/)
 - [[Discussion] ICLR 2023 attendance](https://www.reddit.com/r/MachineLearning/comments/12oqtm3/discussion_iclr_2023_attendance/)
+- [[d] what will be the upcomming model to program with AutoGPT/AgentGPT/…](https://www.reddit.com/r/MachineLearning/comments/12opssn/d_what_will_be_the_upcomming_model_to_program/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
