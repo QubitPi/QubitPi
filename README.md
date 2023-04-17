@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discover the power of connections in #telecommunications! Join us to explore the revolutionary network digital twins and see how BT is taking its infr...](https://twitter.com/neo4j/status/1647933003052597251)
 - [Take a look at this 6 Steps to Activate the Value of Text to Graph Machine Learning Systems ---&gt; by Data Scientist Sean Robinson. https://okt.to/f6kOa...](https://twitter.com/neo4j/status/1647706447008940033)
 - [Empower your Data Science teams!! They can now now improve and enrich existing analysis and ML using the graph-native data science capabilities within...](https://twitter.com/neo4j/status/1647630974165958656)
 - [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1647308829787402240)
 - [Get ready to be blown away by the remarkable @lyonwj ✨ Last week he delivered a training where he showed how to use geospatial data in the Neo4j grap...](https://twitter.com/neo4j/status/1647268573562142720)
-- [Happy Global Graph Celebration Day 2023!!✨ Every April 15th, we honor the birthday of the man behind it all: Leonhard Euler 🎉 Join the celebration...](https://twitter.com/neo4j/status/1647211978920697858)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
