@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1647969917814157313)
-- [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1647951544120164365)
-- [🔍 Explore #Memgraph with @AshleighNFaith&#39;s in-depth review! Perfect for real-time streaming use cases like IoT, social network analysis, and fraud ...](https://twitter.com/memgraphdb/status/1647942234241679360)
 - [🛡️ Learn how to use #Memgraph to eliminate credit card fraud in real-time! 💳🚫 #FraudDetection #CreditCardFraud https://memgraph.com/fraud-de...](https://twitter.com/memgraphdb/status/1647922101435678720)
 - [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1647903983862792193)
+- [🚀 Unleash the power of real-time graph analytics in our #Memgraph Webinar! Learn when to use graph analytics, graph databases, and how to analyze y...](https://twitter.com/memgraphdb/status/1647898192288120834)
+- [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1647886115293081602)
+- [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1647868752518602752)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
