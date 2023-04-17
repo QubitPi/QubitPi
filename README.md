@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Efficiently analyze your organization&#39;s data landscape with Memgraph&#39;s dynamic graph analytics! Say goodbye to redundancies, improve reliability,...](https://twitter.com/memgraphdb/status/1648034340591267847)
 - [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1648010433339465740)
 - [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1647994470288244739)
 - [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1647969917814157313)
 - [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1647951544120164365)
-- [🔍 Explore #Memgraph with @AshleighNFaith&#39;s in-depth review! Perfect for real-time streaming use cases like IoT, social network analysis, and fraud ...](https://twitter.com/memgraphdb/status/1647942234241679360)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
