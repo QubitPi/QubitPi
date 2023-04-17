@@ -308,7 +308,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[D] AI Platform Idea Validation](https://www.reddit.com/r/MachineLearning/comments/12pemdy/d_ai_platform_idea_validation/)
+- [[P] Exploring AI Techniques for Image Enhancement: A Side Project Discussion](https://www.reddit.com/r/MachineLearning/comments/12pfpg6/p_exploring_ai_techniques_for_image_enhancement_a/)
 - [[P][D] Overcoming Snowflake&#39;s reproducibility challenge using data-versioning-based solutions](https://www.reddit.com/r/MachineLearning/comments/12pe0xc/pd_overcoming_snowflakes_reproducibility/)
 - [Machine learning workstation feedback [D]](https://www.reddit.com/r/MachineLearning/comments/12pbs8q/machine_learning_workstation_feedback_d/)
 - [[D] Image classification detect small scratches with CNN](https://www.reddit.com/r/MachineLearning/comments/12pbnmn/d_image_classification_detect_small_scratches/)
