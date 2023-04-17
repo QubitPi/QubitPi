@@ -309,10 +309,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [Shuffling large data at constant memory in Dask [N]](https://www.reddit.com/r/MachineLearning/comments/12pmj0c/shuffling_large_data_at_constant_memory_in_dask_n/)
-- [[N] “In ten years, half of the world&#39;s jobs will be in prompt engineering,” says CEO of Chinese AI giant, Baidu.](https://www.reddit.com/r/MachineLearning/comments/12pjl0j/n_in_ten_years_half_of_the_worlds_jobs_will_be_in/)
 - [[D] Off-the-shelf image saliency scoring models?](https://www.reddit.com/r/MachineLearning/comments/12piyb9/d_offtheshelf_image_saliency_scoring_models/)
 - [[Research] Share Your Insights in our Survey on Current Practices in Graph-based Causal Modeling! &lpar;Audience: Practitioners of causal diagrams/causal models&rpar;](https://www.reddit.com/r/MachineLearning/comments/12phxhs/research_share_your_insights_in_our_survey_on/)
 - [[P] Exploring AI Techniques for Image Enhancement: A Side Project Discussion](https://www.reddit.com/r/MachineLearning/comments/12pfpg6/p_exploring_ai_techniques_for_image_enhancement_a/)
+- [[P][D] Overcoming Snowflake&#39;s reproducibility challenge using data-versioning-based solutions](https://www.reddit.com/r/MachineLearning/comments/12pe0xc/pd_overcoming_snowflakes_reproducibility/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
