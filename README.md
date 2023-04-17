@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Fine-tuning LLMs for code generation, by making the network program against itself and against a compiler. Has anyone attempted something like this?](https://www.reddit.com/r/MachineLearning/comments/12p3si6/d_finetuning_llms_for_code_generation_by_making/)
 - [[D] Could TikTok be gathering information about user that could influence US politics?](https://www.reddit.com/r/MachineLearning/comments/12p0n7f/d_could_tiktok_be_gathering_information_about/)
 - [Biology-inspired Computer Vision [D]](https://www.reddit.com/r/MachineLearning/comments/12ouwjn/biologyinspired_computer_vision_d/)
 - [[D] Boundary conditions in neural network output?](https://www.reddit.com/r/MachineLearning/comments/12otx5i/d_boundary_conditions_in_neural_network_output/)
 - [[D][P]Cost-sensitive SVM hyperparametr optimization](https://www.reddit.com/r/MachineLearning/comments/12ordzr/dpcostsensitive_svm_hyperparametr_optimization/)
-- [[Discussion] ICLR 2023 attendance](https://www.reddit.com/r/MachineLearning/comments/12oqtm3/discussion_iclr_2023_attendance/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
