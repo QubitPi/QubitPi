@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[Research] Share Your Insights in our Survey on Current Practices in Graph-based Causal Modeling! &lpar;Audience: Practitioners of causal diagrams/causal models&rpar;](https://www.reddit.com/r/MachineLearning/comments/12phxhs/research_share_your_insights_in_our_survey_on/)
 - [[P] Exploring AI Techniques for Image Enhancement: A Side Project Discussion](https://www.reddit.com/r/MachineLearning/comments/12pfpg6/p_exploring_ai_techniques_for_image_enhancement_a/)
 - [[P][D] Overcoming Snowflake&#39;s reproducibility challenge using data-versioning-based solutions](https://www.reddit.com/r/MachineLearning/comments/12pe0xc/pd_overcoming_snowflakes_reproducibility/)
 - [Machine learning workstation feedback [D]](https://www.reddit.com/r/MachineLearning/comments/12pbs8q/machine_learning_workstation_feedback_d/)
 - [[D] Image classification detect small scratches with CNN](https://www.reddit.com/r/MachineLearning/comments/12pbnmn/d_image_classification_detect_small_scratches/)
-- [[P] Labelmm: The next Generation of Annotation Tools](https://www.reddit.com/r/MachineLearning/comments/12pavin/p_labelmm_the_next_generation_of_annotation_tools/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
