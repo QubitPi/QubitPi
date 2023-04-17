@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Machine learning workstation feedback [D]](https://www.reddit.com/r/MachineLearning/comments/12pbs8q/machine_learning_workstation_feedback_d/)
+- [[D] Image classification detect small scratches with CNN](https://www.reddit.com/r/MachineLearning/comments/12pbnmn/d_image_classification_detect_small_scratches/)
 - [[P] Labelmm: The next Generation of Annotation Tools](https://www.reddit.com/r/MachineLearning/comments/12pavin/p_labelmm_the_next_generation_of_annotation_tools/)
 - [[D] Is there any survey paper addressing different video feature extractors - C3D, I3D, S3D, R&lpar;2+1&rpar;D, SlowFast, CLIP, HERO?](https://www.reddit.com/r/MachineLearning/comments/12paljv/d_is_there_any_survey_paper_addressing_different/)
 - [[Discussion] What is the current State of Art Offensive Language Detection Model?](https://www.reddit.com/r/MachineLearning/comments/12pahau/discussion_what_is_the_current_state_of_art/)
-- [MLflow Model Registration Iteration[D]](https://www.reddit.com/r/MachineLearning/comments/12p97eh/mlflow_model_registration_iterationd/)
-- [[R] Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://www.reddit.com/r/MachineLearning/comments/12p7ms3/r_mask_dino_towards_a_unified_transformerbased/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
