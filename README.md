@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/785403090349064192><img align='right' src='https://i2.hdslb.com/bfs/archive/73bd7af53199e95130ee353bf308eca546b3dff5.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/785409678805827605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8bcebebbc68255a3c75864a0f8a6712a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》寻味之旅——「璃月食集」第四期](https://t.bilibili.com/785403090349064192)
