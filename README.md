@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Assertion: Half Precision should be the default in Pytorch / Tensorflow](https://www.reddit.com/r/MachineLearning/comments/12po5c7/d_assertion_half_precision_should_be_the_default/)
 - [[R] Foundation Model Alignment with RAFT🛶 in LMFlow](https://www.reddit.com/r/MachineLearning/comments/12pnwp8/r_foundation_model_alignment_with_raft_in_lmflow/)
 - [Shuffling large data at constant memory in Dask [N]](https://www.reddit.com/r/MachineLearning/comments/12pmj0c/shuffling_large_data_at_constant_memory_in_dask_n/)
 - [[D] Off-the-shelf image saliency scoring models?](https://www.reddit.com/r/MachineLearning/comments/12piyb9/d_offtheshelf_image_saliency_scoring_models/)
 - [[Research] Share Your Insights in our Survey on Current Practices in Graph-based Causal Modeling! &lpar;Audience: Practitioners of causal diagrams/causal models&rpar;](https://www.reddit.com/r/MachineLearning/comments/12phxhs/research_share_your_insights_in_our_survey_on/)
-- [[P] Exploring AI Techniques for Image Enhancement: A Side Project Discussion](https://www.reddit.com/r/MachineLearning/comments/12pfpg6/p_exploring_ai_techniques_for_image_enhancement_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
