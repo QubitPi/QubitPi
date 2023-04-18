@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] ChemCrow: Augmenting large-language models with chemistry tools - Andres M Bran et al , Laboratory of Artificial Chemical Intelligence et al - Automating chemistry work with tool assisted LLMs](https://www.reddit.com/r/MachineLearning/comments/12qyzth/r_chemcrow_augmenting_largelanguage_models_with/)
 - [[R] Tool Learning with Foundation Models - Yujia Qin et al, Tsinghua University of China et al 2023](https://www.reddit.com/r/MachineLearning/comments/12qy4ax/r_tool_learning_with_foundation_models_yujia_qin/)
 - [[P] ReLLM: Solving our internal need for permission sensitive context for LLM&#39;s](https://www.reddit.com/r/MachineLearning/comments/12qxzjd/p_rellm_solving_our_internal_need_for_permission/)
 - [[D] Text Embedding Models](https://www.reddit.com/r/MachineLearning/comments/12qxs0p/d_text_embedding_models/)
 - [[D] Regulation of AI-generated content](https://www.reddit.com/r/MachineLearning/comments/12qxfuh/d_regulation_of_aigenerated_content/)
-- [[D] Best way to compare job description to resume](https://www.reddit.com/r/MachineLearning/comments/12qw6ts/d_best_way_to_compare_job_description_to_resume/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
