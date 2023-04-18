@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/785772899935977652><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3a03eee4fc50edf4a5b06e3169e61469401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/785803789286244403><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/89c73ee12a82475ac8117d623dccc3a1401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神音乐# #啁哳流变之砂# 「《原神》第二张须弥篇OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《啁哳流变之砂 The Unfathomable ...](https://t.bilibili.com/785772899935977652)
