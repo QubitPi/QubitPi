@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R] Prompt Lab to use with your own files as context...](https://www.reddit.com/r/MachineLearning/comments/12r4hi2/r_prompt_lab_to_use_with_your_own_files_as_context/)
 - [[D] What are decent standard architectures for 1D input features?](https://www.reddit.com/r/MachineLearning/comments/12r1tnr/d_what_are_decent_standard_architectures_for_1d/)
 - [[P] Self-Hosted AI Chatbot Alternative: FOSS LLM with ChatGPT-Like Features &lpar;Selecting/Training&rpar;](https://www.reddit.com/r/MachineLearning/comments/12r1ml1/p_selfhosted_ai_chatbot_alternative_foss_llm_with/)
 - [[R] ChemCrow: Augmenting large-language models with chemistry tools - Andres M Bran et al , Laboratory of Artificial Chemical Intelligence et al - Automating chemistry work with tool assisted LLMs](https://www.reddit.com/r/MachineLearning/comments/12qyzth/r_chemcrow_augmenting_largelanguage_models_with/)
 - [[R] Tool Learning with Foundation Models - Yujia Qin et al, Tsinghua University of China et al 2023](https://www.reddit.com/r/MachineLearning/comments/12qy4ax/r_tool_learning_with_foundation_models_yujia_qin/)
-- [[P] ReLLM: Solving our internal need for permission sensitive context for LLM&#39;s](https://www.reddit.com/r/MachineLearning/comments/12qxzjd/p_rellm_solving_our_internal_need_for_permission/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
