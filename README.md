@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Enterprises strive to improve Security - so do we!🔐 .We are launching User Management for AuraDB and AuraDS Enterprise users: https://okt.to/ba0hNt...](https://twitter.com/neo4j/status/1648431247897825281)
 - [Are you attending #PyConUS 2023? 🐍 Join @alison_cossette &amp; @jalakooon on a journey to break free from the empire of if-then statements and unlock t...](https://twitter.com/neo4j/status/1648355932470910979)
 - [Notable speakers from @IKEA, @Forrester, @Deloitte, and MANY MORE are what you&#39;ll find in our GraphSummits around Europe. Take a look at the list and ...](https://twitter.com/neo4j/status/1648325520910696453)
 - [Using the Graph Data Science Library, you&#39;ll learn about the Cypher Aggregation projection option and how to project an in-memory graph. Be sure to op...](https://twitter.com/neo4j/status/1648295435071639552)
 - [&quot;Five ways government can benefit from graph databases&quot; ---&gt; @GovXDigital Read more about the power of Graphs! https://okt.to/vuPNWJ](https://twitter.com/neo4j/status/1647978615865241600)
-- [Discover the power of connections in #telecommunications! Join us to explore the revolutionary network digital twins and see how BT is taking its infr...](https://twitter.com/neo4j/status/1647933003052597251)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
