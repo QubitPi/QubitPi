@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1648209997774331906)
+- [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp #memgraph...](https://twitter.com/memgraphdb/status/1648199427901849601)
 - [❗️ If you like using NetworkX as a graph analytic tool required for your project but often need to reach for other tools, remember that #Memgraph ca...](https://twitter.com/memgraphdb/status/1648184831514234880)
 - [🌐 Efficiently analyze your organization&#39;s data landscape with Memgraph&#39;s dynamic graph analytics! Say goodbye to redundancies, improve reliability,...](https://twitter.com/memgraphdb/status/1648034340591267847)
 - [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1648010433339465740)
-- [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1647994470288244739)
-- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1647969917814157313)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
