@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] The Walsh Hadamard transform and the FFT and GPT4](https://www.reddit.com/r/MachineLearning/comments/12qaxr4/d_the_walsh_hadamard_transform_and_the_fft_and/)
 - [[Discussion] OpenAI Embeddings API alternative?](https://www.reddit.com/r/MachineLearning/comments/12q8rp1/discussion_openai_embeddings_api_alternative/)
 - [[D] NER annotation tools for html](https://www.reddit.com/r/MachineLearning/comments/12q8n68/d_ner_annotation_tools_for_html/)
 - [[D] Looking for terms of art, phrases to steer me toward focused searches for voice dictation/ voice to text using modern tools](https://www.reddit.com/r/MachineLearning/comments/12q6n4r/d_looking_for_terms_of_art_phrases_to_steer_me/)
 - [[RESEARCH] I&#39;ve set up a subreddit for exceptional AI-generated music, filling a gap in existing music/AI subreddits. It features 20 mins of distinct, high-quality tunes. For open minds, a library of discovery.](https://www.reddit.com/r/MachineLearning/comments/12q6izv/research_ive_set_up_a_subreddit_for_exceptional/)
-- [[D] Approaches to generating captions for images with photography concepts](https://www.reddit.com/r/MachineLearning/comments/12q4qvx/d_approaches_to_generating_captions_for_images/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
