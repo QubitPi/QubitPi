@@ -340,11 +340,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Importar datos con Neo4j Data Importer &lpar;10 Min&rpar;](https://www.youtube.com/watch?v=v-JdvAfRWtQ)
-- [Recherche de chemin avec Graph Data Science &lpar;Path Finding&rpar; - 10 min](https://www.youtube.com/watch?v=UaMTkqBl7ws)
 - [Training Series - Spring Data Neo4j](https://www.youtube.com/watch?v=laAOQLKWy0o)
 - [What makes graph data science a good technique for unsupervised dimensionality reduction?](https://www.youtube.com/watch?v=TU3xpczmHI0)
 - [What makes graph data science good for unsupervised or semi-supervised clustering and association?](https://www.youtube.com/watch?v=ghOGAgth4sI)
+- [Why is Graph data science a good technique for influence and importance measures?](https://www.youtube.com/watch?v=2X4ZZGjOtXo)
+- [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=KbMHtm3y6PI)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
