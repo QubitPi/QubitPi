@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1648332306308792330)
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1648325005493583873)
 - [🚀 Build C++ Graph Analytics effortlessly with the new Memgraph C++ API! Supercharge your pipeline without memory worries. #GraphAnalytics #cplusplu...](https://twitter.com/memgraphdb/status/1648283734154661889)
 - [🔥 Unlock the potential of graph technology for data lineage tracking in our #Memgraph Webinar! Find out how @get_manta Flow utilizes a #graphdataba...](https://twitter.com/memgraphdb/status/1648260582477385731)
 - [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1648243971213099008)
-- [🚀 Find out how being in-memory and written in C++ makes Memgraph faster than other graph databases and how that makes the world of recommendation e...](https://twitter.com/memgraphdb/status/1648209997774331906)
-- [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp #memgraph...](https://twitter.com/memgraphdb/status/1648199427901849601)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
