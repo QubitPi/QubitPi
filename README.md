@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Understanding LLM&#39;s Instruction-Only Generation](https://www.reddit.com/r/MachineLearning/comments/12q3dtb/d_understanding_llms_instructiononly_generation/)
 - [[D] Hybrid generative model by concatenating RBM and VAE](https://www.reddit.com/r/MachineLearning/comments/12q0sfl/d_hybrid_generative_model_by_concatenating_rbm/)
 - [[D] Meme or Reel Aggregation from multiple sources?](https://www.reddit.com/r/MachineLearning/comments/12pz7rz/d_meme_or_reel_aggregation_from_multiple_sources/)
 - [[Discussion] Identify Misclassify Test Data in Model Training](https://www.reddit.com/r/MachineLearning/comments/12pxgbz/discussion_identify_misclassify_test_data_in/)
 - [[Discussion] Translation of Japanese to English using GPT. These are my discoveries after ~100 hours of extensive experimentation and ways I think it can be improved.](https://www.reddit.com/r/MachineLearning/comments/12pqqg6/discussion_translation_of_japanese_to_english/)
-- [[R] The Quantum Chinese Room - Unraveling the Paradox of Machine Sentience](https://www.reddit.com/r/MachineLearning/comments/12ppudj/r_the_quantum_chinese_room_unraveling_the_paradox/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
