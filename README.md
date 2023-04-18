@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] A new paradigm for ML engineering?](https://www.reddit.com/r/MachineLearning/comments/12qh31u/d_a_new_paradigm_for_ml_engineering/)
 - [[D] performance of dropout in RNN.](https://www.reddit.com/r/MachineLearning/comments/12qg01v/d_performance_of_dropout_in_rnn/)
 - [[D] Problem with current ML tools?](https://www.reddit.com/r/MachineLearning/comments/12qf93s/d_problem_with_current_ml_tools/)
 - [[P] FastLoRAChat Instruct-tune LLaMA on consumer hardware with shareGPT data](https://www.reddit.com/r/MachineLearning/comments/12qf60j/p_fastlorachat_instructtune_llama_on_consumer/)
 - [[D] Microsoft Research paper - &quot;Sparks of Artificial General Intelligence: Early experiments with GPT-4&quot;. Can we talk about the Unicorn 🦄?](https://www.reddit.com/r/MachineLearning/comments/12qe5hm/d_microsoft_research_paper_sparks_of_artificial/)
-- [[Discussion] A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://www.reddit.com/r/MachineLearning/comments/12qdr1l/discussion_a_comparative_study_between/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
