@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. https...](https://twitter.com/memgraphdb/status/1648392451621634050)
 - [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1648374832952754187)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1648358727970439170)
 - [🖇️ Data lineage is all about connections between data entities and thus it naturally lends itself to graph technology. https://memgraph.com/blog/j...](https://twitter.com/memgraphdb/status/1648350424104071169)
 - [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1648332306308792330)
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1648325005493583873)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
