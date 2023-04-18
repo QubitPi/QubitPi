@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Reshaping input tensor axes in PyTorch CNN](https://www.reddit.com/r/MachineLearning/comments/12qsdm0/d_reshaping_input_tensor_axes_in_pytorch_cnn/)
+- [[D] Bot detection in a social network](https://www.reddit.com/r/MachineLearning/comments/12qs4fy/d_bot_detection_in_a_social_network/)
+- [[D] Creating input features from real numbers when high precision is needed.](https://www.reddit.com/r/MachineLearning/comments/12qrqow/d_creating_input_features_from_real_numbers_when/)
 - [[D] Usage of copyrighted songs to train a Neural Network](https://www.reddit.com/r/MachineLearning/comments/12qrpsj/d_usage_of_copyrighted_songs_to_train_a_neural/)
 - [[D] Usage of Copyrighted music to train a Neural network](https://www.reddit.com/r/MachineLearning/comments/12qrinr/d_usage_of_copyrighted_music_to_train_a_neural/)
-- [[D] Applying to PhD programs in US / Canadian universities from no-name university in Europe](https://www.reddit.com/r/MachineLearning/comments/12qqvgy/d_applying_to_phd_programs_in_us_canadian/)
-- [[P] colab-tunnel: Connect to Google Colab VM locally from VSCode](https://www.reddit.com/r/MachineLearning/comments/12qn0xq/p_colabtunnel_connect_to_google_colab_vm_locally/)
-- [[Discussion] Chunk based or Piece by piece rendering method for stable diffusion in an attempt to save on vram, does it exist?](https://www.reddit.com/r/MachineLearning/comments/12qjbl7/discussion_chunk_based_or_piece_by_piece/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
