@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Regulation of AI-generated content](https://www.reddit.com/r/MachineLearning/comments/12qxfuh/d_regulation_of_aigenerated_content/)
 - [[D] Best way to compare job description to resume](https://www.reddit.com/r/MachineLearning/comments/12qw6ts/d_best_way_to_compare_job_description_to_resume/)
 - [[R] Can quantum neural networks bring a near-term advantage?](https://www.reddit.com/r/MachineLearning/comments/12qthfe/r_can_quantum_neural_networks_bring_a_nearterm/)
 - [[D] Reshaping input tensor axes in PyTorch CNN](https://www.reddit.com/r/MachineLearning/comments/12qsdm0/d_reshaping_input_tensor_axes_in_pytorch_cnn/)
 - [[D] Bot detection in a social network](https://www.reddit.com/r/MachineLearning/comments/12qs4fy/d_bot_detection_in_a_social_network/)
-- [[D] Creating input features from real numbers when high precision is needed.](https://www.reddit.com/r/MachineLearning/comments/12qrqow/d_creating_input_features_from_real_numbers_when/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
