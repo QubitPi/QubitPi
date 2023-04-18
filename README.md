@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Applying to PhD programs in US / Canadian universities from no-name university in Europe](https://www.reddit.com/r/MachineLearning/comments/12qqvgy/d_applying_to_phd_programs_in_us_canadian/)
 - [[P] colab-tunnel: Connect to Google Colab VM locally from VSCode](https://www.reddit.com/r/MachineLearning/comments/12qn0xq/p_colabtunnel_connect_to_google_colab_vm_locally/)
 - [[Discussion] Chunk based or Piece by piece rendering method for stable diffusion in an attempt to save on vram, does it exist?](https://www.reddit.com/r/MachineLearning/comments/12qjbl7/discussion_chunk_based_or_piece_by_piece/)
 - [[D] Preprocessing order of time series data](https://www.reddit.com/r/MachineLearning/comments/12qi67i/d_preprocessing_order_of_time_series_data/)
 - [[D] External factors in time series forecast of electricity production](https://www.reddit.com/r/MachineLearning/comments/12qhjup/d_external_factors_in_time_series_forecast_of/)
-- [[D] A new paradigm for ML engineering?](https://www.reddit.com/r/MachineLearning/comments/12qh31u/d_a_new_paradigm_for_ml_engineering/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
