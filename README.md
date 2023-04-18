@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Microsoft Research paper - &quot;Sparks of Artificial General Intelligence: Early experiments with GPT-4&quot;. Can we talk about the Unicorn 🦄?](https://www.reddit.com/r/MachineLearning/comments/12qe5hm/d_microsoft_research_paper_sparks_of_artificial/)
 - [[Discussion] A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://www.reddit.com/r/MachineLearning/comments/12qdr1l/discussion_a_comparative_study_between/)
 - [[P] Best voice cloning TTS process for realism?](https://www.reddit.com/r/MachineLearning/comments/12qc82n/p_best_voice_cloning_tts_process_for_realism/)
 - [[D] The Walsh Hadamard transform and the FFT and GPT4](https://www.reddit.com/r/MachineLearning/comments/12qaxr4/d_the_walsh_hadamard_transform_and_the_fft_and/)
 - [[Discussion] OpenAI Embeddings API alternative?](https://www.reddit.com/r/MachineLearning/comments/12q8rp1/discussion_openai_embeddings_api_alternative/)
-- [[D] NER annotation tools for html](https://www.reddit.com/r/MachineLearning/comments/12q8n68/d_ner_annotation_tools_for_html/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
