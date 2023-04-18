@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] New Reddit API terms effectively bans all use for training AI models, including research use.](https://www.reddit.com/r/MachineLearning/comments/12r7qi7/d_new_reddit_api_terms_effectively_bans_all_use/)
+- [[D] Adding noise to the dataset](https://www.reddit.com/r/MachineLearning/comments/12r7pty/d_adding_noise_to_the_dataset/)
 - [[D] Applying Different Statistical Methods to Certain Areas of The Feature Space](https://www.reddit.com/r/MachineLearning/comments/12r77va/d_applying_different_statistical_methods_to/)
 - [[R] MultimodalC4, a new corpus of 585M images interleaved in 43B English tokens from the popular c4 dataset](https://www.reddit.com/r/MachineLearning/comments/12r6h2j/r_multimodalc4_a_new_corpus_of_585m_images/)
 - [[R] Low-code LLM: Visual Programming over LLMs - Yuzhe Cai et al , Microsoft Research Asia 2023](https://www.reddit.com/r/MachineLearning/comments/12r4v8c/r_lowcode_llm_visual_programming_over_llms_yuzhe/)
-- [[R] Prompt Lab to use with your own files as context...](https://www.reddit.com/r/MachineLearning/comments/12r4hi2/r_prompt_lab_to_use_with_your_own_files_as_context/)
-- [[D] What are decent standard architectures for 1D input features?](https://www.reddit.com/r/MachineLearning/comments/12r1tnr/d_what_are_decent_standard_architectures_for_1d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
