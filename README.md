@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for terms of art, phrases to steer me toward focused searches for voice dictation/ voice to text using modern tools](https://www.reddit.com/r/MachineLearning/comments/12q6n4r/d_looking_for_terms_of_art_phrases_to_steer_me/)
+- [[RESEARCH] I&#39;ve set up a subreddit for exceptional AI-generated music, filling a gap in existing music/AI subreddits. It features 20 mins of distinct, high-quality tunes. For open minds, a library of discovery.](https://www.reddit.com/r/MachineLearning/comments/12q6izv/research_ive_set_up_a_subreddit_for_exceptional/)
 - [[D] Approaches to generating captions for images with photography concepts](https://www.reddit.com/r/MachineLearning/comments/12q4qvx/d_approaches_to_generating_captions_for_images/)
 - [[D] Understanding LLM&#39;s Instruction-Only Generation](https://www.reddit.com/r/MachineLearning/comments/12q3dtb/d_understanding_llms_instructiononly_generation/)
 - [[D] Hybrid generative model by concatenating RBM and VAE](https://www.reddit.com/r/MachineLearning/comments/12q0sfl/d_hybrid_generative_model_by_concatenating_rbm/)
-- [[D] Meme or Reel Aggregation from multiple sources?](https://www.reddit.com/r/MachineLearning/comments/12pz7rz/d_meme_or_reel_aggregation_from_multiple_sources/)
-- [[Discussion] Identify Misclassify Test Data in Model Training](https://www.reddit.com/r/MachineLearning/comments/12pxgbz/discussion_identify_misclassify_test_data_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
