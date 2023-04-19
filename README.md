@@ -368,11 +368,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Deploying Istio on OpenStack: A Practical Guide](https://superuser.openinfra.dev/articles/deploying-istio-on-openstack-a-practical-guide/)
 - [Inside Open Infrastructure: Continue the Fist-Bump Chain at the OpenInfra Summit](https://superuser.openinfra.dev/articles/openinfra-newsletter-55/)
 - [Mastering the Art of CI/CD: Deploying OpenStack Magnum with Kubernetes Cluster and Jenkins for the Perfect Setup](https://superuser.openinfra.dev/articles/mastering-the-art-of-ci-cd-deploying-openstack-magnum-with-kubernetes-cluster-and-jenkins-for-the-perfect-setup/)
 - [Augusta OpenInfra User Group Meetup](https://superuser.openinfra.dev/articles/augusta-openinfra-user-group-meetup/)
 - [Optimizing Performance of OpenStack Cloud Instances with CPU Pinning: A Step-by-Step Guide](https://superuser.openinfra.dev/articles/optimizing-performance-of-openstack-cloud-instances-with-cpu-pinning-a-step-by-step-guide/)
-- [Large Scale Ops Deep Dive: Société Générale | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/large-scale-deep-dive-ops-societe-generale/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
