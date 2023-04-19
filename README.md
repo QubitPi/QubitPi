@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] IJCAI 2023 Paper Result Announcement.](https://www.reddit.com/r/MachineLearning/comments/12rp5hr/d_ijcai_2023_paper_result_announcement/)
 - [[D] Whats wrong with Elon Musk as Iron Man?](https://www.reddit.com/r/MachineLearning/comments/12rosoj/d_whats_wrong_with_elon_musk_as_iron_man/)
 - [[R] Introducing ferret, a new Python package to streamline interpretability on Transformers](https://www.reddit.com/r/MachineLearning/comments/12rni31/r_introducing_ferret_a_new_python_package_to/)
 - [[R] 🚀 Introducing segment and Track Anything &lpar;SAM-Track&rpar; -- an open-source project that extends SAM to videos, and supports both automatic and interactive video segmentation modes](https://www.reddit.com/r/MachineLearning/comments/12rne1j/r_introducing_segment_and_track_anything_samtrack/)
 - [[P] LoopGPT: A Modular Auto-GPT Framework](https://www.reddit.com/r/MachineLearning/comments/12rn33g/p_loopgpt_a_modular_autogpt_framework/)
-- [[D] Advice Needed from ML Engineers: Feeling Inadequate with 1 Year of Experience](https://www.reddit.com/r/MachineLearning/comments/12rmhax/d_advice_needed_from_ml_engineers_feeling/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
