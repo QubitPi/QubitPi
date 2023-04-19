@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [[P] DroidBot-GPT: Automating Android apps with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/12rvzaj/p_droidbotgpt_automating_android_apps_with_chatgpt/)
 - [[R] NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://www.reddit.com/r/MachineLearning/comments/12rvp1b/r_naturalspeech_2_latent_diffusion_models_are/)
 - [[D] Record Linkage Approach](https://www.reddit.com/r/MachineLearning/comments/12rutel/d_record_linkage_approach/)
 - [[R] Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://www.reddit.com/r/MachineLearning/comments/12rud71/r_latent_diffusion_models_are_natural_and/)
 - [[P] I created a web scraper for AI/ML training.](https://www.reddit.com/r/MachineLearning/comments/12rshnx/p_i_created_a_web_scraper_for_aiml_training/)
+- [[R] which conference should I submit it to?](https://www.reddit.com/r/MachineLearning/comments/12rs8j8/r_which_conference_should_i_submit_it_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
