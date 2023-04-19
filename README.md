@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] LangChain vs AutoGPT](https://www.reddit.com/r/MachineLearning/comments/12s2ldb/d_langchain_vs_autogpt/)
 - [[N] H2OGPT - An Open-Source comercially useful LLM with instruction tuning released](https://www.reddit.com/r/MachineLearning/comments/12s1pn5/n_h2ogpt_an_opensource_comercially_useful_llm/)
 - [[D] Will you be willing to pay to use a generative AI?](https://www.reddit.com/r/MachineLearning/comments/12s1p9w/d_will_you_be_willing_to_pay_to_use_a_generative/)
 - [[D] Fine tuning an LLM on a Mac with an M2 pro chip](https://www.reddit.com/r/MachineLearning/comments/12s1p8m/d_fine_tuning_an_llm_on_a_mac_with_an_m2_pro_chip/)
 - [[D]Older High VRAM card for local AI execution?](https://www.reddit.com/r/MachineLearning/comments/12rzbk2/dolder_high_vram_card_for_local_ai_execution/)
-- [[R]DETRs Beat YOLOs on Real-time Object Detection](https://www.reddit.com/r/MachineLearning/comments/12rywz6/rdetrs_beat_yolos_on_realtime_object_detection/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
