@@ -312,7 +312,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R]DETRs Beat YOLOs on Real-time Object Detection](https://www.reddit.com/r/MachineLearning/comments/12rywz6/rdetrs_beat_yolos_on_realtime_object_detection/)
 - [[N] Stability AI announce their open-source language model, StableLM](https://www.reddit.com/r/MachineLearning/comments/12rxtjj/n_stability_ai_announce_their_opensource_language/)
 - [[D] [CROSSPOST] I&#39;m Stephen Gou, Manager of ML / Founding Engineer at Cohere. Our team specializes in developing large language models. Previously at Uber ATG on perception models for self-driving cars. AMA!](https://www.reddit.com/r/MachineLearning/comments/12rxrwa/d_crosspost_im_stephen_gou_manager_of_ml_founding/)
-- [[P] Made an AI Voice Activated Personal Assistant....Give it a spin](https://www.reddit.com/r/MachineLearning/comments/12rx38e/p_made_an_ai_voice_activated_personal/)
+- [[RESEARCH] What are YOUR expectations regarding the farer future of ML/AI?](https://www.reddit.com/r/MachineLearning/comments/12rwv4v/research_what_are_your_expectations_regarding_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
