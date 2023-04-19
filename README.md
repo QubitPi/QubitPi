@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] We&#39;re open sourcing our internal LLM comparison tool](https://www.reddit.com/r/MachineLearning/comments/12rlnhk/p_were_open_sourcing_our_internal_llm_comparison/)
 - [[P] Distributing training using Paperspace](https://www.reddit.com/r/MachineLearning/comments/12rki1t/p_distributing_training_using_paperspace/)
 - [[D] Powerpoint presentations on ML for business stakeholders](https://www.reddit.com/r/MachineLearning/comments/12rkfl6/d_powerpoint_presentations_on_ml_for_business/)
 - [[P] A simple hands-on tool to visualize the position embedding](https://www.reddit.com/r/MachineLearning/comments/12ri3g8/p_a_simple_handson_tool_to_visualize_the_position/)
 - [[R] Region Growing Models](https://www.reddit.com/r/MachineLearning/comments/12ri34v/r_region_growing_models/)
-- [[D] Natural evolution vs AI evolution](https://www.reddit.com/r/MachineLearning/comments/12rg9wo/d_natural_evolution_vs_ai_evolution/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
