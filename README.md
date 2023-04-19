@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Segment and Track Anything &lpar;SAM-Track&rpar; &amp; an open-source project that focuses on the segmentation and tracking of any objects in videos, utilizing both automatic and interactive methods. Code &amp; Demo available [Research]](https://www.reddit.com/r/MachineLearning/comments/12rhb33/segment_and_track_anything_samtrack_an_opensource/)
 - [[D] Natural evolution vs AI evolution](https://www.reddit.com/r/MachineLearning/comments/12rg9wo/d_natural_evolution_vs_ai_evolution/)
 - [[P] I created a web scraper to download 18k+ FIFA23 players data from SoFIFA.com](https://www.reddit.com/r/MachineLearning/comments/12rewfo/p_i_created_a_web_scraper_to_download_18k_fifa23/)
 - [[D] Extracting the class labels and bounding boxes for objects, from a YOLO7 model after converting to an ONNX model](https://www.reddit.com/r/MachineLearning/comments/12rekva/d_extracting_the_class_labels_and_bounding_boxes/)
 - [[P] llmsearch - open source web-search component for llm-based systems](https://www.reddit.com/r/MachineLearning/comments/12ref2m/p_llmsearch_open_source_websearch_component_for/)
-- [[R] 🚀🧠 Introducing 3 New LoRA Models Trained with LLaMA on the OASST Dataset at 2048 seq length! 📊🔥](https://www.reddit.com/r/MachineLearning/comments/12rds2h/r_introducing_3_new_lora_models_trained_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
