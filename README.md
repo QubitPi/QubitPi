@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[N] H2OGPT - An Open-Source comercially useful LLM with instruction tuning released](https://www.reddit.com/r/MachineLearning/comments/12s1pn5/n_h2ogpt_an_opensource_comercially_useful_llm/)
+- [[D] Will you be willing to pay to use a generative AI?](https://www.reddit.com/r/MachineLearning/comments/12s1p9w/d_will_you_be_willing_to_pay_to_use_a_generative/)
+- [[D] Fine tuning an LLM on a Mac with an M2 pro chip](https://www.reddit.com/r/MachineLearning/comments/12s1p8m/d_fine_tuning_an_llm_on_a_mac_with_an_m2_pro_chip/)
 - [[D]Older High VRAM card for local AI execution?](https://www.reddit.com/r/MachineLearning/comments/12rzbk2/dolder_high_vram_card_for_local_ai_execution/)
 - [[R]DETRs Beat YOLOs on Real-time Object Detection](https://www.reddit.com/r/MachineLearning/comments/12rywz6/rdetrs_beat_yolos_on_realtime_object_detection/)
-- [[N] Stability AI announce their open-source language model, StableLM](https://www.reddit.com/r/MachineLearning/comments/12rxtjj/n_stability_ai_announce_their_opensource_language/)
-- [[D] [CROSSPOST] I&#39;m Stephen Gou, Manager of ML / Founding Engineer at Cohere. Our team specializes in developing large language models. Previously at Uber ATG on perception models for self-driving cars. AMA!](https://www.reddit.com/r/MachineLearning/comments/12rxrwa/d_crosspost_im_stephen_gou_manager_of_ml_founding/)
-- [[RESEARCH] What are YOUR expectations regarding the farer future of ML/AI?](https://www.reddit.com/r/MachineLearning/comments/12rwv4v/research_what_are_your_expectations_regarding_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
