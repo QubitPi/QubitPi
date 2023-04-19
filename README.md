@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Neo4j Live: Graphville @graphville https://twitter.com/i/broadcasts/1nAKErQVDdbGL](https://twitter.com/neo4j/status/1648699255983603713)
 - [With @graphville you learn #neo4j by solving tasks around stories. Come to our live stream later today to hear more about it: https://okt.to/ZG342n #l...](https://twitter.com/neo4j/status/1648674065731731457)
 - [Enterprises strive to improve Security - so do we!🔐 .We are launching User Management for AuraDB and AuraDS Enterprise users: https://okt.to/ba0hNt...](https://twitter.com/neo4j/status/1648431247897825281)
 - [Are you attending #PyConUS 2023? 🐍 Join @alison_cossette &amp; @jalakooon on a journey to break free from the empire of if-then statements and unlock t...](https://twitter.com/neo4j/status/1648355932470910979)
 - [Notable speakers from @IKEA, @Forrester, @Deloitte, and MANY MORE are what you&#39;ll find in our GraphSummits around Europe. Take a look at the list and ...](https://twitter.com/neo4j/status/1648325520910696453)
+- [Using the Graph Data Science Library, you&#39;ll learn about the Cypher Aggregation projection option and how to project an in-memory graph. Be sure to op...](https://twitter.com/neo4j/status/1648295435071639552)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
