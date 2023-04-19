@@ -311,8 +311,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[R] Introducing ferret, a new Python package to streamline interpretability on Transformers](https://www.reddit.com/r/MachineLearning/comments/12rni31/r_introducing_ferret_a_new_python_package_to/)
 - [[R] 🚀 Introducing segment and Track Anything &lpar;SAM-Track&rpar; -- an open-source project that extends SAM to videos, and supports both automatic and interactive video segmentation modes](https://www.reddit.com/r/MachineLearning/comments/12rne1j/r_introducing_segment_and_track_anything_samtrack/)
 - [[P] LoopGPT: A Modular Auto-GPT Framework](https://www.reddit.com/r/MachineLearning/comments/12rn33g/p_loopgpt_a_modular_autogpt_framework/)
-- [[D] Job offer at a traditional company wanting to do ML](https://www.reddit.com/r/MachineLearning/comments/12rn0ub/d_job_offer_at_a_traditional_company_wanting_to/)
 - [[D] Advice Needed from ML Engineers: Feeling Inadequate with 1 Year of Experience](https://www.reddit.com/r/MachineLearning/comments/12rmhax/d_advice_needed_from_ml_engineers_feeling/)
+- [[D] Is there a tool that can render and display maps that support simulating the traffic of many cars](https://www.reddit.com/r/MachineLearning/comments/12rm4mj/d_is_there_a_tool_that_can_render_and_display/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
