@@ -254,11 +254,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786145870546468898><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d0731e2a88b452def59e6841accbdeb3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #风沙轰鸣# 亲爱的旅行者，「风沙轰鸣」活动即将开启~ 〓活动时间〓 2023/04/21 10:00 ~ 2023/05/01 03:59 〓参与条件〓 冒险等阶≥28级 完成魔神任务「...](https://t.bilibili.com/786145870546468898)
+- [互动抽奖 #原神# #原神音乐# #啁哳流变之砂# 亲爱的旅行者，《原神》第二张须弥篇OST「啁哳流变之砂 The Unfathomable Sand Dunes」现已正式上线。 欢迎旅行者前...](https://t.bilibili.com/786144577800110081)
+- [「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV](https://t.bilibili.com/786143993658343542)
 - [恭喜@kMY苍月骑士@杪秋红豆@御坂16932等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/785803789286244403)
 - [#原神# #原神音乐# #啁哳流变之砂# 「《原神》第二张须弥篇OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《啁哳流变之砂 The Unfathomable ...](https://t.bilibili.com/785772899935977652)
-- [互动抽奖 #原神# #璃月食集# 《原神》寻味之旅——「璃月食集」第四期 现已发布~ https://www.bilibili.com/video/BV1Uo4y1L7ef 即使是再难对付的饕客，也会被一...](https://t.bilibili.com/785409678805827605)
-- [《原神》寻味之旅——「璃月食集」第四期](https://t.bilibili.com/785403090349064192)
-- [互动抽奖 #原神# #魈# #生日快乐# 客栈的人说，这个时节的荻花洲游客很多。 可能是因为万物滋长，景色值得一看。 而与此同时，魔物的活动也会更频繁，我便常在高...](https://t.bilibili.com/785401784681103696)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
