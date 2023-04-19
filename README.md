@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Advice Needed from ML Engineers: Feeling Inadequate with 1 Year of Experience](https://www.reddit.com/r/MachineLearning/comments/12rmhax/d_advice_needed_from_ml_engineers_feeling/)
 - [[D] Is there a tool that can render and display maps that support simulating the traffic of many cars](https://www.reddit.com/r/MachineLearning/comments/12rm4mj/d_is_there_a_tool_that_can_render_and_display/)
 - [[D] Formalizing ML knowledge/skills with a non-CS educational background](https://www.reddit.com/r/MachineLearning/comments/12rm4gv/d_formalizing_ml_knowledgeskills_with_a_noncs/)
 - [[P] We&#39;re open sourcing our internal LLM comparison tool](https://www.reddit.com/r/MachineLearning/comments/12rlnhk/p_were_open_sourcing_our_internal_llm_comparison/)
 - [[P] Distributing training using Paperspace](https://www.reddit.com/r/MachineLearning/comments/12rki1t/p_distributing_training_using_paperspace/)
-- [[D] Powerpoint presentations on ML for business stakeholders](https://www.reddit.com/r/MachineLearning/comments/12rkfl6/d_powerpoint_presentations_on_ml_for_business/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
