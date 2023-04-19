@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Cycle consistent GAN for tabular data](https://www.reddit.com/r/MachineLearning/comments/12s7ryv/d_cycle_consistent_gan_for_tabular_data/)
 - [[P] LangTool – create semantic tools from Python functions and classes](https://www.reddit.com/r/MachineLearning/comments/12s5c4w/p_langtool_create_semantic_tools_from_python/)
 - [Deep learning PC [P]](https://www.reddit.com/r/MachineLearning/comments/12s3zup/deep_learning_pc_p/)
 - [[D] LangChain vs AutoGPT](https://www.reddit.com/r/MachineLearning/comments/12s2ldb/d_langchain_vs_autogpt/)
 - [[N] H2OGPT - An Open-Source comercially useful LLM with instruction tuning released](https://www.reddit.com/r/MachineLearning/comments/12s1pn5/n_h2ogpt_an_opensource_comercially_useful_llm/)
-- [[D] Fine tuning an LLM on a Mac with an M2 pro chip](https://www.reddit.com/r/MachineLearning/comments/12s1p8m/d_fine_tuning_an_llm_on_a_mac_with_an_m2_pro_chip/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
