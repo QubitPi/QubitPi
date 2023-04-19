@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1648622969621446656)
-- [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1648610892613820417)
 - [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1648570877989076993)
 - [🕒 Discover how Temporal Graph Networks can handle continuous-time dynamic graphs and revolutionize data analysis! #TGNs #DataAnalysis ⏳ #memgraph ...](https://twitter.com/memgraphdb/status/1648561817420025858)
 - [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1648539169507999745)
+- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. https...](https://twitter.com/memgraphdb/status/1648392451621634050)
+- [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1648374832952754187)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
