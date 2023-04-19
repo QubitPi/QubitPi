@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] - Is there any research into ways to measure the similarity of the features represented by a given neuron or set of neurons?](https://www.reddit.com/r/MachineLearning/comments/12rdej2/d_is_there_any_research_into_ways_to_measure_the/)
 - [[D] AI4ABM workshop ICLR 2023](https://www.reddit.com/r/MachineLearning/comments/12rd3lg/d_ai4abm_workshop_iclr_2023/)
 - [[D] Seeking Advisor for Startup &lpar;Paid&rpar;](https://www.reddit.com/r/MachineLearning/comments/12rci5y/d_seeking_advisor_for_startup_paid/)
 - [[D] Anyone had luck getting ipympl working in SageMaker Studio Notebooks?](https://www.reddit.com/r/MachineLearning/comments/12rb9kl/d_anyone_had_luck_getting_ipympl_working_in/)
 - [[D] Binary Classification approach for data collection](https://www.reddit.com/r/MachineLearning/comments/12razhz/d_binary_classification_approach_for_data/)
-- [[D] How would you build a ML rig for under $2500?](https://www.reddit.com/r/MachineLearning/comments/12r9tes/d_how_would_you_build_a_ml_rig_for_under_2500/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
