@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[R]DETRs Beat YOLOs on Real-time Object Detection](https://www.reddit.com/r/MachineLearning/comments/12ry021/rdetrs_beat_yolos_on_realtime_object_detection/)
+- [[N] Stability AI announce their open-source language model, StableLM](https://www.reddit.com/r/MachineLearning/comments/12rxtjj/n_stability_ai_announce_their_opensource_language/)
+- [[D] [CROSSPOST] I&#39;m Stephen Gou, Manager of ML / Founding Engineer at Cohere. Our team specializes in developing large language models. Previously at Uber ATG on perception models for self-driving cars. AMA!](https://www.reddit.com/r/MachineLearning/comments/12rxrwa/d_crosspost_im_stephen_gou_manager_of_ml_founding/)
 - [[P] Made an AI Voice Activated Personal Assistant....Give it a spin](https://www.reddit.com/r/MachineLearning/comments/12rx38e/p_made_an_ai_voice_activated_personal/)
 - [[RESEARCH] What are YOUR expectations regarding the farer future of ML/AI?](https://www.reddit.com/r/MachineLearning/comments/12rwv4v/research_what_are_your_expectations_regarding_the/)
-- [[R] NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://www.reddit.com/r/MachineLearning/comments/12rvp1b/r_naturalspeech_2_latent_diffusion_models_are/)
-- [[D] Record Linkage Approach](https://www.reddit.com/r/MachineLearning/comments/12rutel/d_record_linkage_approach/)
-- [[R] Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://www.reddit.com/r/MachineLearning/comments/12rud71/r_latent_diffusion_models_are_natural_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
