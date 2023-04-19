@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [In the debut season of #AskADataScientist, Neo4j&#39;s Alexander Jarasch offers concise and precise answers to commonly asked questions. Enjoy the videos ...](https://twitter.com/neo4j/status/1648793668554223618)
 - [Neo4j Live: Graphville @graphville https://twitter.com/i/broadcasts/1nAKErQVDdbGL](https://twitter.com/neo4j/status/1648699255983603713)
 - [With @graphville you learn #neo4j by solving tasks around stories. Come to our live stream later today to hear more about it: https://okt.to/ZG342n #l...](https://twitter.com/neo4j/status/1648674065731731457)
 - [RT Towards Data Science: Integrating Neo4j into the LangChain ecosystem by Tomaz Bratanic https://buff.ly/43Hjxuk](https://twitter.com/TDataScience/status/1648662479881289728)
 - [Enterprises strive to improve Security - so do we!🔐 .We are launching User Management for AuraDB and AuraDS Enterprise users: https://okt.to/ba0hNt...](https://twitter.com/neo4j/status/1648431247897825281)
+- [Are you attending #PyConUS 2023? 🐍 Join @alison_cossette &amp; @jalakooon on a journey to break free from the empire of if-then statements and unlock t...](https://twitter.com/neo4j/status/1648355932470910979)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
