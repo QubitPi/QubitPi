@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for a mentor](https://www.reddit.com/r/MachineLearning/comments/12soemd/d_looking_for_a_mentor/)
+- [[P] OCR model for reading captchas](https://www.reddit.com/r/MachineLearning/comments/12sobg6/p_ocr_model_for_reading_captchas/)
 - [[R] Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://www.reddit.com/r/MachineLearning/comments/12sk4xe/r_chameleon_plugandplay_compositional_reasoning/)
 - [[R] Question - Non-linear model fitting](https://www.reddit.com/r/MachineLearning/comments/12sk4fv/r_question_nonlinear_model_fitting/)
 - [[D] GPT-3T: Can we train language models to think further ahead?](https://www.reddit.com/r/MachineLearning/comments/12shf18/d_gpt3t_can_we_train_language_models_to_think/)
-- [[D] 3D CT scan dataset with consistent number of slices](https://www.reddit.com/r/MachineLearning/comments/12shbsc/d_3d_ct_scan_dataset_with_consistent_number_of/)
-- [[D] Best self-hosted instruction-tuned/chat-based LLM?](https://www.reddit.com/r/MachineLearning/comments/12sh483/d_best_selfhosted_instructiontunedchatbased_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
