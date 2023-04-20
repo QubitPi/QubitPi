@@ -254,11 +254,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786495334855475268><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ffcbb61a0368ed574298c879282f1df401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #林风的和弦# 「林风的和弦」——《原神》第二张须弥篇OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「林风的和弦」H5活动。 密林深处...](https://t.bilibili.com/786516766754865187)
+- [互动抽奖 #原神# #夜兰# #生日快乐# 不精细的伪装，轻则惊走鸟群，重则引火烧身。怎样的身份选取怎样的装扮，其中很有学问。 不过今日的我只是作为这茶室的老板...](https://t.bilibili.com/786515546985201721)
 - [#原神# #风沙轰鸣# 旅行者们好呀，「风沙轰鸣」活动即将开启！ 沙漠中出现了游荡的异常沙虫，旅行者们需要和教令院的学者一起，使用「对沙虫用杀虫炮」击败它们...](https://t.bilibili.com/786495334855475268)
 - [互动抽奖 #原神# #三千娑世御咏歌# 「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV 现已发布。 https://www.bilibili.com/video/BV1Xh4y1H72Q 本次须弥2OS...](https://t.bilibili.com/786204329356820521)
 - [恭喜@0飞速0@kowo_n@袁野幸之助等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/786174874500464852)
-- [#原神# #风沙轰鸣# 亲爱的旅行者，「风沙轰鸣」活动即将开启~ 〓活动时间〓 2023/04/21 10:00 ~ 2023/05/01 03:59 〓参与条件〓 冒险等阶≥28级 完成魔神任务「...](https://t.bilibili.com/786145870546468898)
-- [互动抽奖 #原神# #原神音乐# #啁哳流变之砂# 亲爱的旅行者，《原神》第二张须弥篇OST「啁哳流变之砂 The Unfathomable Sand Dunes」现已正式上线。 欢迎旅行者前...](https://t.bilibili.com/786144577800110081)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
