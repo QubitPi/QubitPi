@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] LoRA adapter switching at runtime to enable Base model to inherit multiple personalities](https://www.reddit.com/r/MachineLearning/comments/12ssjl8/p_lora_adapter_switching_at_runtime_to_enable/)
 - [[P] I made a tool to format sklearn classification reports to Excel files.](https://www.reddit.com/r/MachineLearning/comments/12srk1a/p_i_made_a_tool_to_format_sklearn_classification/)
 - [[D] Seeking Insightful Perspectives: Exploring New Frontiers in AI Research](https://www.reddit.com/r/MachineLearning/comments/12sreli/d_seeking_insightful_perspectives_exploring_new/)
 - [[D] State of art of generative models](https://www.reddit.com/r/MachineLearning/comments/12spx2z/d_state_of_art_of_generative_models/)
 - [Do you take medicines for a long time? [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12sp4od/do_you_take_medicines_for_a_long_time_r_p/)
-- [[P] OCR model for reading captchas](https://www.reddit.com/r/MachineLearning/comments/12sobg6/p_ocr_model_for_reading_captchas/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
