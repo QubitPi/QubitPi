@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786495334855475268><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ffcbb61a0368ed574298c879282f1df401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786516766754865187><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f756643e1c759ef08db5e9d8b865b496401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #林风的和弦# 「林风的和弦」——《原神》第二张须弥篇OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「林风的和弦」H5活动。 密林深处...](https://t.bilibili.com/786516766754865187)
