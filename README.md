@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Seeking Insightful Perspectives: Exploring New Frontiers in AI Research](https://www.reddit.com/r/MachineLearning/comments/12sreli/d_seeking_insightful_perspectives_exploring_new/)
 - [[D] State of art of generative models](https://www.reddit.com/r/MachineLearning/comments/12spx2z/d_state_of_art_of_generative_models/)
 - [Do you take medicines for a while now? This is for you. [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12spjf9/do_you_take_medicines_for_a_while_now_this_is_for/)
 - [Do you take medicines for a long time? [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12sp4od/do_you_take_medicines_for_a_long_time_r_p/)
 - [[D] Looking for a mentor](https://www.reddit.com/r/MachineLearning/comments/12soemd/d_looking_for_a_mentor/)
-- [[P] OCR model for reading captchas](https://www.reddit.com/r/MachineLearning/comments/12sobg6/p_ocr_model_for_reading_captchas/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
