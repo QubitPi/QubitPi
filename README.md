@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🐍 Kickstart your graph journey with our &quot;Getting Started with Memgraph and Python&quot; course! Learn to create a graph model, connect with Jupyter Note...](https://twitter.com/memgraphdb/status/1648948866316730368)
 - [🌐 Read more about using #Memgraph for network resource optimization and impactful decision-making! #NetworkOptimization #memgraph #database #memgra...](https://twitter.com/memgraphdb/status/1648934773757206528)
 - [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1648920429606600705)
 - [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1648909609422184449)
 - [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1648759115647180824)
-- [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1648735209708240897)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
