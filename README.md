@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there any market for SIMD-based autodiff for ARM processors intended for optimization?](https://www.reddit.com/r/MachineLearning/comments/12tfx5a/d_is_there_any_market_for_simdbased_autodiff_for/)
 - [[D] Limitations of modern one-shot approaches in Computer Vision. From CLIP to SAM.](https://www.reddit.com/r/MachineLearning/comments/12tevpl/d_limitations_of_modern_oneshot_approaches_in/)
 - [[D] Loss for audio generation](https://www.reddit.com/r/MachineLearning/comments/12teo0q/d_loss_for_audio_generation/)
 - [[D] LLM End 2 End Costs](https://www.reddit.com/r/MachineLearning/comments/12tcvly/d_llm_end_2_end_costs/)
 - [[D] New features and current problems with ml infrastructure?](https://www.reddit.com/r/MachineLearning/comments/12tckma/d_new_features_and_current_problems_with_ml/)
-- [[D] AI regulation: a review of NTIA&#39;s &quot;AI Accountability Policy&quot; doc](https://www.reddit.com/r/MachineLearning/comments/12tchnk/d_ai_regulation_a_review_of_ntias_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
