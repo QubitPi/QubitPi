@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
-- [Use of ANN optimized weights for metaheuristic models to perform further optimization [R]](https://www.reddit.com/r/MachineLearning/comments/12tbu68/use_of_ann_optimized_weights_for_metaheuristic/)
-- [[D] MLRC 2022-23 &lpar;What&#39;s your submission?&rpar;](https://www.reddit.com/r/MachineLearning/comments/12tbey5/d_mlrc_202223_whats_your_submission/)
-- [[D] Google Brain and DeepMind merging](https://www.reddit.com/r/MachineLearning/comments/12tbae0/d_google_brain_and_deepmind_merging/)
-- [[D] What will come after huge paramater models?](https://www.reddit.com/r/MachineLearning/comments/12taw4x/d_what_will_come_after_huge_paramater_models/)
-- [[P] Self-hosted StableDiffusion API](https://www.reddit.com/r/MachineLearning/comments/12t7d21/p_selfhosted_stablediffusion_api/)
+- [[D] LLM End 2 End Costs](https://www.reddit.com/r/MachineLearning/comments/12tcvly/d_llm_end_2_end_costs/)
+- [[D] New features and current problems with ml infrastructure?](https://www.reddit.com/r/MachineLearning/comments/12tckma/d_new_features_and_current_problems_with_ml/)
+- [[D] AI regulation: a review of NTIA&#39;s &quot;AI Accountability Policy&quot; doc](https://www.reddit.com/r/MachineLearning/comments/12tchnk/d_ai_regulation_a_review_of_ntias_ai/)
+- [[R] Max Tegmark on &quot;Mechanistic&quot; Understanding of LLMs](https://www.reddit.com/r/MachineLearning/comments/12tcg52/r_max_tegmark_on_mechanistic_understanding_of_llms/)
+- [[D]: Implementation: Deconvolutional Paragraph Representation Learning](https://www.reddit.com/r/MachineLearning/comments/12tbyyp/d_implementation_deconvolutional_paragraph/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
