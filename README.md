@@ -193,7 +193,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/)
 
-[W3Schools](https://qubitpi.github.io/W3Schools/) | [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/) | [JavaScript Tutorial](https://javascript.info/)
+[three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/) | [JavaScript Tutorial](https://javascript.info/)
 
 #### Backend Dev <sup>![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
 
