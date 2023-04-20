@@ -330,11 +330,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Join @tb_tomaz as he shows you how to create a next-level chatbot that uses information from a graph database to provide answers. Read: &quot;Context-Aware...](https://twitter.com/neo4j/status/1649020165965635587)
 - [Attention Graphistas from Asia Pacific!!📢 Did you know that besides the #GraphSummit, you can attend to: 👉Graph Workshops 👉Graph Meetups How?...](https://twitter.com/neo4j/status/1648899352864202752)
 - [In the debut season of #AskADataScientist, Neo4j&#39;s Alexander Jarasch offers concise and precise answers to commonly asked questions. Enjoy the videos ...](https://twitter.com/neo4j/status/1648793668554223618)
 - [Neo4j Live: Graphville @graphville https://twitter.com/i/broadcasts/1nAKErQVDdbGL](https://twitter.com/neo4j/status/1648699255983603713)
 - [With @graphville you learn #neo4j by solving tasks around stories. Come to our live stream later today to hear more about it: https://okt.to/ZG342n #l...](https://twitter.com/neo4j/status/1648674065731731457)
-- [RT Towards Data Science: Integrating Neo4j into the LangChain ecosystem by Tomaz Bratanic https://buff.ly/43Hjxuk](https://twitter.com/TDataScience/status/1648662479881289728)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
