@@ -308,11 +308,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] GPT-3T: Can we train language models to think further ahead?](https://www.reddit.com/r/MachineLearning/comments/12shf18/d_gpt3t_can_we_train_language_models_to_think/)
+- [[D] 3D CT scan dataset with consistent number of slices](https://www.reddit.com/r/MachineLearning/comments/12shbsc/d_3d_ct_scan_dataset_with_consistent_number_of/)
+- [[D] Best self-hosted instruction-tuned/chat-based LLM?](https://www.reddit.com/r/MachineLearning/comments/12sh483/d_best_selfhosted_instructiontunedchatbased_llm/)
 - [[D] Has anyone tried out chatLLM from abacus.ai?](https://www.reddit.com/r/MachineLearning/comments/12scqnk/d_has_anyone_tried_out_chatllm_from_abacusai/)
 - [[Research] Most recent studies on efficacy of ai code assistant tools?](https://www.reddit.com/r/MachineLearning/comments/12s8l6d/research_most_recent_studies_on_efficacy_of_ai/)
-- [[D] Cycle consistent GAN for tabular data](https://www.reddit.com/r/MachineLearning/comments/12s7ryv/d_cycle_consistent_gan_for_tabular_data/)
-- [[P] LangTool – create semantic tools from Python functions and classes](https://www.reddit.com/r/MachineLearning/comments/12s5c4w/p_langtool_create_semantic_tools_from_python/)
-- [Deep learning PC [P]](https://www.reddit.com/r/MachineLearning/comments/12s3zup/deep_learning_pc_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
