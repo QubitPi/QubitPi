@@ -332,11 +332,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Take a look at how Mike Morley from @arcurve has utilized the endless possibilities of #GraphDataScience to pioneer a whole new level of predictive an...](https://twitter.com/neo4j/status/1649080516270800897)
 - [Are you a JavaScript developer looking to take your data visualizations to the next level? Look no further than Corey Lanum&#39;s tutorial which integrate...](https://twitter.com/neo4j/status/1649050334600527878)
 - [Join @tb_tomaz as he shows you how to create a next-level chatbot that uses information from a graph database to provide answers. Read: &quot;Context-Aware...](https://twitter.com/neo4j/status/1649020165965635587)
 - [Attention Graphistas from Asia Pacific!!📢 Did you know that besides the #GraphSummit, you can attend to: 👉Graph Workshops 👉Graph Meetups How?...](https://twitter.com/neo4j/status/1648899352864202752)
 - [In the debut season of #AskADataScientist, Neo4j&#39;s Alexander Jarasch offers concise and precise answers to commonly asked questions. Enjoy the videos ...](https://twitter.com/neo4j/status/1648793668554223618)
-- [Neo4j Live: Graphville @graphville https://twitter.com/i/broadcasts/1nAKErQVDdbGL](https://twitter.com/neo4j/status/1648699255983603713)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
