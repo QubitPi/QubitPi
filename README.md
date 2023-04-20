@@ -251,7 +251,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786204329356820521><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2bf092018016406c48d8e2877b620bbb401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786495334855475268><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9ffcbb61a0368ed574298c879282f1df401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #风沙轰鸣# 旅行者们好呀，「风沙轰鸣」活动即将开启！ 沙漠中出现了游荡的异常沙虫，旅行者们需要和教令院的学者一起，使用「对沙虫用杀虫炮」击败它们...](https://t.bilibili.com/786495334855475268)
