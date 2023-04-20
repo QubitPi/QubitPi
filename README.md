@@ -209,7 +209,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Miscellaneous
 
-[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/)
+[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
 
 ### Archived Projects
 
