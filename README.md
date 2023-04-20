@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[P] Self-hosted StableDiffusion API](https://www.reddit.com/r/MachineLearning/comments/12t7d21/p_selfhosted_stablediffusion_api/)
 - [[R]Feature extraction](https://www.reddit.com/r/MachineLearning/comments/12t5ly5/rfeature_extraction/)
 - [[R]Comprehensive List of Instruction Datasets for Training LLM Models &lpar;GPT-4 &amp; Beyond&rpar;](https://www.reddit.com/r/MachineLearning/comments/12t4ylu/rcomprehensive_list_of_instruction_datasets_for/)
 - [[R] Converting Discrete Gene Sequences to Embeddings for Transformer-based Models](https://www.reddit.com/r/MachineLearning/comments/12t4nob/r_converting_discrete_gene_sequences_to/)
 - [Looking for a postdoc applying ML and advancing healthcare? Let&#39;s chat! [D] [P] [R]](https://www.reddit.com/r/MachineLearning/comments/12t2ybe/looking_for_a_postdoc_applying_ml_and_advancing/)
-- [[N] The world’s first physician chatbot - DrGupta.ai](https://www.reddit.com/r/MachineLearning/comments/12szfk7/n_the_worlds_first_physician_chatbot_drguptaai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
