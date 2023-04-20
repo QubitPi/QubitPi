@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [Use of ANN optimized weights for metaheuristic models to perform further optimization [R]](https://www.reddit.com/r/MachineLearning/comments/12tbu68/use_of_ann_optimized_weights_for_metaheuristic/)
 - [[D] MLRC 2022-23 &lpar;What&#39;s your submission?&rpar;](https://www.reddit.com/r/MachineLearning/comments/12tbey5/d_mlrc_202223_whats_your_submission/)
 - [[D] Google Brain and DeepMind merging](https://www.reddit.com/r/MachineLearning/comments/12tbae0/d_google_brain_and_deepmind_merging/)
 - [[D] What will come after huge paramater models?](https://www.reddit.com/r/MachineLearning/comments/12taw4x/d_what_will_come_after_huge_paramater_models/)
 - [[P] Self-hosted StableDiffusion API](https://www.reddit.com/r/MachineLearning/comments/12t7d21/p_selfhosted_stablediffusion_api/)
-- [[R]Feature extraction](https://www.reddit.com/r/MachineLearning/comments/12t5ly5/rfeature_extraction/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
