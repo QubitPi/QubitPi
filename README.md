@@ -312,7 +312,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] Interesting degenerate samples from my new musical Transformer model, fine-tuned to produce Bach fugues.](https://www.reddit.com/r/MachineLearning/comments/12srihf/p_interesting_degenerate_samples_from_my_new/)
 - [[D] Seeking Insightful Perspectives: Exploring New Frontiers in AI Research](https://www.reddit.com/r/MachineLearning/comments/12sreli/d_seeking_insightful_perspectives_exploring_new/)
 - [[D] State of art of generative models](https://www.reddit.com/r/MachineLearning/comments/12spx2z/d_state_of_art_of_generative_models/)
-- [Do you take medicines for a while now? This is for you. [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12spjf9/do_you_take_medicines_for_a_while_now_this_is_for/)
+- [Do you take medicines for a long time? [R] [P]](https://www.reddit.com/r/MachineLearning/comments/12sp4od/do_you_take_medicines_for_a_long_time_r_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
