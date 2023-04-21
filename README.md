@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[News] A $100K autonomous driving challenge is released for CVPR 2023](https://www.reddit.com/r/MachineLearning/comments/12ts9rg/news_a_100k_autonomous_driving_challenge_is/)
 - [[P] Fullstack LlamaIndex App to Build and Query Document Collections with LLMs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/12tn34b/p_fullstack_llamaindex_app_to_build_and_query/)
 - [A neuromorphic visual sensor can recognize moving objects and predict their path, any thoughts? [D]](https://www.reddit.com/r/MachineLearning/comments/12tmg8q/a_neuromorphic_visual_sensor_can_recognize_moving/)
 - [[D] Small dataset ML question.](https://www.reddit.com/r/MachineLearning/comments/12tk1ql/d_small_dataset_ml_question/)
 - [[News] Kornia 0.6.12: New ImagePrompter API via Segment Anything &lpar;SAM&rpar;, Guided Blurring to preserve edges and many bug fixes.](https://www.reddit.com/r/MachineLearning/comments/12tgjoq/news_kornia_0612_new_imageprompter_api_via/)
-- [[P] Finetuning a commercially viable open source LLM &lpar;Flan-UL2&rpar; using Alpaca, Dolly15K and LoRA](https://www.reddit.com/r/MachineLearning/comments/12tg2u8/p_finetuning_a_commercially_viable_open_source/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
