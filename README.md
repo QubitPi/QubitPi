@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] Some baseline ideas for Amazon ML Challenge &#39;23](https://www.reddit.com/r/MachineLearning/comments/12tyuz8/d_some_baseline_ideas_for_amazon_ml_challenge_23/)
 - [[D] Replicating the inner layers of LLMs with weight-sharing](https://www.reddit.com/r/MachineLearning/comments/12tv6dh/d_replicating_the_inner_layers_of_llms_with/)
 - [[News] A $100K autonomous driving challenge is released for CVPR 2023](https://www.reddit.com/r/MachineLearning/comments/12ts9rg/news_a_100k_autonomous_driving_challenge_is/)
 - [[P] Fullstack LlamaIndex App to Build and Query Document Collections with LLMs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/12tn34b/p_fullstack_llamaindex_app_to_build_and_query/)
 - [[D] Small dataset ML question.](https://www.reddit.com/r/MachineLearning/comments/12tk1ql/d_small_dataset_ml_question/)
-- [[News] Kornia 0.6.12: New ImagePrompter API via Segment Anything &lpar;SAM&rpar;, Guided Blurring to preserve edges and many bug fixes.](https://www.reddit.com/r/MachineLearning/comments/12tgjoq/news_kornia_0612_new_imageprompter_api_via/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
