@@ -256,11 +256,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786940207582674978><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/90990aa9a75c8f392ad2bd002b5ec384551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [亲爱的旅行者，本次必胜客×原神联动将于4月30日结束，感谢旅行者们的支持~ #必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/786940207582674978)
 - [#原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动即将开启！ 4月22日起，上支付宝搜「原神」，点击下方提示卡片直达出行...](https://t.bilibili.com/786887400984936485)
 - [《原神》过场动画-「归乡」](https://t.bilibili.com/786886279995326473)
 - [互动抽奖 #原神# #林风的和弦# 「林风的和弦」——《原神》第二张须弥篇OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「林风的和弦」H5活动。 密林深处...](https://t.bilibili.com/786516766754865187)
 - [互动抽奖 #原神# #夜兰# #生日快乐# 不精细的伪装，轻则惊走鸟群，重则引火烧身。怎样的身份选取怎样的装扮，其中很有学问。 不过今日的我只是作为这茶室的老板...](https://t.bilibili.com/786515546985201721)
-- [#原神# #风沙轰鸣# 旅行者们好呀，「风沙轰鸣」活动即将开启！ 沙漠中出现了游荡的异常沙虫，旅行者们需要和教令院的学者一起，使用「对沙虫用杀虫炮」击败它们...](https://t.bilibili.com/786495334855475268)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
