@@ -205,11 +205,11 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Hadoop](https://qubitpi.github.io/hadoop/hadoop-project/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
+
 ##### Graph Database
 
 [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
-
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
 
 #### Miscellaneous
 
