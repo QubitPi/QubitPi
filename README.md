@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Is it okay that all the coefficients from Multinomial Naive Bayes&#39;s feature_log_prob_ are negative? [D]](https://www.reddit.com/r/MachineLearning/comments/12u39lg/is_it_okay_that_all_the_coefficients_from/)
 - [[D] A/B testing of ML models: which stack do you use?](https://www.reddit.com/r/MachineLearning/comments/12u2yjs/d_ab_testing_of_ml_models_which_stack_do_you_use/)
 - [[P] New samples from MUSE finetuned to generate Bach Fugues. Compare the original piece with what the model generated.](https://www.reddit.com/r/MachineLearning/comments/12u232u/p_new_samples_from_muse_finetuned_to_generate/)
 - [[D] Some baseline ideas for Amazon ML Challenge &#39;23](https://www.reddit.com/r/MachineLearning/comments/12tyuz8/d_some_baseline_ideas_for_amazon_ml_challenge_23/)
 - [[D] Replicating the inner layers of LLMs with weight-sharing](https://www.reddit.com/r/MachineLearning/comments/12tv6dh/d_replicating_the_inner_layers_of_llms_with/)
-- [[News] A $100K autonomous driving challenge is released for CVPR 2023](https://www.reddit.com/r/MachineLearning/comments/12ts9rg/news_a_100k_autonomous_driving_challenge_is/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
