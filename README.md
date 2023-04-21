@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [[D] \GPT-4 Develops and Debugs your ML Apps](https://www.reddit.com/r/MachineLearning/comments/12tvj4u/d_gpt4_develops_and_debugs_your_ml_apps/)
 - [[D] Replicating the inner layers of LLMs with weight-sharing](https://www.reddit.com/r/MachineLearning/comments/12tv6dh/d_replicating_the_inner_layers_of_llms_with/)
 - [[News] A $100K autonomous driving challenge is released for CVPR 2023](https://www.reddit.com/r/MachineLearning/comments/12ts9rg/news_a_100k_autonomous_driving_challenge_is/)
 - [[P] Fullstack LlamaIndex App to Build and Query Document Collections with LLMs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/12tn34b/p_fullstack_llamaindex_app_to_build_and_query/)
 - [A neuromorphic visual sensor can recognize moving objects and predict their path, any thoughts? [D]](https://www.reddit.com/r/MachineLearning/comments/12tmg8q/a_neuromorphic_visual_sensor_can_recognize_moving/)
-- [[D] Small dataset ML question.](https://www.reddit.com/r/MachineLearning/comments/12tk1ql/d_small_dataset_ml_question/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
