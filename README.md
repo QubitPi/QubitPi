@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Conversations between ChatGPT and Bard](https://www.reddit.com/r/MachineLearning/comments/12uaoev/d_conversations_between_chatgpt_and_bard/)
+- [Seeking recommendations for high-performance open-source libraries for custom similar image search on large dataset [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12ualv9/seeking_recommendations_for_highperformance/)
 - [[P] New Open Source Framework and No-Code GUI for Fine-Tuning LLMs: H2O LLM Studio](https://www.reddit.com/r/MachineLearning/comments/12ua2aj/p_new_open_source_framework_and_nocode_gui_for/)
 - [[P] I built http://repo.dog — a question-answering bot for large codebases.](https://www.reddit.com/r/MachineLearning/comments/12u9cyj/p_i_built_httprepodog_a_questionanswering_bot_for/)
 - [[R] Public perception of the future impact of AI/ML across different topics - visual map of the results](https://www.reddit.com/r/MachineLearning/comments/12u8vk5/r_public_perception_of_the_future_impact_of_aiml/)
-- [[P] Basic Projects](https://www.reddit.com/r/MachineLearning/comments/12u54n5/p_basic_projects/)
-- [Is it okay that all the coefficients from Multinomial Naive Bayes&#39;s feature_log_prob_ are negative? [D]](https://www.reddit.com/r/MachineLearning/comments/12u39lg/is_it_okay_that_all_the_coefficients_from/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
