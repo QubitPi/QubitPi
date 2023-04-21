@@ -253,7 +253,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786887400984936485><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3e8a71745892b9f45ae568884ecc0bbd401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786940207582674978><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/90990aa9a75c8f392ad2bd002b5ec384551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动即将开启！ 4月22日起，上支付宝搜「原神」，点击下方提示卡片直达出行...](https://t.bilibili.com/786887400984936485)
