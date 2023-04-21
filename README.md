@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D]can anyone please tell me what AI is being used to create songs of Drake and all on Twitter?](https://www.reddit.com/r/MachineLearning/comments/12ubiau/dcan_anyone_please_tell_me_what_ai_is_being_used/)
-- [[D] Conversations between ChatGPT and Bard](https://www.reddit.com/r/MachineLearning/comments/12uaoev/d_conversations_between_chatgpt_and_bard/)
-- [Seeking recommendations for high-performance open-source libraries for custom similar image search on large dataset [Discussion]](https://www.reddit.com/r/MachineLearning/comments/12ualv9/seeking_recommendations_for_highperformance/)
+- [[R] 🐶 Bark - Text2Speech...But with Custom Voice Cloning using your own audio/text samples 🎙️📝](https://www.reddit.com/r/MachineLearning/comments/12udsmi/r_bark_text2speechbut_with_custom_voice_cloning/)
 - [[P] New Open Source Framework and No-Code GUI for Fine-Tuning LLMs: H2O LLM Studio](https://www.reddit.com/r/MachineLearning/comments/12ua2aj/p_new_open_source_framework_and_nocode_gui_for/)
-- [[P] I built http://repo.dog — a question-answering bot for large codebases.](https://www.reddit.com/r/MachineLearning/comments/12u9cyj/p_i_built_httprepodog_a_questionanswering_bot_for/)
+- [[R] Public perception of the future impact of AI/ML across different topics - visual map of the results](https://www.reddit.com/r/MachineLearning/comments/12u8vk5/r_public_perception_of_the_future_impact_of_aiml/)
+- [[P] New samples from MUSE finetuned to generate Bach Fugues. Compare the original piece with what the model generated.](https://www.reddit.com/r/MachineLearning/comments/12u232u/p_new_samples_from_muse_finetuned_to_generate/)
+- [[D] Some baseline ideas for Amazon ML Challenge &#39;23](https://www.reddit.com/r/MachineLearning/comments/12tyuz8/d_some_baseline_ideas_for_amazon_ml_challenge_23/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
