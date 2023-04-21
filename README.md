@@ -354,11 +354,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement https://memgraph.com/data-lineage #memg...](https://twitter.com/memgraphdb/status/1649263943599226880)
 - [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1649117224731279388)
 - [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1649099612593229824)
 - [🌐 Fetch data from the @Twitch API, model objects using GQLAlchemy&#39;s OGM, and create API endpoints for GET requests 📊 #API #TwitchAPI #Backend #P...](https://twitter.com/memgraphdb/status/1649081504532770816)
 - [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. https://memgraph.com...](https://twitter.com/memgraphdb/status/1649038707930853376)
+- [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. https://memgraph.com/blog...](https://twitter.com/memgraphdb/status/1649029400199852033)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
