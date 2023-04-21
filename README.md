@@ -329,11 +329,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [🚨 Big news! #Neo4j AuraDS Enterprise on @AWS has arrived as part of our Early Access Program. Sign up to build, train, deploy, monitor, and integra...](https://twitter.com/neo4j/status/1649435384101601281)
 - [Graphversation Ep. 2 &lpar;Recommendation Engine in Ed-tech Using Neo4j &amp; GDS&rpar; https://twitter.com/i/broadcasts/1RDGlaWdrZrJL](https://twitter.com/neo4j/status/1649269348811554816)
 - [Are you a Python dev? Learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course! https://okt.to/YoR7e1 #Pytho...](https://twitter.com/neo4j/status/1649162813535862784)
 - [RT Adam Cowley: Take your Cypher aggregations to the next level! #neo4j https://t.co/8mnoUMpKOm](https://twitter.com/adamcowley/status/1649140702410948609)
 - [Take a look at how Mike Morley from @arcurve has utilized the endless possibilities of #GraphDataScience to pioneer a whole new level of predictive an...](https://twitter.com/neo4j/status/1649080516270800897)
-- [Are you a JavaScript developer looking to take your data visualizations to the next level? Look no further than Corey Lanum&#39;s tutorial which integrate...](https://twitter.com/neo4j/status/1649050334600527878)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
