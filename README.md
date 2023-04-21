@@ -342,11 +342,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=dS1wdipcL1o)
 - [Next-level Cypher aggregations using WITH, COLLECT and UNWIND! #neo4j #shorts](https://www.youtube.com/watch?v=9KWHuPOL1PI)
 - [Neo4j Live: BioCypher Trailer #shorts](https://www.youtube.com/watch?v=-1a-PT_qxzY)
 - [Neo4j Live: Graphville](https://www.youtube.com/watch?v=q8CxkX2MYhE)
 - [Neo4j Live: BioCypher](https://www.youtube.com/watch?v=9ZXuof23Noo)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=vLg8wzxTj0w)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
