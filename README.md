@@ -209,6 +209,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
+
 #### Miscellaneous
 
 [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
@@ -306,8 +308,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
-
-<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
 - [[D] Some baseline ideas for Amazon ML Challenge &#39;23](https://www.reddit.com/r/MachineLearning/comments/12tyuz8/d_some_baseline_ideas_for_amazon_ml_challenge_23/)
