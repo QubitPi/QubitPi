@@ -218,8 +218,6 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### Archived Projects
 
