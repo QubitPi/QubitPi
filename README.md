@@ -351,11 +351,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Find out how @AstraZeneca uses a Biomedical Knowledge Graph to accelerate drug discovery in our upcoming #Memgraph Webinar with @michaelughetto! ...](https://twitter.com/memgraphdb/status/1649371652210282496)
 - [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1649353535828512770)
 - [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement https://memgraph.com/identity-access-manage...](https://twitter.com/memgraphdb/status/1649347747156295682)
 - [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1649320566824787970)
 - [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1649297164537847809)
-- [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1649286591125364736)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
