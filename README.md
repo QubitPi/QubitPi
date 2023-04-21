@@ -367,11 +367,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Zuul at the OpenInfra Summit](https://superuser.openinfra.dev/articles/zuul-at-the-openinfra-summit/)
 - [Working with Swift, the Object Storage service in OpenStack](https://superuser.openinfra.dev/articles/working-with-swift-the-object-storage-service-in-openstack/)
 - [Aligning with Kata Confidential Containers to achieve zero trust operator deployments with AKS](https://superuser.openinfra.dev/articles/aligning-with-kata-confidential-containers-to-achieve-zero-trust-operator-deployments-with-aks/)
 - [Virtual PTG | Recap](https://superuser.openinfra.dev/articles/virtual-ptg-recap/)
 - [Deploying Istio on OpenStack: A Practical Guide](https://superuser.openinfra.dev/articles/deploying-istio-on-openstack-a-practical-guide/)
-- [Inside Open Infrastructure: Continue the Fist-Bump Chain at the OpenInfra Summit](https://superuser.openinfra.dev/articles/openinfra-newsletter-55/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
