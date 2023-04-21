@@ -351,11 +351,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. https://memgraph.com...](https://twitter.com/memgraphdb/status/1649459984801955851)
-- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1649445891671982080)
-- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1649442118643904513)
 - [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1649419467347075074)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1649401098069786633)
+- [💡 Find out how @AstraZeneca uses a Biomedical Knowledge Graph to accelerate drug discovery in our upcoming #Memgraph Webinar with @michaelughetto! ...](https://twitter.com/memgraphdb/status/1649371652210282496)
+- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1649353535828512770)
+- [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement https://memgraph.com/identity-access-manage...](https://twitter.com/memgraphdb/status/1649347747156295682)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
