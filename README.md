@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] What are some Ai chatbots that can make essays?](https://www.reddit.com/r/MachineLearning/comments/12ug6nv/research_what_are_some_ai_chatbots_that_can_make/)
 - [[R] 🐶 Bark - Text2Speech...But with Custom Voice Cloning using your own audio/text samples 🎙️📝](https://www.reddit.com/r/MachineLearning/comments/12udsmi/r_bark_text2speechbut_with_custom_voice_cloning/)
 - [[P] New Open Source Framework and No-Code GUI for Fine-Tuning LLMs: H2O LLM Studio](https://www.reddit.com/r/MachineLearning/comments/12ua2aj/p_new_open_source_framework_and_nocode_gui_for/)
 - [[R] Public perception of the future impact of AI/ML across different topics - visual map of the results](https://www.reddit.com/r/MachineLearning/comments/12u8vk5/r_public_perception_of_the_future_impact_of_aiml/)
 - [[P] New samples from MUSE finetuned to generate Bach Fugues. Compare the original piece with what the model generated.](https://www.reddit.com/r/MachineLearning/comments/12u232u/p_new_samples_from_muse_finetuned_to_generate/)
-- [[D] Some baseline ideas for Amazon ML Challenge &#39;23](https://www.reddit.com/r/MachineLearning/comments/12tyuz8/d_some_baseline_ideas_for_amazon_ml_challenge_23/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
