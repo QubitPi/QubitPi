@@ -209,7 +209,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
 
 #### Miscellaneous
 
@@ -296,7 +296,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Robotic deep RL at scale: Sorting waste and recyclables with a fleet of robots](http://ai.googleblog.com/2023/04/robotic-deep-rl-at-scale-sorting-waste.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
-<img align="right" width="35%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
