@@ -310,11 +310,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/190546370-3c4e51a6-9181-4b63-8d8d-d14611476ee1.png">
 
 <!-- REDDIT-ML:START -->
+- [A neuromorphic visual sensor can recognize moving objects and predict their path, any thoughts? [D]](https://www.reddit.com/r/MachineLearning/comments/12tmg8q/a_neuromorphic_visual_sensor_can_recognize_moving/)
 - [[D] Small dataset ML question.](https://www.reddit.com/r/MachineLearning/comments/12tk1ql/d_small_dataset_ml_question/)
 - [[News] Kornia 0.6.12: New ImagePrompter API via Segment Anything &lpar;SAM&rpar;, Guided Blurring to preserve edges and many bug fixes.](https://www.reddit.com/r/MachineLearning/comments/12tgjoq/news_kornia_0612_new_imageprompter_api_via/)
 - [[P] Finetuning a commercially viable open source LLM &lpar;Flan-UL2&rpar; using Alpaca, Dolly15K and LoRA](https://www.reddit.com/r/MachineLearning/comments/12tg2u8/p_finetuning_a_commercially_viable_open_source/)
 - [[D] Is there any market for SIMD-based autodiff for ARM processors intended for optimization?](https://www.reddit.com/r/MachineLearning/comments/12tfx5a/d_is_there_any_market_for_simdbased_autodiff_for/)
-- [[D] Limitations of modern one-shot approaches in Computer Vision. From CLIP to SAM.](https://www.reddit.com/r/MachineLearning/comments/12tevpl/d_limitations_of_modern_oneshot_approaches_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
