@@ -354,11 +354,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1649297164537847809)
+- [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1649286591125364736)
 - [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement https://memgraph.com/data-lineage #memg...](https://twitter.com/memgraphdb/status/1649263943599226880)
 - [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1649117224731279388)
 - [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1649099612593229824)
-- [🌐 Fetch data from the @Twitch API, model objects using GQLAlchemy&#39;s OGM, and create API endpoints for GET requests 📊 #API #TwitchAPI #Backend #P...](https://twitter.com/memgraphdb/status/1649081504532770816)
-- [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. https://memgraph.com...](https://twitter.com/memgraphdb/status/1649038707930853376)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
