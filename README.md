@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LLM hallucination in summarization task](https://www.reddit.com/r/MachineLearning/comments/12vauzw/d_llm_hallucination_in_summarization_task/)
 - [[P] Easily make complex plots using ChatGPT [open source]](https://www.reddit.com/r/MachineLearning/comments/12vaauo/p_easily_make_complex_plots_using_chatgpt_open/)
 - [[D] What are the embedding tokens used for in Llama index?](https://www.reddit.com/r/MachineLearning/comments/12va31f/d_what_are_the_embedding_tokens_used_for_in_llama/)
 - [Problem with working on large dataset [D]](https://www.reddit.com/r/MachineLearning/comments/12va1m6/problem_with_working_on_large_dataset_d/)
 - [[D] Is accurately estimating image quality even possible?](https://www.reddit.com/r/MachineLearning/comments/12v7jew/d_is_accurately_estimating_image_quality_even/)
-- [[P] Stable Diffusion Latent Space Explorer - A tool for performing various experiments with Stable Diffusion &lpar;designed to support researchers&rpar;](https://www.reddit.com/r/MachineLearning/comments/12v4bd4/p_stable_diffusion_latent_space_explorer_a_tool/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
