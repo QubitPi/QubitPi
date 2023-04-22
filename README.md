@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="left" src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/>
+<a href="https://www.bilibili.com/video/BV1Dy4y1t7Mf/"><img align="left" src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/></a>
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
 <img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/>
 
