@@ -351,11 +351,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph #memgraph #database #memgraphdb #graphdatabase https://memgraph.com/...](https://twitter.com/memgraphdb/status/1649734039325093888)
 - [🔍 Watch @fireship_dev&#39;s video featuring #Memgraph as one of the top 15 new databases! Learn how this innovative #graphdatabase is transforming the ...](https://twitter.com/memgraphdb/status/1649715921156440064)
 - [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1649708623935819776)
 - [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. https://memgraph.com...](https://twitter.com/memgraphdb/status/1649698052255408129)
 - [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1649659549165428736)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1649648982036021248)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
