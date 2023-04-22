@@ -181,7 +181,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Frontend Technologies <sup>![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
-[Memgraph Orb](https://qubitpi.github.io/memgraph-orb/)
+[Memgraph Orb](https://qubitpi.github.io/memgraph-orb/) | [GraphQL Relay](https://qubitpi.github.io/relay/)
 
 [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) | [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/)| [Babel](https://qubitpi.github.io/babel-website/)
 
