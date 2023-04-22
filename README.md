@@ -351,11 +351,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1649659549165428736)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1649648982036021248)
-- [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1649634383307874304)
 - [🚀 Discover the top 15 new #databases in the latest video by @fireship_dev, featuring #Memgraph! Explore this cutting-edge #graphdatabase and its im...](https://twitter.com/memgraphdb/status/1649483892255084559)
 - [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. https://memgraph.com...](https://twitter.com/memgraphdb/status/1649459984801955851)
+- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1649445891671982080)
+- [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1649442118643904513)
+- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1649419467347075074)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
