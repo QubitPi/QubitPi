@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Find answers to your health questions](https://www.reddit.com/r/MachineLearning/comments/12v81m3/p_find_answers_to_your_health_questions/)
 - [[D] Is accurately estimating image quality even possible?](https://www.reddit.com/r/MachineLearning/comments/12v7jew/d_is_accurately_estimating_image_quality_even/)
 - [[D] Hyena could blow away GPT-4 and everything like it](https://www.reddit.com/r/MachineLearning/comments/12v5wtz/d_hyena_could_blow_away_gpt4_and_everything_like/)
 - [[P] Stable Diffusion Latent Space Explorer - A tool for performing various experiments with Stable Diffusion &lpar;designed to support researchers&rpar;](https://www.reddit.com/r/MachineLearning/comments/12v4bd4/p_stable_diffusion_latent_space_explorer_a_tool/)
 - [[D] Amazon ML challenge](https://www.reddit.com/r/MachineLearning/comments/12v2an8/d_amazon_ml_challenge/)
-- [[N] Web LLM runs the vicuna-7b Large Language Model entirely in your browser](https://www.reddit.com/r/MachineLearning/comments/12v2061/n_web_llm_runs_the_vicuna7b_large_language_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
