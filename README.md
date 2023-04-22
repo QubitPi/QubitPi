@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [With AI Watermarking, Creators Strike Back [D]](https://www.reddit.com/r/MachineLearning/comments/12ure41/with_ai_watermarking_creators_strike_back_d/)
 - [[D] Feature Engineering, Encoding and Data Leakage](https://www.reddit.com/r/MachineLearning/comments/12uqywv/d_feature_engineering_encoding_and_data_leakage/)
 - [[D] The old math question](https://www.reddit.com/r/MachineLearning/comments/12uk6l4/d_the_old_math_question/)
 - [[Discussion] Broad research directions in ML in the near future](https://www.reddit.com/r/MachineLearning/comments/12ui4fo/discussion_broad_research_directions_in_ml_in_the/)
 - [[R] Google just announced Visual Blocks, a low/no-code framework for building ML-based multimedia models](https://www.reddit.com/r/MachineLearning/comments/12uhcdp/r_google_just_announced_visual_blocks_a_lownocode/)
-- [[Research] What are some Ai chatbots that can make essays?](https://www.reddit.com/r/MachineLearning/comments/12ug6nv/research_what_are_some_ai_chatbots_that_can_make/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
