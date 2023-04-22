@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Introducing the Advanced Automatic Documentation Agent: A tool for streamlining Project, File, and Function-Level Documentation for Developers!](https://www.reddit.com/r/MachineLearning/comments/12vhlg6/project_introducing_the_advanced_automatic/)
 - [[R] Identify products from an image](https://www.reddit.com/r/MachineLearning/comments/12vhdz1/r_identify_products_from_an_image/)
 - [[N] Learn about the future of AI from the world’s leading experts…and a Deepfake AI Chatbot Panelist](https://www.reddit.com/r/MachineLearning/comments/12vhbf6/n_learn_about_the_future_of_ai_from_the_worlds/)
 - [[D] [N] Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman - In my opinion his thoughts about AI alignment are brilliant! This talk is a must watch!!!](https://www.reddit.com/r/MachineLearning/comments/12vh2id/d_n_manolis_kellis_evolution_of_human/)
 - [[D] About the current state of ROCm](https://www.reddit.com/r/MachineLearning/comments/12vgo0n/d_about_the_current_state_of_rocm/)
-- [[D] Berkeley professor demystifies LLMs](https://www.reddit.com/r/MachineLearning/comments/12vf4jg/d_berkeley_professor_demystifies_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
