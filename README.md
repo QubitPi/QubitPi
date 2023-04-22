@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The LLM Worksheat](https://www.reddit.com/r/MachineLearning/comments/12v12eo/d_the_llm_worksheat/)
+- [[P] I built a tool that auto-generates scrapers for any website with GPT](https://www.reddit.com/r/MachineLearning/comments/12v0vda/p_i_built_a_tool_that_autogenerates_scrapers_for/)
 - [[P] DiffusionJAX, an open-sourced denoising-diffusion package in JAX](https://www.reddit.com/r/MachineLearning/comments/12v0u2d/p_diffusionjax_an_opensourced_denoisingdiffusion/)
 - [[D] Alias-free convolutions &lpar;like StyleGAN3&rpar; in diffusion models?](https://www.reddit.com/r/MachineLearning/comments/12v0nt3/d_aliasfree_convolutions_like_stylegan3_in/)
 - [With AI Watermarking, Creators Strike Back [D]](https://www.reddit.com/r/MachineLearning/comments/12ure41/with_ai_watermarking_creators_strike_back_d/)
-- [[D] Feature Engineering, Encoding and Data Leakage](https://www.reddit.com/r/MachineLearning/comments/12uqywv/d_feature_engineering_encoding_and_data_leakage/)
-- [[D] The old math question](https://www.reddit.com/r/MachineLearning/comments/12uk6l4/d_the_old_math_question/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
