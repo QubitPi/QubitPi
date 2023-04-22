@@ -308,10 +308,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Hyena could blow away GPT-4 and everything like it](https://www.reddit.com/r/MachineLearning/comments/12v5wtz/d_hyena_could_blow_away_gpt4_and_everything_like/)
-- [[P] Finetuning Large Language Models](https://www.reddit.com/r/MachineLearning/comments/12v5f1r/p_finetuning_large_language_models/)
 - [[P] Stable Diffusion Latent Space Explorer - A tool for performing various experiments with Stable Diffusion &lpar;designed to support researchers&rpar;](https://www.reddit.com/r/MachineLearning/comments/12v4bd4/p_stable_diffusion_latent_space_explorer_a_tool/)
 - [[D] Amazon ML challenge](https://www.reddit.com/r/MachineLearning/comments/12v2an8/d_amazon_ml_challenge/)
 - [[N] Web LLM runs the vicuna-7b Large Language Model entirely in your browser](https://www.reddit.com/r/MachineLearning/comments/12v2061/n_web_llm_runs_the_vicuna7b_large_language_model/)
+- [[D] The LLM Worksheat](https://www.reddit.com/r/MachineLearning/comments/12v12eo/d_the_llm_worksheat/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
