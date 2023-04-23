@@ -296,10 +296,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[P] I built a simple and efficient rate limiter for the OpenAI API](https://www.reddit.com/r/MachineLearning/comments/12w6k44/p_i_built_a_simple_and_efficient_rate_limiter_for/)
-- [[P] I need a functioning CNN for digit recognition in C or C++](https://www.reddit.com/r/MachineLearning/comments/12w4iuf/p_i_need_a_functioning_cnn_for_digit_recognition/)
 - [[P] BloombergGPT Finetuning Without Labeled Data](https://www.reddit.com/r/MachineLearning/comments/12w0921/p_bloomberggpt_finetuning_without_labeled_data/)
 - [[D] Audio and signal processing resources for ML?](https://www.reddit.com/r/MachineLearning/comments/12w02pr/d_audio_and_signal_processing_resources_for_ml/)
 - [[D] What do you guys think of InternImage?](https://www.reddit.com/r/MachineLearning/comments/12vv1qw/d_what_do_you_guys_think_of_internimage/)
+- [[R] Create Your Own Pokémon Battle Bot with Reinforcement Learning with Cloud Tools](https://www.reddit.com/r/MachineLearning/comments/12vssgy/r_create_your_own_pokémon_battle_bot_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
