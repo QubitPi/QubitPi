@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What do you guys think of InternImage?](https://www.reddit.com/r/MachineLearning/comments/12vv1qw/d_what_do_you_guys_think_of_internimage/)
 - [[R] Create Your Own Pokémon Battle Bot with Reinforcement Learning with Cloud Tools](https://www.reddit.com/r/MachineLearning/comments/12vssgy/r_create_your_own_pokémon_battle_bot_with/)
 - [[D] How AI would help us in our daily works, any thoughts?](https://www.reddit.com/r/MachineLearning/comments/12vqt6w/d_how_ai_would_help_us_in_our_daily_works_any/)
 - [[D] Algorithm by big tech companies should be judged on the number of customer complaints](https://www.reddit.com/r/MachineLearning/comments/12vq6v4/d_algorithm_by_big_tech_companies_should_be/)
 - [[D] Fast face recognition over video](https://www.reddit.com/r/MachineLearning/comments/12volzg/d_fast_face_recognition_over_video/)
-- [[P] Check out my project: Summarizing philosophy books into layman&#39;s terms.](https://www.reddit.com/r/MachineLearning/comments/12vk7oe/p_check_out_my_project_summarizing_philosophy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
