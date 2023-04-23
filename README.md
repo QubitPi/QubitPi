@@ -118,22 +118,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 
-### Active Forks
-
-<div align="center">
-
-[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=vue)](https://github.com/QubitPi/hadoop)<img width="15%" src="https://user-images.githubusercontent.com/16126939/214986988-7d6fc586-0624-4f9d-b200-53317b02b01c.png">
-
-[![OWNER](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=vue)](https://github.com/QubitPi/owner)<img src="https://user-images.githubusercontent.com/16126939/196371238-20cbb9c6-0ab2-4f13-ad4c-2f5d8c90a9e3.png" alt="可莉" width="15%">&nbsp;
-&nbsp;
-&nbsp;
-
-<img src="https://user-images.githubusercontent.com/16126939/202896434-d77b45be-6aa8-432c-a79c-c577e962578f.png" alt="可莉" width="15%">[![IntelliJ Ubuntu Theme](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=vue)](https://github.com/QubitPi/intellij-theme-ubuntu)
-
-[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)<img width="15%" src="https://user-images.githubusercontent.com/16126939/194213747-98a2dd87-ebf9-49f8-873d-dc0f777c326a.png">
-    
-</div>
-
 <p>
 <a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180381755-89c80d63-4c19-40de-9e47-9e0c230b0d0a.gif">
