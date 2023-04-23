@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models - King Abdullah University 2023](https://www.reddit.com/r/MachineLearning/comments/12wpzze/r_minigpt4_enhancing_visionlanguage_understanding/)
 - [[Project] godot-dodo - Finetuning LLaMA on single-language comment:code data pairs](https://www.reddit.com/r/MachineLearning/comments/12wpig9/project_godotdodo_finetuning_llama_on/)
 - [[PROJECT] An Easy Dimensionless Vector Database](https://www.reddit.com/r/MachineLearning/comments/12wp73h/project_an_easy_dimensionless_vector_database/)
 - [MLR EGRESSION in R studio [R]](https://www.reddit.com/r/MachineLearning/comments/12woh0h/mlr_egression_in_r_studio_r/)
 - [[D] Custom embeddings for a specific language](https://www.reddit.com/r/MachineLearning/comments/12wl8jr/d_custom_embeddings_for_a_specific_language/)
-- [[D] Alternative for Transkribus App?](https://www.reddit.com/r/MachineLearning/comments/12wj7y9/d_alternative_for_transkribus_app/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
