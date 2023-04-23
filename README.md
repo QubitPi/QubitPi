@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] I just created GPT4freeGUI for Windows](https://www.reddit.com/r/MachineLearning/comments/12whnsi/n_i_just_created_gpt4freegui_for_windows/)
 - [[D] Imbalanced Binary classification + Cost Matrix](https://www.reddit.com/r/MachineLearning/comments/12wfxx0/d_imbalanced_binary_classification_cost_matrix/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/12wcr8i/d_simple_questions_thread/)
 - [[P] DeepFace for video face recognition &lpar;Python&rpar;](https://www.reddit.com/r/MachineLearning/comments/12w806v/p_deepface_for_video_face_recognition_python/)
 - [[P] BloombergGPT Finetuning Without Labeled Data](https://www.reddit.com/r/MachineLearning/comments/12w0921/p_bloomberggpt_finetuning_without_labeled_data/)
-- [[D] Audio and signal processing resources for ML?](https://www.reddit.com/r/MachineLearning/comments/12w02pr/d_audio_and_signal_processing_resources_for_ml/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
