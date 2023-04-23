@@ -164,7 +164,11 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Immutable Infrastructure<sup>![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white) ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)</sup>
 
-[Immutable Infrastructure](https://qubitpi.github.io/aergia/blog) | [Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
+[Immutable Infrastructure](https://qubitpi.github.io/aergia/blog) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
+
+##### HashiCorp
+
+[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 ##### [OpenStack](https://youtu.be/locCs2Duk5U)
 
