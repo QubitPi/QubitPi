@@ -307,11 +307,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Algorithm by big tech companies should be judged on the number of customer complaints](https://www.reddit.com/r/MachineLearning/comments/12vq6v4/d_algorithm_by_big_tech_companies_should_be/)
 - [[D] Fast face recognition over video](https://www.reddit.com/r/MachineLearning/comments/12volzg/d_fast_face_recognition_over_video/)
 - [[P] Check out my project: Summarizing philosophy books into layman&#39;s terms.](https://www.reddit.com/r/MachineLearning/comments/12vk7oe/p_check_out_my_project_summarizing_philosophy/)
 - [[D] Breaking down the new Zip NeRF paper!](https://www.reddit.com/r/MachineLearning/comments/12vjznr/d_breaking_down_the_new_zip_nerf_paper/)
 - [[Project] Introducing the Advanced Automatic Documentation Agent: A tool for streamlining Project, File, and Function-Level Documentation for Developers!](https://www.reddit.com/r/MachineLearning/comments/12vhlg6/project_introducing_the_advanced_automatic/)
-- [[R] Identify products from an image](https://www.reddit.com/r/MachineLearning/comments/12vhdz1/r_identify_products_from_an_image/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
