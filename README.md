@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌟 Dive into the world of Memgraph and Python with our course by @supe_katarina! Create graph models, run Memgraph with Docker, and explore movie da...](https://twitter.com/memgraphdb/status/1650124361032953856)
+- [❓ Alongside batch processing, graph databases can execute real-time analytics on streaming data by using graph algorithms and queries. But what does ...](https://twitter.com/memgraphdb/status/1650116562802573314)
 - [🌐 Read more about using #Memgraph for network resource optimization and impactful decision-making! #NetworkOptimization https://memgraph.com/networ...](https://twitter.com/memgraphdb/status/1650095675709833216)
 - [🛡️ Learn how to use #Memgraph to eliminate credit card fraud in real-time! 💳🚫 #FraudDetection #CreditCardFraud #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1650072521675268108)
 - [🚀 Building a recommendation system using Memgraph is simpler than you think. #gamedevelopers #gamedev #recommendationsystems #memgraph #database #m...](https://twitter.com/memgraphdb/status/1650060440251113473)
-- [🔧 Learn the secrets of real-time graph analytics with Katarina Supe &lpar;@supe_katarina&rpar; in our #Memgraph Webinar! Dive into use cases and explore new ...](https://twitter.com/memgraphdb/status/1650036034011275264)
-- [💡Discover how #Memgraph meets data scientists where they naturally work! 🤓 Check out @AshleighNFaith&#39;s honest review &amp; learn from her experience...](https://twitter.com/memgraphdb/status/1650011369679224832)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
