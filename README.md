@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] BloombergGPT Finetuning Without Labeled Data](https://www.reddit.com/r/MachineLearning/comments/12w0921/p_bloomberggpt_finetuning_without_labeled_data/)
 - [[D] Audio and signal processing resources for ML?](https://www.reddit.com/r/MachineLearning/comments/12w02pr/d_audio_and_signal_processing_resources_for_ml/)
 - [[D] MS in Data Science @ University of Washington vs. MEng in AI @ Duke University](https://www.reddit.com/r/MachineLearning/comments/12vvp0v/d_ms_in_data_science_university_of_washington_vs/)
 - [[D] What do you guys think of InternImage?](https://www.reddit.com/r/MachineLearning/comments/12vv1qw/d_what_do_you_guys_think_of_internimage/)
 - [[R] Create Your Own Pokémon Battle Bot with Reinforcement Learning with Cloud Tools](https://www.reddit.com/r/MachineLearning/comments/12vssgy/r_create_your_own_pokémon_battle_bot_with/)
-- [[D] How AI would help us in our daily works, any thoughts?](https://www.reddit.com/r/MachineLearning/comments/12vqt6w/d_how_ai_would_help_us_in_our_daily_works_any/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
