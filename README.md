@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [MLR EGRESSION in R studio [R]](https://www.reddit.com/r/MachineLearning/comments/12woh0h/mlr_egression_in_r_studio_r/)
 - [[D] Custom embeddings for a specific language](https://www.reddit.com/r/MachineLearning/comments/12wl8jr/d_custom_embeddings_for_a_specific_language/)
 - [[D] Alternative for Transkribus App?](https://www.reddit.com/r/MachineLearning/comments/12wj7y9/d_alternative_for_transkribus_app/)
 - [[P] Linear Diffusion: Building a Diffusion Model from Linear Components](https://www.reddit.com/r/MachineLearning/comments/12wipqn/p_linear_diffusion_building_a_diffusion_model/)
 - [[R] Complex computation from developmental priors | Nature Communications](https://www.reddit.com/r/MachineLearning/comments/12whryo/r_complex_computation_from_developmental_priors/)
-- [[N] I just created GPT4freeGUI for Windows](https://www.reddit.com/r/MachineLearning/comments/12whnsi/n_i_just_created_gpt4freegui_for_windows/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
