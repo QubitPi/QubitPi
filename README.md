@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡Discover how #Memgraph meets data scientists where they naturally work! 🤓 Check out @AshleighNFaith&#39;s honest review &amp; learn from her experience...](https://twitter.com/memgraphdb/status/1650011369679224832)
-- [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1649988717254246401)
 - [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. http...](https://twitter.com/memgraphdb/status/1649842004526809090)
 - [🎓 The most interesting and famous application of PageRank is certainly the one that actually sparked its creation. Google founders Larry Page and S...](https://twitter.com/memgraphdb/status/1649824387476889600)
 - [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1649805897202278400)
+- [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. https://me...](https://twitter.com/memgraphdb/status/1649801737803382784)
+- [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1649781857989406721)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
