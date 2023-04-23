@@ -299,7 +299,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] Linear Diffusion: Building a Diffusion Model from Linear Components](https://www.reddit.com/r/MachineLearning/comments/12wipqn/p_linear_diffusion_building_a_diffusion_model/)
 - [[R] Complex computation from developmental priors | Nature Communications](https://www.reddit.com/r/MachineLearning/comments/12whryo/r_complex_computation_from_developmental_priors/)
 - [[N] I just created GPT4freeGUI for Windows](https://www.reddit.com/r/MachineLearning/comments/12whnsi/n_i_just_created_gpt4freegui_for_windows/)
-- [[D] Imbalanced Binary classification + Cost Matrix](https://www.reddit.com/r/MachineLearning/comments/12wfxx0/d_imbalanced_binary_classification_cost_matrix/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/12wcr8i/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
