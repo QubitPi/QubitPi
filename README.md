@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Masters in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12xs8wm/d_masters_in_machine_learning/)
 - [[D] What is the business model for companies using LLMs?](https://www.reddit.com/r/MachineLearning/comments/12xrt99/d_what_is_the_business_model_for_companies_using/)
 - [[D] ChatGPT SOE Idea](https://www.reddit.com/r/MachineLearning/comments/12xpovm/d_chatgpt_soe_idea/)
 - [[Research] Advice on Probabilistic forecasting for gridded data](https://www.reddit.com/r/MachineLearning/comments/12xpmrd/research_advice_on_probabilistic_forecasting_for/)
 - [[D] Guided Speech Synthesis?](https://www.reddit.com/r/MachineLearning/comments/12xoned/d_guided_speech_synthesis/)
-- [[P] Predicting quality of an image.](https://www.reddit.com/r/MachineLearning/comments/12xoj47/p_predicting_quality_of_an_image/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
