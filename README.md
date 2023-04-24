@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌊 Visualize the impact of undersea cable damages on global internet connectivity using dynamic betweenness centrality and Memgraph&#39;s MAGE. #GraphAl...](https://twitter.com/memgraphdb/status/1650478947753246720)
-- [🚀 Learn how to build robust applications using GQLAlchemy! This tutorial shows you how to create a part of a @Twitch analytics app 🎮 #GQLAlchemy...](https://twitter.com/memgraphdb/status/1650458815706406913)
-- [Re ℹ️ For more information about these new features and bugs fixed in Memgraph Lab, check the changelog, download the new Lab and explore your data!...](https://twitter.com/memgraphdb/status/1650455779088924674)
-- [Re 🧮 New aggregation functions of the Graph Style Script language, such as Sum, Avg, Min and Max, allow you to calculate even more complex values t...](https://twitter.com/memgraphdb/status/1650455775981056001)
-- [Re 🖋️ When writing a query collection description, you can highlight the code blocks using one of the following language styles: #cypher, #bash, #...](https://twitter.com/memgraphdb/status/1650455773741305857)
+- [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1650440699291000833)
+- [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1650434907611561984)
+- [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1650422831665086465)
+- [🌊 Dive into streaming analytics with top databases like Amazon Kinesis, Memgraph, Apache Storm, Apache Kafka, and StreamSQL. Achieve real-time insi...](https://twitter.com/memgraphdb/status/1650405465702948864)
+- [👩‍💻 Dive into the world of graph analytics with our new course by @supe_katarina! Explore NetworkX, Memgraph, and popular algorithms, and learn...](https://twitter.com/memgraphdb/status/1650369981945634817)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
