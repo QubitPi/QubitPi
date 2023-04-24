@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Without using openai token, make chatbot using own datasets.](https://www.reddit.com/r/MachineLearning/comments/12x4oiw/d_without_using_openai_token_make_chatbot_using/)
 - [[2103.10050] Spatio-temporal Crop Classification On Volumetric Data](https://www.reddit.com/r/MachineLearning/comments/12x44pm/210310050_spatiotemporal_crop_classification_on/)
 - [[D] Scaling to 1-2 million tokens.](https://www.reddit.com/r/MachineLearning/comments/12x3p7s/d_scaling_to_12_million_tokens/)
 - [[D] Automatic topic categorization](https://www.reddit.com/r/MachineLearning/comments/12x3hcj/d_automatic_topic_categorization/)
 - [[R][D] When AIGC meets the Metaverse - What are the potentials?](https://www.reddit.com/r/MachineLearning/comments/12x0o8d/rd_when_aigc_meets_the_metaverse_what_are_the/)
-- [[R] Scaling Transformer to 1M tokens and beyond with RMT](https://www.reddit.com/r/MachineLearning/comments/12x00bi/r_scaling_transformer_to_1m_tokens_and_beyond/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
