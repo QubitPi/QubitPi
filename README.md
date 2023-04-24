@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] [R] Research Problem about Weakly Supervised Learning for CT Image Semantic Segmentation](https://www.reddit.com/r/MachineLearning/comments/12x79i5/d_r_research_problem_about_weakly_supervised/)
 - [[Discussion] Architecture for running monte-carlo simulations](https://www.reddit.com/r/MachineLearning/comments/12x74wk/discussion_architecture_for_running_montecarlo/)
 - [[D] Without using openai token, make chatbot using own datasets.](https://www.reddit.com/r/MachineLearning/comments/12x4oiw/d_without_using_openai_token_make_chatbot_using/)
 - [[2103.10050] Spatio-temporal Crop Classification On Volumetric Data](https://www.reddit.com/r/MachineLearning/comments/12x44pm/210310050_spatiotemporal_crop_classification_on/)
 - [[D] Scaling to 1-2 million tokens.](https://www.reddit.com/r/MachineLearning/comments/12x3p7s/d_scaling_to_12_million_tokens/)
-- [[D] Automatic topic categorization](https://www.reddit.com/r/MachineLearning/comments/12x3hcj/d_automatic_topic_categorization/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
