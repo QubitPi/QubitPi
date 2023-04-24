@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌊 Dive into streaming analytics with top databases like Amazon Kinesis, Memgraph, Apache Storm, Apache Kafka, and StreamSQL. Achieve real-time insi...](https://twitter.com/memgraphdb/status/1650405465702948864)
 - [👩‍💻 Dive into the world of graph analytics with our new course by @supe_katarina! Explore NetworkX, Memgraph, and popular algorithms, and learn...](https://twitter.com/memgraphdb/status/1650369981945634817)
 - [🎓 Level up your graph analytics skills with our &quot;Intro to Graph Analytics in Python&quot; course by @supe_katarina! Discover graph algorithms, learn to ...](https://twitter.com/memgraphdb/status/1650351107535691776)
 - [🌐 Join our new course on &quot;Intro to Graph Analytics in Python&quot; and unlock the world of network analysis! Learn with @supe_katarina how to use #Netwo...](https://twitter.com/memgraphdb/status/1650208668321824768)
 - [🔍 Discover the power of graph analytics in Python with our new course! Explore network analysis tools, learn popular graph algorithms, and dive int...](https://twitter.com/memgraphdb/status/1650184759262191616)
-- [🔧 Build your graph skills with our &quot;Getting Started with Memgraph and Python&quot; course! Explore datasets, run Memgraph with Docker, and connect with ...](https://twitter.com/memgraphdb/status/1650170667847802882)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
