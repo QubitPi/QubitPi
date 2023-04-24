@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1650571056678141952)
+- [🌐 AmpliGraph: the open-source toolkit democratizing graph representation learning! Ideal for #Python-based knowledge graph completion, information ...](https://twitter.com/memgraphdb/status/1650547150919544839)
 - [🔥 Unlock the potential of graph technology for data lineage tracking in our #Memgraph Webinar! Find out how @get_manta Flow utilizes a #graphdataba...](https://twitter.com/memgraphdb/status/1650531132008546305)
 - [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1650506631673704448)
 - [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine #memgraph #database #memg...](https://twitter.com/memgraphdb/status/1650488260592844803)
-- [🌊 Visualize the impact of undersea cable damages on global internet connectivity using dynamic betweenness centrality and Memgraph&#39;s MAGE. #GraphAl...](https://twitter.com/memgraphdb/status/1650478947753246720)
-- [🚀 Learn how to build robust applications using GQLAlchemy! This tutorial shows you how to create a part of a @Twitch analytics app 🎮 #GQLAlchemy...](https://twitter.com/memgraphdb/status/1650458815706406913)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
