@@ -285,11 +285,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [How can we build human values into AI?](https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai)
 - [Announcing Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
 - [Competitive programming with AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [AI for the board game Diplomacy](https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy)
 - [Mastering Stratego, the classic game of imperfect information](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
-- [DeepMind’s latest research at NeurIPS 2022](https://www.deepmind.com/blog/deepminds-latest-research-at-neurips-2022)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
