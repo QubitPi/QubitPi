@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Automatic topic categorization](https://www.reddit.com/r/MachineLearning/comments/12x3hcj/d_automatic_topic_categorization/)
 - [[R][D] When AIGC meets the Metaverse - What are the potentials?](https://www.reddit.com/r/MachineLearning/comments/12x0o8d/rd_when_aigc_meets_the_metaverse_what_are_the/)
 - [[R] Scaling Transformer to 1M tokens and beyond with RMT](https://www.reddit.com/r/MachineLearning/comments/12x00bi/r_scaling_transformer_to_1m_tokens_and_beyond/)
 - [[P] Pattern recognition](https://www.reddit.com/r/MachineLearning/comments/12wx94h/p_pattern_recognition/)
 - [[D] Is Meta&#39;s SAM really available for commercial use?](https://www.reddit.com/r/MachineLearning/comments/12wvrsv/d_is_metas_sam_really_available_for_commercial_use/)
-- [[P] Use StyleCLIP API to automatically photoshop faces in any way you want!](https://www.reddit.com/r/MachineLearning/comments/12wsuo5/p_use_styleclip_api_to_automatically_photoshop/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
