@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] PCA: Variance of projected data - sample variance or population variance](https://www.reddit.com/r/MachineLearning/comments/12xxqzs/d_pca_variance_of_projected_data_sample_variance/)
+- [[P] Natural language search engine for video content](https://www.reddit.com/r/MachineLearning/comments/12xxf2r/p_natural_language_search_engine_for_video_content/)
 - [[D] Be careful with user facing apps using LLMs. They can easily be hijacked by nefarious users. In this example I simulated an LLM being &quot;tricked&quot; into executing a plugin via a JSON command by inserting nefarious text as a user.](https://www.reddit.com/r/MachineLearning/comments/12xwzt9/d_be_careful_with_user_facing_apps_using_llms/)
 - [[D] Question regarding multi-headed self attention](https://www.reddit.com/r/MachineLearning/comments/12xwug7/d_question_regarding_multiheaded_self_attention/)
 - [[P] LLM for a new language](https://www.reddit.com/r/MachineLearning/comments/12xu5ls/p_llm_for_a_new_language/)
-- [[D] Masters in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12xs8wm/d_masters_in_machine_learning/)
-- [[D] What is the business model for companies using LLMs?](https://www.reddit.com/r/MachineLearning/comments/12xrt99/d_what_is_the_business_model_for_companies_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
