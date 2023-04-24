@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ChatGPT SOE Idea](https://www.reddit.com/r/MachineLearning/comments/12xpovm/d_chatgpt_soe_idea/)
+- [[Research] Advice on Probabilistic forecasting for gridded data](https://www.reddit.com/r/MachineLearning/comments/12xpmrd/research_advice_on_probabilistic_forecasting_for/)
 - [[D] Guided Speech Synthesis?](https://www.reddit.com/r/MachineLearning/comments/12xoned/d_guided_speech_synthesis/)
 - [[P] Predicting quality of an image.](https://www.reddit.com/r/MachineLearning/comments/12xoj47/p_predicting_quality_of_an_image/)
 - [[P] Federated Learning &lpar;FL&rpar; implementation in PyTorch for painless FL research](https://www.reddit.com/r/MachineLearning/comments/12xhm86/p_federated_learning_fl_implementation_in_pytorch/)
-- [[R] CodeCapybara: Another open source model for code generation based on instruction tuning, outperformed Llama and CodeAlpaca](https://www.reddit.com/r/MachineLearning/comments/12xgzbx/r_codecapybara_another_open_source_model_for_code/)
-- [Can we improve forecasting models using a true random number generator? [P]](https://www.reddit.com/r/MachineLearning/comments/12xfvna/can_we_improve_forecasting_models_using_a_true/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
