@@ -317,11 +317,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @deveshanand18 Hi @deveshanand18, you can find the list of our customers here: https://neo4j.com/customers/ and you can filter by industry or use-c...](https://twitter.com/neo4j/status/1650475947215273984)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1lPKqBkBZjEGb](https://twitter.com/neo4j/status/1650405561945522176)
 - [Ready for another episode with @mesirii and @alexandererdl on how to have fun with #neo4j AuraDB and #datasets? They are going live in a few hours: ht...](https://twitter.com/neo4j/status/1650379076874518531)
 - [Have you listened to this interview with Bradford Cross? Learn about The power of #Data and #GraphTechnology by Emil Eifrem at the Two Lions Podcast. ...](https://twitter.com/neo4j/status/1650183384985919490)
 - [&quot;What is your favorite problem you&#39;ve ever solved with graph data science?&quot; Listen to @alison_cossette and comment! You can learn more about Neo4j Gra...](https://twitter.com/neo4j/status/1650122705843245057)
-- [Do you want to express your graph in easy-to-read YAML and push an easy button to automate scripts to build out your indexes and constraints? This too...](https://twitter.com/neo4j/status/1649850593194721280)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
