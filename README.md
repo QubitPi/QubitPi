@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What about these new AI songs that have been coming out?](https://www.reddit.com/r/MachineLearning/comments/12xytfx/d_what_about_these_new_ai_songs_that_have_been/)
+- [Looking for ML and DL projects to contribute [D]](https://www.reddit.com/r/MachineLearning/comments/12xxx09/looking_for_ml_and_dl_projects_to_contribute_d/)
 - [[D] PCA: Variance of projected data - sample variance or population variance](https://www.reddit.com/r/MachineLearning/comments/12xxqzs/d_pca_variance_of_projected_data_sample_variance/)
 - [[P] Natural language search engine for video content](https://www.reddit.com/r/MachineLearning/comments/12xxf2r/p_natural_language_search_engine_for_video_content/)
 - [[D] Be careful with user facing apps using LLMs. They can easily be hijacked by nefarious users. In this example I simulated an LLM being &quot;tricked&quot; into executing a plugin via a JSON command by inserting nefarious text as a user.](https://www.reddit.com/r/MachineLearning/comments/12xwzt9/d_be_careful_with_user_facing_apps_using_llms/)
-- [[D] Question regarding multi-headed self attention](https://www.reddit.com/r/MachineLearning/comments/12xwug7/d_question_regarding_multiheaded_self_attention/)
-- [[P] LLM for a new language](https://www.reddit.com/r/MachineLearning/comments/12xu5ls/p_llm_for_a_new_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
