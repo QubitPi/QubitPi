@@ -327,11 +327,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=vLg8wzxTj0w)
 - [Graphversation Ep. 3 &lpar;How Web Scraping and Graph Databases Power Recommendation Engines&rpar;](https://www.youtube.com/watch?v=Smwr1U1xUQs)
 - [Graphversation Ep. 2 &lpar;Recommendation Engine in Ed-tech Using Neo4j &amp; GDS&rpar;](https://www.youtube.com/watch?v=SoU-hrfZ14c)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=dS1wdipcL1o)
 - [Next-level Cypher aggregations using WITH, COLLECT and UNWIND! #neo4j #shorts](https://www.youtube.com/watch?v=9KWHuPOL1PI)
+- [Neo4j Live: BioCypher Trailer #shorts](https://www.youtube.com/watch?v=-1a-PT_qxzY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
