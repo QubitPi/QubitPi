@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Pattern recognition](https://www.reddit.com/r/MachineLearning/comments/12wx94h/p_pattern_recognition/)
 - [[D] Is Meta&#39;s SAM really available for commercial use?](https://www.reddit.com/r/MachineLearning/comments/12wvrsv/d_is_metas_sam_really_available_for_commercial_use/)
 - [[P] Use StyleCLIP API to automatically photoshop faces in any way you want!](https://www.reddit.com/r/MachineLearning/comments/12wsuo5/p_use_styleclip_api_to_automatically_photoshop/)
 - [[P] Diagnosing cancer by profiling the immune system - Dataset and code](https://www.reddit.com/r/MachineLearning/comments/12wrazb/p_diagnosing_cancer_by_profiling_the_immune/)
 - [[Project] godot-dodo - Finetuning LLaMA on single-language comment:code data pairs](https://www.reddit.com/r/MachineLearning/comments/12wpig9/project_godotdodo_finetuning_llama_on/)
-- [[PROJECT] An Easy Dimensionless Vector Database](https://www.reddit.com/r/MachineLearning/comments/12wp73h/project_an_easy_dimensionless_vector_database/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
