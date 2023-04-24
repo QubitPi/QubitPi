@@ -298,8 +298,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] What do you guys think of Ask-Anything? It is a tool for chatting about video with chatGPT, miniGPT4 and StableLM](https://www.reddit.com/r/MachineLearning/comments/12xi65n/d_what_do_you_guys_think_of_askanything_it_is_a/)
 - [[P] Federated Learning &lpar;FL&rpar; implementation in PyTorch for painless FL research](https://www.reddit.com/r/MachineLearning/comments/12xhm86/p_federated_learning_fl_implementation_in_pytorch/)
 - [[R] CodeCapybara: Another open source model for code generation based on instruction tuning, outperformed Llama and CodeAlpaca](https://www.reddit.com/r/MachineLearning/comments/12xgzbx/r_codecapybara_another_open_source_model_for_code/)
-- [[N] I prompted chatGPT on the importance of linear algebra ...](https://www.reddit.com/r/MachineLearning/comments/12xgz5u/n_i_prompted_chatgpt_on_the_importance_of_linear/)
 - [Can we improve forecasting models using a true random number generator? [P]](https://www.reddit.com/r/MachineLearning/comments/12xfvna/can_we_improve_forecasting_models_using_a_true/)
+- [Discussion [D] 14 Different Types of Learning in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12xf355/discussion_d_14_different_types_of_learning_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
