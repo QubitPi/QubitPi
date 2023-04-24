@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/786940207582674978><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/90990aa9a75c8f392ad2bd002b5ec384551021615.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788030304681984112><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8bcebebbc68255a3c75864a0f8a6712a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，本次必胜客×原神联动将于4月30日结束，感谢旅行者们的支持~ #必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/786940207582674978)
