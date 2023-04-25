@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] desperate need for notes jntuk R20](https://www.reddit.com/r/MachineLearning/comments/12y9fvy/d_desperate_need_for_notes_jntuk_r20/)
 - [[D] Binary Classification, Scoring](https://www.reddit.com/r/MachineLearning/comments/12y78xr/d_binary_classification_scoring/)
 - [[D] Have you ever been rejected by the ACs with high scores?](https://www.reddit.com/r/MachineLearning/comments/12y69mt/d_have_you_ever_been_rejected_by_the_acs_with/)
 - [[D] Is there a public scoreboard to rank different LLMs by the ability of chat?](https://www.reddit.com/r/MachineLearning/comments/12y2t1z/d_is_there_a_public_scoreboard_to_rank_different/)
 - [[D] What about these new AI songs that have been coming out?](https://www.reddit.com/r/MachineLearning/comments/12xytfx/d_what_about_these_new_ai_songs_that_have_been/)
-- [Looking for ML and DL projects to contribute [D]](https://www.reddit.com/r/MachineLearning/comments/12xxx09/looking_for_ml_and_dl_projects_to_contribute_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
