@@ -275,7 +275,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
-- [LayerNAS: Neural Architecture Search in Polynomial Complexity](http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html)
+- [LayerNAS: Neural architecture search in polynomial complexity](http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html)
 - [Google at CHI 2023](http://ai.googleblog.com/2023/04/google-at-chi-2023.html)
 - [Visual Blocks for ML: Accelerating machine learning prototyping with interactive tools](http://ai.googleblog.com/2023/04/visual-blocks-for-ml-accelerating.html)
 - [Recent advances in deep long-horizon forecasting](http://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
