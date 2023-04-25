@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Microsoft Releases SynapseMl v0.11 with support for ChatGPT, GPT-4, Causal Learning, and More](https://www.reddit.com/r/MachineLearning/comments/12yqhmo/n_microsoft_releases_synapseml_v011_with_support/)
 - [[D] LLaMA release is a joke](https://www.reddit.com/r/MachineLearning/comments/12ype1k/d_llama_release_is_a_joke/)
 - [[D] YOLO without yolo annotation?](https://www.reddit.com/r/MachineLearning/comments/12yn2wy/d_yolo_without_yolo_annotation/)
 - [[P]Architectures of Topological Deep Learning: A Survey on Topological Neural Networks&lpar;not OC&rpar;](https://www.reddit.com/r/MachineLearning/comments/12ylzeo/parchitectures_of_topological_deep_learning_a/)
 - [[D] my model gave good accuracy but while prediction the answers are all wrong](https://www.reddit.com/r/MachineLearning/comments/12ylz6p/d_my_model_gave_good_accuracy_but_while/)
-- [[P] Create and read books at home with GPT models. Have You Given It a Shot?](https://www.reddit.com/r/MachineLearning/comments/12ylcm8/p_create_and_read_books_at_home_with_gpt_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
