@@ -244,11 +244,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788373030189400068><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/29df02c73f6f18d7cad564abe21fc2a3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了「林风的和弦」——《原神》第二张须弥篇OST宣传H5的电脑壁纸，旅行者可以按照自己的需要选择使...](https://t.bilibili.com/788373030189400068)
+- [#原神# #盛典与慧业# #原神3.6# 亲爱的旅行者，「盛典与慧业」活动即将开启~ 〓整体玩法时间〓 2023/04/27 10:00 ~ 2023/05/15 03:59 〓参与条件〓 冒险等阶≥30...](https://t.bilibili.com/788370453164982275)
 - [恭喜@薄旸hyasu@铃兰的任务罢了@阿尔卑斯物语等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788030304681984112)
 - [恭喜@知恩是人间理想@突然又想换昵称了@略大于突如其来的爱情等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788030304641089571)
 - [亲爱的旅行者，本次必胜客×原神联动将于4月30日结束，感谢旅行者们的支持~ #必胜邀约寻珍之旅# #必胜客原神联动#](https://t.bilibili.com/786940207582674978)
-- [#原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动即将开启！ 4月22日起，上支付宝搜「原神」，点击下方提示卡片直达出行...](https://t.bilibili.com/786887400984936485)
-- [《原神》过场动画-「归乡」](https://t.bilibili.com/786886279995326473)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
