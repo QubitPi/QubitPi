@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] HuggingChat &lpar;open source ChatGPT, interface + model&rpar;](https://www.reddit.com/r/MachineLearning/comments/12yr1eq/p_huggingchat_open_source_chatgpt_interface_model/)
 - [[D] Open-Source LLMs vs APIs](https://www.reddit.com/r/MachineLearning/comments/12yqpms/d_opensource_llms_vs_apis/)
 - [[N] Microsoft Releases SynapseMl v0.11 with support for ChatGPT, GPT-4, Causal Learning, and More](https://www.reddit.com/r/MachineLearning/comments/12yqhmo/n_microsoft_releases_synapseml_v011_with_support/)
 - [[D] LLaMA release is a joke](https://www.reddit.com/r/MachineLearning/comments/12ype1k/d_llama_release_is_a_joke/)
 - [[D] YOLO without yolo annotation?](https://www.reddit.com/r/MachineLearning/comments/12yn2wy/d_yolo_without_yolo_annotation/)
-- [[P]Architectures of Topological Deep Learning: A Survey on Topological Neural Networks&lpar;not OC&rpar;](https://www.reddit.com/r/MachineLearning/comments/12ylzeo/parchitectures_of_topological_deep_learning_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
