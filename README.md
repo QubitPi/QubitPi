@@ -379,11 +379,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Updates to the Auto-refreshing Official CVE Feed](https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/)
 - [Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA](https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/)
 - [Blog: Kubernetes 1.27: Query Node Logs Using The Kubelet API](https://kubernetes.io/blog/2023/04/21/node-log-query-alpha/)
 - [Blog: Kubernetes 1.27: Single Pod Access Mode for PersistentVolumes Graduates to Beta](https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/)
 - [Blog: Kubernetes 1.27: Efficient SELinux volume relabeling &lpar;Beta&rpar;](https://kubernetes.io/blog/2023/04/18/kubernetes-1-27-efficient-selinux-relabeling-beta/)
-- [Blog: Kubernetes 1.27: More fine-grained pod topology spread policies reached beta](https://kubernetes.io/blog/2023/04/17/fine-grained-pod-topology-spread-features-beta/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
