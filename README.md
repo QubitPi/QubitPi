@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments](https://www.reddit.com/r/MachineLearning/comments/12yj88n/d_a_survey_of_reinforcement_learning_algorithms/)
+- [Discussion [D] Semi-supervised source localization in reverberant environments using deep generative modeling](https://www.reddit.com/r/MachineLearning/comments/12yj1x2/discussion_d_semisupervised_source_localization/)
 - [[D] Internship Structure at American Tech Companies](https://www.reddit.com/r/MachineLearning/comments/12ydepo/d_internship_structure_at_american_tech_companies/)
 - [[D] I&#39;m training a neural network to recognize network intrusion attacks, I&#39;m getting pretty good results with a loop that runs 15 to 30 epochs. Is it likely I&#39;m doing something wrong?](https://www.reddit.com/r/MachineLearning/comments/12ycwha/d_im_training_a_neural_network_to_recognize/)
 - [[D] Object Detection Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12ybj3q/d_object_detection_machine_learning/)
-- [A Cookbook of Self-Supervised Learning &lpar;not OC&rpar;](https://www.reddit.com/r/MachineLearning/comments/12yad0w/a_cookbook_of_selfsupervised_learning_not_oc/)
-- [[D] Best image segmentation net](https://www.reddit.com/r/MachineLearning/comments/12y9y1m/d_best_image_segmentation_net/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
