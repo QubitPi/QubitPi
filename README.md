@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [A Cookbook of Self-Supervised Learning &lpar;not OC&rpar;](https://www.reddit.com/r/MachineLearning/comments/12yad0w/a_cookbook_of_selfsupervised_learning_not_oc/)
 - [[D] Best image segmentation net](https://www.reddit.com/r/MachineLearning/comments/12y9y1m/d_best_image_segmentation_net/)
 - [[D] Good practices in normalisation and data augmentation](https://www.reddit.com/r/MachineLearning/comments/12y9q47/d_good_practices_in_normalisation_and_data/)
 - [[D] desperate need for notes jntuk R20](https://www.reddit.com/r/MachineLearning/comments/12y9fvy/d_desperate_need_for_notes_jntuk_r20/)
 - [[D] Binary Classification, Scoring](https://www.reddit.com/r/MachineLearning/comments/12y78xr/d_binary_classification_scoring/)
-- [[D] Have you ever been rejected by the ACs with high scores?](https://www.reddit.com/r/MachineLearning/comments/12y69mt/d_have_you_ever_been_rejected_by_the_acs_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
