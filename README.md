@@ -339,11 +339,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1650721549471629314)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1650571056678141952)
 - [🌐 AmpliGraph: the open-source toolkit democratizing graph representation learning! Ideal for #Python-based knowledge graph completion, information ...](https://twitter.com/memgraphdb/status/1650547150919544839)
 - [🔥 Unlock the potential of graph technology for data lineage tracking in our #Memgraph Webinar! Find out how @get_manta Flow utilizes a #graphdataba...](https://twitter.com/memgraphdb/status/1650531132008546305)
 - [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1650506631673704448)
-- [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine #memgraph #database #memg...](https://twitter.com/memgraphdb/status/1650488260592844803)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
