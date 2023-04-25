@@ -295,11 +295,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Create and read books at home with GPT models. Have You Given It a Shot?](https://www.reddit.com/r/MachineLearning/comments/12ylcm8/p_create_and_read_books_at_home_with_gpt_models/)
 - [[D] Resources for deepening knowledge of Transformers](https://www.reddit.com/r/MachineLearning/comments/12yk3ea/d_resources_for_deepening_knowledge_of/)
 - [[D] Survey on Implementations of Generative Adversarial Networks for Semi-Supervised Learning](https://www.reddit.com/r/MachineLearning/comments/12yk2a6/d_survey_on_implementations_of_generative/)
 - [[D] A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments](https://www.reddit.com/r/MachineLearning/comments/12yj88n/d_a_survey_of_reinforcement_learning_algorithms/)
 - [Discussion [D] Semi-supervised source localization in reverberant environments using deep generative modeling](https://www.reddit.com/r/MachineLearning/comments/12yj1x2/discussion_d_semisupervised_source_localization/)
-- [[D] Internship Structure at American Tech Companies](https://www.reddit.com/r/MachineLearning/comments/12ydepo/d_internship_structure_at_american_tech_companies/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
