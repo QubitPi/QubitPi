@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788776598200385540><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e38f8983fd8725f7f55aab59360f9367401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788841516584927271><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dcaa9ea1682459f2ba64db2d72e165c21669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@要当风纪委员@应璟璟@听说换个号能中奖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788776598200385540)
