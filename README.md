@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [DId you miss @mesirii this week using @nasa #firms data to create a graph about #global #wildfire? You can watch the recording here: https://okt.to/MP...](https://twitter.com/neo4j/status/1651193929348308995)
+- [Are you a graphista in Asia Pacific? 🤔 Pick up the city, and pick up the session: #Graphsummit, #GraphWorkshop or/and #Meetup? The choice is yours!...](https://twitter.com/neo4j/status/1651179378716340224)
 - [SaaS for proactive procurement provider @Scoutbee needed to give clients in-depth insights into suppliers. How? by using Neo4j knowledge graphs--- rea...](https://twitter.com/neo4j/status/1650952085347680256)
 - [We value Relationships with Data AND with People! Hear how we build our relationships😊 and join a company focused on building community and connect...](https://twitter.com/neo4j/status/1650878009778339841)
 - [Neo4j Live: BioCypher https://twitter.com/i/broadcasts/1BdGYyoZzeAGX](https://twitter.com/neo4j/status/1650873701800501255)
-- [Interested in quicker creating #knowledgegraph in #lifesciences? Join @slobentanzer &amp; @alexandererdl during our live stream about BioCypher starting i...](https://twitter.com/neo4j/status/1650832129918488577)
-- [RT Rik Van Bruggen: On my way to another wonderful #neo4j #graphsummit in ... Brussels! Looking forward to a great day of #graphs... And perhaps some ...](https://twitter.com/rvanbruggen/status/1650747032993398785)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
