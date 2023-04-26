@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788741624237654064><img align='right' src='https://i2.hdslb.com/bfs/archive/6d8dd460b23869f8eb326113843e0459a26fa2e1.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788772522276421638><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f756643e1c759ef08db5e9d8b865b496401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》白术角色PV——「良方难觅」](https://t.bilibili.com/788741624237654064)
