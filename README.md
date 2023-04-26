@@ -57,7 +57,7 @@ _Open Innovation_ as Career
 My Open Source Portfolio
 ------------------------
 
-[ ![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white) ](https://github.com/users/QubitPi/projects/7)[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![CHEF](https://img.shields.io/badge/CHEF-F09820?style=for-the-badge&logo=Chef&logoColor=white) ](https://supermarket.chef.io/users/jack20191124)[ ![iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white) ](https://superuser.com/a/1117867/1713678)
+[![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)[ ![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ](https://sonarcloud.io/organizations/qubitpi/projects)[ ![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white) ](https://hub.docker.com/r/jack20191124/)[ ![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white) ](https://pypi.org/user/jack20191124/)[ ![CHEF](https://img.shields.io/badge/CHEF-F09820?style=for-the-badge&logo=Chef&logoColor=white) ](https://supermarket.chef.io/users/jack20191124)[ ![iterm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white) ](https://superuser.com/a/1117867/1713678)
 
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="left" width="30%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
@@ -128,11 +128,15 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
+[![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)
+
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leaves me literally no time for writing the blogs. I do, however, keep studying techs in a what I found more efficient approach below.
 
 Since my blogs were essentially paraphrasing their documentations, why not simply [fork their entire documentation and add my notes, if any, to it](https://github.com/users/QubitPi/projects/4/)? That basically saves a lot of my time and packs everything in a more giant notebook of open-sourced documentation forks. So here they are:
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
+
+[![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)
 
 #### Data/Knowledge Graph
 
