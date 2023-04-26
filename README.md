@@ -383,11 +383,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Using ChatGPT as a technical writing assistant](https://martinfowler.com/articles/2023-chatgpt-tech-writing.html)
 - [What Does a Technical Author Look Like?](https://martinfowler.com/articles/2023-tech-author-portrait.html)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 - [Slack in your plans](https://martinfowler.com/bliki/Slack.html)
 - [Brass Birmingham becomes #1 on BoardGameGeek](https://martinfowler.com/articles/brass-brum.html)
-- [Shaky Twitter Two-Factor Authentication Interaction](https://martinfowler.com/articles/202302-twitter-auth.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
