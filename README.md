@@ -349,11 +349,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [StarlingX at the OpenInfra Summit](https://superuser.openinfra.dev/articles/starlingx-at-the-openinfra-summit/)
 - [Connecting the Pieces – Edge Infrastructures and Landscape](https://superuser.openinfra.dev/articles/connecting-the-pieces-edge-infrastructures-and-landscape/)
 - [OpenStack Operators Edition: Who’s Speaking at the OpenInfra Summit?](https://superuser.openinfra.dev/articles/openstack-operators-edition-whos-speaking-at-the-openinfra-summit/)
 - [Kata at the OpenInfra Summit](https://superuser.openinfra.dev/articles/kata-at-the-openinfra-summit/)
 - [Zuul at the OpenInfra Summit](https://superuser.openinfra.dev/articles/zuul-at-the-openinfra-summit/)
-- [Working with Swift, the Object Storage service in OpenStack](https://superuser.openinfra.dev/articles/working-with-swift-the-object-storage-service-in-openstack/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
