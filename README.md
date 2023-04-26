@@ -238,11 +238,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788471286109044760><img align='right' src='https://i1.hdslb.com/bfs/archive/f88650182c4015817c50ea62dda918b8825caa1c.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》白术角色PV——「良方难觅」](https://t.bilibili.com/788741624237654064)
+- [#原神# #盛典与慧业# #原神3.6# 旅行者们好～全新活动「盛典与慧业」即将开启，一起来看看有哪些有趣的玩法吧！](https://t.bilibili.com/788718345559998468)
 - [[原神_哇]](https://t.bilibili.com/788471286109044760)
 - [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了「林风的和弦」——《原神》第二张须弥篇OST宣传H5的电脑壁纸，旅行者可以按照自己的需要选择使...](https://t.bilibili.com/788373030189400068)
 - [#原神# #盛典与慧业# #原神3.6# 亲爱的旅行者，「盛典与慧业」活动即将开启~ 〓整体玩法时间〓 2023/04/27 10:00 ~ 2023/05/15 03:59 〓参与条件〓 冒险等阶≥30...](https://t.bilibili.com/788370453164982275)
-- [恭喜@薄旸hyasu@铃兰的任务罢了@阿尔卑斯物语等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788030304681984112)
-- [恭喜@知恩是人间理想@突然又想换昵称了@略大于突如其来的爱情等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788030304641089571)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
