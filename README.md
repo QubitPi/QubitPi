@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Google researchers achieve performance breakthrough, rendering Stable Diffusion images in sub-12 seconds on a mobile phone. Generative AI models running on your mobile phone is nearing reality.](https://www.reddit.com/r/MachineLearning/comments/12zclus/d_google_researchers_achieve_performance/)
 - [[D] Please fill in my survey about algorithms on Instagram &lpar;for those who live in The Netherlands&rpar;](https://www.reddit.com/r/MachineLearning/comments/12zcdgx/d_please_fill_in_my_survey_about_algorithms_on/)
 - [[D] multiple labels classification, what does each node mean in the output layer in the neural network](https://www.reddit.com/r/MachineLearning/comments/12zc8x9/d_multiple_labels_classification_what_does_each/)
 - [[P] Which model to choose for my project](https://www.reddit.com/r/MachineLearning/comments/12zc2x6/p_which_model_to_choose_for_my_project/)
 - [[D] Reinforcement Learning with Neural Network](https://www.reddit.com/r/MachineLearning/comments/12zb7x4/d_reinforcement_learning_with_neural_network/)
-- [[D] Temporal Graph Reading Group](https://www.reddit.com/r/MachineLearning/comments/12zb4jo/d_temporal_graph_reading_group/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
