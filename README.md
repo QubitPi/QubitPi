@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Introducing AutoGPT-Social, an autonomous social media bot powered by ChatGPT🤖📸](https://www.reddit.com/r/MachineLearning/comments/12z0ylx/p_introducing_autogptsocial_an_autonomous_social/)
+- [[P] Looking for video game projects](https://www.reddit.com/r/MachineLearning/comments/12z0w3v/p_looking_for_video_game_projects/)
 - [[D] Interested to switch from regular Workstation to Fedora Silverblue &lpar;or any immutable Linux distribution&rpar;, asking for expert opinion.](https://www.reddit.com/r/MachineLearning/comments/12yzf31/d_interested_to_switch_from_regular_workstation/)
 - [[D] Where to open up new ambulance service stations in NYC? A data-driven approach](https://www.reddit.com/r/MachineLearning/comments/12yywbd/d_where_to_open_up_new_ambulance_service_stations/)
 - [[D] Impressions of TMLR](https://www.reddit.com/r/MachineLearning/comments/12yw5hx/d_impressions_of_tmlr/)
-- [[D] Deep Learning vs Machine Learning for Text Classification](https://www.reddit.com/r/MachineLearning/comments/12yvef6/d_deep_learning_vs_machine_learning_for_text/)
-- [[D] Theoretically, could Computer Vision learn language?](https://www.reddit.com/r/MachineLearning/comments/12yt5wx/d_theoretically_could_computer_vision_learn/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
