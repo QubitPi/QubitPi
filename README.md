@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1651213035648741380)
+- [📢 Exciting news! 🎉 🚀 #Memgraph, the super-fast #opensource graph #database for streaming and a #Neo4j alternative, is partnering with @Linkur...](https://twitter.com/memgraphdb/status/1651211380773535749)
+- [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1651203723270451204)
 - [🔥 Power up your real-time data processing with Memgraph! Boost efficiency using in-memory storage and explore complex relationships in real-time. #...](https://twitter.com/memgraphdb/status/1651183592569962498)
 - [💡 Due to the shift of focus to relationships in graph databases, querying them to find useful recommendations becomes easier and faster in comparis...](https://twitter.com/memgraphdb/status/1651165472979648513)
-- [🛡️ Learn how to use #Memgraph to eliminate credit card fraud in real-time! 💳🚫 #FraudDetection #CreditCardFraud #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1651159684584185863)
-- [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1651147604267286528)
-- [✈️ Discover how Memgraph Lab can improve air traffic routing and simplify complex tasks! #AirTrafficControl #GraphDatabase 🌐 #memgraph #database ...](https://twitter.com/memgraphdb/status/1651107590892404743)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
