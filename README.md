@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Data is the most important asset an insurance company possesses, and it’s important to keep it safe and handle it with care. Unfortunately, bein...](https://twitter.com/memgraphdb/status/1651271926067740676)
 - [🎓 Don&#39;t miss the #Memgraph Webinar with @michaelughetto from @AstraZeneca! Discover how their Biological Insights Knowledge Graph is changing the g...](https://twitter.com/memgraphdb/status/1651256035603107842)
 - [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1651231408541540355)
 - [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1651213035648741380)
 - [📢 Exciting news! 🎉 🚀 #Memgraph, the super-fast #opensource graph #database for streaming and a #Neo4j alternative, is partnering with @Linkur...](https://twitter.com/memgraphdb/status/1651211380773535749)
-- [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1651203723270451204)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
