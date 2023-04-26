@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Does using tf.keras.clear_session&lpar;&rpar; every 30 minutes affect the training?](https://www.reddit.com/r/MachineLearning/comments/12zgm3z/p_does_using_tfkerasclear_session_every_30/)
+- [[D] SARSA Reinforcement Learning Algorithm: A Guide](https://www.reddit.com/r/MachineLearning/comments/12zg40k/d_sarsa_reinforcement_learning_algorithm_a_guide/)
 - [[D] ideas &amp; suggestions for project](https://www.reddit.com/r/MachineLearning/comments/12zdzp1/d_ideas_suggestions_for_project/)
 - [[P] A High-Performance Audio Library for Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12zdafd/p_a_highperformance_audio_library_for_machine/)
 - [[D] Google researchers achieve performance breakthrough, rendering Stable Diffusion images in sub-12 seconds on a mobile phone. Generative AI models running on your mobile phone is nearing reality.](https://www.reddit.com/r/MachineLearning/comments/12zclus/d_google_researchers_achieve_performance/)
-- [[D] Please fill in my survey about algorithms on Instagram &lpar;for those who live in The Netherlands&rpar;](https://www.reddit.com/r/MachineLearning/comments/12zcdgx/d_please_fill_in_my_survey_about_algorithms_on/)
-- [[P] Which model to choose for my project](https://www.reddit.com/r/MachineLearning/comments/12zc2x6/p_which_model_to_choose_for_my_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
