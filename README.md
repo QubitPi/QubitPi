@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The assertion that artificial intelligence doesn&#39;t exist](https://www.reddit.com/r/MachineLearning/comments/12zq1tn/d_the_assertion_that_artificial_intelligence/)
+- [[P] General Knowledge and Vector Databases in LangChain?](https://www.reddit.com/r/MachineLearning/comments/12zq19m/p_general_knowledge_and_vector_databases_in/)
 - [[P] llmsearch - a LLM assisted google search endpoint](https://www.reddit.com/r/MachineLearning/comments/12zmdh4/p_llmsearch_a_llm_assisted_google_search_endpoint/)
 - [[P] computer vision sorting](https://www.reddit.com/r/MachineLearning/comments/12zio0n/p_computer_vision_sorting/)
 - [[D] SARSA Reinforcement Learning Algorithm: A Guide](https://www.reddit.com/r/MachineLearning/comments/12zg40k/d_sarsa_reinforcement_learning_algorithm_a_guide/)
-- [[D] ideas &amp; suggestions for project](https://www.reddit.com/r/MachineLearning/comments/12zdzp1/d_ideas_suggestions_for_project/)
-- [[P] A High-Performance Audio Library for Machine Learning](https://www.reddit.com/r/MachineLearning/comments/12zdafd/p_a_highperformance_audio_library_for_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
