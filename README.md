@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Get ready to take your data to the next level! 👀 In this article, Stu Moore explains how Neo4j now supports AWS Managed Streaming for Kafka &lpar;MSK&rpar; t...](https://twitter.com/neo4j/status/1651286538796294146)
-- [The &quot;Full Stack GraphQL Applications&quot; e-book is available! 🤓 Download it for FREE and learn how to use GraphQL with React, Node.js, and Neo4j to bu...](https://twitter.com/neo4j/status/1651269691141242892)
 - [DId you miss @mesirii this week using @nasa #firms data to create a graph about #global #wildfire? You can watch the recording here: https://okt.to/MP...](https://twitter.com/neo4j/status/1651193929348308995)
 - [Are you a graphista in Asia Pacific? 🤔 Pick up the city, and pick up the session: #Graphsummit, #GraphWorkshop or/and #Meetup? The choice is yours!...](https://twitter.com/neo4j/status/1651179378716340224)
 - [SaaS for proactive procurement provider @Scoutbee needed to give clients in-depth insights into suppliers. How? by using Neo4j knowledge graphs--- rea...](https://twitter.com/neo4j/status/1650952085347680256)
+- [We value Relationships with Data AND with People! Hear how we build our relationships😊 and join a company focused on building community and connect...](https://twitter.com/neo4j/status/1650878009778339841)
+- [Neo4j Live: BioCypher https://twitter.com/i/broadcasts/1BdGYyoZzeAGX](https://twitter.com/neo4j/status/1650873701800501255)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
