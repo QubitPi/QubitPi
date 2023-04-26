@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Which model to choose for my project](https://www.reddit.com/r/MachineLearning/comments/12zc2x6/p_which_model_to_choose_for_my_project/)
 - [[D] Reinforcement Learning with Neural Network](https://www.reddit.com/r/MachineLearning/comments/12zb7x4/d_reinforcement_learning_with_neural_network/)
 - [[D] Temporal Graph Reading Group](https://www.reddit.com/r/MachineLearning/comments/12zb4jo/d_temporal_graph_reading_group/)
 - [[D] What are some recommended skills to learn ML someone who has a basic understanding of math, technology, Python, and basic data science concepts](https://www.reddit.com/r/MachineLearning/comments/12z6vda/d_what_are_some_recommended_skills_to_learn_ml/)
 - [[P] RWKV C++ Cuda library with no dependencies, no torch, and no python](https://www.reddit.com/r/MachineLearning/comments/12z6jvz/p_rwkv_c_cuda_library_with_no_dependencies_no/)
-- [[R] Mechanical Turk vs alternatives for Data Labeling](https://www.reddit.com/r/MachineLearning/comments/12z5dv6/r_mechanical_turk_vs_alternatives_for_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
