@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Online for CV?](https://www.reddit.com/r/MachineLearning/comments/131921y/d_online_for_cv/)
 - [[D] Scaling Transformer to 1M tokens and beyond with RMT &lpar;Paper Explained&rpar;](https://www.reddit.com/r/MachineLearning/comments/1318q7b/d_scaling_transformer_to_1m_tokens_and_beyond/)
 - [[D] Read &quot;Designing ML System&quot; book together](https://www.reddit.com/r/MachineLearning/comments/1318ezb/d_read_designing_ml_system_book_together/)
 - [[P] UnpromptedControl: Noprompt ControlNet Image Restoration/Object removal, GitHub link in comments](https://www.reddit.com/r/MachineLearning/comments/13154na/p_unpromptedcontrol_noprompt_controlnet_image/)
 - [[P] Introducing NNX: Neural Networks for JAX](https://www.reddit.com/r/MachineLearning/comments/1313cqj/p_introducing_nnx_neural_networks_for_jax/)
-- [[D] Reduce pipeline debt and keep your ML models happy with Great Expectations](https://www.reddit.com/r/MachineLearning/comments/130z3it/d_reduce_pipeline_debt_and_keep_your_ml_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
