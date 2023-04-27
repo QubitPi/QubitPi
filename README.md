@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Dive into the world of Graph Neural Networks and learn how to apply them to real-world use cases like @Amazon product recommendations! #GNNs #Mac...](https://twitter.com/memgraphdb/status/1651545225456766978)
-- [⚡️ Unleash the power of stream processing for real-time analytics &amp; IoT applications! #RealTimeAnalytics #IoT #StreamProcessing @apache_pulsar @Redp...](https://twitter.com/memgraphdb/status/1651520561758052356)
 - [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1651485582525120513)
 - [💡 Sometimes choosing graphs solutions isn’t the only step you can take to mitigate risks. https://memgraph.com/blog/why-should-you-combine-machine...](https://twitter.com/memgraphdb/status/1651471489185529857)
 - [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1651457144426831872)
+- [🔍 Watch @fireship_dev&#39;s video featuring #Memgraph as one of the top 15 new databases! Learn how this innovative #graphdatabase is transforming the ...](https://twitter.com/memgraphdb/status/1651446323143426048)
+- [❓ Why are graph databases optimal for network analysis and resource optimization? The answer lies in their structure. https://memgraph.com/blog/graph...](https://twitter.com/memgraphdb/status/1651295834019856387)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
