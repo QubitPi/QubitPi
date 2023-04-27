@@ -238,11 +238,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788841516584927271><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dcaa9ea1682459f2ba64db2d72e165c21669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神通路计划视频征集活动# #原神UP主激励计划# 《原神》「通路计划」挑战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 4月27日——5...](https://t.bilibili.com/789115681575534596)
+- [互动抽奖 #原神# #原神白术# #白术# 希望不卜庐门前只有鸟雀来访。这样说明大家无病无灾、身体安康。 「百草入药」——《原神》新角色：白术分享H5正式上线。 欢...](https://t.bilibili.com/789112657860886595)
+- [#原神# 旅行者们好～全新活动「盛典与慧业」已开启，「伐护末那学院」摊位的主持人寄来了一份「寻物锚针」使用手册，一起来看看吧！](https://t.bilibili.com/789096727836622848)
+- [好耶！[原神_哇]](https://t.bilibili.com/789095439350628377)
 - [[原神_哇]](https://t.bilibili.com/788841516584927271)
-- [恭喜@要当风纪委员@应璟璟@听说换个号能中奖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788776598200385540)
-- [恭喜@清梦浅眠@来亿碗软饭@XGuang0413等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788772522276421638)
-- [恭喜@覗桀@Shright@枸杞枸-等11位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788772475034927175)
-- [恭喜@絡璃Hiromi@山川稚心@杨枝甘乐丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/788772474986692688)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
