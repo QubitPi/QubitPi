@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] If you were to build your own AutoML library, what considerations would you take?](https://www.reddit.com/r/MachineLearning/comments/1313z6g/d_if_you_were_to_build_your_own_automl_library/)
+- [[P] Binary supervised learning classifier predicting to close to even split](https://www.reddit.com/r/MachineLearning/comments/1313xfr/p_binary_supervised_learning_classifier/)
 - [[P] Introducing NNX: Neural Networks for JAX](https://www.reddit.com/r/MachineLearning/comments/1313cqj/p_introducing_nnx_neural_networks_for_jax/)
 - [[D] Reduce pipeline debt and keep your ML models happy with Great Expectations](https://www.reddit.com/r/MachineLearning/comments/130z3it/d_reduce_pipeline_debt_and_keep_your_ml_models/)
 - [[D] Scaling collaborative filtering to a large number of users and items](https://www.reddit.com/r/MachineLearning/comments/130xqgn/d_scaling_collaborative_filtering_to_a_large/)
-- [Elevate Your Worldbuilding Game with the ACE AI Persona: The Tool You Didn&#39;t Know You Needed [P]](https://www.reddit.com/r/MachineLearning/comments/130x8pb/elevate_your_worldbuilding_game_with_the_ace_ai/)
-- [Well this interrogation is going well … [D]](https://www.reddit.com/r/MachineLearning/comments/130wrod/well_this_interrogation_is_going_well_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
