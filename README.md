@@ -292,8 +292,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[P] Annotation Tools](https://www.reddit.com/r/MachineLearning/comments/130eq23/p_annotation_tools/)
 - [[P] Godot+RWKV standalone prebuilt binary &lpar;ubuntu/nvidia&rpar;](https://www.reddit.com/r/MachineLearning/comments/130e31o/p_godotrwkv_standalone_prebuilt_binary/)
 - [[P] I built a &quot;Choose your adventure&quot; Notebook for Hugging Face x DagsHub](https://www.reddit.com/r/MachineLearning/comments/130d7rd/p_i_built_a_choose_your_adventure_notebook_for/)
-- [👨‍💻 Python for Data Science: Unlocking the Power of NumPy, Pandas, and Matplotlib [D]](https://www.reddit.com/r/MachineLearning/comments/130c90g/python_for_data_science_unlocking_the_power_of/)
 - [[D] Can we use instructions to include knowledge into LLMs?](https://www.reddit.com/r/MachineLearning/comments/130c8m4/d_can_we_use_instructions_to_include_knowledge/)
+- [[P] Linear Probe Evaluation for Domain Adaptation](https://www.reddit.com/r/MachineLearning/comments/130be0j/p_linear_probe_evaluation_for_domain_adaptation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
