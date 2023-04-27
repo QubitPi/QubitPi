@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [👨‍💻 Python for Data Science: Unlocking the Power of NumPy, Pandas, and Matplotlib [D]](https://www.reddit.com/r/MachineLearning/comments/130c90g/python_for_data_science_unlocking_the_power_of/)
+- [[D] Can we use instructions to include knowledge into LLMs?](https://www.reddit.com/r/MachineLearning/comments/130c8m4/d_can_we_use_instructions_to_include_knowledge/)
 - [[P] Linear Probe Evaluation for Domain Adaptation](https://www.reddit.com/r/MachineLearning/comments/130be0j/p_linear_probe_evaluation_for_domain_adaptation/)
 - [[P] Build ChatGPT-4 chatbots with your own data using CustomGPT.](https://www.reddit.com/r/MachineLearning/comments/1308xri/p_build_chatgpt4_chatbots_with_your_own_data/)
 - [[D] Opinions on ACML in 2023?](https://www.reddit.com/r/MachineLearning/comments/1305m3w/d_opinions_on_acml_in_2023/)
-- [Imbalanced Dataset [Discussion]](https://www.reddit.com/r/MachineLearning/comments/1303fmg/imbalanced_dataset_discussion/)
-- [[D] Handling Drastic Increase/Decrease In Sales](https://www.reddit.com/r/MachineLearning/comments/1301gwq/d_handling_drastic_increasedecrease_in_sales/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
