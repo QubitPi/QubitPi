@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/788841516584927271><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dcaa9ea1682459f2ba64db2d72e165c21669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789115681575534596><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/560ba8701e94b8af3091d81a0b7f842a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神通路计划视频征集活动# #原神UP主激励计划# 《原神》「通路计划」挑战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 4月27日——5...](https://t.bilibili.com/789115681575534596)
