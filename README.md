@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [ML model Ideas [P]](https://www.reddit.com/r/MachineLearning/comments/131avkr/ml_model_ideas_p/)
 - [[D]Any suggestions on my &#39;blog&#39; that tries to explain neural network for a multiple-label classification clear!](https://www.reddit.com/r/MachineLearning/comments/1319epa/dany_suggestions_on_my_blog_that_tries_to_explain/)
 - [[D] Online for CV?](https://www.reddit.com/r/MachineLearning/comments/131921y/d_online_for_cv/)
 - [[D] Scaling Transformer to 1M tokens and beyond with RMT &lpar;Paper Explained&rpar;](https://www.reddit.com/r/MachineLearning/comments/1318q7b/d_scaling_transformer_to_1m_tokens_and_beyond/)
 - [[D] Read &quot;Designing ML System&quot; book together](https://www.reddit.com/r/MachineLearning/comments/1318ezb/d_read_designing_ml_system_book_together/)
-- [[P] UnpromptedControl: Noprompt ControlNet Image Restoration/Object removal, GitHub link in comments](https://www.reddit.com/r/MachineLearning/comments/13154na/p_unpromptedcontrol_noprompt_controlnet_image/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
