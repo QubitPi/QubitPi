@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] OpenAI is using &quot;incremental learning&quot; to update ChatGPT&#39;s database.](https://www.reddit.com/r/MachineLearning/comments/130vjqk/d_openai_is_using_incremental_learning_to_update/)
+- [[D] Any text generation alternatives to OpenAI and GooseAI?](https://www.reddit.com/r/MachineLearning/comments/130uwxq/d_any_text_generation_alternatives_to_openai_and/)
 - [[D] question about ibm certification](https://www.reddit.com/r/MachineLearning/comments/130t04j/d_question_about_ibm_certification/)
 - [[D] A neuromorphic visual sensor can recognize moving objects and predict their path](https://www.reddit.com/r/MachineLearning/comments/130r9na/d_a_neuromorphic_visual_sensor_can_recognize/)
 - [[D] Scores in ACL rolling review](https://www.reddit.com/r/MachineLearning/comments/130po1o/d_scores_in_acl_rolling_review/)
-- [Science Behind Deep Learning in the YouTube Algorithm [D]](https://www.reddit.com/r/MachineLearning/comments/130pko1/science_behind_deep_learning_in_the_youtube/)
-- [[D] They are coming for us?](https://www.reddit.com/r/MachineLearning/comments/130paq6/d_they_are_coming_for_us/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
