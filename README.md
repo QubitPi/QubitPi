@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Unlock the magic of Neo4j with our help! Our goal is to equip you with the expertise and know-how to tap into the full potential of Graphs. Become an ...](https://twitter.com/neo4j/status/1651587277213114370)
-- [RT Dario Vazquez: Attending the @neo4j GraphSummit Copenhagen today. Quite inspirational intro by the CEO @emileifrem explaining the graph-property mo...](https://twitter.com/Dario_VA/status/1651498231942062080)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit @mesirii https://twitter.com/i/broadcasts/1nAKEryPzPVGL](https://twitter.com/neo4j/status/1651496515846942722)
 - [Re @neilwirving You can come to http://community.neo4j.com and ask our experts there. On Twitter perhaps @mesirii or @BarrasaDV can help.](https://twitter.com/neo4j/status/1651484581969776640)
 - [Re @NaisuBanana @Octoberfest73 You can also use Neo4j Bloom which uses WebGL for rendering for large graphs. With &quot;saved Cypher&quot; or &quot;Cypher actions&quot; y...](https://twitter.com/neo4j/status/1651484131329560576)
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in an hour for &quot;Coding with #ChatGPT4&quot; where I&#39;ll do things I&#39;ve not done before. T...](https://twitter.com/mesirii/status/1651481986026930176)
+- [Rise and shine with @mesirii when he joins forces once again with #chatgpt to graph code together for fun and profit this morning: https://okt.to/Lcpb...](https://twitter.com/neo4j/status/1651466270452199424)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
