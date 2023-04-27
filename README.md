@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🐍 Kickstart your graph journey with our &quot;Getting Started with Memgraph and Python&quot; course! Learn to create a graph model, connect with Jupyter Note...](https://twitter.com/memgraphdb/status/1651575424432914432)
-- [🚀 Discover the power of #Memgraph, a high-performance graph database! Explore our @github repo. 👉 https://github.com/memgraph/memgraph #GraphDat...](https://twitter.com/memgraphdb/status/1651566114344665088)
-- [🌐 Dive into the world of Graph Neural Networks and learn how to apply them to real-world use cases like @Amazon product recommendations! #GNNs #Mac...](https://twitter.com/memgraphdb/status/1651545225456766978)
-- [⚡️ Unleash the power of stream processing for real-time analytics &amp; IoT applications! #RealTimeAnalytics #IoT #StreamProcessing @apache_pulsar @Redp...](https://twitter.com/memgraphdb/status/1651520561758052356)
-- [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1651485582525120513)
+- [Re 🌍 Join us in exploring the power of #Memgraph and revolutionize your graph database experience 🚀🔥](https://twitter.com/memgraphdb/status/1651593007701843971)
+- [Re 📢 We&#39;re thrilled to hear about your results and receive your feedback. Together, we&#39;re redefining what you can accomplish with a real-time capab...](https://twitter.com/memgraphdb/status/1651593005390876673)
+- [Re 🖐️ Follow our 5-step process here: https://memgraph.com/blog/benchmark-memgraph-or-neo4j-with-benchgraph &amp; watch the YouTube video with our lea...](https://twitter.com/memgraphdb/status/1651593002912043009)
+- [Re 🛠️ We&#39;re sharing our benchmark tool so you can customize it to compare performance on your specific workload and systems. Make a confident, inf...](https://twitter.com/memgraphdb/status/1651593000793849856)
+- [Re 🔍 You can view the results of our comprehensive testing here: https://memgraph.com/benchgraph 📝💡](https://twitter.com/memgraphdb/status/1651592998721843200)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
