@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] 🦋 ChainFury- Build chat apps with LLMs in just 4 clicks](https://www.reddit.com/r/MachineLearning/comments/130npk2/p_chainfury_build_chat_apps_with_llms_in_just_4/)
 - [[P] bert.cpp, sentence embeddings in C++ with ggml](https://www.reddit.com/r/MachineLearning/comments/130nf6i/p_bertcpp_sentence_embeddings_in_c_with_ggml/)
 - [Fine-Tune LLM, Which model to use? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/130kjbu/finetune_llm_which_model_to_use_discussion/)
 - [Cool site/service for sentimental analysis or data analysis [D]](https://www.reddit.com/r/MachineLearning/comments/130kfoy/cool_siteservice_for_sentimental_analysis_or_data/)
 - [[D] Text-to-image: Looking for pre-trained models available for fine-tuning](https://www.reddit.com/r/MachineLearning/comments/130ftys/d_texttoimage_looking_for_pretrained_models/)
-- [[P] Annotation Tools](https://www.reddit.com/r/MachineLearning/comments/130eq23/p_annotation_tools/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
