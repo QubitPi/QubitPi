@@ -289,7 +289,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Convert Any language to a Linux command &lpar;one-liner&rpar;](https://www.reddit.com/r/MachineLearning/comments/130kw8z/p_convert_any_language_to_a_linux_command_oneliner/)
+- [[P] bert.cpp, sentence embeddings in C++ with ggml](https://www.reddit.com/r/MachineLearning/comments/130nf6i/p_bertcpp_sentence_embeddings_in_c_with_ggml/)
 - [Fine-Tune LLM, Which model to use? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/130kjbu/finetune_llm_which_model_to_use_discussion/)
 - [Cool site/service for sentimental analysis or data analysis [D]](https://www.reddit.com/r/MachineLearning/comments/130kfoy/cool_siteservice_for_sentimental_analysis_or_data/)
 - [[D] Text-to-image: Looking for pre-trained models available for fine-tuning](https://www.reddit.com/r/MachineLearning/comments/130ftys/d_texttoimage_looking_for_pretrained_models/)
