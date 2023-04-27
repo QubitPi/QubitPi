@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789115681575534596><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/560ba8701e94b8af3091d81a0b7f842a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789177048023171072><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/610206bd491cbb8c94abc28d39e82c33401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #盛典与慧业# 旅行者们好呀，须弥教令院举办的「学院庆典」今日已开启！来看看接下来还有哪些活动吧~](https://t.bilibili.com/789177048023171072)
