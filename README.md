@@ -321,11 +321,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit - Streamlit EDA &amp; ML](https://www.youtube.com/watch?v=dS1wdipcL1o)
-- [Búsqueda de ruta con Graph Data Science - 10 min](https://www.youtube.com/watch?v=aHxBMUq511c)
-- [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements](https://www.youtube.com/watch?v=42Ra42e1A3Q)
 - [Going Meta - a series on graphs, semantics and knowledge Episode 16](https://www.youtube.com/watch?v=WwTxlyjY35I)
 - [Neo4j Live: BioCypher](https://www.youtube.com/watch?v=9ZXuof23Noo)
+- [NASA FIRMS Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=vLg8wzxTj0w)
+- [Graphversation Ep. 3 &lpar;How Web Scraping and Graph Databases Power Recommendation Engines&rpar;](https://www.youtube.com/watch?v=Smwr1U1xUQs)
+- [Graphversation Ep. 2 &lpar;Recommendation Engine in Ed-tech Using Neo4j &amp; GDS&rpar;](https://www.youtube.com/watch?v=SoU-hrfZ14c)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
