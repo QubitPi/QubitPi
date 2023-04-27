@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Rise and shine with @mesirii when he joins forces once again with #chatgpt to graph code together for fun and profit this morning: https://okt.to/Lcpb...](https://twitter.com/neo4j/status/1651466270452199424)
 - [&quot;Have you upgraded to or downloaded Neo4j v5, and now some of your favorite APOC procedures are not working anymore? You are not alone.&quot; Tomaz Bratani...](https://twitter.com/neo4j/status/1651315319489585153)
 - [Get ready to take your data to the next level! 👀 In this article, Stu Moore explains how Neo4j now supports AWS Managed Streaming for Kafka &lpar;MSK&rpar; t...](https://twitter.com/neo4j/status/1651286538796294146)
 - [The &quot;Full Stack GraphQL Applications&quot; e-book is available! 🤓 Download it for FREE and learn how to use GraphQL with React, Node.js, and Neo4j to bu...](https://twitter.com/neo4j/status/1651269691141242892)
 - [DId you miss @mesirii this week using @nasa #firms data to create a graph about #global #wildfire? You can watch the recording here: https://okt.to/MP...](https://twitter.com/neo4j/status/1651193929348308995)
+- [Are you a graphista in Asia Pacific? 🤔 Pick up the city, and pick up the session: #Graphsummit, #GraphWorkshop or/and #Meetup? The choice is yours!...](https://twitter.com/neo4j/status/1651179378716340224)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
