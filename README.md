@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit @mesirii https://twitter.com/i/broadcasts/1nAKEryPzPVGL](https://twitter.com/neo4j/status/1651496515846942722)
+- [Re @neilwirving You can come to http://community.neo4j.com and ask our experts there. On Twitter perhaps @mesirii or @BarrasaDV can help.](https://twitter.com/neo4j/status/1651484581969776640)
+- [Re @NaisuBanana @Octoberfest73 You can also use Neo4j Bloom which uses WebGL for rendering for large graphs. With &quot;saved Cypher&quot; or &quot;Cypher actions&quot; y...](https://twitter.com/neo4j/status/1651484131329560576)
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in an hour for &quot;Coding with #ChatGPT4&quot; where I&#39;ll do things I&#39;ve not done before. T...](https://twitter.com/mesirii/status/1651481986026930176)
 - [Rise and shine with @mesirii when he joins forces once again with #chatgpt to graph code together for fun and profit this morning: https://okt.to/Lcpb...](https://twitter.com/neo4j/status/1651466270452199424)
-- [&quot;Have you upgraded to or downloaded Neo4j v5, and now some of your favorite APOC procedures are not working anymore? You are not alone.&quot; Tomaz Bratani...](https://twitter.com/neo4j/status/1651315319489585153)
-- [Get ready to take your data to the next level! 👀 In this article, Stu Moore explains how Neo4j now supports AWS Managed Streaming for Kafka &lpar;MSK&rpar; t...](https://twitter.com/neo4j/status/1651286538796294146)
-- [The &quot;Full Stack GraphQL Applications&quot; e-book is available! 🤓 Download it for FREE and learn how to use GraphQL with React, Node.js, and Neo4j to bu...](https://twitter.com/neo4j/status/1651269691141242892)
-- [DId you miss @mesirii this week using @nasa #firms data to create a graph about #global #wildfire? You can watch the recording here: https://okt.to/MP...](https://twitter.com/neo4j/status/1651193929348308995)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
