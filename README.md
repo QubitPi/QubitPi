@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Huge overfit on prediction model - due to data with low predictive power or can this be fixed?](https://www.reddit.com/r/MachineLearning/comments/1315t41/p_huge_overfit_on_prediction_model_due_to_data/)
-- [[D] Looking for recommendations on a home desktop for running Stable Diffusion and LLMs.](https://www.reddit.com/r/MachineLearning/comments/131597i/d_looking_for_recommendations_on_a_home_desktop/)
 - [[P] UnpromptedControl: Noprompt ControlNet Image Restoration/Object removal, GitHub link in comments](https://www.reddit.com/r/MachineLearning/comments/13154na/p_unpromptedcontrol_noprompt_controlnet_image/)
-- [[D] If you were to build your own AutoML library, what considerations would you take?](https://www.reddit.com/r/MachineLearning/comments/1313z6g/d_if_you_were_to_build_your_own_automl_library/)
-- [[P] Binary supervised learning classifier predicting to close to even split](https://www.reddit.com/r/MachineLearning/comments/1313xfr/p_binary_supervised_learning_classifier/)
+- [[P] Introducing NNX: Neural Networks for JAX](https://www.reddit.com/r/MachineLearning/comments/1313cqj/p_introducing_nnx_neural_networks_for_jax/)
+- [[D] Reduce pipeline debt and keep your ML models happy with Great Expectations](https://www.reddit.com/r/MachineLearning/comments/130z3it/d_reduce_pipeline_debt_and_keep_your_ml_models/)
+- [[D] OpenAI is using &quot;incremental learning&quot; to update ChatGPT&#39;s database.](https://www.reddit.com/r/MachineLearning/comments/130vjqk/d_openai_is_using_incremental_learning_to_update/)
+- [[D] A neuromorphic visual sensor can recognize moving objects and predict their path](https://www.reddit.com/r/MachineLearning/comments/130r9na/d_a_neuromorphic_visual_sensor_can_recognize/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
