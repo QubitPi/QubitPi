@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Scaling collaborative filtering to a large number of users and items](https://www.reddit.com/r/MachineLearning/comments/130xqgn/d_scaling_collaborative_filtering_to_a_large/)
 - [Elevate Your Worldbuilding Game with the ACE AI Persona: The Tool You Didn&#39;t Know You Needed [P]](https://www.reddit.com/r/MachineLearning/comments/130x8pb/elevate_your_worldbuilding_game_with_the_ace_ai/)
 - [Well this interrogation is going well … [D]](https://www.reddit.com/r/MachineLearning/comments/130wrod/well_this_interrogation_is_going_well_d/)
 - [[D] OpenAI is using &quot;incremental learning&quot; to update ChatGPT&#39;s database.](https://www.reddit.com/r/MachineLearning/comments/130vjqk/d_openai_is_using_incremental_learning_to_update/)
 - [[D] Any text generation alternatives to OpenAI and GooseAI?](https://www.reddit.com/r/MachineLearning/comments/130uwxq/d_any_text_generation_alternatives_to_openai_and/)
-- [[D] question about ibm certification](https://www.reddit.com/r/MachineLearning/comments/130t04j/d_question_about_ibm_certification/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
