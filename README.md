@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [It&#39;s Nathan&#39;s turn to tell us what&#39;s his favorite problem he&#39;s ever solved with graph data science! This challenge changed his career! Wow! Learn more...](https://twitter.com/neo4j/status/1651617360527126537)
 - [Unlock the magic of Neo4j with our help! Our goal is to equip you with the expertise and know-how to tap into the full potential of Graphs. Become an ...](https://twitter.com/neo4j/status/1651587277213114370)
 - [RT Dario Vazquez: Attending the @neo4j GraphSummit Copenhagen today. Quite inspirational intro by the CEO @emileifrem explaining the graph-property mo...](https://twitter.com/Dario_VA/status/1651498231942062080)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit @mesirii https://twitter.com/i/broadcasts/1nAKEryPzPVGL](https://twitter.com/neo4j/status/1651496515846942722)
 - [Re @neilwirving You can come to http://community.neo4j.com and ask our experts there. On Twitter perhaps @mesirii or @BarrasaDV can help.](https://twitter.com/neo4j/status/1651484581969776640)
-- [Re @NaisuBanana @Octoberfest73 You can also use Neo4j Bloom which uses WebGL for rendering for large graphs. With &quot;saved Cypher&quot; or &quot;Cypher actions&quot; y...](https://twitter.com/neo4j/status/1651484131329560576)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
