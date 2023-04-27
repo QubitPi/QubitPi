@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌟 Dive into the world of Memgraph and Python with our course by @supe_katarina! Create graph models, run Memgraph with Docker, and explore movie da...](https://twitter.com/memgraphdb/status/1651653942588108800)
 - [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph #memgraph #database #memgraphdb #graphdatabase https://memgraph.com/...](https://twitter.com/memgraphdb/status/1651636324456079360)
 - [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1651618238474723330)
 - [Re 🌍 Join us in exploring the power of #Memgraph and revolutionize your graph database experience 🚀🔥](https://twitter.com/memgraphdb/status/1651593007701843971)
 - [Re 📢 We&#39;re thrilled to hear about your results and receive your feedback. Together, we&#39;re redefining what you can accomplish with a real-time capab...](https://twitter.com/memgraphdb/status/1651593005390876673)
-- [Re 🖐️ Follow our 5-step process here: https://memgraph.com/blog/benchmark-memgraph-or-neo4j-with-benchgraph &amp; watch the YouTube video with our lea...](https://twitter.com/memgraphdb/status/1651593002912043009)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
