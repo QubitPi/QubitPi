@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Fine-Tune LLM, Which model to use? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/130kjbu/finetune_llm_which_model_to_use_discussion/)
+- [Cool site/service for sentimental analysis or data analysis [D]](https://www.reddit.com/r/MachineLearning/comments/130kfoy/cool_siteservice_for_sentimental_analysis_or_data/)
 - [[D] Text-to-image: Looking for pre-trained models available for fine-tuning](https://www.reddit.com/r/MachineLearning/comments/130ftys/d_texttoimage_looking_for_pretrained_models/)
 - [[P] Annotation Tools](https://www.reddit.com/r/MachineLearning/comments/130eq23/p_annotation_tools/)
 - [[P] Godot+RWKV standalone prebuilt binary &lpar;ubuntu/nvidia&rpar;](https://www.reddit.com/r/MachineLearning/comments/130e31o/p_godotrwkv_standalone_prebuilt_binary/)
-- [[P] I built a &quot;Choose your adventure&quot; Notebook for Hugging Face x DagsHub](https://www.reddit.com/r/MachineLearning/comments/130d7rd/p_i_built_a_choose_your_adventure_notebook_for/)
-- [[D] Can we use instructions to include knowledge into LLMs?](https://www.reddit.com/r/MachineLearning/comments/130c8m4/d_can_we_use_instructions_to_include_knowledge/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
