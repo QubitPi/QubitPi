@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Founders &amp; product leaders- how do you turn developer love into an enterprise-scale OSS business? Our very own Dominik Tomicevic will be speaking on M...](https://twitter.com/memgraphdb/status/1651921011271507968)
+- [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1651908370293506048)
 - [🌐 Join our new course on &quot;Intro to Graph Analytics in Python&quot; and unlock the world of network analysis! Learn with @supe_katarina how to use #Netwo...](https://twitter.com/memgraphdb/status/1651890248354353154)
 - [🌐 Graph databases make IAM systems more efficient by enabling fast lookups and dynamic graph algorithms. Say goodbye to traditional IAM struggles! ...](https://twitter.com/memgraphdb/status/1651884459015241728)
 - [🔥 Calling all #developers with a passion for #GraphDatabases! Jump in and join our thriving community at @github! 🌟 [https://github.com/memgraph...](https://twitter.com/memgraphdb/status/1651857280130854912)
-- [🔍 Discover the power of graph analytics in Python with our new course! Explore network analysis tools, learn popular graph algorithms, and dive int...](https://twitter.com/memgraphdb/status/1651833878481448960)
-- [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1651823305744154627)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
