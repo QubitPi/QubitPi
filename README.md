@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💰 Stay ahead of your competition by leveraging graph databases for your knowledge graphs. Learn the 4 reasons why Graph Tech is a game-changer. #kn...](https://twitter.com/memgraphdb/status/1651996702465830943)
+- [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1651982606886469645)
+- [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1651978832591593473)
 - [🚀 Discover the top 15 new #databases in the latest video by @fireship_dev, featuring #Memgraph! Explore this cutting-edge #graphdatabase and its im...](https://twitter.com/memgraphdb/status/1651956182502842368)
 - [💼 Dive into data lineage use cases with our #Memgraph Webinar and see how @get_manta Flow leverages graph databases for fast, efficient data proces...](https://twitter.com/memgraphdb/status/1651937814097846272)
-- [Founders &amp; product leaders- how do you turn developer love into an enterprise-scale OSS business? Our very own Dominik Tomicevic will be speaking on M...](https://twitter.com/memgraphdb/status/1651921011271507968)
-- [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1651908370293506048)
-- [🌐 Join our new course on &quot;Intro to Graph Analytics in Python&quot; and unlock the world of network analysis! Learn with @supe_katarina how to use #Netwo...](https://twitter.com/memgraphdb/status/1651890248354353154)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
