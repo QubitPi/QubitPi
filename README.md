@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Stability AI releases StableVicuna: the world&#39;s first open source chatbot trained via RLHF](https://www.reddit.com/r/MachineLearning/comments/1326riw/n_stability_ai_releases_stablevicuna_the_worlds/)
 - [[D] overcoming data sparsity issues](https://www.reddit.com/r/MachineLearning/comments/132665d/d_overcoming_data_sparsity_issues/)
 - [[N] LAION publishes an open letter to &quot;protect open-source AI in Europe&quot; with Schmidhuber and Hochreiter as signatories](https://www.reddit.com/r/MachineLearning/comments/1323w68/n_laion_publishes_an_open_letter_to_protect/)
 - [[P] Lamini rapidly achieves ChatGPT performance with an LLM Engine](https://www.reddit.com/r/MachineLearning/comments/1320hyh/p_lamini_rapidly_achieves_chatgpt_performance/)
 - [[P] We built an app that allows you to easily talk to your LLMs &lpar;or anything else&rpar;](https://www.reddit.com/r/MachineLearning/comments/131z2k9/p_we_built_an_app_that_allows_you_to_easily_talk/)
-- [[D] Generalization of ml models interfaces and their workflow](https://www.reddit.com/r/MachineLearning/comments/131qict/d_generalization_of_ml_models_interfaces_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
