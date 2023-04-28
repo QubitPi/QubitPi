@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Large-scale statistical forecasting models reassess the unpredictability of chaotic systems](https://www.reddit.com/r/MachineLearning/comments/131ctc1/r_largescale_statistical_forecasting_models/)
 - [ML model Ideas [P]](https://www.reddit.com/r/MachineLearning/comments/131avkr/ml_model_ideas_p/)
 - [[D]Any suggestions on my &#39;blog&#39; that tries to explain neural network for a multiple-label classification clear!](https://www.reddit.com/r/MachineLearning/comments/1319epa/dany_suggestions_on_my_blog_that_tries_to_explain/)
 - [[D] Online for CV?](https://www.reddit.com/r/MachineLearning/comments/131921y/d_online_for_cv/)
 - [[D] Scaling Transformer to 1M tokens and beyond with RMT &lpar;Paper Explained&rpar;](https://www.reddit.com/r/MachineLearning/comments/1318q7b/d_scaling_transformer_to_1m_tokens_and_beyond/)
-- [[D] Read &quot;Designing ML System&quot; book together](https://www.reddit.com/r/MachineLearning/comments/1318ezb/d_read_designing_ml_system_book_together/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
