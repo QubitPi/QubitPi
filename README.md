@@ -169,7 +169,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/)
 
-[Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/)
+[Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/) | [RxJS](https://qubitpi.github.io/rxjs/)
 
 [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/) | [JavaScript Tutorial](https://javascript.info/)
 
