@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] AI music generation Code](https://www.reddit.com/r/MachineLearning/comments/131kq5a/d_ai_music_generation_code/)
 - [[P] Deep Floyd IF Text-to-Image Model Release](https://www.reddit.com/r/MachineLearning/comments/131iu5f/p_deep_floyd_if_texttoimage_model_release/)
 - [[D] AI/ML Training sites](https://www.reddit.com/r/MachineLearning/comments/131gg8g/d_aiml_training_sites/)
 - [[D] KDD 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/131fzgr/d_kdd_2023_paper_reviews/)
 - [[P] Graphit: A Unified Framework for Diverse Image Editing Tasks](https://www.reddit.com/r/MachineLearning/comments/131efpn/p_graphit_a_unified_framework_for_diverse_image/)
-- [[D] Language models on a multi-purpose desktop PC?](https://www.reddit.com/r/MachineLearning/comments/131dekc/d_language_models_on_a_multipurpose_desktop_pc/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
