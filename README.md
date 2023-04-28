@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Graphit: A Unified Framework for Diverse Image Editing Tasks](https://www.reddit.com/r/MachineLearning/comments/131efpn/p_graphit_a_unified_framework_for_diverse_image/)
 - [[D] Language models on a multi-purpose desktop PC?](https://www.reddit.com/r/MachineLearning/comments/131dekc/d_language_models_on_a_multipurpose_desktop_pc/)
 - [[R] Large-scale statistical forecasting models reassess the unpredictability of chaotic systems](https://www.reddit.com/r/MachineLearning/comments/131cues/r_largescale_statistical_forecasting_models/)
 - [ML model Ideas [P]](https://www.reddit.com/r/MachineLearning/comments/131avkr/ml_model_ideas_p/)
 - [[D]Any suggestions on my &#39;blog&#39; that tries to explain neural network for a multiple-label classification clear!](https://www.reddit.com/r/MachineLearning/comments/1319epa/dany_suggestions_on_my_blog_that_tries_to_explain/)
-- [[D] Online for CV?](https://www.reddit.com/r/MachineLearning/comments/131921y/d_online_for_cv/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
