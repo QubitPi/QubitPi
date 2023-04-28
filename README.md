@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789177048023171072><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/610206bd491cbb8c94abc28d39e82c33401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789500953025839123><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/da691bdfc0ed83effb9d7dde5b5f8c59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #卡维# #忱挚织穹# 《原神》角色演示-「卡维：忱挚织穹」现已发布~ https://www.bilibili.com/video/BV1MT411H7ia 绘制图纸、拟造模型、完善方...](https://t.bilibili.com/789500953025839123)
