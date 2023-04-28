@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] Share Your Insights in our Survey on Current Practices in Graph-based Causal Modeling! &lpar;Audience: Practitioners of causal diagrams/causal models&rpar;](https://www.reddit.com/r/MachineLearning/comments/131lixg/research_share_your_insights_in_our_survey_on/)
 - [[D] INTERSPEECH 2023 paper review.](https://www.reddit.com/r/MachineLearning/comments/131l17x/d_interspeech_2023_paper_review/)
 - [[D] AI music generation Code](https://www.reddit.com/r/MachineLearning/comments/131kq5a/d_ai_music_generation_code/)
 - [[P] Deep Floyd IF Text-to-Image Model Release](https://www.reddit.com/r/MachineLearning/comments/131iu5f/p_deep_floyd_if_texttoimage_model_release/)
 - [[D] AI/ML Training sites](https://www.reddit.com/r/MachineLearning/comments/131gg8g/d_aiml_training_sites/)
-- [[D] KDD 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/131fzgr/d_kdd_2023_paper_reviews/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
