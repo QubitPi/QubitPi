@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Discover the top 15 new #databases in the latest video by @fireship_dev, featuring #Memgraph! Explore this cutting-edge #graphdatabase and its im...](https://twitter.com/memgraphdb/status/1651956182502842368)
-- [💼 Dive into data lineage use cases with our #Memgraph Webinar and see how @get_manta Flow leverages graph databases for fast, efficient data proces...](https://twitter.com/memgraphdb/status/1651937814097846272)
 - [Founders &amp; product leaders- how do you turn developer love into an enterprise-scale OSS business? Our very own Dominik Tomicevic will be speaking on M...](https://twitter.com/memgraphdb/status/1651921011271507968)
 - [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1651908370293506048)
 - [🌐 Join our new course on &quot;Intro to Graph Analytics in Python&quot; and unlock the world of network analysis! Learn with @supe_katarina how to use #Netwo...](https://twitter.com/memgraphdb/status/1651890248354353154)
+- [🌐 Graph databases make IAM systems more efficient by enabling fast lookups and dynamic graph algorithms. Say goodbye to traditional IAM struggles! ...](https://twitter.com/memgraphdb/status/1651884459015241728)
+- [🔥 Calling all #developers with a passion for #GraphDatabases! Jump in and join our thriving community at @github! 🌟 [https://github.com/memgraph...](https://twitter.com/memgraphdb/status/1651857280130854912)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
