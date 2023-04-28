@@ -289,7 +289,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] ACL 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/131fy52/d_acl_2023_paper_reviews/)
+- [[D] KDD 2023 paper reviews.](https://www.reddit.com/r/MachineLearning/comments/131fzgr/d_kdd_2023_paper_reviews/)
 - [[P] Graphit: A Unified Framework for Diverse Image Editing Tasks](https://www.reddit.com/r/MachineLearning/comments/131efpn/p_graphit_a_unified_framework_for_diverse_image/)
 - [[D] Language models on a multi-purpose desktop PC?](https://www.reddit.com/r/MachineLearning/comments/131dekc/d_language_models_on_a_multipurpose_desktop_pc/)
 - [[R] Large-scale statistical forecasting models reassess the unpredictability of chaotic systems](https://www.reddit.com/r/MachineLearning/comments/131cues/r_largescale_statistical_forecasting_models/)
