@@ -238,11 +238,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/789177048023171072><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/610206bd491cbb8c94abc28d39e82c33401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #卡维# #忱挚织穹# 《原神》角色演示-「卡维：忱挚织穹」现已发布~ https://www.bilibili.com/video/BV1MT411H7ia 绘制图纸、拟造模型、完善方...](https://t.bilibili.com/789500953025839123)
+- [旅行者们好呀！今天为大家介绍的角色是卡维，一起来看看吧~](https://t.bilibili.com/789486367316901892)
+- [体悟、仁爱与识美之知](https://t.bilibili.com/789485087414550613)
+- [《原神》角色演示-「卡维：忱挚织穹」](https://t.bilibili.com/789483846173196293)
 - [#原神# #盛典与慧业# 旅行者们好呀，须弥教令院举办的「学院庆典」今日已开启！来看看接下来还有哪些活动吧~](https://t.bilibili.com/789177048023171072)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/789175759578071059)
-- [#原神# #甘雨# #浮生孰来# 亲爱的旅行者，「浮生孰来」活动祈愿即将开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/789174982142853169)
-- [#原神# #白术# #心珠循琅# 亲爱的旅行者，「心珠循琅」活动祈愿即将开启，「遵生合和·白术&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/789174466748874791)
-- [#原神# #原神通路计划视频征集活动# #原神UP主激励计划# 《原神》「通路计划」挑战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 4月27日——5...](https://t.bilibili.com/789115681575534596)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
