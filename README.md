@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Count People in Video](https://www.reddit.com/r/MachineLearning/comments/132ca18/p_count_people_in_video/)
-- [[D] Model performing well on test set but not on real world data](https://www.reddit.com/r/MachineLearning/comments/132aqpr/d_model_performing_well_on_test_set_but_not_on/)
 - [[P] WebsiteGPT - StyleAI](https://www.reddit.com/r/MachineLearning/comments/132a9o8/p_websitegpt_styleai/)
-- [[R] Machine learning reading group for everyone](https://www.reddit.com/r/MachineLearning/comments/1329b3m/r_machine_learning_reading_group_for_everyone/)
 - [[P] pyxet: a Python library for ML teams to work with data like S3, while having the memory of Git.](https://www.reddit.com/r/MachineLearning/comments/1328kzd/p_pyxet_a_python_library_for_ml_teams_to_work/)
+- [[N] Stability AI releases StableVicuna: the world&#39;s first open source chatbot trained via RLHF](https://www.reddit.com/r/MachineLearning/comments/1326riw/n_stability_ai_releases_stablevicuna_the_worlds/)
+- [[N] LAION publishes an open letter to &quot;protect open-source AI in Europe&quot; with Schmidhuber and Hochreiter as signatories](https://www.reddit.com/r/MachineLearning/comments/1323w68/n_laion_publishes_an_open_letter_to_protect/)
+- [[P] Lamini rapidly achieves ChatGPT performance with an LLM Engine](https://www.reddit.com/r/MachineLearning/comments/1320hyh/p_lamini_rapidly_achieves_chatgpt_performance/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
