@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] SkinDeep 2.0 : SkinDeep Tattoo removal project now powered by ControlNet. GitHub Link in comments/Images.](https://www.reddit.com/r/MachineLearning/comments/1336jjq/p_skindeep_20_skindeep_tattoo_removal_project_now/)
 - [[P] I generated lofi piano music using an LSTM &lpar;code coming soon&rpar;](https://www.reddit.com/r/MachineLearning/comments/1336eol/p_i_generated_lofi_piano_music_using_an_lstm_code/)
 - [[D] Audio Related ML Project ?](https://www.reddit.com/r/MachineLearning/comments/1335z8p/d_audio_related_ml_project/)
 - [AI Developer Day at Stanford Research Institute, in-person and online [N]](https://www.reddit.com/r/MachineLearning/comments/13357f5/ai_developer_day_at_stanford_research_institute/)
 - [[P] When using LDA topics as input for predictions, is it normal to get exact same topics for both train and test data?](https://www.reddit.com/r/MachineLearning/comments/13347a6/p_when_using_lda_topics_as_input_for_predictions/)
-- [[D] AI Unravels Black Hole Secrets You Won&#39;t Believe What We Found Out!](https://www.reddit.com/r/MachineLearning/comments/1333v6l/d_ai_unravels_black_hole_secrets_you_wont_believe/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
