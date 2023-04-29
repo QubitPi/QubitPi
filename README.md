@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Can someone identify this regression algorithm?](https://www.reddit.com/r/MachineLearning/comments/1338rbi/d_can_someone_identify_this_regression_algorithm/)
 - [[R] Let Language Models be Language Models](https://www.reddit.com/r/MachineLearning/comments/1338ju1/r_let_language_models_be_language_models/)
 - [[D] A model to extract relevant information from a Sample Ballot.](https://www.reddit.com/r/MachineLearning/comments/1337ugt/d_a_model_to_extract_relevant_information_from_a/)
 - [[P] I generated lofi piano music using an LSTM &lpar;code coming soon&rpar;](https://www.reddit.com/r/MachineLearning/comments/1336eol/p_i_generated_lofi_piano_music_using_an_lstm_code/)
 - [[D] Audio Related ML Project ?](https://www.reddit.com/r/MachineLearning/comments/1335z8p/d_audio_related_ml_project/)
-- [AI Developer Day at Stanford Research Institute, in-person and online [N]](https://www.reddit.com/r/MachineLearning/comments/13357f5/ai_developer_day_at_stanford_research_institute/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
