@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I made a text to video generator with all the latest models — check out the Vatic app!](https://www.reddit.com/r/MachineLearning/comments/132yp29/p_i_made_a_text_to_video_generator_with_all_the/)
 - [[R] Video of experiments from DeepMind&#39;s recent “Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning” &lpar;OP3 Soccer&rpar; project](https://www.reddit.com/r/MachineLearning/comments/132w40c/r_video_of_experiments_from_deepminds_recent/)
 - [[D] ACL 2023 Discussion Thread](https://www.reddit.com/r/MachineLearning/comments/132vwai/d_acl_2023_discussion_thread/)
 - [[D] Jigsaw Puzzle Solver?](https://www.reddit.com/r/MachineLearning/comments/132vlnj/d_jigsaw_puzzle_solver/)
 - [[D] Right way to report grid search results?](https://www.reddit.com/r/MachineLearning/comments/132rb3y/d_right_way_to_report_grid_search_results/)
-- [[Discussion] Xtest and Xtrain plotting in same graph](https://www.reddit.com/r/MachineLearning/comments/132qvmn/discussion_xtest_and_xtrain_plotting_in_same_graph/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
