@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Xtest and Xtrain plotting in same graph](https://www.reddit.com/r/MachineLearning/comments/132qvmn/discussion_xtest_and_xtrain_plotting_in_same_graph/)
 - [[D] fine-tuning Llama model for summarization](https://www.reddit.com/r/MachineLearning/comments/132qh4g/d_finetuning_llama_model_for_summarization/)
 - [[Discussion] First Corporate Job as Data/ML Lead in Insurance Company After Physics PhD and Postdoc](https://www.reddit.com/r/MachineLearning/comments/132qbc7/discussion_first_corporate_job_as_dataml_lead_in/)
 - [[P] WangChanGLM 🐘 — The Multilingual Instruction-Following Model](https://www.reddit.com/r/MachineLearning/comments/132pu1i/p_wangchanglm_the_multilingual/)
 - [[D] Model Training Approaches That Aren&#39;t So Latency Sensitive](https://www.reddit.com/r/MachineLearning/comments/132oyyv/d_model_training_approaches_that_arent_so_latency/)
-- [[R] Animated Video for our ICLR 2023 Paper &quot;ISAAC Newton: Input-based Approximate Curvature for Newton&#39;s Method&quot;](https://www.reddit.com/r/MachineLearning/comments/132opdr/r_animated_video_for_our_iclr_2023_paper_isaac/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
