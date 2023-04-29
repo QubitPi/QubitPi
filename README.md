@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Join Tomaz Bratanic as he shows you how to create a next-level chatbot that uses information from a graph database to provide answers. 👇 https://ok...](https://twitter.com/neo4j/status/1652365146759524353)
 - [Let&#39;s remember #NODES2022&#39;s keynote with @NAChristakis 💡 A deep understanding of social networks can be used to create an artificial tipping point,...](https://twitter.com/neo4j/status/1651994856321953800)
 - [Discover Neo4j in the BigQuery Partner Center from @googlecloud ----&gt; Take a look: https://okt.to/NHb1kz #Neo4j #Cloud #BigQuery https://t.co/CMQuOrq7...](https://twitter.com/neo4j/status/1651919304932114433)
 - [Jump right into the action! 🚀 The Asia Pacific&#39;s #Graphworkhops are designed to provide participants with hands-on experience in building a fraud d...](https://twitter.com/neo4j/status/1651781307481878528)
 - [Learn to analyze Twitter data like a pro using Neo4j Graph Database and Python! https://okt.to/4gD1hw #Python #Neo4j #Twitter #GraphDatabase https://t...](https://twitter.com/neo4j/status/1651662581096914969)
-- [It&#39;s Nathan&#39;s turn to tell us what&#39;s his favorite problem he&#39;s ever solved with graph data science! This challenge changed his career! Wow! Learn more...](https://twitter.com/neo4j/status/1651617360527126537)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
