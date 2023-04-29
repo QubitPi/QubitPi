@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Animated Video for our ICLR 2023 Paper &quot;ISAAC Newton: Input-based Approximate Curvature for Newton&#39;s Method&quot;](https://www.reddit.com/r/MachineLearning/comments/132opdr/r_animated_video_for_our_iclr_2023_paper_isaac/)
 - [Prompting Stable Diffusion to depict the models internal workings. How much can a model know about itself how much is hallucination and trying to fulfill requests with limited data? [D]](https://www.reddit.com/r/MachineLearning/comments/132o3b7/prompting_stable_diffusion_to_depict_the_models/)
 - [[P] GPT + Machine Learning program, to generate product descriptions from photo - free to access](https://www.reddit.com/r/MachineLearning/comments/132nr0x/p_gpt_machine_learning_program_to_generate/)
 - [[P] Youtube To Blog Generator using AI](https://www.reddit.com/r/MachineLearning/comments/132mgk1/p_youtube_to_blog_generator_using_ai/)
 - [[Project] MLC LLM](https://www.reddit.com/r/MachineLearning/comments/132ifq1/project_mlc_llm/)
-- [[P] WebsiteGPT - StyleAI](https://www.reddit.com/r/MachineLearning/comments/132a9o8/p_websitegpt_styleai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
