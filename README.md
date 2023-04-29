@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1652338453726523392)
-- [🔍 Explore #Memgraph with @AshleighNFaith&#39;s in-depth review! Perfect for real-time streaming use cases like IoT, social network analysis, and fraud ...](https://twitter.com/memgraphdb/status/1652318570078978049)
 - [❗️A challenge all data lineage projects face is figuring out the best way to get lineage information in a database and keep it up to date. https://m...](https://twitter.com/memgraphdb/status/1652308758742048771)
 - [🚀 Unleash the power of real-time graph analytics in our #Memgraph Webinar! Learn when to use graph analytics, graph databases, and how to analyze y...](https://twitter.com/memgraphdb/status/1652270757513240576)
 - [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1652252636392099840)
+- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1652245338193895425)
+- [💡 Dive into the world of new databases with this @fireship_dev video, including #Memgraph! Learn how these innovative technologies are revolutioniz...](https://twitter.com/memgraphdb/status/1652234769852256256)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
