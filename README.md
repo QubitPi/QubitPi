@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Audio Related ML Project ?](https://www.reddit.com/r/MachineLearning/comments/1335z8p/d_audio_related_ml_project/)
 - [AI Developer Day at Stanford Research Institute, in-person and online [N]](https://www.reddit.com/r/MachineLearning/comments/13357f5/ai_developer_day_at_stanford_research_institute/)
 - [[P] When using LDA topics as input for predictions, is it normal to get exact same topics for both train and test data?](https://www.reddit.com/r/MachineLearning/comments/13347a6/p_when_using_lda_topics_as_input_for_predictions/)
 - [[D] AI Unravels Black Hole Secrets You Won&#39;t Believe What We Found Out!](https://www.reddit.com/r/MachineLearning/comments/1333v6l/d_ai_unravels_black_hole_secrets_you_wont_believe/)
 - [[P] I built a Chatbot to talk with any Github Repo. 🪄](https://www.reddit.com/r/MachineLearning/comments/1332iaq/p_i_built_a_chatbot_to_talk_with_any_github_repo/)
-- [I made an unhinged weather app with OpenAI and SpotWx. [P]](https://www.reddit.com/r/MachineLearning/comments/133249l/i_made_an_unhinged_weather_app_with_openai_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
