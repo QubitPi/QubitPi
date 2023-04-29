@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] tinyshap: A minimal implementation of the SHAP algorithm](https://www.reddit.com/r/MachineLearning/comments/1331yfi/p_tinyshap_a_minimal_implementation_of_the_shap/)
 - [[P] High Dimensional Data Visualization with OpenAI CLIP, T-SNE, UMAP &amp; Plotly](https://www.reddit.com/r/MachineLearning/comments/1331tsz/p_high_dimensional_data_visualization_with_openai/)
 - [[News] This language model surpasses ChatGPT on some prompts](https://www.reddit.com/r/MachineLearning/comments/1330wqj/news_this_language_model_surpasses_chatgpt_on/)
 - [[D] &quot;Knowledge&quot; vs &quot;Reasoning&quot; in LLMs](https://www.reddit.com/r/MachineLearning/comments/1330rbb/d_knowledge_vs_reasoning_in_llms/)
 - [[R] I made an Awesome Papers for Fine-Grained Image Classification including papers from 2011 to 2023 &lpar;close to 200 papers&rpar; with a 1 or 2 sentences summary of contributions for each paper, 1 slide summary of each paper, and slide summaries per years along with a Github Pages for the slides!](https://www.reddit.com/r/MachineLearning/comments/1330blx/r_i_made_an_awesome_papers_for_finegrained_image/)
-- [[P] I made a text to video generator with all the latest models — check out the Vatic app!](https://www.reddit.com/r/MachineLearning/comments/132yp29/p_i_made_a_text_to_video_generator_with_all_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
