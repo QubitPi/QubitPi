@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[News] This language model surpasses ChatGPT on some prompts](https://www.reddit.com/r/MachineLearning/comments/1330wqj/news_this_language_model_surpasses_chatgpt_on/)
+- [[D] &quot;Knowledge&quot; vs &quot;Reasoning&quot; in LLMs](https://www.reddit.com/r/MachineLearning/comments/1330rbb/d_knowledge_vs_reasoning_in_llms/)
 - [[R] I made an Awesome Papers for Fine-Grained Image Classification including papers from 2011 to 2023 &lpar;close to 200 papers&rpar; with a 1 or 2 sentences summary of contributions for each paper, 1 slide summary of each paper, and slide summaries per years along with a Github Pages for the slides!](https://www.reddit.com/r/MachineLearning/comments/1330blx/r_i_made_an_awesome_papers_for_finegrained_image/)
 - [[P] I made a text to video generator with all the latest models — check out the Vatic app!](https://www.reddit.com/r/MachineLearning/comments/132yp29/p_i_made_a_text_to_video_generator_with_all_the/)
 - [[R] Video of experiments from DeepMind&#39;s recent “Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning” &lpar;OP3 Soccer&rpar; project](https://www.reddit.com/r/MachineLearning/comments/132w40c/r_video_of_experiments_from_deepminds_recent/)
-- [[D] ACL 2023 Discussion Thread](https://www.reddit.com/r/MachineLearning/comments/132vwai/d_acl_2023_discussion_thread/)
-- [[D] Jigsaw Puzzle Solver?](https://www.reddit.com/r/MachineLearning/comments/132vlnj/d_jigsaw_puzzle_solver/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
