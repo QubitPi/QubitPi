@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Unleash the power of real-time graph analytics in our #Memgraph Webinar! Learn when to use graph analytics, graph databases, and how to analyze y...](https://twitter.com/memgraphdb/status/1652270757513240576)
-- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1652252636392099840)
-- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1652245338193895425)
 - [💡 Dive into the world of new databases with this @fireship_dev video, including #Memgraph! Learn how these innovative technologies are revolutioniz...](https://twitter.com/memgraphdb/status/1652234769852256256)
 - [💡Discover how #Memgraph meets data scientists where they naturally work! 🤓 Check out @AshleighNFaith&#39;s honest review &amp; learn from her experience...](https://twitter.com/memgraphdb/status/1652196263813578752)
+- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1652185694935064577)
+- [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection #memgraph #...](https://twitter.com/memgraphdb/status/1652171100921516037)
+- [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1652020606018240512)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
