@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Jigsaw Puzzle Solver?](https://www.reddit.com/r/MachineLearning/comments/132vlnj/d_jigsaw_puzzle_solver/)
 - [[D] Right way to report grid search results?](https://www.reddit.com/r/MachineLearning/comments/132rb3y/d_right_way_to_report_grid_search_results/)
 - [[Discussion] Xtest and Xtrain plotting in same graph](https://www.reddit.com/r/MachineLearning/comments/132qvmn/discussion_xtest_and_xtrain_plotting_in_same_graph/)
 - [[D] fine-tuning Llama model for summarization](https://www.reddit.com/r/MachineLearning/comments/132qh4g/d_finetuning_llama_model_for_summarization/)
 - [[P] WangChanGLM 🐘 — The Multilingual Instruction-Following Model](https://www.reddit.com/r/MachineLearning/comments/132pu1i/p_wangchanglm_the_multilingual/)
-- [[D] Model Training Approaches That Aren&#39;t So Latency Sensitive](https://www.reddit.com/r/MachineLearning/comments/132oyyv/d_model_training_approaches_that_arent_so_latency/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
