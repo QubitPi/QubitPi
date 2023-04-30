@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] I build an AI powered writing tools, an AI co-author](https://www.reddit.com/r/MachineLearning/comments/133xrtb/project_i_build_an_ai_powered_writing_tools_an_ai/)
 - [[D] Tutorials vs Workshops vs Conference at IEEE conferences](https://www.reddit.com/r/MachineLearning/comments/133wx58/d_tutorials_vs_workshops_vs_conference_at_ieee/)
 - [[D] Personal Knowledge base: search and summarization. Does a good library exist?](https://www.reddit.com/r/MachineLearning/comments/133vh56/d_personal_knowledge_base_search_and/)
 - [[Discussion] Temporal Transformer - Determining probability that forecast crosses specific threshold?](https://www.reddit.com/r/MachineLearning/comments/133us6c/discussion_temporal_transformer_determining/)
 - [[P] Removing empty images](https://www.reddit.com/r/MachineLearning/comments/133umev/p_removing_empty_images/)
-- [[P] Understanding Large Language Models -- a collection of the most relevant papers](https://www.reddit.com/r/MachineLearning/comments/133styi/p_understanding_large_language_models_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
