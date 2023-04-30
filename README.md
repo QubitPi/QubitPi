@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Hyperbolic Deep Reinforcement Learning &lpar;blog post&rpar;](https://www.reddit.com/r/MachineLearning/comments/133t1me/r_hyperbolic_deep_reinforcement_learning_blog_post/)
+- [[P] Understanding Large Language Models -- a collection of the most relevant papers](https://www.reddit.com/r/MachineLearning/comments/133styi/p_understanding_large_language_models_a/)
 - [[D] if you could get your hands on ANY dataset what would it be ?](https://www.reddit.com/r/MachineLearning/comments/133seiy/d_if_you_could_get_your_hands_on_any_dataset_what/)
 - [[Discussion]](https://www.reddit.com/r/MachineLearning/comments/133nql0/discussion/)
 - [[D][P] Adding FlashAttention to any HuggingFace model](https://www.reddit.com/r/MachineLearning/comments/133lok2/dp_adding_flashattention_to_any_huggingface_model/)
-- [[P] Question about looking at the difference in topic distributions between the different outcomes: Should I look at the whole dataset or only the test set if I&#39;m not predicting anything?](https://www.reddit.com/r/MachineLearning/comments/133jpp8/p_question_about_looking_at_the_difference_in/)
-- [[D] Handle large resolutions with vision transformers?](https://www.reddit.com/r/MachineLearning/comments/133idyr/d_handle_large_resolutions_with_vision/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
