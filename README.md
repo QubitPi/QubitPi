@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] DeepSciFi AI generated science fiction themed youtube channel](https://www.reddit.com/r/MachineLearning/comments/13423xx/n_deepscifi_ai_generated_science_fiction_themed/)
 - [[D] Whether large language models are sufficient for artificial general intelligence is unknown, but are large language models necessary for communication?](https://www.reddit.com/r/MachineLearning/comments/1341l4c/d_whether_large_language_models_are_sufficient/)
 - [[D] Intra-token positional embedding for transformer use.](https://www.reddit.com/r/MachineLearning/comments/13404yr/d_intratoken_positional_embedding_for_transformer/)
 - [[R] This month &lpar;+ 2 more weeks&rpar; in LLM/Transformer research &lpar;Timeline&rpar;](https://www.reddit.com/r/MachineLearning/comments/133zvdl/r_this_month_2_more_weeks_in_llmtransformer/)
 - [[P] I converted a column to TF-IDF. Now the column looks like a list of floats but has dtype &#39;o&#39;. When I try to convert it to numeric, it doesn&#39;t work](https://www.reddit.com/r/MachineLearning/comments/133zp9o/p_i_converted_a_column_to_tfidf_now_the_column/)
-- [[P] Ikigai Labs - No Code AI/ML Tool](https://www.reddit.com/r/MachineLearning/comments/133ygoo/p_ikigai_labs_no_code_aiml_tool/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
