@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What are the differences between the major open source voice cloning projects?](https://www.reddit.com/r/MachineLearning/comments/133hanr/d_what_are_the_differences_between_the_major_open/)
 - [[D] What is the simplest model that can be used to train a simple image classifier?](https://www.reddit.com/r/MachineLearning/comments/133h6he/d_what_is_the_simplest_model_that_can_be_used_to/)
 - [I made a Python package to do adaptive learning of functions in parallel [P]](https://www.reddit.com/r/MachineLearning/comments/133ew06/i_made_a_python_package_to_do_adaptive_learning/)
 - [[D] Cal professor explains foundation models](https://www.reddit.com/r/MachineLearning/comments/133ceb4/d_cal_professor_explains_foundation_models/)
 - [[D] - This might be a bad question, but is there any way to analyze the similarities in the features extracted by neural networks without knowing anything about the nature of the input data &lpar;perhaps outside the max and min allowed values&rpar;? Consider a network that pulls text from images vs an LLM](https://www.reddit.com/r/MachineLearning/comments/133bf05/d_this_might_be_a_bad_question_but_is_there_any/)
-- [[D]Transformers Models for Ecommerce Taxonomy](https://www.reddit.com/r/MachineLearning/comments/133b7k0/dtransformers_models_for_ecommerce_taxonomy/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
