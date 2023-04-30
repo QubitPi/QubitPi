@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1652745382516912128)
 - [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1652721474690588674)
 - [👩‍💻 Dive into the world of graph analytics with our new course by @supe_katarina! Explore NetworkX, Memgraph, and popular algorithms, and learn...](https://twitter.com/memgraphdb/status/1652707383146078215)
 - [In our pursuit of creating the go-to platform for graph development, we researched existing graph visualization libraries since our old Memgraph Lab i...](https://twitter.com/memgraphdb/status/1652700840577101824)
 - [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1652661078214541317)
-- [In our pursuit to create the go-to interactive graph development environment, we made the difficult decision to create our own library - Orb. https://...](https://twitter.com/memgraphdb/status/1652653277421490179)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
