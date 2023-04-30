@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] This month &lpar;+ 2 more weeks&rpar; in LLM/Transformer research &lpar;Timeline&rpar;](https://www.reddit.com/r/MachineLearning/comments/133zvdl/r_this_month_2_more_weeks_in_llmtransformer/)
+- [[P] I converted a column to TF-IDF. Now the column looks like a list of floats but has dtype &#39;o&#39;. When I try to convert it to numeric, it doesn&#39;t work](https://www.reddit.com/r/MachineLearning/comments/133zp9o/p_i_converted_a_column_to_tfidf_now_the_column/)
 - [[P] Ikigai Labs - No Code AI/ML Tool](https://www.reddit.com/r/MachineLearning/comments/133ygoo/p_ikigai_labs_no_code_aiml_tool/)
 - [[Project] I build an AI powered writing tools, an AI co-author](https://www.reddit.com/r/MachineLearning/comments/133xrtb/project_i_build_an_ai_powered_writing_tools_an_ai/)
 - [[D] Tutorials vs Workshops vs Conference at IEEE conferences](https://www.reddit.com/r/MachineLearning/comments/133wx58/d_tutorials_vs_workshops_vs_conference_at_ieee/)
-- [[D] Personal Knowledge base: search and summarization. Does a good library exist?](https://www.reddit.com/r/MachineLearning/comments/133vh56/d_personal_knowledge_base_search_and/)
-- [[Discussion] Temporal Transformer - Determining probability that forecast crosses specific threshold?](https://www.reddit.com/r/MachineLearning/comments/133us6c/discussion_temporal_transformer_determining/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
