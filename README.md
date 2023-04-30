@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Temporal Transformer - Determining probability that forecast crosses specific threshold?](https://www.reddit.com/r/MachineLearning/comments/133us6c/discussion_temporal_transformer_determining/)
 - [[P] Removing empty images](https://www.reddit.com/r/MachineLearning/comments/133umev/p_removing_empty_images/)
 - [[D] Problem with clustering on binary dataset](https://www.reddit.com/r/MachineLearning/comments/133tfyv/d_problem_with_clustering_on_binary_dataset/)
 - [[P] Understanding Large Language Models -- a collection of the most relevant papers](https://www.reddit.com/r/MachineLearning/comments/133styi/p_understanding_large_language_models_a/)
 - [[D] if you could get your hands on ANY dataset what would it be ?](https://www.reddit.com/r/MachineLearning/comments/133seiy/d_if_you_could_get_your_hands_on_any_dataset_what/)
-- [[Discussion]](https://www.reddit.com/r/MachineLearning/comments/133nql0/discussion/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
