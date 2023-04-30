@@ -238,7 +238,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/790251489927888897><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4bfa13d9e3fb88ed08439c3d56b37b30401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [互动抽奖 #原神# #迪卢克# #生日快乐# 刚刚看它突然飞走，还以为是发现了隐藏的敌人，原来是你。 看来这家伙很喜欢你，还请你不要介意它衔走你准备的礼物，多谢...](https://t.bilibili.com/790225999296987139)
+- [互动抽奖 #原神# #迪卢克# #生日快乐# 刚刚看它突然飞走，还以为是发现了隐藏的敌人，原来是你。 看来这家伙很喜欢你，还请你不要介意它衔走你准备的礼物，多谢...](https://t.bilibili.com/790251489927888897)
 - [互动抽奖 #原神# #卡维# #忱挚织穹# 《原神》角色演示-「卡维：忱挚织穹」现已发布~ https://www.bilibili.com/video/BV1MT411H7ia 绘制图纸、拟造模型、完善方...](https://t.bilibili.com/789500953025839123)
 - [旅行者们好呀！今天为大家介绍的角色是卡维，一起来看看吧~](https://t.bilibili.com/789486367316901892)
 - [体悟、仁爱与识美之知](https://t.bilibili.com/789485087414550613)
