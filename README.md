@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Cal professor explains foundation models](https://www.reddit.com/r/MachineLearning/comments/133ceb4/d_cal_professor_explains_foundation_models/)
 - [[D] - This might be a bad question, but is there any way to analyze the similarities in the features extracted by neural networks without knowing anything about the nature of the input data &lpar;perhaps outside the max and min allowed values&rpar;? Consider a network that pulls text from images vs an LLM](https://www.reddit.com/r/MachineLearning/comments/133bf05/d_this_might_be_a_bad_question_but_is_there_any/)
 - [[D]Transformers Models for Ecommerce Taxonomy](https://www.reddit.com/r/MachineLearning/comments/133b7k0/dtransformers_models_for_ecommerce_taxonomy/)
 - [[P] Please give ML/DL project ideas](https://www.reddit.com/r/MachineLearning/comments/133ax8p/p_please_give_mldl_project_ideas/)
 - [[D] Creator of Vicuna explains foundation models](https://www.reddit.com/r/MachineLearning/comments/133asn2/d_creator_of_vicuna_explains_foundation_models/)
-- [[D] Can someone identify this regression algorithm?](https://www.reddit.com/r/MachineLearning/comments/1338rbi/d_can_someone_identify_this_regression_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
