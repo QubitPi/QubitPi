@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Question about looking at the difference in topic distributions between the different outcomes: Should I look at the whole dataset or only the test set if I&#39;m not predicting anything?](https://www.reddit.com/r/MachineLearning/comments/133jpp8/p_question_about_looking_at_the_difference_in/)
 - [[D] Handle large resolutions with vision transformers?](https://www.reddit.com/r/MachineLearning/comments/133idyr/d_handle_large_resolutions_with_vision/)
 - [[D] What are the differences between the major open source voice cloning projects?](https://www.reddit.com/r/MachineLearning/comments/133hanr/d_what_are_the_differences_between_the_major_open/)
 - [[D] What is the simplest model that can be used to train a simple image classifier?](https://www.reddit.com/r/MachineLearning/comments/133h6he/d_what_is_the_simplest_model_that_can_be_used_to/)
 - [I made a Python package to do adaptive learning of functions in parallel [P]](https://www.reddit.com/r/MachineLearning/comments/133ew06/i_made_a_python_package_to_do_adaptive_learning/)
-- [[D] Cal professor explains foundation models](https://www.reddit.com/r/MachineLearning/comments/133ceb4/d_cal_professor_explains_foundation_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
