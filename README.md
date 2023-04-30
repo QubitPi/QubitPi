@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1652632387002552325)
 - [🧠 Explore PyKEEN, the #Python library for building and evaluating knowledge graphs and embedding models. Featuring hyperparameter optimization and ...](https://twitter.com/memgraphdb/status/1652609235560157186)
 - [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1652597156547624964)
 - [💻 Master Memgraph and Python with our course by @supe_katarina! Connect to Memgraph using GQLAlchemy, and analyze movie data with ease 🍿🔍 #me...](https://twitter.com/memgraphdb/status/1652572747556438019)
 - [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1652548083748667395)
+- [🔧 Learn the secrets of real-time graph analytics with Katarina Supe &lpar;@supe_katarina&rpar; in our #Memgraph Webinar! Dive into use cases and explore new ...](https://twitter.com/memgraphdb/status/1652548083480182785)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
