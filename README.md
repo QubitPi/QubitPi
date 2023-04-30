@@ -289,7 +289,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Hyperbolic Deep Reinforcement Learning &lpar;blog post&rpar;](https://www.reddit.com/r/MachineLearning/comments/133t1me/r_hyperbolic_deep_reinforcement_learning_blog_post/)
+- [[D] Problem with clustering on binary dataset](https://www.reddit.com/r/MachineLearning/comments/133tfyv/d_problem_with_clustering_on_binary_dataset/)
 - [[P] Understanding Large Language Models -- a collection of the most relevant papers](https://www.reddit.com/r/MachineLearning/comments/133styi/p_understanding_large_language_models_a/)
 - [[D] if you could get your hands on ANY dataset what would it be ?](https://www.reddit.com/r/MachineLearning/comments/133seiy/d_if_you_could_get_your_hands_on_any_dataset_what/)
 - [[Discussion]](https://www.reddit.com/r/MachineLearning/comments/133nql0/discussion/)
