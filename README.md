@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💻 Master Memgraph and Python with our course by @supe_katarina! Connect to Memgraph using GQLAlchemy, and analyze movie data with ease 🍿🔍 #me...](https://twitter.com/memgraphdb/status/1652572747556438019)
+- [✅ There are a couple of steps to follow to move off of your antiquated IAM system and make it more effective. Here is a to-do list to make it a smoot...](https://twitter.com/memgraphdb/status/1652548083748667395)
+- [🔧 Learn the secrets of real-time graph analytics with Katarina Supe &lpar;@supe_katarina&rpar; in our #Memgraph Webinar! Dive into use cases and explore new ...](https://twitter.com/memgraphdb/status/1652548083480182785)
 - [🔄 Turn your batch data into streaming data with Kafka, Redpanda &amp; Pulsar! Optimize your data processing strategy for real-time insights. #DataStrea...](https://twitter.com/memgraphdb/status/1652525432774729730)
 - [🚀 Memgraph delivers results up to 120 times faster than Neo4j while consuming one-quarter of the memory! Read more about the performance comparison...](https://twitter.com/memgraphdb/status/1652378718944337922)
-- [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1652361102926270468)
-- [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1652342446464937984)
-- [🌐 Many graph use cases rely on finding the shortest path between nodes. How can you find all weighted shortest paths between nodes and do It fast? ...](https://twitter.com/memgraphdb/status/1652338453726523392)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
