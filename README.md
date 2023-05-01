@@ -290,10 +290,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] The Little Book of Deep Learning](https://www.reddit.com/r/MachineLearning/comments/134d8w7/d_the_little_book_of_deep_learning/)
-- [[D] Overview of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/134bwj6/d_overview_of_machine_learning/)
-- [[P] I found the simplest tool to run ML pipelines on Kubernetes. Github link in comments.](https://www.reddit.com/r/MachineLearning/comments/134bcar/p_i_found_the_simplest_tool_to_run_ml_pipelines/)
-- [[D] Preprocessing On Train &amp; Validation Dataset](https://www.reddit.com/r/MachineLearning/comments/134b7bs/d_preprocessing_on_train_validation_dataset/)
-- [[D] Good resources and tools to learn stance detection?](https://www.reddit.com/r/MachineLearning/comments/134b5m6/d_good_resources_and_tools_to_learn_stance/)
+- [[D] Open-source text-to-speech models and systems are underwhelming. What is needed to make something closer in quality to ElevenLabs?](https://www.reddit.com/r/MachineLearning/comments/1347ntg/d_opensource_texttospeech_models_and_systems_are/)
+- [[D] A quest for very long sequence length](https://www.reddit.com/r/MachineLearning/comments/1347f5m/d_a_quest_for_very_long_sequence_length/)
+- [[D] Explaining LLMs + their impact to family members](https://www.reddit.com/r/MachineLearning/comments/1345vqq/d_explaining_llms_their_impact_to_family_members/)
+- [[D] A Unifying Framework For Memory and Abstraction. The Tolman-Eichenbaum Machine](https://www.reddit.com/r/MachineLearning/comments/1343gbh/d_a_unifying_framework_for_memory_and_abstraction/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
