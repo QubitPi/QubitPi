@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Question on the Coefficients of linear combination of matrices](https://www.reddit.com/r/MachineLearning/comments/134n0zj/discussion_question_on_the_coefficients_of_linear/)
 - [[Discussion] 13 Open Source ChatGPT Alternatives](https://www.reddit.com/r/MachineLearning/comments/134kstc/discussion_13_open_source_chatgpt_alternatives/)
 - [[N] ‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead](https://www.reddit.com/r/MachineLearning/comments/134j8lm/n_the_godfather_of_ai_leaves_google_and_warns_of/)
 - [[D] Custom &quot;language&quot; token embeddings that preserve the actual token](https://www.reddit.com/r/MachineLearning/comments/134ivz0/d_custom_language_token_embeddings_that_preserve/)
 - [[R] IMAE ICLR2023 RTML: loss function understanding and design for the purpose of robust and reliable ML](https://www.reddit.com/r/MachineLearning/comments/134ivka/r_imae_iclr2023_rtml_loss_function_understanding/)
-- [[D] Multi modal for visual qna based on a given image. Need suggestions.](https://www.reddit.com/r/MachineLearning/comments/134hkzn/d_multi_modal_for_visual_qna_based_on_a_given/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
