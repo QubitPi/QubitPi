@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Learn why graph databases offer a perfect choice in cybersecurity use cases and why they make your business more secure. https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1652959544354435072)
+- [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1652942180879589376)
 - [🎓 Learn how you can easily analyze data inside Memgraph for cybersecurity use cases, since most of the use cases from that area have a network-like...](https://twitter.com/memgraphdb/status/1652921042577375234)
 - [📊 Learn to track data lineage with graph technology! Join our #Memgraph Webinar and discover how @get_manta Flow uses a #graphdatabase for efficien...](https://twitter.com/memgraphdb/status/1652906694907756547)
 - [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. https://memgraph.com/blog/manage-...](https://twitter.com/memgraphdb/status/1652887821881942019)
-- [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1652745382516912128)
-- [🏆 Trying out new things is never easy, but if you’re not at the forefront of them, your competition probably is. https://memgraph.com/blog/faster-...](https://twitter.com/memgraphdb/status/1652721474690588674)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
