@@ -212,7 +212,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### Recent Activities
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
-- [【分秒不差，正好 5 分钟】深境螺旋 2023 5月 上半期 第十二层 第二间](https://t.bilibili.com/790719821795819524)
+- [深境螺旋 2023 5月 上半期 第十二层 第二间](https://t.bilibili.com/790719821795819524)
 - [深境螺旋 2023 5月 上半期 第十二层 第一间](https://t.bilibili.com/790639759309406217)
 - [活泼到令人头疼的胡桃的专属原神风格形象来啦~](https://t.bilibili.com/785951055179415624)
 - [深境螺旋 2023 4月 下半期 第十二层 第二间](https://t.bilibili.com/785132898254585874)
