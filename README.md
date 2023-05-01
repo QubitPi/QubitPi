@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] A quest for very long sequence length](https://www.reddit.com/r/MachineLearning/comments/1347f5m/d_a_quest_for_very_long_sequence_length/)
 - [[D] Explaining LLMs + their impact to family members](https://www.reddit.com/r/MachineLearning/comments/1345vqq/d_explaining_llms_their_impact_to_family_members/)
 - [[D] A Unifying Framework For Memory and Abstraction. The Tolman-Eichenbaum Machine](https://www.reddit.com/r/MachineLearning/comments/1343gbh/d_a_unifying_framework_for_memory_and_abstraction/)
 - [[N] DeepSciFi AI generated science fiction themed youtube channel](https://www.reddit.com/r/MachineLearning/comments/13423xx/n_deepscifi_ai_generated_science_fiction_themed/)
 - [[D] Whether large language models are sufficient for artificial general intelligence is unknown, but are large language models necessary for communication?](https://www.reddit.com/r/MachineLearning/comments/1341l4c/d_whether_large_language_models_are_sufficient/)
-- [[D] Intra-token positional embedding for transformer use.](https://www.reddit.com/r/MachineLearning/comments/13404yr/d_intratoken_positional_embedding_for_transformer/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
