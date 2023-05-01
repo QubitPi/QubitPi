@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] SoulsGym - Beating Dark Souls III Bosses with Deep Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/134r0xf/p_soulsgym_beating_dark_souls_iii_bosses_with/)
 - [[D] Possibly corrupted weights :&lpar; Anyone who experienced this?](https://www.reddit.com/r/MachineLearning/comments/134qcxj/d_possibly_corrupted_weights_anyone_who/)
 - [[N] Huggingface/nvidia release open source GPT-2B trained on 1.1T tokens](https://www.reddit.com/r/MachineLearning/comments/134q2so/n_huggingfacenvidia_release_open_source_gpt2b/)
 - [[D] ACL 2023 results](https://www.reddit.com/r/MachineLearning/comments/134o45f/d_acl_2023_results/)
 - [[Discussion] Question on the Coefficients of linear combination of matrices](https://www.reddit.com/r/MachineLearning/comments/134n0zj/discussion_question_on_the_coefficients_of_linear/)
-- [[Discussion] 13 Open Source ChatGPT Alternatives](https://www.reddit.com/r/MachineLearning/comments/134kstc/discussion_13_open_source_chatgpt_alternatives/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
