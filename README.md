@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] embaas - Embeddings as a Service](https://www.reddit.com/r/MachineLearning/comments/134y53d/p_embaas_embeddings_as_a_service/)
 - [[Research] An alternative to self-attention mechanism in GPT](https://www.reddit.com/r/MachineLearning/comments/134x9zg/research_an_alternative_to_selfattention/)
 - [[D] reviews for Machine Learning with Amazon SageMaker Cookbook](https://www.reddit.com/r/MachineLearning/comments/134x18d/d_reviews_for_machine_learning_with_amazon/)
 - [[P] SoulsGym - Beating Dark Souls III Bosses with Deep Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/134r0xf/p_soulsgym_beating_dark_souls_iii_bosses_with/)
 - [[D] Possibly corrupted weights :&lpar; Anyone who experienced this?](https://www.reddit.com/r/MachineLearning/comments/134qcxj/d_possibly_corrupted_weights_anyone_who/)
-- [[N] Huggingface/nvidia release open source GPT-2B trained on 1.1T tokens](https://www.reddit.com/r/MachineLearning/comments/134q2so/n_huggingfacenvidia_release_open_source_gpt2b/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
