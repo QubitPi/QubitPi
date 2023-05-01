@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [☁ Bring the power of Neo4j&#39;s graph database to your @googlecloud infrastructure seamlessly, as if it were always meant to be a part of it. See how: h...](https://twitter.com/neo4j/status/1653021493142470658)
 - [💡GET CERTIFIED! Take the @Neo4j Certified Professional exam, and you’ll be done in less than an hour! AND IT&#39;S FREE!--&gt; https://okt.to/pK4DOH #Neo...](https://twitter.com/neo4j/status/1652653796416208898)
 - [Looking for a Graph Theory Video Series? This is a re-post in case you missed it :&rpar; Take a look at William Fiset&#39;s complete course on graph theory alg...](https://twitter.com/neo4j/status/1652411968743940098)
 - [Join Tomaz Bratanic as he shows you how to create a next-level chatbot that uses information from a graph database to provide answers. 👇 https://ok...](https://twitter.com/neo4j/status/1652365146759524353)
 - [Let&#39;s remember #NODES2022&#39;s keynote with @NAChristakis 💡 A deep understanding of social networks can be used to create an artificial tipping point,...](https://twitter.com/neo4j/status/1651994856321953800)
+- [Discover Neo4j in the BigQuery Partner Center from @googlecloud ----&gt; Take a look: https://okt.to/NHb1kz #Neo4j #Cloud #BigQuery https://t.co/CMQuOrq7...](https://twitter.com/neo4j/status/1651919304932114433)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
