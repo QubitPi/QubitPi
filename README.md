@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/790251489927888897><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4bfa13d9e3fb88ed08439c3d56b37b30401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/790598278513164291><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3b7ec7d312a3b07d499a6c42abccc1a9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #白术# #治则求本# 《原神》角色演示-「白术：治则求本」现已发布~ https://www.bilibili.com/video/BV1WM411G7QZ 行医诊病，讲究因地、因时、...](https://t.bilibili.com/790598278513164291)
