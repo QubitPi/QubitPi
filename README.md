@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Idea for a text to audio musical sample app](https://www.reddit.com/r/MachineLearning/comments/135xngt/discussion_idea_for_a_text_to_audio_musical/)
+- [[R] Learning to Reason and Memorize with Self-Notes - Jack lanchantin et al Meta AI 2023](https://www.reddit.com/r/MachineLearning/comments/135xbbo/r_learning_to_reason_and_memorize_with_selfnotes/)
+- [[P] AI piano to study/relax to. A collection of 50 AI generated piano pieces, prompted by J.S. Bach&#39;s fugues.](https://www.reddit.com/r/MachineLearning/comments/135x97q/p_ai_piano_to_studyrelax_to_a_collection_of_50_ai/)
 - [[D] Suggest resources to learn Bayesian Machine Learning](https://www.reddit.com/r/MachineLearning/comments/135wppv/d_suggest_resources_to_learn_bayesian_machine/)
 - [[P] [Reinforcement Learning] Solving summation problem with DDPG](https://www.reddit.com/r/MachineLearning/comments/135u9un/p_reinforcement_learning_solving_summation/)
-- [[N] Fine-Tuning OpenAI Language Models with Noisily Labeled Data &lpar;37% error reduction&rpar;](https://www.reddit.com/r/MachineLearning/comments/135u6z5/n_finetuning_openai_language_models_with_noisily/)
-- [[R] GradIEEEnt half decent: The hidden power of imprecise lines](https://www.reddit.com/r/MachineLearning/comments/135tc15/r_gradieeent_half_decent_the_hidden_power_of/)
-- [[P] Twitter analysis &lpar;sentiment, political polarization, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/135t4ij/p_twitter_analysis_sentiment_political/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
