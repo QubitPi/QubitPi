@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Going Meta - a series on graphs, semantics and knowledge Episode 16 @barrasadv https://twitter.com/i/broadcasts/1DXxyvaEwBLKM](https://twitter.com/neo4j/status/1653413141684912128)
+- [#FIKA time 🙃 #graphsummit2023 in NYC! https://t.co/AiXy0JtDjQ](https://twitter.com/neo4j/status/1653412574942179330)
+- [Re @joelwitherspoon check out all upcoming GraphSummits here: https://neo4j.com/graphsummit/ for a complete Event listing you can go to https://neo4j....](https://twitter.com/neo4j/status/1653397470272004098)
 - [Hello from #GraphSummit2023 in NYC! #Neo4j https://t.co/zM6iU8ONJm](https://twitter.com/neo4j/status/1653388903754104832)
 - [Let&#39;s welcome May with a brand new episode with @barrasadv and @alexandererdl on #knowledgegraph and #semanticweb Tune in later today: https://okt.to/...](https://twitter.com/neo4j/status/1653368804213157888)
-- [Because #knowledgegraphs are designed to represent complex data, they can be used in various applications. 🚀 Learn how Knowledge Graphs Accelerate ...](https://twitter.com/neo4j/status/1653127230417936396)
-- [By transforming the tasks of a project into a graphical representation, we can not only visualize its interdependencies with greater ease, but also ap...](https://twitter.com/neo4j/status/1653076074966794251)
-- [☁ Bring the power of Neo4j&#39;s graph database to your @googlecloud infrastructure seamlessly, as if it were always meant to be a part of it. See how: h...](https://twitter.com/neo4j/status/1653021493142470658)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
