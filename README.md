@@ -361,11 +361,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Docker Desktop 4.19: Compose v2, the Moby project, and more](https://www.docker.com/blog/docker-desktop-4-19/)
 - [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
 - [Docker Desktop 4.18: Docker Scout Updates, Container File Explorer GA](https://www.docker.com/blog/docker-desktop-4-18/)
 - [Enabling a No-Code Performance Testing Platform Using the Ddosify Docker Extension](https://www.docker.com/blog/no-code-performance-testing-using-ddosify-extension/)
 - [Containerizing an Event Posting App Built with the MEAN Stack](https://www.docker.com/blog/containerizing-an-event-posting-app-built-with-the-mean-stack/)
-- [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
 <!-- DOCKER-BLOG:END -->
 
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
