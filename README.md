@@ -373,11 +373,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.27: HorizontalPodAutoscaler ContainerResource type metric moves to beta](https://kubernetes.io/blog/2023/05/02/hpa-container-resource-metric/)
 - [Blog: Kubernetes 1.27: StatefulSet Start Ordinal Simplifies Migration](https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/)
 - [Blog: Updates to the Auto-refreshing Official CVE Feed](https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/)
 - [Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA](https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/)
 - [Blog: Kubernetes 1.27: Query Node Logs Using The Kubelet API](https://kubernetes.io/blog/2023/04/21/node-log-query-alpha/)
-- [Blog: Kubernetes 1.27: Single Pod Access Mode for PersistentVolumes Graduates to Beta](https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
