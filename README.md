@@ -238,11 +238,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/790998990326857801><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f71f58c9c12ab5f75c4c1dd68accc96a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/791061851515387906)
+- [#原神# #甘雨# #浮生孰来# 亲爱的旅行者，「浮生孰来」活动祈愿现已开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/791061336117215270)
+- [#原神# #白术# #心珠循琅# 亲爱的旅行者，「心珠循琅」活动祈愿现已开启，「遵生合和·白术&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/791061099894013954)
+- [《原神》拾枝杂谈-「白术：良药知时」](https://t.bilibili.com/791060880836001938)
 - [恭喜@k莺之海k@诶嘿地那大哟@怕死的欺诈师等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/790998990326857801)
-- [恭喜@唐小茶茶@予鱼逾予鱼@木以成灰等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/790627900858564808)
-- [互动抽奖 #原神# #白术# #治则求本# 《原神》角色演示-「白术：治则求本」现已发布~ https://www.bilibili.com/video/BV1WM411G7QZ 行医诊病，讲究因地、因时、...](https://t.bilibili.com/790598278513164291)
-- [《原神》角色演示-「白术：治则求本」](https://t.bilibili.com/790597067288346674)
-- [互动抽奖 #原神# #迪卢克# #生日快乐# 刚刚看它突然飞走，还以为是发现了隐藏的敌人，原来是你。 看来这家伙很喜欢你，还请你不要介意它衔走你准备的礼物，多谢...](https://t.bilibili.com/790251489927888897)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
