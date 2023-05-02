@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Does GPT-4-32k eliminates/reduces the use of chunk strategies?](https://www.reddit.com/r/MachineLearning/comments/1355rhf/d_does_gpt432k_eliminatesreduces_the_use_of_chunk/)
 - [[P] Collect data from scientific papers](https://www.reddit.com/r/MachineLearning/comments/1354z5b/p_collect_data_from_scientific_papers/)
 - [[D] Time series classification with GPT and known future features](https://www.reddit.com/r/MachineLearning/comments/1352lpy/d_time_series_classification_with_gpt_and_known/)
 - [[D] ML Model that pmaps phrases to actions &lpar;classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/134z1bn/d_ml_model_that_pmaps_phrases_to_actions/)
 - [[Research] An alternative to self-attention mechanism in GPT](https://www.reddit.com/r/MachineLearning/comments/134x9zg/research_an_alternative_to_selfattention/)
-- [[D] reviews for Machine Learning with Amazon SageMaker Cookbook](https://www.reddit.com/r/MachineLearning/comments/134x18d/d_reviews_for_machine_learning_with_amazon/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
