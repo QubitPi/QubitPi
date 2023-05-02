@@ -289,8 +289,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Introducing Subpixel: Simplify Data Analysis with AI!](https://www.reddit.com/r/MachineLearning/comments/135ko68/p_introducing_subpixel_simplify_data_analysis/)
 - [[D] Face encoding and face clustering](https://www.reddit.com/r/MachineLearning/comments/135jtic/d_face_encoding_and_face_clustering/)
-- [[D] What is your preferred method for moving local code to the cloud and vice versa?](https://www.reddit.com/r/MachineLearning/comments/135i4x7/d_what_is_your_preferred_method_for_moving_local/)
 - [[D] Fine tune LLM on my own WhatsApp conversations](https://www.reddit.com/r/MachineLearning/comments/135haxb/d_fine_tune_llm_on_my_own_whatsapp_conversations/)
 - [[D] Choosing the image labeling tool](https://www.reddit.com/r/MachineLearning/comments/135gm4j/d_choosing_the_image_labeling_tool/)
 - [[R] ML finds erroneous conclusions in real polygraph screenings](https://www.reddit.com/r/MachineLearning/comments/135d9l0/r_ml_finds_erroneous_conclusions_in_real/)
