@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Apna, one of India&#39;s leading job and professional networking platforms, has enhanced the job search experience for its users by utilizing Neo4j&#39;s grap...](https://twitter.com/neo4j/status/1653518997319458818)
 - [Now on #GraphSummit2023 in NYC, Vishal Varma, Head of Digital &amp; Data Science, Supply Chain, Johnson &amp; Johnson &quot;Customer Spotlight: Transforming Health...](https://twitter.com/neo4j/status/1653468670373314599)
 - [Discover how and why @Elsevier uses #Neo4j in George Lawton&#39;s article in @diginomica https://okt.to/hmOtky #graphdatabase https://t.co/NSW4M4Rjbo](https://twitter.com/neo4j/status/1653436792819810320)
 - [Re @EYnews ON STAGE! #Graphsummit2023 https://t.co/XFGZ4KM5Q0](https://twitter.com/neo4j/status/1653428914583216129)
 - [Going Meta - a series on graphs, semantics and knowledge Episode 16 @barrasadv https://twitter.com/i/broadcasts/1DXxyvaEwBLKM](https://twitter.com/neo4j/status/1653413141684912128)
-- [#FIKA time 🙃 #graphsummit2023 in NYC! https://t.co/AiXy0JtDjQ](https://twitter.com/neo4j/status/1653412574942179330)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
