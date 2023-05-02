@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Hello from #GraphSummit2023 in NYC! #Neo4j https://t.co/zM6iU8ONJm](https://twitter.com/neo4j/status/1653388903754104832)
+- [Let&#39;s welcome May with a brand new episode with @barrasadv and @alexandererdl on #knowledgegraph and #semanticweb Tune in later today: https://okt.to/...](https://twitter.com/neo4j/status/1653368804213157888)
 - [Because #knowledgegraphs are designed to represent complex data, they can be used in various applications. 🚀 Learn how Knowledge Graphs Accelerate ...](https://twitter.com/neo4j/status/1653127230417936396)
 - [By transforming the tasks of a project into a graphical representation, we can not only visualize its interdependencies with greater ease, but also ap...](https://twitter.com/neo4j/status/1653076074966794251)
 - [☁ Bring the power of Neo4j&#39;s graph database to your @googlecloud infrastructure seamlessly, as if it were always meant to be a part of it. See how: h...](https://twitter.com/neo4j/status/1653021493142470658)
-- [💡GET CERTIFIED! Take the @Neo4j Certified Professional exam, and you’ll be done in less than an hour! AND IT&#39;S FREE!--&gt; https://okt.to/pK4DOH #Neo...](https://twitter.com/neo4j/status/1652653796416208898)
-- [Looking for a Graph Theory Video Series? This is a re-post in case you missed it :&rpar; Take a look at William Fiset&#39;s complete course on graph theory alg...](https://twitter.com/neo4j/status/1652411968743940098)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
