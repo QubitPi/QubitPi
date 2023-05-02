@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement https://memgraph.com/identity-access-manage...](https://twitter.com/memgraphdb/status/1653334012335620096)
-- [⚡️ Read more about using #Memgraph in managing energy network systems for stable &amp; reliable service! #EnergyManagement #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1653317402547871744)
 - [❗️ Using a relational database on the network-like representation of data isn’t the most performant choice if the number of data points in your sys...](https://twitter.com/memgraphdb/status/1653283426869428228)
 - [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1653272858666082304)
 - [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1653258263608082432)
+- [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1653107774367121408)
+- [⚡️ Read more about using #Memgraph in managing energy network systems for stable &amp; reliable service! #EnergyManagement https://memgraph.com/energy-m...](https://twitter.com/memgraphdb/status/1653083862526746624)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
