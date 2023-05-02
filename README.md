@@ -2,14 +2,14 @@
 
 <a href="https://www.bilibili.com/video/BV1Dy4y1t7Mf/"><img align="left" src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/></a>
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
-<a href="https://www.bilibili.com/video/BV1BK4y1D7Ji"><img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/></a>
+<a href="https://www.bilibili.com/video/BV1U14y1h7UE"><img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/></a>
 
 _Open Innovation_ as Career
 ===========================
 
 </div>
 
-[![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)](https://www.genshin-impact-api.com/)
+[![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)](https://www.bilibili.com/video/BV1BK4y1D7Ji)
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jack20191124)
