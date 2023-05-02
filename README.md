@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Has anyone tried to train a LLM on a huge amount of sheet music or MIDI, or at least tried to create a standard musical tokenization that could be used to feed raw musical scores to a generalist LLM along with the other text in its training data?](https://www.reddit.com/r/MachineLearning/comments/1355w7q/d_has_anyone_tried_to_train_a_llm_on_a_huge/)
+- [Submitted on 28 Apr 2023] MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks](https://www.reddit.com/r/MachineLearning/comments/1355vas/submitted_on_28_apr_2023_mlcopilot_unleashing_the/)
 - [[D] Does GPT-4-32k eliminates/reduces the use of chunk strategies?](https://www.reddit.com/r/MachineLearning/comments/1355rhf/d_does_gpt432k_eliminatesreduces_the_use_of_chunk/)
 - [[P] Collect data from scientific papers](https://www.reddit.com/r/MachineLearning/comments/1354z5b/p_collect_data_from_scientific_papers/)
 - [[D] Time series classification with GPT and known future features](https://www.reddit.com/r/MachineLearning/comments/1352lpy/d_time_series_classification_with_gpt_and_known/)
-- [[D] ML Model that pmaps phrases to actions &lpar;classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/134z1bn/d_ml_model_that_pmaps_phrases_to_actions/)
-- [[Research] An alternative to self-attention mechanism in GPT](https://www.reddit.com/r/MachineLearning/comments/134x9zg/research_an_alternative_to_selfattention/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
