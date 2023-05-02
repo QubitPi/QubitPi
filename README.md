@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Suggest resources to learn Bayesian Machine Learning](https://www.reddit.com/r/MachineLearning/comments/135wppv/d_suggest_resources_to_learn_bayesian_machine/)
 - [[P] [Reinforcement Learning] Solving summation problem with DDPG](https://www.reddit.com/r/MachineLearning/comments/135u9un/p_reinforcement_learning_solving_summation/)
 - [[N] Fine-Tuning OpenAI Language Models with Noisily Labeled Data &lpar;37% error reduction&rpar;](https://www.reddit.com/r/MachineLearning/comments/135u6z5/n_finetuning_openai_language_models_with_noisily/)
 - [[R] GradIEEEnt half decent: The hidden power of imprecise lines](https://www.reddit.com/r/MachineLearning/comments/135tc15/r_gradieeent_half_decent_the_hidden_power_of/)
 - [[P] Twitter analysis &lpar;sentiment, political polarization, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/135t4ij/p_twitter_analysis_sentiment_political/)
-- [[D] Is there a term for this kind of &quot;grid search&quot; in literature?](https://www.reddit.com/r/MachineLearning/comments/135t1ca/d_is_there_a_term_for_this_kind_of_grid_search_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
