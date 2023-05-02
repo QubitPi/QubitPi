@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discover how and why @Elsevier uses #Neo4j in George Lawton&#39;s article in @diginomica https://okt.to/hmOtky #graphdatabase https://t.co/NSW4M4Rjbo](https://twitter.com/neo4j/status/1653436792819810320)
+- [Re @EYnews ON STAGE! #Graphsummit2023 https://t.co/XFGZ4KM5Q0](https://twitter.com/neo4j/status/1653428914583216129)
 - [Going Meta - a series on graphs, semantics and knowledge Episode 16 @barrasadv https://twitter.com/i/broadcasts/1DXxyvaEwBLKM](https://twitter.com/neo4j/status/1653413141684912128)
 - [#FIKA time 🙃 #graphsummit2023 in NYC! https://t.co/AiXy0JtDjQ](https://twitter.com/neo4j/status/1653412574942179330)
 - [Re @joelwitherspoon check out all upcoming GraphSummits here: https://neo4j.com/graphsummit/ for a complete Event listing you can go to https://neo4j....](https://twitter.com/neo4j/status/1653397470272004098)
-- [Hello from #GraphSummit2023 in NYC! #Neo4j https://t.co/zM6iU8ONJm](https://twitter.com/neo4j/status/1653388903754104832)
-- [Let&#39;s welcome May with a brand new episode with @barrasadv and @alexandererdl on #knowledgegraph and #semanticweb Tune in later today: https://okt.to/...](https://twitter.com/neo4j/status/1653368804213157888)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
