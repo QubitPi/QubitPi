@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] GradIEEEnt half decent: The hidden power of imprecise lines](https://www.reddit.com/r/MachineLearning/comments/135tc15/r_gradieeent_half_decent_the_hidden_power_of/)
 - [[P] Twitter analysis &lpar;sentiment, political polarization, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/135t4ij/p_twitter_analysis_sentiment_political/)
 - [[D] Is there a term for this kind of &quot;grid search&quot; in literature?](https://www.reddit.com/r/MachineLearning/comments/135t1ca/d_is_there_a_term_for_this_kind_of_grid_search_in/)
 - [[D] Looking for a part time ML job](https://www.reddit.com/r/MachineLearning/comments/135s9vh/d_looking_for_a_part_time_ml_job/)
 - [[P] OpenBuddy - The AI Model That Impresses with Its Performance on Complex Problems](https://www.reddit.com/r/MachineLearning/comments/135ldwr/p_openbuddy_the_ai_model_that_impresses_with_its/)
-- [[D] Short audio files for training audio models?](https://www.reddit.com/r/MachineLearning/comments/135lcgb/d_short_audio_files_for_training_audio_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
