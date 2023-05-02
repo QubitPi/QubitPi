@@ -325,7 +325,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit - Streamlit EDA &amp; ML - Episode 2](https://www.youtube.com/watch?v=dS1wdipcL1o)
 - [Búsqueda de ruta con Graph Data Science - 10 min](https://www.youtube.com/watch?v=aHxBMUq511c)
 - [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements](https://www.youtube.com/watch?v=42Ra42e1A3Q)
-- [Going Meta - Ep 16: Semantic Similarity Metrics in Taxonomies](https://www.youtube.com/watch?v=WwTxlyjY35I)
+- [Going Meta - a series on graphs, semantics and knowledge Episode 16](https://www.youtube.com/watch?v=WwTxlyjY35I)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
