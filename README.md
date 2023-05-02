@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 The power behind any recommendation engine is the algorithms used to create recommendations. The most powerful recommendation algorithms are made...](https://twitter.com/memgraphdb/status/1653432157409357825)
+- [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1653423852209176578)
 - [🔎 Most vendors then differentiate between the free community version and the enterprise version that comes with a bill. Community and enterprise ve...](https://twitter.com/memgraphdb/status/1653405736427200512)
 - [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. https://memgraph.com/blog/join-t...](https://twitter.com/memgraphdb/status/1653398438258540545)
 - [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1653357162935074819)
-- [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement https://memgraph.com/identity-access-manage...](https://twitter.com/memgraphdb/status/1653334012335620096)
-- [⚡️ Read more about using #Memgraph in managing energy network systems for stable &amp; reliable service! #EnergyManagement #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1653317402547871744)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
