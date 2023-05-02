@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Choosing the image labeling tool](https://www.reddit.com/r/MachineLearning/comments/135gm4j/d_choosing_the_image_labeling_tool/)
 - [[R] ML finds erroneous conclusions in real polygraph screenings](https://www.reddit.com/r/MachineLearning/comments/135d9l0/r_ml_finds_erroneous_conclusions_in_real/)
 - [[D] Breaking down the Segment Anything Paper!](https://www.reddit.com/r/MachineLearning/comments/1359t9w/d_breaking_down_the_segment_anything_paper/)
 - [Submitted on 28 Apr 2023] MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks](https://www.reddit.com/r/MachineLearning/comments/1355vas/submitted_on_28_apr_2023_mlcopilot_unleashing_the/)
 - [[D] Does GPT-4-32k eliminates/reduces the use of chunk strategies?](https://www.reddit.com/r/MachineLearning/comments/1355rhf/d_does_gpt432k_eliminatesreduces_the_use_of_chunk/)
-- [[Research] An alternative to self-attention mechanism in GPT](https://www.reddit.com/r/MachineLearning/comments/134x9zg/research_an_alternative_to_selfattention/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
