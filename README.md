@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [See you at the Gartner Supply Chain Symposium 2023? Meet us in our booth and learn how you can achieve 1000x performance at unlimited scale to address...](https://twitter.com/neo4j/status/1653777121410441219)
-- [A livestream you do not want to miss: #Neo4j + #ChatGPT Use the power of #AI and #ML! #graphdatabase #chatbot @alexandererdl @mesirii https://okt.to/K...](https://twitter.com/neo4j/status/1653770768063295491)
 - [We are part of the CRN’s Big Data 100 ranking!🎉 Thank you, @CRN and @RickWhiting1! Learn more about this ranking here: https://okt.to/oM1TAm #Neo4...](https://twitter.com/neo4j/status/1653727397680754690)
 - [Learning, meeting graphistas, and having fun - #GraphSummit2023 in Sydney is on 🔥 @jimwebber @sidagarwal04 @danielcfng https://t.co/vNLL8WGBhe](https://twitter.com/neo4j/status/1653574882909646848)
 - [RT Siddhant Agarwal: Re @danielcfng kicking off #GraphSummit APAC in Sydney 🙌 @neo4j https://t.co/pec4UJrYe6](https://twitter.com/sidagarwal04/status/1653551766053740544)
+- [#GraphSummit2023 in Sydney is kicking off!! https://t.co/CQpVeeO8H0](https://twitter.com/neo4j/status/1653533344649314308)
+- [RT Jim Webber: Hello Sydney! @neo4j #GraphSummit2023 https://t.co/hVAp6MwCiS](https://twitter.com/jimwebber/status/1653524073539047424)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
