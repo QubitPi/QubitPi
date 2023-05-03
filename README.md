@@ -311,11 +311,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Learning, meeting graphistas, and having fun - #GraphSummit2023 in Sydney is on 🔥 @jimwebber @sidagarwal04 @danielcfng https://t.co/vNLL8WGBhe](https://twitter.com/neo4j/status/1653574882909646848)
+- [RT Siddhant Agarwal: Re @danielcfng kicking off #GraphSummit APAC in Sydney 🙌 @neo4j https://t.co/pec4UJrYe6](https://twitter.com/sidagarwal04/status/1653551766053740544)
 - [#GraphSummit2023 in Sydney is kicking off!! https://t.co/CQpVeeO8H0](https://twitter.com/neo4j/status/1653533344649314308)
 - [RT Jim Webber: Hello Sydney! @neo4j #GraphSummit2023 https://t.co/hVAp6MwCiS](https://twitter.com/jimwebber/status/1653524073539047424)
 - [Apna, one of India&#39;s leading job and professional networking platforms, has enhanced the job search experience for its users by utilizing Neo4j&#39;s grap...](https://twitter.com/neo4j/status/1653518997319458818)
-- [Now on #GraphSummit2023 in NYC, Vishal Varma, Head of Digital &amp; Data Science, Supply Chain, Johnson &amp; Johnson &quot;Customer Spotlight: Transforming Health...](https://twitter.com/neo4j/status/1653468670373314599)
-- [Discover how and why @Elsevier uses #Neo4j in George Lawton&#39;s article in @diginomica https://okt.to/hmOtky #graphdatabase https://t.co/NSW4M4Rjbo](https://twitter.com/neo4j/status/1653436792819810320)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
