@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] What type of model would be suitable?](https://www.reddit.com/r/MachineLearning/comments/136e1qo/p_what_type_of_model_would_be_suitable/)
 - [[D] ML Hackathon](https://www.reddit.com/r/MachineLearning/comments/136dj54/d_ml_hackathon/)
 - [[News] Breaking the scaling limits of analog computing](https://www.reddit.com/r/MachineLearning/comments/136de7j/news_breaking_the_scaling_limits_of_analog/)
 - [[D] Exploring Real-World Applications of Reinforcement Learning in Analog IC Design](https://www.reddit.com/r/MachineLearning/comments/136cp8x/d_exploring_realworld_applications_of/)
 - [[D] Dataset Recommendations? &lpar;see criteria&rpar;](https://www.reddit.com/r/MachineLearning/comments/13693jh/d_dataset_recommendations_see_criteria/)
+- [[R] Learning to Reason and Memorize with Self-Notes - Jack lanchantin et al Meta AI 2023](https://www.reddit.com/r/MachineLearning/comments/135xbbo/r_learning_to_reason_and_memorize_with_selfnotes/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
