@@ -333,11 +333,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1653684321914429442)
 - [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1653644306501062657)
 - [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ https://memgraph.com/blog/you-want-a-fast-easy-to-use-and...](https://twitter.com/memgraphdb/status/1653635247546695680)
 - [🎉 Join our special #Memgraph Webinar on Real-Time Graph Analytics with @supe_katarina! Master the art of stream processing and unlock hidden insigh...](https://twitter.com/memgraphdb/status/1653612598913269764)
 - [🚀 Memgraph as a platform includes custom analytics on graph storage, minimizing the risks by doing quick and efficient network analysis. Check out ...](https://twitter.com/memgraphdb/status/1653465882897596435)
-- [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1653448264497102849)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
