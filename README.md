@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] airoboros: a rewrite of self-instruct/alpaca synthetic prompt generation](https://www.reddit.com/r/MachineLearning/comments/136vt7b/p_airoboros_a_rewrite_of_selfinstructalpaca/)
 - [[D] Training time-series data from IoT fleets on the fly](https://www.reddit.com/r/MachineLearning/comments/136soc1/d_training_timeseries_data_from_iot_fleets_on_the/)
 - [[Discussion] Can someone on a high-level explain what someone can do in LangChain that they can&#39;t do in normal coding patterns? Is there opportunity for extension especially on state store.](https://www.reddit.com/r/MachineLearning/comments/136rsog/discussion_can_someone_on_a_highlevel_explain/)
 - [[D] Good regularization testing datasets &lpar;i.e. prone to overfitting&rpar;?](https://www.reddit.com/r/MachineLearning/comments/136radg/d_good_regularization_testing_datasets_ie_prone/)
 - [[D] The Full Story of Large Language Models and RLHF](https://www.reddit.com/r/MachineLearning/comments/136qdh9/d_the_full_story_of_large_language_models_and_rlhf/)
-- [[D] Seeking Advice for Building AI for Health Data Analysis &lpar;No Programming Experience&rpar;](https://www.reddit.com/r/MachineLearning/comments/136ptq5/d_seeking_advice_for_building_ai_for_health_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
