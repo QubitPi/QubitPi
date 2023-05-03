@@ -138,7 +138,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Python](https://qubitpi.github.io/cpython/) | [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [My ML Blogs](https://qubitpi.github.io/jersey-guide/)
 
-#### Data/Knowledge Graph
+##### Data/Knowledge Graph
 
 > ~~"All knowledge is controlled by Google"~~
 
