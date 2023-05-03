@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. https://memgrap...](https://twitter.com/memgraphdb/status/1653749751504949250)
-- [🎓 With the rising number of cyber-attacks followed by the massive digitalization of companies, the right tool is needed to maximize performance and...](https://twitter.com/memgraphdb/status/1653740439973908481)
 - [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1653720306928762880)
 - [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1653702190081376257)
 - [🎓 Problems that unravel by using CSV files and relational databases as IAM systems come down to security issues, which are almost impossible to ide...](https://twitter.com/memgraphdb/status/1653696400150896640)
+- [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1653684321914429442)
+- [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1653644306501062657)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
