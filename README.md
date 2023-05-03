@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] We built an AI tool for people to find their dream home. We’ve come to the pros to get your feedback!](https://www.reddit.com/r/MachineLearning/comments/136kp10/p_we_built_an_ai_tool_for_people_to_find_their/)
+- [[D] Switch Net backpropagation implementation](https://www.reddit.com/r/MachineLearning/comments/136ko72/d_switch_net_backpropagation_implementation/)
+- [[D] Unable to find a proper dataset for classifying companies into their industry](https://www.reddit.com/r/MachineLearning/comments/136kaiu/d_unable_to_find_a_proper_dataset_for_classifying/)
 - [[D] Findings of ACL 2023: can we present in collocated workshops?](https://www.reddit.com/r/MachineLearning/comments/136jp6q/d_findings_of_acl_2023_can_we_present_in/)
 - [[R] Poisoning Language Models During Instruction Tuning](https://www.reddit.com/r/MachineLearning/comments/136jdak/r_poisoning_language_models_during_instruction/)
-- [[R] ML Application to Low-Quality Brain Scans for Low-Income Countries](https://www.reddit.com/r/MachineLearning/comments/136ic80/r_ml_application_to_lowquality_brain_scans_for/)
-- [[D] Distributes pre-training and fine-tuning](https://www.reddit.com/r/MachineLearning/comments/136hgvt/d_distributes_pretraining_and_finetuning/)
-- [[D] Make a Q&amp;A dataset from a set of texts](https://www.reddit.com/r/MachineLearning/comments/136f695/d_make_a_qa_dataset_from_a_set_of_texts/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
