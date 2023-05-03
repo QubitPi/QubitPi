@@ -296,8 +296,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] The Full Story of Large Language Models and RLHF](https://www.reddit.com/r/MachineLearning/comments/136qdh9/d_the_full_story_of_large_language_models_and_rlhf/)
 - [[D] Seeking Advice for Building AI for Health Data Analysis &lpar;No Programming Experience&rpar;](https://www.reddit.com/r/MachineLearning/comments/136ptq5/d_seeking_advice_for_building_ai_for_health_data/)
 - [[D] As a computer science professor, I made a decision to share my knowledge and experience online](https://www.reddit.com/r/MachineLearning/comments/136nx9s/d_as_a_computer_science_professor_i_made_a/)
-- [[D] Question](https://www.reddit.com/r/MachineLearning/comments/136lhfc/d_question/)
-- [[P] We built an AI tool for people to find their dream home. We’ve come to the pros to get your feedback!](https://www.reddit.com/r/MachineLearning/comments/136kp10/p_we_built_an_ai_tool_for_people_to_find_their/)
+- [[D] Switch Net backpropagation implementation](https://www.reddit.com/r/MachineLearning/comments/136ko72/d_switch_net_backpropagation_implementation/)
+- [[D] Unable to find a proper dataset for classifying companies into their industry](https://www.reddit.com/r/MachineLearning/comments/136kaiu/d_unable_to_find_a_proper_dataset_for_classifying/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
