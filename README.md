@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] As a computer science professor, I made a decision to share my knowledge and experience online](https://www.reddit.com/r/MachineLearning/comments/136nx9s/d_as_a_computer_science_professor_i_made_a/)
 - [[D] Question](https://www.reddit.com/r/MachineLearning/comments/136lhfc/d_question/)
 - [[P] We built an AI tool for people to find their dream home. We’ve come to the pros to get your feedback!](https://www.reddit.com/r/MachineLearning/comments/136kp10/p_we_built_an_ai_tool_for_people_to_find_their/)
 - [[D] Switch Net backpropagation implementation](https://www.reddit.com/r/MachineLearning/comments/136ko72/d_switch_net_backpropagation_implementation/)
 - [[D] Unable to find a proper dataset for classifying companies into their industry](https://www.reddit.com/r/MachineLearning/comments/136kaiu/d_unable_to_find_a_proper_dataset_for_classifying/)
-- [[D] Findings of ACL 2023: can we present in collocated workshops?](https://www.reddit.com/r/MachineLearning/comments/136jp6q/d_findings_of_acl_2023_can_we_present_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
