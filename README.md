@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Findings of ACL 2023: can we present in collocated workshops?](https://www.reddit.com/r/MachineLearning/comments/136jp6q/d_findings_of_acl_2023_can_we_present_in/)
 - [[R] Poisoning Language Models During Instruction Tuning](https://www.reddit.com/r/MachineLearning/comments/136jdak/r_poisoning_language_models_during_instruction/)
 - [[R] ML Application to Low-Quality Brain Scans for Low-Income Countries](https://www.reddit.com/r/MachineLearning/comments/136ic80/r_ml_application_to_lowquality_brain_scans_for/)
 - [[D] Distributes pre-training and fine-tuning](https://www.reddit.com/r/MachineLearning/comments/136hgvt/d_distributes_pretraining_and_finetuning/)
 - [[D] Make a Q&amp;A dataset from a set of texts](https://www.reddit.com/r/MachineLearning/comments/136f695/d_make_a_qa_dataset_from_a_set_of_texts/)
-- [[N] OpenLLaMA: An Open Reproduction of LLaMA](https://www.reddit.com/r/MachineLearning/comments/136exj2/n_openllama_an_open_reproduction_of_llama/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
