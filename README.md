@@ -289,11 +289,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Make a Q&amp;A dataset from a set of texts](https://www.reddit.com/r/MachineLearning/comments/136f695/d_make_a_qa_dataset_from_a_set_of_texts/)
 - [[N] OpenLLaMA: An Open Reproduction of LLaMA](https://www.reddit.com/r/MachineLearning/comments/136exj2/n_openllama_an_open_reproduction_of_llama/)
 - [[D] ML Hackathon](https://www.reddit.com/r/MachineLearning/comments/136dj54/d_ml_hackathon/)
 - [[News] Breaking the scaling limits of analog computing](https://www.reddit.com/r/MachineLearning/comments/136de7j/news_breaking_the_scaling_limits_of_analog/)
 - [[D] Exploring Real-World Applications of Reinforcement Learning in Analog IC Design](https://www.reddit.com/r/MachineLearning/comments/136cp8x/d_exploring_realworld_applications_of/)
-- [[D] Dataset Recommendations? &lpar;see criteria&rpar;](https://www.reddit.com/r/MachineLearning/comments/13693jh/d_dataset_recommendations_see_criteria/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
