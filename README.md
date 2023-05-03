@@ -134,11 +134,15 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
+#### Machine Learning
+
+[Python](https://qubitpi.github.io/cpython/) | [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [My ML Blogs](https://qubitpi.github.io/jersey-guide/)
+
 #### Data/Knowledge Graph
 
 > ~~"All knowledge is controlled by Google"~~
 
-[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [Python](https://qubitpi.github.io/cpython/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
+[Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
 
 #### Immutable Infrastructure<sup>![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white) ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)</sup>
 
@@ -189,7 +193,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Miscellaneous
 
-[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [My Tech Blogs](https://qubitpi.github.io/jersey-guide/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
+[Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
 
 <br/>
 <br/>
