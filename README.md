@@ -238,11 +238,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/791061851515387906><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f0f64336c74660b4b4d5049b6945a752401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #坎蒂丝# #生日快乐# 沙漠的星空很漂亮吧？我守夜的时候，星星也会在天上陪伴。 说起来，沙漠里还流传着一则星星和守夜人的故事呢。 传说有一天...](https://t.bilibili.com/791339194735657089)
+- [《原神》拾枝杂谈-「卡维：宏愿迢迢」](https://t.bilibili.com/791339194716782657)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/791061851515387906)
 - [#原神# #甘雨# #浮生孰来# 亲爱的旅行者，「浮生孰来」活动祈愿现已开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/791061336117215270)
 - [#原神# #白术# #心珠循琅# 亲爱的旅行者，「心珠循琅」活动祈愿现已开启，「遵生合和·白术&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/791061099894013954)
-- [《原神》拾枝杂谈-「白术：良药知时」](https://t.bilibili.com/791060880836001938)
-- [恭喜@k莺之海k@诶嘿地那大哟@怕死的欺诈师等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/790998990326857801)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
