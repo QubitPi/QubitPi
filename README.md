@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion]: Mark Zuckerberg on Meta&#39;s Strategy on Open Source and AI during the earnings call](https://www.reddit.com/r/MachineLearning/comments/1373nhq/discussion_mark_zuckerberg_on_metas_strategy_on/)
+- [[Research] Would it be possible for you to provide me with organizations, sectors or industries which could/have implemented AI/ML to their value chain?](https://www.reddit.com/r/MachineLearning/comments/1373jd1/research_would_it_be_possible_for_you_to_provide/)
 - [[P] &quot;Brain&quot; for your documents](https://www.reddit.com/r/MachineLearning/comments/1372gqi/p_brain_for_your_documents/)
 - [[D] Oblivus Cloud | Scalable GPU servers from $0.29/hr](https://www.reddit.com/r/MachineLearning/comments/1370xg9/d_oblivus_cloud_scalable_gpu_servers_from_029hr/)
 - [[P] airoboros: a rewrite of self-instruct/alpaca synthetic prompt generation](https://www.reddit.com/r/MachineLearning/comments/136vt7b/p_airoboros_a_rewrite_of_selfinstructalpaca/)
-- [[D] Training time-series data from IoT fleets on the fly](https://www.reddit.com/r/MachineLearning/comments/136soc1/d_training_timeseries_data_from_iot_fleets_on_the/)
-- [[Discussion] Can someone on a high-level explain what someone can do in LangChain that they can&#39;t do in normal coding patterns? Is there opportunity for extension especially on state store.](https://www.reddit.com/r/MachineLearning/comments/136rsog/discussion_can_someone_on_a_highlevel_explain/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
