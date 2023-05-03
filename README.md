@@ -235,7 +235,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/791061851515387906><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f0f64336c74660b4b4d5049b6945a752401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/791339194735657089><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2a8738185c1b278315bf189ed5140295401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #坎蒂丝# #生日快乐# 沙漠的星空很漂亮吧？我守夜的时候，星星也会在天上陪伴。 说起来，沙漠里还流传着一则星星和守夜人的故事呢。 传说有一天...](https://t.bilibili.com/791339194735657089)
