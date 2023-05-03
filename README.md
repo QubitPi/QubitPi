@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Satisfying Spark Job [P]](https://www.reddit.com/r/MachineLearning/comments/136s8dt/satisfying_spark_job_p/)
+- [[Discussion] Can someone on a high-level explain what someone can do in LangChain that they can&#39;t do in normal coding patterns? Is there opportunity for extension especially on state store.](https://www.reddit.com/r/MachineLearning/comments/136rsog/discussion_can_someone_on_a_highlevel_explain/)
+- [[D] Another warning about the AI apocalypse? I don’t buy it](https://www.reddit.com/r/MachineLearning/comments/136rkwq/d_another_warning_about_the_ai_apocalypse_i_dont/)
+- [[D] Good regularization testing datasets &lpar;i.e. prone to overfitting&rpar;?](https://www.reddit.com/r/MachineLearning/comments/136radg/d_good_regularization_testing_datasets_ie_prone/)
 - [[D] The Full Story of Large Language Models and RLHF](https://www.reddit.com/r/MachineLearning/comments/136qdh9/d_the_full_story_of_large_language_models_and_rlhf/)
-- [[D] Seeking Advice for Building AI for Health Data Analysis &lpar;No Programming Experience&rpar;](https://www.reddit.com/r/MachineLearning/comments/136ptq5/d_seeking_advice_for_building_ai_for_health_data/)
-- [[D] As a computer science professor, I made a decision to share my knowledge and experience online](https://www.reddit.com/r/MachineLearning/comments/136nx9s/d_as_a_computer_science_professor_i_made_a/)
-- [[D] Switch Net backpropagation implementation](https://www.reddit.com/r/MachineLearning/comments/136ko72/d_switch_net_backpropagation_implementation/)
-- [[D] Unable to find a proper dataset for classifying companies into their industry](https://www.reddit.com/r/MachineLearning/comments/136kaiu/d_unable_to_find_a_proper_dataset_for_classifying/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
