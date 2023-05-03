@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [RT Kruno Golubic: #Memgraph CEO @dtomicevic will be one of the panelists tomorrow at @heavybit event. The name of the panel is &quot;Open Source Licensing ...](https://twitter.com/kgolubic/status/1653814370181296130)
-- [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1653808639369510913)
-- [🔎 The current issue is that companies can’t conclude anything from all that data, which is especially disastrous if the data indicates that it’s ...](https://twitter.com/memgraphdb/status/1653792610643845122)
 - [🔎 In insurance, the go-to storage and analytics tech is still bundled into an old-fashion relational database which is considered state-of-the-art ...](https://twitter.com/memgraphdb/status/1653768124477448194)
 - [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. https://memgrap...](https://twitter.com/memgraphdb/status/1653749751504949250)
+- [🎓 With the rising number of cyber-attacks followed by the massive digitalization of companies, the right tool is needed to maximize performance and...](https://twitter.com/memgraphdb/status/1653740439973908481)
+- [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1653720306928762880)
+- [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1653702190081376257)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
