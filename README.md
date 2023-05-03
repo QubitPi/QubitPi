@@ -293,9 +293,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Training time-series data from IoT fleets on the fly](https://www.reddit.com/r/MachineLearning/comments/136soc1/d_training_timeseries_data_from_iot_fleets_on_the/)
 - [Satisfying Spark Job [P]](https://www.reddit.com/r/MachineLearning/comments/136s8dt/satisfying_spark_job_p/)
 - [[Discussion] Can someone on a high-level explain what someone can do in LangChain that they can&#39;t do in normal coding patterns? Is there opportunity for extension especially on state store.](https://www.reddit.com/r/MachineLearning/comments/136rsog/discussion_can_someone_on_a_highlevel_explain/)
-- [[D] Another warning about the AI apocalypse? I don’t buy it](https://www.reddit.com/r/MachineLearning/comments/136rkwq/d_another_warning_about_the_ai_apocalypse_i_dont/)
 - [[D] Good regularization testing datasets &lpar;i.e. prone to overfitting&rpar;?](https://www.reddit.com/r/MachineLearning/comments/136radg/d_good_regularization_testing_datasets_ie_prone/)
 - [[D] The Full Story of Large Language Models and RLHF](https://www.reddit.com/r/MachineLearning/comments/136qdh9/d_the_full_story_of_large_language_models_and_rlhf/)
 <!-- REDDIT-ML:END -->
