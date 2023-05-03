@@ -290,10 +290,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Dataset Recommendations? &lpar;see criteria&rpar;](https://www.reddit.com/r/MachineLearning/comments/13693jh/d_dataset_recommendations_see_criteria/)
-- [Should i pursue a phd in mechanical engineering and machine learning in the US?[D]](https://www.reddit.com/r/MachineLearning/comments/1368ofq/should_i_pursue_a_phd_in_mechanical_engineering/)
 - [[R] Learning to Reason and Memorize with Self-Notes - Jack lanchantin et al Meta AI 2023](https://www.reddit.com/r/MachineLearning/comments/135xbbo/r_learning_to_reason_and_memorize_with_selfnotes/)
 - [[N] Fine-Tuning OpenAI Language Models with Noisily Labeled Data &lpar;37% error reduction&rpar;](https://www.reddit.com/r/MachineLearning/comments/135u6z5/n_finetuning_openai_language_models_with_noisily/)
 - [[R] GradIEEEnt half decent: The hidden power of imprecise lines](https://www.reddit.com/r/MachineLearning/comments/135tc15/r_gradieeent_half_decent_the_hidden_power_of/)
+- [[D] Is there a term for this kind of &quot;grid search&quot; in literature?](https://www.reddit.com/r/MachineLearning/comments/135t1ca/d_is_there_a_term_for_this_kind_of_grid_search_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
