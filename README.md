@@ -294,10 +294,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[N] May 9, Free Talk with Matt Welsh, &quot;Large Language Models and the End of Programming&quot;](https://www.reddit.com/r/MachineLearning/comments/137jfvl/n_may_9_free_talk_with_matt_welsh_large_language/)
-- [[D] Where do we stand?](https://www.reddit.com/r/MachineLearning/comments/137jeg1/d_where_do_we_stand/)
 - [[D] Best method to have a NN respond as someone](https://www.reddit.com/r/MachineLearning/comments/137j04b/d_best_method_to_have_a_nn_respond_as_someone/)
 - [[Research] Towards Accurate, Credible and Traceable Large Language Models！！！](https://www.reddit.com/r/MachineLearning/comments/137iyxk/research_towards_accurate_credible_and_traceable/)
 - [[P] Image Segmentation](https://www.reddit.com/r/MachineLearning/comments/137f4nq/p_image_segmentation/)
+- [[P] LightGBM but lighter in another language?](https://www.reddit.com/r/MachineLearning/comments/137eyxl/p_lightgbm_but_lighter_in_another_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
