@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] LightGBM but lighter in another language?](https://www.reddit.com/r/MachineLearning/comments/137eyxl/p_lightgbm_but_lighter_in_another_language/)
 - [[D] ML model RAM over usage issue](https://www.reddit.com/r/MachineLearning/comments/137ees2/d_ml_model_ram_over_usage_issue/)
 - [Can LLaMA approve credit card applications? [Part 1] [Research]](https://www.reddit.com/r/MachineLearning/comments/137c5x1/can_llama_approve_credit_card_applications_part_1/)
 - [[P] Anyone able to point me in the direction of a free movie script database that also provides metadata such as its score on rotten tomatoes?](https://www.reddit.com/r/MachineLearning/comments/137c0o8/p_anyone_able_to_point_me_in_the_direction_of_a/)
 - [[R] SOTA for autoencoding images](https://www.reddit.com/r/MachineLearning/comments/1379h3y/r_sota_for_autoencoding_images/)
-- [LLM learn personas, and personas can increase toxicity [R]](https://www.reddit.com/r/MachineLearning/comments/1377hmo/llm_learn_personas_and_personas_can_increase/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
