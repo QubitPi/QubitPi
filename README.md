@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. https...](https://twitter.com/memgraphdb/status/1654057278914408448)
 - [💥 Discover the future of data analytics with our Real-Time Graph Analytics #Memgraph Webinar! Get insights from @supe_katarina, a DevRel Engineer a...](https://twitter.com/memgraphdb/status/1654022298024701954)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1654008203317739520)
 - [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1653993861713207300)
 - [❗️ In the new age, actually having data is less and less of an issue. What to do with all that data and how it can help our business - that is the r...](https://twitter.com/memgraphdb/status/1653983040215851008)
-- [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1653832549263613970)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
