@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://www.reddit.com/r/MachineLearning/comments/1381gd3/r_distilling_stepbystep_outperforming_larger/)
 - [Prediction and Entropy of Printed English. Shannon 1951](https://www.reddit.com/r/MachineLearning/comments/137zz3j/prediction_and_entropy_of_printed_english_shannon/)
 - [[D] With powerful general models like SAM starting to roll out, is computer vision close to being solved?](https://www.reddit.com/r/MachineLearning/comments/137uu2u/d_with_powerful_general_models_like_sam_starting/)
 - [[Research] [Project] Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/137ssn6/research_project_texttoaudio_generation_using/)
 - [[D] will driverless cars need good theory of mind to function safer than humans?](https://www.reddit.com/r/MachineLearning/comments/137sj3y/d_will_driverless_cars_need_good_theory_of_mind/)
-- [[D] Google &quot;We Have No Moat, And Neither Does OpenAI&quot;: Leaked Internal Google Document Claims Open Source AI Will Outcompete Google and OpenAI](https://www.reddit.com/r/MachineLearning/comments/137rxgw/d_google_we_have_no_moat_and_neither_does_openai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
