@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] DDPG Implementation](https://www.reddit.com/r/MachineLearning/comments/137okuc/p_ddpg_implementation/)
-- [[R] Fully Autonomous Programming with Large Language Models](https://www.reddit.com/r/MachineLearning/comments/137odqz/r_fully_autonomous_programming_with_large/)
-- [[N] May 9, Free Talk with Matt Welsh, &quot;Large Language Models and the End of Programming&quot;](https://www.reddit.com/r/MachineLearning/comments/137jfvl/n_may_9_free_talk_with_matt_welsh_large_language/)
-- [[D] Best method to have a NN respond as someone](https://www.reddit.com/r/MachineLearning/comments/137j04b/d_best_method_to_have_a_nn_respond_as_someone/)
-- [[Research] Towards Accurate, Credible and Traceable Large Language Models！！！](https://www.reddit.com/r/MachineLearning/comments/137iyxk/research_towards_accurate_credible_and_traceable/)
+- [[Research] [Project] Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/137ssn6/research_project_texttoaudio_generation_using/)
+- [[D] will driverless cars need good theory of mind to function safer than humans?](https://www.reddit.com/r/MachineLearning/comments/137sj3y/d_will_driverless_cars_need_good_theory_of_mind/)
+- [[D] Machine Learning in Oil &amp; Gas](https://www.reddit.com/r/MachineLearning/comments/137s4xi/d_machine_learning_in_oil_gas/)
+- [CNNs: Problem w/ Convolutional and Max Pooling Layer Input Shape using TensorFlow/Keras [R]](https://www.reddit.com/r/MachineLearning/comments/137s2vs/cnns_problem_w_convolutional_and_max_pooling/)
+- [[D] Google &quot;We Have No Moat, And Neither Does OpenAI&quot;: Leaked Internal Google Document Claims Open Source AI Will Outcompete Google and OpenAI](https://www.reddit.com/r/MachineLearning/comments/137rxgw/d_google_we_have_no_moat_and_neither_does_openai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
