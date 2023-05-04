@@ -273,11 +273,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [MaMMUT: A simple vision-encoder text-decoder architecture for multimodal tasks](http://ai.googleblog.com/2023/05/mammut-simple-vision-encoder-text.html)
 - [IndoorSim-to-OutdoorReal: Learning to navigate outdoors without any outdoor experience](http://ai.googleblog.com/2023/05/indoorsim-to-outdoorreal-learning-to.html)
 - [Google at ICLR 2023](http://ai.googleblog.com/2023/04/google-at-iclr-2023.html)
 - [An ML-based approach to better characterize lung diseases](http://ai.googleblog.com/2023/04/an-ml-based-approach-to-better.html)
 - [Robust and efficient medical imaging with self-supervision](http://ai.googleblog.com/2023/04/robust-and-efficient-medical-imaging.html)
-- [LayerNAS: Neural architecture search in polynomial complexity](http://ai.googleblog.com/2023/04/layernas-neural-architecture-search-in.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
