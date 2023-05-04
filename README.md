@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#GraphSummit2023 in Canberra!! NOW: Dr. Jim Webber, Chief Scientist of Neo4j, delivers his keynote. @jimwebber https://t.co/TxYwWDQlu3](https://twitter.com/neo4j/status/1653903273814900736)
+- [Have you ever wondered how a database captures the structure of nodes and relationships resulting from a query? According to Kees Vegter, the path is ...](https://twitter.com/neo4j/status/1653882139790721025)
 - [Is there a better way to learn rather than Live Demos?✨ Machine Learning, Data Science, Fraud Detection ---&gt; You can pick the one you like! Take a lo...](https://twitter.com/neo4j/status/1653836902074556456)
 - [See you at the Gartner Supply Chain Symposium 2023? Meet us in our booth and learn how you can achieve 1000x performance at unlimited scale to address...](https://twitter.com/neo4j/status/1653777121410441219)
 - [A livestream you do not want to miss: #Neo4j + #ChatGPT Use the power of #AI and #ML! #graphdatabase #chatbot @alexandererdl @mesirii https://okt.to/K...](https://twitter.com/neo4j/status/1653770768063295491)
-- [We are part of the CRN’s Big Data 100 ranking!🎉 Thank you, @CRN and @RickWhiting1! Learn more about this ranking here: https://okt.to/oM1TAm #Neo4...](https://twitter.com/neo4j/status/1653727397680754690)
-- [Learning, meeting graphistas, and having fun - #GraphSummit2023 in Sydney is on 🔥 @jimwebber @sidagarwal04 @danielcfng https://t.co/vNLL8WGBhe](https://twitter.com/neo4j/status/1653574882909646848)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
