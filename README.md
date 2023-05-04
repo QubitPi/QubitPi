@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/791370075550515206><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/045940a2e62e32744067283662d10189401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #白术# #长生# 《原神》剧情PV-「长生」现已发布~ https://www.bilibili.com/video/BV1Vh411L7st 厄运与病疾，是为世人难避之苦。 死亡与长生，...](https://t.bilibili.com/791810498672721921)
+- [《原神》剧情PV-「长生」](https://t.bilibili.com/791803313193484368)
 - [恭喜@墨徵衿@青栀夏凉@FaIIcaros等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/791370075550515206)
 - [互动抽奖 #原神# #坎蒂丝# #生日快乐# 沙漠的星空很漂亮吧？我守夜的时候，星星也会在天上陪伴。 说起来，沙漠里还流传着一则星星和守夜人的故事呢。 传说有一天...](https://t.bilibili.com/791339194735657089)
 - [《原神》拾枝杂谈-「卡维：宏愿迢迢」](https://t.bilibili.com/791339194716782657)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈愿...](https://t.bilibili.com/791061851515387906)
-- [#原神# #甘雨# #浮生孰来# 亲爱的旅行者，「浮生孰来」活动祈愿现已开启，「循循守月·甘雨&lpar;冰&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/791061336117215270)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
