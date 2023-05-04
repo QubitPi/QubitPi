@@ -353,11 +353,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [RailTel India Partners With Pinakastra Computing to Build an Enterprise-Grade Multi-Region Private Cloud Infrastructure, Using OpenStack](https://superuser.openinfra.dev/articles/railtel-india-partners-with-pinakastra-computing-for-building-and-enterprise-grade-multi-region-private-cloud-infrastructure/)
 - [Tips for Applying for the 2023 Superuser Awards](https://superuser.openinfra.dev/articles/tips-for-applying-for-the-2023-superuser-awards/)
 - [Inside Open Infrastructure: The OpenInfra Summit Keynotes](https://superuser.openinfra.dev/articles/openinfra-newsletter-56/)
 - [Why You Should Join Me at the OpenInfra Summit](https://superuser.openinfra.dev/articles/why-you-should-join-me-at-the-openinfra-summit/)
 - [LOKI at the OpenInfra Summit](https://superuser.openinfra.dev/articles/loki-at-the-openinfra-summit/)
-- [Let’s Take a Trip Back to 2018](https://superuser.openinfra.dev/articles/lets-take-a-trip-back-to-2018/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
