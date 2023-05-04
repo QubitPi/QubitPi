@@ -150,7 +150,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ##### HashiCorp
 
-[Packer](http://www.packer.io/) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+[Packer](https://qubitpi.github.io/hashicorp-packer/packer) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 ##### [OpenStack](https://youtu.be/locCs2Duk5U)
 
