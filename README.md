@@ -325,11 +325,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [ChatGPT Generated Star Wars Data — Let&#39;s Explore With Neo4j](https://www.youtube.com/watch?v=xK7K-4Te8Bs)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=6BMCXFii4Po)
 - [Neo4j Live: GraphGPT Trailer #shorts](https://www.youtube.com/watch?v=2UlnCZV96iI)
 - [Neo4j Live: GraphGPT](https://www.youtube.com/watch?v=As2UBg56b3o)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=UuGrblKXnGE)
+- [Going Meta - Ep 16: Semantic Similarity Metrics in Taxonomies](https://www.youtube.com/watch?v=WwTxlyjY35I)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
