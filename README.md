@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We’re very excited to announce #NODES2023! 🎉💥 During this 24-hour conference, you’ll engage with the global community of graph thinkers, excha...](https://twitter.com/neo4j/status/1654108823643209728)
 - [Resist the Empire on #MayThe4th with @jalakoo and @alison_cossette where they try to plot the best intergalactic path avoiding imperial patrols. Strea...](https://twitter.com/neo4j/status/1654078543368708096)
 - [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit https://twitter.com/i/broadcasts/1RDGlaqvNnqJL](https://twitter.com/neo4j/status/1654033626378428416)
 - [#GraphSummit2023 in Canberra!! NOW: Dr. Jim Webber, Chief Scientist of Neo4j, delivers his keynote. @jimwebber https://t.co/TxYwWDQlu3](https://twitter.com/neo4j/status/1653903273814900736)
 - [Have you ever wondered how a database captures the structure of nodes and relationships resulting from a query? According to Kees Vegter, the path is ...](https://twitter.com/neo4j/status/1653882139790721025)
+- [Is there a better way to learn rather than Live Demos?✨ Machine Learning, Data Science, Fraud Detection ---&gt; You can pick the one you like! Take a lo...](https://twitter.com/neo4j/status/1653836902074556456)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
