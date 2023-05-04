@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Can LLaMA approve credit card applications? [Part 1] [Research]](https://www.reddit.com/r/MachineLearning/comments/137c5x1/can_llama_approve_credit_card_applications_part_1/)
+- [[P] Anyone able to point me in the direction of a free movie script database that also provides metadata such as its score on rotten tomatoes?](https://www.reddit.com/r/MachineLearning/comments/137c0o8/p_anyone_able_to_point_me_in_the_direction_of_a/)
 - [[R] SOTA for autoencoding images](https://www.reddit.com/r/MachineLearning/comments/1379h3y/r_sota_for_autoencoding_images/)
 - [LLM learn personas, and personas can increase toxicity [R]](https://www.reddit.com/r/MachineLearning/comments/1377hmo/llm_learn_personas_and_personas_can_increase/)
 - [[D] Where do I begin studying to run LLMs locally or in a private cloud?](https://www.reddit.com/r/MachineLearning/comments/13741w6/d_where_do_i_begin_studying_to_run_llms_locally/)
-- [[Discussion]: Mark Zuckerberg on Meta&#39;s Strategy on Open Source and AI during the earnings call](https://www.reddit.com/r/MachineLearning/comments/1373nhq/discussion_mark_zuckerberg_on_metas_strategy_on/)
-- [[Research] Would it be possible for you to provide me with organizations, sectors or industries which could/have implemented AI/ML to their value chain?](https://www.reddit.com/r/MachineLearning/comments/1373jd1/research_would_it_be_possible_for_you_to_provide/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
