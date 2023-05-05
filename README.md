@@ -136,7 +136,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Machine Learning
 
-[Python](https://qubitpi.github.io/cpython/) | [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [My ML Blogs](https://qubitpi.github.io/jersey-guide/)
+[scikit-learn](https://qubitpi.github.io/scikit-learn/) | [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/)
 
 ##### Data/Knowledge Graph
 
