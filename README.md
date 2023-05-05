@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Can biological neurons be properly emulated with current microcomputer hardware?](https://www.reddit.com/r/MachineLearning/comments/13890af/d_can_biological_neurons_be_properly_emulated/)
 - [[D] What tech stacks do you use when creating an LLM based app?](https://www.reddit.com/r/MachineLearning/comments/1386pjt/d_what_tech_stacks_do_you_use_when_creating_an/)
 - [[R] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://www.reddit.com/r/MachineLearning/comments/1381gd3/r_distilling_stepbystep_outperforming_larger/)
 - [Prediction and Entropy of Printed English. Shannon 1951](https://www.reddit.com/r/MachineLearning/comments/137zz3j/prediction_and_entropy_of_printed_english_shannon/)
 - [[D] With powerful general models like SAM starting to roll out, is computer vision close to being solved?](https://www.reddit.com/r/MachineLearning/comments/137uu2u/d_with_powerful_general_models_like_sam_starting/)
-- [[Research] [Project] Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/137ssn6/research_project_texttoaudio_generation_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
