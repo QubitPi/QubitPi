@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1654393995785564160)
 - [🚀 Building a recommendation system using Memgraph is simpler than you think. #gamedevelopers #gamedev #recommendationsystems #memgraph #database #m...](https://twitter.com/memgraphdb/status/1654370594178191361)
 - [🚀 The Memgraph ecosystem is an ideal solution for knowledge graphs. It offers many out-of-the-box graph analytics algorithms within its open-source...](https://twitter.com/memgraphdb/status/1654360022720077825)
 - [🏆 Which countries predicted Eurovision winners best? Analyze voting patterns and geopolitics with graph analytics! @Eurovision #graphs #bigdata #me...](https://twitter.com/memgraphdb/status/1654360022367760384)
 - [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1654337374778802177)
+- [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1654190655738990606)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
