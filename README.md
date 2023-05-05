@@ -377,11 +377,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.27: Quality-of-Service for Memory Resources &lpar;alpha&rpar;](https://kubernetes.io/blog/2023/05/05/qos-memory-resources/)
 - [Blog: Kubernetes 1.27: StatefulSet PVC Auto-Deletion &lpar;beta&rpar;](https://kubernetes.io/blog/2023/05/04/kubernetes-1-27-statefulset-pvc-auto-deletion-beta/)
 - [Blog: Kubernetes 1.27: HorizontalPodAutoscaler ContainerResource type metric moves to beta](https://kubernetes.io/blog/2023/05/02/hpa-container-resource-metric/)
 - [Blog: Kubernetes 1.27: StatefulSet Start Ordinal Simplifies Migration](https://kubernetes.io/blog/2023/04/28/statefulset-start-ordinal/)
 - [Blog: Updates to the Auto-refreshing Official CVE Feed](https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta/)
-- [Blog: Kubernetes 1.27: Server Side Field Validation and OpenAPI V3 move to GA](https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
