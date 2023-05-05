@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792082743750033411><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bfffe518b1682f82b9881454f51e456f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792178053369298967><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/80b3ebad7d8054a555495422a4bcb673401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #盛典与慧业# 《原神》盛典与慧业活动过场动画-「荣冕」现已发布~ https://www.bilibili.com/video/BV1oP411y7wZ 二十年来，每届学院争霸赛都会...](https://t.bilibili.com/792178053369298967)
