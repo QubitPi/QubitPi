@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Distributed Deep Learning in TensorFlow](https://www.reddit.com/r/MachineLearning/comments/138v4fw/r_distributed_deep_learning_in_tensorflow/)
 - [[D] Training a population of models for image generation?](https://www.reddit.com/r/MachineLearning/comments/138tmn3/d_training_a_population_of_models_for_image/)
 - [[N] Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.reddit.com/r/MachineLearning/comments/138sdwu/n_introducing_mpt7b_a_new_standard_for_opensource/)
 - [[Discussion] Questions about linear regression, polynomial features and multilayer NN.](https://www.reddit.com/r/MachineLearning/comments/138rp8q/discussion_questions_about_linear_regression/)
 - [[D] The hype around Mojo lang](https://www.reddit.com/r/MachineLearning/comments/138pj32/d_the_hype_around_mojo_lang/)
-- [[R] Awesome AI Safety – A curated list of papers &amp; technical articles on AI Quality &amp; Safety](https://www.reddit.com/r/MachineLearning/comments/138ph8f/r_awesome_ai_safety_a_curated_list_of_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
