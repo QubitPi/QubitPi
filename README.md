@@ -353,7 +353,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
-- [Kata Containers Is Being Added To Azure Kubernetes Service &lpar;AKS&rpar; | KubeCon EU](https://superuser.openinfra.dev/articles/kata-containers-is-being-added-to-azure-kubernetes-service-aks-kubecon-eu/)
+- [Kata Containers Integrated with Microsoft’s AKS Offering for Improved Container Security | KubeCon EU](https://superuser.openinfra.dev/articles/kata-containers-is-being-added-to-azure-kubernetes-service-aks-kubecon-eu/)
 - [Learn How To Upgrade From OpenStack Experts](https://superuser.openinfra.dev/articles/learn-how-to-upgrade-from-openstack-experts/)
 - [Join me for the PTG and Forum at the OpenInfra Summit!](https://superuser.openinfra.dev/articles/join-me-for-the-ptg-and-forum-at-the-openinfra-summit/)
 - [May the OpenInfra Force Be With You: Preview of the OpenInfra Summit! | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/may-the-openinfra-force-be-with-you-preview/)
