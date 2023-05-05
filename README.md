@@ -239,7 +239,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/791810498672721921><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1778aaeba39797bf541782aefe49925401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792082743750033411><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bfffe518b1682f82b9881454f51e456f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #白术# #长生# 《原神》剧情PV-「长生」现已发布~ https://www.bilibili.com/video/BV1Vh411L7st 厄运与病疾，是为世人难避之苦。 死亡与长生，...](https://t.bilibili.com/791810498672721921)
