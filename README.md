@@ -242,11 +242,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792112237306183817><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/da691bdfc0ed83effb9d7dde5b5f8c59401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@殤之翼@帷幄_千里@飞鱼猛龙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/792112237306183817)
+- [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.6版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/792082743750033411)
+- [#原神# #原神表情包# #派蒙的画作# 《原神》表情包「派蒙的画作第23弹」现已上线 亲爱的旅行者，「派蒙的画作第23弹」表情包现已陆续开放下载，欢迎前往【微信表...](https://t.bilibili.com/792081584128786436)
 - [互动抽奖 #原神# #白术# #长生# 《原神》剧情PV-「长生」现已发布~ https://www.bilibili.com/video/BV1Vh411L7st 厄运与病疾，是为世人难避之苦。 死亡与长生，...](https://t.bilibili.com/791810498672721921)
 - [《原神》剧情PV-「长生」](https://t.bilibili.com/791803313193484368)
-- [恭喜@墨徵衿@青栀夏凉@FaIIcaros等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/791370075550515206)
-- [互动抽奖 #原神# #坎蒂丝# #生日快乐# 沙漠的星空很漂亮吧？我守夜的时候，星星也会在天上陪伴。 说起来，沙漠里还流传着一则星星和守夜人的故事呢。 传说有一天...](https://t.bilibili.com/791339194735657089)
-- [《原神》拾枝杂谈-「卡维：宏愿迢迢」](https://t.bilibili.com/791339194716782657)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
