@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Questions about linear regression, polynomial features and multilayer NN.](https://www.reddit.com/r/MachineLearning/comments/138rp8q/discussion_questions_about_linear_regression/)
 - [[D] The hype around Mojo lang](https://www.reddit.com/r/MachineLearning/comments/138pj32/d_the_hype_around_mojo_lang/)
 - [[R] Awesome AI Safety – A curated list of papers &amp; technical articles on AI Quality &amp; Safety](https://www.reddit.com/r/MachineLearning/comments/138ph8f/r_awesome_ai_safety_a_curated_list_of_papers/)
 - [[D] Is the math in Integrated gradients &lpar;4K citations&rpar; wrong?](https://www.reddit.com/r/MachineLearning/comments/138m3ww/d_is_the_math_in_integrated_gradients_4k/)
 - [[D] LLMs and their computational resources](https://www.reddit.com/r/MachineLearning/comments/138jf6g/d_llms_and_their_computational_resources/)
-- [[D] p2p network of LLMs for more depth of knowledge?](https://www.reddit.com/r/MachineLearning/comments/138hif1/d_p2p_network_of_llms_for_more_depth_of_knowledge/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
