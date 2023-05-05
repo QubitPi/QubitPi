@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] High quality code bases for &lpar;large-scale&rpar; training of text embedding models](https://www.reddit.com/r/MachineLearning/comments/138d2d3/d_high_quality_code_bases_for_largescale_training/)
 - [[R] Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://www.reddit.com/r/MachineLearning/comments/138atnt/r_unlimiformer_longrange_transformers_with/)
 - [[D] A good book to learn probability behind ML](https://www.reddit.com/r/MachineLearning/comments/1389t20/d_a_good_book_to_learn_probability_behind_ml/)
 - [[D] Can biological neurons be properly emulated with current microcomputer hardware?](https://www.reddit.com/r/MachineLearning/comments/13890af/d_can_biological_neurons_be_properly_emulated/)
 - [[D] What tech stacks do you use when creating an LLM based app?](https://www.reddit.com/r/MachineLearning/comments/1386pjt/d_what_tech_stacks_do_you_use_when_creating_an/)
-- [[R] Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://www.reddit.com/r/MachineLearning/comments/1381gd3/r_distilling_stepbystep_outperforming_larger/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
