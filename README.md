@@ -49,7 +49,7 @@ _Open Innovation_ as Career
 >    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
 ></a>
 >
-> I'd like to take this moment to thank Yahoo!, my former employeer, who fundamentally setup my career and my unperishable passion for data tech. Thank you Yahoo! ❤️
+> I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering, how to write the best software, and the philosophy that the end of Software Development is not about money, but people, passion, and, love. Thank you Yahoo! ❤️
 > <br>
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
