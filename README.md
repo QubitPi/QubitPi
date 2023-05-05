@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] p2p network of LLMs for more depth of knowledge?](https://www.reddit.com/r/MachineLearning/comments/138hif1/d_p2p_network_of_llms_for_more_depth_of_knowledge/)
 - [[P] 10x faster reinforcement learning HPO - now for RLHF!](https://www.reddit.com/r/MachineLearning/comments/138h51e/p_10x_faster_reinforcement_learning_hpo_now_for/)
 - [[N] StarCoder: A State-of-the-Art LLM for Code](https://www.reddit.com/r/MachineLearning/comments/138gghn/n_starcoder_a_stateoftheart_llm_for_code/)
 - [[R] Call for Fictional Abstracts: Ethics, Sustainability, and Creative-AI Futures @ ICCC&#39;23](https://www.reddit.com/r/MachineLearning/comments/138fcfi/r_call_for_fictional_abstracts_ethics/)
 - [Using GPT-4 for data analysis and visualisation](https://www.reddit.com/r/MachineLearning/comments/138eoot/using_gpt4_for_data_analysis_and_visualisation/)
-- [[P]I built a virtual friend app inspired by the movie Her](https://www.reddit.com/r/MachineLearning/comments/138e17w/pi_built_a_virtual_friend_app_inspired_by_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
