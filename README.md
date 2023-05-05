@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Interested in mastering #Neo4j? Pre-register for this course! 🖥 Check it out--- you&#39;ll want to take it! https://okt.to/Zq4PHb #neo4j #GraphAcademy ...](https://twitter.com/neo4j/status/1654463518966464523)
 - [GENERATE DATE FROM SCRATCH WITH #CHATGPT with Jonathan wearing a mask 😊 Happy May 4th! #MayThe4thBeWithYou #Neo4j #database https://okt.to/50mbIx h...](https://twitter.com/neo4j/status/1654214381155090433)
 - [Oh, we love this day :&rpar; Listen to our new #podcast episode, and May The Graph be With You! --With @alison_cossette, @jalakoo and @lyonwj , and Jason. ...](https://twitter.com/neo4j/status/1654175829239136262)
 - [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements https://twitter.com/i/broadcasts/1OdJrzRqERlJX](https://twitter.com/neo4j/status/1654154201314783232)
 - [We’re very excited to announce #NODES2023! 🎉💥 During this 24-hour conference, you’ll engage with the global community of graph thinkers, excha...](https://twitter.com/neo4j/status/1654108823643209728)
-- [Resist the Empire on #MayThe4th with @jalakoo and @alison_cossette where they try to plot the best intergalactic path avoiding imperial patrols. Strea...](https://twitter.com/neo4j/status/1654078543368708096)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
