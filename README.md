@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P]mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://www.reddit.com/r/MachineLearning/comments/139dv78/pmplugowl_modularization_empowers_large_language/)
 - [[D]: One H100 or two A100?](https://www.reddit.com/r/MachineLearning/comments/139dr2q/d_one_h100_or_two_a100/)
 - [[P] Conversational style series of books on the mathematics for machine learning.](https://www.reddit.com/r/MachineLearning/comments/139dgrj/p_conversational_style_series_of_books_on_the/)
 - [[P] The first RedPajama models are here! The 3B and 7B models are now available under Apache 2.0, including instruction-tuned and chat versions. These models aim replicate LLaMA as closely as possible.](https://www.reddit.com/r/MachineLearning/comments/13965sq/p_the_first_redpajama_models_are_here_the_3b_and/)
 - [[D] Best strategy for reading from remotes to another remote or to local.](https://www.reddit.com/r/MachineLearning/comments/1390i9c/d_best_strategy_for_reading_from_remotes_to/)
-- [[R] OpenAI Shap-E: 3D NeRF generation &lpar;with code and model&rpar;](https://www.reddit.com/r/MachineLearning/comments/138x24r/r_openai_shape_3d_nerf_generation_with_code_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
