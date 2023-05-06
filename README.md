@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Public API for open LLMs like llama.cpp with pay-per-use ?](https://www.reddit.com/r/MachineLearning/comments/139mnyd/p_public_api_for_open_llms_like_llamacpp_with/)
 - [[R] How to improve the quality of Large Language Models and solve the alignment problem](https://www.reddit.com/r/MachineLearning/comments/139izs4/r_how_to_improve_the_quality_of_large_language/)
 - [[P] Deep Learninh](https://www.reddit.com/r/MachineLearning/comments/139ik1e/p_deep_learninh/)
 - [[R] A Neuro-Vector-Symbolic Architecture For Solving Raven&#39;s Progressive Matrices](https://www.reddit.com/r/MachineLearning/comments/139h7ds/r_a_neurovectorsymbolic_architecture_for_solving/)
 - [[P] A better way to extract data from documents](https://www.reddit.com/r/MachineLearning/comments/139ee27/p_a_better_way_to_extract_data_from_documents/)
-- [[P]mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://www.reddit.com/r/MachineLearning/comments/139dv78/pmplugowl_modularization_empowers_large_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
