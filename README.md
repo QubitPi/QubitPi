@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1654789353816702977)
+- [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1654782053752111105)
+- [🌐 Uncover the power of data lineage in our #Memgraph Webinar featuring @get_manta Flow! Explore how graph technology helps analyze interconnected s...](https://twitter.com/memgraphdb/status/1654771482243788800)
 - [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1654732979283927040)
 - [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1654722413391757313)
-- [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph https://memgraph.com/knowledge-graph](https://twitter.com/memgraphdb/status/1654707813279514626)
-- [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity #memgraph #database #memgraphdb #graphda...](https://twitter.com/memgraphdb/status/1654557323774382083)
-- [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1654533414727344129)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
