@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Should Hollywood writers be concerned about AIs taking their jobs?](https://www.reddit.com/r/MachineLearning/comments/139vsbr/d_should_hollywood_writers_be_concerned_about_ais/)
 - [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/139twd2/p_implementing_convolutional_neural_network_for/)
 - [[D] perplexity.ai appreciation / information post](https://www.reddit.com/r/MachineLearning/comments/139tthh/d_perplexityai_appreciation_information_post/)
 - [[P] Public API for open LLMs like llama.cpp with pay-per-use ?](https://www.reddit.com/r/MachineLearning/comments/139mnyd/p_public_api_for_open_llms_like_llamacpp_with/)
 - [[R] A Neuro-Vector-Symbolic Architecture For Solving Raven&#39;s Progressive Matrices](https://www.reddit.com/r/MachineLearning/comments/139h7ds/r_a_neurovectorsymbolic_architecture_for_solving/)
-- [[P]mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://www.reddit.com/r/MachineLearning/comments/139dv78/pmplugowl_modularization_empowers_large_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
