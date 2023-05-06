@@ -337,11 +337,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1654732979283927040)
-- [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1654722413391757313)
-- [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph https://memgraph.com/knowledge-graph](https://twitter.com/memgraphdb/status/1654707813279514626)
 - [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity #memgraph #database #memgraphdb #graphda...](https://twitter.com/memgraphdb/status/1654557323774382083)
 - [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1654533414727344129)
+- [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1654519322201522178)
+- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. htt...](https://twitter.com/memgraphdb/status/1654515548074418176)
+- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1654492901190119425)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
