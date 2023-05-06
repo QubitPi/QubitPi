@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project]Getting extra observations. Any Fixes???](https://www.reddit.com/r/MachineLearning/comments/139s0wy/projectgetting_extra_observations_any_fixes/)
 - [[R] Generating LLM embeddings with open source models in PostgresML](https://www.reddit.com/r/MachineLearning/comments/139rmex/r_generating_llm_embeddings_with_open_source/)
 - [Is AI Wizard Magic? Unbelievable Transformations and the Future of Humanity [P]](https://www.reddit.com/r/MachineLearning/comments/139qr3v/is_ai_wizard_magic_unbelievable_transformations/)
 - [[P] Public API for open LLMs like llama.cpp with pay-per-use ?](https://www.reddit.com/r/MachineLearning/comments/139mnyd/p_public_api_for_open_llms_like_llamacpp_with/)
 - [[R] How to improve the quality of Large Language Models and solve the alignment problem](https://www.reddit.com/r/MachineLearning/comments/139izs4/r_how_to_improve_the_quality_of_large_language/)
-- [[P] Deep Learninh](https://www.reddit.com/r/MachineLearning/comments/139ik1e/p_deep_learninh/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
