@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Pinecone free index in us-west1-gcp-free refusing api connections](https://www.reddit.com/r/MachineLearning/comments/139z3yv/dpinecone_free_index_in_uswest1gcpfree_refusing/)
 - [[R] multiview radiance field reconstruction of human heads — dynamic neural radiance fields using hash ensembles — NeRSemble](https://www.reddit.com/r/MachineLearning/comments/139yx61/r_multiview_radiance_field_reconstruction_of/)
 - [[R][P] I made an app for Instant Image/Text to 3D using ShapE from OpenAI](https://www.reddit.com/r/MachineLearning/comments/139yc73/rp_i_made_an_app_for_instant_imagetext_to_3d/)
 - [[D] Should Hollywood writers be concerned about AIs taking their jobs?](https://www.reddit.com/r/MachineLearning/comments/139vsbr/d_should_hollywood_writers_be_concerned_about_ais/)
 - [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/139twd2/p_implementing_convolutional_neural_network_for/)
-- [[D] perplexity.ai appreciation / information post](https://www.reddit.com/r/MachineLearning/comments/139tthh/d_perplexityai_appreciation_information_post/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
