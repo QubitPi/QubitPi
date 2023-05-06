@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Auto Copilot CLI](https://www.reddit.com/r/MachineLearning/comments/13a4ozj/p_auto_copilot_cli/)
 - [[Project] Multi-feature search thingy](https://www.reddit.com/r/MachineLearning/comments/13a2nky/project_multifeature_search_thingy/)
 - [[Project] teleprint-me/genesis: Genesis: A versatile AI model interface for creating, training, and interacting with models from OpenAI, Eleven Labs, Meta Llama, Hugging Face, and other local models.](https://www.reddit.com/r/MachineLearning/comments/13a1vou/project_teleprintmegenesis_genesis_a_versatile_ai/)
 - [OpenAI - Shap-E: Generating Conditional 3D Implicit Functions](https://www.reddit.com/r/MachineLearning/comments/13a1tlu/openai_shape_generating_conditional_3d_implicit/)
 - [[D] Which telephony companies can I use to do real-time call transcription?](https://www.reddit.com/r/MachineLearning/comments/13a1qtr/d_which_telephony_companies_can_i_use_to_do/)
-- [[D] Is there a place where I can download all of NeurIPS-2022 accepted papers in csv or xlsx format?](https://www.reddit.com/r/MachineLearning/comments/13a0u9e/d_is_there_a_place_where_i_can_download_all_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
