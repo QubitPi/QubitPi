@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/139twd2/p_implementing_convolutional_neural_network_for/)
+- [[D] perplexity.ai appreciation / information post](https://www.reddit.com/r/MachineLearning/comments/139tthh/d_perplexityai_appreciation_information_post/)
 - [[P] Public API for open LLMs like llama.cpp with pay-per-use ?](https://www.reddit.com/r/MachineLearning/comments/139mnyd/p_public_api_for_open_llms_like_llamacpp_with/)
 - [[R] A Neuro-Vector-Symbolic Architecture For Solving Raven&#39;s Progressive Matrices](https://www.reddit.com/r/MachineLearning/comments/139h7ds/r_a_neurovectorsymbolic_architecture_for_solving/)
 - [[P]mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://www.reddit.com/r/MachineLearning/comments/139dv78/pmplugowl_modularization_empowers_large_language/)
-- [[P] Conversational style series of books on the mathematics for machine learning.](https://www.reddit.com/r/MachineLearning/comments/139dgrj/p_conversational_style_series_of_books_on_the/)
-- [[P] The first RedPajama models are here! The 3B and 7B models are now available under Apache 2.0, including instruction-tuned and chat versions. These models aim replicate LLaMA as closely as possible.](https://www.reddit.com/r/MachineLearning/comments/13965sq/p_the_first_redpajama_models_are_here_the_3b_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
