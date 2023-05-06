@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1654897816349573123)
+- [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1654879106184429568)
+- [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1654875169150627840)
 - [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1654855284756545536)
 - [🧠 Explore your cybersecurity graph storage with Memgraph and answer crucial questions about threats. Leverage MAGE, Memgraph&#39;s Advanced Graph Exten...](https://twitter.com/memgraphdb/status/1654845470894694401)
-- [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1654807470278168580)
-- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1654789353816702977)
-- [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1654782053752111105)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
