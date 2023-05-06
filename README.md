@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [OpenAI - Shap-E: Generating Conditional 3D Implicit Functions](https://www.reddit.com/r/MachineLearning/comments/13a1tlu/openai_shape_generating_conditional_3d_implicit/)
+- [[D] Which telephony companies can I use to do real-time call transcription?](https://www.reddit.com/r/MachineLearning/comments/13a1qtr/d_which_telephony_companies_can_i_use_to_do/)
 - [[D] Is there a place where I can download all of NeurIPS-2022 accepted papers in csv or xlsx format?](https://www.reddit.com/r/MachineLearning/comments/13a0u9e/d_is_there_a_place_where_i_can_download_all_of/)
 - [[R] multiview radiance field reconstruction of human heads — dynamic neural radiance fields using hash ensembles — NeRSemble](https://www.reddit.com/r/MachineLearning/comments/139yx61/r_multiview_radiance_field_reconstruction_of/)
 - [[R][P] I made an app for Instant Image/Text to 3D using ShapE from OpenAI](https://www.reddit.com/r/MachineLearning/comments/139yc73/rp_i_made_an_app_for_instant_imagetext_to_3d/)
-- [[D] Should Hollywood writers be concerned about AIs taking their jobs?](https://www.reddit.com/r/MachineLearning/comments/139vsbr/d_should_hollywood_writers_be_concerned_about_ais/)
-- [[P] Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/MachineLearning/comments/139twd2/p_implementing_convolutional_neural_network_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
