@@ -293,11 +293,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] The first RedPajama models are here! The 3B and 7B models are now available under Apache 2.0, including instruction-tuned and chat versions. These models aim replicate LLaMA as closely as possible.](https://www.reddit.com/r/MachineLearning/comments/13965sq/p_the_first_redpajama_models_are_here_the_3b_and/)
 - [[D] Best strategy for reading from remotes to another remote or to local.](https://www.reddit.com/r/MachineLearning/comments/1390i9c/d_best_strategy_for_reading_from_remotes_to/)
 - [[R] OpenAI Shap-E: 3D NeRF generation &lpar;with code and model&rpar;](https://www.reddit.com/r/MachineLearning/comments/138x24r/r_openai_shape_3d_nerf_generation_with_code_and/)
 - [[D] Training a population of models for image generation?](https://www.reddit.com/r/MachineLearning/comments/138tmn3/d_training_a_population_of_models_for_image/)
 - [[N] Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.reddit.com/r/MachineLearning/comments/138sdwu/n_introducing_mpt7b_a_new_standard_for_opensource/)
-- [[Discussion] Questions about linear regression, polynomial features and multilayer NN.](https://www.reddit.com/r/MachineLearning/comments/138rp8q/discussion_questions_about_linear_regression/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
