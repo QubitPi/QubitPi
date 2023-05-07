@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] ICLR 2023 - Brain-Inspired Modular Training for Mechanistic Interpretability](https://www.reddit.com/r/MachineLearning/comments/13acmjl/r_iclr_2023_braininspired_modular_training_for/)
 - [[D] Is openai text-embedding-ada-002 the best embeddings model?](https://www.reddit.com/r/MachineLearning/comments/13aaj2w/d_is_openai_textembeddingada002_the_best/)
 - [[P] Transformer Time Series Segmentation](https://www.reddit.com/r/MachineLearning/comments/13a7skn/p_transformer_time_series_segmentation/)
 - [[P] Deep faking speech of folks who live with Parkinson&#39;s Disease to generate synthetic data for audio classification model training.](https://www.reddit.com/r/MachineLearning/comments/13a5vyt/p_deep_faking_speech_of_folks_who_live_with/)
 - [[P] OpenAI vs Open Source LLM Comparison for Document Q&amp;A](https://www.reddit.com/r/MachineLearning/comments/13a5baq/p_openai_vs_open_source_llm_comparison_for/)
-- [[D] Will the dataset influence the performance of neural network a lot? such as, the network converges on dataset A, but not works on dataset B.](https://www.reddit.com/r/MachineLearning/comments/13a51kp/d_will_the_dataset_influence_the_performance_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
