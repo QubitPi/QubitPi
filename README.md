@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792452407310155859><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7efe82586ad97cc45348ae8837abcfad401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792800282479165479><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cc1cfca4603cf993345112504ca27c12401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #忆昔诸途巡历# 亲爱的旅行者，「忆昔诸途巡历」活动即将开启~ 〓活动时间〓 2023/05/08 10:00 ~ 2023/05/22 03:59 〓参与条件〓 冒险等阶≥20级 且完成...](https://t.bilibili.com/792452407310155859)
