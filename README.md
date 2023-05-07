@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Access to State-of-the-art word embeddings &lpar;from LLMs&rpar; &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/13auj48/access_to_stateoftheart_word_embeddings_from_llms/)
 - [[project] romantic chatbot-esque business](https://www.reddit.com/r/MachineLearning/comments/13astrs/project_romantic_chatbotesque_business/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/13as0ej/d_simple_questions_thread/)
 - [[P] I made a dashboard to analyze OpenAI API usage](https://www.reddit.com/r/MachineLearning/comments/13aotyf/p_i_made_a_dashboard_to_analyze_openai_api_usage/)
 - [[Project] shortgpt - command-line app for GPT3/GPT4](https://www.reddit.com/r/MachineLearning/comments/13aom85/project_shortgpt_commandline_app_for_gpt3gpt4/)
-- [[R][P] Text-to-model AutoML - Remyx AI](https://www.reddit.com/r/MachineLearning/comments/13anovq/rp_texttomodel_automl_remyx_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
