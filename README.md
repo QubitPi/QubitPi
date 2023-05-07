@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1655062150715433016)
 - [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1654915432845910016)
 - [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1654897816349573123)
 - [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1654879106184429568)
 - [🚀 Whether you are an ML enthusiast or ML Expert, you probably heard of Graph Machine Learning. It is one of the most hyped and interesting branches...](https://twitter.com/memgraphdb/status/1654875169150627840)
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1654855284756545536)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
