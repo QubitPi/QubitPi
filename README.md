@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ If you like using NetworkX as a graph analytic tool required for your project but often need to reach for other tools, remember that #Memgraph ca...](https://twitter.com/memgraphdb/status/1655145950413824001)
+- [🎓 To decide what version of the graph database you need, you need to decide what features are important for your use case and do they come with a c...](https://twitter.com/memgraphdb/status/1655133872097468416)
 - [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1655109459797049348)
 - [🌐 Check out @fireship_dev&#39;s video on the top 15 new databases, highlighting #Memgraph! Discover how this powerful #graphdatabase is shaping the fut...](https://twitter.com/memgraphdb/status/1655084799092989953)
 - [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1655062150715433016)
-- [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1654915432845910016)
-- [🔎 Discover critical points in the network or component dependencies, optimize resources and run what-if scenarios, then present those findings visu...](https://twitter.com/memgraphdb/status/1654897816349573123)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
