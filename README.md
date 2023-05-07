@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [This Week In AI - May 7, 2023 [News]](https://www.reddit.com/r/MachineLearning/comments/13aw2zj/this_week_in_ai_may_7_2023_news/)
 - [Checkout the tool I coded to generate a multiple choice quizz from the content of any uploaded PDF [P]](https://www.reddit.com/r/MachineLearning/comments/13av09v/checkout_the_tool_i_coded_to_generate_a_multiple/)
 - [Access to State-of-the-art word embeddings &lpar;from LLMs&rpar; &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/13auj48/access_to_stateoftheart_word_embeddings_from_llms/)
 - [[project] romantic chatbot-esque business](https://www.reddit.com/r/MachineLearning/comments/13astrs/project_romantic_chatbotesque_business/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/13as0ej/d_simple_questions_thread/)
-- [[P] I made a dashboard to analyze OpenAI API usage](https://www.reddit.com/r/MachineLearning/comments/13aotyf/p_i_made_a_dashboard_to_analyze_openai_api_usage/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
