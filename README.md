@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Algebraic Machine Learning as an alternative to current techniques](https://www.reddit.com/r/MachineLearning/comments/13b455y/dalgebraic_machine_learning_as_an_alternative_to/)
 - [[D] do you still pull on linear algebra intuition as a practitioner in 2023?](https://www.reddit.com/r/MachineLearning/comments/13b2w6k/d_do_you_still_pull_on_linear_algebra_intuition/)
 - [[D] What are the compute options you&#39;ve considered for your projects?](https://www.reddit.com/r/MachineLearning/comments/13b1s5f/d_what_are_the_compute_options_youve_considered/)
 - [This Week In AI - May 7, 2023 [News]](https://www.reddit.com/r/MachineLearning/comments/13aw2zj/this_week_in_ai_may_7_2023_news/)
 - [Checkout the tool I coded to generate a multiple choice quizz from the content of any uploaded PDF [P]](https://www.reddit.com/r/MachineLearning/comments/13av09v/checkout_the_tool_i_coded_to_generate_a_multiple/)
-- [Access to State-of-the-art word embeddings &lpar;from LLMs&rpar; &quot;[D]&quot;](https://www.reddit.com/r/MachineLearning/comments/13auj48/access_to_stateoftheart_word_embeddings_from_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
