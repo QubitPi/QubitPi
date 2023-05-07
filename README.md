@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Take this course introduction to graph database and analytics and how Neo4j is used in many enterprises to implement use cases. Register for free!: ht...](https://twitter.com/neo4j/status/1655256218208698368)
 - [Jennifer Abel sets up #Neo4j on #Kubernetes to kick off a multi-part blog describing a supply chain project to analyze transportation orders. https://...](https://twitter.com/neo4j/status/1654878712024768513)
 - [Developers, this is your chance: The call for papers for #NODES2023 is now open until June 30!🔥 Pssst - if you submit your talk by May 31, you can ...](https://twitter.com/neo4j/status/1654818326000877569)
 - [Interested in LLM&#39;s? Tomaz Bratanic creates a project integrating a graph database into LangChain, a library for building applications around LLMs lik...](https://twitter.com/neo4j/status/1654501387957420037)
 - [Interested in mastering #Neo4j? Pre-register for this course! 🖥 Check it out--- you&#39;ll want to take it! https://okt.to/Zq4PHb #neo4j #GraphAcademy ...](https://twitter.com/neo4j/status/1654463518966464523)
-- [GENERATE DATE FROM SCRATCH WITH #CHATGPT with Jonathan wearing a mask 😊 Happy May 4th! #MayThe4thBeWithYou #Neo4j #database https://okt.to/50mbIx h...](https://twitter.com/neo4j/status/1654214381155090433)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
