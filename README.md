@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] An Experimental Showcase of AI&#39;s Impact on Research Accessibility: How to train a Custom-Chatbot on a niche topic PhD Thesis in Quantum Biology, Neurobiology, Molecular Biology to enhance accessibility to the laymen.](https://www.reddit.com/r/MachineLearning/comments/13amlaf/r_an_experimental_showcase_of_ais_impact_on/)
 - [[D] Potential legal ramifications of performing transfer learning on stable diffusion](https://www.reddit.com/r/MachineLearning/comments/13aliuh/d_potential_legal_ramifications_of_performing/)
 - [[Discussion] What do you think are the most interesting fundamental theorems of ML?](https://www.reddit.com/r/MachineLearning/comments/13akgk9/discussion_what_do_you_think_are_the_most/)
 - [[P] Finetuning ViTs for image classification with LoRA](https://www.reddit.com/r/MachineLearning/comments/13ajkjt/p_finetuning_vits_for_image_classification_with/)
 - [[Research] Using AI to pull key points and give a summary of a video. Would this be useful?](https://www.reddit.com/r/MachineLearning/comments/13ah17m/research_using_ai_to_pull_key_points_and_give_a/)
-- [[P] ggml bindings for node.js](https://www.reddit.com/r/MachineLearning/comments/13agbfh/p_ggml_bindings_for_nodejs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
