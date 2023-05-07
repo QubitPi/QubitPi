@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[project] romantic chatbot-esque business](https://www.reddit.com/r/MachineLearning/comments/13astrs/project_romantic_chatbotesque_business/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/13as0ej/d_simple_questions_thread/)
 - [[P] I made a dashboard to analyze OpenAI API usage](https://www.reddit.com/r/MachineLearning/comments/13aotyf/p_i_made_a_dashboard_to_analyze_openai_api_usage/)
 - [[Project] shortgpt - command-line app for GPT3/GPT4](https://www.reddit.com/r/MachineLearning/comments/13aom85/project_shortgpt_commandline_app_for_gpt3gpt4/)
 - [[R][P] Text-to-model AutoML - Remyx AI](https://www.reddit.com/r/MachineLearning/comments/13anovq/rp_texttomodel_automl_remyx_ai/)
-- [[D] Best tool/project for using GPT-4 with a voice interface?](https://www.reddit.com/r/MachineLearning/comments/13an0pf/d_best_toolproject_for_using_gpt4_with_a_voice/)
-- [Feature Selection [P]](https://www.reddit.com/r/MachineLearning/comments/13amv1p/feature_selection_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
