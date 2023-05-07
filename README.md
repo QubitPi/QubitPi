@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] shortgpt - command-line app for GPT3/GPT4](https://www.reddit.com/r/MachineLearning/comments/13aom85/project_shortgpt_commandline_app_for_gpt3gpt4/)
 - [[R][P] Text-to-model AutoML - Remyx AI](https://www.reddit.com/r/MachineLearning/comments/13anovq/rp_texttomodel_automl_remyx_ai/)
 - [[D] Best tool/project for using GPT-4 with a voice interface?](https://www.reddit.com/r/MachineLearning/comments/13an0pf/d_best_toolproject_for_using_gpt4_with_a_voice/)
 - [[D] The Cat Sat on the: The Problem with AI](https://www.reddit.com/r/MachineLearning/comments/13amxjq/d_the_cat_sat_on_the_the_problem_with_ai/)
 - [Feature Selection [P]](https://www.reddit.com/r/MachineLearning/comments/13amv1p/feature_selection_p/)
-- [[P] Update Auto Copilot CLI](https://www.reddit.com/r/MachineLearning/comments/13amty3/p_update_auto_copilot_cli/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
