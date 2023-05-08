@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] Can LLMs do meaning causal reasoning? Preprint says yes but I think it&#39;s hype.](https://www.reddit.com/r/MachineLearning/comments/13bua1t/research_can_llms_do_meaning_causal_reasoning/)
 - [[D] Calculate the correct repetition of exercise](https://www.reddit.com/r/MachineLearning/comments/13bmayl/d_calculate_the_correct_repetition_of_exercise/)
 - [[D] Current advice on generative AI for writing](https://www.reddit.com/r/MachineLearning/comments/13blj1e/d_current_advice_on_generative_ai_for_writing/)
 - [[D] Adaptive Low-Rank Hypernetworks &lpar;ALRH&rpar;](https://www.reddit.com/r/MachineLearning/comments/13bjw25/d_adaptive_lowrank_hypernetworks_alrh/)
 - [[D] Prompt engineering techniques to make LLM output fit a template?](https://www.reddit.com/r/MachineLearning/comments/13bh7ak/d_prompt_engineering_techniques_to_make_llm/)
-- [[P] I have made a gradio UI for Shape-E model from OpenAI](https://www.reddit.com/r/MachineLearning/comments/13bgoi5/p_i_have_made_a_gradio_ui_for_shapee_model_from/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
