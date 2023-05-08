@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Elon Musk claims Tesla FSD 12 will be end-to-end AI, from “images in to steering, brakes &amp; acceleration out”](https://www.reddit.com/r/MachineLearning/comments/13bzhjj/d_elon_musk_claims_tesla_fsd_12_will_be_endtoend/)
 - [[N] The Past, Present, and Future of LlamaIndex](https://www.reddit.com/r/MachineLearning/comments/13bzabh/n_the_past_present_and_future_of_llamaindex/)
 - [Does the versatility of LLMs make traditional ML models that are trained to specialise in one task obsolete? [D]](https://www.reddit.com/r/MachineLearning/comments/13bz04h/does_the_versatility_of_llms_make_traditional_ml/)
 - [[D] Technical Limitations to Running ChatGPT on Own Data](https://www.reddit.com/r/MachineLearning/comments/13byr7o/d_technical_limitations_to_running_chatgpt_on_own/)
 - [[R] Are there any prominent university researchers actively working on AI hardware ?](https://www.reddit.com/r/MachineLearning/comments/13byol3/r_are_there_any_prominent_university_researchers/)
-- [[P] Open-source PaLM models trained at 8k context length](https://www.reddit.com/r/MachineLearning/comments/13bxu2g/p_opensource_palm_models_trained_at_8k_context/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
