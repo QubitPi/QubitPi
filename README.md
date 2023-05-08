@@ -332,7 +332,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [Neo4j Workspace — New Updates for Import and Query](https://www.youtube.com/watch?v=NUuI9NkOfZo)
 - [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements](https://www.youtube.com/watch?v=42Ra42e1A3Q)
 - [ChatGPT Generated Star Wars Data — Let&#39;s Explore With Neo4j](https://www.youtube.com/watch?v=xK7K-4Te8Bs)
-- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit](https://www.youtube.com/watch?v=6BMCXFii4Po)
+- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit - Exploring Bluesky API](https://www.youtube.com/watch?v=6BMCXFii4Po)
 - [Neo4j Live: GraphGPT Trailer #shorts](https://www.youtube.com/watch?v=2UlnCZV96iI)
 <!-- NEO4J-YOUTUBE:END -->
 
