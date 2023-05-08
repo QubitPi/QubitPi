@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [In this collaborative blog with @AWS, you&#39;ll be introduced to 4 types of databases and the most common applications for each. We cover how different i...](https://twitter.com/neo4j/status/1655588615609565186)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1rmxPkeaPRLJN](https://twitter.com/neo4j/status/1655482659613859845)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in 30 minutes on the &quot;Discover Neo4j with fun Datasets&quot; #livestream where we&#39;ll imp...](https://twitter.com/mesirii/status/1655475139063033856)
 - [Rise and Shine! Join @mesirii + @alexandererdl in a few hours to play with another #dataset with #neo4j in the cloud: https://okt.to/9r51f7](https://twitter.com/neo4j/status/1655452481244069888)
 - [See you at the Gartner Supply Chain Symposium? 👂Make sure you attend to our talk at the @Google Cloud booth on May 9th.! More info: https://okt.to/...](https://twitter.com/neo4j/status/1655329439821996033)
+- [Take this course introduction to graph database and analytics and how Neo4j is used in many enterprises to implement use cases. Register for free!: ht...](https://twitter.com/neo4j/status/1655256218208698368)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
