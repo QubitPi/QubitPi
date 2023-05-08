@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/792800282479165479><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cc1cfca4603cf993345112504ca27c12401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/793194569068969985><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/27305bc28adacc72f7f5e06a80c83ac5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #忆昔诸途巡历# 为了面对诸多变数的考验，与伟大功名相称的高尚品格不可或缺。为此，旅行者协助斯露莎展开了一场探讨「职责」的试炼。](https://t.bilibili.com/792800282479165479)
