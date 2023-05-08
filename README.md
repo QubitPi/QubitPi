@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Siamese Transformer for Image Retrieval &lpar;paper&rpar; + live DEMO](https://www.reddit.com/r/MachineLearning/comments/13blwz7/r_siamese_transformer_for_image_retrieval_paper/)
 - [[D] Current advice on generative AI for writing](https://www.reddit.com/r/MachineLearning/comments/13blj1e/d_current_advice_on_generative_ai_for_writing/)
 - [[D] Adaptive Low-Rank Hypernetworks &lpar;ALRH&rpar;](https://www.reddit.com/r/MachineLearning/comments/13bjw25/d_adaptive_lowrank_hypernetworks_alrh/)
 - [[D] Prompt engineering techniques to make LLM output fit a template?](https://www.reddit.com/r/MachineLearning/comments/13bh7ak/d_prompt_engineering_techniques_to_make_llm/)
 - [[P] I have made a gradio UI for Shape-E model from OpenAI](https://www.reddit.com/r/MachineLearning/comments/13bgoi5/p_i_have_made_a_gradio_ui_for_shapee_model_from/)
-- [[P] I made a new sub to discuss MRKL systems](https://www.reddit.com/r/MachineLearning/comments/13b8v5h/p_i_made_a_new_sub_to_discuss_mrkl_systems/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
