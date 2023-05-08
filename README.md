@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/793194569068969985><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/27305bc28adacc72f7f5e06a80c83ac5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/793225497128468535><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3b7ec7d312a3b07d499a6c42abccc1a9401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #柯莱# #生日快乐# 谢谢你愿意倾听我的烦恼，还给了我那么多宝贵的建议。我都好好记下来了！ 什么时候我也能和你一样经验丰富呢，这样就可以帮...](https://t.bilibili.com/793194569068969985)
