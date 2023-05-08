@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Can you finetune Open-LLaMA using delta weights that were intended for use on LLaMA?](https://www.reddit.com/r/MachineLearning/comments/13bvmle/d_can_you_finetune_openllama_using_delta_weights/)
+- [[D] Creating contexts in LLMs?](https://www.reddit.com/r/MachineLearning/comments/13bvgrs/d_creating_contexts_in_llms/)
 - [[Research] Can LLMs do meaning causal reasoning? Preprint says yes but I think it&#39;s hype.](https://www.reddit.com/r/MachineLearning/comments/13bua1t/research_can_llms_do_meaning_causal_reasoning/)
-- [[D] Calculate the correct repetition of exercise](https://www.reddit.com/r/MachineLearning/comments/13bmayl/d_calculate_the_correct_repetition_of_exercise/)
 - [[D] Current advice on generative AI for writing](https://www.reddit.com/r/MachineLearning/comments/13blj1e/d_current_advice_on_generative_ai_for_writing/)
 - [[D] Adaptive Low-Rank Hypernetworks &lpar;ALRH&rpar;](https://www.reddit.com/r/MachineLearning/comments/13bjw25/d_adaptive_lowrank_hypernetworks_alrh/)
-- [[D] Prompt engineering techniques to make LLM output fit a template?](https://www.reddit.com/r/MachineLearning/comments/13bh7ak/d_prompt_engineering_techniques_to_make_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
