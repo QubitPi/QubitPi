@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Technical Limitations to Running ChatGPT on Own Data](https://www.reddit.com/r/MachineLearning/comments/13byr7o/d_technical_limitations_to_running_chatgpt_on_own/)
 - [[R] Are there any prominent university researchers actively working on AI hardware ?](https://www.reddit.com/r/MachineLearning/comments/13byol3/r_are_there_any_prominent_university_researchers/)
 - [[P] Open-source PaLM models trained at 8k context length](https://www.reddit.com/r/MachineLearning/comments/13bxu2g/p_opensource_palm_models_trained_at_8k_context/)
 - [[P] Semantic search](https://www.reddit.com/r/MachineLearning/comments/13bxfzk/p_semantic_search/)
 - [[D] Baseline for question answering with LLM&#39;s cost-efficiency](https://www.reddit.com/r/MachineLearning/comments/13bx19q/d_baseline_for_question_answering_with_llms/)
-- [[Project] A Podcast to Keep Up with Everything AI](https://www.reddit.com/r/MachineLearning/comments/13bwmye/project_a_podcast_to_keep_up_with_everything_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
