@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎇 The new C++ API has made it easier to develop query modules with user-defined procedures and functions. We have cut down boilerplate code and mad...](https://twitter.com/memgraphdb/status/1655552377531904001)
+- [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1655532248458752002)
 - [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1655514127048101889)
 - [🎬 Explore real-time movie reviews with @redpandadata &amp; Memgraph! Boost your data-driven recommendations in no time. #Redpanda #Memgraph #RealTimeAn...](https://twitter.com/memgraphdb/status/1655508338812108801)
 - [🖥️ Both the NetworkX and Memgraph PageRank can run from Memgraph because in Memgraph the Cypher query language can be expanded with Python procedu...](https://twitter.com/memgraphdb/status/1655496260713951232)
-- [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp #memgraph...](https://twitter.com/memgraphdb/status/1655478897100697603)
-- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1655457754658619397)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
