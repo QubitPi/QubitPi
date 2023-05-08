@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1655457754658619397)
+- [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1655443411330121732)
 - [👩‍💻 Data enthusiast @AshleighNFaith dives into #Memgraph - the graph in-memory solution for tricky real-time streaming challenges! 📊 Learn m...](https://twitter.com/memgraphdb/status/1655424536890810372)
 - [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. https://memgraph.com/blog/mo...](https://twitter.com/memgraphdb/status/1655282099413217280)
 - [🚨 Facing an emergency landing? Find the nearest airport quickly with Memgraph Lab! #EmergencyLanding #AirTravelSafety 🛬 #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1655258193008656385)
-- [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1655244096712081412)
-- [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1655237553858007040)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
