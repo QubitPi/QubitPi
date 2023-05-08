@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Semantic search](https://www.reddit.com/r/MachineLearning/comments/13bxfzk/p_semantic_search/)
 - [[D] Baseline for question answering with LLM&#39;s cost-efficiency](https://www.reddit.com/r/MachineLearning/comments/13bx19q/d_baseline_for_question_answering_with_llms/)
 - [[Project] A Podcast to Keep Up with Everything AI](https://www.reddit.com/r/MachineLearning/comments/13bwmye/project_a_podcast_to_keep_up_with_everything_ai/)
 - [[D] ViperGPT](https://www.reddit.com/r/MachineLearning/comments/13bw06c/d_vipergpt/)
 - [[D] Can you finetune Open-LLaMA using delta weights that were intended for use on LLaMA?](https://www.reddit.com/r/MachineLearning/comments/13bvmle/d_can_you_finetune_openllama_using_delta_weights/)
-- [[D] Creating contexts in LLMs?](https://www.reddit.com/r/MachineLearning/comments/13bvgrs/d_creating_contexts_in_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
