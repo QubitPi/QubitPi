@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1rmxPkeaPRLJN](https://twitter.com/neo4j/status/1655482659613859845)
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in 30 minutes on the &quot;Discover Neo4j with fun Datasets&quot; #livestream where we&#39;ll imp...](https://twitter.com/mesirii/status/1655475139063033856)
 - [Rise and Shine! Join @mesirii + @alexandererdl in a few hours to play with another #dataset with #neo4j in the cloud: https://okt.to/9r51f7](https://twitter.com/neo4j/status/1655452481244069888)
 - [See you at the Gartner Supply Chain Symposium? 👂Make sure you attend to our talk at the @Google Cloud booth on May 9th.! More info: https://okt.to/...](https://twitter.com/neo4j/status/1655329439821996033)
 - [Take this course introduction to graph database and analytics and how Neo4j is used in many enterprises to implement use cases. Register for free!: ht...](https://twitter.com/neo4j/status/1655256218208698368)
-- [Jennifer Abel sets up #Neo4j on #Kubernetes to kick off a multi-part blog describing a supply chain project to analyze transportation orders. https://...](https://twitter.com/neo4j/status/1654878712024768513)
-- [Developers, this is your chance: The call for papers for #NODES2023 is now open until June 30!🔥 Pssst - if you submit your talk by May 31, you can ...](https://twitter.com/neo4j/status/1654818326000877569)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
