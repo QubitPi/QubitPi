@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] LMFlow Benchmark: An Automatic Evaluation Framework for Open-Source LLMs](https://www.reddit.com/r/MachineLearning/comments/13d2vos/r_lmflow_benchmark_an_automatic_evaluation/)
 - [[P] Creating a coding assistant with StarCoder](https://www.reddit.com/r/MachineLearning/comments/13d2d8b/p_creating_a_coding_assistant_with_starcoder/)
 - [[R] Meta ImageBind - a multimodal LLM across six different modalities](https://www.reddit.com/r/MachineLearning/comments/13d1g2r/r_meta_imagebind_a_multimodal_llm_across_six/)
 - [[Project] Hosted Embedding Marketplace – Stop scraping every new data source, load it as embeddings on the fly.](https://www.reddit.com/r/MachineLearning/comments/13d0xez/project_hosted_embedding_marketplace_stop/)
 - [[P] Stable Diffusion + Segment Anything App and Tutorial](https://www.reddit.com/r/MachineLearning/comments/13d0wgk/p_stable_diffusion_segment_anything_app_and/)
-- [[Discussion] Character variable preprocessing](https://www.reddit.com/r/MachineLearning/comments/13d0ip0/discussion_character_variable_preprocessing/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
