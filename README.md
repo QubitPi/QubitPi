@@ -329,7 +329,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discovering Neo4j AuraDB Free with Michael and Alexander - Importing Bluesky User Interactions](https://www.youtube.com/watch?v=UuGrblKXnGE)
+- [Importing Bluesky User Interactions - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=UuGrblKXnGE)
 - [Neo4j Workspace — New Updates for Import and Query](https://www.youtube.com/watch?v=NUuI9NkOfZo)
 - [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements](https://www.youtube.com/watch?v=42Ra42e1A3Q)
 - [ChatGPT Generated Star Wars Data — Let&#39;s Explore With Neo4j](https://www.youtube.com/watch?v=xK7K-4Te8Bs)
