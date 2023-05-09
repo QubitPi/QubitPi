@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Character variable preprocessing](https://www.reddit.com/r/MachineLearning/comments/13d0ip0/discussion_character_variable_preprocessing/)
 - [[P] A Hub For Multiple AI Technologies](https://www.reddit.com/r/MachineLearning/comments/13d03l1/p_a_hub_for_multiple_ai_technologies/)
 - [[D] Language models can explain neurons in language models](https://www.reddit.com/r/MachineLearning/comments/13d01po/d_language_models_can_explain_neurons_in_language/)
 - [[D] Improved Shapley values with causal models](https://www.reddit.com/r/MachineLearning/comments/13d00om/d_improved_shapley_values_with_causal_models/)
 - [[D] Tools for managing hundreds of unique models?](https://www.reddit.com/r/MachineLearning/comments/13cyzo1/d_tools_for_managing_hundreds_of_unique_models/)
-- [[Project] Bringing Hardware Accelerated Language Models to Android Devices](https://www.reddit.com/r/MachineLearning/comments/13ct6f5/project_bringing_hardware_accelerated_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
