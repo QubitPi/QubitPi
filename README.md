@@ -357,11 +357,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [2023 Superuser Awards Nominee: Hubei Jointour Technology Co., LTD](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-hubei/)
 - [2023 Superuser Awards Nominee: KeepSec Technologies](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-keepsec-technologies/)
 - [2023 Superuser Awards Nominee: Bloomberg](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-bloomberg/)
 - [2023 Superuser Awards Nominee: OpenMetal](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-openmetal/)
 - [Kata Containers Integrated with Microsoft’s AKS Offering for Improved Container Security | KubeCon EU](https://superuser.openinfra.dev/articles/kata-containers-is-being-added-to-azure-kubernetes-service-aks-kubecon-eu/)
-- [Learn How To Upgrade From OpenStack Experts](https://superuser.openinfra.dev/articles/learn-how-to-upgrade-from-openstack-experts/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
