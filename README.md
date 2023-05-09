@@ -357,11 +357,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Meet the 2023 Superuser Awards Nominees](https://superuser.openinfra.dev/articles/meet-the-2023-superuser-awards-nominees/)
+- [2023 Superuser Awards Nominee:  China Telecom eSurfing Cloud](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-china-telecom-esurfing-cloud/)
 - [2023 Superuser Awards Nominee: Workday](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-workday/)
 - [2023 Superuser Awards Nominee: Acme Gating](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-acme-gating/)
 - [2023 Superuser Awards Nominee: Tata Consultancy Services](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-tata-consultancy-services/)
-- [2023 Superuser Awards Nominee: Encora](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-encora/)
-- [2023 Superuser Awards Nominee: TPG Telecom](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-tpg-telecom/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
