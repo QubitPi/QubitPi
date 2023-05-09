@@ -357,11 +357,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [2023 Superuser Awards Nominee: OpenMetal](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-openmetal/)
 - [Kata Containers Integrated with Microsoft’s AKS Offering for Improved Container Security | KubeCon EU](https://superuser.openinfra.dev/articles/kata-containers-is-being-added-to-azure-kubernetes-service-aks-kubecon-eu/)
 - [Learn How To Upgrade From OpenStack Experts](https://superuser.openinfra.dev/articles/learn-how-to-upgrade-from-openstack-experts/)
 - [Join me for the PTG and Forum at the OpenInfra Summit!](https://superuser.openinfra.dev/articles/join-me-for-the-ptg-and-forum-at-the-openinfra-summit/)
 - [May the OpenInfra Force Be With You: Preview of the OpenInfra Summit! | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/may-the-openinfra-force-be-with-you-preview/)
-- [RailTel India Partners With Pinakastra Computing to Build an Enterprise-Grade Multi-Region Private Cloud Infrastructure, Using OpenStack](https://superuser.openinfra.dev/articles/railtel-india-partners-with-pinakastra-computing-for-building-and-enterprise-grade-multi-region-private-cloud-infrastructure/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
