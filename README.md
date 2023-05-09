@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We are proud to announce the general availability &lpar;GA&rpar; of Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform!📢👏 Learn ALL about the G...](https://twitter.com/neo4j/status/1655952073425588226)
-- [We are ready! Come and visit us at booth 608 #gartnersupplychainsymposium #GartnerSC @Gartner_inc https://t.co/dAEfh4p0LT](https://twitter.com/neo4j/status/1655943733207273477)
 - [In a few hours we start with @varunshenoy_ to create #graph #visualization out of any text thanks to @openai https://okt.to/9x63Qu](https://twitter.com/neo4j/status/1655890513612996614)
 - [RT Michela Ledwidge: Down in Melbourne for @neo4j #GraphSummit Another onstage in VR #Grapho presentation coming up https://t.co/JBMFLdr6ge](https://twitter.com/michela/status/1655735837009772544)
 - [#GraphSummit2023 In Melbourne 🔥 https://t.co/jAxpwXlmdu](https://twitter.com/neo4j/status/1655735141535195139)
+- [Take a look at this blog --&gt; Knowledge Graph With #ChatGPT Ganesh Srinivasan explains how he used ChatGPT to create a graph of the NIST catalog of sec...](https://twitter.com/neo4j/status/1655663889093214208)
+- [You are invited to #NODES2023 📢 Join us! NODES is dedicated to learning how to integrate graph technologies into ML and dev projects. Learn more ab...](https://twitter.com/neo4j/status/1655633747675365383)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
