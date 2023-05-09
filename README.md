@@ -329,11 +329,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Ask a Data Scientist: What Are Graph Embeddings, and Why Are They Important?](https://www.youtube.com/watch?v=LjelC1WVVxI)
+- [Ask a Data Scientist: What Is Graph Supervised Machine Learning?](https://www.youtube.com/watch?v=nBrI1QQx9IA)
+- [Ask a Data Scientist: What Makes Graph Data Science Different From Traditional Data Science?](https://www.youtube.com/watch?v=gim-6S0JrxM)
 - [Importing Bluesky User Interactions - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=UuGrblKXnGE)
 - [Neo4j Workspace — New Updates for Import and Query](https://www.youtube.com/watch?v=NUuI9NkOfZo)
-- [Resist the Empire: Avoiding the Evil Clutches of If-Then Statements](https://www.youtube.com/watch?v=42Ra42e1A3Q)
-- [ChatGPT Generated Star Wars Data — Let&#39;s Explore With Neo4j](https://www.youtube.com/watch?v=xK7K-4Te8Bs)
-- [Michael and the Bot: Graph Coding with ChatGPT for Fun and Profit - Exploring Bluesky API](https://www.youtube.com/watch?v=6BMCXFii4Po)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
