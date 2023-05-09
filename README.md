@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Level up your graph analytics skills with our &quot;Intro to Graph Analytics in Python&quot; course by @supe_katarina! Discover graph algorithms, learn to ...](https://twitter.com/memgraphdb/status/1655942450815569925)
-- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1655942449943187466)
-- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. https://memgraph.com/blog/sol...](https://twitter.com/memgraphdb/status/1655935152328151041)
-- [🌟 Dynamic algorithms in graph databases make IAM systems more flexible, allowing for easy updates and improved scalability. Boost your security tod...](https://twitter.com/memgraphdb/status/1655935151824855043)
-- [🚀 You can now use #AI powered bot created by @kapa_ai to get answers based on #Memgraph documentation.🤖 Check it out at https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1655919109677232128)
+- [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1655893880892452866)
+- [🌐 Orb is an open-source library developed by Memgraph that you can use to visualize graphs by adding just a few lines to your frontend code. ➡️ h...](https://twitter.com/memgraphdb/status/1655870727285874689)
+- [❓ Are your NetworkX algorithms taking even more and more time to produce the results you need to finish up your research? https://memgraph.com/blog/w...](https://twitter.com/memgraphdb/status/1655854117326053376)
+- [🔧 Build your graph skills with our &quot;Getting Started with Memgraph and Python&quot; course! Explore datasets, run Memgraph with Docker, and connect with ...](https://twitter.com/memgraphdb/status/1655820144025694209)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1655809574606188544)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
