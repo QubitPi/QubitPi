@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Learning parameters of an equation](https://www.reddit.com/r/MachineLearning/comments/13ce35p/d_learning_parameters_of_an_equation/)
 - [[P] Opensource Reward Modeling Framework for RLHF](https://www.reddit.com/r/MachineLearning/comments/13cdugm/p_opensource_reward_modeling_framework_for_rlhf/)
 - [Training your own model vs. just using OpenAI? [D]](https://www.reddit.com/r/MachineLearning/comments/13ccxc4/training_your_own_model_vs_just_using_openai_d/)
 - [[D] Google launches demo site for Visual Blocks &amp; Announces Colab Integration](https://www.reddit.com/r/MachineLearning/comments/13ccho0/d_google_launches_demo_site_for_visual_blocks/)
-- [[D] PyTorch or Tensorflow 2](https://www.reddit.com/r/MachineLearning/comments/13camti/d_pytorch_or_tensorflow_2/)
+- [[D]: quick question on decoder LLM](https://www.reddit.com/r/MachineLearning/comments/13c99zf/d_quick_question_on_decoder_llm/)
+- [[D] Zero-shot classifier vs generic LLM](https://www.reddit.com/r/MachineLearning/comments/13c0ihn/d_zeroshot_classifier_vs_generic_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
