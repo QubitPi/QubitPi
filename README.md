@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Google launches demo site for Visual Blocks &amp; Announces Colab Integration](https://www.reddit.com/r/MachineLearning/comments/13ccho0/d_google_launches_demo_site_for_visual_blocks/)
 - [[D] PyTorch or Tensorflow 2](https://www.reddit.com/r/MachineLearning/comments/13camti/d_pytorch_or_tensorflow_2/)
 - [Data Science/ML interview prep [D]](https://www.reddit.com/r/MachineLearning/comments/13caby0/data_scienceml_interview_prep_d/)
 - [[D]: quick question on decoder LLM](https://www.reddit.com/r/MachineLearning/comments/13c99zf/d_quick_question_on_decoder_llm/)
 - [[D] Same approaches, different accuracy? &lpar;Vector Embedding&rpar;](https://www.reddit.com/r/MachineLearning/comments/13c824m/d_same_approaches_different_accuracy_vector/)
-- [[D] Should I buy AMD or Nvidia?](https://www.reddit.com/r/MachineLearning/comments/13c5slv/d_should_i_buy_amd_or_nvidia/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
