@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]: quick question on decoder LLM](https://www.reddit.com/r/MachineLearning/comments/13c99zf/d_quick_question_on_decoder_llm/)
 - [[D] Same approaches, different accuracy? &lpar;Vector Embedding&rpar;](https://www.reddit.com/r/MachineLearning/comments/13c824m/d_same_approaches_different_accuracy_vector/)
 - [[D] Should I buy AMD or Nvidia?](https://www.reddit.com/r/MachineLearning/comments/13c5slv/d_should_i_buy_amd_or_nvidia/)
 - [[D] Zero-shot classifier vs generic LLM](https://www.reddit.com/r/MachineLearning/comments/13c0ihn/d_zeroshot_classifier_vs_generic_llm/)
 - [[D] Elon Musk claims Tesla FSD 12 will be end-to-end AI, from “images in to steering, brakes &amp; acceleration out”](https://www.reddit.com/r/MachineLearning/comments/13bzhjj/d_elon_musk_claims_tesla_fsd_12_will_be_endtoend/)
-- [[N] The Past, Present, and Future of LlamaIndex](https://www.reddit.com/r/MachineLearning/comments/13bzabh/n_the_past_present_and_future_of_llamaindex/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
