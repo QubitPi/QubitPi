@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Autonomous Agents Improvement](https://www.reddit.com/r/MachineLearning/comments/13cr8q9/d_autonomous_agents_improvement/)
 - [&quot;[D]&quot; Business Growth Triad – Apps, Automation &amp; Analytics](https://www.reddit.com/r/MachineLearning/comments/13cod7c/d_business_growth_triad_apps_automation_analytics/)
 - [Datasets &amp; Posterity. [R] [N] [D] [P]](https://www.reddit.com/r/MachineLearning/comments/13cobvq/datasets_posterity_r_n_d_p/)
 - [[P] Implementation of text generation from keywords Python Module](https://www.reddit.com/r/MachineLearning/comments/13clele/p_implementation_of_text_generation_from_keywords/)
 - [[P] Source for Machine Learning Applications](https://www.reddit.com/r/MachineLearning/comments/13ckfkv/p_source_for_machine_learning_applications/)
-- [[R] MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic](https://www.reddit.com/r/MachineLearning/comments/13ch0lg/r_mindgames_targeting_theory_of_mind_in_large/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
