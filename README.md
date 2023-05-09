@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [In a few hours we start with @varunshenoy_ to create #graph #visualization out of any text thanks to @openai https://okt.to/9x63Qu](https://twitter.com/neo4j/status/1655890513612996614)
 - [RT Michela Ledwidge: Down in Melbourne for @neo4j #GraphSummit Another onstage in VR #Grapho presentation coming up https://t.co/JBMFLdr6ge](https://twitter.com/michela/status/1655735837009772544)
 - [#GraphSummit2023 In Melbourne 🔥 https://t.co/jAxpwXlmdu](https://twitter.com/neo4j/status/1655735141535195139)
 - [Take a look at this blog --&gt; Knowledge Graph With #ChatGPT Ganesh Srinivasan explains how he used ChatGPT to create a graph of the NIST catalog of sec...](https://twitter.com/neo4j/status/1655663889093214208)
 - [You are invited to #NODES2023 📢 Join us! NODES is dedicated to learning how to integrate graph technologies into ML and dev projects. Learn more ab...](https://twitter.com/neo4j/status/1655633747675365383)
-- [In this collaborative blog with @AWS, you&#39;ll be introduced to 4 types of databases and the most common applications for each. We cover how different i...](https://twitter.com/neo4j/status/1655588615609565186)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
