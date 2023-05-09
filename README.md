@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] OpenAI to launch TikToken as a cryptocurrency?](https://www.reddit.com/r/MachineLearning/comments/13cd4gc/d_openai_to_launch_tiktoken_as_a_cryptocurrency/)
 - [Training your own model vs. just using OpenAI? [D]](https://www.reddit.com/r/MachineLearning/comments/13ccxc4/training_your_own_model_vs_just_using_openai_d/)
 - [[D] Google launches demo site for Visual Blocks &amp; Announces Colab Integration](https://www.reddit.com/r/MachineLearning/comments/13ccho0/d_google_launches_demo_site_for_visual_blocks/)
 - [[D] PyTorch or Tensorflow 2](https://www.reddit.com/r/MachineLearning/comments/13camti/d_pytorch_or_tensorflow_2/)
 - [Data Science/ML interview prep [D]](https://www.reddit.com/r/MachineLearning/comments/13caby0/data_scienceml_interview_prep_d/)
+- [[D]: quick question on decoder LLM](https://www.reddit.com/r/MachineLearning/comments/13c99zf/d_quick_question_on_decoder_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
