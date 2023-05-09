@@ -300,8 +300,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Question on Transduction Learning vs. Semi-Supervised Learning](https://www.reddit.com/r/MachineLearning/comments/13d8sfe/d_question_on_transduction_learning_vs/)
 - [Leaderboard for LLMs? [D]](https://www.reddit.com/r/MachineLearning/comments/13d88pq/leaderboard_for_llms_d/)
 - [[D] Langchain csv agent token limit](https://www.reddit.com/r/MachineLearning/comments/13d7x9m/d_langchain_csv_agent_token_limit/)
-- [[D] Which research area is in worser shape, machine learning or statistics &lpar;and related disciplines such as econometrics&rpar;?](https://www.reddit.com/r/MachineLearning/comments/13d6g43/d_which_research_area_is_in_worser_shape_machine/)
 - [Language models can explain neurons in language models &lpar;including dataset&rpar;](https://www.reddit.com/r/MachineLearning/comments/13d4b3o/language_models_can_explain_neurons_in_language/)
+- [[R] LMFlow Benchmark: An Automatic Evaluation Framework for Open-Source LLMs](https://www.reddit.com/r/MachineLearning/comments/13d2vos/r_lmflow_benchmark_an_automatic_evaluation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
