@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Source for Machine Learning Applications](https://www.reddit.com/r/MachineLearning/comments/13ckfkv/p_source_for_machine_learning_applications/)
 - [[R] MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic](https://www.reddit.com/r/MachineLearning/comments/13ch0lg/r_mindgames_targeting_theory_of_mind_in_large/)
 - [[D] Zero curvature initialization of neural networks](https://www.reddit.com/r/MachineLearning/comments/13cfyrh/d_zero_curvature_initialization_of_neural_networks/)
 - [[research] State of the art in autoencoding images.](https://www.reddit.com/r/MachineLearning/comments/13cf33h/research_state_of_the_art_in_autoencoding_images/)
 - [[D] Implementing Layer Norm using Batch Norm](https://www.reddit.com/r/MachineLearning/comments/13cerzz/d_implementing_layer_norm_using_batch_norm/)
-- [[P] Opensource Reward Modeling Framework for RLHF](https://www.reddit.com/r/MachineLearning/comments/13cdugm/p_opensource_reward_modeling_framework_for_rlhf/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
