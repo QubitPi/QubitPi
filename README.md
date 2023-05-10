@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement #memgraph #database #memgraphdb #graphdatab...](https://twitter.com/memgraphdb/status/1656257024127008768)
 - [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1656238903408615425)
 - [🚀 Honest review of #Memgraph by @AshleighNFaith! 🧪 Watch as she chats with our DevRel Engineers about #graphdatabase magic! ✨👩‍💻👨‍�...](https://twitter.com/memgraphdb/status/1656233116741017600)
 - [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1656221037229473792)
 - [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1656181019895029760)
-- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1656171960534024193)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
