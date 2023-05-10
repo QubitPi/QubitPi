@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Since Google buried the MMLU benchmark scores in the Appendix of the PALM 2 technical report, here it is vs GPT-4 and other LLMs](https://www.reddit.com/r/MachineLearning/comments/13e1rf9/d_since_google_buried_the_mmlu_benchmark_scores/)
 - [[P] Thank you for your feedback, r/MachineLearning!](https://www.reddit.com/r/MachineLearning/comments/13e0b27/p_thank_you_for_your_feedback_rmachinelearning/)
 - [[R] StabGPT: A Tool-Equipped LLM Designed for Improving Social Outcomes](https://www.reddit.com/r/MachineLearning/comments/13dzt8s/r_stabgpt_a_toolequipped_llm_designed_for/)
 - [[R] PaLM 2 Technical Report](https://www.reddit.com/r/MachineLearning/comments/13dybuk/r_palm_2_technical_report/)
 - [[Research] Implementation of CGAN with Convolutions using PyTorch](https://www.reddit.com/r/MachineLearning/comments/13dy2fc/research_implementation_of_cgan_with_convolutions/)
-- [Seeking Papers for Essay on the Ethics of Unregulated AI Research [R] [D]](https://www.reddit.com/r/MachineLearning/comments/13dw4yp/seeking_papers_for_essay_on_the_ethics_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
