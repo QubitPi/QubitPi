@@ -358,7 +358,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- OPENSTACK-SUPERUSER:START -->
 - [Meet the 2023 Superuser Awards Nominees](https://superuser.openinfra.dev/articles/meet-the-2023-superuser-awards-nominees/)
-- [2023 Superuser Awards Nominee:  China Telecom eSurfing Cloud](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-china-telecom-esurfing-cloud/)
+- [2023 Superuser Awards Nominee:  China Telecom – eSurfing Cloud](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-china-telecom-esurfing-cloud/)
 - [2023 Superuser Awards Nominee: Workday](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-workday/)
 - [2023 Superuser Awards Nominee: Acme Gating](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-acme-gating/)
 - [2023 Superuser Awards Nominee: Tata Consultancy Services](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-tata-consultancy-services/)
