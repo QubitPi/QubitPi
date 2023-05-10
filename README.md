@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Enabling Neo4j with AWS Managed Streaming for Kafka &lpar;MSK&rpar;💡 Come and check out Owen Robertson&#39;s model for integrating real-time applications and dat...](https://twitter.com/neo4j/status/1656403020626685953)
 - [The Neo4j graph database plugs into your Google Cloud architecture just like a native component: quickly build scalable, AI-driven applications and an...](https://twitter.com/neo4j/status/1656343390437376013)
 - [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1656311150995177472)
 - [Sharing passions with our teammates ❤ 19 Nodes participated in the #Lundaloppet race last week with other 6k participants in Skåne&#39;s biggest race! C...](https://twitter.com/neo4j/status/1656300066485727232)
 - [💡Graph Data Science 💡Graph Data Science &amp; ML 💡Graph Neural Networks 💡Fraud Detection with Graph Data Science Register for any of these FRE...](https://twitter.com/neo4j/status/1656267920480059403)
-- [Neo4j Live: GraphGPT @varunshenoy_ https://twitter.com/i/broadcasts/1vOxwMqmpMVGB](https://twitter.com/neo4j/status/1655962198676754434)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
