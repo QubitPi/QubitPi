@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1656171960534024193)
-- [⚡️ Find out how iCentral, a fast and efficient online algorithm for betweenness centrality, can help analyze infrastructure networks in real-time. #...](https://twitter.com/memgraphdb/status/1656149311925755906)
 - [🔎 In the age of digital innovations, many industries followed the same path of introducing technology and computing ideas from scratch to adopting ...](https://twitter.com/memgraphdb/status/1656002595415097344)
 - [🚀 Experience lightning-fast traversals with graph databases in your IAM systems, making it easier to check user permissions and maintain security. ...](https://twitter.com/memgraphdb/status/1655984980533575698)
 - [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1655968872569135104)
+- [🌊 Explore top streaming analytics tools and real-time data analysis in these must-read articles! #streamingdata #analytics #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1655960570271608834)
+- [🎓 Level up your graph analytics skills with our &quot;Intro to Graph Analytics in Python&quot; course by @supe_katarina! Discover graph algorithms, learn to ...](https://twitter.com/memgraphdb/status/1655942450815569925)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
