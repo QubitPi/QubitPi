@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Industry-Wide Classification and Clustering Direction](https://www.reddit.com/r/MachineLearning/comments/13e4qe6/d_industrywide_classification_and_clustering/)
 - [[D] Which tech skills/frameworks should I learn to stand out from the ML engineers crowd and get a higher paycheck?](https://www.reddit.com/r/MachineLearning/comments/13e43bu/d_which_tech_skillsframeworks_should_i_learn_to/)
 - [[Discussion] easy deploy ml app](https://www.reddit.com/r/MachineLearning/comments/13e402l/discussion_easy_deploy_ml_app/)
 - [[R] Obtaining Feedback for Papers](https://www.reddit.com/r/MachineLearning/comments/13e2qoy/r_obtaining_feedback_for_papers/)
 - [[D] Since Google buried the MMLU benchmark scores in the Appendix of the PALM 2 technical report, here it is vs GPT-4 and other LLMs](https://www.reddit.com/r/MachineLearning/comments/13e1rf9/d_since_google_buried_the_mmlu_benchmark_scores/)
-- [[P] Thank you for your feedback, r/MachineLearning!](https://www.reddit.com/r/MachineLearning/comments/13e0b27/p_thank_you_for_your_feedback_rmachinelearning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
