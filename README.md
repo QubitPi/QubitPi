@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] Implementation of CGAN with Convolutions using PyTorch](https://www.reddit.com/r/MachineLearning/comments/13dy2fc/research_implementation_of_cgan_with_convolutions/)
 - [Seeking Papers for Essay on the Ethics of Unregulated AI Research [R] [D]](https://www.reddit.com/r/MachineLearning/comments/13dw4yp/seeking_papers_for_essay_on_the_ethics_of/)
 - [[D] Legal navigation of finetuning LLMs on OpenAI model output &lpar;ShareGPT, GPT4all, etc.&rpar;](https://www.reddit.com/r/MachineLearning/comments/13dvx80/d_legal_navigation_of_finetuning_llms_on_openai/)
 - [[P] A Large Language Model for Healthcare | NHS-LLM and OpenGPT](https://www.reddit.com/r/MachineLearning/comments/13duxyu/p_a_large_language_model_for_healthcare_nhsllm/)
 - [[P] Image Recognition](https://www.reddit.com/r/MachineLearning/comments/13dulma/p_image_recognition/)
-- [[R] OpenAI&#39;s ChatGPT Code Interpreter Unleashes New Possibilities](https://www.reddit.com/r/MachineLearning/comments/13duf6i/r_openais_chatgpt_code_interpreter_unleashes_new/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
