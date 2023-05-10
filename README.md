@@ -329,11 +329,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: GraphGPT](https://www.youtube.com/watch?v=As2UBg56b3o)
 - [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=D_2nM8mrGKc)
 - [Ask a Data Scientist: What&#39;s the Difference Between Graph Analytics and Graph Data Science?](https://www.youtube.com/watch?v=uQHIs7dUY8k)
 - [Ask a Data Scientist: What Are Graph Embeddings, and Why Are They Important?](https://www.youtube.com/watch?v=LjelC1WVVxI)
 - [Ask a Data Scientist: What Is Graph Supervised Machine Learning?](https://www.youtube.com/watch?v=nBrI1QQx9IA)
-- [Ask a Data Scientist: What Makes Graph Data Science Different From Traditional Data Science?](https://www.youtube.com/watch?v=gim-6S0JrxM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
