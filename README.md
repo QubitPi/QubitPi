@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1656311150995177472)
+- [Sharing passions with our teammates ❤ 19 Nodes participated in the #Lundaloppet race last week with other 6k participants in Skåne&#39;s biggest race! C...](https://twitter.com/neo4j/status/1656300066485727232)
 - [💡Graph Data Science 💡Graph Data Science &amp; ML 💡Graph Neural Networks 💡Fraud Detection with Graph Data Science Register for any of these FRE...](https://twitter.com/neo4j/status/1656267920480059403)
 - [Neo4j Live: GraphGPT @varunshenoy_ https://twitter.com/i/broadcasts/1vOxwMqmpMVGB](https://twitter.com/neo4j/status/1655962198676754434)
 - [We are proud to announce the general availability &lpar;GA&rpar; of Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform!📢👏 Learn ALL about the G...](https://twitter.com/neo4j/status/1655952073425588226)
-- [We are ready! Come and visit us at booth 608 #gartnersupplychainsymposium #GartnerSC @Gartner_inc https://t.co/dAEfh4p0LT](https://twitter.com/neo4j/status/1655943733207273477)
-- [In a few hours we start with @varunshenoy_ to create #graph #visualization out of any text thanks to @openai https://okt.to/9x63Qu](https://twitter.com/neo4j/status/1655890513612996614)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
