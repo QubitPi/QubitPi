@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Sam Altman of OpenAI Questions the Viability of Remote Work for Startup Creativity](https://www.reddit.com/r/MachineLearning/comments/13dd9v8/r_sam_altman_of_openai_questions_the_viability_of/)
+- [[D] LLM in spanish](https://www.reddit.com/r/MachineLearning/comments/13dd3zq/d_llm_in_spanish/)
+- [[R] The Diminishing Edge: Open Source AI Challenges Big Tech Dominance](https://www.reddit.com/r/MachineLearning/comments/13dchsi/r_the_diminishing_edge_open_source_ai_challenges/)
 - [Time Series Classification with Transformer Models: Evaluating Model Performance and Overfitting Concerns [D]](https://www.reddit.com/r/MachineLearning/comments/13dbnlv/time_series_classification_with_transformer/)
 - [[R] The Human Cost of ChatGPT](https://www.reddit.com/r/MachineLearning/comments/13dbh9l/r_the_human_cost_of_chatgpt/)
-- [[D]: WGAN-SN stability](https://www.reddit.com/r/MachineLearning/comments/13dajpx/d_wgansn_stability/)
-- [[P] Utilizing graph attention-based neural networks and generative AI to build a tool to automate debugging and refactoring Python code](https://www.reddit.com/r/MachineLearning/comments/13da5lr/p_utilizing_graph_attentionbased_neural_networks/)
-- [[D] Question on Transduction Learning vs. Semi-Supervised Learning](https://www.reddit.com/r/MachineLearning/comments/13d8sfe/d_question_on_transduction_learning_vs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
