@@ -297,10 +297,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Unity tower defense game](https://www.reddit.com/r/MachineLearning/comments/13dsj78/p_unity_tower_defense_game/)
 - [[Discussion] Causality graph hiddenconfouner](https://www.reddit.com/r/MachineLearning/comments/13dr7w6/discussion_causality_graph_hiddenconfouner/)
 - [[Project] Compare Object Detection Models From TorchVision](https://www.reddit.com/r/MachineLearning/comments/13dr1jm/project_compare_object_detection_models_from/)
 - [[P] We&#39;ve unified LLMs w/ vector memory + reranking &amp; pruning models in a single process for better performance](https://www.reddit.com/r/MachineLearning/comments/13dq2xu/p_weve_unified_llms_w_vector_memory_reranking/)
-- [[D] First ML formula clustering titles from articles](https://www.reddit.com/r/MachineLearning/comments/13dpgvq/d_first_ml_formula_clustering_titles_from_articles/)
 - [[D] Top 10 ML Framework Videos? What do you think?](https://www.reddit.com/r/MachineLearning/comments/13dpc8w/d_top_10_ml_framework_videos_what_do_you_think/)
 <!-- REDDIT-ML:END -->
 
