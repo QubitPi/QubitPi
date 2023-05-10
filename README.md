@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] First ML formula clustering titles from articles](https://www.reddit.com/r/MachineLearning/comments/13dpgvq/d_first_ml_formula_clustering_titles_from_articles/)
+- [[D] Top 10 ML Framework Videos? What do you think?](https://www.reddit.com/r/MachineLearning/comments/13dpc8w/d_top_10_ml_framework_videos_what_do_you_think/)
 - [[D] Deepspeed vs JAX for distributed training](https://www.reddit.com/r/MachineLearning/comments/13dmkax/d_deepspeed_vs_jax_for_distributed_training/)
 - [[D] Model to describe other neural networks reasoning.](https://www.reddit.com/r/MachineLearning/comments/13dmgj7/d_model_to_describe_other_neural_networks/)
 - [[D] When will a GPT-like model outperform Stockfish in chess?](https://www.reddit.com/r/MachineLearning/comments/13dk32o/d_when_will_a_gptlike_model_outperform_stockfish/)
-- [[D] To get into ML research, what foundational math subjects are must to learn?](https://www.reddit.com/r/MachineLearning/comments/13dja5v/d_to_get_into_ml_research_what_foundational_math/)
-- [[R] Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://www.reddit.com/r/MachineLearning/comments/13dg76y/r_principledriven_selfalignment_of_language/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
