@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Compare Object Detection Models From TorchVision](https://www.reddit.com/r/MachineLearning/comments/13dr1jm/project_compare_object_detection_models_from/)
 - [[P] We&#39;ve unified LLMs w/ vector memory + reranking &amp; pruning models in a single process for better performance](https://www.reddit.com/r/MachineLearning/comments/13dq2xu/p_weve_unified_llms_w_vector_memory_reranking/)
 - [[D] First ML formula clustering titles from articles](https://www.reddit.com/r/MachineLearning/comments/13dpgvq/d_first_ml_formula_clustering_titles_from_articles/)
 - [[D] Top 10 ML Framework Videos? What do you think?](https://www.reddit.com/r/MachineLearning/comments/13dpc8w/d_top_10_ml_framework_videos_what_do_you_think/)
 - [[D] Deepspeed vs JAX for distributed training](https://www.reddit.com/r/MachineLearning/comments/13dmkax/d_deepspeed_vs_jax_for_distributed_training/)
-- [[D] Model to describe other neural networks reasoning.](https://www.reddit.com/r/MachineLearning/comments/13dmgj7/d_model_to_describe_other_neural_networks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
