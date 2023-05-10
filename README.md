@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Should you standardize rainfall maps before using them as inputs in a deep learning model?](https://www.reddit.com/r/MachineLearning/comments/13e54nx/r_should_you_standardize_rainfall_maps_before/)
+- [[News] Introducing Neural Times: A GPT-4 Powered News Source for Global Events, Politics, and Technology Aimed at Minimizing Bias and Comparing Perspectives](https://www.reddit.com/r/MachineLearning/comments/13e52xi/news_introducing_neural_times_a_gpt4_powered_news/)
+- [[D] Building an LLM model without degree to get hired?](https://www.reddit.com/r/MachineLearning/comments/13e4zzd/d_building_an_llm_model_without_degree_to_get/)
 - [[D] Industry-Wide Classification and Clustering Direction](https://www.reddit.com/r/MachineLearning/comments/13e4qe6/d_industrywide_classification_and_clustering/)
 - [[D] Which tech skills/frameworks should I learn to stand out from the ML engineers crowd and get a higher paycheck?](https://www.reddit.com/r/MachineLearning/comments/13e43bu/d_which_tech_skillsframeworks_should_i_learn_to/)
-- [[Discussion] easy deploy ml app](https://www.reddit.com/r/MachineLearning/comments/13e402l/discussion_easy_deploy_ml_app/)
-- [[R] Obtaining Feedback for Papers](https://www.reddit.com/r/MachineLearning/comments/13e2qoy/r_obtaining_feedback_for_papers/)
-- [[D] Since Google buried the MMLU benchmark scores in the Appendix of the PALM 2 technical report, here it is vs GPT-4 and other LLMs](https://www.reddit.com/r/MachineLearning/comments/13e1rf9/d_since_google_buried_the_mmlu_benchmark_scores/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
