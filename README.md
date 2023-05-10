@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1656369264524161046)
+- [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1656345356307660830)
+- [🕒 Discover how Temporal Graph Networks can handle continuous-time dynamic graphs and revolutionize data analysis! #TGNs #DataAnalysis ⏳ #memgraph ...](https://twitter.com/memgraphdb/status/1656345355741429781)
+- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1656329435514060805)
 - [💡 Hubs in the energy grid that need further support with additional buses, or to estimate flow with the MaxFlow algorithm, to the large customized ...](https://twitter.com/memgraphdb/status/1656304838077034499)
-- [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement #memgraph #database #memgraphdb #graphd...](https://twitter.com/memgraphdb/status/1656286466815696896)
-- [🚀⭐️ Graph technology is perfect to model and manage data lineage! Not convinced? Read the post to find out more. https://memgraph.com/blog/join-t...](https://twitter.com/memgraphdb/status/1656277156849131520)
-- [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement #memgraph #database #memgraphdb #graphdatab...](https://twitter.com/memgraphdb/status/1656257024127008768)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1656238903408615425)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
