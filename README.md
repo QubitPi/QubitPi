@@ -298,10 +298,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[D] Is Active Learning a &quot;hoax&quot;, or the future?](https://www.reddit.com/r/MachineLearning/comments/13elpm1/d_is_active_learning_a_hoax_or_the_future/)
-- [[D] best computer resource for model training? and other noob questions!](https://www.reddit.com/r/MachineLearning/comments/13el8ge/d_best_computer_resource_for_model_training_and/)
-- [[P] Slidesforall: Hub repository for sharing and referring latest slides before going to speak in public.](https://www.reddit.com/r/MachineLearning/comments/13ehh3n/p_slidesforall_hub_repository_for_sharing_and/)
 - [[News] All AI updates from Google I/O 2023](https://www.reddit.com/r/MachineLearning/comments/13eg5hg/news_all_ai_updates_from_google_io_2023/)
-- [[D] I was trying LLaMA Index with OpenAI API but it expired. Is there any alternatives without OpenAI Key?](https://www.reddit.com/r/MachineLearning/comments/13efqgd/d_i_was_trying_llama_index_with_openai_api_but_it/)
+- [[D] Seeking Guidance on Accessing fMRI Datasets Related to Schizophrenia for AI Development](https://www.reddit.com/r/MachineLearning/comments/13eeu9q/d_seeking_guidance_on_accessing_fmri_datasets/)
+- [[Project] Developed a Tool to Enhance GPT-4 Interactions: Introducing SmartGPT](https://www.reddit.com/r/MachineLearning/comments/13ecbb3/project_developed_a_tool_to_enhance_gpt4/)
+- [[N] HuggingFace released Transformers agent](https://www.reddit.com/r/MachineLearning/comments/13eb5hu/n_huggingface_released_transformers_agent/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
