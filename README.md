@@ -381,11 +381,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Kubernetes 1.27: Avoid Collisions Assigning Ports to NodePort Services](https://kubernetes.io/blog/2023/05/11/nodeport-dynamic-and-static-allocation/)
 - [Blog: Kubernetes 1.27: Safer, More Performant Pruning in kubectl apply](https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning/)
 - [Blog: Kubernetes 1.27: Introducing An API For Volume Group Snapshots](https://kubernetes.io/blog/2023/05/08/kubernetes-1-27-volume-group-snapshot-alpha/)
 - [Blog: Kubernetes 1.27: Quality-of-Service for Memory Resources &lpar;alpha&rpar;](https://kubernetes.io/blog/2023/05/05/qos-memory-resources/)
 - [Blog: Kubernetes 1.27: StatefulSet PVC Auto-Deletion &lpar;beta&rpar;](https://kubernetes.io/blog/2023/05/04/kubernetes-1-27-statefulset-pvc-auto-deletion-beta/)
-- [Blog: Kubernetes 1.27: HorizontalPodAutoscaler ContainerResource type metric moves to beta](https://kubernetes.io/blog/2023/05/02/hpa-container-resource-metric/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
