@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[News] All AI updates from Google I/O 2023](https://www.reddit.com/r/MachineLearning/comments/13eg5hg/news_all_ai_updates_from_google_io_2023/)
 - [[D] I was trying LLaMA Index with OpenAI API but it expired. Is there any alternatives without OpenAI Key?](https://www.reddit.com/r/MachineLearning/comments/13efqgd/d_i_was_trying_llama_index_with_openai_api_but_it/)
 - [[D] Seeking Guidance on Accessing fMRI Datasets Related to Schizophrenia for AI Development](https://www.reddit.com/r/MachineLearning/comments/13eeu9q/d_seeking_guidance_on_accessing_fmri_datasets/)
 - [[P] Insights into deployed models - business and delayed ground truths](https://www.reddit.com/r/MachineLearning/comments/13eemud/p_insights_into_deployed_models_business_and/)
 - [[Project] Developed a Tool to Enhance GPT-4 Interactions: Introducing SmartGPT](https://www.reddit.com/r/MachineLearning/comments/13ecbb3/project_developed_a_tool_to_enhance_gpt4/)
-- [[P] Ai to play FNF](https://www.reddit.com/r/MachineLearning/comments/13ebq0k/p_ai_to_play_fnf/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
