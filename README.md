@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Developed a Tool to Enhance GPT-4 Interactions: Introducing SmartGPT](https://www.reddit.com/r/MachineLearning/comments/13ecbb3/project_developed_a_tool_to_enhance_gpt4/)
 - [[P] Ai to play FNF](https://www.reddit.com/r/MachineLearning/comments/13ebq0k/p_ai_to_play_fnf/)
 - [[N] HuggingFace released Transformers agent](https://www.reddit.com/r/MachineLearning/comments/13eb5hu/n_huggingface_released_transformers_agent/)
 - [[D] Are there any challenges with using &lpar;NVLinked&rpar; 2 x RTX 3090 for deep learning?](https://www.reddit.com/r/MachineLearning/comments/13e9pcx/d_are_there_any_challenges_with_using_nvlinked_2/)
 - [[R] Should you standardize rainfall maps before using them as inputs in a deep learning model?](https://www.reddit.com/r/MachineLearning/comments/13e54nx/r_should_you_standardize_rainfall_maps_before/)
-- [[News] Introducing Neural Times: A GPT-4 Powered News Source for Global Events, Politics, and Technology Aimed at Minimizing Bias and Comparing Perspectives](https://www.reddit.com/r/MachineLearning/comments/13e52xi/news_introducing_neural_times_a_gpt4_powered_news/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
