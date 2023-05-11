@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are there any challenges with using &lpar;NVLinked&rpar; 2 x RTX 3090 for deep learning?](https://www.reddit.com/r/MachineLearning/comments/13e9pcx/d_are_there_any_challenges_with_using_nvlinked_2/)
 - [[R] Should you standardize rainfall maps before using them as inputs in a deep learning model?](https://www.reddit.com/r/MachineLearning/comments/13e54nx/r_should_you_standardize_rainfall_maps_before/)
 - [[News] Introducing Neural Times: A GPT-4 Powered News Source for Global Events, Politics, and Technology Aimed at Minimizing Bias and Comparing Perspectives](https://www.reddit.com/r/MachineLearning/comments/13e52xi/news_introducing_neural_times_a_gpt4_powered_news/)
 - [[D] Building an LLM model without degree to get hired?](https://www.reddit.com/r/MachineLearning/comments/13e4zzd/d_building_an_llm_model_without_degree_to_get/)
 - [[D] Industry-Wide Classification and Clustering Direction](https://www.reddit.com/r/MachineLearning/comments/13e4qe6/d_industrywide_classification_and_clustering/)
-- [[D] Which tech skills/frameworks should I learn to stand out from the ML engineers crowd and get a higher paycheck?](https://www.reddit.com/r/MachineLearning/comments/13e43bu/d_which_tech_skillsframeworks_should_i_learn_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
