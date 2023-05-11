@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.reddit.com/r/MachineLearning/comments/13etub0/n_anthropic_introducing_100k_token_context/)
 - [[D] Is Active Learning a &quot;hoax&quot;, or the future?](https://www.reddit.com/r/MachineLearning/comments/13elpm1/d_is_active_learning_a_hoax_or_the_future/)
 - [[News] All AI updates from Google I/O 2023](https://www.reddit.com/r/MachineLearning/comments/13eg5hg/news_all_ai_updates_from_google_io_2023/)
 - [[D] Seeking Guidance on Accessing fMRI Datasets Related to Schizophrenia for AI Development](https://www.reddit.com/r/MachineLearning/comments/13eeu9q/d_seeking_guidance_on_accessing_fmri_datasets/)
 - [[Project] Developed a Tool to Enhance GPT-4 Interactions: Introducing SmartGPT](https://www.reddit.com/r/MachineLearning/comments/13ecbb3/project_developed_a_tool_to_enhance_gpt4/)
-- [[N] HuggingFace released Transformers agent](https://www.reddit.com/r/MachineLearning/comments/13eb5hu/n_huggingface_released_transformers_agent/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
