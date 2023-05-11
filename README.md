@@ -299,9 +299,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Submission process for TMLR](https://www.reddit.com/r/MachineLearning/comments/13eybrm/d_submission_process_for_tmlr/)
 - [Business application of LLM [P]](https://www.reddit.com/r/MachineLearning/comments/13ew0vb/business_application_of_llm_p/)
-- [[D] What Repos/Tools Should We Pay Attention To?](https://www.reddit.com/r/MachineLearning/comments/13evewm/d_what_repostools_should_we_pay_attention_to/)
 - [[P] Feasibility of Project and Suggestions for Learning: Text-Action Classifier](https://www.reddit.com/r/MachineLearning/comments/13eupzd/p_feasibility_of_project_and_suggestions_for/)
 - [[P] tvdcn: Torchvision deformable convolution networks](https://www.reddit.com/r/MachineLearning/comments/13eupmq/p_tvdcn_torchvision_deformable_convolution/)
+- [[N] Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.reddit.com/r/MachineLearning/comments/13etub0/n_anthropic_introducing_100k_token_context/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
