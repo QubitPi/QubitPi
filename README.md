@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @TheEducatorAU speaks with @jimwebber about the key risks, strategies, and opportunities associated with the rise of this technology. https://okt.t...](https://twitter.com/neo4j/status/1656675810357686272)
-- [Our customer&#39;s opinions matter! Check out what our customers think about Neo4j and learn how we helped them find hidden relationships and patterns acr...](https://twitter.com/neo4j/status/1656660895517507593)
 - [Nothing but @bluesky ? Watch the recording of #user #interactions in a graph from this weeks Discover Aura Episode with @mesirii https://okt.to/DuNn67](https://twitter.com/neo4j/status/1656570364871180291)
 - [Get ready to launch on an exciting journey with Michael Hunger as he explores the #NASA Firms dataset-- learn how we can now take a closer look at the...](https://twitter.com/neo4j/status/1656461382340993024)
 - [Enabling Neo4j with AWS Managed Streaming for Kafka &lpar;MSK&rpar;💡 Come and check out Owen Robertson&#39;s model for integrating real-time applications and dat...](https://twitter.com/neo4j/status/1656403020626685953)
+- [The Neo4j graph database plugs into your Google Cloud architecture just like a native component: quickly build scalable, AI-driven applications and an...](https://twitter.com/neo4j/status/1656343390437376013)
+- [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1656311150995177472)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
