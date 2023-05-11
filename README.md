@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/794307828895449208><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2fc3925825a7c1d0b5ca7e035deb46b3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@燕飞雨@莫默陌X@-回头彼岸-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/794338752631668773)
 - [#原神# #原神3.7# #决斗召唤之巅# #原神3.7版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.7版本「决斗！召唤之巅！」前瞻特别...](https://t.bilibili.com/794307828895449208)
 - [#原神# #熠金妙剂# 不同的材料之间，会合成出什么有趣的东西呢... 与派蒙一起～开启全新的药剂制作体验吧！ 「熠金妙剂」网页活动现已上线，参与可得原石等游戏...](https://t.bilibili.com/794300085063122948)
 - [恭喜@听白今天学习了吗@三行情书12138@蝉鸣一夏が等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/793967671777427506)
 - [恭喜@是否开启青少年模式@英姿飒爽空条徐伦@四脚吞金鸽等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/793967667430031409)
-- [恭喜@挖出一个坑@算上猫耳一米五@喜欢故事的家伙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/793225497128468535)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
