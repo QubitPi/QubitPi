@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Seeking Guidance on Accessing fMRI Datasets Related to Schizophrenia for AI Development](https://www.reddit.com/r/MachineLearning/comments/13eeu9q/d_seeking_guidance_on_accessing_fmri_datasets/)
 - [[P] Insights into deployed models - business and delayed ground truths](https://www.reddit.com/r/MachineLearning/comments/13eemud/p_insights_into_deployed_models_business_and/)
 - [[Project] Developed a Tool to Enhance GPT-4 Interactions: Introducing SmartGPT](https://www.reddit.com/r/MachineLearning/comments/13ecbb3/project_developed_a_tool_to_enhance_gpt4/)
 - [[P] Ai to play FNF](https://www.reddit.com/r/MachineLearning/comments/13ebq0k/p_ai_to_play_fnf/)
 - [[N] HuggingFace released Transformers agent](https://www.reddit.com/r/MachineLearning/comments/13eb5hu/n_huggingface_released_transformers_agent/)
-- [[D] Are there any challenges with using &lpar;NVLinked&rpar; 2 x RTX 3090 for deep learning?](https://www.reddit.com/r/MachineLearning/comments/13e9pcx/d_are_there_any_challenges_with_using_nvlinked_2/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
