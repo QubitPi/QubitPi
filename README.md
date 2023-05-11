@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1656544920142790657)
+- [🌐 Fetch data from the @Twitch API, model objects using GQLAlchemy&#39;s OGM, and create API endpoints for GET requests 📊 #API #TwitchAPI #Backend #P...](https://twitter.com/memgraphdb/status/1656530576390647809)
 - [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1656519753828106241)
 - [💡 #Memgraph is the go-to solution to analyze your highly connected power grids or gas pipelines to make meaningful decisions and improve the impact...](https://twitter.com/memgraphdb/status/1656369264524161046)
 - [💡 All the code used for running these benchmarks is publicly available so if you want to reproduce and validate the results by yourself, you can do...](https://twitter.com/memgraphdb/status/1656345356307660830)
-- [🕒 Discover how Temporal Graph Networks can handle continuous-time dynamic graphs and revolutionize data analysis! #TGNs #DataAnalysis ⏳ #memgraph ...](https://twitter.com/memgraphdb/status/1656345355741429781)
-- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1656329435514060805)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
