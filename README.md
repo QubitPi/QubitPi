@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What Repos/Tools Should We Pay Attention To?](https://www.reddit.com/r/MachineLearning/comments/13evewm/d_what_repostools_should_we_pay_attention_to/)
 - [[P] Feasibility of Project and Suggestions for Learning: Text-Action Classifier](https://www.reddit.com/r/MachineLearning/comments/13eupzd/p_feasibility_of_project_and_suggestions_for/)
 - [[P] tvdcn: Torchvision deformable convolution networks](https://www.reddit.com/r/MachineLearning/comments/13eupmq/p_tvdcn_torchvision_deformable_convolution/)
 - [[N] Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.reddit.com/r/MachineLearning/comments/13etub0/n_anthropic_introducing_100k_token_context/)
 - [[D] Is Active Learning a &quot;hoax&quot;, or the future?](https://www.reddit.com/r/MachineLearning/comments/13elpm1/d_is_active_learning_a_hoax_or_the_future/)
-- [[News] All AI updates from Google I/O 2023](https://www.reddit.com/r/MachineLearning/comments/13eg5hg/news_all_ai_updates_from_google_io_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
