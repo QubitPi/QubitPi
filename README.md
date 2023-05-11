@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/793967671777427506><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1778aaeba39797bf541782aefe49925401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/794307828895449208><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2fc3925825a7c1d0b5ca7e035deb46b3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.7# #决斗召唤之巅# #原神3.7版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.7版本「决斗！召唤之巅！」前瞻特别...](https://t.bilibili.com/794307828895449208)
