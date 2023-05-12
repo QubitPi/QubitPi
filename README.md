@@ -357,11 +357,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Wes Wilson, VP of Operations at the OpenInfra Foundation, Discusses Foundation’s Growth and Introduction of Project Funding Model](https://superuser.openinfra.dev/articles/wes-wilson-vp-of-operations-at-the-openinfra-foundation-discusses-foundations-growth-and-introduction-of-project-funding-model/)
 - [Calling All Students: Start Your Career in Open Source Tech at the OpenInfra Summit](https://superuser.openinfra.dev/articles/calling-all-students-start-your-career-in-open-source-tech-at-the-openinfra-summit/)
 - [Meet the 2023 Superuser Awards Nominees](https://superuser.openinfra.dev/articles/meet-the-2023-superuser-awards-nominees/)
 - [2023 Superuser Awards Nominee:  China Telecom – eSurfing Cloud](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-china-telecom-esurfing-cloud/)
 - [2023 Superuser Awards Nominee: Workday](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-workday/)
-- [2023 Superuser Awards Nominee: Acme Gating](https://superuser.openinfra.dev/articles/2023-superuser-awards-nominee-acme-gating/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
