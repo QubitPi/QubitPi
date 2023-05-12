@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Annotation tool for tabular data &lpar;editable/fillable cells&rpar;](https://www.reddit.com/r/MachineLearning/comments/13fjobr/d_annotation_tool_for_tabular_data/)
 - [[D] Tips for an AI-hungry software engineer](https://www.reddit.com/r/MachineLearning/comments/13fj1vm/d_tips_for_an_aihungry_software_engineer/)
 - [Open-source LLMs cherry-picking? [D]](https://www.reddit.com/r/MachineLearning/comments/13fiw7r/opensource_llms_cherrypicking_d/)
 - [[D] Will you trust AI to analyze the rise or fall of assets?](https://www.reddit.com/r/MachineLearning/comments/13fic84/d_will_you_trust_ai_to_analyze_the_rise_or_fall/)
 - [[R] Introducing The Vault: A new multilingual dataset for advancing code understanding and generation.](https://www.reddit.com/r/MachineLearning/comments/13fftd7/r_introducing_the_vault_a_new_multilingual/)
-- [[D] Where can I try MusicLM? Also plugging my rap song about AI](https://www.reddit.com/r/MachineLearning/comments/13fe25n/d_where_can_i_try_musiclm_also_plugging_my_rap/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
