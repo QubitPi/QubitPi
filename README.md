@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] I made a video covering the last 10 years of NLP research explained with 50 topics](https://www.reddit.com/r/MachineLearning/comments/13fujps/d_i_made_a_video_covering_the_last_10_years_of/)
 - [[D] 5 months of AI journey - what can I do next?](https://www.reddit.com/r/MachineLearning/comments/13fu1xa/d_5_months_of_ai_journey_what_can_i_do_next/)
 - [[D] AI to Teach AI?](https://www.reddit.com/r/MachineLearning/comments/13fu1b5/d_ai_to_teach_ai/)
 - [[R] ChatGPT In Financial Economics?](https://www.reddit.com/r/MachineLearning/comments/13ftyce/r_chatgpt_in_financial_economics/)
 - [[D] Questions about getting ghosted and rejected after a take-home project.](https://www.reddit.com/r/MachineLearning/comments/13fsxjo/d_questions_about_getting_ghosted_and_rejected/)
-- [[D] Citing OpenReview withdrawn paper](https://www.reddit.com/r/MachineLearning/comments/13fsc1p/d_citing_openreview_withdrawn_paper/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
