@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1656874087866671106)
 - [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1656727370605133835)
 - [🎓 NetworkX has a large set of interesting graph algorithms, and it can analyze a network of data fast, but only on a certain scale. https://memgrap...](https://twitter.com/memgraphdb/status/1656709760773767184)
 - [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1656691682568445953)
 - [🎓 Good, old-fashioned relational databases are the industry standard and the go-to technology used for data storage in the insurance industry. http...](https://twitter.com/memgraphdb/status/1656648854245081088)
-- [✅ Learn how graph databases can tackle the two most important requirements of modern business organizations in dealing with identity and access manag...](https://twitter.com/memgraphdb/status/1656639543804665861)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
