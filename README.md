@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Questions about getting ghosted and rejected after a take-home project.](https://www.reddit.com/r/MachineLearning/comments/13fsxjo/d_questions_about_getting_ghosted_and_rejected/)
 - [[D] Citing OpenReview withdrawn paper](https://www.reddit.com/r/MachineLearning/comments/13fsc1p/d_citing_openreview_withdrawn_paper/)
 - [[D]: Is voice cloning or natural TTS &lpar;like Elevenlabs&rpar; possible due to LLMs?](https://www.reddit.com/r/MachineLearning/comments/13fo799/d_is_voice_cloning_or_natural_tts_like_elevenlabs/)
 - [[Discussion] MSE for NN Classification](https://www.reddit.com/r/MachineLearning/comments/13fkuee/discussion_mse_for_nn_classification/)
 - [[D] [R] Research Problem about Weakly Supervised Learning for CT Image Semantic Segmentation](https://www.reddit.com/r/MachineLearning/comments/13fktus/d_r_research_problem_about_weakly_supervised/)
-- [[P] airoboros 7b - instruction tuned on 100k synthetic instruction/responses](https://www.reddit.com/r/MachineLearning/comments/13fk2vw/p_airoboros_7b_instruction_tuned_on_100k/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
