@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LLM or model that does image -&gt; prompt?](https://www.reddit.com/r/MachineLearning/comments/13g1bnj/d_llm_or_model_that_does_image_prompt/)
 - [[R] DetGPT: Detect What You Need via Reasoning](https://www.reddit.com/r/MachineLearning/comments/13fzf2m/r_detgpt_detect_what_you_need_via_reasoning/)
 - [[D] WASI-Compatible Interpreters?](https://www.reddit.com/r/MachineLearning/comments/13fzde4/d_wasicompatible_interpreters/)
 - [[D] I made a video covering the last 10 years of NLP research explained with 50 topics](https://www.reddit.com/r/MachineLearning/comments/13fujps/d_i_made_a_video_covering_the_last_10_years_of/)
 - [[D] Citing OpenReview withdrawn paper](https://www.reddit.com/r/MachineLearning/comments/13fsc1p/d_citing_openreview_withdrawn_paper/)
-- [[D]: Is voice cloning or natural TTS &lpar;like Elevenlabs&rpar; possible due to LLMs?](https://www.reddit.com/r/MachineLearning/comments/13fo799/d_is_voice_cloning_or_natural_tts_like_elevenlabs/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
