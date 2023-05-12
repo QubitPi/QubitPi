@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [NODES is back for its fifth year! This online conference is for #developers and #datascientists ready to learn the latest graph best practices. Have y...](https://twitter.com/neo4j/status/1657051570159140866)
 - [⭐A new Cypher Aggregations course. ⭐Updated Course: Building Neo4j Applications With Go. These are some of the updates in #GraphAcademy during the l...](https://twitter.com/neo4j/status/1656992719720402944)
 - [Why native graph database technology is critical for success for enterprises wanting to leverage their connected data? Explore the differences between...](https://twitter.com/neo4j/status/1656796347742183424)
 - [Are you a Developer or Data scientist? 📢 We’re looking for speakers worldwide to share inspiring projects using graph technology at #NODES2023! �...](https://twitter.com/neo4j/status/1656753562603384860)
 - [#GraphSummit Detroit has kicked off!! 📍 https://t.co/3T1AuoKCKc](https://twitter.com/neo4j/status/1656712801719549952)
+- [Re @TheEducatorAU speaks with @jimwebber about the key risks, strategies, and opportunities associated with the rise of this technology. https://okt.t...](https://twitter.com/neo4j/status/1656675810357686272)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
