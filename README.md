@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Open-source LLMs cherry-picking? [D]](https://www.reddit.com/r/MachineLearning/comments/13fiw7r/opensource_llms_cherrypicking_d/)
 - [[D] Will you trust AI to analyze the rise or fall of assets?](https://www.reddit.com/r/MachineLearning/comments/13fic84/d_will_you_trust_ai_to_analyze_the_rise_or_fall/)
 - [[R] Introducing The Vault: A new multilingual dataset for advancing code understanding and generation.](https://www.reddit.com/r/MachineLearning/comments/13fftd7/r_introducing_the_vault_a_new_multilingual/)
 - [[D] Where can I try MusicLM? Also plugging my rap song about AI](https://www.reddit.com/r/MachineLearning/comments/13fe25n/d_where_can_i_try_musiclm_also_plugging_my_rap/)
 - [[D] Questions about Weight of Classification Algorithms](https://www.reddit.com/r/MachineLearning/comments/13fdp69/d_questions_about_weight_of_classification/)
-- [[P] Advise on building Image Captioning Model in Minor Language](https://www.reddit.com/r/MachineLearning/comments/13fcdwv/p_advise_on_building_image_captioning_model_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
