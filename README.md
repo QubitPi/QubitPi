@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Advise on building Image Captioning Model in Minor Language](https://www.reddit.com/r/MachineLearning/comments/13fcdwv/p_advise_on_building_image_captioning_model_in/)
 - [[Discussion] [News] Early Access to Google Lab Workspace](https://www.reddit.com/r/MachineLearning/comments/13faq95/discussion_news_early_access_to_google_lab/)
 - [A tiny Python API built on top of SQLAlchemy to query databases [P]](https://www.reddit.com/r/MachineLearning/comments/13f7cl7/a_tiny_python_api_built_on_top_of_sqlalchemy_to/)
 - [5 layered CNN implementation on arduino/FPGAs [P]](https://www.reddit.com/r/MachineLearning/comments/13f4jar/5_layered_cnn_implementation_on_arduinofpgas_p/)
 - [[D] Doing inference in an SQL query](https://www.reddit.com/r/MachineLearning/comments/13f4an1/d_doing_inference_in_an_sql_query/)
-- [[D] Submission process for TMLR](https://www.reddit.com/r/MachineLearning/comments/13eybrm/d_submission_process_for_tmlr/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
