@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [5 layered CNN implementation on arduino/FPGAs [P]](https://www.reddit.com/r/MachineLearning/comments/13f4jar/5_layered_cnn_implementation_on_arduinofpgas_p/)
 - [[D] Doing inference in an SQL query](https://www.reddit.com/r/MachineLearning/comments/13f4an1/d_doing_inference_in_an_sql_query/)
 - [[D] Submission process for TMLR](https://www.reddit.com/r/MachineLearning/comments/13eybrm/d_submission_process_for_tmlr/)
 - [[P] Feasibility of Project and Suggestions for Learning: Text-Action Classifier](https://www.reddit.com/r/MachineLearning/comments/13eupzd/p_feasibility_of_project_and_suggestions_for/)
 - [[P] tvdcn: Torchvision deformable convolution networks](https://www.reddit.com/r/MachineLearning/comments/13eupmq/p_tvdcn_torchvision_deformable_convolution/)
-- [[N] Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.reddit.com/r/MachineLearning/comments/13etub0/n_anthropic_introducing_100k_token_context/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
