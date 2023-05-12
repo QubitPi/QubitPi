@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] DetGPT: Detect What You Need via Reasoning](https://www.reddit.com/r/MachineLearning/comments/13fzf2m/r_detgpt_detect_what_you_need_via_reasoning/)
+- [[D] WASI-Compatible Interpreters?](https://www.reddit.com/r/MachineLearning/comments/13fzde4/d_wasicompatible_interpreters/)
 - [[D] I made a video covering the last 10 years of NLP research explained with 50 topics](https://www.reddit.com/r/MachineLearning/comments/13fujps/d_i_made_a_video_covering_the_last_10_years_of/)
 - [[D] Citing OpenReview withdrawn paper](https://www.reddit.com/r/MachineLearning/comments/13fsc1p/d_citing_openreview_withdrawn_paper/)
 - [[D]: Is voice cloning or natural TTS &lpar;like Elevenlabs&rpar; possible due to LLMs?](https://www.reddit.com/r/MachineLearning/comments/13fo799/d_is_voice_cloning_or_natural_tts_like_elevenlabs/)
-- [[D] [R] Research Problem about Weakly Supervised Learning for CT Image Semantic Segmentation](https://www.reddit.com/r/MachineLearning/comments/13fktus/d_r_research_problem_about_weakly_supervised/)
-- [[P] airoboros 7b - instruction tuned on 100k synthetic instruction/responses](https://www.reddit.com/r/MachineLearning/comments/13fk2vw/p_airoboros_7b_instruction_tuned_on_100k/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
