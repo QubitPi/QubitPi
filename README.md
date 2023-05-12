@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Given the leaked docs from Google. Do they have any intention in open sourcing Palm2 or other models?](https://www.reddit.com/r/MachineLearning/comments/13fkxv8/d_given_the_leaked_docs_from_google_do_they_have/)
 - [[Discussion] MSE for NN Classification](https://www.reddit.com/r/MachineLearning/comments/13fkuee/discussion_mse_for_nn_classification/)
 - [[D] [R] Research Problem about Weakly Supervised Learning for CT Image Semantic Segmentation](https://www.reddit.com/r/MachineLearning/comments/13fktus/d_r_research_problem_about_weakly_supervised/)
 - [[P] airoboros 7b - instruction tuned on 100k synthetic instruction/responses](https://www.reddit.com/r/MachineLearning/comments/13fk2vw/p_airoboros_7b_instruction_tuned_on_100k/)
 - [[D] Annotation tool for tabular data &lpar;editable/fillable cells&rpar;](https://www.reddit.com/r/MachineLearning/comments/13fjobr/d_annotation_tool_for_tabular_data/)
+- [Open-source LLMs cherry-picking? [D]](https://www.reddit.com/r/MachineLearning/comments/13fiw7r/opensource_llms_cherrypicking_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
