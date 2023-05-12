@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement https://memgraph.com/data-lineage #memg...](https://twitter.com/memgraphdb/status/1657029614613458951)
 - [✨ Memgraph prepared another magic spell to continue the graph machine learning story. It is time to bring more great graph neural network &lpar;GNN&rpar; model...](https://twitter.com/memgraphdb/status/1657011243666817024)
 - [🎓 The first step to switching to a graph database is to update the data model. Although transforming data from a relational database into graph dat...](https://twitter.com/memgraphdb/status/1656981799484964864)
 - [🎓 Analyzing chains of events by hopping between data points has a huge impact on database performance. The more hops on the security dataset, the m...](https://twitter.com/memgraphdb/status/1656963680469172225)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1656957893256642560)
-- [🚀 #Memgraph community edition has stellar performance, supports replication to achieve high availability, and allows property constraints. Neo4j, o...](https://twitter.com/memgraphdb/status/1656930735012339715)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
