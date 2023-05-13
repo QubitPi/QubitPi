@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ The data lineage graph is the single source of truth about your organization’s data. https://memgraph.com/blog/manage-all-your-data-lineage-need...](https://twitter.com/memgraphdb/status/1657259124508307456)
-- [💡 In recent years, it seems even more natural to use graph databases for Identity and Access Management systems, given all the advantages graph dat...](https://twitter.com/memgraphdb/status/1657244530846957568)
 - [🎓 This article will explain how you can ease your way into analyzing your supply chain using graph analytics and Memgraph. You can use these tools ...](https://twitter.com/memgraphdb/status/1657094036212047881)
 - [🔎 Complex JOINs necessary for tracking data lineage with relational DBs drag down the speed of analyzing and visualizing the lineage and pinpointin...](https://twitter.com/memgraphdb/status/1657070131132891153)
 - [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. https://memgraph.com/blog/inferring-knowledge...](https://twitter.com/memgraphdb/status/1657056036396703744)
+- [❗️ In the digital world, people, services, and devices have an identity, and sometimes even more than one. https://memgraph.com/blog/what-makes-memg...](https://twitter.com/memgraphdb/status/1657052264723361792)
+- [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement https://memgraph.com/data-lineage #memg...](https://twitter.com/memgraphdb/status/1657029614613458951)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
