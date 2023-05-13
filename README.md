@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] spectral clustering in sklearn](https://www.reddit.com/r/MachineLearning/comments/13gkac4/d_spectral_clustering_in_sklearn/)
+- [[R] Large Language Models trained on code reason better, even on benchmarks that have nothing to do with code](https://www.reddit.com/r/MachineLearning/comments/13gk5da/r_large_language_models_trained_on_code_reason/)
 - [[D] Generative AI in Financial Services](https://www.reddit.com/r/MachineLearning/comments/13gjeut/d_generative_ai_in_financial_services/)
 - [[D] Is there any tools to streamline data cleaning process?](https://www.reddit.com/r/MachineLearning/comments/13ghpx7/d_is_there_any_tools_to_streamline_data_cleaning/)
 - [[R] Favorite recent HCI paper using LLMs?](https://www.reddit.com/r/MachineLearning/comments/13ghhiu/r_favorite_recent_hci_paper_using_llms/)
-- [[R] Language Models of Code are Few-Shot Commonsense Learners](https://www.reddit.com/r/MachineLearning/comments/13gh9gu/r_language_models_of_code_are_fewshot_commonsense/)
-- [[D] Hardware Questions For Running LLMs](https://www.reddit.com/r/MachineLearning/comments/13gh2qi/d_hardware_questions_for_running_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
