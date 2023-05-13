@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795049982063280227><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66df5197d82611bea42826b7a6f28fc3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动时间〓 2023/...](https://t.bilibili.com/795049982063280227)
-- [恭喜@燕飞雨@莫默陌X@-回头彼岸-等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/794338752631668773)
-- [#原神# #原神3.7# #决斗召唤之巅# #原神3.7版本前瞻特别节目# 旅行者们大家好，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》3.7版本「决斗！召唤之巅！」前瞻特别...](https://t.bilibili.com/794307828895449208)
-- [#原神# #熠金妙剂# 不同的材料之间，会合成出什么有趣的东西呢... 与派蒙一起～开启全新的药剂制作体验吧！ 「熠金妙剂」网页活动现已上线，参与可得原石等游戏...](https://t.bilibili.com/794300085063122948)
-- [恭喜@听白今天学习了吗@三行情书12138@蝉鸣一夏が等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/793967671777427506)
+- [#原神科颜氏巡林奇遇# 亲爱的旅行者，「巡林奇遇，自在净颜」联名活动已开启，快跟随巡林小队一起出发吧~](https://t.bilibili.com/795195074639036472)
+- [#原神# #决斗召唤之巅# #原神3.7# 《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目回顾长图 《原神》3.7版本「决斗！召唤之巅！」将于2023年5月24日上线。 感...](https://t.bilibili.com/795192235663556661)
+- [《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目](https://t.bilibili.com/795191720275869845)
+- [#原神# #原神音乐# 亲爱的旅行者，原神3.7版本PV音乐《Duel! The Summoners&#39; Summit! 决斗！召唤之巅！》现已更新加入专辑《流星的轨迹 Footprints of the Trave...](https://t.bilibili.com/795189143287103495)
+- [互动抽奖 #原神# #原神3.7# #决斗召唤之巅# 《原神》3.7版本PV：「决斗！召唤之巅！」现已发布~ https://www.bilibili.com/video/BV1MM4y1t7v1 牌局如人生，运气...](https://t.bilibili.com/795188696622039126)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
