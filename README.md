@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/794338752631668773><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/80b3ebad7d8054a555495422a4bcb673401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795049982063280227><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66df5197d82611bea42826b7a6f28fc3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动时间〓 2023/...](https://t.bilibili.com/795049982063280227)
