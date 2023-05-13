@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Open source codebase powering the HuggingChat app](https://www.reddit.com/r/MachineLearning/comments/13g51c8/n_open_source_codebase_powering_the_huggingchat/)
 - [[D] Where is the &quot;statistics&quot; in statistical machine learning in the year 2023?](https://www.reddit.com/r/MachineLearning/comments/13g4avq/d_where_is_the_statistics_in_statistical_machine/)
 - [[Research] Has anyone here used Scale AI&#39;s service, and if so, what is your review?](https://www.reddit.com/r/MachineLearning/comments/13g2qdn/research_has_anyone_here_used_scale_ais_service/)
 - [[D] LLM or model that does image -&gt; prompt?](https://www.reddit.com/r/MachineLearning/comments/13g1bnj/d_llm_or_model_that_does_image_prompt/)
 - [[R] DetGPT: Detect What You Need via Reasoning](https://www.reddit.com/r/MachineLearning/comments/13fzf2m/r_detgpt_detect_what_you_need_via_reasoning/)
-- [[D] WASI-Compatible Interpreters?](https://www.reddit.com/r/MachineLearning/comments/13fzde4/d_wasicompatible_interpreters/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
