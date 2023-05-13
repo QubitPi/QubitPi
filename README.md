@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What are the most convenient Python libraries for evaluating object detection results based on Pascal VOC ground-truth bounding boxes and Coco-formatted predictions?](https://www.reddit.com/r/MachineLearning/comments/13gp8w3/d_what_are_the_most_convenient_python_libraries/)
 - [Feature Extraction [D][R]](https://www.reddit.com/r/MachineLearning/comments/13gnc0k/feature_extraction_dr/)
 - [[D] Google&#39;s project Gemini. How good could it be?](https://www.reddit.com/r/MachineLearning/comments/13glspi/d_googles_project_gemini_how_good_could_it_be/)
 - [[P] [D] fMRI prediction problems](https://www.reddit.com/r/MachineLearning/comments/13gkvq0/p_d_fmri_prediction_problems/)
 - [[D] spectral clustering in sklearn](https://www.reddit.com/r/MachineLearning/comments/13gkac4/d_spectral_clustering_in_sklearn/)
-- [[R] Large Language Models trained on code reason better, even on benchmarks that have nothing to do with code](https://www.reddit.com/r/MachineLearning/comments/13gk5da/r_large_language_models_trained_on_code_reason/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
