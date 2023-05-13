@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795049982063280227><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/66df5197d82611bea42826b7a6f28fc3401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795195074639036472><img align='right' src='https://i0.hdslb.com/bfs/album/c3c7dd1ff7be4b323d191c31004bcbaa8b71fdaa.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神科颜氏巡林奇遇# 亲爱的旅行者，「巡林奇遇，自在净颜」联名活动已开启，快跟随巡林小队一起出发吧~](https://t.bilibili.com/795195074639036472)
