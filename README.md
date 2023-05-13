@@ -297,10 +297,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] &#39;We Shouldn&#39;t Regulate AI Until We See Meaningful Harm&#39;: Microsoft Economist to WEF](https://www.reddit.com/r/MachineLearning/comments/13gvv8f/n_we_shouldnt_regulate_ai_until_we_see_meaningful/)
 - [[P] I took the amazing ChatGPT and the Google Maps, and brought them together in an Travel app.](https://www.reddit.com/r/MachineLearning/comments/13gvh77/p_i_took_the_amazing_chatgpt_and_the_google_maps/)
 - [[N] Did you know about ChoosePet AI ?](https://www.reddit.com/r/MachineLearning/comments/13gv32j/n_did_you_know_about_choosepet_ai/)
 - [[R] Enhancing Language Model Performance through Context Preservation: A Novel Approach Utilizing Internal State Symbols](https://www.reddit.com/r/MachineLearning/comments/13gsqkl/r_enhancing_language_model_performance_through/)
-- [[Discussion] [Research] [Project] There should be an AI that can rap autonomously](https://www.reddit.com/r/MachineLearning/comments/13gq7y4/discussion_research_project_there_should_be_an_ai/)
 - [[D] What are the most convenient Python libraries for evaluating object detection results based on Pascal VOC ground-truth bounding boxes and Coco-formatted predictions?](https://www.reddit.com/r/MachineLearning/comments/13gp8w3/d_what_are_the_most_convenient_python_libraries/)
 <!-- REDDIT-ML:END -->
 
