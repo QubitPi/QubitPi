@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1657415833541279745)
-- [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1657411881705910282)
 - [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1657392003552882689)
 - [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1657382187493126144)
 - [🎓 Although changing legacy software is often considered a hassle, it definitely pays back if your system needs to be scalable, fault-tolerant, and ...](https://twitter.com/memgraphdb/status/1657344187409260545)
+- [🔎 In graph database terminology, the PageRank algorithm is used to measure the importance of each node based on the number of incoming relationship...](https://twitter.com/memgraphdb/status/1657326066598387712)
+- [🎇 A whole new world of possibilities opened up. You can now do graph analysis with #PageRank, degree centrality, betweenness centrality, or any oth...](https://twitter.com/memgraphdb/status/1657318767444066308)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
