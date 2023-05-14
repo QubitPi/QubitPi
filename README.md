@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🖥️ To detect fraud, insurance companies create modern solutions based on artificial intelligence to identify such scenarios and reduce losses. htt...](https://twitter.com/memgraphdb/status/1657598863253839874)
 - [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1657452147993202691)
 - [❓ How many recommendation algorithms do you need for a successful recommendation engine? https://memgraph.com/blog/five-recommendation-algorithms-no-...](https://twitter.com/memgraphdb/status/1657434533065621507)
 - [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1657415833541279745)
 - [❗️ Graph databases are powerful tools for managing and analyzing data. However, like all databases, they require careful design and planning to be e...](https://twitter.com/memgraphdb/status/1657411881705910282)
+- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1657392003552882689)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
