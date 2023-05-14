@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://www.reddit.com/r/MachineLearning/comments/13h9909/instructblip_towards_generalpurpose/)
 - [[R] Discovering Quantum Circuit Components with Program Synthesis](https://www.reddit.com/r/MachineLearning/comments/13h863l/r_discovering_quantum_circuit_components_with/)
 - [[P]Release Auto Copilot](https://www.reddit.com/r/MachineLearning/comments/13h1zsl/prelease_auto_copilot/)
 - [[R] The Current State of Summarization](https://www.reddit.com/r/MachineLearning/comments/13gwpxw/r_the_current_state_of_summarization/)
 - [[N] &#39;We Shouldn&#39;t Regulate AI Until We See Meaningful Harm&#39;: Microsoft Economist to WEF](https://www.reddit.com/r/MachineLearning/comments/13gvv8f/n_we_shouldnt_regulate_ai_until_we_see_meaningful/)
-- [[P] I took the amazing ChatGPT and the Google Maps, and brought them together in an Travel app.](https://www.reddit.com/r/MachineLearning/comments/13gvh77/p_i_took_the_amazing_chatgpt_and_the_google_maps/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
