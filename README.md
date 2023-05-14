@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795195074639036472><img align='right' src='https://i0.hdslb.com/bfs/album/c3c7dd1ff7be4b323d191c31004bcbaa8b71fdaa.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@佰色猫@阿园喜欢小苹果@稀饭的惜繁等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/795452008127529090)
 - [#原神科颜氏巡林奇遇# 亲爱的旅行者，「巡林奇遇，自在净颜」联名活动已开启，快跟随巡林小队一起出发吧~](https://t.bilibili.com/795195074639036472)
 - [#原神# #决斗召唤之巅# #原神3.7# 《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目回顾长图 《原神》3.7版本「决斗！召唤之巅！」将于2023年5月24日上线。 感...](https://t.bilibili.com/795192235663556661)
 - [《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目](https://t.bilibili.com/795191720275869845)
 - [#原神# #原神音乐# 亲爱的旅行者，原神3.7版本PV音乐《Duel! The Summoners&#39; Summit! 决斗！召唤之巅！》现已更新加入专辑《流星的轨迹 Footprints of the Trave...](https://t.bilibili.com/795189143287103495)
-- [互动抽奖 #原神# #原神3.7# #决斗召唤之巅# 《原神》3.7版本PV：「决斗！召唤之巅！」现已发布~ https://www.bilibili.com/video/BV1MM4y1t7v1 牌局如人生，运气...](https://t.bilibili.com/795188696622039126)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
