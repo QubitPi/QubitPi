@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1657794906864119811)
-- [🔎 Choosing the right option needs to be done with careful analysis to maximize profits and make optimal steps to preserve the environment for the p...](https://twitter.com/memgraphdb/status/1657780814912921605)
-- [💡 Over time, companies have acquired a large amount of data. Every single change and observation is logged and stored in data lakes and data wareho...](https://twitter.com/memgraphdb/status/1657774271584665609)
 - [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1657734509901541376)
 - [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. https://memgraph.com/blog/networkx-developers-...](https://twitter.com/memgraphdb/status/1657726708676526081)
+- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1657705817905266689)
+- [🎓 With the rising number of cyber-attacks followed by the massive digitalization of companies, the right tool is needed to maximize performance and...](https://twitter.com/memgraphdb/status/1657682668073394178)
+- [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1657670587928510464)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
