@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] imageBIND — holistic AI learning across six modalities](https://www.reddit.com/r/MachineLearning/comments/13hhuss/r_imagebind_holistic_ai_learning_across_six/)
 - [A Survey of Large Language Models](https://www.reddit.com/r/MachineLearning/comments/13hhndk/a_survey_of_large_language_models/)
 - [[D] Training GPT2 from scratch but unable to converge whatsoever. Any tips ?](https://www.reddit.com/r/MachineLearning/comments/13hhdmf/d_training_gpt2_from_scratch_but_unable_to/)
 - [[D] Is it mandatory to accept the invitation after nominating oneself to be a Neurips reviewer?](https://www.reddit.com/r/MachineLearning/comments/13hfy4j/d_is_it_mandatory_to_accept_the_invitation_after/)
 - [[D] TTS systems to download &amp; run offline](https://www.reddit.com/r/MachineLearning/comments/13hem9e/d_tts_systems_to_download_run_offline/)
-- [[P] pre-commit - Analyzes git diff and generates a commit message using OpenAI.](https://www.reddit.com/r/MachineLearning/comments/13heir2/p_precommit_analyzes_git_diff_and_generates_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
