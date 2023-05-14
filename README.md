@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Training GPT2 from scratch but unable to converge whatsoever. Any tips ?](https://www.reddit.com/r/MachineLearning/comments/13hhdmf/d_training_gpt2_from_scratch_but_unable_to/)
 - [[D] Is it mandatory to accept the invitation after nominating oneself to be a Neurips reviewer?](https://www.reddit.com/r/MachineLearning/comments/13hfy4j/d_is_it_mandatory_to_accept_the_invitation_after/)
 - [[D] TTS systems to download &amp; run offline](https://www.reddit.com/r/MachineLearning/comments/13hem9e/d_tts_systems_to_download_run_offline/)
 - [[P] pre-commit - Analyzes git diff and generates a commit message using OpenAI.](https://www.reddit.com/r/MachineLearning/comments/13heir2/p_precommit_analyzes_git_diff_and_generates_a/)
 - [[R] Sense of language?!?! Can it measure our language skills? Have you ever heard of &quot;Sense of language&quot;? I actually knew this term when I learned Mandarin in high school. And my teacher always told me: &quot;Good sense of language = good ability of using languages&quot;. What do you think?](https://www.reddit.com/r/MachineLearning/comments/13he2oy/r_sense_of_language_can_it_measure_our_language/)
-- [[D] Prepared a Deep Voice Cloning tutorial by using TorToiSe TTS. Do you thin it is best available open source at the moment?](https://www.reddit.com/r/MachineLearning/comments/13hczdd/d_prepared_a_deep_voice_cloning_tutorial_by_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
