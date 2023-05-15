@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] The Promise and Peril of AGI: A Balancing Act for Humanity](https://www.reddit.com/r/MachineLearning/comments/13huv2g/n_the_promise_and_peril_of_agi_a_balancing_act/)
 - [[D] On LLMs&#39; ability to perform random sampling](https://www.reddit.com/r/MachineLearning/comments/13hrkbj/d_on_llms_ability_to_perform_random_sampling/)
 - [[D] Looking for papers on video2text modelling](https://www.reddit.com/r/MachineLearning/comments/13hrghn/d_looking_for_papers_on_video2text_modelling/)
 - [Survey [D]o we humanize artificial agents?](https://www.reddit.com/r/MachineLearning/comments/13hp0m5/survey_do_we_humanize_artificial_agents/)
 - [[D] - Best OS model for generation?](https://www.reddit.com/r/MachineLearning/comments/13hndru/d_best_os_model_for_generation/)
-- [[P] 22 Research Paper Highlights &lpar;April-May 2023&rpar; -- Summarized In 3 Sentences Or Less](https://www.reddit.com/r/MachineLearning/comments/13hkrj1/p_22_research_paper_highlights_aprilmay_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
