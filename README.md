@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Training LLMs to do Mathematics](https://www.reddit.com/r/MachineLearning/comments/13id9jb/d_training_llms_to_do_mathematics/)
 - [[P] capcode: Lossless normalization of uppercasing &lpar;GitHub&rpar; - Inviting criticism &amp; suggestions](https://www.reddit.com/r/MachineLearning/comments/13ibnct/p_capcode_lossless_normalization_of_uppercasing/)
 - [[P] Deterministic Objective Bayesian Analysis for Spatial Models](https://www.reddit.com/r/MachineLearning/comments/13ib7wj/p_deterministic_objective_bayesian_analysis_for/)
 - [[P] ts-tok: Time-Series Forecasting with Classification](https://www.reddit.com/r/MachineLearning/comments/13iaxyp/p_tstok_timeseries_forecasting_with_classification/)
 - [[D] What do you think of new EU AI Act ?](https://www.reddit.com/r/MachineLearning/comments/13i8v1o/d_what_do_you_think_of_new_eu_ai_act/)
-- [[D] - At some point, does it make more sense for an LLM&#39;s long-term memory to be handled via training a model vs attempting to improve the size of the context window or improve recurrence techniques? GPT has amazing &quot;memory&quot; of factual data, but all of it was achieved via backpropagation.](https://www.reddit.com/r/MachineLearning/comments/13i8uis/d_at_some_point_does_it_make_more_sense_for_an/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
