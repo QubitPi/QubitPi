@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Transforming Large Language Models from Fact Databases to Dynamic Reasoning Engines: The Next Paradigm](https://www.reddit.com/r/MachineLearning/comments/13hvu9q/d_transforming_large_language_models_from_fact/)
 - [With Wendy’s new AI drive through, how long do you think it will take before it causes a controversy? [D]](https://www.reddit.com/r/MachineLearning/comments/13hvh1t/with_wendys_new_ai_drive_through_how_long_do_you/)
 - [[N] The Promise and Peril of AGI: A Balancing Act for Humanity](https://www.reddit.com/r/MachineLearning/comments/13huv2g/n_the_promise_and_peril_of_agi_a_balancing_act/)
 - [[D] On LLMs&#39; ability to perform random sampling](https://www.reddit.com/r/MachineLearning/comments/13hrkbj/d_on_llms_ability_to_perform_random_sampling/)
 - [[D] Looking for papers on video2text modelling](https://www.reddit.com/r/MachineLearning/comments/13hrghn/d_looking_for_papers_on_video2text_modelling/)
-- [Survey [D]o we humanize artificial agents?](https://www.reddit.com/r/MachineLearning/comments/13hp0m5/survey_do_we_humanize_artificial_agents/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
