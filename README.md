@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Stuck in a time series problem[D][R]](https://www.reddit.com/r/MachineLearning/comments/13i5a2o/stuck_in_a_time_series_problemdr/)
+- [[P] Custom knowledge injection through fine-tuning Davinci](https://www.reddit.com/r/MachineLearning/comments/13i55j6/p_custom_knowledge_injection_through_finetuning/)
 - [[R] MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://www.reddit.com/r/MachineLearning/comments/13i43n0/r_megabyte_predicting_millionbyte_sequences_with/)
 - [[D] AI Tools that can analyze multiple uploaded files](https://www.reddit.com/r/MachineLearning/comments/13i3pnl/d_ai_tools_that_can_analyze_multiple_uploaded/)
 - [&quot;[D]&quot; Data Governance: Importance and best practices](https://www.reddit.com/r/MachineLearning/comments/13i30ht/d_data_governance_importance_and_best_practices/)
-- [[P] Reproduce DINOV2 PCA Result](https://www.reddit.com/r/MachineLearning/comments/13i1jn5/p_reproduce_dinov2_pca_result/)
-- [[D]Is text really a must for high-quality image-to-image generation?](https://www.reddit.com/r/MachineLearning/comments/13hwnej/dis_text_really_a_must_for_highquality/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
