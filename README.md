@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are there any current developments that could finally get rid of the flickering, at least in video2video, or is it a fundamental limitation of the tech?](https://www.reddit.com/r/MachineLearning/comments/13inqek/d_are_there_any_current_developments_that_could/)
 - [Is there a machine learning technique to find the dissimilarity between images? [R]](https://www.reddit.com/r/MachineLearning/comments/13in79y/is_there_a_machine_learning_technique_to_find_the/)
 - [[P] GlobalGPT-swift: No context length limit gen AI model](https://www.reddit.com/r/MachineLearning/comments/13ik83q/p_globalgptswift_no_context_length_limit_gen_ai/)
 - [[D] Layers of neurons in LLMs?](https://www.reddit.com/r/MachineLearning/comments/13ik320/d_layers_of_neurons_in_llms/)
 - [[P] Be part of an AI dataset](https://www.reddit.com/r/MachineLearning/comments/13ijx3e/p_be_part_of_an_ai_dataset/)
-- [[P] abstracts-search: A semantic search engine indexing 95 million academic publications](https://www.reddit.com/r/MachineLearning/comments/13ijfrb/p_abstractssearch_a_semantic_search_engine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
