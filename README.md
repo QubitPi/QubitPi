@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [What would you add as a suggestion for a successful career path? Here&#39;s Alyson Welch&#39;s, our CRO, opinion during a women&#39;s panel we hosted at #Neo4j. #...](https://twitter.com/neo4j/status/1658095120141504513)
-- [In a few hours @mesirii and @alexandererdl will work with a 🦸#superhero #dataset in today&#39;s Discovering AuraDB Episode! 📺 Tune in https://okt.to...](https://twitter.com/neo4j/status/1658079864832901127)
 - [30 days to Master #Neo4j? ✅Setting up and running Neo4j AuraDB Free instance. ✅Writing essential to advanced Cypher queries to create, read, update,...](https://twitter.com/neo4j/status/1657845272272150533)
 - [Friedrich Lindenberg joined Alex to talk about investigative journalism and showcase his project OpenSanctions which tracks sanctions and financial re...](https://twitter.com/neo4j/status/1657724463151038464)
 - [Transform your data querying experience with ChatGPT and Neo4j! In this article, you&#39;ll learn how to use the power of Artificial Intelligence to query...](https://twitter.com/neo4j/status/1657467772207595522)
+- [Interested in learning about Graph Neural Networks &lpar;GNNs&rpar; and Graph Machine Learning &lpar;GML&rpar;? We are developing a series on the topic; take a look! http...](https://twitter.com/neo4j/status/1657361562925973506)
+- [NODES is back for its fifth year! This online conference is for #developers and #datascientists ready to learn the latest graph best practices. Have y...](https://twitter.com/neo4j/status/1657051570159140866)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
