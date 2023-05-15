@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795452008127529090><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/27305bc28adacc72f7f5e06a80c83ac5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/795792152412028945><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9aa9e5cde9575f03ba43bf82bd9ffa4c401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #熠金妙剂# 《原神》「熠金妙剂」网页活动壁纸展示 旅行者们好呀，这里为大家带来了「熠金妙剂」网页活动的壁纸，旅行者可以按照自己的需要保存使用哦~](https://t.bilibili.com/795792152412028945)
