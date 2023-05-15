@@ -330,7 +330,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- NEO4J-YOUTUBE:START -->
 - [Jump into Graph: Creating Mock Data to get started with Graph Databases](https://www.youtube.com/watch?v=zHtJ_qNKA-Q)
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=yIzyvbwtDsg)
+- [Superheroes - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=yIzyvbwtDsg)
 - [Neo4j Live: GraphGPT](https://www.youtube.com/watch?v=As2UBg56b3o)
 - [Ask a Data Scientist: What Are the Best Places to Use Graph Data Science?](https://www.youtube.com/watch?v=D_2nM8mrGKc)
 - [Ask a Data Scientist: What&#39;s the Difference Between Graph Analytics and Graph Data Science?](https://www.youtube.com/watch?v=uQHIs7dUY8k)
