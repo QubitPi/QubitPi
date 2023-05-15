@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [&quot;[D]&quot; Data Governance: Importance and best practices](https://www.reddit.com/r/MachineLearning/comments/13i30ht/d_data_governance_importance_and_best_practices/)
 - [[P] Reproduce DINOV2 PCA Result](https://www.reddit.com/r/MachineLearning/comments/13i1jn5/p_reproduce_dinov2_pca_result/)
 - [[D]Is text really a must for high-quality image-to-image generation?](https://www.reddit.com/r/MachineLearning/comments/13hwnej/dis_text_really_a_must_for_highquality/)
 - [Parcel-Level Flood and Drought Detection for Insurance Using Sentinel-2A, Sentinel-1 SAR GRD and Mobile Images [R] [N] [P] [D]](https://www.reddit.com/r/MachineLearning/comments/13hw2d8/parcellevel_flood_and_drought_detection_for/)
 - [[D] Transforming Large Language Models from Fact Databases to Dynamic Reasoning Engines: The Next Paradigm](https://www.reddit.com/r/MachineLearning/comments/13hvu9q/d_transforming_large_language_models_from_fact/)
-- [[D] On LLMs&#39; ability to perform random sampling](https://www.reddit.com/r/MachineLearning/comments/13hrkbj/d_on_llms_ability_to_perform_random_sampling/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
