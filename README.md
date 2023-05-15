@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Get ready for more DEMOS during the rest of May! 🖥 ⭐Graph Database 101 🔥Demystifying Graph Neural Networks 🚀Live Demo: Smarter Fraud Detecti...](https://twitter.com/neo4j/status/1658185545955041288)
 - [In case you don&#39;t speak Swedish 🙃, this article starts like this: &quot;Neo4j helped put Sweden on the global startup map.&quot; and calls Emil Eifrem, Neo4j...](https://twitter.com/neo4j/status/1658155414482038786)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1mnxeRvopmPKX](https://twitter.com/neo4j/status/1658106300566233088)
 - [What would you add as a suggestion for a successful career path? Here&#39;s Alyson Welch&#39;s, our CRO, opinion during a women&#39;s panel we hosted at #Neo4j. #...](https://twitter.com/neo4j/status/1658095120141504513)
 - [In a few hours @mesirii and @alexandererdl will work with a 🦸#superhero #dataset in today&#39;s Discovering AuraDB Episode! 📺 Tune in https://okt.to...](https://twitter.com/neo4j/status/1658079864832901127)
+- [30 days to Master #Neo4j? ✅Setting up and running Neo4j AuraDB Free instance. ✅Writing essential to advanced Cypher queries to create, read, update,...](https://twitter.com/neo4j/status/1657845272272150533)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
