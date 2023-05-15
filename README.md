@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Budget Deep Learning Rig](https://www.reddit.com/r/MachineLearning/comments/13i8i1d/p_budget_deep_learning_rig/)
 - [[D] Has anyone looked in active learning or similar techniques for LLM fine-tuning?](https://www.reddit.com/r/MachineLearning/comments/13i7ytg/d_has_anyone_looked_in_active_learning_or_similar/)
 - [Stuck in a time series problem[D][R]](https://www.reddit.com/r/MachineLearning/comments/13i5a2o/stuck_in_a_time_series_problemdr/)
 - [[P] Custom knowledge injection through fine-tuning Davinci](https://www.reddit.com/r/MachineLearning/comments/13i55j6/p_custom_knowledge_injection_through_finetuning/)
 - [[R] MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://www.reddit.com/r/MachineLearning/comments/13i43n0/r_megabyte_predicting_millionbyte_sequences_with/)
-- [[D] AI Tools that can analyze multiple uploaded files](https://www.reddit.com/r/MachineLearning/comments/13i3pnl/d_ai_tools_that_can_analyze_multiple_uploaded/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
