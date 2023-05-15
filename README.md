@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Layers of neurons in LLMs?](https://www.reddit.com/r/MachineLearning/comments/13ik320/d_layers_of_neurons_in_llms/)
+- [[P] Be part of an AI dataset](https://www.reddit.com/r/MachineLearning/comments/13ijx3e/p_be_part_of_an_ai_dataset/)
 - [[P] abstracts-search: A semantic search engine indexing 95 million academic publications](https://www.reddit.com/r/MachineLearning/comments/13ijfrb/p_abstractssearch_a_semantic_search_engine/)
 - [[D]Is there any per-trained model for detecting ring-shaped objects from images?](https://www.reddit.com/r/MachineLearning/comments/13ihkuj/dis_there_any_pertrained_model_for_detecting/)
 - [[R] Meet Beaver-7B: a Constrained Value-Aligned LLM via Safe RLHF Technique](https://www.reddit.com/r/MachineLearning/comments/13ie8vu/r_meet_beaver7b_a_constrained_valuealigned_llm/)
-- [[D] Training LLMs in Mathematics](https://www.reddit.com/r/MachineLearning/comments/13idbsg/d_training_llms_in_mathematics/)
-- [[D] Training LLMs to do Mathematics](https://www.reddit.com/r/MachineLearning/comments/13id9jb/d_training_llms_to_do_mathematics/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
