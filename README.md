@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] anyone know which text to speech voice this is?](https://www.reddit.com/r/MachineLearning/comments/13ixs4n/d_anyone_know_which_text_to_speech_voice_this_is/)
 - [Good Face Morphing repos or API&#39;s? [D]](https://www.reddit.com/r/MachineLearning/comments/13iv4j4/good_face_morphing_repos_or_apis_d/)
 - [[D] Is it ok to use data augmentation of same text multiple times while training.](https://www.reddit.com/r/MachineLearning/comments/13it84d/d_is_it_ok_to_use_data_augmentation_of_same_text/)
 - [NLP for my native language [D] [P]](https://www.reddit.com/r/MachineLearning/comments/13iq2wm/nlp_for_my_native_language_d_p/)
 - [H100 speed ramp [D]](https://www.reddit.com/r/MachineLearning/comments/13io15n/h100_speed_ramp_d/)
-- [[R] On Evaluating Understanding And Generalization In The ARC Domain](https://www.reddit.com/r/MachineLearning/comments/13inymq/r_on_evaluating_understanding_and_generalization/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
