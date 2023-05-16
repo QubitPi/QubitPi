@@ -301,7 +301,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[N] Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence](https://www.reddit.com/r/MachineLearning/comments/13jhduh/n_sam_altman_ceo_of_openai_calls_for_us_to/)
 - [[R] Should You Mask 15% In Masked Language Modeling?](https://www.reddit.com/r/MachineLearning/comments/13jh9ub/r_should_you_mask_15_in_masked_language_modeling/)
 - [[Project] What if LLM hallucinations were a feature and not a bug?](https://www.reddit.com/r/MachineLearning/comments/13jfkax/project_what_if_llm_hallucinations_were_a_feature/)
-- [[P] Be part of an AI dataset](https://www.reddit.com/r/MachineLearning/comments/13jeu8w/p_be_part_of_an_ai_dataset/)
+- [[P] Datalab: A Linter for ML Datasets](https://www.reddit.com/r/MachineLearning/comments/13jc9rm/p_datalab_a_linter_for_ml_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
