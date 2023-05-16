@@ -329,11 +329,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [GraphStuff.fm: Innovation Vertex Interview with Michela Ledwidge &lpar;Founder @MOD&rpar;, Graphie Award 2023](https://www.youtube.com/watch?v=F_rJl5OHiaQ)
 - [APAC Training Series - Knowledge Graphs with ChatGPT](https://www.youtube.com/watch?v=u0yEI-xU2t4)
 - [APAC Training Series - Intermediate Cypher and Data Modelling](https://www.youtube.com/watch?v=H5oeKGLHZwM)
 - [APAC Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=1-EZdN8TAvY)
 - [Superheroes - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=yIzyvbwtDsg)
+- [Jump into Graph: Creating Mock Data to get started with Graph Databases](https://www.youtube.com/watch?v=zHtJ_qNKA-Q)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
