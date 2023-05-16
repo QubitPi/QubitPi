@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [“Instead of focussing on the technology, we should create a policy environment that helps inform the use of that technology rather than constraining ...](https://twitter.com/neo4j/status/1658532829154738176)
 - [Are you seeking to pinpoint bottlenecks and inefficiencies in your supply chain before they impact your operations? Join: NA: https://okt.to/DX7wkE AP...](https://twitter.com/neo4j/status/1658472871839289350)
 - [Get ready for more DEMOS during the rest of May! 🖥 ⭐Graph Database 101 🔥Demystifying Graph Neural Networks 🚀Live Demo: Smarter Fraud Detecti...](https://twitter.com/neo4j/status/1658185545955041288)
 - [In case you don&#39;t speak Swedish 🙃, this article starts like this: &quot;Neo4j helped put Sweden on the global startup map.&quot; and calls Emil Eifrem, Neo4j...](https://twitter.com/neo4j/status/1658155414482038786)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1mnxeRvopmPKX](https://twitter.com/neo4j/status/1658106300566233088)
-- [What would you add as a suggestion for a successful career path? Here&#39;s Alyson Welch&#39;s, our CRO, opinion during a women&#39;s panel we hosted at #Neo4j. #...](https://twitter.com/neo4j/status/1658095120141504513)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
