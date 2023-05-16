@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [NLP for my native language [D] [P]](https://www.reddit.com/r/MachineLearning/comments/13iq2wm/nlp_for_my_native_language_d_p/)
 - [H100 speed ramp [D]](https://www.reddit.com/r/MachineLearning/comments/13io15n/h100_speed_ramp_d/)
 - [[R] On Evaluating Understanding And Generalization In The ARC Domain](https://www.reddit.com/r/MachineLearning/comments/13inymq/r_on_evaluating_understanding_and_generalization/)
 - [[D] Are there any current developments that could finally get rid of the flickering, at least in video2video, or is it a fundamental limitation of the tech?](https://www.reddit.com/r/MachineLearning/comments/13inqek/d_are_there_any_current_developments_that_could/)
 - [Is there a machine learning technique to find the dissimilarity between images? [R]](https://www.reddit.com/r/MachineLearning/comments/13in79y/is_there_a_machine_learning_technique_to_find_the/)
-- [[P] GlobalGPT-swift: No context length limit gen AI model](https://www.reddit.com/r/MachineLearning/comments/13ik83q/p_globalgptswift_no_context_length_limit_gen_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
