@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1658521695806734336)
+- [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1658505588215513094)
 - [🎓 With a graph database as its core product, Memgraph Lab, and MAGE, Memgraph offers a complete 3-in-1 solution to analyze cybersecurity use cases....](https://twitter.com/memgraphdb/status/1658497282776391681)
 - [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1658479165472149505)
 - [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. https://memgraph.com/blog/solving-most-co...](https://twitter.com/memgraphdb/status/1658471868712751114)
-- [💡 Did you know that you can synergize @ApacheHop with #Memgraph? Dive into the post by @bartmaer to master the how-to&#39;s! 📚 #DataIntegration #Apa...](https://twitter.com/memgraphdb/status/1658430855268777984)
-- [🎓 Learn how to load data, training and plot to find out who did it! It’s elementary, my dear reader. https://memgraph.com/blog/become-an-inspector...](https://twitter.com/memgraphdb/status/1658430596983431168)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
