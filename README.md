@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] The future of AI and machine learning: what excites and worries you the most?](https://www.reddit.com/r/MachineLearning/comments/13jjrj7/discussion_the_future_of_ai_and_machine_learning/)
 - [[D] Anyone take Stanford&#39;s CS228 &lpar;Prob. Graph. Models&rpar; that&#39;s interested in paid tutoring?](https://www.reddit.com/r/MachineLearning/comments/13ji95h/d_anyone_take_stanfords_cs228_prob_graph_models/)
 - [[N] Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence](https://www.reddit.com/r/MachineLearning/comments/13jhduh/n_sam_altman_ceo_of_openai_calls_for_us_to/)
 - [[R] Should You Mask 15% In Masked Language Modeling?](https://www.reddit.com/r/MachineLearning/comments/13jh9ub/r_should_you_mask_15_in_masked_language_modeling/)
 - [[Project] What if LLM hallucinations were a feature and not a bug?](https://www.reddit.com/r/MachineLearning/comments/13jfkax/project_what_if_llm_hallucinations_were_a_feature/)
-- [[P] Datalab: A Linter for ML Datasets](https://www.reddit.com/r/MachineLearning/comments/13jc9rm/p_datalab_a_linter_for_ml_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
