@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796233808190898229><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/28b905f145bbe9b1135343717709739a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 为回馈旅行者们在第一期原神x支付宝绿色出行主题活动中通过绿色出行实现的低碳减排突破5000吨，...](https://t.bilibili.com/796233808190898229)
 - [#原神# #熠金妙剂# 《原神》「熠金妙剂」网页活动壁纸展示 旅行者们好呀，这里为大家带来了「熠金妙剂」网页活动的壁纸，旅行者可以按照自己的需要保存使用哦~](https://t.bilibili.com/795792152412028945)
 - [恭喜@佰色猫@阿园喜欢小苹果@稀饭的惜繁等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/795452008127529090)
 - [#原神科颜氏巡林奇遇# 亲爱的旅行者，「巡林奇遇，自在净颜」联名活动已开启，快跟随巡林小队一起出发吧~](https://t.bilibili.com/795195074639036472)
 - [#原神# #决斗召唤之巅# #原神3.7# 《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目回顾长图 《原神》3.7版本「决斗！召唤之巅！」将于2023年5月24日上线。 感...](https://t.bilibili.com/795192235663556661)
-- [《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目](https://t.bilibili.com/795191720275869845)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
