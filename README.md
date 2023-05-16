@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] ChatGPT Vulnerable to Prompt Injection Via YouTube Transcripts](https://www.reddit.com/r/MachineLearning/comments/13j65v0/n_chatgpt_vulnerable_to_prompt_injection_via/)
 - [[D] Is there any interlingual python-library for preprocessing text?](https://www.reddit.com/r/MachineLearning/comments/13j5947/d_is_there_any_interlingual_pythonlibrary_for/)
 - [[D] Master without a Bachelor?](https://www.reddit.com/r/MachineLearning/comments/13j4akb/d_master_without_a_bachelor/)
 - [[N] Keras GPT Copilot - Integrating an LLM copilot within the Keras model development workflow!](https://www.reddit.com/r/MachineLearning/comments/13j2uuk/n_keras_gpt_copilot_integrating_an_llm_copilot/)
 - [[R] Tiny Language Models &lpar;below 10m parameters or only one transformer block&rpar; can generate paragraphs of coherent text and reason...provided training is limited to stories that only contain words that a typical 3 to 4-year-olds usually understand.](https://www.reddit.com/r/MachineLearning/comments/13j0spj/r_tiny_language_models_below_10m_parameters_or/)
-- [[D] OpenAI API vs. Open Source Self hosted for AI Startups](https://www.reddit.com/r/MachineLearning/comments/13izmyc/d_openai_api_vs_open_source_self_hosted_for_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
