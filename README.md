@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Have a burning question ⁉️ about graphs or Neo4j? Or a problem that you&#39;re stuck with? Our community forums &lpar;discourse&rpar; are full of friendly experts...](https://twitter.com/neo4j/status/1658568155248185350)
+- [14 cities and counting!🌎 We&#39;ve already been all over the world with #GraphSummit2023 - where you can meet graph experts and hear customer stories! ...](https://twitter.com/neo4j/status/1658563040390807552)
 - [“Instead of focussing on the technology, we should create a policy environment that helps inform the use of that technology rather than constraining ...](https://twitter.com/neo4j/status/1658532829154738176)
+- [RT William Lyon: [new blog post] 🗺️ Build A Routing Web App With @Neo4j, #OpenStreetMap, and Leaflet.js 🗺️ #GIS #Neo4j https://medium.com/neo4...](https://twitter.com/lyonwj/status/1658531017119125505)
 - [Are you seeking to pinpoint bottlenecks and inefficiencies in your supply chain before they impact your operations? Join: NA: https://okt.to/DX7wkE AP...](https://twitter.com/neo4j/status/1658472871839289350)
-- [Get ready for more DEMOS during the rest of May! 🖥 ⭐Graph Database 101 🔥Demystifying Graph Neural Networks 🚀Live Demo: Smarter Fraud Detecti...](https://twitter.com/neo4j/status/1658185545955041288)
-- [In case you don&#39;t speak Swedish 🙃, this article starts like this: &quot;Neo4j helped put Sweden on the global startup map.&quot; and calls Emil Eifrem, Neo4j...](https://twitter.com/neo4j/status/1658155414482038786)
-- [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1mnxeRvopmPKX](https://twitter.com/neo4j/status/1658106300566233088)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
