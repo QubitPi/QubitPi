@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1658717738162946048)
+- [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1658708676939481088)
 - [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? https://memg...](https://twitter.com/memgraphdb/status/1658686029874749441)
 - [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1658539309756997633)
 - [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1658521695806734336)
-- [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1658505588215513094)
-- [🎓 With a graph database as its core product, Memgraph Lab, and MAGE, Memgraph offers a complete 3-in-1 solution to analyze cybersecurity use cases....](https://twitter.com/memgraphdb/status/1658497282776391681)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
