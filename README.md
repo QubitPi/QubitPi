@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Perplexity AI: Strengths &amp; Limitations [Discussion] [Research]](https://www.reddit.com/r/MachineLearning/comments/13jrwe0/perplexity_ai_strengths_limitations_discussion/)
+- [[D] Strategies for incorporating information from different places in the text](https://www.reddit.com/r/MachineLearning/comments/13jrud0/d_strategies_for_incorporating_information_from/)
 - [AI/ML job market [D]](https://www.reddit.com/r/MachineLearning/comments/13jn55e/aiml_job_market_d/)
 - [[R] Symbol tuning &lpar; i.e finetuning on input-label pairs where natural language labels &lpar;e.g., &quot;positive/negative sentiment&quot;&rpar; are replaced with arbitrary symbols &lpar;e.g., &quot;foo/bar&quot;&rpar; &rpar; improves in-context learning in language models, with much stronger results for algorithmic reasoning benchmarks.](https://www.reddit.com/r/MachineLearning/comments/13jmjae/r_symbol_tuning_ie_finetuning_on_inputlabel_pairs/)
 - [[D] Advocating for Open Models in AI Oversight: Stability AI&#39;s Letter to the United States Senate](https://www.reddit.com/r/MachineLearning/comments/13jm95w/d_advocating_for_open_models_in_ai_oversight/)
-- [[D] Working with PII data &lpar;documents&rpar; in Machine Learning applications](https://www.reddit.com/r/MachineLearning/comments/13jlea2/d_working_with_pii_data_documents_in_machine/)
-- [[Discussion] Are you using Voice AI?](https://www.reddit.com/r/MachineLearning/comments/13jk6rs/discussion_are_you_using_voice_ai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
