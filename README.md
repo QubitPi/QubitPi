@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1658793738225827844)
+- [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1658775618257842176)
+- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1658769831657709568)
 - [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1658757749813960710)
 - [🎓 It is essential for data lineages to map the dependencies between data entities in an organization. In practice, relational DBs are cumbersome an...](https://twitter.com/memgraphdb/status/1658717738162946048)
-- [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1658708676939481088)
-- [❓ Graph Neural Networks can be used for a variety of applications but do you know what it takes to create a great recommendation system? https://memg...](https://twitter.com/memgraphdb/status/1658686029874749441)
-- [💰 When choosing a graph database, you are probably thinking about the costs of certain features your solution requires. The more production-ready t...](https://twitter.com/memgraphdb/status/1658539309756997633)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
