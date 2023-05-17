@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We are so excited about #NODES2023! This year, you’ll be able to: ✨Attend technical lightning talks and workshops. ✨Hear about inspiring projects u...](https://twitter.com/neo4j/status/1658849952250953729)
 - [We will attend the London Gartner Data &amp; Analytics Summit on May 22-24, 2023!🙋 Meet us to learn how graph technology can help you meet your busines...](https://twitter.com/neo4j/status/1658820968456880129)
 - [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1658724039991386112)
 - [🖥Cybersecurity ⛓Supply chain 🏠Construction Digital twins have many applications and use cases, with enormous potential to ease complexities for...](https://twitter.com/neo4j/status/1658667428610490368)
 - [Have a burning question ⁉️ about graphs or Neo4j? Or a problem that you&#39;re stuck with? Our community forums &lpar;discourse&rpar; are full of friendly experts...](https://twitter.com/neo4j/status/1658568155248185350)
-- [14 cities and counting!🌎 We&#39;ve already been all over the world with #GraphSummit2023 - where you can meet graph experts and hear customer stories! ...](https://twitter.com/neo4j/status/1658563040390807552)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
