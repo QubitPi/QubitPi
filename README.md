@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best practices to dockerize hugginface hub models](https://www.reddit.com/r/MachineLearning/comments/13jud83/d_best_practices_to_dockerize_hugginface_hub/)
 - [[R] Listen, denoise, action! Dancing, gesturing, and silly walks with diffusion models](https://www.reddit.com/r/MachineLearning/comments/13jtvjz/r_listen_denoise_action_dancing_gesturing_and/)
 - [[P] Torch-activation: A collection of activation function for PyTorch](https://www.reddit.com/r/MachineLearning/comments/13js279/p_torchactivation_a_collection_of_activation/)
 - [Perplexity AI: Strengths &amp; Limitations [Discussion] [Research]](https://www.reddit.com/r/MachineLearning/comments/13jrwe0/perplexity_ai_strengths_limitations_discussion/)
 - [[D] Strategies for incorporating information from different places in the text](https://www.reddit.com/r/MachineLearning/comments/13jrud0/d_strategies_for_incorporating_information_from/)
-- [AI/ML job market [D]](https://www.reddit.com/r/MachineLearning/comments/13jn55e/aiml_job_market_d/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
