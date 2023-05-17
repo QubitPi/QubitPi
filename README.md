@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1658724039991386112)
 - [🖥Cybersecurity ⛓Supply chain 🏠Construction Digital twins have many applications and use cases, with enormous potential to ease complexities for...](https://twitter.com/neo4j/status/1658667428610490368)
 - [Have a burning question ⁉️ about graphs or Neo4j? Or a problem that you&#39;re stuck with? Our community forums &lpar;discourse&rpar; are full of friendly experts...](https://twitter.com/neo4j/status/1658568155248185350)
 - [14 cities and counting!🌎 We&#39;ve already been all over the world with #GraphSummit2023 - where you can meet graph experts and hear customer stories! ...](https://twitter.com/neo4j/status/1658563040390807552)
 - [“Instead of focussing on the technology, we should create a policy environment that helps inform the use of that technology rather than constraining ...](https://twitter.com/neo4j/status/1658532829154738176)
+- [RT William Lyon: [new blog post] 🗺️ Build A Routing Web App With @Neo4j, #OpenStreetMap, and Leaflet.js 🗺️ #GIS #Neo4j https://medium.com/neo4...](https://twitter.com/lyonwj/status/1658531017119125505)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
