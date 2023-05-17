@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Sanctuary AI introduced Phoenix, the first humanoid to be powered by Carbon, standing at an impressive 5&#39;7&quot; &lpar;+- 170 cm&rpar; and weighing 155 lbs &lpar;+- 70 kg&rpar;](https://www.reddit.com/r/MachineLearning/comments/13k3ekc/n_sanctuary_ai_introduced_phoenix_the_first/)
+- [[Project] ChatAll to save my life.](https://www.reddit.com/r/MachineLearning/comments/13k37of/project_chatall_to_save_my_life/)
 - [[D]LinkedIn today is 80% chatGPT-generated posts](https://www.reddit.com/r/MachineLearning/comments/13k2kj7/dlinkedin_today_is_80_chatgptgenerated_posts/)
-- [[D] Is AI engineer going to be the sexiest job in near future?](https://www.reddit.com/r/MachineLearning/comments/13k24iz/d_is_ai_engineer_going_to_be_the_sexiest_job_in/)
 - [[R] Language Models Don&#39;t Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting](https://www.reddit.com/r/MachineLearning/comments/13k1ay3/r_language_models_dont_always_say_what_they_think/)
 - [[R] SoundStorm: Efficient Parallel Audio Generation. 30s dialogue generated in 2s](https://www.reddit.com/r/MachineLearning/comments/13k10jz/r_soundstorm_efficient_parallel_audio_generation/)
-- [[D] Hyper parameter tuning also tuning feature data?](https://www.reddit.com/r/MachineLearning/comments/13jzr50/d_hyper_parameter_tuning_also_tuning_feature_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
