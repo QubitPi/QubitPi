@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Adversarial models to protect images from being used by models](https://www.reddit.com/r/MachineLearning/comments/13k9js5/d_adversarial_models_to_protect_images_from_being/)
 - [[P] Hyperopt: Is there a way to choose between multiple candidates for best hyperparameters?](https://www.reddit.com/r/MachineLearning/comments/13k4uvz/p_hyperopt_is_there_a_way_to_choose_between/)
 - [[P] Finding most &quot;interesting&quot; parts of script](https://www.reddit.com/r/MachineLearning/comments/13k4uir/p_finding_most_interesting_parts_of_script/)
 - [[D] Node embeddings in GNN](https://www.reddit.com/r/MachineLearning/comments/13k4lkh/d_node_embeddings_in_gnn/)
 - [[P] Time series labeling](https://www.reddit.com/r/MachineLearning/comments/13k406z/p_time_series_labeling/)
-- [[N] Sanctuary AI introduced Phoenix, the first humanoid to be powered by Carbon, standing at an impressive 5&#39;7&quot; &lpar;+- 170 cm&rpar; and weighing 155 lbs &lpar;+- 70 kg&rpar;](https://www.reddit.com/r/MachineLearning/comments/13k3ekc/n_sanctuary_ai_introduced_phoenix_the_first/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
