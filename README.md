@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Build a model to replicate video editing style](https://www.reddit.com/r/MachineLearning/comments/13kaj88/d_build_a_model_to_replicate_video_editing_style/)
 - [[D] Adversarial models to protect images from being used by models](https://www.reddit.com/r/MachineLearning/comments/13k9js5/d_adversarial_models_to_protect_images_from_being/)
 - [[P] Hyperopt: Is there a way to choose between multiple candidates for best hyperparameters?](https://www.reddit.com/r/MachineLearning/comments/13k4uvz/p_hyperopt_is_there_a_way_to_choose_between/)
 - [[P] Finding most &quot;interesting&quot; parts of script](https://www.reddit.com/r/MachineLearning/comments/13k4uir/p_finding_most_interesting_parts_of_script/)
 - [[D] Node embeddings in GNN](https://www.reddit.com/r/MachineLearning/comments/13k4lkh/d_node_embeddings_in_gnn/)
-- [[P] Time series labeling](https://www.reddit.com/r/MachineLearning/comments/13k406z/p_time_series_labeling/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
