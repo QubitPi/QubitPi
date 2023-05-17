@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796233808190898229><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/28b905f145bbe9b1135343717709739a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796542161064558595><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a7d05f697d8f4aad03b1b21197fdc9ba401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 为回馈旅行者们在第一期原神x支付宝绿色出行主题活动中通过绿色出行实现的低碳减排突破5000吨，...](https://t.bilibili.com/796233808190898229)
