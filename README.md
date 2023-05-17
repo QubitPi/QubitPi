@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] [Research] Identify small objects in the sea by a sequence of images.](https://www.reddit.com/r/MachineLearning/comments/13kbyyx/discussion_research_identify_small_objects_in_the/)
+- [[D] Finding Inspiration and motivation](https://www.reddit.com/r/MachineLearning/comments/13kbwzz/d_finding_inspiration_and_motivation/)
 - [[D] Are there any image captioning models that give descriptions of shapes in an image?](https://www.reddit.com/r/MachineLearning/comments/13kbdu2/d_are_there_any_image_captioning_models_that_give/)
 - [[D] Build a model to replicate video editing style](https://www.reddit.com/r/MachineLearning/comments/13kaj88/d_build_a_model_to_replicate_video_editing_style/)
 - [[D] Adversarial models to protect images from being used by models](https://www.reddit.com/r/MachineLearning/comments/13k9js5/d_adversarial_models_to_protect_images_from_being/)
-- [[P] Hyperopt: Is there a way to choose between multiple candidates for best hyperparameters?](https://www.reddit.com/r/MachineLearning/comments/13k4uvz/p_hyperopt_is_there_a_way_to_choose_between/)
-- [[P] Finding most &quot;interesting&quot; parts of script](https://www.reddit.com/r/MachineLearning/comments/13k4uir/p_finding_most_interesting_parts_of_script/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
