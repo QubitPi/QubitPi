@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] SoundStorm: Efficient Parallel Audio Generation. 30s dialogue generated in 2s](https://www.reddit.com/r/MachineLearning/comments/13k10jz/r_soundstorm_efficient_parallel_audio_generation/)
 - [[D] Hyper parameter tuning also tuning feature data?](https://www.reddit.com/r/MachineLearning/comments/13jzr50/d_hyper_parameter_tuning_also_tuning_feature_data/)
 - [[R] First vs co author](https://www.reddit.com/r/MachineLearning/comments/13jyimc/r_first_vs_co_author/)
 - [[D] Auto-encoders for semi-supervised learning?](https://www.reddit.com/r/MachineLearning/comments/13jygm8/d_autoencoders_for_semisupervised_learning/)
 - [[D] Wild LLM sandboxing idea? Perhaps?](https://www.reddit.com/r/MachineLearning/comments/13jyep3/d_wild_llm_sandboxing_idea_perhaps/)
-- [[P] ImageBind fine-tuning with LoRA](https://www.reddit.com/r/MachineLearning/comments/13jx6dn/p_imagebind_finetuning_with_lora/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
