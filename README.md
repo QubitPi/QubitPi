@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1658841552733495296)
 - [🎓 Real-time software can differ widely from use case to use case. In general, real-time software is built with time requirements in mind and should...](https://twitter.com/memgraphdb/status/1658823180507660291)
 - [🎓 Benchmarks are hard to create and often biased, so it’s good practice to understand the benchmark’s main goals and technical details before div...](https://twitter.com/memgraphdb/status/1658813869798596611)
 - [❗️ If your data is trapped inside tables and you can’t seem to get satisfying answers to questions that would enhance your business, it’s time to ...](https://twitter.com/memgraphdb/status/1658793738225827844)
 - [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1658775618257842176)
-- [🔎 To minimize risk of security threats inside systems, an initiative under the name of CVE &lpar;Common Vulnerabilities and Exposures&rpar; provides a compre...](https://twitter.com/memgraphdb/status/1658769831657709568)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
