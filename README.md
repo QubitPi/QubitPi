@@ -473,6 +473,7 @@ Git Data Analytics - Everything is Datable
 <div align="center">
     
 <a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
-    <img align="center" width="100%" alt="霄宫" src="https://user-images.githubusercontent.com/16126939/185776359-1a392d62-5117-4980-b5a4-19f536a43c3f.png">
+    <img align="center" width="100%" alt="霄宫" src="https://github.com/QubitPi/QubitPi/assets/16126939/cf0bb8a5-f5e6-4685-bd60-3db8830fa032">
 </a>
+    
 </div>
