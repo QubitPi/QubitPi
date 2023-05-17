@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] First vs co author](https://www.reddit.com/r/MachineLearning/comments/13jyimc/r_first_vs_co_author/)
 - [[D] Auto-encoders for semi-supervised learning?](https://www.reddit.com/r/MachineLearning/comments/13jygm8/d_autoencoders_for_semisupervised_learning/)
 - [[D] Wild LLM sandboxing idea? Perhaps?](https://www.reddit.com/r/MachineLearning/comments/13jyep3/d_wild_llm_sandboxing_idea_perhaps/)
 - [[P] ImageBind fine-tuning with LoRA](https://www.reddit.com/r/MachineLearning/comments/13jx6dn/p_imagebind_finetuning_with_lora/)
 - [[D] Best practices to dockerize hugginface hub models](https://www.reddit.com/r/MachineLearning/comments/13jud83/d_best_practices_to_dockerize_hugginface_hub/)
-- [[R] Listen, denoise, action! Dancing, gesturing, and silly walks with diffusion models](https://www.reddit.com/r/MachineLearning/comments/13jtvjz/r_listen_denoise_action_dancing_gesturing_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
