@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📢 After completing the partnership with @Linkurious , #Memgraph will join them and @nuix at the Gartner Data &amp; Analytics Summit in London next week...](https://twitter.com/memgraphdb/status/1659201864796360705)
+- [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1659185569644130304)
+- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1659176256863350787)
 - [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. https://me...](https://twitter.com/memgraphdb/status/1659155369174630403)
 - [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1659130709603151874)
-- [#Memgraph will be in London next week with @Linkurious and @nuix at @Gartner_inc Data &amp; Analytics Summit! Join us! #GartnerDA #graphanalytics #innovat...](https://twitter.com/memgraphdb/status/1659123409572225024)
-- [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1659095727732137984)
-- [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1659081636934217731)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
