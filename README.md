@@ -243,7 +243,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796542161064558595><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a7d05f697d8f4aad03b1b21197fdc9ba401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796905571148103701><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/01707d18758946b88e2259c35df5c288401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#科颜氏 原神# #原神科颜氏# 《原神》「派蒙的画作科颜氏联动篇」联动主题表情包即将上架~ 科颜氏×原神 「巡林奇遇，自在净颜」联动活动已开启！ 亲爱的旅行者...](https://t.bilibili.com/796542161064558595)
