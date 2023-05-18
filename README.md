@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Looking for Process Map dataset [Project]](https://www.reddit.com/r/MachineLearning/comments/13l3xv4/looking_for_process_map_dataset_project/)
 - [[D] The effectiveness of LLMs for Regression Tasks](https://www.reddit.com/r/MachineLearning/comments/13l2r5m/d_the_effectiveness_of_llms_for_regression_tasks/)
 - [[D] LightGBM Extrapolation techniques](https://www.reddit.com/r/MachineLearning/comments/13l2aq4/d_lightgbm_extrapolation_techniques/)
 - [[D] Pre-trained weights for GANs online?](https://www.reddit.com/r/MachineLearning/comments/13l22qj/d_pretrained_weights_for_gans_online/)
 - [[D] Efficient shallow learning as an alternative to deep learning](https://www.reddit.com/r/MachineLearning/comments/13l21nq/d_efficient_shallow_learning_as_an_alternative_to/)
-- [[P] ML Enthusiasts Club - read papers, books and do projects together](https://www.reddit.com/r/MachineLearning/comments/13l1ojh/p_ml_enthusiasts_club_read_papers_books_and_do/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
