@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1659130709603151874)
+- [#Memgraph will be in London next week with @Linkurious and @nuix at @Gartner_inc Data &amp; Analytics Summit! Join us! #GartnerDA #graphanalytics #innovat...](https://twitter.com/memgraphdb/status/1659123409572225024)
 - [❗️ Making data useful is not an easy job. The main problem is that the gathered data is too diverse, dispersed, and stored at different volumes for ...](https://twitter.com/memgraphdb/status/1659095727732137984)
 - [🎓 One of the most difficult jobs when deciding upon the company’s next steps is decision-making. We all faced hard decisions at least once in our ...](https://twitter.com/memgraphdb/status/1659081636934217731)
 - [❓With the rise in size and complexity of energy system topologies, it’s fair to ask: “Can the underlying, supposedly state-of-the-art tools and sys...](https://twitter.com/memgraphdb/status/1659067292234260481)
-- [🚀 As networks consist of highly connected data, with Memgraph’s in-memory storage you can analyze network topologies quickly to gain insights from...](https://twitter.com/memgraphdb/status/1659056470481158148)
-- [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ https://memg...](https://twitter.com/memgraphdb/status/1658905978971070485)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
