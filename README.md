@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Announcing Minari &lpar;Gym for offline RL, by the Farama Foundation&rpar; is going into public beta](https://www.reddit.com/r/MachineLearning/comments/13l9fkn/n_announcing_minari_gym_for_offline_rl_by_the/)
+- [[D] Trying to be a ML Engineer](https://www.reddit.com/r/MachineLearning/comments/13l9esb/d_trying_to_be_a_ml_engineer/)
 - [[D] Over Hyped capabilities of LLMs](https://www.reddit.com/r/MachineLearning/comments/13l90te/d_over_hyped_capabilities_of_llms/)
 - [[D] Backpropagation is not just the chain-rule, then what is it?](https://www.reddit.com/r/MachineLearning/comments/13l8g37/d_backpropagation_is_not_just_the_chainrule_then/)
 - [[P] &#39;Time Series Chats&#39;: A Global Community of ML Researchers &amp; Entrepreneurs](https://www.reddit.com/r/MachineLearning/comments/13l85nn/p_time_series_chats_a_global_community_of_ml/)
-- [[D] Is in-context learning outperforming supervised learning on your problems?](https://www.reddit.com/r/MachineLearning/comments/13l77za/d_is_incontext_learning_outperforming_supervised/)
-- [[D] Summary of Senate hearing on AI regulation](https://www.reddit.com/r/MachineLearning/comments/13l4ma7/d_summary_of_senate_hearing_on_ai_regulation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
