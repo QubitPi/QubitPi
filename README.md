@@ -246,11 +246,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796905571148103701><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/01707d18758946b88e2259c35df5c288401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #五郎# #生日快乐# 米袋，快，和旅行者打招呼！ 哈哈，它很活泼吧！米袋它作为随行犬，追踪敌人、搜救伤员…都是它的强项。 不过比起让它执行任...](https://t.bilibili.com/796905571148103701)
 - [#科颜氏 原神# #原神科颜氏# 《原神》「派蒙的画作科颜氏联动篇」联动主题表情包即将上架~ 科颜氏×原神 「巡林奇遇，自在净颜」联动活动已开启！ 亲爱的旅行者...](https://t.bilibili.com/796542161064558595)
 - [#原神# #原神微信游戏联动# 《原神》「派蒙的画作微信游戏篇」联动主题表情包即将上架~ 亲爱的旅行者，微信游戏联动主题表情包「派蒙的画作微信游戏篇」已陆续开...](https://t.bilibili.com/796540030776508417)
 - [互动抽奖 #原神# #原神微信游戏联动# 亲爱的旅行者，「携友山间行」——原神×微信游戏 趣味分享活动现已上线~ 欢迎旅行者前往评论区置顶链接参与活动~ 〓活动时...](https://t.bilibili.com/796538364328149032)
 - [互动抽奖 #原神# #原神微信游戏联动# 亲爱的旅行者，「携友之行」原神×微信游戏 联动现已开启 活动期间，通过以下方式进入活动界面，参与 原神×微信游戏 系列...](https://t.bilibili.com/796537028593320037)
-- [互动抽奖 #原神# #支付宝# #天朗风清 绿色出行# 亲爱的旅行者， 为回馈旅行者们在第一期原神x支付宝绿色出行主题活动中通过绿色出行实现的低碳减排突破5000吨，...](https://t.bilibili.com/796233808190898229)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
