@@ -319,11 +319,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Twitch Graph Network Analysis Using #Neo4j This blog will aim to explain the findings of various queries on a Twitch streamer dataset on Neo4j. 😮 h...](https://twitter.com/neo4j/status/1659227406664708099)
 - [Have you ever wondered what are the best places to use graph data science? 🙋 Katie Roberts gives you an answer :&rpar; Learn more about Neo4j Graph Data...](https://twitter.com/neo4j/status/1658895476865789952)
 - [We are so excited about #NODES2023! This year, you’ll be able to: ✨Attend technical lightning talks and workshops. ✨Hear about inspiring projects u...](https://twitter.com/neo4j/status/1658849952250953729)
 - [We will attend the London Gartner Data &amp; Analytics Summit on May 22-24, 2023!🙋 Meet us to learn how graph technology can help you meet your busines...](https://twitter.com/neo4j/status/1658820968456880129)
 - [We announced that #Neo4j AuraDB is now available on #microsoft @Azure, and we want you to learn more about the benefits of pairing these two leading s...](https://twitter.com/neo4j/status/1658724039991386112)
+- [🖥Cybersecurity ⛓Supply chain 🏠Construction Digital twins have many applications and use cases, with enormous potential to ease complexities for...](https://twitter.com/neo4j/status/1658667428610490368)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
