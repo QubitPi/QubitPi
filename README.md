@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] This take on the EU AI act sounds rather alarming. What are your thoughts?](https://www.reddit.com/r/MachineLearning/comments/13knqxh/d_this_take_on_the_eu_ai_act_sounds_rather/)
 - [Does anyone have any examples of compute cost or forward pass time as part of the loss function? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13kg6f9/does_anyone_have_any_examples_of_compute_cost_or/)
 - [[D] Does anybody else despise OpenAI?](https://www.reddit.com/r/MachineLearning/comments/13kfxzy/d_does_anybody_else_despise_openai/)
 - [[D] ChatGPT slowly taking my job away](https://www.reddit.com/r/MachineLearning/comments/13kex0o/d_chatgpt_slowly_taking_my_job_away/)
 - [[Discussion] What are the hottest, trending, or most interesting areas of research with lots of potential right now?](https://www.reddit.com/r/MachineLearning/comments/13kethu/discussion_what_are_the_hottest_trending_or_most/)
-- [[D]: Best nearest neighbour search for high dimensions](https://www.reddit.com/r/MachineLearning/comments/13kc5sk/d_best_nearest_neighbour_search_for_high/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
