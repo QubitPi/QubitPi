@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Text classification model with a large number of classes](https://www.reddit.com/r/MachineLearning/comments/13lbvel/p_text_classification_model_with_a_large_number/)
+- [[D] Studies related to influence of attention layers in the DDPM / NSCN architectures](https://www.reddit.com/r/MachineLearning/comments/13lbp8k/d_studies_related_to_influence_of_attention/)
 - [[D] AI Conference 2023 Call for Presentation is open](https://www.reddit.com/r/MachineLearning/comments/13lbl7v/d_ai_conference_2023_call_for_presentation_is_open/)
 - [[N] Announcing Minari &lpar;Gym for offline RL, by the Farama Foundation&rpar; is going into public beta](https://www.reddit.com/r/MachineLearning/comments/13l9fkn/n_announcing_minari_gym_for_offline_rl_by_the/)
 - [[D] Trying to be a ML Engineer](https://www.reddit.com/r/MachineLearning/comments/13l9esb/d_trying_to_be_a_ml_engineer/)
-- [[D] Over Hyped capabilities of LLMs](https://www.reddit.com/r/MachineLearning/comments/13l90te/d_over_hyped_capabilities_of_llms/)
-- [[D] Backpropagation is not just the chain-rule, then what is it?](https://www.reddit.com/r/MachineLearning/comments/13l8g37/d_backpropagation_is_not_just_the_chainrule_then/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
