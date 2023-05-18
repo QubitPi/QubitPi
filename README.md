@@ -341,11 +341,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1659264086377472021)
-- [🚀 Memgraph currently has built-in support for BFS, DFS, WSHORTEST, and now ALLSHORTEST algorithms. But the MAGE library supports many more graph al...](https://twitter.com/memgraphdb/status/1659246468778033155)
 - [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1659228382809210883)
 - [📢 After completing the partnership with @Linkurious , #Memgraph will join them and @nuix at the Gartner Data &amp; Analytics Summit in London next week...](https://twitter.com/memgraphdb/status/1659201864796360705)
 - [🔎 Over time, companies have acquired a large amount of data by logging every single change and observation and storing it in data lakes and data wa...](https://twitter.com/memgraphdb/status/1659185569644130304)
+- [🚀 Graph-based systems are faster and more flexible and are indispensable in recommendation and fraud detection systems that increase customer care ...](https://twitter.com/memgraphdb/status/1659176256863350787)
+- [💡 Graph databases provide companies with data model adaptability, reduce system vulnerability and enable flexibility to the IAM systems. https://me...](https://twitter.com/memgraphdb/status/1659155369174630403)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
