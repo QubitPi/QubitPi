@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Foundational multimodal embedding models](https://www.reddit.com/r/MachineLearning/comments/13l596y/d_foundational_multimodal_embedding_models/)
+- [[D] Summary of Senate hearing on AI regulation](https://www.reddit.com/r/MachineLearning/comments/13l4ma7/d_summary_of_senate_hearing_on_ai_regulation/)
+- [[D] Anyone else feeling worried/anxious about where all of this is going?](https://www.reddit.com/r/MachineLearning/comments/13l4kwv/d_anyone_else_feeling_worriedanxious_about_where/)
 - [Hidden Gems on Basic ML Concepts [D]](https://www.reddit.com/r/MachineLearning/comments/13l4j8z/hidden_gems_on_basic_ml_concepts_d/)
 - [Looking for Process Map dataset [Project]](https://www.reddit.com/r/MachineLearning/comments/13l3xv4/looking_for_process_map_dataset_project/)
-- [[D] The effectiveness of LLMs for Regression Tasks](https://www.reddit.com/r/MachineLearning/comments/13l2r5m/d_the_effectiveness_of_llms_for_regression_tasks/)
-- [[D] LightGBM Extrapolation techniques](https://www.reddit.com/r/MachineLearning/comments/13l2aq4/d_lightgbm_extrapolation_techniques/)
-- [[D] Pre-trained weights for GANs online?](https://www.reddit.com/r/MachineLearning/comments/13l22qj/d_pretrained_weights_for_gans_online/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
