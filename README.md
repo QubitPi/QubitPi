@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is in-context learning outperforming supervised learning on your problems?](https://www.reddit.com/r/MachineLearning/comments/13l77za/d_is_incontext_learning_outperforming_supervised/)
 - [[D] Foundational multimodal embedding models](https://www.reddit.com/r/MachineLearning/comments/13l596y/d_foundational_multimodal_embedding_models/)
 - [[D] Summary of Senate hearing on AI regulation](https://www.reddit.com/r/MachineLearning/comments/13l4ma7/d_summary_of_senate_hearing_on_ai_regulation/)
 - [[D] Anyone else feeling worried/anxious about where all of this is going?](https://www.reddit.com/r/MachineLearning/comments/13l4kwv/d_anyone_else_feeling_worriedanxious_about_where/)
 - [Hidden Gems on Basic ML Concepts [D]](https://www.reddit.com/r/MachineLearning/comments/13l4j8z/hidden_gems_on_basic_ml_concepts_d/)
-- [Looking for Process Map dataset [Project]](https://www.reddit.com/r/MachineLearning/comments/13l3xv4/looking_for_process_map_dataset_project/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
