@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Pre-trained weights for GANs online?](https://www.reddit.com/r/MachineLearning/comments/13l22qj/d_pretrained_weights_for_gans_online/)
+- [[D] Efficient shallow learning as an alternative to deep learning](https://www.reddit.com/r/MachineLearning/comments/13l21nq/d_efficient_shallow_learning_as_an_alternative_to/)
 - [[P] ML Enthusiasts Club - read papers, books and do projects together](https://www.reddit.com/r/MachineLearning/comments/13l1ojh/p_ml_enthusiasts_club_read_papers_books_and_do/)
 - [[R] My simple Transformer audio encoder gives the same output for each timestep after the encoder](https://www.reddit.com/r/MachineLearning/comments/13l12ff/r_my_simple_transformer_audio_encoder_gives_the/)
-- [[P] Modelling symbolic music with a MLM objective allows you to generate endless musical variations.](https://www.reddit.com/r/MachineLearning/comments/13l05eo/p_modelling_symbolic_music_with_a_mlm_objective/)
 - [[D] Few shot learning to make gpt4 dumb](https://www.reddit.com/r/MachineLearning/comments/13kzuzu/d_few_shot_learning_to_make_gpt4_dumb/)
-- [[D] Is Anyone Else Fine with OpenAI?](https://www.reddit.com/r/MachineLearning/comments/13kvw2b/d_is_anyone_else_fine_with_openai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
