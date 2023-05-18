@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Modelling symbolic music with a MLM objective allows you to generate endless musical variations.](https://www.reddit.com/r/MachineLearning/comments/13l05eo/p_modelling_symbolic_music_with_a_mlm_objective/)
 - [[D] Few shot learning to make gpt4 dumb](https://www.reddit.com/r/MachineLearning/comments/13kzuzu/d_few_shot_learning_to_make_gpt4_dumb/)
 - [[D] Is Anyone Else Fine with OpenAI?](https://www.reddit.com/r/MachineLearning/comments/13kvw2b/d_is_anyone_else_fine_with_openai/)
 - [[D] Any surveys on Political leaning vs. Sentiment towards AI?](https://www.reddit.com/r/MachineLearning/comments/13ksd7v/d_any_surveys_on_political_leaning_vs_sentiment/)
 - [[D] PaLM 2 Technical Report](https://www.reddit.com/r/MachineLearning/comments/13kr4ut/d_palm_2_technical_report/)
-- [[D] What&#39;s wrong with training LLMs on books/papers/etc.?](https://www.reddit.com/r/MachineLearning/comments/13ko0ab/d_whats_wrong_with_training_llms_on_bookspapersetc/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
