@@ -237,7 +237,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/797283330685927433><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c79e95eedd634963a467eaf46553523e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/797371983105884177><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/cba1621df464eaaa49386e47d626d47a2006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #绮良良# #歧尾万巷行# 《原神》角色演示-「绮良良：歧尾万巷行」现已发布~ https://www.bilibili.com/video/BV1sP411d7Jc 翻山越岭、披星戴月...](https://t.bilibili.com/797283330685927433)
