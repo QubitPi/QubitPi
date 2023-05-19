@@ -291,7 +291,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[N] Anthropic - Introducing 100K Context Windows](https://www.reddit.com/r/MachineLearning/comments/13lylje/n_anthropic_introducing_100k_context_windows/)
+- [[D] Conflicting gradients in multiple heads](https://www.reddit.com/r/MachineLearning/comments/13lyme6/d_conflicting_gradients_in_multiple_heads/)
 - [[D] Generative vs embedding models](https://www.reddit.com/r/MachineLearning/comments/13ly7u0/d_generative_vs_embedding_models/)
 - [[D] Is there a theory of Deep Learning?](https://www.reddit.com/r/MachineLearning/comments/13lwjcw/d_is_there_a_theory_of_deep_learning/)
 - [[P] Testing different popular GPT tokenizers](https://www.reddit.com/r/MachineLearning/comments/13lvwod/p_testing_different_popular_gpt_tokenizers/)
