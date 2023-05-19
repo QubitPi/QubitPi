@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there a theory of Deep Learning?](https://www.reddit.com/r/MachineLearning/comments/13lwjcw/d_is_there_a_theory_of_deep_learning/)
 - [[P] Testing different popular GPT tokenizers](https://www.reddit.com/r/MachineLearning/comments/13lvwod/p_testing_different_popular_gpt_tokenizers/)
 - [[N] AI development after the EU AI Act &lpar;May 11 update&rpar;](https://www.reddit.com/r/MachineLearning/comments/13lv5ar/n_ai_development_after_the_eu_ai_act_may_11_update/)
 - [[P] Code to config a model similar to TinyStories paper](https://www.reddit.com/r/MachineLearning/comments/13luzd9/p_code_to_config_a_model_similar_to_tinystories/)
 - [[D] ML Projects](https://www.reddit.com/r/MachineLearning/comments/13lurt0/d_ml_projects/)
-- [[D] Looking for papers/method to evaluate LLM confidence in specific output](https://www.reddit.com/r/MachineLearning/comments/13luja0/d_looking_for_papersmethod_to_evaluate_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
