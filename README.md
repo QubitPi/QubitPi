@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Do you think AI is going to become much more restricted and less accessible in the future due to government regulation?](https://www.reddit.com/r/MachineLearning/comments/13mar2p/d_do_you_think_ai_is_going_to_become_much_more/)
 - [[P] AI Chat Social Network](https://www.reddit.com/r/MachineLearning/comments/13m9ryk/p_ai_chat_social_network/)
 - [[D] An ELI5 explanation for LoRA - Low-Rank Adaptation.](https://www.reddit.com/r/MachineLearning/comments/13m78u6/d_an_eli5_explanation_for_lora_lowrank_adaptation/)
 - [Does anyone else suspect that the official iOS ChatGPT app might be conducting some local inference / edge-computing? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13m70qv/does_anyone_else_suspect_that_the_official_ios/)
 - [[D] Can transform be used for classification?](https://www.reddit.com/r/MachineLearning/comments/13m6maj/d_can_transform_be_used_for_classification/)
-- [[D]: Deep Double Descent](https://www.reddit.com/r/MachineLearning/comments/13m4mec/d_deep_double_descent/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
