@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Text-to-Texture &lpar;ChatGPT plugin demo&rpar; [Project]](https://www.reddit.com/r/MachineLearning/comments/13m4pty/texttotexture_chatgpt_plugin_demo_project/)
+- [[D]: Deep Double Descent](https://www.reddit.com/r/MachineLearning/comments/13m4mec/d_deep_double_descent/)
+- [[P] ONNX&lpar;onnxsim&rpar; and uNET](https://www.reddit.com/r/MachineLearning/comments/13m4c0s/p_onnxonnxsim_and_unet/)
 - [[D] RBF interpolation convergence troubleshooting](https://www.reddit.com/r/MachineLearning/comments/13m44i5/d_rbf_interpolation_convergence_troubleshooting/)
 - [[Research] SELM: Symmetric Encryption with Language Models](https://www.reddit.com/r/MachineLearning/comments/13m2b8d/research_selm_symmetric_encryption_with_language/)
-- [[D] What are notable advances in NLU?](https://www.reddit.com/r/MachineLearning/comments/13lzh58/d_what_are_notable_advances_in_nlu/)
-- [[D] Conflicting gradients in multiple heads](https://www.reddit.com/r/MachineLearning/comments/13lyme6/d_conflicting_gradients_in_multiple_heads/)
-- [[D] Generative vs embedding models](https://www.reddit.com/r/MachineLearning/comments/13ly7u0/d_generative_vs_embedding_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
