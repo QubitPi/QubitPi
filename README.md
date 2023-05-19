@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Transformer Killer? Cooperation Is All You Need [R]](https://www.reddit.com/r/MachineLearning/comments/13lmhhv/transformer_killer_cooperation_is_all_you_need_r/)
 - [[R] AttentionViz: A Global View of Transformer Attention](https://www.reddit.com/r/MachineLearning/comments/13lk0zt/r_attentionviz_a_global_view_of_transformer/)
 - [[R] Larger language models do in-context learning differently](https://www.reddit.com/r/MachineLearning/comments/13li2wm/r_larger_language_models_do_incontext_learning/)
 - [[D] Resource for link prediction](https://www.reddit.com/r/MachineLearning/comments/13lh4wn/d_resource_for_link_prediction/)
 - [[N] Daily Papers by Hugging Face](https://www.reddit.com/r/MachineLearning/comments/13lh43m/n_daily_papers_by_hugging_face/)
-- [[D] Reversing Order of Logistic Loss Function](https://www.reddit.com/r/MachineLearning/comments/13lgy6c/d_reversing_order_of_logistic_loss_function/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
