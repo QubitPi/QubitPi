@@ -237,7 +237,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/796905571148103701><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/01707d18758946b88e2259c35df5c288401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/797276591893774503><img align='right' src='https://i0.hdslb.com/bfs/archive/b190bfe92544e325d4bea01598f154b171c8ce42.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #五郎# #生日快乐# 米袋，快，和旅行者打招呼！ 哈哈，它很活泼吧！米袋它作为随行犬，追踪敌人、搜救伤员…都是它的强项。 不过比起让它执行任...](https://t.bilibili.com/796905571148103701)
