@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Research] SELM: Symmetric Encryption with Language Models](https://www.reddit.com/r/MachineLearning/comments/13m2b8d/research_selm_symmetric_encryption_with_language/)
 - [[D] What are notable advances in NLU?](https://www.reddit.com/r/MachineLearning/comments/13lzh58/d_what_are_notable_advances_in_nlu/)
 - [[D] Conflicting gradients in multiple heads](https://www.reddit.com/r/MachineLearning/comments/13lyme6/d_conflicting_gradients_in_multiple_heads/)
 - [[D] Generative vs embedding models](https://www.reddit.com/r/MachineLearning/comments/13ly7u0/d_generative_vs_embedding_models/)
 - [[D] Is there a theory of Deep Learning?](https://www.reddit.com/r/MachineLearning/comments/13lwjcw/d_is_there_a_theory_of_deep_learning/)
-- [[P] Testing different popular GPT tokenizers](https://www.reddit.com/r/MachineLearning/comments/13lvwod/p_testing_different_popular_gpt_tokenizers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
