@@ -297,11 +297,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Resource for link prediction](https://www.reddit.com/r/MachineLearning/comments/13lh4wn/d_resource_for_link_prediction/)
+- [[N] Daily Papers by Hugging Face](https://www.reddit.com/r/MachineLearning/comments/13lh43m/n_daily_papers_by_hugging_face/)
+- [[D] Reversing Order of Logistic Loss Function](https://www.reddit.com/r/MachineLearning/comments/13lgy6c/d_reversing_order_of_logistic_loss_function/)
+- [[D] Are there any large language models that can produce longer text than GPT?](https://www.reddit.com/r/MachineLearning/comments/13lgsyr/d_are_there_any_large_language_models_that_can/)
 - [[P] Writing my own ChatGPT Code Interpreter](https://www.reddit.com/r/MachineLearning/comments/13ldnz8/p_writing_my_own_chatgpt_code_interpreter/)
-- [[P] Text classification model with a large number of classes](https://www.reddit.com/r/MachineLearning/comments/13lbvel/p_text_classification_model_with_a_large_number/)
-- [[D] Studies related to influence of attention layers in the DDPM / NSCN architectures](https://www.reddit.com/r/MachineLearning/comments/13lbp8k/d_studies_related_to_influence_of_attention/)
-- [[D] AI Conference 2023 Call for Presentation is open](https://www.reddit.com/r/MachineLearning/comments/13lbl7v/d_ai_conference_2023_call_for_presentation_is_open/)
-- [[N] Announcing Minari &lpar;Gym for offline RL, by the Farama Foundation&rpar; is going into public beta](https://www.reddit.com/r/MachineLearning/comments/13l9fkn/n_announcing_minari_gym_for_offline_rl_by_the/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
