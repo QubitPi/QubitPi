@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] I came across this great AI tool for work and business!](https://www.reddit.com/r/MachineLearning/comments/13n0lpx/r_i_came_across_this_great_ai_tool_for_work_and/)
+- [[D] does top ml phd programs discriminate against 30+ old applicants?](https://www.reddit.com/r/MachineLearning/comments/13n0daq/d_does_top_ml_phd_programs_discriminate_against/)
 - [[R]Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://www.reddit.com/r/MachineLearning/comments/13mzv7j/rinstruct2act_mapping_multimodality_instructions/)
 - [[R] Virtual occlusions through implicit depth — paper and code by Niantic research](https://www.reddit.com/r/MachineLearning/comments/13mz9vq/r_virtual_occlusions_through_implicit_depth_paper/)
 - [[D] Whats the difference between a convolutional autoencoder &lpar;CAE&rpar; and a convolutional neural network &lpar;CNN&rpar;](https://www.reddit.com/r/MachineLearning/comments/13mz7n7/d_whats_the_difference_between_a_convolutional/)
-- [[N] Chatting with an Airbnb listing using context-aware generation](https://www.reddit.com/r/MachineLearning/comments/13mz2v1/n_chatting_with_an_airbnb_listing_using/)
-- [[D] What I don’t like about chains of thoughts and why language is a bottleneck to efficient reasoning](https://www.reddit.com/r/MachineLearning/comments/13myg4v/d_what_i_dont_like_about_chains_of_thoughts_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
