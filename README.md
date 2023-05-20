@@ -335,11 +335,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✨ Memgraph prepared another magic spell to continue the graph machine learning story. It is time to bring more great graph neural network &lpar;GNN&rpar; model...](https://twitter.com/memgraphdb/status/1659844912563535873)
 - [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1659806410295656448)
 - [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1659795842427936768)
 - [💡 Memgraph can offer you data persistence, allow you to run queries and graph algorithms and create visualizations you can interact with and custom...](https://twitter.com/memgraphdb/status/1659781243876126720)
 - [🔎 To truly make their mark in the market, companies need to have recommendation engines that analyze that data from every angle. https://memgraph.c...](https://twitter.com/memgraphdb/status/1659630756036071424)
-- [❗️ In the company’s digital world, everything has an identity, but it’s not just passwords and usernames anymore. People are defined by their vari...](https://twitter.com/memgraphdb/status/1659606847073005568)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
