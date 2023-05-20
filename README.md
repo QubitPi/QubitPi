@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Leveraging LLaMa, or other LLM embeddings for semantic search [D]](https://www.reddit.com/r/MachineLearning/comments/13n4y0s/leveraging_llama_or_other_llm_embeddings_for/)
 - [[N] ChatGPT-4 with code interpreter is going to be a hugely powerful data viz tool](https://www.reddit.com/r/MachineLearning/comments/13n2yx9/n_chatgpt4_with_code_interpreter_is_going_to_be_a/)
 - [[D] does top ml phd programs discriminate against 30+ old applicants?](https://www.reddit.com/r/MachineLearning/comments/13n0daq/d_does_top_ml_phd_programs_discriminate_against/)
 - [[R]Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://www.reddit.com/r/MachineLearning/comments/13mzv7j/rinstruct2act_mapping_multimodality_instructions/)
 - [[R] Virtual occlusions through implicit depth — paper and code by Niantic research](https://www.reddit.com/r/MachineLearning/comments/13mz9vq/r_virtual_occlusions_through_implicit_depth_paper/)
-- [[D] Whats the difference between a convolutional autoencoder &lpar;CAE&rpar; and a convolutional neural network &lpar;CNN&rpar;](https://www.reddit.com/r/MachineLearning/comments/13mz7n7/d_whats_the_difference_between_a_convolutional/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
