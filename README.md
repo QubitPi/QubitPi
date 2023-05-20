@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Open Source CLI tool that can do code review with OpenAI. So far it&#39;s just a prototype, but I&#39;m planning to add more features.](https://www.reddit.com/r/MachineLearning/comments/13nbtr3/p_open_source_cli_tool_that_can_do_code_review/)
 - [[D] If you are an expert in the field, whats your opinion about these comments?](https://www.reddit.com/r/MachineLearning/comments/13n9xpz/d_if_you_are_an_expert_in_the_field_whats_your/)
 - [[D] Whipping up an AI-driven DB Optimizer - Thoughts?](https://www.reddit.com/r/MachineLearning/comments/13n64pu/d_whipping_up_an_aidriven_db_optimizer_thoughts/)
 - [[D] The most important problems in ML](https://www.reddit.com/r/MachineLearning/comments/13n6445/d_the_most_important_problems_in_ml/)
 - [Leveraging LLaMa, or other LLM embeddings for semantic search [D]](https://www.reddit.com/r/MachineLearning/comments/13n4y0s/leveraging_llama_or_other_llm_embeddings_for/)
-- [[N] ChatGPT-4 with code interpreter is going to be a hugely powerful data viz tool](https://www.reddit.com/r/MachineLearning/comments/13n2yx9/n_chatgpt4_with_code_interpreter_is_going_to_be_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
