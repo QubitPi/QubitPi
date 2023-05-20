@@ -293,9 +293,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/)
 - [[D] multilingual translation autoencoder-like model?](https://www.reddit.com/r/MachineLearning/comments/13mdum1/d_multilingual_translation_autoencoderlike_model/)
-- [Need a experienced Software engineer &lpar;machine learning &rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/13mdjrc/need_a_experienced_software_engineer_machine/)
 - [[D] Do you think AI is going to become much more restricted and less accessible in the future due to government regulation?](https://www.reddit.com/r/MachineLearning/comments/13mar2p/d_do_you_think_ai_is_going_to_become_much_more/)
 - [[P] AI Chat Social Network](https://www.reddit.com/r/MachineLearning/comments/13m9ryk/p_ai_chat_social_network/)
+- [[D] An ELI5 explanation for LoRA - Low-Rank Adaptation.](https://www.reddit.com/r/MachineLearning/comments/13m78u6/d_an_eli5_explanation_for_lora_lowrank_adaptation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
