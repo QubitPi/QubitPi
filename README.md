@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] StarCoder fine-tuning?](https://www.reddit.com/r/MachineLearning/comments/13mu8wf/d_starcoder_finetuning/)
 - [[D]: Smoothness in the latent space](https://www.reddit.com/r/MachineLearning/comments/13mrwcl/d_smoothness_in_the_latent_space/)
 - [[R] Video Demo of “Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold”](https://www.reddit.com/r/MachineLearning/comments/13mpxbw/r_video_demo_of_drag_your_gan_interactive/)
 - [[N] China plans to set up regional AI ‘highlands’ and related technology platforms as Beijing pushes to bridge hi-tech divide with US](https://www.reddit.com/r/MachineLearning/comments/13moz1y/n_china_plans_to_set_up_regional_ai_highlands_and/)
 - [[D] Any Insight on these Books?](https://www.reddit.com/r/MachineLearning/comments/13mnzk0/d_any_insight_on_these_books/)
-- [[R] Use of polynomial regression when I can identify more curves](https://www.reddit.com/r/MachineLearning/comments/13mn3wz/r_use_of_polynomial_regression_when_i_can/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
