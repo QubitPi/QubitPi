@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Virtual occlusions through implicit depth — paper and code by Niantic research](https://www.reddit.com/r/MachineLearning/comments/13mz9vq/r_virtual_occlusions_through_implicit_depth_paper/)
+- [[D] Whats the difference between a convolutional autoencoder &lpar;CAE&rpar; and a convolutional neural network &lpar;CNN&rpar;](https://www.reddit.com/r/MachineLearning/comments/13mz7n7/d_whats_the_difference_between_a_convolutional/)
+- [[N] Chatting with an Airbnb listing using context-aware generation](https://www.reddit.com/r/MachineLearning/comments/13mz2v1/n_chatting_with_an_airbnb_listing_using/)
 - [[D] What I don’t like about chains of thoughts and why language is a bottleneck to efficient reasoning](https://www.reddit.com/r/MachineLearning/comments/13myg4v/d_what_i_dont_like_about_chains_of_thoughts_and/)
 - [[P] Finetuning LLMs Efficiently with Adapters](https://www.reddit.com/r/MachineLearning/comments/13mxijf/p_finetuning_llms_efficiently_with_adapters/)
-- [[D] LambdaLabs offering free compute for 30 days to train open models](https://www.reddit.com/r/MachineLearning/comments/13mwaej/d_lambdalabs_offering_free_compute_for_30_days_to/)
-- [[D] Dual 2060 worth or possible?](https://www.reddit.com/r/MachineLearning/comments/13mvqoh/d_dual_2060_worth_or_possible/)
-- [[D] StarCoder fine-tuning?](https://www.reddit.com/r/MachineLearning/comments/13mu8wf/d_starcoder_finetuning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
