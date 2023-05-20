@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Pre-Trained Word Embedding Layer for German Language](https://www.reddit.com/r/MachineLearning/comments/13mml5p/p_pretrained_word_embedding_layer_for_german/)
 - [[R] Connected Hidden Neurons &lpar;CHNNet&rpar;: An Artificial Neural Network for Rapid Convergence](https://www.reddit.com/r/MachineLearning/comments/13mgh3p/r_connected_hidden_neurons_chnnet_an_artificial/)
 - [Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/)
 - [[D] multilingual translation autoencoder-like model?](https://www.reddit.com/r/MachineLearning/comments/13mdum1/d_multilingual_translation_autoencoderlike_model/)
 - [[D] Do you think AI is going to become much more restricted and less accessible in the future due to government regulation?](https://www.reddit.com/r/MachineLearning/comments/13mar2p/d_do_you_think_ai_is_going_to_become_much_more/)
-- [[P] AI Chat Social Network](https://www.reddit.com/r/MachineLearning/comments/13m9ryk/p_ai_chat_social_network/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
