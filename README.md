@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Use of polynomial regression when I can identify more curves](https://www.reddit.com/r/MachineLearning/comments/13mn3wz/r_use_of_polynomial_regression_when_i_can/)
 - [[D] Guest post by Yervant Kulbashian &lpar;Engineering Manager, AI Platform&rpar;: &quot;The Green Swan - Part 3: A Thin Layer of Symbols&quot;](https://www.reddit.com/r/MachineLearning/comments/13mmqr9/d_guest_post_by_yervant_kulbashian_engineering/)
 - [[P] Pre-Trained Word Embedding Layer for German Language](https://www.reddit.com/r/MachineLearning/comments/13mml5p/p_pretrained_word_embedding_layer_for_german/)
 - [[R] Connected Hidden Neurons &lpar;CHNNet&rpar;: An Artificial Neural Network for Rapid Convergence](https://www.reddit.com/r/MachineLearning/comments/13mgh3p/r_connected_hidden_neurons_chnnet_an_artificial/)
 - [Offline Llama [P]](https://www.reddit.com/r/MachineLearning/comments/13mfgg2/offline_llama_p/)
-- [[D] multilingual translation autoencoder-like model?](https://www.reddit.com/r/MachineLearning/comments/13mdum1/d_multilingual_translation_autoencoderlike_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
