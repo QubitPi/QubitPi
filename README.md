@@ -240,11 +240,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/797740375352541302><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/58251ce430729d838cb3e23c682de2cc401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@叶沄汐@寸心清浅@南瓜-瓜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/797740375352541302)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/797371983105884177)
 - [#原神# #原神通路计划视频征集活动# #原神UP主激励计划# 《原神》「通路计划」挑战视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 苏木彡：ht...](https://t.bilibili.com/797369268693893203)
 - [互动抽奖 #原神# #绮良良# #歧尾万巷行# 《原神》角色演示-「绮良良：歧尾万巷行」现已发布~ https://www.bilibili.com/video/BV1sP411d7Jc 翻山越岭、披星戴月...](https://t.bilibili.com/797283330685927433)
 - [旅行者们好呀！今天为大家介绍的角色是绮良良。一起来看看吧~](https://t.bilibili.com/797281359305375782)
-- [歧尾骏足，通达万户](https://t.bilibili.com/797278825282011153)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
