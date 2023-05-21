@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What innovations/discoveries have come out because since the release of gpt/gain in LLM/Ai popularity?](https://www.reddit.com/r/MachineLearning/comments/13nry7r/d_what_innovationsdiscoveries_have_come_out/)
 - [[P] Last sem, I developed a 3D shapes dataset generator for one of my CV project, as the shapes3d dataset had only plenty of shapes &amp; no operations to train. Recently, I felt that it might be useful to the community as well, so I open-sourced it. Feel free to use it for your DL/ML projects](https://www.reddit.com/r/MachineLearning/comments/13npcg8/p_last_sem_i_developed_a_3d_shapes_dataset/)
 - [[P] Training AI to SPRINT Like a Human inside Unity, then send them to play SquidGame ;&rpar;](https://www.reddit.com/r/MachineLearning/comments/13npbjb/p_training_ai_to_sprint_like_a_human_inside_unity/)
 - [[N] An AI wrote a poem about the irony of being afraid of AI. An Ai was capable of writing a meaningful poem about the existing irony behind the fear of AI. Even though humans have created these AI machines, many are afraid and unsure about the results of such innovation](https://www.reddit.com/r/MachineLearning/comments/13nof8j/n_an_ai_wrote_a_poem_about_the_irony_of_being/)
 - [[N] Video-ChatGPT, a tool that makes video understanding and conversation very easy.](https://www.reddit.com/r/MachineLearning/comments/13nmv9l/n_videochatgpt_a_tool_that_makes_video/)
-- [[Project] Built an OpenAI API analytics dashboard!](https://www.reddit.com/r/MachineLearning/comments/13nljq6/project_built_an_openai_api_analytics_dashboard/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
