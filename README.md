@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] An AI wrote a poem about the irony of being afraid of AI. An Ai was capable of writing a meaningful poem about the existing irony behind the fear of AI. Even though humans have created these AI machines, many are afraid and unsure about the results of such innovation](https://www.reddit.com/r/MachineLearning/comments/13nof8j/n_an_ai_wrote_a_poem_about_the_irony_of_being/)
 - [[N] Video-ChatGPT, a tool that makes video understanding and conversation very easy.](https://www.reddit.com/r/MachineLearning/comments/13nmv9l/n_videochatgpt_a_tool_that_makes_video/)
 - [[Project] Built an OpenAI API analytics dashboard!](https://www.reddit.com/r/MachineLearning/comments/13nljq6/project_built_an_openai_api_analytics_dashboard/)
 - [[D] should learn ML](https://www.reddit.com/r/MachineLearning/comments/13nl04z/d_should_learn_ml/)
 - [[D]Accuracy of Embeddings](https://www.reddit.com/r/MachineLearning/comments/13nkrv9/daccuracy_of_embeddings/)
-- [[D] Simplest Vector DB Implementation?](https://www.reddit.com/r/MachineLearning/comments/13nkp10/d_simplest_vector_db_implementation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
