@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Learned Upsampling at 60 FPS on Intel GPU](https://www.reddit.com/r/MachineLearning/comments/13o2nzw/r_learned_upsampling_at_60_fps_on_intel_gpu/)
 - [[D] Question about ICML2023 video length](https://www.reddit.com/r/MachineLearning/comments/13o02w3/d_question_about_icml2023_video_length/)
 - [[D] Can we apply some sort of evolutionary algorithm to LLM to automatically discover and optimize a prompt for fitness? i.e. automatically discover CoT, CoS, etc.](https://www.reddit.com/r/MachineLearning/comments/13o02n3/d_can_we_apply_some_sort_of_evolutionary/)
 - [Retrieving whole chronology list of all words ever written in a keyboard [D] [R] [P]](https://www.reddit.com/r/MachineLearning/comments/13nz6jd/retrieving_whole_chronology_list_of_all_words/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/13nx7t0/d_simple_questions_thread/)
-- [[N] ChatGPT creator says there’s 50% chance AI ends in ‘doom’](https://www.reddit.com/r/MachineLearning/comments/13nw6s1/n_chatgpt_creator_says_theres_50_chance_ai_ends/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
