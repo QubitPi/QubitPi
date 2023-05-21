@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Vaguely related question &lpar;TTS&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/13o7xzf/vaguely_related_question_tts_d/)
+- [[N] Photonic chips can now perform back propagation](https://www.reddit.com/r/MachineLearning/comments/13o7ndg/n_photonic_chips_can_now_perform_back_propagation/)
 - [This Week In AI [N]](https://www.reddit.com/r/MachineLearning/comments/13o3rur/this_week_in_ai_n/)
 - [[R] Sampling Methods for Stable Diffusion: Samplers Numerical Comparison](https://www.reddit.com/r/MachineLearning/comments/13o3raw/r_sampling_methods_for_stable_diffusion_samplers/)
 - [[R] Learned Upsampling at 60 FPS on Intel GPU](https://www.reddit.com/r/MachineLearning/comments/13o2nzw/r_learned_upsampling_at_60_fps_on_intel_gpu/)
-- [[D] Question about ICML2023 video length](https://www.reddit.com/r/MachineLearning/comments/13o02w3/d_question_about_icml2023_video_length/)
-- [[D] Can we apply some sort of evolutionary algorithm to LLM to automatically discover and optimize a prompt for fitness? i.e. automatically discover CoT, CoS, etc.](https://www.reddit.com/r/MachineLearning/comments/13o02n3/d_can_we_apply_some_sort_of_evolutionary/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
