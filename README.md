@@ -295,7 +295,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[Discussion] Best model for extracting text from PDFs?](https://www.reddit.com/r/MachineLearning/comments/13nck9r/discussion_best_model_for_extracting_text_from/)
 - [[R] Could we claim that these two inequalities are equivalent?](https://www.reddit.com/r/MachineLearning/comments/13ncjy8/r_could_we_claim_that_these_two_inequalities_are/)
 - [[P] Open Source CLI tool that can do code review with OpenAI. So far it&#39;s just a prototype, but I&#39;m planning to add more features.](https://www.reddit.com/r/MachineLearning/comments/13nbtr3/p_open_source_cli_tool_that_can_do_code_review/)
-- [[D] If you are an expert in the field, whats your opinion about these comments?](https://www.reddit.com/r/MachineLearning/comments/13n9xpz/d_if_you_are_an_expert_in_the_field_whats_your/)
+- [[D] Whipping up an AI-driven DB Optimizer - Thoughts?](https://www.reddit.com/r/MachineLearning/comments/13n64pu/d_whipping_up_an_aidriven_db_optimizer_thoughts/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
