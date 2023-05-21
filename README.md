@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Video-ChatGPT, a tool that makes video understanding and conversation very easy.](https://www.reddit.com/r/MachineLearning/comments/13nmv9l/n_videochatgpt_a_tool_that_makes_video/)
 - [[Project] Built an OpenAI API analytics dashboard!](https://www.reddit.com/r/MachineLearning/comments/13nljq6/project_built_an_openai_api_analytics_dashboard/)
 - [[D] should learn ML](https://www.reddit.com/r/MachineLearning/comments/13nl04z/d_should_learn_ml/)
 - [[D]Accuracy of Embeddings](https://www.reddit.com/r/MachineLearning/comments/13nkrv9/daccuracy_of_embeddings/)
 - [[D] Simplest Vector DB Implementation?](https://www.reddit.com/r/MachineLearning/comments/13nkp10/d_simplest_vector_db_implementation/)
-- [[D] AI for finding academic journal articles](https://www.reddit.com/r/MachineLearning/comments/13nii1j/d_ai_for_finding_academic_journal_articles/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
