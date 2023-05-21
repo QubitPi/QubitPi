@@ -313,11 +313,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [👉 The Neo4j GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform an...](https://twitter.com/neo4j/status/1660343468298838018)
 - [If you are constantly switching between Microsoft Visual Studio Code and the Neo4j Browser when writing Cypher statements, you’ll appreciate the Neo4...](https://twitter.com/neo4j/status/1660267973754404866)
 - [Tomaz Bratanic continues to refine his techniques for translating natural language to #Cypher. 🔥 This blog post will show you how to implement a Cy...](https://twitter.com/neo4j/status/1659982331489157125)
 - [📢Take advantage of the weekend and submit your talk--&gt;we’re looking for speakers worldwide to share inspiring projects using graph technology at #...](https://twitter.com/neo4j/status/1659922067846844417)
 - [Our Community has your back!💪 If you have doubts or questions, experts from the community will be there to help you. 👋 Join today--&gt; https://okt...](https://twitter.com/neo4j/status/1659632530847350787)
-- [A few days ago, we announced the general availability &lpar;GA&rpar; of #Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform... But do you know why ha...](https://twitter.com/neo4j/status/1659335825480458240)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
