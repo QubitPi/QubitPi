@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] ChatGPT &lpar;GPT 4&rpar; Has a Verbal-Linguistic IQ of 152, Yet Seems To Have Limited Spatial Reasoning Skills](https://www.reddit.com/r/MachineLearning/comments/13o8c4g/r_chatgpt_gpt_4_has_a_verballinguistic_iq_of_152/)
 - [Vaguely related question &lpar;TTS&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/13o7xzf/vaguely_related_question_tts_d/)
 - [[N] Photonic chips can now perform back propagation](https://www.reddit.com/r/MachineLearning/comments/13o7ndg/n_photonic_chips_can_now_perform_back_propagation/)
 - [This Week In AI [N]](https://www.reddit.com/r/MachineLearning/comments/13o3rur/this_week_in_ai_n/)
 - [[R] Sampling Methods for Stable Diffusion: Samplers Numerical Comparison](https://www.reddit.com/r/MachineLearning/comments/13o3raw/r_sampling_methods_for_stable_diffusion_samplers/)
-- [[R] Learned Upsampling at 60 FPS on Intel GPU](https://www.reddit.com/r/MachineLearning/comments/13o2nzw/r_learned_upsampling_at_60_fps_on_intel_gpu/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
