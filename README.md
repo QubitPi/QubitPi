@@ -336,11 +336,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💡 Data has been loaded, so the only thing that remains to be done before actually training the module is setting the training parameters. https://m...](https://twitter.com/memgraphdb/status/1660717919653842944)
-- [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1660694008903942157)
 - [✅ Responsible management of your data infrastructure is only possible if you understand it well. Technical data lineage graphs lay out the data lands...](https://twitter.com/memgraphdb/status/1660677989296660488)
 - [Re 🆕 If any of the above mentioned features or improvements would make analyzing your graphs easier, download the new Memgraph v2.8 and check the d...](https://twitter.com/memgraphdb/status/1660655616535175170)
 - [Re 🛠️ Various optimizations and bug fixes have improved the performance of LOAD CSV queries and running Python procedures. #Optimizations #BugFixe...](https://twitter.com/memgraphdb/status/1660655612366139396)
+- [Re 🚨 Feed the metrics from Memgraph Enterprise Edition into your favorite systems monitoring and alerting tool via an HTTP endpoint and track trans...](https://twitter.com/memgraphdb/status/1660655608926728192)
+- [Re 🔍 Stop flying blind and check the lock status of the data directory, storage mode, isolation level of an instance and build type inside a runnin...](https://twitter.com/memgraphdb/status/1660655605189672972)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
