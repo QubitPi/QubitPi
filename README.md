@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Yet another tabular data OCR, any industry standards to solve this problem?](https://www.reddit.com/r/MachineLearning/comments/13oc0l4/discussion_yet_another_tabular_data_ocr_any/)
 - [[P] Training or fine-tuning a model on new documents](https://www.reddit.com/r/MachineLearning/comments/13o8uh0/p_training_or_finetuning_a_model_on_new_documents/)
 - [[R] ChatGPT &lpar;GPT 4&rpar; Has a Verbal-Linguistic IQ of 152, Yet Seems To Have Limited Spatial Reasoning Skills](https://www.reddit.com/r/MachineLearning/comments/13o8c4g/r_chatgpt_gpt_4_has_a_verballinguistic_iq_of_152/)
 - [Vaguely related question &lpar;TTS&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/13o7xzf/vaguely_related_question_tts_d/)
 - [[N] Photonic chips can now perform back propagation](https://www.reddit.com/r/MachineLearning/comments/13o7ndg/n_photonic_chips_can_now_perform_back_propagation/)
-- [This Week In AI [N]](https://www.reddit.com/r/MachineLearning/comments/13o3rur/this_week_in_ai_n/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
