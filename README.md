@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Sharing My Perspectives on AI and LLMs: Seeking Your Thoughts](https://www.reddit.com/r/MachineLearning/comments/13ow6jn/d_sharing_my_perspectives_on_ai_and_llms_seeking/)
 - [[D] When to use MLFlow, Tensorboard, and others?](https://www.reddit.com/r/MachineLearning/comments/13ovjc4/d_when_to_use_mlflow_tensorboard_and_others/)
 - [[R] GPT-4 didn&#39;t really score 90th percentile on the bar exam](https://www.reddit.com/r/MachineLearning/comments/13ovc04/r_gpt4_didnt_really_score_90th_percentile_on_the/)
 - [[P] Improving GPT-4&#39;s codebase understanding with ctags](https://www.reddit.com/r/MachineLearning/comments/13osoij/p_improving_gpt4s_codebase_understanding_with/)
 - [[R] GPT-4 and ChatGPT sometimes hallucinate to the point where they know they&#39;re hallucinating](https://www.reddit.com/r/MachineLearning/comments/13oskli/r_gpt4_and_chatgpt_sometimes_hallucinate_to_the/)
-- [[D] User research on GenAI and communities](https://www.reddit.com/r/MachineLearning/comments/13oqibb/d_user_research_on_genai_and_communities/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
