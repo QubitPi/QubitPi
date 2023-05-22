@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Coding Question](https://www.reddit.com/r/MachineLearning/comments/13p617m/p_coding_question/)
 - [[D] Does anyone know where the report of the open-source Llama trained on 1T tokens is?](https://www.reddit.com/r/MachineLearning/comments/13p1esg/d_does_anyone_know_where_the_report_of_the/)
 - [[R] Plot image to data](https://www.reddit.com/r/MachineLearning/comments/13p145x/r_plot_image_to_data/)
 - [ChatGPT Plugin Discovery Tool [P]](https://www.reddit.com/r/MachineLearning/comments/13p0dkk/chatgpt_plugin_discovery_tool_p/)
 - [[D] Which of the datasets used in Massive Text Embedding Benchmark &lpar;MTEB&rpar; have the longest examples?](https://www.reddit.com/r/MachineLearning/comments/13p0dfi/d_which_of_the_datasets_used_in_massive_text/)
-- [[D] Best practice for model as a service?](https://www.reddit.com/r/MachineLearning/comments/13ozt6h/d_best_practice_for_model_as_a_service/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
