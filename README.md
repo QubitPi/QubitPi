@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Plot image to data](https://www.reddit.com/r/MachineLearning/comments/13p145x/r_plot_image_to_data/)
+- [ChatGPT Plugin Discovery Tool [P]](https://www.reddit.com/r/MachineLearning/comments/13p0dkk/chatgpt_plugin_discovery_tool_p/)
+- [[D] Which of the datasets used in Massive Text Embedding Benchmark &lpar;MTEB&rpar; have the longest examples?](https://www.reddit.com/r/MachineLearning/comments/13p0dfi/d_which_of_the_datasets_used_in_massive_text/)
 - [[D] Best practice for model as a service?](https://www.reddit.com/r/MachineLearning/comments/13ozt6h/d_best_practice_for_model_as_a_service/)
 - [[N] Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity - This could lead to Dream to Video?](https://www.reddit.com/r/MachineLearning/comments/13ozsid/n_cinematic_mindscapes_highquality_video/)
-- [[D] Need a formal answer interpreting this graph of actual to forecasted values from a ML model.](https://www.reddit.com/r/MachineLearning/comments/13ozn10/d_need_a_formal_answer_interpreting_this_graph_of/)
-- [[D] High-quality, open-source implementations of LLMs](https://www.reddit.com/r/MachineLearning/comments/13ozi5h/d_highquality_opensource_implementations_of_llms/)
-- [[D] Best practices for Google VertexAI &amp; ML datasets](https://www.reddit.com/r/MachineLearning/comments/13oz962/d_best_practices_for_google_vertexai_ml_datasets/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
