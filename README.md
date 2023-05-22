@@ -324,7 +324,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Software Dependencies - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=QOu5VAsCAoA)
+- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=QOu5VAsCAoA)
 - [Graphversation Ep. 3 &lpar;How Web Scraping and Graph Databases Power Recommendation Engines&rpar;](https://www.youtube.com/watch?v=Smwr1U1xUQs)
 - [Jump into Graph: Creating Mock Data to get started with Graph Databases Trailer #shorts](https://www.youtube.com/watch?v=lOaCpTSNOmc)
 - [Tip#1 Submit a Talk for NODES 2023](https://www.youtube.com/watch?v=qUXoWxDy5LI)
