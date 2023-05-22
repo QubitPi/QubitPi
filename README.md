@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] This Week in AI: AI Congressional Hearing, ChatGPT iOS App Released, Meta&#39;s new AI Chip and More.](https://www.reddit.com/r/MachineLearning/comments/13oipsr/n_this_week_in_ai_ai_congressional_hearing/)
 - [[D] Any interesting papers to implement?](https://www.reddit.com/r/MachineLearning/comments/13ohs13/d_any_interesting_papers_to_implement/)
 - [[P] Recommendations for state-of-the-art LLMs or LLM APIs to use for a domain-specific question-answering project?](https://www.reddit.com/r/MachineLearning/comments/13oflr9/p_recommendations_for_stateoftheart_llms_or_llm/)
 - [[P] Is this Overfitted?](https://www.reddit.com/r/MachineLearning/comments/13oeqzg/p_is_this_overfitted/)
 - [[D] Paige Bailey: Google Deepmind, LLMs, Power of ML to improve Software Development | Learning from Machine Learning #5](https://www.reddit.com/r/MachineLearning/comments/13oeo0t/d_paige_bailey_google_deepmind_llms_power_of_ml/)
-- [LIMA, a 65B-Param LLaMa fine-tuned with standard supervised loss on only 1,000 carefully curated prompts &amp; responses, without any RLHF, demonstrates remarkably strong performance, learning to follow specific responses from only a handful of examples in the training data, including complex queries.](https://www.reddit.com/r/MachineLearning/comments/13oe5ot/lima_a_65bparam_llama_finetuned_with_standard/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
