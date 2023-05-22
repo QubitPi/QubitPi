@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best practice for model as a service?](https://www.reddit.com/r/MachineLearning/comments/13ozt6h/d_best_practice_for_model_as_a_service/)
+- [[N] Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity - This could lead to Dream to Video?](https://www.reddit.com/r/MachineLearning/comments/13ozsid/n_cinematic_mindscapes_highquality_video/)
 - [[D] Need a formal answer interpreting this graph of actual to forecasted values from a ML model.](https://www.reddit.com/r/MachineLearning/comments/13ozn10/d_need_a_formal_answer_interpreting_this_graph_of/)
 - [[D] High-quality, open-source implementations of LLMs](https://www.reddit.com/r/MachineLearning/comments/13ozi5h/d_highquality_opensource_implementations_of_llms/)
 - [[D] Best practices for Google VertexAI &amp; ML datasets](https://www.reddit.com/r/MachineLearning/comments/13oz962/d_best_practices_for_google_vertexai_ml_datasets/)
-- [Local llama doc chat and local chat mode [P]](https://www.reddit.com/r/MachineLearning/comments/13oyo3s/local_llama_doc_chat_and_local_chat_mode_p/)
-- [[D] Governance of SuperIntelligence - OpenAI](https://www.reddit.com/r/MachineLearning/comments/13oygjs/d_governance_of_superintelligence_openai/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
