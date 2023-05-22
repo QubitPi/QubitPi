@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Local llama doc chat and local chat mode [P]](https://www.reddit.com/r/MachineLearning/comments/13oyo3s/local_llama_doc_chat_and_local_chat_mode_p/)
+- [[D] Governance of SuperIntelligence - OpenAI](https://www.reddit.com/r/MachineLearning/comments/13oygjs/d_governance_of_superintelligence_openai/)
 - [[P] Dope catalog of AI tools for Creatives](https://www.reddit.com/r/MachineLearning/comments/13ox1lk/p_dope_catalog_of_ai_tools_for_creatives/)
 - [[P]Easiest way to run Python on Linux for Deep Learning?](https://www.reddit.com/r/MachineLearning/comments/13ow8uk/peasiest_way_to_run_python_on_linux_for_deep/)
 - [[D] When to use MLFlow, Tensorboard, and others?](https://www.reddit.com/r/MachineLearning/comments/13ovjc4/d_when_to_use_mlflow_tensorboard_and_others/)
-- [[R] GPT-4 didn&#39;t really score 90th percentile on the bar exam](https://www.reddit.com/r/MachineLearning/comments/13ovc04/r_gpt4_didnt_really_score_90th_percentile_on_the/)
-- [[P] Improving GPT-4&#39;s codebase understanding with ctags](https://www.reddit.com/r/MachineLearning/comments/13osoij/p_improving_gpt4s_codebase_understanding_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
