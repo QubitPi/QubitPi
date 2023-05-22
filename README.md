@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Zicklein - a German 🇩🇪 fine-tuned LlaMA-7b base model &lpar;OS&rpar;](https://www.reddit.com/r/MachineLearning/comments/13onu8r/project_zicklein_a_german_finetuned_llama7b_base/)
 - [[R] GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework](https://www.reddit.com/r/MachineLearning/comments/13ol78c/r_getmusic_generating_any_music_tracks_with_a/)
 - [[D] Searching for ways to predict the output of a hidden neuron and output layer by using a heuristic?](https://www.reddit.com/r/MachineLearning/comments/13ojelw/d_searching_for_ways_to_predict_the_output_of_a/)
 - [[D] Any interesting papers to implement?](https://www.reddit.com/r/MachineLearning/comments/13ohs13/d_any_interesting_papers_to_implement/)
 - [[P] Recommendations for state-of-the-art LLMs or LLM APIs to use for a domain-specific question-answering project?](https://www.reddit.com/r/MachineLearning/comments/13oflr9/p_recommendations_for_stateoftheart_llms_or_llm/)
-- [[P] Is this Overfitted?](https://www.reddit.com/r/MachineLearning/comments/13oeqzg/p_is_this_overfitted/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
