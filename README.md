@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Improving GPT-4&#39;s codebase understanding with ctags](https://www.reddit.com/r/MachineLearning/comments/13osoij/p_improving_gpt4s_codebase_understanding_with/)
+- [[R] GPT-4 and ChatGPT sometimes hallucinate to the point where they know they&#39;re hallucinating](https://www.reddit.com/r/MachineLearning/comments/13oskli/r_gpt4_and_chatgpt_sometimes_hallucinate_to_the/)
 - [[R] Told about Stable Diffusion artists with prompts and examples.](https://www.reddit.com/r/MachineLearning/comments/13orxhr/r_told_about_stable_diffusion_artists_with/)
 - [[P] Combine your documents, videos and YouTubes. Query them to gain insight](https://www.reddit.com/r/MachineLearning/comments/13oqyqb/p_combine_your_documents_videos_and_youtubes/)
 - [[D] User research on GenAI and communities](https://www.reddit.com/r/MachineLearning/comments/13oqibb/d_user_research_on_genai_and_communities/)
-- [&lpar;Mod&rpar;Shogun package for Python 3 [D], [R]](https://www.reddit.com/r/MachineLearning/comments/13oqehj/modshogun_package_for_python_3_d_r/)
-- [[D] Any interesting papers on the use of LLM in healthcare?](https://www.reddit.com/r/MachineLearning/comments/13opsee/d_any_interesting_papers_on_the_use_of_llm_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
