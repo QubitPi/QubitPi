@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] User research on GenAI and communities](https://www.reddit.com/r/MachineLearning/comments/13oqibb/d_user_research_on_genai_and_communities/)
+- [&lpar;Mod&rpar;Shogun package for Python 3 [D], [R]](https://www.reddit.com/r/MachineLearning/comments/13oqehj/modshogun_package_for_python_3_d_r/)
 - [[D] Any interesting papers on the use of LLM in healthcare?](https://www.reddit.com/r/MachineLearning/comments/13opsee/d_any_interesting_papers_on_the_use_of_llm_in/)
 - [[P] Building a tool to train AI chatbots with your own data](https://www.reddit.com/r/MachineLearning/comments/13oprmu/p_building_a_tool_to_train_ai_chatbots_with_your/)
 - [[D] Paragraph summarization techniques](https://www.reddit.com/r/MachineLearning/comments/13op9ha/d_paragraph_summarization_techniques/)
-- [[Project] Zicklein - a German 🇩🇪 fine-tuned LlaMA-7b base model &lpar;OS&rpar;](https://www.reddit.com/r/MachineLearning/comments/13onu8r/project_zicklein_a_german_finetuned_llama7b_base/)
-- [[R] GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework](https://www.reddit.com/r/MachineLearning/comments/13ol78c/r_getmusic_generating_any_music_tracks_with_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
