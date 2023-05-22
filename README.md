@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Which Python library is the most used in industry?](https://www.reddit.com/r/MachineLearning/comments/13otkg4/d_which_python_library_is_the_most_used_in/)
 - [[P] Improving GPT-4&#39;s codebase understanding with ctags](https://www.reddit.com/r/MachineLearning/comments/13osoij/p_improving_gpt4s_codebase_understanding_with/)
 - [[R] GPT-4 and ChatGPT sometimes hallucinate to the point where they know they&#39;re hallucinating](https://www.reddit.com/r/MachineLearning/comments/13oskli/r_gpt4_and_chatgpt_sometimes_hallucinate_to_the/)
-- [[R] Told about Stable Diffusion artists with prompts and examples.](https://www.reddit.com/r/MachineLearning/comments/13orxhr/r_told_about_stable_diffusion_artists_with/)
-- [[P] Combine your documents, videos and YouTubes. Query them to gain insight](https://www.reddit.com/r/MachineLearning/comments/13oqyqb/p_combine_your_documents_videos_and_youtubes/)
 - [[D] User research on GenAI and communities](https://www.reddit.com/r/MachineLearning/comments/13oqibb/d_user_research_on_genai_and_communities/)
+- [[Project] Zicklein - a German 🇩🇪 fine-tuned LlaMA-7b base model &lpar;OS&rpar;](https://www.reddit.com/r/MachineLearning/comments/13onu8r/project_zicklein_a_german_finetuned_llama7b_base/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
