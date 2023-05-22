@@ -336,11 +336,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1660625811832029184)
-- [Just like standard Javascript/Typescript developers, instead of using other libraries, we created a new one. As we are pleased with the baseline struc...](https://twitter.com/memgraphdb/status/1660605676945539072)
-- [🚀 Check out how you can utilize PageRank in various other use cases or knowledge graphs built to infer knowledge in these niches. Recommendation En...](https://twitter.com/memgraphdb/status/1660587558974136321)
-- [🌟 Attention #Gartner Data &amp; Analytics Summit attendees! 🌟 If you&#39;re passionate about #data and #analytics, we invite you to visit #Memgraph at b...](https://twitter.com/memgraphdb/status/1660572505147408384)
-- [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1660569690710712320)
+- [Re 🆕 If any of the above mentioned features or improvements would make analyzing your graphs easier, download the new Memgraph v2.8 and check the d...](https://twitter.com/memgraphdb/status/1660655616535175170)
+- [Re 🛠️ Various optimizations and bug fixes have improved the performance of LOAD CSV queries and running Python procedures. #Optimizations #BugFixe...](https://twitter.com/memgraphdb/status/1660655612366139396)
+- [Re 🚨 Feed the metrics from Memgraph Enterprise Edition into your favorite systems monitoring and alerting tool via an HTTP endpoint and track trans...](https://twitter.com/memgraphdb/status/1660655608926728192)
+- [Re 🔍 Stop flying blind and check the lock status of the data directory, storage mode, isolation level of an instance and build type inside a runnin...](https://twitter.com/memgraphdb/status/1660655605189672972)
+- [Re 🗺️ Instead of manually listing node and relationship properties to create a map , you can now use the map projection syntax. #Usability https:/...](https://twitter.com/memgraphdb/status/1660655601410617344)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
