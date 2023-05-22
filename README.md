@@ -240,11 +240,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/798021850318766121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/bc48d30ae64c0f3c84912e854f88ac8d2006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #宵宫# 亲爱的旅行者，「焰色天河」活动祈愿即将开启，「琉焰华舞·宵宫&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/798389752932859920)
+- [#原神# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的资源下载进度，减少资源下载...](https://t.bilibili.com/798375579536588800)
+- [《原神》3.7版本「决斗！召唤之巅！」更新维护预告](https://t.bilibili.com/798366572992266240)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/798021850318766121)
 - [互动抽奖 #原神# #天朗风清 绿色出行# #原神支付宝# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动「第二期」即将开启！ 活动周期：2023/04/22 00:00 ~ 202...](https://t.bilibili.com/798021107283132439)
-- [#原神# #决斗召唤之巅# 旅行者们好~今天将为各位旅行者介绍的是在3.7版本中的全新武器，一起来看看吧~](https://t.bilibili.com/798019973429592177)
-- [互动抽奖 #原神# #云堇# #生日快乐# 今天有一场新戏开演，我已经闭门排练了好些时日，但心中仍有些忐忑，便想着要见你一面。 没想到你也来找我了，真巧，可谓是...](https://t.bilibili.com/798018788012326931)
-- [恭喜@叶沄汐@寸心清浅@南瓜-瓜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/797740375352541302)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
