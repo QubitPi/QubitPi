@@ -352,11 +352,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Meet the Headline Sponsor: Wind River](https://superuser.openinfra.dev/articles/meet-the-headline-sponsor-wind-river/)
 - [7 Best Practices for Optimizing OpenStack Costs](https://superuser.openinfra.dev/articles/7-best-practices-for-optimizing-openstack-costs/)
 - [Safeguarding Your OpenStack Instance: Complete Guide to Manually Backing Up Ephemeral and Block Storage](https://superuser.openinfra.dev/articles/safeguarding-your-openstack-instance-complete-guide-to-manually-backing-up-ephemeral-and-block-storage/)
 - [Wes Wilson, VP of Operations at the OpenInfra Foundation, Discusses Foundation’s Growth and Introduction of Project Funding Model](https://superuser.openinfra.dev/articles/wes-wilson-vp-of-operations-at-the-openinfra-foundation-discusses-foundations-growth-and-introduction-of-project-funding-model/)
 - [Calling All Students: Start Your Career in Open Source Tech at the OpenInfra Summit](https://superuser.openinfra.dev/articles/calling-all-students-start-your-career-in-open-source-tech-at-the-openinfra-summit/)
-- [Meet the 2023 Superuser Awards Nominees](https://superuser.openinfra.dev/articles/meet-the-2023-superuser-awards-nominees/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
