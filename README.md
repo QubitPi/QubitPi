@@ -314,11 +314,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Looking for an exciting new career move? 🚀 Join Neo4j&#39;s team and take on thrilling challenges while working alongside top-tier clients from differe...](https://twitter.com/neo4j/status/1660666630005817351)
 - [Come and visit us at Booth 243! #GartnerDA @Gartner_inc 📍London https://t.co/1bvseTGA8b](https://twitter.com/neo4j/status/1660613757163151363)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1YpKkgYPZdEKj](https://twitter.com/neo4j/status/1660552715137691649)
 - [Start the week fresh with @mesirii and a fun #dataset to explore on Neo4j Aura! https://okt.to/NVQEx2](https://twitter.com/neo4j/status/1660525959601160193)
 - [Graphversation Ep. 3 &lpar;Next-level Personalization: How Web Scraping and Graph Databases Power Recommendation Engines&rpar; https://twitter.com/i/broadcasts/...](https://twitter.com/neo4j/status/1660503367192555521)
-- [👉 The Neo4j GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform an...](https://twitter.com/neo4j/status/1660343468298838018)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
