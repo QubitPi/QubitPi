@@ -237,7 +237,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/798389752932859920><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b3bfc76fdf3373f021217a5532d2a32b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/798420685287325844><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/28b905f145bbe9b1135343717709739a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #宵宫# 亲爱的旅行者，「焰色天河」活动祈愿即将开启，「琉焰华舞·宵宫&lpar;火&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，组建强大...](https://t.bilibili.com/798389752932859920)
