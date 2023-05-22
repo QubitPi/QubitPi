@@ -336,11 +336,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Check out how you can utilize PageRank in various other use cases or knowledge graphs built to infer knowledge in these niches. Recommendation En...](https://twitter.com/memgraphdb/status/1660587558974136321)
+- [🌟 Attention #Gartner Data &amp; Analytics Summit attendees! 🌟 If you&#39;re passionate about #data and #analytics, we invite you to visit #Memgraph at b...](https://twitter.com/memgraphdb/status/1660572505147408384)
+- [🎓 Fulfilling these #GDPR requirements is only possible if you understand the lineage of personal data. Data lineage solutions make that possible by...](https://twitter.com/memgraphdb/status/1660569690710712320)
+- [RT Dominik Tomicevic: Anyone attending #Gartner #Data &amp; #Analytics summit? 👀 DM if you want to meet up! https://t.co/UnKfkyBrZj](https://twitter.com/dtomicevic/status/1660567769614626816)
 - [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1660552327550361601)
-- [💼 While meeting GDPR requirements is no trivial business problem, organizations that base their data governance solutions on graph database technol...](https://twitter.com/memgraphdb/status/1660531185552969729)
-- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1660516840987058176)
-- [❓ You want a fast, easy-to-use, and popular graph visualization tool? Pick two! ✅✅❌ ➡️ https://memgraph.com/blog/you-want-a-fast-easy-to-use-and...](https://twitter.com/memgraphdb/status/1660497968414310401)
-- [😓 You’re probably familiar with the situation of trying to read through the new documentation, which can often be messy and hard to navigate throu...](https://twitter.com/memgraphdb/status/1660355530508910592)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
