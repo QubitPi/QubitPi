@@ -295,7 +295,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[D] Paige Bailey: Google Deepmind, LLMs, Power of ML to improve Software Development | Learning from Machine Learning #5](https://www.reddit.com/r/MachineLearning/comments/13oeo0t/d_paige_bailey_google_deepmind_llms_power_of_ml/)
 - [LIMA, a 65B-Param LLaMa fine-tuned with standard supervised loss on only 1,000 carefully curated prompts &amp; responses, without any RLHF, demonstrates remarkably strong performance, learning to follow specific responses from only a handful of examples in the training data, including complex queries.](https://www.reddit.com/r/MachineLearning/comments/13oe5ot/lima_a_65bparam_llama_finetuned_with_standard/)
 - [[R] Google&#39;s AI Music Datasets: MusicCaps, AudioSet and MuLan](https://www.reddit.com/r/MachineLearning/comments/13odx63/r_googles_ai_music_datasets_musiccaps_audioset/)
-- [[D] This AI generated captcha is getting out of control. The hell is a yoko?](https://www.reddit.com/r/MachineLearning/comments/13odwna/d_this_ai_generated_captcha_is_getting_out_of/)
+- [[Discussion] Yet another tabular data OCR, any industry standards to solve this problem?](https://www.reddit.com/r/MachineLearning/comments/13oc0l4/discussion_yet_another_tabular_data_ocr_any/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
