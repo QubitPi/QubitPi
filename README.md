@@ -291,11 +291,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Confusion about embeddings](https://www.reddit.com/r/MachineLearning/comments/13p88om/d_confusion_about_embeddings/)
 - [Getting Faster Response times &lpar;API&rpar; [P] [D]](https://www.reddit.com/r/MachineLearning/comments/13p76yu/getting_faster_response_times_api_p_d/)
 - [[P] Coding Question](https://www.reddit.com/r/MachineLearning/comments/13p617m/p_coding_question/)
 - [[D] Does anyone know where the report of the open-source Llama trained on 1T tokens is?](https://www.reddit.com/r/MachineLearning/comments/13p1esg/d_does_anyone_know_where_the_report_of_the/)
 - [[R] Plot image to data](https://www.reddit.com/r/MachineLearning/comments/13p145x/r_plot_image_to_data/)
-- [ChatGPT Plugin Discovery Tool [P]](https://www.reddit.com/r/MachineLearning/comments/13p0dkk/chatgpt_plugin_discovery_tool_p/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
