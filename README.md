@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Publishing Tips [D]](https://www.reddit.com/r/MachineLearning/comments/13pjt8l/publishing_tips_d/)
 - [[D] Model under 1-3GB](https://www.reddit.com/r/MachineLearning/comments/13pgwyq/d_model_under_13gb/)
 - [Is there some online software that can remove noise &lpar;like chalk/pen tapping&rpar; from lecture recordings? [D]](https://www.reddit.com/r/MachineLearning/comments/13pgbk3/is_there_some_online_software_that_can_remove/)
 - [[P] Bringing Open Large Language Models to Consumer Devices. The project enables &#39;small&#39; LLMs like Vicuna 7B or Red Pajama INCITE 3B to run locally on mobile phones, with hardware acceleration, using WebAssembly and WebGPU.](https://www.reddit.com/r/MachineLearning/comments/13pg47q/p_bringing_open_large_language_models_to_consumer/)
 - [[R] Invitation to participate in research study: Towards robust production machine learning for software systems](https://www.reddit.com/r/MachineLearning/comments/13pco55/r_invitation_to_participate_in_research_study/)
-- [[R] RWKV: Reinventing RNNs for the Transformer Era](https://www.reddit.com/r/MachineLearning/comments/13pbgef/r_rwkv_reinventing_rnns_for_the_transformer_era/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
