@@ -28,16 +28,16 @@ _Open Innovation_ as Career
 <div align="left">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jack20191124)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jack20191124/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack20191124/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
 [![Proton Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jack20191124@proton.me)](mailto:jack20191124@proton.me)
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://youtube.com/playlist?list=PL-CLnI8tPXu_UEGos5Mf-9IXCy7adGbpA)
+
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
 
