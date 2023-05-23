@@ -46,7 +46,7 @@ _Open Innovation_ as Career
 </div>
 
 <a href="https://www.youtube.com/live/Ycaiy_2InSs?feature=share">
-    <img align="right" width="500" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
+    <img align="right" width="400" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
 </a>
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
