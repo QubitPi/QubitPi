@@ -26,7 +26,7 @@ _Open Innovation_ as Career
 </div>
 
 <a href="https://www.youtube.com/live/Ycaiy_2InSs">
-    <img align="right" width="450" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/f2ce3160-f52e-429f-82b8-7fb891951be2">
+    <img align="right" width="400" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/f2ce3160-f52e-429f-82b8-7fb891951be2">
 </a>
 
 <div align="left">
@@ -34,9 +34,7 @@ _Open Innovation_ as Career
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack20191124/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
-[![Proton Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jack20191124@proton.me)](mailto:jack20191124@proton.me)
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
