@@ -25,7 +25,7 @@ _Open Innovation_ as Career
 </a>
 </div>
 
-<div align="right">
+<div align="left">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jack20191124)
@@ -45,7 +45,9 @@ _Open Innovation_ as Career
 
 </div>
 
-<img align="right" width="500" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
+<a href="https://www.youtube.com/live/Ycaiy_2InSs?feature=share">
+    <img align="right" width="500" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
+</a>
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
 >    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
