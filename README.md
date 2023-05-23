@@ -46,8 +46,6 @@ _Open Innovation_ as Career
 [![](https://img.shields.io/badge/NO-VIM-red?style=for-the-badge)](https://github.com/emacs-evil/evil) [![](https://img.shields.io/badge/EMACS-brightgreen?style=for-the-badge&logoColor=white&logo=GitHub%20Sponsors)](https://www.gnu.org/software/emacs/) ![](https://img.shields.io/badge/F**K-TENCENT-black?style=for-the-badge) 
 
 </br>
-</br>
-</br>
 </div>
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
