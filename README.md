@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Machine Learning Model for time series data](https://www.reddit.com/r/MachineLearning/comments/13pvpww/d_machine_learning_model_for_time_series_data/)
 - [[D] Local models for generating professional headshots](https://www.reddit.com/r/MachineLearning/comments/13pt3gv/d_local_models_for_generating_professional/)
 - [[P] surv_ai: An Open Source Framework for Modeling and Comparative Analysis using AI Agents, Inspired by Classical Ensemble Classifiers](https://www.reddit.com/r/MachineLearning/comments/13pscan/p_surv_ai_an_open_source_framework_for_modeling/)
 - [[R] RecurrentGPT: Interactive Generation of &lpar;Arbitrarily&rpar; Long Text](https://www.reddit.com/r/MachineLearning/comments/13pqi34/r_recurrentgpt_interactive_generation_of/)
 - [[P] Fondant: sweet data-centric foundation model fine-tuning](https://www.reddit.com/r/MachineLearning/comments/13potnb/p_fondant_sweet_datacentric_foundation_model/)
+- [[P] Explain every Time Series model in a comprehensive way](https://www.reddit.com/r/MachineLearning/comments/13po6zx/p_explain_every_time_series_model_in_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
