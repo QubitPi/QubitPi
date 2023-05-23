@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [NOW: @Gartner_inc Data &amp; Analytics Summit with @BarrasaDV and Martijn Vlak from @Rabobank on stage! #Neo4j #GartnerDA https://t.co/nrZaMj0nkU](https://twitter.com/neo4j/status/1661015147647991808)
+- [Another great day at the #GartnerDA, Gartner Data &amp; Analytics Summit-- come and learn about the power of graphs! Booth: 243 #Neo4j @Gartner_inc https:...](https://twitter.com/neo4j/status/1661012881176145920)
+- [If you are at the @Gartner_inc Data &amp; Analytics Summit, join @BarrasaDV and Martijn Vlak from @Rabobank --&gt; the talk starts very soon! #GartnerDA #Neo...](https://twitter.com/neo4j/status/1660997815970013187)
+- [Sample #datasets don&#39;t do it for you but you also dont have access to something specific to your domain? @jalakoo developed a Mock Data Generator for ...](https://twitter.com/neo4j/status/1660978903370825733)
 - [Have you heard about graph databases? 😮 Are you curious about what they are and how they work? 👀 Do you want to know where they&#39;re best used? ✅...](https://twitter.com/neo4j/status/1660842756393017345)
-- [Re ** May 23rd, find the photographer at our booth from 6PM to 7.30PM :&rpar;](https://twitter.com/neo4j/status/1660738141358116872)
-- [Need a professional profile pic? If you are at the Gartner Data &amp; Analytics Summit, in London, you can take one in our booth &lpar;243&rpar; 📸Today until 7.3...](https://twitter.com/neo4j/status/1660710152025022482)
-- [&quot;To fully harness the power of #GenerativeAI we need to train its next generation on high-quality, structured business data, rather than relying on ‘...](https://twitter.com/neo4j/status/1660699572035829783)
-- [Looking for an exciting new career move? 🚀 Join Neo4j&#39;s team and take on thrilling challenges while working alongside top-tier clients from differe...](https://twitter.com/neo4j/status/1660666630005817351)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
