@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is LLM hallucination an artifact of the training dataset?](https://www.reddit.com/r/MachineLearning/comments/13q4qtd/d_is_llm_hallucination_an_artifact_of_the/)
+- [[D] Getting a real world dataset instead of pristine “toy” dataset](https://www.reddit.com/r/MachineLearning/comments/13q4nvq/d_getting_a_real_world_dataset_instead_of/)
 - [[Project] NOCS Implementation in PyTorch](https://www.reddit.com/r/MachineLearning/comments/13q4aoy/project_nocs_implementation_in_pytorch/)
 - [[D] Performing validation on both the test and validation sets at each iteration vs. only using the test set at the end.](https://www.reddit.com/r/MachineLearning/comments/13q2mv1/d_performing_validation_on_both_the_test_and/)
 - [[D]: Neural Networks Invariant to Input order](https://www.reddit.com/r/MachineLearning/comments/13q28c0/d_neural_networks_invariant_to_input_order/)
-- [[D] The cost to train GPT-4?](https://www.reddit.com/r/MachineLearning/comments/13q1n3h/d_the_cost_to_train_gpt4/)
-- [[D] Seeking Advice: Document Clustering While Preserving Long-Term Dependencies](https://www.reddit.com/r/MachineLearning/comments/13q0980/d_seeking_advice_document_clustering_while/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
