@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Fondant: sweet data-centric foundation model fine-tuning](https://www.reddit.com/r/MachineLearning/comments/13potnb/p_fondant_sweet_datacentric_foundation_model/)
+- [[P] Explain every Time Series model in a comprehensive way](https://www.reddit.com/r/MachineLearning/comments/13po6zx/p_explain_every_time_series_model_in_a/)
+- [[D] Best Practices for dealing with Unlabelled Data for Edge Computer Vision](https://www.reddit.com/r/MachineLearning/comments/13pnsx5/d_best_practices_for_dealing_with_unlabelled_data/)
 - [Machine Learning Setup [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13pmv1n/machine_learning_setup_discussion/)
 - [[D] Whether using GPT embeddings model to search through text messages is the best approach for the given problem?](https://www.reddit.com/r/MachineLearning/comments/13pk70s/d_whether_using_gpt_embeddings_model_to_search/)
-- [Publishing Tips [D]](https://www.reddit.com/r/MachineLearning/comments/13pjt8l/publishing_tips_d/)
-- [[D] Model under 1-3GB](https://www.reddit.com/r/MachineLearning/comments/13pgwyq/d_model_under_13gb/)
-- [Is there some online software that can remove noise &lpar;like chalk/pen tapping&rpar; from lecture recordings? [D]](https://www.reddit.com/r/MachineLearning/comments/13pgbk3/is_there_some_online_software_that_can_remove/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
