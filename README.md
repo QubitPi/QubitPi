@@ -291,10 +291,10 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 <!-- REDDIT-ML:START -->
 - [[R] Invitation to participate in research study: Towards robust production machine learning for software systems](https://www.reddit.com/r/MachineLearning/comments/13pco55/r_invitation_to_participate_in_research_study/)
-- [Invitation to participate in research study: Towards robust production machine learning for software systems #[R]](https://www.reddit.com/r/MachineLearning/comments/13pcndz/invitation_to_participate_in_research_study/)
 - [[R] RWKV: Reinventing RNNs for the Transformer Era](https://www.reddit.com/r/MachineLearning/comments/13pbgef/r_rwkv_reinventing_rnns_for_the_transformer_era/)
 - [NLP processing for LLMs [P]](https://www.reddit.com/r/MachineLearning/comments/13p96l4/nlp_processing_for_llms_p/)
 - [[D] ICCV Reviews are out](https://www.reddit.com/r/MachineLearning/comments/13p8zmi/d_iccv_reviews_are_out/)
+- [[P] Coding Question](https://www.reddit.com/r/MachineLearning/comments/13p617m/p_coding_question/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
