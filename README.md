@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Found top conference papers using test data for validation.](https://www.reddit.com/r/MachineLearning/comments/13pxr2t/d_found_top_conference_papers_using_test_data_for/)
 - [Quantization using tensorflow lite not working as expected [P]](https://www.reddit.com/r/MachineLearning/comments/13pw9bu/quantization_using_tensorflow_lite_not_working_as/)
 - [[D] Local models for generating professional headshots](https://www.reddit.com/r/MachineLearning/comments/13pt3gv/d_local_models_for_generating_professional/)
 - [[P] surv_ai: An Open Source Framework for Modeling and Comparative Analysis using AI Agents, Inspired by Classical Ensemble Classifiers](https://www.reddit.com/r/MachineLearning/comments/13pscan/p_surv_ai_an_open_source_framework_for_modeling/)
 - [[R] RecurrentGPT: Interactive Generation of &lpar;Arbitrarily&rpar; Long Text](https://www.reddit.com/r/MachineLearning/comments/13pqi34/r_recurrentgpt_interactive_generation_of/)
-- [[P] Fondant: sweet data-centric foundation model fine-tuning](https://www.reddit.com/r/MachineLearning/comments/13potnb/p_fondant_sweet_datacentric_foundation_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
