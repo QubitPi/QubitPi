@@ -26,10 +26,10 @@ _Open Innovation_ as Career
 </div>
 
 <a href="https://www.youtube.com/live/Ycaiy_2InSs">
-    <img align="right" width="400" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/f2ce3160-f52e-429f-82b8-7fb891951be2">
+    <img align="left" width="400" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/f2ce3160-f52e-429f-82b8-7fb891951be2">
 </a>
 
-<div align="left">
+<div align="right">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jack20191124/)
