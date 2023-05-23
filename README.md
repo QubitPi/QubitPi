@@ -315,11 +315,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @cesarosoriof @Gartner_inc @BarrasaDV @Rabobank Cesar, hi! The talk will be available on-demand on the Gartner conference app.](https://twitter.com/neo4j/status/1661048676993712132)
-- [Jump into Graph: Creating Mock Data to get started with Graph Databases @jalakoo https://twitter.com/i/broadcasts/1YpKkgYjQZBKj](https://twitter.com/neo4j/status/1661039451580289025)
-- [All databases are not created equal: but which one is the best match for your business? 👌 North America: https://okt.to/IzAQwh Europe: https://okt....](https://twitter.com/neo4j/status/1661031786946744320)
 - [NOW: @Gartner_inc Data &amp; Analytics Summit with @BarrasaDV and Martijn Vlak from @Rabobank on stage! #Neo4j #GartnerDA https://t.co/nrZaMj0nkU](https://twitter.com/neo4j/status/1661015147647991808)
 - [Another great day at the #GartnerDA, Gartner Data &amp; Analytics Summit-- come and learn about the power of graphs! Booth: 243 #Neo4j @Gartner_inc https:...](https://twitter.com/neo4j/status/1661012881176145920)
+- [If you are at the @Gartner_inc Data &amp; Analytics Summit, join @BarrasaDV and Martijn Vlak from @Rabobank --&gt; the talk starts very soon! #GartnerDA #Neo...](https://twitter.com/neo4j/status/1660997815970013187)
+- [Sample #datasets don&#39;t do it for you but you also dont have access to something specific to your domain? @jalakoo developed a Mock Data Generator for ...](https://twitter.com/neo4j/status/1660978903370825733)
+- [Have you heard about graph databases? 😮 Are you curious about what they are and how they work? 👀 Do you want to know where they&#39;re best used? ✅...](https://twitter.com/neo4j/status/1660842756393017345)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
