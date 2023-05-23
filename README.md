@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] RecurrentGPT: Interactive Generation of &lpar;Arbitrarily&rpar; Long Text](https://www.reddit.com/r/MachineLearning/comments/13pqi34/r_recurrentgpt_interactive_generation_of/)
 - [[P] Fondant: sweet data-centric foundation model fine-tuning](https://www.reddit.com/r/MachineLearning/comments/13potnb/p_fondant_sweet_datacentric_foundation_model/)
 - [[P] Explain every Time Series model in a comprehensive way](https://www.reddit.com/r/MachineLearning/comments/13po6zx/p_explain_every_time_series_model_in_a/)
 - [[D] Best Practices for dealing with Unlabelled Data for Edge Computer Vision](https://www.reddit.com/r/MachineLearning/comments/13pnsx5/d_best_practices_for_dealing_with_unlabelled_data/)
 - [Machine Learning Setup [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13pmv1n/machine_learning_setup_discussion/)
-- [[D] Whether using GPT embeddings model to search through text messages is the best approach for the given problem?](https://www.reddit.com/r/MachineLearning/comments/13pk70s/d_whether_using_gpt_embeddings_model_to_search/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
