@@ -25,7 +25,7 @@ _Open Innovation_ as Career
 </a>
 </div>
 
-<div align="center">
+<div align="right">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jack20191124)
@@ -41,15 +41,11 @@ _Open Innovation_ as Career
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
 
-</div>
-
-<div align="right">
-
 [![](https://img.shields.io/badge/NO-VIM-red?style=for-the-badge)](https://github.com/emacs-evil/evil) [![](https://img.shields.io/badge/EMACS-brightgreen?style=for-the-badge&logoColor=white&logo=GitHub%20Sponsors)](https://www.gnu.org/software/emacs/) ![](https://img.shields.io/badge/F**K-TENCENT-black?style=for-the-badge) 
 
 </div>
 
-<img align="right" width="200" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
+<img align="right" width="500" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/94515620-4a82-40b3-a84a-cd899b131758">
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
 >    <img align="right" width="200" alt="keli" src="https://user-images.githubusercontent.com/16126939/180375123-c76ae86a-d292-476d-9141-ded2cfaea13c.png">
