@@ -244,7 +244,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799134500245209096><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/17bf6ef5797a31eb9c48cbe98476f06f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799178308927356928><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f01434eac61c970986e1fede462630e0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.7# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启！ 〓活动时间〓 2023年5月24日12:00 ~ 2023年...](https://t.bilibili.com/799178308927356928)
