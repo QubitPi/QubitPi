@@ -343,11 +343,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn why is authorization necessary in databases, how deep you can go with it, and at the end, we’ll tell you about our thorny path of impleme...](https://twitter.com/memgraphdb/status/1661418786547720192)
+- [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1661402916517756928)
 - [🚀 Cypher query language, Memgraph uses as well, enables the ingestion and manipulation of the graph storage, optimizing the high number of hops ins...](https://twitter.com/memgraphdb/status/1661378266978975744)
 - [🎓 Almost every company today has some kind of database as a single source of truth. Graph databases proved to be useful in almost every industry yo...](https://twitter.com/memgraphdb/status/1661359896015564803)
 - [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1661350589429686272)
-- [🚀 Building real-time analytical applications require capable infrastructure. When it comes to graph databases, find out why Memgraph is a fast and ...](https://twitter.com/memgraphdb/status/1661330452282589184)
-- [🚀 Compared to other solutions, Memgraph is a better choice because it is an in-memory graph database, meaning no time is lost to access data. https...](https://twitter.com/memgraphdb/status/1661312333904334850)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
