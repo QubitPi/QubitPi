@@ -343,11 +343,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [📢Final day, final call to come visit us on the @Linkurious + @nuix + @memgraphdb booth at the #gartnerDA conference https://t.co/Uyj2Q8qHuJ](https://twitter.com/memgraphdb/status/1661266177883004929)
 - [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1661254452555251712)
 - [❗️ With power being the most powerful asset, it’s still managed by inadequate tools and systems based on tabular data. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1661245393592524800)
 - [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1661222745957343234)
 - [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues h...](https://twitter.com/memgraphdb/status/1661076027706097673)
+- [🎓 Read how to use Memgaph to analyze malicious behaviors in PyPI packages, find out how to track and record any potential harmful points in project...](https://twitter.com/memgraphdb/status/1661058413906866176)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
