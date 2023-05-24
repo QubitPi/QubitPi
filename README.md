@@ -292,11 +292,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [180 Days - Mastering the concepts of NLP - Novice to Ninja [P]](https://www.reddit.com/r/MachineLearning/comments/13q7cvo/180_days_mastering_the_concepts_of_nlp_novice_to/)
 - [Interview with Juergen Schmidhuber, renowned ‘Father Of Modern AI’, says his life’s work won&#39;t lead to dystopia.](https://www.reddit.com/r/MachineLearning/comments/13q6k4a/interview_with_juergen_schmidhuber_renowned/)
 - [[D] Question about Stochastic Weight Averaging](https://www.reddit.com/r/MachineLearning/comments/13q559l/d_question_about_stochastic_weight_averaging/)
 - [[D] Is LLM hallucination an artifact of the training dataset?](https://www.reddit.com/r/MachineLearning/comments/13q4qtd/d_is_llm_hallucination_an_artifact_of_the/)
 - [[D] Getting a real world dataset instead of pristine “toy” dataset](https://www.reddit.com/r/MachineLearning/comments/13q4nvq/d_getting_a_real_world_dataset_instead_of/)
-- [[Project] NOCS Implementation in PyTorch](https://www.reddit.com/r/MachineLearning/comments/13q4aoy/project_nocs_implementation_in_pytorch/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
