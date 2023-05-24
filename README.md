@@ -377,11 +377,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Blog: Using OCI artifacts to distribute security profiles for seccomp, SELinux and AppArmor](https://kubernetes.io/blog/2023/05/24/oci-security-profiles/)
 - [Blog: Having fun with seccomp profiles on the edge](https://kubernetes.io/blog/2023/05/18/seccomp-profiles-edge/)
 - [Blog: Kubernetes 1.27: KMS V2 Moves to Beta](https://kubernetes.io/blog/2023/05/16/kms-v2-moves-to-beta/)
 - [Blog: Kubernetes 1.27: updates on speeding up Pod startup](https://kubernetes.io/blog/2023/05/15/speed-up-pod-startup/)
 - [Blog: Kubernetes 1.27: In-place Resource Resize for Kubernetes Pods &lpar;alpha&rpar;](https://kubernetes.io/blog/2023/05/12/in-place-pod-resize-alpha/)
-- [Blog: Kubernetes 1.27: Avoid Collisions Assigning Ports to NodePort Services](https://kubernetes.io/blog/2023/05/11/nodeport-dynamic-and-static-allocation/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
