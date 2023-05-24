@@ -300,9 +300,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- REDDIT-ML:START -->
 - [[D] Which BLAS library to choose for apple silicon?](https://www.reddit.com/r/MachineLearning/comments/13qp0s6/d_which_blas_library_to_choose_for_apple_silicon/)
 - [[R] tasksource-instruct: an open source instruction-tuning dataset focused on classification, with many tasks not in flan.](https://www.reddit.com/r/MachineLearning/comments/13qowlg/r_tasksourceinstruct_an_open_source/)
-- [[R] tasksource-instruct: open source instruction-tuning dataset focused on classification &lpar;wider coverage than Flan&rpar;](https://www.reddit.com/r/MachineLearning/comments/13qorw8/r_tasksourceinstruct_open_source/)
 - [[D] What is the best open source LLM so far?](https://www.reddit.com/r/MachineLearning/comments/13qnc80/d_what_is_the_best_open_source_llm_so_far/)
 - [[P] Finally some good profile pictures, released on github &lpar;Fsg-Pp&rpar; after a little over a month of development with my friend](https://www.reddit.com/r/MachineLearning/comments/13qmiau/p_finally_some_good_profile_pictures_released_on/)
+- [[R] Number of training steps in papers](https://www.reddit.com/r/MachineLearning/comments/13qk9f1/r_number_of_training_steps_in_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
