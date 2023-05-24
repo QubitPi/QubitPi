@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] &quot;State of GPT&quot; - Summarized notes from Andrej Karpathy&#39;s talk from yesterday.](https://www.reddit.com/r/MachineLearning/comments/13qutu9/n_state_of_gpt_summarized_notes_from_andrej/)
 - [[P] OpenAI is dead. New SOTA 4bit fine tuning QLoRa.](https://www.reddit.com/r/MachineLearning/comments/13qugw9/p_openai_is_dead_new_sota_4bit_fine_tuning_qlora/)
 - [[N] Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’](https://www.reddit.com/r/MachineLearning/comments/13qs34u/n_microsofts_azure_ai_studio_lets_developers/)
 - [[N] State of GPT by Andrej karpathy in MSBuild 2023](https://www.reddit.com/r/MachineLearning/comments/13qrtek/n_state_of_gpt_by_andrej_karpathy_in_msbuild_2023/)
 - [[N] Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.reddit.com/r/MachineLearning/comments/13qroe9/n_meta_ai_unleashes_megabyte_a_revolutionary/)
-- [[D] Can a simple NLP model learn to quote from text ?](https://www.reddit.com/r/MachineLearning/comments/13qrgzw/d_can_a_simple_nlp_model_learn_to_quote_from_text/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
