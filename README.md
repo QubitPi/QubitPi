@@ -247,11 +247,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799116461133004802><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/389386617165eea7733d74cb186b6030401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [《原神》3.7版本「决斗！召唤之巅！」更新说明](https://t.bilibili.com/799054665407791136)
-- [恭喜@是百里哦@_隐愚@朝玖阳等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/798420685287325844)
-- [#原神# 旅行者们好呀~3.7版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/798392329902751800)
-- [#原神# 亲爱的旅行者，「七圣召唤」活动：铸境研炼 即将开启~ 〓活动时间〓 3.7版本期间持续开放 〓参与条件〓 冒险等阶≥32级 完成魔神任务序章·第三幕「巨龙...](https://t.bilibili.com/798391814509821955)
-- [#原神# 亲爱的旅行者，「决斗！召唤之巅！」活动即将开启，参与获得活动专属武器「弓·鹮穿之喙」！ 〓整体玩法时间〓 2023/05/25 10:00 ~ 2023/06/12 03:59 〓...](https://t.bilibili.com/798391299114795012)
+- [#原神# #原神3.7# #原神QQ频道# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本QQ频道专属福利活动现已开启~ 欢迎旅行者前往评论区置顶链接即可参与活动~ 活动期...](https://t.bilibili.com/799134500245209096)
+- [《原神》拾枝杂谈-「绮良良：呜喵疾行」](https://t.bilibili.com/799131935900172313)
+- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.7版本内容招募活动「决斗！召唤之巅！」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自5月2...](https://t.bilibili.com/799116461133004802)
+- [#原神# #原神3.7# #决斗召唤之巅# 旅行者们好呀~「决斗！召唤之巅！」活动即将开启，一起来了解一下吧！](https://t.bilibili.com/799108730441433089)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「弓·飞雷之弦振」「法器·神乐之真意」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈...](https://t.bilibili.com/799106471288635398)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
