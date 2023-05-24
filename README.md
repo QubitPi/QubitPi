@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Finally some good profile pictures, released on github &lpar;Fsg-Pp&rpar; after a little over a month of development with my friend](https://www.reddit.com/r/MachineLearning/comments/13qmiau/p_finally_some_good_profile_pictures_released_on/)
 - [[R] Number of training steps in papers](https://www.reddit.com/r/MachineLearning/comments/13qk9f1/r_number_of_training_steps_in_papers/)
 - [[Project] PanML, a high level Python library for fast LLM experimentation](https://www.reddit.com/r/MachineLearning/comments/13qj9ye/project_panml_a_high_level_python_library_for/)
 - [[D] Diff between OpenAI official chatgpt and azure OpenAI playground chat](https://www.reddit.com/r/MachineLearning/comments/13qhyek/d_diff_between_openai_official_chatgpt_and_azure/)
 - [[D] Exctracting from documents that consist of text and tabular data for use with LLMs](https://www.reddit.com/r/MachineLearning/comments/13qhdmz/d_exctracting_from_documents_that_consist_of_text/)
-- [[P] Offline reinforcement learning - 10x faster than SOTA with evolutionary HPO](https://www.reddit.com/r/MachineLearning/comments/13qgzt5/p_offline_reinforcement_learning_10x_faster_than/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
