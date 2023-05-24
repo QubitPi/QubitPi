@@ -244,7 +244,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799054665407791136><img align='right' src='https://i0.hdslb.com/bfs/article/41ffd86e14a651cdbdf2b0a7386c00d257275828.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799116461133004802><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/389386617165eea7733d74cb186b6030401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [《原神》3.7版本「决斗！召唤之巅！」更新说明](https://t.bilibili.com/799054665407791136)
