@@ -321,11 +321,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Get ready to simplify your data management with Process Tempo! This graph application platform lets you build powerful data applications that work wit...](https://twitter.com/neo4j/status/1661492291259846656)
 - [Unlike relational databases and other tabular formats, a graph allows data scientists to visualize, explore, understand, and analyze connections betwe...](https://twitter.com/neo4j/status/1661386623727140865)
 - [Attention Devs and Data Scientists! #NODES2023 Call for papers is OPEN! 📢 Use cases for graphs in machine learning, applications, visualization, an...](https://twitter.com/neo4j/status/1661357903326990339)
 - [Check out the 3rd episode of #Graphversation: Neha Setia explores the power of using effective web scraping tools in conjunction with graph databases ...](https://twitter.com/neo4j/status/1661311147457273857)
 - [Re @cesarosoriof @Gartner_inc @BarrasaDV @Rabobank Cesar, hi! The talk will be available on-demand on the Gartner conference app.](https://twitter.com/neo4j/status/1661048676993712132)
+- [Jump into Graph: Creating Mock Data to get started with Graph Databases @jalakoo https://twitter.com/i/broadcasts/1YpKkgYjQZBKj](https://twitter.com/neo4j/status/1661039451580289025)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
