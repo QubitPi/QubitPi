@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Compression ratio with deep autoencoder for 3d images](https://www.reddit.com/r/MachineLearning/comments/13r1pdq/p_compression_ratio_with_deep_autoencoder_for_3d/)
+- [[P] Quality-Diversity with AI Feedback](https://www.reddit.com/r/MachineLearning/comments/13r1j7a/p_qualitydiversity_with_ai_feedback/)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://www.reddit.com/r/MachineLearning/comments/13r1hkg/qlora_efficient_finetuning_of_quantized_llms/)
 - [[P] Auto-GPT 3.5 Turbo + Reddit Hive Mind](https://www.reddit.com/r/MachineLearning/comments/13r0bhr/p_autogpt_35_turbo_reddit_hive_mind/)
 - [[D] Should we go with a single A6000 or 4XA4500 or any other alternative such as 2XA5000](https://www.reddit.com/r/MachineLearning/comments/13qxf3g/d_should_we_go_with_a_single_a6000_or_4xa4500_or/)
-- [[News] The First Entirely Automated News Site Powered by GPT-4, Aiming to Minimize Bias and Mitigate Social Polarization - Neural Times](https://www.reddit.com/r/MachineLearning/comments/13qxas8/news_the_first_entirely_automated_news_site/)
-- [[R] Triaging Patients With Artificial Intelligence for Respiratory Symptoms in Primary Care to Improve Patient Outcomes: A Retrospective Diagnostic Accuracy Study](https://www.reddit.com/r/MachineLearning/comments/13qwvl1/r_triaging_patients_with_artificial_intelligence/)
-- [[N] &quot;State of GPT&quot; - Summarized notes from Andrej Karpathy&#39;s talk from yesterday.](https://www.reddit.com/r/MachineLearning/comments/13qutu9/n_state_of_gpt_summarized_notes_from_andrej/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
