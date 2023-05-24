@@ -244,7 +244,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 #### Bilibili
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799116461133004802><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/389386617165eea7733d74cb186b6030401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799134500245209096><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/17bf6ef5797a31eb9c48cbe98476f06f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.7# #原神QQ频道# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本QQ频道专属福利活动现已开启~ 欢迎旅行者前往评论区置顶链接即可参与活动~ 活动期...](https://t.bilibili.com/799134500245209096)
