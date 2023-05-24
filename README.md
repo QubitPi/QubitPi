@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] State of GPT by Andrej karpathy in MSBuild 2023](https://www.reddit.com/r/MachineLearning/comments/13qrtek/n_state_of_gpt_by_andrej_karpathy_in_msbuild_2023/)
 - [[N] Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.reddit.com/r/MachineLearning/comments/13qroe9/n_meta_ai_unleashes_megabyte_a_revolutionary/)
 - [[D] Can a simple NLP model learn to quote from text ?](https://www.reddit.com/r/MachineLearning/comments/13qrgzw/d_can_a_simple_nlp_model_learn_to_quote_from_text/)
 - [[D] Sampling items with restrictions](https://www.reddit.com/r/MachineLearning/comments/13qr11q/d_sampling_items_with_restrictions/)
 - [[N] Spotify may be working on the possibility of providing AI-Generated podcast ads](https://www.reddit.com/r/MachineLearning/comments/13qq5ky/n_spotify_may_be_working_on_the_possibility_of/)
-- [[D] Which BLAS library to choose for apple silicon?](https://www.reddit.com/r/MachineLearning/comments/13qp0s6/d_which_blas_library_to_choose_for_apple_silicon/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
