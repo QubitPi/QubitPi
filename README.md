@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Exctracting from documents that consist of text and tabular data for use with LLMs](https://www.reddit.com/r/MachineLearning/comments/13qhdmz/d_exctracting_from_documents_that_consist_of_text/)
 - [[P] Offline reinforcement learning - 10x faster than SOTA with evolutionary HPO](https://www.reddit.com/r/MachineLearning/comments/13qgzt5/p_offline_reinforcement_learning_10x_faster_than/)
 - [&quot;[Discussion]&quot; 7 ways digital transformation drives small businesses success](https://www.reddit.com/r/MachineLearning/comments/13qecsa/discussion_7_ways_digital_transformation_drives/)
 - [[D] data science](https://www.reddit.com/r/MachineLearning/comments/13qeci0/d_data_science/)
 - [[D] Does performance on a simple model translate to performance on complex model?](https://www.reddit.com/r/MachineLearning/comments/13qccck/d_does_performance_on_a_simple_model_translate_to/)
-- [180 Days - Mastering the concepts of NLP - Novice to Ninja [P]](https://www.reddit.com/r/MachineLearning/comments/13q7cvo/180_days_mastering_the_concepts_of_nlp_novice_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
