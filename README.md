@@ -359,11 +359,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [What Engineers Can Expect at PlatformCon](https://superuser.openinfra.dev/articles/what-engineers-can-expect-at-platformcon/)
 - [A Beginner’s Guide to Network Mapping](https://superuser.openinfra.dev/articles/a-beginners-guide-to-network-mapping/)
 - [Meet the Headline Sponsor: Wind River](https://superuser.openinfra.dev/articles/meet-the-headline-sponsor-wind-river/)
 - [7 Best Practices for Optimizing OpenStack Costs](https://superuser.openinfra.dev/articles/7-best-practices-for-optimizing-openstack-costs/)
 - [Safeguarding Your OpenStack Instance: Complete Guide to Manually Backing Up Ephemeral and Block Storage](https://superuser.openinfra.dev/articles/safeguarding-your-openstack-instance-complete-guide-to-manually-backing-up-ephemeral-and-block-storage/)
-- [Wes Wilson, VP of Operations at the OpenInfra Foundation, Discusses Foundation’s Growth and Introduction of Project Funding Model](https://superuser.openinfra.dev/articles/wes-wilson-vp-of-operations-at-the-openinfra-foundation-discusses-foundations-growth-and-introduction-of-project-funding-model/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
