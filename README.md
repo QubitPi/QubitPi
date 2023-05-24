@@ -247,11 +247,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799134500245209096><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/17bf6ef5797a31eb9c48cbe98476f06f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.7# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启！ 〓活动时间〓 2023年5月24日12:00 ~ 2023年...](https://t.bilibili.com/799178308927356928)
+- [互动抽奖 #原神# #绮良良# 「您好，感谢选择狛荷屋！这是您的加急特快件，请您签收，喵。」 ——绮良良 关注@原神 并转发，我们将随机抽选122位旅行者赠送【狛荷...](https://t.bilibili.com/799162868254638099)
+- [恭喜@雪之下祢豆子@祈愿冬日暖阳@来自地狱的眼睛等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799162855637123080)
+- [恭喜@虹色结晶@Riendevide@陌昕Mxin等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799162855369736193)
 - [#原神# #原神3.7# #原神QQ频道# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本QQ频道专属福利活动现已开启~ 欢迎旅行者前往评论区置顶链接即可参与活动~ 活动期...](https://t.bilibili.com/799134500245209096)
-- [《原神》拾枝杂谈-「绮良良：呜喵疾行」](https://t.bilibili.com/799131935900172313)
-- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.7版本内容招募活动「决斗！召唤之巅！」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自5月2...](https://t.bilibili.com/799116461133004802)
-- [#原神# #原神3.7# #决斗召唤之巅# 旅行者们好呀~「决斗！召唤之巅！」活动即将开启，一起来了解一下吧！](https://t.bilibili.com/799108730441433089)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「弓·飞雷之弦振」「法器·神乐之真意」概率UP！ 活动期间，旅行者可以在「神铸赋形」活动祈...](https://t.bilibili.com/799106471288635398)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
