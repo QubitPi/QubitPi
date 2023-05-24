@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Should we go with a single A6000 or 4XA4500 or any other alternative such as 2XA5000](https://www.reddit.com/r/MachineLearning/comments/13qxf3g/d_should_we_go_with_a_single_a6000_or_4xa4500_or/)
+- [[News] The First Entirely Automated News Site Powered by GPT-4, Aiming to Minimize Bias and Mitigate Social Polarization - Neural Times](https://www.reddit.com/r/MachineLearning/comments/13qxas8/news_the_first_entirely_automated_news_site/)
 - [[R] Triaging Patients With Artificial Intelligence for Respiratory Symptoms in Primary Care to Improve Patient Outcomes: A Retrospective Diagnostic Accuracy Study](https://www.reddit.com/r/MachineLearning/comments/13qwvl1/r_triaging_patients_with_artificial_intelligence/)
 - [[N] &quot;State of GPT&quot; - Summarized notes from Andrej Karpathy&#39;s talk from yesterday.](https://www.reddit.com/r/MachineLearning/comments/13qutu9/n_state_of_gpt_summarized_notes_from_andrej/)
 - [[N] Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’](https://www.reddit.com/r/MachineLearning/comments/13qs34u/n_microsofts_azure_ai_studio_lets_developers/)
-- [[N] State of GPT by Andrej karpathy in MSBuild 2023](https://www.reddit.com/r/MachineLearning/comments/13qrtek/n_state_of_gpt_by_andrej_karpathy_in_msbuild_2023/)
-- [[N] Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.reddit.com/r/MachineLearning/comments/13qroe9/n_meta_ai_unleashes_megabyte_a_revolutionary/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
