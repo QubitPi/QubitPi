@@ -298,11 +298,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] RTXAi - an open-source AI model trained on volunteer user data](https://www.reddit.com/r/MachineLearning/comments/13qfcll/p_rtxai_an_opensource_ai_model_trained_on/)
 - [&quot;[Discussion]&quot; 7 ways digital transformation drives small businesses success](https://www.reddit.com/r/MachineLearning/comments/13qecsa/discussion_7_ways_digital_transformation_drives/)
 - [[D] data science](https://www.reddit.com/r/MachineLearning/comments/13qeci0/d_data_science/)
 - [[D] Does performance on a simple model translate to performance on complex model?](https://www.reddit.com/r/MachineLearning/comments/13qccck/d_does_performance_on_a_simple_model_translate_to/)
 - [180 Days - Mastering the concepts of NLP - Novice to Ninja [P]](https://www.reddit.com/r/MachineLearning/comments/13q7cvo/180_days_mastering_the_concepts_of_nlp_novice_to/)
-- [Interview with Juergen Schmidhuber, renowned ‘Father Of Modern AI’, says his life’s work won&#39;t lead to dystopia.](https://www.reddit.com/r/MachineLearning/comments/13q6k4a/interview_with_juergen_schmidhuber_renowned/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
