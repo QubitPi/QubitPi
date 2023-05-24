@@ -321,11 +321,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Attention Devs and Data Scientists! #NODES2023 Call for papers is OPEN! 📢 Use cases for graphs in machine learning, applications, visualization, an...](https://twitter.com/neo4j/status/1661357903326990339)
 - [Check out the 3rd episode of #Graphversation: Neha Setia explores the power of using effective web scraping tools in conjunction with graph databases ...](https://twitter.com/neo4j/status/1661311147457273857)
 - [Re @cesarosoriof @Gartner_inc @BarrasaDV @Rabobank Cesar, hi! The talk will be available on-demand on the Gartner conference app.](https://twitter.com/neo4j/status/1661048676993712132)
 - [Jump into Graph: Creating Mock Data to get started with Graph Databases @jalakoo https://twitter.com/i/broadcasts/1YpKkgYjQZBKj](https://twitter.com/neo4j/status/1661039451580289025)
 - [All databases are not created equal: but which one is the best match for your business? 👌 North America: https://okt.to/IzAQwh Europe: https://okt....](https://twitter.com/neo4j/status/1661031786946744320)
-- [NOW: @Gartner_inc Data &amp; Analytics Summit with @BarrasaDV and Martijn Vlak from @Rabobank on stage! #Neo4j #GartnerDA https://t.co/nrZaMj0nkU](https://twitter.com/neo4j/status/1661015147647991808)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
