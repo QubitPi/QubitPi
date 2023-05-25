@@ -372,11 +372,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Michael and the Bot - Live Coding with ChatGPT4 - Graph Layouts](https://www.youtube.com/watch?v=zK_8wYNyAec)
+- [Going Meta - a series on graphs, semantics and knowledge Ep 17](https://www.youtube.com/watch?v=w-PwMyzokSw)
 - [APAC Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=1-EZdN8TAvY)
 - [Jump into Graph: Creating Mock Data to get started with Graph Databases](https://www.youtube.com/watch?v=zHtJ_qNKA-Q)
 - [Software Dependencies - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=QOu5VAsCAoA)
-- [Graphversation Ep. 3 &lpar;How Web Scraping and Graph Databases Power Recommendation Engines&rpar;](https://www.youtube.com/watch?v=Smwr1U1xUQs)
-- [Jump into Graph: Creating Mock Data to get started with Graph Databases Trailer #shorts](https://www.youtube.com/watch?v=lOaCpTSNOmc)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
