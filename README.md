@@ -340,11 +340,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]eterministic diffusion models](https://www.reddit.com/r/MachineLearning/comments/13r3qao/deterministic_diffusion_models/)
 - [[P] Compression ratio with deep autoencoder for 3d images](https://www.reddit.com/r/MachineLearning/comments/13r1pdq/p_compression_ratio_with_deep_autoencoder_for_3d/)
 - [[P] Quality-Diversity with AI Feedback](https://www.reddit.com/r/MachineLearning/comments/13r1j7a/p_qualitydiversity_with_ai_feedback/)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://www.reddit.com/r/MachineLearning/comments/13r1hkg/qlora_efficient_finetuning_of_quantized_llms/)
 - [[P] Auto-GPT 3.5 Turbo + Reddit Hive Mind](https://www.reddit.com/r/MachineLearning/comments/13r0bhr/p_autogpt_35_turbo_reddit_hive_mind/)
-- [[D] Should we go with a single A6000 or 4XA4500 or any other alternative such as 2XA5000](https://www.reddit.com/r/MachineLearning/comments/13qxf3g/d_should_we_go_with_a_single_a6000_or_4xa4500_or/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
