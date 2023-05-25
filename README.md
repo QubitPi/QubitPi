@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] PhDs without tip-tier publications: what are you doing now?](https://www.reddit.com/r/MachineLearning/comments/13rm0uf/d_phds_without_tiptier_publications_what_are_you/)
 - [[N] Google DeepMind’s Flamingo is focusing on improving YouTube shorts&#39; descriptions for better discoverability](https://www.reddit.com/r/MachineLearning/comments/13rl49e/n_google_deepminds_flamingo_is_focusing_on/)
 - [[R] Gorilla: Large Language Model Connected with Massive APIs - Microsoft Research 2023 - Surpasses the performance of GPT-4 on writing API calls.](https://www.reddit.com/r/MachineLearning/comments/13rl3v9/r_gorilla_large_language_model_connected_with/)
 - [[D] Given the scaling up of deep learning methods, what are the remaining merits of staying in academia as an AI researcher?](https://www.reddit.com/r/MachineLearning/comments/13rl1q6/d_given_the_scaling_up_of_deep_learning_methods/)
 - [[D] Should Deepfakes be Open-Sourced?](https://www.reddit.com/r/MachineLearning/comments/13rkrsp/d_should_deepfakes_be_opensourced/)
-- [[R] Reasoning with Language Model is Planning with World Model - Shibo Hao et al UC San Diego - RAP on LLAMA-33B surpasses CoT on GPT-4 with 33% relative improvement in a plan generation setting!](https://www.reddit.com/r/MachineLearning/comments/13rkhzx/r_reasoning_with_language_model_is_planning_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
