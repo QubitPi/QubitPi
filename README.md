@@ -259,7 +259,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### miHoYo
 
 <!-- MIHOYO-NEWS:START -->
-
+- [《原神》3.7版本社区内容一览（持续更新）](https://bbs.mihoyo.com/ys/article/39670307)
+- [《原神》战绩3.7版本更新 | 七圣召唤模块优化](https://bbs.mihoyo.com/ys/article/39670306)
+- [「七圣召唤全民积分赛」首批赛事日历发布](https://bbs.mihoyo.com/ys/article/39663992)
+- [《原神》拾枝杂谈-「绮良良：呜喵疾行」](https://bbs.mihoyo.com/ys/article/39658085)
+- [「七圣召唤全民积分赛」赛事介绍](https://bbs.mihoyo.com/ys/article/39657070)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact
