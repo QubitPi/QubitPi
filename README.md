@@ -76,13 +76,10 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
 
-[![QubitPi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
 
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QubitPi&theme=vue&utcOffset=8)
-    
-</div>
+<img align="center" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
+
+<!-- [![QubitPi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023) -->
     
 ### Creator
 
