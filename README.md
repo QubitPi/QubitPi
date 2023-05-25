@@ -243,7 +243,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ---
 
-### Latest Genshin Impact News
+<h3 align="center">
+Latest Genshin Impact News
+</h3>
 
 #### Bilibili
 
