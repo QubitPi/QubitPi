@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Converting conversational language based conditions to structure if else format.](https://www.reddit.com/r/MachineLearning/comments/13rn2ok/d_converting_conversational_language_based/)
 - [[P] Open-source reproduction of the FLAN V2 dataset](https://www.reddit.com/r/MachineLearning/comments/13rmqx5/p_opensource_reproduction_of_the_flan_v2_dataset/)
 - [[D] PhDs without tip-tier publications: what are you doing now?](https://www.reddit.com/r/MachineLearning/comments/13rm0uf/d_phds_without_tiptier_publications_what_are_you/)
 - [[N] Google DeepMind’s Flamingo is focusing on improving YouTube shorts&#39; descriptions for better discoverability](https://www.reddit.com/r/MachineLearning/comments/13rl49e/n_google_deepminds_flamingo_is_focusing_on/)
 - [[R] Gorilla: Large Language Model Connected with Massive APIs - Microsoft Research 2023 - Surpasses the performance of GPT-4 on writing API calls.](https://www.reddit.com/r/MachineLearning/comments/13rl3v9/r_gorilla_large_language_model_connected_with/)
-- [[D] Given the scaling up of deep learning methods, what are the remaining merits of staying in academia as an AI researcher?](https://www.reddit.com/r/MachineLearning/comments/13rl1q6/d_given_the_scaling_up_of_deep_learning_methods/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
