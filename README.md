@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Am I the only one that thinks this behavior &lpar;cross-attention layers&rpar; is odd?](https://www.reddit.com/r/MachineLearning/comments/13rwh1c/d_am_i_the_only_one_that_thinks_this_behavior/)
 - [[D] Does NeurIPS 2023 have rebuttal phase?](https://www.reddit.com/r/MachineLearning/comments/13rry8o/d_does_neurips_2023_have_rebuttal_phase/)
 - [[P] Bart giving random characters as output](https://www.reddit.com/r/MachineLearning/comments/13rqxur/p_bart_giving_random_characters_as_output/)
 - [Gorilla: Large Language Model Connected with Massive APIs](https://www.reddit.com/r/MachineLearning/comments/13rpvgn/gorilla_large_language_model_connected_with/)
 - [Feature selection from 300+ features [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13rp9b2/feature_selection_from_300_features_discussion/)
-- [[D] does LORA actually mitigate catastrophic forgetting when fine tuning llms?](https://www.reddit.com/r/MachineLearning/comments/13rp5sa/d_does_lora_actually_mitigate_catastrophic/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
