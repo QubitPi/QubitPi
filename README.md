@@ -247,7 +247,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799178308927356928><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f01434eac61c970986e1fede462630e0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799503390691295237><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7f06a0bee5378c9f83bdcc68a746bb0b401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神决斗召唤之巅征集活动# #原神UP主激励计划# 《原神》「决斗！召唤之巅！」对战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 5月2...](https://t.bilibili.com/799503390691295237)
