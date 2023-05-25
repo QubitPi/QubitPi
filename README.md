@@ -384,11 +384,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Research scientists have developed many successful Graph Neural Networks to tackle Inductive learning. Most common are Graph Attention Network &lpar;G...](https://twitter.com/memgraphdb/status/1661692084594659328)
 - [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1661667422309367810)
 - [Do you remember when you joined @Twitter? We do! #Memgraph is seven years old, and we have been on Twitter from our very start :&rpar; #MyTwitterAnniversar...](https://twitter.com/memgraphdb/status/1661651519094005761)
 - [🎓 GQLAlchemy enables you to import existing tabular data into graph form with Python. Dealing with objects you are already familiar with can ease t...](https://twitter.com/memgraphdb/status/1661632443793788929)
 - [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1661618352773537795)
-- [🚀 Once the data is modeled and imported into Memgraph, run powerful analytics such as machine learning to generate graph results. https://memgraph....](https://twitter.com/memgraphdb/status/1661604006546866176)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
