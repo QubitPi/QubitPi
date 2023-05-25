@@ -1,0 +1,47 @@
+name: miHoYo News
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  miHoYo:
+    name: miHoYo News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "miHoYo news"
+          comment_tag_name: "MIHOYO-NEWS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/mihoyo/bbs/official/2/3/20/"
+  genshin-impact:
+    name: Genshin Impact News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "Genshin Impact news"
+          comment_tag_name: "GENSHIN-IMPACT-NEWS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/mihoyo/ys"
+  honkai-impact:
+    name: Honkai Impact News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20220723@gmail.com"
+          commit_message: "Honkai Impact news"
+          comment_tag_name: "HONKAI-IMPACT-NEWS"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/mihoyo/bh3/latest"
