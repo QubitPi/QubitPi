@@ -362,11 +362,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Michael and the Bot - Live Coding with ChatGPT4 - Graph Layouts https://twitter.com/i/broadcasts/1YpKkgYqXwBKj](https://twitter.com/neo4j/status/1661643510586691584)
+- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in 5 minutes for some live coding with #ChatGPT4, I&#39;ll try to learn today how graph...](https://twitter.com/mesirii/status/1661642037689479169)
 - [APAC Training Series - Intro to Neo4j https://twitter.com/i/broadcasts/1gqxvygRoaqJB](https://twitter.com/neo4j/status/1661590195735785473)
 - [Get ready to simplify your data management with Process Tempo! This graph application platform lets you build powerful data applications that work wit...](https://twitter.com/neo4j/status/1661492291259846656)
 - [Unlike relational databases and other tabular formats, a graph allows data scientists to visualize, explore, understand, and analyze connections betwe...](https://twitter.com/neo4j/status/1661386623727140865)
-- [Attention Devs and Data Scientists! #NODES2023 Call for papers is OPEN! 📢 Use cases for graphs in machine learning, applications, visualization, an...](https://twitter.com/neo4j/status/1661357903326990339)
-- [Check out the 3rd episode of #Graphversation: Neha Setia explores the power of using effective web scraping tools in conjunction with graph databases ...](https://twitter.com/neo4j/status/1661311147457273857)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
