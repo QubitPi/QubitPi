@@ -279,7 +279,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Genshin Impact
 
 <!-- HONKAI-IMPACT-NEWS:START -->
-
+- [玉骑士·月痕 | 扩充补给限时开启](https://www.bh3.com/news/27740)
+- [【补给】精准补给丨夜衔烛&amp;蓝焰银隼0019](https://www.bh3.com/news/27739)
+- [薪炎之律者 | 进阶补给限时开启](https://www.bh3.com/news/27738)
+- [封号名单（2023年5月22日）](https://www.bh3.com/news/27703)
+- [吼姆宝藏库 | 服装「画中的童话」复刻登场！](https://www.bh3.com/news/27669)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
