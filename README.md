@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there some research about improve the ability of small language model?](https://www.reddit.com/r/MachineLearning/comments/13rk5cq/d_is_there_some_research_about_improve_the/)
 - [[D] A call to implement a blind watermark removal app to defend civil liberty.](https://www.reddit.com/r/MachineLearning/comments/13rj2wp/d_a_call_to_implement_a_blind_watermark_removal/)
 - [New Large Language Model for use Commercial &lpar;Opensource&rpar; [N]](https://www.reddit.com/r/MachineLearning/comments/13rizo0/new_large_language_model_for_use_commercial/)
 - [[r] Brain-inspired learning in artificial neural networks: a review](https://www.reddit.com/r/MachineLearning/comments/13rinw8/r_braininspired_learning_in_artificial_neural/)
 - [OpenAI is now complaining about regulation of AI [D]](https://www.reddit.com/r/MachineLearning/comments/13rie0e/openai_is_now_complaining_about_regulation_of_ai_d/)
-- [[D] Transformers are so effective because they are discrete](https://www.reddit.com/r/MachineLearning/comments/13ri6tc/d_transformers_are_so_effective_because_they_are/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
