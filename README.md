@@ -258,7 +258,9 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/1af17010-90e0-48fe-9cce-c5005a59b955">)
 </h3>
 
-<img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
+<img align="left" width=35% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
+
+<img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/db7f0f0d-6113-43da-aa94-34a3f5dcae15">
 
 #### miHoYo (老米)
 
@@ -289,8 +291,6 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 - [封号名单（2023年5月22日）](https://www.bh3.com/news/27703)
 - [吼姆宝藏库 | 服装「画中的童话」复刻登场！](https://www.bh3.com/news/27669)
 <!-- HONKAI-IMPACT-NEWS:END -->
-
-<img width="302" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/db7f0f0d-6113-43da-aa94-34a3f5dcae15">
 
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
