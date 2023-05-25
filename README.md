@@ -343,7 +343,7 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 - [[D] Does NeurIPS 2023 have rebuttal phase?](https://www.reddit.com/r/MachineLearning/comments/13rry8o/d_does_neurips_2023_have_rebuttal_phase/)
 - [[P] Bart giving random characters as output](https://www.reddit.com/r/MachineLearning/comments/13rqxur/p_bart_giving_random_characters_as_output/)
 - [Gorilla: Large Language Model Connected with Massive APIs](https://www.reddit.com/r/MachineLearning/comments/13rpvgn/gorilla_large_language_model_connected_with/)
-- [Feature selection from 300+ features [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13rp9b2/feature_selection_from_300_features_discussion/)
+- [[D] What are some resources to brush up on my PyTorch skills?](https://www.reddit.com/r/MachineLearning/comments/13royi6/d_what_are_some_resources_to_brush_up_on_my/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
