@@ -290,6 +290,8 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 - [吼姆宝藏库 | 服装「画中的童话」复刻登场！](https://www.bh3.com/news/27669)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
+<img width="302" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/db7f0f0d-6113-43da-aa94-34a3f5dcae15">
+
 <br/>
 <br/>
 <br/>
