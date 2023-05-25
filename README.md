@@ -372,10 +372,10 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [APAC Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=1-EZdN8TAvY)
 - [Graphversation Ep. 4 - Causal inference powered by Knowledge Graph for applied security research](https://www.youtube.com/watch?v=e3svI7dHIbY)
 - [Michael and the Bot - Live Coding with ChatGPT4 - Graph Layouts](https://www.youtube.com/watch?v=zK_8wYNyAec)
 - [Going Meta - a series on graphs, semantics and knowledge Ep 17](https://www.youtube.com/watch?v=w-PwMyzokSw)
-- [APAC Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=1-EZdN8TAvY)
 - [Jump into Graph: Creating Mock Data to get started with Graph Databases](https://www.youtube.com/watch?v=zHtJ_qNKA-Q)
 <!-- NEO4J-YOUTUBE:END -->
 
