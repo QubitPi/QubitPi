@@ -412,11 +412,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Simplifying Kubernetes Development: Docker Desktop + Red Hat OpenShift](https://www.docker.com/blog/blog-docker-desktop-red-hat-openshift/)
+- [160% Year-over-Year Growth in Pulls of Red Hat’s Universal Base Image on Docker Hub](https://www.docker.com/blog/blog-red-hat-universal-base-image-hub-pulls-grow/)
 - [Boost Your Local Testing Game with the LambdaTest Tunnel Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
 - [Docker Init: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command/)
 - [Building a Local Application Development Environment for Kubernetes with the Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
-- [Docker Desktop 4.19: Compose v2, the Moby project, and more](https://www.docker.com/blog/docker-desktop-4-19/)
-- [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
 <!-- DOCKER-BLOG:END -->
 
 <h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
