@@ -254,7 +254,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [#原神# #原神3.7# #原神QQ频道# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本QQ频道专属福利活动现已开启~ 欢迎旅行者前往评论区置顶链接即可参与活动~ 活动期...](https://t.bilibili.com/799134500245209096)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
-### miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/1af17010-90e0-48fe-9cce-c5005a59b955">)
+### miHoYo News (米忽悠的诈骗日常<img width=2% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/1af17010-90e0-48fe-9cce-c5005a59b955">)
 
 
 #### miHoYo
@@ -277,7 +277,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [《原神》拾枝杂谈-「绮良良：呜喵疾行」](https://ys.mihoyo.com/main/news/detail/27731)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
-#### Genshin Impact
+#### Honkai Impact 3
 
 <!-- HONKAI-IMPACT-NEWS:START -->
 - [玉骑士·月痕 | 扩充补给限时开启](https://www.bh3.com/news/27740)
