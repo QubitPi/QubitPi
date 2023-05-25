@@ -269,7 +269,11 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 #### Genshin Impact
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
-
+- [《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启](https://ys.mihoyo.com/main/news/detail/27737)
+- [《原神》3.7版本QQ频道频道主激励计划现已开启](https://ys.mihoyo.com/main/news/detail/27736)
+- [《原神》3.7版本QQ频道专属福利活动以及游戏玩家激励计划现已开启](https://ys.mihoyo.com/main/news/detail/27735)
+- [#原神3.7版本激励计划-微信游戏圈话题活动现已开启](https://ys.mihoyo.com/main/news/detail/27734)
+- [《原神》拾枝杂谈-「绮良良：呜喵疾行」](https://ys.mihoyo.com/main/news/detail/27731)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 #### Genshin Impact
