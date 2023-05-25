@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What are some resources to brush up on my PyTorch skills?](https://www.reddit.com/r/MachineLearning/comments/13royi6/d_what_are_some_resources_to_brush_up_on_my/)
 - [[D] What is possible in terms of fine-tuning/continued training of existing models? Is there a way to train the model itself on new data and modify it&#39;s behavior? ...as opposed to a file you attach like a LoRA.](https://www.reddit.com/r/MachineLearning/comments/13rnndx/d_what_is_possible_in_terms_of/)
 - [[Project] Kirin: Text to Reality](https://www.reddit.com/r/MachineLearning/comments/13rngbp/project_kirin_text_to_reality/)
 - [[D] Converting conversational language based conditions to structure if else format.](https://www.reddit.com/r/MachineLearning/comments/13rn2ok/d_converting_conversational_language_based/)
 - [[P] Open-source reproduction of the FLAN V2 dataset](https://www.reddit.com/r/MachineLearning/comments/13rmqx5/p_opensource_reproduction_of_the_flan_v2_dataset/)
-- [[D] PhDs without tip-tier publications: what are you doing now?](https://www.reddit.com/r/MachineLearning/comments/13rm0uf/d_phds_without_tiptier_publications_what_are_you/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
