@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Using GPT-4 to automatically extract insights from data dashboards](https://www.reddit.com/r/MachineLearning/comments/13rhgt5/p_using_gpt4_to_automatically_extract_insights/)
+- [[P] We created a large YouTube Video Dataset to replace the YouTube Data API](https://www.reddit.com/r/MachineLearning/comments/13rh9yj/p_we_created_a_large_youtube_video_dataset_to/)
 - [[D] Do tracking algorithms that use a Kalman Filter &lpar;like SORT and DeepSORT&rpar; increase the framerate of the system?](https://www.reddit.com/r/MachineLearning/comments/13rgy1g/d_do_tracking_algorithms_that_use_a_kalman_filter/)
 - [[P] Uptraining a pretrained model using company data?](https://www.reddit.com/r/MachineLearning/comments/13rgmyt/p_uptraining_a_pretrained_model_using_company_data/)
 - [[D] Can Vector Neurons be used to achive rotational equivariance in 2D CNNs?](https://www.reddit.com/r/MachineLearning/comments/13rfd15/d_can_vector_neurons_be_used_to_achive_rotational/)
-- [[D] For those of you who work in ML/AI, what are your job and workday like?](https://www.reddit.com/r/MachineLearning/comments/13rct07/d_for_those_of_you_who_work_in_mlai_what_are_your/)
-- [[P] Interested in working on creating an LLM?](https://www.reddit.com/r/MachineLearning/comments/13rch84/p_interested_in_working_on_creating_an_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
