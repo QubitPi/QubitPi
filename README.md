@@ -237,7 +237,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
-<img width='50%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
+<img width='40%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
 
 <!-- BILIBILI-TIPPED-VIDEOS:START --><p><a href=https://www.bilibili.com/video/BV1mh4y1J7Tq><img src=http://i0.hdslb.com/bfs/archive/892eb4d6a18adc12538fcd603826bc59edfd06f9.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1mh4y1J7Tq>盛典与慧业.zip</a> </p><br><p><a href=https://www.bilibili.com/video/BV1Zs4y1376k><img src=http://i0.hdslb.com/bfs/archive/a147858e7969ebda7f15f5e4d40d3a05820f421b.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Zs4y1376k>【原神小剧场】就让我吓唬吓唬小可莉吧！</a> </p><br><p><a href=https://www.bilibili.com/video/BV1tz4y1a79s><img src=http://i0.hdslb.com/bfs/archive/a99ac4a893e8c42247b9e9929f578fdf751f8dde.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1tz4y1a79s>妮露：……角？</a> </p><br><p><a href=https://www.bilibili.com/video/BV1Ps4y137Gb><img src=http://i2.hdslb.com/bfs/archive/d49eaceda6bec18085687bde353411b70bbfc140.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Ps4y137Gb>甘 刻 成 双</a> </p><br><p><a href=https://www.bilibili.com/video/BV1os4y197Rk><img src=http://i2.hdslb.com/bfs/archive/d9022fe4074404f64007cc59cf16441747a6f4cf.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1os4y197Rk>白术先生，救救孩子吧！</a> </p><br><!-- BILIBILI-TIPPED-VIDEOS:END -->
 
