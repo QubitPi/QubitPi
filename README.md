@@ -254,6 +254,26 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [#原神# #原神3.7# #原神QQ频道# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本QQ频道专属福利活动现已开启~ 欢迎旅行者前往评论区置顶链接即可参与活动~ 活动期...](https://t.bilibili.com/799134500245209096)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
+### miHoYo News (米忽悠的诈骗日常)
+
+#### miHoYo
+
+<!-- MIHOYO-NEWS:START -->
+
+<!-- MIHOYO-NEWS:END -->
+
+#### Genshin Impact
+
+<!-- GENSHIN-IMPACT-NEWS:START -->
+
+<!-- GENSHIN-IMPACT-NEWS:END -->
+
+#### Genshin Impact
+
+<!-- HONKAI-IMPACT-NEWS:START -->
+
+<!-- HONKAI-IMPACT-NEWS:END -->
+
 ### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
 
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
