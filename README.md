@@ -509,7 +509,7 @@ Git Data Analytics - Everything is Datable
 </div>
 
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
-<img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="47%">
+<a href="https://leetcode.com/_Jack_/"><img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="47%"></a>
 
 <div align="center">
     
