@@ -339,9 +339,9 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Do tracking algorithms that use a Kalman Filter &lpar;like SORT and DeepSORT&rpar; increase the framerate of the system?](https://www.reddit.com/r/MachineLearning/comments/13rgy1g/d_do_tracking_algorithms_that_use_a_kalman_filter/)
 - [[P] Uptraining a pretrained model using company data?](https://www.reddit.com/r/MachineLearning/comments/13rgmyt/p_uptraining_a_pretrained_model_using_company_data/)
 - [[D] Can Vector Neurons be used to achive rotational equivariance in 2D CNNs?](https://www.reddit.com/r/MachineLearning/comments/13rfd15/d_can_vector_neurons_be_used_to_achive_rotational/)
-- [[D] Please suggest me some portfolio project ideas that will land me a Data scientist interview for sure at a healthcare provider company.](https://www.reddit.com/r/MachineLearning/comments/13rf0d2/d_please_suggest_me_some_portfolio_project_ideas/)
 - [[D] For those of you who work in ML/AI, what are your job and workday like?](https://www.reddit.com/r/MachineLearning/comments/13rct07/d_for_those_of_you_who_work_in_mlai_what_are_your/)
 - [[P] Interested in working on creating an LLM?](https://www.reddit.com/r/MachineLearning/comments/13rch84/p_interested_in_working_on_creating_an_llm/)
 <!-- REDDIT-ML:END -->
