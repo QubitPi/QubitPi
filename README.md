@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Interested in working on creating an LLM?](https://www.reddit.com/r/MachineLearning/comments/13rch84/p_interested_in_working_on_creating_an_llm/)
 - [[P] Taichi NeRF : Develop and Deploy Instant NGP without writing CUDA](https://www.reddit.com/r/MachineLearning/comments/13rbij5/p_taichi_nerf_develop_and_deploy_instant_ngp/)
 - [[R] LECO: Learnable Episodic Count for Task-Specific Intrinsic Reward](https://www.reddit.com/r/MachineLearning/comments/13rbch6/r_leco_learnable_episodic_count_for_taskspecific/)
 - [[D] Has there been any work done to predict the output of a hidden neuron and output layer by using a heuristic?](https://www.reddit.com/r/MachineLearning/comments/13r8gzk/d_has_there_been_any_work_done_to_predict_the/)
 - [[Discussion] Guidance on training ML models on Kubernetes](https://www.reddit.com/r/MachineLearning/comments/13r670t/discussion_guidance_on_training_ml_models_on/)
-- [[D] Looking for a better multilingual embedding model](https://www.reddit.com/r/MachineLearning/comments/13r5x6s/d_looking_for_a_better_multilingual_embedding/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
