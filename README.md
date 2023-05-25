@@ -362,11 +362,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Our customer insights ❤ You can read more experiences with #Neo4j in @Gartner_Peer https://okt.to/XceqyD https://t.co/04U3aLuczX](https://twitter.com/neo4j/status/1661749177758658561)
 - [GraphSummit Madrid is kicking off with David Blanco from Telefónica! Bienvenidos! 📍 #GraphSummit2023 #neo4j https://t.co/yHBtjSF9cA](https://twitter.com/neo4j/status/1661712976011722754)
 - [How do we feel? Nostalgic about the last NODES, but thrilled for what #NODES2023 will bring to you &lpar;and us!&rpar;. Will you be joining us? 🖥🌎🙋 htt...](https://twitter.com/neo4j/status/1661703854616989696)
 - [Michael and the Bot - Live Coding with ChatGPT4 - Graph Layouts https://twitter.com/i/broadcasts/1YpKkgYqXwBKj](https://twitter.com/neo4j/status/1661643510586691584)
 - [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: Join me in 5 minutes for some live coding with #ChatGPT4, I&#39;ll try to learn today how graph...](https://twitter.com/mesirii/status/1661642037689479169)
-- [RT Tomaz Bratanic: I&#39;ve written a blog post on how to get started with the newly added Cypher Search in @LangChainAI to retrieve information from grap...](https://twitter.com/tb_tomaz/status/1661622969985105920)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
