@@ -340,7 +340,7 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 
 <!-- REDDIT-ML:START -->
 - [[P] Bart giving random characters as output](https://www.reddit.com/r/MachineLearning/comments/13rqxur/p_bart_giving_random_characters_as_output/)
-- [Gorilla: Large Language Model Connected with Massive APIs](https://www.reddit.com/r/MachineLearning/comments/13rpvgn/gorilla_large_language_model_connected_with/)
+- [[D] does LORA actually mitigate catastrophic forgetting when fine tuning llms?](https://www.reddit.com/r/MachineLearning/comments/13rp5sa/d_does_lora_actually_mitigate_catastrophic/)
 - [[D] What are some resources to brush up on my PyTorch skills?](https://www.reddit.com/r/MachineLearning/comments/13royi6/d_what_are_some_resources_to_brush_up_on_my/)
 - [[Project] Kirin: Text to Reality](https://www.reddit.com/r/MachineLearning/comments/13rngbp/project_kirin_text_to_reality/)
 - [[P] Open-source reproduction of the FLAN V2 dataset](https://www.reddit.com/r/MachineLearning/comments/13rmqx5/p_opensource_reproduction_of_the_flan_v2_dataset/)
