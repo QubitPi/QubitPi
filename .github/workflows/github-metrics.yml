@@ -129,3 +129,13 @@ jobs:
           plugin_starlists_limit_languages: 100
           plugin_starlists_shuffle_repositories: yes
           plugin_starlists_only: Design, Documentation, OpenStack & Virtualization
+
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          plugin_leetcode_user: _Jack_
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
