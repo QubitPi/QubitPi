@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Should Deepfakes be Open-Sourced?](https://www.reddit.com/r/MachineLearning/comments/13rkrsp/d_should_deepfakes_be_opensourced/)
 - [[R] Reasoning with Language Model is Planning with World Model - Shibo Hao et al UC San Diego - RAP on LLAMA-33B surpasses CoT on GPT-4 with 33% relative improvement in a plan generation setting!](https://www.reddit.com/r/MachineLearning/comments/13rkhzx/r_reasoning_with_language_model_is_planning_with/)
 - [[D] Is there some research about improve the ability of small language model?](https://www.reddit.com/r/MachineLearning/comments/13rk5cq/d_is_there_some_research_about_improve_the/)
 - [[D] A call to implement a blind watermark removal app to defend civil liberty.](https://www.reddit.com/r/MachineLearning/comments/13rj2wp/d_a_call_to_implement_a_blind_watermark_removal/)
 - [New Large Language Model for use Commercial &lpar;Opensource&rpar; [N]](https://www.reddit.com/r/MachineLearning/comments/13rizo0/new_large_language_model_for_use_commercial/)
-- [[r] Brain-inspired learning in artificial neural networks: a review](https://www.reddit.com/r/MachineLearning/comments/13rinw8/r_braininspired_learning_in_artificial_neural/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
