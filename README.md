@@ -339,10 +339,10 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Gorilla: Large Language Model Connected with Massive APIs](https://www.reddit.com/r/MachineLearning/comments/13rpvgn/gorilla_large_language_model_connected_with/)
 - [Feature selection from 300+ features [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13rp9b2/feature_selection_from_300_features_discussion/)
 - [[D] does LORA actually mitigate catastrophic forgetting when fine tuning llms?](https://www.reddit.com/r/MachineLearning/comments/13rp5sa/d_does_lora_actually_mitigate_catastrophic/)
 - [[D] What are some resources to brush up on my PyTorch skills?](https://www.reddit.com/r/MachineLearning/comments/13royi6/d_what_are_some_resources_to_brush_up_on_my/)
-- [[D] What is possible in terms of fine-tuning/continued training of existing models? Is there a way to train the model itself on new data and modify it&#39;s behavior? ...as opposed to a file you attach like a LoRA.](https://www.reddit.com/r/MachineLearning/comments/13rnndx/d_what_is_possible_in_terms_of/)
 - [[Project] Kirin: Text to Reality](https://www.reddit.com/r/MachineLearning/comments/13rngbp/project_kirin_text_to_reality/)
 <!-- REDDIT-ML:END -->
 
