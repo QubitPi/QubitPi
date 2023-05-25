@@ -266,7 +266,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [「七圣召唤全民积分赛」赛事介绍](https://bbs.mihoyo.com/ys/article/39657070)
 <!-- MIHOYO-NEWS:END -->
 
-#### Genshin Impact
+#### Genshin Impact(打死不玩崩铁)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
 - [《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启](https://ys.mihoyo.com/main/news/detail/27737)
