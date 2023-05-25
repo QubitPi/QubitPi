@@ -244,10 +244,8 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 ---
 
 <h3 align="center">
-Latest Genshin Impact News
+Latest Genshin Impact News (Bilibili)
 </h3>
-
-#### Bilibili
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799178308927356928><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f01434eac61c970986e1fede462630e0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
