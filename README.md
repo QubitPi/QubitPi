@@ -341,9 +341,9 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 <!-- REDDIT-ML:START -->
 - [[N] AI-related stocks just surged $300 BILLION in after-hours trading](https://www.reddit.com/r/MachineLearning/comments/13r8i4y/n_airelated_stocks_just_surged_300_billion_in/)
 - [[D] Has there been any work done to predict the output of a hidden neuron and output layer by using a heuristic?](https://www.reddit.com/r/MachineLearning/comments/13r8gzk/d_has_there_been_any_work_done_to_predict_the/)
-- [[R] Parallel Attention and Feed-Forward Net Design for Pre-training and Inference on Transformers](https://www.reddit.com/r/MachineLearning/comments/13r7l3r/r_parallel_attention_and_feedforward_net_design/)
 - [[Discussion] Guidance on training ML models on Kubernetes](https://www.reddit.com/r/MachineLearning/comments/13r670t/discussion_guidance_on_training_ml_models_on/)
 - [[D] Looking for a better multilingual embedding model](https://www.reddit.com/r/MachineLearning/comments/13r5x6s/d_looking_for_a_better_multilingual_embedding/)
+- [[D]eterministic diffusion models](https://www.reddit.com/r/MachineLearning/comments/13r3qao/deterministic_diffusion_models/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
