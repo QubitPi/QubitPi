@@ -272,11 +272,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (打死不玩崩铁)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
-- [《原神》过场动画-「流星知愿」](https://ys.mihoyo.com/main/news/detail/27769)
 - [微博《原神》3.7版本创作者激励计划现已开启](https://ys.mihoyo.com/main/news/detail/27750)
 - [「决斗！召唤之巅！」对战视频征集活动](https://ys.mihoyo.com/main/news/detail/27748)
 - [《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启](https://ys.mihoyo.com/main/news/detail/27737)
 - [《原神》3.7版本QQ频道频道主激励计划现已开启](https://ys.mihoyo.com/main/news/detail/27736)
+- [《原神》3.7版本QQ频道专属福利活动以及游戏玩家激励计划现已开启](https://ys.mihoyo.com/main/news/detail/27735)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 #### Honkai Impact 3 (隔壁三崩子)
