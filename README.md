@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Face recognition models require different thresholds for different races? [D]](https://www.reddit.com/r/MachineLearning/comments/13s80ev/face_recognition_models_require_different/)
+- [[D] Which open source LLM for semantic search can be legally used for commercial purposes?](https://www.reddit.com/r/MachineLearning/comments/13s7zwj/d_which_open_source_llm_for_semantic_search_can/)
 - [Bert embeddings in c++ [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13s7df6/bert_embeddings_in_c_discussion/)
 - [[D] Best Practices for Installing PyTorch to Align with Specific CUDA Versions](https://www.reddit.com/r/MachineLearning/comments/13s6x3b/d_best_practices_for_installing_pytorch_to_align/)
 - [[R] The False Promise of Imitating Proprietary LLMs](https://www.reddit.com/r/MachineLearning/comments/13s6pb7/r_the_false_promise_of_imitating_proprietary_llms/)
-- [[D] Judged Negatively for AI](https://www.reddit.com/r/MachineLearning/comments/13s32d4/d_judged_negatively_for_ai/)
-- [[D] Am I the only one that thinks this behavior &lpar;cross-attention layers&rpar; is odd?](https://www.reddit.com/r/MachineLearning/comments/13rwh1c/d_am_i_the_only_one_that_thinks_this_behavior/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
