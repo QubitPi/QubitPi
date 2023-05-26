@@ -145,8 +145,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 > **With HashiCorp + OpenStack Cloud, ~~Docker + k8s~~ are no longer needed**
 >
-> - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves with Docker
-> - With on-demand cloud, we no longer need to manage resource isolation anymore, because instances offered by cloud are already containers themselves. We now _manages business logics_
+> - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves
+> - With on-demand cloud, resource isolations are assumed NOT managed. We instead _manages business logics_ with efficiency and immutability
 
 [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure) | [Chef](https://qubitpi.github.io/chef-web-docs/) | ~~[Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)~~ | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
