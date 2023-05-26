@@ -147,7 +147,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 > **With HashiCorp + OpenStack Cloud, are ~~Docker & k8s~~ still needed?**
 
-[Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
+[Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure) | [Chef](https://qubitpi.github.io/chef-web-docs/) | ~~[Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)~~ | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
 ##### HashiCorp
 
