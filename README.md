@@ -114,11 +114,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 
-<p>
-<a href="https://www.bilibili.com/video/BV1B94y197ew?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="center" width=100% alt="yuanshen-summer-2022" src="https://user-images.githubusercontent.com/16126939/180381755-89c80d63-4c19-40de-9e47-9e0c230b0d0a.gif">
-</a>
-</p>
+<img align="center" width=100% alt="722" src="https://github.com/QubitPi/QubitPi/assets/16126939/d186aa32-f933-4600-a803-d005c3ba40f2">
 
 <div align="center">
 
