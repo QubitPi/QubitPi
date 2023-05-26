@@ -74,12 +74,9 @@ I belive in creating software using the open source way, a set of principles bui
 Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
 
 By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
-
-<div align="center">
     
-<img align="center" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
-
-</div>
+<img align="left" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
+<img width='40%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
 
 <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
     
@@ -232,8 +229,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 <!-- BILIBILI-COLUMNS:END -->
 
 ### Recently Liked-Saved-Tipped (一键三连) Videos
-
-<img width='40%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
 
 <!-- BILIBILI-TIPPED-VIDEOS:START --><p><a href=https://www.bilibili.com/video/BV1mh4y1J7Tq><img src=http://i0.hdslb.com/bfs/archive/892eb4d6a18adc12538fcd603826bc59edfd06f9.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1mh4y1J7Tq>盛典与慧业.zip</a> </p><br><p><a href=https://www.bilibili.com/video/BV1Zs4y1376k><img src=http://i0.hdslb.com/bfs/archive/a147858e7969ebda7f15f5e4d40d3a05820f421b.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Zs4y1376k>【原神小剧场】就让我吓唬吓唬小可莉吧！</a> </p><br><p><a href=https://www.bilibili.com/video/BV1tz4y1a79s><img src=http://i0.hdslb.com/bfs/archive/a99ac4a893e8c42247b9e9929f578fdf751f8dde.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1tz4y1a79s>妮露：……角？</a> </p><br><p><a href=https://www.bilibili.com/video/BV1Ps4y137Gb><img src=http://i2.hdslb.com/bfs/archive/d49eaceda6bec18085687bde353411b70bbfc140.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1Ps4y137Gb>甘 刻 成 双</a> </p><br><p><a href=https://www.bilibili.com/video/BV1os4y197Rk><img src=http://i2.hdslb.com/bfs/archive/d9022fe4074404f64007cc59cf16441747a6f4cf.jpg width='10%'></a> <a href=https://www.bilibili.com/video/BV1os4y197Rk>白术先生，救救孩子吧！</a> </p><br><!-- BILIBILI-TIPPED-VIDEOS:END -->
 
