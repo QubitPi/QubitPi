@@ -378,11 +378,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Extracting value from graph data seems like so much more hassle than it needs to be. Datasets are often useful only when big enough, and at that ...](https://twitter.com/memgraphdb/status/1662129481199255552)
-- [❗️ Although some naive text-searching solutions could be built with a graph database like Memgraph, Elasticsearch is better at offering fine-grained...](https://twitter.com/memgraphdb/status/1662125693860208641)
 - [🎓 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1662103042693509123)
 - [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1662084671914606595)
 - [🚀 The speed of the two most frequent database tasks is determined by memory read/write cycles. Memgraph is an in-memory database in order to levera...](https://twitter.com/memgraphdb/status/1662055229574074368)
+- [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1662037111581597696)
+- [🖊️ The data model is really important because it can determine the memory usage, and the speed of your graph database and it can also determine wh...](https://twitter.com/memgraphdb/status/1662031322628382721)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
