@@ -74,9 +74,9 @@ I belive in creating software using the open source way, a set of principles bui
 Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
 
 By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
-    
+
 <img align="left" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
-<img width='40%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
+<img width='35%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
 
 <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%">
     
