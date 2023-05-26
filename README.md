@@ -145,6 +145,8 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 #### Immutable Infrastructure<sup>![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white) ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)</sup>
 
+> With HashiCorp + OpenStack Cloud, are Docker & k8s still needed?
+
 [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure) | [Chef](https://qubitpi.github.io/chef-web-docs/) | [Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/) | [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
 ##### HashiCorp
@@ -160,7 +162,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ##### Virtualization
 
-[Docker](https://qubitpi.github.io/docker-docs/) | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
+~~[Docker](https://qubitpi.github.io/docker-docs/)~~ | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
