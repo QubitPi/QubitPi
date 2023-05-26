@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] sama-drives-california: automotive semantic segmentation dataset &lpar;25k frames&rpar; now available](https://www.reddit.com/r/MachineLearning/comments/13sd4ku/r_samadrivescalifornia_automotive_semantic/)
 - [[D] LLMs in Robotics](https://www.reddit.com/r/MachineLearning/comments/13scb1b/d_llms_in_robotics/)
 - [Voyager: An LLM-powered learning agent in Minecraft](https://www.reddit.com/r/MachineLearning/comments/13sc0pp/voyager_an_llmpowered_learning_agent_in_minecraft/)
 - [[D] Will you trust AI to analyze the rise or fall of assets?](https://www.reddit.com/r/MachineLearning/comments/13sbim2/d_will_you_trust_ai_to_analyze_the_rise_or_fall/)
 - [[D] LSTM](https://www.reddit.com/r/MachineLearning/comments/13s9v7x/d_lstm/)
-- [DeepMind: Model evaluation for extreme risks](https://www.reddit.com/r/MachineLearning/comments/13s8z41/deepmind_model_evaluation_for_extreme_risks/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
