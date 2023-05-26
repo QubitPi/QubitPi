@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LLMs in Robotics](https://www.reddit.com/r/MachineLearning/comments/13scb1b/d_llms_in_robotics/)
 - [Voyager: An LLM-powered learning agent in Minecraft](https://www.reddit.com/r/MachineLearning/comments/13sc0pp/voyager_an_llmpowered_learning_agent_in_minecraft/)
 - [[D] Will you trust AI to analyze the rise or fall of assets?](https://www.reddit.com/r/MachineLearning/comments/13sbim2/d_will_you_trust_ai_to_analyze_the_rise_or_fall/)
 - [[D] LSTM](https://www.reddit.com/r/MachineLearning/comments/13s9v7x/d_lstm/)
 - [DeepMind: Model evaluation for extreme risks](https://www.reddit.com/r/MachineLearning/comments/13s8z41/deepmind_model_evaluation_for_extreme_risks/)
-- [[N] Neuralink just received its FDA&#39;s green light to proceed with its first-in-human clinical trials](https://www.reddit.com/r/MachineLearning/comments/13s85rb/n_neuralink_just_received_its_fdas_green_light_to/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
