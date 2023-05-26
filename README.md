@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best Practices for Installing PyTorch to Align with Specific CUDA Versions](https://www.reddit.com/r/MachineLearning/comments/13s6x3b/d_best_practices_for_installing_pytorch_to_align/)
 - [[R] The False Promise of Imitating Proprietary LLMs](https://www.reddit.com/r/MachineLearning/comments/13s6pb7/r_the_false_promise_of_imitating_proprietary_llms/)
 - [[D] Judged Negatively for AI](https://www.reddit.com/r/MachineLearning/comments/13s32d4/d_judged_negatively_for_ai/)
 - [[D] Am I the only one that thinks this behavior &lpar;cross-attention layers&rpar; is odd?](https://www.reddit.com/r/MachineLearning/comments/13rwh1c/d_am_i_the_only_one_that_thinks_this_behavior/)
 - [Can a 4-bit quantized GGML model be turned BACK into a PyTorch .PT model while maintaining the 4-bit quantization? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13rsijn/can_a_4bit_quantized_ggml_model_be_turned_back/)
-- [[D] Does NeurIPS 2023 have rebuttal phase?](https://www.reddit.com/r/MachineLearning/comments/13rry8o/d_does_neurips_2023_have_rebuttal_phase/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
