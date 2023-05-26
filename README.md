@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [DeepMind: Model evaluation for extreme risks](https://www.reddit.com/r/MachineLearning/comments/13s8z41/deepmind_model_evaluation_for_extreme_risks/)
 - [[N] Neuralink just received its FDA&#39;s green light to proceed with its first-in-human clinical trials](https://www.reddit.com/r/MachineLearning/comments/13s85rb/n_neuralink_just_received_its_fdas_green_light_to/)
 - [Face recognition models require different thresholds for different races? [D]](https://www.reddit.com/r/MachineLearning/comments/13s80ev/face_recognition_models_require_different/)
 - [Bert embeddings in c++ [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13s7df6/bert_embeddings_in_c_discussion/)
 - [[D] Best Practices for Installing PyTorch to Align with Specific CUDA Versions](https://www.reddit.com/r/MachineLearning/comments/13s6x3b/d_best_practices_for_installing_pytorch_to_align/)
-- [[R] The False Promise of Imitating Proprietary LLMs](https://www.reddit.com/r/MachineLearning/comments/13s6pb7/r_the_false_promise_of_imitating_proprietary_llms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
