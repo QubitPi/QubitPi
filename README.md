@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] My Project TypeNinja.io Your AI Companion for Enhanced Typing](https://www.reddit.com/r/MachineLearning/comments/13sh82x/p_my_project_typeninjaio_your_ai_companion_for/)
 - [[N] Abu Dhabi&#39;s TTI releases open-source Falcon-7B and -40B LLMs](https://www.reddit.com/r/MachineLearning/comments/13sdz8p/n_abu_dhabis_tti_releases_opensource_falcon7b_and/)
 - [[R] sama-drives-california: automotive semantic segmentation dataset &lpar;25k frames&rpar; now available](https://www.reddit.com/r/MachineLearning/comments/13sd4ku/r_samadrivescalifornia_automotive_semantic/)
 - [[D] LLMs in Robotics](https://www.reddit.com/r/MachineLearning/comments/13scb1b/d_llms_in_robotics/)
 - [Voyager: An LLM-powered learning agent in Minecraft](https://www.reddit.com/r/MachineLearning/comments/13sc0pp/voyager_an_llmpowered_learning_agent_in_minecraft/)
-- [[D] LSTM](https://www.reddit.com/r/MachineLearning/comments/13s9v7x/d_lstm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
