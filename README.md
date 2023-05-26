@@ -115,13 +115,11 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-### I Learn Technologies Everyday through Open Source [![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
+### I Learn Technologies Everyday through Open Source
 
-> Because I believe _Open Source Implies Open Information Freely Available_
+> Because I believe _Open Sourced Information is Closest to Truth_
     
-[![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-
-[![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
+[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
 
 </div>
 
