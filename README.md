@@ -120,7 +120,7 @@ By tapping into the collective talent and innovation of open source communities,
 > Because I believe _Open Source Implies Open Information Freely Available_
     
 [![OpenStack](https://img.shields.io/badge/OpenStack-EA1F45?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=for-the-badge&logo=GraphQL&logoColor=white)](https://www.graphql.com/)
+
 [![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/)
 
 </div>
@@ -166,7 +166,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
-#### Frontend Technologies <sup>![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
+#### Frontend Technologies <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://www.graphql.com/) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
 [Memgraph Orb](https://qubitpi.github.io/memgraph-orb/) | [GraphQL Relay](https://qubitpi.github.io/relay/)
 
@@ -178,7 +178,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/) | [JavaScript Tutorial](https://javascript.info/) | [Monorepo](https://qubitpi.github.io/monorepo.tools/)
 
-#### Backend Dev <sup>![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
+#### Backend Dev <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://www.graphql.com/) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
 
 [Jersey](https://qubitpi.github.io/jersey/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/)
 
