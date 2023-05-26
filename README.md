@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799905025718485092><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c79e95eedd634963a467eaf46553523e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799969957296209952><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64d7026042205e17f89f73ad69d1ea5e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #宵宫# #流星知愿# 《原神》过场动画-「流星知愿」现已发布~ https://www.bilibili.com/video/BV1Zh4y1x7RL 孩子的梦想简单又直白。当她想看流...](https://t.bilibili.com/799969957296209952)
