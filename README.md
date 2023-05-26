@@ -313,11 +313,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Foundation models for reasoning on charts](http://ai.googleblog.com/2023/05/foundation-models-for-reasoning-on.html)
 - [Barkour: Benchmarking animal-level agility with quadruped robots](http://ai.googleblog.com/2023/05/barkour-benchmarking-animal-level.html)
 - [Differentially private clustering for large-scale datasets](http://ai.googleblog.com/2023/05/differentially-private-clustering-for.html)
 - [Google Research at I/O 2023](http://ai.googleblog.com/2023/05/google-research-at-io-2023.html)
 - [Resolving code review comments with ML](http://ai.googleblog.com/2023/05/resolving-code-review-comments-with-ml.html)
-- [Making ML models differentially private: Best practices and open challenges](http://ai.googleblog.com/2023/05/making-ml-models-differentially-private.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
