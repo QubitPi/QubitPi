@@ -356,11 +356,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @lyonwj](https://twitter.com/neo4j/status/1662118046952042498)
+- [Do you know what&#39;s the difference between graph analytics and graph data science? Data Science Solution Architect Katie Roberts, offers a clear explan...](https://twitter.com/neo4j/status/1662099215282057218)
 - [RT Siddhant Agarwal: Recently did the 1st session of APAC Training Series on Intro to Neo4j. 😀 Check the recording here: https://lnkd.in/gHjDUt2n S...](https://twitter.com/sidagarwal04/status/1662077495229784064)
 - [http://GraphStuff.fm: Innovation Vertex Interview with Michela Ledwidge &lpar;CEO&amp;Founder @MOD&rpar;, Graphie Award 2023 https://twitter.com/i/broadcasts/1mnxeR...](https://twitter.com/neo4j/status/1661990812912357377)
 - [NOW: Foro Regio &lpar;PROSA&rpar; in Monterrey, Mexico. #frauddetection #neo4j https://t.co/U2vASr8lat](https://twitter.com/neo4j/status/1661903379830906881)
-- [#GraphGPT converts unstructured natural language into a knowledge graph; How? watch this video: https://okt.to/HEDigq #Neo4j #graphdatabase](https://twitter.com/neo4j/status/1661819186606120973)
-- [Our customer insights ❤ You can read more experiences with #Neo4j in @Gartner_Peer https://okt.to/XceqyD https://t.co/04U3aLuczX](https://twitter.com/neo4j/status/1661749177758658561)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
