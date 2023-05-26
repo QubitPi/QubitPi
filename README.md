@@ -356,11 +356,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [http://GraphStuff.fm: Innovation Vertex Interview with Michela Ledwidge &lpar;CEO&amp;Founder @MOD&rpar;, Graphie Award 2023 https://twitter.com/i/broadcasts/1mnxeR...](https://twitter.com/neo4j/status/1661990812912357377)
 - [NOW: Foro Regio &lpar;PROSA&rpar; in Monterrey, Mexico. #frauddetection #neo4j https://t.co/U2vASr8lat](https://twitter.com/neo4j/status/1661903379830906881)
 - [#GraphGPT converts unstructured natural language into a knowledge graph; How? watch this video: https://okt.to/HEDigq #Neo4j #graphdatabase](https://twitter.com/neo4j/status/1661819186606120973)
 - [Our customer insights ❤ You can read more experiences with #Neo4j in @Gartner_Peer https://okt.to/XceqyD https://t.co/04U3aLuczX](https://twitter.com/neo4j/status/1661749177758658561)
 - [GraphSummit Madrid is kicking off with David Blanco from Telefónica! Bienvenidos! 📍 #GraphSummit2023 #neo4j https://t.co/yHBtjSF9cA](https://twitter.com/neo4j/status/1661712976011722754)
+- [How do we feel? Nostalgic about the last NODES, but thrilled for what #NODES2023 will bring to you &lpar;and us!&rpar;. Will you be joining us? 🖥🌎🙋 htt...](https://twitter.com/neo4j/status/1661703854616989696)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
