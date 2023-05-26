@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799905025718485092><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c79e95eedd634963a467eaf46553523e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #宵宫# #流星知愿# 《原神》过场动画-「流星知愿」现已发布~ https://www.bilibili.com/video/BV1Zh4y1x7RL 孩子的梦想简单又直白。当她想看流...](https://t.bilibili.com/799969957296209952)
+- [《原神》过场动画-「流星知愿」](https://t.bilibili.com/799966976327811184)
 - [恭喜@小玖回@BovinLiu@qwwqerrrrrr等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799905025718485092)
 - [恭喜@无缘中奖体质@南宫旋玥@921728202等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799533940806254760)
 - [#原神# #原神决斗召唤之巅征集活动# #原神UP主激励计划# 《原神》「决斗！召唤之巅！」对战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 5月2...](https://t.bilibili.com/799503390691295237)
-- [#原神# #原神3.7# #决斗召唤之巅# 亲爱的旅行者，《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启！ 〓活动时间〓 2023年5月24日12:00 ~ 2023年...](https://t.bilibili.com/799178308927356928)
-- [互动抽奖 #原神# #绮良良# 「您好，感谢选择狛荷屋！这是您的加急特快件，请您签收，喵。」 ——绮良良 关注@原神 并转发，我们将随机抽选122位旅行者赠送【狛荷...](https://t.bilibili.com/799162868254638099)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <h3 align="center">
