@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [First post! The exciting prospect of AI in Architecture and construction [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13sloh2/first_post_the_exciting_prospect_of_ai_in/)
 - [[D] Overhauling research citations with GPT4?](https://www.reddit.com/r/MachineLearning/comments/13sigt7/d_overhauling_research_citations_with_gpt4/)
 - [ML-powered content recommendation are mostly terrible [D]](https://www.reddit.com/r/MachineLearning/comments/13si63b/mlpowered_content_recommendation_are_mostly/)
 - [[D] Roles based Model knowledge?](https://www.reddit.com/r/MachineLearning/comments/13shu7k/d_roles_based_model_knowledge/)
 - [[R] Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory](https://www.reddit.com/r/MachineLearning/comments/13shsz4/r_ghost_in_the_minecraft_generally_capable_agents/)
-- [[D] Mining OpenAI for competitor data](https://www.reddit.com/r/MachineLearning/comments/13shrc6/d_mining_openai_for_competitor_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
