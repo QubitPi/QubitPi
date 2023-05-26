@@ -258,7 +258,7 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <h3 align="center">
-miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/1af17010-90e0-48fe-9cce-c5005a59b955">)
+miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/cb0efd85-0916-42a6-b431-a05acb0078d8">)
 </h3>
 
 <img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
