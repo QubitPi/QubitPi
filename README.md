@@ -263,7 +263,7 @@ miHoYo News (米忽悠的诈骗日常<img width=3% alt="智慧的眼神" src="ht
 
 <img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
 
-<img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/db7f0f0d-6113-43da-aa94-34a3f5dcae15">
+<img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/f0a73731-ada3-4c88-9415-97f305a9cf37">
 
 #### miHoYo (老米)
 
