@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Training and serving GPT-2 using Keras-CV and Tensorflow](https://www.reddit.com/r/MachineLearning/comments/13t19l3/p_training_and_serving_gpt2_using_kerascv_and/)
 - [Prediction of range [D]](https://www.reddit.com/r/MachineLearning/comments/13syn8r/prediction_of_range_d/)
 - [[D] Learning Theory](https://www.reddit.com/r/MachineLearning/comments/13stje5/d_learning_theory/)
 - [[R] Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://www.reddit.com/r/MachineLearning/comments/13ssbp5/r_sophia_a_scalable_stochastic_secondorder/)
 - [[P] Instruction following codegen model you can use commercially](https://www.reddit.com/r/MachineLearning/comments/13srh94/p_instruction_following_codegen_model_you_can_use/)
-- [Landmark Attention: Random-Access Infinite Context Length for Transformers](https://www.reddit.com/r/MachineLearning/comments/13srbl7/landmark_attention_randomaccess_infinite_context/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
