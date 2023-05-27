@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Red Pajamas Instruct 7B. Is it really that bad or some some ggml/quantization artifact? Vicuna-7b has no issue writing stories and even does basic text transformation. Yet RP refuses to do anything most of the time. It does generate a story if you run it as a raw model, but gets into a loop.](https://www.reddit.com/r/MachineLearning/comments/13tfx6u/d_red_pajamas_instruct_7b_is_it_really_that_bad/)
+- [Has Anyone Else Tried AI-Powered &quot;Newsletters&quot;? [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13tfs5p/has_anyone_else_tried_aipowered_newsletters/)
 - [[N] ChatGPT Plugins Open Security Holes From PDFs, Websites](https://www.reddit.com/r/MachineLearning/comments/13td5dn/n_chatgpt_plugins_open_security_holes_from_pdfs/)
 - [[D] To engineers in the field: Advanced degree an absolute necessity?](https://www.reddit.com/r/MachineLearning/comments/13tavcn/d_to_engineers_in_the_field_advanced_degree_an/)
 - [[D] Essentials of Multi-modal/Visual-Language models &lpar;A video&rpar;](https://www.reddit.com/r/MachineLearning/comments/13tat72/d_essentials_of_multimodalvisuallanguage_models_a/)
-- [[P]Audio classification for EDM/Techno](https://www.reddit.com/r/MachineLearning/comments/13t99dx/paudio_classification_for_edmtechno/)
-- [[P] Why the Original Transformer Figure Is Wrong, And Some Other Interesting Tidbits](https://www.reddit.com/r/MachineLearning/comments/13t8e80/p_why_the_original_transformer_figure_is_wrong/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
