@@ -378,11 +378,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1662485314689019904)
-- [🔎 The data in the insurance domain is highly interconnected. Numerous insurance claims consist of multiple objects, such as people involved, their ...](https://twitter.com/memgraphdb/status/1662465433935413248)
-- [❗️ One issue many companies face today is that they have a lot of siloed data, making it difficult to draw conclusions or reason about the processes...](https://twitter.com/memgraphdb/status/1662455615761817601)
 - [Building something from scratch is rarely a good idea. Especially in the rich world of web technologies full of solutions for problems we didn’t even...](https://twitter.com/memgraphdb/status/1662417615099158530)
 - [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine https://memgraph.com/reco...](https://twitter.com/memgraphdb/status/1662399495991091201)
+- [❗️ Using Elasticsearch and Memgraph as two completely separated entities and storing the same data in an unrelated fashion is very complicated. http...](https://twitter.com/memgraphdb/status/1662392198246047746)
+- [🚀 Expert teams in the field are often tasked with creating schedules to make optimal build processes for the company’s products. https://memgraph....](https://twitter.com/memgraphdb/status/1662381630642614274)
+- [📜 The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1662343124717383681)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
