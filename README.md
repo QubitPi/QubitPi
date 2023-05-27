@@ -241,7 +241,7 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/799969957296209952><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/64d7026042205e17f89f73ad69d1ea5e401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/800245187393618055><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #菲谢尔# #生日快乐# 本皇女既已收到了你赠予的无上至宝，便也有东西要给你。 我之眷属，奥兹！将祝圣之人引至我座前！ 流落世间的旅者啊，我在...](https://t.bilibili.com/800245187393618055)
