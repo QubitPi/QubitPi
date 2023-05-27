@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Train LLMs based on website content](https://www.reddit.com/r/MachineLearning/comments/13t52tl/r_train_llms_based_on_website_content/)
 - [[D] What Evaluation Metrics that actually matters ?](https://www.reddit.com/r/MachineLearning/comments/13t4kul/d_what_evaluation_metrics_that_actually_matters/)
 - [[D] What’s the best way to read papers on Kindle?](https://www.reddit.com/r/MachineLearning/comments/13t3d1j/d_whats_the_best_way_to_read_papers_on_kindle/)
 - [[D] Not eligible for many AI masters programs due to linear algebra requirement](https://www.reddit.com/r/MachineLearning/comments/13t3cq2/d_not_eligible_for_many_ai_masters_programs_due/)
 - [[R] Heatmap learning of Keypoints](https://www.reddit.com/r/MachineLearning/comments/13t341w/r_heatmap_learning_of_keypoints/)
-- [[D] Is GNN or large graph model promising for an interpretable knowledge-intensive system?](https://www.reddit.com/r/MachineLearning/comments/13t291u/d_is_gnn_or_large_graph_model_promising_for_an/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
