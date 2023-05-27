@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Heatmap learning of Keypoints](https://www.reddit.com/r/MachineLearning/comments/13t341w/r_heatmap_learning_of_keypoints/)
 - [[D] Is GNN or large graph model promising for an interpretable knowledge-intensive system?](https://www.reddit.com/r/MachineLearning/comments/13t291u/d_is_gnn_or_large_graph_model_promising_for_an/)
 - [[P] Training and serving GPT-2 using Keras-CV and Tensorflow](https://www.reddit.com/r/MachineLearning/comments/13t19l3/p_training_and_serving_gpt2_using_kerascv_and/)
 - [Prediction of range [D]](https://www.reddit.com/r/MachineLearning/comments/13syn8r/prediction_of_range_d/)
 - [[D] Learning Theory](https://www.reddit.com/r/MachineLearning/comments/13stje5/d_learning_theory/)
-- [[R] Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training](https://www.reddit.com/r/MachineLearning/comments/13ssbp5/r_sophia_a_scalable_stochastic_secondorder/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
