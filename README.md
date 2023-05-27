@@ -333,11 +333,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] SOTA LLM distillation?](https://www.reddit.com/r/MachineLearning/comments/13t7g12/d_sota_llm_distillation/)
 - [[D] Feedback needed: building Git for data that commits only diffs &lpar;for storage efficiency on large repositories&rpar;, even without full checkouts of the datasets](https://www.reddit.com/r/MachineLearning/comments/13t6f6v/d_feedback_needed_building_git_for_data_that/)
 - [[R] Train LLMs based on website content](https://www.reddit.com/r/MachineLearning/comments/13t52tl/r_train_llms_based_on_website_content/)
 - [[D] What Evaluation Metrics that actually matters ?](https://www.reddit.com/r/MachineLearning/comments/13t4kul/d_what_evaluation_metrics_that_actually_matters/)
 - [[D] What’s the best way to read papers on Kindle?](https://www.reddit.com/r/MachineLearning/comments/13t3d1j/d_whats_the_best_way_to_read_papers_on_kindle/)
-- [[D] Not eligible for many AI masters programs due to linear algebra requirement](https://www.reddit.com/r/MachineLearning/comments/13t3cq2/d_not_eligible_for_many_ai_masters_programs_due/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
