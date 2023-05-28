@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Historical Tidbits about Transformers: About LayerNorm Variants in the Original Transformer Paper &amp; Schmidhuber&#39;s Fast Weight Programmers from the 1990&#39;s](https://www.reddit.com/r/MachineLearning/comments/13u20mn/p_historical_tidbits_about_transformers_about/)
 - [[P]Visualizing a neural network.](https://www.reddit.com/r/MachineLearning/comments/13u1je2/pvisualizing_a_neural_network/)
 - [[P] GPT-4 coding chats, in your terminal](https://www.reddit.com/r/MachineLearning/comments/13tzcni/p_gpt4_coding_chats_in_your_terminal/)
 - [[D] TCG card recognizer app](https://www.reddit.com/r/MachineLearning/comments/13tvtxt/d_tcg_card_recognizer_app/)
 - [[P] GirlfriendGPT - build your own AI girlfriend](https://www.reddit.com/r/MachineLearning/comments/13tvo7v/p_girlfriendgpt_build_your_own_ai_girlfriend/)
-- [[P] talk-codebase is a powerful tool for chatting with your codebase](https://www.reddit.com/r/MachineLearning/comments/13tucgj/p_talkcodebase_is_a_powerful_tool_for_chatting/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
