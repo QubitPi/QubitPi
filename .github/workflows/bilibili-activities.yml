@@ -35,9 +35,9 @@ jobs:
           custom_tags: "uploador/author/"
           # extract video cover image
           item_exec: |
-            post.feedName = post.description.match(/交易失败的菊菊/) ? "(一天不看浑身难受，看了之后难受一天) <img src='https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true' width='40px'>" : "";
+            # post.feedName = post.description.match(/交易失败的菊菊/) ? "(一天不看浑身难受，看了之后难受一天) <img src='https://github.com/QubitPi/QubitPi/blob/master/%E5%8E%9F%E7%A5%9E/%E5%8F%AF%E8%8E%89-2.png?raw=true' width='40px'>" : "";
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<p><a href=$url><img src=$description width='10%'></a> <a href=$url>$title</a> $feedName</p><br>"
+          template: "<p><a href=$url><img src=$description width='20%'></a> <a href=$url>$title</a> $feedName</p><br>"
           disable_html_encoding: true
   columns:
     name: Columns
