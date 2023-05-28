@@ -320,8 +320,8 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [[R] UMat: Uncertainty-Aware Single Image High Resolution Material Capture](https://www.reddit.com/r/MachineLearning/comments/13u49sz/r_umat_uncertaintyaware_single_image_high/)
 - [[P] Would love your opinion on this](https://www.reddit.com/r/MachineLearning/comments/13u49q7/p_would_love_your_opinion_on_this/)
 - [Are AI developers not paying enough attention to this? [D]](https://www.reddit.com/r/MachineLearning/comments/13u3qdy/are_ai_developers_not_paying_enough_attention_to/)
-- [[P] How to build a Song Recommendation Engine with LangChain](https://www.reddit.com/r/MachineLearning/comments/13u3c54/p_how_to_build_a_song_recommendation_engine_with/)
 - [[P] Sophia &lpar;Programmed-out&rpar;](https://www.reddit.com/r/MachineLearning/comments/13u36x6/p_sophia_programmedout/)
+- [[D] Models for unstructured text-to-table](https://www.reddit.com/r/MachineLearning/comments/13u2sys/d_models_for_unstructured_texttotable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
