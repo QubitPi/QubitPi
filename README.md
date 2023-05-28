@@ -335,11 +335,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] TCG card recognizer app](https://www.reddit.com/r/MachineLearning/comments/13tvtxt/d_tcg_card_recognizer_app/)
 - [[P] GirlfriendGPT - build your own AI girlfriend](https://www.reddit.com/r/MachineLearning/comments/13tvo7v/p_girlfriendgpt_build_your_own_ai_girlfriend/)
 - [[P] talk-codebase is a powerful tool for chatting with your codebase](https://www.reddit.com/r/MachineLearning/comments/13tucgj/p_talkcodebase_is_a_powerful_tool_for_chatting/)
 - [[P] Plakakia &lpar;tiles in Greek&rpar; is an image tiling library I made for quickly generating tiles from images. It would be great if people try it and give some feedback / raise issues on github. It&#39;s the first open-source library I ever made, so hopefully I learn from more experienced people.](https://www.reddit.com/r/MachineLearning/comments/13tu09b/p_plakakia_tiles_in_greek_is_an_image_tiling/)
 - [Uncensored models, fine-tuned without artificial moralizing, such as “Wizard-Vicuna-13B-Uncensored-HF” performs well at LLM eval benchmarks even when compared with larger 65B, 40B, 30B models. Has there been any studies about how censorship handicaps a model’s capabilities?](https://www.reddit.com/r/MachineLearning/comments/13tqvdn/uncensored_models_finetuned_without_artificial/)
-- [[D] &lpar;Interview question&rpar; What happens if we add L3 term to a logistic regression model?](https://www.reddit.com/r/MachineLearning/comments/13tq3p8/d_interview_question_what_happens_if_we_add_l3/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
