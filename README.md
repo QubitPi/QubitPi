@@ -249,7 +249,8 @@ Latest Genshin Impact News (Bilibili)
 - [互动抽奖 #原神# #宵宫# #流星知愿# 《原神》过场动画-「流星知愿」现已发布~ https://www.bilibili.com/video/BV1Zh4y1x7RL 孩子的梦想简单又直白。当她想看流...](https://t.bilibili.com/799969957296209952)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
-<br/>
+<img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
+-----------------------------------
 
 <h3 align="center">
 miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/cb0efd85-0916-42a6-b431-a05acb0078d8">)
@@ -292,9 +293,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
-
-<img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
------------------------------------
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
