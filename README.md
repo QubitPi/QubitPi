@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] NVIDIA and GPT-4 create a Minecraft AI that codes and self-improves.](https://www.reddit.com/r/MachineLearning/comments/13ub8nq/r_nvidia_and_gpt4_create_a_minecraft_ai_that/)
 - [What type of Accuracy is used in papers [R]](https://www.reddit.com/r/MachineLearning/comments/13ub1xp/what_type_of_accuracy_is_used_in_papers_r/)
 - [Anticipating Technological Advancements: The Changing Landscape of Job Automation by 2040 [R] [D] [N]](https://www.reddit.com/r/MachineLearning/comments/13ua621/anticipating_technological_advancements_the/)
 - [[P] Genetic Algorithm gots stuck - Variation of Nurses problem](https://www.reddit.com/r/MachineLearning/comments/13u8krw/p_genetic_algorithm_gots_stuck_variation_of/)
 - [[R] UMat: Uncertainty-Aware Single Image High Resolution Material Capture](https://www.reddit.com/r/MachineLearning/comments/13u49sz/r_umat_uncertaintyaware_single_image_high/)
-- [[P] Would love your opinion on this](https://www.reddit.com/r/MachineLearning/comments/13u49q7/p_would_love_your_opinion_on_this/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
