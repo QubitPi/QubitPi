@@ -293,20 +293,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [吼姆宝藏库 | 服装「画中的童话」复刻登场！](https://www.bh3.com/news/27669)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
-### My [ ![YouTube](https://img.shields.io/badge/YouTube-FF0100?style=for-the-badge&logo=AdblockPlus&logoColor=white) ](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w) Channel
-
-<!-- YOUTUBE-CHANNEL:START -->
-- [[GLog] Spiral Abyss Floor 12, Chamber 3, Early Mar. Period](https://www.youtube.com/watch?v=3y04IzewxDs)
-- [[GLog] Spiral Abyss Floor 12, Chamber 3, Late Feb. Period](https://www.youtube.com/watch?v=qrrWuqFv16M)
-- [[Sangonomiya Kokomi Story Quest] Warriors&#39; Dreams Like Spring Grass Renewing](https://www.youtube.com/watch?v=7LF81N_bBd0)
-- [[Trump Part 13 - Medicare and Social Security &amp; Closing Statements] The Third Presidential Debate](https://www.youtube.com/watch?v=e3IqN8mc-0Q)
-- [[Trump Part 12 - National Debt] The Third Presidential Debate, October 19, 2016](https://www.youtube.com/watch?v=_R5rasHhHDI)
-<!-- YOUTUBE-CHANNEL:END -->
-
-<!-- <a href="https://www.bilibili.com/video/BV17D4y1t74j/"><img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/201353469-c685a887-4c39-482f-a73c-356543e1865f.png"></a>
-
-**I'm thriving on creating a future where people never dominate the machine and machines won't slave the human; instead they both become happier together**. -->
-
 ---
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
