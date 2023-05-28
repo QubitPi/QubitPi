@@ -329,11 +329,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Uncensored models, fine-tuned without artificial moralizing, such as “Wizard-Vicuna-13B-Uncensored-HF” performs well at LLM eval benchmarks even when compared with larger 65B, 40B, 30B models. Has there been any studies about how censorship handicaps a model’s capabilities?](https://www.reddit.com/r/MachineLearning/comments/13tqvdn/uncensored_models_finetuned_without_artificial/)
 - [[D] &lpar;Interview question&rpar; What happens if we add L3 term to a logistic regression model?](https://www.reddit.com/r/MachineLearning/comments/13tq3p8/d_interview_question_what_happens_if_we_add_l3/)
 - [[R] Using LLMs for multi-hop document reranking with only a few examples.](https://www.reddit.com/r/MachineLearning/comments/13tpnb5/r_using_llms_for_multihop_document_reranking_with/)
 - [[N] DataPerf Challenges](https://www.reddit.com/r/MachineLearning/comments/13tknlk/n_dataperf_challenges/)
 - [[D] Hybrid forecasting framework ARIMA-LSTM](https://www.reddit.com/r/MachineLearning/comments/13tih4f/d_hybrid_forecasting_framework_arimalstm/)
-- [Understanding tflite&#39;s quantization process in detail [P]](https://www.reddit.com/r/MachineLearning/comments/13tghzv/understanding_tflites_quantization_process_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
