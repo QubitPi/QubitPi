@@ -31,7 +31,7 @@ jobs:
           commit_message: "New Liked-Saved-Tipped Videos"
           comment_tag_name: "BILIBILI-TIPPED-VIDEOS"
           max_post_count: "5"
-          feed_list: "https://rsshub.app/bilibili/user/coin/1771839550"
+          feed_list: "https://rsshub.app/bilibili/fav/1771839550/1596916250"
           custom_tags: "uploador/author/"
           # extract video cover image
           item_exec: |
