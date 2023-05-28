@@ -225,12 +225,6 @@ My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badg
 - [[原神_撒花]坎蒂丝生日快乐[原神_撒花]](https://t.bilibili.com/791283020854198355)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
-### Columns
-
-<!-- BILIBILI-COLUMNS:START -->
-- [孤云阁 F4 初级打法](https://www.bilibili.com/read/cv18323080)
-<!-- BILIBILI-COLUMNS:END -->
-
 ### Recently Liked-Saved-Tipped (一键三连) Videos
 
 | **原神** | **隔壁三崩子** |
