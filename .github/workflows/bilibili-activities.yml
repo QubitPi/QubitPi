@@ -36,7 +36,7 @@ jobs:
           # extract video cover image
           item_exec: |
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<p><a href=$url><img src=$description width='30%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
+          template: "<p><a href=$url><img src=$description width='45%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
           disable_html_encoding: true
   trippled-videos-honkai-impact-3:
     name: Trippled Videos (Honkai Impact 3)
@@ -55,21 +55,8 @@ jobs:
           # extract video cover image
           item_exec: |
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
-          template: "<p><a href=$url><img src=$description width='30%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
+          template: "<p><a href=$url><img src=$description width='45%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
           disable_html_encoding: true
-  columns:
-    name: Columns
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Bilibili Article Published"
-          comment_tag_name: "BILIBILI-COLUMNS"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/bilibili/user/article/1771839550"
   genshin-impact-activities:
     name: Genshin Impact Activities
     runs-on: ubuntu-latest
