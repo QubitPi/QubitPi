@@ -343,7 +343,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [Join 5.15 Technologies in this hands-on tutorial where you&#39;ll learn how to create a visually stunning front-end interface for Cypher queries. With D3....](https://twitter.com/neo4j/status/1662503967123820545)
 - [RT Nur Aini Rakhmawati: See you at Graph Meetup @neo4j Jakarta! https://t.co/vZd5pIeXVk](https://twitter.com/nuraini/status/1662452104978649088)
 - [👉This post will take you through setting up a fully managed Kafka cluster running in Confluent Cloud and creating a streaming data pipeline that ca...](https://twitter.com/neo4j/status/1662443573227266050)
-- [Re @lyonwj](https://twitter.com/neo4j/status/1662118046952042498)
+- [Re @lyonwj https://twitter.com/PythonHub/status/1661088394678550559](https://twitter.com/neo4j/status/1662118046952042498)
 - [Do you know what&#39;s the difference between graph analytics and graph data science? Data Science Solution Architect Katie Roberts, offers a clear explan...](https://twitter.com/neo4j/status/1662099215282057218)
 <!-- NEO4J-TWITTER:END -->
 
