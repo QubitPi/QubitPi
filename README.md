@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/800245187393618055><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/800647200626442260><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/88b2abb888e0b99843858fc933881678401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@Snow丶bird@ELy__@一口两个哒宰等50位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/800647200626442260)
