@@ -362,11 +362,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ The data lineage graph is the single source of truth about your organization’s data. https://memgraph.com/blog/manage-all-your-data-lineage-need...](https://twitter.com/memgraphdb/status/1662892243387023366)
-- [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. ht...](https://twitter.com/memgraphdb/status/1662868338517712896)
 - [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1662854246255960071)
 - [🚀 Sometimes in life, you have to roll up your sleeves and do the dirty work yourself. It&#39;s exhausting but pays off big time. 💪 ➡️ https://memg...](https://twitter.com/memgraphdb/status/1662847701552177152)
 - [🔎 When designing sketches of processing jobs that need to be carried out, we draw jobs as nodes and connections between them as relationships that ...](https://twitter.com/memgraphdb/status/1662807940930076673)
+- [There are a lot of visualization options out there. Some have a very wide use case, others are popular but out of date, while the rest have performanc...](https://twitter.com/memgraphdb/status/1662800136513245184)
+- [📜 Since GDPR came into force, a domino effect of sorts has taken place: many jurisdictions have used it as the model for their own data protection ...](https://twitter.com/memgraphdb/status/1662779249323921409)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
