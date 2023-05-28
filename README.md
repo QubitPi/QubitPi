@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/800245187393618055><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神表情包# 《原神》表情包「派蒙的画作第24弹」现已上线 亲爱的旅行者，「派蒙的画作第24弹」表情包现已陆续开放下载，欢迎前往【微信表情包商城】、...](https://t.bilibili.com/800616263980154882)
 - [互动抽奖 #原神# #菲谢尔# #生日快乐# 本皇女既已收到了你赠予的无上至宝，便也有东西要给你。 我之眷属，奥兹！将祝圣之人引至我座前！ 流落世间的旅者啊，我在...](https://t.bilibili.com/800245187393618055)
 - [互动抽奖 #原神# #宵宫# #流星知愿# 《原神》过场动画-「流星知愿」现已发布~ https://www.bilibili.com/video/BV1Zh4y1x7RL 孩子的梦想简单又直白。当她想看流...](https://t.bilibili.com/799969957296209952)
 - [《原神》过场动画-「流星知愿」](https://t.bilibili.com/799966976327811184)
 - [恭喜@小玖回@BovinLiu@qwwqerrrrrr等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799905025718485092)
-- [恭喜@无缘中奖体质@南宫旋玥@921728202等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/799533940806254760)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <br/>
