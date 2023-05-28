@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Sophia the Robot: First Robot Citizen | A 2000 year old end times bible prophecy coming to pass involving AI](https://www.reddit.com/r/MachineLearning/comments/13u4swi/r_sophia_the_robot_first_robot_citizen_a_2000/)
 - [[R] UMat: Uncertainty-Aware Single Image High Resolution Material Capture](https://www.reddit.com/r/MachineLearning/comments/13u49sz/r_umat_uncertaintyaware_single_image_high/)
 - [[P] Would love your opinion on this](https://www.reddit.com/r/MachineLearning/comments/13u49q7/p_would_love_your_opinion_on_this/)
 - [[N]This Week In AI](https://www.reddit.com/r/MachineLearning/comments/13u3vgr/nthis_week_in_ai/)
 - [Are AI developers not paying enough attention to this? [D]](https://www.reddit.com/r/MachineLearning/comments/13u3qdy/are_ai_developers_not_paying_enough_attention_to/)
-- [[P] How to build a Song Recommendation Engine with LangChain](https://www.reddit.com/r/MachineLearning/comments/13u3c54/p_how_to_build_a_song_recommendation_engine_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
