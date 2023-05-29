@@ -362,11 +362,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 In graph database terminology, the PageRank algorithm is used to measure the importance of each node based on the number of incoming relationship...](https://twitter.com/memgraphdb/status/1663089039736557570)
+- [Re @k0brax Feel free to share your progress with #memgrpah graph community on our @discord server at https://discord.gg/memgraph :&rpar;](https://twitter.com/memgraphdb/status/1663077273145098240)
+- [🔎 Graph databases and algorithms are powerful tools that can answer questions regarding energy management topologies. https://memgraph.com/blog/sol...](https://twitter.com/memgraphdb/status/1663067900926742528)
 - [🔎 There are several graph databases to choose from, and this blog post will consider Memgraph and Neo4j as possible vendors for a real-time solutio...](https://twitter.com/memgraphdb/status/1663053555928899586)
 - [❓ Find out why SQL databases are outdated for real-time recommendation engines. https://memgraph.com/blog/faster-recommendations-with-graph-databases...](https://twitter.com/memgraphdb/status/1663034681627951114)
-- [❗️ The data lineage graph is the single source of truth about your organization’s data. https://memgraph.com/blog/manage-all-your-data-lineage-need...](https://twitter.com/memgraphdb/status/1662892243387023366)
-- [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. ht...](https://twitter.com/memgraphdb/status/1662868338517712896)
-- [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1662854246255960071)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
