@@ -152,7 +152,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 ##### HashiCorp
 
-[Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | Terraform | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+[Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 ##### [OpenStack](https://youtu.be/locCs2Duk5U)
 
