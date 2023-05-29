@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Podcast Embeddings 🎙️ -- Get expert insights on the latest news right within your LLMs](https://www.reddit.com/r/MachineLearning/comments/13v1bl5/project_podcast_embeddings_get_expert_insights_on/)
 - [[N] Researchers from MIT and McMaster University leveraged a machine learning AI algorithm to discover a new antibiotic for drug-resistant infections caused by Acinetobacter baumannii](https://www.reddit.com/r/MachineLearning/comments/13v0ags/n_researchers_from_mit_and_mcmaster_university/)
 - [[R] LaVIN: Large Vision-Language Instructed Model](https://www.reddit.com/r/MachineLearning/comments/13uzfo5/r_lavin_large_visionlanguage_instructed_model/)
 - [[D] Resources for Document-Writing Models?](https://www.reddit.com/r/MachineLearning/comments/13uymug/d_resources_for_documentwriting_models/)
 - [[D] Favorite Colab Notebooks / runnable tutorials on adversarial CV](https://www.reddit.com/r/MachineLearning/comments/13uwmkn/d_favorite_colab_notebooks_runnable_tutorials_on/)
-- [[D] Do you care about edge cases while building LLM applications?](https://www.reddit.com/r/MachineLearning/comments/13uuzyd/d_do_you_care_about_edge_cases_while_building_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
