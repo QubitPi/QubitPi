@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] LaVIN: Large Vision-Language Instructed Model](https://www.reddit.com/r/MachineLearning/comments/13uzfo5/r_lavin_large_visionlanguage_instructed_model/)
 - [[D] Resources for Document-Writing Models?](https://www.reddit.com/r/MachineLearning/comments/13uymug/d_resources_for_documentwriting_models/)
 - [[D] Favorite Colab Notebooks / runnable tutorials on adversarial CV](https://www.reddit.com/r/MachineLearning/comments/13uwmkn/d_favorite_colab_notebooks_runnable_tutorials_on/)
 - [[D] Do you care about edge cases while building LLM applications?](https://www.reddit.com/r/MachineLearning/comments/13uuzyd/d_do_you_care_about_edge_cases_while_building_llm/)
 - [[P] &quot;FoMo as a Service&quot;: compare your models against &lpar;Fo&rpar;undational &lpar;Mo&rpar;dels for object detection](https://www.reddit.com/r/MachineLearning/comments/13uurn2/p_fomo_as_a_service_compare_your_models_against/)
-- [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild [P]](https://www.reddit.com/r/MachineLearning/comments/13uuli6/unicontrol_a_unified_diffusion_model_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
