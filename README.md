@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Nvidia ACE Brings AI to Game Characters, Allows Lifelike Conversations](https://www.reddit.com/r/MachineLearning/comments/13ujsy7/n_nvidia_ace_brings_ai_to_game_characters_allows/)
 - [[D] Understanding - Understanding Diffusion Models: A Unified Perspective](https://www.reddit.com/r/MachineLearning/comments/13ufl4h/d_understanding_understanding_diffusion_models_a/)
 - [[D] Teaching the Intuition Behind NNs](https://www.reddit.com/r/MachineLearning/comments/13ucjp6/d_teaching_the_intuition_behind_nns/)
 - [[P] Introducing Model Lab - A new tool to make sense of training LLMs](https://www.reddit.com/r/MachineLearning/comments/13uca9c/p_introducing_model_lab_a_new_tool_to_make_sense/)
 - [What type of Accuracy is used in papers [R]](https://www.reddit.com/r/MachineLearning/comments/13ub1xp/what_type_of_accuracy_is_used_in_papers_r/)
-- [[P] Genetic Algorithm gots stuck - Variation of Nurses problem](https://www.reddit.com/r/MachineLearning/comments/13u8krw/p_genetic_algorithm_gots_stuck_variation_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
