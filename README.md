@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Real-time Trash Object Detection Web App [P]](https://www.reddit.com/r/MachineLearning/comments/13umdtr/realtime_trash_object_detection_web_app_p/)
 - [[R] List of SOTA models/architectures in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/13um1r4/r_list_of_sota_modelsarchitectures_in_machine/)
 - [Project[P]](https://www.reddit.com/r/MachineLearning/comments/13ulg2z/projectp/)
 - [[P] Does anyone have the dataset called Recipe 1M+, or smth for inverse cooking?](https://www.reddit.com/r/MachineLearning/comments/13uk1rm/p_does_anyone_have_the_dataset_called_recipe_1m/)
 - [[N] Nvidia ACE Brings AI to Game Characters, Allows Lifelike Conversations](https://www.reddit.com/r/MachineLearning/comments/13ujsy7/n_nvidia_ace_brings_ai_to_game_characters_allows/)
-- [[D] Understanding - Understanding Diffusion Models: A Unified Perspective](https://www.reddit.com/r/MachineLearning/comments/13ufl4h/d_understanding_understanding_diffusion_models_a/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
