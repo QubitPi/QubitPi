@@ -340,11 +340,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Build a routing web application using the Neo4j graph database, data from OpenStreetMap and OpenAddresses, and Leaflet.js for rendering our web map. ...](https://twitter.com/neo4j/status/1663168505426976772)
-- [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, @tb_tomaz uses GPT-4 as a...](https://twitter.com/neo4j/status/1663168076110594049)
 - [What are the benefits of using #StepZen and #Neo4j together?👀 Check out this blog post where Hélène Sanchez &amp; Roy Derks explore how developers ca...](https://twitter.com/neo4j/status/1662821038458011649)
 - [Join 5.15 Technologies in this hands-on tutorial where you&#39;ll learn how to create a visually stunning front-end interface for Cypher queries. With D3....](https://twitter.com/neo4j/status/1662503967123820545)
 - [RT Nur Aini Rakhmawati: See you at Graph Meetup @neo4j Jakarta! https://t.co/vZd5pIeXVk](https://twitter.com/nuraini/status/1662452104978649088)
+- [👉This post will take you through setting up a fully managed Kafka cluster running in Confluent Cloud and creating a streaming data pipeline that ca...](https://twitter.com/neo4j/status/1662443573227266050)
+- [Re @lyonwj https://twitter.com/PythonHub/status/1661088394678550559](https://twitter.com/neo4j/status/1662118046952042498)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
