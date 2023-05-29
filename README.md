@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Research method and advice.](https://www.reddit.com/r/MachineLearning/comments/13ur6sh/d_research_method_and_advice/)
 - [[D] &lpar;Interview question&rpar; Comparing two models with and without negative sampling but same AUC and logloss on the test dataset: which model is better?](https://www.reddit.com/r/MachineLearning/comments/13uqbrm/d_interview_question_comparing_two_models_with/)
 - [[D] [LoRA + weight merge every N step] for pre-training?](https://www.reddit.com/r/MachineLearning/comments/13upogz/d_lora_weight_merge_every_n_step_for_pretraining/)
 - [[D] ARR scores vs START softconf scores](https://www.reddit.com/r/MachineLearning/comments/13uohe7/d_arr_scores_vs_start_softconf_scores/)
 - [Real-time Trash Object Detection Web App [P]](https://www.reddit.com/r/MachineLearning/comments/13umdtr/realtime_trash_object_detection_web_app_p/)
-- [[R] List of SOTA models/architectures in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/13um1r4/r_list_of_sota_modelsarchitectures_in_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
