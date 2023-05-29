@@ -263,11 +263,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### miHoYo (老米)
 
 <!-- MIHOYO-NEWS:START -->
+- [盛典与慧业周边登场 提瓦特乐园玩偶线上开售](https://bbs.mihoyo.com/ys/article/39817470)
 - [《原神》表情包「派蒙的画作第24弹」现已上线](https://bbs.mihoyo.com/ys/article/39787354)
 - [菲谢尔生日快乐｜与本皇女一同见证三千宇宙命运的尽头吧！](https://bbs.mihoyo.com/ys/article/39755552)
 - [《原神》过场动画-「流星知愿」](https://bbs.mihoyo.com/ys/article/39732514)
 - [《原神》3.7版本社区内容一览（持续更新）](https://bbs.mihoyo.com/ys/article/39670307)
-- [《原神》战绩3.7版本更新 | 七圣召唤模块优化](https://bbs.mihoyo.com/ys/article/39670306)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (打死不玩崩铁)
