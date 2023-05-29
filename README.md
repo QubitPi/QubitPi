@@ -175,7 +175,7 @@ Since my blogs were essentially paraphrasing their documentations, why not simpl
 
 [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [ExpressJS](https://qubitpi.github.io/expressjs.com/)
 
-[Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [RxJS](https://qubitpi.github.io/rxjs/)
+[Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [RxJS](https://qubitpi.github.io/rxjs/) | [InversifyJS](https://qubitpi.github.io/inversify.github.io/)
 
 [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/) | [Lexical](https://qubitpi.github.io/lexical/) | [JavaScript Tutorial](https://javascript.info/) | [Monorepo](https://qubitpi.github.io/monorepo.tools/)
 
