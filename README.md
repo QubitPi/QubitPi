@@ -317,11 +317,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Project[P]](https://www.reddit.com/r/MachineLearning/comments/13ulg2z/projectp/)
 - [[P] Does anyone have the dataset called Recipe 1M+, or smth for inverse cooking?](https://www.reddit.com/r/MachineLearning/comments/13uk1rm/p_does_anyone_have_the_dataset_called_recipe_1m/)
 - [[N] Nvidia ACE Brings AI to Game Characters, Allows Lifelike Conversations](https://www.reddit.com/r/MachineLearning/comments/13ujsy7/n_nvidia_ace_brings_ai_to_game_characters_allows/)
 - [[D] Understanding - Understanding Diffusion Models: A Unified Perspective](https://www.reddit.com/r/MachineLearning/comments/13ufl4h/d_understanding_understanding_diffusion_models_a/)
 - [[D] Teaching the Intuition Behind NNs](https://www.reddit.com/r/MachineLearning/comments/13ucjp6/d_teaching_the_intuition_behind_nns/)
-- [[P] Introducing Model Lab - A new tool to make sense of training LLMs](https://www.reddit.com/r/MachineLearning/comments/13uca9c/p_introducing_model_lab_a_new_tool_to_make_sense/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
