@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [封号名单（2023年5月29日）](https://www.bh3.com/news/27777)
+- [星语连结丨「糖露星霜」闪亮登场](https://www.bh3.com/news/27776)
 - [星愿祈礼 | 限时累充活动开启，充值返还晋升印章等奖励](https://www.bh3.com/news/27771)
 - [超限解放丨全新超限武器开放锻造！](https://www.bh3.com/news/27770)
 - [玉骑士·月痕 | 扩充补给限时开启](https://www.bh3.com/news/27740)
-- [【补给】精准补给丨夜衔烛&amp;蓝焰银隼0019](https://www.bh3.com/news/27739)
-- [薪炎之律者 | 进阶补给限时开启](https://www.bh3.com/news/27738)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
