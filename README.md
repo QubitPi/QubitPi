@@ -318,10 +318,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 <!-- REDDIT-ML:START -->
 - [[D] Understanding - Understanding Diffusion Models: A Unified Perspective](https://www.reddit.com/r/MachineLearning/comments/13ufl4h/d_understanding_understanding_diffusion_models_a/)
-- [AI Image Generation with an Open-Source Python API for Midjourney [P]](https://www.reddit.com/r/MachineLearning/comments/13ufj97/ai_image_generation_with_an_opensource_python_api/)
 - [[D] Teaching the Intuition Behind NNs](https://www.reddit.com/r/MachineLearning/comments/13ucjp6/d_teaching_the_intuition_behind_nns/)
 - [[P] Introducing Model Lab - A new tool to make sense of training LLMs](https://www.reddit.com/r/MachineLearning/comments/13uca9c/p_introducing_model_lab_a_new_tool_to_make_sense/)
-- [[R] NVIDIA and GPT-4 create a Minecraft AI that codes and self-improves.](https://www.reddit.com/r/MachineLearning/comments/13ub8nq/r_nvidia_and_gpt4_create_a_minecraft_ai_that/)
+- [What type of Accuracy is used in papers [R]](https://www.reddit.com/r/MachineLearning/comments/13ub1xp/what_type_of_accuracy_is_used_in_papers_r/)
+- [[P] Genetic Algorithm gots stuck - Variation of Nurses problem](https://www.reddit.com/r/MachineLearning/comments/13u8krw/p_genetic_algorithm_gots_stuck_variation_of/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
