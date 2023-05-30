@@ -363,11 +363,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [❗️ Users won’t stand around and wait for the recommendation engine to slowly query the database in search of a perfect match, they are expecting re...](https://twitter.com/memgraphdb/status/1663504026300760065)
-- [🔎 A lot of companies today have massive amounts of siloed data just sitting there and not being used. https://memgraph.com/blog/inferring-knowledge...](https://twitter.com/memgraphdb/status/1663480873113595905)
 - [🎓 Graph database providers have made an effort, not only to make a good representation of storage but also to include various graph algorithms and ...](https://twitter.com/memgraphdb/status/1663464266471555073)
 - [❗️ The number of security vulnerabilities in code is increasing daily. We all remember the devastating consequences of the exposed vulnerability on ...](https://twitter.com/memgraphdb/status/1663430290830684160)
 - [❓ How many recommendation algorithms do you need for a successful recommendation engine? https://memgraph.com/blog/five-recommendation-algorithms-no-...](https://twitter.com/memgraphdb/status/1663419720509292544)
+- [🔎 We’ll dive deep into the problems and algorithms in graph theory that can free you from hours of menial work, resulting in deploying your expert...](https://twitter.com/memgraphdb/status/1663405125933645824)
+- [🖇️ In order to make recommendations, the recommendation engines of today can no longer identify a connection between certain users, reviews and pr...](https://twitter.com/memgraphdb/status/1663254631223377921)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
