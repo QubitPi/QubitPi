@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Free Machine Learning virtual conference tomorrow](https://www.reddit.com/r/MachineLearning/comments/13vl1di/n_free_machine_learning_virtual_conference/)
 - [[D] KPIs for Machine Learning Teams in an Industry Setting](https://www.reddit.com/r/MachineLearning/comments/13viobp/d_kpis_for_machine_learning_teams_in_an_industry/)
 - [[D] Would you use an AI travel agent?](https://www.reddit.com/r/MachineLearning/comments/13vigur/d_would_you_use_an_ai_travel_agent/)
 - [I&#39;m happy with the leadership at openai [D]](https://www.reddit.com/r/MachineLearning/comments/13va83q/im_happy_with_the_leadership_at_openai_d/)
 - [[R] Machine Learning for Ancient Languages](https://www.reddit.com/r/MachineLearning/comments/13v4fkg/r_machine_learning_for_ancient_languages/)
-- [[Discussion] Guidance to stay somewhat up-to date in AI](https://www.reddit.com/r/MachineLearning/comments/13v1y6k/discussion_guidance_to_stay_somewhat_upto_date_in/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
