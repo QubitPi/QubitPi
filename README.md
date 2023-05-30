@@ -341,11 +341,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Give the open-source Neo4j GraphQL Library a try! 📑 @lyonwj shares the empowering secret of leveraging Neo4j GraphQL Library&#39;s potential to build y...](https://twitter.com/neo4j/status/1663651578774007813)
 - [RT Jason Koo: Last chance to submit questions before our next podcast recording! This month we&#39;ll be looking how to model data as a graph. If you have...](https://twitter.com/jalakoo/status/1663591339181604893)
 - [Making life easier for biotech experts and researchers by creating #KnowledgeGraphs from various sources easier? Take a look at this livestream recap ...](https://twitter.com/neo4j/status/1663591233057325072)
 - [Check out Gerrit Meier’s example project showing how to combine Spring GraphQL 1.2.0 with Spring Data #Neo4j 7.1.0. The project is based on Spring Bo...](https://twitter.com/neo4j/status/1663561014095536128)
 - [RT Adam Cowley: Have you ever wondered why you sometimes see a comma in a Cypher pattern? Let&#39;s take a closer look... @neo4j #neo4j #graphacademy #cyp...](https://twitter.com/adamcowley/status/1663522447168090114)
-- [RT Alexander Erdl: Heads up ☝️ ! The next episode of Going Meta will be taking place already on Thursday, 1st June https://youtube.com/live/w-PwMyzo...](https://twitter.com/alexandererdl/status/1663484897309208579)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
