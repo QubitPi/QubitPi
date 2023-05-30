@@ -341,11 +341,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Jason Koo: Last chance to submit questions before our next podcast recording! This month we&#39;ll be looking how to model data as a graph. If you have...](https://twitter.com/jalakoo/status/1663591339181604893)
-- [Making life easier for biotech experts and researchers by creating #KnowledgeGraphs from various sources easier? Take a look at this livestream recap ...](https://twitter.com/neo4j/status/1663591233057325072)
 - [Check out Gerrit Meier’s example project showing how to combine Spring GraphQL 1.2.0 with Spring Data #Neo4j 7.1.0. The project is based on Spring Bo...](https://twitter.com/neo4j/status/1663561014095536128)
-- [RT Adam Cowley: Have you ever wondered why you sometimes see a comma in a Cypher pattern? Let&#39;s take a closer look... @neo4j #neo4j #graphacademy #cyp...](https://twitter.com/adamcowley/status/1663522447168090114)
-- [RT Alexander Erdl: Heads up ☝️ ! The next episode of Going Meta will be taking place already on Thursday, 1st June https://youtube.com/live/w-PwMyzo...](https://twitter.com/alexandererdl/status/1663484897309208579)
+- [What you&#39;ll see in this session: 💡Cypher Learn everything there is to know to query Neo4j 🚀Data Modeling What is a graph data model? Register he...](https://twitter.com/neo4j/status/1663289140413095940)
+- [RT Tomaz Bratanic: I&#39;ve turned one of my blog post into a Neo4j Graph Academy course. You will learn how to execute and optimize Kmeans algorithm as w...](https://twitter.com/tb_tomaz/status/1663249033660334093)
+- [Build a routing web application using the Neo4j graph database, data from OpenStreetMap and OpenAddresses, and Leaflet.js for rendering our web map. ...](https://twitter.com/neo4j/status/1663168505426976772)
+- [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, @tb_tomaz uses GPT-4 as a...](https://twitter.com/neo4j/status/1663168076110594049)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
