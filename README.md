@@ -413,11 +413,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Privacy Enhancing Technologies: An Introduction for Technologists](https://martinfowler.com/articles/intro-pet.html)
 - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 - [Emacs xref stopped working on Macs with dumb-jump](https://martinfowler.com/articles/2023-xref-problem.html)
 - [Using ChatGPT as a technical writing assistant](https://martinfowler.com/articles/2023-chatgpt-tech-writing.html)
 - [What Does a Technical Author Look Like?](https://martinfowler.com/articles/2023-tech-author-portrait.html)
-- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
