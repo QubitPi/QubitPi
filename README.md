@@ -243,11 +243,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/801453821251289158><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/08990aa79fd6cb5510c180afcb834f332006254817.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇][原神_哇]](https://t.bilibili.com/801453821251289158)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/800989170204934228)
 - [[打call][打call]](https://t.bilibili.com/800988603282882579)
 - [互动抽奖 #原神# #B站粉丝数突破1700W# 「1700W粉丝数达成！」 旅行者们大家好，《原神》官方B站粉丝数现已突破1700W，为了感谢旅行者们的支持与陪伴，我们将抽...](https://t.bilibili.com/800987739990261812)
 - [恭喜@Snow丶bird@ELy__@一口两个哒宰等50位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/800647200626442260)
-- [恭喜@库塞拉的信件@请输入--新的昵称@TI嘎嘎想睡觉等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/800647196068282421)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
