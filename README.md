@@ -318,7 +318,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Hand-crafted energy function for &lpar;generative&rpar; energy-based model](https://www.reddit.com/r/MachineLearning/comments/13vwety/r_handcrafted_energy_function_for_generative/)
+- [[D] Hand-crafted energy function for &lpar;generative&rpar; energy-based model](https://www.reddit.com/r/MachineLearning/comments/13vx36o/d_handcrafted_energy_function_for_generative/)
 - [[Project] recommend me a python algo for text based keyword extraction](https://www.reddit.com/r/MachineLearning/comments/13vwapm/project_recommend_me_a_python_algo_for_text_based/)
 - [[D] Overfitting on small GPT datasets](https://www.reddit.com/r/MachineLearning/comments/13vumk0/d_overfitting_on_small_gpt_datasets/)
 - [[R] Automated Checks for Violations of Independent and Identically Distributed &lpar;IID&rpar; Assumption](https://www.reddit.com/r/MachineLearning/comments/13vu63o/r_automated_checks_for_violations_of_independent/)
