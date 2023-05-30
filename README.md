@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Automated Checks for Violations of Independent and Identically Distributed &lpar;IID&rpar; Assumption](https://www.reddit.com/r/MachineLearning/comments/13vu63o/r_automated_checks_for_violations_of_independent/)
 - [[D] Is there any way to filter searches by metadata over current vector DBs like Pinecone?](https://www.reddit.com/r/MachineLearning/comments/13vu1th/d_is_there_any_way_to_filter_searches_by_metadata/)
 - [[D] Understanding frequency penalty, presence penalty, repetition penalty](https://www.reddit.com/r/MachineLearning/comments/13vtzif/d_understanding_frequency_penalty_presence/)
 - [[D] What does the process for building and maintaining a knowledge graph look like?](https://www.reddit.com/r/MachineLearning/comments/13vsxna/d_what_does_the_process_for_building_and/)
 - [Cheap ways to deploy ML models [D]?](https://www.reddit.com/r/MachineLearning/comments/13vr1yw/cheap_ways_to_deploy_ml_models_d/)
-- [Interactively explore your AI Datasets with Spotlight [P]](https://www.reddit.com/r/MachineLearning/comments/13vpran/interactively_explore_your_ai_datasets_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
