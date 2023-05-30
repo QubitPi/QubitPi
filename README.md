@@ -341,11 +341,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Check out Gerrit Meier’s example project showing how to combine Spring GraphQL 1.2.0 with Spring Data #Neo4j 7.1.0. The project is based on Spring Bo...](https://twitter.com/neo4j/status/1663561014095536128)
 - [What you&#39;ll see in this session: 💡Cypher Learn everything there is to know to query Neo4j 🚀Data Modeling What is a graph data model? Register he...](https://twitter.com/neo4j/status/1663289140413095940)
 - [RT Tomaz Bratanic: I&#39;ve turned one of my blog post into a Neo4j Graph Academy course. You will learn how to execute and optimize Kmeans algorithm as w...](https://twitter.com/tb_tomaz/status/1663249033660334093)
 - [Build a routing web application using the Neo4j graph database, data from OpenStreetMap and OpenAddresses, and Leaflet.js for rendering our web map. ...](https://twitter.com/neo4j/status/1663168505426976772)
 - [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, @tb_tomaz uses GPT-4 as a...](https://twitter.com/neo4j/status/1663168076110594049)
+- [What are the benefits of using #StepZen and #Neo4j together?👀 Check out this blog post where Hélène Sanchez &amp; Roy Derks explore how developers ca...](https://twitter.com/neo4j/status/1662821038458011649)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
