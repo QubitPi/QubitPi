@@ -341,11 +341,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [👏Pankaj Wahane explores some advanced features of #Cypher that are essential for data analysis. He focuses on aggregations, counting, and complex q...](https://twitter.com/neo4j/status/1663984080789336064)
 - [RT Jason Koo: Last week Alex and me demo&#39;d how to quickly mimic real data sets for exploring graph databases and building applications. If you&#39;re inte...](https://twitter.com/jalakoo/status/1663939677919879170)
 - [We are thrilled to announce that we’ve been recognized as a Global Top 100 Most Loved Workplace by @Newsweek! We are so proud! ❤ More about this rec...](https://twitter.com/neo4j/status/1663914297095798784)
 - [Give the open-source Neo4j GraphQL Library a try! 📑 @lyonwj shares the empowering secret of leveraging Neo4j GraphQL Library&#39;s potential to build y...](https://twitter.com/neo4j/status/1663651578774007813)
 - [RT Jason Koo: Last chance to submit questions before our next podcast recording! This month we&#39;ll be looking how to model data as a graph. If you have...](https://twitter.com/jalakoo/status/1663591339181604893)
+- [Making life easier for biotech experts and researchers by creating #KnowledgeGraphs from various sources easier? Take a look at this livestream recap ...](https://twitter.com/neo4j/status/1663591233057325072)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
