@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Fine-Tuning Language Models with Just Forward Passes](https://www.reddit.com/r/MachineLearning/comments/13wgwo2/r_finetuning_language_models_with_just_forward/)
 - [[N] &lpar;Update: Code Released&rpar; Landmark Attention: Random-Access Infinite Context Length for Transformers](https://www.reddit.com/r/MachineLearning/comments/13wgs77/n_update_code_released_landmark_attention/)
 - [Trend anomaly detection [D]](https://www.reddit.com/r/MachineLearning/comments/13wgoaz/trend_anomaly_detection_d/)
 - [[D] &lpar;very&rpar; few data](https://www.reddit.com/r/MachineLearning/comments/13wfa4c/d_very_few_data/)
 - [[D] Public Dataset for People Climbing Over Fences/Walls](https://www.reddit.com/r/MachineLearning/comments/13wecdf/d_public_dataset_for_people_climbing_over/)
-- [[D] Has anyone read an old paper called &quot;Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks&quot;?](https://www.reddit.com/r/MachineLearning/comments/13wcopl/d_has_anyone_read_an_old_paper_called_baseline/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
