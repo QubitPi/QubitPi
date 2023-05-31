@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The bullseye framework: My case against AI doom by titotal](https://www.reddit.com/r/MachineLearning/comments/13wum0n/d_the_bullseye_framework_my_case_against_ai_doom/)
 - [When will emnlp 2023 site get live and where? [D]](https://www.reddit.com/r/MachineLearning/comments/13wu54n/when_will_emnlp_2023_site_get_live_and_where_d/)
 - [[News] Break-A-Scene: Extracting Multiple Concepts from a Single Image](https://www.reddit.com/r/MachineLearning/comments/13wrlih/news_breakascene_extracting_multiple_concepts/)
 - [Weight count mismatch while loading keras model. [P]](https://www.reddit.com/r/MachineLearning/comments/13wqwzi/weight_count_mismatch_while_loading_keras_model_p/)
 - [[P] text-generation-api: a simple yet comprehensive REST API server for text generation with huggingface model](https://www.reddit.com/r/MachineLearning/comments/13wqf4j/p_textgenerationapi_a_simple_yet_comprehensive/)
-- [[N] HuggingFace Model Size: Chrome Extension](https://www.reddit.com/r/MachineLearning/comments/13wosgs/n_huggingface_model_size_chrome_extension/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
