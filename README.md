@@ -286,11 +286,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [商城特惠 | 「歧路星语」超值礼包限时上架！](https://www.bh3.com/news/27814)
+- [真我·人之律者 | 扩充补给限时开启](https://www.bh3.com/news/27810)
+- [回归活动 | 天元骑英加入角色增援](https://www.bh3.com/news/27809)
 - [星绮热潮 | 七日登录领取圣痕「琪亚娜·夜邀」等奖励](https://www.bh3.com/news/27787)
 - [☆完美演出☆ | 参与获取女武神·荣光全新服装](https://www.bh3.com/news/27786)
-- [跃夏购物街丨参与活动获取服装自选箱，稀有服装限时特价！](https://www.bh3.com/news/27785)
-- [《崩坏3》6.7版本维护通知、新活动预告](https://www.bh3.com/news/27784)
-- [时间胶囊 | 服装「夏梦如绘」、「我即风暴! 」等限时返场](https://www.bh3.com/news/27783)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
