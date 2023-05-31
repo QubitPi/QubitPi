@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Efficiency and Maintainability in Named Entity Recognition: A Trie-based Knowledge Base Approach](https://www.reddit.com/r/MachineLearning/comments/13wheno/r_efficiency_and_maintainability_in_named_entity/)
+- [[D] What is meant by parameters when LLMs and other NNs size is the argument?](https://www.reddit.com/r/MachineLearning/comments/13wh8ul/d_what_is_meant_by_parameters_when_llms_and_other/)
 - [[R] Fine-Tuning Language Models with Just Forward Passes](https://www.reddit.com/r/MachineLearning/comments/13wgwo2/r_finetuning_language_models_with_just_forward/)
 - [[N] &lpar;Update: Code Released&rpar; Landmark Attention: Random-Access Infinite Context Length for Transformers](https://www.reddit.com/r/MachineLearning/comments/13wgs77/n_update_code_released_landmark_attention/)
 - [Trend anomaly detection [D]](https://www.reddit.com/r/MachineLearning/comments/13wgoaz/trend_anomaly_detection_d/)
-- [[D] &lpar;very&rpar; few data](https://www.reddit.com/r/MachineLearning/comments/13wfa4c/d_very_few_data/)
-- [[D] Public Dataset for People Climbing Over Fences/Walls](https://www.reddit.com/r/MachineLearning/comments/13wecdf/d_public_dataset_for_people_climbing_over/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
