@@ -363,11 +363,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 If a social network or a search engine are not the products you are developing, check out how you can utilize PageRank. Recommendation Engines ht...](https://twitter.com/memgraphdb/status/1663979406925152262)
 - [🎓 NetworkX’s pure Python implementation is easy to use for any Python developer. When it comes to issues with scaling and persistence, Memgraph sa...](https://twitter.com/memgraphdb/status/1663955501812416519)
 - [🚀 Graph databases are a pivotal improvement that will make insurance companies better equipped to understand customers and limit the risk they face...](https://twitter.com/memgraphdb/status/1663939720668237828)
 - [🔖Compliance with business standards like BCBS 239 and the GDPR means that companies must be able to make data-driven reports on a largely automated...](https://twitter.com/memgraphdb/status/1663914982893862912)
 - [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. https://memgraph.com...](https://twitter.com/memgraphdb/status/1663896615663329283)
+- [🚀 Graph databases offer the most performant storage tool for highly-connected data and a great amount of interactions between entities in the datab...](https://twitter.com/memgraphdb/status/1663887303398371329)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
