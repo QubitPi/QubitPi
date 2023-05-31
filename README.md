@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [What is the most cost-efficient way to have an embedding generator endpoint that is using an open-source embedding model? [D]](https://www.reddit.com/r/MachineLearning/comments/13wyhxl/what_is_the_most_costefficient_way_to_have_an/)
 - [[D] Are there any AI music quality enhancers? &lpar;not noise suppression&rpar;](https://www.reddit.com/r/MachineLearning/comments/13wxaed/d_are_there_any_ai_music_quality_enhancers_not/)
 - [[D]](https://www.reddit.com/r/MachineLearning/comments/13wx23u/d/)
 - [[R] New OpenAI article: Improving Mathematical Reasoning with Process Supervision](https://www.reddit.com/r/MachineLearning/comments/13wwzq9/r_new_openai_article_improving_mathematical/)
 - [[D] Combining LLMs with Instant Generation Descriptive GUIs for Interactive Text Input](https://www.reddit.com/r/MachineLearning/comments/13wvs4q/d_combining_llms_with_instant_generation/)
-- [[D] The bullseye framework: My case against AI doom by titotal](https://www.reddit.com/r/MachineLearning/comments/13wum0n/d_the_bullseye_framework_my_case_against_ai_doom/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
