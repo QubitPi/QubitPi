@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Astronomia ex machina: a history, primer and outlook on neural networks in astronomy](https://www.reddit.com/r/MachineLearning/comments/13wnleh/r_astronomia_ex_machina_a_history_primer_and/)
 - [[D] back testing model](https://www.reddit.com/r/MachineLearning/comments/13wl4z7/d_back_testing_model/)
 - [[N] GeoZ: a Region-Based Visualization of Clustering Algorithms](https://www.reddit.com/r/MachineLearning/comments/13wkgo9/n_geoz_a_regionbased_visualization_of_clustering/)
 - [[D] LLM Evolutionare Tree from &quot;The Practical Guides for Large Language Models&quot;](https://www.reddit.com/r/MachineLearning/comments/13wkcn3/d_llm_evolutionare_tree_from_the_practical_guides/)
 - [[P] Teammate or Mentor for ML and NLP Projects](https://www.reddit.com/r/MachineLearning/comments/13wk9b3/p_teammate_or_mentor_for_ml_and_nlp_projects/)
-- [[R] Adapting Language Models to Compress Contexts](https://www.reddit.com/r/MachineLearning/comments/13wjjin/r_adapting_language_models_to_compress_contexts/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
