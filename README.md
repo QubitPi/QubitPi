@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Has anyone read an old paper called &quot;Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks&quot;?](https://www.reddit.com/r/MachineLearning/comments/13wcopl/d_has_anyone_read_an_old_paper_called_baseline/)
 - [[D] RAM speeds for tabular machine learning algorithms](https://www.reddit.com/r/MachineLearning/comments/13wc0nc/d_ram_speeds_for_tabular_machine_learning/)
 - [Incorporating Quarterly, Monthly, and Daily Data Together [P]](https://www.reddit.com/r/MachineLearning/comments/13waucu/incorporating_quarterly_monthly_and_daily_data/)
 - [[N] Chain-of-Thought Hub: Measuring LLMs&#39; Reasoning Performance](https://www.reddit.com/r/MachineLearning/comments/13w95b4/n_chainofthought_hub_measuring_llms_reasoning/)
 - [[D] Marketplace for datasets](https://www.reddit.com/r/MachineLearning/comments/13w8dje/d_marketplace_for_datasets/)
-- [can i get into machine learning engineer with bachelor&#39;s in data science [D]](https://www.reddit.com/r/MachineLearning/comments/13w2r5i/can_i_get_into_machine_learning_engineer_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
