@@ -386,30 +386,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [A Beginner’s Guide to Network Mapping](https://superuser.openinfra.dev/articles/a-beginners-guide-to-network-mapping/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
-<h4><a href="https://www.docker.com/blog/">Docker Blogs</a></h4>
-
-<img width="15%" align="right" src="./img/docker-cloud-logo.png">
-
-<!-- DOCKER-BLOG:START -->
-- [Simplifying Kubernetes Development: Docker Desktop + Red Hat OpenShift](https://www.docker.com/blog/blog-docker-desktop-red-hat-openshift/)
-- [160% Year-over-Year Growth in Pulls of Red Hat’s Universal Base Image on Docker Hub](https://www.docker.com/blog/blog-red-hat-universal-base-image-hub-pulls-grow/)
-- [Boost Your Local Testing Game with the LambdaTest Tunnel Docker Extension](https://www.docker.com/blog/boost-your-local-testing-game-with-lambdatest-tunnel-docker-extension/)
-- [Docker Init: Initialize Dockerfiles and Compose files with a single CLI command](https://www.docker.com/blog/docker-init-initialize-dockerfiles-and-compose-files-with-a-single-cli-command/)
-- [Building a Local Application Development Environment for Kubernetes with the Gefyra Docker Extension](https://www.docker.com/blog/building-a-local-application-development-environment-for-kubernetes-with-the-gefyra-docker-extension/)
-<!-- DOCKER-BLOG:END -->
-
-<h4><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h4>
-
-<img width="15%" align="right" src="./img/kubernetes-icon.png">
-
-<!-- KUBERNETES-BLOG:START -->
-- [Blog: Using OCI artifacts to distribute security profiles for seccomp, SELinux and AppArmor](https://kubernetes.io/blog/2023/05/24/oci-security-profiles/)
-- [Blog: Having fun with seccomp profiles on the edge](https://kubernetes.io/blog/2023/05/18/seccomp-profiles-edge/)
-- [Blog: Kubernetes 1.27: KMS V2 Moves to Beta](https://kubernetes.io/blog/2023/05/16/kms-v2-moves-to-beta/)
-- [Blog: Kubernetes 1.27: updates on speeding up Pod startup](https://kubernetes.io/blog/2023/05/15/speed-up-pod-startup/)
-- [Blog: Kubernetes 1.27: In-place Resource Resize for Kubernetes Pods &lpar;alpha&rpar;](https://kubernetes.io/blog/2023/05/12/in-place-pod-resize-alpha/)
-<!-- KUBERNETES-BLOG:END -->
-
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
