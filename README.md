@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Incorporating Quarterly, Monthly, and Daily Data Together [P]](https://www.reddit.com/r/MachineLearning/comments/13waucu/incorporating_quarterly_monthly_and_daily_data/)
 - [[N] Chain-of-Thought Hub: Measuring LLMs&#39; Reasoning Performance](https://www.reddit.com/r/MachineLearning/comments/13w95b4/n_chainofthought_hub_measuring_llms_reasoning/)
 - [[D] Marketplace for datasets](https://www.reddit.com/r/MachineLearning/comments/13w8dje/d_marketplace_for_datasets/)
 - [can i get into machine learning engineer with bachelor&#39;s in data science [D]](https://www.reddit.com/r/MachineLearning/comments/13w2r5i/can_i_get_into_machine_learning_engineer_with/)
 - [[R] Direct Preference Optimization: A better alternative to RHLF?](https://www.reddit.com/r/MachineLearning/comments/13w2oz1/r_direct_preference_optimization_a_better/)
-- [[D] What are some very brief but high impact papers/blog/pre-print in machine learning?](https://www.reddit.com/r/MachineLearning/comments/13vyn7k/d_what_are_some_very_brief_but_high_impact/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
