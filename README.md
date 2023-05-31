@@ -318,11 +318,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] text-generation-api: a simple yet comprehensive REST API server for text generation with huggingface model](https://www.reddit.com/r/MachineLearning/comments/13wqf4j/p_textgenerationapi_a_simple_yet_comprehensive/)
 - [[N] HuggingFace Model Size: Chrome Extension](https://www.reddit.com/r/MachineLearning/comments/13wosgs/n_huggingface_model_size_chrome_extension/)
 - [exploring deep NN activation visualization. [Discussion]](https://www.reddit.com/r/MachineLearning/comments/13wocwz/exploring_deep_nn_activation_visualization/)
 - [[R] Astronomia ex machina: a history, primer and outlook on neural networks in astronomy](https://www.reddit.com/r/MachineLearning/comments/13wnleh/r_astronomia_ex_machina_a_history_primer_and/)
 - [[D] back testing model](https://www.reddit.com/r/MachineLearning/comments/13wl4z7/d_back_testing_model/)
-- [[N] GeoZ: a Region-Based Visualization of Clustering Algorithms](https://www.reddit.com/r/MachineLearning/comments/13wkgo9/n_geoz_a_regionbased_visualization_of_clustering/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
