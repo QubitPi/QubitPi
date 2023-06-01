@@ -315,11 +315,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] : Struggling to get Project idea for implementing my ML knowledge](https://www.reddit.com/r/MachineLearning/comments/13xinbb/p_struggling_to_get_project_idea_for_implementing/)
 - [[D] AGI black market in the making ?](https://www.reddit.com/r/MachineLearning/comments/13xh69g/d_agi_black_market_in_the_making/)
 - [The Technology Days, Tunisia [N]](https://www.reddit.com/r/MachineLearning/comments/13xfn97/the_technology_days_tunisia_n/)
 - [[D] Data drift is not a good indicator of model performance degradation](https://www.reddit.com/r/MachineLearning/comments/13xf9h8/d_data_drift_is_not_a_good_indicator_of_model/)
 - [[R] Research Trends in LLM-guided Multimodal Learning.](https://www.reddit.com/r/MachineLearning/comments/13x9e1m/r_research_trends_in_llmguided_multimodal_learning/)
-- [[D] OpenAI rate limiting seems to kick in way before it should](https://www.reddit.com/r/MachineLearning/comments/13x6lk6/d_openai_rate_limiting_seems_to_kick_in_way/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
