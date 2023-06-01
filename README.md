@@ -315,11 +315,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Data drift is not a good indicator of model performance degradation](https://www.reddit.com/r/MachineLearning/comments/13xf9h8/d_data_drift_is_not_a_good_indicator_of_model/)
 - [[D] ICCV2023 leaks confidential AC messages](https://www.reddit.com/r/MachineLearning/comments/13xciri/d_iccv2023_leaks_confidential_ac_messages/)
 - [[D] Hardware search](https://www.reddit.com/r/MachineLearning/comments/13xc1ut/d_hardware_search/)
 - [[R] Research Trends in LLM-guided Multimodal Learning.](https://www.reddit.com/r/MachineLearning/comments/13x9e1m/r_research_trends_in_llmguided_multimodal_learning/)
 - [[D] OpenAI rate limiting seems to kick in way before it should](https://www.reddit.com/r/MachineLearning/comments/13x6lk6/d_openai_rate_limiting_seems_to_kick_in_way/)
-- [[R] free open source LLM May 31 2023](https://www.reddit.com/r/MachineLearning/comments/13x4ym7/r_free_open_source_llm_may_31_2023/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
