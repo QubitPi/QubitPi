@@ -134,7 +134,7 @@ Similar to large enterpeise hosting their own private mirrors of public Maven Ce
 
 #### Machine Learning
 
-[scikit-learn](https://qubitpi.github.io/scikit-learn/) | [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
+[scikit-learn](https://qubitpi.github.io/scikit-learn/) | [MLflow](https://qubitpi.github.io/mlflow/) | [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
 
 ##### Data/Knowledge Graph
 
