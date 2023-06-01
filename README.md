@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [「歧路星语」6.7版本更新公告](https://www.bh3.com/news/27827)
 - [妖精爱莉 | 人偶补给开启](https://www.bh3.com/news/27815)
 - [商城特惠 | 「歧路星语」超值礼包限时上架！](https://www.bh3.com/news/27814)
 - [真我·人之律者 | 扩充补给限时开启](https://www.bh3.com/news/27810)
 - [回归活动 | 天元骑英加入角色增援](https://www.bh3.com/news/27809)
-- [星绮热潮 | 七日登录领取圣痕「琪亚娜·夜邀」等奖励](https://www.bh3.com/news/27787)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
