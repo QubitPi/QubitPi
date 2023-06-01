@@ -338,11 +338,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [The 🌎 connected with graphs! Meet our experts and hear amazing graph stories from top customers at the upcoming #Graphsummit2023 events. You can re...](https://twitter.com/neo4j/status/1664315927708549121)
 - [&quot;The market is expected to continue its growth trajectory in the coming years as more organizations recognize the value of graph databases.&quot; @shasbe w...](https://twitter.com/neo4j/status/1664285878934732802)
 - [Going Meta - Ep 17: RDF-ing between OpenAI and Neo4j @BarrasaDV https://twitter.com/i/broadcasts/1vOGwMobaMExB](https://twitter.com/neo4j/status/1664285878343323648)
 - [This month&#39;s episode of Going Meta with @BarrasaDV is landing a bit earlier than usual: Today 🤯 ! We hope to see you in chat: https://okt.to/6SNfMH...](https://twitter.com/neo4j/status/1664255598920122370)
 - [APAC Training Series - Intermediate Cypher and Data Modelling https://twitter.com/i/broadcasts/1MnGnpQYEWYxO](https://twitter.com/neo4j/status/1664187546665115650)
+- [👏Pankaj Wahane explores some advanced features of #Cypher that are essential for data analysis. He focuses on aggregations, counting, and complex q...](https://twitter.com/neo4j/status/1663984080789336064)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
