@@ -315,11 +315,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] XGBoost: banding continuous variables](https://www.reddit.com/r/MachineLearning/comments/13xttkn/d_xgboost_banding_continuous_variables/)
 - [[R] Command Prompts: Revolutionizing AI Interactions](https://www.reddit.com/r/MachineLearning/comments/13xt71m/r_command_prompts_revolutionizing_ai_interactions/)
 - [[D] Bulk literature review of research papers/ articles using GPT, LLM ?](https://www.reddit.com/r/MachineLearning/comments/13xpwom/d_bulk_literature_review_of_research_papers/)
 - [[D] Training on Generated Data Makes Models Forget](https://www.reddit.com/r/MachineLearning/comments/13xpfr9/d_training_on_generated_data_makes_models_forget/)
 - [[D] Training BERT encountering failure with larger datasets](https://www.reddit.com/r/MachineLearning/comments/13xoqyj/d_training_bert_encountering_failure_with_larger/)
-- [[D] The Future: Gamified Human-Assisted Machine Learning - Training &quot;Pet&quot; AI Models through Play](https://www.reddit.com/r/MachineLearning/comments/13xnh1m/d_the_future_gamified_humanassisted_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
