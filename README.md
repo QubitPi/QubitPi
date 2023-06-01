@@ -237,7 +237,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/801743400575434769><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3a14849ab10068b33a6b2b6e88ae14432006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802103181654884403><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0d9154efd70d24ff070cdc55ae29b764401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：列阵斗巧即将开启~ 〓特殊规则〓 在本次「热斗模式」下，旅行者需要使用临场选择的角色牌和随机生成的...](https://t.bilibili.com/802103181654884403)
