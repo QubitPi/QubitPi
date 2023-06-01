@@ -240,11 +240,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/801743400575434769><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3a14849ab10068b33a6b2b6e88ae14432006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：列阵斗巧即将开启~ 〓特殊规则〓 在本次「热斗模式」下，旅行者需要使用临场选择的角色牌和随机生成的...](https://t.bilibili.com/802103181654884403)
+- [互动抽奖 #原神# #荒泷一斗# #生日快乐# 让我看看你送本大爷的是什么——哦哦哦！竟然是鬼兜虫！ 看这家伙强健的犄角！健硕的身体！傲视一切的神态！简直是特特...](https://t.bilibili.com/802100905064267840)
+- [互动抽奖 #原神# #派蒙# #生日快乐# 啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？ 谢谢你们特意来梦里为我庆祝生日，我真的很开心哦！ 咕——呃，做梦的时候肚子也...](https://t.bilibili.com/802100604415508886)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/801743400575434769)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/801453821251289158)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/800989170204934228)
-- [[打call][打call]](https://t.bilibili.com/800988603282882579)
-- [互动抽奖 #原神# #B站粉丝数突破1700W# 「1700W粉丝数达成！」 旅行者们大家好，《原神》官方B站粉丝数现已突破1700W，为了感谢旅行者们的支持与陪伴，我们将抽...](https://t.bilibili.com/800987739990261812)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
