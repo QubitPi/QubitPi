@@ -315,11 +315,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Is there work on models that choose what data to process? [D]](https://www.reddit.com/r/MachineLearning/comments/13xkwdm/is_there_work_on_models_that_choose_what_data_to/)
 - [[D] Is it possible to develop a machine learning model for sports that can provide strategies for your opponents based on footage of their previous bouts and their stats?](https://www.reddit.com/r/MachineLearning/comments/13xkequ/d_is_it_possible_to_develop_a_machine_learning/)
 - [[D] Autoregressive model for NER/RE?](https://www.reddit.com/r/MachineLearning/comments/13xk845/d_autoregressive_model_for_nerre/)
 - [[P] : Struggling to get Project idea for implementing my ML knowledge](https://www.reddit.com/r/MachineLearning/comments/13xinbb/p_struggling_to_get_project_idea_for_implementing/)
 - [[D] AGI black market in the making ?](https://www.reddit.com/r/MachineLearning/comments/13xh69g/d_agi_black_market_in_the_making/)
-- [[D] Data drift is not a good indicator of model performance degradation](https://www.reddit.com/r/MachineLearning/comments/13xf9h8/d_data_drift_is_not_a_good_indicator_of_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
