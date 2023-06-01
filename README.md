@@ -261,11 +261,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### miHoYo (老米)
 
 <!-- MIHOYO-NEWS:START -->
+- [「呜…有点紧张…谁会收到我们的礼物呢？」](https://bbs.mihoyo.com/ys/article/39900132)
+- [派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？](https://bbs.mihoyo.com/ys/article/39899808)
+- [荒泷一斗生日快乐｜送得早不如送得巧，一会的斗虫比赛就靠它了！](https://bbs.mihoyo.com/ys/article/39899806)
 - [那么，来吧，搭档！「七圣召唤主播邀请赛」即将开赛！](https://bbs.mihoyo.com/ys/article/39852295)
 - [盛典与慧业周边登场 提瓦特乐园玩偶线上开售](https://bbs.mihoyo.com/ys/article/39817470)
-- [《原神》表情包「派蒙的画作第24弹」现已上线](https://bbs.mihoyo.com/ys/article/39787354)
-- [菲谢尔生日快乐｜与本皇女一同见证三千宇宙命运的尽头吧！](https://bbs.mihoyo.com/ys/article/39755552)
-- [《原神》过场动画-「流星知愿」](https://bbs.mihoyo.com/ys/article/39732514)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (打死不玩崩铁)
