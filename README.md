@@ -360,11 +360,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 Today, there are not a lot of companies worry about the lack of data. Everything is logged and stored in different databases and technologies. ht...](https://twitter.com/memgraphdb/status/1664249692119605253)
-- [💡 Graph users often avoid storing data within graph DBs due to performance constraints: accessing the stored graph can cause bottlenecks, especiall...](https://twitter.com/memgraphdb/status/1664228803097272323)
 - [🎓 A data lineage DB is the single source of truth for all data assets in your organization. https://memgraph.com/blog/manage-all-your-data-lineage-...](https://twitter.com/memgraphdb/status/1664204139797131264)
 - [📃 In this blog post, you can find out how to scrape documentation of your choice, extract content from the webpage and use it to build a recommenda...](https://twitter.com/memgraphdb/status/1664169157296889856)
 - [📇 Insurance companies base their business on managing risk. Their clients are rational and act reasonable and the insurance company has that assump...](https://twitter.com/memgraphdb/status/1664155064997494784)
+- [🏆 Memgraph is a tool that helps organizations rise up to these challenges and maintain well-organized, reliable data infrastructure no matter their...](https://twitter.com/memgraphdb/status/1664140722495258625)
+- [🔎 While inferring knowledge is complex due to siloed data, the right toolset can make it a manageable task. In-memory capabilities of Memgraph data...](https://twitter.com/memgraphdb/status/1664129898934353920)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
