@@ -126,9 +126,9 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
 
-I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leaves me literally no time for writing the blogs. I do, however, keep studying techs in a, what I found, more efficient approach below.
+I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
-Since my blogs were essentially paraphrasing their documentations, why not simply [fork their entire documentation and add my notes, if any, to it](https://github.com/users/QubitPi/projects/4/)? That basically saves a lot of my time and packs everything in a more giant notebook of open-sourced documentation forks. So here they are:
+Similar to large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. Since my blogs were essentially paraphrasing their documentations, forking their documentaions directly saved tons of my time and I could also add my own study notes on top of their documentations:
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
