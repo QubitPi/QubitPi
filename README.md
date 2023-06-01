@@ -348,11 +348,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Going Meta - Ep 17: RDF-ing between OpenAI and Neo4j](https://www.youtube.com/watch?v=w-PwMyzokSw)
 - [APAC Training Series - Intermediate Cypher and Data Modelling](https://www.youtube.com/watch?v=H5oeKGLHZwM)
 - [Demystifying commas in Cypher statements](https://www.youtube.com/watch?v=F-Bg8t6ZoQI)
 - [GraphStuff.fm: Innovation Vertex Interview with Michela Ledwidge &lpar;Founder @MOD&rpar;, Graphie Award 2023](https://www.youtube.com/watch?v=F_rJl5OHiaQ)
 - [Michael and the Bot - Live Coding with ChatGPT4 - Graph Layouts](https://www.youtube.com/watch?v=zK_8wYNyAec)
-- [APAC Training Series - Intro to Neo4j](https://www.youtube.com/watch?v=1-EZdN8TAvY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
