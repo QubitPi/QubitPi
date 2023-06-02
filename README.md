@@ -116,7 +116,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-### I Learn Technologies Everyday through Open Source
+## I Learn Technologies Everyday through Open Source
 
 > Because I believe _Open Sourced Information is Closest to Truth_
     
@@ -132,14 +132,14 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
-#### Machine Learning
+### Machine Learning
 
 - **Libraries**: [scikit-learn](https://qubitpi.github.io/scikit-learn/)
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **Tools**: [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
 - **Knowledge Graph**: [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
 
-#### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
+### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
 - ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
@@ -154,13 +154,13 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
-#### Frontend <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
+### Frontend <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
 - **UI Design**: [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) 
 - **[React](https://qubitpi.github.io/react.dev/)**: [Monorepo](https://qubitpi.github.io/monorepo.tools/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/)| [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [ExpressJS](https://qubitpi.github.io/expressjs.com/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [RxJS](https://qubitpi.github.io/rxjs/) | [InversifyJS](https://qubitpi.github.io/inversify.github.io/) | [Lexical](https://qubitpi.github.io/lexical/)
 - **Knowledge Graph**: [GraphQL Relay](https://qubitpi.github.io/relay/) | [Memgraph Orb](https://qubitpi.github.io/memgraph-orb/) | [three.js](https://qubitpi.github.io/three.js/docs/) | [D3-graph-gallery](https://qubitpi.github.io/D3-graph-gallery/)
 
-#### Backend <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
+### Backend <sup>[![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-11-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
 
 - **Webservice**: [Jersey](https://qubitpi.github.io/jersey/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) 
 - **GraphQL**: [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Java](https://qubitpi.github.io/graphql-java-page/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/)
@@ -168,7 +168,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Security**: [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 - **Graph Database**: [Memgraph Documentation](https://qubitpi.github.io/memgraph-docs/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
-#### Miscellaneous
+### Miscellaneous
 
 [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
 
