@@ -146,8 +146,12 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - Configuration Management: [Chef](https://qubitpi.github.io/chef-web-docs/)
 - CI/CD: [Jenkins](https://qubitpi.github.io/jenkins.io/)
 
-<img align="left" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ae5c0c06-8c20-462d-a2ee-0f5b96331614">
+<img align="left" width="50%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ae5c0c06-8c20-462d-a2ee-0f5b96331614">
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -157,9 +161,17 @@ As I grow in this area, I learned that thriving as a Software Engineer with thei
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/a8a6504b-8823-4061-a5ee-f4a4b2fc7a7e">
+<img align="right" width="50%" src="https://github.com/QubitPi/QubitPi/assets/16126939/a8a6504b-8823-4061-a5ee-f4a4b2fc7a7e">
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -169,16 +181,30 @@ This brought about a big software quality improvements but in terms of communica
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
-<img align="left" width="45%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ac22260d-8838-4edd-aad8-63ab2f50434e">
+<img align="left" width="50%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ac22260d-8838-4edd-aad8-63ab2f50434e">
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
 Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves. **With HashiCorp + OpenStack Cloud, however, business no longer needs ~~Docker + k8s~~**. With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
