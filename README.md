@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are today&#39;s LLMs still overparameterized?](https://www.reddit.com/r/MachineLearning/comments/13yrjhu/d_are_todays_llms_still_overparameterized/)
 - [Creating a generative AI the public truly wants [P]](https://www.reddit.com/r/MachineLearning/comments/13yp3c0/creating_a_generative_ai_the_public_truly_wants_p/)
 - [[P] Scalable algorithm for gene regulatory networks inference](https://www.reddit.com/r/MachineLearning/comments/13ymyff/p_scalable_algorithm_for_gene_regulatory_networks/)
 - [[Research] QLoRA: Efficient Finetuning of Quantized LLMs](https://www.reddit.com/r/MachineLearning/comments/13yleak/research_qlora_efficient_finetuning_of_quantized/)
 - [[D] Masked Node Classification/Representation Learning for Graph Neural Networks](https://www.reddit.com/r/MachineLearning/comments/13yjf8s/d_masked_node_classificationrepresentation/)
-- [[D] Hyena Hierarchy implementations?](https://www.reddit.com/r/MachineLearning/comments/13yiz4w/d_hyena_hierarchy_implementations/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
