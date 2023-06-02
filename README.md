@@ -141,7 +141,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 #### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
-> **With HashiCorp + OpenStack Cloud, ~~Docker + k8s~~ are no longer needed**
+> **With HashiCorp + OpenStack Cloud, our team no longer needs ~~Docker + k8s~~**
 >
 > - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves
 > - With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
