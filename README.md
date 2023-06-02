@@ -186,8 +186,6 @@ This brought about a big software quality improvements but in terms of communica
 <br/>
 <br/>
 
----
-
 <img align="left" width="50%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ac22260d-8838-4edd-aad8-63ab2f50434e">
 
 <br/>
