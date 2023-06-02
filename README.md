@@ -141,15 +141,46 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 #### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
-> **With HashiCorp + OpenStack Cloud, business no longer needs ~~Docker + k8s~~**
->
-> - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves
-> - With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
-
 - ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - Configuration Management: [Chef](https://qubitpi.github.io/chef-web-docs/)
 - CI/CD: [Jenkins](https://qubitpi.github.io/jenkins.io/)
+
+<img align="left" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ae5c0c06-8c20-462d-a2ee-0f5b96331614">
+
+<br/>
+<br/>
+
+I believe [**IT Infrastructure is the "home" to softwares**](https://www.infoq.com/presentations/scaling-operations-facebook/). Just like, [quoting Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s), "the happiest people are the people that have great families", the highest-quality softwares are no possible unless backed by the best-made tech infrustructure, and that's what I spend most of my time on in software engineering area.
+
+As I grow in this area, I learned that thriving as a Software Engineer with their internal and external engagement demands requires high levels of _interpersonal sophistication_. It is no doubt then that the **single hardest task in team work is to _efficient communication_**. This is gets exacerbated in a software development cycle in which a developer needs to distribute their communication efforts among **3** parties, which makes mis-communication frequent
+
+<br/>
+<br/>
+
+<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/a8a6504b-8823-4061-a5ee-f4a4b2fc7a7e">
+
+<br/>
+<br/>
+
+When I joined Yahoo at 2016, the company had made a [big move by completely removing QA team](https://spectrum.ieee.org/yahoos-engineers-move-to-coding-without-a-net). Software developers were required to write automated tests by themselves using open source test frameworks, such as Groovy Spock, Jest, and Cypress. The software testing was fully automated through [Yahoo's own CI platform](https://screwdriver.cd/).
+
+This brought about a big software quality improvements but in terms of communication quality, at least from my experience, was still not optimal. I've had such experience when I finshed implementing a system but waited for extra couple of weeks before DevOps Engineer setup a dedicated server for deployment. This virtually got mis-translated to my boss as "Jiaqi had his work delayed for couple weeks".
+
+<br/>
+<br/>
+
+---
+
+<img align="left" width="45%" src="https://github.com/QubitPi/QubitPi/assets/16126939/ac22260d-8838-4edd-aad8-63ab2f50434e">
+
+<br/>
+<br/>
+
+Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves. **With HashiCorp + OpenStack Cloud, however, business no longer needs ~~Docker + k8s~~**. With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
+
+<br/>
+<br/>
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
@@ -335,8 +366,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
-
-> [**Infrastructure is the "home" to softwares**](https://www.infoq.com/presentations/scaling-operations-facebook/). Just like, [quoting Donald Trump](https://www.youtube.com/watch?v=f1dVtwfVXx0&t=1077s), "the happiest people are the people that have great families", the "happiest" softwares are backed by the best-made tech infrustructure, and that's what I spend most of my time on in software engineering area
 
 #### [OpenStack News](https://superuser.openstack.org/)
 
