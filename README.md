@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LSTM with irregular time intervals](https://www.reddit.com/r/MachineLearning/comments/13ya51t/d_lstm_with_irregular_time_intervals/)
 - [[R]: ColBERT - understanding query augmentation technique used there](https://www.reddit.com/r/MachineLearning/comments/13y7mr6/r_colbert_understanding_query_augmentation/)
 - [[R] Ambient Diffusion: Learning Clean Distributions from Corrupted Data](https://www.reddit.com/r/MachineLearning/comments/13y0m8r/r_ambient_diffusion_learning_clean_distributions/)
 - [[R] Blockwise Parallel Transformer for Long Context Large Models](https://www.reddit.com/r/MachineLearning/comments/13xyvgt/r_blockwise_parallel_transformer_for_long_context/)
 - [[D] XGBoost: banding continuous variables](https://www.reddit.com/r/MachineLearning/comments/13xttkn/d_xgboost_banding_continuous_variables/)
-- [[D] Bulk literature review of research papers/ articles using GPT, LLM ?](https://www.reddit.com/r/MachineLearning/comments/13xpwom/d_bulk_literature_review_of_research_papers/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
