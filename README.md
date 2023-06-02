@@ -139,26 +139,18 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Tools**: [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
 - **Knowledge Graph**: [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [Graphviz](https://qubitpi.github.io/graphviz.github.io/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
 
-#### Immutable Infrastructure
+#### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
 > **With HashiCorp + OpenStack Cloud, ~~Docker + k8s~~ are no longer needed**
 >
 > - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves
 > - With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
 
-[Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure) | [Chef](https://qubitpi.github.io/chef-web-docs/) | ~~[Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)~~ | [Jenkins](https://qubitpi.github.io/jenkins.io/)
-
-##### ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)
-
-[Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
-
-##### [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-
-[Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
-
-##### Virtualization
-
-~~[Docker](https://qubitpi.github.io/docker-docs/)~~ | [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/))
+- ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors): [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+- [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U): [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
+- Configuration Management: [Chef](https://qubitpi.github.io/chef-web-docs/)
+- CI/CD: [Jenkins](https://qubitpi.github.io/jenkins.io/)
+- Virtualization: [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/)) | ~~[Docker](https://qubitpi.github.io/docker-docs/)~~ | ~~[Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)~~
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
