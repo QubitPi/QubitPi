@@ -302,11 +302,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Which track of #NODES2023 are you more interested in? Btw, have you registered yet??? 🖥🙋 https://okt.to/yOAmVE #Neo4j #visualization #ai #ML](https://twitter.com/neo4j/status/1664623328911294467)
+- [Re @jalakoo goes deep on How to generate deeply interconnected mock datasets 👇 https://okt.to/a5s2bS #Neo4j](https://twitter.com/neo4j/status/1664618057765998592)
 - [Your June demo agenda is ready!!📓 Take a look at participating in any of these demos for FREE!! https://okt.to/SZR5Yu #GraphNeuralNetwork #Neo4j #G...](https://twitter.com/neo4j/status/1664391394482438144)
 - [Re @drraghavendra91 Hello! This year, we will be in Mumbai, India. &lpar;June 13&rpar;](https://twitter.com/neo4j/status/1664349828246122502)
 - [&quot;The market is expected to continue its growth trajectory in the coming years as more organizations recognize the value of graph databases.&quot; @shasbe w...](https://twitter.com/neo4j/status/1664347602098290690)
-- [The 🌎 connected with graphs! Meet our experts and hear amazing graph stories from top customers at the upcoming #Graphsummit2023 events. You can re...](https://twitter.com/neo4j/status/1664315927708549121)
-- [Going Meta - Ep 17: RDF-ing between OpenAI and Neo4j @BarrasaDV https://twitter.com/i/broadcasts/1vOGwMobaMExB](https://twitter.com/neo4j/status/1664285878343323648)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
