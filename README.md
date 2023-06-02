@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1664591942297026560)
 - [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ https://mem...](https://twitter.com/memgraphdb/status/1664573823063142400)
 - [🚀 If you are spending more time writing code to develop, deploy and manage your graph projects, it’s time you tried Memgraph. https://memgraph.com...](https://twitter.com/memgraphdb/status/1664568039243763712)
 - [🔎 The whole benchmark executes 23 representative workloads, each consisting of a write, read, update, aggregate or analytical query. https://memgra...](https://twitter.com/memgraphdb/status/1664540857700106246)
 - [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1664517451277639681)
-- [🔎 Identity and Access Management &lpar;IAM&rpar; includes technologies and processes that enable organizations to provide users with appropriate access to sy...](https://twitter.com/memgraphdb/status/1664506884018012160)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
