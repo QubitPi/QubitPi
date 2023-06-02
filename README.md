@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Bytes are all you need: Transformers operating directly on file bytes](https://www.reddit.com/r/MachineLearning/comments/13yhy93/r_bytes_are_all_you_need_transformers_operating/)
+- [[R] StyleDrop: Text-to-Image Generation in Any Style](https://www.reddit.com/r/MachineLearning/comments/13yhub4/r_styledrop_texttoimage_generation_in_any_style/)
 - [[P] Python SDK for PostgresML w/ scalable LLM embedding memory and text generation](https://www.reddit.com/r/MachineLearning/comments/13yguvp/p_python_sdk_for_postgresml_w_scalable_llm/)
 - [[P] Datalab: A Linter for ML Datasets](https://www.reddit.com/r/MachineLearning/comments/13yg1bz/p_datalab_a_linter_for_ml_datasets/)
 - [[N] This week in AI - all the Major AI development in a nutshell](https://www.reddit.com/r/MachineLearning/comments/13yg0b5/n_this_week_in_ai_all_the_major_ai_development_in/)
-- [[P] langchain-huggingGPT](https://www.reddit.com/r/MachineLearning/comments/13ye43a/p_langchainhugginggpt/)
-- [[Project] Event triggering sensitivity refinement using ML](https://www.reddit.com/r/MachineLearning/comments/13yc343/project_event_triggering_sensitivity_refinement/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
