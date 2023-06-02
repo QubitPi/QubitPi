@@ -176,8 +176,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Security**: [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 - **Graph Database**: [Memgraph Documentation](https://qubitpi.github.io/memgraph-docs/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/197372635-288b6655-e8d4-44f6-929f-3109fb0c5d30.png">
-
 #### Miscellaneous
 
 [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [sed](https://qubitpi.github.io/sed/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
