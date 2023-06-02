@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Datalab: A Linter for ML Datasets](https://www.reddit.com/r/MachineLearning/comments/13yg1bz/p_datalab_a_linter_for_ml_datasets/)
+- [[N] This week in AI - all the Major AI development in a nutshell](https://www.reddit.com/r/MachineLearning/comments/13yg0b5/n_this_week_in_ai_all_the_major_ai_development_in/)
 - [[P] langchain-huggingGPT](https://www.reddit.com/r/MachineLearning/comments/13ye43a/p_langchainhugginggpt/)
 - [[Project] Event triggering sensitivity refinement using ML](https://www.reddit.com/r/MachineLearning/comments/13yc343/project_event_triggering_sensitivity_refinement/)
 - [[R] Cocktail🍸: Mixing Multi-Modality Controls for Text-Conditional Image Generation](https://www.reddit.com/r/MachineLearning/comments/13yc214/r_cocktail_mixing_multimodality_controls_for/)
-- [[D] LSTM with irregular time intervals](https://www.reddit.com/r/MachineLearning/comments/13ya51t/d_lstm_with_irregular_time_intervals/)
-- [[R]: ColBERT - understanding query augmentation technique used there](https://www.reddit.com/r/MachineLearning/comments/13y7mr6/r_colbert_understanding_query_augmentation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
