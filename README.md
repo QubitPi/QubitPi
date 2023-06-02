@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1664666186070515714)
+- [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1664662408424570882)
 - [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1664639759489064961)
 - [🚀 Efficient database management lies at the core of any successful application or business operation. Use @PrometheusIO to monitor Memgraph’s perf...](https://twitter.com/memgraphdb/status/1664625109749973000)
 - [🎓 Sixty-five percent of the population are visual learners, and the information from visuals is stored in the long-term memory quicker and stays th...](https://twitter.com/memgraphdb/status/1664621393823035393)
-- [❗️ The problem with traditional IAM systems and why they are failing is because they are mainly still using CSV files to extract data from the HR sy...](https://twitter.com/memgraphdb/status/1664591942297026560)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ https://mem...](https://twitter.com/memgraphdb/status/1664573823063142400)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
