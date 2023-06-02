@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Paper Explained - RWKV: Reinventing RNNs for the Transformer Era &lpar;Full Video Analysis&rpar;](https://www.reddit.com/r/MachineLearning/comments/13ys4l0/d_paper_explained_rwkv_reinventing_rnns_for_the/)
 - [[P] Hybrid CNN-Transformer classification model](https://www.reddit.com/r/MachineLearning/comments/13ys1hm/p_hybrid_cnntransformer_classification_model/)
 - [[D] Are today&#39;s LLMs still overparameterized?](https://www.reddit.com/r/MachineLearning/comments/13yrjhu/d_are_todays_llms_still_overparameterized/)
 - [Creating a generative AI the public truly wants [P]](https://www.reddit.com/r/MachineLearning/comments/13yp3c0/creating_a_generative_ai_the_public_truly_wants_p/)
 - [[P] Scalable algorithm for gene regulatory networks inference](https://www.reddit.com/r/MachineLearning/comments/13ymyff/p_scalable_algorithm_for_gene_regulatory_networks/)
-- [[Research] QLoRA: Efficient Finetuning of Quantized LLMs](https://www.reddit.com/r/MachineLearning/comments/13yleak/research_qlora_efficient_finetuning_of_quantized/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
