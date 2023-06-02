@@ -181,6 +181,10 @@ Docker borns out of the traditional on-premis technology. We manage resource iso
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
