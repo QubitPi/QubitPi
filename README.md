@@ -146,8 +146,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 > - Docker borns out of the traditional on-premis technology. We manage resource isolations ourselves
 > - With on-demand cloud, resource isolations are assumed NOT managed. We instead _manage business logics_ with efficiency (Packer) and immutability (Terraform)
 
-- ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors): [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
-- [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U): [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
+- ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+- [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - Configuration Management: [Chef](https://qubitpi.github.io/chef-web-docs/)
 - CI/CD: [Jenkins](https://qubitpi.github.io/jenkins.io/)
 - Virtualization: [Linux Containers](https://qubitpi.github.io/linuxcontainers.org/) | [QEMU](https://qubitpi.github.io/qemu/) ([WIKI](https://qubitpi.github.io/qemu-web/)) | ~~[Docker](https://qubitpi.github.io/docker-docs/)~~ | ~~[Kubernetes](https://qubitpi.github.io/kubernetes-website/) | [Helm Charts](https://qubitpi.github.io/helm-www/)~~
@@ -185,7 +185,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-My [ ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white) ](https://space.bilibili.com/1771839550)
+My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
 -----------
 
 <img align="right" width="30%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
