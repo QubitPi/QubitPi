@@ -235,11 +235,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (打死不玩崩铁)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [《原神》剧情PV-「牌中秘宝」](https://ys.mihoyo.com/main/news/detail/27831)
 - [「七圣召唤」热斗模式：列阵斗巧](https://ys.mihoyo.com/main/news/detail/27828)
 - [荒泷一斗生日快乐｜送得早不如送得巧，一会的斗虫比赛就靠它了！](https://ys.mihoyo.com/main/news/detail/27808)
 - [派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？](https://ys.mihoyo.com/main/news/detail/27807)
 - [《原神》表情包「派蒙的画作第24弹」现已上线](https://ys.mihoyo.com/main/news/detail/27768)
-- [菲谢尔生日快乐｜与本皇女一同见证三千宇宙命运的尽头吧！](https://ys.mihoyo.com/main/news/detail/27767)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 #### Honkai Impact 3 (隔壁三崩子)
