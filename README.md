@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Masked Node Classification/Representation Learning for Graph Neural Networks](https://www.reddit.com/r/MachineLearning/comments/13yjf8s/d_masked_node_classificationrepresentation/)
 - [[D] Hyena Hierarchy implementations?](https://www.reddit.com/r/MachineLearning/comments/13yiz4w/d_hyena_hierarchy_implementations/)
 - [[Project] Hiring a full-stack AI dev!](https://www.reddit.com/r/MachineLearning/comments/13yih96/project_hiring_a_fullstack_ai_dev/)
 - [[R] Bytes are all you need: Transformers operating directly on file bytes](https://www.reddit.com/r/MachineLearning/comments/13yhy93/r_bytes_are_all_you_need_transformers_operating/)
 - [[R] StyleDrop: Text-to-Image Generation in Any Style](https://www.reddit.com/r/MachineLearning/comments/13yhub4/r_styledrop_texttoimage_generation_in_any_style/)
-- [[P] Python SDK for PostgresML w/ scalable LLM embedding memory and text generation](https://www.reddit.com/r/MachineLearning/comments/13yguvp/p_python_sdk_for_postgresml_w_scalable_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
