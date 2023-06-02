@@ -204,11 +204,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802570130244501587><img align='right' src='https://i1.hdslb.com/bfs/archive/49085fdaacc59b6d555172e6f180117d14acd141.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [来一局七圣召唤吧！ [原神_哇]](https://t.bilibili.com/802570130244501587)
+- [互动抽奖 #原神# #牌中秘宝# 《原神》剧情PV-「牌中秘宝」现已发布~ https://www.bilibili.com/video/BV1GM4y1e7rp 一段尘封的往事，一张埋藏着宝物的卡牌，一个...](https://t.bilibili.com/802567140943069220)
+- [《原神》剧情PV-「牌中秘宝」](https://t.bilibili.com/802564589733544081)
 - [恭喜@-羽澪-@楽乜-@堂溪春芹等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/802502621944348805)
 - [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：列阵斗巧即将开启~ 〓特殊规则〓 在本次「热斗模式」下，旅行者需要使用临场选择的角色牌和随机生成的...](https://t.bilibili.com/802103181654884403)
-- [互动抽奖 #原神# #荒泷一斗# #生日快乐# 让我看看你送本大爷的是什么——哦哦哦！竟然是鬼兜虫！ 看这家伙强健的犄角！健硕的身体！傲视一切的神态！简直是特特...](https://t.bilibili.com/802100905064267840)
-- [互动抽奖 #原神# #派蒙# #生日快乐# 啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？ 谢谢你们特意来梦里为我庆祝生日，我真的很开心哦！ 咕——呃，做梦的时候肚子也...](https://t.bilibili.com/802100604415508886)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/801743400575434769)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
