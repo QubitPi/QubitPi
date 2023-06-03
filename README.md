@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Neural network for audio training sample size](https://www.reddit.com/r/MachineLearning/comments/13zi2nd/r_neural_network_for_audio_training_sample_size/)
 - [[P] CPP Implementation of YoloV8 using TensorRT](https://www.reddit.com/r/MachineLearning/comments/13zho35/p_cpp_implementation_of_yolov8_using_tensorrt/)
 - [[R] Undetectable Watermarks for Language Models](https://www.reddit.com/r/MachineLearning/comments/13zh44p/r_undetectable_watermarks_for_language_models/)
 - [[D] Any way to test or use the &quot;Falcon 40b&quot; model?](https://www.reddit.com/r/MachineLearning/comments/13zfg1u/d_any_way_to_test_or_use_the_falcon_40b_model/)
 - [[P] Pure Rust implementation of a minimal GPT language model](https://www.reddit.com/r/MachineLearning/comments/13zbnyv/p_pure_rust_implementation_of_a_minimal_gpt/)
-- [[R] Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://www.reddit.com/r/MachineLearning/comments/13zbhx8/r_neuralangelo_highfidelity_neural_surface/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
