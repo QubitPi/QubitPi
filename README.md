@@ -204,11 +204,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802873707374575618><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@AAA-蟹堡王前台阿贝多@潇雨文文@不凹了红莲我不配等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/802873707374575618)
 - [来一局七圣召唤吧！ [原神_哇]](https://t.bilibili.com/802570130244501587)
 - [互动抽奖 #原神# #牌中秘宝# 《原神》剧情PV-「牌中秘宝」现已发布~ https://www.bilibili.com/video/BV1GM4y1e7rp 一段尘封的往事，一张埋藏着宝物的卡牌，一个...](https://t.bilibili.com/802567140943069220)
 - [《原神》剧情PV-「牌中秘宝」](https://t.bilibili.com/802564589733544081)
 - [恭喜@-羽澪-@楽乜-@堂溪春芹等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/802502621944348805)
-- [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：列阵斗巧即将开启~ 〓特殊规则〓 在本次「热斗模式」下，旅行者需要使用临场选择的角色牌和随机生成的...](https://t.bilibili.com/802103181654884403)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
