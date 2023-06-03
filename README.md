@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] K-Means clustering in Python](https://www.reddit.com/r/MachineLearning/comments/13zqhit/n_kmeans_clustering_in_python/)
+- [&quot;[R]&quot;, &quot;[P]&quot; Advanced Threat Detection in Automotive Manufacturing: Leveraging AI and ML for Enhanced Cybersecurity and Operations Management in Industry 4.0 Dissertation](https://www.reddit.com/r/MachineLearning/comments/13zqfvf/r_p_advanced_threat_detection_in_automotive/)
 - [[D] Educating People about Neural Networks](https://www.reddit.com/r/MachineLearning/comments/13zpfl6/d_educating_people_about_neural_networks/)
 - [[R] Data Scientists Wanted for a Research Study](https://www.reddit.com/r/MachineLearning/comments/13zowfn/r_data_scientists_wanted_for_a_research_study/)
 - [Ideas on NLP or CV for Project [P]](https://www.reddit.com/r/MachineLearning/comments/13zn8rw/ideas_on_nlp_or_cv_for_project_p/)
-- [[D][R] El-attention for faster decoding, does it work?](https://www.reddit.com/r/MachineLearning/comments/13zmgre/dr_elattention_for_faster_decoding_does_it_work/)
-- [[D] Suggestions for higher studies](https://www.reddit.com/r/MachineLearning/comments/13zm241/d_suggestions_for_higher_studies/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
