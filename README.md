@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Ideas on NLP or CV for Project [P]](https://www.reddit.com/r/MachineLearning/comments/13zn8rw/ideas_on_nlp_or_cv_for_project_p/)
 - [[D][R] El-attention for faster decoding, does it work?](https://www.reddit.com/r/MachineLearning/comments/13zmgre/dr_elattention_for_faster_decoding_does_it_work/)
 - [[Project] Domestic Dragon🐲](https://www.reddit.com/r/MachineLearning/comments/13zm92y/project_domestic_dragon/)
 - [[D] Suggestions for higher studies](https://www.reddit.com/r/MachineLearning/comments/13zm241/d_suggestions_for_higher_studies/)
 - [[Project] I use ML to recap the news from 40 media everyday](https://www.reddit.com/r/MachineLearning/comments/13zm1yd/project_i_use_ml_to_recap_the_news_from_40_media/)
-- [[R] Brainformers: Trading Simplicity for Efficiency &lpar;Google Deepmind&rpar;](https://www.reddit.com/r/MachineLearning/comments/13zlz7t/r_brainformers_trading_simplicity_for_efficiency/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
