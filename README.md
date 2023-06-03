@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Notes on training BERT from scratch on an 8GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/13z8zew/p_notes_on_training_bert_from_scratch_on_an_8gb/)
 - [[R] MindBigData2023 MNIST-8B](https://www.reddit.com/r/MachineLearning/comments/13z67yg/r_mindbigdata2023_mnist8b/)
 - [[D] ML PhDs who went into industry, do you miss publishing papers?](https://www.reddit.com/r/MachineLearning/comments/13z5x7l/d_ml_phds_who_went_into_industry_do_you_miss/)
 - [[D] An interesting Interplay of Cost, Accuracy, and Efficiency Trends in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/13z5w4m/d_an_interesting_interplay_of_cost_accuracy_and/)
 - [[D] Dataset scaling for deep learning era](https://www.reddit.com/r/MachineLearning/comments/13z5cdt/d_dataset_scaling_for_deep_learning_era/)
-- [[Research] LLM-CXR: Direct image generation using LLMs without StableDiffusion nor Adapter](https://www.reddit.com/r/MachineLearning/comments/13z2meg/research_llmcxr_direct_image_generation_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
