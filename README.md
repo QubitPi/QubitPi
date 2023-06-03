@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1664918346213519362)
 - [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1664879842662268928)
 - [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1664869271866949638)
 - [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. https://memgraph.com/blog/data-persis...](https://twitter.com/memgraphdb/status/1664854676196433922)
 - [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. https://memgraph.com...](https://twitter.com/memgraphdb/status/1664704184401252352)
-- [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1664680279464607751)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
