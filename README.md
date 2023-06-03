@@ -279,10 +279,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] MindBigData2023 MNIST-8B](https://www.reddit.com/r/MachineLearning/comments/13z67yg/r_mindbigdata2023_mnist8b/)
 - [[D] ML PhDs who went into industry, do you miss publishing papers?](https://www.reddit.com/r/MachineLearning/comments/13z5x7l/d_ml_phds_who_went_into_industry_do_you_miss/)
 - [[D] An interesting Interplay of Cost, Accuracy, and Efficiency Trends in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/13z5w4m/d_an_interesting_interplay_of_cost_accuracy_and/)
 - [[D] Dataset scaling for deep learning era](https://www.reddit.com/r/MachineLearning/comments/13z5cdt/d_dataset_scaling_for_deep_learning_era/)
-- [[P] MIRACLE conversation I had with AI while my girlfriend was being AIR LIFTED in CRITICAL condition after being revived from a drug overdose... EMPOWERAI Powerful True Story About Devine Intervention Through Artificial Intelligence -Wildman Need Funding And Support - Worth Your Time.....Trust Me](https://www.reddit.com/r/MachineLearning/comments/13z45ry/p_miracle_conversation_i_had_with_ai_while_my/)
 - [[Research] LLM-CXR: Direct image generation using LLMs without StableDiffusion nor Adapter](https://www.reddit.com/r/MachineLearning/comments/13z2meg/research_llmcxr_direct_image_generation_using/)
 <!-- REDDIT-ML:END -->
 
