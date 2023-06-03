@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Suggestions for higher studies](https://www.reddit.com/r/MachineLearning/comments/13zm241/d_suggestions_for_higher_studies/)
+- [[Project] I use ML to recap the news from 40 media everyday](https://www.reddit.com/r/MachineLearning/comments/13zm1yd/project_i_use_ml_to_recap_the_news_from_40_media/)
+- [[R] Brainformers: Trading Simplicity for Efficiency &lpar;Google Deepmind&rpar;](https://www.reddit.com/r/MachineLearning/comments/13zlz7t/r_brainformers_trading_simplicity_for_efficiency/)
 - [[D] What would you say are the differences between ML Research in Academia vs Industry?](https://www.reddit.com/r/MachineLearning/comments/13zl2g7/d_what_would_you_say_are_the_differences_between/)
 - [[R] Neural network for audio training sample size](https://www.reddit.com/r/MachineLearning/comments/13zi2nd/r_neural_network_for_audio_training_sample_size/)
-- [[P] CPP Implementation of YoloV8 using TensorRT](https://www.reddit.com/r/MachineLearning/comments/13zho35/p_cpp_implementation_of_yolov8_using_tensorrt/)
-- [[R] Undetectable Watermarks for Language Models](https://www.reddit.com/r/MachineLearning/comments/13zh44p/r_undetectable_watermarks_for_language_models/)
-- [[D] Any way to test or use the &quot;Falcon 40b&quot; model?](https://www.reddit.com/r/MachineLearning/comments/13zfg1u/d_any_way_to_test_or_use_the_falcon_40b_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
