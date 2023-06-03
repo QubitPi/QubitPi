@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R][D]Anaconda env config for LLM research](https://www.reddit.com/r/MachineLearning/comments/13z12zd/rdanaconda_env_config_for_llm_research/)
 - [[D] Machine Learning for Digital Room Correction?](https://www.reddit.com/r/MachineLearning/comments/13yzbnx/d_machine_learning_for_digital_room_correction/)
 - [The Impact of Positional Encoding on Length Generalization in Transformers](https://www.reddit.com/r/MachineLearning/comments/13yuu0i/the_impact_of_positional_encoding_on_length/)
 - [[D] Finetuning an LLM to mimic artists with recent approaches](https://www.reddit.com/r/MachineLearning/comments/13yshoe/d_finetuning_an_llm_to_mimic_artists_with_recent/)
 - [[D] Paper Explained - RWKV: Reinventing RNNs for the Transformer Era &lpar;Full Video Analysis&rpar;](https://www.reddit.com/r/MachineLearning/comments/13ys4l0/d_paper_explained_rwkv_reinventing_rnns_for_the/)
-- [[P] Hybrid CNN-Transformer classification model](https://www.reddit.com/r/MachineLearning/comments/13ys1hm/p_hybrid_cnntransformer_classification_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
