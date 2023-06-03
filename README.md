@@ -201,7 +201,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802570130244501587><img align='right' src='https://i1.hdslb.com/bfs/archive/49085fdaacc59b6d555172e6f180117d14acd141.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802873707374575618><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [来一局七圣召唤吧！ [原神_哇]](https://t.bilibili.com/802570130244501587)
