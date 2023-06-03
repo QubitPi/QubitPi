@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 If you have been using NetworkX for one of your projects, you’ve probably noticed some of its limitations. https://memgraph.com/blog/data-persis...](https://twitter.com/memgraphdb/status/1664854676196433922)
 - [💡 You no longer need to rely on manually inspecting data lineage before making changes to your organization’s data landscape. https://memgraph.com...](https://twitter.com/memgraphdb/status/1664704184401252352)
 - [❗️ To create a knowledge graph, you must be careful about which toolset you choose. If you need to use several different solutions, it is impossible...](https://twitter.com/memgraphdb/status/1664680279464607751)
 - [🎓 Optimizing a supply chain network can get really messy if you can’t identify dependant products, correctly schedule processes and find critical ...](https://twitter.com/memgraphdb/status/1664666186070515714)
 - [An essential part of every visualization is the look and feel of it. With Orb, you can style graphs with JSON definitions for nodes and edges, but we ...](https://twitter.com/memgraphdb/status/1664662408424570882)
-- [🇪🇺 The GDPR has placed high demands on organizations doing business in the European Union, mainly focused on how personal data is collected and ...](https://twitter.com/memgraphdb/status/1664639759489064961)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
