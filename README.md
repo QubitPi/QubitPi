@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Pure Rust implementation of a minimal GPT language model](https://www.reddit.com/r/MachineLearning/comments/13zbnyv/p_pure_rust_implementation_of_a_minimal_gpt/)
+- [[R] Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://www.reddit.com/r/MachineLearning/comments/13zbhx8/r_neuralangelo_highfidelity_neural_surface/)
 - [[P] Recapping recent LLM research concerning tuning strategies &amp; data efficiency](https://www.reddit.com/r/MachineLearning/comments/13zb5qv/p_recapping_recent_llm_research_concerning_tuning/)
 - [[D] Training StarCoder using 3D parallelism.](https://www.reddit.com/r/MachineLearning/comments/13zax34/d_training_starcoder_using_3d_parallelism/)
 - [[D] Any known model that can detect abnormal human images? Like 2 hands or duplicate limbs? Will be used to clear AI images](https://www.reddit.com/r/MachineLearning/comments/13zamje/d_any_known_model_that_can_detect_abnormal_human/)
-- [[Research] [ highly imbalanced dataset ] LDAM loss](https://www.reddit.com/r/MachineLearning/comments/13za2ib/research_highly_imbalanced_dataset_ldam_loss/)
-- [[P] Notes on training BERT from scratch on an 8GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/13z8zew/p_notes_on_training_bert_from_scratch_on_an_8gb/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
