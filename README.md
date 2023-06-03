@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Any known model that can detect abnormal human images? Like 2 hands or duplicate limbs? Will be used to clear AI images](https://www.reddit.com/r/MachineLearning/comments/13zamje/d_any_known_model_that_can_detect_abnormal_human/)
 - [[Research] [ highly imbalanced dataset ] LDAM loss](https://www.reddit.com/r/MachineLearning/comments/13za2ib/research_highly_imbalanced_dataset_ldam_loss/)
 - [[P] Notes on training BERT from scratch on an 8GB consumer GPU](https://www.reddit.com/r/MachineLearning/comments/13z8zew/p_notes_on_training_bert_from_scratch_on_an_8gb/)
 - [[R] MindBigData2023 MNIST-8B](https://www.reddit.com/r/MachineLearning/comments/13z67yg/r_mindbigdata2023_mnist8b/)
 - [[D] ML PhDs who went into industry, do you miss publishing papers?](https://www.reddit.com/r/MachineLearning/comments/13z5x7l/d_ml_phds_who_went_into_industry_do_you_miss/)
-- [[D] An interesting Interplay of Cost, Accuracy, and Efficiency Trends in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/13z5w4m/d_an_interesting_interplay_of_cost_accuracy_and/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
