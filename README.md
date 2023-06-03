@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Undetectable Watermarks for Language Models](https://www.reddit.com/r/MachineLearning/comments/13zh44p/r_undetectable_watermarks_for_language_models/)
 - [[D] Any way to test or use the &quot;Falcon 40b&quot; model?](https://www.reddit.com/r/MachineLearning/comments/13zfg1u/d_any_way_to_test_or_use_the_falcon_40b_model/)
 - [[P] Pure Rust implementation of a minimal GPT language model](https://www.reddit.com/r/MachineLearning/comments/13zbnyv/p_pure_rust_implementation_of_a_minimal_gpt/)
 - [[R] Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://www.reddit.com/r/MachineLearning/comments/13zbhx8/r_neuralangelo_highfidelity_neural_surface/)
 - [[P] Recapping recent LLM research concerning tuning strategies &amp; data efficiency](https://www.reddit.com/r/MachineLearning/comments/13zb5qv/p_recapping_recent_llm_research_concerning_tuning/)
-- [[D] Training StarCoder using 3D parallelism.](https://www.reddit.com/r/MachineLearning/comments/13zax34/d_training_starcoder_using_3d_parallelism/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
