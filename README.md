@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1664954333597782019)
 - [❗️ Relational databases were not designed to handle both the high amounts of writes in high-velocity systems, as well as complex online network anal...](https://twitter.com/memgraphdb/status/1664936212686151682)
 - [🚀 Building a recommendation system using Memgraph is simpler than you think. Explore the power of product characteristics and see how they can tran...](https://twitter.com/memgraphdb/status/1664928913791897601)
 - [🚀 By using #Memgraph for data storage and analytics, you can easily harness the power of #graphdatabase to manage highly interconnected or networke...](https://twitter.com/memgraphdb/status/1664918346213519362)
 - [❗️ The downside of this digitalization period is that information, if not protected by modern computer security standards, can be leaked or compromi...](https://twitter.com/memgraphdb/status/1664879842662268928)
+- [🎓 For every problem in the energy management system, there is a graph algorithm that can point you in the right direction! https://memgraph.com/blo...](https://twitter.com/memgraphdb/status/1664869271866949638)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
