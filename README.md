@@ -281,10 +281,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I 3D-Printed some Eigenfaces!](https://www.reddit.com/r/MachineLearning/comments/140u0hv/p_i_3dprinted_some_eigenfaces/)
 - [[Discussion] I finally got through the ChatGPT noise and found a book that goes beyond Prompt Engineering and talks about OpenAI API integration](https://www.reddit.com/r/MachineLearning/comments/140rns9/discussion_i_finally_got_through_the_chatgpt/)
 - [[P] Repurposing DETR to a face recognition task](https://www.reddit.com/r/MachineLearning/comments/140nxre/p_repurposing_detr_to_a_face_recognition_task/)
 - [[D] Labelling strategy](https://www.reddit.com/r/MachineLearning/comments/140nfle/d_labelling_strategy/)
-- [[D]Preprocess_content.py](https://www.reddit.com/r/MachineLearning/comments/140mx12/dpreprocess_contentpy/)
 - [[D] Complementary Electives](https://www.reddit.com/r/MachineLearning/comments/140mjit/d_complementary_electives/)
 <!-- REDDIT-ML:END -->
 
