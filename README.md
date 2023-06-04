@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] HuManiFlow: Ancestor-Conditioned Normalising Flows on SO&lpar;3&rpar; Manifolds for Human Pose and Shape Distribution Estimation](https://www.reddit.com/r/MachineLearning/comments/140c69t/r_humaniflow_ancestorconditioned_normalising/)
 - [[P] Exploratory Side Project: Testing Machine Learning Resilience for Overcoming Cold Gas Thruster Failure in SpaceX Booster Landings](https://www.reddit.com/r/MachineLearning/comments/140b7r0/p_exploratory_side_project_testing_machine/)
 - [[R] AITemplate Python to AMD compiler {META}](https://www.reddit.com/r/MachineLearning/comments/14070wq/r_aitemplate_python_to_amd_compiler_meta/)
 - [Using python functions in prompt chaining to control LLMs [P]](https://www.reddit.com/r/MachineLearning/comments/1405f4k/using_python_functions_in_prompt_chaining_to/)
 - [[discussion] discrete search in program synthesis. Need information](https://www.reddit.com/r/MachineLearning/comments/140258g/discussion_discrete_search_in_program_synthesis/)
-- [[N] StyleDrop: Text-To-Image Generation in Any Style - Google research](https://www.reddit.com/r/MachineLearning/comments/13zz0zc/n_styledrop_texttoimage_generation_in_any_style/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
