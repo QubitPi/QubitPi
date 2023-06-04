@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Data lineage helps you make informed decisions that reduce costs, streamline operations and power innovation. Discover how stream tech helps with...](https://twitter.com/memgraphdb/status/1665256323104088065)
 - [🎓 With a graph database as its core product, a visualization tool of Memgraph Lab and the extendable graph algorithm library MAGE, #Memgraph offers...](https://twitter.com/memgraphdb/status/1665231660512837633)
 - [🎓 Since its early introduction, graph neural networks have proven to be extremely useful in numerous domains and applications. https://memgraph.com...](https://twitter.com/memgraphdb/status/1665209009874280448)
 - [🎓 For the data to be useful, it needs to be interconnected and shaped into a knowledge graph that will produce value for the company. Read how grap...](https://twitter.com/memgraphdb/status/1665062292734484482)
 - [🔎 Once raw data is processed and ingested into a database, the company has a massive amount of connected data that is waiting for the data scientis...](https://twitter.com/memgraphdb/status/1665044676687151108)
-- [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1665025949019021312)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
