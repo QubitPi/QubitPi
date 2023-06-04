@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] I finally got through the ChatGPT noise and found a book that goes beyond Prompt Engineering and talks about OpenAI API integration](https://www.reddit.com/r/MachineLearning/comments/140rns9/discussion_i_finally_got_through_the_chatgpt/)
 - [[P]Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All](https://www.reddit.com/r/MachineLearning/comments/140pzuk/ptool_for_chatting_with_your_codebase_and_docs/)
 - [[P] Repurposing DETR to a face recognition task](https://www.reddit.com/r/MachineLearning/comments/140nxre/p_repurposing_detr_to_a_face_recognition_task/)
 - [[D] Labelling strategy](https://www.reddit.com/r/MachineLearning/comments/140nfle/d_labelling_strategy/)
 - [[D]Preprocess_content.py](https://www.reddit.com/r/MachineLearning/comments/140mx12/dpreprocess_contentpy/)
-- [[D] Complementary Electives](https://www.reddit.com/r/MachineLearning/comments/140mjit/d_complementary_electives/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
