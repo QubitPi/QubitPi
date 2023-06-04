@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] CodeTF: One-Stop Transformer-based Library for CodeLLMs &amp; Code Intelligence](https://www.reddit.com/r/MachineLearning/comments/140ifdh/r_codetf_onestop_transformerbased_library_for/)
 - [[P] I&#39;ve created a GitHub Template for your next Gradio App with ChatGPT](https://www.reddit.com/r/MachineLearning/comments/140hahu/p_ive_created_a_github_template_for_your_next/)
 - [[D] What is the best way to learn machine learning?](https://www.reddit.com/r/MachineLearning/comments/140guy1/d_what_is_the_best_way_to_learn_machine_learning/)
 - [[R][P] Technical Architecture for LLMOps](https://www.reddit.com/r/MachineLearning/comments/140gff6/rp_technical_architecture_for_llmops/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/140fmf3/d_simple_questions_thread/)
-- [[R] LIV paper - Dense rewards for robots](https://www.reddit.com/r/MachineLearning/comments/140drhz/r_liv_paper_dense_rewards_for_robots/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
