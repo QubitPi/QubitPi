@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] AITemplate Python to AMD compiler {META}](https://www.reddit.com/r/MachineLearning/comments/14070wq/r_aitemplate_python_to_amd_compiler_meta/)
 - [Using python functions in prompt chaining to control LLMs [P]](https://www.reddit.com/r/MachineLearning/comments/1405f4k/using_python_functions_in_prompt_chaining_to/)
 - [[discussion] discrete search in program synthesis. Need information](https://www.reddit.com/r/MachineLearning/comments/140258g/discussion_discrete_search_in_program_synthesis/)
 - [[N] StyleDrop: Text-To-Image Generation in Any Style - Google research](https://www.reddit.com/r/MachineLearning/comments/13zz0zc/n_styledrop_texttoimage_generation_in_any_style/)
 - [I Created an AI Basketball Referee [P]](https://www.reddit.com/r/MachineLearning/comments/13ztppy/i_created_an_ai_basketball_referee_p/)
-- [[P] Looking for RL or rules-based No-Limit Hold &#39;Em Work](https://www.reddit.com/r/MachineLearning/comments/13zqm8k/p_looking_for_rl_or_rulesbased_nolimit_hold_em/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
