@@ -418,6 +418,7 @@ Git Data Analytics - Everything is Datable
 <div align="center">
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQubitPi%2F&count_bg=%2300CC00&title_bg=%2300CC00&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/QubitPi/)
 
 <a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
