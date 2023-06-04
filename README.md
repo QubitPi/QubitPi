@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] LIV paper - Dense rewards for robots](https://www.reddit.com/r/MachineLearning/comments/140drhz/r_liv_paper_dense_rewards_for_robots/)
 - [[P] TokenMonster Ungreedy ~ 35% faster inference and 35% increased context-length for large language models &lpar;compared to tiktoken&rpar;. Benchmarks included.](https://www.reddit.com/r/MachineLearning/comments/140dkhf/p_tokenmonster_ungreedy_35_faster_inference_and/)
 - [[P] A Call to AI Devs and Entrepreneurs](https://www.reddit.com/r/MachineLearning/comments/140cz5b/p_a_call_to_ai_devs_and_entrepreneurs/)
 - [[R] Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://www.reddit.com/r/MachineLearning/comments/140cojc/r_generative_ai_meets_3d_a_survey_on_textto3d_in/)
 - [[R] HuManiFlow: Ancestor-Conditioned Normalising Flows on SO&lpar;3&rpar; Manifolds for Human Pose and Shape Distribution Estimation](https://www.reddit.com/r/MachineLearning/comments/140c69t/r_humaniflow_ancestorconditioned_normalising/)
-- [[P] Exploratory Side Project: Testing Machine Learning Resilience for Overcoming Cold Gas Thruster Failure in SpaceX Booster Landings](https://www.reddit.com/r/MachineLearning/comments/140b7r0/p_exploratory_side_project_testing_machine/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
