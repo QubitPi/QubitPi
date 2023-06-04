@@ -220,6 +220,8 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 <img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
 
+<img align="right" alt="米忽悠下载量统计" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?app=ys_PC&url=https%3A%2F%2Fm.miyoushe.com%2Fdownload.html&count_bg=%2366E0FE&title_bg=%2316A3FF&icon=docusign.svg&icon_color=%23FFFFFF&title=%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%94%A8&edge_flat=false">
+<br/>
 <img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/1230586e-f81a-4f58-87b1-04ba8faefb84">
 
 #### miHoYo (老米)
