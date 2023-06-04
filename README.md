@@ -279,11 +279,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [The First Cohesive Fully Generated Stable Diffusion Video](https://www.reddit.com/r/MachineLearning/comments/1403xwr/the_first_cohesive_fully_generated_stable/)
 - [[discussion] discrete search in program synthesis. Need information](https://www.reddit.com/r/MachineLearning/comments/140258g/discussion_discrete_search_in_program_synthesis/)
 - [[N] StyleDrop: Text-To-Image Generation in Any Style - Google research](https://www.reddit.com/r/MachineLearning/comments/13zz0zc/n_styledrop_texttoimage_generation_in_any_style/)
 - [I Created an AI Basketball Referee [P]](https://www.reddit.com/r/MachineLearning/comments/13ztppy/i_created_an_ai_basketball_referee_p/)
 - [[P] Looking for RL or rules-based No-Limit Hold &#39;Em Work](https://www.reddit.com/r/MachineLearning/comments/13zqm8k/p_looking_for_rl_or_rulesbased_nolimit_hold_em/)
-- [&quot;[R]&quot;, &quot;[P]&quot; Advanced Threat Detection in Automotive Manufacturing: Leveraging AI and ML for Enhanced Cybersecurity and Operations Management in Industry 4.0 Dissertation](https://www.reddit.com/r/MachineLearning/comments/13zqfvf/r_p_advanced_threat_detection_in_automotive/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
