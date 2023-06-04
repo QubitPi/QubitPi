@@ -419,14 +419,12 @@ Git Data Analytics - Everything is Datable
 
 <div align="center">
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQubitPi%2F&count_bg=%2300CC00&title_bg=%2300CC00&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Image of https://github.com/QubitPi/github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/QubitPi/github-profile-views-counter)
 
 <a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
 </a>
     
-<img align="center" width="47%" alt="Profile Viewing History" src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/QubitPi/">
-
 </div>
 
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
