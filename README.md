@@ -281,9 +281,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <!-- REDDIT-ML:START -->
 - [I Created an AI Basketball Referee [P]](https://www.reddit.com/r/MachineLearning/comments/13ztppy/i_created_an_ai_basketball_referee_p/)
 - [[P] Looking for RL or rules-based No-Limit Hold &#39;Em Work](https://www.reddit.com/r/MachineLearning/comments/13zqm8k/p_looking_for_rl_or_rulesbased_nolimit_hold_em/)
-- [[N] K-Means clustering in Python](https://www.reddit.com/r/MachineLearning/comments/13zqhit/n_kmeans_clustering_in_python/)
 - [&quot;[R]&quot;, &quot;[P]&quot; Advanced Threat Detection in Automotive Manufacturing: Leveraging AI and ML for Enhanced Cybersecurity and Operations Management in Industry 4.0 Dissertation](https://www.reddit.com/r/MachineLearning/comments/13zqfvf/r_p_advanced_threat_detection_in_automotive/)
 - [[D] Educating People about Neural Networks](https://www.reddit.com/r/MachineLearning/comments/13zpfl6/d_educating_people_about_neural_networks/)
+- [[R] Data Scientists Wanted for a Research Study](https://www.reddit.com/r/MachineLearning/comments/13zowfn/r_data_scientists_wanted_for_a_research_study/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
