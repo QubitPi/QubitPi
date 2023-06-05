@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Master&#39;s research &lpar;deepfakes&rpar;/ survey-under 10 mins](https://www.reddit.com/r/MachineLearning/comments/141vuss/r_masters_research_deepfakes_surveyunder_10_mins/)
 - [[R] ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models - Binfeng Xu et al Microsoft 2023 - Achieves 5x token efficiency and 4% accuracy improvement on HotpotQA!](https://www.reddit.com/r/MachineLearning/comments/141v198/r_rewoo_decoupling_reasoning_from_observations/)
 - [[D] Apple: $3499 for 3D Notes?](https://www.reddit.com/r/MachineLearning/comments/141uwg3/d_apple_3499_for_3d_notes/)
 - [[D] What&#39;s the current state/consensus on using neural networks for solving combinatorial scheduling problems?](https://www.reddit.com/r/MachineLearning/comments/141rn29/d_whats_the_current_stateconsensus_on_using/)
 - [[d] Apple claims M2 Ultra &quot;can train massive ML workloads, like large transformer models.&quot;](https://www.reddit.com/r/MachineLearning/comments/141pxvc/d_apple_claims_m2_ultra_can_train_massive_ml/)
-- [[D] Machine Learning + Agriculture Research](https://www.reddit.com/r/MachineLearning/comments/141pkzy/d_machine_learning_agriculture_research/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
