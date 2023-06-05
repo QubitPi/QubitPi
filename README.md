@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech](https://www.reddit.com/r/MachineLearning/comments/1418k0n/r_xphonebert_a_pretrained_multilingual_model_for/)
 - [[D] Share your pain points building AI model](https://www.reddit.com/r/MachineLearning/comments/1413t8r/d_share_your_pain_points_building_ai_model/)
 - [So Microsoft Azure&#39;s Speaker Recognition is Gated, any alternatives? [D]](https://www.reddit.com/r/MachineLearning/comments/1412gro/so_microsoft_azures_speaker_recognition_is_gated/)
 - [[D] Speech driven 3D facial animation where speech is generated using voice cloning](https://www.reddit.com/r/MachineLearning/comments/141145n/d_speech_driven_3d_facial_animation_where_speech/)
 - [Looking to learn [D]](https://www.reddit.com/r/MachineLearning/comments/140zjex/looking_to_learn_d/)
-- [[N] The AI Founder Taking Credit For Stable Diffusion’s Success Has A History Of Exaggeration](https://www.reddit.com/r/MachineLearning/comments/140xuso/n_the_ai_founder_taking_credit_for_stable/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
