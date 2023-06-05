@@ -222,7 +222,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 <img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/1230586e-f81a-4f58-87b1-04ba8faefb84">
 
-#### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4"> miHoYo
+#### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
 - [《原神》全新模玩手办剪影亮相 即将揭晓！](https://bbs.mihoyo.com/ys/article/39969002)
