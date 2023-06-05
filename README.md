@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Speech driven 3D facial animation where speech is generated using voice cloning](https://www.reddit.com/r/MachineLearning/comments/141145n/d_speech_driven_3d_facial_animation_where_speech/)
 - [Looking to learn [D]](https://www.reddit.com/r/MachineLearning/comments/140zjex/looking_to_learn_d/)
 - [[N] The AI Founder Taking Credit For Stable Diffusion’s Success Has A History Of Exaggeration](https://www.reddit.com/r/MachineLearning/comments/140xuso/n_the_ai_founder_taking_credit_for_stable/)
 - [[D] Zero-Knowledge Proofs with Language Models to prove Existence of Non-Explicitly-Programmable Properties of Input?](https://www.reddit.com/r/MachineLearning/comments/140u9xr/d_zeroknowledge_proofs_with_language_models_to/)
 - [[P] I 3D-Printed some Eigenfaces!](https://www.reddit.com/r/MachineLearning/comments/140u0hv/p_i_3dprinted_some_eigenfaces/)
-- [[P] Repurposing DETR to a face recognition task](https://www.reddit.com/r/MachineLearning/comments/140nxre/p_repurposing_detr_to_a_face_recognition_task/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
