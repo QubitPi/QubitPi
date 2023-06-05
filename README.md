@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Anyone else hate the term &quot;AI&quot; being used everywhere?](https://www.reddit.com/r/MachineLearning/comments/141sg7s/d_anyone_else_hate_the_term_ai_being_used/)
 - [[D] What&#39;s the current state/consensus on using neural networks for solving combinatorial scheduling problems?](https://www.reddit.com/r/MachineLearning/comments/141rn29/d_whats_the_current_stateconsensus_on_using/)
 - [[d] Apple claims M2 Ultra &quot;can train massive ML workloads, like large transformer models.&quot;](https://www.reddit.com/r/MachineLearning/comments/141pxvc/d_apple_claims_m2_ultra_can_train_massive_ml/)
 - [[D] Machine Learning + Agriculture Research](https://www.reddit.com/r/MachineLearning/comments/141pkzy/d_machine_learning_agriculture_research/)
 - [[D] Training ASR model using SpeechBrain](https://www.reddit.com/r/MachineLearning/comments/141noum/d_training_asr_model_using_speechbrain/)
-- [[Discussion] Gigantic Confusion on Fine Tuning](https://www.reddit.com/r/MachineLearning/comments/141lef2/discussion_gigantic_confusion_on_fine_tuning/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
