@@ -257,11 +257,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「七圣召唤主播邀请赛」线上赛阶段观赛指南](https://bbs.mihoyo.com/ys/article/40032004)
 - [《原神》全新模玩手办剪影亮相 即将揭晓！](https://bbs.mihoyo.com/ys/article/39969002)
 - [来一局七圣召唤吧](https://bbs.mihoyo.com/ys/article/39943610)
 - [《原神》剧情PV-「牌中秘宝」](https://bbs.mihoyo.com/ys/article/39942771)
 - [「呜…有点紧张…谁会收到我们的礼物呢？」](https://bbs.mihoyo.com/ys/article/39900132)
-- [派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？](https://bbs.mihoyo.com/ys/article/39899808)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
