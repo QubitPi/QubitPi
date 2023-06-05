@@ -334,11 +334,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [📢 We are thrilled to announce a new edition of #Connections, our half-day virtual event. 👉NA &amp; Europe: https://okt.to/cLNWq2 👉APAC: https://o...](https://twitter.com/neo4j/status/1665750376350380032)
 - [#Python Devs, pay attention! 🐍 You can learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course today: ht...](https://twitter.com/neo4j/status/1665393261450502147)
 - [🚨General availability &lpar;GA&rpar; of Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform!🚨 Learn more about the benefits here: https://okt.to...](https://twitter.com/neo4j/status/1665332608895524865)
 - [This article presents a helpful overview of RDF &lpar;Resource Description Framework&rpar; and LPG &lpar;Labeled Property Graph&rpar; models. There are links to source ma...](https://twitter.com/neo4j/status/1665121190820626434)
 - [Which track of #NODES2023 are you more interested in? Btw, have you registered yet??? 🖥🙋 https://okt.to/yOAmVE #Neo4j #visualization #ai #ML](https://twitter.com/neo4j/status/1664623328911294467)
+- [Re @jalakoo goes deep on How to generate deeply interconnected mock datasets 👇 https://okt.to/a5s2bS #Neo4j](https://twitter.com/neo4j/status/1664618057765998592)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
