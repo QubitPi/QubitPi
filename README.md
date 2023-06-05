@@ -425,6 +425,8 @@ Git Data Analytics - Everything is Datable
     <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
 </a>
     
+<img src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/504830443/small/year.png" width="47%">
+    
 </div>
 
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
