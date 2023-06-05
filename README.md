@@ -145,35 +145,40 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 
 <table>
-	<tr>
-		<th colspan="2" scope="colgroup">
-			Why do I care about Software Infrastructure (a lot)?
-		</th>
-	</tr>
-	<tr>
-		<td>
-            <div align="center">Traditional Software Development</div><br/><img src="https://github.com/QubitPi/QubitPi/assets/16126939/d5628e8f-ed75-430c-bb15-26c43f346971"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</td>
-		<td>
-			I believe <a href="https://www.infoq.com/presentations/scaling-operations-facebook/">infrastructure is the "home" to softwares</a>. The <em>highest-quality</em> softwares are not possible unless backed by the best-made tech infrustructure, which is what I spend most of my management time on in tech area. <br/><br/>I learned, from years of work experience, that thriving as a Software Engineer with their internal and external engagement demands requires high levels of <em>interpersonal sophistication</em>. It is no doubt then that the <b>single hardest task in teamwork is <em>efficient communication</em></b>. This gets exacerbated in a software development cycle in which a developer has to distribute their communication efforts among <b>3</b> parties, which makes mis-communication frequent
-		</td>
-	</tr>
-	<tr>
-		<td>
-            <div align="center">How Big Techs Improve It</div><br/> <img src="https://github.com/QubitPi/QubitPi/assets/16126939/5da41f25-af37-4ef0-8b30-1493c98bce18">
-		</td>
-		<td>
-			By the time I joined Yahoo at 2016, the company had already made a <a href="https://spectrum.ieee.org/yahoos-engineers-move-to-coding-without-a-net">big move by removing all of its QA teams COMPLETELY</a>. Software developers were required to write automated tests by themselves using open source test frameworks, such as Groovy Spock, Jest, and Cypress. The software testing was then fully automated through <a href="https://screwdriver.cd/">Yahoo's own CI platform</a>, which is developed on top of <a href="https://qubitpi.github.io/jenkins.io/">Jenkins</a> originally.<br/><br/>This brought a big software quality improvements but in terms of communication quality, at least from my experience, was still not optimal. I've had such experience when I finshed implementing a system but waited for extra couple of weeks before DevOps Engineer setup a dedicated server for deployment. This virtually got mis-translated to my boss as "A software developer had his work delayed for couple weeks".
-		</td>
-	</tr>
-	<tr>
-		<td>
-            <div align="center">(My Ongoing Effort) Software Development Today and Tomorrow</div><br/> <img src="https://github.com/QubitPi/QubitPi/assets/16126939/5284d6fd-243a-48cb-8238-24d1748f05b5"> 
-		</td>
-		<td>
-            The reason we still have DevOps staff is because resource isolation using the ubiquitous Docker, which borns out of the traditional on-premis technology, is _manual_. With on-demand cloud, resource isolations are assumed NOT managed. We instead <em>manage business logics</em> with efficiency (<a href="https://qubitpi.github.io/hashicorp-packer/packer/docs">Packer</a>) and immutability (<a href="https://qubitpi.github.io/hashicorp-terraform/terraform/docs">Terraform</a>). <b>With HashiCorp + OpenStack Cloud, business no longer needs <s>Docker + k8s</s></b>. Teams and developers as well, with almost no overhead, are able to eliminate human DevOps
-		</td>
-	</tr>
+  <tr>
+    <th colspan="2" scope="colgroup">
+      Why do I care about Software Infrastructure (a lot)?
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">Traditional Software Development</div><br/><img src="https://github.com/QubitPi/QubitPi/assets/16126939/d5628e8f-ed75-430c-bb15-26c43f346971"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+      I believe <a href="https://www.infoq.com/presentations/scaling-operations-facebook/">infrastructure is the "home" to softwares</a>. The <em>highest-quality</em> softwares are not possible unless backed by the best-made tech infrustructure, which is what I spend most of my management time on in tech area. <br/><br/>I learned, from years of work experience, that thriving as a Software Engineer with their internal and external engagement demands requires high levels of <em>interpersonal sophistication</em>. It is no doubt then that the <b>single hardest task in teamwork is <em>efficient communication</em></b>. This gets exacerbated in a software development cycle in which a developer has to distribute their communication efforts among <b>3</b> parties, which makes mis-communication frequent
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">How Big Techs Improve It</div><br/> <img src="https://github.com/QubitPi/QubitPi/assets/16126939/5da41f25-af37-4ef0-8b30-1493c98bce18">
+    </td>
+    <td>
+      By the time I joined Yahoo at 2016, the company had already made a <a href="https://spectrum.ieee.org/yahoos-engineers-move-to-coding-without-a-net">big move by removing all of its QA teams COMPLETELY</a>. Software developers were required to write automated tests by themselves using open source test frameworks, such as Groovy Spock, Jest, and Cypress. The software testing was then fully automated through <a href="https://screwdriver.cd/">Yahoo's own CI platform</a>, which is developed on top of <a href="https://qubitpi.github.io/jenkins.io/">Jenkins</a> originally.<br/><br/>This brought a big software quality improvements but in terms of communication quality, at least from my experience, was still not optimal. I've had such experience when I finshed implementing a system but waited for extra couple of weeks before DevOps Engineer setup a dedicated server for deployment. This virtually got mis-translated to my boss as "A software developer had his work delayed for couple weeks".
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">(My Ongoing Effort) Software Development Today and Tomorrow</div><br/> <img src="https://github.com/QubitPi/QubitPi/assets/16126939/5284d6fd-243a-48cb-8238-24d1748f05b5"> 
+    </td>
+    <td>
+      The reason we still have DevOps staff is because resource isolation using the ubiquitous Docker, which borns out of the traditional on-premis technology, is _manual_. With on-demand cloud, resource isolations are assumed NOT managed. We instead <em>manage business logics</em> with efficiency (<a href="https://qubitpi.github.io/hashicorp-packer/packer/docs">Packer</a>) and immutability (<a href="https://qubitpi.github.io/hashicorp-terraform/terraform/docs">Terraform</a>). <b>With HashiCorp + OpenStack Cloud, business no longer needs <s>Docker + k8s</s></b>. Teams and developers as well, with almost no overhead, are able to eliminate human DevOps<br/><br/>This is the picture from which I'm turning into reality in my team. Giving our developer fully <b>automated</b> control over infrastructure brings the following benefits to the team:
+      <ul>
+        <li> Our developers beome more valueable with more essential skills compared to others in their career path
+        <li> Taking hardware constraint into account causes a paradigm shift in how our engineers thought about problems, which eventually makes our software better in terms of quality
+	<li> Eventually reduces the labor costs of company
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
