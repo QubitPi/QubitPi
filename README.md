@@ -356,11 +356,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔎 Technical data lineage is the blueprint of the software side of the data infrastructure. It contains detailed views of the data entities up to th...](https://twitter.com/memgraphdb/status/1665726922725154817)
+- [❓Are you tired of bland-looking graphs with limited relationship and node styles? Do you need some color and pictures in your graph life? ➡️ https:...](https://twitter.com/memgraphdb/status/1665708552764248068)
 - [🐌 Around 25-35% of query processing time in companies working with networks and network resources is spent on loading topology. The main reason for...](https://twitter.com/memgraphdb/status/1665699242193682433)
 - [❗️Storing all that data might not be a problem for relational databases but querying and finding useful information for making recommendations could...](https://twitter.com/memgraphdb/status/1665679109802819585)
 - [🎓 A data model is the structure of data within a given system. It defines how data is related and how it can be accessed. https://memgraph.com/blog...](https://twitter.com/memgraphdb/status/1665660987721109504)
-- [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity https://memgraph.com/cybersecurity #memg...](https://twitter.com/memgraphdb/status/1665655202781773824)
-- [🎓 No matter what databases are on your shortlist, open-source or proprietary, there are always some costs attached to running that database system....](https://twitter.com/memgraphdb/status/1665643118669045760)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
