@@ -422,10 +422,10 @@ Git Data Analytics - Everything is Datable
 [![Image of https://github.com/QubitPi/github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/QubitPi/github-profile-views-counter)
 
 <a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
-    <img align="center" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
+    <img align="left" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
 </a>
     
-<img src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/504830443/large/year.png" height="200px">
+<img align="right" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/504830443/large/year.png" height="200px">
     
 </div>
 
