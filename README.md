@@ -232,7 +232,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？](https://bbs.mihoyo.com/ys/article/39899808)
 <!-- MIHOYO-NEWS:END -->
 
-#### Genshin Impact (打死不玩崩铁) [![](https://img.shields.io/badge/miHoYo-%E6%88%91%E7%9A%84%E5%8E%9F%E7%A5%9E-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
+#### Genshin Impact (原神) [![](https://img.shields.io/badge/%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
 - [《原神》剧情PV-「牌中秘宝」](https://ys.mihoyo.com/main/news/detail/27831)
