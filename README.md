@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[News][Research] ASNR-MICCAI BraTS 2023 challenge – Synthesize healthy brain MRI scans](https://www.reddit.com/r/MachineLearning/comments/141ifla/newsresearch_asnrmiccai_brats_2023_challenge/)
 - [[D] Appreciating the complexity of large language models data pipelines](https://www.reddit.com/r/MachineLearning/comments/141dy5r/d_appreciating_the_complexity_of_large_language/)
 - [[Research] New Work on Meta-BO, outperforming/matching OptFormer with a Smaller Model](https://www.reddit.com/r/MachineLearning/comments/141culh/research_new_work_on_metabo_outperformingmatching/)
 - [[D] EMNLP short and long papers, and Findings](https://www.reddit.com/r/MachineLearning/comments/141cg5n/d_emnlp_short_and_long_papers_and_findings/)
 - [[D] XGBoost Training Logloss dropping but Validation staying steady](https://www.reddit.com/r/MachineLearning/comments/141borz/d_xgboost_training_logloss_dropping_but/)
-- [[R] XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech](https://www.reddit.com/r/MachineLearning/comments/1418k0n/r_xphonebert_a_pretrained_multilingual_model_for/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
