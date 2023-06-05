@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] EMNLP short and long papers, and Findings](https://www.reddit.com/r/MachineLearning/comments/141cg5n/d_emnlp_short_and_long_papers_and_findings/)
 - [[D] XGBoost Training Logloss dropping but Validation staying steady](https://www.reddit.com/r/MachineLearning/comments/141borz/d_xgboost_training_logloss_dropping_but/)
 - [[D] Is it common to ask an intern to come up with a novel idea during a 4-month research internship?](https://www.reddit.com/r/MachineLearning/comments/141apxu/d_is_it_common_to_ask_an_intern_to_come_up_with_a/)
 - [[R] XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech](https://www.reddit.com/r/MachineLearning/comments/1418k0n/r_xphonebert_a_pretrained_multilingual_model_for/)
 - [So Microsoft Azure&#39;s Speaker Recognition is Gated, any alternatives? [D]](https://www.reddit.com/r/MachineLearning/comments/1412gro/so_microsoft_azures_speaker_recognition_is_gated/)
-- [[D] Speech driven 3D facial animation where speech is generated using voice cloning](https://www.reddit.com/r/MachineLearning/comments/141145n/d_speech_driven_3d_facial_animation_where_speech/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
