@@ -177,7 +177,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
         <li> <b>Taking hardware constraint into account causes a paradigm shift in how our engineers thought about problems, which makes our developers better skilled and our software better in terms of quality</b>
 	<li> <b>Eventually reduces the labor costs of company</b>
       </ol>
-      For example, we make one of our <a href="https://github.com/QubitPi/mlflow/pull/2">MLOps platform completely self-helped</a> so that any one of our team can spawn up a ML playground for fast prototyping an idea
+      <b>We achieve this by making HashiCorp our defacto CI/CD implemenattion through out our team.</b> For example, we make one of our <a href="https://github.com/QubitPi/mlflow/pull/2">MLOps platform completely self-helped</a> so that any one of our team can spawn up a ML playground for fast prototyping an idea
     </td>
   </tr>
 </table>
