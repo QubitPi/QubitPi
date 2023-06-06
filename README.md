@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [RVC: AttributeError: &#39;NoneType&#39; object has no attribute &#39;dtype&#39; [R]](https://www.reddit.com/r/MachineLearning/comments/142wp68/rvc_attributeerror_nonetype_object_has_no/)
 - [[D] Affordable Masters Programs](https://www.reddit.com/r/MachineLearning/comments/142uc5g/d_affordable_masters_programs/)
 - [[D] Hyperparameter optimization best practices](https://www.reddit.com/r/MachineLearning/comments/142t43v/d_hyperparameter_optimization_best_practices/)
 - [[Project] Hiring an AI Full Stack Developer/ ML Engineer!](https://www.reddit.com/r/MachineLearning/comments/142s2cd/project_hiring_an_ai_full_stack_developer_ml/)
 - [[D] Paper Explained - Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust &lpar;Full Video Analysis&rpar;](https://www.reddit.com/r/MachineLearning/comments/142rks0/d_paper_explained_treering_watermarks/)
-- [[D] ML model monitored with another ML model?](https://www.reddit.com/r/MachineLearning/comments/142pp81/d_ml_model_monitored_with_another_ml_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
