@@ -334,11 +334,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Attention Europe! 📍 These are your friendly timezone demos for June.🖥 Don&#39;t miss the chance to attend and learn all about #GraphDataScience and ...](https://twitter.com/neo4j/status/1666052443531010051)
 - [Yogesh Kulkarni, #Neo4j Ninja spoke at @googlecloud Community Day Pune 2023 on &quot;Introduction to Graph Data Science&quot; organized by @gdgcloudpune as Comm...](https://twitter.com/neo4j/status/1665976952119779328)
+- [RT Daniel CF Ng: Very happy to meet an old friend @Arifin_Iskandar of Google at #GraphSummitJakarta today! Looking forward to continue collaboration b...](https://twitter.com/danielcfng/status/1665957101531959296)
 - [RT Siddhant Agarwal: #GraphSummit2023 in Jakarta kicked off by Reza, MD Indonesia, @neo4j Super excited to see how the rest of the day goes. 😀🙌 ...](https://twitter.com/sidagarwal04/status/1665926311112757250)
-- [Getting ready for #graphsummit2023 in Jakarta 📍😋 https://t.co/zPN9DYMk9z](https://twitter.com/neo4j/status/1665902198310445056)
-- [RT Siddhant Agarwal: Stage is all set for #GraphSummit #Jakarta. Kicked off the day with Data Leaders Breakfast! See you folks soon! 🙌 @neo4j https...](https://twitter.com/sidagarwal04/status/1665889225320046592)
-- [Senior Data Scientist Nathan Smith explains that research has confirmed what the data science community already knows from experience – influence flo...](https://twitter.com/neo4j/status/1665825920769310720)
+- [RT Sudhir Hasbe: Neo4j supports vector embedding for similarity searches through our graph data science libraries. Super cool and more coming this wee...](https://twitter.com/shasbe/status/1665926040936681472)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
