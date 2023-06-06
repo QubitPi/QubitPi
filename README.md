@@ -173,7 +173,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
     <td>
       The reason we still have DevOps staff is because resource isolation using the ubiquitous Docker, which borns out of the traditional on-premis technology, is <em>manual</em>. With on-demand cloud, resource isolations are assumed NOT managed. We instead <em>manage business logics</em> with efficiency (<a href="https://qubitpi.github.io/hashicorp-packer/packer/docs">Packer</a>) and immutability (<a href="https://qubitpi.github.io/hashicorp-terraform/terraform/docs">Terraform</a>). <b>With HashiCorp + OpenStack Cloud, business no longer needs <s>Docker + k8s</s></b>. Teams and developers as well, with almost no overhead, are able to eliminate human DevOps<br/><br/>This is the picture from which I'm turning into reality in my team. Giving our developer fully <b>automated</b> control over infrastructure brings the following benefits to the team:
       <ol>
-        <li> <b>Our developers beome more valueable with more essential skills compared to others in their career path</b>
+        <li> <b>Our developers learn more cutting-edge industry skills compared to their peers which makes our developers more valuable along their career path</b>
         <li> <b>Taking hardware constraint into account causes a paradigm shift in how our engineers thought about problems, which makes our developers better skilled and our software better in terms of quality</b>
 	<li> <b>Eventually reduces the labor costs of company</b>
       </ol>
