@@ -195,7 +195,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Webservice**: [Jersey](https://qubitpi.github.io/jersey/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) 
 - **GraphQL**: [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Java](https://qubitpi.github.io/graphql-java-page/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/)
 - **Database**: [Hadoop](https://qubitpi.github.io/hadoop/hadoop-project/)
-- **Security**: [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
+- **Security**: [Kong Gateway](https://qubitpi.github.io/docs.konghq.com/gateway/latest/) | [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 - **Graph Database**: [Memgraph Documentation](https://qubitpi.github.io/memgraph-docs/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
 ### Miscellaneous
