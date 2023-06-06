@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ML model monitored with another ML model?](https://www.reddit.com/r/MachineLearning/comments/142pp81/d_ml_model_monitored_with_another_ml_model/)
+- [[D] New to Machine Learning / Data Science / AI ?](https://www.reddit.com/r/MachineLearning/comments/142potw/d_new_to_machine_learning_data_science_ai/)
 - [[P] MS-Paint GAN](https://www.reddit.com/r/MachineLearning/comments/142oivg/p_mspaint_gan/)
 - [[Project] Best way of making a XAI model](https://www.reddit.com/r/MachineLearning/comments/142ngt8/project_best_way_of_making_a_xai_model/)
 - [2 questions on image-text language models [D] [R]](https://www.reddit.com/r/MachineLearning/comments/142lpkk/2_questions_on_imagetext_language_models_d_r/)
-- [[D] Llama dataset Arxiv Contents](https://www.reddit.com/r/MachineLearning/comments/142ko7v/d_llama_dataset_arxiv_contents/)
-- [[P] Hybrid model for face recognition](https://www.reddit.com/r/MachineLearning/comments/142kac2/p_hybrid_model_for_face_recognition/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
