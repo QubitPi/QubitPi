@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[d] Can a network of linear activation perceptrons model non-linear functions?](https://www.reddit.com/r/MachineLearning/comments/1425q7j/d_can_a_network_of_linear_activation_perceptrons/)
 - [[R] Wanted: Cancer research image dataset &lpar;mammograms, stained biopsies, etc.&rpar; with at least two samples per patient](https://www.reddit.com/r/MachineLearning/comments/1425e9z/r_wanted_cancer_research_image_dataset_mammograms/)
 - [Custom Model Not training properly? Strange behaviour all around and code verification [P][D]](https://www.reddit.com/r/MachineLearning/comments/1424mcj/custom_model_not_training_properly_strange/)
 - [Pre-requisite for becoming Deep learning professional[D]](https://www.reddit.com/r/MachineLearning/comments/1424544/prerequisite_for_becoming_deep_learning/)
 - [[D] Drone detection](https://www.reddit.com/r/MachineLearning/comments/142366o/d_drone_detection/)
-- [[R] How would you identify the tail of these distplots? I&#39;ve tried Gaussian mixture models but I&#39;m not sure clustering is actually my best option if the tail is what I am most interested in.](https://www.reddit.com/r/MachineLearning/comments/14211i3/r_how_would_you_identify_the_tail_of_these/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
