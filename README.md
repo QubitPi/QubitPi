@@ -334,11 +334,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [RT Siddhant Agarwal: #GraphSummit2023 in Jakarta kicked off by Reza, MD Indonesia, @neo4j Super excited to see how the rest of the day goes. 😀🙌 ...](https://twitter.com/sidagarwal04/status/1665926311112757250)
 - [Getting ready for #graphsummit2023 in Jakarta 📍😋 https://t.co/zPN9DYMk9z](https://twitter.com/neo4j/status/1665902198310445056)
 - [RT Siddhant Agarwal: Stage is all set for #GraphSummit #Jakarta. Kicked off the day with Data Leaders Breakfast! See you folks soon! 🙌 @neo4j https...](https://twitter.com/sidagarwal04/status/1665889225320046592)
 - [Senior Data Scientist Nathan Smith explains that research has confirmed what the data science community already knows from experience – influence flo...](https://twitter.com/neo4j/status/1665825920769310720)
 - [📢 We are thrilled to announce a new edition of #Connections, our half-day virtual event. 👉NA &amp; Europe: https://okt.to/cLNWq2 👉APAC: https://o...](https://twitter.com/neo4j/status/1665750376350380032)
+- [#Python Devs, pay attention! 🐍 You can learn how to interact with Neo4j from Python using the Neo4j Python Driver. Start this FREE course today: ht...](https://twitter.com/neo4j/status/1665393261450502147)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
