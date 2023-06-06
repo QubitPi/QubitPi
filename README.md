@@ -356,11 +356,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1666017589632401412)
-- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1666000979341238275)
 - [👩‍💻 Dive into the world of graph analytics with our new course by @supe_katarina! Explore NetworkX, Memgraph, and popular algorithms, and learn...](https://twitter.com/memgraphdb/status/1665967002572271617)
 - [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1665956434549395457)
 - [🌊 Explore top streaming analytics tools and real-time data analysis in these must-read articles! #streamingdata #analytics #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1665941838895763457)
+- [💡 Enhance your understanding and application of graph algorithms with our recommended books and e-resources. #LearningResources #GraphAlgorithms #m...](https://twitter.com/memgraphdb/status/1665791349201707008)
+- [🎤 Dive into the world of #Eurovision with graph analytics! Unravel strategic voting and political rivalries. @Eurovision #graphdatabase #dataanalys...](https://twitter.com/memgraphdb/status/1665767438384869376)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
