@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for self-hosted model focusing on text summarization and contradiction detection.](https://www.reddit.com/r/MachineLearning/comments/142grb1/d_looking_for_selfhosted_model_focusing_on_text/)
 - [[D] Mathematics Degree and the Future of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/142efvo/d_mathematics_degree_and_the_future_of_machine/)
 - [Math operation recognition [D]](https://www.reddit.com/r/MachineLearning/comments/142czc8/math_operation_recognition_d/)
 - [Should r/MachineLearning join the reddit blackout to protest changes to their API?](https://www.reddit.com/r/MachineLearning/comments/14265di/should_rmachinelearning_join_the_reddit_blackout/)
 - [[d] Can a network of linear activation perceptrons model non-linear functions?](https://www.reddit.com/r/MachineLearning/comments/1425q7j/d_can_a_network_of_linear_activation_perceptrons/)
-- [[R] Wanted: Cancer research image dataset &lpar;mammograms, stained biopsies, etc.&rpar; with at least two samples per patient](https://www.reddit.com/r/MachineLearning/comments/1425e9z/r_wanted_cancer_research_image_dataset_mammograms/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
