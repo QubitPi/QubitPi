@@ -209,7 +209,7 @@ My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge
 
 <img align="right" width="30%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
 
-### Recent Activities
+### My Posts
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
 - [【绮良良首战】第一次满星！](https://t.bilibili.com/800754579100663828)
