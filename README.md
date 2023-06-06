@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Hiring an AI Full Stack Developer/ ML Engineer!](https://www.reddit.com/r/MachineLearning/comments/142s2cd/project_hiring_an_ai_full_stack_developer_ml/)
 - [[D] Paper Explained - Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust &lpar;Full Video Analysis&rpar;](https://www.reddit.com/r/MachineLearning/comments/142rks0/d_paper_explained_treering_watermarks/)
 - [[D] ML model monitored with another ML model?](https://www.reddit.com/r/MachineLearning/comments/142pp81/d_ml_model_monitored_with_another_ml_model/)
 - [[D] New to Machine Learning / Data Science / AI ?](https://www.reddit.com/r/MachineLearning/comments/142potw/d_new_to_machine_learning_data_science_ai/)
 - [[P] MS-Paint GAN](https://www.reddit.com/r/MachineLearning/comments/142oivg/p_mspaint_gan/)
-- [[Project] Best way of making a XAI model](https://www.reddit.com/r/MachineLearning/comments/142ngt8/project_best_way_of_making_a_xai_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
