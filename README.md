@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] How would you identify the tail of these distplots? I&#39;ve tried Gaussian mixture models but I&#39;m not sure clustering is actually my best option if the tail is what I am most interested in.](https://www.reddit.com/r/MachineLearning/comments/14211i3/r_how_would_you_identify_the_tail_of_these/)
 - [[N] Today multiple TV stations in Russia were hacked. A deepfake of Putin announced general mobilization and for Russians to evacuate border cities.](https://www.reddit.com/r/MachineLearning/comments/141x9ex/n_today_multiple_tv_stations_in_russia_were/)
 - [[R] Master&#39;s research &lpar;deepfakes&rpar;/ survey-under 10 mins](https://www.reddit.com/r/MachineLearning/comments/141vuss/r_masters_research_deepfakes_surveyunder_10_mins/)
 - [[R] ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models - Binfeng Xu et al Microsoft 2023 - Achieves 5x token efficiency and 4% accuracy improvement on HotpotQA!](https://www.reddit.com/r/MachineLearning/comments/141v198/r_rewoo_decoupling_reasoning_from_observations/)
 - [[D] Apple: $3499 for 3D Notes?](https://www.reddit.com/r/MachineLearning/comments/141uwg3/d_apple_3499_for_3d_notes/)
-- [[D] What&#39;s the current state/consensus on using neural networks for solving combinatorial scheduling problems?](https://www.reddit.com/r/MachineLearning/comments/141rn29/d_whats_the_current_stateconsensus_on_using/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
