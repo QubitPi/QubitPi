@@ -233,7 +233,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/802873707374575618><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6632b3fad77e701f9f73ffad1ea4af401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/803956030304157705><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7a4c19f31735741b353b618d5c9f7086401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #神工天巧# 亲爱的旅行者，「神工天巧·宝录之章」活动即将开启~ 〓活动时间〓 2023/06/08 10:00 ~ 2023/06/29 03:59 〓参与条件〓 冒险等阶≥20级 且完...](https://t.bilibili.com/803956030304157705)
