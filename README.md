@@ -141,7 +141,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### [Immutable Infrastructure](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
-- ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+- [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 
 <table>
@@ -177,7 +177,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
         <li> <b>Taking hardware constraint into account causes a paradigm shift in how our engineers thought about problems, which makes our developers better skilled and our software better in terms of quality</b>
 	<li> <b>Eventually reduces the labor costs of company</b>
       </ol>
-      <b>We achieve this by making HashiCorp our defacto CI/CD implemenattion through out our team.</b> For example, we make one of our <a href="https://github.com/QubitPi/mlflow/pull/2">MLOps platform completely self-helped</a> so that any one of our team can spawn up a ML playground for fast prototyping an idea
+      <b>We achieve this by making <a href="https://www.hashicorp.com/"><img src="https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors"></a> our defacto CI/CD through out our team.</b> For example, we make one of our <a href="https://github.com/QubitPi/mlflow/pull/2">MLOps platform completely self-helped</a> so that any one of our team can spawn up a ML playground for fast prototyping an idea
     </td>
   </tr>
 </table>
