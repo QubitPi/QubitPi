@@ -334,11 +334,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [😮Take a look at this summary of recent updates to the Neo4j Workspace: 💾 Saved Cypher 🏎️ Powered-up Graph Visualization 🔎 Quick History S...](https://twitter.com/neo4j/status/1666173176999555073)
 - [Hello from #GraphSummit2023! Full house in Boston 📍 https://t.co/4vnmGxZaVt](https://twitter.com/neo4j/status/1666115412289892355)
 - [Attention Europe! 📍 These are your friendly timezone demos for June.🖥 Don&#39;t miss the chance to attend and learn all about #GraphDataScience and ...](https://twitter.com/neo4j/status/1666052443531010051)
 - [Yogesh Kulkarni, #Neo4j Ninja spoke at @googlecloud Community Day Pune 2023 on &quot;Introduction to Graph Data Science&quot; organized by @gdgcloudpune as Comm...](https://twitter.com/neo4j/status/1665976952119779328)
 - [RT Daniel CF Ng: Very happy to meet an old friend @Arifin_Iskandar of Google at #GraphSummitJakarta today! Looking forward to continue collaboration b...](https://twitter.com/danielcfng/status/1665957101531959296)
+- [RT Siddhant Agarwal: #GraphSummit2023 in Jakarta kicked off by Reza, MD Indonesia, @neo4j Super excited to see how the rest of the day goes. 😀🙌 ...](https://twitter.com/sidagarwal04/status/1665926311112757250)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
