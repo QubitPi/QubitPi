@@ -311,11 +311,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Pre-requisite for becoming Deep learning professional[D]](https://www.reddit.com/r/MachineLearning/comments/1424544/prerequisite_for_becoming_deep_learning/)
 - [[D] Drone detection](https://www.reddit.com/r/MachineLearning/comments/142366o/d_drone_detection/)
 - [[R] How would you identify the tail of these distplots? I&#39;ve tried Gaussian mixture models but I&#39;m not sure clustering is actually my best option if the tail is what I am most interested in.](https://www.reddit.com/r/MachineLearning/comments/14211i3/r_how_would_you_identify_the_tail_of_these/)
 - [[N] Today multiple TV stations in Russia were hacked. A deepfake of Putin announced general mobilization and for Russians to evacuate border cities.](https://www.reddit.com/r/MachineLearning/comments/141x9ex/n_today_multiple_tv_stations_in_russia_were/)
 - [[R] Master&#39;s research &lpar;deepfakes&rpar;/ survey-under 10 mins](https://www.reddit.com/r/MachineLearning/comments/141vuss/r_masters_research_deepfakes_surveyunder_10_mins/)
-- [[R] ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models - Binfeng Xu et al Microsoft 2023 - Achieves 5x token efficiency and 4% accuracy improvement on HotpotQA!](https://www.reddit.com/r/MachineLearning/comments/141v198/r_rewoo_decoupling_reasoning_from_observations/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
