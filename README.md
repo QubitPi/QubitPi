@@ -356,11 +356,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [⚡️ Find out how iCentral, a fast and efficient online algorithm for betweenness centrality, can help analyze infrastructure networks in real-time. #...](https://twitter.com/memgraphdb/status/1666107427996016641)
-- [❓ Are you reluctant to switch from a relational database to a graph databases to explore fraud because you believe you first need to be proficient in...](https://twitter.com/memgraphdb/status/1666089315867443200)
-- [📊#Graphs can expose unseen connections. Combining them with ML, we can create a powerful solution, exploiting hidden frauds. #AI #memgraph #databas...](https://twitter.com/memgraphdb/status/1666082014418845699)
 - [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp #memgraph...](https://twitter.com/memgraphdb/status/1666040740034629634)
 - [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1666017589632401412)
+- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1666000979341238275)
+- [👩‍💻 Dive into the world of graph analytics with our new course by @supe_katarina! Explore NetworkX, Memgraph, and popular algorithms, and learn...](https://twitter.com/memgraphdb/status/1665967002572271617)
+- [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1665956434549395457)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
