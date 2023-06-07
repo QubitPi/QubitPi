@@ -316,11 +316,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is Stability AI’s API reliable?](https://www.reddit.com/r/MachineLearning/comments/1432trd/d_is_stability_ais_api_reliable/)
 - [[N] RedPajama 7B now available, instruct model outperforms all open 7B models on HELM benchmarks](https://www.reddit.com/r/MachineLearning/comments/14327ov/n_redpajama_7b_now_available_instruct_model/)
 - [[Discussion] training a diffusion model with a destructive process other than gaussian noise](https://www.reddit.com/r/MachineLearning/comments/143220w/discussion_training_a_diffusion_model_with_a/)
 - [RVC: AttributeError: &#39;NoneType&#39; object has no attribute &#39;dtype&#39; [R]](https://www.reddit.com/r/MachineLearning/comments/142wp68/rvc_attributeerror_nonetype_object_has_no/)
 - [[D] Affordable Masters Programs](https://www.reddit.com/r/MachineLearning/comments/142uc5g/d_affordable_masters_programs/)
-- [[D] Hyperparameter optimization best practices](https://www.reddit.com/r/MachineLearning/comments/142t43v/d_hyperparameter_optimization_best_practices/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
