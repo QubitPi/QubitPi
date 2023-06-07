@@ -272,11 +272,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「诲韬诤言」艾尔海森同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/27851)
+- [「红叶逐荒波」枫原万叶同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/27850)
+- [《原神》「神工天巧·宝录之章」玩法介绍](https://ys.mihoyo.com/main/news/detail/27849)
 - [「神工天巧·宝录之章」活动：拟想秘境挑战](https://ys.mihoyo.com/main/news/detail/27847)
 - [《原神》剧情PV-「牌中秘宝」](https://ys.mihoyo.com/main/news/detail/27831)
-- [「七圣召唤」热斗模式：列阵斗巧](https://ys.mihoyo.com/main/news/detail/27828)
-- [荒泷一斗生日快乐｜送得早不如送得巧，一会的斗虫比赛就靠它了！](https://ys.mihoyo.com/main/news/detail/27808)
-- [派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？](https://ys.mihoyo.com/main/news/detail/27807)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 #### Honkai Impact 3 (隔壁三崩子)
