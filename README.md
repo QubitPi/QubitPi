@@ -316,11 +316,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Big Tech Digest #1: Generating Tailored Travel Recommendations, Inside GitHub: Working with the LLMs behind GitHub Copilot, What is operational resilience and more!](https://www.reddit.com/r/MachineLearning/comments/143nsdr/n_big_tech_digest_1_generating_tailored_travel/)
 - [[D] What is best: one RTX 4070 or two RTX 3060?](https://www.reddit.com/r/MachineLearning/comments/143mo5q/d_what_is_best_one_rtx_4070_or_two_rtx_3060/)
 - [[P] Training a latent diffusion model from scratch](https://www.reddit.com/r/MachineLearning/comments/143l74y/p_training_a_latent_diffusion_model_from_scratch/)
 - [[D] Unimpressive improvement in training speed after upgrading from GTX 980 Ti to RTX 4090](https://www.reddit.com/r/MachineLearning/comments/143kgse/d_unimpressive_improvement_in_training_speed/)
 - [What are other transformer python projects like Karpathy&#39;s nano-gpt [Discussion]](https://www.reddit.com/r/MachineLearning/comments/143iec8/what_are_other_transformer_python_projects_like/)
-- [[P] Replacing UI with LLM](https://www.reddit.com/r/MachineLearning/comments/143ibfx/p_replacing_ui_with_llm/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
