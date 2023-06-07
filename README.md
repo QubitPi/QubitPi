@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Optimising computer systems with more generalised AI tools](https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools)
+- [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
 - [An early warning system for novel AI risks](https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks)
 - [DeepMind’s latest research at ICLR 2023](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023)
 - [How can we build human values into AI?](https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai)
-- [Announcing Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)
-- [Competitive programming with AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
