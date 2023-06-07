@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 As the amount of data grows, securing it becomes crucial. Memgraph&#39;s Label-Based Access Control keeps your data safe with a hierarchy of permissi...](https://twitter.com/memgraphdb/status/1666403882161913856)
+- [🔍 Discover 3 powerful queries for finding hidden patterns in your #KnowledgeGraph! Uncover fraudulent activities &amp; alternative actions for guarante...](https://twitter.com/memgraphdb/status/1666385763502551041)
+- [📊 Memgraph or Neo4j? Make an informed decision for your business by understanding their unique offerings. #GraphDatabaseComparison #BusinessDecisio...](https://twitter.com/memgraphdb/status/1666379975996370949)
 - [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement #memgraph #database #memgraphdb #graphd...](https://twitter.com/memgraphdb/status/1666367895587241984)
 - [📚 Dive into Memgraph MAGE&#39;s intuitive C++ API with extensive documentation and developer guides. Say goodbye to cognitive load! #Cpp #memgraph #dat...](https://twitter.com/memgraphdb/status/1666327882648395777)
-- [🚀 Explore how Memgraph&#39;s in-memory graph database simplifies the creation of #KnowledgeGraphs, enabling fast &amp; efficient decision-making for busine...](https://twitter.com/memgraphdb/status/1666318822666559494)
-- [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1666296174708502529)
-- [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1666149457988026382)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
