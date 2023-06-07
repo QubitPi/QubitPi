@@ -241,11 +241,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/804358056404058144><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/08af33aae849b348caaae54ed2566516401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇]](https://t.bilibili.com/804400044026363937)
 - [恭喜@言梦想学习@花崎月轩@改天取个好名字等112位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/804358056404058144)
 - [《原神》「神工天巧·宝录之章」玩法介绍](https://t.bilibili.com/804327128365531251)
 - [#原神# #神工天巧# 亲爱的旅行者，「神工天巧·宝录之章」活动即将开启~ 〓活动时间〓 2023/06/08 10:00 ~ 2023/06/29 03:59 〓参与条件〓 冒险等阶≥20级 且完...](https://t.bilibili.com/803956030304157705)
 - [恭喜@AAA-蟹堡王前台阿贝多@潇雨文文@不凹了红莲我不配等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/802873707374575618)
-- [来一局七圣召唤吧！ [原神_哇]](https://t.bilibili.com/802570130244501587)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
