@@ -316,11 +316,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Unimpressive improvement in training speed after upgrading from GTX 980 Ti to RTX 4090](https://www.reddit.com/r/MachineLearning/comments/143kgse/d_unimpressive_improvement_in_training_speed/)
 - [What are other transformer python projects like Karpathy&#39;s nano-gpt [Discussion]](https://www.reddit.com/r/MachineLearning/comments/143iec8/what_are_other_transformer_python_projects_like/)
 - [[P] Replacing UI with LLM](https://www.reddit.com/r/MachineLearning/comments/143ibfx/p_replacing_ui_with_llm/)
 - [[D] [R] Implementing &lpar;weakly&rpar; supervised semantic segmentation with modern models](https://www.reddit.com/r/MachineLearning/comments/143i6bb/d_r_implementing_weakly_supervised_semantic/)
 - [[R] AlphaDev discovers faster sorting algorithms](https://www.reddit.com/r/MachineLearning/comments/143gzz3/r_alphadev_discovers_faster_sorting_algorithms/)
-- [[D] What are the best Open Source Instruction-Tuned LLMs ? Is there any benchmark on instruction datasets ?](https://www.reddit.com/r/MachineLearning/comments/143g0n6/d_what_are_the_best_open_source_instructiontuned/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
