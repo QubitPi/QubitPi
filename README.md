@@ -316,11 +316,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] MLflow &lt;2.3.0 vulnerable to unauthenticated remote LFI... again](https://www.reddit.com/r/MachineLearning/comments/143db0n/n_mlflow_230_vulnerable_to_unauthenticated_remote/)
 - [[R] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](https://www.reddit.com/r/MachineLearning/comments/143at4s/r_spqr_a_sparsequantized_representation_for/)
 - [[P]My Journey of No Typing](https://www.reddit.com/r/MachineLearning/comments/143a96q/pmy_journey_of_no_typing/)
 - [[D] Loss Function for Learning Gaussian Distribution](https://www.reddit.com/r/MachineLearning/comments/14347ex/d_loss_function_for_learning_gaussian_distribution/)
 - [[N] Senators are sending letters to Meta over LLAMA leak](https://www.reddit.com/r/MachineLearning/comments/14346o5/n_senators_are_sending_letters_to_meta_over_llama/)
-- [[N] RedPajama 7B now available, instruct model outperforms all open 7B models on HELM benchmarks](https://www.reddit.com/r/MachineLearning/comments/14327ov/n_redpajama_7b_now_available_instruct_model/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
