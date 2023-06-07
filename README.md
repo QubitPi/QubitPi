@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 To create a knowledge graph, you need to gather all the data scattered in different silos, analyze the current connections between data points an...](https://twitter.com/memgraphdb/status/1666516123733336080)
 - [🚨 Facing an emergency landing? Find the nearest airport quickly with Memgraph Lab! #EmergencyLanding #AirTravelSafety 🛬 #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1666492214942261248)
 - [🚀 Discover the top 15 new #databases in the latest video by @fireship_dev, featuring #Memgraph! Explore this cutting-edge #graphdatabase and its im...](https://twitter.com/memgraphdb/status/1666476322107932675)
 - [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1666451700213792772)
 - [🚀 Unleash the power of real-time graph analytics in our #Memgraph Webinar! Learn when to use graph analytics, graph databases, and how to analyze y...](https://twitter.com/memgraphdb/status/1666433328579481601)
-- [🔄 Turn your batch data into streaming data with Kafka, Redpanda &amp; Pulsar! Optimize your data processing strategy for real-time insights. #DataStrea...](https://twitter.com/memgraphdb/status/1666424016066715656)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
