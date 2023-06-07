@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [📚 Dive into Memgraph MAGE&#39;s intuitive C++ API with extensive documentation and developer guides. Say goodbye to cognitive load! #Cpp #memgraph #dat...](https://twitter.com/memgraphdb/status/1666327882648395777)
-- [🚀 Explore how Memgraph&#39;s in-memory graph database simplifies the creation of #KnowledgeGraphs, enabling fast &amp; efficient decision-making for busine...](https://twitter.com/memgraphdb/status/1666318822666559494)
 - [💾 Discover how ETL &amp; data transformation benefit from batch processing! 📊 Dive into real-world examples from various industries. #ETL #DataProce...](https://twitter.com/memgraphdb/status/1666296174708502529)
 - [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1666149457988026382)
 - [🔍 Discover the power of graph analytics in Python with our new course! Explore network analysis tools, learn popular graph algorithms, and dive int...](https://twitter.com/memgraphdb/status/1666131840237809669)
+- [🔑 Unraveling the versatility of Key-Value Databases. Offering flexibility and fast data retrieval, they are ideal for applications requiring rapid ...](https://twitter.com/memgraphdb/status/1666115738409529346)
+- [⚡️ Find out how iCentral, a fast and efficient online algorithm for betweenness centrality, can help analyze infrastructure networks in real-time. #...](https://twitter.com/memgraphdb/status/1666107427996016641)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
