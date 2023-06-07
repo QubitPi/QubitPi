@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [We would listen to @mesirii if we were you! :&rpar; Be part of the biggest online conference dedicated to leveraging connections in data through graph tech...](https://twitter.com/neo4j/status/1666502805459181586)
 - [RT Sudhir Hasbe: Super excited to announce various integrations between Neo4j with GenAI features in Vertex AI. Enterprises can now 1. Leverage natura...](https://twitter.com/shasbe/status/1666465509259485186)
 - [RT Tomaz Bratanic: Learn how to use the newly added LLM integrations in @neo4j APOC library. I played around with idea how to use grap h context to en...](https://twitter.com/tb_tomaz/status/1666457009661571079)
 - [We are announcing a new product integration with Google Cloud’s latest generative AI features in Vertex AI, Google’s leading large language model &lpar;L...](https://twitter.com/neo4j/status/1666454736365559814)
 - [😮Take a look at this summary of recent updates to the Neo4j Workspace: 💾 Saved Cypher 🏎️ Powered-up Graph Visualization 🔎 Quick History S...](https://twitter.com/neo4j/status/1666173176999555073)
-- [Hello from #GraphSummit2023! Full house in Boston 📍 https://t.co/4vnmGxZaVt](https://twitter.com/neo4j/status/1666115412289892355)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
