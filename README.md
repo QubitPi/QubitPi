@@ -268,11 +268,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「决斗！召唤之巅！」3.7版本活动速递第二期](https://bbs.mihoyo.com/ys/article/40125713)
 - [《原神》「神工天巧」交流平台教学视频上线](https://bbs.mihoyo.com/ys/article/40124702)
 - [「神工天巧·宝录之章」活动贴士——拟想秘境留言簿](https://bbs.mihoyo.com/ys/article/40116679)
 - [「七圣召唤主播邀请赛」首日赛事速报！](https://bbs.mihoyo.com/ys/article/40102685)
 - [「七圣召唤主播邀请赛」将于今日16:00正式揭幕！](https://bbs.mihoyo.com/ys/article/40082554)
-- [《原神》「神工天巧·宝录之章」玩法介绍](https://bbs.mihoyo.com/ys/article/40082425)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
