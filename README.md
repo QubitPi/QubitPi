@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] MindsDB vs PostgresML for building database backed ML applications](https://www.reddit.com/r/MachineLearning/comments/144e0ph/d_mindsdb_vs_postgresml_for_building_database/)
 - [[P] I got fed up with LangChain, so I made a simple open-source alternative for building Python AI apps as easy and intuitive as possible.](https://www.reddit.com/r/MachineLearning/comments/144c2b1/p_i_got_fed_up_with_langchain_so_i_made_a_simple/)
 - [[R] Adapted LLMs on Enterprise Data](https://www.reddit.com/r/MachineLearning/comments/144bnt8/r_adapted_llms_on_enterprise_data/)
 - [[Project] TurtleBot3 DRL Navigation Platform &lpar;ROS2, PyTorch, TD3, Docker&rpar;](https://www.reddit.com/r/MachineLearning/comments/144akan/project_turtlebot3_drl_navigation_platform_ros2/)
 - [[D] Models that compare inputs to references?](https://www.reddit.com/r/MachineLearning/comments/144a7k9/d_models_that_compare_inputs_to_references/)
-- [[D] Virtual Machine Recommendation](https://www.reddit.com/r/MachineLearning/comments/14495b8/d_virtual_machine_recommendation/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
