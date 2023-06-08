@@ -152,6 +152,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 
+<details>
+  <summary><b>Why do I care about Software Infrastructure (a lot)?</b></summary>
 <table>
   <tr>
     <th colspan="2" scope="colgroup">
@@ -189,6 +191,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
     </td>
   </tr>
 </table>
+</details>
 
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
