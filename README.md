@@ -290,11 +290,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [琪亚娜·卡斯兰娜 | 人偶补给开启](https://www.bh3.com/news/27864)
+- [精准补给丨无名之钥&amp;往世的星空](https://www.bh3.com/news/27863)
+- [终焉之律者 | 扩充补给限时开启](https://www.bh3.com/news/27862)
 - [履海游月之邀丨服装补给限时开启！](https://www.bh3.com/news/27853)
 - [封号名单（2023年6月5日）](https://www.bh3.com/news/27846)
-- [V6.7作战凭证开启](https://www.bh3.com/news/27844)
-- [「歧路星语」6.7版本更新公告](https://www.bh3.com/news/27827)
-- [妖精爱莉 | 人偶补给开启](https://www.bh3.com/news/27815)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
