@@ -368,11 +368,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ Graph databases are a good choice when dealing with highly connected data in energy management systems. https://memgraph.com/blog/solving-most-co...](https://twitter.com/memgraphdb/status/1666838512484712451)
 - [🧠 Delve into the development process of the All Shortest Path algorithm for Memgraph and learn how it was optimized for speed! #UnderTheHood #Perfo...](https://twitter.com/memgraphdb/status/1666795715102756867)
 - [🌐 Graph databases make IAM systems more efficient by enabling fast lookups and dynamic graph algorithms. Say goodbye to traditional IAM struggles! ...](https://twitter.com/memgraphdb/status/1666786405224177666)
 - [🎓 Don&#39;t miss the #Memgraph Webinar with @michaelughetto from @AstraZeneca! Discover how their Biological Insights Knowledge Graph is changing the g...](https://twitter.com/memgraphdb/status/1666765514863964162)
 - [🎬 Explore real-time movie reviews with @redpandadata &amp; Memgraph! Boost your data-driven recommendations in no time. #Redpanda #Memgraph #RealTimeAn...](https://twitter.com/memgraphdb/status/1666740855036604416)
-- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1666705871131353094)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
