@@ -35,7 +35,7 @@ jobs:
         run: python -m pip install requests
       - name: Write active forks to temp.txt
         run: python compute_active_forks.py
-      - name: Write active forks to README.md
+      - name: Write temp.txt to README.md and put it between specified (overwrite)
         run: sed -i -e '/<!-- ACTIVE-FORKS:START -->/,/<!-- ACTIVE-FORKS:END -->/ {//!d; /<!-- ACTIVE-FORKS:START -->/r temp.txt' -e '}' README.md
       - name: Commit changes
         run: |
