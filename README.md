@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Material Engineering XY Plot Classification Using ML](https://www.reddit.com/r/MachineLearning/comments/14489ee/d_material_engineering_xy_plot_classification/)
 - [[P] &#39;Context is all you need&#39; - Multimodal vector search with personalization](https://www.reddit.com/r/MachineLearning/comments/1445s1k/p_context_is_all_you_need_multimodal_vector/)
 - [&quot;[Project]&quot; Sequence prediction in Parent - Child dataset](https://www.reddit.com/r/MachineLearning/comments/1443jrz/project_sequence_prediction_in_parent_child/)
 - [[D] CycleGAN performance immediately deteriorates](https://www.reddit.com/r/MachineLearning/comments/1443dvq/d_cyclegan_performance_immediately_deteriorates/)
 - [[D] Fuse an arbitrary number of images with a transformer.](https://www.reddit.com/r/MachineLearning/comments/14439ia/d_fuse_an_arbitrary_number_of_images_with_a/)
-- [[Project] Boost Your Data Science Productivity with Lunar - We Need Your Feedback!](https://www.reddit.com/r/MachineLearning/comments/1441194/project_boost_your_data_science_productivity_with/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
