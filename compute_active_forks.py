@@ -3,7 +3,7 @@ import datetime
 
 NUM_ACTIVE_FORKS_TO_SHOW = 4
 ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
-PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo={repo_name}&show_owner=true&theme=vue)](https://github.com/QubitPi/{repo_name})"
+PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=vue)](https://github.com/{owner}/{repo_name})"
 
 
 def get_active_forks():
@@ -14,19 +14,20 @@ def get_active_forks():
 
     repository_urls = list(set([pr["repository_url"] for pr in prs]))
 
-    repo_names = []
+    active_forks = {}
     for repository_url in repository_urls:
         repo = requests.get(url=repository_url).json()
-        if repo["fork"] is True and len(repo_names) < NUM_ACTIVE_FORKS_TO_SHOW:
-            repo_names.append(repo["name"])
+        if repo["fork"] is True and len(active_forks) < NUM_ACTIVE_FORKS_TO_SHOW:
+            owner = repo["full_name"].split("/")[0]
+            repo_name = repo["full_name"].split("/")[1]
+            active_forks[repo_name] = owner
 
-    active_forks = "\n".join([PIN_TEMPLATE.format(repo_name=repo_name) for repo_name in repo_names])
+    active_forks = "\n".join([PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
 
     f = open("temp.txt", "w")
     f.write(active_forks)
     f.write("\n")
     f.close()
 
-    
 if __name__ == '__main__':
     get_active_forks()
