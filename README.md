@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I made a GPT-4-powered task-executiing terminal extension for VS-Code](https://www.reddit.com/r/MachineLearning/comments/144jko9/p_i_made_a_gpt4powered_taskexecutiing_terminal/)
 - [[D] Is There any Open Sourced Midjourney Detection or AI Generated Image Detection Project?](https://www.reddit.com/r/MachineLearning/comments/144iyqh/d_is_there_any_open_sourced_midjourney_detection/)
 - [[P] AlpacaEval : An Automatic Evaluator for Instruction-following Language Models](https://www.reddit.com/r/MachineLearning/comments/144ga7z/p_alpacaeval_an_automatic_evaluator_for/)
 - [[D] MindsDB vs PostgresML for building database backed ML applications](https://www.reddit.com/r/MachineLearning/comments/144e0ph/d_mindsdb_vs_postgresml_for_building_database/)
 - [[P] I got fed up with LangChain, so I made a simple open-source alternative for building Python AI apps as easy and intuitive as possible.](https://www.reddit.com/r/MachineLearning/comments/144c2b1/p_i_got_fed_up_with_langchain_so_i_made_a_simple/)
-- [[R] Adapted LLMs on Enterprise Data](https://www.reddit.com/r/MachineLearning/comments/144bnt8/r_adapted_llms_on_enterprise_data/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
