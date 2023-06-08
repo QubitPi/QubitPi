@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Google Cloud: Re Big shout out to our partners, @twilio, @typefaceai, @DataStax, and @neo4j, and our customers, @priceline, @MayoClinic, @GATELESIS...](https://twitter.com/googlecloud/status/1666628182345228288)
+- [RT Google Cloud: Today at the #GoogleCloudExecForum, we announced new endeavors to bring #generativeAI to enterprises, small businesses, and governmen...](https://twitter.com/googlecloud/status/1666628178033483776)
 - [Global healthcare company @novonordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinical...](https://twitter.com/neo4j/status/1666535516039159815)
 - [We would listen to @mesirii if we were you! :&rpar; Be part of the biggest online conference dedicated to leveraging connections in data through graph tech...](https://twitter.com/neo4j/status/1666502805459181586)
 - [RT Sudhir Hasbe: Super excited to announce various integrations between Neo4j with GenAI features in Vertex AI. Enterprises can now 1. Leverage natura...](https://twitter.com/shasbe/status/1666465509259485186)
-- [RT Tomaz Bratanic: Learn how to use the newly added LLM integrations in @neo4j APOC library. I played around with idea how to use grap h context to en...](https://twitter.com/tb_tomaz/status/1666457009661571079)
-- [We are announcing a new product integration with Google Cloud’s latest generative AI features in Vertex AI, Google’s leading large language model &lpar;L...](https://twitter.com/neo4j/status/1666454736365559814)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
