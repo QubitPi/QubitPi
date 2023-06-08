@@ -1,0 +1,46 @@
+# Copyright Jiaqi Liu
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+---
+name: Active Forks
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  tests:
+    name: Update Active Forks Section
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - name: Write active forks to temp.txt
+        run: python compute_active_forks.py
+      - name: Write active forks to README.md
+        run: sed -i -e '/<!-- ACTIVE-FORKS:START -->/,/<!-- ACTIVE-FORKS:END -->/ {//!d; /<!-- ACTIVE-FORKS:START -->/r temp.txt' -e '}' README.md
+      - name: Commit changes
+        run: |
+          git config user.name "QubitPi"
+          git config user.email "jack20220723@gmail.com"
+          git add README.md
+          git commit -m "Update 'Active Forks' section"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
