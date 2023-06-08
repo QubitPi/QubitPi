@@ -105,7 +105,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-### Active Forks (Forks with at Least 1 PR Merged within the Last 5 Days)
+### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=vue)](https://github.com/QubitPi/docs.konghq.com)
