@@ -247,11 +247,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/804358056404058144><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/08af33aae849b348caaae54ed2566516401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #原神神工天巧征集活动# #原神UP主激励计划# 《原神》「神工天巧·宝录之章」挑战视频征集活动今日开启，期待旅行者的精彩视频投稿~ 〓活动时间〓 6月8日...](https://t.bilibili.com/804698329484099639)
-- [#原神# #神工天巧# 旅行者们好呀，「神工天巧·宝录之章」活动已开启！ 听说有热心人士准备了一份「拟想秘境留言簿」，用于解答冒险家们在秘境中遇到的问题，让...](https://t.bilibili.com/804675007820070913)
-- [[原神_哇]](https://t.bilibili.com/804400044026363937)
-- [恭喜@言梦想学习@花崎月轩@改天取个好名字等112位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/804358056404058144)
-- [《原神》「神工天巧·宝录之章」玩法介绍](https://t.bilibili.com/804327128365531251)
+- [#原神# #决斗召唤之巅# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/804762625407713331)
+- [[原神_哇][原神_哇]](https://t.bilibili.com/804761392748953637)
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ 活动期间，旅行者可以在「神铸赋形」...](https://t.bilibili.com/804761332619411609)
+- [#原神# #枫原万叶# 亲爱的旅行者，「叶落风随」活动祈愿即将开启，「红叶逐荒波·枫原万叶&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/804760559286222899)
+- [#原神# #艾尔海森# 亲爱的旅行者，「敕诫枢谋」活动祈愿即将开启，「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，...](https://t.bilibili.com/804760048167288903)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
