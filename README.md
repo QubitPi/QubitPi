@@ -346,11 +346,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Bonjour, Paris! #GraphSummit2023 is looking good! Check out where we will be next: https://okt.to/I8DgdT #Neo4j https://t.co/qgwgS0NHYA](https://twitter.com/neo4j/status/1666772113821237248)
 - [RT Google Cloud: Re Big shout out to our partners, @twilio, @typefaceai, @DataStax, and @neo4j, and our customers, @priceline, @MayoClinic, @GATELESIS...](https://twitter.com/googlecloud/status/1666628182345228288)
 - [RT Google Cloud: Today at the #GoogleCloudExecForum, we announced new endeavors to bring #generativeAI to enterprises, small businesses, and governmen...](https://twitter.com/googlecloud/status/1666628178033483776)
 - [Global healthcare company @novonordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinical...](https://twitter.com/neo4j/status/1666535516039159815)
 - [We would listen to @mesirii if we were you! :&rpar; Be part of the biggest online conference dedicated to leveraging connections in data through graph tech...](https://twitter.com/neo4j/status/1666502805459181586)
+- [RT Sudhir Hasbe: Super excited to announce various integrations between Neo4j with GenAI features in Vertex AI. Enterprises can now 1. Leverage natura...](https://twitter.com/shasbe/status/1666465509259485186)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
