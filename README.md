@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] TurtleBot3 DRL Navigation Platform &lpar;ROS2, PyTorch, TD3, Docker&rpar;](https://www.reddit.com/r/MachineLearning/comments/144akan/project_turtlebot3_drl_navigation_platform_ros2/)
+- [[D] Models that compare inputs to references?](https://www.reddit.com/r/MachineLearning/comments/144a7k9/d_models_that_compare_inputs_to_references/)
 - [[D] Virtual Machine Recommendation](https://www.reddit.com/r/MachineLearning/comments/14495b8/d_virtual_machine_recommendation/)
 - [[Project] I built a template repo for quick prototyping of search pipelines with Haystack and Streamlit](https://www.reddit.com/r/MachineLearning/comments/144925t/project_i_built_a_template_repo_for_quick/)
 - [[D] Material Engineering XY Plot Classification Using ML](https://www.reddit.com/r/MachineLearning/comments/14489ee/d_material_engineering_xy_plot_classification/)
-- [[P] &#39;Context is all you need&#39; - Multimodal vector search with personalization](https://www.reddit.com/r/MachineLearning/comments/1445s1k/p_context_is_all_you_need_multimodal_vector/)
-- [&quot;[Project]&quot; Sequence prediction in Parent - Child dataset](https://www.reddit.com/r/MachineLearning/comments/1443jrz/project_sequence_prediction_in_parent_child/)
 <!-- REDDIT-ML:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
