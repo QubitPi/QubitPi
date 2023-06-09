@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Where do I start?](https://www.reddit.com/r/MachineLearning/comments/145jgws/d_where_do_i_start/)
 - [[D] Do you know of source code for a single threaded LLM inference engine?](https://www.reddit.com/r/MachineLearning/comments/145inkt/d_do_you_know_of_source_code_for_a_single/)
 - [[P] Logistic regression not working on BERT embeddings. Need advice](https://www.reddit.com/r/MachineLearning/comments/145hcht/p_logistic_regression_not_working_on_bert/)
 - [[R] Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/145fn7p/r_gittheta_a_git_extension_for_collaborative/)
 - [Reinforcement learning with arduino [D], [P]](https://www.reddit.com/r/MachineLearning/comments/145ek1l/reinforcement_learning_with_arduino_d_p/)
-- [[D] What does it mean when your validation logloss is lower than your training](https://www.reddit.com/r/MachineLearning/comments/1459ksi/d_what_does_it_mean_when_your_validation_logloss/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
