@@ -354,11 +354,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Neo4j is a proud participant in the Google Cloud Generative AI Launch! ✨ Want to learn how it can transform your business?: https://okt.to/ZoWrlO @go...](https://twitter.com/neo4j/status/1667154718106238980)
 - [RT Siddhant Agarwal: It was a pleasure hosting yet another #GraphMeetup at #GraphSummitSingapore. Thanks to @dgg32 and Ts. Nurul Huda AR from @akademi...](https://twitter.com/sidagarwal04/status/1667021565777821696)
 - [Join #Stratazon in #Connections! They will demonstrate how #graphtechnology unlocks valuable insights into customer buying patterns that elevate your ...](https://twitter.com/neo4j/status/1666913012765040642)
 - [#GraphSummit2023 Now, from Portland 📍✨ https://t.co/BSqPE3LFLh](https://twitter.com/neo4j/status/1666903385516171282)
 - [Want to share your graph expertise at #NODES2023? Check out the top 10 sessions from last year to get inspired! 💡 This year’s talk tracks: 🔧 In...](https://twitter.com/neo4j/status/1666879274974838791)
+- [Check out @jalakoo&#39;s Mock Data Generator to generate synthetic graph data. ! 👀 Use ChatGPT to convert text into a graph, and modify it visually wit...](https://twitter.com/neo4j/status/1666852712011509766)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
