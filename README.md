@@ -335,7 +335,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### entity linking
 
 <table>
-  <!-- SCHOLIA-ENTITY-LINKING:START --><!-- SCHOLIA-ENTITY-LINKING:END -->
+  <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Mon May 22 2023 12:00 AM NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</td><td>https://scholia.toolforge.org/work/Q118867783</td></tr><tr><td>Mon May 01 2023 12:00 AM Entity Linking for KGQA Using AMR Graphs</td><td>https://scholia.toolforge.org/work/Q118798769</td></tr><tr><td>Thu Sep 01 2022 12:00 AM Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases</td><td>https://scholia.toolforge.org/work/Q113770518</td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
 </table>
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
