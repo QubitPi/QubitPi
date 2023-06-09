@@ -245,7 +245,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/804762625407713331><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a83a98d84cdbb048ffb4c66fee4e2ac5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/805069316136370176><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1d2e5d70e3ec1caf646529bdc3d6bd4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #丽莎# #生日快乐# 嗯~不仅按时还书还带了礼物，真是懂事的小可爱呢。 那么，恭喜你成为了姐姐我心中本月的最佳读者，这是给支持我工作的小可爱...](https://t.bilibili.com/805069316136370176)
