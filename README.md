@@ -248,11 +248,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/805100265411706917><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/97a0847085f8f704b45c500db5a1f112401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #天朗风清 绿色出行# #原神支付宝# 亲爱的旅行者， 旅行者们在原神x支付宝主题活动中通过绿色出行实现的碳减排已累计达到10000吨，相当于种下50...](https://t.bilibili.com/805162112935526528)
 - [恭喜@realkaiyide@苏幕遮qwq@Dr戴安然等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/805100265411706917)
 - [恭喜10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/805100214129000777)
 - [互动抽奖 #原神# #丽莎# #生日快乐# 嗯~不仅按时还书还带了礼物，真是懂事的小可爱呢。 那么，恭喜你成为了姐姐我心中本月的最佳读者，这是给支持我工作的小可爱...](https://t.bilibili.com/805069316136370176)
 - [#原神# #决斗召唤之巅# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/804762625407713331)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ 活动期间，旅行者可以在「神铸赋形」...](https://t.bilibili.com/804761332619411609)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
