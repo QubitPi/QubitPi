@@ -245,7 +245,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/804358056404058144><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/08af33aae849b348caaae54ed2566516401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/804762625407713331><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a83a98d84cdbb048ffb4c66fee4e2ac5401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #决斗召唤之巅# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/804762625407713331)
