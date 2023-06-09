@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the current best, trainable method for image segmentation?](https://www.reddit.com/r/MachineLearning/comments/144u40j/d_what_is_the_current_best_trainable_method_for/)
 - [Philosophy blender: Using ChatGPT to create novel and authentic philosophy. [P]](https://www.reddit.com/r/MachineLearning/comments/144t1jc/philosophy_blender_using_chatgpt_to_create_novel/)
 - [[R] Neuro-Semantic Web - an LLM theory](https://www.reddit.com/r/MachineLearning/comments/144rsez/r_neurosemantic_web_an_llm_theory/)
 - [[D] Is it possible for machine learning to have a prediction accuracy of 95%](https://www.reddit.com/r/MachineLearning/comments/144ncvq/d_is_it_possible_for_machine_learning_to_have_a/)
 - [[R] Decision-Oriented Dialogue for Human-AI Collaboration &lpar;Berkeley + Microsoft&rpar; — making LLM agents more collaborative in everyday tasks](https://www.reddit.com/r/MachineLearning/comments/144m60m/r_decisionoriented_dialogue_for_humanai/)
-- [[Project] MDLRNN-torch – Minimum Description Length Recurrent Neural Networks in PyTorch](https://www.reddit.com/r/MachineLearning/comments/144ldpk/project_mdlrnntorch_minimum_description_length/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
