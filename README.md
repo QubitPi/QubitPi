@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Neuro-Semantic Web - an LLM theory](https://www.reddit.com/r/MachineLearning/comments/144rsez/r_neurosemantic_web_an_llm_theory/)
 - [[D] Is it possible for machine learning to have a prediction accuracy of 95%](https://www.reddit.com/r/MachineLearning/comments/144ncvq/d_is_it_possible_for_machine_learning_to_have_a/)
 - [[R] Decision-Oriented Dialogue for Human-AI Collaboration &lpar;Berkeley + Microsoft&rpar; — making LLM agents more collaborative in everyday tasks](https://www.reddit.com/r/MachineLearning/comments/144m60m/r_decisionoriented_dialogue_for_humanai/)
 - [[Project] MDLRNN-torch – Minimum Description Length Recurrent Neural Networks in PyTorch](https://www.reddit.com/r/MachineLearning/comments/144ldpk/project_mdlrnntorch_minimum_description_length/)
 - [[P] I made a GPT-4-powered task-executiing terminal extension for VS-Code](https://www.reddit.com/r/MachineLearning/comments/144jko9/p_i_made_a_gpt4powered_taskexecutiing_terminal/)
-- [[D] Is There any Open Sourced Midjourney Detection or AI Generated Image Detection Project?](https://www.reddit.com/r/MachineLearning/comments/144iyqh/d_is_there_any_open_sourced_midjourney_detection/)
 <!-- REDDIT-ML:END -->
 
 <h3><a href="https://scholia.toolforge.org/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"></a></h3>
