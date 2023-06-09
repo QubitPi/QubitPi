@@ -1,7 +1,7 @@
 import requests
 import datetime
 
-MAX_NUM_ACTIVE_FORKS_TO_SHOW = 4
+MAX_NUM_ACTIVE_FORKS_TO_SHOW = 6
 ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=vue)](https://github.com/{owner}/{repo_name})"
 
