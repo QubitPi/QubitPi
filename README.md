@@ -323,10 +323,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Comparing RL and LLMs for Game Playing AI &lpar;A video&rpar;](https://www.reddit.com/r/MachineLearning/comments/144um73/d_comparing_rl_and_llms_for_game_playing_ai_a/)
 - [[D] What is the current best, trainable method for image segmentation?](https://www.reddit.com/r/MachineLearning/comments/144u40j/d_what_is_the_current_best_trainable_method_for/)
 - [Philosophy blender: Using ChatGPT to create novel and authentic philosophy. [P]](https://www.reddit.com/r/MachineLearning/comments/144t1jc/philosophy_blender_using_chatgpt_to_create_novel/)
 - [[R] Neuro-Semantic Web - an LLM theory](https://www.reddit.com/r/MachineLearning/comments/144rsez/r_neurosemantic_web_an_llm_theory/)
-- [[D] Is it possible for machine learning to have a prediction accuracy of 95%](https://www.reddit.com/r/MachineLearning/comments/144ncvq/d_is_it_possible_for_machine_learning_to_have_a/)
 - [[R] Decision-Oriented Dialogue for Human-AI Collaboration &lpar;Berkeley + Microsoft&rpar; — making LLM agents more collaborative in everyday tasks](https://www.reddit.com/r/MachineLearning/comments/144m60m/r_decisionoriented_dialogue_for_humanai/)
 <!-- REDDIT-ML:END -->
 
