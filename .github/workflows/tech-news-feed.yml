@@ -60,8 +60,8 @@ jobs:
           feed_list: "https://scholia.toolforge.org/topic/Q17012245/latest-works/rss"
           template: "[$date] [$title]($url)"
 
-  openstack-superuser:
-    name: OpenStack Superuser
+  openstack-news:
+    name: OpenStack News
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
