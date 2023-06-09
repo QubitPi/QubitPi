@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/145fn7p/r_gittheta_a_git_extension_for_collaborative/)
 - [Reinforcement learning with arduino [D], [P]](https://www.reddit.com/r/MachineLearning/comments/145ek1l/reinforcement_learning_with_arduino_d_p/)
 - [[D] What does it mean when your validation logloss is lower than your training](https://www.reddit.com/r/MachineLearning/comments/1459ksi/d_what_does_it_mean_when_your_validation_logloss/)
 - [[D] Deep ensembles as bayesian compared to MC-Dropout](https://www.reddit.com/r/MachineLearning/comments/145927o/d_deep_ensembles_as_bayesian_compared_to_mcdropout/)
 - [[D] Deep structural causal models](https://www.reddit.com/r/MachineLearning/comments/1458mi2/d_deep_structural_causal_models/)
-- [[D] Optimizing AI prompt](https://www.reddit.com/r/MachineLearning/comments/1458lbq/d_optimizing_ai_prompt/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
