@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What are your opinions on semantic decoding aka thought/dream interpretation?](https://www.reddit.com/r/MachineLearning/comments/1458ai3/d_what_are_your_opinions_on_semantic_decoding_aka/)
 - [[D] Analog AI](https://www.reddit.com/r/MachineLearning/comments/14576xm/d_analog_ai/)
 - [[R] Humans-in-the-loop Training of AI models](https://www.reddit.com/r/MachineLearning/comments/14555sz/r_humansintheloop_training_of_ai_models/)
 - [[D] LLM&#39;s in languages other than English.](https://www.reddit.com/r/MachineLearning/comments/1452ziq/d_llms_in_languages_other_than_english/)
 - [[D] Comparing RL and LLMs for Game Playing AI &lpar;A video&rpar;](https://www.reddit.com/r/MachineLearning/comments/144um73/d_comparing_rl_and_llms_for_game_playing_ai_a/)
-- [[D] What is the current best, trainable method for image segmentation?](https://www.reddit.com/r/MachineLearning/comments/144u40j/d_what_is_the_current_best_trainable_method_for/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
