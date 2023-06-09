@@ -330,6 +330,14 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [[D] Is There any Open Sourced Midjourney Detection or AI Generated Image Detection Project?](https://www.reddit.com/r/MachineLearning/comments/144iyqh/d_is_there_any_open_sourced_midjourney_detection/)
 <!-- REDDIT-ML:END -->
 
+<h3><a href="https://scholia.toolforge.org/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"></a></h3>
+
+#### entity linking
+
+<!-- SCHOLIA-ENTITY-LINKING:START -->
+
+<!-- SCHOLIA-ENTITY-LINKING:END -->
+
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
     <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
 </a>
