@@ -246,7 +246,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/805100265411706917><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/97a0847085f8f704b45c500db5a1f112401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/805162112935526528><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dffe4a5bd84d7645e005df8bbf9ed027401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #天朗风清 绿色出行# #原神支付宝# 亲爱的旅行者， 旅行者们在原神x支付宝主题活动中通过绿色出行实现的碳减排已累计达到10000吨，相当于种下50...](https://t.bilibili.com/805162112935526528)
