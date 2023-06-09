@@ -330,9 +330,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [[P] I made a GPT-4-powered task-executiing terminal extension for VS-Code](https://www.reddit.com/r/MachineLearning/comments/144jko9/p_i_made_a_gpt4powered_taskexecutiing_terminal/)
 <!-- REDDIT-ML:END -->
 
-<h3><a href="https://scholia.toolforge.org/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"></a></h3>
-
-#### [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
+### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
 
 <table>
   <tr><th>Date</th><th>Recently Published Works</th></tr>
