@@ -324,10 +324,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 <!-- REDDIT-ML:START -->
 - [[D] LLM&#39;s in languages other than English.](https://www.reddit.com/r/MachineLearning/comments/1452ziq/d_llms_in_languages_other_than_english/)
-- [[Discussion]Unlock the power of MLOps: A comprehensive guide to building a scalable and efficient ML pipeline](https://www.reddit.com/r/MachineLearning/comments/144y823/discussionunlock_the_power_of_mlops_a/)
-- [Doubt, Lambda in Ridge [D]](https://www.reddit.com/r/MachineLearning/comments/144y7bg/doubt_lambda_in_ridge_d/)
 - [[D] Comparing RL and LLMs for Game Playing AI &lpar;A video&rpar;](https://www.reddit.com/r/MachineLearning/comments/144um73/d_comparing_rl_and_llms_for_game_playing_ai_a/)
 - [[D] What is the current best, trainable method for image segmentation?](https://www.reddit.com/r/MachineLearning/comments/144u40j/d_what_is_the_current_best_trainable_method_for/)
+- [Philosophy blender: Using ChatGPT to create novel and authentic philosophy. [P]](https://www.reddit.com/r/MachineLearning/comments/144t1jc/philosophy_blender_using_chatgpt_to_create_novel/)
+- [[R] Neuro-Semantic Web - an LLM theory](https://www.reddit.com/r/MachineLearning/comments/144rsez/r_neurosemantic_web_an_llm_theory/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
