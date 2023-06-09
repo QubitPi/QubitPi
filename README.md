@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1667128660950675457)
+- [🧠 Explore PyKEEN, the #Python library for building and evaluating knowledge graphs and embedding models. Featuring hyperparameter optimization and ...](https://twitter.com/memgraphdb/status/1667110538659201024)
+- [🌐 Fetch data from the @Twitch API, model objects using GQLAlchemy&#39;s OGM, and create API endpoints for GET requests 📊 #API #TwitchAPI #Backend #P...](https://twitter.com/memgraphdb/status/1667104750943256578)
 - [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1667077573371633665)
 - [🚀 End-to-end system monitoring with Memgraph and @PrometheusIO, enabling proactive issue detection and historical tracking of system metrics. #Syst...](https://twitter.com/memgraphdb/status/1667054169033678848)
-- [🚀 Honest review of #Memgraph by @AshleighNFaith! 🧪 Watch as she chats with our DevRel Engineers about #graphdatabase magic! ✨👩‍💻👨‍�...](https://twitter.com/memgraphdb/status/1667043599228317698)
-- [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1667020948137029633)
-- [💼 Dive into data lineage use cases with our #Memgraph Webinar and see how @get_manta Flow leverages graph databases for fast, efficient data proces...](https://twitter.com/memgraphdb/status/1666874233803218944)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
