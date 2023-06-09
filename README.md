@@ -334,7 +334,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 #### entity linking
 
-<!-- SCHOLIA-ENTITY-LINKING:START -->[Mon May 22 2023 12:00 AM] [NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker](https://scholia.toolforge.org/work/Q118867783)[Mon May 01 2023 12:00 AM] [Entity Linking for KGQA Using AMR Graphs](https://scholia.toolforge.org/work/Q118798769)[Thu Sep 01 2022 12:00 AM] [Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases](https://scholia.toolforge.org/work/Q113770518)<!-- SCHOLIA-ENTITY-LINKING:END -->
+<!-- SCHOLIA-ENTITY-LINKING:START -->- Mon May 22 2023 12:00 AM [NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker](https://scholia.toolforge.org/work/Q118867783)- Mon May 01 2023 12:00 AM [Entity Linking for KGQA Using AMR Graphs](https://scholia.toolforge.org/work/Q118798769)- Thu Sep 01 2022 12:00 AM [Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases](https://scholia.toolforge.org/work/Q113770518)<!-- SCHOLIA-ENTITY-LINKING:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
     <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
