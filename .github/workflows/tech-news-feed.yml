@@ -45,8 +45,8 @@ jobs:
           max_post_count: "5"
           feed_list: "https://www.reddit.com/r/MachineLearning/.rss"  
  
-   scholia-entity-linking:
-    name: [Scholia] Entity Linking
+  scholia-entity-linking:
+    name: (Scholia) Entity Linking
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -56,7 +56,7 @@ jobs:
           committer_email: "jack20191124@proton.me"
           commit_message: "Recently published works on Entity Linking"
           comment_tag_name: "SCHOLIA-ENTITY-LINKING"
-          max_post_count: "5"
+          max_post_count: "3"
           feed_list: "https://scholia.toolforge.org/topic/Q17012245/latest-works/rss"
           template: "[$date] [$title]($url)"
 
