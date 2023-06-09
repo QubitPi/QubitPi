@@ -58,7 +58,7 @@ jobs:
           comment_tag_name: "SCHOLIA-ENTITY-LINKING"
           max_post_count: "3"
           feed_list: "https://scholia.toolforge.org/topic/Q17012245/latest-works/rss"
-          template: "[$date] [$title]($url)"
+          template: "- $date [$title]($url)\n"
 
   openstack-news:
     name: OpenStack News
