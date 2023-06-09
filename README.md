@@ -332,9 +332,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 
 <h3><a href="https://scholia.toolforge.org/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"></a></h3>
 
-#### entity linking
+#### [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
 
 <table>
+  <tr><th>Date</th><th>Recently Published Works</th></tr>
   <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Mon May 22 2023 12:00 AM NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</td><td>https://scholia.toolforge.org/work/Q118867783</td></tr><tr><td>Mon May 01 2023 12:00 AM Entity Linking for KGQA Using AMR Graphs</td><td>https://scholia.toolforge.org/work/Q118798769</td></tr><tr><td>Thu Sep 01 2022 12:00 AM Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases</td><td>https://scholia.toolforge.org/work/Q113770518</td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
 </table>
 
