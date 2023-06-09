@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 There are many implementations of PageRank out there, and NetworkX and Memgraph have theirs. Let’s find out which one is faster on a sample data...](https://twitter.com/memgraphdb/status/1667077573371633665)
 - [🚀 End-to-end system monitoring with Memgraph and @PrometheusIO, enabling proactive issue detection and historical tracking of system metrics. #Syst...](https://twitter.com/memgraphdb/status/1667054169033678848)
 - [🚀 Honest review of #Memgraph by @AshleighNFaith! 🧪 Watch as she chats with our DevRel Engineers about #graphdatabase magic! ✨👩‍💻👨‍�...](https://twitter.com/memgraphdb/status/1667043599228317698)
 - [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1667020948137029633)
 - [💼 Dive into data lineage use cases with our #Memgraph Webinar and see how @get_manta Flow leverages graph databases for fast, efficient data proces...](https://twitter.com/memgraphdb/status/1666874233803218944)
-- [📈 As companies are growing from startups to corporate giants, and the hierarchical structure of roles builds on a yearly basis, the need to secure ...](https://twitter.com/memgraphdb/status/1666856617357324308)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
