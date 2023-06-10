@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [LLM.bit8 - Quantization via Matrices to cut inference memory in half](https://www.reddit.com/r/MachineLearning/comments/14632uw/llmbit8_quantization_via_matrices_to_cut/)
 - [[N] AI Safety Newsletter: Statement on Extinction Risks, AI Arms Race, and When Will AI Reach Human-Level?](https://www.reddit.com/r/MachineLearning/comments/1461woz/n_ai_safety_newsletter_statement_on_extinction/)
 - [[N] Big Tech Digest #1: Generating Tailored Travel Recommendations, Inside GitHub: Working with the LLMs behind GitHub Copilot, What is operational resilience and more!](https://www.reddit.com/r/MachineLearning/comments/14618r6/n_big_tech_digest_1_generating_tailored_travel/)
 - [Otter is a multi-modal model developed on OpenFlamingo &lpar;open-sourced version of DeepMind&#39;s Flamingo&rpar;, trained on a dataset of multi-modal instruction-response pairs. Otter demonstrates remarkable proficiency in multi-modal perception, reasoning, and in-context learning.](https://www.reddit.com/r/MachineLearning/comments/1460dsr/otter_is_a_multimodal_model_developed_on/)
 - [[P] I just finished building SalesCopilot, an open-source AI-powered sales call assistant - real-time transcription, automated objection detection and handling, GPT-3.5/4 powered chat, and more!](https://www.reddit.com/r/MachineLearning/comments/14609ee/p_i_just_finished_building_salescopilot_an/)
-- [[D] Has anyone ever heard of this really good AI voice?](https://www.reddit.com/r/MachineLearning/comments/145zwtp/d_has_anyone_ever_heard_of_this_really_good_ai/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
