@@ -287,9 +287,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [「敕诫枢谋」祈愿：「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！](https://ys.mihoyo.com/main/news/detail/27858)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
-#### Honkai Impact 3 (隔壁三崩子)
+<img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/8019d354-c83a-4815-946d-921d89d04c0c">
 
-<img align="right" width="10%" src="https://user-images.githubusercontent.com/16126939/187883689-9230c8fb-c671-4695-94a9-7a89a09ae890.png">
+#### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
 - [孤塔凋星丨主线第三十八章更新，参与获得活动圣痕等奖励](https://www.bh3.com/news/27878)
