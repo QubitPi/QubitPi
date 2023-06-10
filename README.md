@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Whats the intuition behind stacking attention layers?](https://www.reddit.com/r/MachineLearning/comments/146dgq1/d_whats_the_intuition_behind_stacking_attention/)
 - [[P] Battleship AI. Population Standard Distribution to predict ship locations](https://www.reddit.com/r/MachineLearning/comments/1469udd/p_battleship_ai_population_standard_distribution/)
 - [[P] Unpaint: a compact, fully C++ implementation of Stable Diffusion with no dependency on python](https://www.reddit.com/r/MachineLearning/comments/14687wr/p_unpaint_a_compact_fully_c_implementation_of/)
 - [[N][P] Introducing SlimPajama-627B: the largest extensively deduplicated, multi-corpora, open-source dataset for training large language models.](https://www.reddit.com/r/MachineLearning/comments/1467jvm/np_introducing_slimpajama627b_the_largest/)
 - [[P] Autodistill: use big slow foundation models to train small fast supervised models](https://www.reddit.com/r/MachineLearning/comments/14660tf/p_autodistill_use_big_slow_foundation_models_to/)
-- [[P] Using LLMs as normalization layer](https://www.reddit.com/r/MachineLearning/comments/1465x0r/p_using_llms_as_normalization_layer/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
