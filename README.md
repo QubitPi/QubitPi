@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Research Paper Highlights from May to June 2023](https://www.reddit.com/r/MachineLearning/comments/145zfcq/p_research_paper_highlights_from_may_to_june_2023/)
 - [[D] Does anyone here work with Behyve and NVIDIA CUDA on BSD OS?](https://www.reddit.com/r/MachineLearning/comments/145z0l0/d_does_anyone_here_work_with_behyve_and_nvidia/)
 - [[D] Few Shot Learning in real world datasets](https://www.reddit.com/r/MachineLearning/comments/145yssq/d_few_shot_learning_in_real_world_datasets/)
 - [[P] FalconFBI - LLM Generated Reports For FBI&#39;s Most Wanted](https://www.reddit.com/r/MachineLearning/comments/145ynul/p_falconfbi_llm_generated_reports_for_fbis_most/)
 - [[P] Plant disease detection using CNN](https://www.reddit.com/r/MachineLearning/comments/145ydwd/p_plant_disease_detection_using_cnn/)
-- [[D] Path from Machine Learning Engineer to R&amp;D ML?](https://www.reddit.com/r/MachineLearning/comments/145xf0u/d_path_from_machine_learning_engineer_to_rd_ml/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
