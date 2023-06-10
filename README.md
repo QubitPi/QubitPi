@@ -263,7 +263,7 @@ Latest Genshin Impact News (Bilibili)
 miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/cb0efd85-0916-42a6-b431-a05acb0078d8">)
 </h3>
 
-<img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/c870f591-b95b-411f-8212-acb996c51d74">
+<img align="left" width=45% alt="绮良良" src="https://github.com/QubitPi/QubitPi/assets/16126939/2b57c3cc-2403-4585-8faa-d40655a64768">
 
 <img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/1230586e-f81a-4f58-87b1-04ba8faefb84">
 
