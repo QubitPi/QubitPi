@@ -376,11 +376,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1667491046773727233)
+- [🏆 Which countries predicted Eurovision winners best? Analyze voting patterns and geopolitics with graph analytics! @Eurovision #graphs #bigdata #me...](https://twitter.com/memgraphdb/status/1667472927611138048)
+- [🔥 Unlock the potential of graph technology for data lineage tracking in our #Memgraph Webinar! Find out how @get_manta Flow utilizes a #graphdataba...](https://twitter.com/memgraphdb/status/1667465631430586368)
 - [🧠 Unpack the key concepts, common techniques, and real-world applications of graph clustering with k-means clustering, hierarchical clustering, and...](https://twitter.com/memgraphdb/status/1667455059699855360)
 - [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1667416557335478273)
-- [👨‍💻 Memgraph&#39;s Label-Based Access Control offers granular permissions, from read-only to create and delete, ensuring a secure environment for y...](https://twitter.com/memgraphdb/status/1667405986162679809)
-- [🌐 Join our new course on &quot;Intro to Graph Analytics in Python&quot; and unlock the world of network analysis! Learn with @supe_katarina how to use #Netwo...](https://twitter.com/memgraphdb/status/1667391389598875651)
-- [🧠 Explore your cybersecurity graph storage with Memgraph and answer crucial questions about threats. Leverage MAGE, Memgraph&#39;s Advanced Graph Exten...](https://twitter.com/memgraphdb/status/1667240898709561346)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
