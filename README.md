@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Sentiment Analysis of Morocco&#39;s Performance in FIFA World Cup 2022 - Poster Assistance](https://www.reddit.com/r/MachineLearning/comments/145vci3/d_sentiment_analysis_of_moroccos_performance_in/)
 - [Optimizing for specific returns&lpar;RL&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/145ulbq/optimizing_for_specific_returnsrl_d/)
 - [[R] Does it make sense to predict a representation of the target instead of classifying it?](https://www.reddit.com/r/MachineLearning/comments/145sg3i/r_does_it_make_sense_to_predict_a_representation/)
 - [[D] At what level does chat gpt understand addition?](https://www.reddit.com/r/MachineLearning/comments/145sc53/d_at_what_level_does_chat_gpt_understand_addition/)
 - [Open Source AI and the Challenges Ahead [D]](https://www.reddit.com/r/MachineLearning/comments/145s54k/open_source_ai_and_the_challenges_ahead_d/)
-- [[P] Automate any task with a single AI command &lpar;Open Source&rpar;](https://www.reddit.com/r/MachineLearning/comments/145ofdc/p_automate_any_task_with_a_single_ai_command_open/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
