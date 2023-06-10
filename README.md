@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] At what level does chat gpt understand addition?](https://www.reddit.com/r/MachineLearning/comments/145sc53/d_at_what_level_does_chat_gpt_understand_addition/)
+- [Open Source AI and the Challenges Ahead [D]](https://www.reddit.com/r/MachineLearning/comments/145s54k/open_source_ai_and_the_challenges_ahead_d/)
 - [[P] Automate any task with a single AI command &lpar;Open Source&rpar;](https://www.reddit.com/r/MachineLearning/comments/145ofdc/p_automate_any_task_with_a_single_ai_command_open/)
 - [[P] Explore baseball history with vector search](https://www.reddit.com/r/MachineLearning/comments/145kpid/p_explore_baseball_history_with_vector_search/)
 - [[D] Do you know of source code for a single threaded LLM inference engine?](https://www.reddit.com/r/MachineLearning/comments/145inkt/d_do_you_know_of_source_code_for_a_single/)
-- [[P] Logistic regression not working on BERT embeddings. Need advice](https://www.reddit.com/r/MachineLearning/comments/145hcht/p_logistic_regression_not_working_on_bert/)
-- [[R] Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models](https://www.reddit.com/r/MachineLearning/comments/145fn7p/r_gittheta_a_git_extension_for_collaborative/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
