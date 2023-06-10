@@ -376,11 +376,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Discover how to find all weighted shortest paths in graphs and do it fast with our latest algorithm! #GraphAlgorithms #ShortestPath #memgraph #da...](https://twitter.com/memgraphdb/status/1667599009639219202)
+- [🧠 Run graph analysis algorithms on subgraphs with ease using Memgraph&#39;s graph projection feature! Explore the power of the project&lpar;&rpar; function. #Gra...](https://twitter.com/memgraphdb/status/1667581391997923333)
 - [💡 Build dynamic movie recommendations with @redpandadata &amp; Memgraph! Streamline your data analysis process with real-time streaming. #MovieRecommen...](https://twitter.com/memgraphdb/status/1667562673859354624)
 - [💻 Master Memgraph and Python with our course by @supe_katarina! Connect to Memgraph using GQLAlchemy, and analyze movie data with ease 🍿🔍 #me...](https://twitter.com/memgraphdb/status/1667558742257291265)
 - [🌐 By creating a knowledge graph with @memgraphdb, your Docs Recommendation System will suggest relevant pages based on keywords and semantic connec...](https://twitter.com/memgraphdb/status/1667538861709307907)
-- [🧩 Dive into #Cypher queries to find games similar to your favorites like Stardew Valley or Forager. Unleash the potential of objective recommendati...](https://twitter.com/memgraphdb/status/1667529048036110336)
-- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1667491046773727233)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
