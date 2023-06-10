@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N][P] Introducing SlimPajama-627B: the largest extensively deduplicated, multi-corpora, open-source dataset for training large language models.](https://www.reddit.com/r/MachineLearning/comments/1467jvm/np_introducing_slimpajama627b_the_largest/)
 - [[P] Autodistill: use big slow foundation models to train small fast supervised models](https://www.reddit.com/r/MachineLearning/comments/14660tf/p_autodistill_use_big_slow_foundation_models_to/)
 - [[P] Using LLMs as normalization layer](https://www.reddit.com/r/MachineLearning/comments/1465x0r/p_using_llms_as_normalization_layer/)
 - [[D] NeRF, LeRF, Prolific Dreamer, Neuralangelo, and a lot of other cool NeRF research](https://www.reddit.com/r/MachineLearning/comments/1465pn3/d_nerf_lerf_prolific_dreamer_neuralangelo_and_a/)
 - [[R] Machine Learning Made Easy: Exploring ML.NET and Its Capabilities.](https://www.reddit.com/r/MachineLearning/comments/14650u2/r_machine_learning_made_easy_exploring_mlnet_and/)
-- [[N]diffusers 0.17.0 is out and comes with new pipelines, improved LoRA support, `torch.compile&lpar;&rpar;` speedups, and more](https://www.reddit.com/r/MachineLearning/comments/1463ver/ndiffusers_0170_is_out_and_comes_with_new/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
