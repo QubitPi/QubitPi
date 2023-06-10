@@ -324,11 +324,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Otter is a multi-modal model developed on OpenFlamingo &lpar;open-sourced version of DeepMind&#39;s Flamingo&rpar;, trained on a dataset of multi-modal instruction-response pairs. Otter demonstrates remarkable proficiency in multi-modal perception, reasoning, and in-context learning.](https://www.reddit.com/r/MachineLearning/comments/1460dsr/otter_is_a_multimodal_model_developed_on/)
 - [[P] I just finished building SalesCopilot, an open-source AI-powered sales call assistant - real-time transcription, automated objection detection and handling, GPT-3.5/4 powered chat, and more!](https://www.reddit.com/r/MachineLearning/comments/14609ee/p_i_just_finished_building_salescopilot_an/)
 - [[D] Has anyone ever heard of this really good AI voice?](https://www.reddit.com/r/MachineLearning/comments/145zwtp/d_has_anyone_ever_heard_of_this_really_good_ai/)
 - [[P] Research Paper Highlights from May to June 2023](https://www.reddit.com/r/MachineLearning/comments/145zfcq/p_research_paper_highlights_from_may_to_june_2023/)
 - [[D] Does anyone here work with Behyve and NVIDIA CUDA on BSD OS?](https://www.reddit.com/r/MachineLearning/comments/145z0l0/d_does_anyone_here_work_with_behyve_and_nvidia/)
-- [[D] Few Shot Learning in real world datasets](https://www.reddit.com/r/MachineLearning/comments/145yssq/d_few_shot_learning_in_real_world_datasets/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
