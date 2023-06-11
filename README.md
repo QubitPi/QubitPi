@@ -480,11 +480,3 @@ Git Data Analytics - Everything is Datable
 
 <img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 <a href="https://leetcode.com/_Jack_/"><img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="47%"></a>
-
-<div align="center">
-    
-<a href="https://www.bilibili.com/video/BV1Dq4y1D7cr">
-    <img align="center" width="100%" alt="霄宫" src="https://github.com/QubitPi/QubitPi/assets/16126939/cf0bb8a5-f5e6-4685-bd60-3db8830fa032">
-</a>
-    
-</div>
