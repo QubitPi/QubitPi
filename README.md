@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] What licensed software do you use for machine learning experimentation tracking?](https://www.reddit.com/r/MachineLearning/comments/1470bak/d_what_licensed_software_do_you_use_for_machine/)
 - [REINFORCE changing the objective[D]](https://www.reddit.com/r/MachineLearning/comments/146zs6z/reinforce_changing_the_objectived/)
 - [[D] Training a Large Acoustic Model Similarly To A Large Language Model?](https://www.reddit.com/r/MachineLearning/comments/146zagn/d_training_a_large_acoustic_model_similarly_to_a/)
-- [[D] Are there free-to-use Text to Video AI?](https://www.reddit.com/r/MachineLearning/comments/146yu37/d_are_there_freetouse_text_to_video_ai/)
 - [[P] New book explaining more advanced concepts in machine learning, deep learning, and AI](https://www.reddit.com/r/MachineLearning/comments/146ylne/p_new_book_explaining_more_advanced_concepts_in/)
+- [[Project] treebomination: convert a scikit-learn decision tree into a Keras model](https://www.reddit.com/r/MachineLearning/comments/146y2sp/project_treebomination_convert_a_scikitlearn/)
+- [[R] [ICASSP 2023] Towards Improved Room Impulse Response Estimation for Speech Recognition](https://www.reddit.com/r/MachineLearning/comments/146wjg0/r_icassp_2023_towards_improved_room_impulse/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
