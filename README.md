@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Which open source models can replicate wonder dynamics&#39;s drag&#39;n&#39;drop cg characters?](https://www.reddit.com/r/MachineLearning/comments/146ngjy/d_which_open_source_models_can_replicate_wonder/)
 - [[D] Finetuning for text extraction &lpar;e.g. scientific sources&rpar;](https://www.reddit.com/r/MachineLearning/comments/146mw3f/d_finetuning_for_text_extraction_eg_scientific/)
 - [[Discussion] Can good projects compensate for my lack of internship experience?](https://www.reddit.com/r/MachineLearning/comments/146mnbf/discussion_can_good_projects_compensate_for_my/)
 - [[R] AI based tool to find sources?](https://www.reddit.com/r/MachineLearning/comments/146h1lm/r_ai_based_tool_to_find_sources/)
 - [[D] Will &#39;Process Supervision Over Inner Monologue&#39; be the Next Big Breakthrough?](https://www.reddit.com/r/MachineLearning/comments/146gc9b/d_will_process_supervision_over_inner_monologue/)
-- [[D] [R] Benchmarking tokenizers](https://www.reddit.com/r/MachineLearning/comments/146dzhp/d_r_benchmarking_tokenizers/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
