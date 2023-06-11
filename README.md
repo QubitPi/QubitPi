@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1667793035864821760)
-- [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1667768375538319360)
 - [🎓 The most interesting and famous application of PageRank is certainly the one that actually sparked its creation. Google founders Larry Page and S...](https://twitter.com/memgraphdb/status/1667745724858073089)
 - [🚀 Discover how to find all weighted shortest paths in graphs and do it fast with our latest algorithm! #GraphAlgorithms #ShortestPath #memgraph #da...](https://twitter.com/memgraphdb/status/1667599009639219202)
 - [🧠 Run graph analysis algorithms on subgraphs with ease using Memgraph&#39;s graph projection feature! Explore the power of the project&lpar;&rpar; function. #Gra...](https://twitter.com/memgraphdb/status/1667581391997923333)
+- [💡 Build dynamic movie recommendations with @redpandadata &amp; Memgraph! Streamline your data analysis process with real-time streaming. #MovieRecommen...](https://twitter.com/memgraphdb/status/1667562673859354624)
+- [💻 Master Memgraph and Python with our course by @supe_katarina! Connect to Memgraph using GQLAlchemy, and analyze movie data with ease 🍿🔍 #me...](https://twitter.com/memgraphdb/status/1667558742257291265)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
