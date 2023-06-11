@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1667941766027268098)
+- [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1667927675724349444)
 - [⚡️ Unleash the power of stream processing for real-time analytics &amp; IoT applications! #RealTimeAnalytics #IoT #StreamProcessing @apache_pulsar @Redp...](https://twitter.com/memgraphdb/status/1667921129468461056)
 - [🗂️ Explore the world of #NoSQL databases: offering flexibility, scalability, and high performance, these databases are perfect for modern apps. #D...](https://twitter.com/memgraphdb/status/1667881366933975040)
 - [🧮 Key database performance metrics to keep an eye on: RAM memory usage, query execution latency, snapshot recovery latency, connections and transac...](https://twitter.com/memgraphdb/status/1667873566577025024)
-- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1667852678913835008)
-- [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1667829528650223616)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
