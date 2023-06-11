@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1667965674432413696)
 - [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1667941766027268098)
 - [🧩 If you believe C++ is simply the best, you’ll be happy to hear that the new #Memgraph C++ API enables you to effortlessly build query procedures...](https://twitter.com/memgraphdb/status/1667927675724349444)
 - [⚡️ Unleash the power of stream processing for real-time analytics &amp; IoT applications! #RealTimeAnalytics #IoT #StreamProcessing @apache_pulsar @Redp...](https://twitter.com/memgraphdb/status/1667921129468461056)
 - [🗂️ Explore the world of #NoSQL databases: offering flexibility, scalability, and high performance, these databases are perfect for modern apps. #D...](https://twitter.com/memgraphdb/status/1667881366933975040)
-- [🧮 Key database performance metrics to keep an eye on: RAM memory usage, query execution latency, snapshot recovery latency, connections and transac...](https://twitter.com/memgraphdb/status/1667873566577025024)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
