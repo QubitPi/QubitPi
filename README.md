@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Training a Large Acoustic Model Similarly To A Large Language Model?](https://www.reddit.com/r/MachineLearning/comments/146zagn/d_training_a_large_acoustic_model_similarly_to_a/)
 - [[D] [P] What Frameworks Do You Use To Evaluate Your LLMs? We&#39;ve Evaluated GPT-4/3.5, Anthropic Claude &amp; Cohere Command Across 4 Tasks. Here&#39;s What We&#39;ve Learned.](https://www.reddit.com/r/MachineLearning/comments/146z2ft/d_p_what_frameworks_do_you_use_to_evaluate_your/)
 - [[D] Are there free-to-use Text to Video AI?](https://www.reddit.com/r/MachineLearning/comments/146yu37/d_are_there_freetouse_text_to_video_ai/)
 - [[P] New book explaining more advanced concepts in machine learning, deep learning, and AI](https://www.reddit.com/r/MachineLearning/comments/146ylne/p_new_book_explaining_more_advanced_concepts_in/)
 - [[Project] treebomination: convert a scikit-learn decision tree into a Keras model](https://www.reddit.com/r/MachineLearning/comments/146y2sp/project_treebomination_convert_a_scikitlearn/)
-- [[Project] Kaggle Contest Code: NYC Taxi Fare Prediction](https://www.reddit.com/r/MachineLearning/comments/146xcrt/project_kaggle_contest_code_nyc_taxi_fare/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
