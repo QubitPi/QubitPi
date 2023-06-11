@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best approach to handle cloud for side projects](https://www.reddit.com/r/MachineLearning/comments/146qzu3/d_best_approach_to_handle_cloud_for_side_projects/)
 - [[N] MusicGen - Meta&#39;s response to Google&#39;s MusicLM for text-to-music is freely available for non-commercial usage](https://www.reddit.com/r/MachineLearning/comments/146qreq/n_musicgen_metas_response_to_googles_musiclm_for/)
 - [HIRING ML ENGINEER [D]](https://www.reddit.com/r/MachineLearning/comments/146pc7w/hiring_ml_engineer_d/)
 - [[D] Which open source models can replicate wonder dynamics&#39;s drag&#39;n&#39;drop cg characters?](https://www.reddit.com/r/MachineLearning/comments/146ngjy/d_which_open_source_models_can_replicate_wonder/)
 - [[D] Finetuning for text extraction &lpar;e.g. scientific sources&rpar;](https://www.reddit.com/r/MachineLearning/comments/146mw3f/d_finetuning_for_text_extraction_eg_scientific/)
-- [[Discussion] Can good projects compensate for my lack of internship experience?](https://www.reddit.com/r/MachineLearning/comments/146mnbf/discussion_can_good_projects_compensate_for_my/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
