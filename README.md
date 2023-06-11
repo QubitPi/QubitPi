@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Feedback thoughts and input wanted for AI/ML advanced marketing campaigns](https://www.reddit.com/r/MachineLearning/comments/146ilsl/d_feedback_thoughts_and_input_wanted_for_aiml/)
 - [[R] AI based tool to find sources?](https://www.reddit.com/r/MachineLearning/comments/146h1lm/r_ai_based_tool_to_find_sources/)
 - [[D] Will &#39;Process Supervision Over Inner Monologue&#39; be the Next Big Breakthrough?](https://www.reddit.com/r/MachineLearning/comments/146gc9b/d_will_process_supervision_over_inner_monologue/)
 - [[D] [R] Benchmarking tokenizers](https://www.reddit.com/r/MachineLearning/comments/146dzhp/d_r_benchmarking_tokenizers/)
 - [[D] Whats the intuition behind stacking attention layers?](https://www.reddit.com/r/MachineLearning/comments/146dgq1/d_whats_the_intuition_behind_stacking_attention/)
-- [[P] Battleship AI. Population Standard Distribution to predict ship locations](https://www.reddit.com/r/MachineLearning/comments/1469udd/p_battleship_ai_population_standard_distribution/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
