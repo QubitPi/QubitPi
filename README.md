@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] New book explaining more advanced concepts in machine learning, deep learning, and AI](https://www.reddit.com/r/MachineLearning/comments/146ylne/p_new_book_explaining_more_advanced_concepts_in/)
 - [[Project] treebomination: convert a scikit-learn decision tree into a Keras model](https://www.reddit.com/r/MachineLearning/comments/146y2sp/project_treebomination_convert_a_scikitlearn/)
 - [[Project] Kaggle Contest Code: NYC Taxi Fare Prediction](https://www.reddit.com/r/MachineLearning/comments/146xcrt/project_kaggle_contest_code_nyc_taxi_fare/)
 - [[R] [ICASSP 2023] Towards Improved Room Impulse Response Estimation for Speech Recognition](https://www.reddit.com/r/MachineLearning/comments/146wjg0/r_icassp_2023_towards_improved_room_impulse/)
 - [[N] Google&#39;s SGE is a Plagiarism Engine That Could Break the Internet](https://www.reddit.com/r/MachineLearning/comments/146wdoy/n_googles_sge_is_a_plagiarism_engine_that_could/)
-- [[D] Questions for employers](https://www.reddit.com/r/MachineLearning/comments/146w8z4/d_questions_for_employers/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
