@@ -375,11 +375,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🗂️ Explore the world of #NoSQL databases: offering flexibility, scalability, and high performance, these databases are perfect for modern apps. #D...](https://twitter.com/memgraphdb/status/1667881366933975040)
-- [🧮 Key database performance metrics to keep an eye on: RAM memory usage, query execution latency, snapshot recovery latency, connections and transac...](https://twitter.com/memgraphdb/status/1667873566577025024)
 - [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1667852678913835008)
 - [🔎 Each modern application needs an appropriate database that has basic datastore capabilities or strong analytical capabilities. There is a variety...](https://twitter.com/memgraphdb/status/1667829528650223616)
 - [🌐 AmpliGraph: the open-source toolkit democratizing graph representation learning! Ideal for #Python-based knowledge graph completion, information ...](https://twitter.com/memgraphdb/status/1667817447544553472)
+- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1667793035864821760)
+- [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1667768375538319360)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
