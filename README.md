@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Should I learn Deep Learning?](https://www.reddit.com/r/MachineLearning/comments/146uxi9/dshould_i_learn_deep_learning/)
+- [[R] Kindly read my research article on establishing material proeprties of graphene using machine learning interatomic potentials.](https://www.reddit.com/r/MachineLearning/comments/146unpo/r_kindly_read_my_research_article_on_establishing/)
 - [[D] Is excess risk decomposition &amp; bias variance tradeoff talking about the same thing?](https://www.reddit.com/r/MachineLearning/comments/146ukdy/d_is_excess_risk_decomposition_bias_variance/)
 - [r/MachineLearning is joining the Reddit Blackout starting June 12th](https://www.reddit.com/r/MachineLearning/comments/146ue8q/rmachinelearning_is_joining_the_reddit_blackout/)
 - [[R] Interview with Pascal Hitzler: The Rise of NSAI, Explainability, Concept...](https://www.reddit.com/r/MachineLearning/comments/146ttjj/r_interview_with_pascal_hitzler_the_rise_of_nsai/)
-- [[D] Best approach to handle cloud for side projects](https://www.reddit.com/r/MachineLearning/comments/146qzu3/d_best_approach_to_handle_cloud_for_side_projects/)
-- [[N] MusicGen - Meta&#39;s response to Google&#39;s MusicLM for text-to-music is freely available for non-commercial usage](https://www.reddit.com/r/MachineLearning/comments/146qreq/n_musicgen_metas_response_to_googles_musiclm_for/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
