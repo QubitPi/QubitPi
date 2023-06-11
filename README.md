@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Python/PyTorch in IOS [D]](https://www.reddit.com/r/MachineLearning/comments/147491t/pythonpytorch_in_ios_d/)
 - [[D] Best DeepSpeed config for 8GB VRAM](https://www.reddit.com/r/MachineLearning/comments/1473vwv/d_best_deepspeed_config_for_8gb_vram/)
 - [REINFORCE changing the objective[D]](https://www.reddit.com/r/MachineLearning/comments/146zs6z/reinforce_changing_the_objectived/)
 - [[D] Training a Large Acoustic Model Similarly To A Large Language Model?](https://www.reddit.com/r/MachineLearning/comments/146zagn/d_training_a_large_acoustic_model_similarly_to_a/)
 - [[P] New book explaining more advanced concepts in machine learning, deep learning, and AI](https://www.reddit.com/r/MachineLearning/comments/146ylne/p_new_book_explaining_more_advanced_concepts_in/)
-- [[Project] treebomination: convert a scikit-learn decision tree into a Keras model](https://www.reddit.com/r/MachineLearning/comments/146y2sp/project_treebomination_convert_a_scikitlearn/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
