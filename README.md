@@ -371,11 +371,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1668179834969653250)
+- [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1668162471914291200)
 - [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1668141333247057921)
 - [📊 Dive into the world of graph clustering algorithms! Powerful tools for unveiling patterns, communities, and structures within complex networks. #...](https://twitter.com/memgraphdb/status/1668126988534534144)
 - [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1668108111868051456)
-- [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1667965674432413696)
-- [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1667941766027268098)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
