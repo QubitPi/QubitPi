@@ -341,10 +341,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
     <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
 </a>
 
-### <img width="10%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png"> Study Notes
-
-* [Machine Learning](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning)
-
 <h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
