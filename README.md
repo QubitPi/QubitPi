@@ -245,7 +245,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/805162112935526528><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dffe4a5bd84d7645e005df8bbf9ed027401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/806183976112750628><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4df7ccaebd96584ed6fc9745386b55e4401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神科颜氏巡林奇遇# 亲爱的好那菈，科颜氏×原神公益特别活动即将上线。在快闪店成功投递任意护肤品牌的塑料材质正装空瓶，可得联动周边和好...](https://t.bilibili.com/806183976112750628)
