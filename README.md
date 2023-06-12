@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[N] ShortGPT is now available on Android](https://www.reddit.com/r/MachineLearning/comments/147byrs/n_shortgpt_is_now_available_on_android/)
 - [[D] When was the last time you had to implement a research paper into code at your job?](https://www.reddit.com/r/MachineLearning/comments/147a6yz/d_when_was_the_last_time_you_had_to_implement_a/)
 - [[P] Improve AI 8.0: Free Contextual Multi-Armed Bandit Platform for Scoring, Ranking &amp; Decisions](https://www.reddit.com/r/MachineLearning/comments/1475ilt/p_improve_ai_80_free_contextual_multiarmed_bandit/)
 - [REINFORCE changing the objective[D]](https://www.reddit.com/r/MachineLearning/comments/146zs6z/reinforce_changing_the_objectived/)
 - [[D] Training a Large Acoustic Model Similarly To A Large Language Model?](https://www.reddit.com/r/MachineLearning/comments/146zagn/d_training_a_large_acoustic_model_similarly_to_a/)
+- [[P] New book explaining more advanced concepts in machine learning, deep learning, and AI](https://www.reddit.com/r/MachineLearning/comments/146ylne/p_new_book_explaining_more_advanced_concepts_in/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
