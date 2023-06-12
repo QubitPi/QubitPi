@@ -248,11 +248,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/806183976112750628><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4df7ccaebd96584ed6fc9745386b55e4401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@千愁寄与君@梅比乌斯的小跟班@王行君等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/806213469652123763)
 - [互动抽奖 #原神# #原神科颜氏巡林奇遇# 亲爱的好那菈，科颜氏×原神公益特别活动即将上线。在快闪店成功投递任意护肤品牌的塑料材质正装空瓶，可得联动周边和好...](https://t.bilibili.com/806183976112750628)
 - [#原神# #离垢者肃心旅宴# 亲爱的旅行者，「离垢者肃心旅宴」活动即将开启~ 〓活动时间〓 2023/06/14 10:00 ~ 2023/06/26 03:59 〓参与条件〓 冒险等阶≥30级 且...](https://t.bilibili.com/806182558774591697)
 - [互动抽奖 #原神# #天朗风清 绿色出行# #原神支付宝# 亲爱的旅行者， 旅行者们在原神x支付宝主题活动中通过绿色出行实现的碳减排已累计达到10000吨，相当于种下50...](https://t.bilibili.com/805162112935526528)
 - [恭喜@realkaiyide@苏幕遮qwq@Dr戴安然等300位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/805100265411706917)
-- [恭喜10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/805100214129000777)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
