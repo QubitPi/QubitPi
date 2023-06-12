@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What is the SOTA classification algorithms for a 5500 observations 2000 dimension structured data? Is there a machine learning leaderboard on classification?](https://www.reddit.com/r/MachineLearning/comments/147fulb/d_what_is_the_sota_classification_algorithms_for/)
 - [[P] Finally Developed Auto Aiming Turret using OpenCV 🙌😁](https://www.reddit.com/r/MachineLearning/comments/147fe9z/p_finally_developed_auto_aiming_turret_using/)
 - [[P] Is the PEGASUS-CNN model on huggingface finetuned on all of CNN &lpar;including test&rpar;?](https://www.reddit.com/r/MachineLearning/comments/147eohz/p_is_the_pegasuscnn_model_on_huggingface/)
 - [Colab notebook exploration on self-reflection using LLM [R]](https://www.reddit.com/r/MachineLearning/comments/147ebd6/colab_notebook_exploration_on_selfreflection/)
 - [[D] models for real-time chinese OCR?](https://www.reddit.com/r/MachineLearning/comments/147dagc/d_models_for_realtime_chinese_ocr/)
-- [[D] When was the last time you had to implement a research paper into code at your job?](https://www.reddit.com/r/MachineLearning/comments/147a6yz/d_when_was_the_last_time_you_had_to_implement_a/)
 <!-- REDDIT-ML:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
