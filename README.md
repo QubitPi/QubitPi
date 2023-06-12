@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Break is over and @mesirii and @alexandererdl are back today to take on a new #dataset in #auraDB - Tune in: https://okt.to/7yYCzV](https://twitter.com/neo4j/status/1668226678697476098)
 - [Session n°3 from the APAC training series is coming soon! 👇 In this session, we will analyze the #OpenAI engine to produce meaningful output from ...](https://twitter.com/neo4j/status/1668058565121134592)
 - [What is Graph Supervised Machine Learning? Katie Roberts has the answer!👌 #AskTheExperts #datascience #graphdatascience #ML https://t.co/ZXyBp1cyLX](https://twitter.com/neo4j/status/1667879524367826948)
 - [RT odbms.org: On #Graph #Databases. Q&amp;A with Sudhir Hasbe, Chief Product Officer &lpar;CPO&rpar; @neo4j https://www.odbms.org/2023/05/on-graph-databases-qa-with...](https://twitter.com/odbmsorg/status/1667451028717944833)
 - [Wow! We&#39;ve hosted #GraphSummit this week in Jakarta, Boston, Paris, Portland, and Singapore. 🌎 Thank you to all the speakers and attendees! Next: R...](https://twitter.com/neo4j/status/1667199954459279361)
+- [Neo4j is a proud participant in the Google Cloud Generative AI Launch! ✨ Want to learn how it can transform your business?: https://okt.to/ZoWrlO @go...](https://twitter.com/neo4j/status/1667154718106238980)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
