@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Thank you, @johnrushx for including #Memgraph in your list :&rpar; https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n](https://twitter.com/memgraphdb/status/1668266543661170689)
-- [📈 Considering a graph database for your next project? Explore the top 10 based on DB-Engines rankings. Stay tuned! #GraphDatabases #DBEngines #memg...](https://twitter.com/memgraphdb/status/1668263639244054530)
-- [👨‍💻 Make the most out of your graph database with a well-designed data model. Improve data integrity and make it easier to query and update dat...](https://twitter.com/memgraphdb/status/1668245266342789120)
 - [🔎 To inspect insurance claims and utilize graph algorithms for systems like insurance policy recommendation and fraud detection, tabular data must ...](https://twitter.com/memgraphdb/status/1668235954136416256)
 - [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1668215823998099456)
+- [Mark your calendars! 📆 Join us this Wednesday, June 14th, 6 PM CEST for #Memgraph #CommunityCall. 🎉 @AnteJavor will dive into ACID transactions ...](https://twitter.com/memgraphdb/status/1668206643484475394)
+- [💡 From AI to supply chain optimization, graph databases like Neo4j and Memgraph empower robust network analysis. #AI #SupplyChain #memgraph #databa...](https://twitter.com/memgraphdb/status/1668197707704311808)
+- [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1668191916976922626)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
