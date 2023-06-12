@@ -291,11 +291,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
-- [封号名单（2023年6月12日）](https://www.bh3.com/news/27951)
 - [孤塔凋星丨主线第三十八章更新，参与获得活动圣痕等奖励](https://www.bh3.com/news/27878)
 - [琪亚娜·卡斯兰娜 | 人偶补给开启](https://www.bh3.com/news/27864)
 - [精准补给丨无名之钥&amp;往世的星空](https://www.bh3.com/news/27863)
 - [终焉之律者 | 扩充补给限时开启](https://www.bh3.com/news/27862)
+- [履海游月之邀丨服装补给限时开启！](https://www.bh3.com/news/27853)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
