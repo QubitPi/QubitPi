@@ -108,8 +108,9 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
 [![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=vue)](https://github.com/QubitPi/lexical)
+[![quickchart-docs](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=quickchart-docs&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/quickchart-docs)
+[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=vue)](https://github.com/QubitPi/TypeScript-Website)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=vue)](https://github.com/QubitPi/mlflow)
 <!-- ACTIVE-FORKS:END -->
 
