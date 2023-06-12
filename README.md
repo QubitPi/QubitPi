@@ -141,7 +141,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
-### Machine Learning
+### Machine Learning [![](https://img.shields.io/badge/My%20Study%20Notes-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white)](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning)
 
 - **Libraries**: [scikit-learn](https://qubitpi.github.io/scikit-learn/)
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) ![](https://img.shields.io/badge/Java%20&%20REST%20API-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
