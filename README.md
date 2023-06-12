@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Mark your calendars! 📆 Join us this Wednesday, June 14th, 6 PM CEST for #Memgraph #CommunityCall. 🎉 @AnteJavor will dive into ACID transactions ...](https://twitter.com/memgraphdb/status/1668206643484475394)
-- [💡 From AI to supply chain optimization, graph databases like Neo4j and Memgraph empower robust network analysis. #AI #SupplyChain #memgraph #databa...](https://twitter.com/memgraphdb/status/1668197707704311808)
-- [🚀 If you require an energy management system that is scalable, fault-tolerant, and performant, Memgraph is the go-to solution! https://memgraph.com...](https://twitter.com/memgraphdb/status/1668191916976922626)
 - [💡 Who&#39;s really worth investing in on @BitClout? 🧐 Uncover the top 10 content creators by PageRank and explore connections between HODLers. #Cryp...](https://twitter.com/memgraphdb/status/1668179834969653250)
 - [🤖 Master label classification and link prediction using Memgraph, @PyTorch, and Temporal Graph Networks on @Amazon datasets! #DeepLearning #AI 📈...](https://twitter.com/memgraphdb/status/1668162471914291200)
+- [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1668141333247057921)
+- [📊 Dive into the world of graph clustering algorithms! Powerful tools for unveiling patterns, communities, and structures within complex networks. #...](https://twitter.com/memgraphdb/status/1668126988534534144)
+- [🔎 Visualize the @BitClout network using Memgraph Lab, @d3js_org, and @observablehq! 🔍 Dive into the data to find the most promising content crea...](https://twitter.com/memgraphdb/status/1668108111868051456)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
