@@ -349,8 +349,8 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=gV_rdZw5bDs)
 - [Neo4j Live: Geospatial Data in your Graph](https://www.youtube.com/watch?v=djMsdSxvd2E)
+- [Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=gV_rdZw5bDs)
 - [#NODES2023](https://www.youtube.com/watch?v=TTQmULACfEw)
 - [Going Meta - Ep 17: RDF-ing between OpenAI and Neo4j](https://www.youtube.com/watch?v=w-PwMyzokSw)
 - [APAC Training Series - Intermediate Cypher and Data Modelling](https://www.youtube.com/watch?v=H5oeKGLHZwM)
