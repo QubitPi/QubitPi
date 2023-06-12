@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Check out @fireship_dev&#39;s video on the top 15 new databases, highlighting #Memgraph! Discover how this powerful #graphdatabase is shaping the fut...](https://twitter.com/memgraphdb/status/1668328061601710099)
 - [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1668304154735915025)
 - [🔍 Need help deciding between graph and relational databases? @DBEngines has got you covered! Check their comprehensive rankings and insights. #Data...](https://twitter.com/memgraphdb/status/1668288019273506816)
 - [Thank you, @johnrushx for including #Memgraph in your list :&rpar; https://dev.to/johnrushx/20-databases-to-pick-in-2023-simplified-1n0n](https://twitter.com/memgraphdb/status/1668266543661170689)
 - [📈 Considering a graph database for your next project? Explore the top 10 based on DB-Engines rankings. Stay tuned! #GraphDatabases #DBEngines #memg...](https://twitter.com/memgraphdb/status/1668263639244054530)
-- [👨‍💻 Make the most out of your graph database with a well-designed data model. Improve data integrity and make it easier to query and update dat...](https://twitter.com/memgraphdb/status/1668245266342789120)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
