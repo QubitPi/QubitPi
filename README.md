@@ -268,11 +268,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [《原神》EP-谛思归悟之境](https://bbs.mihoyo.com/ys/article/40277603)
+- [艾尔海森壁纸 | 「下班后我偶尔会去酒馆喝一杯……」](https://bbs.mihoyo.com/ys/article/40277600)
 - [「燃斗无双」米游社七圣召唤全民积分赛1024人海选赛战报出炉](https://bbs.mihoyo.com/ys/article/40252697)
 - [「七圣召唤主播邀请赛」晋级赛速报](https://bbs.mihoyo.com/ys/article/40234053)
 - [「纳西妲」主题印象系列服饰即将开启贩售！](https://bbs.mihoyo.com/ys/article/40214411)
-- [「七圣召唤主播邀请赛」晋级赛预告](https://bbs.mihoyo.com/ys/article/40200860)
-- [神里绫华·白鹭霜华Ver.1/7手办首发！](https://bbs.mihoyo.com/ys/article/40181894)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
