@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1668554302460133379)
-- [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1668537695126077440)
 - [📊 Learn to track data lineage with graph technology! Join our #Memgraph Webinar and discover how @get_manta Flow uses a #graphdatabase for efficien...](https://twitter.com/memgraphdb/status/1668503718344441865)
 - [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1668493153362497537)
 - [✈️ Discover how Memgraph Lab can improve air traffic routing and simplify complex tasks! #AirTrafficControl #GraphDatabase 🌐 #memgraph #database ...](https://twitter.com/memgraphdb/status/1668478554399469569)
+- [🌐 Check out @fireship_dev&#39;s video on the top 15 new databases, highlighting #Memgraph! Discover how this powerful #graphdatabase is shaping the fut...](https://twitter.com/memgraphdb/status/1668328061601710099)
+- [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1668304154735915025)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
