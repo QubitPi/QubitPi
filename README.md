@@ -248,11 +248,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/806558067524108323><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e30b82413fa6621c2190dd73acb5afff401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ 活动期间，旅行者可以在「神铸赋形」...](https://t.bilibili.com/806647450088505345)
+- [#原神# #枫原万叶# 亲爱的旅行者，「叶落风随」活动祈愿现已开启，「红叶逐荒波·枫原万叶&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/806646908922626082)
+- [#原神# #艾尔海森# 亲爱的旅行者，「敕诫枢谋」活动祈愿现已开启，「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，...](https://t.bilibili.com/806646398063738898)
 - [互动抽奖 #原神# #艾尔海森# #谛思归悟之境# 《原神》EP-谛思归悟之境 现已发布 https://www.bilibili.com/video/BV1hh411T7WN 静水般的生活，烈风般的生活。 白...](https://t.bilibili.com/806558067524108323)
 - [《原神》EP-谛思归悟之境](https://t.bilibili.com/806553635357983026)
-- [恭喜@千愁寄与君@梅比乌斯的小跟班@王行君等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/806213469652123763)
-- [互动抽奖 #原神# #原神科颜氏巡林奇遇# 亲爱的好那菈，科颜氏×原神公益特别活动即将上线。在快闪店成功投递任意护肤品牌的塑料材质正装空瓶，可得联动周边和好...](https://t.bilibili.com/806183976112750628)
-- [#原神# #离垢者肃心旅宴# 亲爱的旅行者，「离垢者肃心旅宴」活动即将开启~ 〓活动时间〓 2023/06/14 10:00 ~ 2023/06/26 03:59 〓参与条件〓 冒险等阶≥30级 且...](https://t.bilibili.com/806182558774591697)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
