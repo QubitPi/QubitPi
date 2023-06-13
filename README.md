@@ -282,9 +282,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <!-- GENSHIN-IMPACT-NEWS:START -->
 - [《原神》「神铸赋形」活动祈愿现已开启：「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！](https://ys.mihoyo.com/main/news/detail/27860)
 - [《原神》「叶落风随」祈愿活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/27859)
+- [《原神》「敕诫枢谋」祈愿活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/27858)
 - [《原神》EP-谛思归悟之境](https://ys.mihoyo.com/main/news/detail/27953)
 - [3.7版本超话签到活动第二期](https://ys.mihoyo.com/main/news/detail/27952)
-- [「离垢者肃心旅宴」活动：极致武艺战强敌](https://ys.mihoyo.com/main/news/detail/27889)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/8019d354-c83a-4815-946d-921d89d04c0c">
