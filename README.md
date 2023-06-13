@@ -360,11 +360,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌊 Dive into streaming analytics with top databases like Amazon Kinesis, Memgraph, Apache Storm, Apache Kafka, and StreamSQL. Achieve real-time insi...](https://twitter.com/memgraphdb/status/1668626024811368448)
-- [🌐 Graph clustering algorithms are crucial in fields ranging from social network analysis and bioinformatics to security and fraud detection. #Netwo...](https://twitter.com/memgraphdb/status/1668618728886652929)
 - [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1668577458184921095)
 - [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1668554302460133379)
 - [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1668537695126077440)
+- [📊 Learn to track data lineage with graph technology! Join our #Memgraph Webinar and discover how @get_manta Flow uses a #graphdatabase for efficien...](https://twitter.com/memgraphdb/status/1668503718344441865)
+- [✏️ As you probably know, NetworkX is not primarily a graph drawing package, so it doesn’t offer much to create visually pleasing and interactive gr...](https://twitter.com/memgraphdb/status/1668493153362497537)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
