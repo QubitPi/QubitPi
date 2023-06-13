@@ -336,11 +336,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Join us live for the 4th episode of #Graphversation! Read more about this episode with Dinesh from @microsoft and get the notification: https://okt.to...](https://twitter.com/neo4j/status/1668438075779829765)
-- [We are getting closer to #NODES2023! During this 24-hour conference, you’ll engage with the global community of graph thinkers, exchange ideas, and g...](https://twitter.com/neo4j/status/1668437842211532806)
 - [Neo4j on @awscloud✨ Developers and data scientists on #AWS can accelerate graph adoption to build today’s intelligent applications and machine learn...](https://twitter.com/neo4j/status/1668317344299352075)
 - [RT Daniel Brady: We are revolutionizing customer data for DTC brands at @OritaAI. Join me at #Connections, a @Neo4j event. Discover the power of graph...](https://twitter.com/danielmbrady/status/1668264390389530624)
 - [Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1rmxPkAygmqJN](https://twitter.com/neo4j/status/1668253146995388427)
+- [🚨New Course on #GraphAcademy🚨 Check out this course that teaches you how to preprocess and explore a dataset in order to complete a user segment...](https://twitter.com/neo4j/status/1668250376263421961)
+- [Break is over and @mesirii and @alexandererdl are back today to take on a new #dataset in #auraDB - Tune in: https://okt.to/7yYCzV](https://twitter.com/neo4j/status/1668226678697476098)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
