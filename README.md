@@ -337,11 +337,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [APAC Training Series - Knowledge Graphs with ChatGPT https://twitter.com/i/broadcasts/1YqGoARMqbyxv](https://twitter.com/neo4j/status/1668837940666175488)
 - [Tomaz Bratanic shows how to create a next-level chatbot that uses information from a graph database to provide answers. Take your chatbot skills to a ...](https://twitter.com/neo4j/status/1668724968060796928)
 - [📍Mumbai #GraphSummit2023 https://t.co/RsiGypBSnm](https://twitter.com/neo4j/status/1668608149178183680)
 - [Have you downloaded “Full Stack GraphQL Applications” by @lyonwj? Find: 📚Clear explanations of everything you need to build your application 📚...](https://twitter.com/neo4j/status/1668604196973674496)
 - [We are in Rome, Italy 🇮🇹 #GraphSummit2023 https://t.co/xmRF4zoiGI](https://twitter.com/neo4j/status/1668592061988085762)
+- [Join us live for the 4th episode of #Graphversation! Read more about this episode with Dinesh from @microsoft and get the notification: https://okt.to...](https://twitter.com/neo4j/status/1668438075779829765)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
