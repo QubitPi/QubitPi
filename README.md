@@ -337,11 +337,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [It&#39;s #podcast time! 📢 @akollegger, @jalakoo, @alison_cossette &amp; @lyonwj will take you on a journey to unravel the mysteries of complex data and sho...](https://twitter.com/neo4j/status/1669030463774629909)
 - [Re @_bhaveshbhatt @saklani_in @sidagarwal04 You deserve it, congrats!](https://twitter.com/neo4j/status/1668958279525965826)
 - [Learn how you can combine the 💪 of #database querying with #LLMS for a new kind of #GenerativeAI that enables information access for improved decis...](https://twitter.com/neo4j/status/1668957299522646016)
 - [RT Bhavesh Bhatt: I am honoured to have received the community excellence award at Neo4j&#39;s flagship event #Neo4jGraphSummitMumbai A Big Thank you to @...](https://twitter.com/_bhaveshbhatt/status/1668870974526337024)
 - [APAC Training Series - Knowledge Graphs with ChatGPT https://twitter.com/i/broadcasts/1YqGoARMqbyxv](https://twitter.com/neo4j/status/1668837940666175488)
+- [Tomaz Bratanic shows how to create a next-level chatbot that uses information from a graph database to provide answers. Take your chatbot skills to a ...](https://twitter.com/neo4j/status/1668724968060796928)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
