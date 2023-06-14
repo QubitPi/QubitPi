@@ -248,11 +248,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/806901518865268740><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f5ecb5439d5757f0f8198e8197660522401742377.gif' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神音乐# 亲爱的旅行者，《原神》OST《风与牧歌之城 City of Winds and Idylls》等九张专辑首次上线腾讯音乐平台，旅行者们可前往QQ音乐、酷狗音乐与酷...](https://t.bilibili.com/806929397751742471)
 - [#原神# #离垢者肃心旅宴# 旅行者们好~ 「离垢者肃心旅宴」活动已开启！在今天的挑战中，旅行者将面临劲敌「雷音权现·裂鸣」，它有什么特性呢？一起来看看吧~](https://t.bilibili.com/806901518865268740)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ 活动期间，旅行者可以在「神铸赋形」...](https://t.bilibili.com/806647450088505345)
 - [#原神# #枫原万叶# 亲爱的旅行者，「叶落风随」活动祈愿现已开启，「红叶逐荒波·枫原万叶&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器...](https://t.bilibili.com/806646908922626082)
 - [#原神# #艾尔海森# 亲爱的旅行者，「敕诫枢谋」活动祈愿现已开启，「诲韬诤言·艾尔海森&lpar;草&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与武器，...](https://t.bilibili.com/806646398063738898)
-- [互动抽奖 #原神# #艾尔海森# #谛思归悟之境# 《原神》EP-谛思归悟之境 现已发布 https://www.bilibili.com/video/BV1hh411T7WN 静水般的生活，烈风般的生活。 白...](https://t.bilibili.com/806558067524108323)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
