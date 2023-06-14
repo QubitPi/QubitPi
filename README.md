@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Unveil the implementation of authorization in Memgraph. Dive into operator trees and how they protect data at different levels. #Authorization #m...](https://twitter.com/memgraphdb/status/1668864597841920005)
+- [⚡️ Read more about using #Memgraph in managing energy network systems for stable &amp; reliable service! #EnergyManagement #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1668855537386115072)
 - [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1668832888203141127)
 - [📄 Discover the agility of Document Databases, designed to manage semi-structured data. Perfect for complex data structures and offering powerful qu...](https://twitter.com/memgraphdb/status/1668686173479288834)
 - [💸 The cost can come from various sources, such as licensing, training, features included, support, and hosting of the database etc. Costs can diffe...](https://twitter.com/memgraphdb/status/1668668557465464838)
-- [🔎 A good data model is important in graph databases because it helps to ensure data integrity and improve performance. https://memgraph.com/blog/mo...](https://twitter.com/memgraphdb/status/1668652449601662980)
-- [🚀 Building a recommendation system using Memgraph is simpler than you think. #gamedevelopers #gamedev #recommendationsystems #memgraph #database #m...](https://twitter.com/memgraphdb/status/1668644143931748354)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
