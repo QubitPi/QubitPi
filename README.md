@@ -373,11 +373,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [What is the Health of Your OSS Project? Find Out With CHAOSS Metrics and Software – Augur](https://superuser.openinfra.dev/articles/what-is-the-health-of-your-oss-project-find-out-with-chaoss-metrics-and-software-augur/)
 - [Congratulations to the 2023 Superuser Awards Winners: Bloomberg](https://superuser.openinfra.dev/articles/congratulations-to-the-2023-superuser-awards-winner-bloomberg/)
 - [South Korean Company, Okestro, Announces Gold Membership](https://superuser.openinfra.dev/articles/south-korean-company-okestro-announces-gold-membership/)
 - [StarlingX is Turning 5!](https://superuser.openinfra.dev/articles/starlingx-is-turning-5/)
 - [Meet the Computing Force Network Working Group at the OpenInfra Summit!](https://superuser.openinfra.dev/articles/meet-the-computing-force-network-working-group-at-the-openinfra-summit/)
-- [Collaborate with the StarlingX community at the OpenInfra Summit](https://superuser.openinfra.dev/articles/collaborate-with-the-starlingx-community-at-the-openinfra-summit/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
