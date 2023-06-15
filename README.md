@@ -358,11 +358,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Discover the power of #Memgraph, a high-performance graph database! Explore our @github repo. 👉 https://github.com/memgraph/memgraph #GraphDat...](https://twitter.com/memgraphdb/status/1669277568661331968)
 - [💡 Discover how to tackle fraud detection in the insurance industry with our artificial heterogeneous graph dataset! See how #NodeClassification can...](https://twitter.com/memgraphdb/status/1669242588182859780)
 - [🐍 Facing challenges with #NetworkX? Memgraph can enhance your data persistence and large-scale data analytics without repetitive loading. #Python #...](https://twitter.com/memgraphdb/status/1669228494914572288)
 - [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1669214150239584260)
 - [🐍 Kickstart your graph journey with our &quot;Getting Started with Memgraph and Python&quot; course! Learn to create a graph model, connect with Jupyter Note...](https://twitter.com/memgraphdb/status/1669203328704688128)
+- [🔍 Uncover influential pages within a doc using PageRank algorithm. Creating your own Docs Recommendation System not only helps you find similar pag...](https://twitter.com/memgraphdb/status/1669052836825423902)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
