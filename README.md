@@ -268,11 +268,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [【幕间趣闻】「燃斗无双」米游社七圣召唤积分赛晋级赛选手采访](https://bbs.mihoyo.com/ys/article/40358968)
 - [「燃斗无双」米游社七圣召唤全民积分赛晋级赛即将开启！](https://bbs.mihoyo.com/ys/article/40356568)
 - [「七圣召唤赛事」表情包现已上架米游社！](https://bbs.mihoyo.com/ys/article/40351127)
 - [【幕间趣闻】米游社七圣召唤积分赛1024海选赛趣味数据大公开](https://bbs.mihoyo.com/ys/article/40349840)
 - [战绩更新 | 战绩「离垢者肃心旅宴」挑战数据一览](https://bbs.mihoyo.com/ys/article/40329849)
-- [周边上新活动开启 纳西妲印象服饰首发](https://bbs.mihoyo.com/ys/article/40320562)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
