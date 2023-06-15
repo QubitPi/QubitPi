@@ -336,11 +336,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Attention #devs and #datascientists🙋! The call for papers for #NODES2023 is still open! 📢 Use cases for graph in: #ML #apps #visualization Join ...](https://twitter.com/neo4j/status/1669342777103237121)
 - [Do you know we have a new set of User Guides available now on #neo4j #AuraDB Watch the overview with @mesirii from Monday: https://okt.to/otxRq7](https://twitter.com/neo4j/status/1669309302593445888)
 - [RT The New Stack: Much of the activity covered in these leaks is perfectly legitimate — but some of it will be tied to unlawful or corrupt behavior. ...](https://twitter.com/thenewstack/status/1669195528633217025)
 - [It&#39;s time for the #PaloAlto #GraphSummit! So happy to be here! #Neo4j #GraphSummit2023 https://t.co/cnR8J19as6](https://twitter.com/neo4j/status/1669087091433656321)
 - [RT Sudhir Hasbe: At Neo4j GraphSummit in Palo Alto 😊 https://t.co/IdrW5PzzZU](https://twitter.com/shasbe/status/1669074940266709003)
+- [It&#39;s #podcast time! 📢 @akollegger, @jalakoo, @alison_cossette &amp; @lyonwj will take you on a journey to unravel the mysteries of complex data and sho...](https://twitter.com/neo4j/status/1669030463774629909)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
