@@ -336,11 +336,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Do you know we have a new set of User Guides available now on #neo4j #AuraDB Watch the overview with @mesirii from Monday: https://okt.to/otxRq7](https://twitter.com/neo4j/status/1669309302593445888)
 - [It&#39;s time for the #PaloAlto #GraphSummit! So happy to be here! #Neo4j #GraphSummit2023 https://t.co/cnR8J19as6](https://twitter.com/neo4j/status/1669087091433656321)
 - [RT Sudhir Hasbe: At Neo4j GraphSummit in Palo Alto 😊 https://t.co/IdrW5PzzZU](https://twitter.com/shasbe/status/1669074940266709003)
 - [It&#39;s #podcast time! 📢 @akollegger, @jalakoo, @alison_cossette &amp; @lyonwj will take you on a journey to unravel the mysteries of complex data and sho...](https://twitter.com/neo4j/status/1669030463774629909)
 - [Re @_bhaveshbhatt @saklani_in @sidagarwal04 You deserve it, congrats!](https://twitter.com/neo4j/status/1668958279525965826)
+- [Learn how you can combine the 💪 of #database querying with #LLMS for a new kind of #GenerativeAI that enables information access for improved decis...](https://twitter.com/neo4j/status/1668957299522646016)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
