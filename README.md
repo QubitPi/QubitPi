@@ -247,11 +247,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807697814646685736><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1d2e5d70e3ec1caf646529bdc3d6bd4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@江上の清風@暗黑阿龙0_o@放开那只杰瑞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/807697814646685736)
 - [亲爱的旅行者，科颜氏×原神联动双品礼盒已开放获取，快和伙伴们一起共赴巡林奇遇吧~ 旅行者可以从评论区了解转抽活动信息哦~ #原神科颜氏巡林奇遇#](https://t.bilibili.com/807669570677506067)
 - [#原神# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.7版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区的链接来下...](https://t.bilibili.com/807668295079559186)
 - [互动抽奖 #原神# #温迪# #生日快乐# 逮到你咯~！ 你的旅途越走越远，我们能在蒙德相会的时光就越来越少。 不过，我知道今天一定会遇见你的。 机遇难得，快，就坐...](https://t.bilibili.com/807666933577023649)
 - [#原神# 【无法登录问题补偿】 亲爱的旅行者， 由于网络运营商故障，部分网络运营商为移动的旅行者遇到了无法登录游戏的问题。 现在相关服务已恢复。遇到相关问题...](https://t.bilibili.com/807653344553205785)
-- [#原神# #离垢者肃心旅宴# 旅行者们好！「离垢者肃心旅宴」活动今天开启了新的挑战，在本轮挑战中，旅行者们的对手是一种特殊型号的兆载永劫龙兽——重武装兆载永...](https://t.bilibili.com/807644363519688708)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
