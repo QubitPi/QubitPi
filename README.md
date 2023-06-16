@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1669694818945998848)
+- [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity #memgraph #database #memgraphdb #graphda...](https://twitter.com/memgraphdb/status/1669665374260822016)
 - [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1669647253802188802)
 - [🌐 Uncover the differences between Dijkstra, Bellman-Ford, Johnson&#39;s, and Floyd Warshall algorithms for finding shortest paths in graphs. #GraphTheo...](https://twitter.com/memgraphdb/status/1669641466031865857)
 - [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1669614287499698177)
-- [💡#Graphs unveil hidden relations, vital in insurance with many interactions. This method can enhance predictions &amp; build a smarter detection system...](https://twitter.com/memgraphdb/status/1669590882570448898)
-- [RT Nuix: What are the benefits of #GraphAnalytics for understanding your unstructured data? We&#39;ve joined forces with @Linkurious &amp; @memgraphdb, both a...](https://twitter.com/nuix/status/1669588326322675712)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
