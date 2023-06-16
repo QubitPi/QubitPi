@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Harnessing Large Language Models with #Neo4j: Oskar describes a project integrating of graph database technology and concepts into an #LLM application...](https://twitter.com/neo4j/status/1669683770444660738)
 - [Re @lyonwj covers some essential spatial Cypher functions, spatial search, routing algorithms, and different methods of importing geospatial data into...](https://twitter.com/neo4j/status/1669464893295144961)
 - [Unlock the magic of Neo4j with our help! Our goal is to equip you with the expertise and know-how to tap into the full potential of Graphs. Become an ...](https://twitter.com/neo4j/status/1669457568966615042)
 - [Re @mesirii creates a graph of open-source software packages using the http://deps.dev API, which provides access to Open Source Insights, a software ...](https://twitter.com/neo4j/status/1669404473976864768)
-- [Do you know we have a new set of User Guides available now on #neo4j #AuraDB Watch the overview with @mesirii from Monday: https://okt.to/otxRq7](https://twitter.com/neo4j/status/1669309302593445888)
-- [RT The New Stack: Much of the activity covered in these leaks is perfectly legitimate — but some of it will be tied to unlawful or corrupt behavior. ...](https://twitter.com/thenewstack/status/1669195528633217025)
+- [Attention #devs and #datascientists🙋! The call for papers for #NODES2023 is still open! 📢 Use cases for graph in: #ML #apps #visualization Join ...](https://twitter.com/neo4j/status/1669342777103237121)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
