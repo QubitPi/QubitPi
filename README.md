@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Re @svbizjournal @welchasw](https://twitter.com/neo4j/status/1669760694953058306)
 - [Wow! We are proud to announce that Alyson Welch, our CRO, has been selected as a Women of Influence, 2023 by @svbizjournal!👏 Congrats! https://okt....](https://twitter.com/neo4j/status/1669742397960622081)
 - [Knowledge Graph and Graph Algorithms to Find Hidden Skills is possible.🚀 @davidmeza1 explains how Neo4j&#39;s Graph Technology helped the @NASA save $2...](https://twitter.com/neo4j/status/1669711461445169152)
 - [Harnessing Large Language Models with #Neo4j: Oskar describes a project integrating of graph database technology and concepts into an #LLM application...](https://twitter.com/neo4j/status/1669683770444660738)
 - [Re @lyonwj covers some essential spatial Cypher functions, spatial search, routing algorithms, and different methods of importing geospatial data into...](https://twitter.com/neo4j/status/1669464893295144961)
+- [Unlock the magic of Neo4j with our help! Our goal is to equip you with the expertise and know-how to tap into the full potential of Graphs. Become an ...](https://twitter.com/neo4j/status/1669457568966615042)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
