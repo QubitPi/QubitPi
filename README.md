@@ -244,7 +244,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807669570677506067><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8b8d0df1d8b758312e26ecb31f46a1a877878311.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807697814646685736><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1d2e5d70e3ec1caf646529bdc3d6bd4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，科颜氏×原神联动双品礼盒已开放获取，快和伙伴们一起共赴巡林奇遇吧~ 旅行者可以从评论区了解转抽活动信息哦~ #原神科颜氏巡林奇遇#](https://t.bilibili.com/807669570677506067)
