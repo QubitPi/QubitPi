@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1669777613370392595)
 - [🎵 Explore the impact of neighborly love on #Eurovision voting with graphs. Is it about the song or something more? @Eurovision #datainsights #graph...](https://twitter.com/memgraphdb/status/1669753707397885956)
 - [🌐 Unveil the power of graph databases when you have tightly linked nodes. Create efficient models for better performance. #GraphDatabase #DataModel...](https://twitter.com/memgraphdb/status/1669739613852762115)
 - [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1669735837724966915)
 - [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1669713191297744898)
-- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1669694818945998848)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
