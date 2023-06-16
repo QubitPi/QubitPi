@@ -358,11 +358,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1669614287499698177)
 - [💡#Graphs unveil hidden relations, vital in insurance with many interactions. This method can enhance predictions &amp; build a smarter detection system...](https://twitter.com/memgraphdb/status/1669590882570448898)
-- [Did you see this article about #memgraph that was just published by @BttrProgramming on @medium? The author is Petrica Leuca. https://twitter.com/Bttr...](https://twitter.com/memgraphdb/status/1669582180756987904)
+- [Did you see this article about #memgraph that was just published by @BttrProgramming on @medium? The author is Petrica Leuca.](https://twitter.com/memgraphdb/status/1669582180756987904)
 - [🔍 Watch @fireship_dev&#39;s video featuring #Memgraph as one of the top 15 new databases! Learn how this innovative #graphdatabase is transforming the ...](https://twitter.com/memgraphdb/status/1669580314027388928)
 - [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1669557664307728384)
-- [🔧 Learn about the challenges and solutions we faced when implementing the graph projection feature in Memgraph! #FeatureDesign #memgraph #database ...](https://twitter.com/memgraphdb/status/1669410946828124183)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
