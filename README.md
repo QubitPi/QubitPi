@@ -278,11 +278,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「离垢者肃心旅宴」活动小贴士02期 炽火坚钢万劫](https://ys.mihoyo.com/main/news/detail/27960)
 - [《原神》9张OST现已上线腾讯音乐平台](https://ys.mihoyo.com/main/news/detail/27957)
 - [「离垢者肃心旅宴」活动小贴士01期 凄响之悲雷](https://ys.mihoyo.com/main/news/detail/27956)
 - [《原神》「神铸赋形」活动祈愿现已开启：「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！](https://ys.mihoyo.com/main/news/detail/27860)
 - [《原神》「叶落风随」祈愿活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/27859)
-- [《原神》「敕诫枢谋」祈愿活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/27858)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/8019d354-c83a-4815-946d-921d89d04c0c">
