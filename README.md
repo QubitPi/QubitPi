@@ -244,7 +244,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/806929397751742471><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2a02dd966c14642a313d929b1c430406401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807669570677506067><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8b8d0df1d8b758312e26ecb31f46a1a877878311.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神音乐# 亲爱的旅行者，《原神》OST《风与牧歌之城 City of Winds and Idylls》等九张专辑首次上线腾讯音乐平台，旅行者们可前往QQ音乐、酷狗音乐与酷...](https://t.bilibili.com/806929397751742471)
