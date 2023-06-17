@@ -108,8 +108,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![elide-doc](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=elide-doc&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/elide-doc)
-[![yavin-demo-config](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=yavin-demo-config&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/yavin-demo-config)
 [![oauth-in-action-code](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=oauth-in-action-code&show_owner=true&theme=vue)](https://github.com/QubitPi/oauth-in-action-code)
+[![yavin-demo-config](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=yavin-demo-config&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/yavin-demo-config)
 [![yavin-docs](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=yavin-docs&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/yavin-docs)
 [![Messier-61](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=Messier-61&show_owner=true&theme=vue)](https://github.com/paion-data/Messier-61)
 <!-- ACTIVE-FORKS:END -->
