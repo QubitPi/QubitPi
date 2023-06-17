@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔎 Enterprises often work with large amounts of data scattered across data warehouses without a common data model. https://memgraph.com/blog/manage-...](https://twitter.com/memgraphdb/status/1670075576311316481)
-- [📚 Delving into the pivotal world of graph algorithms, integral for solving complex computer science and data analysis problems. #GraphAlgorithms #D...](https://twitter.com/memgraphdb/status/1670065764043243523)
 - [📈 Visualize and analyze your IAM data in a new light with Memgraph Lab. Uncover patterns, identify vulnerabilities, and maintain a healthy, secure ...](https://twitter.com/memgraphdb/status/1670027764492017664)
 - [🎉 Join our special #Memgraph Webinar on Real-Time Graph Analytics with @supe_katarina! Master the art of stream processing and unlock hidden insigh...](https://twitter.com/memgraphdb/status/1670009643043520514)
 - [🚀 Overcome visualization limits with our platform! From interacting with nodes to customizable visuals, explore your data in a way that tells your ...](https://twitter.com/memgraphdb/status/1670002343352434696)
+- [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1669991777288290305)
+- [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1669953273434976256)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
