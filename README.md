@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎉 Join our special #Memgraph Webinar on Real-Time Graph Analytics with @supe_katarina! Master the art of stream processing and unlock hidden insigh...](https://twitter.com/memgraphdb/status/1670009643043520514)
-- [🚀 Overcome visualization limits with our platform! From interacting with nodes to customizable visuals, explore your data in a way that tells your ...](https://twitter.com/memgraphdb/status/1670002343352434696)
 - [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1669991777288290305)
 - [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1669953273434976256)
 - [💡 Networks could be considered one of the easiest concepts for humans to understand. In school, teachers encourage drawing networks on a certain su...](https://twitter.com/memgraphdb/status/1669942700844384256)
+- [📊 Exploring the integration of Memgraph and @PrometheusIO, a powerful duo for real-time database performance monitoring. #DatabaseMonitoring #Prome...](https://twitter.com/memgraphdb/status/1669928107749306369)
+- [❗️ The insurance industry handles various data regarding individuals with insurance policies, incidents, vehicles, and claims. https://memgraph.com/...](https://twitter.com/memgraphdb/status/1669777613370392595)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
