@@ -358,11 +358,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1670464389059682304)
+- [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1670457846243241984)
 - [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph #memgraph #database #memgraphdb #graphdatabase https://memgraph.com/...](https://twitter.com/memgraphdb/status/1670418085822513153)
 - [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1670410281703424003)
 - [🔍 Speed up data exploration with #GraphDatabases! Performance is key when making informed decisions in real time. Dive into how graph tech can help...](https://twitter.com/memgraphdb/status/1670389396942516225)
-- [🕵️ Read more about using #Memgraph in confidently exposing insurance fraud &amp; processing claims faster! #InsuranceFraud #FraudDetection #memgraph #...](https://twitter.com/memgraphdb/status/1670366242543136774)
-- [🌐 Uncover the power of data lineage in our #Memgraph Webinar featuring @get_manta Flow! Explore how graph technology helps analyze interconnected s...](https://twitter.com/memgraphdb/status/1670354161400004611)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
