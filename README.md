@@ -358,11 +358,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1670305090702286849)
 - [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1670282440164757505)
 - [🚀 Build C++ Graph Analytics effortlessly with the new Memgraph C++ API! Supercharge your pipeline without memory worries. #GraphAnalytics #cplusplu...](https://twitter.com/memgraphdb/status/1670135723788234752)
 - [🚀 Experience lightning-fast traversals with graph databases in your IAM systems, making it easier to check user permissions and maintain security. ...](https://twitter.com/memgraphdb/status/1670118108059652096)
 - [💰 Stay ahead of your competition by leveraging graph databases for your knowledge graphs. Learn the 4 reasons why Graph Tech is a game-changer. #kn...](https://twitter.com/memgraphdb/status/1670099439782862854)
+- [💡 Explore Memgraph MAGE and find out how you can create custom query modules for your own graph algorithms! #MemgraphMAGE #GraphQuery #memgraph #da...](https://twitter.com/memgraphdb/status/1670095457882710016)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
