@@ -336,11 +336,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Exciting news for all our users! 🎉 We are proud to announce the addition of a new Single Sign-On &lpar;SSO&rpar; feature in our Sandbox environment and the a...](https://twitter.com/neo4j/status/1670431354289356802)
 - [Are you a JavaScript developer looking to take your data visualizations to the next level? Look no further than Corey Lanum&#39;s tutorial :&rpar; He integrate...](https://twitter.com/neo4j/status/1670129228291928066)
 - [Already mid-June? Yes!😅 Time to save your calendar with the upcoming #demos! Register for free! https://okt.to/xbwhOJ #Neo4j #graphdatascience #ML ...](https://twitter.com/neo4j/status/1669797059216515072)
 - [Re @svbizjournal @welchasw](https://twitter.com/neo4j/status/1669760694953058306)
 - [Wow! We are proud to announce that Alyson Welch, our CRO, has been selected as a Women of Influence, 2023 by @svbizjournal!👏 Congrats! https://okt....](https://twitter.com/neo4j/status/1669742397960622081)
-- [Knowledge Graph and Graph Algorithms to Find Hidden Skills is possible.🚀 @davidmeza1 explains how Neo4j&#39;s Graph Technology helped the @NASA save $2...](https://twitter.com/neo4j/status/1669711461445169152)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
