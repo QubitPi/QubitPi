@@ -300,11 +300,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Etymology of Words - Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1rmxPkYPbYQJN](https://twitter.com/neo4j/status/1670699293626499074)
+- [In roughly an hour @mesirii and @alexandererdl will take on #auradb with the #etymology of #words 📚 https://youtube.com/live/4GzXRuzgV1w](https://twitter.com/neo4j/status/1670686003353247746)
 - [Graphversation Ep. 4 - Causal inference powered by Knowledge Graph for applied security research https://twitter.com/i/broadcasts/1OyKAVgBzELGb](https://twitter.com/neo4j/status/1670650112274735106)
 - [#Neo4j5 includes more power so you can ask deeper-context questions with faster results, scale out more easily with less cost, and operate more effici...](https://twitter.com/neo4j/status/1670477029668519936)
 - [Exciting news for all our users! 🎉 We are proud to announce the addition of a new Single Sign-On &lpar;SSO&rpar; feature in our Sandbox environment and the a...](https://twitter.com/neo4j/status/1670431354289356802)
-- [Are you a JavaScript developer looking to take your data visualizations to the next level? Look no further than Corey Lanum&#39;s tutorial :&rpar; He integrate...](https://twitter.com/neo4j/status/1670129228291928066)
-- [Already mid-June? Yes!😅 Time to save your calendar with the upcoming #demos! Register for free! https://okt.to/xbwhOJ #Neo4j #graphdatascience #ML ...](https://twitter.com/neo4j/status/1669797059216515072)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
