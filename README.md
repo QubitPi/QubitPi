@@ -319,11 +319,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Dive into the world of Graph Neural Networks and learn how to apply them to real-world use cases like @Amazon product recommendations! #GNNs #Mac...](https://twitter.com/memgraphdb/status/1670644830525968385)
 - [💡 MAGE enables custom query procedures &amp; functions in Cypher. Unleash the full potential of your graph data. #Cypher #Analytics #memgraph #database...](https://twitter.com/memgraphdb/status/1670502391848869894)
 - [📚 Discover 42 fascinating graph articles perfect for your next reading session! Topics cover graph algorithms, streaming data, and more. #graphdata...](https://twitter.com/memgraphdb/status/1670478481828855809)
 - [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1670464389059682304)
 - [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1670457846243241984)
-- [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph #memgraph #database #memgraphdb #graphdatabase https://memgraph.com/...](https://twitter.com/memgraphdb/status/1670418085822513153)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
