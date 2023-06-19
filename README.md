@@ -209,7 +209,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807697814646685736><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1d2e5d70e3ec1caf646529bdc3d6bd4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/808780137816391681><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/26f6ab2ae0a2ef9099060c7e45dbca7e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #溢神的猜想# 亲爱的旅行者，「溢神的猜想」活动：破绽捕捉挑战 即将开启~ 〓活动时间〓 2023/06/21 10:00 ~ 2023/07/03 03:59 〓参与条件〓 冒险等阶≥2...](https://t.bilibili.com/808780137816391681)
