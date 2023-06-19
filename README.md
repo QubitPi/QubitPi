@@ -322,11 +322,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1670699189704052736)
+- [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1670678045768798208)
+- [🔍 Explore #Memgraph with @AshleighNFaith&#39;s in-depth review! Perfect for real-time streaming use cases like IoT, social network analysis, and fraud ...](https://twitter.com/memgraphdb/status/1670663700926062602)
 - [🌐 Dive into the world of Graph Neural Networks and learn how to apply them to real-world use cases like @Amazon product recommendations! #GNNs #Mac...](https://twitter.com/memgraphdb/status/1670644830525968385)
 - [💡 MAGE enables custom query procedures &amp; functions in Cypher. Unleash the full potential of your graph data. #Cypher #Analytics #memgraph #database...](https://twitter.com/memgraphdb/status/1670502391848869894)
-- [📚 Discover 42 fascinating graph articles perfect for your next reading session! Topics cover graph algorithms, streaming data, and more. #graphdata...](https://twitter.com/memgraphdb/status/1670478481828855809)
-- [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1670464389059682304)
-- [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1670457846243241984)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
