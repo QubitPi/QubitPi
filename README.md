@@ -208,11 +208,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/807697814646685736><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/c1d2e5d70e3ec1caf646529bdc3d6bd4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #溢神的猜想# 亲爱的旅行者，「溢神的猜想」活动：破绽捕捉挑战 即将开启~ 〓活动时间〓 2023/06/21 10:00 ~ 2023/07/03 03:59 〓参与条件〓 冒险等阶≥2...](https://t.bilibili.com/808780137816391681)
 - [#原神# #离垢者肃心旅宴# 旅行者们好！即将在本轮「离垢者肃心旅宴」新关卡中登场的敌人是「深海龙蜥之群·轰旋」，它又有什么样的特性呢？快来看看吧~](https://t.bilibili.com/808385859816521817)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/808131580332605449)
 - [#原神# #原神决斗召唤之巅征集活动# #原神UP主激励计划# 《原神》「决斗！召唤之巅！」对战视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 你...](https://t.bilibili.com/807759906731982921)
 - [[打call][打call]](https://t.bilibili.com/807758631119355909)
-- [恭喜@江上の清風@暗黑阿龙0_o@放开那只杰瑞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/807697814646685736)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
