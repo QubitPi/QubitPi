@@ -313,10 +313,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Etymology of Words - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=4GzXRuzgV1w)
 - [Graphversation Ep. 4 - Causal inference powered by Knowledge Graph for applied security research](https://www.youtube.com/watch?v=e3svI7dHIbY)
 - [Neo4j Live: Geospatial Data in your Graph - Trailer #shorts](https://www.youtube.com/watch?v=cvHpkGkbTZo)
 - [APAC Training Series - Knowledge Graphs with ChatGPT](https://www.youtube.com/watch?v=u0yEI-xU2t4)
-- [Etymology of Words - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=4GzXRuzgV1w)
 - [Neo4j and Generative AI](https://www.youtube.com/watch?v=mMkXnmueasA)
 <!-- NEO4J-YOUTUBE:END -->
 
