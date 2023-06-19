@@ -255,11 +255,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [封号名单（2023年6月19日）](https://www.bh3.com/news/27997)
 - [娜塔莎生日快乐丨特殊邮件登场](https://www.bh3.com/news/27966)
 - [【补给】戒律·深罪之槛 | 进阶补给限时开启](https://www.bh3.com/news/27959)
 - [精准补给丨升恒之钥&amp;往世的苦囚](https://www.bh3.com/news/27958)
 - [封号名单（2023年6月12日）](https://www.bh3.com/news/27951)
-- [孤塔凋星丨主线第三十八章更新，参与获得活动圣痕等奖励](https://www.bh3.com/news/27878)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
