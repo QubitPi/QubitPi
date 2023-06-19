@@ -86,7 +86,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-aws)
+<img src="https://github.com/QubitPi/QubitPi/assets/16126939/d20d165b-cfb2-4834-bcc5-24d73f89247b" alt="可莉" width="15%">[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://github.com/QubitPi/hashicorp-aws)
 
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://github.com/QubitPi/athena)<img src="https://user-images.githubusercontent.com/16126939/184785710-281e8c8a-a080-4293-beb9-ce981554bafe.png" alt="可莉" width="15%">
 
