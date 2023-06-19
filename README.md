@@ -303,11 +303,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [☁ Bring the power of Neo4j&#39;s graph database to your @googlecloud infrastructure seamlessly, as if it were always meant to be a part of it. See how: h...](https://twitter.com/neo4j/status/1670878388653813772)
 - [Attention #devs and #datascientists! 📢Call for Papers!📢 You have only 10 more days!! https://okt.to/M6nbKm #Neo4j #NODES2023 https://t.co/VdqQoA...](https://twitter.com/neo4j/status/1670780250811248641)
 - [Etymology of Words - Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1rmxPkYPbYQJN](https://twitter.com/neo4j/status/1670699293626499074)
 - [In roughly an hour @mesirii and @alexandererdl will take on #auradb with the #etymology of #words 📚 https://youtube.com/live/4GzXRuzgV1w](https://twitter.com/neo4j/status/1670686003353247746)
 - [Graphversation Ep. 4 - Causal inference powered by Knowledge Graph for applied security research https://twitter.com/i/broadcasts/1OyKAVgBzELGb](https://twitter.com/neo4j/status/1670650112274735106)
-- [RT Siddhant Agarwal: Thank you, Emil Pastor and Andrew Conacher, for speaking at the DataEngbytes meetup in Sydney and Melbourne earlier this month!! ...](https://twitter.com/sidagarwal04/status/1670634535912894464)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
