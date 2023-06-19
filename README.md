@@ -325,11 +325,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1670781982039580673)
-- [🚨 Identity and access management are one of the key features a database needs to have in order to execute in a secure environment. ➡️ https://mem...](https://twitter.com/memgraphdb/status/1670772671917748228)
-- [🎯 Uniting #MachineLearning &amp; #GraphTech can transform fraud detection. As in insurance, fraud is a costly problem. AI offers promising solutions. #...](https://twitter.com/memgraphdb/status/1670752536796577793)
 - [🔬 Join our special #Memgraph Webinar on accelerating drug discovery with a Biomedical Knowledge Graph! Learn how @AstraZeneca leverages the BIKG fo...](https://twitter.com/memgraphdb/status/1670734417738752002)
 - [🚀 Graph databases are gaining traction, driving new generation applications! Today, we compare Neo4j and Memgraph. #GraphDatabases #Neo4j #memgraph...](https://twitter.com/memgraphdb/status/1670728628785623044)
+- [🔎 If you are using NetworkX, you are aware of the valuable insights you can get from a data network. https://memgraph.com/blog/networkx-developers-...](https://twitter.com/memgraphdb/status/1670716550272233472)
+- [🚀 Discover the power of Graph Tech for Knowledge Graphs! Uncover insights and make informed decisions by connecting siloed data. #knowledgegraphs #...](https://twitter.com/memgraphdb/status/1670699189704052736)
+- [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1670678045768798208)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
