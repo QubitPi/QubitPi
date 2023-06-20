@@ -322,11 +322,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [👩‍💻 Data enthusiast @AshleighNFaith dives into #Memgraph - the graph in-memory solution for tricky real-time streaming challenges! 📊 Learn m...](https://twitter.com/memgraphdb/status/1671091016944762880)
+- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1671074407685451780)
 - [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1671040436645838848)
 - [🌟 Dynamic algorithms in graph databases make IAM systems more flexible, allowing for easy updates and improved scalability. Boost your security tod...](https://twitter.com/memgraphdb/status/1671029865070444546)
 - [💡 Dive into the world of new databases with this @fireship_dev video, including #Memgraph! Learn how these innovative technologies are revolutioniz...](https://twitter.com/memgraphdb/status/1671015268590526465)
-- [🌊 Visualize the impact of undersea cable damages on global internet connectivity using dynamic betweenness centrality and Memgraph&#39;s MAGE. #GraphAl...](https://twitter.com/memgraphdb/status/1670864778716119053)
-- [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1670840871607058450)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
