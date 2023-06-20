@@ -322,11 +322,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔧 Learn the secrets of real-time graph analytics with Katarina Supe &lpar;@supe_katarina&rpar; in our #Memgraph Webinar! Dive into use cases and explore new ...](https://twitter.com/memgraphdb/status/1671189168897114112)
+- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1671180859653644288)
+- [🌐 Efficiently analyze your organization&#39;s data landscape with Memgraph&#39;s dynamic graph analytics! Say goodbye to redundancies, improve reliability,...](https://twitter.com/memgraphdb/status/1671162740155777025)
 - [🚀 Discover how hashing can help optimize your data model and reduce node duplication in your graph database. #DataOptimization #Hashing #memgraph #...](https://twitter.com/memgraphdb/status/1671155443543187456)
 - [🕵️‍♀️ Choosing a graph database? Consider more than just performance. Neo4j or Memgraph? Let&#39;s dive into the key differentiators. #DatabaseSele...](https://twitter.com/memgraphdb/status/1671114173042835456)
-- [👩‍💻 Data enthusiast @AshleighNFaith dives into #Memgraph - the graph in-memory solution for tricky real-time streaming challenges! 📊 Learn m...](https://twitter.com/memgraphdb/status/1671091016944762880)
-- [🔎 Check out how Memgraph handles the visualization of complex graph structures found in insurance data that will allow you to comprehend and synthe...](https://twitter.com/memgraphdb/status/1671074407685451780)
-- [🧪 Join graph data scientist @michaelughetto from @AstraZeneca in our #Memgraph Webinar! Learn how the Biological Insights Knowledge Graph is drivin...](https://twitter.com/memgraphdb/status/1671040436645838848)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
