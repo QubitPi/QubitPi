@@ -138,7 +138,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-<img align="left" width="15%" src="https://user-images.githubusercontent.com/16126939/197402745-1049cbe3-a16f-4fe3-9bf5-0fb7e869015b.png">
+<img align="left" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/adfbad97-d90b-4ffb-8ced-0ee794d7ffd1">
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
