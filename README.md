@@ -274,11 +274,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [RoboCat: A self-improving robotic agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
 - [Optimising computer systems with more generalised AI tools](https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools)
 - [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
 - [An early warning system for novel AI risks](https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks)
 - [DeepMind’s latest research at ICLR 2023](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2023)
-- [How can we build human values into AI?](https://www.deepmind.com/blog/how-can-we-build-human-values-into-ai)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
