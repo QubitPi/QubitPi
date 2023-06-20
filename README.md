@@ -130,15 +130,12 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-## I Learn Technologies Everyday through Open Source
-
-> Because I believe _Open Sourced Information is Closest to Truth_
-    
-[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
+## I Learn Technologies Everyday through Open Source <sup>[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
+</sup>
 
 </div>
 
-<img align="left" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/adfbad97-d90b-4ffb-8ced-0ee794d7ffd1">
+<img align="left" width="25%" src="https://github.com/QubitPi/QubitPi/assets/16126939/adfbad97-d90b-4ffb-8ced-0ee794d7ffd1">
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
