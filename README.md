@@ -185,11 +185,11 @@ My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge
 ### Recent Posts
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [[打call]来和可莉放烟花吧](https://t.bilibili.com/809444384317636627)
 - [你眼里的可莉和计算机“眼中”的可莉[原神_暗中观察] #机器学习](https://t.bilibili.com/806284542519279672)
 - [【绮良良首战】第一次满星！](https://t.bilibili.com/800754579100663828)
 - [打死不玩崩铁[原神_晚安]](https://t.bilibili.com/799833265671241731)
 - [巴适得很[原神_点赞]](https://t.bilibili.com/795740136053669891)
-- [[原神_撒花]坎蒂丝生日快乐[原神_撒花]](https://t.bilibili.com/791283020854198355)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 <br/>
