@@ -206,7 +206,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/808780137816391681><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/26f6ab2ae0a2ef9099060c7e45dbca7e401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/809128034198093943><img align='right' src='https://i0.hdslb.com/bfs/article/2a81d9cf0c242a5c8039ac770c99f3c4ca92ad8c.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [分层地图？安排上啦！——06.20开发组座谈会](https://t.bilibili.com/809128034198093943)
