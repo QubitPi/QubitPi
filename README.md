@@ -229,11 +229,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [宵宫生日快乐｜看，就是这里啦！](https://bbs.mihoyo.com/ys/article/40538538)
+- [《原神》风物集短片-璃月篇](https://bbs.mihoyo.com/ys/article/40538531)
+- [《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目预告](https://bbs.mihoyo.com/ys/article/40538530)
 - [「燃斗无双」米游社七圣召唤积分赛128人晋级赛选手牌组介绍](https://bbs.mihoyo.com/ys/article/40518724)
 - [分层地图？安排上啦！——06.20开发组座谈会](https://bbs.mihoyo.com/ys/article/40507953)
-- [「燃斗无双」七圣召唤全民积分赛128人晋级赛战报出炉！](https://bbs.mihoyo.com/ys/article/40488574)
-- [「七圣召唤主播邀请赛」线下赛回顾](https://bbs.mihoyo.com/ys/article/40487298)
-- [「离垢者肃心旅宴」活动小贴士03期 龙嗣之绞旋](https://bbs.mihoyo.com/ys/article/40447088)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
