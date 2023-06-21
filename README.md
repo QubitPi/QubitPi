@@ -299,11 +299,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [&quot;What Makes Graph Data Science Different From Traditional Data Science?&quot; This time Katie Roberts, answers this essential question in our &quot;Ask a Data S...](https://twitter.com/neo4j/status/1671504441042784258)
 - [Join @tb_tomaz in discovering how to optimize prompts for Cypher statement generation to retrieve relevant information from Neo4j in your LLM applicat...](https://twitter.com/neo4j/status/1671246794242621441)
 - [Re @martinohanlon 🎉🎉🎉](https://twitter.com/neo4j/status/1671177349075722242)
 - [Get ready to discover how to build a predictive model in Python 🐍 👉Including the nuances of installing packages, reading data, and constructing ...](https://twitter.com/neo4j/status/1671171506708320258)
 - [RT Alexander Erdl: Ever since #nodes2022 I am excited about @lyonwj talking #geospatial 🗺️ On Thursday, we go all in! Hope to see you then! https:...](https://twitter.com/alexandererdl/status/1671152168982700033)
+- [☁ Bring the power of Neo4j&#39;s graph database to your @googlecloud infrastructure seamlessly, as if it were always meant to be a part of it. See how: h...](https://twitter.com/neo4j/status/1670878388653813772)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
