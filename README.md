@@ -321,11 +321,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Level up your graph analytics skills with our &quot;Intro to Graph Analytics in Python&quot; course by @supe_katarina! Discover graph algorithms, learn to ...](https://twitter.com/memgraphdb/status/1671497445744816131)
 - [💡 Find out how @AstraZeneca uses a Biomedical Knowledge Graph to accelerate drug discovery in our upcoming #Memgraph Webinar with @michaelughetto! ...](https://twitter.com/memgraphdb/status/1671477316466114561)
 - [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1671459196934430720)
 - [🌟 Dive into the world of Memgraph and Python with our course by @supe_katarina! Create graph models, run Memgraph with Docker, and explore movie da...](https://twitter.com/memgraphdb/status/1671453405477257216)
 - [📘 Looking for credible sources to apply graphs to your use case? Stay tuned as we explore the top 7 graph algorithm books! #GraphAlgorithms #Comput...](https://twitter.com/memgraphdb/status/1671441327026741253)
-- [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1671401316134842368)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
