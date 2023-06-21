@@ -208,11 +208,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/809182151048167621><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/e30b82413fa6621c2190dd73acb5afff401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@帽子高高挂@ZHFSK@取名好难逗我等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/809553235961446432)
+- [#原神# #清夏乐园大秘境# #原神3.8版本前瞻特别节目# #原神3.8# 亲爱的旅行者，又到了派蒙的特别节目预告时间&gt; &lt; 《原神》3.8版本「清夏！乐园？大秘境！」前瞻...](https://t.bilibili.com/809523295749668945)
+- [《原神》风物集短片-璃月篇](https://t.bilibili.com/809522540092325928)
+- [互动抽奖 #原神# #宵宫# #生日快乐# 看，就是这里啦！常来烟花店的小孩子们跟我说，生日来这里许愿很灵的。 嗯…希望能做出更多漂亮的烟花，希望家人身体健康，...](https://t.bilibili.com/809522394062389488)
 - [恭喜@jhka@井木犴奎木狼@锋中过一次奖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/809182151048167621)
-- [分层地图？安排上啦！——06.20开发组座谈会](https://t.bilibili.com/809128034198093943)
-- [#原神# #溢神的猜想# 亲爱的旅行者，「溢神的猜想」活动：破绽捕捉挑战 即将开启~ 〓活动时间〓 2023/06/21 10:00 ~ 2023/07/03 03:59 〓参与条件〓 冒险等阶≥2...](https://t.bilibili.com/808780137816391681)
-- [#原神# #离垢者肃心旅宴# 旅行者们好！即将在本轮「离垢者肃心旅宴」新关卡中登场的敌人是「深海龙蜥之群·轰旋」，它又有什么样的特性呢？快来看看吧~](https://t.bilibili.com/808385859816521817)
-- [#原神# #原神决斗召唤之巅征集活动# #原神UP主激励计划# 《原神》「决斗！召唤之巅！」对战视频征集活动 结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 你...](https://t.bilibili.com/807759906731982921)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
