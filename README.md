@@ -321,11 +321,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1671401316134842368)
-- [📚 Navigate documentation like a pro with your own Docs Recommendation System! Using AI, it helps you decide the best next page to visit, making lea...](https://twitter.com/memgraphdb/status/1671392255226118144)
 - [🚄 Switch to a faster, more efficient graph algorithm environment without losing familiarity. Harness the power of our platform while keeping all yo...](https://twitter.com/memgraphdb/status/1671369606517104642)
-- [RT Shannon Sands: Re @chheplo @Teknium1 @0xmaddie_ @memgraphdb. I like it, works well with Python &lpar;whereas Neo4j has pretty terrible Python support&rpar;. ...](https://twitter.com/max_paperclips/status/1671336348228386816)
 - [💡Discover how #Memgraph meets data scientists where they naturally work! 🤓 Check out @AshleighNFaith&#39;s honest review &amp; learn from her experience...](https://twitter.com/memgraphdb/status/1671222887418560522)
+- [🔧 Build your graph skills with our &quot;Getting Started with Memgraph and Python&quot; course! Explore datasets, run Memgraph with Docker, and connect with ...](https://twitter.com/memgraphdb/status/1671205269148164096)
+- [🔧 Learn the secrets of real-time graph analytics with Katarina Supe &lpar;@supe_katarina&rpar; in our #Memgraph Webinar! Dive into use cases and explore new ...](https://twitter.com/memgraphdb/status/1671189168897114112)
+- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1671180859653644288)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
