@@ -112,9 +112,9 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
+[![yavin-demo-config](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=yavin-demo-config&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/yavin-demo-config)
 [![Messier-61](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=Messier-61&show_owner=true&theme=vue)](https://github.com/paion-data/Messier-61)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
-[![yavin-demo-config](https://github-readme-stats.vercel.app/api/pin/?username=stealth-tech-startup&repo=yavin-demo-config&show_owner=true&theme=vue)](https://github.com/stealth-tech-startup/yavin-demo-config)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=vue)](https://github.com/QubitPi/mlflow)
 <!-- ACTIVE-FORKS:END -->
 
