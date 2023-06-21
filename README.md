@@ -321,11 +321,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1671549766184960004)
 - [🔑 Frustrated with antiquated Identity and Access Management &lpar;IAM&rpar; systems? Learn how you can transform IAM with graph databases like Memgraph for r...](https://twitter.com/memgraphdb/status/1671525130147643393)
 - [🔥 Calling all #developers with a passion for #GraphDatabases! Jump in and join our thriving community at @github! 🌟 [https://github.com/memgraph...](https://twitter.com/memgraphdb/status/1671506760685821954)
 - [🎓 Level up your graph analytics skills with our &quot;Intro to Graph Analytics in Python&quot; course by @supe_katarina! Discover graph algorithms, learn to ...](https://twitter.com/memgraphdb/status/1671497445744816131)
 - [💡 Find out how @AstraZeneca uses a Biomedical Knowledge Graph to accelerate drug discovery in our upcoming #Memgraph Webinar with @michaelughetto! ...](https://twitter.com/memgraphdb/status/1671477316466114561)
-- [⏱️ A recommendation system can be a very useful tool for finding relevant suggestions for users and efficiently reducing search time. https://memgra...](https://twitter.com/memgraphdb/status/1671459196934430720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
