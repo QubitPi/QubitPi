@@ -208,11 +208,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/809893474943893618><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0f1db378d4e1c64cc92d9d55eecc8e54401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #端午佳节# #粽子# 哇，好多人啊！看样子我们是最晚到的呢。嘿嘿，这么多好吃的，让派蒙都尝尝！ 感谢画师：Siya Ho 绘制贺图 关注@原神 并转发...](https://t.bilibili.com/809893474943893618)
 - [恭喜@帽子高高挂@ZHFSK@取名好难逗我等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/809553235961446432)
 - [#原神# #清夏乐园大秘境# #原神3.8版本前瞻特别节目# #原神3.8# 亲爱的旅行者，又到了派蒙的特别节目预告时间&gt; &lt; 《原神》3.8版本「清夏！乐园？大秘境！」前瞻...](https://t.bilibili.com/809523295749668945)
 - [《原神》风物集短片-璃月篇](https://t.bilibili.com/809522540092325928)
 - [互动抽奖 #原神# #宵宫# #生日快乐# 看，就是这里啦！常来烟花店的小孩子们跟我说，生日来这里许愿很灵的。 嗯…希望能做出更多漂亮的烟花，希望家人身体健康，...](https://t.bilibili.com/809522394062389488)
-- [恭喜@jhka@井木犴奎木狼@锋中过一次奖等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/809182151048167621)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
