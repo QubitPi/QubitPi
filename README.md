@@ -265,11 +265,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Preference learning with automated feedback for cache eviction](http://ai.googleblog.com/2023/06/preference-learning-with-automated.html)
 - [SoundStorm: Efficient parallel audio generation](http://ai.googleblog.com/2023/06/soundstorm-efficient-parallel-audio.html)
 - [Responsible AI at Google Research: AI for Social Good](http://ai.googleblog.com/2023/06/responsible-ai-at-google-research-ai.html)
 - [The world’s first braiding of non-Abelian anyons](http://ai.googleblog.com/2023/06/the-worlds-first-braiding-of-non.html)
 - [Google at CVPR 2023](http://ai.googleblog.com/2023/06/google-at-cvpr-2023.html)
-- [Speed is all you need: On-device acceleration of large diffusion models via GPU-aware optimizations](http://ai.googleblog.com/2023/06/speed-is-all-you-need-on-device.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
