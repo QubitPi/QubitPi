@@ -248,7 +248,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [宵宫生日快乐｜看，就是这里啦！](https://ys.mihoyo.com/main/news/detail/28006)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
-<img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/8019d354-c83a-4815-946d-921d89d04c0c">
+<img align="right" width="15%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
 
 #### Honkai Impact 3 (隔壁三崩子)
 
