@@ -301,11 +301,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [#Neo4j is pivotal in helping enterprises integrate #LLMs to enhance data handling. Want to learn how? Check out this @Analyticsindiam! https://okt.to/...](https://twitter.com/neo4j/status/1672228202062704640)
 - [Unlock the potential of your data with #Modak and #Neo4j! Join this webinar to explore the benefits of effective data orchestration and graph technolo...](https://twitter.com/neo4j/status/1672056917772976130)
 - [When asked Why Neo4j Graph Database, an IT Architect from Energy and Utilities industry gave three key reasons. 🔥 Find out more about more about cu...](https://twitter.com/neo4j/status/1671956349708632085)
 - [Neo4j Live: Geospatial Data in your Graph https://twitter.com/i/broadcasts/1BRKjZYYWnQKw](https://twitter.com/neo4j/status/1671907207011762184)
 - [Want to kickstart how you can work with #geospatial #data 🗺️in Neo4j? Tune in with @lyonwj in a few hours for an overview https://okt.to/fzmdJ1](https://twitter.com/neo4j/status/1671881267695198212)
+- [Turn Your Idea Into a #NODES2023 Session 💡 We’re seeking 15-minute lightning talks, 30- to 45-minute sessions, and interactive workshops! Check ou...](https://twitter.com/neo4j/status/1671851309559959552)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
