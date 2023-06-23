@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810295410605162678><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ad99d5139ff96f11dc071e9bd9a3f1b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810413947405467721><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dc23e342df0cf3b42a437feb5add7324401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 《原神》3.8版本「清夏！乐园？大秘境！」将于2023年7月5日...](https://t.bilibili.com/810408274016862360)
