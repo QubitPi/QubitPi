@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. http...](https://twitter.com/memgraphdb/status/1672202089664061442)
-- [Re @johnrushx @kgolubic We are here if you will need any help :&rpar;](https://twitter.com/memgraphdb/status/1672201355459526658)
 - [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1672183972070129665)
 - [Explore the GitHub commits dataset by connecting to the streaming GitHub commits. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #gr...](https://twitter.com/memgraphdb/status/1672178183762788352)
 - [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. https://memgraph....](https://twitter.com/memgraphdb/status/1672151002928103424)
+- [Learn what is #Docker Compose and how it can help you in the application development process. https://memgraph.com/blog/how-to-orchestrate-your-graph-...](https://twitter.com/memgraphdb/status/1672127601656188930)
+- [🎓 #Learn #Cypher with #Memgraph Property keys, variables, parameters, aliases, and functions are camelCase and begin with a lower-case letter. Thes...](https://twitter.com/memgraphdb/status/1672117027039846402)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
