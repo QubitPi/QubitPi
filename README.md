@@ -210,11 +210,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810295410605162678><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2ad99d5139ff96f11dc071e9bd9a3f1b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 《原神》3.8版本「清夏！乐园？大秘境！」将于2023年7月5日...](https://t.bilibili.com/810408274016862360)
+- [《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目](https://t.bilibili.com/810407500923797672)
+- [#原神# #原神音乐# 亲爱的旅行者，原神3.8版本PV音乐《Secret Summer Paradise 清夏！乐园？大秘境！》现已更新加入专辑《流星的轨迹 Footprints of the Travele...](https://t.bilibili.com/810403656927019015)
+- [《原神》3.8版本PV：「清夏！乐园？大秘境！」](https://t.bilibili.com/810395999001378884)
 - [恭喜@鲷鱼烧大帝@呤某人@艾冰雅等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/810295410605162678)
-- [互动抽奖 #原神# #赛诺# #生日快乐# 谢谢你来为我庆祝，这顿饭务必就由我请客。 别客气，你是我重要的伙伴，更是旗鼓相当的牌友。而且，在幽默方面，我觉得和你...](https://t.bilibili.com/810264504020500499)
-- [互动抽奖 #原神# #端午佳节# #粽子# 哇，好多人啊！看样子我们是最晚到的呢。嘿嘿，这么多好吃的，让派蒙都尝尝！ 感谢画师：Siya Ho 绘制贺图 关注@原神 并转发...](https://t.bilibili.com/809893474943893618)
-- [恭喜@帽子高高挂@ZHFSK@取名好难逗我等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/809553235961446432)
-- [#原神# #清夏乐园大秘境# #原神3.8版本前瞻特别节目# #原神3.8# 亲爱的旅行者，又到了派蒙的特别节目预告时间&gt; &lt; 《原神》3.8版本「清夏！乐园？大秘境！」前瞻...](https://t.bilibili.com/809523295749668945)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
