@@ -206,7 +206,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/809893474943893618><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0f1db378d4e1c64cc92d9d55eecc8e54401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810264504020500499><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f5dd14f9c1d8d6681fd6e5036f25a427401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #赛诺# #生日快乐# 谢谢你来为我庆祝，这顿饭务必就由我请客。 别客气，你是我重要的伙伴，更是旗鼓相当的牌友。而且，在幽默方面，我觉得和你...](https://t.bilibili.com/810264504020500499)
