@@ -323,11 +323,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1672276329335607296)
+- [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1672272553035849732)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1672249903647539201)
 - [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1672231533657178114)
 - [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. http...](https://twitter.com/memgraphdb/status/1672202089664061442)
-- [Re @johnrushx @kgolubic We are here if you will need any help :&rpar;](https://twitter.com/memgraphdb/status/1672201355459526658)
-- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1672183972070129665)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
