@@ -210,11 +210,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810413947405467721><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/dc23e342df0cf3b42a437feb5add7324401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本PV：「清夏！乐园？大秘境！」现已发布~ https://www.bilibili.com/video/BV1ju41187cv 「欢迎来到...](https://t.bilibili.com/810413947405467721)
+- [互动抽奖 #原神# #森林奇旅 寓梦筑林# 亲爱的旅行者们，原神联合支付宝及晨光文具旗下品牌奇只好玩公益系列联动活动「森林奇旅，寓梦筑林」即将开启！ 7月3日起...](https://t.bilibili.com/810411396200136742)
 - [#原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 《原神》3.8版本「清夏！乐园？大秘境！」将于2023年7月5日...](https://t.bilibili.com/810408274016862360)
 - [《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目](https://t.bilibili.com/810407500923797672)
 - [#原神# #原神音乐# 亲爱的旅行者，原神3.8版本PV音乐《Secret Summer Paradise 清夏！乐园？大秘境！》现已更新加入专辑《流星的轨迹 Footprints of the Travele...](https://t.bilibili.com/810403656927019015)
-- [《原神》3.8版本PV：「清夏！乐园？大秘境！」](https://t.bilibili.com/810395999001378884)
-- [恭喜@鲷鱼烧大帝@呤某人@艾冰雅等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/810295410605162678)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
