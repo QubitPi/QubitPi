@@ -208,11 +208,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810640567061970992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d0e26e69d69afffa765f995028cb85c6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [互动抽奖 #原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本PV：「清夏！乐园？大秘境！」现已发布~ https://www.bilibili.com/video/BV1ju41187cv 「欢迎来到...](https://t.bilibili.com/810413947405467721)
-- [互动抽奖 #原神# #森林奇旅 寓梦筑林# 亲爱的旅行者们，原神联合支付宝及晨光文具旗下品牌奇只好玩公益系列联动活动「森林奇旅，寓梦筑林」即将开启！ 7月3日起...](https://t.bilibili.com/810411396200136742)
-- [#原神# #原神3.8# #清夏乐园大秘境# 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 《原神》3.8版本「清夏！乐园？大秘境！」将于2023年7月5日...](https://t.bilibili.com/810408274016862360)
-- [《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目](https://t.bilibili.com/810407500923797672)
-- [#原神# #原神音乐# 亲爱的旅行者，原神3.8版本PV音乐《Secret Summer Paradise 清夏！乐园？大秘境！》现已更新加入专辑《流星的轨迹 Footprints of the Travele...](https://t.bilibili.com/810403656927019015)
+- [互动抽奖 #原神# #提瓦特风尚# #巧戏一幕# 《原神》提瓦特风尚·衣装PV - 巧戏一幕 现已发布~ https://www.bilibili.com/video/BV12X4y1W7sT 幕布拉开的一刻，无...](https://t.bilibili.com/810640567061970992)
+- [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启，「藏金之花」「启示之花」双倍掉落！ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启...](https://t.bilibili.com/810638140413837349)
+- [互动抽奖 #原神 Keep# #原神# 亲爱的旅行者，「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启。 活动期间，通过以下方式参与 原神×Keep 线上公益...](https://t.bilibili.com/810637414816022546)
+- [#原神# #凯亚# #帆影游风# 「我们这就出发冒险吧！」——「帆影游风」凯亚新衣装 旅行者们好呀~ 在3.8版本中，旅行者们可通过参与「清夏！乐园？大秘境！」限时...](https://t.bilibili.com/810636615705690121)
+- [#原神# #可莉# #琪花星烛# 「魔女可莉来啦，砰砰——」——「琪花星烛」可莉新衣装 旅行者们好呀~可莉全新衣装——「琪花星烛」将在3.8版本更新后上线，旅行者们...](https://t.bilibili.com/810636096006258723)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
