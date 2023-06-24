@@ -252,11 +252,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [层出蝶现 | 参与可得糖露星霜碎片等奖励](https://www.bh3.com/news/28013)
 - [时帆初航 | SP角色补给限时开启](https://www.bh3.com/news/28015)
 - [天命武库 | 补给开启，4★装备获取概率UP！](https://www.bh3.com/news/28014)
 - [始源之律者 | 扩充补给限时开启](https://www.bh3.com/news/28011)
 - [精准补给丨澄凝之钥&amp;雷电芽衣](https://www.bh3.com/news/28010)
-- [循迹追猎 | 参与活动获取水晶、爱因斯坦环磁机等奖励！](https://www.bh3.com/news/28005)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
