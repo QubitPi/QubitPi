@@ -321,11 +321,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The CREATE clause is used to create nodes and relationships in a graph. https://memgraph.com/docs/cypher-manual/cla...](https://twitter.com/memgraphdb/status/1672479417291997185)
+- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1672464822368194561)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience https://memgraph...](https://twitter.com/memgraphdb/status/1672314331151605761)
 - [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1672290422889037844)
 - [The simplest usage of Cypher query language is to find data stored in the database. For that you can use MATCH, WHERE, RETURN, UNION, UNION ALL and UN...](https://twitter.com/memgraphdb/status/1672276329335607296)
-- [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1672272553035849732)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1672249903647539201)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
