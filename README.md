@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. https://memgraph.com/docs/cypher-manual/cl...](https://twitter.com/memgraphdb/status/1673015196032413697)
+- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1673001102780907520)
+- [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1672994563072356352)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1672954798352498689)
 - [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1672946998872272898)
-- [If you have large and dynamic data dive into building an influence measurement that constantly updates whenever new data is available. Update #PageRan...](https://twitter.com/memgraphdb/status/1672926109678092288)
-- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1672902958885871617)
-- [Stream processing you can use for Real-time data analytics in manufacturing sensors, UPS telemetry, connected cars and similar examples. #memgraph #st...](https://twitter.com/memgraphdb/status/1672890879021928449)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
