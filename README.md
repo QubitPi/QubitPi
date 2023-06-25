@@ -81,7 +81,7 @@ My Open Source Portfolio
 
 <img src="https://user-images.githubusercontent.com/16126939/185029702-955b44ab-3570-41f2-bb36-581a7ffe38fe.png" alt="心海" width="15%">[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://github.com/QubitPi/aristotle)
     
-[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)<img src="https://user-images.githubusercontent.com/16126939/229332962-7fe64678-072d-4dda-8c90-e0bb9b9a5e17.png" alt="雷电将军" width="15%">
+[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://github.com/QubitPi/peitho-data)<img src="https://github.com/QubitPi/QubitPi/assets/16126939/6d9bbf5f-a9fe-4daa-9d4d-0dd191b0db79" width="15%">
     
 <img src="https://user-images.githubusercontent.com/16126939/208559538-a0b3f656-b7b5-4b32-accf-280ad4b5d6ce.png" alt="可莉" width="15%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
