@@ -67,7 +67,7 @@ My Open Source Portfolio
 [![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jack20191124/)
 [![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/jack20191124/)
 
-<img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/b44b1c7b-fabb-45dc-a856-bc7db174a8b3'>
+<img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/31d122e2-058f-4a2f-9e39-32d21e1f09e8'>
     
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
     
