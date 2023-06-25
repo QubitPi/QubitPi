@@ -70,7 +70,7 @@ My Open Source Portfolio
 <img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/b44b1c7b-fabb-45dc-a856-bc7db174a8b3'>
 
 <img align="left" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
-<img width='35%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
+<img width='25%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/bbbd586d-b760-4f81-8b75-9ccc0bce637f'>
 
 <!-- <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=QubitPi&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-stats.vercel.app/api?username=QubitPi&count_private=true&show_icons=true&theme=vue" width="50%"> -->
     
