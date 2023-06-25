@@ -201,7 +201,7 @@ Latest Genshin Impact News (Bilibili)
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
 -----------------------------------
 
-<img align="left" width=45% alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/9bd6de13-8a8d-4d3e-9fdb-3e886e4602a8">
+<img align="left" height='800px' alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/b8fddcb7-3d8f-407e-a75b-d4fa2b9c4ebb">
 
 <h3 align="center">
 miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/cb0efd85-0916-42a6-b431-a05acb0078d8">)
