@@ -126,7 +126,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 
-<img align="center" width=100% alt="722" src="https://github.com/QubitPi/QubitPi/assets/16126939/d186aa32-f933-4600-a803-d005c3ba40f2">
+<img align="center" width=100% alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/9ca9e43c-9cdf-4149-a1de-036cd5ecb57f">
 
 <div align="center">
 
