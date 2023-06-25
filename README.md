@@ -67,15 +67,7 @@ My Open Source Portfolio
 [![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jack20191124/)
 [![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/jack20191124/)
 
-<a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
-    <img align="left" width="30%" alt="七七要做大数据" src="https://user-images.githubusercontent.com/16126939/182993794-3671657c-f9cb-497c-a9d1-c3917383fc89.png">
-</a>
-
-I belive in creating software using the open source way, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. This philosophy affects everything my team does in Tech Industry as most of today’s IT leaders, who agree that enterprise open source is important, do
-
-Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
-
-By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
+<img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/b44b1c7b-fabb-45dc-a856-bc7db174a8b3'>
 
 <img align="left" src="/github-metrics-current-year-commits-history.svg" alt="Metrics" width="60%">
 <img width='35%' align='right' src='https://github.com/QubitPi/QubitPi/assets/16126939/51c1160c-5bd1-40a5-81b1-a8b2429641bb'>
