@@ -19,11 +19,7 @@ _Open Innovation_ as Career
 [“_**为世间所有的美好而努力**_” | _"**May you, the beauty of this world, always shine**"_](https://www.bilibili.com/video/BV1Kj411g7Lu)
 </div>
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1z44y1b7cQ?p=3&share_source=copy_web">
-    <img align="center" width="100%" alt="my-history" src="https://user-images.githubusercontent.com/16126939/184523283-8c35386b-56e5-42d9-b75e-2107086f066f.png">
-</a>
-</div>
+<img align="center" width="100%" alt="personal-statement" src="https://github.com/QubitPi/QubitPi/assets/16126939/16615c70-f7e7-4f63-ba7f-edab169936c8">
 
 <!-- <div align="right">
 <a href="https://www.youtube.com/live/Ycaiy_2InSs">
