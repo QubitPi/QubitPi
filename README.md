@@ -298,11 +298,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Re @rastadidi Well done!](https://twitter.com/neo4j/status/1672761662124769280)
+- [A few weeks ago, version 1.2.0 of Spring for GraphQL was released with a bunch of new features ---&gt; This post will guide you on creating a Spring appl...](https://twitter.com/neo4j/status/1672748706804711424)
 - [RT Alexander Erdl: Do you have a #nickname 🦆 🐇 🧛 ? On Monday @mesirii and I will look at them with @neo4j #auradb https://youtube.com/live/G0...](https://twitter.com/alexandererdl/status/1672522699611201536)
 - [Half of the world is entering the summer solstice, and we can sense the happiness &lpar;check out the smiley faces!&rpar; 🎉☀ Happy Midsummer!! #LifeAtNeo4j ...](https://twitter.com/neo4j/status/1672258382160449538)
 - [#Neo4j is pivotal in helping enterprises integrate #LLMs to enhance data handling. Want to learn how? Check out this @Analyticsindiam! https://okt.to/...](https://twitter.com/neo4j/status/1672228202062704640)
-- [Unlock the potential of your data with #Modak and #Neo4j! Join this webinar to explore the benefits of effective data orchestration and graph technolo...](https://twitter.com/neo4j/status/1672056917772976130)
-- [When asked Why Neo4j Graph Database, an IT Architect from Energy and Utilities industry gave three key reasons. 🔥 Find out more about more about cu...](https://twitter.com/neo4j/status/1671956349708632085)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
