@@ -19,7 +19,7 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 [“_**为世间所有的美好而努力**_” | _"**May you, the beauty of this world, always shine**"_](https://www.bilibili.com/video/BV1Kj411g7Lu)
 </div>
 
-<img align="center" width="100%" alt="personal-statement" src="https://github.com/QubitPi/QubitPi/assets/16126939/ea5e8ac9-8926-47ea-b8b5-21bb5e71dd4a">
+<img align="center" width="100%" alt="personal-statement" src="https://github.com/QubitPi/QubitPi/assets/16126939/e4f7574f-aa24-4d9a-98c7-04922dd90614">
 
 <!-- <div align="right">
 <a href="https://www.youtube.com/live/Ycaiy_2InSs">
