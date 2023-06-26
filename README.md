@@ -188,7 +188,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/810640567061970992><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d0e26e69d69afffa765f995028cb85c6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/811377764098638048><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4310e6ace044c0fab99749d4d15a5c0b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #雷电将军# #生日快乐# 好久没有与你相聚在樱树下赏花聊天了，谢谢你的邀请。 对了，上次你借给我的轻小说很有趣。前几晚看得有些入迷，经常一...](https://t.bilibili.com/811377764098638048)
