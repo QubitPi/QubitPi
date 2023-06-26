@@ -292,9 +292,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Nickname Graph - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=G07yaaIrpTQ)
 - [NEW COURSE #GraphAcademy](https://www.youtube.com/watch?v=Pk2tLfxwiD8)
 - [Neo4j Live: Geospatial Data in your Graph](https://www.youtube.com/watch?v=djMsdSxvd2E)
+- [Nickname Graph - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=G07yaaIrpTQ)
 - [Etymology of Words - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=4GzXRuzgV1w)
 - [Graphversation Ep. 4 - Causal inference powered by Knowledge Graph for applied security research](https://www.youtube.com/watch?v=e3svI7dHIbY)
 <!-- NEO4J-YOUTUBE:END -->
