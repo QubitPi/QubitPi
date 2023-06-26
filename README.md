@@ -222,11 +222,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「浪沫的旋舞」优菈同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/28051)
+- [「逃跑的太阳」可莉同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/28050)
+- [雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快…](https://ys.mihoyo.com/main/news/detail/28049)
 - [「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！](https://ys.mihoyo.com/main/news/detail/28027)
 - [3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！](https://ys.mihoyo.com/main/news/detail/28026)
-- [「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启！](https://ys.mihoyo.com/main/news/detail/28025)
-- [「嘘，可别告诉别人…我们这就出发冒险吧！」——「帆影游风」凯亚新衣装](https://ys.mihoyo.com/main/news/detail/28024)
-- [「魔女可莉来啦，砰砰——」——「琪花星烛」可莉新衣装](https://ys.mihoyo.com/main/news/detail/28023)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
