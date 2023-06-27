@@ -191,11 +191,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/811408670423253045><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4df7ccaebd96584ed6fc9745386b55e4401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #八重神子# #生日快乐# 哎呀呀，小家伙，你今天突然拜访，是有什么东西要送给我吧？ 真的没有吗？油豆腐的香味，可瞒不住我的鼻子哦。 吃着你送...](https://t.bilibili.com/811748849012965429)
 - [恭喜@且看弑神@_Eroioner@宇宙视觉Y等25位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/811408670423253045)
 - [互动抽奖 #原神# #雷电将军# #生日快乐# 好久没有与你相聚在樱树下赏花聊天了，谢谢你的邀请。 对了，上次你借给我的轻小说很有趣。前几晚看得有些入迷，经常一...](https://t.bilibili.com/811377764098638048)
 - [互动抽奖 #原神# #提瓦特风尚# #巧戏一幕# 《原神》提瓦特风尚·衣装PV - 巧戏一幕 现已发布~ https://www.bilibili.com/video/BV12X4y1W7sT 幕布拉开的一刻，无...](https://t.bilibili.com/810640567061970992)
 - [#原神# #地脉移涌# 亲爱的旅行者，「地脉移涌」活动即将开启，「藏金之花」「启示之花」双倍掉落！ 活动期间，成功挑战「地脉衍出·藏金之花」或「地脉衍出·启...](https://t.bilibili.com/810638140413837349)
-- [互动抽奖 #原神 Keep# #原神# 亲爱的旅行者，「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启。 活动期间，通过以下方式参与 原神×Keep 线上公益...](https://t.bilibili.com/810637414816022546)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
