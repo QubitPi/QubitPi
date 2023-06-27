@@ -188,7 +188,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/811408670423253045><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4df7ccaebd96584ed6fc9745386b55e4401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/811750137508397105><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04e1d31772387aeba969849545dd1f7d401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #八重神子# #生日快乐# 哎呀呀，小家伙，你今天突然拜访，是有什么东西要送给我吧？ 真的没有吗？油豆腐的香味，可瞒不住我的鼻子哦。 吃着你送...](https://t.bilibili.com/811748849012965429)
