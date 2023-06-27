@@ -282,11 +282,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [What’s essential to our people here at Neo4j? We prioritize building community, caring for each other, and having a great time! 👐 Interested in jo...](https://twitter.com/neo4j/status/1673684821216829441)
-- [You already know about the integration. 💕 Now, it&#39;s time to show you how to use two technologies together: Google Cloud Vertex AI, an ML developmen...](https://twitter.com/neo4j/status/1673677607378853891)
 - [Using #Neo4j, data scientists can explore billions of data points in seconds to identify hidden connections.👀 We will be in booth #40 on Wednesday,...](https://twitter.com/neo4j/status/1673390814498639872)
 - [Last 4 days for submitting your talk!! 🚨🚨🚨🚨 🔥Developers, Data scientists, this is your chance to be part of #NODES2023!🔥 Want to sha...](https://twitter.com/neo4j/status/1673346046238261255)
 - [Discovering Neo4j AuraDB Free with @mesirii https://twitter.com/i/broadcasts/1rmxPkzYabqJN](https://twitter.com/neo4j/status/1673326548026552320)
+- [Check out the third blog post of Neo4j’s NaLLM project: Tomaz Bratanic started this project to explore, develop, and showcase practical uses of these...](https://twitter.com/neo4j/status/1673315632673112066)
+- [Explore various use cases for integrating knowledge graphs into LLM and LangChain applications and learn how to improve prompts to produce better and ...](https://twitter.com/neo4j/status/1673013233806876672)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
