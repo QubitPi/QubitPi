@@ -167,11 +167,11 @@ My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge
 ### Recent Posts
 
 <!-- BILIBILI-RECENT-ACTIVITIES:START -->
+- [What is a Name Server](https://t.bilibili.com/811895586584264726)
 - [愿将军大人的威严直抵永恒[原神_点赞]](https://t.bilibili.com/811390971124121651)
 - [运维新趋势 Immutable Infrastructure 了解一下？ 【What is mutable vs. immutable infrastructure-哔哩哔哩】 https://b23.tv/EWrPTEf 顺便安利一个GitHub厨的...](https://t.bilibili.com/810995975867859030)
 - [What is mutable vs. immutable infrastructure](https://t.bilibili.com/810660289554939943)
 - [Everything We Do, We Believe Data through Technology Reveals the Hidden Truth of the World 【可莉邀请你加入派昂科技-哔哩哔哩】 https://b23.tv/731ivaB](https://t.bilibili.com/809559592510947416)
-- [[打call]来和可莉放烟花吧](https://t.bilibili.com/809444384317636627)
 <!-- BILIBILI-RECENT-ACTIVITIES:END -->
 
 <br/>
