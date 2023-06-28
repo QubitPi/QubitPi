@@ -186,7 +186,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812150836475986001><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/5bca459aa33e9adb5dcf43fbd5e946ae401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812221209524568129><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7c7c2c5abdb881be6de68b5417853fc71669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [[原神_哇][原神_哇]](https://t.bilibili.com/812221209524568129)
