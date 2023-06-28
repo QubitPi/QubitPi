@@ -186,7 +186,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/811750137508397105><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04e1d31772387aeba969849545dd1f7d401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812121192626388994><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/13078fa6bb65060f5e5d97185b5c83d7401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动 现已开赛。 已经报名参与活动的旅行者，可前往Keep App-首页Tab找到「活动」-「我的活动」...](https://t.bilibili.com/811750137508397105)
