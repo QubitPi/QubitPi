@@ -210,11 +210,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「哇哇，旅行者快看烟花！好漂亮呀！」](https://bbs.mihoyo.com/ys/article/40746538)
 - [「燃斗无双」米游社七圣召唤积分赛16强赛选手采访&amp;牌组介绍](https://bbs.mihoyo.com/ys/article/40726800)
 - [八重神子生日快乐｜嗯？你看错了，我可没有开心到抖耳朵——](https://bbs.mihoyo.com/ys/article/40719492)
 - [雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快…](https://bbs.mihoyo.com/ys/article/40691528)
 - [【幕间趣闻】米游社七圣召唤积分赛晋级赛趣味数据大公开](https://bbs.mihoyo.com/ys/article/40638874)
-- [《原神》提瓦特风尚·衣装PV - 巧戏一幕](https://bbs.mihoyo.com/ys/article/40635739)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
