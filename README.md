@@ -232,11 +232,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [精准补给丨往世的绝塔&amp;血渊之眸](https://www.bh3.com/news/28058)
+- [螺旋·愚戏之匣 | 扩充补给限时开启](https://www.bh3.com/news/28057)
+- [魇夜星渊 | 进阶补给限时开启](https://www.bh3.com/news/28056)
 - [封号名单（2023年6月26日）](https://www.bh3.com/news/28053)
 - [层出蝶现 | 参与可得糖露星霜碎片等奖励](https://www.bh3.com/news/28013)
-- [时帆初航 | SP角色补给限时开启](https://www.bh3.com/news/28015)
-- [天命武库 | 补给开启，4★装备获取概率UP！](https://www.bh3.com/news/28014)
-- [始源之律者 | 扩充补给限时开启](https://www.bh3.com/news/28011)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
