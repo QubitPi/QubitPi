@@ -280,11 +280,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Day 2 #DataAISummit —- visit us! Booth 40 😎 https://t.co/hNk68RoVPw](https://twitter.com/neo4j/status/1674509728116797456)
-- [These are some of the fantastic speakers at #NODES2023 --- want to be part of this 🔥 crew?? You have one more day to SUBMIT YOUR TALK! https://okt....](https://twitter.com/neo4j/status/1674447811910221825)
 - [Hey! Don&#39;t miss this video! Learn everything there is to know to query #Neo4j, including the more advanced #Cypher functionality, APOC, and everything...](https://twitter.com/neo4j/status/1674418367602774019)
 - [Re @codek1 @BigData_LDN Yes! We also have speaking sessions on both days at 10:40! See you there! :&rpar;](https://twitter.com/neo4j/status/1674401371045482498)
 - [Today is the last day! See you at the #DataAISummit? Find us at booth #40! #Neo4j @databricks https://t.co/kmzSMd0tj3](https://twitter.com/neo4j/status/1674400613092687874)
+- [Modern applications now rely on recommendation systems to power personalized suggestions that improve user experiences. Join Mateusz JasińskiIn as he...](https://twitter.com/neo4j/status/1674145725343563781)
+- [As #PrideMonth arrived, we invited 2 of our colleagues to speak about their feelings about this celebration. Thank you, AJ Kincaid and Joe Depeau, for...](https://twitter.com/neo4j/status/1674092413487382528)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
