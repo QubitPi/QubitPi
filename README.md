@@ -302,11 +302,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 Learn the basic terminology and practices related to graph databases and graph modeling https://memgraph.com/docs/memgraph/tutorials/graph-modeli...](https://twitter.com/memgraphdb/status/1674405859609247746)
+- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1674396549541969921)
 - [How many graph database query languages do you use? Do you have a favorite one? https://memgraph.com #memgraph](https://twitter.com/memgraphdb/status/1674375661782290432)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. https://memgraph.com/docs/cypher-manu...](https://twitter.com/memgraphdb/status/1674351000650412033)
 - [#GQLAlchemy is a fully open-source #Python library that aims to be the go-to Object Graph Mapper &lpar;OGM&rpar; - a link between #GraphDatabase objects and Pyt...](https://twitter.com/memgraphdb/status/1674316019207110656)
-- [RT kapa.ai: ... and should you ever get stuck, you can always ask @kapa_ai on the docs: http://memgraph.com/docs 🕹️ https://twitter.com/memgraphdb...](https://twitter.com/kapa_ai/status/1674305958032605186)
-- [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1674301924533829634)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
