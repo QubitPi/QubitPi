@@ -280,11 +280,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Hey! Don&#39;t miss this video! Learn everything there is to know to query #Neo4j, including the more advanced #Cypher functionality, APOC, and everything...](https://twitter.com/neo4j/status/1674418367602774019)
-- [Re @codek1 @BigData_LDN Yes! We also have speaking sessions on both days at 10:40! See you there! :&rpar;](https://twitter.com/neo4j/status/1674401371045482498)
-- [Today is the last day! See you at the #DataAISummit? Find us at booth #40! #Neo4j @databricks https://t.co/kmzSMd0tj3](https://twitter.com/neo4j/status/1674400613092687874)
 - [Modern applications now rely on recommendation systems to power personalized suggestions that improve user experiences. Join Mateusz JasińskiIn as he...](https://twitter.com/neo4j/status/1674145725343563781)
 - [As #PrideMonth arrived, we invited 2 of our colleagues to speak about their feelings about this celebration. Thank you, AJ Kincaid and Joe Depeau, for...](https://twitter.com/neo4j/status/1674092413487382528)
+- [RT William Lyon: 🎧 The latest episode of the http://GraphStuff.FM podcast is one of our best yet! 🎙️ This time @akollegger @JMHReif @alison_cos...](https://twitter.com/lyonwj/status/1674091364013969408)
+- [Don&#39;t be left behind, and get started with Graph Databases! 🚀 This book introduces you to the basics of graph database technology... and it&#39;s FREE ...](https://twitter.com/neo4j/status/1674038292822499329)
+- [Are you a graph database enthusiast or just starting your journey into the world of connected data?? These meetups are for you! Join our upcoming meet...](https://twitter.com/neo4j/status/1673994713643335681)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
