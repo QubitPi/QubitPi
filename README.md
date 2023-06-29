@@ -290,11 +290,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Graph-Based Linguistics - Trailer #shorts](https://www.youtube.com/watch?v=x7_NgeWGqG8)
 - [Going Meta - a series on graphs, semantics and knowledge Ep 18](https://www.youtube.com/watch?v=9DDdFKVvZQc)
 - [Neo4j Live: Graph-Based Linguistics](https://www.youtube.com/watch?v=gky6ORe7tUk)
 - [Nickname Graph - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=G07yaaIrpTQ)
 - [NEW COURSE #GraphAcademy](https://www.youtube.com/watch?v=Pk2tLfxwiD8)
-- [Neo4j Live: Geospatial Data in your Graph](https://www.youtube.com/watch?v=djMsdSxvd2E)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
