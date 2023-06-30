@@ -192,11 +192,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812862091914379537><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/672d208c6f2e4fe62fd27a231e501aa2401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@月城Serene@纳塔第一深情@月光曲阜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812893006831026177)
+- [恭喜@是四49啊@阿比盖尔的开锁匠@antalkaline等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812893006828929044)
+- [恭喜@是溪谷呀@鱼子酱-子酱@牧之原灵菲等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812893006824734789)
 - [#原神# #原神3.8# 旅行者们好呀，3.8版本更新后，「七圣召唤」玩法将新增角色牌「枫原万叶」、「坎蒂丝」、「烟绯」和对应天赋牌，以及五张新的行动牌。一起来看...](https://t.bilibili.com/812862091914379537)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/812221209524568129)
-- [恭喜@Amanisis_@文学爱好者重遥@陌雨川等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812150836475986001)
-- [恭喜@顾凉州@谛九@吃个饭废话等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812150836474937447)
-- [#原神# #贺图# 「宵宫和阿忍都在那里，我们也过去吧！」 「哇哇，旅行者快看烟花！好漂亮呀！」](https://t.bilibili.com/812121192626388994)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
