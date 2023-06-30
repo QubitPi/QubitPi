@@ -37,7 +37,7 @@ jobs:
           item_exec: |
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
           # template: "<p><a href=$url><img src=$description width='45%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
-          template: "<a href=$url><img src=$description width='17%'></a>&nbsp;&nbsp;&nbsp;"
+          template: "<a href=$url><img src=$description width='20%'></a>&nbsp;&nbsp;&nbsp;"
           disable_html_encoding: true
           title_max_length: 17
   trippled-videos-honkai-impact-3:
@@ -58,7 +58,7 @@ jobs:
           item_exec: |
             post.description = post.description.match(/(?:img src="[^"]*"|^[^"]*$)/)[0].replace(/"/g, "").replace("img src=", "");
           # template: "<p><a href=$url><img src=$description width='45%'></a><br/><a href=$url>$title</a> $feedName</p><br>"
-          template: "<a href=$url><img src=$description width='17%'></a>&nbsp;&nbsp;&nbsp;"
+          template: "<a href=$url><img src=$description width='20%'></a>&nbsp;&nbsp;&nbsp;"
           disable_html_encoding: true
           title_max_length: 17
   genshin-impact-activities:
