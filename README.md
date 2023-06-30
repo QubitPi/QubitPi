@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Explore the Amazon books dataset by connecting to the streaming book ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphd...](https://twitter.com/memgraphdb/status/1674768249500622848)
 - [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 https://memgraph.com/blog/how-t...](https://twitter.com/memgraphdb/status/1674738802047217664)
 - [Sign up for the special #Memgraph #Webinar and learn how AstraZeneca ingests data sources in the Biological Insights Knowledge Graph &lpar;BIKG&rpar; and distri...](https://twitter.com/memgraphdb/status/1674720685149569026)
 - [Explore the Art Blocks sales dataset by connecting to the streaming Art Blocks sales. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph...](https://twitter.com/memgraphdb/status/1674714898075471874)
 - [Learn how to use #Docker Compose to orchestrate your graph application. https://memgraph.com/blog/how-to-orchestrate-your-graph-application-with-docke...](https://twitter.com/memgraphdb/status/1674687717974634496)
-- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1674664312739188736)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
