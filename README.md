@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 https://memgraph.com...](https://twitter.com/memgraphdb/status/1674631093629202437)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1674484376573190152)
 - [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1674466760081256454)
 - [❓Do you need an awesome data stream? We&#39;ve actually got several. ➡️ https://awesomedata.stream/ #memgraph #graphdatabase #stream #data](https://twitter.com/memgraphdb/status/1674448722086821888)
 - [🎓 Learn the basic terminology and practices related to graph databases and graph modeling https://memgraph.com/docs/memgraph/tutorials/graph-modeli...](https://twitter.com/memgraphdb/status/1674405859609247746)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1674396549541969921)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
