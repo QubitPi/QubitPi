@@ -177,7 +177,7 @@ My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge
 Recently Liked-Saved-Tipped (一键三连) Videos
 </h3>
 
-Genshin Impact: <!-- BILIBILI-TIPPED-VIDEOS:START --><!-- BILIBILI-TIPPED-VIDEOS:END -->
+Genshin Impact: <!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV12X4y1W7sT><img src=http://i0.hdslb.com/bfs/archive/eb1fd36b12856b63e6cc3b5c61c69fec2b46bc2e.jpg width='20%'></a><a href=https://www.bilibili.com/video/BV1oP4y1L7mm><img src=http://i2.hdslb.com/bfs/archive/6d8f344295bef9f530c8f4722c07d963ec08f10e.png width='20%'></a><a href=https://www.bilibili.com/video/BV1cV411s7c9><img src=http://i2.hdslb.com/bfs/archive/d5e222f0eb19dd4677bfc21a6b5718e5bf9a632d.jpg width='20%'></a><a href=https://www.bilibili.com/video/BV1VB4y1j7Nq><img src=http://i2.hdslb.com/bfs/archive/441b01fe6ea9ce443d5798ad1ec7c4ebe501a7df.jpg width='20%'></a><a href=https://www.bilibili.com/video/BV18m4y1h7Sd><img src=http://i0.hdslb.com/bfs/archive/73271db3d7d4a8474857e110799cb3feb75a4e7d.jpg width='20%'></a><!-- BILIBILI-TIPPED-VIDEOS:END -->
 Honkai Impact 3: <!-- BILIBILI-TIPPED-VIDEOS:START --><!-- BILIBILI-TIPPED-VIDEOS:END -->
 
 <h3 align="center">
