@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1674851041643200537)
 - [Learn how to update #PageRank measurements incrementally whenever a new data point hits the platform. https://memgraph.com/blog/dynamic-page-rank-on-s...](https://twitter.com/memgraphdb/status/1674827138027978752)
 - [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1674813041433624585)
 - [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1674809269047246853)
 - [Re @CShorten30 @weaviate_io It was a pleasure to have you as a guest 🙌](https://twitter.com/memgraphdb/status/1674800610275651585)
-- [🚀Dive into the world of LLMs with #Memgraph! 📅 Join us for our next Community Call on July 7th, 6 PM CEST, with Brett Brewer &lpar;@villageideate&rpar;, a...](https://twitter.com/memgraphdb/status/1674800135161917442)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
