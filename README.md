@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Get the notification of the livestream and join @alexandererdl!](https://twitter.com/neo4j/status/1674757794656931861)
-- [Yes! We will be at #WeAreDevelopers World Congress 2023, in Berlin! See you there??💻 https://okt.to/9KGJfM @WeAreDevs #WeAreDevs #neo4j https://t.c...](https://twitter.com/neo4j/status/1674757360621944832)
-- [RT Michael Hunger 🇪🇺 🇺🇦 @mesirii@chaos.social: 🚨Your last chance today to submit for our @neo4j #NODES2023 online developer conference ...](https://twitter.com/mesirii/status/1674736078467526656)
 - [Day 2 #DataAISummit —- visit us! Booth 40 😎 https://t.co/hNk68RoVPw](https://twitter.com/neo4j/status/1674509728116797456)
+- [These are some of the fantastic speakers at #NODES2023 --- want to be part of this 🔥 crew?? You have one more day to SUBMIT YOUR TALK! https://okt....](https://twitter.com/neo4j/status/1674447811910221825)
 - [Hey! Don&#39;t miss this video! Learn everything there is to know to query #Neo4j, including the more advanced #Cypher functionality, APOC, and everything...](https://twitter.com/neo4j/status/1674418367602774019)
+- [Re @codek1 @BigData_LDN Yes! We also have speaking sessions on both days at 10:40! See you there! :&rpar;](https://twitter.com/neo4j/status/1674401371045482498)
+- [Today is the last day! See you at the #DataAISummit? Find us at booth #40! #Neo4j @databricks https://t.co/kmzSMd0tj3](https://twitter.com/neo4j/status/1674400613092687874)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
