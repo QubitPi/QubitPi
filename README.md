@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812221209524568129><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/7c7c2c5abdb881be6de68b5417853fc71669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/812862091914379537><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/672d208c6f2e4fe62fd27a231e501aa2401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.8# 旅行者们好呀，3.8版本更新后，「七圣召唤」玩法将新增角色牌「枫原万叶」、「坎蒂丝」、「烟绯」和对应天赋牌，以及五张新的行动牌。一起来看...](https://t.bilibili.com/812862091914379537)
