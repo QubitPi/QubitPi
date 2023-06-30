@@ -183,7 +183,7 @@ Recently Liked-Saved-Tipped (一键三连) Videos
 
 #### Honkai Impact 3
 
-<!-- BILIBILI-TIPPED-VIDEOS:START --><!-- BILIBILI-TIPPED-VIDEOS:END -->
+<!-- BILIBILI-TIPPED-VIDEOS-HONKAI-IMPACT-3:START --><!-- BILIBILI-TIPPED-VIDEOS-HONKAI-IMPACT-3:END -->
 
 <h3 align="center">
 Latest Genshin Impact News (Bilibili)
