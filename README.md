@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1675101190261030912)
 - [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphdat...](https://twitter.com/memgraphdb/status/1675083073279369216)
 - [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1675075776146731010)
 - [Not sure what you can do with Cypher? Check out our Cypher manual whenever in doubt 😊 #memgraph #graphdatabase #cypher https://memgraph.com/docs/cy...](https://twitter.com/memgraphdb/status/1675065204239900672)
 - [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1675026703234523137)
+- [Real-Time Graph Analytics works best for complex social network research, creating product recommendations for e-commerce platforms, or detecting frau...](https://twitter.com/memgraphdb/status/1675016130421825537)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
