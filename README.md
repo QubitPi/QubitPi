@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1675172876037570562)
-- [To better understand the gas and energy infrastructure, we can model the data using graphs and draw conclusions using graph algorithms. Read the #Memg...](https://twitter.com/memgraphdb/status/1675168889695531008)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1675149005293252608)
 - [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph #graphdataba...](https://twitter.com/memgraphdb/status/1675139190948876289)
 - [Did you ever feel overwhelmed with the number of JOIN operations in SQL queries? If the answer is yes &lpar;and it probably is 😜&rpar;, then you should take ...](https://twitter.com/memgraphdb/status/1675101190261030912)
+- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphdat...](https://twitter.com/memgraphdb/status/1675083073279369216)
+- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1675075776146731010)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
