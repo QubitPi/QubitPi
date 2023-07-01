@@ -282,11 +282,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Have you ever wondered Why is #graphdatascience a good technique for pathfinding? 📢Katie Roberts explains it here! Take a look and learn more about...](https://twitter.com/neo4j/status/1675202553708007425)
 - [Take your #Cypher Aggregations to the next level with @adamcowley Learn more: https://okt.to/H3j5dJ #GraphAcademyTips #GraphAcademy #Neo4j https://t.c...](https://twitter.com/neo4j/status/1675127505311748096)
 - [Max Andersson, DevOps Engineer at Neo4j, walks you through the use case we use to implement SSO for Neo4j Sandbox and how it might differ from your im...](https://twitter.com/neo4j/status/1674900652265291780)
 - [📸Memories from last night&#39;s award dinner where Alyson Welch, our CRO, was recognized as one of the 100 Women of Influence by the Silicon Valley Bus...](https://twitter.com/neo4j/status/1674838498694529032)
 - [#Podcast for the weekend?📻 @alison_cossette, @JMHReif, @lyonwj, and @akollegger explore the complex world of data science and add context to #AI an...](https://twitter.com/neo4j/status/1674806520557584387)
-- [Get the notification of the livestream and join @alexandererdl! https://twitter.com/alexandererdl/status/1674686968184152065](https://twitter.com/neo4j/status/1674757794656931861)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
