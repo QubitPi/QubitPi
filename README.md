@@ -212,11 +212,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「燃斗无双」七圣召唤全民积分赛总决赛冠军预测&amp;赛前宣言！](https://bbs.mihoyo.com/ys/article/40865885)
+- [「琉形蜃境」冒险邀请函——3.8版本限时区域介绍](https://bbs.mihoyo.com/ys/article/40864479)
 - [「燃斗无双」七圣召唤8强淘汰赛第二场赛事回顾](https://bbs.mihoyo.com/ys/article/40841453)
 - [「燃斗无双」米游社七圣召唤全民积分赛四强诞生，半决赛即将开启](https://bbs.mihoyo.com/ys/article/40819657)
 - [「燃斗无双」七圣召唤8强淘汰赛第一场赛事回顾](https://bbs.mihoyo.com/ys/article/40811293)
-- [3.8版本「七圣召唤」全新卡牌说明](https://bbs.mihoyo.com/ys/article/40806744)
-- [「燃斗无双」米游社七圣召唤8强淘汰赛首日战报！](https://bbs.mihoyo.com/ys/article/40792994)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
