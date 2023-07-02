@@ -173,7 +173,7 @@ My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge
 <br/>
 
 <h3 align="center">
-Recently Liked-Saved-Tipped (一键三连) Videos
+Recently Liked-Saved-Tipped <img height="10px" alt="一键三连" src="https://github.com/QubitPi/QubitPi/assets/16126939/5f43bed9-777a-490e-9ac7-b892564a41a0"> Videos
 </h3>
 
 #### [Genshin Impact](https://space.bilibili.com/1771839550/favlist?fid=1596916250)
