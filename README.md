@@ -192,11 +192,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814006262352052272><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4310e6ace044c0fab99749d4d15a5c0b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神神工天巧征集活动# #原神UP主激励计划# 《原神》「神工天巧·宝录之章」挑战视频征集活动结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 无知d...](https://t.bilibili.com/814037194706518192)
+- [恭喜@一个暴躁人@chzxqhdsly@良久换酒等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/814006262352052272)
 - [互动抽奖 #原神# #序曲PV# #致终幕的欢宴# 《原神》序曲PV——「致终幕的欢宴」现已发布~ https://www.bilibili.com/video/BV1ss4y1k7CD 享受颠词倒序的歌咏， ...](https://t.bilibili.com/813983078118588488)
 - [#原神# #清夏乐园大秘境# 旅行者们好呀~3.8版本即将开启，一起来看看新版本中有哪些活动吧！](https://t.bilibili.com/813979195725053958)
 - [#原神# #清夏乐园大秘境# 亲爱的旅行者，「清夏！乐园？大秘境！」活动即将开启~ 〓活动时间〓 剧情任务开启时间：3.8版本更新后 ~ 3.8版本结束 玩法阶段开启时...](https://t.bilibili.com/813978422634086419)
-- [#原神# #可莉# #琪花星烛# 亲爱的旅行者，可莉衣装「琪花星烛」限时折扣上架商城啦！ 〓折扣时间〓 3.8版本更新后 ~ 2023/08/14 03:59 〓衣装说明〓 ● 3.8版本...](https://t.bilibili.com/813977906982158356)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「双手剑·松籁响起之时」「法器·四风原典」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/813977391841935394)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
