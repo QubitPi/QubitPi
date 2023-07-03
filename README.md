@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814006262352052272><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4310e6ace044c0fab99749d4d15a5c0b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814037194706518192><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1afad141279c1671cc998ff390531e67401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神神工天巧征集活动# #原神UP主激励计划# 《原神》「神工天巧·宝录之章」挑战视频征集活动结果揭晓，感谢旅行者的参加与投稿。 〓作品传送门〓 无知d...](https://t.bilibili.com/814037194706518192)
