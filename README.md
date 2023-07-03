@@ -237,9 +237,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <!-- HONKAI-IMPACT-NEWS:START -->
 - [律者降临，福利回馈丨七日登录领取扩充补给卡×5等奖励](https://www.bh3.com/news/28140)
 - [补给公告 | 「死生之律者」降临](https://www.bh3.com/news/28139)
+- [封号名单（2023年7月3日）](https://www.bh3.com/news/28141)
 - [超限解放丨全新超限武器开放锻造！](https://www.bh3.com/news/28138)
-- [精准补给丨往世的绝塔&amp;血渊之眸](https://www.bh3.com/news/28058)
-- [螺旋·愚戏之匣 | 扩充补给限时开启](https://www.bh3.com/news/28057)
+- [重装小兔丨人偶补给开启](https://www.bh3.com/news/28142)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
