@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/813635177434579030><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d0e26e69d69afffa765f995028cb85c6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/813961156601315330><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3860aadfa5bce874b20c458ac22d68e3401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.8# #清夏乐园大秘境# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的...](https://t.bilibili.com/813961156601315330)
