@@ -213,11 +213,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [繁星丽天，孤怀寒芒](https://bbs.mihoyo.com/ys/article/40903236)
+- [水中窥月，洞见夜明](https://bbs.mihoyo.com/ys/article/40903117)
+- [镜中捧花，赠予何人](https://bbs.mihoyo.com/ys/article/40902958)
 - [3.8版本「清夏！乐园？大秘境！」内容专题页上线！](https://bbs.mihoyo.com/ys/article/40894004)
 - [「清夏！乐园？大秘境！」3.8版本活动速递第一期](https://bbs.mihoyo.com/ys/article/40894003)
-- [《原神》序曲PV——「致终幕的欢宴」](https://bbs.mihoyo.com/ys/article/40893764)
-- [「燃斗无双」米游社七圣召唤全民积分赛落幕，黑马逆袭夺冠！](https://bbs.mihoyo.com/ys/article/40893160)
-- [「燃斗无双」七圣召唤4强半决赛赛事回顾](https://bbs.mihoyo.com/ys/article/40876344)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
