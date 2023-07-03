@@ -223,11 +223,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
-- [「清夏！乐园？大秘境！」3.8版本更新维护预告](https://ys.mihoyo.com/main/news/detail/28120)
-- [「琉形蜃境」冒险邀请函——3.8版本限时区域介绍](https://ys.mihoyo.com/main/news/detail/28092)
-- [3.8版本「七圣召唤」全新卡牌说明](https://ys.mihoyo.com/main/news/detail/28091)
-- [八重神子生日快乐｜嗯？你看错了，我可没有开心到抖耳朵——](https://ys.mihoyo.com/main/news/detail/28054)
-- [「浪沫的旋舞」优菈同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/28051)
+- [3.8版本 「清夏！乐园？大秘境！」内容专题页上线！](https://ys.mihoyo.com/main/news/detail/28132)
+- [「清夏！乐园？大秘境！」3.8版本活动速递第一期](https://ys.mihoyo.com/main/news/detail/28131)
+- [「清夏！乐园？大秘境！」活动：参与获取凯亚衣装，邀请「绮思晚星·莱依拉&lpar;冰&rpar;」](https://ys.mihoyo.com/main/news/detail/28130)
+- [「琪花星烛」可莉衣装限时折扣](https://ys.mihoyo.com/main/news/detail/28129)
+- [「神铸赋形」祈愿：「双手剑·松籁响起之时」「法器·四风原典」概率UP！](https://ys.mihoyo.com/main/news/detail/28128)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
