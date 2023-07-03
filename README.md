@@ -192,11 +192,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/813635177434579030><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d0e26e69d69afffa765f995028cb85c6401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神3.8# #清夏乐园大秘境# 亲爱的旅行者： 预下载功能现已在PC端和移动端开启。 移动端进行预下载，会提前下载部分新资源，加快版本更新后在登录界面的...](https://t.bilibili.com/813961156601315330)
+- [《原神》3.8版本「清夏！乐园？大秘境！」更新维护预告](https://t.bilibili.com/813952184424071187)
 - [恭喜@此生の爱@枍枔枝@游子意浮云等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/813635177434579030)
 - [恭喜@安若今明@青A宇@薄暮鸣钟等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/813635177173483536)
 - [#原神# #清夏乐园大秘境# 旅行者们好呀，限时区域「琉形蜃境」即将开放！请收下这封冒险邀请函，一起看看蜃境的奇妙之处吧~ *「琉形蜃境」仅在3.8版本期间开放，...](https://t.bilibili.com/813604262262079616)
-- [恭喜@月城Serene@纳塔第一深情@月光曲阜等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812893006831026177)
-- [恭喜@是四49啊@阿比盖尔的开锁匠@antalkaline等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/812893006828929044)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
