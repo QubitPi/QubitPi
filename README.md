@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [🔎 Find out the tools and processes we used to identify and fix some of the performance problems in a Node.js server for #GraphQL. Andrés Ortiz, So...](https://twitter.com/neo4j/status/1675912479988232197)
 - [Re @lyonwj](https://twitter.com/neo4j/status/1675860473776951296)
 - [Re @rotnroll666 @meistermeier Amazing 5 years and more to come. Congrats!🎉](https://twitter.com/neo4j/status/1675856852565782528)
 - [Geospatial data in #Neo4j 🌎 Join Will Lyion who covers some basic spatial Cypher functions, spatial search, routing algorithms, and different metho...](https://twitter.com/neo4j/status/1675855421645508608)
 - [Best of: Hamilton - Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1gqxvylMrVOJB](https://twitter.com/neo4j/status/1675772569025392644)
+- [During summer we will run a few best of episodes of Discovering AuraDB Free. Starting this week with #Hamilton data. Watch right here or on Youtube in...](https://twitter.com/neo4j/status/1675761401422393344)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
