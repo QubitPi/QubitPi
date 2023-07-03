@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1675718257947312136)
 - [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1675575819937144832)
 - [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1675551910982561792)
 - [We used Docker, Flask, Poetry, and D3.js to visualize a social network graph. Want to know how it&#39;s done? Take a look at our post 👇 https://memgrap...](https://twitter.com/memgraphdb/status/1675537819261972480)
 - [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1675531276193767424)
-- [Join #Memgraph #Discord community and engage in meaningful and useful conversations with other Memgraph developers and the Memgraph team. Have fun, as...](https://twitter.com/memgraphdb/status/1675491516112928769)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
