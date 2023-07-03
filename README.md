@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/813983078118588488><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8c0464d33747c4168dc3678b2a4e52c4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814006262352052272><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4310e6ace044c0fab99749d4d15a5c0b401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #序曲PV# #致终幕的欢宴# 《原神》序曲PV——「致终幕的欢宴」现已发布~ https://www.bilibili.com/video/BV1ss4y1k7CD 享受颠词倒序的歌咏， ...](https://t.bilibili.com/813983078118588488)
