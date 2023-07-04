@@ -235,11 +235,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [海的女儿丨主线第三十九章更新，参与获得活动圣痕等奖励](https://www.bh3.com/news/28156)
 - [律者降临，福利回馈丨七日登录领取扩充补给卡×5等奖励](https://www.bh3.com/news/28140)
 - [补给公告 | 「死生之律者」降临](https://www.bh3.com/news/28139)
 - [封号名单（2023年7月3日）](https://www.bh3.com/news/28141)
 - [超限解放丨全新超限武器开放锻造！](https://www.bh3.com/news/28138)
-- [重装小兔丨人偶补给开启](https://www.bh3.com/news/28142)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
