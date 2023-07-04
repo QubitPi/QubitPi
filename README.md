@@ -213,11 +213,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「诲韬诤言」艾尔海森表情包征集活动作品展示合集](https://bbs.mihoyo.com/ys/article/40933460)
+- [「红叶逐荒波」枫原万叶主题绘画活动作品展示合集](https://bbs.mihoyo.com/ys/article/40933422)
 - [「七圣召唤全民积分赛」3.7版本冠军图鉴](https://bbs.mihoyo.com/ys/article/40927442)
 - [原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！](https://bbs.mihoyo.com/ys/article/40925198)
 - [「清夏！乐园？大秘境！」玩法说明](https://bbs.mihoyo.com/ys/article/40922900)
-- [「燃斗无双」七圣召唤总决赛赛事回顾](https://bbs.mihoyo.com/ys/article/40906528)
-- [繁星丽天，孤怀寒芒](https://bbs.mihoyo.com/ys/article/40903236)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
