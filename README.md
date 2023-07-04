@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814348627082215553><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/58bcd2766845f199a4630c1dd8c50089401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814377347528523833><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a42d7e62273b8fd8bd68a0fe8681d831401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #天朗风清 绿色出行# #森林奇旅 寓梦筑林# #原神支付宝# 亲爱的旅行者，原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！ 活动周期：202...](https://t.bilibili.com/814348627082215553)
