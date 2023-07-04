@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814071056485580850><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2f710a106bad173801df1b36ae12b546401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814348627082215553><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/58bcd2766845f199a4630c1dd8c50089401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #菲米尼# ▌潜怀遐梦 · 菲米尼 繁星丽天，孤怀寒芒 ========== 「注意到了吗？白鸽从帽子里钻出来的时候，菲米尼的嘴角上扬了一丁点。我们应该...](https://t.bilibili.com/814071056485580850)
