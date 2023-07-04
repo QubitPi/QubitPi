@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1676187601651265538)
 - [📘 Looking for credible sources to apply graphs to your use case? Stay tuned as we explore the top 7 graph algorithm books! #GraphAlgorithms #Comput...](https://twitter.com/memgraphdb/status/1676164446425604097)
 - [💡 Enhance your understanding and application of graph algorithms with our recommended books and e-resources. #LearningResources #GraphAlgorithms #m...](https://twitter.com/memgraphdb/status/1676147836386177024)
 - [🐍 Facing challenges with #NetworkX? Memgraph can enhance your data persistence and large-scale data analytics without repetitive loading. #Python #...](https://twitter.com/memgraphdb/status/1676113865099100160)
 - [💡 Master graph analysis on subgraphs with Memgraph&#39;s graph projection feature – it&#39;s a game-changer for graph machine learning and more! #GraphPro...](https://twitter.com/memgraphdb/status/1676103296702898176)
-- [🌟 Dynamic algorithms in graph databases make IAM systems more flexible, allowing for easy updates and improved scalability. Boost your security tod...](https://twitter.com/memgraphdb/status/1676088700336316416)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
