@@ -293,9 +293,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Going Meta - Ep 18: Easy Full-Graph Migrations from Triple Stores to Neo4j](https://www.youtube.com/watch?v=9DDdFKVvZQc)
 - [Best of: Hamilton - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=xBFmwmMhKEo)
 - [Neo4j Live: Graph-Based Linguistics - Trailer #shorts](https://www.youtube.com/watch?v=x7_NgeWGqG8)
-- [Going Meta - a series on graphs, semantics and knowledge Ep 18](https://www.youtube.com/watch?v=9DDdFKVvZQc)
 - [Neo4j Live: Graph-Based Linguistics](https://www.youtube.com/watch?v=gky6ORe7tUk)
 - [Nickname Graph - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=G07yaaIrpTQ)
 <!-- NEO4J-YOUTUBE:END -->
