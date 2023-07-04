@@ -192,11 +192,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814377347528523833><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a42d7e62273b8fd8bd68a0fe8681d831401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@Kid-__-@与世若无悔@唉没戏了等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/814377347528523833)
 - [互动抽奖 #原神# #天朗风清 绿色出行# #森林奇旅 寓梦筑林# #原神支付宝# 亲爱的旅行者，原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！ 活动周期：202...](https://t.bilibili.com/814348627082215553)
 - [互动抽奖 #原神# #森林奇旅 寓梦筑林# 「森林奇旅 寓梦筑林」——原神×晨光奇只好玩×支付宝 网页活动已开启！ 欢迎旅行者前往评论区置顶链接参与「森林奇旅 寓...](https://t.bilibili.com/814346479592276000)
 - [#原神# #清夏乐园大秘境# 旅行者们好呀，「清夏！乐园？大秘境！」活动即将开启！一起来看看夏日乐园中有哪些游乐项目吧~](https://t.bilibili.com/814323222348562497)
 - [互动抽奖 #原神# #菲米尼# ▌潜怀遐梦 · 菲米尼 繁星丽天，孤怀寒芒 ========== 「注意到了吗？白鸽从帽子里钻出来的时候，菲米尼的嘴角上扬了一丁点。我们应该...](https://t.bilibili.com/814071056485580850)
-- [互动抽奖 #原神# #琳妮特# #丽影绮行# ▌丽影绮行 · 琳妮特 水中窥月，洞见夜明 ========== 「已经是这个月第五次了…唉，你还没记住不要惹琳妮特吗？」 ——深...](https://t.bilibili.com/814070347569561657)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
