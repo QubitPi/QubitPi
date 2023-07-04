@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Going Meta - a series on graphs, semantics and knowledge Ep 18 https://twitter.com/i/broadcasts/1dRJZMlXekmGB](https://twitter.com/neo4j/status/1676240742942126080)
-- [Meet us at WeAreDevelopers World Congress 2023 in Berlin 📍 Are you going?? Make sure to schedule a meeting with us to open new opportunities for co...](https://twitter.com/neo4j/status/1676236944961949698)
 - [Together with @BarrasaDV we are once again exploring the beautiful world of #KnowledgeGraph #semantics and #ontology - We are starting in a few hours:...](https://twitter.com/neo4j/status/1676214410103193602)
 - [Check out our job openings! These are some of the opportunities you can find. Learn more: https://okt.to/ZxkHj8 #Neo4j #LifeAtNeo4j #careers #JobOpeni...](https://twitter.com/neo4j/status/1675951818063638528)
 - [🔎 Find out the tools and processes we used to identify and fix some of the performance problems in a Node.js server for #GraphQL. Andrés Ortiz, So...](https://twitter.com/neo4j/status/1675912479988232197)
+- [Re @lyonwj](https://twitter.com/neo4j/status/1675860473776951296)
+- [Re @rotnroll666 @meistermeier Amazing 5 years and more to come. Congrats!🎉](https://twitter.com/neo4j/status/1675856852565782528)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
