@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🚨 Facing an emergency landing? Find the nearest airport quickly with Memgraph Lab! #EmergencyLanding #AirTravelSafety 🛬 #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1676262594171084806)
 - [👨‍💻 Memgraph&#39;s Label-Based Access Control offers granular permissions, from read-only to create and delete, ensuring a secure environment for y...](https://twitter.com/memgraphdb/status/1676254288375365633)
 - [🎵 Explore the impact of neighborly love on #Eurovision voting with graphs. Is it about the song or something more? @Eurovision #datainsights #graph...](https://twitter.com/memgraphdb/status/1676236169707659264)
 - [🏆 Which countries predicted Eurovision winners best? Analyze voting patterns and geopolitics with graph analytics! @Eurovision #graphs #bigdata #me...](https://twitter.com/memgraphdb/status/1676228873967509506)
 - [🔍 Uncover hidden connections between companies like @CDPROJEKTRED and @EA using powerful graph algorithms. Memgraph helps you find the most relevan...](https://twitter.com/memgraphdb/status/1676187601651265538)
+- [📘 Looking for credible sources to apply graphs to your use case? Stay tuned as we explore the top 7 graph algorithm books! #GraphAlgorithms #Comput...](https://twitter.com/memgraphdb/status/1676164446425604097)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
