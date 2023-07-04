@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Using #ChatGPT as a programming assistant can make us more productive than ever!! 👏🚀 @mesirii demonstrates how he used the bot to help create a ...](https://twitter.com/neo4j/status/1676320037030731777)
 - [Graph data science offers a fresh way to visualize and explore connections between your data. It also provides a meaningful new way to explain your fi...](https://twitter.com/neo4j/status/1676273971799498752)
 - [Going Meta - a series on graphs, semantics and knowledge Ep 18 https://twitter.com/i/broadcasts/1dRJZMlXekmGB](https://twitter.com/neo4j/status/1676240742942126080)
 - [Meet us at WeAreDevelopers World Congress 2023 in Berlin 📍 Are you going?? Make sure to schedule a meeting with us to open new opportunities for co...](https://twitter.com/neo4j/status/1676236944961949698)
 - [Together with @BarrasaDV we are once again exploring the beautiful world of #KnowledgeGraph #semantics and #ontology - We are starting in a few hours:...](https://twitter.com/neo4j/status/1676214410103193602)
-- [Check out our job openings! These are some of the opportunities you can find. Learn more: https://okt.to/ZxkHj8 #Neo4j #LifeAtNeo4j #careers #JobOpeni...](https://twitter.com/neo4j/status/1675951818063638528)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
