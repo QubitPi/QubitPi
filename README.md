@@ -192,11 +192,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814702038722019331><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b5a53740a5d336e2ff7bc3d8010a0d5a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [亲爱的旅行者，原神×晨光奇只好玩×支付宝「森林奇旅 寓梦筑林」环保合作正式开启啦！ [打call]](https://t.bilibili.com/814747122730532882)
 - [#原神# 亲爱的旅行者，《原神》3.8版本「清夏！乐园？大秘境！」QQ频道专属系列活动现已开启！ 欢迎旅行者前往评论区置顶链接参与活动~ 活动期间，加入《原神》...](https://t.bilibili.com/814719927013343264)
 - [#原神# 亲爱的旅行者，《原神》3.8版本「清夏！乐园？大秘境！」微信游戏圈专属活动现已开启！ 〓活动时间〓 2023年7月5日12:00 ~ 2023年8月15日23:59； 〓活动...](https://t.bilibili.com/814719561925394464)
 - [#原神# #原神游园奇遇征集活动# 亲爱的旅行者，《原神》「游园奇遇」乐园主题征集活动今日开启~ 神秘的瓶中世界？奇妙的夏日乐园！ 特别的冒险中，又会有怎样的...](https://t.bilibili.com/814718788841766934)
 - [互动抽奖 #原神# #芭芭拉# #生日快乐# 今天突然有很多人来教堂，说是有烦恼想要找我倾诉。 结果实际上却不是烦恼，大家都是来祝我生日快乐的。 我很开心哦。不止...](https://t.bilibili.com/814717612017582099)
-- [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.8版本内容招募活动「清夏！乐园？大秘境！」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自...](https://t.bilibili.com/814702038722019331)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
