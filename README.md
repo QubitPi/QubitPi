@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1676570874994933771)
+- [🚀 Overcome visualization limits with our platform! From interacting with nodes to customizable visuals, explore your data in a way that tells your ...](https://twitter.com/memgraphdb/status/1676550745053618177)
 - [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1676532624687349760)
 - [🛡️ Discover how to prevent cyberattacks by analyzing compromising patterns with #Memgraph! #Cybersecurity #memgraph #database #memgraphdb #graphda...](https://twitter.com/memgraphdb/status/1676526837344747522)
 - [🔄 Should you restart your database between benchmark runs? Discover the answer in our latest post. Also, share your Benchgraph results with us on @...](https://twitter.com/memgraphdb/status/1676514756369186816)
-- [💡 Harness the power of Memgraph&#39;s MAGE library for your graph data science needs. Explore optimized graph clustering algorithms for high-performanc...](https://twitter.com/memgraphdb/status/1676474743719960577)
-- [🧪 Dive into the world of graph algorithms with these insightful articles. Learn about Node2Vec, PageRank, and more! #graphalgorithms #memgraph #dat...](https://twitter.com/memgraphdb/status/1676465682718793728)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
