@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814702038722019331><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b5a53740a5d336e2ff7bc3d8010a0d5a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814719927013343264><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/182d770f803052c03d029edc608a4013401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，原神×晨光奇只好玩×支付宝「森林奇旅 寓梦筑林」环保合作正式开启啦！ [打call]](https://t.bilibili.com/814747122730532882)
