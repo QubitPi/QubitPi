@@ -213,11 +213,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [《原神》战绩 | 3.8版本更新一览](https://bbs.mihoyo.com/ys/article/40967712)
 - [「别野活动」参与打卡&amp;摄影分享活动，赢周边好礼~](https://bbs.mihoyo.com/ys/article/40956023)
 - [优菈壁纸｜「视野不错！登上高地，就能将周围的敌情尽收眼底。」](https://bbs.mihoyo.com/ys/article/40956015)
 - [芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！](https://bbs.mihoyo.com/ys/article/40956013)
 - [「诲韬诤言」艾尔海森表情包征集活动作品展示合集](https://bbs.mihoyo.com/ys/article/40933460)
-- [「红叶逐荒波」枫原万叶主题绘画活动作品展示合集](https://bbs.mihoyo.com/ys/article/40933422)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
