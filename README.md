@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814640208114876513><img align='right' src='https://i0.hdslb.com/bfs/article/9a7308d4f91f3da50eb18e6260818b00d81ba58a.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/814702038722019331><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b5a53740a5d336e2ff7bc3d8010a0d5a401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神UP主激励计划# 旅行者们大家好~ 《原神》3.8版本内容招募活动「清夏！乐园？大秘境！」现已开启，哔哩哔哩「百万创作者激励计划」也已同步启动。 自...](https://t.bilibili.com/814702038722019331)
