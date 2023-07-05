@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🤖 Unleash the power of C++ for graph analytics with Memgraph&#39;s new C++ API! No more memory worries - just code away! 🚀 #GraphDatabase #cpp #cplu...](https://twitter.com/memgraphdb/status/1676639074197667851)
+- [🚀 #NoSQL: A powerhouse for flexible data models, scalability, high performance but with a few drawbacks. How has NoSQL influenced your projects? #B...](https://twitter.com/memgraphdb/status/1676623100496969729)
 - [🔍 Uncover influential pages within a doc using PageRank algorithm. Creating your own Docs Recommendation System not only helps you find similar pag...](https://twitter.com/memgraphdb/status/1676598558252847104)
 - [🛠️ Choosing the right database is pivotal for your project&#39;s success. Discover the power of graph databases with DB-Engines! #DatabaseSelection #D...](https://twitter.com/memgraphdb/status/1676580186995712000)
 - [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1676570874994933771)
-- [🚀 Overcome visualization limits with our platform! From interacting with nodes to customizable visuals, explore your data in a way that tells your ...](https://twitter.com/memgraphdb/status/1676550745053618177)
-- [📈 Dive into a tutorial on analyzing real-time movie ratings using @redpandadata streaming &amp; Memgraph for graph data analysis. #MovieRatings #DataSt...](https://twitter.com/memgraphdb/status/1676532624687349760)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
