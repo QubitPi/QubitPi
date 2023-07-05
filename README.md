@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔍 Check out our analysis of the Yelp-Fraud dataset, a multi-relational graph for @Yelp Spam Review Detection! Learn how to use #GAT+JK to tackle im...](https://twitter.com/memgraphdb/status/1676443032474771460)
 - [🌊 Visualize the impact of undersea cable damages on global internet connectivity using dynamic betweenness centrality and Memgraph&#39;s MAGE. #GraphAl...](https://twitter.com/memgraphdb/status/1676296318363267092)
 - [🔍 Need help deciding between graph and relational databases? @DBEngines has got you covered! Check their comprehensive rankings and insights. #Data...](https://twitter.com/memgraphdb/status/1676278699124039688)
 - [🚨 Facing an emergency landing? Find the nearest airport quickly with Memgraph Lab! #EmergencyLanding #AirTravelSafety 🛬 #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1676262594171084806)
 - [👨‍💻 Memgraph&#39;s Label-Based Access Control offers granular permissions, from read-only to create and delete, ensuring a secure environment for y...](https://twitter.com/memgraphdb/status/1676254288375365633)
+- [🎵 Explore the impact of neighborly love on #Eurovision voting with graphs. Is it about the song or something more? @Eurovision #datainsights #graph...](https://twitter.com/memgraphdb/status/1676236169707659264)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
