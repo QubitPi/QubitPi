@@ -223,11 +223,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [3.8版本超话签到活动第一期](https://ys.mihoyo.com/main/news/detail/28163)
+- [《原神》「神铸赋形」活动祈愿现已开启，「双手剑·松籁响起之时」「法器·四风原典」概率UP！](https://ys.mihoyo.com/main/news/detail/28128)
+- [《原神》「闪焰的驻足」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/28127)
+- [《原神》「浪涌之瞬」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/28126)
 - [「清夏！乐园？大秘境！」3.8版本更新说明](https://ys.mihoyo.com/main/news/detail/28157)
-- [QQ小世界《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启](https://ys.mihoyo.com/main/news/detail/28155)
-- [微信视频号《原神》3.8版本直播激励活动即将开启](https://ys.mihoyo.com/main/news/detail/28154)
-- [小红书《原神》3.8版本笔记征集活动即将开启](https://ys.mihoyo.com/main/news/detail/28153)
-- [快手《原神》3.8版本视频征集&amp;直播招募活动即将开启](https://ys.mihoyo.com/main/news/detail/28152)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
