@@ -283,11 +283,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j Live: Graph-based Linguistics https://twitter.com/i/broadcasts/1YqKDoqRrEQxV](https://twitter.com/neo4j/status/1676603137090813952)
 - [Do you want to find out how to analyse argumention-based texts with #nlp #linguistics and #graph? Join our live stream in a few hours https://okt.to/V...](https://twitter.com/neo4j/status/1676577688306212865)
 - [RT Michael Simons: My talk from #TechWeek Romania in May about Neo4j-Migrations and general ramblings about scheme. https://www.youtube.com/watch?v=Zj...](https://twitter.com/rotnroll666/status/1676535388586770433)
 - [Using #ChatGPT as a programming assistant can make us more productive than ever!! 👏🚀 @mesirii demonstrates how he used the bot to help create a ...](https://twitter.com/neo4j/status/1676320037030731777)
 - [Graph data science offers a fresh way to visualize and explore connections between your data. It also provides a meaningful new way to explain your fi...](https://twitter.com/neo4j/status/1676273971799498752)
-- [Going Meta - a series on graphs, semantics and knowledge Ep 18 https://twitter.com/i/broadcasts/1dRJZMlXekmGB](https://twitter.com/neo4j/status/1676240742942126080)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
