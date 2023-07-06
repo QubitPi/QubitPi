@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1676942574957871110)
+- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1676933262826938369)
+- [🦈 Dive into analyzing infrastructure networks with dynamic betweenness centrality! Discover how rapid response to changes in streamed data can make...](https://twitter.com/memgraphdb/status/1676912377508265992)
 - [🌐 Efficiently analyze your organization&#39;s data landscape with Memgraph&#39;s dynamic graph analytics! Say goodbye to redundancies, improve reliability,...](https://twitter.com/memgraphdb/status/1676887714967310337)
 - [🔍 Detecting insurance fraud is challenging. But #MachineLearning, being adaptable &amp; powerful, is a potential game-changer. It evolves with data. Th...](https://twitter.com/memgraphdb/status/1676852734828347393)
-- [🔮 Discover the magic of #GraphNeuralNetworks for building recommendation systems in the world of telecommunications! Dive into #GNNs and #LinkPredi...](https://twitter.com/memgraphdb/status/1676838639794257920)
-- [🌐 Explore the global submarine internet cable network and learn how the loss of a connection can affect it using dynamic betweenness centrality in ...](https://twitter.com/memgraphdb/status/1676824293999616001)
-- [⚠️ Wondering when to move from a relational database to a graph database like Memgraph? If your application handles complex, interconnected data or ...](https://twitter.com/memgraphdb/status/1676813473689518080)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
