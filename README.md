@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔐 Discover how Memgraph implemented Label-Based Access Control to secure first-class graph citizens! Learn about authorization levels and how they ...](https://twitter.com/memgraphdb/status/1677167808604434433)
 - [🔑 Unraveling the versatility of Key-Value Databases. Offering flexibility and fast data retrieval, they are ideal for applications requiring rapid ...](https://twitter.com/memgraphdb/status/1677021091967950871)
 - [📊 Memgraph or Neo4j? Make an informed decision for your business by understanding their unique offerings. #GraphDatabaseComparison #BusinessDecisio...](https://twitter.com/memgraphdb/status/1677003477732425756)
 - [🧠 Learn how to build scalable knowledge graphs with #Memgraph! #KnowledgeGraph #memgraph #database #memgraphdb #graphdatabase https://memgraph.com/...](https://twitter.com/memgraphdb/status/1676985406426849285)
 - [🏎️ Speed up your real-time data processing with Memgraph! The fastest streaming analytics database utilizing in-memory storage for lightning-fast ...](https://twitter.com/memgraphdb/status/1676942574957871110)
+- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1676933262826938369)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
