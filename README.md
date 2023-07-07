@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Need an efficient solution for your NetworkX project? Our platform offers persistent in-memory data storage, custom algorithms, and powerful visu...](https://twitter.com/memgraphdb/status/1677224433981825026)
 - [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1677201026770784260)
 - [🔥 Power up your real-time data processing with Memgraph! Boost efficiency using in-memory storage and explore complex relationships in real-time. #...](https://twitter.com/memgraphdb/status/1677190458462666753)
 - [🔐 Discover how Memgraph implemented Label-Based Access Control to secure first-class graph citizens! Learn about authorization levels and how they ...](https://twitter.com/memgraphdb/status/1677167808604434433)
 - [🔑 Unraveling the versatility of Key-Value Databases. Offering flexibility and fast data retrieval, they are ideal for applications requiring rapid ...](https://twitter.com/memgraphdb/status/1677021091967950871)
+- [📊 Memgraph or Neo4j? Make an informed decision for your business by understanding their unique offerings. #GraphDatabaseComparison #BusinessDecisio...](https://twitter.com/memgraphdb/status/1677003477732425756)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
