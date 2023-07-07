@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Build C++ Graph Analytics effortlessly with the new Memgraph C++ API! Supercharge your pipeline without memory worries. #GraphAnalytics #cplusplu...](https://twitter.com/memgraphdb/status/1677304963255394304)
 - [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1677275517358071810)
 - [⚖️ Weighted graphs open up a world of optimization opportunities, from network routing to resource allocation. Unlock potential with graph search al...](https://twitter.com/memgraphdb/status/1677257399151861761)
 - [📚 Discover 42 fascinating graph articles perfect for your next reading session! Topics cover graph algorithms, streaming data, and more. #graphdata...](https://twitter.com/memgraphdb/status/1677251610450247680)
 - [🌐 Need an efficient solution for your NetworkX project? Our platform offers persistent in-memory data storage, custom algorithms, and powerful visu...](https://twitter.com/memgraphdb/status/1677224433981825026)
-- [🌍 Visualize Eurovision voting data on a map with #MemgraphLab! Discover how geography influences results. @Eurovision #datavisualization #graphdb #...](https://twitter.com/memgraphdb/status/1677201026770784260)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
