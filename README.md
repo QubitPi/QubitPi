@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [This is just a sneak peek of our next livestream -- get in and press &quot;Notify me&quot;! https://okt.to/OqRjHY #neo4j https://t.co/N7OZEPbGL7](https://twitter.com/neo4j/status/1677332764876570629)
 - [Have you visited the brand new #GraphAcademy landing? &#39;cause we are in love 😍 &lpar;our team rocks!&rpar; You can now easily find the info you need to become...](https://twitter.com/neo4j/status/1676999998712446990)
 - [RT Jason Koo: Great summary of ICIJ&#39;s use of Neo4j in their investigations. With a few quotes by @lyonwj! https://buff.ly/3JO5x9B](https://twitter.com/jalakoo/status/1676939050547068928)
 - [As we get closer to #NODES2023, @JMHReif makes a great recap of the 2022 #Java sessions that were presented by @DaschnerS, Chris Engelbert, @mkheck, D...](https://twitter.com/neo4j/status/1676931600435519490)
 - [RT Alexander Erdl: Are you playing @riotgames @TFT? You can improve your hero builds with #graph visualisations &amp; recommendations! Tune in on Tuesday:...](https://twitter.com/alexandererdl/status/1676863306458382336)
+- [Why @ICIJorg uses #Neo4j’s platform to analyze data? &quot;If you want to find oligarchs’ dirty money — or reveal connections hidden in any data — you ...](https://twitter.com/neo4j/status/1676697567982231560)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
