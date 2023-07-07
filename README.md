@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [📚 Dive into Memgraph MAGE&#39;s intuitive C++ API with extensive documentation and developer guides. Say goodbye to cognitive load! #Cpp #memgraph #dat...](https://twitter.com/memgraphdb/status/1677363849228427276)
-- [📄 Discover the agility of Document Databases, designed to manage semi-structured data. Perfect for complex data structures and offering powerful qu...](https://twitter.com/memgraphdb/status/1677349762192777222)
-- [🐘 Dive into the world of #PostgreSQL, the versatile open-source relational database. Understand its feature-rich capabilities, perfect for dynamic ...](https://twitter.com/memgraphdb/status/1677345983619821569)
-- [⏲️We are just a few minutes away from the community call on Querying #Memgraph through an #LLM. Our guest speaker is @villageideate. Join us using Z...](https://twitter.com/memgraphdb/status/1677345981447434240)
 - [🚀 Building a recommendation system using Memgraph is simpler than you think. #gamedevelopers #gamedev #recommendationsystems #memgraph #database #m...](https://twitter.com/memgraphdb/status/1677323335280017408)
+- [🚀 Build C++ Graph Analytics effortlessly with the new Memgraph C++ API! Supercharge your pipeline without memory worries. #GraphAnalytics #cplusplu...](https://twitter.com/memgraphdb/status/1677304963255394304)
+- [🌟 Boost your performance with #Memgraph in-memory architecture., an open-source graph database compatible with #Neo4j! ⚡ https://github.com/memgra...](https://twitter.com/memgraphdb/status/1677275517358071810)
+- [⚖️ Weighted graphs open up a world of optimization opportunities, from network routing to resource allocation. Unlock potential with graph search al...](https://twitter.com/memgraphdb/status/1677257399151861761)
+- [📚 Discover 42 fascinating graph articles perfect for your next reading session! Topics cover graph algorithms, streaming data, and more. #graphdata...](https://twitter.com/memgraphdb/status/1677251610450247680)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
