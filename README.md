@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Hey! More support in Spring Data Neo4j has been added to give the best experience when combined with Spring GraphQL. 👏👏 Gerrit Meier will guide ...](https://twitter.com/neo4j/status/1677663867382497281)
 - [Weekend Playlist ;&rpar; Debi Cabrera and Ben Lackey discuss about the power of graph databases and how they can help you find deeper insights through the ...](https://twitter.com/neo4j/status/1677346914973495296)
 - [This is just a sneak peek of our next livestream -- get in and press &quot;Notify me&quot;! https://okt.to/OqRjHY #neo4j https://t.co/N7OZEPbGL7](https://twitter.com/neo4j/status/1677332764876570629)
 - [Have you visited the brand new #GraphAcademy landing? &#39;cause we are in love 😍 &lpar;our team rocks!&rpar; You can now easily find the info you need to become...](https://twitter.com/neo4j/status/1676999998712446990)
 - [RT George Anadiotis: .@Neo4j recently announced new product features in collaboration with Google, as well as a new CPO from Google @shasbe We caught ...](https://twitter.com/linked_do/status/1676977788123766792)
-- [RT Jason Koo: Great summary of ICIJ&#39;s use of Neo4j in their investigations. With a few quotes by @lyonwj! https://buff.ly/3JO5x9B](https://twitter.com/jalakoo/status/1676939050547068928)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
