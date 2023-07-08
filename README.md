@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔍 Discover the power of #DataLineage Graphs to improve your organization&#39;s data management! Learn how Memgraph analytics can help you make better d...](https://twitter.com/memgraphdb/status/1677745867992776705)
-- [💡 DB-Engines is an invaluable resource for data professionals, offering rankings and insights for over 350 database systems. #DataProfessionals #Da...](https://twitter.com/memgraphdb/status/1677728252691984392)
-- [🛡️ Learn how to use #Memgraph to eliminate credit card fraud in real-time! 💳🚫 #FraudDetection #CreditCardFraud #memgraph #database #memgraph...](https://twitter.com/memgraphdb/status/1677709445105692672)
 - [📊#Graphs can expose unseen connections. Combining them with ML, we can create a powerful solution, exploiting hidden frauds. #AI #memgraph #databas...](https://twitter.com/memgraphdb/status/1677705601911083011)
 - [🔐 Learn how to build and scale modern IAM systems with #Memgraph! #IdentityManagement #AccessManagement #memgraph #database #memgraphdb #graphdatab...](https://twitter.com/memgraphdb/status/1677685720276664324)
+- [🌐 Explore the depth of directed graphs, perfect for modeling directional relationships - like social media follows or task dependencies. Level up y...](https://twitter.com/memgraphdb/status/1677675907039756288)
+- [🧠 Delve into the development process of the All Shortest Path algorithm for Memgraph and learn how it was optimized for speed! #UnderTheHood #Perfo...](https://twitter.com/memgraphdb/status/1677637905433370625)
+- [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1677619786124075008)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
