@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🧠 Delve into the development process of the All Shortest Path algorithm for Memgraph and learn how it was optimized for speed! #UnderTheHood #Perfo...](https://twitter.com/memgraphdb/status/1677637905433370625)
+- [⏱️ Don&#39;t waste time waiting for query results! Memgraph&#39;s C++ and in-memory implementation ensures fast and efficient queries for your cybersecurity...](https://twitter.com/memgraphdb/status/1677619786124075008)
+- [📞 See how GNNs can revolutionize the telecom industry by creating powerful recommendation systems for customers! #Telecommunications #DataScience #...](https://twitter.com/memgraphdb/status/1677612487733116928)
 - [🕵️‍♀️ Choosing a graph database? Consider more than just performance. Neo4j or Memgraph? Let&#39;s dive into the key differentiators. #DatabaseSele...](https://twitter.com/memgraphdb/status/1677601920133877761)
 - [🚄 Switch to a faster, more efficient graph algorithm environment without losing familiarity. Harness the power of our platform while keeping all yo...](https://twitter.com/memgraphdb/status/1677563417383542785)
-- [🎓 Graph databases offer model adaptability, scalability, and dynamic algorithms. Unleash the potential of your #knowledgegraphs with the right tech...](https://twitter.com/memgraphdb/status/1677552848303685634)
-- [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1677538248933928961)
-- [📏 Cosine similarity: a metric that captures similarity between vectors, offering value from -1 to 1. Understand how this tool is essential in text ...](https://twitter.com/memgraphdb/status/1677387760582139905)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
