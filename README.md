@@ -191,7 +191,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816201875405668500><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6f1a7cd8ac5e2982c9d237fb5ccfbb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816208734466342967><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/16bc4b54cec8468f22de9c7fa73fed60401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #卡维# #生日快乐# 欸？怎么到我们家来了，我记得离大家约定的聚餐时间还有一会儿吧？ 看镜头？哦对…教令院那边好像提过作为客座教授回院里讲...](https://t.bilibili.com/816201875405668500)
