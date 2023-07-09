@@ -215,11 +215,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [【幕间趣闻】米游社七圣召唤积分赛趣味成就盘点——第二期！](https://bbs.mihoyo.com/ys/article/41093931)
+- [卡维生日快乐｜生日这天拍照留念什么的，似乎也不错呢。](https://bbs.mihoyo.com/ys/article/41092123)
 - [【幕间趣闻】米游社七圣召唤积分赛淘汰赛阶段数据&amp;手牌介绍](https://bbs.mihoyo.com/ys/article/41068271)
 - [「七圣召唤全民积分赛」3.8版本赛事日历](https://bbs.mihoyo.com/ys/article/41000211)
 - [「七圣召唤全民积分赛」3.8版本赛事报名启动！](https://bbs.mihoyo.com/ys/article/40997420)
-- [「影幻杯」七圣召唤公开赛新赛道发布](https://bbs.mihoyo.com/ys/article/40997347)
-- [《原神》3.8版本社区内容一览（持续更新）](https://bbs.mihoyo.com/ys/article/40968846)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
