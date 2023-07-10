@@ -249,11 +249,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Google at ACL 2023](http://ai.googleblog.com/2023/07/google-at-acl-2023.html)
 - [Modular visual question answering via code generation](http://ai.googleblog.com/2023/07/modular-visual-question-answering-via.html)
 - [Pic2Word: Mapping pictures to words for zero-shot composed image retrieval](http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html)
 - [Announcing the first Machine Unlearning Challenge](http://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 - [On-device diffusion plugins for conditioned text-to-image generation](http://ai.googleblog.com/2023/06/on-device-diffusion-plugins-for.html)
-- [Unifying image-caption and image-classification datasets with prefix conditioning](http://ai.googleblog.com/2023/06/unifying-image-caption-and-image.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
