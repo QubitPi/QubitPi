@@ -194,11 +194,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816603858592596065><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8c0464d33747c4168dc3678b2a4e52c4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@你别扒拉我啦@憨厚的玉米@三元生一等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816603858592596065)
 - [互动抽奖 #原神# #森林奇旅 寓梦筑林# #原神晨光奇只好玩# 亲爱的旅行者， 旅行者们在原神x支付宝主题活动中通过绿色出行实现的碳减排已累计达到20000吨，相当于...](https://t.bilibili.com/816208734466342967)
 - [互动抽奖 #原神# #卡维# #生日快乐# 欸？怎么到我们家来了，我记得离大家约定的聚餐时间还有一会儿吧？ 看镜头？哦对…教令院那边好像提过作为客座教授回院里讲...](https://t.bilibili.com/816201875405668500)
 - [亲爱的旅行者，原神×晨光奇只好玩×支付宝「森林奇旅 寓梦筑林」环保合作正式开启啦！ [打call]](https://t.bilibili.com/814747122730532882)
 - [#原神# 亲爱的旅行者，《原神》3.8版本「清夏！乐园？大秘境！」QQ频道专属系列活动现已开启！ 欢迎旅行者前往评论区置顶链接参与活动~ 活动期间，加入《原神》...](https://t.bilibili.com/814719927013343264)
-- [#原神# 亲爱的旅行者，《原神》3.8版本「清夏！乐园？大秘境！」微信游戏圈专属活动现已开启！ 〓活动时间〓 2023年7月5日12:00 ~ 2023年8月15日23:59； 〓活动...](https://t.bilibili.com/814719561925394464)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
