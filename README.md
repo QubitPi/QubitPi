@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎨 Visualize your results with Semantic UI React and effortlessly manage frontend data fetching in your GQLAlchemy-powered app 📈 #SemanticUIReact...](https://twitter.com/memgraphdb/status/1678288190099140609)
+- [💡 Want to contribute to an innovative #OpenSource project? Memgraph&#39;s @github repo is waiting for your skills! https://github.com/memgraph/memgraph...](https://twitter.com/memgraphdb/status/1678273848548966401)
 - [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1678254974382358528)
 - [🔥 Calling all #developers with a passion for #GraphDatabases! Jump in and join our thriving community at @github! 🌟 [https://github.com/memgraph...](https://twitter.com/memgraphdb/status/1678112533570363397)
 - [🧠 Unpack the key concepts, common techniques, and real-world applications of graph clustering with k-means clustering, hierarchical clustering, and...](https://twitter.com/memgraphdb/status/1678088625353900035)
-- [🛠️ Configure your database recovery like never before! With Memgraph&#39;s new flags, determine your thread count and parallel index recovery. Power t...](https://twitter.com/memgraphdb/status/1678074534753075202)
-- [🚀 Learn how to build robust applications using GQLAlchemy! This tutorial shows you how to create a part of a @Twitch analytics app 🎮 #GQLAlchemy...](https://twitter.com/memgraphdb/status/1678067988702846981)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
