@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [The second round of #GraphSummit2023 is around the corner! 👉Meet graph expert 👉Hear customer stories 👉Learn how graphs can help you uncover h...](https://twitter.com/neo4j/status/1678449077606916121)
 - [Take a moment to check our July Demo agenda for an EMEA-friendly timezone :&rpar; 🌎 Check them out and register here: https://okt.to/hJA0QP This is the ...](https://twitter.com/neo4j/status/1678403947223023616)
 - [Best of: London Underground - Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1mrGmkaPpjVxy](https://twitter.com/neo4j/status/1678403670910672898)
 - [We continue with our #bestof on #auradb with @mesirii - This week we explore @TfL #tube 🚇 network as a graph: https://okt.to/nKVwip #london #underg...](https://twitter.com/neo4j/status/1678373593275846656)
 - [Hey! More support in Spring Data Neo4j has been added to give the best experience when combined with Spring GraphQL. 👏👏 Gerrit Meier will guide ...](https://twitter.com/neo4j/status/1677663867382497281)
+- [Weekend Playlist ;&rpar; Debi Cabrera and Ben Lackey discuss about the power of graph databases and how they can help you find deeper insights through the ...](https://twitter.com/neo4j/status/1677346914973495296)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
