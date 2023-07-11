@@ -225,11 +225,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [原神☆FES｜跨越尘世 于此相聚](https://ys.mihoyo.com/main/news/detail/28256)
+- [原神☆FES 活动PV](https://ys.mihoyo.com/main/news/detail/28255)
 - [卡维生日快乐｜生日这天拍照留念什么的，似乎也不错呢。](https://ys.mihoyo.com/main/news/detail/28234)
 - [《原神》3.8版本QQ频道专属系列活动现已开启](https://ys.mihoyo.com/main/news/detail/28204)
 - [《原神》3.8版本微信游戏圈专属活动现已开启](https://ys.mihoyo.com/main/news/detail/28203)
-- [「游园奇遇」乐园主题征集](https://ys.mihoyo.com/main/news/detail/28202)
-- [芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！](https://ys.mihoyo.com/main/news/detail/28165)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
