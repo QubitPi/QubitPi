@@ -191,7 +191,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816603858592596065><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8c0464d33747c4168dc3678b2a4e52c4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816974943765921952><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/14e90b90a6ab418b32b27f2054403ece401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@你别扒拉我啦@憨厚的玉米@三元生一等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816603858592596065)
