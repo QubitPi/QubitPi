@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🧩 ACID transactions play a crucial role in ensuring data integrity in databases. Atomicity, Consistency, Isolation, and Durability are key pillars ...](https://twitter.com/memgraphdb/status/1678684554020769792)
 - [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1678650579080421378)
 - [📚 Navigate documentation like a pro with your own Docs Recommendation System! Using AI, it helps you decide the best next page to visit, making lea...](https://twitter.com/memgraphdb/status/1678640008645812224)
 - [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1678625412253884418)
 - [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1678474923637874694)
+- [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1678451015442472964)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
