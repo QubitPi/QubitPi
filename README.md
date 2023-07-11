@@ -194,11 +194,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816974943765921952><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/14e90b90a6ab418b32b27f2054403ece401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [恭喜@你别扒拉我啦@憨厚的玉米@三元生一等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816603858592596065)
-- [互动抽奖 #原神# #森林奇旅 寓梦筑林# #原神晨光奇只好玩# 亲爱的旅行者， 旅行者们在原神x支付宝主题活动中通过绿色出行实现的碳减排已累计达到20000吨，相当于...](https://t.bilibili.com/816208734466342967)
-- [互动抽奖 #原神# #卡维# #生日快乐# 欸？怎么到我们家来了，我记得离大家约定的聚餐时间还有一会儿吧？ 看镜头？哦对…教令院那边好像提过作为客座教授回院里讲...](https://t.bilibili.com/816201875405668500)
-- [亲爱的旅行者，原神×晨光奇只好玩×支付宝「森林奇旅 寓梦筑林」环保合作正式开启啦！ [打call]](https://t.bilibili.com/814747122730532882)
-- [#原神# 亲爱的旅行者，《原神》3.8版本「清夏！乐园？大秘境！」QQ频道专属系列活动现已开启！ 欢迎旅行者前往评论区置顶链接参与活动~ 活动期间，加入《原神》...](https://t.bilibili.com/814719927013343264)
+- [恭喜@人家想吃烤鱼@成某人-87岁下饭对抗@鱼皮花笙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943765921952)
+- [恭喜@坂月柒@吸管不要G@羽翼sang等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943763824865)
+- [恭喜@九温瞳@糖糖醉醉@社死的白等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943763824835)
+- [互动抽奖 #原神# #原神fes# 原神☆FES 活动PV 现已发布~ https://www.bilibili.com/video/BV1W8411D7J3 “派蒙，快打起精神来，新朋友老朋友都在赶来的路上啦~”...](https://t.bilibili.com/816947116672811030)
+- [互动抽奖 #原神# #原神fes# “派蒙，快打起精神来，新朋友老朋友都在赶来的路上啦~” 原神☆FES将于8月在上海举办，更多活动细节后续将会陆续公布，敬请期待。 ...](https://t.bilibili.com/816945394374148114)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
