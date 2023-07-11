@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Supercharge your real-time analytics using Memgraph and Apache Kafka! Experience a powerful duo for processing massive data streams and gaining v...](https://twitter.com/memgraphdb/status/1678625412253884418)
 - [🚀 Boost your Knowledge Graph game with Pykg2vec! A versatile #Python package for graph embedding algorithms and pipeline building. @TensorFlow @PyT...](https://twitter.com/memgraphdb/status/1678474923637874694)
 - [🏗️ Leverage technical data lineage to boost your organization&#39;s data infrastructure! Uncover critical nodes, redundant parts, and monitor sensitiv...](https://twitter.com/memgraphdb/status/1678451015442472964)
 - [🐍 Dive into cosine similarity with Python and @scikit_learn! Discover how this powerful tool aids in machine learning, NLP, and info retrieval. #Py...](https://twitter.com/memgraphdb/status/1678434818965553153)
 - [🕵️‍♂️ Unveil connections between accounts linked to fraudulent activities with pattern matching in #GraphDatabases like Memgraph. #FraudDetecti...](https://twitter.com/memgraphdb/status/1678410498289676288)
-- [🚀 Get ready for training with our step-by-step guide to initializing, training, and predicting node classes with #GraphML! Learn from real-world us...](https://twitter.com/memgraphdb/status/1678392127401738240)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
