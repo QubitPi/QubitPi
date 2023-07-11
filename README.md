@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 End-to-end system monitoring with Memgraph and @PrometheusIO, enabling proactive issue detection and historical tracking of system metrics. #Syst...](https://twitter.com/memgraphdb/status/1678833032734601225)
+- [🗂️ Explore the world of #NoSQL databases: offering flexibility, scalability, and high performance, these databases are perfect for modern apps. #D...](https://twitter.com/memgraphdb/status/1678815414044721192)
 - [📊 Exploring the integration of Memgraph and @PrometheusIO, a powerful duo for real-time database performance monitoring. #DatabaseMonitoring #Prome...](https://twitter.com/memgraphdb/status/1678799309699940352)
 - [🔧 Learn about the challenges and solutions we faced when implementing the graph projection feature in Memgraph! #FeatureDesign #memgraph #database ...](https://twitter.com/memgraphdb/status/1678791005707829250)
 - [🌍 MIT License Variations: From Expat License, MIT-0, to JSON License and X11 License. Each serves unique purposes, providing tailored solutions to ...](https://twitter.com/memgraphdb/status/1678772887438917633)
-- [🧩 Discover the utility of different graph types - Directed, Undirected, Weighted, Bipartite, Cyclic, &amp; Acyclic. The right choice can enhance effici...](https://twitter.com/memgraphdb/status/1678765586950807555)
-- [🧠 Run graph analysis algorithms on subgraphs with ease using Memgraph&#39;s graph projection feature! Explore the power of the project&lpar;&rpar; function. #Gra...](https://twitter.com/memgraphdb/status/1678724316253368321)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
