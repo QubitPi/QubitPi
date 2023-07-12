@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [#Neo4j Graph Data Science has just unleashed a collection of innovative algorithms that can solve some pain points. Join @alison_cossette as she shows...](https://twitter.com/neo4j/status/1679143929151918082)
+- [#NODES2023 is the biggest online conference dedicated to leveraging connections in data through #graphtechnology. It&#39;s a 24-hour ⏲ FREE online confer...](https://twitter.com/neo4j/status/1679129356545806341)
 - [Creating a #KnowledgeGraph From Video Transcripts With GPT-4 🔥 Instead of labeling a dataset and training a custom model, Tomaz Bratanic uses GPT-4...](https://twitter.com/neo4j/status/1678869040037605381)
 - [💡GET CERTIFIED! Take the @Neo4j Certified Professional exam, and you’ll be done in less than an hour! AND IT&#39;S FREE!--&gt; https://okt.to/HOe2yk #Neo...](https://twitter.com/neo4j/status/1678794046981001222)
 - [Neo4j Live: GraphTFT &lpar;Teamfight Tactics&rpar; @graphtft https://twitter.com/i/broadcasts/1ZkKzXbZbVaJv](https://twitter.com/neo4j/status/1678672143629045762)
-- [In just about an hour we are optimising @riotgames @tft hero builds with @graphtft powered by #graph viz and recommendations in our live stream! Tune ...](https://twitter.com/neo4j/status/1678660557363200001)
-- [The second round of #GraphSummit2023 is around the corner! 👉Meet graph expert 👉Hear customer stories 👉Learn how graphs can help you uncover h...](https://twitter.com/neo4j/status/1678449077606916121)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
