@@ -194,11 +194,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817346024635891960><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b62937d2e6b06e70aae0f4d04331fc5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [旅行者们大家好，BilibiliWorld2023 原神展台的活动详情来啦! 一起来看看吧~[原神_哇]](https://t.bilibili.com/817411643156725764)
 - [恭喜@咸进骨子的老咸鱼@ToRUEly@瑶波啵啵等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/817346024635891960)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/817315259794587684)
 - [恭喜@人家想吃烤鱼@成某人-87岁下饭对抗@鱼皮花笙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943765921952)
 - [恭喜@坂月柒@吸管不要G@羽翼sang等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943763824865)
-- [恭喜@九温瞳@糖糖醉醉@社死的白等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943763824835)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
