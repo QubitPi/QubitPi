@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/816974943765921952><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/14e90b90a6ab418b32b27f2054403ece401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817315259794587684><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fc7f47c02afbc5a84193c47efbd905ea1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@人家想吃烤鱼@成某人-87岁下饭对抗@鱼皮花笙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943765921952)
