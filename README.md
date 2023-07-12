@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1679107589005774854)
-- [🔐 Enhance your graph database performance with effective data modeling! Avoid pitfalls like data duplication and complex queries. #DataModeling #Gr...](https://twitter.com/memgraphdb/status/1679087460012138497)
-- [📊 Pros &amp; cons of #SQL databases: Structure, powerful querying, ACID compliance but with limited flexibility, scalability challenges, and cost. What...](https://twitter.com/memgraphdb/status/1679069337791913984)
 - [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1679063549266493440)
 - [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1679051470073655296)
+- [🚀 Explore how Memgraph&#39;s in-memory graph database simplifies the creation of #KnowledgeGraphs, enabling fast &amp; efficient decision-making for busine...](https://twitter.com/memgraphdb/status/1679011458615504898)
+- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1679002398994358273)
+- [🧠 Understanding the key differences between #SQL and #NoSQL is essential in today&#39;s data-driven world. Get to grips with your data management strat...](https://twitter.com/memgraphdb/status/1678979749723381762)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
