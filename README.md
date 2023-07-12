@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [📚 Dive into the depths of database recovery and how Memgraph optimizes the process with parallel processing! It&#39;s a balancing act between speed and...](https://twitter.com/memgraphdb/status/1679135273353981955)
-- [🎉 Explore Memgraph MAGE&#39;s easy-to-use, high-performance graph API. Develop powerful graph analytics in C++ or Python. #DataScience #memgraph #datab...](https://twitter.com/memgraphdb/status/1679116900666580994)
 - [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1679107589005774854)
 - [🔐 Enhance your graph database performance with effective data modeling! Avoid pitfalls like data duplication and complex queries. #DataModeling #Gr...](https://twitter.com/memgraphdb/status/1679087460012138497)
 - [📊 Pros &amp; cons of #SQL databases: Structure, powerful querying, ACID compliance but with limited flexibility, scalability challenges, and cost. What...](https://twitter.com/memgraphdb/status/1679069337791913984)
+- [📊 Analyzing the @BitClout network 🌐 with graph algorithms! PageRank and Louvain method reveal valuable insights into HODLers and content creator...](https://twitter.com/memgraphdb/status/1679063549266493440)
+- [🌟 Discover the top content creators on @BitClout! 🚀 We used PageRank &amp; Louvain method for insights. Who&#39;s got the most HODLers? Find out now! #B...](https://twitter.com/memgraphdb/status/1679051470073655296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
