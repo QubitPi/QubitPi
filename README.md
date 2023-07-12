@@ -190,7 +190,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817315259794587684><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fc7f47c02afbc5a84193c47efbd905ea1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817346024635891960><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/4b62937d2e6b06e70aae0f4d04331fc5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [[原神_哇][原神_哇]](https://t.bilibili.com/817315259794587684)
