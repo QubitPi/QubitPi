@@ -194,11 +194,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817686181744476196><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b428820b8ee4ba3919a395158b13eac8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：万能向导 即将开启~ 〓特殊规则〓 ● 在本次「热斗模式」下，投掷阶段不再投掷元素骰，直接获得8个「万...](https://t.bilibili.com/817686181744476196)
 - [旅行者们大家好，BilibiliWorld2023 原神展台的活动详情来啦! 一起来看看吧~[原神_哇]](https://t.bilibili.com/817411643156725764)
 - [恭喜@咸进骨子的老咸鱼@ToRUEly@瑶波啵啵等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/817346024635891960)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/817315259794587684)
 - [恭喜@人家想吃烤鱼@成某人-87岁下饭对抗@鱼皮花笙等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943765921952)
-- [恭喜@坂月柒@吸管不要G@羽翼sang等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/816974943763824865)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
