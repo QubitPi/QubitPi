@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1679479290193223681)
 - [📈 Visualize and analyze your IAM data in a new light with Memgraph Lab. Uncover patterns, identify vulnerabilities, and maintain a healthy, secure ...](https://twitter.com/memgraphdb/status/1679469977148030978)
 - [💡 Memgraph offers a straightforward way to migrate your old CSV data into a graph database with the LOAD CSV clause. Step into the future of IAM sy...](https://twitter.com/memgraphdb/status/1679449091602776064)
 - [🔑 Frustrated with antiquated Identity and Access Management &lpar;IAM&rpar; systems? Learn how you can transform IAM with graph databases like Memgraph for r...](https://twitter.com/memgraphdb/status/1679424427652526080)
 - [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1679389447136190465)
-- [💡 Discover how to tackle fraud detection in the insurance industry with our artificial heterogeneous graph dataset! See how #NodeClassification can...](https://twitter.com/memgraphdb/status/1679375355344216064)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
