@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1679361011940245504)
-- [🧠 Unleash the power of Temporal Graph Neural Networks with @PyTorch and create recommendation engines on @Amazon datasets! #PyTorch #GNNs #Recommen...](https://twitter.com/memgraphdb/status/1679350188475817985)
 - [🎯 Discover how to predict customer behavior &amp; make accurate product recommendations with #Memgraph! #RecommendationEngine #memgraph #database #memg...](https://twitter.com/memgraphdb/status/1679199699964936197)
 - [🔗 Discover how to use #Memgraph for reliable #DataLineage and prevent data misuse! 📊🔒 #DataManagement #memgraph #database #memgraphdb #graphd...](https://twitter.com/memgraphdb/status/1679175789441617922)
 - [🔥 Discover the power of MAGE C++ API! High-performance graph handling with a smooth, human-friendly interface. #MAGE #API #cplusplus #cpp #memgraph...](https://twitter.com/memgraphdb/status/1679159655690321924)
+- [📚 Dive into the depths of database recovery and how Memgraph optimizes the process with parallel processing! It&#39;s a balancing act between speed and...](https://twitter.com/memgraphdb/status/1679135273353981955)
+- [🎉 Explore Memgraph MAGE&#39;s easy-to-use, high-performance graph API. Develop powerful graph analytics in C++ or Python. #DataScience #memgraph #datab...](https://twitter.com/memgraphdb/status/1679116900666580994)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
