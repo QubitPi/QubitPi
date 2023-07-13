@@ -191,7 +191,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817411643156725764><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d3855b5f2f5b6b1427c093754f603e6f1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817686181744476196><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b428820b8ee4ba3919a395158b13eac8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [旅行者们大家好，BilibiliWorld2023 原神展台的活动详情来啦! 一起来看看吧~[原神_哇]](https://t.bilibili.com/817411643156725764)
