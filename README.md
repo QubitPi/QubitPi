@@ -237,11 +237,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
-- [时间胶囊丨服装「水色流韵」、「谬惑深蓝」限时返场](https://www.bh3.com/news/28265)
 - [天元骑英| 进阶补给限时开启](https://www.bh3.com/news/28263)
 - [封号名单（2023年7月10日）](https://www.bh3.com/news/28254)
 - [「生死娑婆」6.8版本更新公告](https://www.bh3.com/news/28223)
 - [《崩坏3》6.8版本维护通知、新活动预告](https://www.bh3.com/news/28225)
+- [终末协理0017 | SP角色补给限时开启](https://www.bh3.com/news/28211)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 ---
