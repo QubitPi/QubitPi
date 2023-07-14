@@ -353,5 +353,3 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [5 Mistakes I Made When Starting My First React Project](https://css-tricks.com/5-mistakes-starting-react/)
 - [Creating a Clock with the New CSS sin&lpar;&rpar; and cos&lpar;&rpar; Trigonometry Functions](https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/)
 <!-- CSS-TRIKCS:END -->
-
-<a href="https://leetcode.com/_Jack_/"><img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="47%"></a>
