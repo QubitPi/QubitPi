@@ -15,8 +15,6 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 
 [![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)](https://www.bilibili.com/video/BV1BK4y1D7Ji)
 
-<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
-
 <div align="center">
 
 <img width="64px" src="https://user-images.githubusercontent.com/16126939/185549037-0ecd8d29-a3bc-4aa2-855f-7bd8be51ed93.png">&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1Dy4y1t7Mf/"><img width="64px" src="https://user-images.githubusercontent.com/16126939/174438007-b9adae25-baf8-42a7-bf39-83786435d397.gif"></a>
@@ -51,6 +49,8 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 > <br>
 > <br>
 > This page is also dedicated to my former colleague [Rick Jensen](https://github.com/cdeszaq), my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
+
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
 
 My Open Source Portfolio
 ------------------------
