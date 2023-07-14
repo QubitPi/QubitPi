@@ -337,8 +337,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [Emacs xref stopped working on Macs with dumb-jump](https://martinfowler.com/articles/2023-xref-problem.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/16126939/189516466-196adc59-93dc-48c1-b05d-82c5b0099bdd.png">
-
 #### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
