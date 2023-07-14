@@ -21,12 +21,6 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 
 <img align="center" width="100%" alt="personal-statement" src="https://github.com/QubitPi/QubitPi/assets/16126939/43710671-236d-4a99-b1ae-3687c3352ef3">
 
-<!-- <div align="right">
-<a href="https://www.youtube.com/live/Ycaiy_2InSs">
-    <img align="right" width="400" alt="I Love China" src="https://github.com/QubitPi/QubitPi/assets/16126939/f2ce3160-f52e-429f-82b8-7fb891951be2">
-</a>
-</div> -->
-
 <div align="left">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
@@ -41,9 +35,6 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
 
-[![](https://img.shields.io/badge/NO-VIM-red?style=for-the-badge)](https://github.com/emacs-evil/evil) [![](https://img.shields.io/badge/EMACS-brightgreen?style=for-the-badge&logoColor=white&logo=GitHub%20Sponsors)](https://www.gnu.org/software/emacs/) ![](https://img.shields.io/badge/F**K-TENCENT-black?style=for-the-badge) 
-
-</br>
 </div>
 
 ><a href="https://www.bilibili.com/video/BV1Ca411Q7aK?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
