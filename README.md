@@ -4,6 +4,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
 <a href="https://www.bilibili.com/video/BV1U14y1h7UE"><img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/></a>
 
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
+
 _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 ======================================================================
 
@@ -58,8 +60,6 @@ My Open Source Portfolio
 <img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/2fd26e42-cfdc-41cd-b912-cf23103e1c54'>
  
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
-
-[![Image of https://github.com/QubitPi/github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/QubitPi/github-profile-views-counter)
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
     
