@@ -34,46 +34,6 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_lines: yes
-      
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: QubitPi
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics-achievements.svg
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-
-      - name: Commit History
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: QubitPi
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics-commits-history.svg
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-          
-      - name: Current Year Commits History
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: QubitPi
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics-current-year-commits-history.svg
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       - name: Issue & PR & Habits
         uses: lowlighter/metrics@latest
@@ -95,40 +55,6 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_trim: no
           plugin_habits_languages_limit: 8
-
-      - name: Star Lists - Data & Knowledge Graph
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: QubitPi
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics-starlists-data.svg
-          plugin_starlists: yes
-          plugin_starlists_limit: 100
-          plugin_starlists_limit_repositories: 100
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 100
-          plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_only: Data, Knowledge Graph, GraphQL, ML & AI
-          
-      - name: Star Lists - Others
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: QubitPi
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          filename: github-metrics-starlists-others.svg
-          plugin_starlists: yes
-          plugin_starlists_limit: 100
-          plugin_starlists_limit_repositories: 100
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 100
-          plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_only: Design, Documentation, OpenStack & Virtualization
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
