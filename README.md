@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1679737741632831489)
+- [🌐 Unveil the power of graph databases when you have tightly linked nodes. Create efficient models for better performance. #GraphDatabase #DataModel...](https://twitter.com/memgraphdb/status/1679727174725648387)
 - [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1679704526347968514)
 - [💡 Explore Memgraph MAGE and find out how you can create custom query modules for your own graph algorithms! #MemgraphMAGE #GraphQuery #memgraph #da...](https://twitter.com/memgraphdb/status/1679557807157157910)
 - [🚀 Upgrade your IAM systems! Move from tabular solutions to graph solutions with Memgraph, making data import, analysis, and decision-making drastic...](https://twitter.com/memgraphdb/status/1679540192313499663)
-- [🚀 Discover how to find all weighted shortest paths in graphs and do it fast with our latest algorithm! #GraphAlgorithms #ShortestPath #memgraph #da...](https://twitter.com/memgraphdb/status/1679522122387931139)
-- [🔗 Unveil the potential of link prediction modules like DotPredictor and MLPPredictor to predict links between nodes and create amazing products! #G...](https://twitter.com/memgraphdb/status/1679479290193223681)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
