@@ -190,7 +190,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818057554938560545><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f05827898dba1b59fda6e15a0b9b1b31401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818088199273316360><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/58bcd2766845f199a4630c1dd8c50089401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #九条裟罗# #生日快乐# 你来了，请进，我在进行今日例行的弓术训练。 呼…再练两箭，训练就结束了，请稍等一会。 ——为什么一定要射满五支箭？...](https://t.bilibili.com/818057554938560545)
