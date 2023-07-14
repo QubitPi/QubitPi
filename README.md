@@ -67,6 +67,10 @@ My Open Source Portfolio
 <img width='100%' align='center' src='https://github.com/QubitPi/QubitPi/assets/16126939/2fd26e42-cfdc-41cd-b912-cf23103e1c54'>
  
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
+
+<img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
+<br>
+<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
     
 ### Creator
 
@@ -353,9 +357,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 Git Data Analytics - Everything is Datable
 ------------------------------------------
 
-<img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
-<br>
-<img align="left" src="/github-metrics-achievements.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-commits-history.svg" alt="Metrics" width="47%">
+
 <br>
 <br>
 <br>
