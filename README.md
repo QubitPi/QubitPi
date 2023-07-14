@@ -189,7 +189,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/817686181744476196><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b428820b8ee4ba3919a395158b13eac8401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818057554938560545><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f05827898dba1b59fda6e15a0b9b1b31401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #七圣召唤# 亲爱的旅行者，「七圣召唤」热斗模式：万能向导 即将开启~ 〓特殊规则〓 ● 在本次「热斗模式」下，投掷阶段不再投掷元素骰，直接获得8个「万...](https://t.bilibili.com/817686181744476196)
