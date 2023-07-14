@@ -214,11 +214,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [九条裟罗生日快乐｜你来了，请进，我在进行今日例行的弓术训练。](https://bbs.mihoyo.com/ys/article/41257506)
 - [《原神》确认参展BilibiliWorld2023！](https://bbs.mihoyo.com/ys/article/41202094)
 - [「影幻外卡赛」报名通道将于7月14日开启！](https://bbs.mihoyo.com/ys/article/41200597)
 - [【阿姬说赛事第一期】七圣召唤赛事精彩对局瞬间](https://bbs.mihoyo.com/ys/article/41192175)
 - [原神☆FES｜跨越尘世 于此相聚](https://bbs.mihoyo.com/ys/article/41160363)
-- [原神☆FES 活动PV](https://bbs.mihoyo.com/ys/article/41159964)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
