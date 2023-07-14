@@ -4,12 +4,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
 <a href="https://www.bilibili.com/video/BV1U14y1h7UE"><img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/></a>
 
-
-
-_[Open Innovation](https://github.com/stealth-tech-startup)_ as Career <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
+_[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 ======================================================================
-
 </div>
+
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
 
 [![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)](https://www.bilibili.com/video/BV1BK4y1D7Ji)
 
