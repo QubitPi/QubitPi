@@ -6,8 +6,6 @@
 
 </div>
 
-<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
-
 <div align="center">
  
 _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
@@ -16,6 +14,8 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
 </div>
 
 [![可莉-wide](https://user-images.githubusercontent.com/16126939/174437781-90b4808c-3033-470f-a286-7a174810fe2e.png)](https://www.bilibili.com/video/BV1BK4y1D7Ji)
+
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
 
 <div align="center">
 
