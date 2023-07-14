@@ -255,6 +255,10 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [Pic2Word: Mapping pictures to words for zero-shot composed image retrieval](http://ai.googleblog.com/2023/07/pic2word-mapping-pictures-to-words-for.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
+<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
+    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
+</a>
+
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
@@ -271,10 +275,6 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
   <tr><th>Date</th><th>Recently Published Works</th></tr>
   <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Mon May 22 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118867783'>NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</a></td></tr><tr><td>Mon May 01 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118798769'>Entity Linking for KGQA Using AMR Graphs</a></td></tr><tr><td>Thu Sep 01 2022 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q113770518'>Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases</a></td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
 </table>
-
-<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
-    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
-</a>
 
 <h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
