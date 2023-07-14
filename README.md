@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✈️ Discover how Memgraph Lab can improve air traffic routing and simplify complex tasks! #AirTrafficControl #GraphDatabase 🌐 #memgraph #database ...](https://twitter.com/memgraphdb/status/1679788325899575298)
+- [🧮 Key database performance metrics to keep an eye on: RAM memory usage, query execution latency, snapshot recovery latency, connections and transac...](https://twitter.com/memgraphdb/status/1679761145740107776)
 - [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1679737741632831489)
 - [🌐 Unveil the power of graph databases when you have tightly linked nodes. Create efficient models for better performance. #GraphDatabase #DataModel...](https://twitter.com/memgraphdb/status/1679727174725648387)
 - [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1679704526347968514)
-- [💡 Explore Memgraph MAGE and find out how you can create custom query modules for your own graph algorithms! #MemgraphMAGE #GraphQuery #memgraph #da...](https://twitter.com/memgraphdb/status/1679557807157157910)
-- [🚀 Upgrade your IAM systems! Move from tabular solutions to graph solutions with Memgraph, making data import, analysis, and decision-making drastic...](https://twitter.com/memgraphdb/status/1679540192313499663)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
