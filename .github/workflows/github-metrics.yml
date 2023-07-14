@@ -55,13 +55,3 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_trim: no
           plugin_habits_languages_limit: 8
-
-      - name: LeetCode
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.leetcode.svg
-          plugin_leetcode_user: _Jack_
-          token: NOT_NEEDED
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
