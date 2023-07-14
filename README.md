@@ -94,8 +94,8 @@ My Open Source Portfolio
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=vue)](https://github.com/QubitPi/lexical)
 [![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=vue)](https://github.com/paion-data/nexusgraph)
+[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=vue)](https://github.com/QubitPi/lexical)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
