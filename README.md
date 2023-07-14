@@ -136,7 +136,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - [Sentry Developer Documentation](https://qubitpi.github.io/sentry-develop/)
 
-<img align="left" width="45%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
+<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
 ### <img src="https://github.com/QubitPi/QubitPi/assets/16126939/6d9bbf5f-a9fe-4daa-9d4d-0dd191b0db79" width="5%"> Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
