@@ -68,6 +68,8 @@ My Open Source Portfolio
  
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
 
+[![Image of https://github.com/QubitPi/github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/QubitPi/github-profile-views-counter)
+
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%"><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%">
     
 ### Creator
@@ -352,63 +354,4 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [Creating a Clock with the New CSS sin&lpar;&rpar; and cos&lpar;&rpar; Trigonometry Functions](https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/)
 <!-- CSS-TRIKCS:END -->
 
-Git Data Analytics - Everything is Datable
-------------------------------------------
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-    
-[![Image of https://github.com/QubitPi/github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/QubitPi/github-profile-views-counter)
-
-<a href="https://www.bilibili.com/video/BV1dt4y1J7Sm">
-    <img align="left" width="47%" alt="三蹦子" src="./三蹦子/爱莉希雅-芽衣-宿舍彩蛋.gif">
-</a>
-    
-<img align="right" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/504830443/large/year.png" height="200px">
-    
-</div>
-
-<img align="left" src="/github-metrics-starlists-data.svg" alt="Metrics" width="47%"><img align="right" src="/github-metrics-starlists-others.svg" alt="Metrics" width="47%">
 <a href="https://leetcode.com/_Jack_/"><img align="right" src="/metrics.plugin.leetcode.svg" alt="Metrics" width="47%"></a>
