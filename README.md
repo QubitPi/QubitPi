@@ -8,8 +8,8 @@
 
 <div align="center">
  
-_[Open Innovation](https://github.com/stealth-tech-startup)_ as Career
-======================================================================
+_[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https://github.com/paion-data)
+=======================================================================================================
 
 </div>
 
