@@ -94,8 +94,8 @@ My Open Source Portfolio
 
 <!-- ACTIVE-FORKS:START -->
 [![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=vue)](https://github.com/QubitPi/lexical)
-[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=vue)](https://github.com/QubitPi/react.dev)
 [![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=vue)](https://github.com/paion-data/nexusgraph)
+[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=vue)](https://github.com/QubitPi/react.dev)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
