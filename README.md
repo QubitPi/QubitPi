@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1679924474219749376)
+- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1679900565940187144)
 - [⛈️ Avoid dangerous weather on your flight route with Memgraph Lab&#39;s graph database technology! #StormEvasion #FlightSafety ☁️ #memgraph #database ...](https://twitter.com/memgraphdb/status/1679886471874981893)
 - [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1679882699027128321)
 - [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1679860049370382337)
-- [🚀 Discover the power of #Memgraph, a high-performance graph database! Explore our @github repo. 👉 https://github.com/memgraph/memgraph #GraphDat...](https://twitter.com/memgraphdb/status/1679841676574052352)
-- [💡 MAGE enables custom query procedures &amp; functions in Cypher. Unleash the full potential of your graph data. #Cypher #Analytics #memgraph #database...](https://twitter.com/memgraphdb/status/1679812232518021121)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
