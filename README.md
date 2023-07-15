@@ -224,11 +224,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [胡桃生日快乐｜噫！谁在拍我肩膀，是幽灵吗——哗！](https://ys.mihoyo.com/main/news/detail/28268)
 - [九条裟罗生日快乐｜你来了，请进，我在进行今日例行的弓术训练。](https://ys.mihoyo.com/main/news/detail/28267)
 - [《原神》「七圣召唤」热斗模式：万能向导](https://ys.mihoyo.com/main/news/detail/28264)
 - [《原神》确认参展BilibiliWorld2023!](https://ys.mihoyo.com/main/news/detail/28262)
 - [原神☆FES｜跨越尘世 于此相聚](https://ys.mihoyo.com/main/news/detail/28256)
-- [原神☆FES 活动PV](https://ys.mihoyo.com/main/news/detail/28255)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
