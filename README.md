@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌊 Explore top streaming analytics tools and real-time data analysis in these must-read articles! #streamingdata #analytics #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1680100131754975232)
+- [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1680089559600709633)
+- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1680074965687599104)
 - [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1679924474219749376)
 - [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1679900565940187144)
-- [⛈️ Avoid dangerous weather on your flight route with Memgraph Lab&#39;s graph database technology! #StormEvasion #FlightSafety ☁️ #memgraph #database ...](https://twitter.com/memgraphdb/status/1679886471874981893)
-- [💡 Discover a variety of graph-related content, from analyzing the Eurovision Song Contest to exploring the Bible&#39;s interpersonal relationships! #gr...](https://twitter.com/memgraphdb/status/1679882699027128321)
-- [🧠 Learn how #GraphSAGE from @stanford and GAT models can help build a telecommunication packages recommendation system using #GraphNeuralNetworks! ...](https://twitter.com/memgraphdb/status/1679860049370382337)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
