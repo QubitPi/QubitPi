@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🔗 Connect @redpandadata streams to Memgraph to transform &amp; analyze real-time data like movie reviews! Perfect for generating recommendations. #Redp...](https://twitter.com/memgraphdb/status/1680156503636836352)
-- [🌐 As the amount of data grows, securing it becomes crucial. Memgraph&#39;s Label-Based Access Control keeps your data safe with a hierarchy of permissi...](https://twitter.com/memgraphdb/status/1680149206420389890)
-- [🔍 Explore the distinctive features of #PostgreSQL, including extensibility and full-text search. Discover how it supports geographic info systems, ...](https://twitter.com/memgraphdb/status/1680138633410486273)
 - [🌊 Explore top streaming analytics tools and real-time data analysis in these must-read articles! #streamingdata #analytics #memgraph #database #mem...](https://twitter.com/memgraphdb/status/1680100131754975232)
 - [🚀 Learn to calculate the shortest path for flights using Memgraph Lab and optimize travel time. #AviationTech #FlightOptimization ✈️ #memgraph #d...](https://twitter.com/memgraphdb/status/1680089559600709633)
+- [🎯 Discover the power of GQLAlchemy&#39;s Object Graph Mapper &lpar;OGM&rpar; for easy schema validation and accurate data storage in graph-based apps 💾 #OGM #...](https://twitter.com/memgraphdb/status/1680074965687599104)
+- [🎮 Discover a new way to build objective game recommendations using Memgraph and #Cypher! Ditch the old rating systems for a fresh approach. #gamede...](https://twitter.com/memgraphdb/status/1679924474219749376)
+- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1679900565940187144)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
