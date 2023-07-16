@@ -190,7 +190,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818429400065245272><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9678a8dedc7e14203a8dd199cc0093a0401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818830369633599605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6f1a7cd8ac5e2982c9d237fb5ccfbb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #胡桃# #生日快乐# 噫！谁在拍我肩膀，是幽灵吗——哗！ 哈哈，我装得像吗？想吓我可没那么容易~ 不过不愧是本堂主的挚友，你的这个想法不错。...](https://t.bilibili.com/818429400065245272)
