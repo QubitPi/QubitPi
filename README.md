@@ -284,11 +284,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [ArtGraph &amp; #KnowledgeGraphs This graph has been developed to classify the style and genre of an artwork using a combination of images, the context of ...](https://twitter.com/neo4j/status/1680567734868779009)
 - [Explore various use cases for integrating knowledge graphs into LLM and LangChain applications and learn how to improve prompts to produce better and ...](https://twitter.com/neo4j/status/1680198054417186816)
 - [New to Graph Databases? 👀 This FREE book introduces you to graph database technology👉 from building a rich graph data model to deploying your fi...](https://twitter.com/neo4j/status/1679913727360118784)
 - [DEMOS, Webinars, Meetups...around the 🌏 Ready to schedule all of our #events? Take a look at this updated agenda of Neo4j&#39;s events and activities. ...](https://twitter.com/neo4j/status/1679865142970834944)
 - [Are you a graph database enthusiast or just starting your journey into the world of connected data?? This event is the perfect for you! Join our upcom...](https://twitter.com/neo4j/status/1679823338238091265)
-- [👉 The Neo4j GraphQL Library is a highly flexible, low-code, open source JavaScript library that enables rapid API development for cross-platform an...](https://twitter.com/neo4j/status/1679579220270362624)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
