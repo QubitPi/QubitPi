@@ -306,11 +306,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🔍 Explore the landscape of database models: relational, NoSQL, NewSQL, time-series, and more. Your project&#39;s needs determine your perfect match. @M...](https://twitter.com/memgraphdb/status/1680987730883248129)
+- [💡 Want to measure the similarity between different social networks? With @scikit_learn, you can do just that. Compare and contrast with ease. #Pyth...](https://twitter.com/memgraphdb/status/1680971713167732736)
 - [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1680947213902512129)
 - [🚀 Unveil the implementation of authorization in Memgraph. Dive into operator trees and how they protect data at different levels. #Authorization #m...](https://twitter.com/memgraphdb/status/1680928841789833216)
 - [🌐 Uncover the differences between Dijkstra, Bellman-Ford, Johnson&#39;s, and Floyd Warshall algorithms for finding shortest paths in graphs. #GraphTheo...](https://twitter.com/memgraphdb/status/1680919531378683904)
-- [🌐 Graph clustering algorithms are crucial in fields ranging from social network analysis and bioinformatics to security and fraud detection. #Netwo...](https://twitter.com/memgraphdb/status/1680900354030944257)
-- [💰 Stay ahead of your competition by leveraging graph databases for your knowledge graphs. Learn the 4 reasons why Graph Tech is a game-changer. #kn...](https://twitter.com/memgraphdb/status/1680881276713066496)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
