@@ -320,11 +320,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Inside Open Infrastructure: OpenInfra Summit Vancouver Recap!](https://superuser.openinfra.dev/articles/openinfra-newsletter-57/)
 - [Getting an Outreachy Internship with OpenStack](https://superuser.openinfra.dev/articles/getting-an-outreachy-internship-with-openstack/)
 - [Demystifying Confidential Containers with a Live Kata Containers Demo](https://superuser.openinfra.dev/articles/demystifying-confidential-containers-with-a-live-kata-containers-demo/)
 - [What is OpenStack? A Fresh Look From a Clear Mind](https://superuser.openinfra.dev/articles/what-is-openstack-a-fresh-look-from-a-clear-mind/)
 - [StarlingX is 5 Years Old, and more from the OpenInfra Summit](https://superuser.openinfra.dev/articles/starlingx-is-5-years-old-and-more-from-the-openinfra-summit/)
-- [OpenInfra Summit Vancouver Recap: 50 things You Need to Know](https://superuser.openinfra.dev/articles/openinfra-summit-vancouver-recap-50-things-you-need-to-know/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
