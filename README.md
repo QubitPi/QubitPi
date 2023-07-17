@@ -284,11 +284,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Join @akollegger Developer Evangelist at #Neo4j, for this webinar to learn about Graph Thinking and understand: Asia Pacific: https://okt.to/CULWZf.. ...](https://twitter.com/neo4j/status/1680980708938883073)
 - [Knowledge graphs and vector databases: which offers a more accurate, reliable, and explainable foundation for your #LLM? Megan Tomlin will help you wi...](https://twitter.com/neo4j/status/1680917801156870144)
 - [RT Siddhant Agarwal: Last chance to secure your confirmed spot. Don&#39;t forget to RSVP here: https://www.meetup.com/graphdb-sydney/events/294227649/](https://twitter.com/sidagarwal04/status/1680855817157844992)
 - [Best of: TED Talks - Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1LyGBqqwXALKN](https://twitter.com/neo4j/status/1680849804312838144)
 - [Tune in for another #bestof episode with @mesirii in just 60 minutes: Today we look at @TEDTalks data and how to import that as a #graph with #auradb!](https://twitter.com/neo4j/status/1680834926487166976)
+- [RT Abhishek Das: Thanks a lot, @sidagarwal04, @collabnix, and @ajeetsraina, for inspiring me for this feat. It&#39;s my pleasure to contribute, and I will...](https://twitter.com/abhishekdas2512/status/1680825118971559936)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
