@@ -190,7 +190,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/818830369633599605><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fa6f1a7cd8ac5e2982c9d237fb5ccfbb401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/819170518140715090><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/143d62eb3844cced71c2113707f1f3f4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@不喝水e@风飘尽老涩鬼@白居不易c等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/818830369633599605)
