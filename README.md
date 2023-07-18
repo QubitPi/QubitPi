@@ -285,11 +285,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j Live: No Code Graph Exploration with SemSpect @vincent_vialard https://twitter.com/i/broadcasts/1eaJbrrqRYrJX](https://twitter.com/neo4j/status/1681314247937245184)
 - [Does a #nocode #graph visualisation tool for better insights and exploration intrigue you? Join us in a bit when we will take a look at SemSpect with ...](https://twitter.com/neo4j/status/1681288974319464449)
 - [Graphversation Ep. 5 - Understanding User Journey with Network Analytics https://twitter.com/i/broadcasts/1YqxoAAmZDaGv](https://twitter.com/neo4j/status/1681174475407245312)
 - [&quot;Since its birth, Neo4j has been revamping how we use graph databases, making sure that we can harness its utmost potential.&quot; Shritama Saha for @Analy...](https://twitter.com/neo4j/status/1681061241152847875)
 - [Check out the recording &quot;Introduction to Graph Data Science&quot; by Yogesh Kulkarni &lpar;#Neo4j Ninja&rpar; at #GoogleCloud Community Day Pune 2023, a flagship eve...](https://twitter.com/neo4j/status/1681006114001879041)
-- [Join @akollegger Developer Evangelist at #Neo4j, for this webinar to learn about Graph Thinking and understand: Asia Pacific: https://okt.to/CULWZf.. ...](https://twitter.com/neo4j/status/1680980708938883073)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
