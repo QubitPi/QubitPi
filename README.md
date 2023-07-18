@@ -307,11 +307,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 In the graph world, the “property graph” style of graphing makes it possible to rethink the representation of data models. They are very easy t...](https://twitter.com/memgraphdb/status/1681237878020472834)
 - [Are you good with C++? #memgraph has the benefit of being implemented in C++, which makes it more optimized. #cplusplus #CodeNewbie #LearnToCode #prog...](https://twitter.com/memgraphdb/status/1681221267737788416)
 - [🌐 Graph clustering algorithms are crucial in fields ranging from social network analysis and bioinformatics to security and fraud detection. #Netwo...](https://twitter.com/memgraphdb/status/1681194098873466880)
 - [📊 Dive into the world of graph clustering algorithms! Powerful tools for unveiling patterns, communities, and structures within complex networks. #...](https://twitter.com/memgraphdb/status/1681187293938188288)
 - [💡 Leverage graph analytics &amp; pattern matching for deep insights into complex interconnected data. #KnowledgeGraphs are the future of risk managemen...](https://twitter.com/memgraphdb/status/1681176724774559744)
+- [🌐 Read more about using #Memgraph for network resource optimization and impactful decision-making! #NetworkOptimization #memgraph #database #memgra...](https://twitter.com/memgraphdb/status/1681162130597314560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
