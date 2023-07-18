@@ -295,8 +295,8 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Neo4j Live: No Code Graph Exploration with SemSpect](https://www.youtube.com/watch?v=NUlMpauxgWI)
 - [Neo4j Live: No Code Graph Exploration with SemSpect Trailer #shorts](https://www.youtube.com/watch?v=p_iFbiXQoX4)
+- [Neo4j Live: No Code Graph Exploration with SemSpect](https://www.youtube.com/watch?v=NUlMpauxgWI)
 - [Neo4j Live: GraphTFT &lpar;Teamfight Tactics&rpar;](https://www.youtube.com/watch?v=n5mo4bqBEPY)
 - [Best of: London Underground - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=PE8rjqWl3F8)
 - [Neo4j Live: GraphTFT &lpar;Teamfight Tactics&rpar; - Trailer #shorts](https://www.youtube.com/watch?v=NLhIRHVBFOo)
