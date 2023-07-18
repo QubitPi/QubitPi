@@ -331,11 +331,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
 - [Building Boba AI: Some lessons and patterns learnt in building an             LLM-powered generative application](https://martinfowler.com/articles/building-boba.html)
 - [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
 - [Privacy Enhancing Technologies: An Introduction for Technologists](https://martinfowler.com/articles/intro-pet.html)
 - [Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
-- [Emacs xref stopped working on Macs with dumb-jump](https://martinfowler.com/articles/2023-xref-problem.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
