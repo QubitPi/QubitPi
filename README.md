@@ -87,9 +87,9 @@ My Open Source Portfolio
 
 [![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
 
-[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
-
 <img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
+
+[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
 
 </div>
 
