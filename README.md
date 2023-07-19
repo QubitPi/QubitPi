@@ -286,11 +286,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Neo4j + @Azure ✨We&#39;ve partnered with Microsoft on Azure since 2011. ✨We are a Microsoft Gold Partner and have been listed in the #Azure Marketplace ...](https://twitter.com/neo4j/status/1681695499609423873)
 - [Have you ever wondered what are the best places to use graph data science?👀 #Graphdatascience has vast potential across industries and applications...](https://twitter.com/neo4j/status/1681659709802020866)
 - [Interested in mastering #Neo4j? Pre-register for this course! 🖥 Check it out--- you&#39;ll want to take it! https://okt.to/TIzxAd #neo4j #GraphAcademy ...](https://twitter.com/neo4j/status/1681404765966614533)
 - [Neo4j Live: No Code Graph Exploration with SemSpect @vincent_vialard https://twitter.com/i/broadcasts/1eaJbrrqRYrJX](https://twitter.com/neo4j/status/1681314247937245184)
 - [Does a #nocode #graph visualisation tool for better insights and exploration intrigue you? Join us in a bit when we will take a look at SemSpect with ...](https://twitter.com/neo4j/status/1681288974319464449)
-- [Graphversation Ep. 5 - Understanding User Journey with Network Analytics https://twitter.com/i/broadcasts/1YqxoAAmZDaGv](https://twitter.com/neo4j/status/1681174475407245312)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
