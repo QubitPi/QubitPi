@@ -192,7 +192,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/819541607618445344><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/a04a3b3cd720aace22aed860c37f8c55401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820006804131938310><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d702534b228c3b17da6fdf74358c87981669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #冒险家试炼# 亲爱的旅行者，「冒险家试炼·进阶篇」活动即将开启~ 〓活动时间〓 2023/07/20 10:00 ~ 2023/07/31 03:59 〓参与条件〓 冒险等阶≥20级 〓...](https://t.bilibili.com/819541607618445344)
