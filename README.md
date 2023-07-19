@@ -81,11 +81,11 @@ My Open Source Portfolio
     
 <img src="https://user-images.githubusercontent.com/16126939/208559538-a0b3f656-b7b5-4b32-accf-280ad4b5d6ce.png" alt="可莉" width="15%">[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://github.com/QubitPi/aergia)
 
-[![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://github.com/QubitPi/jersey-ws-template)
-
-[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
+[![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://github.com/QubitPi/jersey-ws-template)<img src="https://github.com/QubitPi/QubitPi/assets/16126939/d818f2a9-9a4f-41b4-802d-017a39d17ab5" alt="可莉" width="15%">
 
 <img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
+
+[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
 
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
 
