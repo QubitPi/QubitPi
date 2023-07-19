@@ -308,11 +308,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Analyze the Art Blocks transaction data, projects and communities in real-time with Memgraph. https://memgraph.com/blog/how-to-analyze-and-explore-the...](https://twitter.com/memgraphdb/status/1681712503162535958)
+- [Having a well-defined style for writing queries is a technical must-have! Check out all the tips and tricks for Cypher best practices 👇 #memgraph #...](https://twitter.com/memgraphdb/status/1681696494242394113)
 - [When we’re building demo applications to showcase #Memgraph, we always use #Docker Compose. This allows us to fire up the application on any system, ...](https://twitter.com/memgraphdb/status/1681671986643341312)
 - [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1681653618636648450)
 - [🎓 #Memgraph presents graph algorithms: Graph coloring 🗒️ Certain applications require special labeling called graph coloring. This refers to th...](https://twitter.com/memgraphdb/status/1681644305977409538)
-- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1681624172806434817)
-- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1681606053182439426)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
