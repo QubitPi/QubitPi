@@ -308,11 +308,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Cypher is the most widely adopted, fully specified, and open query language for property graph databases. Read some of the most common Cypher queries,...](https://twitter.com/memgraphdb/status/1681624172806434817)
+- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1681606053182439426)
+- [Visualize graphs and play with queries Memgraph Lab helps you explore and manipulate the data stored in Memgraph. Visualize graphs, execute ad hoc que...](https://twitter.com/memgraphdb/status/1681600266842300421)
 - [With natural gas in low stock and energy prices soaring, #Europe is continuing to experience an energy crisis. Check out #Memgraph blog post &quot;Explorin...](https://twitter.com/memgraphdb/status/1681588187653713920)
 - [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1681548173951524864)
-- [Memgraph is a modern graph analytics platform engineered from the ground up to deliver real-time performance for both transactional and analytical gra...](https://twitter.com/memgraphdb/status/1681539113059590146)
-- [Sign up for the #Memgraph #Webinar &quot;Real-Time Graph Analytics Webinar&quot;. You will earn: - When to use graph analytics? - When to use a graph database? ...](https://twitter.com/memgraphdb/status/1681516464614916099)
-- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 https://me...](https://twitter.com/memgraphdb/status/1681369745646399489)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
