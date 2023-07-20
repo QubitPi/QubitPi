@@ -42,7 +42,7 @@ jobs:
           git config user.name "QubitPi"
           git config user.email "jack20220723@gmail.com"
           git add README.md
-          git commit -m "Update 'Active Forks' section"
+          git commit -m "Update 'Contributed Repos (Paion Data)' section"
           git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
