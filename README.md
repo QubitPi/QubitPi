@@ -192,7 +192,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820287123744620569><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1d8a67a5f3ce61ae30d9b93aafaa943a1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820348202486071330><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d77b990aba31cb89089ef151d75db6d4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #原神fes# #盛夏游园# 亲爱的旅行者，一起去原神☆FES吧！ 「盛夏游园」网页活动现已上线，参与活动可得原石，更有机会获得 原神☆FES 门票、周...](https://t.bilibili.com/820287175290519638)
