@@ -233,11 +233,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「清夏！乐园？大秘境！」3.8版本活动速递第二期](https://bbs.mihoyo.com/ys/article/41482737)
+- [原神☆FES | 开票预告](https://bbs.mihoyo.com/ys/article/41475635)
+- [原神☆FES 活动说明PV](https://bbs.mihoyo.com/ys/article/41475480)
+- [达达利亚生日快乐｜这么久没见，不知下次相遇又要等到什么时候…](https://bbs.mihoyo.com/ys/article/41475475)
 - [原神☆FES | 特邀创作者情报](https://bbs.mihoyo.com/ys/article/41447038)
-- [冠军诞生！七圣召唤精彩对局瞬间【阿姬说赛事第二期】](https://bbs.mihoyo.com/ys/article/41371145)
-- [《原神》3.8版本表情包「派蒙的画作第25弹」现已上线](https://bbs.mihoyo.com/ys/article/41358803)
-- [胡桃生日快乐｜噫！谁在拍我肩膀，是幽灵吗——哗！](https://bbs.mihoyo.com/ys/article/41291064)
-- [3.8版本「七圣召唤全民积分赛」直播观看日历](https://bbs.mihoyo.com/ys/article/41267560)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
