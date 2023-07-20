@@ -212,11 +212,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820348202486071330><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d77b990aba31cb89089ef151d75db6d4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [#原神# #原神3.8# #清夏乐园大秘境# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/820348202486071330)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/820347283608436737)
-- [#原神# #流浪者# #余火变相# 亲爱的旅行者，「余火变相」活动祈愿即将开启，「久世浮倾·流浪者&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与...](https://t.bilibili.com/820346269757079624)
-- [#原神# #珊瑚宫心海# #浮岳虹珠# 亲爱的旅行者，「浮岳虹珠」活动祈愿即将开启，「真珠之智·珊瑚宫心海&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/820345741469810738)
-- [互动抽奖 #原神# #原神fes# #盛夏游园# 亲爱的旅行者，一起去原神☆FES吧！ 「盛夏游园」网页活动现已上线，参与活动可得原石，更有机会获得 原神☆FES 门票、周...](https://t.bilibili.com/820287175290519638)
+- [#原神# #冒险家试炼# 亲爱的旅行者，「冒险家试炼·进阶篇」活动即将开启~ 〓活动时间〓 2023/07/20 10:00 ~ 2023/07/31 03:59 〓参与条件〓 冒险等阶≥20级 〓...](https://t.bilibili.com/819541607618445344)
+- [#原神# #原神表情包# 《原神》3.8版本表情包「派蒙的画作第25弹」现已上线~ 亲爱的旅行者，「派蒙的画作第25弹」表情包现已陆续开放下载，欢迎前往【微信表情包...](https://t.bilibili.com/819170518140715090)
+- [[热词系列_三连][热词系列_三连][热词系列_三连]](https://t.bilibili.com/819146058308255753)
+- [恭喜@不喝水e@风飘尽老涩鬼@白居不易c等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/818830369633599605)
+- [恭喜@雾照松间叶@王玄米也@兔zi_等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/818830369621016740)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
