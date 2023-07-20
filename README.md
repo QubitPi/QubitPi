@@ -195,11 +195,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820287123744620569><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1d8a67a5f3ce61ae30d9b93aafaa943a1669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #原神fes# #盛夏游园# 亲爱的旅行者，一起去原神☆FES吧！ 「盛夏游园」网页活动现已上线，参与活动可得原石，更有机会获得 原神☆FES 门票、周...](https://t.bilibili.com/820287175290519638)
 - [亲爱的旅行者，让我们在8月相见吧！[原神_哇]](https://t.bilibili.com/820287123744620569)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/820285126602653730)
 - [互动抽奖 #原神# #达达利亚# #生日快乐# 「嗯？这画册…是我那四处旅行的伙伴送来的吧。 「这么久没见，不知下次相遇又要等到什么时候… 「…托克！快来哥哥这里...](https://t.bilibili.com/820283962648690790)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/820006804131938310)
-- [#原神# #冒险家试炼# 亲爱的旅行者，「冒险家试炼·进阶篇」活动即将开启~ 〓活动时间〓 2023/07/20 10:00 ~ 2023/07/31 03:59 〓参与条件〓 冒险等阶≥20级 〓...](https://t.bilibili.com/819541607618445344)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
