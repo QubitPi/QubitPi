@@ -107,6 +107,20 @@ My Open Source Portfolio
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 <!-- CONTRIBUTED-PAION-REPOS:START -->
+[![.github](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=.github&show_owner=true&theme=vue)](https://github.com/paion-data/.github)
+[![fili](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=fili&show_owner=true&theme=vue)](https://github.com/paion-data/fili)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=vue)](https://github.com/paion-data/aristotle)
+[![horme](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=horme&show_owner=true&theme=vue)](https://github.com/paion-data/horme)
+[![archived](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=archived&show_owner=true&theme=vue)](https://github.com/paion-data/archived)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=vue)](https://github.com/paion-data/athena)
+[![opensource.paion-data](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=opensource.paion-data&show_owner=true&theme=vue)](https://github.com/paion-data/opensource.paion-data)
+[![graphql-java-page](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=graphql-java-page&show_owner=true&theme=vue)](https://github.com/paion-data/graphql-java-page)
+[![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=vue)](https://github.com/paion-data/nexusgraph)
+[![owner](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=owner&show_owner=true&theme=vue)](https://github.com/paion-data/owner)
+[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/paion-data/knowledge-graph-spec)
+[![knowledge-graph-datasets](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=knowledge-graph-datasets&show_owner=true&theme=vue)](https://github.com/paion-data/knowledge-graph-datasets)
+[![unified-metrics-datamart](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=unified-metrics-datamart&show_owner=true&theme=vue)](https://github.com/paion-data/unified-metrics-datamart)
+[![prometheus](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=prometheus&show_owner=true&theme=vue)](https://github.com/paion-data/prometheus)
 <!-- CONTRIBUTED-PAION-REPOS:END -->
 
 <img align="center" width=100% alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/d972ffca-a244-41e1-82c0-b8d67b87d8b7">
