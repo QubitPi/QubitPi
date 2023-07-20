@@ -22,7 +22,7 @@ on:
 
 jobs:
   tests:
-    name: Update Active Forks Section
+    name: Update Contributor (Paion Data) Section
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -34,7 +34,7 @@ jobs:
       - name: Install dependencies
         run: python -m pip install requests
       - name: Write contributed repos to contributed-paion-repos.txt
-        run: python compute_active_forks.py
+        run: python compute_contributed_repos_in_paion_data.py
       - name: Write contributed-paion-repos.txt to README.md and put it between specified (overwrite)
         run: sed -i -e '/<!-- CONTRIBUTED-PAION-REPOS:START -->/,/<!-- CONTRIBUTED-PAION-REPOS:END -->/ {//!d; /<!-- CONTRIBUTED-PAION-REPOS:START -->/r contributed-paion-repos.txt' -e '}' README.md
       - name: Commit changes
