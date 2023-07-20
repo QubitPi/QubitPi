@@ -226,11 +226,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [亲爱的旅行者，一起去原神☆FES吧！](https://ys.mihoyo.com/main/news/detail/28302)
+- [原神☆FES | 开票预告](https://ys.mihoyo.com/main/news/detail/28301)
+- [原神☆FES 活动说明PV](https://ys.mihoyo.com/main/news/detail/28300)
+- [达达利亚生日快乐｜这么久没见，不知下次相遇又要等到什么时候…](https://ys.mihoyo.com/main/news/detail/28299)
 - [原神☆FES | 特邀创作者情报](https://ys.mihoyo.com/main/news/detail/28297)
-- [「久世浮倾」流浪者同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/28295)
-- [「真珠之智」珊瑚宫心海同人绘画作品征集开启](https://ys.mihoyo.com/main/news/detail/28294)
-- [「冒险家试炼·进阶篇」活动：趣味试炼挑战](https://ys.mihoyo.com/main/news/detail/28293)
-- [《原神》3.8版本表情包「派蒙的画作第25弹」现已上线](https://ys.mihoyo.com/main/news/detail/28270)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
