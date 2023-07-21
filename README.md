@@ -209,7 +209,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820006804131938310><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d702534b228c3b17da6fdf74358c87981669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820685795510714405><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/59cca4370aa7b2f550cb1b1aa1e9d330401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@kair-y@cyslove@诶呦呦嘞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795510714405)
