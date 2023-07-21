@@ -208,7 +208,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820348202486071330><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/d77b990aba31cb89089ef151d75db6d4401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/820287175290519638><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/8cb0f723f0645679eb6124917d8ef231401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神3.8# #清夏乐园大秘境# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/820348202486071330)
