@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 https://memgraph.com/blog/how-to-build-a-route-plannin...](https://twitter.com/memgraphdb/status/1682348949733011457)
-- [Learn how to use #Docker Compose to orchestrate your graph application. https://memgraph.com/blog/how-to-orchestrate-your-graph-application-with-docke...](https://twitter.com/memgraphdb/status/1682330829459009536)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1682325040660971520)
 - [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1682297862879674368)
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at https://memgraph.com/...](https://twitter.com/memgraphdb/status/1682274457652477953)
+- [🎓 Learn how to install Memgraph Platform, connect to it using Memgraph Lab, run your first query and style your graph. You will see that using Memg...](https://twitter.com/memgraphdb/status/1682263888748851201)
+- [🎓 #Memgraph presents graph algorithms: Bridge detection 🗒️ As in the real world, the definition of a bridge in graph theory denotes something t...](https://twitter.com/memgraphdb/status/1682241241168203776)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
