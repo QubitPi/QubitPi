@@ -315,11 +315,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Graphversation Ep. 6 - Knowledge Graphs for Personalized Medicine](https://www.youtube.com/watch?v=nbY0KoT54uE)
 - [Azure OpenAI Neo4j Demo](https://www.youtube.com/watch?v=3PO-erAP6R4)
 - [Neo4j through Azure Marketplace](https://www.youtube.com/watch?v=k1IJ5m4KCYA)
 - [Custom Caption Controls available in Neo4j Bloom](https://www.youtube.com/watch?v=QjYyp0FdxAU)
 - [Nodes 2023 Trailer](https://www.youtube.com/watch?v=n45nX-ht3LM)
-- [Neo4j Live: No Code Graph Exploration with SemSpect](https://www.youtube.com/watch?v=NUlMpauxgWI)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
