@@ -261,6 +261,9 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [盛夏突袭 | 服装补给限时开启！](https://www.bh3.com/news/28266)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
+<br />
+<br />
+
 ---
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
