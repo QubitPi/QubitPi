@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The MERGE clause is used to ensure that a pattern you are looking for exists in the database. This means that if th...](https://twitter.com/memgraphdb/status/1682396765075513346)
 - [Did you ever try dependency management in Python? And no, requirements.txt files don&#39;t count. 😢 Check out how we used Poetry in our tutorial 👇 h...](https://twitter.com/memgraphdb/status/1682378394179190786)
 - [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 https://memgraph.com/blog/how-to-build-a-route-plannin...](https://twitter.com/memgraphdb/status/1682348949733011457)
 - [Learn how to use #Docker Compose to orchestrate your graph application. https://memgraph.com/blog/how-to-orchestrate-your-graph-application-with-docke...](https://twitter.com/memgraphdb/status/1682330829459009536)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1682325040660971520)
-- [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1682297862879674368)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
