@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1682636847195860992)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Hosted and fully-managed service. No admin. Try it for ...](https://twitter.com/memgraphdb/status/1682626278258507776)
 - [Is your data highly connected? Graph solutions are focused on highly-connected data that comes with an intrinsic need for relationship analysis. Read ...](https://twitter.com/memgraphdb/status/1682611681111814145)
 - [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. https://memgraph.com/blog/how-to-migrate-from-ne...](https://twitter.com/memgraphdb/status/1682461189459136520)
 - [🎓 #Learn #Cypher with #Memgraph To specify a comment in Cypher, place the characters // before the line you want to be a comment. https://memgraph....](https://twitter.com/memgraphdb/status/1682437282190573568)
+- [❓Did you know, that #Memgraph is among the fastest streaming analytics tools because we use RAM as the primary storage for data? We don’t use a hard...](https://twitter.com/memgraphdb/status/1682423188188196864)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
