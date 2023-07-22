@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. https://memgraph.com/docs/cypher-manu...](https://twitter.com/memgraphdb/status/1682819298413146112)
-- [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1682801684928495616)
 - [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1682783027066286082)
 - [🎓 #Learn #Cypher with #Memgraph The MATCH clause can be modified by prepending the OPTIONAL keyword. OPTIONAL MATCH clause behaves the same as a re...](https://twitter.com/memgraphdb/status/1682779031261806592)
 - [Learn how to migrate a dataset from #Neo4j to #Memgraph using #CSV files. https://memgraph.com/blog/how-to-migrate-from-neo4j-to-memgraph #graphdataba...](https://twitter.com/memgraphdb/status/1682759151800156160)
+- [The fastest to run any graph algorithm on your data is by using #Memgraph and #MAGE. It’s super easy. Download Memgraph, import your data, pick one o...](https://twitter.com/memgraphdb/status/1682749335107256320)
+- [Real-time graph analytics combines streaming data technology, graph databases, and graph algorithms to tackle problems not suited for relational datab...](https://twitter.com/memgraphdb/status/1682711335031787520)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
