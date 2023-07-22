@@ -233,11 +233,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [《原神》周边创作者活动开启 参与赢实物奖励](https://bbs.mihoyo.com/ys/article/41546215)
 - [《原神》卡牌广场更新速览 | 赛事页签&amp;消息提示上线！](https://bbs.mihoyo.com/ys/article/41521680)
 - [「清夏！乐园？大秘境！」3.8版本活动速递第二期](https://bbs.mihoyo.com/ys/article/41482737)
 - [原神☆FES | 开票预告](https://bbs.mihoyo.com/ys/article/41475635)
 - [原神☆FES 活动说明PV](https://bbs.mihoyo.com/ys/article/41475480)
-- [达达利亚生日快乐｜这么久没见，不知下次相遇又要等到什么时候…](https://bbs.mihoyo.com/ys/article/41475475)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
