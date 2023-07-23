@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1683013328912654338)
 - [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1682988663305560066)
 - [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. http...](https://twitter.com/memgraphdb/status/1682966015557218305)
 - [🎓 #Learn #Cypher with #Memgraph The RETURN clause defines which data should be included in the resulting set. https://memgraph.com/docs/cypher-manu...](https://twitter.com/memgraphdb/status/1682819298413146112)
 - [Cypher is an extensive query language with lots of features, and the cheat sheet is a great starting point for mastering them! #memgraph #graphdatabas...](https://twitter.com/memgraphdb/status/1682801684928495616)
-- [❓You’re interested in understanding a certain problem or algorithm? Get started with one of our topics on #Memgraph Playground! 🔎 You’ll be expl...](https://twitter.com/memgraphdb/status/1682783027066286082)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
