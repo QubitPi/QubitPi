@@ -212,11 +212,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/821534073003442264><img align='right' src='https://i0.hdslb.com/bfs/archive/048d38195da3624cd9925007d558ee6f010d54e0.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇][原神_哇]](https://t.bilibili.com/821534073003442264)
 - [恭喜@畤一@一条咸鱼真君@植物味儿汤圆等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/821056880665165927)
 - [恭喜@kair-y@cyslove@诶呦呦嘞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795510714405)
 - [恭喜@夙愿-离殇@豫梦胧@思然丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795492888576)
 - [#原神# #原神3.8# #清夏乐园大秘境# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/820348202486071330)
-- [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿即将开启，「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/820347283608436737)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
