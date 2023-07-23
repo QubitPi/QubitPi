@@ -305,11 +305,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [When asked Why Neo4j Graph Database, an IT Architect from Energy and Utilities industry gave three key reasons. 🔥 Find out more about more about cu...](https://twitter.com/neo4j/status/1683229521300840450)
 - [Get an instance of #Neo4j running in a container on your local machine in this livestream tutorial with Abhishek Das--&gt; learn how: https://okt.to/oER9...](https://twitter.com/neo4j/status/1682437817987637264)
 - [We caught @BarrasaDV in the latest Amsterdam #GraphSummit, and he shared some insights gained from customer experiences when implementing graph techno...](https://twitter.com/neo4j/status/1682375435907215362)
 - [RT Zé Diogo: I&#39;m thrilled to speak at @neo4j &#39;s NODES 2023! Join us on October 26 for a 24-hour event across all time zones, if you want to know more...](https://twitter.com/zediogoviana/status/1682105727291195400)
 - [💻 Upcoming demos? Here you go: #GraphDatabase #SupplyChain #GraphDataScience Join our 30-minute demos to learn all about graph technology! https://...](https://twitter.com/neo4j/status/1682103174788788224)
-- [Managing and extracting insights from #data is a monumental task in today&#39;s landscape. Join @BarrasaDV, learn about the concept and evolution of #Know...](https://twitter.com/neo4j/status/1682042891231973376)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
