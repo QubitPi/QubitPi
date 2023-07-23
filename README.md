@@ -327,11 +327,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1683101660200009728)
+- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1683093858463232002)
+- [Glory to the Girvan-Newman algorithm! 1. Calculate the betweenness centrality for every edge. 2. Remove the edge with the highest centrality. 3. Calcu...](https://twitter.com/memgraphdb/status/1683072970778968065)
 - [🧑‍💻#Memgraph has many different repositories and you can contribute to them! You can see a list of our public GitHub repositories at https://gi...](https://twitter.com/memgraphdb/status/1683049819965620224)
 - [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. https://memgraph.com/blog/how-to...](https://twitter.com/memgraphdb/status/1683037739124490241)
-- [🎓 #Learn #Cypher with #Memgraph The LOAD CSV clause enables you to load and use data from a CSV file of your choosing in a row-based manner within ...](https://twitter.com/memgraphdb/status/1683013328912654338)
-- [#Memgraph Cloud is the easiest way to run lightning-fast #graph algorithms on #streaming data. Run graph applications anywhere. Let us manage Memgraph...](https://twitter.com/memgraphdb/status/1682988663305560066)
-- [#MAGE is an open-source repository tool supported by #Memgraph. MAGE carries different modules and graph algorithms in the form of query modules. http...](https://twitter.com/memgraphdb/status/1682966015557218305)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
