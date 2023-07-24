@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Did you miss this??? We announced the general availability &lpar;GA&rpar; of Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform!📢👏 Learn more! ...](https://twitter.com/neo4j/status/1683536833978744848)
+- [Best of: Genealogy - Discover Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1YqJDogzVMoGV](https://twitter.com/neo4j/status/1683477155068477443)
+- [✔It’s predicted that by 2025, 80% of all data and analytics innovation will be backed by graph technology. How is #Neo4j set up to win as graph cont...](https://twitter.com/neo4j/status/1683463373718011904)
 - [When asked Why Neo4j Graph Database, an IT Architect from Energy and Utilities industry gave three key reasons. 🔥 Find out more about more about cu...](https://twitter.com/neo4j/status/1683229521300840450)
 - [Get an instance of #Neo4j running in a container on your local machine in this livestream tutorial with Abhishek Das--&gt; learn how: https://okt.to/oER9...](https://twitter.com/neo4j/status/1682437817987637264)
-- [We caught @BarrasaDV in the latest Amsterdam #GraphSummit, and he shared some insights gained from customer experiences when implementing graph techno...](https://twitter.com/neo4j/status/1682375435907215362)
-- [RT Zé Diogo: I&#39;m thrilled to speak at @neo4j &#39;s NODES 2023! Join us on October 26 for a 24-hour event across all time zones, if you want to know more...](https://twitter.com/zediogoviana/status/1682105727291195400)
-- [💻 Upcoming demos? Here you go: #GraphDatabase #SupplyChain #GraphDataScience Join our 30-minute demos to learn all about graph technology! https://...](https://twitter.com/neo4j/status/1682103174788788224)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
