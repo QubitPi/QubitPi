@@ -211,11 +211,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/821769896785346578><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/85093b8791451c763f154b5e4ba38362401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神音乐# 「《原神》3.0回顾主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《珍珠之歌3 The Shimmering Voyage Vol. 3》。 旅...](https://t.bilibili.com/821769896785346578)
+- [互动抽奖 #原神# #鹿野院平藏# #生日快乐# 突然来找我，难道是有需要我出马的新案子？ 正好，我现在闲得很！都无聊到开始推理旁边的餐馆为何变得如此热闹。 那就...](https://t.bilibili.com/821768174514995208)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/821534073003442264)
 - [恭喜@畤一@一条咸鱼真君@植物味儿汤圆等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/821056880665165927)
 - [恭喜@kair-y@cyslove@诶呦呦嘞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795510714405)
-- [恭喜@夙愿-离殇@豫梦胧@思然丶等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795492888576)
-- [#原神# #原神3.8# #清夏乐园大秘境# 旅行者们好呀~一起来看看近期即将开启的活动吧！](https://t.bilibili.com/820348202486071330)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
