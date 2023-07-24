@@ -254,11 +254,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [7月24日外挂使用封禁名单](https://www.bh3.com/news/28338)
 - [瑰砂铃舞 | SP角色补给限时开启](https://www.bh3.com/news/28296)
 - [精准补给B丨往世的幻梦&amp;芭丝特](https://www.bh3.com/news/28298)
 - [7月17日外挂使用封禁名单](https://www.bh3.com/news/28292)
 - [【公告】在长梦弥散之前丨参与活动获取夜隐重霞全新服装](https://www.bh3.com/news/28269)
-- [盛夏突袭 | 服装补给限时开启！](https://www.bh3.com/news/28266)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 <br />
