@@ -303,11 +303,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Want to learn about #Neo4j? Become an expert with #GraphAcademy. Start today 🚀 &lpar;for free!&rpar; https://okt.to/GvMgWI #Neo4j #Learning #freecourses](https://twitter.com/neo4j/status/1683823987472596994)
+- [Start your journey with graph databases!🚀 &quot;Graph Databases For Dummies&quot; assumes no previous experience with graph databases! Download for free now:...](https://twitter.com/neo4j/status/1683800040823816193)
 - [Did you miss this??? We announced the general availability &lpar;GA&rpar; of Neo4j AuraDB Enterprise on the Microsoft Azure cloud platform!📢👏 Learn more! ...](https://twitter.com/neo4j/status/1683536833978744848)
 - [Best of: Genealogy - Discover Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1YqJDogzVMoGV](https://twitter.com/neo4j/status/1683477155068477443)
 - [✔It’s predicted that by 2025, 80% of all data and analytics innovation will be backed by graph technology. How is #Neo4j set up to win as graph cont...](https://twitter.com/neo4j/status/1683463373718011904)
-- [When asked Why Neo4j Graph Database, an IT Architect from Energy and Utilities industry gave three key reasons. 🔥 Find out more about more about cu...](https://twitter.com/neo4j/status/1683229521300840450)
-- [Get an instance of #Neo4j running in a container on your local machine in this livestream tutorial with Abhishek Das--&gt; learn how: https://okt.to/oER9...](https://twitter.com/neo4j/status/1682437817987637264)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
