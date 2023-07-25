@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822140492342886421><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04c0a1b81d52860ffd8c6ef42e1ad924401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822233263614459945><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9b3f3a2ddbde3b58db9f600800e244aa401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #险途勘探# 亲爱的旅行者，「险途勘探」活动即将开启~ 〓活动时间〓 2023/07/27 10:00 ~ 2023/08/07 03:59 〓参与条件〓 冒险等阶≥20级 且完成魔神任务...](https://t.bilibili.com/822140492342886421)
