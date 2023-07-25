@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/821769896785346578><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/85093b8791451c763f154b5e4ba38362401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822140492342886421><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04c0a1b81d52860ffd8c6ef42e1ad924401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神音乐# 「《原神》3.0回顾主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《珍珠之歌3 The Shimmering Voyage Vol. 3》。 旅...](https://t.bilibili.com/821769896785346578)
