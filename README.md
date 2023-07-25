@@ -210,11 +210,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822140492342886421><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/04c0a1b81d52860ffd8c6ef42e1ad924401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #险途勘探# 亲爱的旅行者，「险途勘探」活动即将开启~ 〓活动时间〓 2023/07/27 10:00 ~ 2023/08/07 03:59 〓参与条件〓 冒险等阶≥20级 且完成魔神任务...](https://t.bilibili.com/822140492342886421)
+- [《原神》EP - 逆风散羽之别](https://t.bilibili.com/822139259683078217)
 - [#原神# #原神音乐# 「《原神》3.0回顾主题OST即将上线 」 欢迎旅行者们前往评论区置顶链接，在QQ音乐平台预约《珍珠之歌3 The Shimmering Voyage Vol. 3》。 旅...](https://t.bilibili.com/821769896785346578)
 - [互动抽奖 #原神# #鹿野院平藏# #生日快乐# 突然来找我，难道是有需要我出马的新案子？ 正好，我现在闲得很！都无聊到开始推理旁边的餐馆为何变得如此热闹。 那就...](https://t.bilibili.com/821768174514995208)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/821534073003442264)
-- [恭喜@畤一@一条咸鱼真君@植物味儿汤圆等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/821056880665165927)
-- [恭喜@kair-y@cyslove@诶呦呦嘞等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/820685795510714405)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
