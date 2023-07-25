@@ -349,11 +349,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Bliki: TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
+- [Bliki: TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 - [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
 - [Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
 - [Building Boba AI: Some lessons and patterns learnt in building an             LLM-powered generative application](https://martinfowler.com/articles/building-boba.html)
-- [Linking Modular Architecture to Development Teams](https://martinfowler.com/articles/linking-modular-arch.html)
-- [Privacy Enhancing Technologies: An Introduction for Technologists](https://martinfowler.com/articles/intro-pet.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
