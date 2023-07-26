@@ -313,11 +313,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Live: Lessons learned from Real-World Graph App Development #shorts](https://www.youtube.com/watch?v=XxbREBXEbVw)
+- [Neo4j Live: Lessons learned from Real-World Graph App Development](https://www.youtube.com/watch?v=YY-ugAHPu4M)
+- [Going Meta Ep 19: A Series on Graphs, Semantics and Knowledge](https://www.youtube.com/watch?v=xK_07cqKwMk)
 - [Best of: Genealogy - Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=27cb3U4Rwt4)
 - [Graphversation Ep. 6 - Knowledge Graphs for Personalized Medicine](https://www.youtube.com/watch?v=nbY0KoT54uE)
-- [Azure OpenAI Neo4j Demo](https://www.youtube.com/watch?v=3PO-erAP6R4)
-- [Neo4j through Azure Marketplace](https://www.youtube.com/watch?v=k1IJ5m4KCYA)
-- [Custom Caption Controls available in Neo4j Bloom](https://www.youtube.com/watch?v=QjYyp0FdxAU)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
