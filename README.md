@@ -350,7 +350,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
-- [Exploring Gen AI - the toolchain](https://martinfowler.com/articles/exploring-gen-ai.html)
+- [Exploring Gen AI - the toolchain](https://martinfowler.com/articles/exploring-gen-ai.html#the-toolchain)
 - [Bliki: TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 - [Bliki: TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 - [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
