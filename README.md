@@ -232,11 +232,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [【幕间趣闻】3.8版本「燃斗无双」全民积分赛晋级赛选手采访](https://bbs.mihoyo.com/ys/article/41710295)
 - [《原神》3.0回顾主题OST正式上线](https://bbs.mihoyo.com/ys/article/41697589)
 - [3.8版本「燃斗无双」七圣召唤全民积分赛晋级赛即将开启！](https://bbs.mihoyo.com/ys/article/41663304)
 - [3.8版本「燃斗无双」七圣召唤全民积分赛海选赛选手牌组介绍](https://bbs.mihoyo.com/ys/article/41650911)
 - [《原神》EP - 逆风散羽之别](https://bbs.mihoyo.com/ys/article/41650907)
-- [流浪者壁纸｜「这世上没有纯粹的自由。风也会有吹到头的时候」](https://bbs.mihoyo.com/ys/article/41650900)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
