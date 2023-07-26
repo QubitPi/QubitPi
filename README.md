@@ -340,11 +340,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Deploying MicroVM on Top of Kubernetes](https://superuser.openinfra.dev/articles/deploying-microvm-on-top-of-kubernetes/)
 - [OpenStack with Kata Containers and Falco: Building a Highly Secure Setup](https://superuser.openinfra.dev/articles/openstack-with-kata-containers-and-falco-building-a-highly-secure-setup/)
 - [Thirteen Years of OpenStack](https://superuser.openinfra.dev/articles/thirteen-years-of-openstack/)
 - [Inside Open Infrastructure: OpenInfra Summit Vancouver Recap!](https://superuser.openinfra.dev/articles/openinfra-newsletter-57/)
 - [Getting an Outreachy Internship with OpenStack](https://superuser.openinfra.dev/articles/getting-an-outreachy-internship-with-openstack/)
-- [Demystifying Confidential Containers with a Live Kata Containers Demo](https://superuser.openinfra.dev/articles/demystifying-confidential-containers-with-a-live-kata-containers-demo/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
