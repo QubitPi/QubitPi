@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822233263614459945><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/9b3f3a2ddbde3b58db9f600800e244aa401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822511027739426912><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3c81841f913a27c7a718f55a13bfd342401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/822233263614459945)
