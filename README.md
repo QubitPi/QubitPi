@@ -210,11 +210,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/822511027739426912><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3c81841f913a27c7a718f55a13bfd342401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@水沐华@忆夏思乡@墨染～风尘等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/822541221379440710)
+- [恭喜@拒绝凯亚99次@懶懶懶懶懶懶人@缨子的百宝箱等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/822541221364760608)
+- [互动抽奖 #原神# #原神音乐# #珍珠之歌# 亲爱的旅行者，《原神》3.0回顾主题OST「珍珠之歌3 The Shimmering Voyage Vol. 3」现已正式上线。 欢迎旅行者前往评论...](https://t.bilibili.com/822511027739426912)
 - [#原神# #神铸赋形# 亲爱的旅行者，「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ 活动期间，旅行者可以在「神铸赋形」活...](https://t.bilibili.com/822233263614459945)
 - [#原神# #流浪者# #余火变相# 亲爱的旅行者，「余火变相」活动祈愿现已开启，「久世浮倾·流浪者&lpar;风&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更多角色与...](https://t.bilibili.com/822232490525589508)
-- [#原神# #珊瑚宫心海# #浮岳虹珠# 亲爱的旅行者，「浮岳虹珠」活动祈愿现已开启，「真珠之智·珊瑚宫心海&lpar;水&rpar;」概率UP！ 活动期间，旅行者可以在活动祈愿中获得更...](https://t.bilibili.com/822231975124271125)
-- [#原神# #险途勘探# 亲爱的旅行者，「险途勘探」活动即将开启~ 〓活动时间〓 2023/07/27 10:00 ~ 2023/08/07 03:59 〓参与条件〓 冒险等阶≥20级 且完成魔神任务...](https://t.bilibili.com/822140492342886421)
-- [《原神》EP - 逆风散羽之别](https://t.bilibili.com/822139259683078217)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
