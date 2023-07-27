@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1684595829779095553)
+- [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1684552721410527233)
 - [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience https://memgraph...](https://twitter.com/memgraphdb/status/1684543408440745984)
 - [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1684522522400755714)
 - [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1684497860044242945)
-- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1684462879523627008)
-- [Do you follow #Memgraph YouTube channel? https://www.youtube.com/channel/UCZ3HOJvHGxtQ_JHxOselBYg](https://twitter.com/memgraphdb/status/1684448785135554560)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
