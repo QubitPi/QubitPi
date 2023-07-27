@@ -242,11 +242,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [原神☆FES | 第二轮开票预告](https://ys.mihoyo.com/main/news/detail/28362)
+- [久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？](https://ys.mihoyo.com/main/news/detail/28361)
+- [可莉生日快乐｜锵锵！红蛋糕魔女闪亮登场！](https://ys.mihoyo.com/main/news/detail/28360)
 - [《原神》3.0回顾主题OST正式上线](https://ys.mihoyo.com/main/news/detail/28358)
 - [《原神》「神铸赋形」活动祈愿现已开启，「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！](https://ys.mihoyo.com/main/news/detail/28305)
-- [《原神》「余火变相」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/28304)
-- [《原神》「浮岳虹珠」活动祈愿现已开启](https://ys.mihoyo.com/main/news/detail/28303)
-- [「险途勘探」活动：险境战斗试炼](https://ys.mihoyo.com/main/news/detail/28350)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
