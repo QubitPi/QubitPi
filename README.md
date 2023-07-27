@@ -304,11 +304,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [💥Attention Data Scientists---&gt;You will bring value to your organization by improving analytics and ML models so business stakeholders can make bett...](https://twitter.com/neo4j/status/1684489378544996352)
 - [LLMs + Graph Database 💙 @jimwebber goes deep and beyond the convergence of LLMs and Graph Databases and details the power of #graphdatabases in the...](https://twitter.com/neo4j/status/1684284468880609280)
 - [Great news! 📢🎉 Neo4j now supports Confluent&#39;s Custom Connectors so that customers can stream data from Confluent Cloud into Neo4j AuraDB to perf...](https://twitter.com/neo4j/status/1684232349527965696)
 - [☁ Check out our Cloud Marketplace videos illustrating the ease and speed of launching a production instance of Neo4j Enterprise Edition right from th...](https://twitter.com/neo4j/status/1684187055067209728)
 - [RT Martin O&#39;Hanlon: In Berlin with @neo4j for the #wearedevs conference. Come and see us tomorrow, city cube booth, a15. I have heard rumours of ice c...](https://twitter.com/martinohanlon/status/1684133582594252801)
-- [RT Siddhant Agarwal: We are glad to have partnered with #GDGCloudSydney for their July meetup where @PayamMkht, MLNet and @Neo4j Partner and Gwenny Wa...](https://twitter.com/sidagarwal04/status/1684105858018586625)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
