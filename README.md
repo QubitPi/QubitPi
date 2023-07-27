@@ -350,11 +350,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Exploring Gen AI - Three versions of a median](https://martinfowler.com/articles/exploring-gen-ai.html#median---a-tale-in-three-functions)
 - [Exploring Gen AI - The toolchain](https://martinfowler.com/articles/exploring-gen-ai.html#the-toolchain)
 - [Bliki: TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 - [Bliki: TwoPizzaTeam](https://martinfowler.com/bliki/TwoPizzaTeam.html)
 - [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
-- [Decentralizing the Practice of Architecture at Xapo Bank](https://martinfowler.com/articles/xapo-architecture-experience.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
