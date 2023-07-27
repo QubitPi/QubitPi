@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you follow #Memgraph YouTube channel? https://www.youtube.com/channel/UCZ3HOJvHGxtQ_JHxOselBYg](https://twitter.com/memgraphdb/status/1684448785135554560)
+- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1684434440959696897)
+- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1684423619647098881)
 - [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph https://memgraph.com/blog/graph-database-vs...](https://twitter.com/memgraphdb/status/1684273129613320203)
 - [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1684249218293047296)
-- [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! http...](https://twitter.com/memgraphdb/status/1684233491960025091)
-- [Relationships are the most crucial part of graph databases. Even though you may not expect it, relational databases aren&#39;t as good at handling data re...](https://twitter.com/memgraphdb/status/1684208703623364610)
-- [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1684190331242250240)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
