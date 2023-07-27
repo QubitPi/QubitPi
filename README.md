@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Graph algorithms have a non-linear data structure of edges &amp; nodes. That’s why we love them. #memgraph #graphalgorithms #datascience https://memgraph...](https://twitter.com/memgraphdb/status/1684543408440745984)
+- [🎓Do you want to learn #Cypher query language? #Memgraph brings you a free 10-day email course to learn the basics of Cypher! Sign up at the link ➡...](https://twitter.com/memgraphdb/status/1684522522400755714)
+- [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1684497860044242945)
+- [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1684462879523627008)
 - [Do you follow #Memgraph YouTube channel? https://www.youtube.com/channel/UCZ3HOJvHGxtQ_JHxOselBYg](https://twitter.com/memgraphdb/status/1684448785135554560)
-- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1684434440959696897)
-- [Social recommendations are probably the most popular graph database use case. Many apps use graph algorithms to help you discover users with specific ...](https://twitter.com/memgraphdb/status/1684423619647098881)
-- [Did you hear about the property graph model? It&#39;s definitely easier than relational schemas 😁 #Memgraph https://memgraph.com/blog/graph-database-vs...](https://twitter.com/memgraphdb/status/1684273129613320203)
-- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1684249218293047296)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
