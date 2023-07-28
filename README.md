@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Many use cases for graph databases are centered around one important functionality: relationship traversals. One widespread use case is fraud detectio...](https://twitter.com/memgraphdb/status/1684997903809478656)
+- [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1684973996528345089)
+- [Which database to choose? Learn about the main differences between a graph database and a relational database, what kind of use-cases are best suited ...](https://twitter.com/memgraphdb/status/1684959905164283904)
+- [Everything around us is connected, and that&#39;s why graph databases can describe real-world problems in the best way possible. 🌍 https://memgraph.com...](https://twitter.com/memgraphdb/status/1684956127803428864)
 - [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1684933480428249088)
-- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1684915109221531648)
-- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. https://memgraph....](https://twitter.com/memgraphdb/status/1684885664741879808)
-- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1684867546497884160)
-- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 https://memgraph.com/blog/how-t...](https://twitter.com/memgraphdb/status/1684861755187400704)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
