@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1684800602218373120)
-- [What is a streaming database? It is a real-time data repository specifically designed to store, accumulate, process and enhance a data stream. #memgra...](https://twitter.com/memgraphdb/status/1684777952523722752)
-- [🎓 #Learn #Cypher with #Memgraph The UNWIND clause is used to unwind a list of values as individual rows. https://memgraph.com/docs/cypher-manual/cl...](https://twitter.com/memgraphdb/status/1684631236742922245)
-- [Why are relational databases sometimes not the best answer? Their schemas are very strict and can&#39;t keep up with frequent changes in the data model. T...](https://twitter.com/memgraphdb/status/1684613619483279379)
-- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1684595829779095553)
+- [#Memgraph is an in-memory graph database. You can use it to traverse networks and run sophisticated graph algorithms out-of-the-box. https://memgraph....](https://twitter.com/memgraphdb/status/1684885664741879808)
+- [🎓 #Learn #Cypher with #Memgraph WHERE isn&#39;t usually considered a standalone clause but rather a part of the MATCH, OPTIONAL MATCH and WITH clauses....](https://twitter.com/memgraphdb/status/1684867546497884160)
+- [Did you know that you can easily detect fraud using a graph database? Get into all details in the blog post below 👇 https://memgraph.com/blog/how-t...](https://twitter.com/memgraphdb/status/1684861755187400704)
+- [Learn what is #Docker Compose and how it can help you in the application development process. https://memgraph.com/blog/how-to-orchestrate-your-graph-...](https://twitter.com/memgraphdb/status/1684834577322323969)
+- [🎓 Did you ever ask yourself &quot;Should I use property or relationship&quot;? We have the answer for you. Check it out at https://memgraph.com/docs/memgraph...](https://twitter.com/memgraphdb/status/1684811172355141632)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
