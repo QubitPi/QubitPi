@@ -169,8 +169,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Security** <sup>[![OAuth](https://img.shields.io/badge/OAuth%202-00AA00?style=flat-square&logo=auth0&logoColor=white)](https://github.com/QubitPi/oauth-in-action-code)</sup> [Let's Encrypt](https://qubitpi.github.io/letsencrypt-website/) | [Certbot](https://qubitpi.github.io/certbot/certbot/docs/html/) | [Kong Gateway](https://qubitpi.github.io/docs.konghq.com/gateway/latest/) | [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Logto](https://qubitpi.github.io/logto-docs/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 - **Graph Database** [Memgraph Documentation](https://qubitpi.github.io/memgraph-docs/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Neo4J Developer Guides](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
-<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/fdaa74a0-7816-4d64-985f-9f97727e94e3">
-
 ### Miscellaneous
 
 [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
@@ -180,7 +178,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
 -----------
 
-<img align="right" width="30%" alt="可莉" src="https://user-images.githubusercontent.com/16126939/196366409-d5a38913-010a-4134-93b2-a2ca4818c154.GIF">
+<img align="right" width="30%" alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/fdaa74a0-7816-4d64-985f-9f97727e94e3">
 
 ### Recent Posts
 
