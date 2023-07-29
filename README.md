@@ -208,7 +208,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/823252845904003073><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3e4759785bf8df837792f03a39d23201401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/823623544791367718><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b2521f7574a8d7a00310fb77c94ce36f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #烟绯# #生日快乐# 这是带给我的点心吗——嗯！味道不错，我很喜欢！ 看你欲言又止的样子，是有我烟绯才能帮忙的事了吧？ 别国的律法介绍…嗯…...](https://t.bilibili.com/823252845904003073)
