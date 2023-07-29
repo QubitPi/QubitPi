@@ -211,11 +211,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/823623544791367718><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b2521f7574a8d7a00310fb77c94ce36f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.8版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/823623544791367718)
 - [互动抽奖 #原神# #烟绯# #生日快乐# 这是带给我的点心吗——嗯！味道不错，我很喜欢！ 看你欲言又止的样子，是有我烟绯才能帮忙的事了吧？ 别国的律法介绍…嗯…...](https://t.bilibili.com/823252845904003073)
 - [恭喜@抽象艺术家Pulsar3@MgFeCl@我不是西点等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/822912306546475015)
 - [互动抽奖 #原神# #原神音乐# #珍珠之歌3# #螺音忆梦# 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线。 旅行者们可前往评论区置顶链接参与「螺音忆梦」H...](https://t.bilibili.com/822912306537037879)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/822885647678177444)
-- [互动抽奖 #原神# #久岐忍# #生日快乐# 「忍姐，今天就请好好休息吧！荒泷派的事情有小弟们在，你放一百个心！」 …虽然荒泷派的大家是这么说的，但凡事不能想得...](https://t.bilibili.com/822881971201900582)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
