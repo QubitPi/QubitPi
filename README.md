@@ -326,11 +326,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🎓 #Memgraph presents graph algorithms: Dynamic community detection 🗒️Demand for scale and speed has increased over the years and led to the con...](https://twitter.com/memgraphdb/status/1685338396854460416)
 - [While the #NetworkX package may be enough on its own to learn about graph theory and algorithms, in production, we often require a permanent storage s...](https://twitter.com/memgraphdb/status/1685319759439552512)
 - [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1685315748753735680)
 - [🎓 If you are new to Memgraph, this tutorial is the perfect place to start your journey into the wonderful world of graphs! https://memgraph.com/doc...](https://twitter.com/memgraphdb/status/1685295868465774592)
 - [🎓 #Learn #Cypher with #Memgraph The REMOVE clause is used to remove labels and properties from nodes and relationships. https://memgraph.com/docs/c...](https://twitter.com/memgraphdb/status/1685286050837508096)
-- [🎓 #Memgraph presents graph algorithms: PageRank 🗒️ In the domain of centrality measurements, PageRank is arguably the most popular tool. PageRa...](https://twitter.com/memgraphdb/status/1685248050631950336)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
