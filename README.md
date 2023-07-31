@@ -325,11 +325,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1685972826875219968)
+- [🌐 Need an efficient solution for your NetworkX project? Our platform offers persistent in-memory data storage, custom algorithms, and powerful visu...](https://twitter.com/memgraphdb/status/1685954707661930501)
+- [🚀 Discover how to find all weighted shortest paths in graphs and do it fast with our latest algorithm! #GraphAlgorithms #ShortestPath #memgraph #da...](https://twitter.com/memgraphdb/status/1685948918381633536)
+- [🌐 Explore the depth of directed graphs, perfect for modeling directional relationships - like social media follows or task dependencies. Level up y...](https://twitter.com/memgraphdb/status/1685936838635134976)
 - [🔍 Database isolation levels are key for consistency in multi-user database systems. They control the degree of interaction and visibility between t...](https://twitter.com/memgraphdb/status/1685919476221427712)
-- [📈 Visualize and analyze your IAM data in a new light with Memgraph Lab. Uncover patterns, identify vulnerabilities, and maintain a healthy, secure ...](https://twitter.com/memgraphdb/status/1685898337122185216)
-- [🔄 Should you restart your database between benchmark runs? Discover the answer in our latest post. Also, share your Benchgraph results with us on @...](https://twitter.com/memgraphdb/status/1685883991507746816)
-- [🚀 Overcome visualization limits with our platform! From interacting with nodes to customizable visuals, explore your data in a way that tells your ...](https://twitter.com/memgraphdb/status/1685865118448406528)
-- [🤔 SQL or NoSQL? Your project&#39;s needs dictate the choice. Explore five compelling reasons to opt for NoSQL, from managing large data volumes to hand...](https://twitter.com/memgraphdb/status/1685722678588555264)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
