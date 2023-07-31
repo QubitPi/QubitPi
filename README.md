@@ -325,11 +325,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📊 Memgraph or Neo4j? Make an informed decision for your business by understanding their unique offerings. #GraphDatabaseComparison #BusinessDecisio...](https://twitter.com/memgraphdb/status/1686020641072308225)
+- [📚 Navigate documentation like a pro with your own Docs Recommendation System! Using AI, it helps you decide the best next page to visit, making lea...](https://twitter.com/memgraphdb/status/1686002271836946432)
+- [💡 Memgraph offers a straightforward way to migrate your old CSV data into a graph database with the LOAD CSV clause. Step into the future of IAM sy...](https://twitter.com/memgraphdb/status/1685992960691716096)
 - [🚀 Discover how we designed and implemented the graph projection feature in Memgraph! Improve your graph analysis with subgraphs. #GraphAlgorithms #...](https://twitter.com/memgraphdb/status/1685972826875219968)
 - [🌐 Need an efficient solution for your NetworkX project? Our platform offers persistent in-memory data storage, custom algorithms, and powerful visu...](https://twitter.com/memgraphdb/status/1685954707661930501)
-- [🚀 Discover how to find all weighted shortest paths in graphs and do it fast with our latest algorithm! #GraphAlgorithms #ShortestPath #memgraph #da...](https://twitter.com/memgraphdb/status/1685948918381633536)
-- [🌐 Explore the depth of directed graphs, perfect for modeling directional relationships - like social media follows or task dependencies. Level up y...](https://twitter.com/memgraphdb/status/1685936838635134976)
-- [🔍 Database isolation levels are key for consistency in multi-user database systems. They control the degree of interaction and visibility between t...](https://twitter.com/memgraphdb/status/1685919476221427712)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
