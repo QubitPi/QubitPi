@@ -241,11 +241,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「传心同视」活动：寻找小动物挑战](https://ys.mihoyo.com/main/news/detail/28385)
 - [《原神》「壁纸放送」](https://ys.mihoyo.com/main/news/detail/28373)
 - [烟绯生日快乐｜嗯！味道不错，我很喜欢！](https://ys.mihoyo.com/main/news/detail/28364)
 - [「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线](https://ys.mihoyo.com/main/news/detail/28363)
 - [原神☆FES | 第二轮开票预告](https://ys.mihoyo.com/main/news/detail/28362)
-- [久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？](https://ys.mihoyo.com/main/news/detail/28361)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
