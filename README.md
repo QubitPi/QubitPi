@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/823623544791367718><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/b2521f7574a8d7a00310fb77c94ce36f401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/824365714899992582><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0110d25f28e39d8229be28a506a43782401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.8版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/823623544791367718)
