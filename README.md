@@ -303,11 +303,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [✔Graph Database ✔Graph Data Science ✔ML ✔Fraud detection and more! Check our 30&#39; free demos and register for the one &lpar;or ones!&rpar; you like the most....](https://twitter.com/neo4j/status/1686044099609055235)
 - [We are so happy with this release!!📕🎉 Excel in building, managing, and leveraging knowledge graphs with our new book by @BarrasaDV and @jimwebbe...](https://twitter.com/neo4j/status/1685998948828270592)
 - [Best of: Pay Gap Data - Discovering Neo4j AuraDB Free with Michael and Alexander https://twitter.com/i/broadcasts/1dRKZMEnaoXxB](https://twitter.com/neo4j/status/1685923184174931969)
 - [Are you attending the Gartner Data &amp; Analytics Summit in Sydney?📍 Meet us to learn how graph technology can help you meet your business challenges ...](https://twitter.com/neo4j/status/1685845796304912384)
 - [Great talk between @bigdata and @emileifrem about #graphdatabase #LLMs and more!](https://twitter.com/neo4j/status/1685771677479702528)
-- [We’re very excited about #NODES2023! 🎉💥 During this 24-hour conference, you’ll engage with the global community of graph thinkers, exchange id...](https://twitter.com/neo4j/status/1684630291200036864)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
