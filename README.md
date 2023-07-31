@@ -207,7 +207,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/824365714899992582><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/0110d25f28e39d8229be28a506a43782401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/824396647237681251><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/03aae721d9bd12351fe86698de8bd8fa401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #传心同视# 亲爱的旅行者，「传心同视」活动：寻找小动物挑战 即将开启~ 〓活动时间〓 2023/08/03 10:00 ~ 2023/08/14 03:59 〓参与条件〓 冒险等阶≥20...](https://t.bilibili.com/824365714899992582)
