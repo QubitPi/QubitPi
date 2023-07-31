@@ -231,11 +231,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [3.8版本「燃斗无双」七圣召唤全民积分赛晋级赛战报出炉！](https://bbs.mihoyo.com/ys/article/41883323)
 - [《原神》「壁纸放送」](https://bbs.mihoyo.com/ys/article/41806864)
 - [「浪沫的旋舞」优菈主题绘画活动作品展示合集](https://bbs.mihoyo.com/ys/article/41781215)
 - [「逃跑的太阳」可莉头像征集活动作品展示合集](https://bbs.mihoyo.com/ys/article/41781214)
 - [烟绯生日快乐｜嗯！味道不错，我很喜欢！](https://bbs.mihoyo.com/ys/article/41772576)
-- [原神☆FES | 第二轮开票预告](https://bbs.mihoyo.com/ys/article/41737296)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
