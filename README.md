@@ -120,6 +120,7 @@ My Open Source Portfolio
 [![knowledge-graph-datasets](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=knowledge-graph-datasets&show_owner=true&theme=vue)](https://github.com/paion-data/knowledge-graph-datasets)
 [![unified-metrics-datamart](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=unified-metrics-datamart&show_owner=true&theme=vue)](https://github.com/paion-data/unified-metrics-datamart)
 [![prometheus](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=prometheus&show_owner=true&theme=vue)](https://github.com/paion-data/prometheus)
+[![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=vue)](https://github.com/paion-data/elide)
 <!-- CONTRIBUTED-PAION-REPOS:END -->
 
 <img align="center" width=100% alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/d972ffca-a244-41e1-82c0-b8d67b87d8b7">
