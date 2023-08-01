@@ -317,7 +317,7 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 - [Best of: Pay Gap Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=8DUpkhqZixM)
 - [Neo4j Live: Lessons learned from Real-World Graph App Development #shorts](https://www.youtube.com/watch?v=XxbREBXEbVw)
 - [Neo4j Live: Lessons learned from Real-World Graph App Development](https://www.youtube.com/watch?v=YY-ugAHPu4M)
-- [Going Meta Ep 19: A Series on Graphs, Semantics and Knowledge](https://www.youtube.com/watch?v=xK_07cqKwMk)
+- [Going Meta Ep 19: Ontology Versioning in Neo4j](https://www.youtube.com/watch?v=xK_07cqKwMk)
 - [Best of: Genealogy - Discover Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=27cb3U4Rwt4)
 <!-- NEO4J-YOUTUBE:END -->
 
