@@ -184,18 +184,20 @@ Managing tech team should
 </details>
 
 <!-- TECH-MGMT-DASHBOARD:START -->
+- [(Nexus Graph) Prometheus production issues](https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928) all cleared: ❌
+- [Nexus Graph APP production issues](https://paion-data.sentry.io/projects/app-nexusgraph-com/?project=4505480923643904) all cleared: ❌
 - [Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning: ✅
-- [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml): ✅
-- [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml): ✅
-- [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph): ❌
-- [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus): ✅
-- [Theresa Machine Learning API](https://theresa-api.com): ✅
-- [Nexus Graph landing page](https://nexusgraph.com/): ✅
-- [Nexus Graph Doc](https://paion-data.github.io/nexusgraph/): ✅
-- [Nexus Graph API Doc](https://paion-data.github.io/nexusgraph/api/): ✅
-- [Paion Open Source](https://paion-data.github.io/opensource.paion-data/): ✅
-- [Paion Open Source Guide](https://paion-data.github.io/opensource.guide/): ✅
-- [Paion Artifactory](https://nexus.paion-data.dev/): ✅
+- [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml) passes: ✅
+- [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml) passes: ✅
+- [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph) passes: ❌
+- [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus) passes: ✅
+- Can visit [Theresa Machine Learning API](https://theresa-api.com): ✅
+- Can visit [Nexus Graph landing page](https://nexusgraph.com/): ✅
+- Can visit [Nexus Graph Doc](https://paion-data.github.io/nexusgraph/): ✅
+- Can visit [Nexus Graph API Doc](https://paion-data.github.io/nexusgraph/api/): ✅
+- Can visit [Paion Open Source](https://paion-data.github.io/opensource.paion-data/): ✅
+- Can visit [Paion Open Source Guide](https://paion-data.github.io/opensource.guide/): ✅
+- Can visit [Paion Artifactory](https://nexus.paion-data.dev/): ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
