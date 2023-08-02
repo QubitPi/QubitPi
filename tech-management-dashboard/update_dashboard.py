@@ -3,7 +3,10 @@ from nexusgraph import latest_ci_cd_succeeded
 
 
 if __name__ == "__main__":
-    metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (npm_pacakge_version_follows_semantic_versioning_format(), latest_ci_cd_succeeded()))
+    metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
+        npm_pacakge_version_follows_semantic_versioning_format(),
+        latest_ci_cd_succeeded()
+    ))
 
     readme_lines = []
 
