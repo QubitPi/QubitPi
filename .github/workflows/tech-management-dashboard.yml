@@ -36,7 +36,7 @@ jobs:
       - name: Write dashboard metrics to temp.txt
         run: python tech-management-dashboard/dashboard.py
       - name: Dashbord data
-      - run: cat tech-management-dashboard/temp.txt
+        run: cat tech-management-dashboard/temp.txt
       - name: Write temp.txt to README.md and put it between specified (overwrite)
         run: sed -i -e '/<!-- TECH-MGMT-DASHBOARD:START -->/,/<!-- TECH-MGMT-DASHBOARD:END -->/ {//!d; /<!--TECH-MGMT-DASHBOARD:START -->/r tech-management-dashboard/temp.txt' -e '}' README.md
       - name: Commit changes
