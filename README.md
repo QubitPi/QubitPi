@@ -232,11 +232,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [3.8版本「燃斗无双」七圣召唤全民积分赛淘汰赛揭幕！](https://bbs.mihoyo.com/ys/article/41941120)
+- [圣遗物收纳上限提升、纪行武器追加…——08.02开发组座谈会](https://bbs.mihoyo.com/ys/article/41940201)
+- [「传心同视」活动说明](https://bbs.mihoyo.com/ys/article/41940198)
 - [【幕间趣闻】3.8版本「燃斗无双」海选赛&amp;晋级赛趣味数据公开](https://bbs.mihoyo.com/ys/article/41885618)
 - [3.8版本「燃斗无双」七圣召唤全民积分赛晋级赛战报出炉！](https://bbs.mihoyo.com/ys/article/41883323)
-- [《原神》「壁纸放送」](https://bbs.mihoyo.com/ys/article/41806864)
-- [「浪沫的旋舞」优菈主题绘画活动作品展示合集](https://bbs.mihoyo.com/ys/article/41781215)
-- [「逃跑的太阳」可莉头像征集活动作品展示合集](https://bbs.mihoyo.com/ys/article/41781214)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
