@@ -178,6 +178,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 My Tech Management Dashboard
 ----------------------------
 
+<details> <summary>How Things Begun</summary>
 I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
 
 ![Error loading tagging-issue.png](img/tagging-issue.png)
@@ -188,6 +189,7 @@ Although the issue got fixed quickly:
 
 a question raised in my mind: **What is there are multiple such issues and I was not luck enough to spot them sooner
 than later?** 
+</details>
 
 <!-- TECH-MGMT-DASHBOARD:START -->
 - Nexus Graph NPM package follows semantic versioning: ✅
