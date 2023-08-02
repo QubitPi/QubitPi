@@ -228,11 +228,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825085980914483203><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/480dfab757c1cd3d27dd19ecf24676e6401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神# #传心同视# 旅行者们好呀~「传心同视」活动即将开启，一位正在收集实验数据的生论派学者急需旅行者的协助，快来了解吧。](https://t.bilibili.com/825085980914483203)
+- [圣遗物收纳上限提升、纪行武器追加…get√——08.02开发组座谈会](https://t.bilibili.com/825084748258869331)
 - [恭喜@空色の桜@Akki_POPO@z神经病都滚等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/824396647237681251)
 - [#原神# #传心同视# 亲爱的旅行者，「传心同视」活动：寻找小动物挑战 即将开启~ 〓活动时间〓 2023/08/03 10:00 ~ 2023/08/14 03:59 〓参与条件〓 冒险等阶≥20...](https://t.bilibili.com/824365714899992582)
 - [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.8版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/823623544791367718)
-- [互动抽奖 #原神# #烟绯# #生日快乐# 这是带给我的点心吗——嗯！味道不错，我很喜欢！ 看你欲言又止的样子，是有我烟绯才能帮忙的事了吧？ 别国的律法介绍…嗯…...](https://t.bilibili.com/823252845904003073)
-- [恭喜@抽象艺术家Pulsar3@MgFeCl@我不是西点等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/822912306546475015)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
