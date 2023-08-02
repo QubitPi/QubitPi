@@ -187,8 +187,13 @@ Although the issue got fixed quickly:
 
 ![Error loading tagging-issue-solved.png](img/tagging-issue-solved.png)
 
-a question raised in my mind: **What is there are multiple such issues and I was not luck enough to spot them sooner
-than later?** 
+a question raised in my mind: **What if there are multiple such issues and I was not lucky enough to spot them sooner
+than later?** My answer was _this is a [broken window problem](https://en.wikipedia.org/wiki/Broken_windows_theory)_.
+Managing tech team should
+
+1. Give team autonomy as much as possible
+2. Sate-gard team by preventing any "broken window", which is what I am doing below:
+
 </details>
 
 <!-- TECH-MGMT-DASHBOARD:START -->
