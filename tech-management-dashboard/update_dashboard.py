@@ -28,13 +28,13 @@ if __name__ == "__main__":
         latest_ci_cd_succeeded(
             "paion-data",
             "nexusgraph",
-            "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml) passes",
+            "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml?query=branch:master) passes",
             "ci-cd.yml"
         ),
         latest_ci_cd_succeeded(
             "paion-data",
             "prometheus",
-            "[Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml) passes",
+            "[Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml?query=branch:master) passes",
             "ci-cd.yml"
         ),
 
