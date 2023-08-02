@@ -4,8 +4,8 @@ from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versionin
 from ci_cd import latest_ci_cd_succeeded
 from ci_cd import sonar_quality_gate_passes
 
-def url_returns_200(url: str):
-    return (url, requests.get(url).status_code == 200)
+def url_returns_200(metric_name: str, url: str):
+    return ("[{metric_name}]({url})".format(metric_name=metric_name, url=url) , requests.get(url).status_code == 200)
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
@@ -33,13 +33,13 @@ if __name__ == "__main__":
             "paion-data_prometheus"
         ),
 
-        url_returns_200("https://theresa-api.com"),
-        url_returns_200("https://nexusgraph.com/"),
-        url_returns_200("https://paion-data.github.io/nexusgraph/"),
-        url_returns_200("https://paion-data.github.io/nexusgraph/api/"),
-        url_returns_200("https://paion-data.github.io/opensource.paion-data/"),
-        url_returns_200("https://paion-data.github.io/opensource.guide/"),
-        url_returns_200("https://nexus.paion-data.dev/")
+        url_returns_200("Theresa Machine Learning API", "https://theresa-api.com"),
+        url_returns_200("Nexus Graph landing page", "https://nexusgraph.com/"),
+        url_returns_200("Nexus Graph Doc", "https://paion-data.github.io/nexusgraph/"),
+        url_returns_200("Nexus Graph API Doc", "https://paion-data.github.io/nexusgraph/api/"),
+        url_returns_200("Paion Open Source", "https://paion-data.github.io/opensource.paion-data/"),
+        url_returns_200("Paion Open Source Guide", "https://paion-data.github.io/opensource.guide/"),
+        url_returns_200("Paion Artifactory", "https://nexus.paion-data.dev/")
     ))
 
     readme_lines = []
