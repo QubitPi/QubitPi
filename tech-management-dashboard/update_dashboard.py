@@ -1,6 +1,11 @@
+import requests
+
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
 from ci_cd import latest_ci_cd_succeeded
 from ci_cd import sonar_quality_gate_passes
+
+def url_returns_200(url: str):
+    return (url, requests.get(url).status_code == 200)
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
@@ -26,8 +31,9 @@ if __name__ == "__main__":
         sonar_quality_gate_passes(
             "[Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus)",
             "paion-data_prometheus"
-        )
+        ),
 
+        url_returns_200("https://theresa-api.com")
     ))
 
     readme_lines = []
