@@ -281,11 +281,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [织羽梦旌 | 扩充补给限时开启](https://www.bh3.com/news/28408)
 - [芯核空间 | 参与活动获取水晶、爱因斯坦环磁机等奖励！](https://www.bh3.com/news/28409)
 - [封号名单（2023年7月31日）](https://www.bh3.com/news/28407)
 - [精准补给B丨蓝焰银隼0019&amp;布洛妮娅·次生银翼](https://www.bh3.com/news/28359)
 - [神州漂流记丨参与活动获取水晶、服装自选箱等奖励](https://www.bh3.com/news/28352)
-- [7月24日外挂使用封禁名单](https://www.bh3.com/news/28338)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 <br />
