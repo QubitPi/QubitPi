@@ -2,6 +2,7 @@ import requests
 from datetime import datetime, timedelta
 from dateutil import parser
 
+
 def nexusgraph_npm_pacakge_version_follows_semantic_versioning_format():
     """
     Valid version, for example, can be 0.1.124. Invalid versions include anything appended such as 0.1.123-1-G5F3GAR
@@ -12,6 +13,7 @@ def nexusgraph_npm_pacakge_version_follows_semantic_versioning_format():
     metric_name = "[Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning"
 
     return (metric_name, "-" not in requests.get("https://registry.npmjs.org/@paiondata/nexusgraph").json()["dist-tags"]["latest"])
+
 
 def nexusgraph_latest_ci_cd_succeeded():
     metric_name = "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml)"
@@ -32,6 +34,7 @@ def nexusgraph_latest_ci_cd_succeeded():
     latest_run = sorted_runs[0]
 
     return (metric_name, latest_run["conclusion"] == "success")
+
 
 def nexusgraph_sonar_quality_gate_passes():
     metric_name = "[Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph)"

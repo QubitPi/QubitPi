@@ -1,11 +1,16 @@
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
-from nexusgraph import nexusgraph_latest_ci_cd_succeeded
 from nexusgraph import nexusgraph_sonar_quality_gate_passes
+from ci_cd import latest_ci_cd_succeeded
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
         nexusgraph_npm_pacakge_version_follows_semantic_versioning_format(),
-        nexusgraph_latest_ci_cd_succeeded(),
+        latest_ci_cd_succeeded(
+            "paion-data",
+            "nexusgraph",
+            "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml)",
+            "ci-cd.yml"
+        ),
         nexusgraph_sonar_quality_gate_passes()
     ))
 
