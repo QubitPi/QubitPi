@@ -203,6 +203,7 @@ Managing tech team should
 - [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml): ✅
 - [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph): ❌
 - [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus): ✅
+- https://theresa-api.com: ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
