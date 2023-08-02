@@ -24,5 +24,13 @@ def latest_ci_cd_succeeded(org: str, repo: str, metric_name: str, ci_ci_file_nam
 
     return (metric_name, latest_run["conclusion"] == "success")
 
+def sonar_quality_gate_passes(metric_name: str, project: str):
+    # https://stackoverflow.com/a/68804543
+    # https://stackoverflow.com/a/606199
+    return (metric_name, "failed" not in requests.get(
+        "https://sonarcloud.io/api/project_badges/measure?project={project}&metric=alert_status".format(project=project)
+    ).content.decode("utf-8"))
+
+
 if __name__ == "__main__":
    pass

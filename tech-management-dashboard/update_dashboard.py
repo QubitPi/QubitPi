@@ -1,6 +1,7 @@
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
 from nexusgraph import nexusgraph_sonar_quality_gate_passes
 from ci_cd import latest_ci_cd_succeeded
+from ci_cd import sonar_quality_gate_passes
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
@@ -19,7 +20,15 @@ if __name__ == "__main__":
             "ci-cd.yml"
         ),
 
-        nexusgraph_sonar_quality_gate_passes()
+        sonar_quality_gate_passes(
+            "[Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph)",
+            "paion-data_nexusgraph"
+        ),
+        sonar_quality_gate_passes(
+            "[Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus)",
+            "paion-data_prometheus"
+        )
+
     ))
 
     readme_lines = []
