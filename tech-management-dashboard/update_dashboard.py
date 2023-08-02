@@ -10,10 +10,10 @@ if __name__ == "__main__":
 
     readme_lines = []
 
-    with open("../README.md", "r") as file:
+    with open("README.md", "r") as file:
         readme_lines = [line for line in file]
 
-    with open("../README.md", "w") as f:
+    with open("README.md", "w") as f:
         for line in readme_lines:
             f.write(line)
             if "<!-- TECH-MGMT-DASHBOARD:START -->" in line:
