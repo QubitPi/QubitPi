@@ -353,11 +353,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1686785936401612821)
+- [🐍 Facing challenges with #NetworkX? Memgraph can enhance your data persistence and large-scale data analytics without repetitive loading. #Python #...](https://twitter.com/memgraphdb/status/1686770104246112256)
+- [🕵️‍♂️ Traditional methods missing out on detecting fraud? See how Memgraph&#39;s graph tech unearthed undetected frauds for a top insurer, securing...](https://twitter.com/memgraphdb/status/1686745418627940352)
 - [⚖️ Weighted graphs open up a world of optimization opportunities, from network routing to resource allocation. Unlock potential with graph search al...](https://twitter.com/memgraphdb/status/1686727045760405505)
 - [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1686717735487545344)
-- [🎯 Uniting #MachineLearning &amp; #GraphTech can transform fraud detection. As in insurance, fraud is a costly problem. AI offers promising solutions. #...](https://twitter.com/memgraphdb/status/1686697605294686208)
-- [🌐 Dive into NoSQL types: Document, Graph, Key-value, and Column-oriented databases each have unique strengths. Get familiar with popular examples l...](https://twitter.com/memgraphdb/status/1686679482013261826)
-- [💡 Master graph analysis on subgraphs with Memgraph&#39;s graph projection feature – it&#39;s a game-changer for graph machine learning and more! #GraphPro...](https://twitter.com/memgraphdb/status/1686673694855143429)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
