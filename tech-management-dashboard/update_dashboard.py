@@ -1,5 +1,4 @@
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
-from nexusgraph import nexusgraph_sonar_quality_gate_passes
 from ci_cd import latest_ci_cd_succeeded
 from ci_cd import sonar_quality_gate_passes
 
