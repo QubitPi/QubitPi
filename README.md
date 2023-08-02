@@ -235,7 +235,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825138817588527138><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3c81841f913a27c7a718f55a13bfd342401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825206016658374722><img align='right' src='https://i2.hdslb.com/bfs/archive/849635cd303d2e0c245a73aefb1735ed5db76043.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #传心同视# 旅行者们好呀~「传心同视」活动即将开启，一位正在收集实验数据的生论派学者急需旅行者的协助，快来了解吧。](https://t.bilibili.com/825085980914483203)
