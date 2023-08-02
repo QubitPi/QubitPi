@@ -190,6 +190,12 @@ Managing tech team should
 - [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph): ❌
 - [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus): ✅
 - https://theresa-api.com: ✅
+- https://nexusgraph.com/: ✅
+- https://paion-data.github.io/nexusgraph/: ✅
+- https://paion-data.github.io/nexusgraph/api/: ✅
+- https://paion-data.github.io/opensource.paion-data/: ✅
+- https://paion-data.github.io/opensource.guide/: ✅
+- https://nexus.paion-data.dev/: ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
