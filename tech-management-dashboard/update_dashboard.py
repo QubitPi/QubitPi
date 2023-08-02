@@ -33,7 +33,12 @@ if __name__ == "__main__":
             "paion-data_prometheus"
         ),
 
-        url_returns_200("https://theresa-api.com")
+        url_returns_200("https://theresa-api.com"),
+        url_returns_200("https://nexusgraph.com/"),
+        url_returns_200("https://paion-data.github.io/nexusgraph/"),
+        url_returns_200("https://paion-data.github.io/nexusgraph/api/"),
+        url_returns_200("https://paion-data.github.io/opensource.paion-data/"),
+        url_returns_200("https://paion-data.github.io/opensource.guide/")           
     ))
 
     readme_lines = []
