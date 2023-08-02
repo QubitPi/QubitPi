@@ -9,12 +9,12 @@ def nexusgraph_npm_pacakge_version_follows_semantic_versioning_format():
     https://github.com/npm/registry/blob/master/docs/responses/package-metadata.md
     """
 
-    metric_name = "Nexus Graph NPM package follows semantic versioning"
+    metric_name = "[Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning"
 
     return (metric_name, "-" not in requests.get("https://registry.npmjs.org/@paiondata/nexusgraph").json()["dist-tags"]["latest"])
 
 def nexusgraph_latest_ci_cd_succeeded():
-    metric_name = "Nexus Graph CI/CD"
+    metric_name = "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml)"
 
     today = datetime.today().strftime('%Y-%m-%d')
     seven_days_before_today = (datetime.today() - timedelta(days = 7)).strftime('%Y-%m-%d')
@@ -34,7 +34,7 @@ def nexusgraph_latest_ci_cd_succeeded():
     return (metric_name, latest_run["conclusion"] == "success")
 
 def nexusgraph_sonar_quality_gate_passes():
-    metric_name = "Nexus Graph Quality Gate"
+    metric_name = "[Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph)"
 
     # https://stackoverflow.com/a/68804543
     # https://stackoverflow.com/a/606199
