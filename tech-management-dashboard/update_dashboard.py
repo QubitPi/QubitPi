@@ -5,7 +5,7 @@ from ci_cd import latest_ci_cd_succeeded
 from ci_cd import sonar_quality_gate_passes
 
 def url_returns_200(metric_name: str, url: str):
-    return ("[{metric_name}]({url})".format(metric_name=metric_name, url=url) , requests.get(url).status_code == 200)
+    return ("Can visit [{metric_name}]({url})".format(metric_name=metric_name, url=url) , requests.get(url).status_code == 200)
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
@@ -14,22 +14,22 @@ if __name__ == "__main__":
         latest_ci_cd_succeeded(
             "paion-data",
             "nexusgraph",
-            "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml)",
+            "[Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml) passes",
             "ci-cd.yml"
         ),
         latest_ci_cd_succeeded(
             "paion-data",
             "prometheus",
-            "[Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml)",
+            "[Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml) passes",
             "ci-cd.yml"
         ),
 
         sonar_quality_gate_passes(
-            "[Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph)",
+            "[Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph) passes",
             "paion-data_nexusgraph"
         ),
         sonar_quality_gate_passes(
-            "[Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus)",
+            "[Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus) passes",
             "paion-data_prometheus"
         ),
 
