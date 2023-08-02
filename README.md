@@ -183,7 +183,7 @@ Managing tech team should
 
 </details>
 
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/fe8fcd19-b742-4e6d-b5f1-20cfc717e5bb" width="30%" align="right">
+<img src="https://github.com/QubitPi/QubitPi/assets/16126939/fe8fcd19-b742-4e6d-b5f1-20cfc717e5bb" width="45%" align="right">
 
 <!-- TECH-MGMT-DASHBOARD:START -->
 - [(Nexus Graph) Prometheus production issues](https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928) all cleared: ❌
