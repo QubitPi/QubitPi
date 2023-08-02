@@ -36,7 +36,9 @@ jobs:
           python -m pip install requests
           python -m pip install python-dateutil
       - name: Write updated dashboard to README
-        run: python tech-management-dashboard/update_dashboard.py
+        run: |
+          export SENTRY_TOKEN=${{ secrets.SENTRY_TOKEN }}
+          python tech-management-dashboard/update_dashboard.py
       - name: Commit changes
         run: |
           git config user.name "QubitPi"

@@ -3,12 +3,26 @@ import requests
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
 from ci_cd import latest_ci_cd_succeeded
 from ci_cd import sonar_quality_gate_passes
+from sentry import sentry_issues_all_cleared
 
 def url_returns_200(metric_name: str, url: str):
     return ("Can visit [{metric_name}]({url})".format(metric_name=metric_name, url=url) , requests.get(url).status_code == 200)
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
+        sentry_issues_all_cleared(
+            displayed_project_name="(Nexus Graph) Prometheus",
+            sentry_url="https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928",
+            org_slug="paion-data",
+            project_slug="nexusgraph-prometheus"
+        ),
+        sentry_issues_all_cleared(
+            displayed_project_name="Nexus Graph APP",
+            sentry_url="https://paion-data.sentry.io/projects/app-nexusgraph-com/?project=4505480923643904",
+            org_slug="paion-data",
+            project_slug="app-nexusgraph-com"
+        ),
+
         nexusgraph_npm_pacakge_version_follows_semantic_versioning_format(),
 
         latest_ci_cd_succeeded(
