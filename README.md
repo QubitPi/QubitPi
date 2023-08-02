@@ -189,13 +189,13 @@ Managing tech team should
 - [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml): ✅
 - [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph): ❌
 - [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus): ✅
-- https://theresa-api.com: ✅
-- https://nexusgraph.com/: ✅
-- https://paion-data.github.io/nexusgraph/: ✅
-- https://paion-data.github.io/nexusgraph/api/: ✅
-- https://paion-data.github.io/opensource.paion-data/: ✅
-- https://paion-data.github.io/opensource.guide/: ✅
-- https://nexus.paion-data.dev/: ✅
+- [Theresa Machine Learning API](https://theresa-api.com): ✅
+- [Nexus Graph landing page](https://nexusgraph.com/): ✅
+- [Nexus Graph Doc](https://paion-data.github.io/nexusgraph/): ✅
+- [Nexus Graph API Doc](https://paion-data.github.io/nexusgraph/api/): ✅
+- [Paion Open Source](https://paion-data.github.io/opensource.paion-data/): ✅
+- [Paion Open Source Guide](https://paion-data.github.io/opensource.guide/): ✅
+- [Paion Artifactory](https://nexus.paion-data.dev/): ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
