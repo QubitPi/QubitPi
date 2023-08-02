@@ -175,8 +175,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-My Tech Management Dashboard
-----------------------------
+My Tech Management Dashboard (Update Every ~10 min)
+---------------------------------------------------
 
 <details> <summary>How Things Begun</summary>
 
