@@ -349,11 +349,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Dive into NoSQL types: Document, Graph, Key-value, and Column-oriented databases each have unique strengths. Get familiar with popular examples l...](https://twitter.com/memgraphdb/status/1686679482013261826)
+- [💡 Master graph analysis on subgraphs with Memgraph&#39;s graph projection feature – it&#39;s a game-changer for graph machine learning and more! #GraphPro...](https://twitter.com/memgraphdb/status/1686673694855143429)
+- [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1686661617209995264)
 - [🌐 Unveil the power of graph databases when you have tightly linked nodes. Create efficient models for better performance. #GraphDatabase #DataModel...](https://twitter.com/memgraphdb/status/1686621601633050624)
 - [🔍 Explore the landscape of database models: relational, NoSQL, NewSQL, time-series, and more. Your project&#39;s needs determine your perfect match. @M...](https://twitter.com/memgraphdb/status/1686612544826273792)
-- [🔍 Explore the distinctive features of #PostgreSQL, including extensibility and full-text search. Discover how it supports geographic info systems, ...](https://twitter.com/memgraphdb/status/1686589893898547200)
-- [📈 Considering a graph database for your next project? Explore the top 10 based on DB-Engines rankings. Stay tuned! #GraphDatabases #DBEngines #memg...](https://twitter.com/memgraphdb/status/1686443176477798400)
-- [📘 Looking for credible sources to apply graphs to your use case? Stay tuned as we explore the top 7 graph algorithm books! #GraphAlgorithms #Comput...](https://twitter.com/memgraphdb/status/1686425560589783046)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
