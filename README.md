@@ -179,20 +179,21 @@ My Tech Management Dashboard
 ----------------------------
 
 <details> <summary>How Things Begun</summary>
-I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
 
-![Error loading tagging-issue.png](img/tagging-issue.png)
+One day I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
+
+<img align="center" width="50%" src="img/tagging-issue.png">
 
 Although the issue got fixed quickly:
 
-![Error loading tagging-issue-solved.png](img/tagging-issue-solved.png)
+<img align="center" width="50%" src="img/tagging-issue-solved.png">
 
 a question raised in my mind: **What if there are multiple such issues and I was not lucky enough to spot them sooner
 than later?** My answer was _this is a [broken window problem](https://en.wikipedia.org/wiki/Broken_windows_theory)_.
 Managing tech team should
 
 1. Give team autonomy as much as possible
-2. Sate-gard team by preventing any "broken window", which is what I am doing below:
+2. Safeguard team by preventing any "broken window", which is what I am doing below:
 
 </details>
 
