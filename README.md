@@ -200,7 +200,9 @@ Managing tech team should
 <!-- TECH-MGMT-DASHBOARD:START -->
 - [Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning: ✅
 - [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml): ✅
+- [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml): ✅
 - [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph): ❌
+- [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus): ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
