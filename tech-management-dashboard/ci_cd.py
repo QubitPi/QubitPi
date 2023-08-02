@@ -15,7 +15,8 @@ def latest_ci_cd_succeeded(org: str, repo: str, metric_name: str, ci_ci_file_nam
         params = {
             "exclude_pull_requests": "true",
             "branch": "master",
-            "created": "{start}..{end}".format(start=seven_days_before_today, end=today)
+            "created": "{start}..{end}".format(start=seven_days_before_today, end=today),
+            "query": "branch:master"
         }
     ).json()
 
