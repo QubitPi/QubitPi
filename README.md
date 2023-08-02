@@ -238,11 +238,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825206016658374722><img align='right' src='https://i2.hdslb.com/bfs/archive/849635cd303d2e0c245a73aefb1735ed5db76043.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇][原神_哇]](https://t.bilibili.com/825206016658374722)
+- [恭喜@奇怪的烤老鼠@海风吹伊人@云堇夕等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825138817588527138)
+- [互动抽奖 #原神# #天朗风清 绿色出行# #森林奇旅 寓梦筑林# #原神支付宝# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动「第四期」即将开启！ 活动周期：20...](https://t.bilibili.com/825110694158401561)
+- [#原神# #原神4.0# #仿若无因飘落的轻雨# #原神4.0版本前瞻特别节目# 亲爱的旅行者，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》4.0版本「仿若无因飘落的轻雨」前...](https://t.bilibili.com/825107932470313049)
 - [#原神# #传心同视# 旅行者们好呀~「传心同视」活动即将开启，一位正在收集实验数据的生论派学者急需旅行者的协助，快来了解吧。](https://t.bilibili.com/825085980914483203)
-- [圣遗物收纳上限提升、纪行武器追加…get√——08.02开发组座谈会](https://t.bilibili.com/825084748258869331)
-- [恭喜@空色の桜@Akki_POPO@z神经病都滚等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/824396647237681251)
-- [#原神# #传心同视# 亲爱的旅行者，「传心同视」活动：寻找小动物挑战 即将开启~ 〓活动时间〓 2023/08/03 10:00 ~ 2023/08/14 03:59 〓参与条件〓 冒险等阶≥20...](https://t.bilibili.com/824365714899992582)
-- [#原神# #原神壁纸# 《原神》「壁纸放送」 派蒙这次为旅行者准备了3.8版本游戏宣传图的电脑和手机壁纸，旅行者可以按照自己的需要选择使用哦~ 旅行者可以从评论区...](https://t.bilibili.com/823623544791367718)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
