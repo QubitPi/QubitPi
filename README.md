@@ -353,11 +353,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [⚖️ Weighted graphs open up a world of optimization opportunities, from network routing to resource allocation. Unlock potential with graph search al...](https://twitter.com/memgraphdb/status/1686727045760405505)
-- [⚙️ Why should you monitor your database performance? Gain valuable insights into query response times, memory usage, and more with @PrometheusIO. #P...](https://twitter.com/memgraphdb/status/1686717735487545344)
-- [🎯 Uniting #MachineLearning &amp; #GraphTech can transform fraud detection. As in insurance, fraud is a costly problem. AI offers promising solutions. #...](https://twitter.com/memgraphdb/status/1686697605294686208)
 - [🌐 Dive into NoSQL types: Document, Graph, Key-value, and Column-oriented databases each have unique strengths. Get familiar with popular examples l...](https://twitter.com/memgraphdb/status/1686679482013261826)
 - [💡 Master graph analysis on subgraphs with Memgraph&#39;s graph projection feature – it&#39;s a game-changer for graph machine learning and more! #GraphPro...](https://twitter.com/memgraphdb/status/1686673694855143429)
+- [🔨 With Python Flask, React, and algorithms like TF-IDF and node2vec, you can build your own Documentation Recommendation Engine! Dive into the deta...](https://twitter.com/memgraphdb/status/1686661617209995264)
+- [🌐 Unveil the power of graph databases when you have tightly linked nodes. Create efficient models for better performance. #GraphDatabase #DataModel...](https://twitter.com/memgraphdb/status/1686621601633050624)
+- [🔍 Explore the landscape of database models: relational, NoSQL, NewSQL, time-series, and more. Your project&#39;s needs determine your perfect match. @M...](https://twitter.com/memgraphdb/status/1686612544826273792)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
