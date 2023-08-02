@@ -199,21 +199,7 @@ Managing tech team should
 
 <!-- TECH-MGMT-DASHBOARD:START -->
 - Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
-- Nexus Graph NPM package follows semantic versioning: ✅
+- Nexus Graph CI/CD: ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
 My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
