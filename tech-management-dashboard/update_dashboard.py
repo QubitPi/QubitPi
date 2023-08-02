@@ -38,7 +38,7 @@ if __name__ == "__main__":
         url_returns_200("https://paion-data.github.io/nexusgraph/"),
         url_returns_200("https://paion-data.github.io/nexusgraph/api/"),
         url_returns_200("https://paion-data.github.io/opensource.paion-data/"),
-        url_returns_200("https://paion-data.github.io/opensource.guide/")
+        url_returns_200("https://paion-data.github.io/opensource.guide/"),
         url_returns_200("https://nexus.paion-data.dev/")
     ))
 
