@@ -180,11 +180,11 @@ My Tech Management Dashboard
 
 I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
 
-![Error loading tagging-issue.png](../img/tagging-issue.png)
+![Error loading tagging-issue.png](img/tagging-issue.png)
 
 Although the issue got fixed quickly:
 
-![](../img/tagging-issue-solved.png)
+![Error loading tagging-issue-solved.png](img/tagging-issue-solved.png)
 
 a question raised in my mind: **What is there are multiple such issues and I was not luck enough to spot them sooner
 than later?** 
