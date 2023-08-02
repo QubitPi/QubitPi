@@ -39,6 +39,8 @@ jobs:
         run: cat temp.txt
       - name: Write temp.txt to README.md and put it between specified (overwrite)
         run: sed -i -e '/<!-- TECH-MGMT-DASHBOARD:START -->/,/<!-- TECH-MGMT-DASHBOARD:END -->/ {//!d; /<!--TECH-MGMT-DASHBOARD:START -->/r temp.txt' -e '}' README.md
+      - name: README data
+        run: cat README.md
       - name: Delete dashboard data file
         run: rm temp.txt
       - name: Commit changes
