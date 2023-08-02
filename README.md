@@ -331,11 +331,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT Siddhant Agarwal: Calling all #Bangalore developers! 🚨 Meetup Alert 🚨 Graph Database Bangalore User Group powered by @neo4j is back with yet ...](https://twitter.com/sidagarwal04/status/1686715975041785857)
 - [Attention Europe! These are #demos time-zone friendly! Which one will you pick? : Make your choice and register for free! https://okt.to/iAgeMz #Neo4j...](https://twitter.com/neo4j/status/1686708470563704832)
+- [RT The New Stack: In this tutorial, we’ll show how to amass otherwise disparate databases of actors, movies and directors and show how they are conne...](https://twitter.com/thenewstack/status/1686575549924114432)
 - [Check out this article, where you’ll discover how to build a predictive model in #Python, including the nuances of installing packages, reading data,...](https://twitter.com/neo4j/status/1686462072945512450)
 - [📍We had a great time at #WeAreDevelopers in Berlin last week with numerous conversations on Graph Databases, Graph Data Modelling, and how to solve...](https://twitter.com/neo4j/status/1686406632761180160)
-- [New month and it is a Tuesday! That means: Going Meta Time with @BarrasaDV - Tune in for you fix on #semantics and #knowledgegraph https://youtube.com...](https://twitter.com/neo4j/status/1686363651270393856)
-- [✔Graph Database ✔Graph Data Science ✔ML ✔Fraud detection and more! Check our 30&#39; free demos and register for the one &lpar;or ones!&rpar; you like the most....](https://twitter.com/neo4j/status/1686044099609055235)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
