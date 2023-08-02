@@ -1,11 +1,12 @@
 from nexusgraph import nexusgraph_npm_pacakge_version_follows_semantic_versioning_format
 from nexusgraph import nexusgraph_latest_ci_cd_succeeded
-
+from nexusgraph import nexusgraph_sonar_quality_gate_passes
 
 if __name__ == "__main__":
     metircs = dict((metric, "✅" if status_ok else "❌") for metric, status_ok in (
         nexusgraph_npm_pacakge_version_follows_semantic_versioning_format(),
-        nexusgraph_latest_ci_cd_succeeded()
+        nexusgraph_latest_ci_cd_succeeded(),
+        nexusgraph_sonar_quality_gate_passes()
     ))
 
     readme_lines = []
