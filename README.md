@@ -295,11 +295,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Multimodal medical AI](http://ai.googleblog.com/2023/08/multimodal-medical-ai.html)
 - [In search of a generalizable method for source-free domain adaptation](http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html)
 - [Google at ICML 2023](http://ai.googleblog.com/2023/07/google-at-icml-2023.html)
 - [Using societal context knowledge to foster the responsible application of AI](http://ai.googleblog.com/2023/07/using-societal-context-knowledge-to.html)
 - [SimPer: Simple self-supervised learning of periodic targets](http://ai.googleblog.com/2023/07/simper-simple-self-supervised-learning.html)
-- [Symbol tuning improves in-context learning in language models](http://ai.googleblog.com/2023/07/symbol-tuning-improves-in-context.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <a href="https://www.bilibili.com/video/BV1Ra411G7N6">
