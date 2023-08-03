@@ -353,11 +353,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🧩 ACID transactions play a crucial role in ensuring data integrity in databases. Atomicity, Consistency, Isolation, and Durability are key pillars ...](https://twitter.com/memgraphdb/status/1687150335263961088)
+- [🚀 #NoSQL: A powerhouse for flexible data models, scalability, high performance but with a few drawbacks. How has NoSQL influenced your projects? #B...](https://twitter.com/memgraphdb/status/1687132234690514944)
 - [🚀 Upgrade your IAM systems! Move from tabular solutions to graph solutions with Memgraph, making data import, analysis, and decision-making drastic...](https://twitter.com/memgraphdb/status/1687089436989767681)
 - [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1687080124225576960)
 - [💡 From AI to supply chain optimization, graph databases like Neo4j and Memgraph empower robust network analysis. #AI #SupplyChain #memgraph #databa...](https://twitter.com/memgraphdb/status/1687059235849248768)
-- [🌐 As the amount of data grows, securing it becomes crucial. Memgraph&#39;s Label-Based Access Control keeps your data safe with a hierarchy of permissi...](https://twitter.com/memgraphdb/status/1687034574096805888)
-- [🧮 Key database performance metrics to keep an eye on: RAM memory usage, query execution latency, snapshot recovery latency, connections and transac...](https://twitter.com/memgraphdb/status/1686999592255008768)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
