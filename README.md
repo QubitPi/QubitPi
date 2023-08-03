@@ -238,11 +238,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825206016658374722><img align='right' src='https://i2.hdslb.com/bfs/archive/849635cd303d2e0c245a73aefb1735ed5db76043.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@猫不吃晴天ゆ@凯亚大人的忠犬@_Shinel_等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509911364370441)
+- [恭喜@希鸣与空@虾蟹粥亦真亦幻@清鹤祥云等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509902760804473)
+- [恭喜@来颗左甜甜@耀和小祺@诗雅可爱等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509902757658678)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/825206016658374722)
 - [恭喜@奇怪的烤老鼠@海风吹伊人@云堇夕等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825138817588527138)
-- [互动抽奖 #原神# #天朗风清 绿色出行# #森林奇旅 寓梦筑林# #原神支付宝# 亲爱的旅行者， 原神 x 支付宝2023年度绿色出行活动「第四期」即将开启！ 活动周期：20...](https://t.bilibili.com/825110694158401561)
-- [#原神# #原神4.0# #仿若无因飘落的轻雨# #原神4.0版本前瞻特别节目# 亲爱的旅行者，现在是派蒙的特别节目预告时间&gt; &lt; 《原神》4.0版本「仿若无因飘落的轻雨」前...](https://t.bilibili.com/825107932470313049)
-- [#原神# #传心同视# 旅行者们好呀~「传心同视」活动即将开启，一位正在收集实验数据的生论派学者急需旅行者的协助，快来了解吧。](https://t.bilibili.com/825085980914483203)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
