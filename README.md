@@ -353,11 +353,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌐 Graph clustering algorithms are crucial in fields ranging from social network analysis and bioinformatics to security and fraud detection. #Netwo...](https://twitter.com/memgraphdb/status/1686985500458962944)
+- [📊 Dive into the world of graph clustering algorithms! Powerful tools for unveiling patterns, communities, and structures within complex networks. #...](https://twitter.com/memgraphdb/status/1686971156903960577)
 - [🚀 Discover how hashing can help optimize your data model and reduce node duplication in your graph database. #DataOptimization #Hashing #memgraph #...](https://twitter.com/memgraphdb/status/1686960333976395776)
 - [🗂️ Explore the world of #NoSQL databases: offering flexibility, scalability, and high performance, these databases are perfect for modern apps. #D...](https://twitter.com/memgraphdb/status/1686809842780880904)
 - [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1686785936401612821)
-- [🐍 Facing challenges with #NetworkX? Memgraph can enhance your data persistence and large-scale data analytics without repetitive loading. #Python #...](https://twitter.com/memgraphdb/status/1686770104246112256)
-- [🕵️‍♂️ Traditional methods missing out on detecting fraud? See how Memgraph&#39;s graph tech unearthed undetected frauds for a top insurer, securing...](https://twitter.com/memgraphdb/status/1686745418627940352)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
