@@ -259,11 +259,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [【幕间趣闻】3.8版本「燃斗无双」海选赛&amp;晋级赛趣味成就盘点](https://bbs.mihoyo.com/ys/article/41976388)
 - [一起来看《原神》4.0版本前瞻特别节目吧！](https://bbs.mihoyo.com/ys/article/41952489)
 - [3.8版本「燃斗无双」全民积分赛淘汰赛选手采访&amp;牌组介绍](https://bbs.mihoyo.com/ys/article/41950835)
 - [原神 x 支付宝2023年度绿色出行活动「第四期」即将开启！](https://bbs.mihoyo.com/ys/article/41946388)
 - [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目预告](https://bbs.mihoyo.com/ys/article/41942764)
-- [3.8版本「燃斗无双」七圣召唤全民积分赛淘汰赛揭幕！](https://bbs.mihoyo.com/ys/article/41941120)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
