@@ -331,11 +331,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [&quot;It is essential to structure and organize the data in a manner that allows patterns and connections to be identified easily for #ChatGPT to use. One ...](https://twitter.com/neo4j/status/1687161528426905618)
 - [Neo4j Live: Lessons learned from Real-World Graph App Development https://twitter.com/i/broadcasts/1mnxeRpaQbvKX](https://twitter.com/neo4j/status/1687112642702544896)
 - [AWS Summit São Paulo NOW! Visit #Neo4j! #AWSSummit](https://twitter.com/neo4j/status/1687094003613798400)
 - [Are you developing an app with #neo4j ? In a bit we will share some #lessonslearned and give some #bestpractice advice from Cypher Optimisation to fin...](https://twitter.com/neo4j/status/1687088427207135232)
 - [Our latest podcast is alive! 🎉 Dr. Julian Grümmer joins our hosts to explore #knowledgegraphs - join @JMHReif, @alison_cossette and @lyonwj https:...](https://twitter.com/neo4j/status/1687086051062317056)
-- [Have you ever wondered what are the best places to use graph data science? Hear Senior Data Scientist Nathan Smith&#39;s experience and leave in the comme...](https://twitter.com/neo4j/status/1686922217253130241)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
