@@ -269,11 +269,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「留影叙佳期」更新内容一览｜生日画片回溯&amp;筛选](https://ys.mihoyo.com/main/news/detail/28415)
 - [「微博粉丝数1000W达成！」](https://ys.mihoyo.com/main/news/detail/28414)
 - [原神 x 支付宝2023年度绿色出行活动「第四期」已经开启！](https://ys.mihoyo.com/main/news/detail/28413)
 - [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/28412)
 - [「传心同视」活动说明](https://ys.mihoyo.com/main/news/detail/28411)
-- [圣遗物收纳上限提升、纪行武器追加…get√—08.02开发组座谈会](https://ys.mihoyo.com/main/news/detail/28410)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
