@@ -235,7 +235,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825509911364370441><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f8c8ac61206cc7b73d4791dd02bd81ea401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825571741716709381><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/59d4713b5f96bf0105c99ad36d121db5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [恭喜@猫不吃晴天ゆ@凯亚大人的忠犬@_Shinel_等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509911364370441)
