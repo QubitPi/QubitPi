@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [💥 Graph Databases vs. Relational Databases: The former excels in modeling and querying relationships, offering scalability and performance advantag...](https://twitter.com/memgraphdb/status/1687534620537966592)
 - [💡#Graphs unveil hidden relations, vital in insurance with many interactions. This method can enhance predictions &amp; build a smarter detection system...](https://twitter.com/memgraphdb/status/1687510711717568515)
 - [🔄 From social networks to fraud detection and knowledge graphs, Graph Databases are revolutionizing diverse domains with their ability to capture a...](https://twitter.com/memgraphdb/status/1687496619464212481)
 - [💼 Head of Advanced Analytics at Company X praised Memgraph for its contribution to saving 7 figures by enhancing detection efficiency. Discover the...](https://twitter.com/memgraphdb/status/1687492842321518593)
 - [🌍 MIT License Variations: From Expat License, MIT-0, to JSON License and X11 License. Each serves unique purposes, providing tailored solutions to ...](https://twitter.com/memgraphdb/status/1687470192886984706)
+- [🌐 Uncover the differences between Dijkstra, Bellman-Ford, Johnson&#39;s, and Floyd Warshall algorithms for finding shortest paths in graphs. #GraphTheo...](https://twitter.com/memgraphdb/status/1687451822812741632)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
