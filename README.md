@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🌍 MIT License Variations: From Expat License, MIT-0, to JSON License and X11 License. Each serves unique purposes, providing tailored solutions to ...](https://twitter.com/memgraphdb/status/1687470192886984706)
+- [🌐 Uncover the differences between Dijkstra, Bellman-Ford, Johnson&#39;s, and Floyd Warshall algorithms for finding shortest paths in graphs. #GraphTheo...](https://twitter.com/memgraphdb/status/1687451822812741632)
+- [💡 MAGE enables custom query procedures &amp; functions in Cypher. Unleash the full potential of your graph data. #Cypher #Analytics #memgraph #database...](https://twitter.com/memgraphdb/status/1687422377674608640)
 - [🤔 #SQL or #NoSQL? The decision depends on your unique data needs. Dive into the intricate world of databases to find your perfect match. #DataAnaly...](https://twitter.com/memgraphdb/status/1687404261028601856)
 - [💡 The open-source nature, Cypher compatibility &amp; support for various programming languages make Memgraph a compelling choice over RedisGraph. #Open...](https://twitter.com/memgraphdb/status/1687398470460518400)
-- [Thank you @devhunt_ for spreading the word about #memgraph :&rpar;](https://twitter.com/memgraphdb/status/1687388412188184576)
-- [🚄 Switch to a faster, more efficient graph algorithm environment without losing familiarity. Harness the power of our platform while keeping all yo...](https://twitter.com/memgraphdb/status/1687371294507962369)
-- [🕒 RedisGraph users, mark these dates! Subscriptions can be renewed till Jan 1, 2024, with support ending on Jan 31, 2025. Plan ahead! #RedisGraph #...](https://twitter.com/memgraphdb/status/1687347889620541441)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
