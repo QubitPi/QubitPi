@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825989221126766616><img align='right' src='https://i0.hdslb.com/bfs/archive/e1eb2095479ac1d52c753f66ab99deca2259b56f.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目](https://t.bilibili.com/825989221126766616)
+- [《原神》4.0版本PV：「仿若无因飘落的轻雨」](https://t.bilibili.com/825985402902937616)
 - [恭喜@香艾琉@Smile陌迁@末梢之际等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825880987953004601)
 - [#原神# #原神游园奇遇征集活动# 《原神》「游园奇遇」乐园主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀摄影作品请查看下图，再次感谢各位旅...](https://t.bilibili.com/825571741716709381)
 - [恭喜@猫不吃晴天ゆ@凯亚大人的忠犬@_Shinel_等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509911364370441)
-- [恭喜@希鸣与空@虾蟹粥亦真亦幻@清鹤祥云等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509902760804473)
-- [恭喜@来颗左甜甜@耀和小祺@诗雅可爱等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509902757658678)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
