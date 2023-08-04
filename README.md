@@ -275,11 +275,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [心有所喜 约有所期 | 喜茶×原神第二期联动即将开启](https://ys.mihoyo.com/main/news/detail/28427)
+- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图](https://ys.mihoyo.com/main/news/detail/28426)
+- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目](https://ys.mihoyo.com/main/news/detail/28425)
+- [《原神》4.0版本PV：「仿若无因飘落的轻雨」](https://ys.mihoyo.com/main/news/detail/28424)
 - [「留影叙佳期」更新内容一览｜生日画片回溯&amp;筛选](https://ys.mihoyo.com/main/news/detail/28415)
-- [「微博粉丝数1000W达成！」](https://ys.mihoyo.com/main/news/detail/28414)
-- [原神 x 支付宝2023年度绿色出行活动「第四期」已经开启！](https://ys.mihoyo.com/main/news/detail/28413)
-- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目预告](https://ys.mihoyo.com/main/news/detail/28412)
-- [「传心同视」活动说明](https://ys.mihoyo.com/main/news/detail/28411)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
