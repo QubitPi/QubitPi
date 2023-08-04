@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825571741716709381><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/59d4713b5f96bf0105c99ad36d121db5401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825880987953004601><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/3e4759785bf8df837792f03a39d23201401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #原神游园奇遇征集活动# 《原神》「游园奇遇」乐园主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀摄影作品请查看下图，再次感谢各位旅...](https://t.bilibili.com/825571741716709381)
