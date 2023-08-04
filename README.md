@@ -161,7 +161,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-My [Tech Management](https://github.com/paion-data) Dashboard (Updated Every ~10 min)
+My [Tech Management](https://github.com/paion-data) Dashboard (Auto Updated Every ~10 min)
 ---------------------------------------------------
 
 <details> <summary>How Things Begun</summary>
