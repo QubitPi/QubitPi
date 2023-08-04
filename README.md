@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/825989221126766616><img align='right' src='https://i0.hdslb.com/bfs/archive/e1eb2095479ac1d52c753f66ab99deca2259b56f.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [亲爱的旅行者，一起来欣赏华丽的对决吧！ [原神_哇]](https://t.bilibili.com/826001663888195607)
+- [#原神喜茶# #心有所喜约有所期# 喜茶x原神第二期联动即将开启，留云借风真君携手甘雨和申鹤，齐聚「阿喜茶馆」与各位旅行者共赴重逢之约，期待新的喜悦发生~](https://t.bilibili.com/826001470614667352)
+- [#原神音乐# #原神# 亲爱的旅行者，原神4.0版本PV音乐《As Light Rain Falls Without Reason 仿若无因飘落的轻雨》现已更新加入专辑《流星的轨迹 Footprints of t...](https://t.bilibili.com/826000740231151672)
+- [#原神# #原神4.0# #仿若无因飘落的轻雨# 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图 《原神》4.0版本「仿若无因飘落的轻雨」将于2023年8月16日...](https://t.bilibili.com/825990522488225795)
 - [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目](https://t.bilibili.com/825989221126766616)
-- [《原神》4.0版本PV：「仿若无因飘落的轻雨」](https://t.bilibili.com/825985402902937616)
-- [恭喜@香艾琉@Smile陌迁@末梢之际等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825880987953004601)
-- [#原神# #原神游园奇遇征集活动# 《原神》「游园奇遇」乐园主题征集活动 结果揭晓，感谢旅行者的参加与投稿。 部分获奖的优秀摄影作品请查看下图，再次感谢各位旅...](https://t.bilibili.com/825571741716709381)
-- [恭喜@猫不吃晴天ゆ@凯亚大人的忠犬@_Shinel_等60位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/825509911364370441)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
