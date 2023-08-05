@@ -265,11 +265,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [《原来你也玩原神》番外篇——小嘉](https://bbs.mihoyo.com/ys/article/42044834)
+- [《原神》4.0宣传短片：指尖奇旅](https://bbs.mihoyo.com/ys/article/42044699)
+- [4.0新版本「仿若无因飘落的轻雨」先行展示页现已开启！](https://bbs.mihoyo.com/ys/article/42044405)
+- [《原神》枫丹交响音乐现场](https://bbs.mihoyo.com/ys/article/42044402)
 - [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目](https://bbs.mihoyo.com/ys/article/42025194)
-- [心有所喜 约有所期 | 喜茶×原神第二期联动即将开启](https://bbs.mihoyo.com/ys/article/42024312)
-- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图](https://bbs.mihoyo.com/ys/article/42024064)
-- [《原神》4.0版本PV：「仿若无因飘落的轻雨」](https://bbs.mihoyo.com/ys/article/42022863)
-- [【已开奖】「决斗！召唤之巅！」3.7版本攻略征集活动获奖名单](https://bbs.mihoyo.com/ys/article/42016539)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
