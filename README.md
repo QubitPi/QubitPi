@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826001663888195607><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fbea5d67f961d7c8ff8523bdd4428b732006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [亲爱的旅行者，一起来欣赏华丽的对决吧！ [原神_哇]](https://t.bilibili.com/826001663888195607)
-- [#原神喜茶# #心有所喜约有所期# 喜茶x原神第二期联动即将开启，留云借风真君携手甘雨和申鹤，齐聚「阿喜茶馆」与各位旅行者共赴重逢之约，期待新的喜悦发生~](https://t.bilibili.com/826001470614667352)
-- [#原神音乐# #原神# 亲爱的旅行者，原神4.0版本PV音乐《As Light Rain Falls Without Reason 仿若无因飘落的轻雨》现已更新加入专辑《流星的轨迹 Footprints of t...](https://t.bilibili.com/826000740231151672)
-- [#原神# #原神4.0# #仿若无因飘落的轻雨# 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图 《原神》4.0版本「仿若无因飘落的轻雨」将于2023年8月16日...](https://t.bilibili.com/825990522488225795)
-- [《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目](https://t.bilibili.com/825989221126766616)
+- [互动抽奖 #原神# #原神音乐# #枫丹音乐# #枫丹交响音乐现场# 「《原神》枫丹交响音乐现场」现已发布~ https://www.bilibili.com/video/BV1Bu4y117aj 本次枫丹交...](https://t.bilibili.com/826229820899721225)
+- [#原神# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动时间〓 2023/...](https://t.bilibili.com/826227583212322848)
+- [《原来你也玩原神》番外篇——小嘉](https://t.bilibili.com/826225006237188128)
+- [《原神》4.0宣传短片：指尖奇旅](https://t.bilibili.com/826223717741756505)
+- [《原神》枫丹交响音乐现场](https://t.bilibili.com/826221200902455382)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
