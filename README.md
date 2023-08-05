@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826001663888195607><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fbea5d67f961d7c8ff8523bdd4428b732006254817.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826229820899721225><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f6ef7bb006b2bacb918c802e1edd2e93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，一起来欣赏华丽的对决吧！ [原神_哇]](https://t.bilibili.com/826001663888195607)
