@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [📊 Pros &amp; cons of #SQL databases: Structure, powerful querying, ACID compliance but with limited flexibility, scalability challenges, and cost. What...](https://twitter.com/memgraphdb/status/1687856451199393792)
+- [🕵️‍♀️ Choosing a graph database? Consider more than just performance. Neo4j or Memgraph? Let&#39;s dive into the key differentiators. #DatabaseSele...](https://twitter.com/memgraphdb/status/1687852461392793600)
+- [🛠️ Configure your database recovery like never before! With Memgraph&#39;s new flags, determine your thread count and parallel index recovery. Power t...](https://twitter.com/memgraphdb/status/1687832584007323649)
+- [🧩 Discover the utility of different graph types - Directed, Undirected, Weighted, Bipartite, Cyclic, &amp; Acyclic. The right choice can enhance effici...](https://twitter.com/memgraphdb/status/1687822769361207297)
 - [🧠 Run graph analysis algorithms on subgraphs with ease using Memgraph&#39;s graph projection feature! Explore the power of the project&lpar;&rpar; function. #Gra...](https://twitter.com/memgraphdb/status/1687784767264034816)
-- [💡 Harness the power of Memgraph&#39;s MAGE library for your graph data science needs. Explore optimized graph clustering algorithms for high-performanc...](https://twitter.com/memgraphdb/status/1687766645903626241)
-- [💡 Enhance your understanding and application of graph algorithms with our recommended books and e-resources. #LearningResources #GraphAlgorithms #m...](https://twitter.com/memgraphdb/status/1687759350532542464)
-- [🚀 Graph databases are gaining traction, driving new generation applications! Today, we compare Neo4j and Memgraph. #GraphDatabases #Neo4j #memgraph...](https://twitter.com/memgraphdb/status/1687748781914103808)
-- [🌐 By creating a knowledge graph with @memgraphdb, your Docs Recommendation System will suggest relevant pages based on keywords and semantic connec...](https://twitter.com/memgraphdb/status/1687710275795877888)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
