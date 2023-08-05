@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🚀 Memgraph emerges as a powerful RedisGraph alternative, offering in-memory graph database &amp; native graph processing just like RedisGraph. #GraphDa...](https://twitter.com/memgraphdb/status/1687892726845415424)
+- [👨‍💻 Memgraph&#39;s Label-Based Access Control offers granular permissions, from read-only to create and delete, ensuring a secure environment for y...](https://twitter.com/memgraphdb/status/1687875114358988800)
 - [📊 Pros &amp; cons of #SQL databases: Structure, powerful querying, ACID compliance but with limited flexibility, scalability challenges, and cost. What...](https://twitter.com/memgraphdb/status/1687856451199393792)
 - [🕵️‍♀️ Choosing a graph database? Consider more than just performance. Neo4j or Memgraph? Let&#39;s dive into the key differentiators. #DatabaseSele...](https://twitter.com/memgraphdb/status/1687852461392793600)
 - [🛠️ Configure your database recovery like never before! With Memgraph&#39;s new flags, determine your thread count and parallel index recovery. Power t...](https://twitter.com/memgraphdb/status/1687832584007323649)
-- [🧩 Discover the utility of different graph types - Directed, Undirected, Weighted, Bipartite, Cyclic, &amp; Acyclic. The right choice can enhance effici...](https://twitter.com/memgraphdb/status/1687822769361207297)
-- [🧠 Run graph analysis algorithms on subgraphs with ease using Memgraph&#39;s graph projection feature! Explore the power of the project&lpar;&rpar; function. #Gra...](https://twitter.com/memgraphdb/status/1687784767264034816)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
