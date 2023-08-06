@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826229820899721225><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f6ef7bb006b2bacb918c802e1edd2e93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826598024135311442><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fdc84b4e0559d6e47562808b7678e3a71669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [亲爱的旅行者，「枫丹情报展」将会披露部份枫丹区域及遗迹系列的怪物原画设定稿，欢迎旅行者们前往预约观展~[原神_哇]](https://t.bilibili.com/826598024135311442)
