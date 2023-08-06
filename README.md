@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [🏁 We&#39;ve developed Benchgraph for a fair comparison of databases. Find out how read vs write operations impact performance! #DatabaseBenchmarking #R...](https://twitter.com/memgraphdb/status/1688175089513103361)
+- [🔧 Recovery in Memgraph: utilizing snapshots and multithreading to ensure your data is never truly lost. A powerful combo of modern tech and intelli...](https://twitter.com/memgraphdb/status/1688167288900337664)
+- [🔧 Performance is an all-time hot topic in the database world. Dive into the intriguing world of benchmarks and performance in our latest blog post....](https://twitter.com/memgraphdb/status/1688146400444592128)
 - [🔐 Discover how Memgraph implemented Label-Based Access Control to secure first-class graph citizens! Learn about authorization levels and how they ...](https://twitter.com/memgraphdb/status/1688123248079228928)
 - [📚 Dive into Memgraph MAGE&#39;s intuitive C++ API with extensive documentation and developer guides. Say goodbye to cognitive load! #Cpp #memgraph #dat...](https://twitter.com/memgraphdb/status/1688111165744787457)
-- [🔍 Nodes, edges, and relationships – the magic of Graph Databases lies in their simplicity and effectiveness. Dive into the world of #GraphDB with ...](https://twitter.com/memgraphdb/status/1688086755239452672)
-- [🚀 How did Memgraph help a major insurer discover hidden fraud &amp; save 7 figures? By integrating graph tech into their ML models. More in our blog! #...](https://twitter.com/memgraphdb/status/1688062095915364352)
-- [🔧 Learn about the challenges and solutions we faced when implementing the graph projection feature in Memgraph! #FeatureDesign #memgraph #database ...](https://twitter.com/memgraphdb/status/1688039445180596224)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
