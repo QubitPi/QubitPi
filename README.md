@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826598024135311442><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fdc84b4e0559d6e47562808b7678e3a71669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神喜茶# #心有所喜约有所期# 喜茶×原神「心有所喜，约有所期」联名活动即将开启，期待与旅行者的重逢之日~](https://t.bilibili.com/826963358605377625)
 - [亲爱的旅行者，「枫丹情报展」将会披露部份枫丹区域及遗迹系列的怪物原画设定稿，欢迎旅行者们前往预约观展~[原神_哇]](https://t.bilibili.com/826598024135311442)
 - [互动抽奖 #原神# #原神音乐# #枫丹音乐# #枫丹交响音乐现场# 「《原神》枫丹交响音乐现场」现已发布~ https://www.bilibili.com/video/BV1Bu4y117aj 本次枫丹交...](https://t.bilibili.com/826229820899721225)
 - [#原神# 亲爱的旅行者，「精通移涌」活动即将开启~ 活动期间，成功挑战天赋培养素材秘境，消耗「原粹树脂」领取秘宝奖励时，可获得双倍奖励。 〓活动时间〓 2023/...](https://t.bilibili.com/826227583212322848)
 - [《原来你也玩原神》番外篇——小嘉](https://t.bilibili.com/826225006237188128)
-- [《原神》4.0宣传短片：指尖奇旅](https://t.bilibili.com/826223717741756505)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
