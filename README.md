@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [✅ Unstructured data? No problem! NoSQL databases handle rapid changes with ease, offering advantages over strict SQL schemas. #NoSQL #DataManagement ...](https://twitter.com/memgraphdb/status/1688435050063282176)
+- [⚠️ Wondering when to move from a relational database to a graph database like Memgraph? If your application handles complex, interconnected data or ...](https://twitter.com/memgraphdb/status/1688420707942690816)
 - [💡 Want to measure the similarity between different social networks? With @scikit_learn, you can do just that. Compare and contrast with ease. #Pyth...](https://twitter.com/memgraphdb/status/1688401831611822080)
 - [📢 With the sunset of RedisGraph, the quest for a robust graph database alternative begins. Explore Memgraph, a rising star in the graph space. #Gra...](https://twitter.com/memgraphdb/status/1688259395832950784)
 - [💡 DB-Engines is an invaluable resource for data professionals, offering rankings and insights for over 350 database systems. #DataProfessionals #Da...](https://twitter.com/memgraphdb/status/1688235487360606213)
-- [📚 Explore Python&#39;s vast library ecosystem, and see why @scikit_learn is the top choice for computing cosine similarity quickly and efficiently. #Py...](https://twitter.com/memgraphdb/status/1688221394641858560)
-- [🚀 With #GraphDatabases, speed up your runtime and development. Thanks to the O&lpar;1&rpar; complexity of traversing connections, handle more data faster and...](https://twitter.com/memgraphdb/status/1688214848880926720)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
