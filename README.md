@@ -359,11 +359,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [⌛ Explore the value of long vs. short-running benchmarks and how they influence your database performance. Is there a one-size-fits-all approach? Fin...](https://twitter.com/memgraphdb/status/1688621784201859072)
 - [🔑 Frustrated with antiquated Identity and Access Management &lpar;IAM&rpar; systems? Learn how you can transform IAM with graph databases like Memgraph for r...](https://twitter.com/memgraphdb/status/1688597873766678529)
 - [🧠 Delve into the development process of the All Shortest Path algorithm for Memgraph and learn how it was optimized for speed! #UnderTheHood #Perfo...](https://twitter.com/memgraphdb/status/1688581682616545280)
 - [📄 Discover the agility of Document Databases, designed to manage semi-structured data. Perfect for complex data structures and offering powerful qu...](https://twitter.com/memgraphdb/status/1688557356244738048)
 - [🔑 Unraveling the versatility of Key-Value Databases. Offering flexibility and fast data retrieval, they are ideal for applications requiring rapid ...](https://twitter.com/memgraphdb/status/1688538987047055360)
-- [📊 What&#39;s a Graph Database? It&#39;s a specialized database system for managing &amp; querying highly connected data using graph theory principles. #GraphDa...](https://twitter.com/memgraphdb/status/1688529677235699712)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
