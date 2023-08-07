@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826598024135311442><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/fdc84b4e0559d6e47562808b7678e3a71669328690.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/826963358605377625><img align='right' src='https://i0.hdslb.com/bfs/archive/626fdabed1b3d6ed9c53ccb564b042080d340fb5.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神喜茶# #心有所喜约有所期# 喜茶×原神「心有所喜，约有所期」联名活动即将开启，期待与旅行者的重逢之日~](https://t.bilibili.com/826963358605377625)
