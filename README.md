@@ -337,11 +337,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Listen to @BarrasaDV as he shares what #datascientists, #devs, and #architects can find during our #GraphSummits. Check out the dates and cities &lpar;Nort...](https://twitter.com/neo4j/status/1688536014422220800)
+- [RT GraphAware - we&#39;re hiring!: Join GraphAware &amp; @neo4j on Tuesday, 29 August, at the 🇦🇺 #AuSec #AustralianSecuritySummit to explore how graph-p...](https://twitter.com/graph_aware/status/1688477331705184256)
 - [Take a look at this article, where we will be writing Cypher queries for loading the data, tracking new orders, and implementing the recommender syste...](https://twitter.com/neo4j/status/1688227444661071873)
 - [Bruce Gain from @thenewstack wrote this fantastic tutorial, &quot;Build a Movie Database with Neo4j’s Knowledge Graph Sandbox&quot; Take a look at this fun pro...](https://twitter.com/neo4j/status/1687825855760736257)
 - [Are you interested in creating GraphQL APIs with Neo4j? Check out what we just launched: A new #GraphAcademy course! 🎉 https://okt.to/tnmGzI #Neo4j...](https://twitter.com/neo4j/status/1687463883038986240)
-- [&quot;It is essential to structure and organize the data in a manner that allows patterns and connections to be identified easily for #ChatGPT to use. One ...](https://twitter.com/neo4j/status/1687161528426905618)
-- [Neo4j Live: Lessons learned from Real-World Graph App Development https://twitter.com/i/broadcasts/1mnxeRpaQbvKX](https://twitter.com/neo4j/status/1687112642702544896)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
