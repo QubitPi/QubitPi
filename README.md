@@ -383,11 +383,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html)
 - [Exploring Gen AI: how can in-line assistance get in the way?](https://martinfowler.com/articles/exploring-gen-ai.html#in-line-assistance---how-can-it-get-in-the-way?)
 - [A case study of getting out of the costs bottleneck](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html#exit)
 - [Exploring Gen AI: When is in-line assistance useful?](https://martinfowler.com/articles/exploring-gen-ai.html#in-line-assistance---when-is-it-more-useful?)
 - [Bottlenecks of Scaleups: Cost Efficiency](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html)
-- [Exploring Gen AI - Three versions of a median](https://martinfowler.com/articles/exploring-gen-ai.html#median---a-tale-in-three-functions)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
