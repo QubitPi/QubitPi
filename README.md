@@ -337,11 +337,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [RT PyCon India: 🎉Exciting News! We are proud to announce @neo4j as our first Platinum Sponsor for #PyConIndia2023. neo4j is a leader in Graph Datab...](https://twitter.com/pyconindia/status/1688769819666173952)
 - [Graphversation Ep. 6 - Knowledge Graphs for Personalized Medicine https://twitter.com/i/broadcasts/1MYGNgMvVLbJw](https://twitter.com/neo4j/status/1688769601247862784)
 - [RT Google Cloud Partners: Watch to learn about the incredible #GenAI solutions our partners are building with #GoogleCloud and how they can help your ...](https://twitter.com/gcloudpartners/status/1688650429616238592)
 - [We come with good news!🚀 We’ve just finished a significant overhaul of the entire Neo4j GraphQL Toolbox and wanted to share this with you--&gt; we di...](https://twitter.com/neo4j/status/1688605193103872001)
 - [Listen to @BarrasaDV as he shares what #datascientists, #devs, and #architects can find during our #GraphSummits. Check out the dates and cities &lpar;Nort...](https://twitter.com/neo4j/status/1688536014422220800)
-- [RT GraphAware - we&#39;re hiring!: Join GraphAware &amp; @neo4j on Tuesday, 29 August, at the 🇦🇺 #AuSec #AustralianSecuritySummit to explore how graph-p...](https://twitter.com/graph_aware/status/1688477331705184256)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
