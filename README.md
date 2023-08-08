@@ -337,11 +337,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [”I think graph database is the only database we should use – at all. It’s the best one. It’s exactly the way people think. It’s exactly what you ...](https://twitter.com/neo4j/status/1688973430815657984)
 - [Neo4j Live: Metadata Management of NoSQL Data Sources using Neo4j @DBoukraa https://twitter.com/i/broadcasts/1RDGlayMEqzJL](https://twitter.com/neo4j/status/1688928083070550019)
 - [NODES is back for its fifth year 🎊 Connect with like-minded people and learn from real-world use cases. Register today, FOR FREE! https://bit.ly/44...](https://twitter.com/neo4j/status/1688907020898840576)
 - [RT PyCon India: 🎉Exciting News! We are proud to announce @neo4j as our first Platinum Sponsor for #PyConIndia2023. neo4j is a leader in Graph Datab...](https://twitter.com/pyconindia/status/1688769819666173952)
 - [Graphversation Ep. 6 - Knowledge Graphs for Personalized Medicine https://twitter.com/i/broadcasts/1MYGNgMvVLbJw](https://twitter.com/neo4j/status/1688769601247862784)
-- [RT Google Cloud Partners: Watch to learn about the incredible #GenAI solutions our partners are building with #GoogleCloud and how they can help your ...](https://twitter.com/gcloudpartners/status/1688650429616238592)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
