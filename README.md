@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/827706769954308099><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/293f99c51bffb8e0bdc835bc32ac2ca2401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/827807091804602368><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/35ddabbf5e88e4e33af5301d430abe11405285618.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神喜茶# #心有所喜约有所期# 留云借风真君的仙门试炼正式开启，参与即可获得联动限定摆设、料理及喜茶券，快来参加吧~](https://t.bilibili.com/827807091804602368)
