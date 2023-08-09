@@ -275,11 +275,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [蒸汽鸟报特刊II 水中冒险指南](https://ys.mihoyo.com/main/news/detail/28441)
+- [蒸汽鸟报特刊I 地上之海，万水源流](https://ys.mihoyo.com/main/news/detail/28440)
+- [「移光拾影」网页活动现已开启——参与可得原石等奖励](https://ys.mihoyo.com/main/news/detail/28437)
 - [「派蒙的画作喜茶篇」第二期联动主题表情包现已上架](https://ys.mihoyo.com/main/news/detail/28436)
 - [「精通移涌」活动：天赋培养素材双倍掉落](https://ys.mihoyo.com/main/news/detail/28433)
-- [4.0版本前瞻页H5](https://ys.mihoyo.com/main/news/detail/28432)
-- [《原来你也玩原神》番外篇——小嘉](https://ys.mihoyo.com/main/news/detail/28431)
-- [《原神》4.0宣传短片：指尖奇旅](https://ys.mihoyo.com/main/news/detail/28430)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
