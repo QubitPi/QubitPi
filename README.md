@@ -241,7 +241,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/827336612494966805><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/00eedac5e27c6450f153ea6fc936f2a11669328690.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/827706769954308099><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/293f99c51bffb8e0bdc835bc32ac2ca2401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [#原神# #移光拾影# 亲爱的旅行者，「移光拾影」网页活动现已开启，参与可得原石等奖励。 欢迎旅行者前往评论区置顶链接参与活动~ 玩具盒里的微观世界，匿藏着未...](https://t.bilibili.com/827706769954308099)
