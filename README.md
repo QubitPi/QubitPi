@@ -287,11 +287,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Honkai Impact 3 (隔壁三崩子)
 
 <!-- HONKAI-IMPACT-NEWS:START -->
+- [玉骑士·月痕 | 扩充补给限时开启](https://www.bh3.com/news/28443)
+- [精准补给丨夜衔烛&amp;李素裳·神州忆剑](https://www.bh3.com/news/28442)
 - [封号名单（2023年8月7日）](https://www.bh3.com/news/28435)
 - [魔法裁衣 | 参与可得3★圣痕「西琳·成衣（下）」](https://www.bh3.com/news/28423)
 - [「飞鸟与梦之诗」服装补给限时8折开启！](https://www.bh3.com/news/28417)
-- [精准补给丨凡念梦兆&amp;亚历山德拉](https://www.bh3.com/news/28416)
-- [织羽梦旌 | 扩充补给限时开启](https://www.bh3.com/news/28408)
 <!-- HONKAI-IMPACT-NEWS:END -->
 
 <br />
