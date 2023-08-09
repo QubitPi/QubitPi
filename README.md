@@ -244,11 +244,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/827706769954308099><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/293f99c51bffb8e0bdc835bc32ac2ca2401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [#原神喜茶# #心有所喜约有所期# 留云借风真君的仙门试炼正式开启，参与即可获得联动限定摆设、料理及喜茶券，快来参加吧~](https://t.bilibili.com/827807091804602368)
 - [#原神# #移光拾影# 亲爱的旅行者，「移光拾影」网页活动现已开启，参与可得原石等奖励。 欢迎旅行者前往评论区置顶链接参与活动~ 玩具盒里的微观世界，匿藏着未...](https://t.bilibili.com/827706769954308099)
 - [#原神# #原神枫丹# #蒸汽鸟报特刊# 旅行者们好呀~枫丹的水中藏着许多新谜题，等着旅行者们去探索，一起来了解一下吧。](https://t.bilibili.com/827706014022238240)
 - [#原神# #原神枫丹# #蒸汽鸟报特刊# 旅行者们好呀~ 最近准备动身前往枫丹的冒险家间流行着一款读物，听说是不久前出版的蒸汽鸟报枫丹专题特刊，让我们一起看看有...](https://t.bilibili.com/827705498629308533)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/827336612494966805)
-- [#原神喜茶# #心有所喜约有所期# 【「派蒙的画作喜茶篇」第二期联动主题表情包现已上架】 喜茶×原神 第二期联动活动现已开启！ 心有所「喜」，约有所期 亲爱的旅...](https://t.bilibili.com/827334396293939204)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
