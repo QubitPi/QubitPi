@@ -373,11 +373,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Inside Open Infrastructure: It’s OpenInfra User Survey Season!](https://superuser.openinfra.dev/articles/openinfra-newsletter-58/)
 - [Highlights from the 2023 OpenInfra Summit: Container Security and More!](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-container-security-and-more/)
 - [Cloud Platform Monitoring, Digital Twins and a Real-time Context Broker](https://superuser.openinfra.dev/articles/cloud-platform-monitoring-digital-twins-and-a-real-time-context-broker/)
 - [Enhancing Kubernetes Security with Kyverno, RuntimeClass and Kata Containers](https://superuser.openinfra.dev/articles/enhancing-kubernetes-security-with-kyverno-runtimeclass-and-kata-containers/)
 - [Deploying MicroVM on Top of Kubernetes](https://superuser.openinfra.dev/articles/deploying-microvm-on-top-of-kubernetes/)
-- [OpenStack with Kata Containers and Falco: Building a Highly Secure Setup](https://superuser.openinfra.dev/articles/openstack-with-kata-containers-and-falco-building-a-highly-secure-setup/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
