@@ -266,11 +266,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [「惑光幻戏」· 林尼—「今晚有大魔术师的演出，你肯定没忘吧？](https://bbs.mihoyo.com/ys/article/42217462)
+- [蒸汽鸟报特刊III 芒性、荒性与其相互湮灭](https://bbs.mihoyo.com/ys/article/42217461)
+- [安柏生日快乐｜难得的好天气，我带了兔兔伯爵一起出来晒晒太阳。](https://bbs.mihoyo.com/ys/article/42217457)
+- [《原神》林尼角色PV——「掌中天幕」](https://bbs.mihoyo.com/ys/article/42217456)
 - [蒸汽鸟报特刊II 水中冒险指南](https://bbs.mihoyo.com/ys/article/42174921)
-- [蒸汽鸟报特刊I 地上之海，万水源流](https://bbs.mihoyo.com/ys/article/42174920)
-- [《原神》联动主题表情包「派蒙的画作喜茶联动篇」现已上线](https://bbs.mihoyo.com/ys/article/42142144)
-- [「欢愉一夏」同人征集活动作品展示合集](https://bbs.mihoyo.com/ys/article/42119182)
-- [《原来你也玩原神》番外篇——小嘉](https://bbs.mihoyo.com/ys/article/42044834)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
