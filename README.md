@@ -360,11 +360,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [The most common use case for stream processing is monitoring sensor or device data. Example: car can monitor a multitude of information from whether t...](https://twitter.com/memgraphdb/status/1689507871585607680)
+- [Build faster by using the built-in features and integrations. Focus on developing your graph application while not worrying about anything else. With ...](https://twitter.com/memgraphdb/status/1689497049023016960)
 - [Gas and energy infrastructure can be modeled using graphs. Read more in the #Memgraph blog post &quot;Exploring the European #Gas #Pipeline Network with #G...](https://twitter.com/memgraphdb/status/1689346558821634048)
 - [📢 Free graph modeling email course! 📧 🎓 Learn the concepts of graph modeling in 10 days. 🔗https://memgraph.com/learn-graph-modeling #memgr...](https://twitter.com/memgraphdb/status/1689322652043792384)
 - [Sign up for the #Memgraph #Webinar &quot;Getting started with Memgraph and Python Webinar&quot;. Among other things, learn how to run Memgraph with Docker and c...](https://twitter.com/memgraphdb/status/1689306763147767809)
-- [Applications created with #Docker Compose are much easier to deploy. Read our blog post to see how we use Docker Compose when deploying our demo apps....](https://twitter.com/memgraphdb/status/1689282134685478913)
-- [🎯 Using graph tech, Memgraph &amp; Company X made a 135% leap in fraud detection efficiency, leading to huge savings. Better accuracy = less false posi...](https://twitter.com/memgraphdb/status/1688848024993185793)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
