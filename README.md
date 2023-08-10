@@ -245,11 +245,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828076631051468965><img align='right' src='https://i0.hdslb.com/bfs/archive/daef26be3b73acfab46465fdf9f6058a81995397.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [互动抽奖 #原神# #miHoYo# #林尼# #掌中天幕# 《原神》林尼角色PV——「掌中天幕」现已发布~ https://www.bilibili.com/video/BV1MV411372M/ 魔术师的使命，是挑...](https://t.bilibili.com/828093875358793767)
+- [旅行者们好呀！今天为大家介绍的角色是著名枫丹魔术师——林尼，一起来看看吧~](https://t.bilibili.com/828084800097091632)
+- [#原神# #原神枫丹# #蒸汽鸟报特刊# 旅行者们好呀~ 枫丹有一种为发条机关供能的新的能量，让我们一起来了解一下吧！](https://t.bilibili.com/828079143606288449)
+- [镜中捧花，赠予何人](https://t.bilibili.com/828078001402937363)
 - [《原神》林尼角色PV——「掌中天幕」](https://t.bilibili.com/828076631051468965)
-- [互动抽奖 #原神# #安柏# #生日快乐# 难得的好天气，我带了兔兔伯爵一起出来晒晒太阳。 之前一直阴雨连绵，感觉整个人都要变成须弥的蘑菇了！ 嗯~是野花盛开的香...](https://t.bilibili.com/828076626772230306)
-- [#原神喜茶# #心有所喜约有所期# 留云借风真君的仙门试炼正式开启，参与即可获得联动限定摆设、料理及喜茶券，快来参加吧~](https://t.bilibili.com/827807091804602368)
-- [#原神# #移光拾影# 亲爱的旅行者，「移光拾影」网页活动现已开启，参与可得原石等奖励。 欢迎旅行者前往评论区置顶链接参与活动~ 玩具盒里的微观世界，匿藏着未...](https://t.bilibili.com/827706769954308099)
-- [#原神# #原神枫丹# #蒸汽鸟报特刊# 旅行者们好呀~枫丹的水中藏着许多新谜题，等着旅行者们去探索，一起来了解一下吧。](https://t.bilibili.com/827706014022238240)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
