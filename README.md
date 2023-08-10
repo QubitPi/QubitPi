@@ -339,11 +339,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Looking for something to read?📖 This is a great option: Graph Databases For Dummies walks you through modeling, querying, and importing graph data,...](https://twitter.com/neo4j/status/1689632004810125312)
 - [Thank you, http://ComputerWeekly.com for this article about our product integration with Google Cloud’s latest generative AI features in #VertexAI, G...](https://twitter.com/neo4j/status/1689375019615342593)
 - [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1689313363027795972)
 - [We are glad to have partnered with @GDGCloud Sydney📍 for their July meetup, where #Payam, MLNet, and #Neo4j spoke on &quot;Enhance Knowledge Graph with ...](https://twitter.com/neo4j/status/1689026471921094657)
 - [”I think graph database is the only database we should use – at all. It’s the best one. It’s exactly the way people think. It’s exactly what you ...](https://twitter.com/neo4j/status/1688973430815657984)
-- [Neo4j Live: Metadata Management of NoSQL Data Sources using Neo4j @DBoukraa https://twitter.com/i/broadcasts/1RDGlayMEqzJL](https://twitter.com/neo4j/status/1688928083070550019)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
