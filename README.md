@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. https://memgraph.com/blog/how-to...](https://twitter.com/memgraphdb/status/1689959093417439232)
+- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1689940976783994880)
 - [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1689935186501218304)
 - [How Does a Graph Database Differ from a Relational Database? A graph database stores relationships at the individual record level, while a relational ...](https://twitter.com/memgraphdb/status/1689908009529409536)
 - [PageRank is one of those iconic algorithms that have forever changed the technology world. Do you want to learn how to use #PageRank on #dynamic data?...](https://twitter.com/memgraphdb/status/1689884604860178432)
-- [Learn how to use breadth-first search and Dijkstra’s algorithm to solve routing problems! 🚗 https://memgraph.com/blog/how-to-build-a-route-plannin...](https://twitter.com/memgraphdb/status/1689874033397944322)
-- [One of the major differences between streaming and a traditional relational database is the real-time application of streaming databases. #memgraph #s...](https://twitter.com/memgraphdb/status/1689851382566715392)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
