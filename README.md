@@ -277,11 +277,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [七圣召唤全民赛事体系 第一赛季牌背介绍](https://ys.mihoyo.com/main/news/detail/28496)
+- [原神☆FES现场直播活动预告](https://ys.mihoyo.com/main/news/detail/28489)
 - [心有所喜 约有所期 | 喜遇原神2.0已经开启](https://ys.mihoyo.com/main/news/detail/28470)
 - [「幕后奇遇」——《原神》新角色：林尼分享H5正式上线](https://ys.mihoyo.com/main/news/detail/28469)
 - [米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃…](https://ys.mihoyo.com/main/news/detail/28468)
-- [4.0版本「仿若无因飘落的轻雨」全新圣遗物说明](https://ys.mihoyo.com/main/news/detail/28467)
-- [4.0版本「仿若无因飘落的轻雨」全新武器说明](https://ys.mihoyo.com/main/news/detail/28466)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
