@@ -246,11 +246,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828478584169431121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1c433c85bf47c0786b212d7c1719cc4a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [[原神_哇][原神_哇]](https://t.bilibili.com/828542012249604129)
+- [互动抽奖 #原神# #原神fes# 亲爱的旅行者，现在是派蒙的特别节目预告时间&gt; &lt; 原神☆FES现场直播活动将于8月13日（本周日）12:30正式开启。 提前关注派蒙的工作笔...](https://t.bilibili.com/828541608505901074)
 - [恭喜@中二の马@bili_46465780325@曲不到名字等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/828478584169431121)
 - [互动抽奖 #原神喜茶# #喜茶原神联动# 亲爱的旅行者，喜茶×原神第二期联动现已开启！ 重逢之日来临，留云借风真君、甘雨和申鹤喜聚于此，一盏好茶一席佳话，邀请...](https://t.bilibili.com/828450675476135961)
 - [互动抽奖 #原神# #原神林尼# #林尼# 魔术师的身边从来不缺乏掌声和惊喜，当然，偶尔也会有一些小小的意外？ 「幕后奇遇」——《原神》新角色：林尼分享H5正式上...](https://t.bilibili.com/828447853671088137)
-- [互动抽奖 #原神# #米卡# #生日快乐# 啊…你、你好，你是来这里冒险的吗？ 今天的阳光条件不错，团雀们似乎也很活跃… 这里的高度…还有地形…好，这块区域的测绘...](https://t.bilibili.com/828447768022351892)
-- [#原神# #原神4.0# #仿若无因飘落的轻雨# 《原神》4.0版本「仿若无因飘落的轻雨」全新武器说明（二） 旅行者们好~接下来继续为大家介绍4.0版本中的全新武器，一起...](https://t.bilibili.com/828425382411632694)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
