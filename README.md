@@ -268,11 +268,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
 
 <!-- MIHOYO-NEWS:START -->
+- [3.8版本「燃斗无双」七圣召唤全民积分赛半决赛即将开启！](https://bbs.mihoyo.com/ys/article/42268334)
 - [【直播回放】3.8版本「燃斗无双」七圣召唤8强淘汰赛第一场](https://bbs.mihoyo.com/ys/article/42264133)
 - [七圣召唤全民赛事「第一赛季牌背」即将正式上线！](https://bbs.mihoyo.com/ys/article/42261436)
 - [原神☆FES现场直播活动预告](https://bbs.mihoyo.com/ys/article/42260934)
 - [米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃…](https://bbs.mihoyo.com/ys/article/42250315)
-- [4.0版本「仿若无因飘落的轻雨」全新武器说明](https://bbs.mihoyo.com/ys/article/42247381)
 <!-- MIHOYO-NEWS:END -->
 
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
