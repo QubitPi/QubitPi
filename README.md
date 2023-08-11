@@ -362,11 +362,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1690047424906043403)
+- [From defining a data model and importing your data to using breadth-first search and Dijkstra&#39;s algorithm - all in the blog post below 👇 https://me...](https://twitter.com/memgraphdb/status/1690033332896018432)
+- [#Memgraph Cloud provides everything you need to ship fast. With Memgraph Lab, you can visualize graphs, execute ad hoc queries, and optimize their per...](https://twitter.com/memgraphdb/status/1690029556856487936)
 - [🎓 #Memgraph presents graph algorithms: Dynamic node2vec 🗒️ Dynamic Node2Vec is a random walk based method that creates embeddings for every new...](https://twitter.com/memgraphdb/status/1690006908655046656)
 - [How many graph database query languages do you use? Do you have a favorite one? https://memgraph.com #memgraph](https://twitter.com/memgraphdb/status/1689988537221873664)
-- [Always wanted to identify the most influential developer within your Github network? Check out how by using Pagerank. https://memgraph.com/blog/how-to...](https://twitter.com/memgraphdb/status/1689959093417439232)
-- [Do you want to learn how to use #PageRank on #dynamic data? Take a look at 👇 https://memgraph.com/blog/dynamic-page-rank-on-streaming-data #Memgrap...](https://twitter.com/memgraphdb/status/1689940976783994880)
-- [#MAGE &lpar;Memgraph Advanced Graph Extensions&rpar; is an #opensource repository that contains all available query modules written by the team behind #Memgraph...](https://twitter.com/memgraphdb/status/1689935186501218304)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
