@@ -243,7 +243,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828093875358793767><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/53410aa51178f34ce974f06c70a83a93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828450675476135961><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/13c4901b5c9024d38b997bcf2c1cc51c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神# #miHoYo# #林尼# #掌中天幕# 《原神》林尼角色PV——「掌中天幕」现已发布~ https://www.bilibili.com/video/BV1MV411372M/ 魔术师的使命，是挑...](https://t.bilibili.com/828093875358793767)
