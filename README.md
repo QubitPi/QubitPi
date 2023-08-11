@@ -243,7 +243,7 @@ Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://g
 Latest Genshin Impact News (Bilibili)
 </h3>
 
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828450675476135961><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/13c4901b5c9024d38b997bcf2c1cc51c401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
+<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828478584169431121><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/1c433c85bf47c0786b212d7c1719cc4a401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
 - [互动抽奖 #原神喜茶# #喜茶原神联动# 亲爱的旅行者，喜茶×原神第二期联动现已开启！ 重逢之日来临，留云借风真君、甘雨和申鹤喜聚于此，一盏好茶一席佳话，邀请...](https://t.bilibili.com/828450675476135961)
