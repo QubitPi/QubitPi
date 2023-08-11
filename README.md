@@ -340,11 +340,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [In this fourth article in a series on #NaLLM, @tb_tomaz explores real-time graph analytics use cases to implement in #LLM applications. #AI models can...](https://twitter.com/neo4j/status/1690015398744195072)
 - [RT Tomaz Bratanic: I&#39;m happy to announce the start of the Cypher relationship direction competition, which aims to improve the LLM-based applications ...](https://twitter.com/tb_tomaz/status/1689946877226041344)
 - [Attention Melbourne and Sydney! 📍 Join our next meetups: 🇦🇺 Melbourne: https://bit.ly/45kr1TR &lpar;Agenda will soon be revealed!&rpar; 🇦🇺 Sydney...](https://twitter.com/neo4j/status/1689939787828871168)
 - [Looking for something to read?📖 This is a great option: Graph Databases For Dummies walks you through modeling, querying, and importing graph data,...](https://twitter.com/neo4j/status/1689632004810125312)
 - [Thank you, http://ComputerWeekly.com for this article about our product integration with Google Cloud’s latest generative AI features in #VertexAI, G...](https://twitter.com/neo4j/status/1689375019615342593)
-- [Global healthcare company @Novo Nordisk uses #Neo4j as the backbone of an application that streamlines the process of collecting and reporting clinica...](https://twitter.com/neo4j/status/1689313363027795972)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
