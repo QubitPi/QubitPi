@@ -277,11 +277,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
 
 <!-- GENSHIN-IMPACT-NEWS:START -->
+- [「幕后奇遇」——《原神》新角色：林尼分享H5正式上线](https://ys.mihoyo.com/main/news/detail/28469)
+- [米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃…](https://ys.mihoyo.com/main/news/detail/28468)
+- [4.0版本「仿若无因飘落的轻雨」全新圣遗物说明](https://ys.mihoyo.com/main/news/detail/28467)
+- [4.0版本「仿若无因飘落的轻雨」全新武器说明](https://ys.mihoyo.com/main/news/detail/28466)
 - [蒸汽鸟报特刊III 芒性、荒性与其相互湮灭](https://ys.mihoyo.com/main/news/detail/28462)
-- [「惑光幻戏」·林尼—「今晚有大魔术师的演出，你肯定没忘吧？」](https://ys.mihoyo.com/main/news/detail/28461)
-- [镜中捧花，赠予何人](https://ys.mihoyo.com/main/news/detail/28134)
-- [安柏生日快乐｜难得的好天气，我带了兔兔伯爵一起出来晒晒太阳。](https://ys.mihoyo.com/main/news/detail/28458)
-- [《原神》林尼角色PV——「掌中天幕」](https://ys.mihoyo.com/main/news/detail/28457)
 <!-- GENSHIN-IMPACT-NEWS:END -->
 
 <img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
