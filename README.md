@@ -170,8 +170,8 @@ Managing tech team should
 - Can visit [Paion Artifactory](https://nexus.paion-data.dev/): ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
 
-<img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
------------------------------------
+My Coffee-Morning News Central
+------------------------------
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
@@ -182,10 +182,6 @@ Managing tech team should
 - [In search of a generalizable method for source-free domain adaptation](http://ai.googleblog.com/2023/07/in-search-of-generalizable-method-for.html)
 - [Google at ICML 2023](http://ai.googleblog.com/2023/07/google-at-icml-2023.html)
 <!-- GOOGLE-AI-BLOG:END -->
-
-<a href="https://www.bilibili.com/video/BV1Ra411G7N6">
-    <img align="right" alt="可莉-纳西妲.gif" width="30%" src="./原神/可莉-纳西妲.gif">
-</a>
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
