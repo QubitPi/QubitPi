@@ -99,13 +99,9 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-<img align="left" width="25%" src="https://github.com/QubitPi/QubitPi/assets/16126939/adfbad97-d90b-4ffb-8ced-0ee794d7ffd1">
-
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By turning my self-maintained [blog](https://qubitpi.github.io/jersey-guide/) into [GitHub Forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm delegating my personal tech blog writing to thousands of developers around the world. In addition, I could also add my own study notes on top of their documentations:
-
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/16126939/196350851-6d04f820-8086-48aa-bd6a-703585bc1c9b.png">
 
 ### <img src="https://github.com/QubitPi/QubitPi/assets/16126939/6d9bbf5f-a9fe-4daa-9d4d-0dd191b0db79" width="5%"> Machine Learning [![](https://img.shields.io/badge/My%20Study%20Notes%20with%20Open%20Sourced%20ML-2A7FB9?style=flat-square&logo=readthedocs&logoColor=white)](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning) [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
@@ -119,8 +115,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - [Sentry Documentation](https://qubitpi.github.io/sentry-docs/) | [Sentry Developer Documentation](https://qubitpi.github.io/sentry-develop/)
-
-<img align="left" width="40%" src="https://user-images.githubusercontent.com/16126939/215232500-56795e53-0da5-47dc-a64a-ab255ce873c7.png">
 
 ### <img src="https://github.com/QubitPi/QubitPi/assets/16126939/6d9bbf5f-a9fe-4daa-9d4d-0dd191b0db79" width="5%"> Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
