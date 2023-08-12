@@ -51,27 +51,11 @@ My Open Source Portfolio
 [![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/jack20191124/)
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/jack20220723)
 
+I belive in creating software using the open source way, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. This philosophy affects everything my team does in Tech Industry as most of today’s IT leaders, who agree that enterprise open source is important, do
 
-I belive in creating software using the open source way, a set of
-principles built upon an open forum for ideas where communities
-can form around solving a problem or developing a new
-technology. This philosophy affects everything my team does in
-Tech Industry as most of today’s IT leaders, who agree that
-enterprise open source is important, do
+Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
 
-Open source software gains its strength from diverse
-communities of developers around the world. That’s why I’ve,
-since the beginning of my career in 2015, kept my eyes and hands
-dirty on studying and practicing developing open projects and
-technologies, protecting and defending open source intellectual
-property, and recruiting developers who actively participate in
-open projects across the IT stack. This experience helps inform a
-development model to produce more innovative, iterative, stable,
-and secure technologies.
-
-By tapping into the collective talent and innovation of open
-source communities, I believe my team can create better software.
-This collaboration helps fuel much of the technology we use today
+By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
 
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=35495e&line=42b883&point=42b883&area_color=42b883&area=true&hide_border=true&radius=0&&custom_title=Jack%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
 
