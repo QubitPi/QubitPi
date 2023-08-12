@@ -59,29 +59,16 @@ My Open Source Portfolio
     
 ### Creator
 
-<div align="center">
-
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/8ebe41df-3116-461f-b681-d9d540eb57a9" alt="可莉" width="15%">[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://github.com/marketplace/actions/hashicorp-aws)
-
-[![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-template/)<img src="https://github.com/QubitPi/QubitPi/assets/16126939/d818f2a9-9a4f-41b4-802d-017a39d17ab5" alt="可莉" width="15%">
-
-<img src="https://user-images.githubusercontent.com/16126939/184785710-281e8c8a-a080-4293-beb9-ce981554bafe.png" alt="可莉" width="15%">[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
-
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)<img src="https://user-images.githubusercontent.com/16126939/185029702-955b44ab-3570-41f2-bb36-581a7ffe38fe.png" alt="心海" width="15%">
-    
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/6d9bbf5f-a9fe-4daa-9d4d-0dd191b0db79" width="15%">[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://peitho-data.readthedocs.io/en/latest/)
-    
-[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://qubitpi.github.io/aergia/)<img src="https://user-images.githubusercontent.com/16126939/208559538-a0b3f656-b7b5-4b32-accf-280ad4b5d6ce.png" alt="可莉" width="15%">
-
-<img src="https://user-images.githubusercontent.com/16126939/184785716-eb648d40-dfe1-4b01-8f0e-6df250b01539.png" alt="可莉" width="15%">[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
-
-[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)<img src="https://user-images.githubusercontent.com/16126939/185825798-885c6d66-fe43-4a0c-ba59-01c6fea2e133.png" alt="可莉" width="15%">
-
-<img src="https://user-images.githubusercontent.com/16126939/185825792-f62e66c9-0b1b-4ae2-8c19-87ddfcdfc330.png" alt="可莉" width="15%">[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
-
-[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)<img src="https://user-images.githubusercontent.com/16126939/185825783-d346bb34-fd68-4a31-ab45-09e16390271d.png" alt="可莉" width="15%">
-
-</div>
+[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://github.com/marketplace/actions/hashicorp-aws)
+[![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-template/)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)
+[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://peitho-data.readthedocs.io/en/latest/)
+[![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://qubitpi.github.io/aergia/)
+[![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
+[![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)
+[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
+[![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
 
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
