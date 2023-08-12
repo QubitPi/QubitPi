@@ -246,11 +246,11 @@ Latest Genshin Impact News (Bilibili)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828795561332179093><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/2de29a1a37bfeb2f7953d7fa56789633401742377.png' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
 
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
+- [恭喜@Alpha-kind@以loli之名@青风结诗_等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/828849669332271236)
 - [​#原神# #原神4.0# #七圣召唤# 旅行者们好呀，4.0版本更新后，「七圣召唤」玩法将新增角色牌「阿贝多」、「丽莎」、「七七」和对应天赋牌，以及五张新的行动牌...](https://t.bilibili.com/828795561332179093)
 - [[原神_哇][原神_哇]](https://t.bilibili.com/828542012249604129)
 - [互动抽奖 #原神# #原神fes# 亲爱的旅行者，现在是派蒙的特别节目预告时间&gt; &lt; 原神☆FES现场直播活动将于8月13日（本周日）12:30正式开启。 提前关注派蒙的工作笔...](https://t.bilibili.com/828541608505901074)
 - [恭喜@中二の马@bili_46465780325@曲不到名字等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/828478584169431121)
-- [互动抽奖 #原神喜茶# #喜茶原神联动# 亲爱的旅行者，喜茶×原神第二期联动现已开启！ 重逢之日来临，留云借风真君、甘雨和申鹤喜聚于此，一盏好茶一席佳话，邀请...](https://t.bilibili.com/828450675476135961)
 <!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
