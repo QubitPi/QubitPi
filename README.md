@@ -5,14 +5,6 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https:/
 
 </div>
 
-<div align="center">
-
-[“_**为世间所有的美好而努力**_” | _"**May you, the beauty of this world, always shine**"_](https://www.bilibili.com/video/BV1Kj411g7Lu)
-
-</div>
-
-<img align="center" width="100%" alt="personal-statement" src="https://github.com/QubitPi/QubitPi/assets/16126939/43710671-236d-4a99-b1ae-3687c3352ef3">
-
 <div align="left">
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
