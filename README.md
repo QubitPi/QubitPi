@@ -361,11 +361,11 @@ miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="ht
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [#Memgraph can help companies utilize real-time graph analytics to detect and prevent credit card fraud even before the transaction is completed. #cred...](https://twitter.com/memgraphdb/status/1690303360803504128)
+- [🎓 #Memgraph presents graph algorithms: Katz centrality 🗒️ Katz centrality is a method for estimating the centrality of graph entities. It outpu...](https://twitter.com/memgraphdb/status/1690296062911578113)
+- [If you are new to graph databases and Cypher, read the blog post below to get acquainted with some of the features that Cypher has to offer. #memgraph...](https://twitter.com/memgraphdb/status/1690285493525651456)
 - [🎓 #Memgraph presents graph algorithms: Graph clustering 🗒️ In graph theory, graph clustering is used to find subsets of similar nodes and group...](https://twitter.com/memgraphdb/status/1690246991421304833)
 - [Does your data model change often? If your data model is inconsistent and demands frequent changes, then using a graph database might be the way to go...](https://twitter.com/memgraphdb/status/1690236420332322817)
-- [🎓 #Memgraph presents graph algorithms: Node similarity 🗒️ The similarity of graph nodes is based on a comparison of adjacent nodes or the neigh...](https://twitter.com/memgraphdb/status/1690221825957986304)
-- [🎓 #Memgraph presents graph algorithms: Dynamic PageRank 🗒️ In the domain of estimating the importance of graph nodes, PageRank is the most popu...](https://twitter.com/memgraphdb/status/1690071332929560576)
-- [#Memgraph Cloud allows you to plug into your streaming infrastructure and ingest your data from sources like Apache #Kafka, #Pulsar, and #RedPanda, as...](https://twitter.com/memgraphdb/status/1690047424906043403)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
