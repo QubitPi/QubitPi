@@ -1,12 +1,4 @@
 <div align="center">
-
-<a href="https://www.bilibili.com/video/BV1Dy4y1t7Mf/"><img align="left" src="https://user-images.githubusercontent.com/16126939/193237544-1c6f8a1f-3c6a-4b8c-b5ca-d5269775c5a5.png" width="80"/></a>
-<img align="center" src="https://user-images.githubusercontent.com/16126939/187894116-72528a2a-5710-4f21-be8d-ad83953c42b9.GIF" width="50%"/>
-<a href="https://www.bilibili.com/video/BV1U14y1h7UE"><img align="right" src="https://user-images.githubusercontent.com/16126939/193237561-eadd5813-de98-4a4e-979b-ead6c30d996d.png" width="80"/></a>
-
-</div>
-
-<div align="center">
  
 _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https://github.com/paion-data)
 =======================================================================================================
@@ -209,49 +201,6 @@ Managing tech team should
 - Can visit [Paion Open Source Guide](https://paion-data.github.io/opensource.guide/): ✅
 - Can visit [Paion Artifactory](https://nexus.paion-data.dev/): ✅
 <!-- TECH-MGMT-DASHBOARD:END -->
-
-My [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
------------
-
-<img align="right" width="30%" alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/fdaa74a0-7816-4d64-985f-9f97727e94e3">
-
-### Recent Posts
-
-<!-- BILIBILI-RECENT-ACTIVITIES:START -->
-- [What is a Name Server](https://t.bilibili.com/811895586584264726)
-- [愿将军大人的威严直抵永恒[原神_点赞]](https://t.bilibili.com/811390971124121651)
-- [运维新趋势 Immutable Infrastructure 了解一下？ 【What is mutable vs. immutable infrastructure-哔哩哔哩】 https://b23.tv/EWrPTEf 顺便安利一个GitHub厨的...](https://t.bilibili.com/810995975867859030)
-- [What is mutable vs. immutable infrastructure](https://t.bilibili.com/810660289554939943)
-- [Everything We Do, We Believe Data through Technology Reveals the Hidden Truth of the World 【可莉邀请你加入派昂科技-哔哩哔哩】 https://b23.tv/731ivaB](https://t.bilibili.com/809559592510947416)
-<!-- BILIBILI-RECENT-ACTIVITIES:END -->
-
-<br/>
-
-<h3 align="center">
-Recently Liked-Saved-Tipped <img height="50px" alt="一键三连" src="https://github.com/QubitPi/QubitPi/assets/16126939/5f43bed9-777a-490e-9ac7-b892564a41a0"> Videos
-</h3>
-
-#### [Genshin Impact](https://space.bilibili.com/1771839550/favlist?fid=1596916250)
-
-<!-- BILIBILI-TIPPED-VIDEOS:START --><a href=https://www.bilibili.com/video/BV1TQ4y127hf><img src=http://i2.hdslb.com/bfs/archive/4d9643c400240470775a9bef4c97dec599ba91f0.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1WV4y1e7N7><img src=http://i0.hdslb.com/bfs/archive/18b7a20667ac1b489ba851f5be06bf6cce46088b.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1mg4y1N7TK><img src=http://i2.hdslb.com/bfs/archive/c9e767351f9d466f6197b06c3c5e00bf4cbe185f.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV168411D7pc><img src=http://i2.hdslb.com/bfs/archive/2a36127d8ba19f2a81c8caae231b2505f47cb2d0.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1JR4y1V7GM><img src=http://i2.hdslb.com/bfs/archive/944a29459b9f21790fe3c411d0d7abd13b1ec257.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<!-- BILIBILI-TIPPED-VIDEOS:END -->
-
-#### [Honkai Impact 3](https://space.bilibili.com/1771839550/favlist?fid=1713063050)
-
-<!-- BILIBILI-TIPPED-VIDEOS-HONKAI-IMPACT-3:START --><a href=https://www.bilibili.com/video/BV14g41187qz><img src=http://i2.hdslb.com/bfs/archive/6a5fefe3c94043838477a78bae13c711583aab73.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV11P411k7Ux><img src=http://i1.hdslb.com/bfs/archive/f24f647c92736035c666cbc391eee3911b385463.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1fz4y1J7P2><img src=http://i0.hdslb.com/bfs/archive/16791b43c840f4c0f76f77417a49beb8f7ed9d7b.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1Xs4y1C7yE><img src=http://i1.hdslb.com/bfs/archive/1291b00c83f349ea7ed4e60add252ed51bbccca9.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<a href=https://www.bilibili.com/video/BV1rW4y1b7Pj><img src=http://i1.hdslb.com/bfs/archive/055c58fe1f0585d11718276daf762f753d5d4c0f.jpg width='18%'></a>&nbsp;&nbsp;&nbsp;<!-- BILIBILI-TIPPED-VIDEOS-HONKAI-IMPACT-3:END -->
-
-<h3 align="center">
-Latest Genshin Impact News (Bilibili)
-</h3>
-
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:START --><a href=https://t.bilibili.com/828849669332271236><img align='right' src='https://i0.hdslb.com/bfs/new_dyn/f6ef7bb006b2bacb918c802e1edd2e93401742377.jpg' height='256px'></a><br><!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES-COVER:END -->
-
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:START -->
-- [恭喜@Alpha-kind@以loli之名@青风结诗_等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/828849669332271236)
-- [​#原神# #原神4.0# #七圣召唤# 旅行者们好呀，4.0版本更新后，「七圣召唤」玩法将新增角色牌「阿贝多」、「丽莎」、「七七」和对应天赋牌，以及五张新的行动牌...](https://t.bilibili.com/828795561332179093)
-- [[原神_哇][原神_哇]](https://t.bilibili.com/828542012249604129)
-- [互动抽奖 #原神# #原神fes# 亲爱的旅行者，现在是派蒙的特别节目预告时间&gt; &lt; 原神☆FES现场直播活动将于8月13日（本周日）12:30正式开启。 提前关注派蒙的工作笔...](https://t.bilibili.com/828541608505901074)
-- [恭喜@中二の马@bili_46465780325@曲不到名字等10位同学中奖，已私信通知，详情请点击互动抽奖查看。](https://t.bilibili.com/828478584169431121)
-<!-- BILIBILI-GENSHIN-IMPACT-ACTIVITIES:END -->
 
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
 -----------------------------------
