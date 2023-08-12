@@ -88,8 +88,6 @@ My Open Source Portfolio
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=vue)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
 
-<img align="center" width=100% alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/d972ffca-a244-41e1-82c0-b8d67b87d8b7">
-
 <div align="center">
 
 ## I Learn Technologies Everyday through Open Source <sup>[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
@@ -169,8 +167,6 @@ Managing tech team should
 2. Safeguard team by preventing any "broken window", which is what I am doing below:
 
 </details>
-
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/fe8fcd19-b742-4e6d-b5f1-20cfc717e5bb" width="45%" align="right">
 
 <!-- TECH-MGMT-DASHBOARD:START -->
 - [(Nexus Graph) Prometheus production issues](https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928) all cleared: ❌
