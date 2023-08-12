@@ -205,50 +205,6 @@ Managing tech team should
 <img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> My Coffee-Morning News Central
 -----------------------------------
 
-<img align="left" height='730px' alt="可莉" src="https://github.com/QubitPi/QubitPi/assets/16126939/b8fddcb7-3d8f-407e-a75b-d4fa2b9c4ebb">
-
-<h3 align="center">
-miHoYo News (米忽悠的诈骗日常<img width=5% alt="智慧的眼神" src="https://github.com/QubitPi/QubitPi/assets/16126939/cb0efd85-0916-42a6-b431-a05acb0078d8">)
-</h3>
-
-<img align="right" width="30%" alt="米忽悠" src="https://github.com/QubitPi/QubitPi/assets/16126939/1230586e-f81a-4f58-87b1-04ba8faefb84">
-
-#### <img width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/af91e328-bc43-4d33-813d-6ff5659fc1f4">
-
-<!-- MIHOYO-NEWS:START -->
-- [【直播回放】3.8版本「燃斗无双」七圣召唤8强淘汰赛第二场](https://bbs.mihoyo.com/ys/article/42297129)
-- [4.0版本「七圣召唤」全新卡牌说明](https://bbs.mihoyo.com/ys/article/42281097)
-- [3.8版本「燃斗无双」七圣召唤全民积分赛半决赛即将开启！](https://bbs.mihoyo.com/ys/article/42268334)
-- [【直播回放】3.8版本「燃斗无双」七圣召唤8强淘汰赛第一场](https://bbs.mihoyo.com/ys/article/42264133)
-- [七圣召唤全民赛事「第一赛季牌背」即将正式上线！](https://bbs.mihoyo.com/ys/article/42261436)
-<!-- MIHOYO-NEWS:END -->
-
-#### Genshin Impact (原神) [![](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E8%A7%92%E8%89%B2%E5%B1%95%E6%9F%9C-My%20FEATURED%20CHARACTERS-18A2FF?%20Sponsors&labelColor=66E0FE&style=for-the-badge)](https://enka.network/u/192603155/)
-
-<!-- GENSHIN-IMPACT-NEWS:START -->
-- [4.0版本「七圣召唤」全新卡牌说明](https://ys.mihoyo.com/main/news/detail/28497)
-- [七圣召唤全民赛事体系 第一赛季牌背介绍](https://ys.mihoyo.com/main/news/detail/28496)
-- [原神☆FES现场直播活动预告](https://ys.mihoyo.com/main/news/detail/28489)
-- [心有所喜 约有所期 | 喜遇原神2.0已经开启](https://ys.mihoyo.com/main/news/detail/28470)
-- [「幕后奇遇」——《原神》新角色：林尼分享H5正式上线](https://ys.mihoyo.com/main/news/detail/28469)
-<!-- GENSHIN-IMPACT-NEWS:END -->
-
-<img align="right" width="10%" src="https://github.com/QubitPi/QubitPi/assets/16126939/717734cd-58e8-4696-b22a-bb23c54a0ec2">
-
-#### Honkai Impact 3 (隔壁三崩子)
-
-<!-- HONKAI-IMPACT-NEWS:START -->
-- [玉骑士·月痕 | 扩充补给限时开启](https://www.bh3.com/news/28443)
-- [精准补给丨夜衔烛&amp;李素裳·神州忆剑](https://www.bh3.com/news/28442)
-- [封号名单（2023年8月7日）](https://www.bh3.com/news/28435)
-- [魔法裁衣 | 参与可得3★圣痕「西琳·成衣（下）」](https://www.bh3.com/news/28423)
-- [「飞鸟与梦之诗」服装补给限时8折开启！](https://www.bh3.com/news/28417)
-<!-- HONKAI-IMPACT-NEWS:END -->
-
-<br />
-
----
-
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
