@@ -222,11 +222,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Learn what is #Docker Compose and how it can help you in the application development process. https://memgraph.com/blog/how-to-orchestrate-your-graph-...](https://twitter.com/memgraphdb/status/1690623473503100928)
 - [🎓 What is the difference between node, vertex and point? There is no difference if we are talking about graphs. Learn more at https://memgraph.com/...](https://twitter.com/memgraphdb/status/1690598811326889984)
 - [Connect to our familiar datasets to experience the true #Memgraph Playground through Sandboxes - model the data, create custom queries and test Memgra...](https://twitter.com/memgraphdb/status/1690576162387263489)
 - [If you need to run complex graph algorithms and traversals often and expect the results in the shortest amount of time, you should give us a try! http...](https://twitter.com/memgraphdb/status/1690429444014452736)
 - [Movie ratings from MovieLens are incoming, but you are still not sure what to watch over the weekend? Create your own movie recommendation system. htt...](https://twitter.com/memgraphdb/status/1690411828398915585)
-- [Do you want to migrate a dataset from #Neo4j to #Memgraph? Read how you can do this using #CSV files. https://memgraph.com/blog/how-to-migrate-from-ne...](https://twitter.com/memgraphdb/status/1690393087732793344)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
