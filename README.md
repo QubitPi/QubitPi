@@ -201,11 +201,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
+- [Did you hear the news? 📣 We added a new course in #GraphAcademy: Introduction to Neo4j &amp; GraphQL. Take a look and start today. All courses at Graph...](https://twitter.com/neo4j/status/1691078473098346496)
 - [👀 Re-watch this livestream: Lessons Learned From Real-World Graph App Development Dave Aitel describes his personal experiences developing with #Ne...](https://twitter.com/neo4j/status/1690848203912921088)
 - [&quot;What is your favorite problem you&#39;ve ever solved with graph data science?&quot; Oh! We LOVE this question, and it&#39;s Katie Roberts, Data Science Solution A...](https://twitter.com/neo4j/status/1690716461650554880)
 - [&quot;Let’s start with the basic: Knowledge graphs are a means, not an end in themselves.&quot; @jbarrasa will guide you through this journey of understanding ...](https://twitter.com/neo4j/status/1690532371219554304)
 - [#GraphGPT converts unstructured natural language into a knowledge graph - How? It&#39;s a good Friday to relax and re-watch &lpar;or watch&rpar; this live stream! h...](https://twitter.com/neo4j/status/1690053720577318918)
-- [In this fourth article in a series on #NaLLM, @tb_tomaz explores real-time graph analytics use cases to implement in #LLM applications. #AI models can...](https://twitter.com/neo4j/status/1690015398744195072)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
