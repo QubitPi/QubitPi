@@ -247,11 +247,11 @@ My Coffee-Morning News Central
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [We will miss Stefan Tilkov](https://martinfowler.com/articles/202308-stefan-tilkov.html)
 - [First stage of reducing costs for a scaleup](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html#ReducePhase)
 - [Tech strategy for new customer segments and inorganic growth](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#expand-segments)
 - [Coding assistants do not replace pair programming](https://martinfowler.com/articles/exploring-gen-ai.html#memo-05)
 - [Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html)
-- [Exploring Gen AI: how can in-line assistance get in the way?](https://martinfowler.com/articles/exploring-gen-ai.html#in-line-assistance---how-can-it-get-in-the-way?)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
