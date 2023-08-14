@@ -223,11 +223,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
+- [Do you know what&#39;s so great about graph databases? They have an extremely flexible data model that allows us to add new nodes and new relationships wi...](https://twitter.com/memgraphdb/status/1690992905907814400)
+- [🎓 #Learn #Cypher with #Memgraph The DELETE clause is used to delete nodes and relationships from the database. https://memgraph.com/docs/cypher-man...](https://twitter.com/memgraphdb/status/1690971765717999616)
+- [🎓 #Memgraph presents graph algorithms: Biconnected components 🗒️ Biconnected components are parts of the graph important in the initial analysi...](https://twitter.com/memgraphdb/status/1690957421965955072)
 - [Do you know how easy it has become to use graph databases in your web applications? We built a small network visualizer with a graph database in the b...](https://twitter.com/memgraphdb/status/1690938550257152001)
 - [❓ Did you know that graphs can be used to model real-world situations, such as social networks, transportation networks, or electrical networks? #mem...](https://twitter.com/memgraphdb/status/1690796108794994689)
-- [Are you fed up with countless JOINs in your SQL queries? We feel you. 😢 Sometimes it takes an unbelievable amount of time to construct the query, l...](https://twitter.com/memgraphdb/status/1690772200708554753)
-- [Do you follow #Memgraph YouTube channel? https://www.youtube.com/channel/UCZ3HOJvHGxtQ_JHxOselBYg](https://twitter.com/memgraphdb/status/1690758110367842304)
-- [Always wanted to learn more about fraud detection, but you weren&#39;t sure how to tackle that problem? We have written a blog post with step by step tuto...](https://twitter.com/memgraphdb/status/1690751567580860416)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
