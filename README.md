@@ -89,6 +89,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Machine Learning [![](https://img.shields.io/badge/My%20Study%20Notes%20with%20Open%20Sourced%20ML-2A7FB9?style=flat-square&logo=readthedocs&logoColor=white)](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning) [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
+- **NLP** [Google BERT](https://github.com/QubitPi/google-bert)
 - **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/)
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) ![](https://img.shields.io/badge/Java%20&%20REST%20API-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **Tools** [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
@@ -119,7 +120,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
 
 </div>
-
 
 ---
 
