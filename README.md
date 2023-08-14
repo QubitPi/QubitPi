@@ -130,11 +130,11 @@ My [Tech Management](https://github.com/paion-data) Dashboard (Auto Updated Ever
 
 One day I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
 
-<img align="center" width="50%" src="img/tagging-issue.png">
+<img align="center" width="80%" src="img/tagging-issue.png">
 
 Although the issue got fixed quickly:
 
-<img align="center" width="50%" src="img/tagging-issue-solved.png">
+<img align="center" width="80%" src="img/tagging-issue-solved.png">
 
 a question raised in my mind: **What if there are multiple such issues and I was not lucky enough to spot them sooner
 than later?** My answer was _this is a [broken window problem](https://en.wikipedia.org/wiki/Broken_windows_theory)_.
