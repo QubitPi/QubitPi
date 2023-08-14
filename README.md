@@ -126,7 +126,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 My [Tech Management](https://github.com/paion-data) Dashboard (Auto Updated Every ~10 min)
 ---------------------------------------------------
 
-<details> <summary>(Expand Me) How Did this Idea of "Dashboard" Start</summary>
+<details> <summary>(Expand Me) How Did This Idea of "Dashboard" Start</summary>
 
 One day I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
 
