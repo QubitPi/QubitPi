@@ -246,11 +246,11 @@ My Coffee-Morning News Central
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Bottlenecks of Scaleups Webinar: Sep 7 2023](https://www.thoughtworks.com/about-us/events/webinars/scaling-bottlenecks--technology-mistakes-every-growing-startup-m)
 - [Strategic directions to build a strong foundation](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#BuildingAStrongFoundation)
 - [Actions to sustain cost control for scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html#SustainPhase)
 - [We will miss Stefan Tilkov](https://martinfowler.com/articles/202308-stefan-tilkov.html)
 - [First stage of reducing costs for a scaleup](https://martinfowler.com/articles/bottlenecks-of-scaleups/04-costs.html#ReducePhase)
-- [Tech strategy for new customer segments and inorganic growth](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#expand-segments)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
