@@ -223,11 +223,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Learn #Cypher with #Memgraph The WITH is used to chain together parts of a query, piping the results from one to be used as starting points or c...](https://twitter.com/memgraphdb/status/1691308988174905344)
-- [With graph databases, we can build models that map to our problem domain. 🗺️ If we create a labeled property graph model, most people will find it...](https://twitter.com/memgraphdb/status/1691158499273625600)
-- [Want to build a simple route planning application? Learn how to use the breadth-first search algorithm and #Dijkstra’s algorithm to navigate a comple...](https://twitter.com/memgraphdb/status/1691134590084173829)
-- [The great thing about stream processing is the process of analyzing and managing data in real-time - it’s the continuous, concurrent, and incremental...](https://twitter.com/memgraphdb/status/1691118591611920384)
-- [Recommending books is hard. Thanks to the Amazon books dataset and insights from graph analytics, you can build your own. https://memgraph.com/blog/ho...](https://twitter.com/memgraphdb/status/1691094074370211840)
+- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1691800477015449600)
+- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphdat...](https://twitter.com/memgraphdb/status/1691791165752766768)
+- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1691771033290695112)
+- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1691752914170081641)
+- [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1691747129214018013)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
