@@ -150,7 +150,7 @@ Managing tech team should
 - [(Nexus Graph) Prometheus production issues](https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928) all cleared: ❌
 - [Nexus Graph APP production issues](https://paion-data.sentry.io/projects/app-nexusgraph-com/?project=4505480923643904) all cleared: ❌
 - [Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning: ✅
-- [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml?query=branch:master) passes: ❌
+- [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml?query=branch:master) passes: ✅
 - [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml?query=branch:master) passes: ✅
 - [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph) passes: ✅
 - [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus) passes: ✅
