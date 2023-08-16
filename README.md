@@ -211,11 +211,11 @@ My Coffee-Morning News Central
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Knowlege Graph Construction Demo from raw text using an LLM](https://www.youtube.com/watch?v=Hg4ahTQlBm0)
 - [Neo4j Live: Metadata Management of NoSQL Data Sources using Neo4j](https://www.youtube.com/watch?v=ZExin7j8ysE)
 - [Knowledge Graphs for Personalized Medicine w/ Dr. Sixing Huang, Neo4j Ninja](https://www.youtube.com/watch?v=nbY0KoT54uE)
 - [Neo4j Live: Lessons learned from Real-World Graph App Development](https://www.youtube.com/watch?v=YY-ugAHPu4M)
 - [Going Meta Ep 19: Ontology Versioning in Neo4j](https://www.youtube.com/watch?v=xK_07cqKwMk)
+- [Best of: Pay Gap Data - Discovering Neo4j AuraDB Free with Michael and Alexander](https://www.youtube.com/watch?v=8DUpkhqZixM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
