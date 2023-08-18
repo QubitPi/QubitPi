@@ -170,11 +170,11 @@ My Coffee-Morning News Central
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Autonomous visual information seeking with large language models](http://ai.googleblog.com/2023/08/autonomous-visual-information-seeking.html)
 - [Neural network pruning with combinatorial optimization](http://ai.googleblog.com/2023/08/neural-network-pruning-with.html)
 - [STUDY: Socially aware temporally causal decoder recommender systems](http://ai.googleblog.com/2023/08/study-socially-aware-temporally-causal.html)
 - [Advances in document understanding](http://ai.googleblog.com/2023/08/advances-in-document-understanding.html)
 - [AdaTape: Foundation model with adaptive computation and dynamic read-and-write](http://ai.googleblog.com/2023/08/adatape-foundation-model-with-adaptive.html)
-- [Multimodal medical AI](http://ai.googleblog.com/2023/08/multimodal-medical-ai.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
