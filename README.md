@@ -202,11 +202,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Take a look at Ghlen Nagels&#39;s guide, where he walks us through recent improvements to the fully-tested PHP driver and client. You can now configure th...](https://twitter.com/neo4j/status/1691150231122100226)
-- [Did you hear the news? 📣 We added a new course in #GraphAcademy: Introduction to Neo4j &amp; GraphQL. Take a look and start today. All courses at Graph...](https://twitter.com/neo4j/status/1691078473098346496)
-- [👀 Re-watch this livestream: Lessons Learned From Real-World Graph App Development Dave Aitel describes his personal experiences developing with #Ne...](https://twitter.com/neo4j/status/1690848203912921088)
-- [&quot;What is your favorite problem you&#39;ve ever solved with graph data science?&quot; Oh! We LOVE this question, and it&#39;s Katie Roberts, Data Science Solution A...](https://twitter.com/neo4j/status/1690716461650554880)
-- [&quot;Let’s start with the basic: Knowledge graphs are a means, not an end in themselves.&quot; @jbarrasa will guide you through this journey of understanding ...](https://twitter.com/neo4j/status/1690532371219554304)
+- [In case you missed it, our latest podcast has a special guest: Dr. Julian Grümmer. Listen about knowledge graphs and more, here: https://bit.ly/45725...](https://twitter.com/neo4j/status/1692889423904465336)
+- [Custom Caption Controls are available in #Neo4j Bloom! Take a look at this video where Jeff Gagnon introduces a few of the new caption control functio...](https://twitter.com/neo4j/status/1692596229383893126)
+- [Re @martinohanlon recently joined @neo4j 🤝 In this blog, he narrates his journey on &quot;educating&quot; himself in #Neo4j -- check out how he structured hi...](https://twitter.com/neo4j/status/1692554466086522913)
+- [Learn How to Generate #Vector Embeddings For Interconnected Graph Data in #Neo4j through this great demo by Sefik Ilkin Serengil 🙌 https://bit.ly/3...](https://twitter.com/neo4j/status/1692200387992834433)
+- [Unify the access to a knowledge graph, a vector database and the web in a LangChain chatbot --&gt; https://bit.ly/3KDnDeQ #chatbot #neo4j #knowledgegraph](https://twitter.com/neo4j/status/1692159469864595857)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
