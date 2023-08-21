@@ -224,11 +224,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🎓 #Memgraph presents graph algorithms: Cycle detection 🗒️ In graph theory, a cycle represents a path within the graph where only starting and e...](https://twitter.com/memgraphdb/status/1691800477015449600)
-- [Explore the MovieLens dataset by connecting to the streaming movie ratings. Connect to the stream ➡️ https://awesomedata.stream/ #memgraph #graphdat...](https://twitter.com/memgraphdb/status/1691791165752766768)
-- [#Communitydetection is a powerful tool for graph analysis. From terrorist detection to healthcare initiatives, these algorithms have found their place...](https://twitter.com/memgraphdb/status/1691771033290695112)
-- [🎓 #Memgraph presents graph algorithms: Union Find 🗒️ This is yet another important graph analytics algorithm. This algorithm enables the user t...](https://twitter.com/memgraphdb/status/1691752914170081641)
-- [In this tutorial, we will show you how to build a simple Python web application from the bottom up, so you get a basic understanding of the technologi...](https://twitter.com/memgraphdb/status/1691747129214018013)
+- [🔄 Turn your batch data into streaming data with Kafka, Redpanda &amp; Pulsar! Optimize your data processing strategy for real-time insights. #DataStrea...](https://twitter.com/memgraphdb/status/1693612417039602176)
+- [🤖 Say goodbye to memory management pains! Memgraph&#39;s C++ API automatically manages graph data memory for you. #cplusplus #cpp #NoMoreMemoryIssues #...](https://twitter.com/memgraphdb/status/1693603106204823798)
+- [📚 Discover the best #Python packages for creating powerful Knowledge Graphs! Check out Pykg2vec, PyKEEN, AmpliGraph, LibKGE, and GraphVite. @ThePSF...](https://twitter.com/memgraphdb/status/1693582970630672387)
+- [🌐 Graph algorithms find applications in diverse domains - network analysis, social media recommendations, and beyond. #NetworkAnalysis #SocialMedia...](https://twitter.com/memgraphdb/status/1693564852831240543)
+- [🌐 AmpliGraph: the open-source toolkit democratizing graph representation learning! Ideal for #Python-based knowledge graph completion, information ...](https://twitter.com/memgraphdb/status/1693559064599355784)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
