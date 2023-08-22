@@ -47,7 +47,6 @@ By tapping into the collective talent and innovation of open source communities,
     
 ### Creator
 
-[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://github.com/marketplace/actions/hashicorp-aws)
 [![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://qubitpi.github.io/aergia/)
 [![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-template/)
 [![jersey-ws-generator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-generator&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-generator)
