@@ -237,11 +237,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [What North Dakota State University Student Learned While Working On OpenStack](https://superuser.openinfra.dev/articles/what-north-dakota-state-university-student-learned-while-working-on-openstack/)
 - [How to Join an OpenStack-Related IRC Channel: A Step by Step Guide](https://superuser.openinfra.dev/articles/how-to-join-an-openstack-related-irc-channel-a-step-by-step-guide/)
 - [North Dakota State University Students Share What They Learned Working On Kata Containers](https://superuser.openinfra.dev/articles/north-dakota-state-university-students-share-what-they-learned-working-on-kata-containers/)
 - [Highlights from the 2023 OpenInfra Summit: CI/CD](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-ci-cd/)
 - [Cloud Platform Monitoring, Digital Twins and a Real-time Context Broker – Part 2](https://superuser.openinfra.dev/articles/cloud-platform-monitoring-digital-twins-and-a-real-time-context-broker-part-2/)
-- [Inside Open Infrastructure: It’s OpenInfra User Survey Season!](https://superuser.openinfra.dev/articles/openinfra-newsletter-58/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
