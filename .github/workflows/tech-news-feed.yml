@@ -47,8 +47,8 @@ jobs:
           feed_list: "https://scholia.toolforge.org/topic/Q17012245/latest-works/rss"
           template: "<tr><td>$date</td><td><a href='$url'>$title</a></td></tr>"
 
-  openstack-news:
-    name: OpenStack News
+  hashicorp-blogs:
+    name: HashiCorp Blog
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -56,10 +56,10 @@ jobs:
         with:
           committer_username: "QubitPi"
           committer_email: "jack20191124@proton.me"
-          commit_message: "OpenStack Superuser"
-          comment_tag_name: "OPENSTACK-SUPERUSER"
+          commit_message: "New HashiCorp Blog"
+          comment_tag_name: "HASHICORP-BLOG"
           max_post_count: "5"
-          feed_list: "https://superuser.openstack.org/feed/"
+          feed_list: "https://www.hashicorp.com/blog/feed.xml"    
 
   memgraph-twitter:
     name: Twitter @Memgraph
@@ -100,6 +100,20 @@ jobs:
           comment_tag_name: "NEO4J-YOUTUBE"
           max_post_count: "5"
           feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
+
+  openstack-news:
+    name: OpenStack News
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "QubitPi"
+          committer_email: "jack20191124@proton.me"
+          commit_message: "OpenStack Superuser"
+          comment_tag_name: "OPENSTACK-SUPERUSER"
+          max_post_count: "5"
+          feed_list: "https://superuser.openstack.org/feed/"
    
   martin-fowler-blog:
     name: Martin Fowler's Blog
