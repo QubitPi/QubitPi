@@ -211,11 +211,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [In case you missed it, our latest podcast has a special guest: Dr. Julian Grümmer. Listen about knowledge graphs and more, here: https://bit.ly/45725...](https://twitter.com/neo4j/status/1692889423904465336)
-- [Custom Caption Controls are available in #Neo4j Bloom! Take a look at this video where Jeff Gagnon introduces a few of the new caption control functio...](https://twitter.com/neo4j/status/1692596229383893126)
-- [Re @martinohanlon recently joined @neo4j 🤝 In this blog, he narrates his journey on &quot;educating&quot; himself in #Neo4j -- check out how he structured hi...](https://twitter.com/neo4j/status/1692554466086522913)
-- [Learn How to Generate #Vector Embeddings For Interconnected Graph Data in #Neo4j through this great demo by Sefik Ilkin Serengil 🙌 https://bit.ly/3...](https://twitter.com/neo4j/status/1692200387992834433)
-- [Unify the access to a knowledge graph, a vector database and the web in a LangChain chatbot --&gt; https://bit.ly/3KDnDeQ #chatbot #neo4j #knowledgegraph](https://twitter.com/neo4j/status/1692159469864595857)
+- [Explore various use cases for integrating knowledge graphs into LLM and LangChain applications and learn how to improve prompts to produce better and ...](https://twitter.com/neo4j/status/1695572854891307092)
+- [We are excited about our partnership with @googlecloud Learn how #Neo4j AuraDB works with the #GenerativeAI capabilities on Google Cloud. https://bit....](https://twitter.com/neo4j/status/1695442727901515941)
+- [#NODES2023 is where you&#39;ll find inspiring content on the latest innovations in #graphtechnology for your applications and ML models. Take a look at th...](https://twitter.com/neo4j/status/1695057491137036606)
+- [Re @gcloudpartners 🫶](https://twitter.com/neo4j/status/1695056044571980134)
+- [RT Google Cloud Partners: Neo4j 🤝 Google Cloud building intelligent apps Together with #GoogleCloudPartner @neo4j, we&#39;re enabling businesses to bui...](https://twitter.com/gcloudpartners/status/1695053917862645925)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
