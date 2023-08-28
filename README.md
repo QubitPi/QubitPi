@@ -169,11 +169,11 @@ My Coffee-Morning News Central
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [RO-ViT: Region-aware pre-training for open-vocabulary object detection with vision transformers](http://ai.googleblog.com/2023/08/ro-vit-region-aware-pre-training-for.html)
 - [Responsible AI at Google Research: Perception Fairness](http://ai.googleblog.com/2023/08/responsible-ai-at-google-research.html)
 - [How to compare a noisy quantum processor to a classical computer](http://ai.googleblog.com/2023/08/how-to-compare-noisy-quantum-processor.html)
 - [Teaching language models to reason algorithmically](http://ai.googleblog.com/2023/08/teaching-language-models-to-reason.html)
 - [Language to rewards for robotic skill synthesis](http://ai.googleblog.com/2023/08/language-to-rewards-for-robotic-skill.html)
-- [Google at Interspeech 2023](http://ai.googleblog.com/2023/08/google-at-interspeech-2023.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
