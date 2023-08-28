@@ -233,11 +233,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Need an efficient solution for your NetworkX project? Our platform offers persistent in-memory data storage, custom algorithms, and powerful visu...](https://twitter.com/memgraphdb/status/1695672238383476744)
-- [🚀 Optimize impact analysis and system reliability with Memgraph&#39;s dynamic betweenness centrality algorithm. Keep your organization&#39;s data landscape...](https://twitter.com/memgraphdb/status/1695649590358212817)
-- [💡 Discover how to tackle fraud detection in the insurance industry with our artificial heterogeneous graph dataset! See how #NodeClassification can...](https://twitter.com/memgraphdb/status/1695502873625272828)
-- [🕵️‍♀️ Explore #GraphMachineLearning for fraud detection with Node Classification! Dive into the world of #GraphML and see how it can help detec...](https://twitter.com/memgraphdb/status/1695485256134951245)
-- [🖥️ Visualize your data with Memgraph Lab to make better decisions in #cybersecurity. Display your network-like data in a connected form, making th...](https://twitter.com/memgraphdb/status/1695466582829396455)
+- [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1696149131423531436)
+- [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1696139818990792897)
+- [🧠 Explore your cybersecurity graph storage with Memgraph and answer crucial questions about threats. Leverage MAGE, Memgraph&#39;s Advanced Graph Exten...](https://twitter.com/memgraphdb/status/1696119687115927889)
+- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1696101566716039549)
+- [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1696095782342959413)
 <!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
