@@ -212,11 +212,11 @@ My Coffee-Morning News Central
 #### Twitter
 
 <!-- NEO4J-TWITTER:START -->
-- [Explore various use cases for integrating knowledge graphs into LLM and LangChain applications and learn how to improve prompts to produce better and ...](https://twitter.com/neo4j/status/1695572854891307092)
-- [We are excited about our partnership with @googlecloud Learn how #Neo4j AuraDB works with the #GenerativeAI capabilities on Google Cloud. https://bit....](https://twitter.com/neo4j/status/1695442727901515941)
-- [#NODES2023 is where you&#39;ll find inspiring content on the latest innovations in #graphtechnology for your applications and ML models. Take a look at th...](https://twitter.com/neo4j/status/1695057491137036606)
-- [Re @gcloudpartners 🫶](https://twitter.com/neo4j/status/1695056044571980134)
-- [RT Google Cloud Partners: Neo4j 🤝 Google Cloud building intelligent apps Together with #GoogleCloudPartner @neo4j, we&#39;re enabling businesses to bui...](https://twitter.com/gcloudpartners/status/1695053917862645925)
+- [Get ready for #NODES2023 with our #workshops! These FREE two-hour online workshops focus on hands-on-keyboard learning before the conference. 💪 Reg...](https://twitter.com/neo4j/status/1697299297203597752)
+- [RT Adam Cowley: I was today years old when I learned that you don&#39;t need to use the MATCH clause to get node and relationship counts in @neo4j. I make...](https://twitter.com/adamcowley/status/1697216117842817093)
+- [Re @lesv @googlecloud @iamAible @DataStax @dialpad @SAP @typefaceai @UKGInc @gcloudpartners 🤝](https://twitter.com/neo4j/status/1697018122144776351)
+- [Take a look at the &quot;no-nonsense definition&quot; of #knowledgegraphs, how they work, what they might mean to different people, and why you should care. By ...](https://twitter.com/neo4j/status/1697013578862055564)
+- [Re @chrisarsenault ❤️](https://twitter.com/neo4j/status/1696993521834639840)
 <!-- NEO4J-TWITTER:END -->
 
 #### YouTube
