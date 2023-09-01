@@ -248,11 +248,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Exploring OpenStack Rally and Tempest Tools for Seamless Cloud Testing](https://superuser.openinfra.dev/articles/exploring-openstack-rally-and-tempest-tools-for-seamless-cloud-testing/)
 - [Highlights from the 2023 OpenInfra Summit: 5G, NFV &amp; Edge](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-5g-nfv-edge/)
 - [Scaling OpenStack-Ansible Deployment: RabbitMQ and MariaDB – Option Three](https://superuser.openinfra.dev/articles/scaling-openstack-ansible-deployment-rabbitmq-and-mariadb-option-three/)
 - [Scaling OpenStack-Ansible Deployment: RabbitMQ and MariaDB – Option Two](https://superuser.openinfra.dev/articles/scaling-openstack-ansible-deployment-rabbitmq-and-mariadb-option-two/)
 - [Scaling OpenStack-Ansible Deployment: RabbitMQ and MariaDB – Option One](https://superuser.openinfra.dev/articles/scaling-openstack-ansible-deployment-rabbitmq-and-mariadb-option-one/)
-- [What a North Dakota State University Student Learned While Working On OpenStack](https://superuser.openinfra.dev/articles/what-north-dakota-state-university-student-learned-while-working-on-openstack/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
