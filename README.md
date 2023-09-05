@@ -62,7 +62,7 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-
+[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lexical&show_owner=true&theme=vue)](https://github.com/paion-data/lexical)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
