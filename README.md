@@ -224,11 +224,11 @@ My Coffee-Morning News Central
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Going Meta - A Series on Graphs, Semantics and Knowledge Episode 20](https://www.youtube.com/watch?v=Tx1zCnlc0_g)
 - [Neo4j Live: Movie Recommendations with Neo4j](https://www.youtube.com/watch?v=wndOSi3i5OY)
 - [Neo4j - Dataflow Demo Video](https://www.youtube.com/watch?v=9dAnPoFV80c)
 - [Knowlege Graph Construction Demo from raw text using an LLM](https://www.youtube.com/watch?v=Hg4ahTQlBm0)
 - [Neo4j Live: Metadata Management of NoSQL Data Sources using Neo4j](https://www.youtube.com/watch?v=ZExin7j8ysE)
+- [Knowledge Graphs for Personalized Medicine w/ Dr. Sixing Huang, Neo4j Ninja](https://www.youtube.com/watch?v=nbY0KoT54uE)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
