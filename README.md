@@ -64,8 +64,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-docs)
-[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lexical&show_owner=true&theme=vue)](https://github.com/paion-data/lexical)
 [![logto-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=logto-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/logto-docs)
+[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lexical&show_owner=true&theme=vue)](https://github.com/paion-data/lexical)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
