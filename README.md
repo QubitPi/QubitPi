@@ -256,11 +256,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Cloud in a Box &lpar;CiaB&rpar; – Running on a Laptop](https://superuser.openinfra.dev/articles/cloud-in-a-box-ciab-running-on-a-laptop/)
 - [Zuul Deep Dive: Volvo | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/zuul-deep-dive-volvo/)
 - [Inside Open Infrastructure: The Next Virtual PTG is Happening in October!](https://superuser.openinfra.dev/articles/openinfra-newsletter-59/)
 - [Exploring OpenStack Rally and Tempest Tools for Seamless Cloud Testing](https://superuser.openinfra.dev/articles/exploring-openstack-rally-and-tempest-tools-for-seamless-cloud-testing/)
 - [Highlights from the 2023 OpenInfra Summit: 5G, NFV &amp; Edge](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-5g-nfv-edge/)
-- [Scaling OpenStack-Ansible Deployment: RabbitMQ and MariaDB – Option Three](https://superuser.openinfra.dev/articles/scaling-openstack-ansible-deployment-rabbitmq-and-mariadb-option-three/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
