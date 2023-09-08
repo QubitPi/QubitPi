@@ -198,11 +198,11 @@ My Coffee-Morning News Central
 <h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
 
 <!-- HASHICORP-BLOG:START -->
+- [New version of ServiceNow Terraform Catalog enables resource updates](https://www.hashicorp.com/blog/new-version-of-servicenow-terraform-catalog-enables-resource-updates)
 - [Version 2 of the Packer Azure plugin is now available](https://www.hashicorp.com/blog/version-2-packer-azure-plugin-now-available)
 - [HashiCorp at Google Cloud Next: Seamless infrastructure deployment and management](https://www.hashicorp.com/blog/hashicorp-at-google-cloud-next-seamless-infrastructure-deployment-and-management)
 - [HashiCorp updates licensing FAQ based on community questions](https://www.hashicorp.com/blog/hashicorp-updates-licensing-faq-based-on-community-questions)
 - [Terraform ephemeral workspaces public beta now available](https://www.hashicorp.com/blog/terraform-ephemeral-workspaces-public-beta-now-available)
-- [CDK for Terraform 0.18 reduces synthesization time](https://www.hashicorp.com/blog/cdk-for-terraform-0-18-reduces-synthesization-time)
 <!-- HASHICORP-BLOG:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
