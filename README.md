@@ -63,8 +63,9 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![kibana](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kibana&show_owner=true&theme=vue)](https://github.com/QubitPi/kibana)
+[![AmpliGraph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=AmpliGraph&show_owner=true&theme=vue)](https://github.com/QubitPi/AmpliGraph)
 [![redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux&show_owner=true&theme=vue)](https://github.com/QubitPi/redux)
+[![kibana](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kibana&show_owner=true&theme=vue)](https://github.com/QubitPi/kibana)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
