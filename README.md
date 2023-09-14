@@ -178,11 +178,11 @@ My Coffee-Morning News Central
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [On-device content distillation with graph neural networks](http://blog.research.google/2023/09/on-device-content-distillation-with.html)
 - [World scale inverse reinforcement learning in Google Maps](http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html)
 - [Differentially private median and more](http://blog.research.google/2023/09/differentially-private-median-and-more.html)
 - [A novel computational fluid dynamics framework for turbulent flow research](http://blog.research.google/2023/09/a-novel-computational-fluid-dynamics.html)
 - [TSMixer: An all-MLP architecture for time series forecasting](http://blog.research.google/2023/09/tsmixer-all-mlp-architecture-for-time.html)
-- [WeatherBench 2: A benchmark for the next generation of data-driven weather models](http://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
