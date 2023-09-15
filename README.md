@@ -24,7 +24,7 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https:/
 
 > <br>
 > <br>
-> This page is also dedicated to my former colleague <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will [follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area](https://github.com/QubitPi/java-code-review-guide-book)
+> This page is also dedicated to my former colleague <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area</a>
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
 
