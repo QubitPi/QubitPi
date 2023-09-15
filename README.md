@@ -67,6 +67,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux&show_owner=true&theme=vue)](https://github.com/QubitPi/redux)
 [![elide-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-doc&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-doc)
 [![AmpliGraph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=AmpliGraph&show_owner=true&theme=vue)](https://github.com/QubitPi/AmpliGraph)
+[![elastic-beats](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-beats&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-beats)
 <!-- ACTIVE-FORKS:END -->
 
 ### Contributor
