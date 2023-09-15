@@ -20,7 +20,7 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https:/
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu85VjEdXIvWVZONw4UbxVhN)
 [![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu8lFklDi1SVDCbvtMdH_nc_)
 
-> I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life-long philosophy that the end of Software Development in itself is not about money, but **people**, **passion**, and **love**. Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px" />
+> I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life-long philosophy that the end of Software Development in itself is not about money, but **people**, **passion**, and **love**. Thank you Yahoo! ![](https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6)
 
 > <br>
 > <br>
