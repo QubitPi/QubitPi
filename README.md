@@ -235,7 +235,7 @@ My Coffee-Morning News Central
 - [Going Meta - Ep 20: A Recap](https://www.youtube.com/watch?v=Tx1zCnlc0_g)
 - [Neo4j Live: Movie Recommendations with Neo4j](https://www.youtube.com/watch?v=wndOSi3i5OY)
 - [Neo4j - Dataflow Demo Video](https://www.youtube.com/watch?v=9dAnPoFV80c)
-- [Knowledge Graph Construction Demo from raw text using an LLM](https://www.youtube.com/watch?v=Hg4ahTQlBm0)
+- [Knowlege Graph Construction Demo from raw text using an LLM](https://www.youtube.com/watch?v=Hg4ahTQlBm0)
 - [Neo4j Live: Metadata Management of NoSQL Data Sources using Neo4j](https://www.youtube.com/watch?v=ZExin7j8ysE)
 <!-- NEO4J-YOUTUBE:END -->
 
