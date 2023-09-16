@@ -13,6 +13,7 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https:/
 [![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
 [![LeetCode user _Jack_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F_Jack_&logo=leetcode&logoColor=yellow)](https://leetcode.com/_Jack_/)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
+![Fuck Tencent](https://img.shields.io/badge/FUCK-TENCENT-000000?style=for-the-badge)
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.youtube.com/playlist?list=PL-CLnI8tPXu-1OTN58mmJMqlFgsnQ4uTG)
