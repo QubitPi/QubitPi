@@ -67,8 +67,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-docs)
-[![elasticsearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elasticsearch&show_owner=true&theme=vue)](https://github.com/QubitPi/elasticsearch)
 [![elide-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-doc&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-doc)
+[![elasticsearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elasticsearch&show_owner=true&theme=vue)](https://github.com/QubitPi/elasticsearch)
 [![elastic-beats](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-beats&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-beats)
 [![AmpliGraph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=AmpliGraph&show_owner=true&theme=vue)](https://github.com/QubitPi/AmpliGraph)
 <!-- ACTIVE-FORKS:END -->
