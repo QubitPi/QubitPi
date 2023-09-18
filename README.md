@@ -260,11 +260,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [University Program – Partner with Institutions](https://superuser.openinfra.dev/articles/university-program-partner-with-institutions/)
 - [New View on Interoperability in OpenStack](https://superuser.openinfra.dev/articles/new-view-on-interoperability-in-openstack/)
 - [Convesio | An OpenStack Case Study](https://superuser.openinfra.dev/articles/convesio-an-openstack-case-study/)
 - [Cloud in a Box &lpar;CiaB&rpar; – Running on a Laptop](https://superuser.openinfra.dev/articles/cloud-in-a-box-ciab-running-on-a-laptop/)
 - [Zuul Deep Dive: Volvo | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/zuul-deep-dive-volvo/)
-- [Inside Open Infrastructure: The Next Virtual PTG is Happening in October!](https://superuser.openinfra.dev/articles/openinfra-newsletter-59/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
