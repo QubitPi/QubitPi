@@ -67,10 +67,10 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![elastic-beats](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-beats&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-beats)
-[![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-docs)
 [![logstash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=logstash&show_owner=true&theme=vue)](https://github.com/QubitPi/logstash)
-[![elide-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-doc&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-doc)
+[![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/elastic-docs)
 [![elasticsearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elasticsearch&show_owner=true&theme=vue)](https://github.com/QubitPi/elasticsearch)
+[![elide-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elide-doc&show_owner=true&theme=vue)](https://github.com/QubitPi/elide-doc)
 [![kibana](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kibana&show_owner=true&theme=vue)](https://github.com/QubitPi/kibana)
 <!-- ACTIVE-FORKS:END -->
 
