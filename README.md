@@ -271,11 +271,11 @@ My Coffee-Morning News Central
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [How is GenAI different from other code generators?](https://martinfowler.com/articles/exploring-gen-ai.html#memo-07)
 - [Technology Strategy for Emerging Technologies and Markets](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#RespondingToTheEverChangingFuture)
 - [Demo Front-End: A front-end application to test and explore an API](https://martinfowler.com/articles/demo-front-end.html)
 - [Strategic Directions supporting the people](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#SupportingThePeople)
 - [Bottlenecks of Scaleups #05: Resilience and Observability](https://martinfowler.com/articles/bottlenecks-of-scaleups/05-resilience-and-observability.html)
-- [TDD with GitHub Copilot](https://martinfowler.com/articles/exploring-gen-ai.html#memo-06)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 #### [CSS-Trikcs](https://css-tricks.com/)
