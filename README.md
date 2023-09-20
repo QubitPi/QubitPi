@@ -202,11 +202,11 @@ My Coffee-Morning News Central
 <h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
 
 <!-- HASHICORP-BLOG:START -->
+- [What is ACME PKI?](https://www.hashicorp.com/blog/what-is-acme-pki)
 - [Terraform Enterprise adds new flexible deployment options](https://www.hashicorp.com/blog/terraform-enterprise-adds-new-flexible-deployment-options)
 - [Announcing the removal of bundled plugins in HashiCorp Packer](https://www.hashicorp.com/blog/announcing-the-removal-of-bundled-plugins-in-hashicorp-packer)
 - [Terraform Cloud now supports assigning agent pools at the organization level](https://www.hashicorp.com/blog/terraform-cloud-now-supports-assigning-agent-pools-at-the-organization-level)
 - [Creating a multi-cloud golden image pipeline with Terraform Cloud and HCP Packer](https://www.hashicorp.com/blog/multicloud-golden-image-pipeline-terraform-cloud-hcp-packer)
-- [Accelerating AI adoption on Azure with Terraform](https://www.hashicorp.com/blog/accelerating-ai-adoption-on-azure-with-terraform)
 <!-- HASHICORP-BLOG:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
