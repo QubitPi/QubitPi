@@ -234,11 +234,11 @@ My Coffee-Morning News Central
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Road to NODES: Intro to Neo4j &amp; Interactive Dashboarding with NeoDash](https://www.youtube.com/watch?v=OzncNhhvhUM)
 - [Basecamp Research: Getting Started with Graph Data Science](https://www.youtube.com/watch?v=CcsYtVhOEgE)
 - [Basecamp Research: Feature Engineering with Graph Data Science](https://www.youtube.com/watch?v=I97ujqDlhks)
 - [Basecamp Research: Accelerating Treatment of Genetic Diseases Using Similarity Algorithms](https://www.youtube.com/watch?v=CoLBwUnB6e0)
 - [Basecamp Research: Deep Learning with Graph Algorithms &amp; Embeddings](https://www.youtube.com/watch?v=GqsMHBnk5Po)
-- [Basecamp Research: Embracing Graph Models over Traditional Data Science](https://www.youtube.com/watch?v=TSKgf5g8pXc)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
