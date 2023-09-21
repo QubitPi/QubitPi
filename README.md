@@ -260,11 +260,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Large Scale Ops Deep Dive: NIPA Cloud | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/large-scale-ops-deep-dive-nipa-cloud-openinfra-live-recap/)
 - [Democratizing the GPU &lpar;Part One&rpar;: The Ansible Role Where The Magic Begins](https://superuser.openinfra.dev/articles/democratizing-the-gpu-part-one-the-ansible-role-where-the-magic-begins/)
 - [University Program – Partner with Institutions](https://superuser.openinfra.dev/articles/university-program-partner-with-institutions/)
 - [New View on Interoperability in OpenStack](https://superuser.openinfra.dev/articles/new-view-on-interoperability-in-openstack/)
 - [Convesio | An OpenStack Case Study](https://superuser.openinfra.dev/articles/convesio-an-openstack-case-study/)
-- [Cloud in a Box &lpar;CiaB&rpar; – Running on a Laptop](https://superuser.openinfra.dev/articles/cloud-in-a-box-ciab-running-on-a-laptop/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
