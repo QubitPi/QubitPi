@@ -213,7 +213,7 @@ My Coffee-Morning News Central
 
 <table>
   <tr><th>Date</th><th>Recently Published Works</th></tr>
-  <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Mon May 22 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118867783'>NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</a></td></tr><tr><td>Mon May 01 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118798769'>Entity Linking for KGQA Using AMR Graphs</a></td></tr><tr><td>Sun Jan 01 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q121283797'>WikiMed-DE: Constructing a Silver-Standard Dataset for German Biomedical Entity Linking using Wikipedia and Wikidata</a></td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
+  <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Thu Sep 14 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q122750552'>DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph</a></td></tr><tr><td>Mon May 22 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118867783'>NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</a></td></tr><tr><td>Mon May 01 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118798769'>Entity Linking for KGQA Using AMR Graphs</a></td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
 </table>
 
 <h3><img width="30%" src="./img/neo4j-logo.png"></h3>
