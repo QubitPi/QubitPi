@@ -133,7 +133,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Security** <sup>[![OAuth](https://img.shields.io/badge/OAuth%202-00AA00?style=flat-square&logo=auth0&logoColor=white)](https://github.com/QubitPi/oauth-in-action-code)</sup> [Let's Encrypt](https://qubitpi.github.io/letsencrypt-website/) | [Certbot](https://qubitpi.github.io/certbot/certbot/docs/html/) | [Kong Gateway](https://qubitpi.github.io/docs.konghq.com/gateway/latest/) | [JWT Token](https://qubitpi.github.io/jsonwebtoken.github.io/website)([debugger](https://qubitpi.github.io/jsonwebtoken.github.io/extension/)) | [Logto](https://qubitpi.github.io/logto-docs/) | [Keycloak Documentation](https://qubitpi.github.io/keycloak-web/) | [Keycloak Documentation (Extra)](https://qubitpi.github.io/keycloak-documentation/)
 - **Graph Database** [Memgraph Documentation](https://qubitpi.github.io/memgraph-docs/) | [ArangoDB Documentation](https://qubitpi.github.io/arangodb-docs/stable/)
 
-  - **Neo4J** [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [~~Neo4J Developer Guides~~](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) 
+  - **Neo4J** [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [~~Neo4J Developer Guides~~](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/)
+
+    - [Movies Graph Example](https://qubitpi.github.io/neo4j-graph-examples-movies/neo4j-graph-examples-movie/1/movies/)
 
 ### Miscellaneous
 
