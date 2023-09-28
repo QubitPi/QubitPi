@@ -210,11 +210,11 @@ My Coffee-Morning News Central
 <h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
 
 <!-- HASHICORP-BLOG:START -->
+- [Vault 1.15 brings UI updates, PKI enhancements, new betas, and more](https://www.hashicorp.com/blog/vault-1-15-brings-ui-updates-pki-enhancements-new-betas-and-more)
+- [Terraform Cloud no-code provisioning adds module version upgrades in beta](https://www.hashicorp.com/blog/terraform-cloud-no-code-provisioning-adds-module-version-upgrades-in-beta)
 - [Deploy Consul on Kubernetes with Argo CD](https://www.hashicorp.com/blog/deploy-consul-on-kubernetes-with-argo-cd)
 - [Meet HashiCorp’s boomerang interns](https://www.hashicorp.com/blog/meet-hashicorp-s-boomerang-interns)
 - [What is ACME PKI?](https://www.hashicorp.com/blog/what-is-acme-pki)
-- [Terraform Enterprise adds new flexible deployment options](https://www.hashicorp.com/blog/terraform-enterprise-adds-new-flexible-deployment-options)
-- [Announcing the removal of bundled plugins in HashiCorp Packer](https://www.hashicorp.com/blog/announcing-the-removal-of-bundled-plugins-in-hashicorp-packer)
 <!-- HASHICORP-BLOG:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
