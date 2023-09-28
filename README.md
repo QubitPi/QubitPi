@@ -190,11 +190,11 @@ My Coffee-Morning News Central
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
 <!-- GOOGLE-AI-BLOG:START -->
+- [Re-weighted gradient descent via distributionally robust optimization](http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html)
 - [Google Research embarks on effort to map a mouse brain](http://blog.research.google/2023/09/google-research-embarks-on-effort-to.html)
 - [Distilling step-by-step: Outperforming larger language models with less training data and smaller model sizes](http://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 - [MediaPipe FaceStylizer: On-device real-time few-shot face stylization](http://blog.research.google/2023/09/mediapipe-facestylizer-on-device-real.html)
 - [On-device content distillation with graph neural networks](http://blog.research.google/2023/09/on-device-content-distillation-with.html)
-- [World scale inverse reinforcement learning in Google Maps](http://blog.research.google/2023/09/world-scale-inverse-reinforcement.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
