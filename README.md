@@ -83,8 +83,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![lexical](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lexical&show_owner=true&theme=vue)](https://github.com/paion-data/lexical)
-[![styled-components-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=styled-components-website&show_owner=true&theme=vue)](https://github.com/QubitPi/styled-components-website)
 [![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs-cypher&show_owner=true&theme=vue)](https://github.com/QubitPi/docs-cypher)
+[![styled-components-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=styled-components-website&show_owner=true&theme=vue)](https://github.com/QubitPi/styled-components-website)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
