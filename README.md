@@ -263,11 +263,11 @@ My Coffee-Morning News Central
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Complex Openstack Inventory – A Nightmare!](https://superuser.openinfra.dev/articles/complex-openstack-inventory-a-nightmare/)
 - [Highlights from the 2023 OpenInfra Summit: AI, Machine Learning &amp; HPC](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-ai-machine-learning-hpc/)
 - [ABAC with OpenStack: What Are the Options?](https://superuser.openinfra.dev/articles/abac-with-openstack-what-are-the-options/)
 - [Large Scale Ops Deep Dive: NIPA Cloud | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/large-scale-ops-deep-dive-nipa-cloud-openinfra-live-recap/)
 - [Democratizing the GPU &lpar;Part One&rpar;: The Ansible Role Where The Magic Begins](https://superuser.openinfra.dev/articles/democratizing-the-gpu-part-one-the-ansible-role-where-the-magic-begins/)
-- [University Program – Partner with Institutions](https://superuser.openinfra.dev/articles/university-program-partner-with-institutions/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
