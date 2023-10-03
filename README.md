@@ -195,11 +195,11 @@ My Coffee-Morning News Central
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Scaling up learning across many different robot types](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
 - [A catalogue of genetic mutations to help pinpoint the cause of diseases](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases)
 - [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
 - [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
 - [Using AI to fight climate change](https://www.deepmind.com/blog/using-ai-to-fight-climate-change)
-- [Google DeepMind’s latest research at ICML 2023](https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 <h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
