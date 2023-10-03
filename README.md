@@ -82,7 +82,7 @@ By tapping into the collective talent and innovation of open source communities,
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs-cypher&show_owner=true&theme=vue)](https://github.com/QubitPi/docs-cypher)
+
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
