@@ -206,10 +206,10 @@ My Coffee-Morning News Central
 
 <!-- HASHICORP-BLOG:START -->
 - [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
+- [Announcing secrets sync beta for self-managed Vault Enterprise](https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise)
 - [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
 - [HashiCorp Vault 1.15 adopts Microsoft Workload Identity Federation](https://www.hashicorp.com/blog/hashicorp-vault-1-15-adopts-microsoft-workload-identity-federation)
 - [Terraform Cloud adds streamlined run task reviews](https://www.hashicorp.com/blog/terraform-cloud-adds-streamlined-run-task-reviews)
-- [Vault 1.15 brings UI updates, PKI enhancements, new betas, and more](https://www.hashicorp.com/blog/vault-1-15-brings-ui-updates-pki-enhancements-new-betas-and-more)
 <!-- HASHICORP-BLOG:END -->
 
 ### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
