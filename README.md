@@ -238,11 +238,11 @@ My Coffee-Morning News Central
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Road to NODES: Neo4j Graph Data Science with Generative AI](https://www.youtube.com/watch?v=9wdlXAWgesM)
 - [Going Meta - A Series on Graphs, Semantics and Knowledge Episode 21](https://www.youtube.com/watch?v=bRD09ndyJNs)
 - [Road to NODES: Graphing Relational Database Models](https://www.youtube.com/watch?v=o_6C27I5yeA)
 - [Road to NODES: Intro to Neo4j &amp; Interactive Dashboarding with NeoDash](https://www.youtube.com/watch?v=OzncNhhvhUM)
 - [Basecamp Research: Getting Started with Graph Data Science](https://www.youtube.com/watch?v=CcsYtVhOEgE)
-- [Basecamp Research: Feature Engineering with Graph Data Science](https://www.youtube.com/watch?v=I97ujqDlhks)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
