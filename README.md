@@ -101,7 +101,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 ### Machine Learning [![](https://img.shields.io/badge/My%20Study%20Notes%20with%20Open%20Sourced%20ML-2A7FB9?style=flat-square&logo=readthedocs&logoColor=white)](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning) [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
 - **NLP** [Google BERT](https://github.com/QubitPi/google-bert)
-- **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/)
+- **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) ![](https://img.shields.io/badge/Java%20&%20REST%20API-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
 - **Tools** [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
