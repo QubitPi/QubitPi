@@ -71,7 +71,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=vue)](https://paion-data.github.io/astraios)
 [![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=vue)](https://github.com/paion-data/nexusgraph)
 [![Paion Elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=vue)](https://github.com/paion-data/elide)
-[![lexical](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lexical&show_owner=true&theme=vue)](https://github.com/paion-data/lexical)
 [![paion-data-eng-practices](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=paion-data-eng-practices&show_owner=true&theme=vue)](https://github.com/paion-data/paion-data-eng-practices)
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=vue)](https://github.com/yahoo/fili)
