@@ -30,14 +30,18 @@ _[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https:/
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg"/></a>
 
-My Open Source Portfolio
-------------------------
+Open Source at My Core
+----------------------
 
 [![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)
 [![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/organizations/qubitpi/projects)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jack20191124/)
 [![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/jack20191124/)
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/jack20220723)
+
+> Over the past few years, major innovation in the industry has shifted to open source and has play more important role in people's lives. [We will remain committed that the core of our technology will always remain open source](https://paion-data.github.io/opensource.paion-data/).
+
+My open source ethos is at the core of my tech philosophy. I believe the open source model is the best way to understand and address the complex and critical challenges introduced by this world. Starting with open source enables us to build software in a way that establishes a community where people are engaged and work together to help to solve issues for themselves and for others.
 
 **I belive in creating software using the open source way**, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. This philosophy affects everything my team does in Tech Industry as most of today’s IT leaders, who agree that enterprise open source is important, do
 
