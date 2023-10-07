@@ -60,7 +60,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![jersey-ws-generator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-generator&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-generator)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)
-[![peitho-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=peitho-data&show_owner=true&theme=vue)](https://peitho-data.readthedocs.io/en/latest/)
 [![Opinionated-JAX-RS-Spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Opinionated-JAX-RS-Spec&show_owner=true&theme=vue)](https://github.com/QubitPi/Opinionated-JAX-RS-Spec)
 [![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
@@ -97,7 +96,7 @@ I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guid
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By turning my self-maintained [blog](https://qubitpi.github.io/jersey-guide/) into [GitHub Forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm delegating my personal tech blog writing to thousands of developers around the world. In addition, I could also add my own study notes on top of their documentations:
 
-### Machine Learning [![](https://img.shields.io/badge/My%20Study%20Notes%20with%20Open%20Sourced%20ML-2A7FB9?style=flat-square&logo=readthedocs&logoColor=white)](https://peitho-data.readthedocs.io/en/latest/peitho_data.html#machine-learning) [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
+### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
 - **NLP** [Google BERT](https://github.com/QubitPi/google-bert)
 - **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
