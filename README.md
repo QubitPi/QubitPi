@@ -67,11 +67,6 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/neo4j/neo4j-browser)
 [![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=vue)](https://github.com/neo4j/docs-cypher)
-[![prometheus](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=prometheus&show_owner=true&theme=vue)](https://paion-data.github.io/prometheus)
-[![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=vue)](https://paion-data.github.io/astraios)
-[![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=vue)](https://github.com/paion-data/nexusgraph)
-[![Paion Elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=vue)](https://github.com/paion-data/elide)
-[![paion-data-eng-practices](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=paion-data-eng-practices&show_owner=true&theme=vue)](https://github.com/paion-data/paion-data-eng-practices)
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=vue)](https://github.com/QubitPi/mdbm)
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=vue)](https://github.com/yahoo/fili)
 [![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=vue)](https://github.com/yahoo/elide)
