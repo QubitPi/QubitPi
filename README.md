@@ -108,6 +108,40 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### [DevOps](https://qubitpi.github.io/aergia/blog/immutable-infrastructure)
 
+- <details><summary>VirtualBox</summary>
+
+  - Start VM from command line
+
+    ```bash
+    VBoxManage startvm <vm_name> --type headless
+    ```
+
+  - Stop virtual machine
+
+    ```bash
+    VBoxManage controlvm <vm_name> poweroff
+    ```
+
+  - [SSH into a virtual machine](https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/)
+ 
+    1. To open guest machine network settings to make sure it's attached to NAT
+   
+       ![](https://averagelinuxuser.com/assets/images/posts/2022-05-21-ssh-into-virtualbox/Virtualbox-NAT.jpg)
+
+    2. Then go to _Advanced_ -> **_Port Forwarding_** and add these settings:
+
+       - The IP fields can be left empty.
+       - Name: ssh (or whatever you like)
+       - Protocol: TCP
+       - Host Port: 2222 (or any other port you like)
+       - Gust port: 22
+
+       ![](https://averagelinuxuser.com/assets/images/posts/2022-05-21-ssh-into-virtualbox/Virtualbox-port-forwarding.jpg)
+
+    3. Reboot host machine and ssh by `ssh -p 2222 virtualbox-user-name@localhost`
+ 
+  </details>
+
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - [![](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
