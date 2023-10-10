@@ -1,7 +1,7 @@
 <div align="center">
  
-_[Open Innovation](https://github.com/stealth-tech-startup)_ as [Career](https://github.com/paion-data)
-=======================================================================================================
+_Data Innovation_ as [Career](https://github.com/paion-data)
+============================================================
 
 </div>
 
