@@ -36,8 +36,6 @@ Open Source at My Core
 [![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)
 [![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/organizations/qubitpi/projects)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jack20191124/)
-[![PyPi](https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white)](https://pypi.org/user/jack20191124/)
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/jack20220723)
 
 > Over the past few years, major innovation in the industry has shifted to open source and has play more important role in people's lives. [We will remain committed that the core of our technology will always remain open source](https://paion-data.github.io/opensource.paion-data/).
 
