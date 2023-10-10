@@ -270,11 +270,11 @@ My Coffee-Morning News Central
 #### YouTube
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j with Amazon Bedrock.](https://www.youtube.com/watch?v=nV3-KKEZnD4)
 - [NODES 2023 - Check out the agenda! #neo4j #AI #graphdatabase](https://www.youtube.com/watch?v=pCCi2C8NwQg)
 - [Going Meta - Ep 21: Vector-based Semantic Search and Graph-based Semantic Search](https://www.youtube.com/watch?v=bRD09ndyJNs)
 - [Neo4j Live: NODES 2023 Speaker Roundtable](https://www.youtube.com/watch?v=Cm7QHFEToVY)
 - [Road to NODES: Neo4j Graph Data Science with Generative AI](https://www.youtube.com/watch?v=SUhM5SOYcd4)
-- [Road to NODES: Graphing Relational Database Models](https://www.youtube.com/watch?v=o_6C27I5yeA)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/memgraph-logo.png"></h3>
