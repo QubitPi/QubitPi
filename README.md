@@ -173,45 +173,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-My [Tech Management](https://github.com/paion-data) Dashboard (Auto Updated Every ~10 min)
----------------------------------------------------
-
-<details> <summary>(Expand Me) How Did This Idea of "Dashboard" Start</summary>
-
-One day I landed in one of our company's project home page and saw that the semantic versioning of this project got screwed up:
-
-<img align="center" width="80%" src="img/tagging-issue.png">
-
-Although the issue got fixed quickly:
-
-<img align="center" width="80%" src="img/tagging-issue-solved.png">
-
-a question raised in my mind: **What if there are multiple such issues and I was not lucky enough to spot them sooner
-than later?** My answer was _this is a [broken window problem](https://en.wikipedia.org/wiki/Broken_windows_theory)_.
-Managing tech team should
-
-1. Give team autonomy as much as possible
-2. Safeguard team by preventing any "broken window", which is what I am doing below:
-
-</details>
-
-<!-- TECH-MGMT-DASHBOARD:START -->
-- [(Nexus Graph) Prometheus production issues](https://paion-data.sentry.io/projects/nexusgraph-prometheus/?project=4505630072700928) all cleared: ❌
-- [Nexus Graph APP production issues](https://paion-data.sentry.io/projects/app-nexusgraph-com/?project=4505480923643904) all cleared: ❌
-- [Nexus Graph NPM package](https://www.npmjs.com/package/@paiondata/nexusgraph) follows semantic versioning: ✅
-- [Nexus Graph master CI/CD](https://github.com/paion-data/nexusgraph/actions/workflows/ci-cd.yml?query=branch:master) passes: ✅
-- [Prometheus master CI/CD](https://github.com/paion-data/prometheus/actions/workflows/ci-cd.yml?query=branch:master) passes: ✅
-- [Nexus Graph Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_nexusgraph) passes: ✅
-- [Prometheus Quality Gate](https://sonarcloud.io/summary/new_code?id=paion-data_prometheus) passes: ✅
-- Can visit [Theresa Machine Learning API](https://theresa-api.com): ✅
-- Can visit [Nexus Graph landing page](https://nexusgraph.com/): ✅
-- Can visit [Nexus Graph Doc](https://paion-data.github.io/nexusgraph/): ✅
-- Can visit [Nexus Graph API Doc](https://paion-data.github.io/nexusgraph/api/): ✅
-- Can visit [Paion Open Source](https://paion-data.github.io/opensource.paion-data/): ✅
-- Can visit [Paion Open Source Guide](https://paion-data.github.io/opensource.guide/): ✅
-- Can visit [Paion Artifactory](https://nexus.paion-data.dev/): ✅
-<!-- TECH-MGMT-DASHBOARD:END -->
-
 My Coffee-Morning News Central
 ------------------------------
 
