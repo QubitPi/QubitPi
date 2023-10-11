@@ -206,27 +206,10 @@ My Coffee-Morning News Central
 - [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
 <!-- HASHICORP-BLOG:END -->
 
-### <img width="5%" src="https://github.com/QubitPi/QubitPi/assets/16126939/19bfae8d-57a9-4857-b297-bba1bcdb0d13"> [Entity Linking](https://scholia.toolforge.org/topic/Q17012245)
-
-<table>
-  <tr><th>Date</th><th>Recently Published Works</th></tr>
-  <!-- SCHOLIA-ENTITY-LINKING:START --><tr><td>Thu Sep 14 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q122750552'>DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph</a></td></tr><tr><td>Mon May 22 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118867783'>NASTyLinker: NIL-Aware Scalable Transformer-Based Entity Linker</a></td></tr><tr><td>Mon May 01 2023 12:00 AM</td><td><a href='https://scholia.toolforge.org/work/Q118798769'>Entity Linking for KGQA Using AMR Graphs</a></td></tr><!-- SCHOLIA-ENTITY-LINKING:END -->
-</table>
-
 <h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
 [![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
-
-#### Twitter
-
-<!-- NEO4J-TWITTER:START -->
-- [Get ready for #NODES2023 with our #workshops! These FREE two-hour online workshops focus on hands-on-keyboard learning before the conference. 💪 Reg...](https://twitter.com/neo4j/status/1697299297203597752)
-- [RT Adam Cowley: I was today years old when I learned that you don&#39;t need to use the MATCH clause to get node and relationship counts in @neo4j. I make...](https://twitter.com/adamcowley/status/1697216117842817093)
-- [Re @lesv @googlecloud @iamAible @DataStax @dialpad @SAP @typefaceai @UKGInc @gcloudpartners 🤝](https://twitter.com/neo4j/status/1697018122144776351)
-- [Take a look at the &quot;no-nonsense definition&quot; of #knowledgegraphs, how they work, what they might mean to different people, and why you should care. By ...](https://twitter.com/neo4j/status/1697013578862055564)
-- [Re @chrisarsenault ❤️](https://twitter.com/neo4j/status/1696993521834639840)
-<!-- NEO4J-TWITTER:END -->
 
 #### YouTube
 
@@ -237,18 +220,6 @@ My Coffee-Morning News Central
 - [Going Meta - Ep 21: Vector-based Semantic Search and Graph-based Semantic Search](https://www.youtube.com/watch?v=bRD09ndyJNs)
 - [Neo4j Live: NODES 2023 Speaker Roundtable](https://www.youtube.com/watch?v=Cm7QHFEToVY)
 <!-- NEO4J-YOUTUBE:END -->
-
-<h3><img width="30%" src="./img/memgraph-logo.png"></h3>
-
-#### Twitter
-
-<!-- MEMGRAPH-TWITTER:START -->
-- [🌐 Learn the difference between batch and stream processing! 🧠 Explore their use cases &amp; advantages in our latest article. #BatchProcessing #Stre...](https://twitter.com/memgraphdb/status/1696149131423531436)
-- [🔒 Discover how graph databases revolutionize Identity and Access Management by improving performance, flexibility, and scalability! #IAM #GraphData...](https://twitter.com/memgraphdb/status/1696139818990792897)
-- [🧠 Explore your cybersecurity graph storage with Memgraph and answer crucial questions about threats. Leverage MAGE, Memgraph&#39;s Advanced Graph Exten...](https://twitter.com/memgraphdb/status/1696119687115927889)
-- [🚀 Boost your graph analytics with MAGE C++ API! Enjoy smooth, high-performance code without memory worries. #GraphAlgorithms #MAGE #memgraph #datab...](https://twitter.com/memgraphdb/status/1696101566716039549)
-- [🛡️ Break the limits of traditional cyber threat detection with Memgraph! Discover why it&#39;s the best graph database for performance, analytics, and...](https://twitter.com/memgraphdb/status/1696095782342959413)
-<!-- MEMGRAPH-TWITTER:END -->
 
 <h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
 
@@ -271,13 +242,3 @@ My Coffee-Morning News Central
 - [Strategic Directions supporting the people](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#SupportingThePeople)
 - [Bottlenecks of Scaleups #05: Resilience and Observability](https://martinfowler.com/articles/bottlenecks-of-scaleups/05-resilience-and-observability.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
-
-#### [CSS-Trikcs](https://css-tricks.com/)
-
-<!-- CSS-TRIKCS:START -->
-- [Passkeys: What the Heck and Why?](https://css-tricks.com/passkeys-what-the-heck-and-why/)
-- [Some Cross-Browser DevTools Features You Might Not Know](https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/)
-- [Making Calendars With Accessibility and Internationalization in Mind](https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/)
-- [5 Mistakes I Made When Starting My First React Project](https://css-tricks.com/5-mistakes-starting-react/)
-- [Creating a Clock with the New CSS sin&lpar;&rpar; and cos&lpar;&rpar; Trigonometry Functions](https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/)
-<!-- CSS-TRIKCS:END -->
