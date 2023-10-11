@@ -108,6 +108,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 <ul>
+    <li>
+        HashiCorp Blogs
+        <ul>
 <!-- HASHICORP-BLOG:START -->
 - [Introducing HashiCast: Navigating the Cloud for C-Suites](https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites)
 - [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
@@ -115,6 +118,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
 - [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
 <!-- HASHICORP-BLOG:END -->
+        </ul>
+    </li>
 </ul>
 
 
