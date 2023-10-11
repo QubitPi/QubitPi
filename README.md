@@ -111,13 +111,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
     <li>
         HashiCorp Blogs
         <ul>
-<!-- HASHICORP-BLOG:START -->
-- [Introducing HashiCast: Navigating the Cloud for C-Suites](https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites)
-- [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
-- [Announcing secrets sync beta for self-managed Vault Enterprise](https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise)
-- [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
-- [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
-<!-- HASHICORP-BLOG:END -->
+<!-- HASHICORP-BLOG:START --><li><a href=https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites>Introducing HashiCast: Navigating the Cloud for C-Suites</a></li><li><a href=https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation>Terraform 1.6 adds a test framework for enhanced code validation</a></li><li><a href=https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise>Announcing secrets sync beta for self-managed Vault Enterprise</a></li><!-- HASHICORP-BLOG:END -->
         </ul>
     </li>
 </ul>
