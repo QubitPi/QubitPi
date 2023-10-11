@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/channel/UCftjbMLuz4ohH5v-hpZbt5w)
@@ -7,6 +9,8 @@
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
 ![Fuck Tencent](https://img.shields.io/badge/FUCK-TENCENT-000000?style=for-the-badge)
+
+</div>
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life-long philosophy that the end of Software Development in itself is not about money, but **people**, **passion**, and **love**. Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px"/>
 
