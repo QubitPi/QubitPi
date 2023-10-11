@@ -107,7 +107,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <ul>
     <li>
-        HashiCorp Blogs
+        <a href="https://www.hashicorp.com/blog/maturing-your-terraform-workflow"><img width="30px" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a> Blogs
         <ul>
 <!-- HASHICORP-BLOG:START --><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites>Introducing HashiCast: Navigating the Cloud for C-Suites</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation>Terraform 1.6 adds a test framework for enhanced code validation</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise>Announcing secrets sync beta for self-managed Vault Enterprise</a></li><!-- HASHICORP-BLOG:END -->
         </ul>
@@ -153,8 +153,6 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
     3. Reboot host machine and ssh by `ssh -p 2222 virtualbox-user-name@localhost`
  
   </details>
-
-<h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
 
 ### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) [![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)](https://npmtrends.com/react-vs-vue)</sup>
 
