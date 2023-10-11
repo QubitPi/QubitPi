@@ -8,6 +8,11 @@
 [![LeetCode user _Jack_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F_Jack_&logo=leetcode&logoColor=yellow)](https://leetcode.com/_Jack_/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
+
+</div>
+
+<div align="right">
+    
 ![Fuck Tencent](https://img.shields.io/badge/FUCK-TENCENT-000000?style=for-the-badge)
 
 </div>
@@ -23,9 +28,13 @@
 Open Source at My Core
 ----------------------
 
+<div align="center">
+    
 [![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/7)
 [![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/organizations/qubitpi/projects)
 [![DockerHub](https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/jack20191124/)
+
+</div>
 
 > Over the past few years, major innovation in the industry has shifted to open source and has play more important role in people's lives. [We will remain committed that the core of our technology will always remain open source](https://paion-data.github.io/opensource.paion-data/).
 
