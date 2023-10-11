@@ -13,7 +13,7 @@
 
 <div align="right">
     
-![Fuck Tencent](https://img.shields.io/badge/FUCK-TENCENT-000000?style=for-the-badge)
+![F**k Tencent](https://img.shields.io/badge/F**K-TENCENT-000000?style=for-the-badge) ![F**k Tencent](https://img.shields.io/badge/天灭-腾讯-000000?style=for-the-badge)
 
 </div>
 
