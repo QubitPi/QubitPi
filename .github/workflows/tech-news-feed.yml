@@ -18,4 +18,4 @@ jobs:
           comment_tag_name: "HASHICORP-BLOG"
           max_post_count: "3"
           feed_list: "https://www.hashicorp.com/blog/feed.xml"    
-          template: "<li><a href=$url>$title</a></li>"
+          template: "<li><img src="https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true" width="30px"/><a href=$url>$title</a></li>"
