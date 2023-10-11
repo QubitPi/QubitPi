@@ -31,21 +31,6 @@ jobs:
           comment_tag_name: "GOOGLE-DEEPMIND-BLOG"
           max_post_count: "5"
           feed_list: "https://www.deepmind.com/blog/rss.xml"          
- 
-  scholia-entity-linking:
-    name: (Scholia) Entity Linking
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "Recently published works on Entity Linking"
-          comment_tag_name: "SCHOLIA-ENTITY-LINKING"
-          max_post_count: "3"
-          feed_list: "https://scholia.toolforge.org/topic/Q17012245/latest-works/rss"
-          template: "<tr><td>$date</td><td><a href='$url'>$title</a></td></tr>"
 
   hashicorp-blogs:
     name: HashiCorp Blog
@@ -61,32 +46,6 @@ jobs:
           max_post_count: "5"
           feed_list: "https://www.hashicorp.com/blog/feed.xml"    
 
-  memgraph-twitter:
-    name: Twitter @Memgraph
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Memgraph Twitter Posts"
-          comment_tag_name: "MEMGRAPH-TWITTER"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/memgraphdb"
-  neo4j-twitter:
-    name: Twitter @Neo4j
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New Neo4J Twitter Posts"
-          comment_tag_name: "NEO4J-TWITTER"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/twitter/user/neo4j"
   neo4j-youtube:
     name: Neo4j - YouTube
     runs-on: ubuntu-latest
@@ -128,17 +87,3 @@ jobs:
           comment_tag_name: "MARTIN-FOWLER-BLOG"
           max_post_count: "5"
           feed_list: "https://martinfowler.com/feed.atom"
-
-  css-tricks:
-    name: CSS Tricks
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20191124@proton.me"
-          commit_message: "New CSS Tricks"
-          comment_tag_name: "CSS-TRIKCS"
-          max_post_count: "5"
-          feed_list: "https://css-tricks.com/feed/"
