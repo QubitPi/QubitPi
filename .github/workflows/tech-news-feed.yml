@@ -18,3 +18,4 @@ jobs:
           comment_tag_name: "HASHICORP-BLOG"
           max_post_count: "3"
           feed_list: "https://www.hashicorp.com/blog/feed.xml"    
+          template: "<li><a href=$url>$title</a></li>"
