@@ -70,6 +70,9 @@ By tapping into the collective talent and innovation of open source communities,
 
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
+[![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
+[![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
+
 <!-- ACTIVE-FORKS:START -->
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/cypress-documentation)
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
@@ -197,40 +200,3 @@ My Coffee-Morning News Central
 - [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
 - [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
 <!-- HASHICORP-BLOG:END -->
-
-<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
-
-[![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
-[![neo4J-knowledge-graph-via-ML](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4J-knowledge-graph-via-ML&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4J-knowledge-graph-via-ML)
-
-#### YouTube
-
-<!-- NEO4J-YOUTUBE:START -->
-- [Road to NODES: Analyzing The Physical World With Graphs &amp; Neo4j](https://www.youtube.com/watch?v=16d3rnNlNUU)
-- [Neo4j with Amazon Bedrock.](https://www.youtube.com/watch?v=nV3-KKEZnD4)
-- [NODES 2023 - Check out the agenda! #neo4j #AI #graphdatabase](https://www.youtube.com/watch?v=pCCi2C8NwQg)
-- [Going Meta - Ep 21: Vector-based Semantic Search and Graph-based Semantic Search](https://www.youtube.com/watch?v=bRD09ndyJNs)
-- [Neo4j Live: NODES 2023 Speaker Roundtable](https://www.youtube.com/watch?v=Cm7QHFEToVY)
-<!-- NEO4J-YOUTUBE:END -->
-
-<h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
-
-#### [OpenStack News](https://superuser.openstack.org/)
-
-<!-- OPENSTACK-SUPERUSER:START -->
-- [StackHPC at Vancouver OpenInfra Summit](https://superuser.openinfra.dev/articles/stackhpc-at-vancouver-openinfra-summit/)
-- [OpenStack 2023.2: Bobcat | OpenInfra Live Recap](https://superuser.openinfra.dev/articles/openstack-2023-2-bobcat-openinfra-live-recap/)
-- [Complex Openstack Inventory – A Nightmare!](https://superuser.openinfra.dev/articles/complex-openstack-inventory-a-nightmare/)
-- [Highlights from the 2023 OpenInfra Summit: AI, Machine Learning &amp; HPC](https://superuser.openinfra.dev/articles/highlights-from-the-2023-openinfra-summit-ai-machine-learning-hpc/)
-- [ABAC with OpenStack: What Are the Options?](https://superuser.openinfra.dev/articles/abac-with-openstack-what-are-the-options/)
-<!-- OPENSTACK-SUPERUSER:END -->
-
-### Martin Fowler's Blog (**Building Software Effectively**)
-
-<!-- MARTIN-FOWLER-BLOG:START -->
-- [How is GenAI different from other code generators?](https://martinfowler.com/articles/exploring-gen-ai.html#memo-07)
-- [Technology Strategy for Emerging Technologies and Markets](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#RespondingToTheEverChangingFuture)
-- [Demo Front-End: A front-end application to test and explore an API](https://martinfowler.com/articles/demo-front-end.html)
-- [Strategic Directions supporting the people](https://martinfowler.com/articles/creating-integrated-tech-strategy.html#SupportingThePeople)
-- [Bottlenecks of Scaleups #05: Resilience and Observability](https://martinfowler.com/articles/bottlenecks-of-scaleups/05-resilience-and-observability.html)
-<!-- MARTIN-FOWLER-BLOG:END -->
