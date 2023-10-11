@@ -107,6 +107,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
+<ul>
 <!-- HASHICORP-BLOG:START -->
 - [Introducing HashiCast: Navigating the Cloud for C-Suites](https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites)
 - [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
@@ -114,6 +115,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
 - [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
 <!-- HASHICORP-BLOG:END -->
+</ul>
+
 
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - [![](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
