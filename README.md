@@ -144,6 +144,16 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
  
   </details>
 
+<h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
+
+<!-- HASHICORP-BLOG:START -->
+- [Introducing HashiCast: Navigating the Cloud for C-Suites](https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites)
+- [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
+- [Announcing secrets sync beta for self-managed Vault Enterprise](https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise)
+- [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
+- [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
+<!-- HASHICORP-BLOG:END -->
+
 ### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) [![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)](https://npmtrends.com/react-vs-vue)</sup>
 
 - **UI Design** [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) 
@@ -167,36 +177,3 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
 
 ---
-
-My Coffee-Morning News Central
-------------------------------
-
-<h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
-
-<!-- GOOGLE-AI-BLOG:START -->
-- [SANPO: A Scene understanding, Accessibility, Navigation, Pathfinding, &amp; Obstacle avoidance dataset](http://blog.research.google/2023/10/sanpo-scene-understanding-accessibility.html)
-- [Scalable spherical CNNs for scientific applications](http://blog.research.google/2023/10/scalable-spherical-cnns-for-scientific.html)
-- [Google at ICCV 2023](http://blog.research.google/2023/10/google-at-iccv-2023.html)
-- [DynIBaR: Space-time view synthesis from videos of dynamic scenes](http://blog.research.google/2023/09/dynibar-space-time-view-synthesis-from.html)
-- [Re-weighted gradient descent via distributionally robust optimization](http://blog.research.google/2023/09/re-weighted-gradient-descent-via.html)
-<!-- GOOGLE-AI-BLOG:END -->
-
-<h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
-
-<!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [Scaling up learning across many different robot types](https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types)
-- [A catalogue of genetic mutations to help pinpoint the cause of diseases](https://www.deepmind.com/blog/alphamissense-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases)
-- [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
-- [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
-- [Using AI to fight climate change](https://www.deepmind.com/blog/using-ai-to-fight-climate-change)
-<!-- GOOGLE-DEEPMIND-BLOG:END -->
-
-<h3><a href="https://www.hashicorp.com/"><img width="20%" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a></h3>
-
-<!-- HASHICORP-BLOG:START -->
-- [Introducing HashiCast: Navigating the Cloud for C-Suites](https://www.hashicorp.com/blog/introducing-hashicast-navigating-the-cloud-for-c-suites)
-- [Terraform 1.6 adds a test framework for enhanced code validation](https://www.hashicorp.com/blog/terraform-1-6-adds-a-test-framework-for-enhanced-code-validation)
-- [Announcing secrets sync beta for self-managed Vault Enterprise](https://www.hashicorp.com/blog/announcing-secrets-sync-beta-for-self-managed-vault-enterprise)
-- [Terraform Google provider adds updates to default labels](https://www.hashicorp.com/blog/terraform-google-provider-adds-updates-to-default-labels)
-- [Terraform Cloud now supports policy runtime version management](https://www.hashicorp.com/blog/terraform-cloud-now-supports-policy-runtime-version-management)
-<!-- HASHICORP-BLOG:END -->
