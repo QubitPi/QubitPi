@@ -41,6 +41,7 @@ By tapping into the collective talent and innovation of open source communities,
     
 ### Creator
 
+[![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=vue)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://qubitpi.github.io/aergia/)
 [![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-template/)
 [![jersey-ws-generator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-generator&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-generator)
