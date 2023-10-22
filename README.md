@@ -10,7 +10,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/rQMUGEu2n9P96JBIipDTSq/Nexus-Graph?type=design&node-id=0%3A1&mode=design&t=yKVVu0wpS0MaOm28-1)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
 
-![No Chrome](https://img.shields.io/badge/大邪教-Google%20Chrome-black?style=for-the-badge&logo=googlechrome&logoColor=white&)
+![No Chrome](https://img.shields.io/badge/大邪教-Google%20Chrome%20😡-black?style=for-the-badge&logo=googlechrome&logoColor=white&)
 ![DuckDuckGo](https://img.shields.io/badge/大法好-DuckDuckGo%20🙂-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white&link=https://duckduckgo.com/mac?ref=duckduckgo)
 </div>
 
