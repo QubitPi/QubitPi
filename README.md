@@ -46,7 +46,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=vue)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![aergia](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aergia&show_owner=true&theme=vue)](https://qubitpi.github.io/aergia/)
-[![jersey-ws-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-template/)
+[![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-webservice-template/)
 [![jersey-ws-generator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-generator&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-generator)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)
