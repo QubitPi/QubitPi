@@ -100,6 +100,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
 - [State of AI Reports](https://qubitpi.github.io/stateofai/)
   - **RAP: Reasoning via Planning**
+
     [![RAP](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=RAP&show_owner=true&theme=vue)](https://github.com/QubitPi/RAP) [![llm-reasoners](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llm-reasoners&show_owner=true&theme=vue)](https://github.com/QubitPi/llm-reasoners)
 
 ### DevOps
