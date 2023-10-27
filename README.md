@@ -99,6 +99,10 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
     [![RAP](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=RAP&show_owner=true&theme=vue)](https://github.com/QubitPi/RAP) [![llm-reasoners](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llm-reasoners&show_owner=true&theme=vue)](https://github.com/QubitPi/llm-reasoners)
 
+  - Llama2
+ 
+    [![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=vue)](https://github.com/QubitPi/Llama2-Chinese)
+
 ### DevOps
 
 - [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
