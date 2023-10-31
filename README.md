@@ -78,7 +78,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I'm interested in the following 4 aspects of tech world:
 
-- Machine Learning
+- NLP-centered Machine Learning
 - HashiCorp-based DevOps
 - React-based Frontend Dev
 - No-Spring Backend Dev
