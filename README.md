@@ -81,7 +81,7 @@ I'm interested in the 4 aspects of tech world:
 1. [NLP](https://github.com/QubitPi#machine-learning-)-centered Machine Learning
 2. [HashiCorp](https://github.com/QubitPi#devops---)-based DevOps
 3. [React](https://github.com/QubitPi#frontend-----)-based Frontend Dev
-4. No-Spring [Backend](https://github.com/QubitPi#backend----) Dev
+4. No-Spring [Webservice](https://github.com/QubitPi#backend----) Dev
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
