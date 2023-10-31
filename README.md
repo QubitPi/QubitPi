@@ -78,7 +78,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I'm interested in the following 4 aspects of tech world:
 
-1. **NLP**-centered Machine Learning
+1. [NLP](https://github.com/QubitPi/QubitPi/blob/master/README.md#machine-learning-)-centered Machine Learning
 2. **HashiCorp**-based DevOps
 3. **React**-based Frontend Dev
 4. No-Spring **Backend** Dev
