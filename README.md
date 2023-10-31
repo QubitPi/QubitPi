@@ -90,9 +90,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Knowledge Graph** [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
 - **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
 - [State of AI Reports](https://qubitpi.github.io/stateofai/) | [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
-- **Llama2**
-
-  - [_Running Locally_](https://replicate.com/blog/run-llama-locally): [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/) | [Llama 2 on MacOS](https://github.com/QubitPi/ollama)
+- **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/) | [Llama 2 on MacOS](https://github.com/QubitPi/ollama)
 
 [![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=vue)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=vue)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
 
