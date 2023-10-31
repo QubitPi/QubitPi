@@ -100,7 +100,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg" /></a>
 
-- [![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=hashicorp%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+- [![](https://img.shields.io/badge/HashiCorp-000000?style=flat-square&logo=hashicorp%20Sponsors)](https://www.hashicorp.com/) [Packer](https://qubitpi.github.io/hashicorp-packer/packer/docs) | [Terraform](https://qubitpi.github.io/hashicorp-terraform/terraform/docs) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
 <ul>
     <li>
