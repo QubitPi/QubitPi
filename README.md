@@ -82,10 +82,10 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
-- **NLP** [Google BERT](https://github.com/QubitPi/google-bert)
-- **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) ![](https://img.shields.io/badge/Java%20&%20REST%20API-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
+- **NLP** [Google BERT](https://github.com/QubitPi/google-bert)
+- **Libraries** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
 - **Tools** [Python](https://qubitpi.github.io/cpython/) | [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
 - **Knowledge Graph** [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
 - **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
