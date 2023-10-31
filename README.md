@@ -76,6 +76,13 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
+I'm interested in the following 4 aspects of tech world:
+
+- Machine Learning
+- HashiCorp-based DevOps
+- React-based Frontend Dev
+- No-Spring Backend Dev
+
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By turning my self-maintained [blog](https://qubitpi.github.io/jersey-guide/) into [GitHub Forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm delegating my personal tech blog writing to thousands of developers around the world. In addition, I could also add my own study notes on top of their documentations:
