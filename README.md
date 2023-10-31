@@ -96,7 +96,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 [![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=vue)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=vue)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
 
-### DevOps
+### DevOps <sup> ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square)</sup>
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg" /></a>
 
