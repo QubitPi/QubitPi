@@ -79,7 +79,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I'm interested in 4 aspects of tech world:
 
-1. [NLP](https://github.com/QubitPi#machine-learning-)-centered Machine Learning
+1. [NLP](https://github.com/QubitPi#machine-learning--)-centered Machine Learning
 2. [HashiCorp](https://github.com/QubitPi#devops---)-based DevOps
 3. [React](https://github.com/QubitPi#frontend-----)-based Frontend Dev
 4. No-Spring [Webservice](https://github.com/QubitPi#backend----) Dev
