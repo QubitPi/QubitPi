@@ -158,7 +158,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 **I believe frondend and backend devs are symmetrical**:
 
-- A frontend developer is internally capable of becoming a well-performed backend engineer, and vice versa (Thanks, [@Xxy1016](https://github.com/Xxy1016), for teaching me that)
+- A frontend developer is internally capable of becoming a well-performed backend engineer, and vice versa (Thanks, [@Xxy1016](https://github.com/Xxy1016), for teaching me this)
 - [From a DevOps perspective](https://github.com/QubitPi/hashicorp-aws), their configurations and deployments can be codified in terms of essentially the same logic
 
 #### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
