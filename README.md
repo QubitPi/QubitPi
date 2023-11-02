@@ -25,9 +25,9 @@
 Open Source at My Tech Core
 ---------------------------
 
-<a href="https://github.com/users/QubitPi/projects/7"><img align="right" src="https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
-<a href="https://sonarcloud.io/organizations/qubitpi/projects"><img align="right" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" /></a>
-<a href="https://hub.docker.com/r/jack20191124/"><img align="right" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
+<a href="https://sonarcloud.io/organizations/qubitpi/projects"><img align="center" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" /></a>
+<a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
 
 **I belive in creating software using the open source way**, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. My open source ethos is at the core of my tech philosophy. I believe the open source model is the best way to understand and address the complex and critical challenges introduced by this world. Starting with open source enables us to build software in a way that establishes a community where people are engaged and work together to help to solve issues for themselves and for others.
 
