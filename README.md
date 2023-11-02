@@ -31,8 +31,6 @@ Open Source at My Tech Core
     <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
 
-<br>
-
 **I belive in creating software using the open source way**, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. My open source ethos is at the core of my tech philosophy. I believe the open source model is the best way to understand and address the complex and critical challenges introduced by this world. Starting with open source enables us to build software in a way that establishes a community where people are engaged and work together to help to solve issues for themselves and for others.
 
 Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
