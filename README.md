@@ -25,7 +25,7 @@
 Open Source at My Tech Core
 ---------------------------
 
-<div align="center">
+<div align="right">
     <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
     <a href="https://sonarcloud.io/organizations/qubitpi/projects"><img align="center" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" /></a>
     <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
