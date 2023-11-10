@@ -163,14 +163,14 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Frontend & Backend
 
-**I believe frondend and backend devs are symmetrical**:
-
-- A frontend developer is internally capable of becoming a well-performed backend engineer, and vice versa (Thanks, [@Xxy1016](https://github.com/Xxy1016), for teaching me this)
-- [From a DevOps perspective](https://github.com/QubitPi/hashicorp-aws), their configurations and deployments can be codified in terms of essentially the same logic
+> **I believe frondend and backend devs are symmetrical**:
+> 
+> - A frontend developer is internally capable of becoming a well-performed backend engineer, and vice versa (Thanks, [@Xxy1016](https://github.com/Xxy1016), for teaching me this)
+> - [From a DevOps perspective](https://github.com/QubitPi/hashicorp-aws), their configurations and deployments can be codified in terms of essentially the same logic
 
 #### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
-I have a backend-dev origin, but the reason I love frontend-dev, from a technical perspective, is, while not always the case in backend-dev, frontend-dev appears to be a world of _functional programming_, which I like a lot (subconcisously)
+> I have a backend-dev origin, but the reason I love frontend-dev, from a technical perspective, is, while not always the case in backend-dev, frontend-dev appears to be a world of _functional programming_, which I like a lot (subconcisously)
 
 - **UI Design** [Component-Driven UI Development](https://qubitpi.github.io/componentdriven.org/) 
 - **[React](https://qubitpi.github.io/react.dev/)** [styled-components](https://qubitpi.github.io/styled-components-website/) | [react-bootstrap](https://qubitpi.github.io/react-bootstrap/) | [react-icons](https://qubitpi.github.io/react-icons) | [Monorepo](https://qubitpi.github.io/monorepo.tools/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [React + TypeScript Cheatsheet](https://qubitpi.github.io/react-typescript-cheatsheet/)| [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [Prettier](https://qubitpi.github.io/prettier/docs/en/index.html) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [ExpressJS](https://qubitpi.github.io/expressjs.com/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://qubitpi.github.io/react-redux/) | [Redux Toolkit](https://qubitpi.github.io/redux-toolkit/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [RxJS](https://qubitpi.github.io/rxjs/) | [InversifyJS](https://qubitpi.github.io/inversify.github.io/) | [GraphQL Relay](https://qubitpi.github.io/relay/) | [Lexical](https://qubitpi.github.io/lexical/) | [i18next](https://qubitpi.gitbook.io/i18next/) | [react-i18next](https://qubitpi.gitbook.io/react-i18next/)
