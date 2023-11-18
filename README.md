@@ -78,9 +78,9 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![hibernate-orm](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hibernate-orm&show_owner=true&theme=vue)](https://github.com/QubitPi/hibernate-orm)
+[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=vue)](https://github.com/QubitPi/react.dev)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=vue)](https://github.com/QubitPi/progit2)
 [![yarnpkg-berry](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=yarnpkg-berry&show_owner=true&theme=vue)](https://github.com/QubitPi/yarnpkg-berry)
-[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=vue)](https://github.com/QubitPi/react.dev)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
