@@ -182,7 +182,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
 
-  - [APIs](https://qubitpi.github.io/jakartaee-rest/apidocs/3.0.0)
+  - [Jakarta RESTful Web Services 3.1 Specification](https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.html) ([PDF](https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.pdf))
+  - [APIs](https://qubitpi.github.io/jakartaee-rest/apidocs/)
   - [Jakarta EE Jekyll Theme](https://qubitpi.github.io/jekyll-theme-jakarta-ee/) |
 
 - **Webservice** [JSR-330 Dependency Injection standard](https://qubitpi.github.io/javax-inject/) ([Javadocs](https://qubitpi.github.io/javax-inject/api)) | [Jersey](https://qubitpi.github.io/jersey/) | [GlassFish HK2](https://qubitpi.github.io/glassfish-hk2/) | [Jetty](https://qubitpi.github.io/jetty.project/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Owner Config](https://qubitpi.github.io/owner/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) | [JSON:API](https://qubitpi.github.io/json-api/) | [Elide](https://qubitpi.github.io/elide-doc/)
