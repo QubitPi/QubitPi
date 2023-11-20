@@ -14,7 +14,7 @@
 
 [![Life Philosophy](https://img.shields.io/badge/Life%20Style-Aristotelianism-00AA00?style=for-the-badge&labelColor=green)](https://youtu.be/PrvtOWEXDIQ?si=DMyeqf3wtIH9OjMc)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
-[![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://en.wikipedia.org/wiki/Kantianism)
+[![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://youtu.be/8bIys6JoEDw?si=bXTn7zwIfdW36iVj)
 
 </div>
 
