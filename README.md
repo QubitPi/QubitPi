@@ -11,7 +11,10 @@
 [![LeetCode user _Jack_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F_Jack_&logo=leetcode&logoColor=yellow)](https://leetcode.com/_Jack_/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/rQMUGEu2n9P96JBIipDTSq/Nexus-Graph?type=design&node-id=0%3A1&mode=design&t=yKVVu0wpS0MaOm28-1) -->
+
+[![Life Philosophy](https://img.shields.io/badge/Life%20Style-Aristotelianism-00AA00?style=for-the-badge)](https://en.wikipedia.org/wiki/Aristotelianism)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
+[![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-019EDD?style=for-the-badge)](https://en.wikipedia.org/wiki/Kantianism)
 
 </div>
 
