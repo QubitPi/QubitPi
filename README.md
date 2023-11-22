@@ -82,8 +82,8 @@ By tapping into the collective talent and innovation of open source communities,
 
 <!-- ACTIVE-FORKS:START -->
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
-[![jakartaee-rest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jakartaee-rest&show_owner=true&theme=vue)](https://github.com/QubitPi/jakartaee-rest)
 [![logto-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=logto-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/logto-docs)
+[![jakartaee-rest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jakartaee-rest&show_owner=true&theme=vue)](https://github.com/QubitPi/jakartaee-rest)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
