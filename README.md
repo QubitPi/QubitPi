@@ -199,4 +199,4 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Miscellaneous
 
-[Write the Docs](https://qubitpi.github.io/writethedocs/) | [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
+[Write the Docs](https://qubitpi.github.io/writethedocs/) | [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Gource](https://qubitpi.github.io/Gource/) | [Loeb Classical Library](https://qubitpi.github.io/loebolus/)
