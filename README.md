@@ -91,12 +91,13 @@ By tapping into the collective talent and innovation of open source communities,
 
 </div>
 
-I'm interested in 4 aspects of tech world:
+I'm interested in 5 aspects of tech world:
 
-1. [NLP](https://github.com/QubitPi#machine-learning--) Machine Learning
-2. [Immutable Infrastructure](https://github.com/QubitPi#devops---) DevOps
-3. [React](https://github.com/QubitPi#frontend-----)-based Frontend Dev with little more focus on the UI design
-4. No-Spring [Webservice](https://github.com/QubitPi#backend----) Dev
+1. [Management](https://qubitpi.github.io/management-blogs/)
+2. [NLP](https://github.com/QubitPi#machine-learning--) Machine Learning
+3. [Immutable Infrastructure](https://github.com/QubitPi#devops---) DevOps
+4. [React](https://github.com/QubitPi#frontend-----)-based Frontend Dev with little more focus on the UI design
+5. No-Spring [Webservice](https://github.com/QubitPi#backend----) Dev
 
 I used to study technologies by [blogging](https://qubitpi.github.io/jersey-guide/) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
