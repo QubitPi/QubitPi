@@ -13,7 +13,7 @@
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/rQMUGEu2n9P96JBIipDTSq/Nexus-Graph?type=design&node-id=0%3A1&mode=design&t=yKVVu0wpS0MaOm28-1) -->
 
-[![Life Philosophy](https://img.shields.io/badge/Life%20Style-Aristotelianism-00AA00?style=for-the-badge&labelColor=green)](https://youtu.be/PrvtOWEXDIQ?si=DMyeqf3wtIH9OjMc)
+[![Life Philosophy](https://img.shields.io/badge/Life%20Style-Aristotelianism-00AA00?style=for-the-badge&labelColor=green)](https://qubitpi.github.io/QubitPi/reading-notes/L073-Aristotle-The-Nicomachean-Ethics/L073-Aristotle-The-Nicomachean-Ethics.html)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
 [![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://youtu.be/8bIys6JoEDw?si=bXTn7zwIfdW36iVj)
 
