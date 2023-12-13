@@ -59,7 +59,6 @@ By tapping into the collective talent and innovation of open source communities,
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-webservice-template/)
 [![jersey-webservice-template-jpa-data-model](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-model&show_owner=true&theme=vue)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-model)
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=vue)](https://github.com/QubitPi/circe)
-[![jersey-ws-generator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-ws-generator&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-ws-generator)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)
 [![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)
