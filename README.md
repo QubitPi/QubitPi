@@ -83,6 +83,7 @@ By tapping into the collective talent and innovation of open source communities,
 <!-- ACTIVE-FORKS:START -->
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=vue)](https://github.com/QubitPi/docusaurus)
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
+[![typescript-eslint](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=typescript-eslint&show_owner=true&theme=vue)](https://github.com/QubitPi/typescript-eslint)
 [![argos-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=argos-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/argos-docs)
 <!-- ACTIVE-FORKS:END -->
 
