@@ -66,7 +66,7 @@ By tapping into the collective talent and innovation of open source communities,
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=vue)](https://github.com/QubitPi/react-template)
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=vue)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
-[![github-actions-workflows](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=github-actions-workflows&show_owner=true&theme=vue)](https://github.com/QubitPi/github-actions-workflows)
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://qubitpi.github.io/awesome-tools/)
 
 ### Contributor
 
