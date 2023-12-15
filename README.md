@@ -15,6 +15,7 @@
 
 [![Life Philosophy](https://img.shields.io/badge/Life%20Style-Aristotelianism-00AA00?style=for-the-badge&labelColor=green)](https://qubitpi.github.io/QubitPi/reading-notes/aristotle/reading-notes.html)
 [![Gmail Badge](https://img.shields.io/badge/jack20220723@gmail.com-ea4435?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
+[![Calendar](https://img.shields.io/badge/My%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/embed?src=jack20220723%40gmail.com&ctz=Asia%2FShanghai&mode=WEEK)
 [![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://youtu.be/8bIys6JoEDw?si=bXTn7zwIfdW36iVj)
 
 </div>
