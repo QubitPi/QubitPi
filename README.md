@@ -84,11 +84,11 @@ By tapping into the collective talent and innovation of open source communities,
 <!-- ACTIVE-FORKS:START -->
 [![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=vue)](https://github.com/QubitPi/react.dev)
 [![typescript-eslint](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=typescript-eslint&show_owner=true&theme=vue)](https://github.com/QubitPi/typescript-eslint)
-[![argos-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=argos-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/argos-docs)
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://github.com/QubitPi/awesome-tools)
-[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/cypress-documentation)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=vue)](https://github.com/QubitPi/docusaurus)
-[![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=vue)](https://github.com/QubitPi/neo4j-browser)
+[![argos-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=argos-docs&show_owner=true&theme=vue)](https://github.com/QubitPi/argos-docs)
+[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=vue)](https://github.com/QubitPi/cypress-documentation)
+[![typedoc-site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=typedoc-site&show_owner=true&theme=vue)](https://github.com/QubitPi/typedoc-site)
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://github.com/QubitPi/awesome-tools)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
