@@ -99,7 +99,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 I'm interested in 5 aspects of tech world:
 
-1. [Management](https://qubitpi.github.io/management-blogs/)
+1. [Tech Management](https://qubitpi.github.io/management-blogs/)
 2. [NLP](https://github.com/QubitPi#machine-learning--) Machine Learning
 3. [Immutable Infrastructure](https://github.com/QubitPi#devops---) DevOps
 4. [React](https://github.com/QubitPi#frontend-----)-based Frontend Dev with little more focus on the UI design
