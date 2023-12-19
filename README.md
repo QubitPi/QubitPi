@@ -55,7 +55,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
     
-### Creator
+### Creator/δημιονργός
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=vue)](https://qubitpi.github.io/hashicorp-aws/)
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=vue)](https://qubitpi.github.io/jersey-webservice-template/)
