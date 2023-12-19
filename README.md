@@ -190,6 +190,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [The OpenAPI Specification](https://qubitpi.github.io/OpenAPI-Specification/)
 - [Learn OpenAPI](https://qubitpi.github.io/learn.openapis.org/)
 - [OpenAPI Tooling](https://qubitpi.github.io/OpenAPI-Tooling/)
+- [OpenAPI Map](https://qubitpi.github.io/openapi-map/)
 
 ---
 
