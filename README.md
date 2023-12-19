@@ -183,7 +183,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-### Platform 9¾: In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW each other. They are only aware of a boundary defined by OpenAPI
+### Platform 9¾
+
+**In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW the existence of each other. They sit in two [different universes](https://en.wikipedia.org/wiki/Multiverse). They are only aware of a boundary defined by [OpenAPI](https://www.openapis.org/)**:
 
 - OpenAPI: [The OpenAPI Specification](https://qubitpi.github.io/OpenAPI-Specification/) | [Learn OpenAPI](https://qubitpi.github.io/learn.openapis.org/) | [OpenAPI Tooling](https://qubitpi.github.io/OpenAPI-Tooling/)
 
