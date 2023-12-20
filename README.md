@@ -86,6 +86,7 @@ By tapping into the collective talent and innovation of open source communities,
 <!-- ACTIVE-FORKS:START -->
 [![couchdb](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=couchdb&show_owner=true&theme=vue)](https://github.com/QubitPi/couchdb)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://github.com/QubitPi/awesome-tools)
+[![typedoc-site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=typedoc-site&show_owner=true&theme=vue)](https://github.com/QubitPi/typedoc-site)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
