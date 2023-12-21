@@ -1,7 +1,7 @@
 
 <div align="right">
     
-> To my dearest Mom, Dad, and Graphdma who teach me how to love this world ❤️
+> To my dearest Mom, Dad, and Graphdma who teach me how to love this world with ❤️
     
 </div> 
 
