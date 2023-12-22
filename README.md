@@ -187,7 +187,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
  
   </details>
 
-### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
+### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
 
 > I have a backend-dev origin, but the reason I love frontend-dev, from a technical perspective, is, while not always the case in backend-dev, frontend-dev appears to be a world of [_functional programming_](https://en.wikipedia.org/wiki/Functional_programming), which I like a lot (subconcisously)
 
@@ -208,7 +208,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-### Backend <sup>![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-17-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-DF0297?style=flat-square&logo=GraphQL&logoColor=white) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
+### Backend <sup>![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-17-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
 
