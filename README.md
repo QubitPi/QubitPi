@@ -197,9 +197,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-### Platform 9¾ [![](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
+### Platform 9¾ [![](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
-**In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW the existence of each other. They sit in two [different universes](https://en.wikipedia.org/wiki/Multiverse). The two universes are completely disjoint and nothing that happens in any one of them is causally linked to what happens in any other one. They are only aware of a "boundary" defined by [OpenAPI](https://www.openapis.org/)**:
+**In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW the existence of each other. They sit in two [different universes](https://en.wikipedia.org/wiki/Multiverse). The two universes are completely disjoint and nothing that happens in any one of them is causally linked to what happens in any other one. They are only aware of a "boundary" defined by either [OpenAPI](https://www.openapis.org/) or [GraphQL](https://graphql.org/)**:
 
 - [The OpenAPI Specification](https://qubitpi.github.io/OpenAPI-Specification/)
 - [Learn OpenAPI](https://qubitpi.github.io/learn.openapis.org/)
