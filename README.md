@@ -119,9 +119,11 @@ I used to study technologies by [blogging](https://qubitpi.github.io/management-
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12):
 
-### Machine Learning [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=flat-square)](https://huggingface.co/QubitPi) [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
+### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
-- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) ![](https://img.shields.io/badge/Java%20&%20REST%20API-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
+
+- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
 - **Tools** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
 - [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/)
@@ -132,7 +134,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 [![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=vue)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=vue)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
 
-### DevOps <sup> ![](https://img.shields.io/badge/HashiCorp-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square)</sup>
+### DevOps <sup> ![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square)</sup>
+
+![](https://img.shields.io/badge/HashiCorp-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors)
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg" /></a>
 
@@ -185,7 +189,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
  
   </details>
 
-### Frontend <sup> ![](https://img.shields.io/badge/REACT-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
+### Frontend <sup> ![](https://img.shields.io/badge/NO-VUE-red?style=flat-square)</sup>
+
+![](https://img.shields.io/badge/REACT-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors) ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 > I have a backend-dev origin, but the reason I love frontend-dev, from a technical perspective, is, while not always the case in backend-dev, frontend-dev appears to be a world of [_functional programming_](https://en.wikipedia.org/wiki/Functional_programming), which I like a lot (subconcisously)
 
@@ -207,7 +213,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ---
 
-### Backend <sup>![](https://img.shields.io/badge/JERSEY-brightgreen?style=flat-square&logo=GitHub%20Sponsors) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-17-brightgreen?style=flat-square&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
+### Backend <sup>![](https://img.shields.io/badge/NO-SPRING-red?style=flat-square)</sup>
+
+![](https://img.shields.io/badge/JERSEY-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-17-brightgreen?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
 
