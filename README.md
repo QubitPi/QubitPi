@@ -44,7 +44,7 @@
 Open Source at My Tech Core
 ---------------------------
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/navia.png?raw=true" width="10%" />
+<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/navia.png?raw=true" width="15%" />
 
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
