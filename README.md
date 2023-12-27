@@ -1,4 +1,3 @@
-
 <div align="right">
     
 > To my dearest Mom, Dad, and Grandma who teach me how to love this world with ❤️
@@ -33,7 +32,7 @@
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life-long philosophy that the end of [Software Development in itself](https://en.wikipedia.org/wiki/Thing-in-itself) is not about money, but [**people**](https://www.bilibili.com/video/BV17D4y1t74j/), [**passion**](https://www.bilibili.com/video/BV1pC4y1g7dH), and [**love**](https://www.bilibili.com/video/BV1Kj411g7Lu). Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px"/>
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/胡桃-16.png?raw=true" width="10%" />
+<img align="right" src="https://github.com/QubitPi/QubitPi/blob/master/img/胡桃-16.png?raw=true" width="10%" />
 
 > This page is also dedicated to my former colleague <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area</a>
 
@@ -44,6 +43,8 @@
 
 Open Source at My Tech Core
 ---------------------------
+
+<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/navia.png?raw=true" width="10%" />
 
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
