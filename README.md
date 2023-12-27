@@ -145,7 +145,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <ul>
     <li>
-        <a href="https://www.hashicorp.com/blog/maturing-your-terraform-workflow"><img height="30px" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a> Blogs
+        <a href="https://www.hashicorp.com/blog/maturing-your-terraform-workflow"><img height="20px" src="https://github.com/QubitPi/QubitPi/assets/16126939/0bed7aba-7d9e-4388-a78a-83ac9ebe6471"></a> Blogs
         <ul>
 <!-- HASHICORP-BLOG:START --><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/hashicorp-2023-year-in-review-community>HashiCorp 2023 year in review: Community</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/hashicorp-2023-year-in-review-customers-and-partners>HashiCorp 2023 year in review: Customers and partners</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://www.hashicorp.com/blog/hashicorp-2023-year-in-review-product-innovation>HashiCorp 2023 year in review: Product innovation</a></li><!-- HASHICORP-BLOG:END -->
         </ul>
@@ -156,7 +156,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <ul>
     <li>
-        <a href="https://blog.screwdriver.cd/"><img height="30px" src="https://img.shields.io/badge/Screwdriver%20CD%20Blogs-36465D?style=flat-square&logo=tumblr"></a>
+        <a href="https://blog.screwdriver.cd/"><img src="https://img.shields.io/badge/Screwdriver%20CD%20Blogs-36465D?style=flat-square&logo=tumblr"></a>
         <ul>
             <!-- SCREWDRIVER-CD-BLOG:START -->
             <!-- SCREWDRIVER-CD-BLOG:END -->
