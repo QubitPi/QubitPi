@@ -43,8 +43,6 @@
 Open Source at My Tech Core
 ---------------------------
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/navia.png?raw=true" width="15%" />
-
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
 </div>
@@ -57,6 +55,8 @@ Open Source at My Tech Core
 </div>
 
 </br>
+
+<img align="left" src="https://github.com/QubitPi/QubitPi/assets/16126939/610548fa-9056-498c-a96e-3df0651a25d2" width="40%" />
 
 **I belive in creating software using the open source way**, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. My open source ethos is at the core of my tech philosophy. I believe the open source model is the best way to understand and address the complex and critical challenges introduced by this world. Starting with open source enables us to build software in a way that establishes a community where people are engaged and work together to help to solve issues for themselves and for others.
 
