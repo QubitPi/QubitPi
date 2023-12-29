@@ -108,7 +108,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <img align="right" width="30%" src="https://leetcard.jacoblin.cool/QubitPi?theme=unicorn&font=Ubuntu&ext=activity" />
 
-I'm interested in 5 aspects of tech world:
+I'm interested in 5 topics of tech world:
 
 1. [Tech Management](https://qubitpi.github.io/management-blogs/) (I'm still playing with LeetCode (see right) today as part of **designing a more scientific hiring process for my team**)
 2. [NLP](https://github.com/QubitPi#machine-learning-) Machine Learning
