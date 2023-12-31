@@ -27,6 +27,7 @@
 
 ![Chinese](https://img.shields.io/badge/中文-Chinese-red?style=for-the-badge)
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
+![English](https://img.shields.io/badge/US-English-blue?style=for-the-badge)
 ![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek-178fd6?style=for-the-badge)
 ![Latin](https://img.shields.io/badge/Latinum-Latin-178fd6?style=for-the-badge)
 ![Old Persian](https://img.shields.io/badge/𐎠𐎼𐎹-Old%20Persian-black?style=for-the-badge)
