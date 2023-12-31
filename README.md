@@ -25,6 +25,12 @@
 [![Calendar](https://img.shields.io/badge/My%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/embed?src=jack20220723@gmail.com&ctz=Asia/Shanghai&mode=WEEK&wkst=2)
 [![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://youtu.be/8bIys6JoEDw?si=bXTn7zwIfdW36iVj)
 
+![Chinese](https://img.shields.io/badge/中文-Chinese-red?style=for-the-badge)
+![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
+![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek-178fd6?style=for-the-badge)
+![Latin](https://img.shields.io/badge/Latinum-Latin-178fd6?style=for-the-badge)
+![Old Persian](https://img.shields.io/badge/𐎠𐎼𐎹-Old%20Persian-black?style=for-the-badge)
+
 </div>
 
 <img align="right" src="https://github.com/QubitPi/QubitPi/blob/master/img/可莉-47.png?raw=true" width="12%" />
