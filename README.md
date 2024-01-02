@@ -25,7 +25,7 @@
 [![Calendar](https://img.shields.io/badge/My%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/embed?src=jack20220723@gmail.com&ctz=Asia/Shanghai&mode=WEEK&wkst=2)
 [![Work Philosophy](https://img.shields.io/badge/Work%20Style-Kantianism-00a3e4?style=for-the-badge&labelColor=2c83ec)](https://youtu.be/8bIys6JoEDw?si=bXTn7zwIfdW36iVj)
 
-![Chinese](https://img.shields.io/badge/中文-Chinese-EC585D?style=for-the-badge)
+![Chinese](https://img.shields.io/badge/中文-Chinese%20(Mandarin)-EC585D?style=for-the-badge)
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
 ![English](https://img.shields.io/badge/US-English-2E71E5?style=for-the-badge)
 ![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek-178fd6?style=for-the-badge)
