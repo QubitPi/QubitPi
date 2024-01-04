@@ -67,7 +67,7 @@ Bringing hashicorp.com's Business Model to B2C World through Open Source
 
 </br>
 
-- I believe no matter how advanced techonology/software becomes, it ultimately shall goes back to human's deepest and most primitive desires - our _own_ happiness. It shall serve every **individual**'s wellness, rather than serving as a tool by some organization/agencies to make profit by bringing "values" to other organizations
+- I believe no matter how advanced techonology/software becomes, it ultimately shall goes back to human's deepest and most primitive desires - our _own_ happiness. It shall serve every **individual**'s wellness with values, rather than serving as a tool by some organization/agencies to bring "values" to other organizations
 - Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe software, whether being advanced by contemporary AI or some "X" in the next 100 years, should be a tool serving each **individual DIRECTLY** and **EXCLUSIVELY**
 - _Open Source_ is by far the most powerful tool that makes such self-autonomous empowerment for **individual** possible.    
 
