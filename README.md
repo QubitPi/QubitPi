@@ -68,7 +68,7 @@ Bringing <a href="https://www.hashicorp.com/cloud-operating-model">HashiCorp's B
 </br>
 
 - I believe no matter how advanced techonology/software becomes, it ultimately shall go back to serve human's deepest and most primitive desires - our _own_ happiness. It shall serve every **individual**'s wellness with values, rather than serving as a tool by some organization/agencies to bring "values" to other organizations
-- Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe software, whether being advanced by contemporary AI or some "X" in the next 100 years, should be a tool serving each **individual DIRECTLY** and **EXCLUSIVELY**
+- Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe software, whether being advanced by contemporary AI or some "X" in the next 100 years, should be a tool serving each **individual DIRECTLY** and **EXCLUSIVELY**, NOT any orgniazation with 2+ persons
 - _Open Source_ is by far the most powerful tool that makes such self-autonomous empowerment for **individual** possible.    
 
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
