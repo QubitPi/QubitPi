@@ -47,8 +47,12 @@
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
 
+<div align="center">
+    
 Bringing hashicorp.com's Business Model to 2C World through Open Source
 -----------------------------------------------------------------------
+
+</div>
 
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
@@ -111,8 +115,7 @@ By tapping into the collective talent and innovation of open source communities,
 
 <div align="center">
 
-## I Learn Technologies Everyday through Open Source <sup>[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)
-</sup>
+## I Learn Technologies Everyday through Open Source <sup>[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)</sup>
 
 </div>
 
