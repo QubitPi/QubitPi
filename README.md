@@ -48,9 +48,14 @@
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
 
 <div align="center">
-    
-Bringing hashicorp.com's Business Model to 2C World through Open Source
------------------------------------------------------------------------
+
+<h2>
+Bringing hashicorp.com's Business Model to 2C World
+
+through
+
+Open Source
+</h2>
 
 </div>
 
