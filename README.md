@@ -82,8 +82,8 @@ By tapping into the collective talent and innovation of open source communities,
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=vue)](https://qubitpi.github.io/athena/)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=vue)](https://qubitpi.github.io/aristotle/)
 [![knowledge-graph-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=knowledge-graph-spec&show_owner=true&theme=vue)](https://github.com/QubitPi/knowledge-graph-spec)
-[![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=vue)](https://github.com/QubitPi/react-template)
-[![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=vue)](https://qubitpi.github.io/react-3d-graph-landing-page/)
+[![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
+[![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://qubitpi.github.io/awesome-tools/)
 
