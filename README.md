@@ -109,8 +109,8 @@ Bringing Individual-Autonomous Empowerment through</br>Open Source
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
+[![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
