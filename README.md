@@ -67,11 +67,11 @@ Bringing hashicorp.com's Business Model to B2C World through Open Source
 
 </br>
 
-**I belive in creating software using the open source way**, a set of principles built upon an open forum for ideas where communities can form around solving a problem or developing a new technology. My open source ethos is at the core of my tech philosophy. I believe the open source model is the best way to understand and address the complex and critical challenges introduced by this world. Starting with open source enables us to build software in a way that establishes a community where people are engaged and work together to help to solve issues for themselves and for others.
+I believe no matter how advanced techonology/software becomes, it ultimately shall goes back to human's deepest and most primitive desires - happiness. It shall serve every **individual**'s wellness, rather than serving as a tool by some organization to make profit for themselves or bringing "values" to other organizations.
 
-Open source software gains its strength from diverse communities of developers around the world. That’s why I’ve, since the beginning of my career in 2015, kept my eyes and hands dirty on studying and practicing developing open projects and technologies, protecting and defending open source intellectual property, and recruiting developers who actively participate in open projects across the IT stack. This experience helps inform a development model to produce more innovative, iterative, stable, and secure technologies.
+Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe software, whether being advanced by contemporary AI or some "X" in the next 100 years, should be a tool serving each individual **directly** and **exclusively**
 
-By tapping into the collective talent and innovation of open source communities, I believe my team can create better software. This collaboration helps fuel much of the technology we use today
+Open Source is by far the most powerful concept that makes autonomous empowering for **individual** possible.
 
 [![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/QubitPi/2023)
 
