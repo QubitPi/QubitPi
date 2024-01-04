@@ -74,7 +74,7 @@ By tapping into the collective talent and innovation of open source communities,
     
 ### Creator/δημιονργός
 
-[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=panda)](https://qubitpi.github.io/hashicorp-aws/)
+[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
@@ -167,7 +167,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
     </li>
 </ul>
 
-[![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=aura)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
+[![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
 
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
 - [![](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
