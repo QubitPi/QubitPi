@@ -83,24 +83,24 @@ By tapping into the collective talent and innovation of open source communities,
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
-[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=vue)](https://github.com/QubitPi/java-code-review-guide-book)
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://qubitpi.github.io/awesome-tools/)
+[![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=chartreuse-dark)](https://qubitpi.github.io/awesome-tools/)
 
 ### Contributor
 
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
 [![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/neo4j/neo4j-browser)
-[![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=vue)](https://github.com/neo4j/docs-cypher)
+[![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=chartreuse-dark)](https://github.com/neo4j/docs-cypher)
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=slateorange)](https://github.com/QubitPi/mdbm)
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
 [![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
-[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=vue)](https://github.com/nrandecker/particle)
+[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=vue)](https://github.com/QubitPi/awesome-tools)
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
@@ -137,7 +137,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [State of AI Reports](https://qubitpi.github.io/stateofai/) | [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
 - **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
 
-[![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=vue)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=vue)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
+[![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
 
 ### DevOps <sup> ![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square)</sup>
 
