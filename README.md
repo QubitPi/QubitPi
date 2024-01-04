@@ -49,9 +49,9 @@
 
 <div align="center">
 
-<h2>
-Bringing hashicorp.com's Business Model to 2C World <br/> through <br/> Open Source
-</h2>
+<h1>
+Bringing hashicorp.com's Business Model to 2C World through Open Source
+</h1>
 
 </div>
 
