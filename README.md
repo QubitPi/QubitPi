@@ -47,8 +47,8 @@
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
 
-Open Source at My Tech Core
----------------------------
+Bringing hashicorp.com's Business Model to 2C World through Open Source
+-----------------------------------------------------------------------
 
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
