@@ -50,7 +50,7 @@
 <div align="center">
 
 <h1>
-Bringing hashicorp.com's Business Model to B2C World through Open Source
+Bringing <a href="https://www.hashicorp.com/cloud-operating-model">HashiCorp's Business Model</a> to B2C World through Open Source
 </h1>
 
 </div>
