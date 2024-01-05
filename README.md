@@ -50,7 +50,7 @@
 <div align="center">
 
 <h1>
-Software Exists for Individuals and Vanishes for Organizations
+Software Exists for _Individuals_ and Vanishes by _Organizations_
 </h1>
 
 </div>
