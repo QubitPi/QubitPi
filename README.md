@@ -50,7 +50,7 @@
 <div align="center">
 
 <h1>
-Software Exists for Advancing Individuals and Vanishes by Serving Organizations
+Software Exists for Advancing Individuals while Vanishes by Serving Organizations
 </h1>
 
 </div>
