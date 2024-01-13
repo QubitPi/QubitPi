@@ -173,7 +173,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <ul>
     <li>
-        <a href="https://blog.screwdriver.cd/"><img src="https://img.shields.io/badge/Screwdriver%20CD%20Blogs-36465D?style=flat-square&logo=tumblr"></a>
+        <a href="https://blog.screwdriver.cd/"><img src="https://img.shields.io/badge/Screwdriver%20CD%20Blogs-36465D?style=for-the-badge&logo=tumblr"></a>
         <ul>
             <!-- SCREWDRIVER-CD-BLOG:START --><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://blog.screwdriver.cd/post/736792974671872000>Release December 2023</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://blog.screwdriver.cd/post/724110617917685760>Release July 2023</a></li><li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=https://blog.screwdriver.cd/post/713067803453816832>Latest updates - March 2023</a></li><!-- SCREWDRIVER-CD-BLOG:END -->
         </ul>
@@ -186,7 +186,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 [![screwdriver-cd-executor-base](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-executor-base&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-executor-base)
 
 - [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
-- [![](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
+- [![](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
 - [Sentry Documentation](https://qubitpi.github.io/sentry-docs/) | [Sentry Developer Documentation](https://qubitpi.github.io/sentry-develop/)
 - [DockOvpn](https://qubitpi.github.io/dockovpn.io-web-content/) | [mieru](https://github.com/QubitPi/mieru)
 - <details><summary>VirtualBox</summary>
