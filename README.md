@@ -85,15 +85,18 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
-[![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
-[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
-[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=slateorange)](https://github.com/QubitPi/circe)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=chartreuse-dark)](https://qubitpi.github.io/awesome-tools/)
+
+#### Jersey Webservice Template
+
+[![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
+[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
+[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
+[![jersey-webservice-template-jpa-release-definition](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-release-definition&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-release-definition)
 
 ### Contributor
 
