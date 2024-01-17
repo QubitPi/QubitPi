@@ -92,11 +92,23 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 #### HashiCorp AWS
 
+<div align="center">
+
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
+
+</div>
+
+[![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
+[![kong-api-gateway-release-definition](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition)
 
 #### Jersey Webservice Template
 
+<div align="center">
+    
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
+
+</div>
+
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
 [![jersey-webservice-template-jpa-release-definition](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-release-definition&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-release-definition)
