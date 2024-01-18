@@ -90,8 +90,6 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
 
-#### HashiCorp AWS
-
 <div align="center">
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
@@ -100,8 +98,6 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
 [![kong-api-gateway-release-definition](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition)
-
-#### Jersey Webservice Template
 
 <div align="center">
     
