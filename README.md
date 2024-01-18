@@ -90,6 +90,8 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
 
+#### Immutable Infrastructure
+
 <div align="center">
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
@@ -100,6 +102,8 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![kong-api-gateway-release-definition](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition)
 
 <div align="center">
+
+#### Jersey Webservice
     
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 
