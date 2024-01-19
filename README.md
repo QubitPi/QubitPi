@@ -103,10 +103,12 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
 [![jersey-webservice-release-definition-templates](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-templates&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-templates)
 
+<img src="https://github.com/QubitPi/QubitPi/assets/16126939/77e07f47-47d5-474b-b7ef-ac8444783fae" align="right" width="20%"/>
+
 <div align="center">
 
 #### Jersey Webservice
-    
+
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 
 </div>
