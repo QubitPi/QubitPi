@@ -34,11 +34,11 @@
 
 </div>
 
-<img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/de8173de-db2e-47ed-b132-8d8fca78340f" width="20%" />
+<img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/de8173de-db2e-47ed-b132-8d8fca78340f" width="12%" />
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life-long philosophy that the end of [Software Development in itself](https://en.wikipedia.org/wiki/Thing-in-itself) is not about money, but [**people**](https://www.bilibili.com/video/BV17D4y1t74j/), [**passion**](https://www.bilibili.com/video/BV1pC4y1g7dH), and [**love**](https://www.bilibili.com/video/BV1Kj411g7Lu/?share_source=copy_web). Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px"/>
 
-<img align="right" src="https://github.com/QubitPi/QubitPi/blob/master/img/胡桃-16.png?raw=true" width="10%" />
+<img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/77e07f47-47d5-474b-b7ef-ac8444783fae" width="10%" />
 
 > This page is also dedicated to my former colleague <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review a as a work of art. I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech area</a>
 
@@ -90,8 +90,6 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
 
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/de8173de-db2e-47ed-b132-8d8fca78340f" align="right" width="20%"/>
-
 <div align="center">
 
 #### Immutable Infrastructure
@@ -102,8 +100,6 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
 [![jersey-webservice-release-definition-templates](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-templates&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-templates)
-
-<img src="https://github.com/QubitPi/QubitPi/assets/16126939/77e07f47-47d5-474b-b7ef-ac8444783fae" align="left" width="20%"/>
 
 <div align="center">
 
