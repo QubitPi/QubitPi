@@ -99,7 +99,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 </div>
 
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
-[![jersey-webservice-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-template)
+[![jersey-webservice-release-definition-templates](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-templates&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-templates)
 
 <div align="center">
 
