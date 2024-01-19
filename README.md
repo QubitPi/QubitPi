@@ -90,6 +90,8 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![code-review](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=java-code-review-guide-book&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/java-code-review-guide-book)
 
+<img src="https://github.com/QubitPi/QubitPi/assets/16126939/de8173de-db2e-47ed-b132-8d8fca78340f" align="right" width="20%"/>
+
 <div align="center">
 
 #### Immutable Infrastructure
