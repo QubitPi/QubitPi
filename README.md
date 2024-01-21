@@ -61,6 +61,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 </br>
 <div align="right">
     <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
+    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
