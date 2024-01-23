@@ -85,9 +85,6 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 </details>
 
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
-[![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 [![circe](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=circe&show_owner=true&theme=slateorange)](https://github.com/QubitPi/circe)
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
@@ -104,6 +101,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![machine-learning-model-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=machine-learning-model-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/machine-learning-model-release-definition-template)
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
 [![jersey-webservice-release-definition-templates](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-templates&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-templates)
+[![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 
 <div align="center">
 
@@ -113,6 +111,8 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 </div>
 
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
 
