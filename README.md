@@ -99,8 +99,13 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 </div>
 
 [![machine-learning-model-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=machine-learning-model-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/machine-learning-model-release-definition-template)
+[![react-app-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-app-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/react-app-release-definition-template)
 [![kong-api-gateway-release-definition-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kong-api-gateway-release-definition-template&show_owner=true&theme=dracula)](https://github.com/QubitPi/kong-api-gateway-release-definition-template)
 [![jersey-webservice-release-definition-templates](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-release-definition-templates&show_owner=true&theme=dracula)](https://github.com/QubitPi/jersey-webservice-release-definition-templates)
+
+
+
+
 [![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 
 <div align="center">
