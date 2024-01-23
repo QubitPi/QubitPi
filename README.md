@@ -95,7 +95,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <div align="center">
 
-<img src="https://github.com/QubitPi/QubitPi/blob/master/img/immutable-infrastructure-header.png?raw=true" align="center" width="50%" />
+<img src="https://github.com/QubitPi/QubitPi/blob/master/img/header-immutable-infrastructure.png?raw=true" align="center" width="50%" />
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
 
@@ -107,7 +107,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <div align="center">
 
-#### Jersey Webservice
+<img src="https://github.com/QubitPi/QubitPi/blob/master/img/header-jersey-webservice.png?raw=true" align="center" width="50%" />
 
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 
