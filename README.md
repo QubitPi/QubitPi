@@ -132,7 +132,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 ### Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
+
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
