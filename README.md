@@ -138,7 +138,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <div align="center">
 
-## I Learn Technologies Everyday through Open Source <sup>[![Study Plan](https://img.shields.io/badge/Study%20Plan-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/users/QubitPi/projects/4/)</sup>
+## I Learn Technologies Everyday through Open Source
 
 </div>
 
