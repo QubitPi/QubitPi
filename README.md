@@ -103,10 +103,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 </div>
 
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
 [![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
 
 <div align="center">
