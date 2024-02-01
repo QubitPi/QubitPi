@@ -284,7 +284,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
     - **Neo4J** [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4J Browser](https://qubitpi.github.io/neo4j-browser/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [~~Neo4J Developer Guides~~](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/)
 
-      - [Movies Graph Example](https://qubitpi.github.io/neo4j-graph-examples-movies/neo4j-graph-examples-movie/1/movies/)
+      - [Movies Graph Example](https://qubitpi.github.io/neo4j-graph-examples-movies/neo4j-graph-examples-movie/1/movies/) | [中医知识图谱](https://github.com/QubitPi/TCM_KG)
 
 ### Miscellaneous
 
