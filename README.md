@@ -142,7 +142,9 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <div align="center">
 
-## I Learn Technologies Everyday through Open Source
+<h2>I Learn Technologies Everyday through Open Source</h2>
+
+<img align="center" width="15%" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
 
 </div>
 
