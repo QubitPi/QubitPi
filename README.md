@@ -174,8 +174,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
 - [State of AI Reports](https://qubitpi.github.io/stateofai/) | [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
 - **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
-
-[![Llama2-Chinese](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Llama2-Chinese&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Llama2-Chinese) [![Chinese-LLaMA-Alpaca-2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Chinese-LLaMA-Alpaca-2&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
+- **Chinese LLM**: [Chinese-Mixtral](https://github.com/QubitPi/Chinese-Mixtral) | [Llama2-Chinese](https://github.com/QubitPi/Llama2-Chinese) | [Chinese-LLaMA-Alpaca-2](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
 
 ### DevOps <sup>![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square) ![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
