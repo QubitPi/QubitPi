@@ -175,6 +175,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [State of AI Reports](https://qubitpi.github.io/stateofai/) | [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
 - **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
 - **Chinese LLM**: [Chinese-Mixtral](https://github.com/QubitPi/Chinese-Mixtral) | [Llama2-Chinese](https://github.com/QubitPi/Llama2-Chinese) | [Chinese-LLaMA-Alpaca-2](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
+- **[浙江大学 LLM 生态体系](http://knowlm.zjukg.cn/)**: [KnowLM](https://github.com/QubitPi/KnowLM)
 
 ### DevOps <sup>![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square) ![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
