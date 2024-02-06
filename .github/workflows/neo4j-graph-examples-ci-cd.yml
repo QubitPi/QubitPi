@@ -59,4 +59,4 @@ jobs:
     with:
       job-status: ${{ needs.deploy-to-github-pages.outputs.outcome }}
     secrets:
-      slack-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL }}
+      slack-webhook-url: ${{ secrets.slack-webhook-url }}
