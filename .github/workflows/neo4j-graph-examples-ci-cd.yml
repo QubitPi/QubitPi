@@ -54,9 +54,9 @@ jobs:
   slack-notification:
     name: Send Slack Notification
     if: ${{ always() }}
-    needs: release-documentation
+    needs: deploy-to-github-pages
     uses: QubitPi/hashicorp-aws/.github/workflows/slack-notification.yml@master
     with:
-      job-status: ${{ needs.release-documentation.outputs.outcome }}
+      job-status: ${{ needs.deploy-to-github-pages.outputs.outcome }}
     secrets:
       slack-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL }}
