@@ -138,6 +138,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 <!-- ACTIVE-FORKS:START -->
 [![conda](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=conda&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/conda)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
+[![quepy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=quepy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/quepy)
 [![neo4j-graph-examples-network-management](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-graph-examples-network-management&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neo4j-graph-examples-network-management)
 <!-- ACTIVE-FORKS:END -->
 
