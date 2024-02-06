@@ -1,0 +1,24 @@
+query getPullRequestLabels($repo_owner: String!, $repo_name: String! $after: String) {
+  connectionType: repository(owner: $repo_owner, name: $repo_name) {
+    fields: pullRequests(first: 100, after: $after) {
+      edges {
+        node {
+          id
+          number
+          labels(first:100) {
+            edges{
+              node {
+                name
+              }
+            }
+          }
+        }
+        cursor
+      }
+      pageInfo {
+        hasNextPage
+      }
+    }
+  }
+}
+

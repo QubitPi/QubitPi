@@ -1,0 +1,17 @@
+query getRepoLabels($repo_owner: String!, $repo_name: String! $after: String) {
+  connectionType: repository(owner: $repo_owner, name: $repo_name) {
+    fields: labels(first: 100, after: $after) {
+      edges {
+        node {
+          id
+          name
+        }
+        cursor
+      }
+      pageInfo {
+        hasNextPage
+      }
+    }
+  }
+}
+

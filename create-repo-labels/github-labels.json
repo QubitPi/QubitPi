@@ -1,0 +1,20 @@
+{
+    "NLP": "5812CB",
+    "BUG": "d73a4a",
+    "WIP": "A5621E",
+    "CI/CD": "7057ff",
+    "CONFIG": "F24255",
+    "SECURITY": "1A1A1A",
+    "MERGEABLE": "008672",
+    "HELP WANTED": "129817",
+    "NEW FEATURE": "F00C97",
+    "NEED REBASE": "148A93",
+    "REFACTORING": "5066C0",
+    "DO NOT MERGE": "FF0100",
+    "NEED CHANGES": "EA0C53",
+    "DOCUMENTATION": "0075ca",
+    "NEED 1 REVIEW": "E95420",
+    "NEED 2 REVIEWS": "DF4B01",
+    "BREAKING CHANGE": "C54142",
+    "INTERNATIONALIZATION": "1c7c73"
+}

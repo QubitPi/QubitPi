@@ -1,0 +1,5 @@
+mutation attatchLabelToPullRequest($args: AddLabelsToLabelableInput!) {
+  addLabelsToLabelable(input: $args) {
+    clientMutationId
+  }
+}
