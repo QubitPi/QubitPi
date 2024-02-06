@@ -169,14 +169,19 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 - [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
-- **Tools** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/)
+- **Tools** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/) | [State of AI Reports](https://qubitpi.github.io/stateofai/)
 - [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/) | [conda](https://qubitpi.github.io/conda/)
 - **Knowledge Graph** [Knowledge Graphs](https://qubitpi.github.io/Knowledge-Graphs-Book/) | [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/)
-- **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
-- [State of AI Reports](https://qubitpi.github.io/stateofai/) | [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
-- **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
-- **Chinese LLM**: [Chinese-Mixtral](https://github.com/QubitPi/Chinese-Mixtral) | [Llama2-Chinese](https://github.com/QubitPi/Llama2-Chinese) | [Chinese-LLaMA-Alpaca-2](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
-- **[浙江大学 LLM 生态体系](http://knowlm.zjukg.cn/)**: [KnowLM](https://github.com/QubitPi/KnowLM?tab=readme-ov-file#-whats-the-knowlm) | [DeepKE](https://github.com/QubitPi/DeepKE) | [NeuralKG](https://github.com/QubitPi/NeuralKG) | [OpenUE](https://github.com/QubitPi/OpenUE) | [EasyInstruct](https://github.com/QubitPi/EasyInstruct) | [EasyEdit](https://github.com/QubitPi/EasyEdit)
+
+  - **Knowledge Graph Embedding (KGE)** [AmpliGraph](https://qubitpi.github.io/AmpliGraph/) | [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://qubitpi.github.io/Kge-Tutorial-ECAI2020.github.io/)
+
+- LLM
+
+  - **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
+  - **Chinese LLM**: [Chinese-Mixtral](https://github.com/QubitPi/Chinese-Mixtral) | [Llama2-Chinese](https://github.com/QubitPi/Llama2-Chinese) | [Chinese-LLaMA-Alpaca-2](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
+  - **[浙江大学 LLM 生态体系](http://knowlm.zjukg.cn/)**: [KnowLM](https://github.com/QubitPi/KnowLM?tab=readme-ov-file#-whats-the-knowlm) | [DeepKE](https://github.com/QubitPi/DeepKE) | [NeuralKG](https://github.com/QubitPi/NeuralKG) | [OpenUE](https://github.com/QubitPi/OpenUE) | [EasyInstruct](https://github.com/QubitPi/EasyInstruct) | [EasyEdit](https://github.com/QubitPi/EasyEdit)
+  - LLM Reasoning: [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
+  - NL to SQL: [quepy](https://qubitpi.github.io/quepy/)
 
 ### DevOps <sup>![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square) ![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
