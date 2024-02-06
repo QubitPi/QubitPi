@@ -1,0 +1,62 @@
+# Copyright Jiaqi Liu
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+---
+name: CI/CD for QubitPi/neo4j-graph-examples-***
+
+"on":
+  workflow_call:
+    secrets:
+      slack-webhook-url:
+        description: |
+          A standard Slack Webhook URL that connects to a Slack channel receive validation results.
+          This is the same thing as "SLACK_WEBHOOK_URL"; please see
+          https://github.com/marketplace/actions/slack-send#technique-3-slack-incoming-webhook
+          for more info
+        required: true
+
+jobs:
+  deploy-to-github-pages:
+    name: Deploy Documentation to GitHub Pages
+    outputs:
+      outcome: ${{ job.status }}
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm install
+      - run: npx antora publish.yml  # modules/ROOT/ is a symlink (https://docs.antora.org/antora/latest/symlinks/) to documentation/
+      - name: Deploy to GitHub Pages
+        # if: github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: build/site/
+          user_name: QubitPi
+          user_email: jack20220723@gmail.com
+
+  slack-notification:
+    name: Send Slack Notification
+    if: ${{ always() }}
+    needs: release-documentation
+    uses: QubitPi/hashicorp-aws/.github/workflows/slack-notification.yml@master
+    with:
+      job-status: ${{ needs.release-documentation.outputs.outcome }}
+    secrets:
+      slack-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL }}
