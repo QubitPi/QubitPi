@@ -64,7 +64,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 </br>
 
-- Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe no matter how advanced techonology/software becomes, it ultimately shall go back to serve human's deepest and most primitive desires - our _own_ happiness.
+- Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), I believe no matter how advanced techonology/software becomes, it ultimately shall serve back to human's deepest and most primitive desires - their _own_ happiness.
 - Softwares, whether being advanced by contemporary AI or some "XYZ" in the next 100 years, MUST serve every **individual**'s wellness with values **DIRECTLY** and **EXCLUSIVELY**, rather than serving as a tool by some organization/agencies to bring "values" to other organizations
 - _Open Source_ is by far the most powerful tool that makes such self-autonomous advancement for **individual** possible.    
 
