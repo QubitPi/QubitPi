@@ -125,7 +125,8 @@ React
 
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 
-### Contributor
+Contributor
+-----------
 
 [![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
 [![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
@@ -137,7 +138,8 @@ React
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
 [![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
-### Active Forks (having at least 1 PR merged within the last 5 days)
+Active Forks (having at least 1 PR merged within the last 5 days)
+-----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
 [![stanford-cs231n.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=stanford-cs231n.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/stanford-cs231n.github.io)
