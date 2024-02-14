@@ -72,13 +72,13 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-### Creator/δημιονργός
+### Creator
 
-<details><summary>Color Annotations</summary>
+<div align="center">
 
-![](https://github.com/QubitPi/QubitPi/blob/master/img/repo-pin-color-design.png?raw=true)
+[![lamassu](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
-</details>
+</div>
 
 <div align="center">
 
