@@ -72,7 +72,8 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-### Creator
+Machine Learning
+----------------
 
 <div align="center">
 
@@ -80,9 +81,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 </div>
 
-<div align="center">
+Immutble Infrastructure
+-----------------------
 
-<img src="https://github.com/QubitPi/QubitPi/blob/master/img/header-immutable-infrastructure.png?raw=true" align="center" width="50%" />
+<div align="center">
 
 [![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
 
@@ -97,9 +99,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 [![screwdriver-cd-commands](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-commands&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-commands)
 
-<div align="center">
+Jersey Webservice
+-----------------
 
-<img src="https://github.com/QubitPi/QubitPi/blob/master/img/header-jersey-webservice.png?raw=true" align="center" width="50%" />
+<div align="center">
 
 [![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 
@@ -111,9 +114,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
 
-<div align="center">
+React
+-----
 
-<img src="https://github.com/QubitPi/QubitPi/blob/master/img/header-react-app.png?raw=true" align="center" width="50%" />
+<div align="center">
 
 [![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 
