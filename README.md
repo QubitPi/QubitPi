@@ -81,7 +81,7 @@ Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?sty
 
 </div>
 
-Immutble Infrastructure
+Immutble Infrastructure [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=intellijidea)](https://www.jetbrains.com/idea/) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------------
 
 <div align="center">
@@ -99,7 +99,7 @@ Immutble Infrastructure
 [![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 [![screwdriver-cd-commands](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-commands&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-commands)
 
-Jersey Webservice
+Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=intellijidea)](https://www.jetbrains.com/idea/) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------
 
 <div align="center">
