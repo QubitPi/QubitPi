@@ -72,9 +72,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-[![PyCharm](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&labelColor=green&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-
-Machine Learning
+Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=pycharm)](https://www.jetbrains.com/pycharm/) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 ----------------
 
 <div align="center">
