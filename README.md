@@ -72,7 +72,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
+Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 ----------------
 
 <div align="center">
@@ -81,7 +81,7 @@ Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?sty
 
 </div>
 
-Immutble Infrastructure [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
+Immutble Infrastructure [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------------
 
 <div align="center">
@@ -99,7 +99,7 @@ Immutble Infrastructure [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-0
 [![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 [![screwdriver-cd-commands](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-commands&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-commands)
 
-Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
+Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------
 
 <div align="center">
@@ -114,7 +114,7 @@ Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
 
-React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=for-the-badge&labelColor=000000&logoColor=white&logo=webstorm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
+React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=webstorm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----
 
 <div align="center">
