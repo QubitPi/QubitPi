@@ -142,10 +142,10 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![neodash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neodash&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neodash)
-[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/progit2)
 [![stanford-cs231n.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=stanford-cs231n.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/stanford-cs231n.github.io)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
+[![neodash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neodash&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neodash)
+[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/progit2)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
