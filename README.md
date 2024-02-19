@@ -142,12 +142,12 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mieru)
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
+[![neodash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neodash&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neodash)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/progit2)
 [![TextGrapher](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TextGrapher&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TextGrapher)
-[![neodash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neodash&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neodash)
-[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
 [![screwdriver-cd-homepage](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-homepage&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-homepage)
+[![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mieru)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
