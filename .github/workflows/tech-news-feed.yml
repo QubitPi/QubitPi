@@ -1,4 +1,4 @@
-name: Tech News
+name: RSS Feeds
 on:
   schedule:
     - cron: '*/5 * * * *'
