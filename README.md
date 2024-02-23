@@ -164,7 +164,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 I'm interested in 5 topics of tech world:
 
-1. [Tech Management](https://qubitpi.github.io/management-blogs/) (I'm still playing with LeetCode (see right) today as part of **designing a more scientific hiring process for my team**)
+1. [Project Management](https://github.com/orgs/paion-data/projects/10) (I'm still playing with LeetCode (see right) today as part of **designing a more scientific hiring process for my team**)
 2. [NLP](https://github.com/QubitPi#machine-learning-) Machine Learning
 3. [Immutable Infrastructure](https://github.com/QubitPi#devops--) DevOps
 4. [React](https://github.com/QubitPi#frontend--)-based Frontend Dev with little more focus on the UI design
