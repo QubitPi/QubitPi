@@ -308,9 +308,9 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - Anki: [Anki's manual](https://qubitpi.github.io/anki-manual/) | [AnkiMobile Manual](https://qubitpi.github.io/ankimobile-docs/)
 
 <!-- LOEB:START -->
+- [Forthcoming Loebs &lpar;June 2024&rpar;](https://www.loebclassics.com/loeb/newsitem/38/forthcoming-loebs-june-2024)
 - [Recent Loebs &lpar;December 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/37/recent-loebs-december-2023)
 - [Recent Loebs &lpar;June 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/36/recent-loebs-june-2023)
-- [Recent Loebs &lpar;December 2022&rpar;](https://www.loebclassics.com/loeb/newsitem/35/recent-loebs-december-2022)
 <!-- LOEB:END -->
 
 
