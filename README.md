@@ -69,8 +69,7 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 - Softwares, whether being advanced by contemporary AI or some "XYZ" in the next 100 years, MUST serve every **individual**'s wellness with values **directory** and **exclusively**, rather than serving as a tool by some organization/agencies to bring "values" to other organizations
 - _Open Source_ is by far the most powerful tool that makes such self-autonomous advancement for **individual** possible.    
 
-[![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)](https://skyline.github.com/qubitpi/2023)
-
+[![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)]
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
 Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
