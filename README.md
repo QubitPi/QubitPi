@@ -143,9 +143,9 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
+[![screwdriver-cd-template-validator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-template-validator&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-template-validator)
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
 [![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
-[![screwdriver-cd-template-validator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-template-validator&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-template-validator)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
