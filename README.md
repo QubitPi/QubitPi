@@ -143,10 +143,10 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
+[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
 [![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-screwdriver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-screwdriver)
 [![screwdriver-cd-template-validator](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-template-validator&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-template-validator)
 [![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-consul)
-[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
