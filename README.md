@@ -143,10 +143,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![screwdriver-cd-executor-docker](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-executor-docker&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-executor-docker)
 [![docker-install](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-install&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-install)
-[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
-[![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-consul)
+[![screwdriver-cd-executor-docker](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-executor-docker&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-executor-docker)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
