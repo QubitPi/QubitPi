@@ -84,9 +84,14 @@ Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?sty
 Immutble Infrastructure [![GoLand](https://img.shields.io/badge/IDE-GoLand-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=goland)](https://github.com/QubitPi/intellij-theme-ubuntu) [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------------
 
-[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
-[![packer-plugin-hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashicorp-aws)
+<div align="center">
 
+[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://qubitpi.github.io/hashicorp-aws/)
+
+</div>
+
+[![packer-plugin-hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashicorp-aws)
+[![terraform-provider-hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-hashicorp-aws)
 [![hashicorp-aws-github-actions](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
 [![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 [![screwdriver-cd-commands](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-commands&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-commands)
