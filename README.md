@@ -141,8 +141,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![hashicorp-packer-plugin-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer-plugin-scaffolding&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer-plugin-scaffolding)
 [![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer)
+[![hashicorp-packer-plugin-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer-plugin-scaffolding&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer-plugin-scaffolding)
 [![docker-kong](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-kong&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-kong)
 <!-- ACTIVE-FORKS:END -->
 
