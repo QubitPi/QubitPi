@@ -138,7 +138,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-
+[![react-components](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-components&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-components)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
