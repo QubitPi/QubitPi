@@ -110,6 +110,7 @@ Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
 [![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
+[![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
 React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=webstorm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----
