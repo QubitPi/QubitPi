@@ -140,7 +140,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![whisper](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=whisper&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/whisper)
+[![whisper](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=whisper&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/whisper)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
 <!-- ACTIVE-FORKS:END -->
 
