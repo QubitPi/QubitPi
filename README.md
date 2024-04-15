@@ -141,9 +141,9 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![whisper](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=whisper&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/whisper)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
 [![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/maven-central-release-action)
+[![whisper](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=whisper&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/whisper)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
