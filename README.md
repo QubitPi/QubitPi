@@ -144,12 +144,12 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
 [![screwdriver-cd-guide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-guide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-guide)
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
-[![screwdriver-cd-homepage](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-homepage&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-homepage)
+[![screwdriver-cd-sdk-python](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-sdk-python&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-sdk-python)
 [![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/elide)
-[![astraios-data-models-example](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios-data-models-example&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/astraios-data-models-example)
 [![immutable-infrastructure-as-a-service](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=immutable-infrastructure-as-a-service&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/immutable-infrastructure-as-a-service)
-[![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/maven-central-release-action)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
+[![astraios-data-models-example](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios-data-models-example&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/astraios-data-models-example)
+[![screwdriver-cd-homepage](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-homepage&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-homepage)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
