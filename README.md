@@ -143,13 +143,11 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![screwdriver-cd-guide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-guide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-guide)
-[![astraios-data-models-example](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios-data-models-example&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/astraios-data-models-example)
+[![immutable-infrastructure-as-a-service](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=immutable-infrastructure-as-a-service&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/immutable-infrastructure-as-a-service)
 [![screwdriver-cd-sdk-python](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-sdk-python&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/screwdriver-cd-sdk-python)
 [![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/maven-central-release-action)
-[![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jetty.project)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
-[![immutable-infrastructure-as-a-service](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=immutable-infrastructure-as-a-service&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/immutable-infrastructure-as-a-service)
+[![astraios-data-models-example](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios-data-models-example&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/astraios-data-models-example)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
