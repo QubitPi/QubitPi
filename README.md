@@ -134,6 +134,7 @@ Contributor
 [![screwdriver: in-a-box](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=in-a-box&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/in-a-box)
 [![screwdriver-cd/executor-docker](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=executor-docker&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/template-validator)
 [![template-validator](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=template-validator&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/executor-docker)
+[![Packer](https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=packer&show_owner=true&theme=dracula)](https://github.com/hashicorp/packer)
 [![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=chartreuse-dark)](https://github.com/neo4j/docs-cypher)
 [![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=slateorange)](https://github.com/QubitPi/mdbm)
 [![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
