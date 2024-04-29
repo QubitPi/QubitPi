@@ -198,7 +198,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 <a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg" /></a>
 
-- [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/cloud-operating-model) [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://qubitpi.github.io/hashicorp-consul/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Packer Plugin Scaffolding](https://github.com/QubitPi/hashicorp-packer-plugin-scaffolding) | [Terraform Provider Scaffolding](https://github.com/QubitPi/hashicorp-terraform-provider-scaffolding-framework)
+- [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/cloud-operating-model) [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Packer Plugin Scaffolding](https://github.com/QubitPi/hashicorp-packer-plugin-scaffolding) | [Terraform Provider Scaffolding](https://github.com/QubitPi/hashicorp-terraform-provider-scaffolding-framework)
 
 <ul>
     <li>
