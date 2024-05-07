@@ -59,9 +59,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 </br>
 <div align="right">
     <a href="https://github.com/orgs/paion-data/projects/10"><img align="center" src="https://img.shields.io/badge/Project%20Management-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
+    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>    
 </div>
 
 </br>
