@@ -38,7 +38,7 @@
 
 <img align="left" src="https://github.com/QubitPi/QubitPi/assets/16126939/bace7c6c-f0c8-4efc-ae57-531cc16870cb" width="80px" />
 
-> This page is also dedicated to my mentor <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review as a work of art and _loves Software Engineering by heart_ ❤️, which is why I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech world</a>
+> This page is also dedicated to my mentor <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review as a work of art and _loves Software Engineering by ❤️ _, which is why I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech world</a>
 
 </br>
 </br>
