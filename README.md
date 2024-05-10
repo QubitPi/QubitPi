@@ -69,7 +69,7 @@ Wherever there’s language, there’s an application for NLP
 
 - I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exame 1 month after the moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among those contemporaries
 - When I studied abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort to spoke better German than those Indo-European-native language speakers
-- **I love languages**, especially ancient languages, such as Ἑλληνική and 𐎱𐎠𐎼𐎿. I have been nonsensical when I see them; I cannot help myself but to learn them all with such a tremendous enjoyment; *Today, I extend my love to the career of Natural Language Processing AI*
+- **I love languages**, especially ancient languages, such as Ἑλληνική and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform). I have been nonsensical whenever I see them; *Today, I extend my love to the career of Natural Language Processing AI, becuase I believe in the power of language, the greatest the invention in human hitory that shall change the way people see this world*
 
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
