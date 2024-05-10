@@ -143,10 +143,10 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![cmusphinx.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cmusphinx.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cmusphinx.github.io)
-[![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/elide)
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
 [![screwdriver-cd-guide](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-guide&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/screwdriver-cd-guide)
+[![cmusphinx.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cmusphinx.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cmusphinx.github.io)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/athena)
+[![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/elide)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
