@@ -68,7 +68,7 @@ there’s an application for NLP
 
 </br>
 
-- I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exame 1 month after then moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among others with more than serval years of English study
+- I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exame 1 month after then moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among those contemporaries
 - When I study abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort to spoke better German than those Indo-European-native language speakers
 - When I worked in silicon valley, my collegues told me they didn't believe I was a Chinese when they hear me speaking American English
 - **I love languages**, especially ancient languages, such as Ἑλληνική and 𐎧𐏁𐎠𐎹𐎰𐎡𐎹. I have been nonsensical; I cannot help myself but to learn them all with such a tremendous enjoyment; *Today, I extend my love to the career of Natural Language Processing AI* 
