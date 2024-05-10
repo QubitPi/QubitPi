@@ -48,7 +48,7 @@
 <div align="center">
 
 <h1>
-Software Exists for Advancing Individuals while Vanishes by Serving Organizations
+Wherever there’s language, speech or text, there’s an application for NLP
 </h1>
 
 </div>
@@ -67,9 +67,10 @@ Software Exists for Advancing Individuals while Vanishes by Serving Organization
 
 </br>
 
-- Quoting Kant: ["Human exists for themselves"](https://en.wikipedia.org/wiki/Categorical_imperative#Second_formulation:_Humanity), **I believe no matter how advanced techonology/software becomes, it ultimately shall serve back to human's deepest and most primitive desires - their _own_ happiness**.
-- Softwares, whether being advanced by contemporary AI or some "XYZ" in the next 100 years, MUST serve every **individual**'s wellness with values **directory** and **exclusively**, rather than serving as a tool by some organization/agencies to bring "values" to other organizations
-- _Open Source_ is by far the most powerful tool that makes such self-autonomous advancement for **individual** possible.    
+- I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exame 1 month after then moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among others with more than serval years of English study
+- When I study abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort to spoke better German than those Indo-European-native language speakers
+- When I worked in silicon valley, my collegues told me they didn't believe I was a Chinese when they hear me speaking American English
+- **I love languages**, especially ancient languages, such as Ἑλληνική and 𐎧𐏁𐎠𐎹𐎰𐎡𐎹. I have been nonsensical; I cannot help myself but to learn them all with such a tremendous enjoyment; *Today, I extend my love to the career of Natural Language Processing AI* 
 
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
