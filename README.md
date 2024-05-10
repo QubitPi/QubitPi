@@ -47,10 +47,9 @@
 
 <div align="center">
 
-<h1>
-Wherever there’s language, speech or text, <br>
-there’s an application for NLP
-</h1>
+<h2>
+Wherever there’s language, speech or text, there’s an application for NLP
+</h2>
 
 </div>
 
