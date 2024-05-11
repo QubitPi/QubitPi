@@ -71,7 +71,7 @@ Wherever There is Language, There is an Application for NLP
 - When I studied abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort to spoke better German than those Indo-European-native language speakers
 - **I love languages**
 
-  - I have been studying ancient languages, such as Ἑλληνική and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform), because they are interesting, engaging, and challenging, and, most importantly, fun, in their own right.
+  - I have been studying ancient languages, such as Ἑλληνική and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform), because they are interesting, engaging, and challenging, and, most of all, fun, in their own right
   - I have been nonsensical with languages
   - I have been facinated by how just few dozon alphabets and interestingly rigorous syntax rules allow us to live through an endlessly fabulous 5000 years of human history
 
