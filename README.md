@@ -75,7 +75,7 @@ Wherever there’s language, there’s an application for NLP
   - I have been nonsensical whenever I see them;
   - I have been facinated by how just dozon alphabets and interestingly rigorous syntax rules allow us to live through an endlessly fabulous 5000 years of human history. What a world would it be if without langauge!
 
-  *Today, I extend my love to the career of Natural Language Processing AI, becuase I believe in the power of language, the greatest invention in human history that, once being technologized, shall change the way people see this world*
+  *Today, I extend my passion to the career of Natural Language Processing AI, becuase I believe in the power of language, the greatest invention in human history that, once being technologized, shall change the way people see this world*
 
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
