@@ -73,7 +73,7 @@ Wherever there’s language, there’s an application for NLP
 
   - I have been especially attracted by ancient languages, such as Ἑλληνική and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform); I learn them because it's interesting, engaging, and challenging, and, most importantly, fun, in its own right.
   - I have been nonsensical whenever I see them;
-  - I have been facinated by how just dozon alphabets and interestingly rigorous syntax rules allow us to make a endlessly fabulous 5000 years of human history. What a world would it be if without langauge! 
+  - I have been facinated by how just dozon alphabets and interestingly rigorous syntax rules allow us to make a endlessly fabulous 5000 years of human history. What a world would it be if without langauge!
 
   *Today, I extend my love to the career of Natural Language Processing AI, becuase I believe in the power of language, the greatest invention in human history that, once being technologized, shall change the way people see this world*
 
