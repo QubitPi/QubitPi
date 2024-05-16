@@ -152,7 +152,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <div align="center">
 
-<h2>I Learn Technologies Everyday through Open Source</h2>
+<h2>No Matter How Far I Go Up My Career Path, I Keep Learning Technologies Everyday</h2>
 
 <img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
 
@@ -319,5 +319,3 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [Recent Loebs &lpar;December 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/37/recent-loebs-december-2023)
 - [Recent Loebs &lpar;June 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/36/recent-loebs-june-2023)
 <!-- LOEB:END -->
-
-
