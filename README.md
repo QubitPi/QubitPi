@@ -32,7 +32,7 @@
 
 > I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life philosophy that the end of [Software Development in itself](https://en.wikipedia.org/wiki/Thing-in-itself) is not about money, but [**people**](https://www.bilibili.com/video/BV17D4y1t74j/), [**passion**](https://www.bilibili.com/video/BV1pC4y1g7dH), and [**love**](https://www.bilibili.com/video/BV1Kj411g7Lu/?share_source=copy_web). Thank you Yahoo!
 
-<img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/8db9d116-7bb2-4477-8b88-254784435a2a" width="10%" />
+<img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/8db9d116-7bb2-4477-8b88-254784435a2a" width="80px" />
 
 > This page is also dedicated to my mentor <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review as a work of art and _loves Software Engineering by_ ❤️, which is why I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech world</a>
 
@@ -154,7 +154,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <h2>I Learn Technologies Everyday through Open Source</h2>
 
-<img align="center" width="15%" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
+<img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
 
 </div>
 
