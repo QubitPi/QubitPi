@@ -78,7 +78,7 @@ Wherever There is Language, There is an Application for NLP
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode) <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
+Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode) <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 ----------------
 
 <div align="center">
@@ -154,7 +154,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <div align="center">
 
-<h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Stuyding Technologies Everyday<br>Because She Made My Dream Possible</h2>
+<h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Stuyding Technologies Everyday<br>Because She Made My Dream Possible</h2> <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 
 <img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
 
