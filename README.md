@@ -154,7 +154,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <div align="center">
 
-<h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Stuyding Technologies Everyday<br>Because She Made My Dream Possible</h2> <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
+<h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Stuyding Technologies Everyday<br>Because She Made My Dream Possible</h2>
 
 <img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
 
@@ -173,6 +173,8 @@ I'm interested in 5 topics of tech world:
 I used to study technologies by [blogging](https://leadership.qubitpi.org) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12):
+
+<a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 
 ### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
