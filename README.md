@@ -178,6 +178,8 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
 
+<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
+
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
 
 - [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
