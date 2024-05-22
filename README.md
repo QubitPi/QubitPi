@@ -157,7 +157,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Studying Technologies Everyday<br>Because She Made My Dream Possible</h2>
 
-<img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" />
+<a href="https://www.bilibili.com/video/BV1yG411M73g"><img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" /></a>
 
 </div>
 
