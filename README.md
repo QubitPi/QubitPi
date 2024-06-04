@@ -330,3 +330,10 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [Recent Loebs &lpar;December 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/37/recent-loebs-december-2023)
 - [Recent Loebs &lpar;June 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/36/recent-loebs-june-2023)
 <!-- LOEB:END -->
+
+
+<div align="right">
+    
+> 不知不觉，已经留下了这么多美丽的足迹，所以，无论未来多么凶险，我都会一直在这条路上走下去
+    
+</div> 
