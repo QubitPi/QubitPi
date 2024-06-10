@@ -1,6 +1,6 @@
 <div align="right">
     
-> To my dearest Mom and Grandma who teach me how to love this world with ❤️
+> To my dearest Mom, Dad, and Grandma who teach me how to love this world with ❤️
     
 </div> 
 
