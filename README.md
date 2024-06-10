@@ -28,7 +28,7 @@
 ![English](https://img.shields.io/badge/English-English%20(US)-2E71E5?style=for-the-badge)
 [![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)](https://en.wikipedia.org/wiki/Attic_Greek)
 [![Latin](https://img.shields.io/badge/Latinum-Latin%20(Old%20&%20Classical)-178fd6?style=for-the-badge)](https://hmmlschool.org/latin/)
-[![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian-black?style=for-the-badge)](https://qubitpi.github.io/old-persian/old-persian.pdf)
+[![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
 
 </div>
 
