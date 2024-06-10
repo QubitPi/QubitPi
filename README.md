@@ -45,7 +45,7 @@
 </br>
 </br>
 
-I have a __Bachelor's Degree of Engineering Physics__ (on Computational Quantum Mechanics) and __Master's Degree of Computer Science__ (on Big Data and Cloud Computing) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on Big Data and its extended applications
+I have a __Bachelor's Degree of Engineering Physics__ (on Computational Quantum Mechanics) and a __Master's Degree of Computer Science__ (on Big Data and Cloud Computing) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on Big Data and its extended applications
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
 
