@@ -290,7 +290,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 > [!NOTE]  
 > In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW the existence of each other. They sit in two [different universes](https://en.wikipedia.org/wiki/Multiverse). The two universes are completely disjoint and nothing that happens in any one of them is causally linked to what happens in any other one. They are only aware of a "boundary" defined by [GraphQL](https://graphql.org/) or, if not possible, [OpenAPI](https://www.openapis.org/)
 
-- GraphQL: [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL Java](https://qubitpi.github.io/graphql-java-page/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/) | [Apollo GraphQL](https://apollographql.qubitpi.org/) | [Apollo GraphQL Client (React)](https://apollographql.qubitpi.org/react/)
+- GraphQL: [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL Java](https://graphql-java.qubitpi.org/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/) | [Apollo GraphQL](https://apollographql.qubitpi.org/) | [Apollo GraphQL Client (React)](https://apollographql.qubitpi.org/react/)
 - [JSON Schema](https://qubitpi.github.io/json-schema-website/)
 - OpenAPI: [The OpenAPI Specification](https://qubitpi.github.io/OpenAPI-Specification/) | [Learn OpenAPI](https://qubitpi.github.io/learn.openapis.org/) | [OpenAPI Tooling](https://qubitpi.github.io/OpenAPI-Tooling/) | [OpenAPI Map](https://qubitpi.github.io/openapi-map/)
 
