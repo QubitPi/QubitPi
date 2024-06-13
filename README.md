@@ -177,7 +177,7 @@ I'm interested in 5 topics of tech world:
 
 I used to study technologies by [blogging](https://leadership.qubitpi.org) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
-Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12):
+Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12/files):
 
 <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 
@@ -190,7 +190,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
 - ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
 - **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
-- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://qubitpi.github.io/mlflow/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
+- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://mlflow.qubitpi.org/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
 - **Tools** [scikit-learn](https://qubitpi.github.io/scikit-learn/) | [GQL](https://qubitpi.github.io/gql/) | [State of AI Reports](https://qubitpi.github.io/stateofai/)
 - [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/) | [conda](https://qubitpi.github.io/conda/)
