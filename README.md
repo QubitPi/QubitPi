@@ -64,7 +64,7 @@ Wherever There is Language, There is an Application for NLP
 
 - I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exam 1 month after the moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among those contemporaries
 - When I studied abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort before I was able to speak better German than those Indo-European-native language speakers
-- *I love languages*
+- _I love languages_
 
   - I have been studying ancient languages, such as [Ἑλληνική](https://en.wikipedia.org/wiki/Attic_Greek) and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform), because they are interesting, engaging, challenging, and, most of all, fun in their own right
   - I have been nonsensical with languages
