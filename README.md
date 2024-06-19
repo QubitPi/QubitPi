@@ -32,13 +32,7 @@
 
 </div>
 
-<a href="https://www.bilibili.com/video/BV1Dy4y1t7Mf">
-    <img align="right" src="https://github.com/QubitPi/QubitPi/assets/16126939/de8173de-db2e-47ed-b132-8d8fca78340f" width="120px" />
-</a>
-
 > I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life philosophy that the end of [Software Development in itself](https://en.wikipedia.org/wiki/Thing-in-itself) is not about money, but [**people**](https://www.bilibili.com/video/BV17D4y1t74j/), [**passion**](https://www.bilibili.com/video/BV1pC4y1g7dH), and [**love**](https://www.bilibili.com/video/BV1Kj411g7Lu/?share_source=copy_web). Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px"/>
-
-<img align="left" src="https://github.com/QubitPi/QubitPi/assets/16126939/bace7c6c-f0c8-4efc-ae57-531cc16870cb" width="80px" />
 
 > This page is also dedicated to my mentor <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review as a work of art and _loves Software Engineering by_ ❤️, which is why I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech world</a>
 
