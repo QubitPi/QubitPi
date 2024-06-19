@@ -62,7 +62,7 @@ Wherever There is Language, There is an Application for NLP
 
 </br>
 
-- I started learning English as a Chinese student far later than my contemporaries. When I took my first English language exam 1 month after the moment I didn't even know how to spell "hello", I got the highest score in my Middle school class among those contemporaries
+- I started learning English as a Chinese student far later than my contemporaries. Just 1 month after the moment I didn't even know how to spell "hello", I took the first English language exam in my life and got the highest score in my Middle school class among those contemporaries
 - When I studied abroad in US, I picked up German language class for fun and I can still remember how I spent just little effort before I was able to speak better German than those Indo-European-native language speakers
 - _I love languages_
 
