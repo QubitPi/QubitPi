@@ -70,7 +70,7 @@ Wherever There is Language, There is an Application for NLP
   - I have been nonsensical with languages
   - I have been facinated by how just a single alphabet along with interestingly rigorous syntax rules allows us to live through an endlessly fabulous 5000 years of human history
 
-*Today, I extend my passion to the career of **N**atural **L**anguage **P**rocessing AI, becuase I believe in the power of language, the greatest invention in human history that, once being open-source technologized, shall advance the way we interact with this world*
+__Today, I extend my passion to the career of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) AI, becuase I believe in the power of language, the greatest invention in human history that, once being open-source technologized, shall advance the way we interact with this world__
 
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
