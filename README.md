@@ -160,13 +160,12 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <img align="right" width="30%" src="https://leetcard.jacoblin.cool/QubitPi?theme=unicorn&font=Ubuntu&ext=activity" />
 
-I'm interested in 5 topics of tech world:
+I'm interested in 4 topics of tech world:
 
-1. [Project Management](https://github.com/orgs/paion-data/projects/10) (I'm still playing with LeetCode (see right) today as part of **designing a more scientific hiring process for my team**)
-2. [NLP](https://github.com/QubitPi#machine-learning-) Machine Learning
-3. [Immutable Infrastructure](https://github.com/QubitPi#devops--) DevOps
-4. [React](https://github.com/QubitPi#frontend--)-based Frontend Dev with little more focus on the UI design
-5. No-Spring [Webservice](https://github.com/QubitPi#backend-) Dev
+1. [NLP](https://github.com/QubitPi#machine-learning-) Machine Learning
+2. [Immutable Infrastructure](https://github.com/QubitPi#devops--) DevOps
+3. [React](https://github.com/QubitPi#frontend--)-based Frontend Dev with little more focus on the UI design
+4. No-Spring [Webservice](https://github.com/QubitPi#backend-) Dev
 
 I used to study technologies by [blogging](https://leadership.qubitpi.org) extensively. Since I'm running a company, my obligations right now are more on doing well for _my employees_ and for _my company_, which leave me literally no time for the blogging. I do, however, keep studying techs in a, what I found, more efficient approach below.
 
