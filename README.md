@@ -308,7 +308,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
     - **Neo4J** [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4J Browser](https://neo4j-browser.qubitpi.org/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [~~Neo4J Developer Guides~~](https://qubitpi.github.io/neo4j-developer-guides/developer/get-started/) | [NeoDash](https://qubitpi.github.io/neodash/neodash/2.4)
 
-      - [Movies Graph Example](https://qubitpi.github.io/neo4j-graph-examples-movies/neo4j-graph-examples-movie/1/movies/) | [Healthcare Analytics Graph Examples](https://qubitpi.github.io/neo4j-graph-examples-healthcare-analytics/neo4j-graph-examples-healthcare-analytics/1/healthcare-analytics/) | [Network Management Graph Example](https://qubitpi.github.io/neo4j-graph-examples-network-management/neo4j-graph-examples-network-management/1/network-management/) | [Stack Overflow](https://qubitpi.github.io/neo4j-graph-examples-stackoverflow/neo4j-graph-examples-stackoverflow/1/stackoverflow) | [中医知识图谱](https://github.com/QubitPi/TCM_KG)
+      - [Movies Graph Example](https://neo4j-graph-examples-movies.qubitpi.org/neo4j-graph-examples-movie/1/movies/) | [Healthcare Analytics Graph Examples](https://qubitpi.github.io/neo4j-graph-examples-healthcare-analytics/neo4j-graph-examples-healthcare-analytics/1/healthcare-analytics/) | [Network Management Graph Example](https://qubitpi.github.io/neo4j-graph-examples-network-management/neo4j-graph-examples-network-management/1/network-management/) | [Stack Overflow](https://qubitpi.github.io/neo4j-graph-examples-stackoverflow/neo4j-graph-examples-stackoverflow/1/stackoverflow) | [中医知识图谱](https://github.com/QubitPi/TCM_KG)
 
 ### Miscellaneous
 
