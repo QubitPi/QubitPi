@@ -39,8 +39,6 @@
 
 I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications, because it is a career that converges all of my consuming interests: __Big Data Analytics__, __Natural Language Processing (NLP)__, and __the curiosity of exploring complex systems__ <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Goal%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
-<br />
 <div align="center">
 
 <h1>
@@ -332,3 +330,5 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 > 不知不觉，已经留下了这么多美丽的足迹，所以，无论未来多么凶险，我都会[一直在这条路上走下去](https://www.bilibili.com/video/BV1bT4y1k7nj)
     
 </div> 
+
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
