@@ -8,7 +8,7 @@
 
 [![Reading List](https://img.shields.io/badge/Reading%20List-0166FF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/8OIIoyrS)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/QubitPi/jupyter-notebooks/tree/master/notebooks/)
+[![Notebooks](https://img.shields.io/badge/Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/QubitPi/jupyter-notebooks/tree/master/notebooks/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/@QubitPi)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
 [![](https://img.shields.io/badge/原神-角色配队-18A2FF?labelColor=4765DF&style=for-the-badge)](https://enka.network/u/MyGenshinTeams/312Vco)
