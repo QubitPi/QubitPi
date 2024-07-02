@@ -295,7 +295,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
   - [APIs](https://qubitpi.github.io/jakartaee-rest/apidocs/)
   - [Jakarta EE Jekyll Theme](https://qubitpi.github.io/jekyll-theme-jakarta-ee/)
 
-- [__JPA_ ](https://jpa.qubitpi.org/)
+- [**JPA**](https://jpa.qubitpi.org/)
 
   - Specification [HTML](https://jpa.qubitpi.org/latest/draft.html)/[PDF](https://jpa.qubitpi.org/latest/draft.pdf)
   - [API](https://jpa.qubitpi.org/latest/api/jakarta.persistence/module-summary.html)
