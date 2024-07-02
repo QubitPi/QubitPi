@@ -142,7 +142,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![jupyter.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jupyter.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jupyter.github.io)
+
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
