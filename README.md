@@ -150,13 +150,13 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Studying Technologies Everyday<br>Because She Made My Dream Possible</h2>
 
-<a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Study%20Notes%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
-
 <a href="https://www.bilibili.com/video/BV1yG411M73g"><img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" /></a>
 
 </div>
 
 <img align="right" width="30%" src="https://leetcard.jacoblin.cool/QubitPi?theme=unicorn&font=Ubuntu&ext=activity" />
+
+[![](https://img.shields.io/badge/Study%20Notes%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white)](https://status.qubitpi.org)
 
 I'm interested in 4 topics of tech world:
 
