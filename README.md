@@ -11,18 +11,19 @@
 [![Notebooks](https://img.shields.io/badge/Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/@QubitPi)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
-[![](https://img.shields.io/badge/原神-角色配队-18A2FF?labelColor=4765DF&style=for-the-badge)](https://enka.network/u/MyGenshinTeams/312Vco)
+[![](https://img.shields.io/badge/原神-角色配队-18A2FF?labelColor=4765DF&style=for-the-badge&logo=nintendoswitch)](https://enka.network/u/MyGenshinTeams/312Vco)
 
 [![](https://img.shields.io/badge/Tarot%20Journaling-00B0EA?style=for-the-badge&logo=livejournal&logoColor=white)](https://trello.com/b/eB2miz73/tarot-daily-reading-2024)
 [![](https://img.shields.io/badge/General%20Relativity-FF6C00?&style=for-the-badge&logo=gitbook&logoColor=white)](http://relativity.qubitpi.org/study-notes.pdf)
 [![My Awesome List](https://img.shields.io/badge/My%20Awesome%20List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.qubitpi.org/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
+[![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
+
 <!-- [![HelloTalk](https://img.shields.io/badge/HelloTalk-0054F7?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgaWQ9IkxheWVyXzIiIGRhdGEtbmFtZT0iTGF5ZXIgMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6bm9uZTtzdHJva2U6I2ZmZmZmZjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7fTwvc3R5bGU+PC9kZWZzPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTQzLjUsMjIuODNjMC04LjY4LTguNzMtMTUuNzEtMTkuNS0xNS43MS0xMC4yNiwwLTE4Ljc2LDYuNDEtMTkuNDUsMTQuNjYsMCwuMzQsMCwuNjksMCwxQzQuNSwzMSwxMi4xNywzNy42NCwyMiwzOC40NWgwYzIsLjEsMS44Mi4zMSwxLjgyLDEuNjJoMGMwLDEuMzEtLjA1LDIuODMtLjA1LDIuODMsMCwuOTIuNTEsMSwxLjE5LDEsMS4zLDAsNi4zNy0zLjE5LDkuMDctNS40NmEzMC45MywzMC45MywwLDAsMCw3Ljc5LTkuMjFoMGExMy4yOCwxMy4yOCwwLDAsMCwxLjY1LTUuMzJDNDMuNDgsMjMuNTMsNDMuNSwyMy4xOCw0My41LDIyLjgzWk0zMC4zNiwzMi4yMmEzLjA2LDMuMDYsMCwwLDEtMy4wNi0zLjA2aDBhMy4wNywzLjA3LDAsMSwxLDMuMDYsMy4wNlpNMjQuMzQsMTlhNC4zNSw0LjM1LDAsMCwxLDQuMzUtNC4zNWgwQTQuMzUsNC4zNSwwLDAsMSwzMywxOWgwYTQuMzUsNC4zNSwwLDEsMS04LjcsMFptLTcsMTEuNzJoMEE1LjY2LDUuNjYsMCwxLDEsMjMsMjUuMSw1LjY2LDUuNjYsMCwwLDEsMTcuMzcsMzAuNzZaIi8+PC9zdmc+)](https://hellotalk.cn/u/_Klee_) -->
 
 [![Gmail Badge](https://img.shields.io/badge/Personal-jack20220723@gmail.com-ff6961?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jack20220723@gmail.com)](mailto:jack20220723@gmail.com)
 [![Email Badge](https://img.shields.io/badge/Work-jiaqiliu@paion%E2%80%93data.dev-00AF1B?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jiaqiliu@paion-data.dev)](mailto:jiaqiliu@paion-data.dev)
 [![Calendar](https://img.shields.io/badge/My%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/embed?src=jack20220723@gmail.com&ctz=Asia/Shanghai&mode=WEEK&wkst=2)
-[![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
 
 [![Chinese](https://img.shields.io/badge/中文-Chinese%20(Mandarin)-EC585D?style=for-the-badge)](https://www.reddit.com/r/ChineseLanguage/comments/dr4i2n/comment/f6ewc34/?utm_source=share&utm_medium=web2x&context=3)
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
