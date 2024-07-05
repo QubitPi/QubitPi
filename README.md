@@ -194,7 +194,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
   - **Llama2**: [llama.cpp](https://github.com/QubitPi/llama.cpp) | [Llama on Android/iPhone](https://qubitpi.github.io/mlc-llm/)
   - **Chinese LLM**: [Chinese-Mixtral](https://github.com/QubitPi/Chinese-Mixtral) | [Llama2-Chinese](https://github.com/QubitPi/Llama2-Chinese) | [Chinese-LLaMA-Alpaca-2](https://github.com/QubitPi/Chinese-LLaMA-Alpaca-2)
   - **[浙江大学 LLM 生态体系](http://knowlm.zjukg.cn/)**: [KnowLM](https://github.com/QubitPi/KnowLM?tab=readme-ov-file#-whats-the-knowlm) | [DeepKE](https://github.com/QubitPi/DeepKE) | [NeuralKG](https://github.com/QubitPi/NeuralKG) | [OpenUE](https://github.com/QubitPi/OpenUE) | [EasyInstruct](https://github.com/QubitPi/EasyInstruct) | [EasyEdit](https://github.com/QubitPi/EasyEdit)
-  - LLM Reasoning: [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/) | [LLM Reasoning](https://qubitpi.github.io/llm-reasoners/)
+  - LLM Reasoning: [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/)
 
 ### DevOps <sup>![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square) ![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
