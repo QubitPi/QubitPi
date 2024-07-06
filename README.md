@@ -151,8 +151,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![vs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/vs)
 [![packer-plugin-scaffolding](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/packer-plugin-scaffolding)
+[![vs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=vs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/vs)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
