@@ -45,7 +45,7 @@ What I learned from 4 years of College Physics is an idea that the answer to que
 
 - _Why can't we go back and change history even with a time machine?_ Because [2 secods is just going to be longer than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity)
 - _What drives an investor's $10 million found for this starup?_ Because they know why the founder chose to begin this adventure
-- _How does this smile-all-the-time guy burst into tears suddenly after people are just joking "you are just a lier, you sly dog"?_ Because they felt their parents don't love them so they were make to believe they were bad kid since childhood
+- _How does this smile-all-the-time guy burst into tears suddenly after people are just joking "you are just a lier, you sly dog"?_ Because they felt their parents don't love them which made them believe they were just bad kids since childhood
 
 What I found the most complicated system is __human__. The simpliest and the most truthful nature deep in the mind of every soul and heart is my strongest drive to explore this world of subconciousness that can be most effectively interpreted by the data of __Our Langauge__
 
