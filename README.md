@@ -41,6 +41,14 @@
 
 I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications, because it is a career that converges all of my consuming interests: __Big Data Analytics__, __Natural Language Processing (NLP)__, and __the curiosity of exploring complex systems__ <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Goal%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+What I learned from 4 years of Colledge Physics is an idea that the answer of questions around all __complex__ systems always come in __the most straightforward and self-evident__ form:
+
+- _Why can't we go back and change world history even with a time machine?_ Because [2 secods is just going to be longer than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity)
+- _What drives an investor's $10 million found for this starup?_ Because they know why the founder chose to begin this adventure
+- _How does this smile-all-the-time guy burst into tears suddenly after people are just joking "you are just a lier, you sly dog"?_ Because they felt their parents don't love them so they were make to believe they were bad kid since childhood
+
+What I found the most complicated system is __human__. The simpliest and the most truthful nature deep in the mind of every soul and heart is my strongest drive to explore this world of subconciousness that can be most effectively interpreted by the data of __Our Langauge__
+
 <div align="center">
 
 <h1>
