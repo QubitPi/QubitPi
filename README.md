@@ -47,7 +47,7 @@ What I learned from 4 years of College Physics is an idea that the answer to que
 - _What drives an investor's $10 million found for this starup?_ Because they know why the founder chose to begin this adventure
 - _How does this smile-all-the-time guy burst into tears suddenly after people are just joking "you are just a lier, you sly dog"?_ Because they felt their parents don't love them which made them believe they were just bad kids since childhood
 
-What I found the most complicated system is __human__. The simpliest and the most truthful nature deep in the mind of every soul and heart is my strongest drive to explore this world of subconciousness that can be most effectively interpreted by the data of __Our Langauge__
+What I found the most complicated system is __human__. Learning the simpliest and the most truthful nature deep in the mind of every complicated soul and heart is my strongest drive to explore this world of subconciousness that can be most effectively interpreted by the __Data Our Langauge - NLP technologies__
 
 <div align="center">
 
