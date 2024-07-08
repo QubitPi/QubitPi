@@ -43,7 +43,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 What I learned from 4 years of College Physics is an idea that the answer to questions around all __complex__ systems always come in __the most straightforward and self-evident__ form:
 
-- _Why can't we go back and change history even with a time machine?_ Because [we can't make 2 secods shorter than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity), which breaks the basic Physical principle of Simultaneity
+- _Why can't we go back in time and change world history even with a time machine?_ Because [we can't make 2 secods shorter than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity), which breaks the basic Physical principle of Simultaneity
 - _What drives an investor's $10 million found for this starup?_ Because they know why the founder chose to begin this adventure
 - _How does this smile-all-the-time guy burst into tears suddenly after people are just joking "you are just a lier, you sly dog"?_ Because they felt their parents don't love them which made them believe they were just bad kids since childhood
 
