@@ -238,7 +238,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [![](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/)
 - [Sentry Documentation](https://qubitpi.github.io/sentry-docs/) | [Sentry Developer Documentation](https://qubitpi.github.io/sentry-develop/)
 - [DockOvpn](https://dockovpn.qubitpi.org/) | [mieru](https://github.com/QubitPi/mieru) | [Upptime](https://qubitpi.github.io/upptime.js.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/)
-- <details><summary>VirtualBox</summary>
+- <details><summary><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></summary>
 
   - Start VM from command line
 
