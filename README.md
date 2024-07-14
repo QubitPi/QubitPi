@@ -130,7 +130,6 @@ React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-s
 
 </div>
 
-[![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://nexusgraph.qubitpi.org)
 [![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 
 Contributor
