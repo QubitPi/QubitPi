@@ -151,9 +151,9 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![packer-plugin-paion-data](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=packer-plugin-paion-data&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/packer-plugin-paion-data)
 [![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/maven-central-release-action)
 [![immutable-infrastructure-as-a-service](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=immutable-infrastructure-as-a-service&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/immutable-infrastructure-as-a-service)
+[![packer-plugin-paion-data](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=packer-plugin-paion-data&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/packer-plugin-paion-data)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
