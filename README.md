@@ -41,7 +41,7 @@
 
 I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications, because it is a career that converges all of my consuming interests: __Big Data Analytics__, __Natural Language Processing (NLP)__, and __the curiosity of exploring complex systems__ <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Goal%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-What I learned from 4 years of College Physics is an idea that the answer to questions around all __complex__ systems always come in __the most straightforward and self-evident__ form:
+What I learned from 4 years of College Physics is an idea that the answer to questions around all __complex__ systems always come down in __the most straightforward and self-evident__ form:
 
 - _Why can't we go back in time and change world history even with a time machine?_ Because [we can't make 2 secods shorter than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity), which breaks the basic Physical principle of Simultaneity
 - _What drives an investor's $10 million found for this starup?_ Because they know why the founder chose to begin this adventure
