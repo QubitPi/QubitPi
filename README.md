@@ -13,8 +13,8 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1771839550)
 [![](https://img.shields.io/badge/原神-角色配队-18A2FF?labelColor=4765DF&style=for-the-badge&logo=nintendoswitch)](https://enka.network/u/MyGenshinTeams/312Vco)
 
-[![](https://img.shields.io/badge/Tarot%20Journaling-00B0EA?style=for-the-badge&logo=livejournal&logoColor=white)](https://trello.com/b/eB2miz73/tarot-daily-reading-2024)
-[![](https://img.shields.io/badge/General%20Relativity-FF6C00?&style=for-the-badge&logo=gitbook&logoColor=white)](http://relativity.qubitpi.org/study-notes.pdf)
+[![Tarot](https://img.shields.io/badge/Tarot%20Journaling-00B0EA?style=for-the-badge&logo=livejournal&logoColor=white)](https://trello.com/b/eB2miz73/tarot-daily-reading-2024)
+[![General Relativity](https://img.shields.io/badge/General%20Relativity-FF6C00?&style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/QubitPi/general-relativity)
 [![My Awesome List](https://img.shields.io/badge/My%20Awesome%20List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.qubitpi.org/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
