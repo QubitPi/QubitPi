@@ -45,7 +45,7 @@ What I learned from 4 years of College Physics is an idea that the answer to que
 
 - _Why can't we go back in time and change world history even with a time machine?_ Because [we can't make 2 secods shorter than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity), which breaks the basic Physical principle of Simultaneity
 - _What drives an investor's $200 million found for this starup?_ Because they know why the founder chose to begin this adventure
-- _"How did you master Physics like a genious?"_ [Einstein: "I have no special talents. I am only passionately curious](https://www.goodreads.com/quotes/11458-i-have-no-special-talents-i-am-only-passionately-curious)"[^1] (plus I do inherited a ridiculously hight IQ from god, sorry folks)"
+- _"How did you master Physics like a genious?"_ [Einstein: "I have no special talents. I am only passionately curious"](https://www.goodreads.com/quotes/11458-i-have-no-special-talents-i-am-only-passionately-curious)[^1] (plus __I do inherited a ridiculously hight IQ from god__, sorry folks)"
 
 [^1]: This a rational humblebragging but a rationally subconscious truth
 
