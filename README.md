@@ -49,7 +49,7 @@ What I learned from 4 years of College Physics is an idea that the answer to que
 
 [^1]: This a rational humblebragging but a rationally subconscious truth
 
-What I found [the most complicated system is __human__](https://leadership.qubitpi.org/posts/kant-view-of-mind-and-consciousness/). Learning the simpliest and the most truthful nature deep in the mind of every complicated soul and heart is my strongest drive to explore this world of invisible subconciousness that can be most effectively revealed by the __Data of Our Langauge - [NLP technologies](https://huggingface.co/QubitPi)__
+What I found the most complicated system is [__human__](https://leadership.qubitpi.org/posts/kant-view-of-mind-and-consciousness/). Learning the simpliest and the most truthful nature deep in the mind of every complicated soul and heart is my strongest drive to explore this world of invisible subconciousness that can be most effectively revealed by the __Data of Our Langauge - [NLP technologies](https://huggingface.co/QubitPi)__
 
 <div align="center">
 
