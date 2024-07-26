@@ -207,7 +207,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
   - **[浙江大学 LLM 生态体系](http://knowlm.zjukg.cn/)**: [KnowLM](https://github.com/QubitPi/KnowLM?tab=readme-ov-file#-whats-the-knowlm) | [DeepKE](https://github.com/QubitPi/DeepKE) | [NeuralKG](https://github.com/QubitPi/NeuralKG) | [OpenUE](https://github.com/QubitPi/OpenUE) | [EasyInstruct](https://github.com/QubitPi/EasyInstruct) | [EasyEdit](https://github.com/QubitPi/EasyEdit)
   - LLM Reasoning: [world models](https://qubitpi.github.io/worldmodels.github.io/) | [LangChain](https://qubitpi.github.io/langchain/)
 
-### DevOps <sup>![](https://img.shields.io/badge/NO-Jenkins-red?style=flat-square) ![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
+### DevOps <sup>![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
 [![](https://img.shields.io/badge/Immutable%20Infrastructure-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)](https://qubitpi.gitbook.io/learn-cantrill-io-labs) [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://qubitpi.github.io/100-go-mistakes/) ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
