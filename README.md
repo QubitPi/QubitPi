@@ -344,11 +344,11 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 #### [Moth Radio](https://themoth.org/radio-hour)
 
 <!-- MOTH:START -->
+- [The Moth Radio Hour: Everything&#39;s Bigger in Texas](https://play.prx.org/listen?ge=prx_24_51a15786-9545-4923-a518-56859f8e0908&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Radio Hour: Second Acts](https://play.prx.org/listen?ge=prx_24_5faa4bbf-3634-404c-85fb-85287591a408&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Podcast: Moon Landing Anniversary](https://play.prx.org/listen?ge=prx_24_d141be61-6897-4cb0-8b25-0e1266a11433&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Radio Hour: Voicing Tough Truths](https://play.prx.org/listen?ge=prx_24_3ae44f04-f3d2-42ae-8c21-d2fda3a5a81f&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [Special Announcement: The Moth&#39;s Mainstage Tour Dates!](https://play.prx.org/listen?ge=prx_24_629fd4d2-4fa4-4834-a062-a43b3d2d7cdc&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Radio Hour: All About Time](https://play.prx.org/listen?ge=prx_24_0a2d8008-1fbb-43f3-b5b1-03c865216513&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 <!-- MOTH:END -->
 
 <div align="right">
