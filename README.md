@@ -156,8 +156,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 <!-- ACTIVE-FORKS:START -->
 [![pandas](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=pandas&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/pandas)
-[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer)
+[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
