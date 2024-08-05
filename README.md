@@ -28,6 +28,7 @@
 [![Chinese](https://img.shields.io/badge/中文-Chinese%20(Mandarin)-EC585D?style=for-the-badge)](https://www.reddit.com/r/ChineseLanguage/comments/dr4i2n/comment/f6ewc34/?utm_source=share&utm_medium=web2x&context=3)
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-English%20(US)-2E71E5?style=for-the-badge)
+![German](https://img.shields.io/badge/Deutsch-German-2E71E5?style=for-the-badge)
 [![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)](https://en.wikipedia.org/wiki/Attic_Greek)
 [![Latin](https://img.shields.io/badge/Latinum-Latin%20(Old%20&%20Classical)-178fd6?style=for-the-badge)](https://hmmlschool.org/latin/)
 [![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
