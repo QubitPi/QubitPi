@@ -14,7 +14,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/@QubitPi)
 
 [![Tarot](https://img.shields.io/badge/Tarot%20Journaling-00B0EA?style=for-the-badge&logo=livejournal&logoColor=white)](https://trello.com/b/eB2miz73/tarot-daily-reading-2024)
-[![General Relativity](https://img.shields.io/badge/General%20Relativity-FF6C00?&style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/QubitPi/general-relativity)
+[![General Relativity](https://img.shields.io/badge/💙%20General%20Relativity-FF6C00?&style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/QubitPi/general-relativity)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/QubitPi)
 [![My Awesome List](https://img.shields.io/badge/My%20Awesome%20List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.qubitpi.org/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
