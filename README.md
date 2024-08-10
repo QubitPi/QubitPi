@@ -77,7 +77,7 @@ Wherever There is Language, There is an Application for NLP
   - I have been studying ancient languages, such as [Ἑλληνική](https://en.wikipedia.org/wiki/Attic_Greek) and [𐎱𐎠𐎼𐎿](https://en.wikipedia.org/wiki/Old_Persian_cuneiform), because they are interesting, engaging, challenging, and, most of all, fun in their own right
   - I have been facinated by how just a single alphabet along with interestingly rigorous syntax rules allows us to live through an endlessly fabulous 5000 years of human history
 
-__I believe in the power of language. Inspring people to see truth that inspires them by analyzing the language around them is why I get out of bed every day. This greatest invention in human history that, once being integrated by NLP, shall advance the way we interact with this world__
+__I believe in the power of language. Inspring people to see the truth that inspires them by analyzing the language we use is why I get out of bed every day. This greatest invention in human history that, once being integrated by NLP, shall advance the way we interact with this world__
 
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
