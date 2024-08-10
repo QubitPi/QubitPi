@@ -51,9 +51,9 @@ What I found the most complicated system is [__human__](https://leadership.qubit
 
 <div align="center">
 
-<h1>
-Wherever There is Language, There is an Application for NLP
-</h1>
+<h2>
+I believe in the power of language. Inspring people to see the truth that inspires them by analyzing the language we use is why I get out of bed every day
+</h2>
 
 </div>
 
