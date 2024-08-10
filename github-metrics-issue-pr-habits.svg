@@ -254,8 +254,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">25</span>
-                                <div class="bar" style="height: 11.26126126126126px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">24</span>
+                                <div class="bar" style="height: 10.81081081081081px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -284,8 +284,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 4.504504504504505px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
