@@ -58,6 +58,7 @@ I believe in the power of language. Inspring people to see the truth that inspir
 </div>
 
 <div align="right">
+    <a href="https://github.com/issues?q=is%3Aissue+archived%3Afalse+user%3AQubitPi+is%3Aopen"><img align="center" src="https://img.shields.io/badge/Issue%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
 </div>
 </br>
