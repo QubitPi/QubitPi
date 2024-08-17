@@ -77,67 +77,67 @@ Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?sty
 
 <div align="center">
 
-[![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
+[![lamassu](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
 </div>
 
-[![graphgpt-docker](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graphgpt-docker&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/graphgpt-docker)
+[![graphgpt-docker](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphgpt-docker&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/graphgpt-docker)
 
 Immutble Infrastructure [![GoLand](https://img.shields.io/badge/IDE-GoLand-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=goland)](https://github.com/QubitPi/intellij-theme-ubuntu) [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------------
 
 <div align="center">
 
-[![hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://hashicorp-aws.com)
+[![hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://hashicorp-aws.com)
 
 </div>
 
-[![packer-plugin-hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashicorp-aws)
-[![terraform-provider-hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-hashicorp-aws)
-[![hashicorp-aws-github-actions](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
-[![screwdriver-cd-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
+[![packer-plugin-hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashicorp-aws)
+[![terraform-provider-hashicorp-aws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-hashicorp-aws)
+[![hashicorp-aws-github-actions](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
+[![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 
 Jersey Webservice [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------
 
 <div align="center">
 
-[![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
+[![jersey-webservice-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://qubitpi.github.io/jersey-webservice-template/)
 
 </div>
 
-[![jersey-webservice-template-jpa-data-models](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
-[![jersey-webservice-template-jpa-data-models](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
-[![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
-[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
-[![astraios](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
-[![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
+[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
+[![jersey-webservice-template-jpa-data-models](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
+[![athena](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=slateorange)](https://qubitpi.github.io/aristotle/)
+[![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://paion-data.github.io/astraios/)
+[![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
 React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=webstorm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----
 
 <div align="center">
 
-[![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
+[![react-template](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 
 </div>
 
-[![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
+[![react-3d-graph-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 
 Contributor
 -----------
 
-[![Yahoo Fili](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
-[![Yahoo Elide](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
-[![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/neo4j/neo4j-browser)
-[![screwdriver: in-a-box](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=in-a-box&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/in-a-box)
-[![screwdriver-cd/executor-docker](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=executor-docker&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/template-validator)
-[![template-validator](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=template-validator&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/executor-docker)
-[![Packer](https://github-repo-pins.vercel.app/api/pin/?username=hashicorp&repo=packer&show_owner=true&theme=dracula)](https://github.com/hashicorp/packer)
-[![docs-cypher](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=chartreuse-dark)](https://github.com/neo4j/docs-cypher)
-[![Yahoo MDBM](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=slateorange)](https://github.com/QubitPi/mdbm)
-[![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
-[![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
+[![Yahoo Fili](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
+[![Yahoo Elide](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
+[![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/neo4j/neo4j-browser)
+[![screwdriver: in-a-box](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=in-a-box&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/in-a-box)
+[![screwdriver-cd/executor-docker](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=executor-docker&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/template-validator)
+[![template-validator](https://github-readme-stats.vercel.app/api/pin/?username=screwdriver-cd&repo=template-validator&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/executor-docker)
+[![Packer](https://github-readme-stats.vercel.app/api/pin/?username=hashicorp&repo=packer&show_owner=true&theme=dracula)](https://github.com/hashicorp/packer)
+[![docs-cypher](https://github-readme-stats.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=chartreuse-dark)](https://github.com/neo4j/docs-cypher)
+[![Yahoo MDBM](https://github-readme-stats.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=slateorange)](https://github.com/QubitPi/mdbm)
+[![Apache Druid](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
+[![Particle](https://github-readme-stats.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
 Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
