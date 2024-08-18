@@ -120,10 +120,10 @@ React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-s
 <div align="center">
 
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
-[![ancient-greek-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-vocabulary&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-vocabulary)
 
 </div>
 
+[![ancient-greek-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-vocabulary&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-vocabulary)
 [![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 
 Contributor
