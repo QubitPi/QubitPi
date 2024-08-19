@@ -35,7 +35,7 @@
 [![German](https://img.shields.io/badge/Deutsch-German-2E71E5?style=for-the-badge)](https://qr.ae/p2Il5E)
 [![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)](https://github.com/QubitPi/ancient-greek-vocabulary)
 [![Latin](https://img.shields.io/badge/Latinum-Latin%20(Old%20&%20Classical)-178fd6?style=for-the-badge)](https://hmmlschool.org/latin/)
-[![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
+[![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian%20&%20Akkadian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
 
 </div>
 
