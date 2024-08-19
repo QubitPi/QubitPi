@@ -169,7 +169,7 @@ I'm interested in 4 topics of tech world:
 
 Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12/files):
 
-### Machine Learning [![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square)](https://trello.com/c/s9XKbV8q)
+### Machine Learning ![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square) ![](https://img.shields.io/badge/NO-LangChain-red?style=flat-square)
 
 <img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
 
