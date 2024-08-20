@@ -145,7 +145,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-
+[![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/elide)
 <!-- ACTIVE-FORKS:END -->
 
 <div align="center">
