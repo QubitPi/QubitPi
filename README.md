@@ -33,7 +33,7 @@
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-English%20(US)-2E71E5?style=for-the-badge)
 [![German](https://img.shields.io/badge/Deutsch-German-2E71E5?style=for-the-badge)](https://qr.ae/p2Il5E)
-[![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)](https://github.com/QubitPi/ancient-greek-vocabulary)
+![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)
 [![Latin](https://img.shields.io/badge/Latinum-Latin%20(Old%20&%20Classical)-178fd6?style=for-the-badge)](https://hmmlschool.org/latin/)
 [![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian%20&%20Akkadian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
 
@@ -123,7 +123,6 @@ React [![WebStorm](https://img.shields.io/badge/IDE-WebStorm-00CC00?style=flat-s
 
 </div>
 
-[![ancient-greek-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-vocabulary&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-vocabulary)
 [![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 
 Contributor
