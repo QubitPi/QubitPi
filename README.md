@@ -75,7 +75,7 @@ I believe in the power of language. Inspring people to see the truth that inspir
 Language
 --------
 
-[![Wilhelm](https://wilhelm.qubitpi.org/)](https://img.shields.io/badge/QubitPi-wilhelm.qubitpi.org-2E71E5?style=for-the-badge)
+[![Wilhelm](https://img.shields.io/badge/QubitPi-wilhelm.qubitpi.org-2E71E5?style=for-the-badge)](https://wilhelm.qubitpi.org/)
 
 Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode) <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 ----------------
