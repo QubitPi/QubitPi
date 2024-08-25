@@ -72,15 +72,10 @@ I believe in the power of language. Inspring people to see the truth that inspir
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 
-Language
---------
+NLP [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode) <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
+----------------
 
 [![Wilhelm](https://img.shields.io/badge/QubitPi-wilhelm.qubitpi.org-2E71E5?style=for-the-badge)](https://wilhelm.qubitpi.org/)
-
-[![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
-
-Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=pycharm)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode) <a href="https://status.qubitpi.org/"><img align="right" src="https://img.shields.io/badge/Documentation%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
-----------------
 
 <div align="center">
 
@@ -90,6 +85,7 @@ Machine Learning [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-00CC00?sty
 
 [![graphgpt-docker](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graphgpt-docker&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/graphgpt-docker)
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader)
+[![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 
 Immutble Infrastructure [![GoLand](https://img.shields.io/badge/IDE-GoLand-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=goland)](https://github.com/QubitPi/intellij-theme-ubuntu) [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-00CC00?style=flat-square&labelColor=000000&logoColor=white&logo=intellijidea)](https://github.com/QubitPi/intellij-theme-ubuntu) ![](https://img.shields.io/badge/NO-VS%20Code-red?style=flat-square&logo=visualstudiocode)
 -----------------------
