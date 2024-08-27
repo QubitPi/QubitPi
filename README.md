@@ -329,11 +329,11 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 #### [Moth Radio](https://themoth.org/radio-hour)
 
 <!-- MOTH:START -->
+- [The Moth Radio Hour: Put to the Test](https://play.prx.org/listen?ge=prx_24_ecc0cd04-4d65-4831-afce-065d8dfaf8f2&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Radio Hour: Cringeworthy](https://play.prx.org/listen?ge=prx_24_278286c8-645a-4158-8975-5c288b68b92d&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Podcast: Instrumental](https://play.prx.org/listen?ge=prx_24_eb5e993b-ed09-4f99-8782-c25436aa29f0&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Radio Hour: Not What They Seem](https://play.prx.org/listen?ge=prx_24_a275b7b2-e71a-41e8-8416-068897a14a94&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 - [The Moth Radio Hour: Confidence Game](https://play.prx.org/listen?ge=prx_24_0357f942-ba46-4fd5-8d60-4bd6b6fe1f1d&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Podcast: The Olympics with Aimee Mullins](https://play.prx.org/listen?ge=prx_24_304989e4-46e6-44e2-ba36-4e82f37fc0c6&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
 <!-- MOTH:END -->
 
 <div align="right">
