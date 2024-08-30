@@ -146,6 +146,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
+[![neo4j-docs-drivers](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-docs-drivers&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neo4j-docs-drivers)
 [![neo4j-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-java-driver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/neo4j-java-driver)
 <!-- ACTIVE-FORKS:END -->
 
