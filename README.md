@@ -52,7 +52,7 @@ What I found the most complicated system is [__human__](https://leadership.qubit
 <div align="center">
 
 <h2>
-I believe in the power of language</br>Inspring people with language that [subconsciously binds](https://trello.com/c/qfrkswaa) and inspire us is why I get out of bed every day
+I believe in the power of language</br>Inspring people with language that <a href="https://trello.com/c/qfrkswaa">subconsciously binds</a> and inspire us is why I get out of bed every day
 </h2>
 
 </div>
