@@ -31,6 +31,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logoColor=white&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Altruistic_Two6711/)
 [![Wilhelm](https://img.shields.io/badge/wilhelm.qubitpi.org-2E71E5?style=for-the-badge)](https://wilhelm.qubitpi.org/)
 [![HelloTalk](https://img.shields.io/badge/HelloTalk-0054F7?style=for-the-badge)](https://hellotalk.cn/u/QubitPi)
+[![Zhihu](https://img.shields.io/badge/Zhihu-0166FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/jack20191124)
 
 [![Chinese](https://img.shields.io/badge/中文-Chinese%20(Mandarin)-EC585D?style=for-the-badge)](https://www.reddit.com/r/ChineseLanguage/comments/dr4i2n/comment/f6ewc34/?utm_source=share&utm_medium=web2x&context=3)
 ![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
