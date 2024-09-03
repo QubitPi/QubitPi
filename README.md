@@ -27,6 +27,8 @@
 [![](https://img.shields.io/badge/模之屋-53B2F4?labelColor=4765DF&logo=nintendo3ds&style=for-the-badge)](https://www.aplaybox.com/u/359302990/collection/model)
 [![Z Library](https://img.shields.io/badge/Z--Library-Booklist-48AFD0?labelColor=8ECD51&style=for-the-badge&logo=internetarchive)](https://z-lib.io/booklists/31275)
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Booklist-666666?style=for-the-badge&logo=internetarchive)](https://archive.org/details/@jiaqi_liu_/lists/1/my-books)
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logoColor=white&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Altruistic_Two6711/)
 [![Wilhelm](https://img.shields.io/badge/wilhelm.qubitpi.org-2E71E5?style=for-the-badge)](https://wilhelm.qubitpi.org/)
 [![HelloTalk](https://img.shields.io/badge/HelloTalk-0054F7?style=for-the-badge)](https://hellotalk.cn/u/QubitPi)
 
