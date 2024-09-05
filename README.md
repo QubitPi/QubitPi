@@ -95,7 +95,7 @@ Immutble Infrastructure [![GoLand](https://img.shields.io/badge/IDE-GoLand-00CC0
 
 <div align="center">
 
-[![hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws&show_owner=true&theme=dracula)](https://hashicorp-aws.com)
+[![hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashistack&show_owner=true&theme=dracula)](https://hashicorp-aws.com)
 
 </div>
 
