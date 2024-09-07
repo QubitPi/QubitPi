@@ -317,7 +317,7 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 
 ### Miscellaneous
 
-[TiddlyRoam](https://qubitpi.github.io/tiddlyroam_org/) ([template file](https://qubitpi.github.io/tiddlyroam/)) | [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Docusaurus](docusaurus.qubitpi.org/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://qubitpi.github.io/keep-a-changelog/en/1.0.0/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Gource](https://qubitpi.github.io/Gource/) | [Turing machine visualizer](https://qubitpi.github.io/turing-machine-viz/)
+[TiddlyRoam](https://qubitpi.github.io/tiddlyroam_org/) ([template file](https://qubitpi.github.io/tiddlyroam/)) | [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Docusaurus](docusaurus.qubitpi.org/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Gource](https://qubitpi.github.io/Gource/) | [Turing machine visualizer](https://qubitpi.github.io/turing-machine-viz/)
 
 - Anki: [Anki's manual](https://qubitpi.github.io/anki-manual/) | [AnkiMobile Manual](https://qubitpi.github.io/ankimobile-docs/)
 
