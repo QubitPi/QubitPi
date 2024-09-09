@@ -11,8 +11,8 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
-NLP 
----
+Natural Language Processing (NLP) 
+---------------------------------
 
 [![Wilhelm](https://img.shields.io/badge/QubitPi-wilhelmlang.com-2E71E5?style=for-the-badge)](https://wilhelmlang.com/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
