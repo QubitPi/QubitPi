@@ -60,7 +60,7 @@ React
 [![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 
-- **[React](https://qubitpi.github.io/react.dev/)** [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) 
+- **[React](https://qubitpi.github.io/react.dev/)** [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](docusaurus.qubitpi.org/)
 ---
 
 ### Frontend | [Platform 9¾](https://harrypotter.fandom.com/wiki/Platform_Nine_and_Three-Quarters) | Backend
@@ -139,7 +139,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 ### Miscellaneous
 
-[TiddlyRoam](https://qubitpi.github.io/tiddlyroam_org/) ([template file](https://qubitpi.github.io/tiddlyroam/)) | [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Docusaurus](docusaurus.qubitpi.org/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Google Engineering Practices Documentation](https://qubitpi.github.io/google-eng-practices/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) | [Studying Agile](https://qubitpi.github.io/QubitPi/agile/) | [KTX2 File Command Line Utility](https://qubitpi.github.io/KTX-Software/) | [Gource](https://qubitpi.github.io/Gource/) | [Turing machine visualizer](https://qubitpi.github.io/turing-machine-viz/)
+[TiddlyRoam](https://qubitpi.github.io/tiddlyroam_org/) ([template file](https://qubitpi.github.io/tiddlyroam/)) | [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) 
 
 - Anki: [Anki's manual](https://qubitpi.github.io/anki-manual/) | [AnkiMobile Manual](https://qubitpi.github.io/ankimobile-docs/)
 
