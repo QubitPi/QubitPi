@@ -31,9 +31,14 @@ Natural Language Processing (NLP)
 DevOps
 ------
 
+[![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
+
+
 <div align="center">
 
 [![hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashistack&show_owner=true&theme=dracula)](https://hashistack.org)
+[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
 
 </div>
 
@@ -42,10 +47,10 @@ DevOps
 [![terraform-provider-hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-hashicorp-aws)
 [![hashicorp-aws-github-actions](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
 
-- [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure) [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
+-  [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault)
 
-- [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
-- [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/) [Ubuntu Server](https://ubuntu-server.qubitpi.org/)
+-  [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/)
+-  [Ubuntu Server](https://ubuntu-server.qubitpi.org/)
 - [![](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/) | [Docker](https://docker.qubitpi.org/) | [CNCF Distribution](https://distribution.qubitpi.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/) | [LinuxServer.io](https://linuxserver.qubitpi.org/) | [LinuxServer Documentations](https://linuxserver-docs.qubitpi.org/)
 - <details><summary><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></summary>
 
