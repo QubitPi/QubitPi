@@ -30,9 +30,6 @@ NLP
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader)
 [![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
-
 - [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
 - ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
 - **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
