@@ -41,7 +41,7 @@ DevOps
 
 </div>
 
-[![packer-plugin-hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashicorp-aws)
+[![packer-plugin-hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashistack&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashistack)
 [![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
 [![terraform-provider-hashicorp-aws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-hashicorp-aws&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-hashicorp-aws)
 [![hashicorp-aws-github-actions](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
