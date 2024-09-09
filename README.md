@@ -90,8 +90,6 @@ Jersey Webservice
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://athena.qubitpi.org/)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
-![](https://img.shields.io/badge/JERSEY-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors) ![Java Version Badge is Missing](https://img.shields.io/badge/Java-17-brightgreen?style=for-the-badge&logo=OpenJDK&logoColor=white)
-
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
 
   - [Jakarta RESTful Web Services 3.1 Specification](https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.html) ([PDF](https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.pdf))
