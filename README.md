@@ -61,23 +61,9 @@ React
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 
 - **[React](https://qubitpi.github.io/react.dev/)** [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](docusaurus.qubitpi.org/)
----
 
-### Frontend | [Platform 9¾](https://harrypotter.fandom.com/wiki/Platform_Nine_and_Three-Quarters) | Backend
-
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/) [![](https://img.shields.io/badge/JSON%20Schema-000000?style=for-the-badge&logo=json&logoColor=white)](https://qubitpi.github.io/json-schema-website/) [![](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/) [![Federated Architecture](https://img.shields.io/badge/Federated%20Architecture-8059D5?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=white)](https://graphql.com/learn/federated-architecture/)
-
-> [!NOTE]  
-> In my architectural view, not only do BE & FE not couple with each other, but also they do not even KNOW the existence of each other. They sit in two [different universes](https://en.wikipedia.org/wiki/Multiverse). The two universes are completely disjoint and nothing that happens in any one of them is causally linked to what happens in any other one. They are only aware of a "boundary" defined by [GraphQL](https://graphql.org/) or, if not possible, [OpenAPI](https://www.openapis.org/)
-
-- GraphQL: [GraphQL](https://qubitpi.github.io/graphql.github.io/) | [GraphQL Specification](https://qubitpi.github.io/graphql-spec/draft/) | [GraphQL Java](https://graphql-java.qubitpi.org/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/) | [Apollo GraphQL](https://apollographql.qubitpi.org/) | [Apollo GraphQL Client (React)](https://apollographql.qubitpi.org/react/)
-- [JSON Schema](https://qubitpi.github.io/json-schema-website/)
-- OpenAPI: [The OpenAPI Specification](https://qubitpi.github.io/OpenAPI-Specification/) | [Learn OpenAPI](https://qubitpi.github.io/learn.openapis.org/) | [OpenAPI Tooling](https://qubitpi.github.io/OpenAPI-Tooling/) | [OpenAPI Map](https://qubitpi.github.io/openapi-map/)
-
----
-
-Jersey Webservice
------------------
+Webservice
+----------
 
 <div align="center">
 
@@ -100,6 +86,9 @@ Jersey Webservice
 
   - Specification [HTML](https://jpa.qubitpi.org/latest/draft.html)/[PDF](https://jpa.qubitpi.org/latest/draft.pdf)
   - [API](https://jpa.qubitpi.org/latest/api/jakarta.persistence/module-summary.html)
+
+[GraphQL Java](https://graphql-java.qubitpi.org/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/)
+
 
 - **Webservice** [JSR-330 Dependency Injection standard](https://qubitpi.github.io/javax-inject/) ([Javadocs](https://qubitpi.github.io/javax-inject/api)) | [Jersey](https://qubitpi.github.io/jersey/) | [GlassFish HK2](https://qubitpi.github.io/glassfish-hk2/) | [Jetty](https://qubitpi.github.io/jetty.project/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Cucumber](https://cucumber.qubitpi.org/) | [Owner Configuration Library](https://owner.qubitpi.org/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [JaCoCo](https://qubitpi.github.io/jacoco.github.io/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) | [RxJava](https://qubitpi.github.io/RxJava/3.x/javadoc/) | [JSON:API](https://qubitpi.github.io/json-api/) | [Querydsl](https://qubitpi.github.io/querydsl.github.io/) | [FastAPI](https://fastapi.qubitpi.org/)
   - **Hibernate ORM** [Introduction](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/html_single/Hibernate_Introduction.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/pdf/Hibernate_Introduction.pdf)) | [Quickstart](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/html_single/) | [User Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/userguide/html_single/Hibernate_User_Guide.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/pdf/index.pdf)) | [Hibernate Query Language (HQL)](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/html_single/Hibernate_Query_Language.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/pdf/Hibernate_Query_Language.pdf)) | [Integration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/integrationguide/html_single/Hibernate_Integration_Guide.html) | [Javadocs](https://qubitpi.github.io/hibernate-orm/javadocs/) | [Topical Guides](https://qubitpi.github.io/hibernate-orm/asciidoc/topical/html_single/) | [Logging](https://qubitpi.github.io/hibernate-orm/asciidoc/logging/logging.html) | [Dialects](https://qubitpi.github.io/hibernate-orm/asciidoc/dialect/dialect.html) | [Migration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/migration-guide/migration-guide.html)
