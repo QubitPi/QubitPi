@@ -139,8 +139,6 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 
 ### Miscellaneous
 
-[TiddlyRoam](https://qubitpi.github.io/tiddlyroam_org/) ([template file](https://qubitpi.github.io/tiddlyroam/)) | [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) 
-
-- Anki: [Anki's manual](https://qubitpi.github.io/anki-manual/) | [AnkiMobile Manual](https://qubitpi.github.io/ankimobile-docs/)
+[Write the Docs](https://qubitpi.github.io/writethedocs/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) 
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
