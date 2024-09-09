@@ -95,25 +95,6 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 [![owner](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/owner)
 <!-- ACTIVE-FORKS:END -->
 
-<div align="center">
-
-<h2>No Matter How Far I Go Beyond<br>I Shall Never Leave Behind Studying Technologies Everyday<br>Because She Made My Dream Possible</h2>
-
-<a href="https://www.bilibili.com/video/BV1yG411M73g"><img align="center" width="100px" src="https://github.com/QubitPi/QubitPi/assets/16126939/54ba56e7-8ae6-4dad-8951-4ffc5c89a28a" /></a>
-
-</div>
-
-<img align="right" width="30%" src="https://leetcard.jacoblin.cool/QubitPi?theme=unicorn&font=Ubuntu&ext=activity" />
-
-I'm interested in 4 topics of tech world:
-
-1. [NLP](https://github.com/QubitPi#machine-learning-) Machine Learning
-2. [Immutable Infrastructure](https://github.com/QubitPi#devops--) DevOps
-3. [React](https://github.com/QubitPi#frontend--)-based Frontend Dev with little more focus on the UI design
-4. No-Spring [Webservice](https://github.com/QubitPi#backend-) Dev
-
-Inspired by large enterpeise hosting their own private mirrors of public Maven Central, I forked documentation source codes of all technoloteis I'm interested in and publish them to GitHub Pages, which result in the following curated list. By these [forks under my account](https://github.com/QubitPi?tab=repositories&q=documentation&type=&language=&sort=), I'm writing my [tech blog](https://qubitpi.github.io/jersey-guide/) with thousands of helping hands around the world. In addition, I could also [add my own study notes on top of their documentations](https://github.com/QubitPi/mlflow/pull/12/files):
-
 ### Machine Learning ![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square) ![](https://img.shields.io/badge/NO-LangChain-red?style=flat-square)
 
 <img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
