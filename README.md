@@ -47,39 +47,6 @@ DevOps
 [![hashicorp-aws-github-actions](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
 
 [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/) | [Ubuntu Server](https://ubuntu-server.qubitpi.org/) | [Elastic Docs HowTo](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/) | [Docker](https://docker.qubitpi.org/) | [CNCF Distribution](https://distribution.qubitpi.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/) | [LinuxServer.io](https://linuxserver.qubitpi.org/) | [LinuxServer Documentations](https://linuxserver-docs.qubitpi.org/)
-- <details><summary><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></summary>
-
-  - Start VM from command line
-
-    ```bash
-    VBoxManage startvm <vm_name> --type headless
-    ```
-
-  - Stop virtual machine
-
-    ```bash
-    VBoxManage controlvm <vm_name> poweroff
-    ```
-
-  - [SSH into a virtual machine](https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/)
- 
-    1. To open guest machine network settings to make sure it's attached to NAT
-   
-       ![](https://averagelinuxuser.com/assets/images/posts/2022-05-21-ssh-into-virtualbox/Virtualbox-NAT.jpg)
-
-    2. Then go to _Advanced_ -> **_Port Forwarding_** and add these settings:
-
-       - The IP fields can be left empty.
-       - Name: ssh (or whatever you like)
-       - Protocol: TCP
-       - Host Port: 2222 (or any other port you like)
-       - Gust port: 22
-
-       ![](https://averagelinuxuser.com/assets/images/posts/2022-05-21-ssh-into-virtualbox/Virtualbox-port-forwarding.jpg)
-
-    3. Reboot host machine and ssh by `ssh -p 2222 virtualbox-user-name@localhost`
- 
-  </details>
 
 Jersey Webservice
 -----------------
