@@ -32,13 +32,12 @@ DevOps
 ------
 
 [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
-
+[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
 
 <div align="center">
 
 [![hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashistack&show_owner=true&theme=dracula)](https://hashistack.org)
-[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
 
 </div>
 
