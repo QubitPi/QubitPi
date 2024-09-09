@@ -27,7 +27,7 @@ Natural Language Processing (NLP)
 
 [MLflow](https://mlflow.qubitpi.org/)
 
-- [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
+- [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/)
 - ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
 - **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
