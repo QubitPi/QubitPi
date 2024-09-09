@@ -30,6 +30,21 @@ NLP
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader)
 [![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 
+<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
+
+- [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
+- ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
+- **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
+- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://mlflow.qubitpi.org/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
+- **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
+- **Tools**: [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [GQL](https://qubitpi.github.io/gql/) | [State of AI Reports](https://qubitpi.github.io/stateofai/)
+- [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/) | [conda](https://qubitpi.github.io/conda/)
+- **Knowledge Graph**: [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/) | [vs](https://vs.qubitpi.org/) | [Wikipedia Graph Canvas](https://wikipedia-graph.qubitpi.org/) | [Wikipedia Graph Search](https://qubitpi.github.io/wiki-graph/?lang=en&wordle=&query=General%20relativity)
+
+
 Immutble Infrastructure
 -----------------------
 
@@ -93,22 +108,6 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 [![keep-a-changelog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=keep-a-changelog&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/keep-a-changelog)
 [![owner](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=owner&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/owner)
 <!-- ACTIVE-FORKS:END -->
-
-### Machine Learning ![](https://img.shields.io/badge/NO-NLTK-red?style=flat-square) ![](https://img.shields.io/badge/NO-LangChain-red?style=flat-square)
-
-<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
-
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
-
-- [Stanford CNN](https://qubitpi.github.io/stanford-cs231n.github.io/) | [Google JAX](https://qubitpi.github.io/google-jax/) | [Google Flax](https://google-flax.readthedocs.io/en/latest/)
-- ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
-- **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
-- [**MLOps**](https://neptune.ai/blog/best-open-source-mlops-tools): [MLflow](https://mlflow.qubitpi.org/) | [Metaflow](https://qubitpi.github.io/metaflow-docs/) | [MLReef](https://qubitpi.github.io/mlreef/)
-- **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
-- **Tools**: [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [GQL](https://qubitpi.github.io/gql/) | [State of AI Reports](https://qubitpi.github.io/stateofai/)
-- [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/) | [conda](https://qubitpi.github.io/conda/)
-- **Knowledge Graph**: [Data Visualization](https://qubitpi.github.io/data_to_viz/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [react-force-graph](https://qubitpi.github.io/react-force-graph/) | [spaCy](https://qubitpi.github.io/spaCy)  | [Stanford SNAP](https://qubitpi.github.io/snap/) | [vs](https://vs.qubitpi.org/) | [Wikipedia Graph Canvas](https://wikipedia-graph.qubitpi.org/) | [Wikipedia Graph Search](https://qubitpi.github.io/wiki-graph/?lang=en&wordle=&query=General%20relativity)
 
 ### DevOps <sup>![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
 
