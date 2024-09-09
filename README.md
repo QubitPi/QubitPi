@@ -9,23 +9,7 @@
 
 </div>
 
-> I'd like to take this moment to thank Yahoo!, my former employeer, who taught me to love Software Engineering and how to write the best-quality software. 4 years of being her employee nourished my life philosophy that the end of [Software Development in itself](https://en.wikipedia.org/wiki/Thing-in-itself) is not about money, but [**people**](https://www.bilibili.com/video/BV17D4y1t74j/), [**passion**](https://www.bilibili.com/video/BV1pC4y1g7dH), and [**love**](https://www.bilibili.com/video/BV1Kj411g7Lu/?share_source=copy_web). Thank you Yahoo! <img src="https://github.com/QubitPi/QubitPi/assets/16126939/dec0c06e-72b6-413a-b5e3-bc250673b3e6" width="50px"/>
-
-> This page is also dedicated to my mentor <a href="https://github.com/cdeszaq">Rick Jensen</a>, my life-long teacher on Software Engineering. Having been the best tech leader I've seen, he treats software design, programming, and code review as a work of art and _loves Software Engineering by_ ❤️, which is why I will <a href="https://github.com/QubitPi/java-code-review-guide-book">follow his philosophy and, with tremendous sincerity, respect him as my role model in tech world</a>
-
-I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications, because it is a career that converges all of my consuming interests: __Big Data Analytics__, __Natural Language Processing (NLP)__, and __the curiosity of exploring complex systems__ <a href="https://github.com/users/QubitPi/projects/7"><img align="center" src="https://img.shields.io/badge/Goal%20Tracking-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-What I learned from 4 years of College Physics is an idea that the answer to questions around all __complex__ systems always come down in __the most straightforward and self-evident__ form. For example, _Why can't we go back in time and change world history even with a time machine?_ Because [we can't make 2 secods shorter than 1 second](https://en.wikipedia.org/wiki/Relativity_of_simultaneity), which breaks the basic Physical principle of Simultaneity
-
-What I found the most complicated system is [__human__](https://leadership.qubitpi.org/posts/kant-view-of-mind-and-consciousness/). Uncovering the _simpliest_ and the most truthful nature deep in the mind of every _complicated_ soul and heart is my strongest drive to explore this world of invisible subconciousness that can be most effectively revealed by the __Data of Our Langauge - [NLP technologies](https://huggingface.co/QubitPi)__
-
-<div align="center">
-
-<h2>
-I believe in the power of language</br>Inspring people with language that <a href="https://trello.com/c/qfrkswaa">subconsciously binds</a> and inspire us is why I get out of bed every day
-</h2>
-
-</div>
+I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications
 
 <div align="right">
     <a href="https://en.wikipedia.org/wiki/Functional_programming"><img align="center" src="https://img.shields.io/badge/Functional%20Programming-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors" /></a>
