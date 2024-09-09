@@ -30,8 +30,6 @@ NLP
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader)
 [![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 
-<img align="right" width="30%" src="https://github.com/QubitPi/QubitPi/assets/16126939/f9d4c285-979d-40a8-b502-d6d877683c4e" />
-
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
 
