@@ -34,31 +34,3 @@ jobs:
           max_post_count: "3"
           feed_list: "https://blog.screwdriver.cd/rss"    
           template: "<li><img src='https://github.com/QubitPi/QubitPi/blob/master/img/%E5%8F%AF%E8%8E%89-53.png?raw=true' width='30px' /><a href=$url>$title</a></li>"
-
-  loeb:
-    name: Loeb Classical Library
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "New Loeb classical library publications"
-          comment_tag_name: "LOEB"
-          max_post_count: "3"
-          feed_list: "https://www.loebclassics.com/newsrss" 
-
-  moth-radio:
-    name: Moth Radio
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "QubitPi"
-          committer_email: "jack20220723@gmail.com"
-          commit_message: "Moth Radio Episodes"
-          comment_tag_name: "MOTH"
-          max_post_count: "5"
-          feed_list: "http://feeds.themoth.org/themothpodcast?_gl=1*1hoztjt*_gcl_au*NDg1OTYyODMyLjE3MjE0NDMwMDc.*_ga*ODA4MjU0ODU0LjE3MjE0NDMwMDU.*_ga_3VRQZB3V7Y*MTcyMTQ0MzAxNS4xLjAuMTcyMTQ0MzAyNy40OC4wLjA." 
