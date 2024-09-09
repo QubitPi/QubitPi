@@ -16,8 +16,6 @@
 [![My Awesome List](https://img.shields.io/badge/My%20Awesome%20List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.qubitpi.org/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 
-[![Calendar](https://img.shields.io/badge/My%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0/embed?src=jack20220723@gmail.com&ctz=Asia/Shanghai&mode=WEEK&wkst=2)
-
 [![](https://img.shields.io/badge/模之屋-53B2F4?labelColor=4765DF&logo=nintendo3ds&style=for-the-badge)](https://www.aplaybox.com/u/359302990/collection/model)
 [![Z Library](https://img.shields.io/badge/Z--Library-Booklist-48AFD0?labelColor=8ECD51&style=for-the-badge&logo=internetarchive)](https://z-lib.io/booklists/31275)
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Booklist-666666?style=for-the-badge&logo=internetarchive)](https://archive.org/details/@jiaqi_liu_/lists/1/my-books)
