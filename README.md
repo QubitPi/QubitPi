@@ -1,6 +1,5 @@
 I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum Mechanics_) and a __Master's Degree of Computer Science__ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on B2C [_Knowledge Graph_](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) applications
 
-</br>
 <div align="right">
     <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
