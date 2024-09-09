@@ -1,9 +1,3 @@
-<div align="right">
-    
-> To my dearest Mom and Grandma who teach me how to love this world with ❤️
-    
-</div> 
-
 <div align="center">
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-00AA00?style=for-the-badge)](https://huggingface.co/QubitPi)
@@ -302,21 +296,5 @@ Inspired by large enterpeise hosting their own private mirrors of public Maven C
 - [New Loebs &lpar;June 2024&rpar;](https://www.loebclassics.com/loeb/newsitem/38/new-loebs-june-2024)
 - [Recent Loebs &lpar;December 2023&rpar;](https://www.loebclassics.com/loeb/newsitem/37/recent-loebs-december-2023)
 <!-- LOEB:END -->
-
-#### [Moth Radio](https://themoth.org/radio-hour)
-
-<!-- MOTH:START -->
-- [The Moth Radio Hour: Live from Anchorage](https://play.prx.org/listen?ge=prx_24_2cc2d8bf-3272-45a5-8f24-daf01139f563&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Podcast: We&#39;re Going To Disney World!](https://play.prx.org/listen?ge=prx_24_5e292af6-5f2a-4a33-9601-ecccfb71aac8&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Radio Hour: Put to the Test](https://play.prx.org/listen?ge=prx_24_ecc0cd04-4d65-4831-afce-065d8dfaf8f2&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Radio Hour: Cringeworthy](https://play.prx.org/listen?ge=prx_24_278286c8-645a-4158-8975-5c288b68b92d&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-- [The Moth Podcast: Instrumental](https://play.prx.org/listen?ge=prx_24_eb5e993b-ed09-4f99-8782-c25436aa29f0&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast)
-<!-- MOTH:END -->
-
-<div align="right">
-    
-> 不知不觉，已经留下了这么多美丽的足迹，所以，无论未来多么凶险，我都会[一直在这条路上走下去](https://www.bilibili.com/video/BV1bT4y1k7nj)
-    
-</div> 
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
