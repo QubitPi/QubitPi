@@ -10,28 +10,9 @@
 [![Notebooks](https://img.shields.io/badge/Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter-notebooks.qubitpi.org/)
 [![Binder](https://img.shields.io/badge/Launch%20Binder-545454.svg?&style=for-the-badge&logo=data:image/png;base64,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)](https://mybinder.org/v2/gh/QubitPi/jupyter-notebooks/master?labpath=notebooks)
 
-[![Tarot](https://img.shields.io/badge/Tarot%20Journaling-00B0EA?style=for-the-badge&logo=livejournal&logoColor=white)](https://trello.com/b/eB2miz73/tarot-daily-reading-2024)
 [![General Relativity](https://img.shields.io/badge/💙%20General%20Relativity-FF6C00?&style=for-the-badge)](https://github.com/QubitPi/general-relativity)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/QubitPi)
 [![My Awesome List](https://img.shields.io/badge/My%20Awesome%20List-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.qubitpi.org/)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
-
-[![](https://img.shields.io/badge/模之屋-53B2F4?labelColor=4765DF&logo=nintendo3ds&style=for-the-badge)](https://www.aplaybox.com/u/359302990/collection/model)
-[![Z Library](https://img.shields.io/badge/Z--Library-Booklist-48AFD0?labelColor=8ECD51&style=for-the-badge&logo=internetarchive)](https://z-lib.io/booklists/31275)
-[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Booklist-666666?style=for-the-badge&logo=internetarchive)](https://archive.org/details/@jiaqi_liu_/lists/1/my-books)
-
-[![Tiger](https://img.shields.io/badge/Like-Tiger%20I%20Tanks-000000?style=for-the-badge)](https://trello.com/c/lPbJQTve)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logoColor=white&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Altruistic_Two6711/)
-[![Wilhelm](https://img.shields.io/badge/wilhelm.qubitpi.org-2E71E5?style=for-the-badge)](https://wilhelm.qubitpi.org/)
-[![HelloTalk](https://img.shields.io/badge/HelloTalk-0054F7?style=for-the-badge)](https://hellotalk.cn/u/QubitPi)
-
-[![Chinese](https://img.shields.io/badge/中文-Chinese%20(Mandarin)-EC585D?style=for-the-badge)](https://www.reddit.com/r/ChineseLanguage/comments/dr4i2n/comment/f6ewc34/?utm_source=share&utm_medium=web2x&context=3)
-![Korean](https://img.shields.io/badge/한국어-Korean-9ACD32?style=for-the-badge)
-![English](https://img.shields.io/badge/English-English%20(US)-2E71E5?style=for-the-badge)
-[![German](https://img.shields.io/badge/Deutsch-German-2E71E5?style=for-the-badge)](https://qr.ae/p2Il5E)
-![Ancient Greek](https://img.shields.io/badge/Ἑλληνική-Ancient%20Greek%20(Attic)-178fd6?style=for-the-badge)
-[![Latin](https://img.shields.io/badge/Latinum-Latin%20(Old%20&%20Classical)-178fd6?style=for-the-badge)](https://hmmlschool.org/latin/)
-[![Old Persian](https://img.shields.io/badge/𐎱𐎠𐎼𐎿-Old%20Persian%20&%20Akkadian-black?style=for-the-badge)](https://persian.qubitpi.org/study-notes.pdf)
 
 </div>
 
