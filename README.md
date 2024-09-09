@@ -25,14 +25,13 @@ Natural Language Processing (NLP)
 [![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
-[MLflow](https://mlflow.qubitpi.org/)
+[MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/)
 
 - ASR: [CMU Sphinx](https://cmusphinx.qubitpi.org/)
 - **Reinforcement Learning**: [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 - **[Hugging Face](https://huggingface.co/)**: Tokenizers [Node](https://qubitpi.github.io/huggingface-tokenizers/node/html/)/[Python](https://qubitpi.github.io/huggingface-tokenizers/python/html/) API
 - **Tools**: [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [GQL](https://qubitpi.github.io/gql/) | [State of AI Reports](https://qubitpi.github.io/stateofai/)
-- [**Python**](https://qubitpi.github.io/cpython/): [The Hitchhiker’s Guide to Python](https://qubitpi.github.io/hitchhiker-python-guide/) | [PEP's](https://qubitpi.github.io/peps/) | [conda](https://qubitpi.github.io/conda/)
-- **Knowledge Graph**: | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/)| [vs](https://vs.qubitpi.org/) | [Wikipedia Graph Canvas](https://wikipedia-graph.qubitpi.org/) | [Wikipedia Graph Search](https://qubitpi.github.io/wiki-graph/?lang=en&wordle=&query=General%20relativity)
+
 
 
 Immutble Infrastructure
