@@ -28,8 +28,8 @@ Natural Language Processing (NLP)
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
 
-Immutble Infrastructure
------------------------
+DevOps
+------
 
 <div align="center">
 
@@ -42,11 +42,7 @@ Immutble Infrastructure
 [![hashicorp-aws-github-actions](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-aws-github-actions&show_owner=true&theme=dracula)](https://github.com/QubitPi/hashicorp-aws-github-actions)
 [![screwdriver-cd-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/QubitPi/screwdriver-cd-python-sdk)
 
-### DevOps <sup>![](https://img.shields.io/badge/NO-k8s-red?style=flat-square)</sup>
-
 [![](https://img.shields.io/badge/Immutable%20Infrastructure-brightgreen?style=for-the-badge&logo=GitHub%20Sponsors)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)](https://qubitpi.gitbook.io/learn-cantrill-io-labs) [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U) [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/) [![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://qubitpi.github.io/100-go-mistakes/) ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions%20CI-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg" /></a>
 
 - [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/cloud-operating-model) [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Packer Plugin Scaffolding](https://github.com/QubitPi/hashicorp-packer-plugin-scaffolding) | [Terraform Provider Scaffolding](https://github.com/QubitPi/hashicorp-terraform-provider-scaffolding-framework)
 
