@@ -22,9 +22,7 @@ Natural Language Processing (NLP)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![graphgpt-docker](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graphgpt-docker&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/graphgpt-docker)
-[![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader)
 [![ancient-greek-reader-nlp](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader-nlp&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader-nlp)
-[![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm)
 [![wilhelm-graphdb-python](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb-python&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb-python)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
@@ -61,6 +59,8 @@ React
 
 </div>
 
+[![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
+[![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-reader)
 [![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 
