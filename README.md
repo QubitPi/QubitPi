@@ -68,7 +68,7 @@ React
 Webservice
 ----------
 
-[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](aristotle-ws.com)
+[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](https://aristotle-ws.com)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
