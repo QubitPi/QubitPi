@@ -23,7 +23,6 @@ Natural Language Processing (NLP)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
-[![graphgpt-docker](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graphgpt-docker&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/graphgpt-docker)
 [![ancient-greek-reader-nlp](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader-nlp&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader-nlp)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
