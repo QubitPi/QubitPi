@@ -23,8 +23,8 @@ Natural Language Processing (NLP)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
-[![ancient-greek-reader-nlp](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader-nlp&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader-nlp)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
+[![ancient-greek-reader-nlp](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader-nlp&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader-nlp)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
