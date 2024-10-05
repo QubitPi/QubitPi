@@ -27,9 +27,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
-
-DevOps
-------
+<h2 align="center">DevOps</h2>
 
 [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
 [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
@@ -47,8 +45,7 @@ DevOps
 
 [Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/) | [Ubuntu Server](https://ubuntu-server.qubitpi.org/) | [Elastic Docs HowTo](https://qubitpi.github.io/elastic-docs/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://qubitpi.github.io/logstash/) | [Beats](https://qubitpi.github.io/elastic-beats/) | [Docker](https://docker.qubitpi.org/) | [CNCF Distribution](https://distribution.qubitpi.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/) | [LinuxServer.io](https://linuxserver.qubitpi.org/) | [LinuxServer Documentations](https://linuxserver-docs.qubitpi.org/)
 
-React
------
+<h2 align="center">React</h2>
 
 <div align="center">
 
@@ -64,8 +61,7 @@ React
 
 - **[React](https://qubitpi.github.io/react.dev/)** [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](docusaurus.qubitpi.org/)
 
-Webservice
-----------
+<h2 align="center">Webservice</h2>
 
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](https://aristotle-ws.com)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
