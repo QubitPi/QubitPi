@@ -33,12 +33,6 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
 
-<div align="center">
-
-[![hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=hashistack&show_owner=true&theme=dracula)](https://hashistack.org)
-
-</div>
-
 [![packer-plugin-hashistack](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-hashistack&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-hashistack)
 [![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
 [![terraform-provider-scaffolding-framework](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-scaffolding-framework&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-scaffolding-framework)
@@ -47,13 +41,8 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 <h2 align="center">React</h2>
 
-<div align="center">
-
-[![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
-
-</div>
-
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
+[![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-reader)
 [![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
