@@ -34,6 +34,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
 
 [![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
+[![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
 [![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
 [![terraform-provider-scaffolding-framework](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-scaffolding-framework&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-scaffolding-framework)
 
