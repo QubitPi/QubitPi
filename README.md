@@ -63,8 +63,12 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 <h2 align="center">Webservice</h2>
 
-[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](https://aristotle-ws.com)
+[![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
+[![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
+[![jersey-webservice-template-jpa-data-models](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
+[![jersey-webservice-template-jpa-data-models-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
+[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](https://aristotle-ws.com)
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
 
