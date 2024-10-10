@@ -21,7 +21,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 
-<h2 align="center">Hugging Face Spaces for Language Learners</h2>
+<h2 align="center"><a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a></h2>
 
 [![Tiger](https://img.shields.io/badge/Hugging%20Face%20Space-tiger-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/tiger)
 [![Lamassu](https://img.shields.io/badge/Hugging%20Face%20Space-lamassu-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/lamassu)
