@@ -49,7 +49,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![ancient-greek-reader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader&show_owner=true&theme=react)](https://github.com/QubitPi/ancient-greek-reader)
-[![react-3d-graph-landing-page](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-3d-graph-landing-page&show_owner=true&theme=react)](https://qubitpi.github.io/react-3d-graph-landing-page/)
+[![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 [![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/Qubitpi/neo4j-browser)
 
