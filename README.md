@@ -27,7 +27,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![Lamassu](https://img.shields.io/badge/Hugging%20Face%20Space-lamassu-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/lamassu)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
-[![ancient-greek-reader-nlp](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=ancient-greek-reader-nlp&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/ancient-greek-reader-nlp)
+[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
