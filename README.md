@@ -24,6 +24,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 <h2 align="center"><a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a></h2>
 
 [![Tiger](https://img.shields.io/badge/Hugging%20Face%20Space-tiger-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/tiger)
+[![Aristotle](https://img.shields.io/badge/Hugging%20Face%20Space-aristotle-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/aristotle)
 [![Lamassu](https://img.shields.io/badge/Hugging%20Face%20Space-lamassu-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/lamassu)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
