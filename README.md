@@ -31,6 +31,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
+[![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/alexandria)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
