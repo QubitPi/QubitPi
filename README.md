@@ -29,8 +29,8 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![Lamassu](https://img.shields.io/badge/Hugging%20Face%20Space-lamassu-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/QubitPi/lamassu)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
-[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/VK-45.01)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
+[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/VK-45.01)
 [![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/alexandria)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
