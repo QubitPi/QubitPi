@@ -37,7 +37,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
-<h2 align="center"><a href="https://nexusgraph.com/">app.nexusgraph.com</a></h2>
+<h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
 [![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
