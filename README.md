@@ -37,6 +37,11 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
+<h2 align="center"><a href="https://nexusgraph.com/">app.nexusgraph.com</a></h2>
+
+[![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
+[![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
+
 <h2 align="center">DevOps</h2>
 
 [![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
@@ -53,8 +58,6 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 <h2 align="center">React</h2>
 
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
-[![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
-[![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 [![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/Qubitpi/neo4j-browser)
 
 - [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](https://docusaurus.qubitpi.org/)
