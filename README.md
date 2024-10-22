@@ -39,8 +39,8 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
-[![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
+[![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 
 <h2 align="center">DevOps</h2>
 
