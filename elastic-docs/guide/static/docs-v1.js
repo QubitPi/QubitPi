@@ -17863,6 +17863,7 @@ exports.get_current_page_in_version = get_current_page_in_version;
 exports.open_current = open_current;
 exports.console_regex = console_regex;
 exports.copyText = copyText;
+exports.checkServerStatus = checkServerStatus;
 exports.getCurlText = void 0;
 
 var _deps = require("./deps");
@@ -17892,9 +17893,9 @@ function open_current(pathname) {
 function console_regex() {
   // Port of
   // https://github.com/elastic/elasticsearch/blob/master/buildSrc/src/main/groovy/org/elasticsearch/gradle/doc/RestTestsFromSnippetsTask.groovy#L71-L79
-  var method = '(GET|PUT|POST|HEAD|OPTIONS|DELETE)';
+  var method = '(GET|PUT|POST|PATCH|HEAD|OPTIONS|DELETE)';
   var pathAndQuery = '([^\\n]+)';
-  var badBody = 'GET|PUT|POST|HEAD|OPTIONS|DELETE|#';
+  var badBody = 'GET|PUT|POST|PATCH|HEAD|OPTIONS|DELETE|#';
   var body = '((?:\\n(?!$badBody)[^\\n]+)+)'.replace('$badBody', badBody);
   var nonComment = '$method\\s+$pathAndQuery$body?'.replace('$method', method).replace('$pathAndQuery', pathAndQuery).replace('$body', body);
   var comment = '(#.+)';
@@ -18015,9 +18016,40 @@ var getCurlText = function getCurlText(_ref) {
   }
 
   return curlText;
-};
+}; // Checks the status of a server by sending a request to the given URL. This is
+// intended for use to check the status of the Kibana server, which may be
+// booting up or down. The function returns a promise that resolves to true if
+// the server is up and reachable, and false otherwise.
+
 
 exports.getCurlText = getCurlText;
+
+function checkServerStatus(url) {
+  var timeout = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 1000;
+  var controller = new AbortController();
+  var signal = controller.signal; // Timeout promise that rejects after a given time
+
+  var timeoutPromise = new Promise(function (_, reject) {
+    var timer = setTimeout(function () {
+      controller.abort(); // Abort the fetch request
+
+      reject(new Error('Request timed out'));
+    }, timeout);
+  });
+  var fetchPromise = fetch(url, {
+    signal: signal,
+    mode: 'no-cors'
+  }); // Race between the fetch promise and the timeout promise
+
+  return Promise.race([fetchPromise, timeoutPromise]).then(function (response) {
+    // Since mode is 'no-cors', we can't directly inspect the response.ok
+    // Assuming no network error occurred, consider it a successful check
+    return true;
+  }).catch(function (error) {
+    console.error("Console server not running or unreachable: ".concat(url));
+    return false; // Either request failed due to network issues, or it timed out
+  });
+}
 },{"./deps":"docs_js/deps.js"}],"../../../node_modules/preact/dist/preact.mjs":[function(require,module,exports) {
 "use strict";
 
@@ -20727,7 +20759,7 @@ exports.default = _default;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = exports.ConsoleWidget = exports.ConsoleForm = exports._ConsoleForm = void 0;
+exports.default = exports.ConsoleWidget = exports.TryConsoleSelector = exports.ConsoleForm = exports._TryConsoleSelector = exports._ConsoleForm = void 0;
 
 var utils = _interopRequireWildcard(require("../utils"));
 
@@ -20819,44 +20851,48 @@ function (_Component) {
         return "".concat(props.setting, "_").concat(field);
       };
 
-      return (0, _preact.h)("form", null, (0, _preact.h)("label", {
+      return (0, _preact.h)("form", null, (0, _preact.h)("p", null, (0, _preact.h)("strong", null, "Dev Tools Console settings")), (0, _preact.h)("label", {
         for: "url"
       }, props.langStrings(props.url_label)), (0, _preact.h)("input", {
         id: "url",
         type: "text",
-        value: getValueFromState("url"),
-        onInput: (0, _linkstate.default)(this, getFieldName("url"))
-      }), (0, _preact.h)("label", {
+        value: getValueFromState('url'),
+        onInput: (0, _linkstate.default)(this, getFieldName('url'))
+      }), (0, _preact.h)("p", null, "Learn more about the Dev Tools\xA0", (0, _preact.h)("a", {
+        href: "https://www.elastic.co/guide/en/kibana/current/console-kibana.html"
+      }, "Console"), "."), (0, _preact.h)("p", null, (0, _preact.h)("strong", null, "curl settings (basic auth)")), (0, _preact.h)("label", {
         for: "curl_host"
-      }, "curl ", props.langStrings('host')), (0, _preact.h)("input", {
+      }, "Elasticsearch ", props.langStrings('host')), (0, _preact.h)("input", {
         id: "curl_host",
         type: "text",
-        value: getValueFromState("curl_host"),
-        onInput: (0, _linkstate.default)(this, getFieldName("curl_host"))
+        value: getValueFromState('curl_host'),
+        onInput: (0, _linkstate.default)(this, getFieldName('curl_host'))
       }), (0, _preact.h)("label", {
         for: "curl_username"
-      }, "curl ", props.langStrings('username')), (0, _preact.h)("input", {
+      }, "Elasticsearch ", props.langStrings('username')), (0, _preact.h)("input", {
         id: "curl_username",
         type: "text",
-        value: getValueFromState("curl_user"),
-        onInput: (0, _linkstate.default)(this, getFieldName("curl_user"))
+        value: getValueFromState('curl_user'),
+        onInput: (0, _linkstate.default)(this, getFieldName('curl_user'))
       }), (0, _preact.h)("button", {
         id: "save_url",
         type: "button",
         onClick: function onClick(e) {
           return props.saveSettings(_this.state);
         }
-      }, props.langStrings("Save")), (0, _preact.h)("button", {
+      }, props.langStrings('Save')), (0, _preact.h)("button", {
         id: "reset",
         onClick: function onClick(e) {
           return _this.setState((0, _ramda.omit)(['langStrings', 'saveSettings', 'url_label', 'setting'], props));
         },
         type: "button"
-      }, "Reset"), (0, _preact.h)("p", null, props.langStrings('Or install'), props.setting === "sense_url" ? (0, _preact.h)("a", {
+      }, "Reset"), (0, _preact.h)("p", {
+        className: "console_help_text"
+      }, props.langStrings('For information on how to set up and run'), props.setting === 'sense_url' ? (0, _preact.h)("span", null, "\xA0the Sense 2 ", props.langStrings('editor'), " check\xA0", (0, _preact.h)("a", {
         href: "https://www.elastic.co/guide/en/sense/current/installing.html"
-      }, "the Sense 2 ", props.langStrings('editor')) : (0, _preact.h)("a", {
+      }, "Installing Sense")) : (0, _preact.h)("span", null, "\xA0Kibana, refer to\xA0", (0, _preact.h)("a", {
         href: "https://www.elastic.co/guide/en/kibana/master/setup.html"
-      }, "Kibana"), props.langStrings('.')));
+      }, "Set up")), props.langStrings('.')));
     }
   }]);
 
@@ -20864,19 +20900,95 @@ function (_Component) {
 }(_preact.Component);
 
 exports._ConsoleForm = _ConsoleForm;
+
+var _TryConsoleSelector =
+/*#__PURE__*/
+function (_Component2) {
+  _inherits(_TryConsoleSelector, _Component2);
+
+  function _TryConsoleSelector() {
+    _classCallCheck(this, _TryConsoleSelector);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(_TryConsoleSelector).apply(this, arguments));
+  }
+
+  _createClass(_TryConsoleSelector, [{
+    key: "componentWillMount",
+    value: function componentWillMount() {
+      var defaultVals = (0, _ramda.omit)(['langStrings', 'saveSettings', 'url_label', 'setting'], this.props);
+      this.setState(defaultVals);
+    }
+  }, {
+    key: "render",
+    value: function render(props) {
+      var handleConfigureClick = function handleConfigureClick(e) {
+        e.preventDefault();
+        props.settingsModalAction();
+      };
+
+      return (0, _preact.h)("div", {
+        className: "try_console_selector"
+      }, (0, _preact.h)("h4", null, "Try code examples in Elastic"), (0, _preact.h)("p", null, "To run code examples in your Dev Tools Console, add your Console URL to\xA0", (0, _preact.h)("a", {
+        id: "try_console_selector_configure_example_widget_button",
+        href: "#",
+        onClick: handleConfigureClick
+      }, "the settings"), "."), (0, _preact.h)("p", null, (0, _preact.h)("em", null, "New to Elastic?")), (0, _preact.h)("div", {
+        className: "try_console_new_to_elastic_buttons"
+      }, (0, _preact.h)("a", {
+        id: "try_console_selector_try_cloud_button",
+        className: "button btn-primary btn-small",
+        href: "https://cloud.elastic.co/registration",
+        target: "_blank"
+      }, "Start free Cloud trial"), (0, _preact.h)("p", null, (0, _preact.h)("a", {
+        href: "https://www.elastic.co/guide/en/elasticsearch/reference/current/run-elasticsearch-locally.html",
+        target: "_blank"
+      }, "Install locally"))));
+    }
+  }]);
+
+  return _TryConsoleSelector;
+}(_preact.Component);
+
+exports._TryConsoleSelector = _TryConsoleSelector;
 var ConsoleForm = (0, _preactRedux.connect)(function (state, props) {
   return (0, _ramda.pick)(["langStrings", "".concat(props.setting, "_url"), "".concat(props.setting, "_curl_host"), "".concat(props.setting, "_curl_user"), "".concat(props.setting, "_curl_password")], state.settings);
 }, {
   saveSettings: _settings.saveSettings
-})(_ConsoleForm); // ConsoleWidget isn't quite the right name for this any more....
-
+})(_ConsoleForm);
 exports.ConsoleForm = ConsoleForm;
+var TryConsoleSelector = (0, _preactRedux.connect)(function (state, props) {
+  return (0, _ramda.pick)(["langStrings", "".concat(props.setting, "_url"), "".concat(props.setting, "_curl_host"), "".concat(props.setting, "_curl_user"), "".concat(props.setting, "_curl_password")], state.settings);
+}, {
+  saveSettings: _settings.saveSettings
+})(_TryConsoleSelector); // ConsoleWidget isn't quite the right name for this any more....
+
+exports.TryConsoleSelector = TryConsoleSelector;
 
 var ConsoleWidget = function ConsoleWidget(props) {
-  var modalAction = function modalAction() {
+  var settingsModalAction = function settingsModalAction() {
     return props.openModal(ConsoleForm, {
       setting: props.setting,
       url_label: props.url_label
+    });
+  };
+
+  var openConsoleModal = function openConsoleModal() {
+    return props.openModal(TryConsoleSelector, {
+      settingsModalAction: settingsModalAction
+    });
+  };
+
+  var consoleModalAction = function consoleModalAction(e) {
+    e.preventDefault();
+    var target = e.target;
+    utils.checkServerStatus(target.href).then(function (isUp) {
+      if (isUp) {
+        window.open(target.href);
+      } else {
+        openConsoleModal();
+      }
+    }).catch(function (_) {
+      openConsoleModal();
     });
   };
 
@@ -20899,11 +21011,14 @@ var ConsoleWidget = function ConsoleWidget(props) {
   }, props.langStrings('Copy as curl')), props.view_in_text && (0, _preact.h)("a", {
     className: "view_in_link",
     target: "console",
+    onClick: function onClick(e) {
+      return consoleModalAction(e);
+    },
     title: props.langStrings(props.view_in_text),
     href: "".concat(props[props.setting + "_url"], "?load_from=").concat(props.baseUrl).concat(props.snippet)
   }, props.langStrings(props.view_in_text)), (0, _preact.h)("a", {
     className: "console_settings",
-    onClick: modalAction,
+    onClick: settingsModalAction,
     title: props.langStrings(props.configure_text)
   }, "\xA0")));
 };
@@ -20919,7 +21034,392 @@ var _default = (0, _preactRedux.connect)(function (state, props) {
 })(ConsoleWidget);
 
 exports.default = _default;
-},{"../utils":"docs_js/utils.js","../../../../../node_modules/ramda":"../../../node_modules/ramda/es/index.js","../../../../../node_modules/preact":"../../../node_modules/preact/dist/preact.mjs","../../../../../node_modules/linkstate":"../../../node_modules/linkstate/dist/linkstate.es.js","../../../../../node_modules/preact-redux":"../../../node_modules/preact-redux/dist/preact-redux.esm.js","../actions/modal":"docs_js/actions/modal.js","../actions/settings":"docs_js/actions/settings.js","./alternative_picker":"docs_js/components/alternative_picker.jsx"}],"docs_js/components/modal.js":[function(require,module,exports) {
+},{"../utils":"docs_js/utils.js","../../../../../node_modules/ramda":"../../../node_modules/ramda/es/index.js","../../../../../node_modules/preact":"../../../node_modules/preact/dist/preact.mjs","../../../../../node_modules/linkstate":"../../../node_modules/linkstate/dist/linkstate.es.js","../../../../../node_modules/preact-redux":"../../../node_modules/preact-redux/dist/preact-redux.esm.js","../actions/modal":"docs_js/actions/modal.js","../actions/settings":"docs_js/actions/settings.js","./alternative_picker":"docs_js/components/alternative_picker.jsx"}],"docs_js/components/feedback_modal.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _preact = require("../../../../../../node_modules/preact");
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var FEEDBACK_URL = 'https://docs.elastic.co/api/feedback';
+var MAX_COMMENT_LENGTH = 1000;
+
+var FeedbackModal =
+/*#__PURE__*/
+function (_Component) {
+  _inherits(FeedbackModal, _Component);
+
+  function FeedbackModal(props) {
+    var _this;
+
+    _classCallCheck(this, FeedbackModal);
+
+    _this = _possibleConstructorReturn(this, _getPrototypeOf(FeedbackModal).call(this, props));
+    _this.state = {
+      comment: '',
+      modalClosed: false,
+      isLoading: false,
+      hasError: false
+    };
+    _this.onEscape = _this.onEscape.bind(_assertThisInitialized(_this));
+    _this.resetState = _this.resetState.bind(_assertThisInitialized(_this));
+    _this.submitFeedback = _this.submitFeedback.bind(_assertThisInitialized(_this));
+    return _this;
+  }
+
+  _createClass(FeedbackModal, [{
+    key: "onEscape",
+    value: function onEscape(event) {
+      if (event.key === 'Escape') {
+        this.resetState();
+      }
+    }
+  }, {
+    key: "resetState",
+    value: function resetState() {
+      this.setState({
+        modalClosed: true
+      });
+      document.querySelectorAll('.isPressed').forEach(function (el) {
+        el.classList.remove('isPressed');
+      });
+    }
+  }, {
+    key: "submitFeedback",
+    value: function submitFeedback() {
+      var _this2 = this;
+
+      this.setState({
+        isLoading: true
+      });
+      fetch(FEEDBACK_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          comment: this.state.comment,
+          feedback: this.props.isLiked ? 'liked' : 'disliked',
+          url: window.location.href
+        })
+      }).then(function (response) {
+        return response.json();
+      }).then(function () {
+        _this2.setState({
+          modalClosed: true
+        });
+
+        document.getElementById('feedbackSuccess').classList.remove('hidden');
+        document.querySelectorAll('.feedbackButton').forEach(function (el) {
+          el.disabled = true;
+        });
+      }).catch(function (error) {
+        _this2.setState({
+          isLoading: false,
+          hasError: true
+        });
+
+        console.error('Error:', error);
+      });
+    }
+  }, {
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      document.addEventListener('keydown', this.onEscape, false);
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      document.removeEventListener('keydown', this.onEscape, false);
+    }
+  }, {
+    key: "render",
+    value: function render(props, state) {
+      var _this3 = this;
+
+      var isLiked = props.isLiked;
+      var modalClosed = state.modalClosed,
+          isLoading = state.isLoading,
+          hasError = state.hasError,
+          comment = state.comment;
+      var maxCommentLengthReached = comment.length > MAX_COMMENT_LENGTH;
+      var sendDisabled = isLoading || maxCommentLengthReached;
+
+      if (modalClosed) {
+        return null;
+      }
+
+      return (0, _preact.h)("div", {
+        "data-relative-to-header": "above",
+        id: "feedbackModal"
+      }, (0, _preact.h)("div", {
+        "data-focus-guard": "true",
+        tabindex: "0",
+        style: "width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"
+      }), (0, _preact.h)("div", {
+        "data-focus-lock-disabled": "false"
+      }, (0, _preact.h)("div", {
+        className: "feedbackModalContent",
+        tabindex: "0"
+      }, (0, _preact.h)("button", {
+        className: "closeIcon",
+        type: "button",
+        "aria-label": "Closes this modal window",
+        onClick: this.resetState,
+        disabled: isLoading
+      }, (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "16",
+        height: "16",
+        viewBox: "0 0 16 16",
+        role: "img",
+        "data-icon-type": "cross",
+        "data-is-loaded": "true",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M7.293 8 3.146 3.854a.5.5 0 1 1 .708-.708L8 7.293l4.146-4.147a.5.5 0 0 1 .708.708L8.707 8l4.147 4.146a.5.5 0 0 1-.708.708L8 8.707l-4.146 4.147a.5.5 0 0 1-.708-.708L7.293 8Z"
+      }))), (0, _preact.h)("div", {
+        className: "feedbackModalHeader"
+      }, (0, _preact.h)("h2", null, "Send us your feedback")), (0, _preact.h)("div", {
+        className: "feedbackModalBody"
+      }, (0, _preact.h)("div", {
+        className: "feedbackModalBodyOverflow"
+      }, (0, _preact.h)("div", null, "Thank you for helping us improve Elastic documentation."), (0, _preact.h)("div", {
+        className: "spacer"
+      }), (0, _preact.h)("div", {
+        className: "feedbackForm"
+      }, (0, _preact.h)("div", {
+        className: "feedbackFormRow"
+      }, (0, _preact.h)("div", {
+        className: "feedbackFormRow__labelWrapper"
+      }, (0, _preact.h)("label", {
+        className: "feedbackFormLabel",
+        id: "feedbackLabel",
+        for: "feedbackComment"
+      }, "Additional comment (optional)")), (0, _preact.h)("div", {
+        className: "feedbackFormRow__fieldWrapper"
+      }, (0, _preact.h)("div", {
+        className: "feedbackFormControlLayout"
+      }, (0, _preact.h)("div", {
+        className: "feedbackFormControlLayout__childrenWrapper"
+      }, (0, _preact.h)("textarea", {
+        className: "feedbackTextArea",
+        rows: "6",
+        id: "feedbackComment",
+        disabled: isLoading,
+        onKeyUp: function onKeyUp(e) {
+          return _this3.setState({
+            comment: e.target.value
+          });
+        }
+      }), maxCommentLengthReached && (0, _preact.h)("div", {
+        className: "feedbackFormError"
+      }, "Max comment length of ", MAX_COMMENT_LENGTH, ' ', "characters reached.", (0, _preact.h)("br", null), (0, _preact.h)("br", null), "Character count: ", comment.length), hasError && (0, _preact.h)("div", {
+        className: "feedbackFormError"
+      }, "There was a problem submitting your feedback.", (0, _preact.h)("br", null), (0, _preact.h)("br", null), "Please try again.")))))))), (0, _preact.h)("div", {
+        className: "feedbackModalFooter ".concat(isLoading ? 'loading' : '')
+      }, (0, _preact.h)("button", {
+        className: "feedbackButton cancelButton",
+        type: "button",
+        onClick: this.resetState,
+        disabled: isLoading
+      }, (0, _preact.h)("span", {
+        className: "feedbackButtonContent"
+      }, (0, _preact.h)("span", null, "Cancel"))), (0, _preact.h)("button", {
+        type: "button",
+        disabled: sendDisabled,
+        className: "feedbackButton sendButton ".concat(isLiked ? 'like' : 'dislike'),
+        onClick: this.submitFeedback
+      }, (0, _preact.h)("span", {
+        className: "loadingContent"
+      }, (0, _preact.h)("span", {
+        class: "loadingSpinner",
+        role: "progressbar",
+        "aria-label": "Loading",
+        style: "border-color: rgb(0, 119, 204) currentcolor currentcolor;"
+      }), (0, _preact.h)("span", null, "Sending...")), (0, _preact.h)("span", {
+        className: "feedbackButtonContent"
+      }, (0, _preact.h)("span", null, "Send"), (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "sendIcon like",
+        role: "img",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M9 21h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2h-6.31l.95-4.57l.03-.32c0-.41-.17-.79-.44-1.06L14.17 1L7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 10h9v2l-3 7H9V9zM1 9h4v12H1z"
+      })), (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "sendIcon dislike",
+        role: "img",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57l-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm0 12l-4.34 4.34L12 14H3v-2l3-7h9v10zm4-12h4v12h-4z"
+      }))))))), (0, _preact.h)("div", {
+        "data-focus-guard": "true",
+        tabindex: "0",
+        style: "width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"
+      }));
+    }
+  }]);
+
+  return FeedbackModal;
+}(_preact.Component);
+
+exports.default = FeedbackModal;
+},{"../../../../../../node_modules/preact":"../../../node_modules/preact/dist/preact.mjs"}],"docs_js/components/feedback_widget.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _preact = require("../../../../../../node_modules/preact");
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var FeedbackWidget =
+/*#__PURE__*/
+function (_Component) {
+  _inherits(FeedbackWidget, _Component);
+
+  function FeedbackWidget() {
+    _classCallCheck(this, FeedbackWidget);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(FeedbackWidget).apply(this, arguments));
+  }
+
+  _createClass(FeedbackWidget, [{
+    key: "render",
+    value: function render() {
+      return (0, _preact.h)("div", null, (0, _preact.h)("div", {
+        id: "feedbackWidget"
+      }, "Was this helpful?", (0, _preact.h)("span", {
+        className: "docHorizontalSpacer"
+      }), (0, _preact.h)("fieldset", {
+        className: "buttonGroup"
+      }, (0, _preact.h)("legend", {
+        className: "screenReaderOnly"
+      }, "Feedback"), (0, _preact.h)("div", {
+        className: "buttonGroup"
+      }, (0, _preact.h)("button", {
+        "aria-pressed": "false",
+        id: "feedbackLiked",
+        type: "button",
+        className: "feedbackButton feedbackLiked",
+        title: "Like"
+      }, (0, _preact.h)("span", {
+        className: "feedbackButtonContent"
+      }, (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "feedbackIcon unpressed",
+        role: "img",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M9 21h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2h-6.31l.95-4.57l.03-.32c0-.41-.17-.79-.44-1.06L14.17 1L7.58 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2zM9 9l4.34-4.34L12 10h9v2l-3 7H9V9zM1 9h4v12H1z"
+      })), (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "feedbackIcon pressed",
+        role: "img",
+        "data-is-loaded": "true",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57l.03-.32c0-.41-.17-.79-.44-1.06L14.17 1L7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"
+      })), (0, _preact.h)("span", {
+        className: "screenReaderOnly",
+        "data-text": "Like"
+      }, "Like"))), (0, _preact.h)("button", {
+        "aria-pressed": "false",
+        id: "feedbackDisliked",
+        type: "button",
+        className: "feedbackButton feedbackDisliked",
+        title: "Dislike"
+      }, (0, _preact.h)("span", {
+        className: "feedbackButtonContent"
+      }, (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "feedbackIcon unpressed",
+        role: "img",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57l-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm0 12l-4.34 4.34L12 14H3v-2l3-7h9v10zm4-12h4v12h-4z"
+      })), (0, _preact.h)("svg", {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: "24",
+        height: "24",
+        viewBox: "0 0 24 24",
+        className: "feedbackIcon pressed",
+        role: "img",
+        "data-is-loaded": "true",
+        "aria-hidden": "true"
+      }, (0, _preact.h)("path", {
+        d: "M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57l-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"
+      })), (0, _preact.h)("span", {
+        className: "screenReaderOnly",
+        "data-text": "Dislike"
+      }, "Dislike")))))), (0, _preact.h)("div", {
+        id: "feedbackSuccess",
+        className: "hidden"
+      }, "Thank you for your feedback."));
+    }
+  }]);
+
+  return FeedbackWidget;
+}(_preact.Component);
+
+exports.default = FeedbackWidget;
+},{"../../../../../../node_modules/preact":"../../../node_modules/preact/dist/preact.mjs"}],"docs_js/components/modal.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -21235,11 +21735,14 @@ var lang_spec = {
   "Default Kibana URL": {
     "zh_cn": "默认 Kibana URL"
   },
-  "Enter the URL of the Console editor": {
-    "zh_cn": "输入 Console 编辑器的 URL"
+  "Console URL": {
+    "zh_cn": "Console URL"
   },
-  "Enter the URL of the Sense editor": {
-    "zh_cn": "输入 Sense 编辑器的 URL"
+  "Sense URL": {
+    "zh_cn": "Sense URL"
+  },
+  "For information on how to set up and run": {
+    "zh_cn": "有关如何设置和运行的信息"
   },
   "Enter the URL of Kibana": {
     "zh_cn": "输入 Kibana 的 URL"
@@ -21281,8 +21784,8 @@ var lang_spec = {
   "View in Sense": {
     "zh_cn": "在 Sense 中查看"
   },
-  "View in Console": {
-    "zh_cn": "在 Console 中查看"
+  "Try in Elastic": {
+    "zh_cn": "在 Elastic 中尝试"
   },
   "curl_pw_title": {
     "en": "The password is stored in memory and will be reset after a page reload",
@@ -23171,7 +23674,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  * specific language governing permissions and limitations
  * under the License.
  */
-_prettify.default['registerLangHandler'](_prettify.default['createSimpleLexer']([[_prettify.default['PR_PLAIN'], /^[\t\n\r \xA0]+/, null, '\t\n\r \xA0'], [_prettify.default['PR_STRING'], /^(?:"(?:[^\"\\]|\\.)*")/, null, '"']], [[_prettify.default['PR_COMMENT'], /^(?:\/\/[^\r\n]*|\/\*[\s\S]*?(?:\*\/|$))/], [_prettify.default['PR_KEYWORD'], /^(?:AND|OR|BY|DISSECT|DROP|EVAL|FROM|GROK|KEEP|LIKE|LIMIT|MV_EXPAND|NOT|RENAME|RLIKE|ROW|SHOW|SORT|STATS|WHERE)(?=[^\w-]|$)/i, null], [_prettify.default['PR_LITERAL'], /^[+-]?(?:\.\d+|\d+(?:\.\d*)?)/i], [_prettify.default['PR_PLAIN'], /^[a-z_][\w-]*/i]]), ['esql']);
+_prettify.default['registerLangHandler'](_prettify.default['createSimpleLexer']([[_prettify.default['PR_PLAIN'], /^[\t\n\r \xA0]+/, null, '\t\n\r \xA0'], [_prettify.default['PR_STRING'], /^(?:"(?:[^\"\\]|\\.)*")/, null, '"']], [[_prettify.default['PR_COMMENT'], /^(?:\/\/[^\r\n]*|\/\*[\s\S]*?(?:\*\/|$))/], [_prettify.default['PR_KEYWORD'], /^(?:ABS|ACOS|AND|APPEND_SEPARATOR|AS|ASC|ASIN|ATAN|ATAN2|AUTO_BUCKET|AVG|BY|CASE|CEIL|CIDR_MATCH|COALESCE|CONCAT|COS|COSH|COUNT|COUNT_DISTINCT|DATE_DIFF|DATE_EXTRACT|DATE_FORMAT|DATE_PARSE|DATE_TRUNC|DESC|DISSECT|DROP|E|ENDS_WITH|ENRICH|EVAL|FIRST|FLOOR|FROM|GREATEST|GROK|IN|IS|IS_FINITE|IS_INFINITE|IS_NAN|IS_NOT_NULL|IS_NULL|LEFT|LENGTH|LOG|LOG10|LTRIM|MAX|MEDIAN|MEDIAN_ABSOLUTE_DEVIATION|MIN|KEEP|LAST|LEAST|LIKE|LIMIT|METADATA|MV_AVG|MV_CONCAT|MV_COUNT|MV_DEDUPE|MV_EXPAND|MV_FIRST|MV_LAST|MV_MAX|MV_MEDIAN|MV_MIN|MV_SUM|NOT|NOW|NULL|NULLS|ON|OR|PERCENTILE|PI|POW|RENAME|REPLACE|RIGHT|RLIKE|ROUND|ROW|RTRIM|SHOW|SPLIT|SIN|SINH|SORT|SQRT|ST_CENTROID|STARTS_WITH|STATS|SUBSTRING|SUM|TAN|TANH|TAU|TO_BOOL|TO_BOOLEAN|TO_CARTESIANPOINT|TO_CARTESIANSHAPE|TO_DATETIME|TO_DBL|TO_DEGREES|TO_DOUBLE|TO_DT|TO_GEOPOINT|TO_GEOSHAPE|TO_INT|TO_INTEGER|TO_IP|TO_LONG|TO_LOWER|TO_RADIANS|TO_STR|TO_STRING|TO_UL|TO_ULONG|TO_UNSIGNED_LONG|TO_UPPER|TO_VER|TO_VERSION|TRIM|WHERE|WITH)(?=[^\w-]|$)/i, null], [_prettify.default['PR_LITERAL'], /^[+-]?(?:\.\d+|\d+(?:\.\d*)?)/i], [_prettify.default['PR_PLAIN'], /^[a-z_][\w-]*/i]]), ['esql']);
 },{"./prettify":"lib/prettify/prettify.js"}],"lib/prettify/lang-sql.js":[function(require,module,exports) {
 "use strict";
 
@@ -23678,45 +24181,51 @@ var global = arguments[3];
 
 })(typeof global !== 'undefined' ? global : (typeof window !== 'undefined' ? window : this));
 
-},{}],"docs_js/index.js":[function(require,module,exports) {
+},{}],"docs_js/index-v1.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+exports.init_landing_page = init_landing_page;
 exports.init_headers = init_headers;
 exports.init_console_widgets = init_console_widgets;
+exports.init_feedback_widget = init_feedback_widget;
 exports.init_sense_widgets = init_sense_widgets;
 
-var _alternative_switcher = _interopRequireDefault(require("./components/alternative_switcher"));
+var _alternative_switcher = _interopRequireDefault(require("./components/alternative_switcher.js"));
 
-var _console_widget = _interopRequireDefault(require("./components/console_widget"));
+var _console_widget = _interopRequireDefault(require("./components/console_widget.jsx"));
 
-var _modal = _interopRequireDefault(require("./components/modal"));
+var _feedback_modal = _interopRequireDefault(require("./components/feedback_modal.jsx"));
 
-var _mount = _interopRequireDefault(require("./components/mount"));
+var _feedback_widget = _interopRequireDefault(require("./components/feedback_widget.jsx"));
 
-var _tabbed_widget = require("./components/tabbed_widget");
+var _modal = _interopRequireDefault(require("./components/modal.js"));
 
-var _deps = require("./deps");
+var _mount = _interopRequireDefault(require("./components/mount.js"));
 
-var _localization = require("./localization");
+var _tabbed_widget = require("./components/tabbed_widget.js");
 
-var _store = _interopRequireDefault(require("./store"));
+var _deps = require("./deps.js");
+
+var _localization = require("./localization.js");
+
+var _store = _interopRequireDefault(require("./store.js"));
 
 var utils = _interopRequireWildcard(require("./utils.js"));
 
-var _prettify = _interopRequireDefault(require("../lib/prettify/prettify"));
+var _prettify = _interopRequireDefault(require("../lib/prettify/prettify.js"));
 
-require("./prettify/lang-asciidoc");
+require("./prettify/lang-asciidoc.js");
 
-require("./prettify/lang-console");
+require("./prettify/lang-console.js");
 
-require("../lib/prettify/lang-esql");
+require("../lib/prettify/lang-esql.js");
 
-require("../lib/prettify/lang-sql");
+require("../lib/prettify/lang-sql.js");
 
-require("../lib/prettify/lang-yaml");
+require("../lib/prettify/lang-yaml.js");
 
 require("../../../../../node_modules/details-polyfill");
 
@@ -23732,47 +24241,69 @@ function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { va
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
-// Vocab:
+function init_landing_page() {
+  // Because of the nature of the injected links, we need to adjust the layout to
+  // Fit into two columns on the landing page.
+  // Select all top-level h3 elements within the #content div
+  (0, _deps.$)('.docs-landing div#content > h3').each(function () {
+    var $siblingDiv = (0, _deps.$)(this).next('div.ulist.itemizedlist'); // Wrap the h3 and its sibling div in a div with class docs-link-section
+
+    (0, _deps.$)(this).add($siblingDiv).wrapAll('<div class="docs-link-section"></div>');
+  }); // Select the last .docs-link-section
+
+  var $lastDocsLinkSection = (0, _deps.$)('.docs-link-section:last'); // Remove it from its current position
+
+  $lastDocsLinkSection.detach(); // Append it outside of the div#content element
+
+  $lastDocsLinkSection.addClass('legacy-docs hidden').insertAfter('div#content');
+  $lastDocsLinkSection.find('h3').append('<span class="toggle-icon">&#9660;</span>'); // Click handler to toggle visibility
+
+  $lastDocsLinkSection.find('h3').on('click', function () {
+    $lastDocsLinkSection.toggleClass('hidden');
+  }); // Move "need help" section to the bottom of the page
+
+  (0, _deps.$)('#bottomContent').insertAfter($lastDocsLinkSection).show();
+} // Vocab:
 // TOC = table of contents
 // OTP = on this page
+
+
 function init_headers(sticky_content, lang_strings) {
   // Add on-this-page block
   var this_page = (0, _deps.$)('<div id="this_page"></div>').prependTo(sticky_content);
   this_page.append('<p id="otp" class="aside-heading">' + lang_strings('On this page') + '</p>');
   var ul = (0, _deps.$)('<ul></ul>').appendTo(this_page);
-  var items = 0;
-  var baseHeadingLevel = 0;
-  (0, _deps.$)('#guide a[id]:not([href])').each(function (i, el) {
+  var items = 0; // Get all headings inside the main body of the doc
+
+  (0, _deps.$)('div#content a[id]:not([href])').each(function (i) {
     // Make headers into real links for permalinks
     this.href = '#' + this.id; // Extract on-this-page headers, without embedded links
 
-    var title_container = (0, _deps.$)(this).parent('h1,h2,h3,h4').clone();
+    var title_container = (0, _deps.$)(this).parent('h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12').clone();
 
     if (title_container.length > 0) {
       // Assume initial heading is an H1, but adjust if it's not
-      var hLevel = 0;
+      var hLevel;
 
       if ((0, _deps.$)(this).parent().is("h2")) {
-        hLevel = 1;
+        hLevel = 0;
       } else if ((0, _deps.$)(this).parent().is("h3")) {
-        hLevel = 2;
+        hLevel = 1;
       } else if ((0, _deps.$)(this).parent().is("h4")) {
-        hLevel = 3;
-      } // Set the base heading level for the page to the title page level + 1
-      // This ensures top level headings aren't nested
-
-
-      if (i === 0) {
-        baseHeadingLevel = hLevel + 1;
+        hLevel = 2;
+      } else if ((0, _deps.$)(this).parent().is("h5,h6,h7,h8,h9,h10,h11,h12")) {
+        hLevel = null;
       } // Build list items for all headings except the page title
 
 
       if (0 < items++) {
         title_container.find('a,.added,.coming,.deprecated,.experimental').remove();
         var text = title_container.html();
-        var adjustedLevel = hLevel - baseHeadingLevel;
-        var li = '<li id="otp-text-' + i + '" class="heading-level-' + adjustedLevel + '"><a href="#' + this.id + '">' + text + '</a></li>';
-        ul.append(li);
+
+        if (hLevel !== null) {
+          var li = '<li id="otp-text-' + i + '" class="heading-level-' + hLevel + '"><a href="#' + this.id + '">' + text + '</a></li>';
+          ul.append(li);
+        }
       }
     }
   });
@@ -23794,13 +24325,24 @@ function init_console_widgets() {
     });
     return (0, _mount.default)(div, _console_widget.default, {
       setting: "console",
-      url_label: 'Enter the URL of the Console editor',
-      view_in_text: 'View in Console',
+      url_label: 'Console URL',
+      view_in_text: 'Try in Elastic',
       configure_text: 'Configure Console URL',
       addPretty: true,
       consoleText: consoleText,
       snippet: snippet,
       langs: langs
+    });
+  });
+}
+
+function init_feedback_widget() {
+  (0, _mount.default)((0, _deps.$)('#feedbackWidgetContainer'), _feedback_widget.default);
+  (0, _deps.$)('.feedbackButton').click(function () {
+    var isLiked = (0, _deps.$)(this).hasClass('feedbackLiked');
+    (0, _deps.$)(this).addClass('isPressed');
+    (0, _mount.default)((0, _deps.$)('#feedbackModalContainer'), _feedback_modal.default, {
+      isLiked: isLiked
     });
   });
 }
@@ -23812,7 +24354,7 @@ function init_sense_widgets() {
         consoleText = div.prev().text() + '\n';
     return (0, _mount.default)(div, _console_widget.default, {
       setting: "sense",
-      url_label: 'Enter the URL of the Sense editor',
+      url_label: 'Sense URL',
       view_in_text: 'View in Sense',
       configure_text: 'Configure Sense URL',
       addPretty: true,
@@ -23927,7 +24469,9 @@ function highlight_otp() {
       }
     });
   });
-  document.querySelectorAll('#guide a[id]').forEach(function (heading) {
+  document.querySelectorAll('div#content a[id]').forEach(function (heading, i) {
+    // Skip the first heading since it's not visible
+    if (i === 0) return;
     observer.observe(heading);
   });
 }
@@ -23968,7 +24512,9 @@ function getEuid() {
 (0, _deps.$)(function () {
   var lang = (0, _deps.$)('section#guide[lang]').attr('lang') || 'en';
   var default_kibana_url = 'http://localhost:5601',
-      default_console_url = default_kibana_url + '/app/kibana#/dev_tools/console',
+      default_base_path = '/zzz',
+      // Since the original implementation, the base path was added and most users use it.
+  default_console_url = default_kibana_url + default_base_path + '/app/kibana#/dev_tools/console',
       default_sense_url = default_kibana_url + '/app/sense/',
       default_ess_url = 'http://localhost:5601',
       // localhost is wrong, but we'll enhance this later
@@ -24017,7 +24563,46 @@ function getEuid() {
   (0, _store.default)(initialStoreState); // One modal component for N mini-apps
 
   (0, _mount.default)((0, _deps.$)('body'), _modal.default);
-  (0, _alternative_switcher.default)((0, _store.default)()); // If breadcrumbs contain a dropdown (e.g. APM, ECS Logging)
+  (0, _alternative_switcher.default)((0, _store.default)()); // Get all headings inside the main body of the doc
+
+  var allHeadings = (0, _deps.$)('div#content').find('h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12');
+  var allLevels = []; // Create a list of all heading levels used on the page
+
+  allHeadings.each(function (index) {
+    // Don't include the first heading because that's the title
+    if (index === 0) return;
+    if (!allLevels.includes((0, _deps.$)(this).prop('nodeName'))) allLevels.push((0, _deps.$)(this).prop('nodeName'));
+  }); // Update the heading level to be incremental
+  // (i.e. the first heading after the title should be an h2 and
+  // then deeper levels should be adjusted so they are incremental)
+
+  allHeadings.each(function (index) {
+    var currentHeading = (0, _deps.$)(this);
+    var contents = currentHeading.prop('innerHTML'); // Don't include the first heading because that's the
+    // title and we always want that to be an h1
+
+    if (index > 0) {
+      if (allLevels[0] && (0, _deps.$)(this).prop('nodeName') === allLevels[0]) {
+        (0, _deps.$)(this).replaceWith("<h2>".concat(contents, "</h2>"));
+      }
+
+      if (allLevels[1] && (0, _deps.$)(this).prop('nodeName') === allLevels[1]) {
+        (0, _deps.$)(this).replaceWith("<h3>".concat(contents, "</h3>"));
+      }
+
+      if (allLevels[2] && (0, _deps.$)(this).prop('nodeName') === allLevels[2]) {
+        (0, _deps.$)(this).replaceWith("<h4>".concat(contents, "</h4>"));
+      }
+
+      if (allLevels[3] && (0, _deps.$)(this).prop('nodeName') === allLevels[3]) {
+        (0, _deps.$)(this).replaceWith("<h5>".concat(contents, "</h5>"));
+      }
+
+      if (allLevels[4] && (0, _deps.$)(this).prop('nodeName') === allLevels[4]) {
+        (0, _deps.$)(this).replaceWith("<h6>".concat(contents, "</h6>"));
+      }
+    }
+  }); // If breadcrumbs contain a dropdown (e.g. APM, ECS Logging)
   // handle interaction with the dropdown
 
   if ((0, _deps.$)('#related-products')) {
@@ -24074,6 +24659,8 @@ function getEuid() {
   init_sense_widgets();
   init_console_widgets();
   init_kibana_widgets();
+  init_feedback_widget();
+  init_landing_page();
   (0, _deps.$)("div.ess_widget").each(function () {
     var div = (0, _deps.$)(this),
         snippet = div.attr('data-snippet'),
@@ -24098,9 +24685,20 @@ function getEuid() {
       snippet: snippet
     });
   });
+  (0, _deps.$)('div.console_code_copy').each(function () {
+    var $copyButton = (0, _deps.$)(this);
+    var langText = $copyButton.next().text();
+    $copyButton.on('click', function () {
+      utils.copyText(langText, _localization.lang_strings);
+      $copyButton.addClass('copied');
+      setTimeout(function () {
+        $copyButton.removeClass('copied');
+      }, 3000);
+    });
+  });
   var div = (0, _deps.$)('div.toc'); // Fetch toc.html unless there is already a .toc on the page
 
-  if (div.length == 0 && (0, _deps.$)('#guide').find('div.article,div.book').length == 0) {
+  if (div.length == 0) {
     var url = location.href.replace(/[^\/]+$/, 'toc.html');
 
     var toc = _deps.$.get(url, {}, function (data) {
@@ -24183,7 +24781,7 @@ function getEuid() {
 }); // Tabbed widgets
 
 (0, _tabbed_widget.switchTabs)();
-},{"./components/alternative_switcher":"docs_js/components/alternative_switcher.js","./components/console_widget":"docs_js/components/console_widget.jsx","./components/modal":"docs_js/components/modal.js","./components/mount":"docs_js/components/mount.js","./components/tabbed_widget":"docs_js/components/tabbed_widget.js","./deps":"docs_js/deps.js","./localization":"docs_js/localization.js","./store":"docs_js/store.js","./utils.js":"docs_js/utils.js","../lib/prettify/prettify":"lib/prettify/prettify.js","./prettify/lang-asciidoc":"docs_js/prettify/lang-asciidoc.js","./prettify/lang-console":"docs_js/prettify/lang-console.js","../lib/prettify/lang-esql":"lib/prettify/lang-esql.js","../lib/prettify/lang-sql":"lib/prettify/lang-sql.js","../lib/prettify/lang-yaml":"lib/prettify/lang-yaml.js","../../../../../node_modules/details-polyfill":"../../../node_modules/details-polyfill/index.js","../../../../../node_modules/url-search-params-polyfill":"../../../node_modules/url-search-params-polyfill/index.js"}],"../../../node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./components/alternative_switcher.js":"docs_js/components/alternative_switcher.js","./components/console_widget.jsx":"docs_js/components/console_widget.jsx","./components/feedback_modal.jsx":"docs_js/components/feedback_modal.jsx","./components/feedback_widget.jsx":"docs_js/components/feedback_widget.jsx","./components/modal.js":"docs_js/components/modal.js","./components/mount.js":"docs_js/components/mount.js","./components/tabbed_widget.js":"docs_js/components/tabbed_widget.js","./deps.js":"docs_js/deps.js","./localization.js":"docs_js/localization.js","./store.js":"docs_js/store.js","./utils.js":"docs_js/utils.js","../lib/prettify/prettify.js":"lib/prettify/prettify.js","./prettify/lang-asciidoc.js":"docs_js/prettify/lang-asciidoc.js","./prettify/lang-console.js":"docs_js/prettify/lang-console.js","../lib/prettify/lang-esql.js":"lib/prettify/lang-esql.js","../lib/prettify/lang-sql.js":"lib/prettify/lang-sql.js","../lib/prettify/lang-yaml.js":"lib/prettify/lang-yaml.js","../../../../../node_modules/details-polyfill":"../../../node_modules/details-polyfill/index.js","../../../../../node_modules/url-search-params-polyfill":"../../../node_modules/url-search-params-polyfill/index.js"}],"../../../node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -24386,5 +24984,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../../../node_modules/parcel/src/builtins/hmr-runtime.js","docs_js/index.js"], null)
-//# sourceMappingURL=/QubitPi/elastic-docs/guide/static/docs_js/index.js.map
+},{}]},{},["../../../node_modules/parcel/src/builtins/hmr-runtime.js","docs_js/index-v1.js"], null)
+//# sourceMappingURL=/QubitPi/elastic-docs/guide/static/docs_js/index-v1.js.map

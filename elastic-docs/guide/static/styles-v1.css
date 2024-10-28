@@ -8987,9 +8987,14 @@ explicitly, e.g.
   #guide .admon_content {
     margin-left: 80px;
   }
-  #guide .admon_content h3 {
+  /* On page load, the heading level may be changed,
+    but we always what to style it the same way  */
+  #guide .admon_content h2, #guide .admon_content h3, #guide .admon_content h4, #guide .admon_content h5, #guide .admon_content h6 {
       margin: 3px 0;
+      font-size: 22px;
+      font-weight: 600;
     }
+  #guide .admon_content h2 a, #guide .admon_content h3 a, #guide .admon_content h4 a, #guide .admon_content h5 a, #guide .admon_content h6 a { font-weight: 600; }
   #guide .admon_content p:last-of-type {
       margin-bottom: 0em;
     }
@@ -9147,6 +9152,53 @@ explicitly, e.g.
       text-decoration: none !important;
       cursor: pointer;
     }
+  #guide .console_code_copy {
+    background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20class%3D%22euiIcon%20euiButtonIcon__icon%20docsmobile-1jhl3f9-euiIcon-m-inherit%22%20role%3D%22img%22%20aria-hidden%3D%22true%22%20style%3D%22%20color%3A%20white%3B%22%3E%3Cpath%20d%3D%22M2%202.729V2a1%201%200%200%201%201-1h2v1H3v12h4v1H3a1%201%200%200%201-1-1V2.729zM14%205V2a1%201%200%200%200-1-1h-2v1h2v3h1zm-1%201h2v9H8V6h5V5H8a1%201%200%200%200-1%201v9a1%201%200%200%200%201%201h7a1%201%200%200%200%201-1V6a1%201%200%200%200-1-1h-2v1z%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M9%2010h5V9H9v1zm0-2h5V7H9v1zm0%204h5v-1H9v1zm0%202h5v-1H9v1zm2-12V1a1%201%200%200%200-1-1H6a1%201%200%200%200-1%201v1h1V1h4v1h1zM5%203h6V2H5v1z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E');
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    vertical-align: text-bottom;
+    align-self: center;
+  }
+  #guide .console_code_copy:hover {
+      text-decoration: none !important;
+      cursor: pointer;
+    }
+  #guide .console_code_copy {
+    filter: invert(1);
+    position: absolute;
+    top: 25px;
+    right: 20px;
+    opacity: 0.7;
+  }
+  #guide .console_code_copy:hover {
+    opacity: 1;
+  }
+  #guide .console_code_copy.copied {
+    background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20class%3D%22euiIcon%20eui-alignMiddle%20css-61rd3k-euiIcon-m-isLoaded%22%20role%3D%22img%22%20data-icon-type%3D%22check%22%20data-is-loaded%3D%22true%22%20aria-hidden%3D%22true%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M6.5%2012a.502.502%200%200%201-.354-.146l-4-4a.502.502%200%200%201%20.708-.708L6.5%2010.793l6.646-6.647a.502.502%200%200%201%20.708.708l-7%207A.502.502%200%200%201%206.5%2012%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E');
+  }
+
+.try_console_selector {
+  text-align: center;
+}
+
+/* On page load, the heading level may be changed,
+    but we always what to style it the same way  */
+
+.try_console_selector h2, .try_console_selector h3, .try_console_selector h4, .try_console_selector h5, .try_console_selector h6 {
+    font-size: 30px;
+  }
+
+.try_console_selector a.button {
+    margin: 10px auto;
+    cursor: pointer;
+  }
+
+p.console_help_text {
+  font-size: 15px;
+}
 
 #guide div.chapter,
     #guide div.part,
@@ -9182,6 +9234,537 @@ explicitly, e.g.
     margin: 0 0 0 10px;
   }
 
+#feedbackWidget {
+  font-size: 14px;
+  display: flex;
+  line-height: 16px;
+  margin: 0 12px;
+  padding-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 200px;
+  border-top: 1px solid rgb(211, 218, 230);
+
+}
+
+  #feedbackWidget .docHorizontalSpacer {
+    display: inline-block;
+    width: 12px;
+  }
+
+  #feedbackWidget [dir="ltr"] .screenReaderOnly {
+    left: -10000px;
+
+}
+
+  #feedbackWidget [dir="rtl"] .screenReaderOnly {
+    right: -10000px;
+
+}
+
+  #feedbackWidget .screenReaderOnly {
+    position: absolute;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    clip: rect(0px, 0px, 0px, 0px);
+    -webkit-clip-path: inset(50%);
+            clip-path: inset(50%);
+    overflow: hidden;
+    margin: -1px;
+  }
+
+  #feedbackWidget .buttonGroup {
+    max-width: 100%;
+    display: flex;
+    border-radius: 4px;
+  }
+
+  #feedbackWidget .feedbackButton {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter',BlinkMacSystemFont,Helvetica,Arial,sans-serif;
+    display: inline-block;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    cursor: pointer;
+    white-space: nowrap;
+    max-width: 100%;
+    vertical-align: middle;
+    font-weight: 500;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 32px;
+    font-size: 14px;
+    line-height: 20px;
+    min-width: 0px;
+    flex-shrink: 1;
+    flex-grow: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 0px;
+    color: rgb(52, 55, 65);
+    background-color: rgb(233, 237, 243);
+    transition: background-color 250ms ease-in-out 0s, color 250ms ease-in-out 0s;
+    border-start-start-radius: 4px;
+    border-start-end-radius: 0px;
+    border-end-end-radius: 0px;
+    border-end-start-radius: 4px
+  }
+
+  #feedbackWidget .feedbackButton:last-child {
+      border-start-start-radius: 0px;
+      border-start-end-radius: 4px;
+      border-end-end-radius: 4px;
+      border-end-start-radius: 0px;
+      box-shadow: rgba(0, 0, 0, 0.1) -1px 0px 0px 0px;
+    }
+
+  #feedbackWidget .feedbackButton .feedbackButtonContent {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      vertical-align: middle;
+      grid-gap: 8px;
+      gap: 8px;
+    }
+
+  #feedbackWidget .feedbackButton .feedbackIcon {
+      flex-shrink: 0;
+      display: inline-block;
+      vertical-align: middle;
+      fill: currentColor;
+      transform: translate(0, 0);
+      width: 16px;
+      height: 16px;
+      color: inherit
+    }
+
+  #feedbackWidget .feedbackButton .feedbackIcon.pressed {
+        display: none;
+      }
+
+  #feedbackWidget .feedbackButton.isPressed {
+      color: rgb(255, 255, 255);
+      background-color: rgb(105, 112, 125);
+      outline-color: rgb(0, 0, 0);
+    }
+
+  #feedbackWidget .feedbackButton.isPressed .feedbackIcon.unpressed {
+        display: none;
+      }
+
+  #feedbackWidget .feedbackButton.isPressed .feedbackIcon.pressed {
+        display: inline-block;
+      }
+
+@-webkit-keyframes animation-modal {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes animation-modal {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes animation-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(359deg);
+  }
+}
+@keyframes animation-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+#feedbackModal {
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10vh;
+  -webkit-animation: 150ms ease-in 0s 1 normal none running animation-modal;
+          animation: 150ms ease-in 0s 1 normal none running animation-modal;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 6000;
+}
+
+#feedbackModal .feedbackModalContent {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 22.75px;
+    -webkit-font-smoothing: antialiased;
+    --removed-body-scroll-bar-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+    vertical-align: baseline;
+    box-shadow: rgba(0, 0, 0, 0.13) 0px 2.7px 9px, rgba(0, 0, 0, 0.09) 0px 9.4px 24px, rgba(0, 0, 0, 0.08) 0px 21.8px 43px;
+    display: flex;
+    flex-direction: column;
+    max-height: 75vh;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    z-index: 8000;
+    min-width: 475px;
+    max-width: 768px;
+    -webkit-animation: 350ms cubic-bezier(0.34, 1.61, 0.7, 1) 0s 1 normal none running animation-5jmqj1;
+            animation: 350ms cubic-bezier(0.34, 1.61, 0.7, 1) 0s 1 normal none running animation-5jmqj1;
+
+
+  }
+
+#feedbackModal .feedbackModalContent [dir="ltr"] .closeIcon {
+      right: 4px;
+
+}
+
+#feedbackModal .feedbackModalContent [dir="rtl"] .closeIcon {
+      left: 4px;
+
+}
+
+#feedbackModal .feedbackModalContent .closeIcon {
+      transition: transform 250ms ease-in-out 0s, background-color 250ms ease-in-out 0s;
+      -webkit-appearance: none;
+         -moz-appearance: none;
+              appearance: none;
+      cursor: pointer;
+      white-space: nowrap;
+      max-width: 100%;
+      vertical-align: middle;
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-around;
+      width: 24px;
+      height: 24px;
+      border-radius: 4px;
+      color: rgb(52, 55, 65);
+      position: absolute;
+      top: 4px;
+      z-index: 3;
+      border-width: 0px;
+      background-color: transparent;
+      right: 2px;
+    }
+
+#feedbackModal .feedbackModalContent .closeIcon > svg {
+        flex-shrink: 0;
+        display: inline-block;
+        vertical-align: middle;
+        fill: currentColor;
+        transform: translate(0, 0);
+        width: 16px;
+        height: 16px;
+        color: inherit;
+      }
+
+#feedbackModal .feedbackModalContent [dir="ltr"] .feedbackModalHeader {
+      padding-left: 24px;
+      padding-right: 40px;
+
+}
+
+#feedbackModal .feedbackModalContent [dir="rtl"] .feedbackModalHeader {
+      padding-right: 24px;
+      padding-left: 40px;
+
+}
+
+#feedbackModal .feedbackModalContent .feedbackModalHeader {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-grow: 0;
+      flex-shrink: 0;
+      padding: 24px;
+    }
+
+#feedbackModal .feedbackModalContent .feedbackModalHeader h2 {
+        font-size: 24px;
+        line-height: 28px;
+        margin: 0px;
+        padding: 0px;
+        color: rgb(52, 55, 65);
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalBody {
+      flex-grow: 1;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      font-size: 16px;
+      line-height: 24px;
+      color: rgb(52, 55, 65);
+    }
+
+#feedbackModal .feedbackModalContent .feedbackModalBody .feedbackModalBodyOverflow {
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+        overflow: hidden auto;
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalBody .spacer {
+        flex-shrink: 0;
+        height: 24px;
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter {
+      display: flex;
+      justify-content: flex-end;
+      padding: 24px;
+      padding-left: 24px;
+      padding-right: 24px;
+      flex-grow: 0;
+      flex-shrink: 0;
+      grid-gap: 16px;
+      gap: 16px
+    }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter.loading .feedbackButton {
+          color: rgb(162, 171, 186)
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter.loading .feedbackButton.sendButton {
+            background-color: rgba(0, 119, 204, 0.1);
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter.loading .feedbackButton .feedbackButtonContent {
+            display: none;
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter.loading .loadingContent {
+          display: inline-block;
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .feedbackButton {
+        display: inline-block;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        -ms-appearance: none;
+        appearance: none;
+        cursor: pointer;
+        white-space: nowrap;
+        max-width: 100%;
+        vertical-align: middle;
+        font-weight: 500;
+        height: 40px;
+        font-size: 14px;
+        line-height: 1.4286rem;
+        border-radius: 6px;
+        border-width: 0;
+        color: rgb(0, 97, 166);
+        background-color: rgb(204, 228, 245)
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .feedbackButton:hover {
+          text-decoration: underline;
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .feedbackButton .feedbackButtonContent {
+          height: 100%;
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          vertical-align: middle;
+          grid-gap: 8px;
+          gap: 8px;
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .cancelButton {
+        transition-timing-function: ease-in;
+        transition-duration: 150ms;
+        display: inline-block;
+        padding-left: 8px;
+        padding-right: 8px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 6px;
+        background-color: transparent;
+        color: #0061a6;
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton {
+        padding: 0px;
+        padding-left: 12px;
+        padding-right: 12px;
+        line-height: 20px;
+        min-width: 112px;
+        transition: transform 250ms ease-in-out 0s, background-color 250ms ease-in-out 0s
+
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton:hover {
+          transform: translateY(-1px);
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton .sendIcon {
+          flex-shrink: 0;
+          display: inline-block;
+          vertical-align: middle;
+          fill: currentColor;
+          transform: translate(0, 0);
+          width: 16px;
+          height: 16px;
+          color: inherit
+        }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton .sendIcon.dislike {
+            display: none;
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton.dislike .sendIcon.like {
+            display: none;
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton.dislike .sendIcon.dislike {
+            display: inline-block;
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .sendButton.like .sendIcon.like {
+            display: inline-block;
+          }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .loadingContent {
+        display: none;
+      }
+
+#feedbackModal .feedbackModalContent .feedbackModalFooter .loadingSpinner {
+        -webkit-animation: 0.6s linear 0s infinite normal none running animation-loading;
+                animation: 0.6s linear 0s infinite normal none running animation-loading;
+        flex-shrink: 0;
+        display: inline-block;
+        border-radius: 50%;
+        border: 1.5px solid rgb(211, 218, 230);
+        border-top-color: rgb(1, 81, 137) rgb(211, 218, 230);
+        border-bottom-color: rgb(1, 81, 137) rgb(211, 218, 230);
+        border-left-color: rgb(211, 218, 230);
+        border-right-color: rgb(211, 218, 230);
+        width: 16px;
+        height: 16px;
+        position: relative;
+        left: -5px;
+        top: 2px;
+      }
+
+#feedbackModal .feedbackFormRow {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+  }
+
+#feedbackModal .feedbackFormRow .feedbackFormRow__labelWrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-bottom: 4px;
+    }
+
+#feedbackModal .feedbackFormRow .feedbackFormRow__labelWrapper .feedbackFormLabel {
+        cursor: pointer;
+        word-wrap: break-word!important;
+        word-break: break-word;
+        color: #1a1c21;
+        font-weight: 600;
+        display: inline-block;
+        transition: all .15s cubic-bezier(.694,.0482,.335,1);
+        font-size: 12px;
+        line-height: 16px;
+        margin-bottom: 0;
+      }
+
+#feedbackModal .feedbackFormRow .feedbackFormControlLayout {
+      height: auto;
+      max-width: 400px;
+      width: 100%;
+    }
+
+#feedbackModal .feedbackFormRow .feedbackFormControlLayout .feedbackFormControlLayout__childrenWrapper {
+        position: relative;
+      }
+
+#feedbackModal .feedbackFormRow .feedbackFormControlLayout .feedbackTextArea {
+        resize: vertical;
+        height: auto;
+        max-width: 400px;
+        width: 100%;
+        /* height: 40px; */
+        background-color: #fbfcfd;
+        background-repeat: no-repeat;
+        background-size: 0 100%;
+        box-shadow: 0 0 transparent, inset 0 0 0 1px rgba(17,42,134,.1);
+        transition: box-shadow .15s ease-in,background-image .15s ease-in,background-size .15s ease-in,background-color .15s ease-in;
+        font-family: Inter UI,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-weight: 400;
+        letter-spacing: normal;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-font-kerning: normal;
+        font-feature-settings: "kern";
+        font-kerning: normal;
+        font-size: 14px;
+        color: #343741;
+        border: none;
+        border-radius: 6px;
+        padding: 12px;
+        line-height: 1.5;
+      }
+
+#feedbackModal .feedbackFormRow .feedbackFormError {
+      padding: 16px;
+      background-color: #f8e9e9;
+      font-size: 14px;
+    }
+
+#feedbackSuccess {
+  margin: 12px;
+  font-size: 14px;
+  padding: 16px;
+  background-color: #e6f1fa
+}
+
+#feedbackSuccess.hidden {
+    display: none;
+  }
+
 #guide h1, #guide h2, #guide h3, #guide h4, #guide h5, #guide h6 {
     /* Relative position allows laying out the edit me links inside the header. */
     position: relative;
@@ -9202,11 +9785,6 @@ explicitly, e.g.
       background-position: 0% 50%;
       background-image: url('data:image/png;base64,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');
     }
-  #guide h1 {
-    font-size: 36px;
-    margin: 10px 0 10px;
-  }
-  #guide h1 a { font-weight: 300; }
   #guide h2 {
     font-size: 29px;
     margin: 20px 0;
@@ -9235,6 +9813,13 @@ explicitly, e.g.
   #guide h5, #guide h6 {
     margin: 16px 0 5px;
   }
+  /**
+    Headings beyond h6 are not technically valid HTML tags,
+    but in the event that the nesting is deep enough we can at least bold the text.
+  **/
+  #guide h7, #guide h8, #guide h9, #guide h10, #guide h11, #guide h12 {
+    font-weight: 600;
+  }
   /* Points folks to "edit" pages in github so they can contribute
    * to the docs! */
   #guide .edit_me {
@@ -9242,7 +9827,6 @@ explicitly, e.g.
     position: absolute;
     font-size: 14px;
     top: 0;
-    z-index: 1000;
     padding-top: 26px;
     line-height: 1;
     opacity: 0.3;
@@ -9260,6 +9844,60 @@ explicitly, e.g.
   #guide .titlepage .title {
       margin: 10px 0 16px;
     }
+  /* Styles the page header, which is always an h1
+    wrapped in a div with the titlepage class, and always
+    has the title class. */
+  #guide .titlepage h1.title {
+      margin: 18px 0;
+      font-size: 36px;
+      padding: 0;
+    }
+  #guide .titlepage h1.title a { font-weight: 300; }
+  #guide .titlepage[\:has\(h1.title\)] div:has(>h1){
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          padding-bottom: 0px;
+        }
+  #guide .titlepage[\:has\(h1.title\)] div:has(>h1) h1 {
+            margin-right: 12px;
+          }
+  #guide .titlepage[\:has\(h1.title\)] a.edit_me {
+        align-self: center;
+        position: relative;
+        transform: translateY(6px);
+        width: 32px;
+      }
+  #guide .titlepage:has(h1.title) div[\:has\(\%3Eh1\)]{
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          padding-bottom: 0px;
+        }
+  #guide .titlepage:has(h1.title) div[\:has\(\%3Eh1\)] h1 {
+            margin-right: 12px;
+          }
+  #guide .titlepage:has(h1.title) div:has(>h1){
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          padding-bottom: 0px;
+        }
+  #guide .titlepage:has(h1.title) div:has(>h1) h1 {
+            margin-right: 12px;
+          }
+  #guide .titlepage:has(h1.title) a.edit_me {
+        align-self: center;
+        position: relative;
+        transform: translateY(6px);
+        width: 32px;
+      }
+  /* Hide the first heading within the main content
+    of the page since it is the same as the title */
+  #guide div#content > div > .titlepage {
+    display: none;
+  }
+
 /* 'inlinemediaobject' and 'mediaobject' are for docbook. 'image' and
    * 'imageblock' are for Asciidoctor. */
   #guide .image img, #guide .imageblock img, #guide .inlinemediaobject img, #guide .mediaobject img {
@@ -10024,7 +10662,7 @@ explicitly, e.g.
     display: block;
     color: #495057;
     background-color: #fff;
-    border: 1px solid #495057;
+    border: 1px solid #495057;
     border-radius: 5px;
     padding: 3px;
     margin-top: 6px;
@@ -10278,4 +10916,4 @@ explicitly, e.g.
 /* test comment used to detect unminified source */
 
 
-/*# sourceMappingURL=/QubitPi/elastic-docs/guide/static/styles.css.map */
+/*# sourceMappingURL=/QubitPi/elastic-docs/guide/static/styles-v1.css.map */
