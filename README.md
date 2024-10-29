@@ -114,8 +114,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs)
 [![logstash](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=logstash&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/logstash)
+[![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs)
 <!-- ACTIVE-FORKS:END -->
 
 ### Miscellaneous
