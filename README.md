@@ -24,7 +24,11 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 
-<h2 align="center"><a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a></h2>
+<h2 align="center">
+    <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
+    <a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a>
+    <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
+</h2>
 
 [![Tiger](https://img.shields.io/badge/Hugging%20Face%20Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
 [![Aristotle](https://img.shields.io/badge/Hugging%20Face%20Space-aristotle-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/aristotle)
