@@ -18,12 +18,6 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
-<h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
-
-[![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
-[![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
-[![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
-
 <h2 align="center">
     <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
     <a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a>
@@ -41,6 +35,12 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
+
+<h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
+
+[![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
+[![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
+[![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
