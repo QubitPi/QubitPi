@@ -41,6 +41,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
+[![wilhelm-graphdb](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-graphdb&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-graphdb)
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
