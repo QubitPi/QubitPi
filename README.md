@@ -123,7 +123,7 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/aristotle)
 <!-- ACTIVE-FORKS:END -->
 
 ### Miscellaneous
