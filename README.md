@@ -28,13 +28,13 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [![Tiger](https://img.shields.io/badge/Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
 [![Aristotle](https://img.shields.io/badge/Space-aristotle-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/aristotle)
-[![wiktionary-data](https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/datasets/QubitPi/wiktionary-data)
 [![Lamassu](https://img.shields.io/badge/Space-lamassu-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/lamassu)
+[![wiktionary-data](https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/datasets/QubitPi/wiktionary-data)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
-[![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
+[![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/VK-45.01)
 [![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/alexandria)
 
