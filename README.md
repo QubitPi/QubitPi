@@ -22,7 +22,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 <h2 align="center">
     <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
-    <a href="https://huggingface.co/QubitPi">Hugging Face Spaces for Language Learners</a>
+    <a href="https://huggingface.co/QubitPi">Hugging Face Spaces/Datasets for Language Learners</a>
     <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
 </h2>
 
@@ -32,10 +32,10 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
-[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/VK-45.01)
-[![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/alexandria)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
+[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/VK-45.01)
+[![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/alexandria)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
