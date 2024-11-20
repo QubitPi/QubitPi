@@ -22,7 +22,7 @@ I have a __Bachelor's Degree of Engineering Physics__ (on _Computational Quantum
 
 <h2 align="center">
     <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
-    <a href="https://huggingface.co/QubitPi">Hugging Face Spaces/Datasets for Language Learners</a>
+    <a href="https://huggingface.co/QubitPi">Made for Language Learners</a>
     <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
 </h2>
 
