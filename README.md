@@ -21,9 +21,7 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
     <a href="https://huggingface.co/QubitPi">Made for Language Learners</a>
-    <img src="https://github.com/user-attachments/assets/5a946a2a-b7e5-40d1-8413-7267900b04b2" width=50px />
 </h2>
 
 [![Tiger](https://img.shields.io/badge/Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
