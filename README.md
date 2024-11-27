@@ -17,7 +17,7 @@
 
 <br/>
 
-🇨🇳 16届 [UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) 小玉米一枚，本硕工院（工程物理学士 & CS 硕士），目前职业发展一直致力于数据驱动的自然语言处理和知识图谱 C 端应用。
+🇨🇳 16届 [UIUC](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) 小玉米一枚，本硕工院（工程物理学士 & CS 硕士），工作事业一直致力于数据驱动的自然语言处理和知识图谱 C 端应用。
 
 🇺🇸 I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the __Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__ technologies
 
