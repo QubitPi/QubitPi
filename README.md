@@ -17,6 +17,8 @@
 
 I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the __Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__ technologies
 
+Ich habe einen Bachelor-Abschluss in technischer Physik (mit rechnergestützter Quantenmechanik) und einen Master-Abschluss in Informatik (mit Big Data und Cloud Computing), beide von der University of Illinois in Urbana-Champaign. Seitdem konzentriert sich meine Karriere auf datengesteuerte Anwendungen, die Natural Language Processing und Knowledge Graph-Technologien kombinieren
+
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
