@@ -15,7 +15,7 @@
     <a href="https://codesandbox.io/u/jack20220723"><img align="center" src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
 </div>
 
-🇨🇳 UIUC，伊大本硕，物理学士，CS 硕士，深耕技术，垂直领域，自然语言，知识图谱，C 端应用
+🇨🇳 UIUC，工院本硕，物理学士，CS 硕士，深耕技术，垂直领域，自然语言，知识图谱，C 端应用
 
 🇺🇸 I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the __Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__ technologies
 
