@@ -15,11 +15,11 @@
     <a href="https://codesandbox.io/u/jack20220723"><img align="center" src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
 </div>
 
-毕业于 UIUC 工程学院（工程物理学士 & CS 硕士），不断致力于数据驱动的自然语言处理和知识图谱 C 端应用开发。
+🇨🇳 毕业于 UIUC 工程学院（工程物理学士 & CS 硕士），不断致力于数据驱动的自然语言处理和知识图谱 C 端应用开发。
 
-I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the __Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__ technologies
+🇺🇸 I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the __Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__ technologies
 
-Ich habe einen Bachelor-Abschluss in technischer Physik (mit rechnergestützter Quantenmechanik) und einen Master-Abschluss in Informatik (mit Big Data und Cloud Computing), beide von der University of Illinois in Urbana-Champaign. Seitdem konzentriert sich meine Karriere auf datengesteuerte Anwendungen, die Natural Language Processing und Knowledge Graph-Technologien kombinieren
+🇩🇪 Ich habe einen Bachelor-Abschluss in technischer Physik (mit rechnergestützter Quantenmechanik) und einen Master-Abschluss in Informatik (mit Big Data und Cloud Computing), beide von der University of Illinois in Urbana-Champaign. Seitdem konzentriert sich meine Karriere auf datengesteuerte Anwendungen, die Natural Language Processing und Knowledge Graph-Technologien kombinieren
 
 Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
