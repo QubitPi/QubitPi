@@ -21,7 +21,7 @@
 
 🇩🇪 Ich habe einen Bachelor-Abschluss in technischer Physik (mit rechnergestützter Quantenmechanik) und einen Master-Abschluss in Informatik (mit Big Data und Cloud Computing), beide von der University of Illinois in Urbana-Champaign. Seitdem konzentriert sich meine Karriere auf datengesteuerte Anwendungen, die Natural Language Processing und Knowledge Graph-Technologien kombinieren
 
-🇰🇷 저는 일리노이 대학교 어바나-샴페인에서 공학 물리학 학사(계산 양자 역학 전공)와 컴퓨터 과학 석사(빅 데이터 및 클라우드 컴퓨팅 전공)를 취득했습니다. 그 이후로 제 경력은 자연어 처리 및 지식 그래프 기술을 결합한 데이터 기반 애플리케이션에 집중하고 있습니다.
+🇰🇷 저는 일리노이 대학교 어바나-샴페인에서 공학 물리학 학사 (계산 양자 역학 전공) 와 컴퓨터 과학 석사 (빅 데이터 및 클라우드 컴퓨팅 전공) 를 취득했습니다. 그 이후로 제 경력은 자연어 처리 및 지식 그래프 기술을 결합한 데이터 기반 애플리케이션에 집중하고 있습니다.
 
 <img align="center" src="https://github.com/user-attachments/assets/eea71497-a6e3-4231-8175-c6e696c9a9ae" width="3%" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
