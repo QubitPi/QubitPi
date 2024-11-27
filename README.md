@@ -21,6 +21,8 @@ Ich habe einen Bachelor-Abschluss in technischer Physik (mit rechnergestützter 
 
 Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
+Ἔχω πτυχίον Ἐπιστημῶν Μηχανικῶν Φυσικῶν (ἐπὶ τῷ ὑπολογιστικῷ κβαντικῷ μηχανικῷ) καὶ μάστερ Ἐπιστημῶν Πληροφορικῆς (ἐπὶ τῷ Μεγάλῳ Δεδομένῳ καὶ τῷ Νέφει Ὀλογισμικῆς) ἀμφότερα ἐκ τοῦ Πανεπιστημίου Ἰλλινόις ἐν Ὀρβανᾷ-Χαμπαῖν. Ἀπὸ τούτου, ἡ καριέρα μου ἐστὶν ἐστραμμένη πρὸς τὰς ἐφαρμογὰς ὑπὸ δεδομένων συνδυάζουσα τὴν Ἐπεξεργασία Φυσικῆς Γλώσσης καὶ τὰς τεχνολογίας Γράφου Γνώσεως.
+
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
