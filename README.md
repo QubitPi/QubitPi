@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/@QubitPi)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Google Meet](https://img.shields.io/badge/Google%20Meet-jack20220723@gmail.com-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B)](https://meet.google.com/landing)
+[![原神](https://img.shields.io/badge/原神-我喜欢的角色-4EA4DD?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD)](https://enka.network/u/MyFavoriteCharacters)
 
 <div align="right">
     <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
