@@ -89,7 +89,6 @@
 
 <h2 align="center">Backend Dev</h2>
 
-[![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=slateorange)](https://github.com/paion-data/aristotle)
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 [![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
 [![jersey-webservice-template-jpa-data-models](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
