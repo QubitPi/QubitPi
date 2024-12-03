@@ -71,15 +71,7 @@
 
 [mieru](https://github.com/QubitPi/mieru) | [wg-easy](https://github.com/wg-easy/wg-easy) | [dockovpn](https://github.com/dockovpn/dockovpn) | [docker-openvpn](https://github.com/kylemanna/docker-openvpn) | [shadowsocks](https://github.com/shadowsocks/shadowsocks-org)
 
-<h2 align="center">Frontend Dev</h2>
-
-<div align="right">
-    <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-    <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
-    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>
-    <a href="https://codesandbox.io/u/jack20220723"><img align="center" src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-</div>
+<h2 align="center">Frontend Dev <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a></h2>
 
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
@@ -87,7 +79,7 @@
 
 - [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](https://docusaurus.qubitpi.org/)
 
-<h2 align="center">Backend Dev</h2>
+<h2 align="center">Backend Dev <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a></h2>
 
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 [![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
