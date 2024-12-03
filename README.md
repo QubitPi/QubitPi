@@ -8,14 +8,6 @@
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Google Meet](https://img.shields.io/badge/Google%20Meet-jack20220723@gmail.com-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B)](https://meet.google.com/landing)
 
-<div align="right">
-    <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-    <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
-    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>
-    <a href="https://codesandbox.io/u/jack20220723"><img align="center" src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-</div>
-
 <br/>
 
 🇨🇳 致力于数据驱动的自然语言处理和知识图谱 C 端应用。毕业于 [UIUC](https://baike.baidu.com/item/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%A4%A7%E5%AD%A6%E5%8E%84%E5%B7%B4%E7%BA%B3-%E9%A6%99%E6%A7%9F%E5%88%86%E6%A0%A1/3959383?fr=ge_ala) ，工院小玉米一枚(工程物理学士 & CS 硕士)，业余喜欢[学习广义相对论](https://github.com/QubitPi/general-relativity)
@@ -81,6 +73,14 @@
 
 <h2 align="center">Frontend Dev</h2>
 
+<div align="right">
+    <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+    <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
+    <a href="https://pypi.org/user/jack20191124/"><img align="center" src="https://img.shields.io/badge/PyPi-0273B7?style=for-the-badge&logo=PyPi&logoColor=white" /></a>
+    <a href="https://codesandbox.io/u/jack20220723"><img align="center" src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+</div>
+
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
 [![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/Qubitpi/neo4j-browser)
@@ -107,7 +107,6 @@
   - [API](https://jpa.qubitpi.org/latest/api/jakarta.persistence/module-summary.html)
 
 [GraphQL Java](https://graphql-java.qubitpi.org/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/)
-
 
 - **Webservice** [JSR-330 Dependency Injection standard](https://qubitpi.github.io/javax-inject/) ([Javadocs](https://qubitpi.github.io/javax-inject/api)) | [Jersey](https://qubitpi.github.io/jersey/) | [GlassFish HK2](https://qubitpi.github.io/glassfish-hk2/) | [Jetty](https://qubitpi.github.io/jetty.project/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Cucumber](https://cucumber.qubitpi.org/) | [Owner Configuration Library](https://owner.qubitpi.org/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [JaCoCo](https://qubitpi.github.io/jacoco.github.io/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) | [RxJava](https://qubitpi.github.io/RxJava/3.x/javadoc/) | [JSON:API](https://qubitpi.github.io/json-api/) | [Querydsl](https://qubitpi.github.io/querydsl.github.io/) | [FastAPI](https://fastapi.qubitpi.org/)
   - **Hibernate ORM** [Introduction](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/html_single/Hibernate_Introduction.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/pdf/Hibernate_Introduction.pdf)) | [Quickstart](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/html_single/) | [User Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/userguide/html_single/Hibernate_User_Guide.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/pdf/index.pdf)) | [Hibernate Query Language (HQL)](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/html_single/Hibernate_Query_Language.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/pdf/Hibernate_Query_Language.pdf)) | [Integration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/integrationguide/html_single/Hibernate_Integration_Guide.html) | [Javadocs](https://qubitpi.github.io/hibernate-orm/javadocs/) | [Topical Guides](https://qubitpi.github.io/hibernate-orm/asciidoc/topical/html_single/) | [Logging](https://qubitpi.github.io/hibernate-orm/asciidoc/logging/logging.html) | [Dialects](https://qubitpi.github.io/hibernate-orm/asciidoc/dialect/dialect.html) | [Migration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/migration-guide/migration-guide.html)
