@@ -7,6 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white)](https://www.youtube.com/@QubitPi)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jack20191124)
 [![Google Meet](https://img.shields.io/badge/Google%20Meet-jack20220723@gmail.com-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B)](https://meet.google.com/landing)
+[![原神](https://img.shields.io/badge/原神-我喜欢的角色-dd874e?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD)](https://enka.network/u/MyFavoriteCharacters)
 
 🇨🇳 致力于数据驱动的自然语言处理和知识图谱 C 端应用。毕业于 [UIUC](https://baike.baidu.com/item/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%A4%A7%E5%AD%A6%E5%8E%84%E5%B7%B4%E7%BA%B3-%E9%A6%99%E6%A7%9F%E5%88%86%E6%A0%A1/3959383?fr=ge_ala) ，工院小玉米一枚(工程物理学士 & CS 硕士)，业余喜欢[学习广义相对论](https://github.com/QubitPi/general-relativity)
 
