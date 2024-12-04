@@ -23,7 +23,7 @@
           <mxGeometry x="830" y="390.55" width="210.26" height="78.91" as="geometry" />
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://janusgraph.org/img/janusgraph.png;" parent="1" vertex="1">
-          <mxGeometry x="802.76" y="504" width="274.74" height="91.49" as="geometry" />
+          <mxGeometry x="802.76" y="494.26" width="274.74" height="91.49" as="geometry" />
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#2671E5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,12 +42,12 @@
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#2671E5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="549" as="sourcePoint" />
-            <mxPoint x="1080" y="549" as="targetPoint" />
+            <mxPoint x="1237.5" y="539.5" as="sourcePoint" />
+            <mxPoint x="1077.5" y="539.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-48" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;graph-db-import-web&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#61DBFB;fontFamily=Ubuntu;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="519.74" width="260" height="60" as="geometry" />
+          <mxGeometry x="1250" y="510" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=46;endSize=11.67;width=39;strokeColor=#2671E5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
