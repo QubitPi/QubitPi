@@ -80,22 +80,25 @@
           <mxGeometry x="270" y="390" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="840" y="610" width="680" height="20" as="geometry" />
+          <mxGeometry x="1080" y="610" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="400" y="610" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HVzVMownEB94N7tH56RT-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="160" y="610" width="230" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-4" value="&lt;font face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;Data Pipeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="640" width="130" height="30" as="geometry" />
+          <mxGeometry x="1230" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-5" value="&lt;font face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;Backend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-6" value="&lt;font face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;Frontend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="640" width="130" height="30" as="geometry" />
+          <mxGeometry x="145" y="640" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVzVMownEB94N7tH56RT-9" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="630" as="sourcePoint" />
+            <mxPoint x="210" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
