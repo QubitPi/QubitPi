@@ -44,7 +44,7 @@
 
 <h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
 
-[![wilhelm-vocabulary](https://img.shields.io/badge/Hugging%20Face%20Dataset-wilhelm--vocabulary-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary)
+[![wilhelm-vocabulary](https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary)
 
 ![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
 
