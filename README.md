@@ -35,7 +35,6 @@
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
-[![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react)](https://github.com/QubitPi/VK-45.01)
 [![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=react)](https://github.com/QubitPi/alexandria)
@@ -51,6 +50,7 @@
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
 [![wilhelm-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-ws)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
+[![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![wilhelm-python-sdk](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-python-sdk&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-python-sdk)
 [![wilhelm-graphdb](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
 
