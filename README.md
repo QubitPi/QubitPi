@@ -96,7 +96,7 @@
   - [APIs](https://qubitpi.github.io/jakartaee-rest/apidocs/)
   - [Jakarta EE Jekyll Theme](https://qubitpi.github.io/jekyll-theme-jakarta-ee/)
 
-- [**JPA**](https://jpa.qubitpi.org/)
+- [**JPA Standards**](https://jpa.qubitpi.org/)
 
   - Specification [HTML](https://jpa.qubitpi.org/latest/draft.html)/[PDF](https://jpa.qubitpi.org/latest/draft.pdf)
   - [API](https://jpa.qubitpi.org/latest/api/jakarta.persistence/module-summary.html)
@@ -108,9 +108,7 @@
   - **Graph Database** [Memgraph](https://qubitpi.github.io/memgraph-docs/)
 
     - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/arango-logo.png?raw=true" width="50px" /> [ArangoDB](https://arango.qubitpi.org/) | [Python SDK](https://arango-python.qubitpi.org)
-    - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/neo4j-logo.png?raw=true" width="40px" /> [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4j Java Driver](https://neo4j-driver.qubitpi.org/java-manual/5/) ([Javadocs](https://neo4j-java-driver.qubitpi.org/)) | [Neo4J Browser](https://neo4j-browser.qubitpi.org/) | [Cypher](https://qubitpi.github.io/docs-cypher/)
-      - [Movies Graph Example](https://neo4j-graph-examples-movies.qubitpi.org/neo4j-graph-examples-movie/1/movies/) | [Healthcare Analytics Graph Examples](https://qubitpi.github.io/neo4j-graph-examples-healthcare-analytics/neo4j-graph-examples-healthcare-analytics/1/healthcare-analytics/) | [Network Management Graph Example](https://qubitpi.github.io/neo4j-graph-examples-network-management/neo4j-graph-examples-network-management/1/network-management/) | [Stack Overflow](https://qubitpi.github.io/neo4j-graph-examples-stackoverflow/neo4j-graph-examples-stackoverflow/1/stackoverflow)
-
+    - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/neo4j-logo.png?raw=true" width="40px" /> [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4j Java Driver](https://neo4j-driver.qubitpi.org/java-manual/5/) ([Javadocs](https://neo4j-java-driver.qubitpi.org/)) | [Neo4J Browser](https://neo4j-browser.qubitpi.org/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [Movies Graph Example](https://neo4j-graph-examples-movies.qubitpi.org/neo4j-graph-examples-movie/1/movies/) | [Healthcare Analytics Graph Examples](https://qubitpi.github.io/neo4j-graph-examples-healthcare-analytics/neo4j-graph-examples-healthcare-analytics/1/healthcare-analytics/) | [Network Management Graph Example](https://qubitpi.github.io/neo4j-graph-examples-network-management/neo4j-graph-examples-network-management/1/network-management/) | [Stack Overflow](https://qubitpi.github.io/neo4j-graph-examples-stackoverflow/neo4j-graph-examples-stackoverflow/1/stackoverflow)
 
 Contributor
 -----------
