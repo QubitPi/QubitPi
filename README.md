@@ -48,10 +48,10 @@
 
 ![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
 
-[![wilhelm-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-ws)
-[![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
+[![wilhelm-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-ws)
+[![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![classical-hebrew-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=classical-hebrew-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/classical-hebrew-vocabulary)
 
