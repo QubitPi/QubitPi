@@ -124,6 +124,15 @@
         <mxCell id="6kef6o-63DdrI4Xr9Ast-10" value="&lt;font face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;REST&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="405.2" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bJa6qhs5aaBcv7LNhImS-1" value="&lt;font color=&quot;#5a733a&quot; face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Scalability (Speed)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="348.68" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJa6qhs5aaBcv7LNhImS-2" value="&lt;font color=&quot;#008bff&quot; face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Science Platform&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="460" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bJa6qhs5aaBcv7LNhImS-3" value="&lt;font color=&quot;#108768&quot; face=&quot;Ubuntu&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Human Interpretation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="857.59" y="560" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
