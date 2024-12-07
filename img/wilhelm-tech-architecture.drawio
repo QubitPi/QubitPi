@@ -193,7 +193,7 @@
         </mxCell>
         <mxCell id="FeuSgFrJgC2UMODQw2KF-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;fontFamily=Ubuntu;entryX=0.878;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#0265F7;" edge="1" parent="1" target="FeuSgFrJgC2UMODQw2KF-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="475" as="sourcePoint" />
+            <mxPoint x="600" y="480" as="sourcePoint" />
             <mxPoint x="600" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
