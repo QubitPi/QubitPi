@@ -85,8 +85,7 @@
 
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 [![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
-[![jersey-webservice-template-jpa-data-models](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models)
-[![jersey-webservice-template-jpa-data-models-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-jpa-data-models-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-jpa-data-models-acceptance-tests)
+[![jersey-webservice-template-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-acceptance-tests)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
 - [**Jakarta RESTful Web Services**](https://qubitpi.github.io/jakartaee-rest/)
