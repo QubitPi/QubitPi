@@ -131,8 +131,8 @@ Active Forks (having at least 1 PR merged within the last 5 days)
 -----------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
-[![arangodb-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-docs)
 [![arangodb-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-java-driver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-java-driver)
+[![arangodb-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-docs)
 <!-- ACTIVE-FORKS:END -->
 
 ### Miscellaneous
