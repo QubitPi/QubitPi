@@ -204,6 +204,12 @@
             <mxPoint x="219.66" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KiZPzUFJ3oefxps93lDq-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;rotation=-180;fontFamily=Ubuntu;" vertex="1" parent="1">
+          <mxGeometry x="79.24" y="1170" width="549.24" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KiZPzUFJ3oefxps93lDq-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;number of nodes and edges&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Ubuntu;" vertex="1" parent="1">
+          <mxGeometry x="138.86" y="1190" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
