@@ -56,7 +56,7 @@
           <mxGeometry x="60.00000000000001" y="607.27" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;rotation=90;fontFamily=Ubuntu;" parent="1" vertex="1">
-          <mxGeometry x="740" y="930" width="320" height="20" as="geometry" />
+          <mxGeometry x="735" y="935" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HVzVMownEB94N7tH56RT-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Pipeline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Ubuntu;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="870" y="925" width="130" height="30" as="geometry" />
