@@ -177,7 +177,7 @@
           <mxGeometry x="99.86" y="886.79" width="240.26" height="59.68" as="geometry" />
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png;fontFamily=Ubuntu;" parent="1" vertex="1">
-          <mxGeometry x="370.00000000000006" y="895.0000000000001" width="185.08" height="69.46" as="geometry" />
+          <mxGeometry x="370.00000000000006" y="881.9000000000001" width="185.08" height="69.46" as="geometry" />
         </mxCell>
         <mxCell id="U7UWDtUX8YVad78IIZBt-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://janusgraph.org/img/janusgraph.png;" parent="1" vertex="1">
           <mxGeometry x="-170.01" y="875.13" width="249.25" height="83" as="geometry" />
