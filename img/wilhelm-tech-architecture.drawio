@@ -10,7 +10,7 @@
         <mxCell id="oE79W8GvPW14O_JBmDag-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Ubuntu;fontColor=#F79402;strokeColor=#F79402;strokeWidth=2;fillColor=none;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="-200.01" y="730" width="1080" height="345" as="geometry" />
         </mxCell>
-        <mxCell id="NWTZMO9rAcA71ZL6jhak-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;wilhelm-data-loader&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Ubuntu;strokeColor=none;fillColor=#FAA627;" parent="1" vertex="1">
+        <mxCell id="NWTZMO9rAcA71ZL6jhak-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;wilhelm-data-loader&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Ubuntu;strokeColor=none;fillColor=#FAA627;" parent="1" vertex="1">
           <mxGeometry x="-170.01" y="990" width="1020.01" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rASXjI5uIFe1J0LXfNXR-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;wilhelm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#61DBFB;fontFamily=Ubuntu;" parent="1" vertex="1">
