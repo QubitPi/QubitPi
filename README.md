@@ -87,6 +87,7 @@
 [![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
 [![jersey-webservice-template-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-acceptance-tests)
 
+<div aligh="center">
 <table><tbody>
   <tr>
     <td colspan="2"><b>Webservice Standards</b></td>
@@ -101,6 +102,7 @@
   </tr>
 </tbody>
 </table>
+</div>
 
 - **Webservice** [JSR-330 Dependency Injection standard](https://qubitpi.github.io/javax-inject/) ([Javadocs](https://qubitpi.github.io/javax-inject/api)) | [Jersey](https://qubitpi.github.io/jersey/) | [GlassFish HK2](https://qubitpi.github.io/glassfish-hk2/) | [Jetty](https://qubitpi.github.io/jetty.project/) | [Groovy Spock](https://qubitpi.github.io/spock-doc/) | [Cucumber](https://cucumber.qubitpi.org/) | [Owner Configuration Library](https://owner.qubitpi.org/) | [Testcontainers for Java](https://qubitpi.github.io/testcontainers-java/) | [JaCoCo](https://qubitpi.github.io/jacoco.github.io/) | [ReactiveX](https://qubitpi.github.io/reactivex-docs/) | [RxJava](https://qubitpi.github.io/RxJava/3.x/javadoc/) | [JSON:API](https://qubitpi.github.io/json-api/) | [Querydsl](https://qubitpi.github.io/querydsl.github.io/) | [FastAPI](https://fastapi.qubitpi.org/) | [GraphQL Java](https://graphql-java.qubitpi.org/) | [Principled GraphQL](https://qubitpi.github.io/principled-graphql/)
   - **Hibernate ORM** [Introduction](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/html_single/Hibernate_Introduction.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/introduction/pdf/Hibernate_Introduction.pdf)) | [Quickstart](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/html_single/) | [User Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/userguide/html_single/Hibernate_User_Guide.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/quickstart/pdf/index.pdf)) | [Hibernate Query Language (HQL)](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/html_single/Hibernate_Query_Language.html) ([PDF](https://qubitpi.github.io/hibernate-orm/asciidoc/querylanguage/pdf/Hibernate_Query_Language.pdf)) | [Integration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/integrationguide/html_single/Hibernate_Integration_Guide.html) | [Javadocs](https://qubitpi.github.io/hibernate-orm/javadocs/) | [Topical Guides](https://qubitpi.github.io/hibernate-orm/asciidoc/topical/html_single/) | [Logging](https://qubitpi.github.io/hibernate-orm/asciidoc/logging/logging.html) | [Dialects](https://qubitpi.github.io/hibernate-orm/asciidoc/dialect/dialect.html) | [Migration Guide](https://qubitpi.github.io/hibernate-orm/asciidoc/migration-guide/migration-guide.html)
