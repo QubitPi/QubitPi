@@ -89,7 +89,7 @@
 
 <table><tbody>
   <tr>
-    <td colspan="2">Webservice Standards</td>
+    <td colspan="2"><b>Webservice Standards</b></td>
   </tr>
   <tr>
     <td><a href="https://qubitpi.github.io/jakartaee-rest/"><b>Jakarta RESTful Web Services</b></a></td>
