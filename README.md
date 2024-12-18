@@ -53,6 +53,7 @@
 [![wilhelm-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-ws)
 [![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
+[![wilhelm-ws-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-ws-release-definition)
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
