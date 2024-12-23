@@ -40,6 +40,8 @@ jobs:
           git clone git@github.com:QubitPi/github-profile-views-counter.git
           cd github-profile-views-counter
           cp ../config.json config.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         run: |
           git config user.name "QubitPi"
