@@ -1,0 +1,51 @@
+# Copyright Jiaqi Liu
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+---
+name: Active Forks
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  tests:
+    name: Write All Public Repos for View Count
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - name: Install dependencies
+        run: python -m pip install requests
+      - name: Write repos to config.json
+        run: python get_all_pub_repos_for_view_count.py
+      - name: Write config.json to github-profile-views-counter/config.json
+        run: |
+          git clone git@github.com:QubitPi/github-profile-views-counter.git
+          cd github-profile-views-counter
+          cp ../config.json config.json
+      - name: Commit changes
+        run: |
+          git config user.name "QubitPi"
+          git config user.email "jack20220723@gmail.com"
+          git add config.json
+          git commit -m "Update repo list"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
