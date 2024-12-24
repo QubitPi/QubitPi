@@ -121,8 +121,7 @@
 
 - **Hadoop Ecosystem** [Hadoop](https://qubitpi.github.io/hadoop/) | [Hive](https://qubitpi.github.io/hive-site/) ([Documentation](https://qubitpi.github.io/hive/))
 
-Contributor
------------
+<h2 align="center">Contributor</h2>
 
 [![Yahoo Fili](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
 [![Yahoo Elide](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
@@ -136,8 +135,7 @@ Contributor
 [![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
 [![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
-Active [Forks](https://github.com/QubitPi?tab=repositories&q=&type=fork) (having at least 1 PR merged within the last 5 days)
------------------------------------------------------------------------------------------------------------------------------
+<h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Froks</a> (having at least 1 PR merged within the last 5 days)</h2>
 
 <!-- ACTIVE-FORKS:START -->
 
