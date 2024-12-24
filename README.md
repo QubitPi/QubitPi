@@ -151,4 +151,4 @@
 [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) 
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="left" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
-<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" width="100px" src="https://github.com/QubitPi/QubitPi/blob/master/img/logo.png?raw=true" /></a>
+<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" width="50px" src="https://github.com/QubitPi/QubitPi/blob/master/img/logo.png?raw=true" /></a>
