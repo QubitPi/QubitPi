@@ -23,7 +23,11 @@ def get_active_forks():
             active_forks[repo_name] = owner
 
     if len(active_forks) == 0:
-        active_forks = '<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>'
+        active_forks = '''
+        <div align="center">
+          <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
+        </div>
+        '''
     else:
         active_forks = "\n".join([PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
 
