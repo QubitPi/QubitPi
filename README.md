@@ -60,19 +60,6 @@
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 [![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 
-<h2 align="center">DevOps <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a></h2>
-
-[![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
-[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
-
-[![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
-[![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
-[![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
-[![terraform-provider-scaffolding-framework](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-scaffolding-framework&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-scaffolding-framework)
-
-[Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/) | [Ubuntu Server](https://ubuntu-server.qubitpi.org/) | [Elastic Docs HowTo](https://elastic-docs.qubitpi.org/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://logstash.qubitpi.org/) | [Beats](https://qubitpi.github.io/elastic-beats/) | [Docker](https://docker.qubitpi.org/) | [CNCF Distribution](https://distribution.qubitpi.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/) | [LinuxServer.io](https://linuxserver.qubitpi.org/) | [LinuxServer Documentations](https://linuxserver-docs.qubitpi.org/) | [mieru](https://github.com/QubitPi/mieru) | [wg-easy](https://github.com/wg-easy/wg-easy) | [dockovpn](https://github.com/dockovpn/dockovpn) | [docker-openvpn](https://github.com/kylemanna/docker-openvpn) | [shadowsocks](https://github.com/shadowsocks/shadowsocks-org)
-
 <h2 align="center">Frontend Dev <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://jsfiddle.net/u/QubitPi/fiddles/"><img align="center" src="https://img.shields.io/badge/JSFiddle-0084FF?style=for-the-badge&logo=jsfiddle&logoColor=white" /></a></h2>
 
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
@@ -121,6 +108,19 @@
 
 - **Hadoop Ecosystem** [Hadoop](https://qubitpi.github.io/hadoop/) | [Hive](https://qubitpi.github.io/hive-site/) ([Documentation](https://qubitpi.github.io/hive/))
 
+<h2 align="center">DevOps <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a></h2>
+
+[![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
+[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
+
+[![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
+[![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
+[![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
+[![terraform-provider-scaffolding-framework](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-scaffolding-framework&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-scaffolding-framework)
+
+[Packer](https://packer.qubitpi.org/packer) | [Terraform](https://terraform.qubitpi.org/terraform) | [Terraform CDK](https://qubitpi.github.io/hashicorp-terraform-cdk/terraform/cdktf) | [Consul](https://consul.qubitpi.org/consul) | [Vault](https://qubitpi.github.io/hashicorp-vault/vault) | [Nova](https://openstack-nova.qubitpi.org/) | [Install Guide](https://qubitpi.github.io/openstack-manuals-install-guide/) | [Doc Contrib Guide](https://qubitpi.github.io/openstack-manuals-doc-contrib-guide/) | [Virtual Machine Image Guide](https://qubitpi.github.io/openstack-manuals-virtual-machine-image-guide/) | [API Quick Start Guide](https://qubitpi.github.io/openstack-manuals-api-quick-start/) | [Glossary](https://qubitpi.github.io/openstack-manuals-glossary/) | [Swift](https://qubitpi.github.io/openstack-swift/) | [python-swiftclient](https://qubitpi.github.io/openstack-python-swiftclient/) | [Ubuntu Server](https://ubuntu-server.qubitpi.org/) | [Elastic Docs HowTo](https://elastic-docs.qubitpi.org/) | [Elastic Stack](https://qubitpi.github.io/elastic-stack-docs/) | [Elasticsearch](https://qubitpi.github.io/elasticsearch/) | [Kibana](https://qubitpi.github.io/kibana/) | [Logstash](https://logstash.qubitpi.org/) | [Beats](https://qubitpi.github.io/elastic-beats/) | [Docker](https://docker.qubitpi.org/) | [CNCF Distribution](https://distribution.qubitpi.org/) | [Docker Mailserver](https://qubitpi.github.io/docker-mailserver/edge/) | [LinuxServer.io](https://linuxserver.qubitpi.org/) | [LinuxServer Documentations](https://linuxserver-docs.qubitpi.org/) | [mieru](https://github.com/QubitPi/mieru) | [wg-easy](https://github.com/wg-easy/wg-easy) | [dockovpn](https://github.com/dockovpn/dockovpn) | [docker-openvpn](https://github.com/kylemanna/docker-openvpn) | [shadowsocks](https://github.com/shadowsocks/shadowsocks-org)
+
 <h2 align="center">Contributor</h2>
 
 [![Yahoo Fili](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
@@ -136,7 +136,6 @@
 [![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Froks</a> <br/>(having at least 1 PR merged within the last 3 days)</h2>
-
 
 <!-- ACTIVE-FORKS:START -->
 
