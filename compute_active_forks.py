@@ -22,7 +22,10 @@ def get_active_forks():
             repo_name = repo["full_name"].split("/")[1]
             active_forks[repo_name] = owner
 
-    active_forks = "\n".join([PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
+    if len(active_forks) == 0:
+        active_forks = '<a href="https://github.com/QubitPi/github-profile-views-counter"><img align="right" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>'
+    else:
+        active_forks = "\n".join([PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
 
     f = open("temp.txt", "w")
     f.write(active_forks)
