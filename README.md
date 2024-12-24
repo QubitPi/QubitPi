@@ -146,8 +146,7 @@
         
 <!-- ACTIVE-FORKS:END -->
 
-Miscellaneous
--------------
+<h2 align="center">Miscellaneous</h2>
 
 [Write the Docs](https://qubitpi.github.io/writethedocs/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) 
 
