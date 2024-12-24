@@ -135,8 +135,8 @@
 [![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
 [![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
-<h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Froks</a></h2>
-<h3 align="center">(having at least 1 PR merged within the last 5 days)</h3>
+<h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Froks</a> <small>(having at least 1 PR merged within the last 5 days)</small></h2>
+
 
 <!-- ACTIVE-FORKS:START -->
 
