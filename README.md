@@ -136,8 +136,8 @@ Contributor
 [![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
 [![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
-Active Forks (having at least 1 PR merged within the last 5 days)
------------------------------------------------------------------
+Active [Forks](https://github.com/QubitPi?tab=repositories&q=&type=fork) (having at least 1 PR merged within the last 5 days)
+-----------------------------------------------------------------------------------------------------------------------------
 
 <!-- ACTIVE-FORKS:START -->
 
