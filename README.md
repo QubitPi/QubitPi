@@ -59,7 +59,7 @@
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 [![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 
-<h2 align="center">Frontend Dev <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://jsfiddle.net/u/QubitPi/fiddles/"><img align="center" src="https://img.shields.io/badge/JSFiddle-0084FF?style=for-the-badge&logo=jsfiddle&logoColor=white" /></a></h2>
+<h2 align="center">Frontend Dev <a href="https://www.npmjs.com/~jack20191124"><img align="center" src="https://img.shields.io/badge/NPM-FD640A?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://jsfiddle.net/u/QubitPi/fiddles/"><img align="center" src="https://img.shields.io/badge/JSFiddle-0084FF?style=for-the-badge&logo=jsfiddle&logoColor=white" /></a></h2>
 
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
 [![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
