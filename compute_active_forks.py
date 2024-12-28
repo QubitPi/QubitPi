@@ -4,11 +4,11 @@ import datetime
 MAX_NUM_ACTIVE_FORKS_TO_SHOW = 6
 ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
-ACTIVE_WINDOW_IN_DAYS = 5
+ACTIVE_WINDOW_IN_HOURS = 24
 
 def get_active_forks():
     today = datetime.date.today()
-    five_days_ago = today - datetime.timedelta(days=ACTIVE_WINDOW_IN_DAYS)
+    five_days_ago = today - datetime.timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
     prs = requests.get(url=ALL_MY_PRS.format(merged_after=five_days_ago)).json()["items"]
 
