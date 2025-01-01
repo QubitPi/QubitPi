@@ -39,6 +39,8 @@
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 
+![vk4501-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/vk4501-architecture.png?raw=true)
+
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
 <h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
