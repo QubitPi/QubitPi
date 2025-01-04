@@ -1,16 +1,17 @@
 import requests
-import datetime
+from datetime import datetime, timedelta
 
 MAX_NUM_ACTIVE_FORKS_TO_SHOW = 6
 ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
-ACTIVE_WINDOW_IN_DAY = 1
+ACTIVE_WINDOW_IN_HOURS = 24
+
 
 def get_active_forks():
-    today = datetime.date.today()
-    retrospection_window = today - datetime.timedelta(hours=ACTIVE_WINDOW_IN_DAY)
+    retrospection_window = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
-    prs = requests.get(url=ALL_MY_PRS.format(merged_after=retrospection_window)).json()["items"]
+    prs = requests.get(url=ALL_MY_PRS.format(merged_after=retrospection_window.strftime('%Y-%m-%dT%H:%M:%S'))).json()[
+        "items"]
 
     repository_urls = list(set([pr["repository_url"] for pr in prs]))
 
@@ -29,13 +30,14 @@ def get_active_forks():
 </div>
         '''
     else:
-        active_forks = "\n".join([PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
+        active_forks = "\n".join(
+            [PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
 
     f = open("temp.txt", "w")
     f.write(active_forks)
     f.write("\n")
     f.close()
 
-    
+
 if __name__ == '__main__':
     get_active_forks()

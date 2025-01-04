@@ -36,7 +36,7 @@ jobs:
       - name: Write active forks to temp.txt
         run: python compute_active_forks.py
       - name: Write temp.txt to README.md and put it between specified (overwrite)
-        run: sed -i -e '/<!-- ACTIVE-FORKS:START -->/,/<!-- ACTIVE-FORKS:END -->/ {//!d; /<!-- ACTIVE-FORKS:START -->/r temp.txt' -e '}' README.md
+        run: sed -i -e '/<!-- ACTIVE-FORKS:START -->/,/<!-- ACTIVE-FORKS:END -->/ {//!d; /<!-- ACTIVE-FORKS:START -->/r .github/temp.txt' -e '}' README.md
       - name: Commit changes
         run: |
           git config user.name "QubitPi"
