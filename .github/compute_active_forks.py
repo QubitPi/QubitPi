@@ -48,14 +48,18 @@ def based_on_push_events():
         events = [event for event in requests.get(url=EVENT_TEMPLATE.format(page=page)).json() if event["actor"]["login"] == "QubitPi"]
         for event in events:
             repo = event["repo"]["name"]
-            if requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo)).json()["fork"]:
-                if datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
-                    owner = "QubitPi"
-                    repo_name = repo.split("/")[1]
-                    active_forks[repo_name] = owner
-                else:
-                    write_active_forks(active_forks)
-                    exit(0)
+            repo_name = repo.split("/")[1]
+
+            if repo_name in active_forks:
+                continue
+
+            if datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
+                if requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo)).json()["fork"]:
+                    active_forks[repo_name] = "QubitPi"
+            else:
+                write_active_forks(active_forks)
+                exit(0)
+
             if len(active_forks) >= MAX_NUM_ACTIVE_FORKS_TO_SHOW:
                 write_active_forks(active_forks)
                 exit(0)
