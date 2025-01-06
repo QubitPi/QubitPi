@@ -86,8 +86,8 @@ def based_on_pr():
 
 
 def get_active_forks():
-    based_on_pr()
+    based_on_push_events()
 
 
 if __name__ == '__main__':
-    based_on_push_events()
+    get_active_forks()
