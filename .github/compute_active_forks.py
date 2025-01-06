@@ -20,8 +20,49 @@ ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} auth
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
 
+RETROSPECT_WINDOW_START = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
-def get_active_forks():
+
+def write_active_forks(active_forks: dict[str, str]):
+    if len(active_forks) == 0:
+        active_forks = '''
+    <div align="center">
+      <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
+    </div>
+            '''
+    else:
+        active_forks = "\n".join(
+            [PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
+
+    f = open("temp.txt", "w")
+    f.write(active_forks)
+    f.write("\n")
+    f.close()
+
+def based_on_push_events():
+    EVENT_TEMPLATE = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&q=fork%2Atrue"
+
+    page = 1
+    active_forks = {}
+    while True:
+        events = [event for event in requests.get(url=EVENT_TEMPLATE.format(page=page)).json() if event["actor"]["login"] == "QubitPi"]
+        for event in events:
+            repo = event["repo"]["name"]
+            if requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo)).json()["fork"]:
+                if datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
+                    owner = "QubitPi"
+                    repo_name = repo.split("/")[1]
+                    active_forks[repo_name] = owner
+                else:
+                    write_active_forks(active_forks)
+                    exit(0)
+            if len(active_forks) >= MAX_NUM_ACTIVE_FORKS_TO_SHOW:
+                write_active_forks(active_forks)
+                exit(0)
+        page = page + 1
+
+
+def based_on_pr():
     retrospection_window = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
     prs = requests.get(url=ALL_MY_PRS.format(merged_after=retrospection_window.strftime('%Y-%m-%dT%H:%M:%S'))).json()[
@@ -37,21 +78,12 @@ def get_active_forks():
             repo_name = repo["full_name"].split("/")[1]
             active_forks[repo_name] = owner
 
-    if len(active_forks) == 0:
-        active_forks = '''
-<div align="center">
-  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
-</div>
-        '''
-    else:
-        active_forks = "\n".join(
-            [PIN_TEMPLATE.format(owner=owner, repo_name=repo_name) for repo_name, owner in active_forks.items()])
+    write_active_forks(active_forks)
 
-    f = open("temp.txt", "w")
-    f.write(active_forks)
-    f.write("\n")
-    f.close()
+
+def get_active_forks():
+    based_on_pr()
 
 
 if __name__ == '__main__':
-    get_active_forks()
+    based_on_push_events()
