@@ -139,7 +139,7 @@
 [![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
 [![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
 
-<h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Froks</a> <br/>(having at least 1 push within the last 24 hours)</h2>
+<h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
