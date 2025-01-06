@@ -16,7 +16,6 @@ import requests
 from datetime import datetime, timedelta
 
 MAX_NUM_ACTIVE_FORKS_TO_SHOW = 6
-ALL_MY_PRS = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
 
@@ -40,12 +39,12 @@ def write_active_forks(active_forks: dict[str, str]):
     f.close()
 
 def based_on_push_events():
-    EVENT_TEMPLATE = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&q=fork%2Atrue"
+    qubitpi_events = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&q=fork%2Atrue"
 
     page = 1
     active_forks = {}
     while True:
-        events = [event for event in requests.get(url=EVENT_TEMPLATE.format(page=page)).json() if event["actor"]["login"] == "QubitPi"]
+        events = [event for event in requests.get(url=qubitpi_events.format(page=page)).json() if event["actor"]["login"] == "QubitPi"]
         for event in events:
             repo = event["repo"]["name"]
             repo_name = repo.split("/")[1]
@@ -67,10 +66,9 @@ def based_on_push_events():
 
 
 def based_on_pr():
-    retrospection_window = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
+    qubitpi_prs = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
 
-    prs = requests.get(url=ALL_MY_PRS.format(merged_after=retrospection_window.strftime('%Y-%m-%dT%H:%M:%S'))).json()[
-        "items"]
+    prs = requests.get(url=qubitpi_prs.format(merged_after=RETROSPECT_WINDOW_START.strftime('%Y-%m-%dT%H:%M:%S'))).json()["items"]
 
     repository_urls = list(set([pr["repository_url"] for pr in prs]))
 
