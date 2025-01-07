@@ -143,9 +143,9 @@
 
 <!-- ACTIVE-FORKS:START -->
 
-    <div align="center">
-      <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
-    </div>
+<div align="center">
+  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
+</div>
             
 <!-- ACTIVE-FORKS:END -->
 
