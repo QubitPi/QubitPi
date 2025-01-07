@@ -25,9 +25,9 @@ RETROSPECT_WINDOW_START = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOUR
 def write_active_forks(active_forks: dict[str, str]):
     if len(active_forks) == 0:
         active_forks = '''
-    <div align="center">
-      <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
-    </div>
+<div align="center">
+  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
+</div>
             '''
     else:
         active_forks = "\n".join(
