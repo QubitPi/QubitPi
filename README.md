@@ -126,9 +126,11 @@
 
 <h2 align="center">DevOps <a href="https://hub.docker.com/r/jack20191124/"><img align="center" src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a></h2>
 
-[![](https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
-[![](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white)](https://youtu.be/locCs2Duk5U)
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu-server.qubitpi.org/)
+<div align="center">
+    <a href="https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=hashicorp" /></a>
+    <a href="https://youtu.be/locCs2Duk5U"><img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white" /></a>
+    <a href="https://ubuntu-server.qubitpi.org/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+</div>
 
 [![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
 [![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
