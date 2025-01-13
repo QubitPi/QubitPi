@@ -66,6 +66,8 @@
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
 
+[![project-planning](https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/QubitPi/projects/11)
+
 [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph)
 [![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/)
 
