@@ -40,17 +40,20 @@
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
-[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react)](https://github.com/QubitPi/VK-45.01)
-[![Porsche](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Porsche&show_owner=true&theme=dracula)](https://github.com/QubitPi/Porsche)
-[![Engine-HL230](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Engine-HL230)
-[![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
 [![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=react)](https://github.com/QubitPi/alexandria)
+
+[MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
+
+<h2 align="center"><a href="https://vk4501.qubitpi.org/">VK-45.01</a></h2>
 
 [![project-planning](https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/QubitPi/projects/9)
 
 ![vk4501-architecture](https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true)
 
-[MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
+[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react)](https://github.com/QubitPi/VK-45.01)
+[![Engine-HL230](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Engine-HL230)
+[![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
+[![Porsche](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Porsche&show_owner=true&theme=dracula)](https://github.com/QubitPi/Porsche)
 
 <h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
 
