@@ -165,7 +165,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
-[![HanLP](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=HanLP&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/HanLP)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
