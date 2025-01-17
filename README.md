@@ -64,7 +64,7 @@
 ![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
 
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
-[![wilhelm-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-ws)
+[![bertok](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange)](https://github.com/QubitPi/bertok)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
 [![wilhelm-ws-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-ws-release-definition)
