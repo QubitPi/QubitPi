@@ -39,7 +39,7 @@ def write_active_forks(active_forks: dict[str, str]):
     f.close()
 
 def based_on_push_events():
-    qubitpi_events = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&q=fork%2Atrue"
+    qubitpi_events = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&sort=created&direction=desc"
 
     page = 1
     active_forks = {}
