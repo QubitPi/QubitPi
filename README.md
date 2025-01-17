@@ -58,9 +58,6 @@
 
 <h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
 
-[![]()]()
-[![project-planning]()]()
-
 <div align="center">
     <a href="https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary"><img src="https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" /></a>
     <a href="https://github.com/users/QubitPi/projects/10"><img src="https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
