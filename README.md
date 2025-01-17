@@ -58,8 +58,14 @@
 
 <h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
 
-[![wilhelm-vocabulary](https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary)
-[![project-planning](https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/QubitPi/projects/10)
+[![]()]()
+[![project-planning]()]()
+
+<div align="center">
+    <a href="https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary"><img src="https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" /></a>
+    <a href="https://github.com/users/QubitPi/projects/10"><img src="https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://bertok.wilhelmlang.com/"><img src="https://img.shields.io/badge/bertok.wilhelmlang.com-FF5A35?style=for-the-badge" /></a>
+</div>
 
 ![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
 
