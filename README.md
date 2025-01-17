@@ -56,7 +56,7 @@
 [![eastern-front-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=eastern-front-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/eastern-front-tests)
 [![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
 
-<h2 align="center"><a href="https://wilhelmlang.com/">wilhelmlang.com</a></h2>
+<h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
 <div align="center">
     <a href="https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary"><img src="https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" /></a>
