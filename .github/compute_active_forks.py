@@ -11,11 +11,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+import sys
 
 import requests
 from datetime import datetime, timedelta
 
-MAX_NUM_ACTIVE_FORKS_TO_SHOW = 6
+MAX_NUM_ACTIVE_FORKS_TO_SHOW = 30
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
 
