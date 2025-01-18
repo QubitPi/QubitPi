@@ -172,7 +172,6 @@
 [![wiktionary-data](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/wiktionary-data)
 [![tiger](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/tiger)
 [![wilhelm](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/wilhelm)
-[![flair](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=flair&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/flair)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
