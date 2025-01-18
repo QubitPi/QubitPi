@@ -167,7 +167,8 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
-[![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
+[![lamassu](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=lamassu&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/lamassu)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/aristotle)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
