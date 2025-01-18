@@ -168,7 +168,7 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
-[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/aristotle)
+[![aristotle](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=aristotle&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/aristotle)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
