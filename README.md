@@ -91,7 +91,7 @@
 
 [![genshin-teaming-videos](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=genshin-teaming-videos&show_owner=true&theme=react)](https://github.com/QubitPi/genshin-teaming-videos)
 [![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
-[![react-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=react-template&show_owner=true&theme=react)](https://github.com/QubitPi/react-template)
+[![fast-ui](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ui&show_owner=true&theme=react)](https://github.com/QubitPi/fast-ui)
 [![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/Qubitpi/neo4j-browser)
 
 - [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://qubitpi.github.io/babel-website/) | [Jest](https://qubitpi.github.io/jest/) | [testing-library](https://qubitpi.github.io/testing-library-docs/) | [Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [Redux](https://qubitpi.github.io/redux/) | [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://qubitpi.github.io/lexical/) | [Docusaurus](https://docusaurus.qubitpi.org/)
