@@ -100,7 +100,7 @@
 
 <div align="center">
     <a href="https://fastws.qubitpi.org/"><img src="https://img.shields.io/badge/fastws.qubitpi.org-F7941E?style=for-the-badge" /></a>
-    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img align="center" src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
+    <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
 </div>
 
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
