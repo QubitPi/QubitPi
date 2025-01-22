@@ -100,7 +100,7 @@
 
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
-[![jersey-webservice-template](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template)
+[![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
 [![jersey-webservice-template-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-acceptance-tests)
 
 <div align="center">
