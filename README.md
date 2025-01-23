@@ -175,7 +175,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![spring-initializr](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=spring-initializr&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/spring-initializr)
-[![start.spring.io](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=start.spring.io&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/start.spring.io)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
