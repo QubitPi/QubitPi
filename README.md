@@ -175,8 +175,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![fast-ui](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=fast-ui&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/fast-ui)
-[![redux-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux-toolkit&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/redux-toolkit)
-[![react-redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-redux&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-redux)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
