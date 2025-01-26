@@ -65,6 +65,7 @@
 </div>
 
 ![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
+![wilhelm-tech-architecture-scaling](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture-scaling.png?raw=true)
 
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
 [![bertok](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange)](https://github.com/QubitPi/bertok)
