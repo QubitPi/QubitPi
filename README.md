@@ -74,7 +74,7 @@
 [![bertok-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/bertok-release-definition)
 [![wilhelm-vocabulary-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary-acceptance-tests&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-vocabulary-acceptance-tests)
 
-<h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
+<h2 align="center"><a href="https://nexusgraph.qubitpi.org">nexusgraph.qubitpi.org</a></h2>
 
 [![project-planning](https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/QubitPi/projects/11)
 
