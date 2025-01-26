@@ -71,7 +71,7 @@
 [![bertok](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange)](https://github.com/QubitPi/bertok)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
-[![wilhelm-ws-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-ws-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-ws-release-definition)
+[![bertok-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/bertok-release-definition)
 [![wilhelm-vocabulary-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary-acceptance-tests&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-vocabulary-acceptance-tests)
 
 <h2 align="center"><a href="https://nexusgraph.com/">nexusgraph.com</a></h2>
