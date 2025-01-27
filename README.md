@@ -171,6 +171,7 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
+[![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
 [![VK-45.01](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=VK-45.01&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/VK-45.01)
 [![nexusgraph](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=nexusgraph&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/nexusgraph)
 <!-- ACTIVE-FORKS:END -->
