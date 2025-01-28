@@ -172,7 +172,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![awesome-tools](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=awesome-tools&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/awesome-tools)
-[![VK-45.01](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=VK-45.01&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/VK-45.01)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
