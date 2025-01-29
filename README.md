@@ -8,7 +8,7 @@
     <a href="https://enka.network/u/MyFavoriteCharacters"><img src="https://img.shields.io/badge/原神-【烬火】胡桃-FF5A35?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD" alt="原神"/></a>
     <a href="https://www.youtube.com/@QubitPi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=adblockplus&logoColor=white" alt="YouTube"/></a>
     <a href="https://meet.google.com/landing"><img src="https://img.shields.io/badge/Google%20Meet-jack20220723@gmail.com-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=34A853" alt="Google Meet"/></a>
-    <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/badge/Scheduled%20Tasks-181717?style=for-the-badge&logo=github&logoColor=white" alt="project-planning"/></a>
+    <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=Scheduled%20Tasks&labelColor=181717&color=181717" alt="project-planning"/></a>
 </div>
 
 🇨🇳 致力于**数据**驱动的自然**语言**处理和知识图谱 __C__ 端应用。毕业于 [UIUC](https://baike.baidu.com/item/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%A4%A7%E5%AD%A6%E5%8E%84%E5%B7%B4%E7%BA%B3-%E9%A6%99%E6%A7%9F%E5%88%86%E6%A0%A1/3959383?fr=ge_ala) ，工院小玉米一枚(工程物理学士 & CS 硕士)，工作之余仍然喜欢[学习物理](https://github.com/QubitPi/general-relativity)
