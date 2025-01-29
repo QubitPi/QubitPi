@@ -173,7 +173,7 @@
 <!-- ACTIVE-FORKS:START -->
 
 <div align="center">
-  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" />
+  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="60%" />
 </div>
             
 <!-- ACTIVE-FORKS:END -->
