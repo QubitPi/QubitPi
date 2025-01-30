@@ -171,6 +171,7 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
+[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/progit2)
 <!-- ACTIVE-FORKS:END -->
 
