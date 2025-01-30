@@ -172,6 +172,7 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
+[![nx-guides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=nx-guides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/nx-guides)
 [![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/progit2)
 <!-- ACTIVE-FORKS:END -->
 
