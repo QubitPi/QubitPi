@@ -55,7 +55,7 @@
 
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
-<a href="https://huggingface.co/datasets/QubitPi/wiktionary-data" align="center"><img src="https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" alt="wiktionary-data"/></a>
+<a href="https://huggingface.co/datasets/QubitPi/wiktionary-data"><img align="center" src="https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" alt="wiktionary-data"/></a>
 
 <img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="45%" />
 <a href="https://github.com/QubitPi/wilhelm"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
