@@ -35,12 +35,10 @@
 [![Tiger](https://img.shields.io/badge/Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
 [![Aristotle](https://img.shields.io/badge/Space-aristotle-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/aristotle)
 [![Lamassu](https://img.shields.io/badge/Space-lamassu-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/lamassu)
-[![wiktionary-data](https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/datasets/QubitPi/wiktionary-data)
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
-[![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![alexandria](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=alexandria&show_owner=true&theme=react)](https://github.com/QubitPi/alexandria)
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [flair](https://flair.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
@@ -57,11 +55,14 @@
 
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="50%" />
-<a href="https://github.com/QubitPi/wilhelm" align="right"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
-<a href="https://github.com/QubitPi/bertok"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange" alt="bertok"/></a>
-<a href="https://github.com/QubitPi/wilhelm-data-loader"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange" alt="wilhelm-data-loader"/></a>
+<a href="https://huggingface.co/datasets/QubitPi/wiktionary-data" align="center"><img src="https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" alt="wiktionary-data"/></a>
 
+<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="45%" />
+<a href="https://github.com/QubitPi/wilhelm"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
+<a href="https://github.com/QubitPi/bertok"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange" alt="bertok"/></a>
+<a href="https://github.com/QubitPi/wiktionary-data"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark" alt="wiktionary-data"/></a>
+
+[![wilhelm-data-loader](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange)](https://github.com/QubitPi/wilhelm-data-loader)
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![bertok-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/bertok-release-definition)
 [![wilhelm-vocabulary-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary-acceptance-tests&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-vocabulary-acceptance-tests)
