@@ -57,7 +57,7 @@
 
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="45%" />
+<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="50%" />
 <a href="https://github.com/QubitPi/wilhelm" align="right"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
 <a href="https://github.com/QubitPi/bertok"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange" alt="bertok"/></a>
 <a href="https://github.com/QubitPi/wilhelm-data-loader"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-data-loader&show_owner=true&theme=slateorange" alt="wilhelm-data-loader"/></a>
