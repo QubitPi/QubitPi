@@ -60,9 +60,8 @@
 <div align="center">
     <a href="https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary"><img src="https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" /></a>
     <a href="https://bertok.wilhelmlang.com/"><img src="https://img.shields.io/badge/bertok.wilhelmlang.com-56544D?style=for-the-badge" /></a>
+    <img src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" />
 </div>
-
-![wilhelm-tech-architecture](https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true)
 
 [![wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/wilhelm)
 [![bertok](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange)](https://github.com/QubitPi/bertok)
