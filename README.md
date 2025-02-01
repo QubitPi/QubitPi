@@ -58,8 +58,6 @@
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
 <div align="center">
-    <a href="https://huggingface.co/datasets/QubitPi/wilhelm-vocabulary"><img src="https://img.shields.io/badge/Datasets-wilhelm--vocabulary-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" /></a>
-    <a href="https://bertok.wilhelmlang.com/"><img src="https://img.shields.io/badge/bertok.wilhelmlang.com-56544D?style=for-the-badge" /></a>
     <img src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="400px" />
 </div>
 
