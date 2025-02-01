@@ -32,10 +32,6 @@
     <a href="https://huggingface.co/QubitPi">Natural Language Processing</a>
 </h2>
 
-[![Tiger](https://img.shields.io/badge/Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
-[![Aristotle](https://img.shields.io/badge/Space-aristotle-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/aristotle)
-[![Lamassu](https://img.shields.io/badge/Space-lamassu-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/lamassu)
-
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![aristotle](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=aristotle&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/aristotle)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
@@ -54,8 +50,6 @@
 [![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
 
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
-
-<a href="https://huggingface.co/datasets/QubitPi/wiktionary-data"><img align="center" src="https://img.shields.io/badge/Datasets-wiktionary--data-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280" alt="wiktionary-data"/></a>
 
 <img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="45%" />
 <a href="https://github.com/QubitPi/wilhelm"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
