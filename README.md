@@ -29,7 +29,7 @@
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
 <h2 align="center">
-    <a href="https://huggingface.co/QubitPi">Made for Language Learners</a>
+    <a href="https://huggingface.co/QubitPi">Natural Language Processing</a>
 </h2>
 
 [![Tiger](https://img.shields.io/badge/Space-tiger-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6B7280)](https://huggingface.co/spaces/QubitPi/tiger)
@@ -57,7 +57,7 @@
 
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
-<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="35%" />
+<img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="45%" />
 <a href="https://github.com/QubitPi/wilhelm" align="right"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm&show_owner=true&theme=react" alt="wilhelm"/></a>
 <a href="https://github.com/QubitPi/bertok"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok&show_owner=true&theme=slateorange" alt="bertok"/></a>
 <a href="https://github.com/QubitPi/wilhelm-vocabulary"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark" alt="wilhelm-vocabulary"/></a>
