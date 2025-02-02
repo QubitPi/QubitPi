@@ -53,7 +53,7 @@
 
 <h2 align="center"><a href="https://vk4501.qubitpi.org/">VK-45.01</a></h2>
 
-<img align="left" src="https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true" width="40%" />
+<img align="left" src="https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true" width="45%" />
 <a href="https://github.com/QubitPi/VK-45.01"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react" alt="VK-45.01"/></a>
 <a href="https://github.com/QubitPi/Engine-HL230"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange" alt="Engine-HL230"/></a>
 
