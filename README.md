@@ -39,16 +39,6 @@
 
 [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [flair](https://flair.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
-<h2 align="center"><a href="https://vk4501.qubitpi.org/">VK-45.01</a></h2>
-
-![vk4501-architecture](https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true)
-
-[![VK-45.01](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react)](https://github.com/QubitPi/VK-45.01)
-[![Porsche](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Porsche&show_owner=true&theme=dracula)](https://github.com/QubitPi/Porsche)
-[![Engine-HL230](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Engine-HL230)
-[![eastern-front-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=eastern-front-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/eastern-front-tests)
-[![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
-
 <h2 align="center"><a href="https://wilhelm.qubitpi.org/">wilhelm.qubitpi.org</a></h2>
 
 <img align="left" src="https://github.com/QubitPi/QubitPi/blob/master/img/wilhelm-tech-architecture.png?raw=true" width="50%" />
@@ -60,6 +50,16 @@
 [![wilhelm-vocabulary](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wilhelm-vocabulary)
 [![bertok-release-definition](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=bertok-release-definition&show_owner=true&theme=dracula)](https://github.com/QubitPi/bertok-release-definition)
 [![wilhelm-vocabulary-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wilhelm-vocabulary-acceptance-tests&show_owner=true&theme=dracula)](https://github.com/QubitPi/wilhelm-vocabulary-acceptance-tests)
+
+<h2 align="center"><a href="https://vk4501.qubitpi.org/">VK-45.01</a></h2>
+
+<img align="left" src="https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true" width="40%" />
+<a href="https://github.com/QubitPi/VK-45.01"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react" alt="VK-45.01"/></a>
+<a href="https://github.com/QubitPi/Engine-HL230"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange" alt="Engine-HL230"/></a>
+
+[![Porsche](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Porsche&show_owner=true&theme=dracula)](https://github.com/QubitPi/Porsche)
+[![eastern-front-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=eastern-front-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/eastern-front-tests)
+[![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
 
 <h2 align="center"><a href="https://nexusgraph.qubitpi.org">nexusgraph.qubitpi.org</a></h2>
 
