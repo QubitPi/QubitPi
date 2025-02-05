@@ -163,7 +163,6 @@
 [![alexandria](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=alexandria&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/alexandria)
 [![wilhelm](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=wilhelm&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/wilhelm)
 [![fast-ui](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=fast-ui&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/fast-ui)
-[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TypeScript-Website)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
