@@ -161,10 +161,9 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
+[![jest](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/jest)
 [![alexandria](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=alexandria&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/alexandria)
 [![wilhelm](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=wilhelm&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/wilhelm)
-[![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
-[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=progit2&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/progit2)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
