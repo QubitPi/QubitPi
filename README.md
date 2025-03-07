@@ -162,7 +162,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
-[![chatbot-ws](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=chatbot-ws&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/chatbot-ws)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
