@@ -162,7 +162,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![chatbot-ws](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=chatbot-ws&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/chatbot-ws)
-[![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=testcontainers-java&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/testcontainers-java)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
