@@ -163,7 +163,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![fast-spring](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=fast-spring&show_owner=true&theme=ambient_gradient)](https://github.com/paion-data/fast-spring)
-[![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
