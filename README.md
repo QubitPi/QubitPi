@@ -38,16 +38,6 @@
 
 [Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [flair](https://flair.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/)
 
-<h2 align="center"><a href="https://vk4501.qubitpi.org/">VK-45.01</a></h2>
-
-<img align="left" src="https://github.com/QubitPi/Porsche/blob/master/docs/vk4501-architecture.png?raw=true" width="45%" />
-<a href="https://github.com/QubitPi/VK-45.01"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=VK-45.01&show_owner=true&theme=react" alt="VK-45.01"/></a>
-<a href="https://github.com/QubitPi/Engine-HL230"><img src="https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Engine-HL230&show_owner=true&theme=slateorange" alt="Engine-HL230"/></a>
-
-[![Porsche](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Porsche&show_owner=true&theme=dracula)](https://github.com/QubitPi/Porsche)
-[![eastern-front-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=eastern-front-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/eastern-front-tests)
-[![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
-
 <h2 align="center">Frontend Dev</h2>
 
 <div align="center">
