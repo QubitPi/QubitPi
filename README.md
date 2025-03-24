@@ -60,11 +60,6 @@
 [![eastern-front-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=eastern-front-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/eastern-front-tests)
 [![docker-swift-onlyone](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=docker-swift-onlyone&show_owner=true&theme=slateorange)](https://github.com/QubitPi/docker-swift-onlyone)
 
-[comment]: <> ( <h2 align="center"><a href="https://nexusgraph.qubitpi.org">nexusgraph.qubitpi.org</a></h2> )
-
-[comment]: <> ( [![nexusgraph](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph) )
-[comment]: <> ( [![nexusgraph-landing](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=nexusgraph-landing&show_owner=true&theme=react)](https://github.com/Qubitpi/nexusgraph-landing/) )
-
 <h2 align="center">Frontend Dev</h2>
 
 <div align="center">
