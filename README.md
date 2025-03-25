@@ -66,6 +66,7 @@
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
 [![chatbot-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=chatbot-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/chatbot-ws)
 [![jersey-webservice-template-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=jersey-webservice-template-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/jersey-webservice-template-acceptance-tests)
+[![intellij-theme-ubuntu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=slateorange)](https://github.com/QubitPi/intellij-theme-ubuntu)
 
 <div align="center">
 
