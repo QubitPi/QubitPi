@@ -48,7 +48,6 @@
 </div>
 
 [![genshin-teaming-videos](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=genshin-teaming-videos&show_owner=true&theme=react)](https://github.com/QubitPi/genshin-teaming-videos)
-[![graph-db-import-web](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graph-db-import-web&show_owner=true&theme=react)](https://github.com/QubitPi/graph-db-import-web)
 [![fast-ui](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ui&show_owner=true&theme=react)](https://github.com/QubitPi/fast-ui)
 [![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/Qubitpi/neo4j-browser)
 
