@@ -1,4 +1,5 @@
 <div align="center">
+    <a href="https://trello.com/b/Ig7cAgKv"><img src="https://img.shields.io/badge/Reading%20List%20on%20Language-0166FF?style=for-the-badge&logo=trello&logoColor=white" alt="Reading List"/></a>
     <a href="https://huggingface.co/QubitPi"><img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt=""/></a>
     <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
     <a href="https://jupyter-notebooks.qubitpi.org/"><img src="https://img.shields.io/badge/Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebooks"/></a>
