@@ -38,9 +38,8 @@ def write_active_forks(active_forks: dict[str, str]):
     f.write("\n")
     f.close()
 
-MAX_PAGE = 24
 
-def based_on_push_events():
+def get_active_forks():
     page = 1
     active_forks = {}
     while True:
@@ -57,10 +56,6 @@ def based_on_push_events():
                 active_forks[repo_name] = repo_owner
         page = page + 1
     write_active_forks(active_forks)
-
-
-def get_active_forks():
-    based_on_push_events()
 
 
 if __name__ == '__main__':
