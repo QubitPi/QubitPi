@@ -51,6 +51,8 @@ def based_on_push_events():
             repo_owner = repo.split("/")[0]
             repo_name = repo.split("/")[1]
 
+            print("repo=" + repo)
+
             if repo_name in active_forks:
                 continue
 
