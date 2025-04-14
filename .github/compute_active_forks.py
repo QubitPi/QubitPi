@@ -50,7 +50,7 @@ def based_on_push_events():
         events_data = requests.get(url=qubitpi_events.format(page=page)).json()
         if len(events_data) == 0:
             break
-        events = [event for event in events_data if event["actor"]["login"] == "QubitPi"]
+        events = [event for event in events_data if "actor" in event and "login" in event["actor"] and event["actor"]["login"] == "QubitPi"]
         for event in events:
             repo = event["repo"]["name"]
             repo_owner = repo.split("/")[0]
