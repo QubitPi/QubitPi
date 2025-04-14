@@ -39,9 +39,7 @@ def write_active_forks(active_forks: dict[str, str]):
     f.write("\n")
     f.close()
 
-
 MAX_PAGE = 24
-
 
 def based_on_push_events():
     qubitpi_events = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&sort=created&direction=desc"
@@ -49,8 +47,10 @@ def based_on_push_events():
     page = 1
     active_forks = {}
     while page <= MAX_PAGE:
-        events = [event for event in requests.get(url=qubitpi_events.format(page=page)).json() if
-                  event["actor"]["login"] == "QubitPi"]
+        events_data = requests.get(url=qubitpi_events.format(page=page)).json()
+        if len(events_data) == 0:
+            break
+        events = [event for event in events_data if event["actor"]["login"] == "QubitPi"]
         for event in events:
             repo = event["repo"]["name"]
             repo_owner = repo.split("/")[0]
@@ -77,7 +77,6 @@ def based_on_push_events():
             #     write_active_forks(active_forks)
             #     exit(0)
         page = page + 1
-
     write_active_forks(active_forks)
 
 
