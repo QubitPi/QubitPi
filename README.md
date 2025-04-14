@@ -133,7 +133,9 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
+[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![MailHog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MailHog&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MailHog)
+[![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
