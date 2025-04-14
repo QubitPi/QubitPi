@@ -56,7 +56,7 @@ def based_on_push_events():
 
             if datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
                 response = requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo))
-                if "fork" in response.json && response.json()["fork"]:
+                if "fork" in response.json and response.json()["fork"]:
                     active_forks[repo_name] = repo_owner
             else:
                 write_active_forks(active_forks)
