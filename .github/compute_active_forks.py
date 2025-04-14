@@ -48,6 +48,8 @@ def based_on_push_events():
         if len(paged_forks) == 0:
             break
         for fork in paged_forks:
+            if fork["fork"] == False:
+                continue
             repo_owner = fork["full_name"].split("/")[0]
             repo_name = fork["full_name"].split("/")[1]
             last_commit = fork["updated_at"]
