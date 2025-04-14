@@ -133,10 +133,7 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
-[![fast-ws](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/fast-ws)
-[![github-profile-views-counter](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=github-profile-views-counter&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/github-profile-views-counter)
 [![MailHog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MailHog&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MailHog)
-[![QubitPi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=QubitPi&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/QubitPi)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Miscellaneous</h2>
