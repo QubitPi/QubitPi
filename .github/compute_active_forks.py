@@ -18,7 +18,6 @@ from datetime import datetime, timedelta
 
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
-
 RETROSPECT_WINDOW_START = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
 
