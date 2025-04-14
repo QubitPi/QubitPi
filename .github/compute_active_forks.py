@@ -16,7 +16,6 @@ import sys
 import requests
 from datetime import datetime, timedelta
 
-MAX_NUM_ACTIVE_FORKS_TO_SHOW = 30
 PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
 
@@ -42,60 +41,20 @@ def write_active_forks(active_forks: dict[str, str]):
 MAX_PAGE = 24
 
 def based_on_push_events():
-    qubitpi_events = "https://api.github.com/users/QubitPi/events?page={page}&per_page=10&sort=created&direction=desc"
-
     page = 1
     active_forks = {}
-    while page <= MAX_PAGE:
-        events_data = requests.get(url=qubitpi_events.format(page=page)).json()
-        if len(events_data) == 0:
+    while True:
+        paged_forks = requests.get(url="https://api.github.com/users/QubitPi/repos?type=forks&page={page}&per_page=10".format(page=page)).json()
+        if len(paged_forks) == 0:
             break
-        events = [event for event in events_data if "actor" in event and "login" in event["actor"] and event["actor"]["login"] == "QubitPi"]
-        for event in events:
-            repo = event["repo"]["name"]
-            repo_owner = repo.split("/")[0]
-            repo_name = repo.split("/")[1]
-
-            print("repo=" + repo)
-
-            if repo_name in active_forks:
-                continue
-
-            response = requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo))
-            if "fork" in response.json() and response.json()["fork"]:
+        for fork in paged_forks:
+            repo_owner = fork["full_name"].split("/")[0]
+            repo_name = fork["full_name"].split("/")[1]
+            last_commit = fork["updated_at"]
+            if datetime.strptime(last_commit, "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
                 active_forks[repo_name] = repo_owner
-
-            # if datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
-            #     response = requests.get("https://api.github.com/repos/{OWNER_SLASH_REPO}".format(OWNER_SLASH_REPO=repo))
-            #     if "fork" in response.json() and response.json()["fork"]:
-            #         active_forks[repo_name] = repo_owner
-            # else:
-            #     write_active_forks(active_forks)
-            #     exit(0)
-            #
-            # if len(active_forks) >= MAX_NUM_ACTIVE_FORKS_TO_SHOW:
-            #     write_active_forks(active_forks)
-            #     exit(0)
         page = page + 1
     write_active_forks(active_forks)
-
-
-# def based_on_pr():
-#     qubitpi_prs = "https://api.github.com/search/issues?q=merged:>{merged_after} author:QubitPi type:pr"
-#
-#     prs = requests.get(url=qubitpi_prs.format(merged_after=RETROSPECT_WINDOW_START.strftime('%Y-%m-%dT%H:%M:%S'))).json()["items"]
-#
-#     repository_urls = list(set([pr["repository_url"] for pr in prs]))
-#
-#     active_forks = {}
-#     for repository_url in repository_urls:
-#         repo = requests.get(url=repository_url).json()
-#         if repo["fork"] is True and len(active_forks) <= MAX_NUM_ACTIVE_FORKS_TO_SHOW:
-#             owner = repo["full_name"].split("/")[0]
-#             repo_name = repo["full_name"].split("/")[1]
-#             active_forks[repo_name] = owner
-#
-#     write_active_forks(active_forks)
 
 
 def get_active_forks():
