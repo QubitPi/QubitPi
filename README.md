@@ -120,7 +120,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
-[![MailHog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MailHog&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MailHog)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
