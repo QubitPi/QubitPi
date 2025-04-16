@@ -120,6 +120,7 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![docker-registry-ui](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-registry-ui&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-registry-ui)
+[![MiniSearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MiniSearch&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MiniSearch)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
