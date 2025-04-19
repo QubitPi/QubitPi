@@ -16,7 +16,7 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
     <a href="https://huggingface.co/QubitPi">Natural Language Processing</a>
 </h2>
 
-[Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Memgraph NextworkX Guide](https://qubitpi.github.io/memgraph-networkx-guide/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [flair](https://flair.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](https://qubitpi.github.io/cpython/)
+[Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [flair](https://flair.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](https://qubitpi.github.io/cpython/)
 
 <h2 align="center">Frontend Dev</h2>
 
@@ -75,7 +75,6 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
   - **Graph Database**
     - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/arango-logo.png?raw=true" width="40px" /> [ArangoDB Documentations](https://arango.qubitpi.org/) | [Python Driver](https://arango-python.qubitpi.org) | [Java Driver](https://arango-java.qubitpi.org/)
     - <img src="https://github.com/QubitPi/QubitPi/blob/master/img/neo4j-logo.png?raw=true" width="30px" /> &nbsp; [Neo4j Getting Started Guide](https://qubitpi.github.io/neo4j-docs-getting-started/getting-started/) | [Neo4j Java Driver](https://neo4j-driver.qubitpi.org/java-manual/5/) ([Javadocs](https://neo4j-java-driver.qubitpi.org/)) | [Neo4J Browser](https://neo4j-browser.qubitpi.org/) | [Cypher](https://qubitpi.github.io/docs-cypher/) | [Movies Graph Example](https://neo4j-graph-examples-movies.qubitpi.org/neo4j-graph-examples-movie/1/movies/) | [Healthcare Analytics Graph Examples](https://qubitpi.github.io/neo4j-graph-examples-healthcare-analytics/neo4j-graph-examples-healthcare-analytics/1/healthcare-analytics/) | [Network Management Graph Example](https://qubitpi.github.io/neo4j-graph-examples-network-management/neo4j-graph-examples-network-management/1/network-management/) | [Stack Overflow](https://qubitpi.github.io/neo4j-graph-examples-stackoverflow/neo4j-graph-examples-stackoverflow/1/stackoverflow)
-    - [Memgraph](https://qubitpi.github.io/memgraph-docs/)
 
 - **Hadoop Ecosystem** [Hadoop](http://hadoop.qubitpi.org/) | [Hive](https://qubitpi.github.io/hive-site/) ([Documentation](https://qubitpi.github.io/hive/))
 
