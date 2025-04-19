@@ -98,7 +98,6 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
 
 <!-- ACTIVE-FORKS:START -->
 [![graphql-java-page](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphql-java-page&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphql-java-page)
-[![MiniSearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MiniSearch&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MiniSearch)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
