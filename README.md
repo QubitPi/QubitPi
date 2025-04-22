@@ -97,6 +97,7 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
+[![handson-ml2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=handson-ml2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/handson-ml2)
 [![jersey](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jersey)
 [![jersey.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jersey.github.io)
 [![MiniSearch](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MiniSearch&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MiniSearch)
