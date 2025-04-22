@@ -98,6 +98,7 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
 
 <!-- ACTIVE-FORKS:START -->
 [![jersey](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jersey)
+[![jersey.github.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jersey.github.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jersey.github.io)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
