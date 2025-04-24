@@ -99,7 +99,7 @@ I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum M
 <!-- ACTIVE-FORKS:START -->
 
 <div align="center">
-  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="60%" />
+  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="80%" />
 </div>
             
 <!-- ACTIVE-FORKS:END -->
