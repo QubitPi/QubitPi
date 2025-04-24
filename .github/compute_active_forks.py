@@ -25,7 +25,7 @@ def write_active_forks(active_forks: dict[str, str]):
     if len(active_forks) == 0:
         active_forks = '''
 <div align="center">
-  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="60%" />
+  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="80%" />
 </div>
             '''
     else:
