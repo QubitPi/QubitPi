@@ -47,7 +47,6 @@
 <h2 align="center">Backend Dev</h2>
 
 <div align="center">
-    <a href="https://fastws.qubitpi.org/"><img src="https://img.shields.io/badge/fastws.qubitpi.org-F7941E?style=for-the-badge" /></a>
     <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
 </div>
 
