@@ -50,13 +50,12 @@
     <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
 </div>
 
-[![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
+[![chatbot-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=chatbot-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/chatbot-ws)
+[![notification-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=notification-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/notification-ws)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
 [![fast-ws-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws-acceptance-tests)
-[![chatbot-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=chatbot-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/chatbot-ws)
-[![notification-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=notification-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/notification-ws)
-[![intellij-theme-ubuntu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=intellij-theme-ubuntu&show_owner=true&theme=slateorange)](https://github.com/QubitPi/intellij-theme-ubuntu)
+[![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 
 <div align="center">
 
