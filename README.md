@@ -109,7 +109,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mieru)
-[![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
