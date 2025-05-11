@@ -89,7 +89,6 @@
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(having at least 1 push by @QubitPi within the last 24 hours)</h2>
 
 <!-- ACTIVE-FORKS:START -->
-[![arrows.app](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arrows.app&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arrows.app)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 <!-- ACTIVE-FORKS:END -->
 
