@@ -30,7 +30,9 @@
 </div>
 
 [![chatbot-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=chatbot-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/chatbot-ws)
+[![entity-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=entity-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/entity-ws)
 [![notification-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=notification-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/notification-ws)
+[![email-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=email-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/email-ws)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![athena](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=athena&show_owner=true&theme=slateorange)](https://github.com/QubitPi/athena)
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
