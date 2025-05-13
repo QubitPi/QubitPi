@@ -108,6 +108,7 @@
 [![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
+[![mini-qr](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mini-qr&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mini-qr)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 <!-- ACTIVE-FORKS:END -->
 
