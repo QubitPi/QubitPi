@@ -12,17 +12,17 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ---
-name: Active Forks
+name: Sync Forks
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every day at 7 pm
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 jobs:
   tests:
-    name: Update Active Forks Section
+    name: Sync Forks
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -32,17 +32,20 @@ jobs:
         with:
           python-version: '3.10' 
       - name: Install dependencies
-        run: python -m pip install requests
-      - name: Write active forks to temp.txt
-        run: python .github/compute_active_forks.py
+        working-directory: sync-forks
+        run: pip3 install -r requirements.txt
+      - name: Sync forks
+        working-directory: sync-forks
+        run: python3 sync.py
       - name: Write temp.txt to README.md and put it between specified (overwrite)
-        run: sed -i -e '/<!-- ACTIVE-FORKS:START -->/,/<!-- ACTIVE-FORKS:END -->/ {//!d; /<!-- ACTIVE-FORKS:START -->/r temp.txt' -e '}' README.md
+        working-directory: sync-forks
+        run: sed -i -e '/<!-- FAILED-FORKS:START -->/,/<!-- FAILED-FORKS:END -->/ {//!d; /<!-- FAILED-FORKS:START -->/r temp.txt' -e '}' README.md
       - name: Commit changes
         run: |
           git config user.name "QubitPi"
           git config user.email "jack20220723@gmail.com"
           git add README.md
-          git commit -m "Update 'Active Forks' section"
+          git commit -m "Update 'Sync Forks' section"
           git push origin master -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

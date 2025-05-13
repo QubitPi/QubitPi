@@ -101,10 +101,13 @@
 
 <h2 align="center">Active <a href="https://github.com/QubitPi?tab=repositories&q=&type=fork">Forks</a> <br/>(updated by @QubitPi within the last 24 hours)</h2>
 
+<!-- FAILED-FORKS:START -->
+
+<!-- FAILED-FORKS:END -->
+
 <!-- ACTIVE-FORKS:START -->
 [![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
-[![sqlstyle.guide](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=sqlstyle.guide&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/sqlstyle.guide)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
