@@ -36,7 +36,10 @@ jobs:
         run: pip3 install -r requirements.txt
       - name: Sync forks
         working-directory: sync-forks
-        run: python3 sync.py
+        run: |
+          git config user.name "QubitPi"
+          git config user.email "jack20220723@gmail.com"
+          python3 sync.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Write temp.txt to README.md and put it between specified (overwrite)
