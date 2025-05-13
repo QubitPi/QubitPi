@@ -106,7 +106,6 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![sqlstyle.guide](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=sqlstyle.guide&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/sqlstyle.guide)
 <!-- ACTIVE-FORKS:END -->
