@@ -27,8 +27,6 @@
 <h2 align="center">Frontend Dev</h2>
 
 <div align="center">
-    <a href="https://genshin.qubitpi.org/"><img src="https://img.shields.io/badge/genshin.qubitpi.org-FF5A35?style=for-the-badge" /></a>
-    <a href="https://fastui.qubitpi.org/"><img src="https://img.shields.io/badge/fastui.qubitpi.org-3178C6?style=for-the-badge" /></a>
     <a href="https://www.npmjs.com/~jack20191124"><img src="https://img.shields.io/badge/NPM-FD640A?style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://jsfiddle.net/u/QubitPi/fiddles/"><img src="https://img.shields.io/badge/JSFiddle-0084FF?style=for-the-badge&logo=jsfiddle&logoColor=white" /></a>
 </div>
