@@ -30,27 +30,23 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.10' 
-      - name: Install dependencies
-        working-directory: sync-forks
-        run: pip3 install -r requirements.txt
-      - name: Sync forks
-        working-directory: sync-forks
-        run: |
-          git config user.name "QubitPi"
-          git config user.email "jack20220723@gmail.com"
-          python3 sync.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Write temp.txt to README.md and put it between specified (overwrite)
-        working-directory: sync-forks
-        run: sed -i -e '/<!-- FAILED-FORKS:START -->/,/<!-- FAILED-FORKS:END -->/ {//!d; /<!-- FAILED-FORKS:START -->/r temp.txt' -e '}' README.md
-      - name: Commit changes
-        run: |
-          git config user.name "QubitPi"
-          git config user.email "jack20220723@gmail.com"
-          git add README.md
-          git commit -m "Update 'Sync Forks' section"
+          python-version: '3.10'
+      - run: |
+          git clone git@github.com:QubitPi/mlflow.git
+          cd mlflow
+          git remote add upstream git@github.com:mlflow/mlflow.git
+          git fetch upstream
+          git rebase upstream/master
           git push origin master -f
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - name: Write temp.txt to README.md and put it between specified (overwrite)
+#        working-directory: sync-forks
+#        run: sed -i -e '/<!-- FAILED-FORKS:START -->/,/<!-- FAILED-FORKS:END -->/ {//!d; /<!-- FAILED-FORKS:START -->/r temp.txt' -e '}' README.md
+#      - name: Commit changes
+#        run: |
+#          git config user.name "QubitPi"
+#          git config user.email "jack20220723@gmail.com"
+#          git add README.md
+#          git commit -m "Update 'Sync Forks' section"
+#          git push origin master -f
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

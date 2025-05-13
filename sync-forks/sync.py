@@ -58,8 +58,8 @@ if __name__ == "__main__":
         print("Cloning {} ...".format(forked_repo))
         fork = Repo.clone_from(
             url=forked_repo,
-            to_path="./daily-sync/{}".format(get_repo_name_from_git_url(forked_repo))
-            #progress=CloneProgress()
+            to_path="./daily-sync/{}".format(get_repo_name_from_git_url(forked_repo)),
+            progress=CloneProgress()
         )
 
         fork.create_remote("upstream", upstream_repo) # https://gitpython.readthedocs.io/en/stable/tutorial.html#handling-remotes
