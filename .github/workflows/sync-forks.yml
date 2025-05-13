@@ -38,6 +38,8 @@ jobs:
           git fetch upstream
           git rebase upstream/master
           git push origin master -f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 #      - name: Write temp.txt to README.md and put it between specified (overwrite)
 #        working-directory: sync-forks
 #        run: sed -i -e '/<!-- FAILED-FORKS:START -->/,/<!-- FAILED-FORKS:END -->/ {//!d; /<!-- FAILED-FORKS:START -->/r temp.txt' -e '}' README.md
