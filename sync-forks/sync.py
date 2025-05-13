@@ -43,29 +43,38 @@ def get_repo_name_from_git_url(url: str) -> str:
 
 
 if __name__ == "__main__":
-    sync_configs = [
-        ("git@github.com:QubitPi/mlflow.git", "git@github.com:mlflow/mlflow.git", "upstream/master", "https://github.com/QubitPi/mlflow"),
-    ]
+    import argparse
+    parser = argparse.ArgumentParser(description="Sync forks with rebase")
+    parser.add_argument('-f', '--fork', help='Git URL of fork', required=True)
+    parser.add_argument('-u', '--upstream', help='Git URL of upstream', required=True)
+    parser.add_argument('-ub', '--upstream_default_branch', help='Default branch of upstream repo', required=True)
+    args = vars(parser.parse_args())
 
-    failed_forks = []
+    forked_repo = args["fork"]
+    upstream_repo = args["upstream"]
+    upstream_default_branch = args["upstream_default_branch"]
 
-    for sync_config in sync_configs:
-        forked_repo = sync_config[0]
-        upstream_repo = sync_config[1]
-        rebase_branch = sync_config[2]
-        repo_url = sync_config[3]
+    print("Cloning {} ...".format(forked_repo))
+    fork = Repo.clone_from(
+        url=forked_repo,
+        to_path="./daily-sync/{}".format(get_repo_name_from_git_url(forked_repo)),
+        progress=CloneProgress()
+    )
 
-        print("Cloning {} ...".format(forked_repo))
-        fork = Repo.clone_from(
-            url=forked_repo,
-            to_path="./daily-sync/{}".format(get_repo_name_from_git_url(forked_repo)),
-            progress=CloneProgress()
-        )
+    fork.create_remote("upstream", upstream_repo)
+    upstream_remote = fork.remotes.upstream
+    fetch_info = upstream_remote.fetch()
 
-        fork.create_remote("upstream", upstream_repo) # https://gitpython.readthedocs.io/en/stable/tutorial.html#handling-remotes
-        upstream_remote = fork.remotes.upstream
-        fetch_info = upstream_remote.fetch()
+    try:
+        print("Rebasing ...")
+        fork.git.rebase("upstream/{branch}".format(branch=upstream_default_branch))
+    except GitCommandError as e:
+        if "CONFLICT" in str(e):
+            raise e
+        else:
+            raise e
 
+<<<<<<< Updated upstream
         try:
             fork.git.rebase(rebase_branch)
         except fork.git.GitCommandError as e:
@@ -79,3 +88,6 @@ if __name__ == "__main__":
             f.write("The following forks failed to sync with upstream and requires immediate attention: \n")
             f.write("\n".join(["- [{repo_name}]({repo_url})".format(repo_name=get_repo_name_from_git_url(forked_repo), repo_url=repo_url) for failed_fork in failed_forks]))
         f.close()
+=======
+    fork.remote("origin").push(refspec='master:master', force=True)
+>>>>>>> Stashed changes
