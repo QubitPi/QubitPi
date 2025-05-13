@@ -11,7 +11,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-import sys
+import os
+
+from git.exc import GitCommandError
 from git import Repo, RemoteProgress
 from tqdm import tqdm
 
@@ -54,14 +56,21 @@ if __name__ == "__main__":
     upstream_repo = args["upstream"]
     upstream_default_branch = args["upstream_default_branch"]
 
-    print("Cloning {} ...".format(forked_repo))
-    fork = Repo.clone_from(
-        url=forked_repo,
-        to_path="./daily-sync/{}".format(get_repo_name_from_git_url(forked_repo)),
-        progress=CloneProgress()
-    )
+    forked_repo_name = get_repo_name_from_git_url(forked_repo)
+    path = "./daily-sync/{}".format(forked_repo_name)
 
-    fork.create_remote("upstream", upstream_repo)
+    if os.path.exists(path):
+        print("./daily-sync/{} already exists".format(forked_repo_name))
+        fork = Repo(path)
+    else:
+        print("Cloning {} ...".format(forked_repo))
+        fork = Repo.clone_from(
+            url=forked_repo,
+            to_path=path,
+            progress=CloneProgress()
+        )
+        fork.create_remote("upstream", upstream_repo)
+
     upstream_remote = fork.remotes.upstream
     fetch_info = upstream_remote.fetch()
 
@@ -74,20 +83,4 @@ if __name__ == "__main__":
         else:
             raise e
 
-<<<<<<< Updated upstream
-        try:
-            fork.git.rebase(rebase_branch)
-        except fork.git.GitCommandError as e:
-            if "CONFLICT" in str(e):
-                failed_forks.append(repo_url)
-            else:
-                raise e
-
-        f = open("temp.txt", "w")
-        if len(failed_forks) > 0:
-            f.write("The following forks failed to sync with upstream and requires immediate attention: \n")
-            f.write("\n".join(["- [{repo_name}]({repo_url})".format(repo_name=get_repo_name_from_git_url(forked_repo), repo_url=repo_url) for failed_fork in failed_forks]))
-        f.close()
-=======
     fork.remote("origin").push(refspec='master:master', force=True)
->>>>>>> Stashed changes
