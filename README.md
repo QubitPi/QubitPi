@@ -115,7 +115,11 @@
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![python-arango](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=python-arango&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/python-arango)
+[![react-redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-redux&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-redux)
 [![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
+[![redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/redux)
+[![redux-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux-toolkit&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/redux-toolkit)
+[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TypeScript-Website)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
 <!-- ACTIVE-FORKS:END -->
 
