@@ -7,6 +7,7 @@ python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com
 # UI
 python3 sync.py -f git@github.com:QubitPi/react.dev.git -u git@github.com:reactjs/react.dev.git -ub main
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git -u git@github.com:facebook/docusaurus.git -ub main
+python3 sync.py -f git@github.com:QubitPi/jest.git -u git@github.com:jestjs/jest.git -ub main
 python3 sync.py -f git@github.com:QubitPi/babel-website.git -u git@github.com:babel/website.git -ub main
 
 # Arango
