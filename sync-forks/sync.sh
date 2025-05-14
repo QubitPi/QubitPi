@@ -28,6 +28,6 @@ python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/ha
 
 # Dev-Ops
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
+python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
 python3 sync.py -f git@github.com:QubitPi/ubuntu-server-documentation.git -u git@github.com:canonical/ubuntu-server-documentation.git -ub main
-python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
