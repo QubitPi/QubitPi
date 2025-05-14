@@ -6,6 +6,7 @@ python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
+python3 sync.py -f git@github.com:QubitPi/nx-guides.git -u git@github.com:networkx/nx-guides.git -ub main
 
 # UI
 python3 sync.py -f git@github.com:QubitPi/react.dev.git -u git@github.com:reactjs/react.dev.git -ub main
@@ -27,6 +28,7 @@ python3 sync.py -f git@github.com:QubitPi/python-arango.git -u git@github.com:ar
 python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/hadoop.git -ub trunk
 
 # Backend
+python3 sync.py -f git@github.com:QubitPi/testcontainers-java.git -u git@github.com:testcontainers/testcontainers-java.git -ub main
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
