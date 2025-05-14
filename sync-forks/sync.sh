@@ -9,11 +9,9 @@ python3 sync.py -f git@github.com:QubitPi/react.dev.git -u git@github.com:reactj
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git -u git@github.com:facebook/docusaurus.git -ub main
 python3 sync.py -f git@github.com:QubitPi/jest.git -u git@github.com:jestjs/jest.git -ub main
 python3 sync.py -f git@github.com:QubitPi/cypress-documentation.git -u git@github.com:cypress-io/cypress-documentation.git -ub main
-
-python3 sync.py -f git@github.com:QubitPi/redux-toolkit.git -u git@github.com:reduxjs/redux-toolkit.git -ub master
-python3 sync.py -f git@github.com:QubitPi/react-redux.git -u git@github.com:reduxjs/react-redux.git -ub master
 python3 sync.py -f git@github.com:QubitPi/redux.git -u git@github.com:reduxjs/redux.git -ub master
-
+python3 sync.py -f git@github.com:QubitPi/react-redux.git -u git@github.com:reduxjs/react-redux.git -ub master
+python3 sync.py -f git@github.com:QubitPi/redux-toolkit.git -u git@github.com:reduxjs/redux-toolkit.git -ub master
 python3 sync.py -f git@github.com:QubitPi/babel-website.git -u git@github.com:babel/website.git -ub main
 python3 sync.py -f git@github.com:QubitPi/TypeScript-Website.git -u git@github.com:microsoft/TypeScript-Website.git -ub v2
 
