@@ -12,7 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 import os
-
+import re
+import sys
 from git.exc import GitCommandError
 from git import Repo, RemoteProgress
 from tqdm import tqdm
@@ -73,6 +74,13 @@ if __name__ == "__main__":
 
     upstream_remote = fork.remotes.upstream
     fetch_info = upstream_remote.fetch()
+
+    # check if upstram's default branch is equal to upstream_default_branch
+    show_result = fork.git.remote("show", "upstream")
+    matches = re.search(r"\s*HEAD branch:\s*(.*)", show_result)
+    if matches:
+        if upstream_default_branch != matches.group(1):
+            sys.exit("{}'s default branch changes to {} in upstream".format(forked_repo_name, matches.group(1)))
 
     try:
         print("Rebasing ...")
