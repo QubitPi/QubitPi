@@ -10,6 +10,7 @@ python3 sync.py -f git@github.com:QubitPi/docusaurus.git -u git@github.com:faceb
 python3 sync.py -f git@github.com:QubitPi/jest.git -u git@github.com:jestjs/jest.git -ub main
 python3 sync.py -f git@github.com:QubitPi/cypress-documentation.git -u git@github.com:cypress-io/cypress-documentation.git -ub main
 python3 sync.py -f git@github.com:QubitPi/babel-website.git -u git@github.com:babel/website.git -ub main
+python3 sync.py -f git@github.com:QubitPi/TypeScript-Website.git -u git@github.com:microsoft/TypeScript-Website.git -ub v2
 
 # Arango
 python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git -u git@github.com:arangodb/docs-hugo.git -ub main
