@@ -9,7 +9,6 @@ python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/ml
 python3 sync.py -f git@github.com:QubitPi/nx-guides.git -u git@github.com:networkx/nx-guides.git -ub main
 python3 sync.py -f git@github.com:QubitPi/scikit-learn.git -u git@github.com:scikit-learn/scikit-learn.git -ub main
 
-
 # UI
 python3 sync.py -f git@github.com:QubitPi/react.dev.git -u git@github.com:reactjs/react.dev.git -ub main
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git -u git@github.com:facebook/docusaurus.git -ub main
