@@ -8,6 +8,7 @@ python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
 python3 sync.py -f git@github.com:QubitPi/nx-guides.git -u git@github.com:networkx/nx-guides.git -ub main
 python3 sync.py -f git@github.com:QubitPi/scikit-learn.git -u git@github.com:scikit-learn/scikit-learn.git -ub main
+python3 sync.py -f git@github.com:QubitPi/openai-spinningup.git -u org-14957082@github.com:openai/spinningup.git -ub master
 
 # UI
 python3 sync.py -f git@github.com:QubitPi/react.dev.git -u git@github.com:reactjs/react.dev.git -ub main
