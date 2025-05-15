@@ -124,6 +124,7 @@
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![nx-guides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=nx-guides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/nx-guides)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
+[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
 [![redux-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux-toolkit&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/redux-toolkit)
 [![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TypeScript-Website)
 <!-- ACTIVE-FORKS:END -->
