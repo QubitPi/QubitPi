@@ -27,6 +27,9 @@ python3 sync.py -f git@github.com:QubitPi/python-arango.git -u git@github.com:ar
 # Hadoop Ecosystem
 python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/hadoop.git -ub trunk
 
+# OpenStack Ecosystem
+python3 sync.py -f git@github.com:QubitPi/openstack-nova.git -u git@github.com:openstack/nova.git -ub master
+
 # Backend
 python3 sync.py -f git@github.com:QubitPi/testcontainers-java.git -u git@github.com:testcontainers/testcontainers-java.git -ub main
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
