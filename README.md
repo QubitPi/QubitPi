@@ -105,7 +105,6 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-[![arangodb-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-java-driver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-java-driver)
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
@@ -115,7 +114,7 @@
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![nx-guides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=nx-guides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/nx-guides)
-[![python-arango](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=python-arango&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/python-arango)
+[![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
 [![react-redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-redux&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-redux)
 [![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
 [![redux](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/redux)
