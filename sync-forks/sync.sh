@@ -30,6 +30,9 @@ python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/ha
 # OpenStack Ecosystem
 python3 sync.py -f git@github.com:QubitPi/openstack-nova.git -u git@github.com:openstack/nova.git -ub master
 
+# ELK
+python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
+
 # Backend
 python3 sync.py -f git@github.com:QubitPi/testcontainers-java.git -u git@github.com:testcontainers/testcontainers-java.git -ub main
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
