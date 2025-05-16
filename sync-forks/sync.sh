@@ -45,5 +45,6 @@ python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@g
 python3 sync.py -f git@github.com:QubitPi/ubuntu-server-documentation.git -u git@github.com:canonical/ubuntu-server-documentation.git -ub main
 python3 sync.py -f git@github.com:QubitPi/sqlstyle.guide.git -u git@github.com:treffynnon/sqlstyle.guide.git -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-ee4j/jersey.git -ub 2.x
+python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
