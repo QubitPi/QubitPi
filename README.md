@@ -111,9 +111,7 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-[![arangodb-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-docs)
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
-[![docker-kong](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-kong&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-kong)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
