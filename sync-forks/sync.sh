@@ -48,6 +48,7 @@ python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-e
 python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
 
 # HashiCorp
+python3 sync.py -f git@github.com:QubitPi/hashicorp-dev-portal.git -u git@github.com:hashicorp/dev-portal.git -ub main
 python3 sync.py -f git@github.com:QubitPi/hashicorp-packer.git -u git@github.com:hashicorp/packer.git -ub main
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
