@@ -55,6 +55,7 @@ python3 sync.py -f git@github.com:QubitPi/hashicorp-consul.git -u git@github.com
 
 # Docker
 python3 sync.py -f git@github.com:QubitPi/docker-docs.git -u git@github.com:docker/docs.git -ub main
+python3 sync.py -f git@github.com:QubitPi/docker-install.git -u git@github.com:docker/docker-install.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-kong.git -u git@github.com:Kong/docker-kong.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
