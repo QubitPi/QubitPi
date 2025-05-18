@@ -40,14 +40,10 @@ python3 sync.py -f git@github.com:QubitPi/openstack-nova.git -u git@github.com:o
 # Backend
 python3 sync.py -f git@github.com:QubitPi/testcontainers-java.git -u git@github.com:testcontainers/testcontainers-java.git -ub main
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
-python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
-python3 sync.py -f git@github.com:QubitPi/docker-kong.git -u git@github.com:Kong/docker-kong.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docs.konghq.com.git -u git@github.com:Kong/docs.konghq.com.git -ub main
-python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
 python3 sync.py -f git@github.com:QubitPi/ubuntu-server-documentation.git -u git@github.com:canonical/ubuntu-server-documentation.git -ub main
 python3 sync.py -f git@github.com:QubitPi/sqlstyle.guide.git -u git@github.com:treffynnon/sqlstyle.guide.git -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-ee4j/jersey.git -ub 2.x
-python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
 
 # HashiCorp
 # ⚠️ hashicorp-dev-portal must sync first
@@ -56,5 +52,12 @@ python3 sync.py -f git@github.com:QubitPi/hashicorp-packer.git -u git@github.com
 python3 sync.py -f git@github.com:QubitPi/hashicorp-terraform.git -u git@github.com:hashicorp/terraform.git -ub main
 python3 sync.py -f git@github.com:QubitPi/hashicorp-vault.git -u git@github.com:hashicorp/vault.git -ub main
 python3 sync.py -f git@github.com:QubitPi/hashicorp-consul.git -u git@github.com:hashicorp/consul.git -ub main
+
+# Docker
+python3 sync.py -f git@github.com:QubitPi/docker-docs.git -u git@github.com:docker/docs.git -ub main
+python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
+python3 sync.py -f git@github.com:QubitPi/docker-kong.git -u git@github.com:Kong/docker-kong.git -ub master
+python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
+python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
