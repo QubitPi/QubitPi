@@ -33,6 +33,7 @@ python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/ha
 
 # OpenStack Ecosystem
 python3 sync.py -f git@github.com:QubitPi/openstack-nova.git -u git@github.com:openstack/nova.git -ub master
+python3 sync.py -f git@github.com:QubitPi/javaswift.github.com.git -u git@github.com:javaswift/javaswift.github.com.git -ub master
 
 # ELK
 # python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
@@ -62,3 +63,4 @@ python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.c
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
+python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
