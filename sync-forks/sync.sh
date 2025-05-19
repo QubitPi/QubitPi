@@ -65,3 +65,6 @@ python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@g
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
+
+# Paion Data
+python3 sync.py -f git@github.com:paion-data/arangodb-docs.git -u git@github.com:QubitPi/arangodb-docs.git -ub master
