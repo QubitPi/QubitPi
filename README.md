@@ -111,10 +111,21 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
+[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
+[![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
+[![docker-install](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-install&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-install)
+[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
+[![hashicorp-terraform](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-terraform&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-terraform)
+[![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/networkx)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
+[![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
+[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
+[![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TypeScript-Website)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
