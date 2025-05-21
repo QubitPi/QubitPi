@@ -6,6 +6,7 @@ python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
+python3 sync.py -f git@github.com:QubitPi/ollama.git -u git@github.com:ollama/ollama.git -ub main
 python3 sync.py -f git@github.com:QubitPi/openai-spinningup.git -u org-14957082@github.com:openai/spinningup.git -ub master
 python3 sync.py -f git@github.com:QubitPi/scikit-learn.git -u git@github.com:scikit-learn/scikit-learn.git -ub main
 python3 sync.py -f git@github.com:QubitPi/networkx.git -u git@github.com:networkx/networkx.git -ub main
