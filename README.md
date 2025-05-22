@@ -116,7 +116,6 @@
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
-[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
