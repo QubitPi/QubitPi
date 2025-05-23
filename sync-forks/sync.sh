@@ -3,6 +3,7 @@ set -x
 set -e
 
 python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com:saicaca/fuwari.git -ub main
+python3 sync.py -f git@github.com:QubitPi/wg-easy.git -u git@github.com:wg-easy/wg-easy.git -ub master
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
