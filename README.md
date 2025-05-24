@@ -122,7 +122,6 @@
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 [![MailHog](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=MailHog&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/MailHog)
-[![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mieru)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
