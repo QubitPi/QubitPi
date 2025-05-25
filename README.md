@@ -47,7 +47,7 @@
     <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
 </div>
 
-[![fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fiore&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fiore)
+[![Fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Fiore&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Fiore)
 [![Kugelblitz](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Kugelblitz&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Kugelblitz)
 [![notification-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=notification-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/notification-ws)
 [![email-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=email-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/email-ws)
