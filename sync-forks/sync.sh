@@ -46,6 +46,7 @@ python3 sync.py -f git@github.com:QubitPi/javaswift.github.com.git -u git@github
 # python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
 
 # Backend
+python3 sync.py -f git@github.com:QubitPi/spock-doc.git -u git@github.com:spockframework/spock.git -ub main
 python3 sync.py -f git@github.com:QubitPi/testcontainers-java.git -u git@github.com:testcontainers/testcontainers-java.git -ub main
 python3 sync.py -f git@github.com:QubitPi/MailHog.git -u git@github.com:mailhog/MailHog.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docs.konghq.com.git -u git@github.com:Kong/docs.konghq.com.git -ub main
