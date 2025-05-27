@@ -112,6 +112,7 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
+[![3d-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=3d-force-graph&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/3d-force-graph)
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
@@ -126,10 +127,13 @@
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/networkx)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
+[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-force-graph)
 [![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![spock-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=spock-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/spock-doc)
+[![wg-easy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=wg-easy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/wg-easy)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
