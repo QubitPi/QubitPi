@@ -129,6 +129,7 @@
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 [![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
+[![spock-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=spock-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/spock-doc)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
