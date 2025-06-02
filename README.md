@@ -114,9 +114,7 @@
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/networkx)
-[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![python-arango](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=python-arango&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/python-arango)
-[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![wg-easy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=wg-easy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/wg-easy)
 <!-- ACTIVE-FORKS:END -->
 
