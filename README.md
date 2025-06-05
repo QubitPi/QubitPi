@@ -112,6 +112,7 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
+[![cambridge-data-mining-and-machine-learning-slides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cambridge-data-mining-and-machine-learning-slides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cambridge-data-mining-and-machine-learning-slides)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
