@@ -111,11 +111,15 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
+[![3d-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=3d-force-graph&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/3d-force-graph)
+[![arangodb-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-java-driver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-java-driver)
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
+[![cadvisor](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cadvisor&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cadvisor)
 [![cambridge-data-mining-and-machine-learning-slides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cambridge-data-mining-and-machine-learning-slides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cambridge-data-mining-and-machine-learning-slides)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
+[![docker-kong](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-kong&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-kong)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
 [![eslint-plugin-perfectionist](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=eslint-plugin-perfectionist&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/eslint-plugin-perfectionist)
@@ -128,11 +132,14 @@
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
+[![mieru](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mieru&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mieru)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/networkx)
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
+[![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
 [![python-arango](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=python-arango&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/python-arango)
+[![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-force-graph)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
 <!-- ACTIVE-FORKS:END -->
