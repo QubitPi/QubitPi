@@ -117,7 +117,6 @@
 [![cadvisor](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cadvisor&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cadvisor)
 [![cambridge-data-mining-and-machine-learning-slides](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cambridge-data-mining-and-machine-learning-slides&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cambridge-data-mining-and-machine-learning-slides)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
-[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
 [![docker-kong](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-kong&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-kong)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
@@ -125,8 +124,6 @@
 [![eslint-plugin-perfectionist](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=eslint-plugin-perfectionist&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/eslint-plugin-perfectionist)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-consul)
-[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
-[![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer)
 [![hashicorp-terraform](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-terraform&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-terraform)
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
@@ -138,10 +135,8 @@
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
-[![python-arango](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=python-arango&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/python-arango)
 [![react-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react-force-graph&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react-force-graph)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
-[![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
