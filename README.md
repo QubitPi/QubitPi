@@ -113,7 +113,6 @@
 <!-- ACTIVE-FORKS:START -->
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
-[![graphrag](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphrag&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphrag)
 [![handson-ml3](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=handson-ml3&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/handson-ml3)
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
