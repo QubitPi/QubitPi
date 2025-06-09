@@ -63,7 +63,7 @@ if __name__ == "__main__":
     if os.path.exists(path):
         print("./daily-sync/{} already exists".format(forked_repo_name))
         fork = Repo(path)
-        if "upstream" not in repo.remotes:
+        if "upstream" not in fork.remotes:
             fork.create_remote("upstream", upstream_repo)
     else:
         print("Cloning {} ...".format(forked_repo))
