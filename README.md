@@ -1,10 +1,3 @@
-<div align="center">
-    <a href="https://huggingface.co/QubitPi"><img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt=""/></a>
-    <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-    <a href="https://enka.network/u/MyFavoriteCharacters"><img src="https://img.shields.io/badge/原神-【烬火】胡桃-FF5A35?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD" alt="原神"/></a>
-    <a href="https://www.youtube.com/@wilhelm-tiger"><img src="https://img.shields.io/badge/Wilhelm%20Tiger-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</div>
-
 🇨🇳 致力于[**数据**驱动的自然**语言**处理和知识图谱](https://learn-graphrag.qubitpi.org/) __C__ 端应用。毕业于 [UIUC](https://baike.baidu.com/item/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%A4%A7%E5%AD%A6%E5%8E%84%E5%B7%B4%E7%BA%B3-%E9%A6%99%E6%A7%9F%E5%88%86%E6%A0%A1/3959383?fr=ge_ala) ，工院小玉米一枚(工程物理学士 & CS 硕士)，工作之余喜欢[学习物理](https://github.com/QubitPi/general-relativity)
 
 🇺🇸 I have a _Bachelor's Degree of Engineering Physics_ (on _Computational Quantum Mechanics_) and a _Master's Degree of Computer Science_ (on _Big Data_ and _Cloud Computing_) both from [University of Illinois at Urbana-Champaign](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings). Since then, my career has been focusing on the [__Data-Driven__ applications combining __Natural Language Processing__ and __Knowledge Graph__](https://learn-graphrag.qubitpi.org/) technologies. I love software engineering for its sheer joy of making things that are useful to me and other people, for the opportunity of life-long learning, and for its flexible creations. It is a life-dream of mine that's being built on top of the notion of __Open Source__ so thank you GitHub!
@@ -21,6 +14,13 @@
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
 
 <h2 align="center">Data, Language, Knowledge Graph</h2>
+
+<div align="center">
+    <a href="https://huggingface.co/QubitPi"><img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt=""/></a>
+    <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+    <a href="https://enka.network/u/MyFavoriteCharacters"><img src="https://img.shields.io/badge/原神-【烬火】胡桃-FF5A35?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD" alt="原神"/></a>
+    <a href="https://www.youtube.com/@wilhelm-tiger"><img src="https://img.shields.io/badge/Wilhelm%20Tiger-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</div>
 
 [![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
