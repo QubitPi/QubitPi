@@ -28,7 +28,7 @@
 
 - __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/)
 
-[Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/docs/latest/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](http://python.qubitpi.org/)
+[LlamaIndex](http://llamaindex.qubitpi.org/) | [Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/docs/latest/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](http://python.qubitpi.org/)
 
 <h2 align="center">Frontend Dev</h2>
 
