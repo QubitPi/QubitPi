@@ -113,7 +113,6 @@
 <!-- ACTIVE-FORKS:START -->
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
-[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/machine-learning)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
