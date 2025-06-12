@@ -10,6 +10,7 @@ python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
+python3 sync.py -f git@github.com:QubitPi/llama_index.git -u git@github.com:run-llama/llama_index.git -ub main
 python3 sync.py -f git@github.com:QubitPi/ollama.git -u git@github.com:ollama/ollama.git -ub main
 python3 sync.py -f git@github.com:QubitPi/openai-spinningup.git -u org-14957082@github.com:openai/spinningup.git -ub master
 python3 sync.py -f git@github.com:QubitPi/scikit-learn.git -u git@github.com:scikit-learn/scikit-learn.git -ub main
