@@ -1,6 +1,7 @@
 <div align="center">
     <a href="https://huggingface.co/QubitPi"><img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt=""/></a>
     <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+    <a href="https://enka.network/u/MyFavoriteCharacters"><img src="https://img.shields.io/badge/原神-【烬火】胡桃-FF5A35?style=for-the-badge&logo=mihoyo&logoColor=white&labelColor=4EA4DD" alt="原神"/></a>
     <a href="https://www.youtube.com/@wilhelm-tiger"><img src="https://img.shields.io/badge/Wilhelm%20Tiger-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
 
