@@ -112,8 +112,10 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
+[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cypress-documentation)
 [![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
+[![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
 [![fastapi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fastapi&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/fastapi)
 [![graphrag](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphrag&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphrag)
 [![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-consul)
