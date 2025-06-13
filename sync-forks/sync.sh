@@ -60,7 +60,7 @@ python3 sync.py -f git@github.com:QubitPi/docs.konghq.com.git -u git@github.com:
 python3 sync.py -f git@github.com:QubitPi/ubuntu-server-documentation.git -u git@github.com:canonical/ubuntu-server-documentation.git -ub main
 python3 sync.py -f git@github.com:QubitPi/sqlstyle.guide.git -u git@github.com:treffynnon/sqlstyle.guide.git -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-ee4j/jersey.git -ub 2.x
-python3 sync.py -f git@github.com:QubitPi/fastapi.git -u git@github.com:fastapi/fastapi.git -ub 2.x
+python3 sync.py -f git@github.com:QubitPi/fastapi.git -u git@github.com:fastapi/fastapi.git -ub master
 
 # HashiCorp
 # ⚠️ hashicorp-dev-portal must sync first
