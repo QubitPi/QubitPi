@@ -63,12 +63,12 @@
     <td colspan="2"><b>Webservice Standards</b></td>
   </tr>
   <tr>
-    <td><a href="https://qubitpi.github.io/jakartaee-rest/"><b>Jakarta RESTful Web Services</b></a></td>
+    <td><a href="https://jakartaee-rest.qubitpi.org/"><b>Jakarta RESTful Web Services</b></a></td>
     <td><a href="https://jpa.qubitpi.org/"><b>JPA Specifications</b></a></td>
     <td><a href="https://jcp.org/ja/jsr/overview"><b>JSR Specifications</b></a></td>
   </tr>
   <tr>
-    <td>• <a href="https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.html">Jakarta RESTful Web Services 3.1 Specification</a> (<a href="https://qubitpi.github.io/jakartaee-rest/jaxrs-spec/target/generated-docs/spec.pdf">PDF</a>) <br> • <a href="https://qubitpi.github.io/jakartaee-rest/apidocs/">APIs</a> <br> • <a href="https://qubitpi.github.io/jekyll-theme-jakarta-ee/">Jakarta EE Jekyll Theme</a></td>
+    <td>• <a href="https://jakartaee-rest.qubitpi.org/jaxrs-spec.html">Jakarta RESTful Web Services 3.1 Specification</a> (<a href="https://jakartaee-rest.qubitpi.org/jaxrs-spec.pdf">PDF</a>) <br> • <a href="https://qubitpi.github.io/jakartaee-rest/apidocs/">APIs</a> <br> • <a href="https://qubitpi.github.io/jekyll-theme-jakarta-ee/">Jakarta EE Jekyll Theme</a></td>
     <td>• <a href="https://jpa.qubitpi.org/latest/draft.html">Specification HTML</a> <br> • <a href="https://jpa.qubitpi.org/latest/draft.pdf">Specification PDF</a> <br> • <a href="https://jpa.qubitpi.org/latest/api/jakarta.persistence/module-summary.html">API</a></td>
     <td>• <a href="https://javax-inject.qubitpi.org/">330 - Dependency Injection</a> (<a href="https://javax-inject.qubitpi.org/api">Javadocs</a>)</td>
   </tr>
