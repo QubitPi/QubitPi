@@ -115,7 +115,6 @@
 [![eslint-plugin-perfectionist](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=eslint-plugin-perfectionist&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/eslint-plugin-perfectionist)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
-[![jakartaee-rest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jakartaee-rest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jakartaee-rest)
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
