@@ -82,5 +82,8 @@ python3 sync.py -f git@github.com:QubitPi/docker-kong.git -u git@github.com:Kong
 python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
 
+# DevOps
+python3 sync.py -f git@github.com:QubitPi/certbot.git -u git@github.com:certbot/certbot.git -ub main
+
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
