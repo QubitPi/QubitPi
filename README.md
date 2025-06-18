@@ -123,7 +123,6 @@
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
-[![machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/machine-learning)
 [![openml-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openml-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openml-docs)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
 <!-- ACTIVE-FORKS:END -->
