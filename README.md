@@ -112,7 +112,6 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
-[![openml-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openml-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openml-docs)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
