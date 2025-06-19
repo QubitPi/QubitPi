@@ -66,6 +66,7 @@ python3 sync.py -f git@github.com:QubitPi/jetty.project.git -u git@github.com:je
 python3 sync.py -f git@github.com:QubitPi/fastapi.git -u git@github.com:fastapi/fastapi.git -ub master
 python3 sync.py -f git@github.com:QubitPi/jekyll-theme-jakarta-ee.git -u git@github.com:jakartaee/jekyll-theme-jakarta-ee.git -ub master
 python3 sync.py -f git@github.com:QubitPi/jakartaee-rest.git -u git@github.com:jakartaee/rest.git -ub main
+python3 sync.py -f git@github.com:QubitPi/golang-website.git -u git@github.com:golang/website.git -ub master
 
 # HashiCorp
 # ⚠️ hashicorp-dev-portal must sync first
