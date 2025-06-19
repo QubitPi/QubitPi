@@ -46,7 +46,7 @@ python3 sync.py -f git@github.com:QubitPi/python-arango.git -u git@github.com:ar
 
 # Hadoop Ecosystem
 python3 sync.py -f git@github.com:QubitPi/hadoop.git -u git@github.com:apache/hadoop.git -ub trunk
-python3 sync.py -f git@github.com:QubitPi/druid.git -u git@github.com:apache/druid.git -ub master
+python3 sync.py -f git@github.com:QubitPi/druid.git -u git@github.com:apache/druid.git -ub master # QubitPi/druid must sync before QubitPi/druid-docs
 python3 sync.py -f git@github.com:QubitPi/druid-docs.git -u git@github.com:apache/druid-website-src.git -ub master
 
 # OpenStack Ecosystem
