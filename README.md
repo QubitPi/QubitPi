@@ -114,17 +114,11 @@
 [![arangodb-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-docs)
 [![arangodb-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-java-driver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/arangodb-java-driver)
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/babel-website)
-[![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-docs)
 [![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docker-mailserver)
 [![druid](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/druid)
 [![druid-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/druid-docs)
 [![golang-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=golang-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/golang-website)
-[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
-[![hashicorp-terraform](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-terraform&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-terraform)
-[![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
-[![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
-[![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
