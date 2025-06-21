@@ -5,7 +5,7 @@ set -e
 python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com:saicaca/fuwari.git -ub main
 python3 sync.py -f git@github.com:QubitPi/wg-easy.git -u git@github.com:wg-easy/wg-easy.git -ub master
 python3 sync.py -f git@github.com:QubitPi/mieru.git -u git@github.com:enfein/mieru.git -ub main
-python3 sync.py -f git@github.com:QubitPi/writethedocs.git -u git@github.com:writethedocs/www.git -ub main
+python3 sync.py -f git@github.com:QubitPi/writethedocs.git -u git@github.com:writethedocs/www.git -ub main # NS
 python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -u git@github.com:evildmp/diataxis-documentation-framework.git -ub main
 
 # ML
