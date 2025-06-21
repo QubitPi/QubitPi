@@ -66,7 +66,7 @@ python3 sync.py -f git@github.com:QubitPi/sqlstyle.guide.git -u git@github.com:t
 python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-ee4j/jersey.git -ub 2.x
 python3 sync.py -f git@github.com:QubitPi/jetty.project.git -u git@github.com:jetty/jetty.project.git -ub jetty-12.0.x
 python3 sync.py -f git@github.com:QubitPi/gradle.git -u git@github.com:gradle/gradle.git -ub master
-python3 sync.py -f git@github.com:QubitPi/kotlin-web-site.git -u git@github.com:JetBrains/kotlin-web-site.git -ub master
+python3 sync.py -f git@github.com:QubitPi/kotlin-docs.git -u git@github.com:JetBrains/kotlin-web-site.git -ub master
 
 python3 sync.py -f git@github.com:QubitPi/fastapi.git -u git@github.com:fastapi/fastapi.git -ub master
 python3 sync.py -f git@github.com:QubitPi/jekyll-theme-jakarta-ee.git -u git@github.com:jakartaee/jekyll-theme-jakarta-ee.git -ub master
