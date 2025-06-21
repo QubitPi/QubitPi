@@ -114,7 +114,7 @@
 <!-- ACTIVE-FORKS:START -->
 [![golang-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=golang-website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/golang-website)
 [![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/gradle)
-[![kotlin-web-site](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-web-site&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kotlin-web-site)
+[![kotlin-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kotlin-docs)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![TypeScript-Website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=TypeScript-Website&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/TypeScript-Website)
 <!-- ACTIVE-FORKS:END -->
