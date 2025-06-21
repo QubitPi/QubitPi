@@ -87,7 +87,7 @@ python3 sync.py -f git@github.com:QubitPi/cadvisor.git -u git@github.com:google/
 python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git -u git@github.com:docker-mailserver/docker-mailserver.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-kong.git -u git@github.com:Kong/docker-kong.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git -u git@github.com:Joxit/docker-registry-ui.git -ub main
-python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master
+python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git -ub master # NS
 
 # DevOps
 python3 sync.py -f git@github.com:QubitPi/certbot.git -u git@github.com:certbot/certbot.git -ub main
