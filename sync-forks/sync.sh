@@ -94,5 +94,6 @@ python3 sync.py -f git@github.com:QubitPi/certbot.git -u git@github.com:certbot/
 python3 sync.py -f git@github.com:QubitPi/jenkins.io.git -u git@github.com:jenkins-infra/jenkins.io.git -ub master
 python3 sync.py -f git@github.com:QubitPi/ansible-docs.git -u git@github.com:ansible/docsite.git -ub main
 
+python3 sync.py -f git@github.com:QubitPi/bats-core.git -u git@github.com:bats-core/bats-core.git -ub master
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
