@@ -115,11 +115,11 @@
 [![ansible-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ansible-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ansible-docs)
 [![bats-core](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bats-core&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/bats-core)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
-[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
-[![hbase](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hbase&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hbase)
 [![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
+[![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
+[![wg-easy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=wg-easy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/wg-easy)
 [![writethedocs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=writethedocs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/writethedocs)
 <!-- ACTIVE-FORKS:END -->
 
