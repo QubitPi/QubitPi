@@ -5,8 +5,6 @@ set -e
 python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git -u git@github.com:saicaca/fuwari.git -ub main
 python3 sync.py -f git@github.com:QubitPi/wg-easy.git -u git@github.com:wg-easy/wg-easy.git -ub master
 python3 sync.py -f git@github.com:QubitPi/mieru.git -u git@github.com:enfein/mieru.git -ub main
-python3 sync.py -f git@github.com:QubitPi/writethedocs.git -u git@github.com:writethedocs/www.git -ub main # NS
-python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -u git@github.com:evildmp/diataxis-documentation-framework.git -ub main
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/mlflow.git -u git@github.com:mlflow/mlflow.git -ub master
@@ -95,5 +93,7 @@ python3 sync.py -f git@github.com:QubitPi/jenkins.io.git -u git@github.com:jenki
 python3 sync.py -f git@github.com:QubitPi/ansible-docs.git -u git@github.com:ansible/docsite.git -ub main
 
 python3 sync.py -f git@github.com:QubitPi/bats-core.git -u git@github.com:bats-core/bats-core.git -ub master
+python3 sync.py -f git@github.com:QubitPi/writethedocs.git -u git@github.com:writethedocs/www.git -ub main # NS
+python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -u git@github.com:evildmp/diataxis-documentation-framework.git -ub main
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
