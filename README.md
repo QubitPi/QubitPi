@@ -112,10 +112,13 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-[![chef-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/chef-docs)
+[![ansible-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ansible-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ansible-docs)
+[![bats-core](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bats-core&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/bats-core)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hbase](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hbase&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hbase)
 [![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
+[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
+[![writethedocs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=writethedocs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/writethedocs)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
