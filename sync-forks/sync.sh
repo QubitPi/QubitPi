@@ -67,7 +67,6 @@ python3 sync.py -f git@github.com:QubitPi/jersey.git -u git@github.com:eclipse-e
 python3 sync.py -f git@github.com:QubitPi/jetty.project.git -u git@github.com:jetty/jetty.project.git -ub jetty-12.0.x
 python3 sync.py -f git@github.com:QubitPi/gradle.git -u git@github.com:gradle/gradle.git -ub master
 python3 sync.py -f git@github.com:QubitPi/kotlin-docs.git -u git@github.com:JetBrains/kotlin-web-site.git -ub master
-
 python3 sync.py -f git@github.com:QubitPi/fastapi.git -u git@github.com:fastapi/fastapi.git -ub master
 python3 sync.py -f git@github.com:QubitPi/jekyll-theme-jakarta-ee.git -u git@github.com:jakartaee/jekyll-theme-jakarta-ee.git -ub master
 python3 sync.py -f git@github.com:QubitPi/jakartaee-rest.git -u git@github.com:jakartaee/rest.git -ub main
@@ -92,6 +91,8 @@ python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@g
 
 # DevOps
 python3 sync.py -f git@github.com:QubitPi/certbot.git -u git@github.com:certbot/certbot.git -ub main
+python3 sync.py -f git@github.com:QubitPi/jenkins.io.git -u git@github.com:jenkins-infra/jenkins.io.git -ub master
+python3 sync.py -f git@github.com:QubitPi/ansible-docs.git -u git@github.com:ansible/docsite.git -ub main
 
 python3 sync.py -f git@github.com:QubitPi/progit2.git -u git@github.com:progit/progit2.git -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git -ub master
