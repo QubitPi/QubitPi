@@ -113,14 +113,9 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![chef-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=chef-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/chef-docs)
-[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hbase](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hbase&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hbase)
 [![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
-[![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jetty.project)
-[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
-[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
-[![writethedocs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=writethedocs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/writethedocs)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
