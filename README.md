@@ -139,6 +139,6 @@
 
 <a href="https://qubitpi.org"><img align="right" width="40px" src="https://github.com/QubitPi/QubitPi/blob/master/img/logo.png?raw=true" /></a>
 
-[Write the Docs](https://writethedocs.qubitpi.org/) | [Diátaxis principles](https://diataxis.qubitpi.org) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/)
+[Bats](https://bats.qubitpi.org) | [Write the Docs](https://writethedocs.qubitpi.org/) | [Diátaxis principles](https://diataxis.qubitpi.org) | [Git](https://qubitpi.github.io/progit2/) | [Changelog](https://changelog.qubitpi.org/) | [Bit Twiddling Hacks](https://bit-manipulation.qubitpi.org/)
 
 <a href="https://github.com/QubitPi/github-profile-views-counter"><img align="left" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/profile/badge.svg" /></a>
