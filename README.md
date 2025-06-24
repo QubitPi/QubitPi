@@ -112,7 +112,6 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-[![ansible-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ansible-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ansible-docs)
 [![bats-core](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=bats-core&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/bats-core)
 [![certbot](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=certbot&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/certbot)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
@@ -132,6 +131,7 @@
 [![kotlin-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kotlin-docs)
 [![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/linuxserver-documentation)
+[![LlamaIndex-chat-ui](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=LlamaIndex-chat-ui&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/LlamaIndex-chat-ui)
 [![llama_index](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llama_index&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/llama_index)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
