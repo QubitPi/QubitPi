@@ -22,19 +22,20 @@ python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.co
 python3 sync.py -f git@github.com:QubitPi/PyMuPDF.git           -u git@github.com:pymupdf/PyMuPDF.git            -ub main
 
 # UI
-python3 sync.py -f git@github.com:QubitPi/react.dev.git                   -u git@github.com:reactjs/react.dev.git                   -ub main
-python3 sync.py -f git@github.com:QubitPi/TypeScript-Website.git          -u git@github.com:microsoft/TypeScript-Website.git        -ub v2
-python3 sync.py -f git@github.com:QubitPi/babel-website.git               -u git@github.com:babel/website.git                       -ub main
-python3 sync.py -f git@github.com:QubitPi/redux.git                       -u git@github.com:reduxjs/redux.git                       -ub master
-python3 sync.py -f git@github.com:QubitPi/react-redux.git                 -u git@github.com:reduxjs/react-redux.git                 -ub master
-python3 sync.py -f git@github.com:QubitPi/redux-toolkit.git               -u git@github.com:reduxjs/redux-toolkit.git               -ub master
-python3 sync.py -f git@github.com:QubitPi/jest.git                        -u git@github.com:jestjs/jest.git                         -ub main
-python3 sync.py -f git@github.com:QubitPi/cypress-documentation.git       -u git@github.com:cypress-io/cypress-documentation.git    -ub main
-python3 sync.py -f git@github.com:QubitPi/webpack.js.org.git              -u git@github.com:webpack/webpack.js.org.git              -ub main
-python3 sync.py -f git@github.com:QubitPi/eslint-plugin-perfectionist.git -u git@github.com:azat-io/eslint-plugin-perfectionist.git -ub main # no-SEO: https://github.com/QubitPi/eslint-plugin-perfectionist/pull/2
-python3 sync.py -f git@github.com:QubitPi/3d-force-graph.git              -u git@github.com:vasturiano/3d-force-graph.git           -ub master
-python3 sync.py -f git@github.com:QubitPi/react-force-graph.git           -u git@github.com:vasturiano/react-force-graph.git        -ub master
-python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                 -ub main
+python3 sync.py -f git@github.com:QubitPi/react.dev.git                   -u git@github.com:reactjs/react.dev.git                    -ub main
+python3 sync.py -f git@github.com:QubitPi/TypeScript-Website.git          -u git@github.com:microsoft/TypeScript-Website.git         -ub v2
+python3 sync.py -f git@github.com:QubitPi/babel-website.git               -u git@github.com:babel/website.git                        -ub main
+python3 sync.py -f git@github.com:QubitPi/redux.git                       -u git@github.com:reduxjs/redux.git                        -ub master
+python3 sync.py -f git@github.com:QubitPi/react-redux.git                 -u git@github.com:reduxjs/react-redux.git                  -ub master
+python3 sync.py -f git@github.com:QubitPi/redux-toolkit.git               -u git@github.com:reduxjs/redux-toolkit.git                -ub master
+python3 sync.py -f git@github.com:QubitPi/jest.git                        -u git@github.com:jestjs/jest.git                          -ub main
+python3 sync.py -f git@github.com:QubitPi/testing-library-docs.git        -u git@github.com:testing-library/testing-library-docs.git -ub main
+python3 sync.py -f git@github.com:QubitPi/cypress-documentation.git       -u git@github.com:cypress-io/cypress-documentation.git     -ub main
+python3 sync.py -f git@github.com:QubitPi/webpack.js.org.git              -u git@github.com:webpack/webpack.js.org.git               -ub main
+python3 sync.py -f git@github.com:QubitPi/eslint-plugin-perfectionist.git -u git@github.com:azat-io/eslint-plugin-perfectionist.git  -ub main # no-SEO: https://github.com/QubitPi/eslint-plugin-perfectionist/pull/2
+python3 sync.py -f git@github.com:QubitPi/3d-force-graph.git              -u git@github.com:vasturiano/3d-force-graph.git            -ub master
+python3 sync.py -f git@github.com:QubitPi/react-force-graph.git           -u git@github.com:vasturiano/react-force-graph.git         -ub master
+python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                  -ub main
 
 # Arango
 python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git        -u git@github.com:arangodb/docs-hugo.git            -ub main
