@@ -127,6 +127,7 @@
 [![docs.konghq.com](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docs.konghq.com&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docs.konghq.com)
 [![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/docusaurus)
 [![druid](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/druid)
+[![elastic-docs-builder](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs-builder&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs-builder)
 [![elastic-stack-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-stack-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-stack-docs)
 [![fastapi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fastapi&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/fastapi)
 [![glassfish-hk2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=glassfish-hk2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/glassfish-hk2)
