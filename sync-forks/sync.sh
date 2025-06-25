@@ -35,6 +35,7 @@ python3 sync.py -f git@github.com:QubitPi/webpack.js.org.git              -u git
 python3 sync.py -f git@github.com:QubitPi/eslint-plugin-perfectionist.git -u git@github.com:azat-io/eslint-plugin-perfectionist.git  -ub main # no-SEO: https://github.com/QubitPi/eslint-plugin-perfectionist/pull/2
 python3 sync.py -f git@github.com:QubitPi/3d-force-graph.git              -u git@github.com:vasturiano/3d-force-graph.git            -ub master
 python3 sync.py -f git@github.com:QubitPi/react-force-graph.git           -u git@github.com:vasturiano/react-force-graph.git         -ub master
+python3 sync.py -f git@github.com:QubitPi/lexical.git                     -u git@github.com:facebook/lexical.git                     -ub main
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                  -ub main
 
 # Graph Database
