@@ -50,6 +50,7 @@ python3 sync.py -f git@github.com:QubitPi/druid-docs.git -u git@github.com:apach
 
 # OpenStack Ecosystem
 python3 sync.py -f git@github.com:QubitPi/openstack-nova.git       -u git@github.com:openstack/nova.git                 -ub master
+python3 sync.py -f git@github.com:QubitPi/openstack-swift.git      -u git@github.com:openstack/swift.git                -ub master
 python3 sync.py -f git@github.com:QubitPi/javaswift.github.com.git -u git@github.com:javaswift/javaswift.github.com.git -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-swift-onlyone.git -u git@github.com:FNNDSC/docker-swift-onlyone.git    -ub master
 
