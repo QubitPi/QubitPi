@@ -49,10 +49,11 @@ python3 sync.py -f git@github.com:QubitPi/druid.git      -u git@github.com:apach
 python3 sync.py -f git@github.com:QubitPi/druid-docs.git -u git@github.com:apache/druid-website-src.git -ub master
 
 # OpenStack Ecosystem
-python3 sync.py -f git@github.com:QubitPi/openstack-nova.git       -u git@github.com:openstack/nova.git                 -ub master
-python3 sync.py -f git@github.com:QubitPi/openstack-swift.git      -u git@github.com:openstack/swift.git                -ub master
-python3 sync.py -f git@github.com:QubitPi/javaswift.github.com.git -u git@github.com:javaswift/javaswift.github.com.git -ub master
-python3 sync.py -f git@github.com:QubitPi/docker-swift-onlyone.git -u git@github.com:FNNDSC/docker-swift-onlyone.git    -ub master
+python3 sync.py -f git@github.com:QubitPi/openstack-nova.git               -u git@github.com:openstack/nova.git                 -ub master
+python3 sync.py -f git@github.com:QubitPi/openstack-swift.git              -u git@github.com:openstack/swift.git                -ub master
+python3 sync.py -f git@github.com:QubitPi/openstack-python-swiftclient.git -u git@github.com:openstack/python-swiftclient.git   -ub master
+python3 sync.py -f git@github.com:QubitPi/javaswift.github.com.git         -u git@github.com:javaswift/javaswift.github.com.git -ub master
+python3 sync.py -f git@github.com:QubitPi/docker-swift-onlyone.git         -u git@github.com:FNNDSC/docker-swift-onlyone.git    -ub master
 
 # ELK
 # python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
