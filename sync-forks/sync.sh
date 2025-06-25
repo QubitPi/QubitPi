@@ -23,6 +23,7 @@ python3 sync.py -f git@github.com:QubitPi/PyMuPDF.git           -u git@github.co
 
 # UI
 python3 sync.py -f git@github.com:QubitPi/react.dev.git                   -u git@github.com:reactjs/react.dev.git                   -ub main
+python3 sync.py -f git@github.com:QubitPi/webpack.js.org.git              -u git@github.com:webpack/webpack.js.org.git              -ub main
 python3 sync.py -f git@github.com:QubitPi/eslint-plugin-perfectionist.git -u git@github.com:azat-io/eslint-plugin-perfectionist.git -ub main # no-SEO: https://github.com/QubitPi/eslint-plugin-perfectionist/pull/2
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                 -ub main
 python3 sync.py -f git@github.com:QubitPi/jest.git                        -u git@github.com:jestjs/jest.git                         -ub main
