@@ -37,10 +37,12 @@ python3 sync.py -f git@github.com:QubitPi/3d-force-graph.git              -u git
 python3 sync.py -f git@github.com:QubitPi/react-force-graph.git           -u git@github.com:vasturiano/react-force-graph.git         -ub master
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                  -ub main
 
-# Arango
+# Graph Database
 python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git        -u git@github.com:arangodb/docs-hugo.git            -ub main
 python3 sync.py -f git@github.com:QubitPi/arangodb-java-driver.git -u git@github.com:arangodb/arangodb-java-driver.git -ub main
 python3 sync.py -f git@github.com:QubitPi/python-arango.git        -u git@github.com:arangodb/python-arango.git        -ub main
+python3 sync.py -f git@github.com:QubitPi/docs-cypher.git          -u git@github.com:neo4j/docs-cypher.git             -ub dev
+
 
 # Hadoop Ecosystem
 python3 sync.py -f git@github.com:QubitPi/hadoop.git     -u git@github.com:apache/hadoop.git            -ub trunk
