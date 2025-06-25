@@ -142,6 +142,8 @@
 [![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/networkx)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
+[![openstack-python-swiftclient](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-python-swiftclient&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-python-swiftclient)
+[![openstack-swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-swift&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-swift)
 [![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
 [![rake](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=rake&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/rake)
 [![reactivex-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactivex-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/reactivex-doc)
