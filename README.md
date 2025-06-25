@@ -140,6 +140,7 @@
 [![jest](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jest&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jest)
 [![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jetty.project)
 [![json-api](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=json-api&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/json-api)
+[![kibana](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kibana&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kibana)
 [![kotlin-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kotlin-docs)
 [![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/lexical)
 [![llama_index](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llama_index&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/llama_index)
