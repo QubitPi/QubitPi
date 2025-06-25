@@ -39,7 +39,7 @@
 
 [![fast-ui](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ui&show_owner=true&theme=react)](https://github.com/QubitPi/fast-ui)
 
-- I write UI in React+TS only: [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://babel.qubitpi.org/) | [Redux](https://qubitpi.github.io/redux/)
+- [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://babel.qubitpi.org/) | [Redux](https://qubitpi.github.io/redux/)
 - [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/)
 - [Unit Test - Jest](https://qubitpi.github.io/jest/) | [Component Test - testing-library](https://component-testing.react.qubitpi.org/) | [E2E Test - Cypress](https://qubitpi.github.io/cypress-documentation/guides/overview/why-cypress/)
 - [webpack](https://webpack.qubitpi.org/) | [TypeDoc](https://qubitpi.github.io/typedoc-site/) | [InversifyJS](https://inversify.qubitpi.org/) | [Immer](https://qubitpi.github.io/immer/) | [Lexical](https://lexical.qubitpi.org/) | [Docusaurus](https://docusaurus.qubitpi.org/)
