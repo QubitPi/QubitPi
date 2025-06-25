@@ -141,6 +141,8 @@
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
 [![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
+[![rake](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=rake&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/rake)
+[![reactivex-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactivex-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/reactivex-doc)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![testing-library-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testing-library-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/testing-library-docs)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
