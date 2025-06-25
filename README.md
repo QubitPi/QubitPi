@@ -132,7 +132,6 @@
 [![glassfish-hk2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=glassfish-hk2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/glassfish-hk2)
 [![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/gradle)
 [![graphql-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphql-spec&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphql-spec)
-[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
 [![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-dev-portal)
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
 [![hbase](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hbase&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hbase)
