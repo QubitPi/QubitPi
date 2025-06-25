@@ -140,6 +140,7 @@
 [![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
+[![webpack.js.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=webpack.js.org&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/webpack.js.org)
 [![writethedocs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=writethedocs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/writethedocs)
 <!-- ACTIVE-FORKS:END -->
 
