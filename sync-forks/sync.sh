@@ -114,4 +114,15 @@ python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -
 
 # Special case for https://github.com/QubitPi/glassfish-hk2
 # Because they put doc source code in gh-pages, a branch which supposed to be automatically managed
-# This is not the dominant practice and I won't sacrifice my script for this single repo
+# This is not the dominant practice and I won't sacrifice the generality of my script for this single repo
+# Some preliminary setup:
+#
+# git clone git@github.com:QubitPi/glassfish-hk2.git
+# git checkout gh-pages
+# git remote add upstream git@github.com:eclipse-ee4j/glassfish-hk2.git
+
+cd daily-sync/glassfish-hk2/
+git fetch upstream
+git rebase upstream/gh-pages
+git push origin gh-pages -f
+cd ../../
