@@ -113,7 +113,7 @@ python3 sync.py -f git@github.com:QubitPi/progit2.git                          -
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git            -ub master
 
 # Special case for https://github.com/QubitPi/glassfish-hk2
-# Because they put doc source code in gh-pages, a branch which supposed to be automatically managed
+# Because they put doc source code in gh-pages, a branch which is supposed to be automatically managed
 # This is not the dominant practice and I won't sacrifice the generality of my script for this single repo
 # Some preliminary setup:
 #
