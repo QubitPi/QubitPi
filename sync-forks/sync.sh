@@ -117,6 +117,7 @@ python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -
 # This is not the dominant practice and I won't sacrifice the generality of my script for this single repo
 # Some preliminary setup:
 #
+# cd daily-sync/glassfish-hk2/
 # git clone git@github.com:QubitPi/glassfish-hk2.git
 # git checkout gh-pages
 # git remote add upstream git@github.com:eclipse-ee4j/glassfish-hk2.git
