@@ -153,8 +153,6 @@
 [![openstack-python-swiftclient](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-python-swiftclient&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-python-swiftclient)
 [![openstack-swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-swift&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-swift)
 [![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
-[![rake](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=rake&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/rake)
-[![reactivex-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactivex-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/reactivex-doc)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
 <!-- ACTIVE-FORKS:END -->
