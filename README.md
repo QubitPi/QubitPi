@@ -150,8 +150,6 @@
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
 [![openstack-nova](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-nova&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-nova)
-[![openstack-python-swiftclient](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-python-swiftclient&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-python-swiftclient)
-[![openstack-swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-swift&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/openstack-swift)
 [![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
