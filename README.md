@@ -131,7 +131,6 @@
 [![fastapi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fastapi&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/fastapi)
 [![glassfish-hk2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=glassfish-hk2&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/glassfish-hk2)
 [![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/gradle)
-[![graphql-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphql-spec&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphql-spec)
 [![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-consul)
 [![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-packer)
 [![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hashicorp-vault)
@@ -157,7 +156,6 @@
 [![rake](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=rake&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/rake)
 [![reactivex-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=reactivex-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/reactivex-doc)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
-[![testing-library-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testing-library-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/testing-library-docs)
 [![ubuntu-server-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ubuntu-server-documentation&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ubuntu-server-documentation)
 <!-- ACTIVE-FORKS:END -->
 
