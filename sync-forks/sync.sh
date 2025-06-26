@@ -48,6 +48,7 @@ python3 sync.py -f git@github.com:QubitPi/docs-cypher.git          -u git@github
 python3 sync.py -f git@github.com:QubitPi/hadoop.git     -u git@github.com:apache/hadoop.git            -ub trunk
 python3 sync.py -f git@github.com:QubitPi/hbase.git      -u git@github.com:apache/hbase.git             -ub master
 python3 sync.py -f git@github.com:QubitPi/hive.git       -u git@github.com:apache/hive.git              -ub master
+python3 sync.py -f git@github.com:QubitPi/hive-doc.git       -u git@github.com:apache/hive-site.git     -ub main
 python3 sync.py -f git@github.com:QubitPi/druid.git      -u git@github.com:apache/druid.git             -ub master # QubitPi/druid must sync before QubitPi/druid-docs
 python3 sync.py -f git@github.com:QubitPi/druid-docs.git -u git@github.com:apache/druid-website-src.git -ub master
 
