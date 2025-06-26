@@ -111,3 +111,7 @@ python3 sync.py -f git@github.com:QubitPi/writethedocs.git                     -
 python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -u git@github.com:evildmp/diataxis-documentation-framework.git -ub main
 python3 sync.py -f git@github.com:QubitPi/progit2.git                          -u git@github.com:progit/progit2.git                           -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git            -ub master
+
+# Special case for https://github.com/QubitPi/glassfish-hk2
+# Because they put doc source code in gh-pages, a branch which supposed to be automatically managed
+# This is not the dominant practice and I won't sacrifice my script for this single repo
