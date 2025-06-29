@@ -117,7 +117,19 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
+[![druid](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/druid)
+[![elastic-docs-builder](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs-builder&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs-builder)
+[![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/gradle)
 [![hive-doc](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hive-doc&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hive-doc)
+[![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
+[![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
+[![llama_index](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llama_index&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/llama_index)
+[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
+[![PyMuPDF](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=PyMuPDF&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/PyMuPDF)
+[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/react.dev)
+[![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testcontainers-java&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/testcontainers-java)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
