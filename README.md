@@ -21,7 +21,6 @@
 </div>
 
 [![Tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Tiger)
-[![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
 [![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Ferdinand)
