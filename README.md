@@ -55,10 +55,9 @@
 [![Fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Fiore&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Fiore)
 [![Horten](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Horten&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Horten)
 [![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/Wilhelm)
-[![email-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=email-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/email-ws)
-[![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
 [![fast-ws-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws-acceptance-tests)
+[![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 
 <div align="center">
 
