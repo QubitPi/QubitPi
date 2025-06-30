@@ -118,8 +118,18 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/cpython)
 [![elastic-docs-builder](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs-builder&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs-builder)
+[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
+[![hbase](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hbase&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hbase)
+[![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
 [![Macan](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Macan&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/Macan)
+[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/numpy)
+[![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/ollama)
+[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/scikit-learn)
+[![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testcontainers-java&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/testcontainers-java)
+[![writethedocs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=writethedocs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/writethedocs)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
