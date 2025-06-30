@@ -20,7 +20,7 @@
     <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
 </div>
 
-[![tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/tiger)
+[![Tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Tiger&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Tiger)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/lamassu)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
