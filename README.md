@@ -136,7 +136,6 @@
 [![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jenkins.io)
 [![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/jetty.project)
 [![kotlin-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/kotlin-docs)
-[![leadership-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=leadership-blogs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/leadership-blogs)
 [![lexical](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=lexical&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/lexical)
 [![llama_index](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llama_index&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/llama_index)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/mlflow)
