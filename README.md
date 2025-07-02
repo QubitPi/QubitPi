@@ -102,6 +102,7 @@
     <a href="https://hub.docker.com/u/jack20191124/"><img src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
 
+[![Henschel](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Henschel&show_owner=true&theme=react)](https://github.com/QubitPi/Henschel)
 [![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
 [![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
 [![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
