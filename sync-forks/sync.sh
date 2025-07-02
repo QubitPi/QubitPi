@@ -7,6 +7,7 @@ python3 sync.py -f git@github.com:QubitPi/wg-easy.git          -u git@github.com
 python3 sync.py -f git@github.com:QubitPi/mieru.git            -u git@github.com:enfein/mieru.git    -ub main
 
 # ML
+python3 sync.py -f git@github.com:QubitPi/whisper.git           -u org-14957082@github.com:openai/whisper.git    -ub main
 python3 sync.py -f git@github.com:QubitPi/mlflow.git            -u git@github.com:mlflow/mlflow.git              -ub master
 python3 sync.py -f git@github.com:QubitPi/llama_index.git       -u git@github.com:run-llama/llama_index.git      -ub main
 python3 sync.py -f git@github.com:QubitPi/ollama.git            -u git@github.com:ollama/ollama.git              -ub main
