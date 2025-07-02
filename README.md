@@ -6,7 +6,7 @@
 
 🇮🇹 Ho una laurea triennale in Ingegneria Fisica (con specializzazione in Meccanica Quantistica Computazionale) e una laurea magistrale in Informatica (con specializzazione in Big Data e Cloud Computing) conseguite presso l'Università dell'Illinois a Urbana-Champaign. Da allora, la mia carriera si è concentrata su applicazioni data-driven che combinano elaborazione del linguaggio naturale e tecnologie di knowledge graph. I miei software preferiti sono [Hadoop](https://hub.docker.com/r/jack20191124/hadoop) e [HBase](https://hub.docker.com/r/jack20191124/hbase).
 
-<img align="center" src="https://github.com/user-attachments/assets/6ba3aaf0-4b1b-425a-b639-400ddae069a3" width="5%" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
+<img align="center" src="https://github.com/user-attachments/assets/bf7fa6f4-7726-4bb0-aa58-989a9938eb32" width="3%" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
 ![Ancient Greek Intro](https://github.com/user-attachments/assets/feb906db-86b0-45a2-b563-65813fd9b393)
 
