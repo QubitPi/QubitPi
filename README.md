@@ -6,7 +6,7 @@
 
 🇮🇹 Ho una laurea triennale in Ingegneria Fisica (con specializzazione in Meccanica Quantistica Computazionale) e una laurea magistrale in Informatica (con specializzazione in Big Data e Cloud Computing) conseguite presso l'Università dell'Illinois a Urbana-Champaign. Da allora, la mia carriera si è concentrata su applicazioni data-driven che combinano elaborazione del linguaggio naturale e tecnologie di knowledge graph. Di recente ho lavorato a un [progetto ASR italiano](https://huggingface.co/spaces/QubitPi/Italian-ASR). Dategli un'occhiata :)
 
-<img align="center" src="https://github.com/user-attachments/assets/150668da-dcf4-4e13-b1a7-5e5730244c0e" width="3%" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
+<img align="center" src="https://github.com/user-attachments/assets/150668da-dcf4-4e13-b1a7-5e5730244c0e" width="30px" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
 ![Ancient Greek Intro](https://github.com/user-attachments/assets/feb906db-86b0-45a2-b563-65813fd9b393)
 
