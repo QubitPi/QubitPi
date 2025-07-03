@@ -43,13 +43,14 @@ python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git
 python3 sync.py -f git@github.com:QubitPi/inversify.github.io.git         -u git@github.com:inversify/inversify.github.io.git        -ub main
 
 # Graph Database
-python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git                             -u git@github.com:arangodb/docs-hugo.git                        -ub main
-python3 sync.py -f git@github.com:QubitPi/arangodb-java-driver.git                      -u git@github.com:arangodb/arangodb-java-driver.git             -ub main
-python3 sync.py -f git@github.com:QubitPi/python-arango.git                             -u git@github.com:arangodb/python-arango.git                    -ub main
-python3 sync.py -f git@github.com:QubitPi/docs-cypher.git                               -u git@github.com:neo4j/docs-cypher.git                         -ub dev
-python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-stackoverflow.git        -u git@github.com:neo4j-graph-examples/stackoverflow.git        -ub main
-python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-network-management.git   -u git@github.com:neo4j-graph-examples/network-management.git   -ub main
-python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-healthcare-analytics.git -u git@github.com:neo4j-graph-examples/healthcare-analytics.git -ub main
+python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git                                      -u git@github.com:arangodb/docs-hugo.git                        -ub main
+python3 sync.py -f git@github.com:QubitPi/arangodb-java-driver.git                               -u git@github.com:arangodb/arangodb-java-driver.git             -ub main
+python3 sync.py -f git@github.com:QubitPi/python-arango.git                                      -u git@github.com:arangodb/python-arango.git                    -ub main
+python3 sync.py -f git@github.com:QubitPi/docs-cypher.git                                        -u git@github.com:neo4j/docs-cypher.git                         -ub dev
+python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-stackoverflow.git                 -u git@github.com:neo4j-graph-examples/stackoverflow.git        -ub main
+python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-network-management.git            -u git@github.com:neo4j-graph-examples/network-management.git   -ub main
+python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-healthcare-analytics.git          -u git@github.com:neo4j-graph-examples/healthcare-analytics.git -ub main
+python3 sync.py -f git@github.com:QubitPi/git@github.com:QubitPi/neo4j-graph-examples-movies.git -u git@github.com:neo4j-graph-examples/movies.git               -ub main
 
 # Hadoop Ecosystem
 python3 sync.py -f git@github.com:QubitPi/hadoop.git     -u git@github.com:apache/hadoop.git            -ub trunk
