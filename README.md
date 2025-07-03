@@ -55,7 +55,7 @@
 [![Ostwind](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ostwind&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Ostwind)
 [![Fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Fiore&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Fiore)
 [![Horten](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Horten&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Horten)
-[![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&theme=react)](https://github.com/QubitPi/Wilhelm)
+[![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&title_color=F7C8E0&text_color=DFFFD8&bg_color=95BDFF&icon_color=B4E4FF)](https://github.com/QubitPi/Wilhelm)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
 [![fast-ws-acceptance-tests](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws-acceptance-tests&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws-acceptance-tests)
@@ -102,7 +102,7 @@
     <a href="https://hub.docker.com/u/jack20191124/"><img src="https://img.shields.io/badge/DockerHub-2596EC?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </div>
 
-[![Henschel](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Henschel&show_owner=true&theme=react)](https://github.com/QubitPi/Henschel)
+[![Henschel](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Henschel&show_owner=true&title_color=F7C8E0&text_color=DFFFD8&bg_color=95BDFF&icon_color=B4E4FF)](https://github.com/QubitPi/Henschel)
 [![packer-plugin-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-qubitpi)
 [![terraform-provider-qubitpi](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=terraform-provider-qubitpi&show_owner=true&theme=dracula)](https://github.com/QubitPi/terraform-provider-qubitpi)
 [![packer-plugin-scaffolding](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=packer-plugin-scaffolding&show_owner=true&theme=dracula)](https://github.com/QubitPi/packer-plugin-scaffolding)
