@@ -155,17 +155,17 @@
 
 <h2 align="center">Contributor</h2>
 
-[![Yahoo Fili](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&theme=slateorange)](https://github.com/yahoo/fili)
-[![Yahoo Elide](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&theme=slateorange)](https://github.com/yahoo/elide)
-[![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&theme=react)](https://github.com/neo4j/neo4j-browser)
-[![screwdriver: in-a-box](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=in-a-box&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/in-a-box)
-[![screwdriver-cd/executor-docker](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=executor-docker&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/template-validator)
-[![template-validator](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=template-validator&show_owner=true&theme=dracula)](https://github.com/screwdriver-cd/executor-docker)
-[![Packer](https://github-repo-pins.vercel.app/api/pin/?username=hashicorp&repo=packer&show_owner=true&theme=dracula)](https://github.com/hashicorp/packer)
-[![docs-cypher](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&theme=chartreuse-dark)](https://github.com/neo4j/docs-cypher)
-[![Yahoo MDBM](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&theme=slateorange)](https://github.com/QubitPi/mdbm)
-[![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&theme=slateorange)](https://github.com/apache/druid)
-[![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&theme=react)](https://github.com/nrandecker/particle)
+[![Yahoo Fili](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=fili&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/yahoo/fili)
+[![Yahoo Elide](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=elide&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/yahoo/elide)
+[![neo4j-browser](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=neo4j-browser&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/neo4j/neo4j-browser)
+[![screwdriver: in-a-box](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=in-a-box&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/screwdriver-cd/in-a-box)
+[![screwdriver-cd/executor-docker](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=executor-docker&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/screwdriver-cd/template-validator)
+[![template-validator](https://github-repo-pins.vercel.app/api/pin/?username=screwdriver-cd&repo=template-validator&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/screwdriver-cd/executor-docker)
+[![Packer](https://github-repo-pins.vercel.app/api/pin/?username=hashicorp&repo=packer&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/hashicorp/packer)
+[![docs-cypher](https://github-repo-pins.vercel.app/api/pin/?username=neo4j&repo=docs-cypher&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/neo4j/docs-cypher)
+[![Yahoo MDBM](https://github-repo-pins.vercel.app/api/pin/?username=yahoo&repo=mdbm&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/mdbm)
+[![Apache Druid](https://github-repo-pins.vercel.app/api/pin/?username=apache&repo=druid&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/apache/druid)
+[![Particle](https://github-repo-pins.vercel.app/api/pin/?username=nrandecker&repo=particle&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/nrandecker/particle)
 
 <h2 align="center">Miscellaneous</h2>
 
