@@ -116,6 +116,7 @@ python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -
 python3 sync.py -f git@github.com:QubitPi/progit2.git                          -u git@github.com:progit/progit2.git                           -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git            -ub master
 python3 sync.py -f git@github.com:QubitPi/github-repo-pins.git                 -u git@github.com:anuraghazra/github-readme-stats.git          -ub master
+python3 sync.py -f git@github.com:QubitPi/gravitational-wave-quickview.git     -u git@github.com:jkanner/streamlit-dataview.git               -ub master
 
 # Special case for https://github.com/QubitPi/glassfish-hk2
 # Because they put doc source code in gh-pages, a branch which is supposed to be automatically managed
