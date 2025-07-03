@@ -128,6 +128,7 @@
 [![druid-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid-docs&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/druid-docs)
 [![elastic-docs-builder](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs-builder&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/elastic-docs-builder)
 [![fastapi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fastapi&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/fastapi)
+[![github-repo-pins](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=github-repo-pins&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/github-repo-pins)
 [![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/gradle)
 [![graphql-spec](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=graphql-spec&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/graphql-spec)
 [![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&theme=ambient_gradient)](https://github.com/QubitPi/hadoop)
