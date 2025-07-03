@@ -109,6 +109,7 @@ python3 sync.py -f git@github.com:QubitPi/hashicorp-packer.git                  
 python3 sync.py -f git@github.com:QubitPi/hashicorp-terraform.git                      -u git@github.com:hashicorp/terraform.git                                -ub main
 python3 sync.py -f git@github.com:QubitPi/hashicorp-vault.git                          -u git@github.com:hashicorp/vault.git                                    -ub main
 python3 sync.py -f git@github.com:QubitPi/hashicorp-consul.git                         -u git@github.com:hashicorp/consul.git                                   -ub main
+python3 sync.py -f git@github.com:QubitPi/packer-plugin-scaffolding.git                -u git@github.com:hashicorp/packer-plugin-scaffolding.git                -ub main
 python3 sync.py -f git@github.com:QubitPi/terraform-provider-scaffolding-framework.git -u git@github.com:hashicorp/terraform-provider-scaffolding-framework.git -ub main
 
 # Docker
