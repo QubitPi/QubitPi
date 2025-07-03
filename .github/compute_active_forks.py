@@ -15,7 +15,7 @@ import sys
 import requests
 from datetime import datetime, timedelta
 
-PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&theme=ambient_gradient)](https://github.com/{owner}/{repo_name})"
+PIN_TEMPLATE = "[![{repo_name}](https://github-readme-stats.vercel.app/api/pin/?username={owner}&repo={repo_name}&show_owner=true&border_radius=20&title_color=006A71&text_color=FF7E67&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/{owner}/{repo_name})"
 ACTIVE_WINDOW_IN_HOURS = 24
 RETROSPECT_WINDOW_START = datetime.now() - timedelta(hours=ACTIVE_WINDOW_IN_HOURS)
 
