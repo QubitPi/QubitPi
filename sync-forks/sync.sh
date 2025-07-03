@@ -22,7 +22,7 @@ python3 sync.py -f git@github.com:QubitPi/data-mining.git       -u git@github.co
 python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.com:microsoft/graphrag.git         -ub main
 python3 sync.py -f git@github.com:QubitPi/PyMuPDF.git           -u git@github.com:pymupdf/PyMuPDF.git            -ub main
 
-# UI
+# Frontend
 python3 sync.py -f git@github.com:QubitPi/react.dev.git                   -u git@github.com:reactjs/react.dev.git                    -ub main
 python3 sync.py -f git@github.com:QubitPi/TypeScript-Website.git          -u git@github.com:microsoft/TypeScript-Website.git         -ub v2
 python3 sync.py -f git@github.com:QubitPi/babel-website.git               -u git@github.com:babel/website.git                        -ub main
