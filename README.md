@@ -53,7 +53,7 @@
 
 [![Kugelblitz](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Kugelblitz&show_owner=true&border_radius=20&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Kugelblitz)
 [![Horten](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Horten&show_owner=true&border_radius=20&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Horten)
-[![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&title_color=F7C8E0&text_color=DFFFD8&bg_color=95BDFF&icon_color=B4E4FF)](https://github.com/QubitPi/Wilhelm)
+[![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&border_radius=20&title_color=F7C8E0&text_color=DFFFD8&bg_color=95BDFF&icon_color=B4E4FF)](https://github.com/QubitPi/Wilhelm)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![Ostwind](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ostwind&show_owner=true&border_radius=20&title_color=03A791&text_color=E9F5BE&bg_color=F1BA88&icon_color=81E7AF)](https://github.com/QubitPi/Ostwind)
 [![Fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Fiore&show_owner=true&border_radius=20&title_color=03A791&text_color=E9F5BE&bg_color=F1BA88&icon_color=81E7AF)](https://github.com/QubitPi/Fiore)
