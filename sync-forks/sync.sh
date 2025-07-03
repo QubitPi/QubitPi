@@ -6,6 +6,7 @@ python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git       -u git@gith
 python3 sync.py -f git@github.com:QubitPi/wg-easy.git                -u git@github.com:wg-easy/wg-easy.git                  -ub master
 python3 sync.py -f git@github.com:QubitPi/mieru.git                  -u git@github.com:enfein/mieru.git                     -ub main
 python3 sync.py -f git@github.com:QubitPi/Archive.org-Downloader.git -u git@github.com:MiniGlome/Archive.org-Downloader.git -ub main
+python3 sync.py -f git@github.com:QubitPi/arrows.app.git             -u git@github.com:neo4j-labs/arrows.app.git            -ub main
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/whisper.git           -u org-14957082@github.com:openai/whisper.git    -ub main
