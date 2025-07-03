@@ -20,11 +20,11 @@
     <a href="https://share.streamlit.io/user/QubitPi"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
 </div>
 
-[![Tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Tiger&show_owner=true&border_radius=30&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Tiger)
-[![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&border_radius=30&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/wiktionary-data)
-[![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&border_radius=30&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
-[![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&border_radius=30&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Ferdinand)
-[![machine-learning](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&border_radius=30&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/machine-learning)
+[![Tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Tiger&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Tiger)
+[![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/wiktionary-data)
+[![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
+[![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Ferdinand)
+[![machine-learning](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/machine-learning)
 
 - __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/)
 
@@ -51,10 +51,10 @@
     <a href="https://central.sonatype.com/search?q=io.github.qubitpi"><img src="https://img.shields.io/badge/Maven%20Central-4D9FEA?style=for-the-badge&logo=apachemaven&logoColor=white" /></a>
 </div>
 
-[![Kugelblitz](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Kugelblitz&show_owner=true&border_radius=30&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Kugelblitz)
+[![Kugelblitz](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Kugelblitz&show_owner=true&border_radius=20&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Kugelblitz)
 [![Ostwind](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ostwind&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Ostwind)
 [![Fiore](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Fiore&show_owner=true&theme=slateorange)](https://github.com/QubitPi/Fiore)
-[![Horten](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Horten&show_owner=true&border_radius=30&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Horten)
+[![Horten](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Horten&show_owner=true&border_radius=20&title_color=F1BA88&text_color=E9F5BE&bg_color=03A791&icon_color=81E7AF)](https://github.com/QubitPi/Horten)
 [![Wilhelm](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Wilhelm&show_owner=true&title_color=F7C8E0&text_color=DFFFD8&bg_color=95BDFF&icon_color=B4E4FF)](https://github.com/QubitPi/Wilhelm)
 [![maven-central-release-action](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release-action)
 [![fast-ws](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ws&show_owner=true&theme=slateorange)](https://github.com/QubitPi/fast-ws)
