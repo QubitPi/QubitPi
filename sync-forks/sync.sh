@@ -48,6 +48,7 @@ python3 sync.py -f git@github.com:QubitPi/arangodb-docs.git                     
 python3 sync.py -f git@github.com:QubitPi/arangodb-java-driver.git                               -u git@github.com:arangodb/arangodb-java-driver.git             -ub main
 python3 sync.py -f git@github.com:QubitPi/python-arango.git                                      -u git@github.com:arangodb/python-arango.git                    -ub main
 python3 sync.py -f git@github.com:QubitPi/docs-cypher.git                                        -u git@github.com:neo4j/docs-cypher.git                         -ub dev
+python3 sync.py -f git@github.com:QubitPi/neo4j-docs-drivers.git                                 -u git@github.com:neo4j/docs-drivers.git                        -ub dev
 python3 sync.py -f git@github.com:QubitPi/neo4j-java-driver.git                                  -u git@github.com:neo4j/neo4j-java-driver.git                   -ub 6.x
 python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-stackoverflow.git                 -u git@github.com:neo4j-graph-examples/stackoverflow.git        -ub main
 python3 sync.py -f git@github.com:QubitPi/neo4j-graph-examples-network-management.git            -u git@github.com:neo4j-graph-examples/network-management.git   -ub main
@@ -96,14 +97,16 @@ python3 sync.py -f git@github.com:QubitPi/jakartaee-persistence.git       -u git
 python3 sync.py -f git@github.com:QubitPi/golang-website.git              -u git@github.com:golang/website.git                        -ub master
 python3 sync.py -f git@github.com:QubitPi/json-api.git                    -u git@github.com:json-api/json-api.git                     -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/graphql-spec.git                -u git@github.com:graphql/graphql-spec.git                  -ub main
+python3 sync.py -f git@github.com:QubitPi/owner.git                       -u git@github.com:matteobaccan/owner.git                    -ub master
 
 # HashiCorp
 # ⚠️ hashicorp-dev-portal must sync first
-python3 sync.py -f git@github.com:QubitPi/hashicorp-dev-portal.git -u git@github.com:hashicorp/dev-portal.git -ub main
-python3 sync.py -f git@github.com:QubitPi/hashicorp-packer.git     -u git@github.com:hashicorp/packer.git     -ub main
-python3 sync.py -f git@github.com:QubitPi/hashicorp-terraform.git  -u git@github.com:hashicorp/terraform.git  -ub main
-python3 sync.py -f git@github.com:QubitPi/hashicorp-vault.git      -u git@github.com:hashicorp/vault.git      -ub main
-python3 sync.py -f git@github.com:QubitPi/hashicorp-consul.git     -u git@github.com:hashicorp/consul.git     -ub main
+python3 sync.py -f git@github.com:QubitPi/hashicorp-dev-portal.git                     -u git@github.com:hashicorp/dev-portal.git                               -ub main
+python3 sync.py -f git@github.com:QubitPi/hashicorp-packer.git                         -u git@github.com:hashicorp/packer.git                                   -ub main
+python3 sync.py -f git@github.com:QubitPi/hashicorp-terraform.git                      -u git@github.com:hashicorp/terraform.git                                -ub main
+python3 sync.py -f git@github.com:QubitPi/hashicorp-vault.git                          -u git@github.com:hashicorp/vault.git                                    -ub main
+python3 sync.py -f git@github.com:QubitPi/hashicorp-consul.git                         -u git@github.com:hashicorp/consul.git                                   -ub main
+python3 sync.py -f git@github.com:QubitPi/terraform-provider-scaffolding-framework.git -u git@github.com:hashicorp/terraform-provider-scaffolding-framework.git -ub main
 
 # Docker
 python3 sync.py -f git@github.com:QubitPi/docker-docs.git               -u git@github.com:docker/docs.git                         -ub main # no-SEO: https://github.com/QubitPi/docker-docs/pull/6
@@ -125,9 +128,11 @@ python3 sync.py -f git@github.com:QubitPi/bats-core.git                        -
 python3 sync.py -f git@github.com:QubitPi/writethedocs.git                     -u git@github.com:writethedocs/www.git                         -ub main # NS
 python3 sync.py -f git@github.com:QubitPi/diataxis-documentation-framework.git -u git@github.com:evildmp/diataxis-documentation-framework.git -ub main
 python3 sync.py -f git@github.com:QubitPi/progit2.git                          -u git@github.com:progit/progit2.git                           -ub main
+python3 sync.py -f git@github.com:QubitPi/keep-a-changelog.git                 -u git@github.com:olivierlacan/keep-a-changelog.git            -ub main
 python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -u git@github.com:virtyaluk/Bit-Twiddling-Hacks.git            -ub master
 python3 sync.py -f git@github.com:QubitPi/github-repo-pins.git                 -u git@github.com:anuraghazra/github-readme-stats.git          -ub master
 python3 sync.py -f git@github.com:QubitPi/gravitational-wave-quickview.git     -u git@github.com:jkanner/streamlit-dataview.git               -ub master
+python3 sync.py -f git@github.com:QubitPi/gravitational-wave-fitter.git        -u git@github.com:cardiffgravity/waveform-fitter.git           -ub master
 
 # Special case for https://github.com/QubitPi/glassfish-hk2
 # Because they put doc source code in gh-pages, a branch which is supposed to be automatically managed
