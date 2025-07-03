@@ -102,6 +102,7 @@ python3 sync.py -f git@github.com:QubitPi/hibernate-orm.git               -u git
 python3 sync.py -f git@github.com:QubitPi/golang-website.git              -u git@github.com:golang/website.git                        -ub master
 python3 sync.py -f git@github.com:QubitPi/json-api.git                    -u git@github.com:json-api/json-api.git                     -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/graphql-spec.git                -u git@github.com:graphql/graphql-spec.git                  -ub main
+python3 sync.py -f git@github.com:QubitPi/graphql-java-page.git           -u git@github.com:graphql-java/graphql-java-page.git        -ub master
 python3 sync.py -f git@github.com:QubitPi/owner.git                       -u git@github.com:matteobaccan/owner.git                    -ub master
 
 # HashiCorp
