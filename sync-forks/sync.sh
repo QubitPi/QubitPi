@@ -16,6 +16,7 @@ python3 sync.py -f git@github.com:QubitPi/scikit-learn.git      -u git@github.co
 python3 sync.py -f git@github.com:QubitPi/networkx.git          -u git@github.com:networkx/networkx.git          -ub main
 python3 sync.py -f git@github.com:QubitPi/nx-guides.git         -u git@github.com:networkx/nx-guides.git         -ub main
 python3 sync.py -f git@github.com:QubitPi/numpy.git             -u git@github.com:numpy/numpy.git                -ub main
+python3 sync.py -f git@github.com:QubitPi/pandas.git            -u git@github.com:pandas-dev/pandas.git          -ub main
 python3 sync.py -f git@github.com:QubitPi/cpython.git           -u git@github.com:python/cpython.git             -ub main
 python3 sync.py -f git@github.com:QubitPi/machine-learning.git  -u git@github.com:ageron/handson-ml3.git         -ub main
 python3 sync.py -f git@github.com:QubitPi/data-mining.git       -u git@github.com:zakimjz/dmbook-slides.git      -ub master
