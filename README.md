@@ -24,7 +24,6 @@
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/wiktionary-data)
 [![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
 [![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/Ferdinand)
-[![arrows.app](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=arrows.app&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/arrows.app)
 [![machine-learning](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/machine-learning)
 
 - __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/)
@@ -39,6 +38,7 @@
 </div>
 
 [![fast-ui](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ui&show_owner=true&theme=react)](https://github.com/QubitPi/fast-ui)
+[![arrows.app](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=arrows.app&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/arrows.app)
 
 - [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://babel.qubitpi.org/) | [Redux](https://qubitpi.github.io/redux/)
 - [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/)
