@@ -75,7 +75,8 @@ python3 sync.py -f git@github.com:QubitPi/docker-swift-onlyone.git         -u gi
 # ELK
 # ⚠️ elastic-docs-builder must sync first
 python3 sync.py -f git@github.com:QubitPi/elastic-docs-builder.git -u git@github.com:elastic/docs-builder.git -ub main
-python3 sync.py -f git@github.com:QubitPi/elastic-stack-docs.git -u git@github.com:elastic/stack-docs.git -ub main
+python3 sync.py -f git@github.com:QubitPi/elastic-stack-docs.git   -u git@github.com:elastic/stack-docs.git   -ub main
+python3 sync.py -f git@github.com:QubitPi/elastic-docs.git         -u git@github.com:elastic/docs.git         -ub master
 # python3 sync.py -f git@github.com:QubitPi/elastic-beats.git -u git@github.com:elastic/beats.git -ub main
 # python3 sync.py -f git@github.com:QubitPi/elasticsearch.git -u git@github.com:elastic/elasticsearch.git -ub main
 # python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
