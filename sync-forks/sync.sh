@@ -108,9 +108,10 @@ python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git        -u git@g
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git    -ub master # NS
 
 # DevOps
-python3 sync.py -f git@github.com:QubitPi/certbot.git      -u git@github.com:certbot/certbot.git          -ub main
-python3 sync.py -f git@github.com:QubitPi/jenkins.io.git   -u git@github.com:jenkins-infra/jenkins.io.git -ub master
-python3 sync.py -f git@github.com:QubitPi/ansible-docs.git -u git@github.com:ansible/docsite.git          -ub main
+python3 sync.py -f git@github.com:QubitPi/certbot.git       -u git@github.com:certbot/certbot.git          -ub main
+python3 sync.py -f git@github.com:QubitPi/jenkins.io.git    -u git@github.com:jenkins-infra/jenkins.io.git -ub master
+python3 sync.py -f git@github.com:QubitPi/ansible-docs.git  -u git@github.com:ansible/docsite.git          -ub main
+python3 sync.py -f git@github.com:QubitPi/docker-nexus3.git -u git@github.com:sonatype/docker-nexus3.git   -ub main
 
 python3 sync.py -f git@github.com:QubitPi/bats-core.git                        -u git@github.com:bats-core/bats-core.git                      -ub master
 python3 sync.py -f git@github.com:QubitPi/writethedocs.git                     -u git@github.com:writethedocs/www.git                         -ub main # NS
