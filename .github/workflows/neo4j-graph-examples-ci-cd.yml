@@ -16,21 +16,10 @@ name: CI/CD for QubitPi/neo4j-graph-examples-***
 
 "on":
   workflow_call:
-    secrets:
-      slack-webhook-url:
-        description: |
-          A standard Slack Webhook URL that connects to a Slack channel receive validation results.
-          This is the same thing as "SLACK_WEBHOOK_URL"; please see
-          https://github.com/marketplace/actions/slack-send#technique-3-slack-incoming-webhook
-          for more info
-        required: true
 
 jobs:
   deploy-to-github-pages:
     name: Deploy Documentation to GitHub Pages
-    outputs:
-      outcome: ${{ job.status }}
-    continue-on-error: true
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -52,13 +41,3 @@ jobs:
           publish_dir: build/site/
           user_name: QubitPi
           user_email: jack20220723@gmail.com
-
-  slack-notification:
-    name: Send Slack Notification
-    if: ${{ always() }}
-    needs: deploy-to-github-pages
-    uses: QubitPi/hashicorp-aws/.github/workflows/slack-notification.yml@master
-    with:
-      job-status: ${{ needs.deploy-to-github-pages.outputs.outcome }}
-    secrets:
-      slack-webhook-url: ${{ secrets.slack-webhook-url }}
