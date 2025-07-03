@@ -38,7 +38,7 @@
 </div>
 
 [![fast-ui](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=fast-ui&show_owner=true&border_radius=20&title_color=FF9EAA&text_color=FFD0D0&bg_color=3AA6B9&icon_color=C1ECE4)](https://github.com/QubitPi/fast-ui)
-[![arrows.app](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=arrows.app&show_owner=true&theme=chartreuse-dark)](https://github.com/QubitPi/arrows.app)
+[![arrows.app](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=arrows.app&show_owner=true&border_radius=20&title_color=FF9EAA&text_color=FFD0D0&bg_color=3AA6B9&icon_color=C1ECE4)](https://github.com/QubitPi/arrows.app)
 
 - [React](https://qubitpi.github.io/react.dev/) | [TypeScript](https://qubitpi.github.io/TypeScript-Website/) | [Babel](https://babel.qubitpi.org/) | [Redux](https://qubitpi.github.io/redux/)
 - [React Redux](https://react-redux.qubitpi.org/) | [Redux Toolkit](https://redux-toolkit.qubitpi.org/) | [redux-observable](https://qubitpi.github.io/redux-observable/)
