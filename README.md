@@ -25,6 +25,7 @@
 [![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
 [![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Ferdinand)
 [![machine-learning](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/machine-learning)
+[![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/lamassu)
 
 - __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/)
 
