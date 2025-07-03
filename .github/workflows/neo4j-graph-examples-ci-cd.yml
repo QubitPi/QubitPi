@@ -16,10 +16,18 @@ name: CI/CD for QubitPi/neo4j-graph-examples-***
 
 "on":
   workflow_call:
+    inputs:
+      cname:
+        description: the domain to deploy GitHub Pages to
+        required: true
+        type: string
 
 jobs:
   deploy-to-github-pages:
     name: Deploy Documentation to GitHub Pages
+    outputs:
+      outcome: ${{ job.status }}
+    continue-on-error: true
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,8 +39,6 @@ jobs:
           node-version: 16
       - run: npm install
       - run: npx antora publish.yml  # modules/ROOT/ is a symlink (https://docs.antora.org/antora/latest/symlinks/) to documentation/
-      - name: Load CNAME file
-        run: cp CNAME build/site/
       - name: Deploy to GitHub Pages
         # if: github.ref == 'refs/heads/master'
         uses: peaceiris/actions-gh-pages@v3
@@ -41,3 +47,4 @@ jobs:
           publish_dir: build/site/
           user_name: QubitPi
           user_email: jack20220723@gmail.com
+          cname: ${{ inputs.cname }}
