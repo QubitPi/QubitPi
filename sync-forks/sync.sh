@@ -29,6 +29,7 @@ python3 sync.py -f git@github.com:QubitPi/babel-website.git               -u git
 python3 sync.py -f git@github.com:QubitPi/redux.git                       -u git@github.com:reduxjs/redux.git                        -ub master
 python3 sync.py -f git@github.com:QubitPi/react-redux.git                 -u git@github.com:reduxjs/react-redux.git                  -ub master
 python3 sync.py -f git@github.com:QubitPi/redux-toolkit.git               -u git@github.com:reduxjs/redux-toolkit.git                -ub master
+python3 sync.py -f git@github.com:QubitPi/immer.git                       -u git@github.com:immerjs/immer.git                        -ub main
 python3 sync.py -f git@github.com:QubitPi/jest.git                        -u git@github.com:jestjs/jest.git                          -ub main
 python3 sync.py -f git@github.com:QubitPi/testing-library-docs.git        -u git@github.com:testing-library/testing-library-docs.git -ub main
 python3 sync.py -f git@github.com:QubitPi/cypress-documentation.git       -u git@github.com:cypress-io/cypress-documentation.git     -ub main
