@@ -90,6 +90,7 @@ python3 sync.py -f git@github.com:QubitPi/kotlin-docs.git                 -u git
 python3 sync.py -f git@github.com:QubitPi/fastapi.git                     -u git@github.com:fastapi/fastapi.git                       -ub master
 python3 sync.py -f git@github.com:QubitPi/jekyll-theme-jakarta-ee.git     -u git@github.com:jakartaee/jekyll-theme-jakarta-ee.git     -ub master
 python3 sync.py -f git@github.com:QubitPi/jakartaee-rest.git              -u git@github.com:jakartaee/rest.git                        -ub main
+python3 sync.py -f git@github.com:QubitPi/jakartaee-persistence.git       -u git@github.com:jakartaee/persistence.git                 -ub main
 python3 sync.py -f git@github.com:QubitPi/golang-website.git              -u git@github.com:golang/website.git                        -ub master
 python3 sync.py -f git@github.com:QubitPi/json-api.git                    -u git@github.com:json-api/json-api.git                     -ub gh-pages
 python3 sync.py -f git@github.com:QubitPi/graphql-spec.git                -u git@github.com:graphql/graphql-spec.git                  -ub main
