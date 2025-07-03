@@ -43,7 +43,7 @@ python3 sync.py -f git@github.com:QubitPi/3d-force-graph.git              -u git
 python3 sync.py -f git@github.com:QubitPi/react-force-graph.git           -u git@github.com:vasturiano/react-force-graph.git         -ub master
 python3 sync.py -f git@github.com:QubitPi/lexical.git                     -u git@github.com:facebook/lexical.git                     -ub main
 python3 sync.py -f git@github.com:QubitPi/docusaurus.git                  -u git@github.com:facebook/docusaurus.git                  -ub main
-python3 sync.py -f git@github.com:QubitPi/inversify.github.io.git         -u git@github.com:inversify/inversify.github.io.git        -ub main
+python3 sync.py -f git@github.com:QubitPi/inversify.github.io.git         -u git@github.com:inversify/inversify.github.io.git        -ub master
 python3 sync.py -f git@github.com:QubitPi/logto-docs.git                  -u git@github.com:logto-io/docs.git                        -ub master
 
 # Graph Database
