@@ -111,6 +111,7 @@ python3 sync.py -f git@github.com:QubitPi/docker-mailserver.git         -u git@g
 python3 sync.py -f git@github.com:QubitPi/docker-kong.git               -u git@github.com:Kong/docker-kong.git                    -ub master
 python3 sync.py -f git@github.com:QubitPi/docker-registry-ui.git        -u git@github.com:Joxit/docker-registry-ui.git            -ub main
 python3 sync.py -f git@github.com:QubitPi/linuxserver-documentation.git -u git@github.com:linuxserver/docker-documentation.git    -ub master # NS
+python3 sync.py -f git@github.com:QubitPi/distribution.git              -u git@github.com:distribution/distribution.git           -ub main
 
 # DevOps
 python3 sync.py -f git@github.com:QubitPi/certbot.git       -u git@github.com:certbot/certbot.git          -ub main
