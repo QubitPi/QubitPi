@@ -9,6 +9,8 @@ python3 sync.py -f git@github.com:QubitPi/Archive.org-Downloader.git -u git@gith
 python3 sync.py -f git@github.com:QubitPi/arrows.app.git             -u git@github.com:neo4j-labs/arrows.app.git            -ub main
 
 # ML
+python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.com:microsoft/graphrag.git         -ub main
+python3 sync.py -f git@github.com:QubitPi/leidenalg.git         -u git@github.com:vtraag/leidenalg.git           -ub main
 python3 sync.py -f git@github.com:QubitPi/whisper.git           -u org-14957082@github.com:openai/whisper.git    -ub main
 python3 sync.py -f git@github.com:QubitPi/mlflow.git            -u git@github.com:mlflow/mlflow.git              -ub master
 python3 sync.py -f git@github.com:QubitPi/llama_index.git       -u git@github.com:run-llama/llama_index.git      -ub main
@@ -22,7 +24,6 @@ python3 sync.py -f git@github.com:QubitPi/pandas.git            -u git@github.co
 python3 sync.py -f git@github.com:QubitPi/cpython.git           -u git@github.com:python/cpython.git             -ub main
 python3 sync.py -f git@github.com:QubitPi/machine-learning.git  -u git@github.com:ageron/handson-ml3.git         -ub main
 python3 sync.py -f git@github.com:QubitPi/data-mining.git       -u git@github.com:zakimjz/dmbook-slides.git      -ub master
-python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.com:microsoft/graphrag.git         -ub main
 python3 sync.py -f git@github.com:QubitPi/PyMuPDF.git           -u git@github.com:pymupdf/PyMuPDF.git            -ub main
 python3 sync.py -f git@github.com:QubitPi/jupyter.git           -u git@github.com:jupyter/jupyter.git            -ub master
 
