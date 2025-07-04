@@ -153,7 +153,6 @@ python3 sync.py -f git@github.com:QubitPi/gravitational-wave-fitter.git        -
 # git clone git@github.com:QubitPi/glassfish-hk2.git
 # git checkout gh-pages
 # git remote add upstream git@github.com:eclipse-ee4j/glassfish-hk2.git
-
 cd daily-sync/glassfish-hk2/
 git fetch upstream
 git rebase upstream/gh-pages
