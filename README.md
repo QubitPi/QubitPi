@@ -124,7 +124,6 @@
 <!-- ACTIVE-FORKS:START -->
 [![3d-force-graph](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=3d-force-graph&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/3d-force-graph)
 [![arangodb-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-docs&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/arangodb-docs)
-[![Archive.org-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=Archive.org-Downloader&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/Archive.org-Downloader)
 [![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/babel-website)
 [![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cpython)
 [![cucumber-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cucumber-documentation&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cucumber-documentation)
