@@ -28,7 +28,7 @@
 [![machine-learning](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/machine-learning)
 [![lamassu](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=lamassu&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/lamassu)
 
-- __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/)
+- __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/) | [Leiden algorithm](https://leiden.qubitpi.org/)
 
 [LlamaIndex](http://llamaindex.qubitpi.org/) | [Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/docs/latest/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](http://python.qubitpi.org/)
 
