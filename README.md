@@ -131,7 +131,7 @@
 [![machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=machine-learning&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/machine-learning)
 [![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/mlflow)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/ollama)
-[![shadowsocks](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=shadowsocks&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/shadowsocks)
+[![progit2](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=progit2&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/progit2)
 [![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testcontainers-java&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/testcontainers-java)
 <!-- ACTIVE-FORKS:END -->
 
