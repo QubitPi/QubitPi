@@ -8,6 +8,7 @@ python3 sync.py -f git@github.com:QubitPi/wg-easy.git                -u git@gith
 python3 sync.py -f git@github.com:QubitPi/mieru.git                  -u git@github.com:enfein/mieru.git                     -ub main
 python3 sync.py -f git@github.com:QubitPi/Archive.org-Downloader.git -u git@github.com:MiniGlome/Archive.org-Downloader.git -ub main
 python3 sync.py -f git@github.com:QubitPi/arrows.app.git             -u git@github.com:neo4j-labs/arrows.app.git            -ub main
+python3 sync.py -f git@github.com:QubitPi/neo4j-browser.git          -u git@github.com:neo4j/neo4j-browser.git              -ub master
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.com:microsoft/graphrag.git         -ub main
