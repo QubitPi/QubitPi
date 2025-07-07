@@ -11,7 +11,7 @@
 ![Ancient Greek Intro](https://github.com/user-attachments/assets/feb906db-86b0-45a2-b563-65813fd9b393)
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
-![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00AA00&line=55aa00&point=00AA00&area_color=00aaaa&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Contribution%20Graph)
+![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00CC00&line=00CC00&point=00CC00&area_color=00CC00&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
 <div align="right">
     <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=My%20Planned%20Open%20Source%20Tasks&labelColor=00CC00&color=00CC00" alt="project-planning"/></a>
 </div>
