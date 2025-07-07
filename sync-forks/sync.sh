@@ -11,7 +11,8 @@ python3 sync.py -f git@github.com:QubitPi/arrows.app.git             -u git@gith
 python3 sync.py -f git@github.com:QubitPi/neo4j-browser.git          -u git@github.com:neo4j/neo4j-browser.git              -ub master
 
 # Language
-python3 sync.py -f git@github.com:QubitPi/lexitheras.git          -u git@github.com:conorreid/lexitheras.git              -ub main
+python3 sync.py -f git@github.com:QubitPi/ankidroiddocs.git -u git@github.com:ankidroid/ankidroiddocs.git -ub main
+python3 sync.py -f git@github.com:QubitPi/lexitheras.git    -u git@github.com:conorreid/lexitheras.git    -ub main
 
 # ML
 python3 sync.py -f git@github.com:QubitPi/graphrag.git          -u git@github.com:microsoft/graphrag.git         -ub main
