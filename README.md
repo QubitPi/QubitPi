@@ -8,7 +8,7 @@
 
 <img align="center" src="https://github.com/user-attachments/assets/150668da-dcf4-4e13-b1a7-5e5730244c0e" width="30px" /> Graduationem Baccalaureatus in Physica Ingeneria (de Mechanica Quantica Computationali) et Graduationem Magisteris in Scientia Computatoria (de Magno Data et Computatione in Caelo) ambae ab Universitate Illinois Urbis Champaign accepta. Exinde, curriculus meus in applicationibus Data-Driven concentratus est, coniungens Technologias Processus Linguarum Naturalium et Graphorum Cognitionis.
 
-![Ancient Greek Intro](https://github.com/user-attachments/assets/feb906db-86b0-45a2-b563-65813fd9b393)
+![Ancient Greek Intro](https://github.com/user-attachments/assets/d7405fc5-1472-4a97-abcd-62e5ab5adeed)
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00bb00&line=00bb00&point=00bb00&area_color=00bb00&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
