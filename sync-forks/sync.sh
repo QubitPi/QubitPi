@@ -90,7 +90,6 @@ python3 sync.py -f git@github.com:QubitPi/elastic-docs.git         -u git@github
 # python3 sync.py -f git@github.com:QubitPi/logstash.git -u git@github.com:elastic/logstash.git -ub main
 
 # Backend
-python3 sync.py -f git@github.com:QubitPi/spring-ai.git                   -u git@github.com:spring-projects/spring-ai.git             -ub main
 python3 sync.py -f git@github.com:QubitPi/cucumber-documentation.git      -u git@github.com:cucumber/website.git                      -ub main
 python3 sync.py -f git@github.com:QubitPi/reactivex-doc.git               -u git@github.com:ReactiveX/reactivex.github.io.git         -ub develop
 python3 sync.py -f git@github.com:QubitPi/spock-doc.git                   -u git@github.com:spockframework/spock.git                  -ub master
