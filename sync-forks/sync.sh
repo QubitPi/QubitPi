@@ -149,6 +149,7 @@ python3 sync.py -f git@github.com:QubitPi/Bit-Twiddling-Hacks.git              -
 python3 sync.py -f git@github.com:QubitPi/github-repo-pins.git                 -u git@github.com:anuraghazra/github-readme-stats.git          -ub master
 python3 sync.py -f git@github.com:QubitPi/gravitational-wave-quickview.git     -u git@github.com:jkanner/streamlit-dataview.git               -ub master
 python3 sync.py -f git@github.com:QubitPi/gravitational-wave-fitter.git        -u git@github.com:cardiffgravity/waveform-fitter.git           -ub master
+python3 sync.py -f git@github.com:QubitPi/lottie2gif.git                       -u git@github.com:lilas-dev/lottie2gif.git                     -ub main
 
 # Special case for https://github.com/QubitPi/glassfish-hk2
 # Because they put doc source code in gh-pages, a branch which is supposed to be automatically managed
