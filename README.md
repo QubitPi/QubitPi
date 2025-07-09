@@ -11,9 +11,9 @@
 <a href="https://github.com/QubitPi/lexitheras"><img src="https://github.com/user-attachments/assets/d7405fc5-1472-4a97-abcd-62e5ab5adeed"/></a>
 
 <img align="center" src="/github-metrics-intro.svg" alt="Metrics" width="48%" /><img align="right" src="/github-metrics-issue-pr-habits.svg" alt="Metrics" width="48%" />
-![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00bb00&line=00bb00&point=00bb00&area_color=00bb00&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
+![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00C14C&line=00C14C&point=00C14C&area_color=00C14C&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
 <div align="right">
-    <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=My%20Planned%20Open%20Source%20Tasks&labelColor=00bb00&color=00bb00" alt="project-planning"/></a>
+    <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=My%20Planned%20Open%20Source%20Tasks&labelColor=00C14C&color=00C14C" alt="project-planning"/></a>
 </div>
 
 <h2 align="center">Data, Language, GraphRAG</h2>
