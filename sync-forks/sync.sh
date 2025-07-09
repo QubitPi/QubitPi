@@ -3,7 +3,7 @@ set -x
 set -e
 
 python3 sync.py -f git@github.com:QubitPi/leadership-blogs.git       -u git@github.com:saicaca/fuwari.git                   -ub main
-python3 sync.py -f git@github.com:QubitPi/shadowsocks.git            -u git@github.com:shadowsocks/shadowsocks-org.git      -ub main # ✅
+python3 sync.py -f git@github.com:QubitPi/shadowsocks.git            -u git@github.com:shadowsocks/shadowsocks-org.git      -ub main   # ✅
 python3 sync.py -f git@github.com:QubitPi/wg-easy.git                -u git@github.com:wg-easy/wg-easy.git                  -ub master
 python3 sync.py -f git@github.com:QubitPi/mieru.git                  -u git@github.com:enfein/mieru.git                     -ub main
 python3 sync.py -f git@github.com:QubitPi/Archive.org-Downloader.git -u git@github.com:MiniGlome/Archive.org-Downloader.git -ub main
