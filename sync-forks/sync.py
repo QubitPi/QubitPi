@@ -216,11 +216,16 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
         return False
 
     # check if upstram's default branch is equal to upstream_default_branch
-    show_result = fork.git.remote("show", "upstream")
-    matches = re.search(r"\s*HEAD branch:\s*(.*)", show_result)
-    if matches:
-        if upstream_default_branch != matches.group(1):
-            sys.exit("{}'s default branch changes to {} in upstream".format(forked_repo_name, matches.group(1)))
+    try:
+        show_result = fork.git.remote("show", "upstream")
+        matches = re.search(r"\s*HEAD branch:\s*(.*)", show_result)
+        if matches:
+            if upstream_default_branch != matches.group(1):
+                sys.exit("{}'s default branch changes to {} in upstream".format(forked_repo_name, matches.group(1)))
+    except GitCommandError as e:
+        print("Network error on remote checking {forked_repo_name}. Retrying...".format(forked_repo_name=forked_repo_name))
+        print(e)
+        return False
 
     try:
         print("Rebasing ...")
