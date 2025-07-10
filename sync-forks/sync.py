@@ -212,6 +212,7 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
         upstream_remote.fetch()
     except GitCommandError as e:
         print("Network error on fetching upstream of {forked_repo_name}. Retrying...".format(forked_repo_name=forked_repo_name))
+        print(e)
         return False
 
     # check if upstram's default branch is equal to upstream_default_branch
@@ -226,7 +227,8 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
         fork.git.rebase("upstream/{branch}".format(branch=upstream_default_branch))
     except GitCommandError as e:
         if "CONFLICT" in str(e):
-            print("{fork} needs manual rebase".format(fork=forked_repo_name))
+            print("⚠️ {fork} needs manual rebase".format(fork=forked_repo_name))
+            print(e)
             return True # done with this fork
         else:
             return True # this should not be reached
@@ -235,6 +237,7 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
         fork.remote("origin").push(refspec='master:master', force=True)
     except GitCommandError as e:
         print("Network error on pushing origin:master of {forked_repo_name}. Retrying...".format(forked_repo_name=forked_repo_name))
+        print(e)
         return False
 
     return True
