@@ -4,3 +4,4 @@ __pycache__
 repo_pr.backup
 temp.txt
 sync-forks/daily-sync/
+nohup.out
