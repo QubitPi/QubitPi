@@ -313,7 +313,7 @@ FORKS = [
     {
         "fork":"git@github.com:QubitPi/druid.git",
         "upstream":"git@github.com:apache/druid.git",
-        "upstream-default-branch":"master # QubitPi/druid must sync before QubitPi/druid-docs"
+        "upstream-default-branch":"master"
     },
     {
         "fork":"git@github.com:QubitPi/druid-docs.git",
