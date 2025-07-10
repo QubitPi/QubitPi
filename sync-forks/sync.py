@@ -195,11 +195,15 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
             fork.create_remote("upstream", upstream_repo)
     else:
         print("Cloning {} ...".format(forked_repo))
-        fork = Repo.clone_from(
-            url=forked_repo,
-            to_path=path,
-            progress=CloneProgress()
-        )
+        try:
+            fork = Repo.clone_from(
+                url=forked_repo,
+                to_path=path,
+                progress=CloneProgress()
+            )
+        except GitCommandError as e:
+            print("Network error on cloning {forked_repo_name}. Retrying...".format(forked_repo_name=forked_repo_name))
+            return False
         fork.create_remote("upstream", upstream_repo)
 
     upstream_remote = fork.remotes.upstream
