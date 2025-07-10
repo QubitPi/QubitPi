@@ -709,3 +709,4 @@ if __name__ == "__main__":
     for fork in FORKS:
         while not update_fork(fork["fork"], fork["upstream"], fork["upstream-default-branch"]):
             pass
+    print("Sync done.")
