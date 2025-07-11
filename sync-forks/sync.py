@@ -621,7 +621,8 @@ GENERATION_SOFTWARE_FORKS = [
     {
         "fork":"git@github.com:generation-software/screwdriver-cd-homepage.git",
         "upstream":"git@github.com:screwdriver-cd/homepage.git",
-        "upstream-default-branch":"master"
+        "upstream-default-branch":"master",
+        "fork-parent-dir": "generation-software"
     }
 ]
 
@@ -653,12 +654,13 @@ def get_repo_name_from_git_url(url: str) -> str:
     return url[last_slash_index + 1:last_suffix_index]
 
 
-def update_fork(forked_repo, upstream_repo, upstream_default_branch):
+def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_parent_dir="daily-sync"):
     forked_repo_name = get_repo_name_from_git_url(forked_repo)
-    path = "./daily-sync/{}".format(forked_repo_name)
+    path = os.path.join(forks_parent_dir, forked_repo_name)
+    # path = "./daily-sync/{}".format(forked_repo_name)
 
     if os.path.exists(path):
-        print("./daily-sync/{} already exists".format(forked_repo_name))
+        print("{} already exists".format(path))
         fork = Repo(path)
         if "upstream" not in fork.remotes:
             fork.create_remote("upstream", upstream_repo)
@@ -714,7 +716,12 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
 
 
 if __name__ == "__main__":
-    for fork in FORKS + GENERATION_SOFTWARE_FORKS:
+    for fork in FORKS:
         while not update_fork(fork["fork"], fork["upstream"], fork["upstream-default-branch"]):
             pass
-    print("Sync done.")
+    print("QubitPi forks sync done")
+
+    for fork in GENERATION_SOFTWARE_FORKS:
+        while not update_fork(fork["fork"], fork["upstream"], fork["upstream-default-branch"], fork["fork-parent-dir"]):
+            pass
+    print("Generation Software forks sync done")
