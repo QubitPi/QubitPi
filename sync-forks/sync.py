@@ -26,7 +26,7 @@ FORKS = [
         "upstream-default-branch":"main"
     },
     {
-        "fork":"git@github.com:QubitPi/shadowsocks.git",
+        "fork":"git@github.com:QubitPi/shadowsocks.git", # ✅
         "upstream":"git@github.com:shadowsocks/shadowsocks-org.git",
         "upstream-default-branch":"main"
     },
