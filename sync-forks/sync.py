@@ -617,6 +617,14 @@ FORKS = [
     }
 ]
 
+GENERATION_SOFTWARE_FORKS = [
+    {
+        "fork":"git@github.com:generation-software/screwdriver-cd-homepage.git",
+        "upstream":"git@github.com:screwdriver-cd/homepage.git",
+        "upstream-default-branch":"master"
+    }
+]
+
 
 # Credits to https://stackoverflow.com/a/65576165
 class CloneProgress(RemoteProgress):
@@ -706,7 +714,7 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch):
 
 
 if __name__ == "__main__":
-    for fork in FORKS:
+    for fork in FORKS + GENERATION_SOFTWARE_FORKS:
         while not update_fork(fork["fork"], fork["upstream"], fork["upstream-default-branch"]):
             pass
     print("Sync done.")
