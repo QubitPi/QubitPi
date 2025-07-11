@@ -66,6 +66,7 @@ def get_active_forks():
             if datetime.strptime(last_commit, "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
                 active_forks[repo_name] = repo_owner
         page = page + 1
+    print(active_forks)
     write_active_forks(active_forks)
 
 
