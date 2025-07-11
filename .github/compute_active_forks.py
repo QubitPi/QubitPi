@@ -53,6 +53,19 @@ def get_active_forks():
             if datetime.strptime(last_commit, "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
                 active_forks[repo_name] = repo_owner
         page = page + 1
+    while True:
+        paged_forks = requests.get(url="https://api.github.com/users/generation-software/repos?type=forks&page={page}&per_page=10".format(page=page)).json()
+        if len(paged_forks) == 0:
+            break
+        for fork in paged_forks:
+            if fork["fork"] == False:
+                continue
+            repo_owner = fork["full_name"].split("/")[0]
+            repo_name = fork["full_name"].split("/")[1]
+            last_commit = fork["updated_at"]
+            if datetime.strptime(last_commit, "%Y-%m-%dT%H:%M:%SZ") > RETROSPECT_WINDOW_START:
+                active_forks[repo_name] = repo_owner
+        page = page + 1
     write_active_forks(active_forks)
 
 
