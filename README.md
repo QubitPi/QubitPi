@@ -155,6 +155,7 @@
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/numpy)
 [![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/ollama)
 [![pandas](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=pandas&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/pandas)
+[![react.dev](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=react.dev&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/react.dev)
 [![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/scikit-learn)
 [![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testcontainers-java&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/testcontainers-java)
 [![screwdriver-cd-executor-docker](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-executor-docker&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-executor-docker)
@@ -162,6 +163,7 @@
 [![screwdriver-cd-homepage](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-homepage&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-homepage)
 [![screwdriver-cd-local](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-local&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-local)
 [![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-screwdriver&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-screwdriver)
+[![screwdriver-cd-template-main](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-template-main&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-template-main)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
