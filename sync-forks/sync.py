@@ -624,6 +624,11 @@ GENERATION_SOFTWARE_FORKS = [
         "upstream-default-branch": "master"
     },
     {
+        "fork": "git@github.com:generation-software/screwdriver-cd-screwdriver.git",
+        "upstream": "git@github.com:screwdriver-cd/screwdriver.git",
+        "upstream-default-branch": "master"
+    },
+    {
         "fork": "git@github.com:generation-software/screwdriver-cd-guide.git",
         "upstream": "git@github.com:screwdriver-cd/guide.git",
         "upstream-default-branch": "master"
