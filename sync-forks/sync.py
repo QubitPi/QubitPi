@@ -661,7 +661,6 @@ def get_repo_name_from_git_url(url: str) -> str:
 def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_parent_dir="daily-sync"):
     forked_repo_name = get_repo_name_from_git_url(forked_repo)
     path = os.path.join(forks_parent_dir, forked_repo_name)
-    # path = "./daily-sync/{}".format(forked_repo_name)
 
     if os.path.exists(path):
         print("{} already exists".format(path))
