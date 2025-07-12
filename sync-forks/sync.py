@@ -619,8 +619,8 @@ FORKS = [
 
 GENERATION_SOFTWARE_FORKS = [
     {
-        "fork": "git@github.com:generation-software/screwdriver-cd-homepage.git",
-        "upstream": "git@github.com:screwdriver-cd/homepage.git",
+        "fork": "git@github.com:generation-software/screwdriver-cd-executor-docker.git",
+        "upstream": "git@github.com:screwdriver-cd/executor-docker.git",
         "upstream-default-branch": "master"
     },
     {
