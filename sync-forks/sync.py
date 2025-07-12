@@ -729,7 +729,11 @@ if __name__ == "__main__":
     print("QubitPi forks sync done")
 
     for fork in GENERATION_SOFTWARE_FORKS:
-        while not update_fork(fork["fork"], fork["upstream"], fork["upstream-default-branch"],
-                              os.path.join("daily-sync", "generation-software")):
+        while not update_fork(
+                fork["fork"],
+                fork["upstream"],
+                fork["upstream-default-branch"],
+                os.path.join("daily-sync", "generation-software")
+        ):
             pass
     print("Generation Software forks sync done")
