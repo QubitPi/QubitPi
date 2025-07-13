@@ -614,6 +614,11 @@ FORKS = [
         "fork": "git@github.com:QubitPi/lottie2gif.git",
         "upstream": "git@github.com:lilas-dev/lottie2gif.git",
         "upstream-default-branch": "main"
+    },
+    {
+        "fork": "git@github.com:QubitPi/angular-rpg.git",
+        "upstream": "git@github.com:justindujardin/angular-rpg.git",
+        "upstream-default-branch": "main"
     }
 ]
 
