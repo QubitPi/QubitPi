@@ -25,6 +25,7 @@
 
 [![Tiger](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Tiger&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Tiger)
 [![graphrag](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=graphrag&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/graphrag)
+[![Antiqua](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Antiqua&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Antiqua)
 [![wiktionary-data](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=wiktionary-data&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/wiktionary-data)
 [![streamlit-authenticated-dashboard](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=streamlit-authenticated-dashboard&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/streamlit-authenticated-dashboard)
 [![Ferdinand](https://github-repo-pins.vercel.app/api/pin/?username=QubitPi&repo=Ferdinand&show_owner=true&border_radius=20&title_color=FFD1E3&bg_color=7EA1FF&text_color=FFFAB7&icon_color=5BBCFF)](https://github.com/QubitPi/Ferdinand)
