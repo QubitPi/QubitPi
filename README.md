@@ -4,7 +4,7 @@
 
 🇩🇪 Zuerst [finde ich deutsche Panzerkampfwagen Tiger sehr attraktiv!](https://youtube.com/playlist?list=PL-CLnI8tPXu-kI0NmzGuvqZJFYDKPa35s&si=hJX2JqZa1KHmZb0T) Und hier bin ich, Jiaqi Liu. Ein kleiner Lerner der große Welt. Der Bücherwurm, der [Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) und [Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) liebt. Ich bewundere sie für seine Klugheit und seinen scharfen Witz. Ich will seit Karrierebeginn mein Dienst fürs Datentechnologie leisten.
 
-🇮🇹 Ho una laurea triennale in Ingegneria Fisica (con specializzazione in Meccanica Quantistica Computazionale) e una laurea magistrale in Informatica (con specializzazione in Big Data e Cloud Computing) conseguite presso l'Università dell'Illinois a Urbana-Champaign. Da allora, la mia carriera si è concentrata su applicazioni data-driven che combinano elaborazione del linguaggio naturale e tecnologie di knowledge graph. Di recente ho lavorato a un [progetto ASR italiano](https://huggingface.co/spaces/QubitPi/Italian-ASR). Dategli un'occhiata :)
+🇮🇹 Di recente ho lavorato a un [progetto ASR italiano](https://huggingface.co/spaces/QubitPi/Italian-ASR). Dategli un'occhiata :)
 
 <img align="center" src="https://github.com/user-attachments/assets/150668da-dcf4-4e13-b1a7-5e5730244c0e" width="30px" /> Vita mea programmatibus fontibus apertis immenso magis fructuosa et captiosa facta est. Ut pauca tantum nominem: [Internet Archive downloader](https://github.com/QubitPi/Archive.org-Downloader), [RPG Game](https://github.com/QubitPi/angular-rpg), [self-hosted lift utilities](https://github.com/QubitPi/lotte2gif). Homo omnino alius fuissem nisi ex mundo tantae abundantiae scientiae discerem.
 
