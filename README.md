@@ -144,7 +144,6 @@
 [![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/numpy)
 [![pandas](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=pandas&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/pandas)
 [![webpack.js.org](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=webpack.js.org&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/webpack.js.org)
-[![screwdriver-cd-guide](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-guide&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-guide)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
