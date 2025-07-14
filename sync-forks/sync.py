@@ -30,16 +30,16 @@ FORKS = [
         "upstream": "git@github.com:shadowsocks/shadowsocks-org.git",
         "upstream-default-branch": "main"
     },
-    {
-        "fork": "git@github.com:QubitPi/wg-easy.git",
-        "upstream": "git@github.com:wg-easy/wg-easy.git",
-        "upstream-default-branch": "master"
-    },
-    {
-        "fork": "git@github.com:QubitPi/mieru.git",
-        "upstream": "git@github.com:enfein/mieru.git",
-        "upstream-default-branch": "main"
-    },
+#     {
+#         "fork": "git@github.com:QubitPi/wg-easy.git",
+#         "upstream": "git@github.com:wg-easy/wg-easy.git",
+#         "upstream-default-branch": "master"
+#     },
+#     {
+#         "fork": "git@github.com:QubitPi/mieru.git",
+#         "upstream": "git@github.com:enfein/mieru.git",
+#         "upstream-default-branch": "main"
+#     },
     {
         "fork": "git@github.com:QubitPi/Archive.org-Downloader.git",
         "upstream": "git@github.com:MiniGlome/Archive.org-Downloader.git",
