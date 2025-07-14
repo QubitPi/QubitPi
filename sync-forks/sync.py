@@ -131,6 +131,11 @@ FORKS = [
         "upstream-default-branch": "main"
     },
     {
+        "fork": "git@github.com:QubitPi/isort.git",
+        "upstream": "git@github.com:PyCQA/isort.git",
+        "upstream-default-branch": "main"
+    },
+    {
         "fork": "git@github.com:QubitPi/machine-learning.git",
         "upstream": "git@github.com:ageron/handson-ml3.git",
         "upstream-default-branch": "main"
