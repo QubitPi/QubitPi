@@ -6,7 +6,7 @@
 
 🇮🇹 Di recente ho lavorato a un [progetto ASR italiano](https://huggingface.co/spaces/QubitPi/Italian-ASR). Dategli un'occhiata :)
 
-<img align="center" src="https://github.com/user-attachments/assets/150668da-dcf4-4e13-b1a7-5e5730244c0e" width="30px" /> Vita mea programmatibus fontibus apertis immenso magis fructuosa et captiosa facta est. Ut pauca tantum nominem: [Internet Archive downloader](https://github.com/QubitPi/Archive.org-Downloader), [RPG Game](https://github.com/QubitPi/angular-rpg), [self-hosted lift utilities](https://github.com/QubitPi/lotte2gif). Homo omnino alius fuissem nisi ex mundo tantae abundantiae scientiae discerem.
+🇻🇦 Vita mea programmatibus fontibus apertis immenso magis fructuosa et captiosa facta est. Ut pauca tantum nominem: [Internet Archive downloader](https://github.com/QubitPi/Archive.org-Downloader), [RPG Game](https://github.com/QubitPi/angular-rpg), [self-hosted lift utilities](https://github.com/QubitPi/lotte2gif). Homo omnino alius fuissem nisi ex mundo tantae abundantiae scientiae discerem.
 
 <a href="https://github.com/QubitPi/lexitheras"><img src="https://github.com/user-attachments/assets/d7405fc5-1472-4a97-abcd-62e5ab5adeed"/></a>
 
