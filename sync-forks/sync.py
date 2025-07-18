@@ -136,6 +136,11 @@ FORKS = [
         "upstream-default-branch": "main"
     },
     {
+        "fork": "git@github.com:QubitPi/behave.git",
+        "upstream": "git@github.com:behave/behave.git",
+        "upstream-default-branch": "main"
+    },
+    {
         "fork": "git@github.com:QubitPi/machine-learning.git",
         "upstream": "git@github.com:ageron/handson-ml3.git",
         "upstream-default-branch": "main"
