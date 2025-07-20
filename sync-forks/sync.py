@@ -66,6 +66,11 @@ FORKS = [
         "upstream-default-branch": "main"
     },
     {
+        "fork": "git@github.com:QubitPi/gutendex.git",
+        "upstream": "git@github.com:garethbjohnson/gutendex.git",
+        "upstream-default-branch": "master"
+    },
+    {
         "fork": "git@github.com:QubitPi/graphrag.git",
         "upstream": "git@github.com:microsoft/graphrag.git",
         "upstream-default-branch": "main"
