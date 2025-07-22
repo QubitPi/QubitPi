@@ -66,6 +66,11 @@ FORKS = [
         "upstream-default-branch": "main"
     },
     {
+        "fork": "git@github.com:QubitPi/genanki.git",
+        "upstream": "git@github.com:kerrickstaley/genanki.git",
+        "upstream-default-branch": "main"
+    },
+    {
         "fork": "git@github.com:QubitPi/gutendex.git",
         "upstream": "git@github.com:garethbjohnson/gutendex.git",
         "upstream-default-branch": "master"
