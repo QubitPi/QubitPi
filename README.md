@@ -127,11 +127,45 @@
 <!-- FAILED-FORKS:END -->
 
 <!-- ACTIVE-FORKS:START -->
-
-<div align="center">
-  <img src="https://github.com/QubitPi/QubitPi/blob/master/img/Madagascar%20Penguins.gif?raw=true" width="80%" />
-</div>
-            
+[![arangodb-java-driver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=arangodb-java-driver&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/arangodb-java-driver)
+[![babel-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=babel-website&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/babel-website)
+[![behave](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=behave&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/behave)
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cpython)
+[![cucumber-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cucumber-documentation&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cucumber-documentation)
+[![cypress-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cypress-documentation&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cypress-documentation)
+[![docker-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-docs&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/docker-docs)
+[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/docker-mailserver)
+[![docusaurus](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docusaurus&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/docusaurus)
+[![druid](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=druid&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/druid)
+[![elastic-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/elastic-docs)
+[![elastic-docs-builder](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=elastic-docs-builder&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/elastic-docs-builder)
+[![eslint-plugin-perfectionist](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=eslint-plugin-perfectionist&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/eslint-plugin-perfectionist)
+[![fastapi](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=fastapi&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/fastapi)
+[![golang-website](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=golang-website&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/golang-website)
+[![gradle](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=gradle&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/gradle)
+[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hadoop)
+[![hashicorp-consul](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-consul&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hashicorp-consul)
+[![hashicorp-dev-portal](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-dev-portal&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hashicorp-dev-portal)
+[![hashicorp-packer](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-packer&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hashicorp-packer)
+[![hashicorp-terraform](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-terraform&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hashicorp-terraform)
+[![hashicorp-vault](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hashicorp-vault&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hashicorp-vault)
+[![hibernate-orm](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hibernate-orm&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hibernate-orm)
+[![hive](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hive&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hive)
+[![jenkins.io](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jenkins.io&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/jenkins.io)
+[![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/jetty.project)
+[![kotlin-docs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=kotlin-docs&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/kotlin-docs)
+[![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/linuxserver-documentation)
+[![llama_index](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=llama_index&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/llama_index)
+[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/mlflow)
+[![neo4j-browser](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=neo4j-browser&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/neo4j-browser)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/numpy)
+[![ollama](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ollama&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/ollama)
+[![openstack-swift](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=openstack-swift&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/openstack-swift)
+[![pandas](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=pandas&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/pandas)
+[![redux-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux-toolkit&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/redux-toolkit)
+[![scikit-learn](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=scikit-learn&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/scikit-learn)
+[![testcontainers-java](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=testcontainers-java&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/testcontainers-java)
+[![screwdriver-cd-screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=generation-software&repo=screwdriver-cd-screwdriver&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/generation-software/screwdriver-cd-screwdriver)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
