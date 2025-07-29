@@ -14,6 +14,7 @@
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00C14C&line=00C14C&point=00C14C&area_color=00C14C&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
 <div align="right">
     <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=My%20Planned%20Open%20Source%20Tasks&labelColor=00C14C&color=00C14C" alt="project-planning"/></a>
+    <img height="70px" alt="qubitpi-loves-ai" src="https://github.com/user-attachments/assets/569145a5-b4b6-433b-b5a8-6f0e8992c420" />
 </div>
 
 <h2 align="center">Data, Language, GraphRAG</h2>
