@@ -576,9 +576,9 @@ FORKS = [
         "upstream-default-branch": "master"
     },
     {
-        "fork": "git@github.com:QubitPi/ansible-docs.git",
-        "upstream": "git@github.com:ansible/docsite.git",
-        "upstream-default-branch": "main"
+        "fork": "git@github.com:QubitPi/ansible-documentation.git",
+        "upstream": "git@github.com:ansible/ansible-documentation.git",
+        "upstream-default-branch": "devel"
     },
     {
         "fork": "git@github.com:QubitPi/docker-nexus3.git",
