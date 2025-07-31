@@ -722,7 +722,13 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_paren
         return False
 
     # check if upstram's default branch is equal to upstream_default_branch
-    show_result = fork.git.remote("show", "upstream")
+    try:
+        show_result = fork.git.remote("show", "upstream")
+    except GitCommandError as e:
+        print("Network error on fetching upstream info of {forked_repo_name}. Retrying...".format(
+            forked_repo_name=forked_repo_name))
+        print(e)
+        return False
     matches = re.search(r"\s*HEAD branch:\s*(.*)", show_result)
     if matches:
         if upstream_default_branch != matches.group(1):
