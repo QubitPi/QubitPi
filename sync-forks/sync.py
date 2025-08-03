@@ -21,7 +21,7 @@ from tqdm import tqdm
 
 FORKS = [
     {
-        "fork": "git@github.com:QubitPi/leadership-blogs.git",
+        "fork": "git@github.com:QubitPi/ai-blogs.git",
         "upstream": "git@github.com:saicaca/fuwari.git",
         "upstream-default-branch": "main"
     },
