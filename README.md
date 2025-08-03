@@ -128,6 +128,17 @@
 
 <!-- ACTIVE-FORKS:START -->
 [![ai-blogs](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=ai-blogs&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/ai-blogs)
+[![cpython](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=cpython&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/cpython)
+[![docker-mailserver](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=docker-mailserver&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/docker-mailserver)
+[![hadoop](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hadoop&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hadoop)
+[![hibernate-orm](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=hibernate-orm&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/hibernate-orm)
+[![jetty.project](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=jetty.project&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/jetty.project)
+[![linuxserver-documentation](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=linuxserver-documentation&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/linuxserver-documentation)
+[![mlflow](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=mlflow&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/mlflow)
+[![networkx](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=networkx&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/networkx)
+[![numpy](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=numpy&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/numpy)
+[![pandas](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=pandas&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/pandas)
+[![redux-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=QubitPi&repo=redux-toolkit&show_owner=true&border_radius=20&title_color=006A71&text_color=68B0AB&bg_color=ECF4F3&icon_color=68B0AB)](https://github.com/QubitPi/redux-toolkit)
 <!-- ACTIVE-FORKS:END -->
 
 <h2 align="center">Contributor</h2>
