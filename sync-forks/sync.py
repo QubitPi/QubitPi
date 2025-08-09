@@ -721,9 +721,14 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_paren
         current_branch = fork.active_branch.name
     except GitCommandError as e:
         print(
-            "Network error on cloning {forked_repo_name}. Retrying...\n".format(forked_repo_name=forked_repo_name))
+            "Network error on reading the current branch of {forked_repo_name}. Retrying...\n".format(forked_repo_name=forked_repo_name))
         print(e)
         return False
+    except TypeError as e:
+        print(
+            "⚠️ Something's wrong with {forked_repo_name}'s current branch. Need manual investigation\n".format(forked_repo_name=forked_repo_name))
+        print(e)
+        return True
 
     if current_branch != "master":
         print("⚠️ {fork} is not on master branch yet; so it's not synced".format(fork=forked_repo_name))
