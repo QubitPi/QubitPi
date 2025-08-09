@@ -717,7 +717,15 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_paren
             return False
         fork.create_remote("upstream", upstream_repo)
 
-    if fork.active_branch.name is not "master":
+    try:
+        current_branch = fork.active_branch.name
+    except GitCommandError as e:
+        print(
+            "Network error on cloning {forked_repo_name}. Retrying...\n".format(forked_repo_name=forked_repo_name))
+        print(e)
+        return False
+
+    if current_branch != "master":
         print("⚠️ {fork} is not on master branch yet; so it's not synced".format(fork=forked_repo_name))
         return True
 
