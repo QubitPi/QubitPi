@@ -14,7 +14,7 @@
 ![QubitPi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QubitPi&bg_color=FFFFFF&color=00C14C&line=00C14C&point=00C14C&area_color=00C14C&area=true&hide_border=true&radius=0&&custom_title=Jiaqi%27s%20Last-30-Day%20Open%20Source%20Commits)
 <div align="right">
     <a href="https://github.com/users/QubitPi/projects/11"><img src="https://img.shields.io/github/issues-search?query=user%3AQubitPi+state%3Aopen+type%3Aissue+archived%3Afalse&style=for-the-badge&logo=github&logoColor=white&label=My%20Planned%20Open%20Source%20Tasks&labelColor=00C14C&color=00C14C" alt="project-planning"/></a>
-    <img height="70px" alt="qubitpi-loves-ai" src="https://github.com/user-attachments/assets/569145a5-b4b6-433b-b5a8-6f0e8992c420" />
+    <a href="https://agent.qubitpi.org/"><img height="70px" alt="qubitpi-loves-ai" src="https://github.com/user-attachments/assets/569145a5-b4b6-433b-b5a8-6f0e8992c420" /></a>
 </div>
 
 <h2 align="center">Data, Language, GraphRAG</h2>
@@ -35,7 +35,7 @@
 
 - __GraphRAG__: [GraphRAG](https://learn-graphrag.qubitpi.org) | [Microsoft GraphRAG](https://graphrag.qubitpi.org/) | [PyMuPDF - Processing PDF for RAG indexing](https://pymupdf.qubitpi.org/) | [Leiden algorithm](https://leiden.qubitpi.org/)
 
-[LlamaIndex](http://llamaindex.qubitpi.org/) | [Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/docs/latest/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](http://python.qubitpi.org/) | [isort](https://isort.qubitpi.org/) | [Behave](https://behave.qubitpi.org/) | [anki](anki.qubitpi.org/manual.html)
+[AI Agent](https://agent.qubitpi.org/) | [LlamaIndex](http://llamaindex.qubitpi.org/) | [Ollama](https://ollama.qubitpi.org/) | [MLflow](https://mlflow.qubitpi.org/docs/latest/) | [NetworkX](https://qubitpi.github.io/networkx/) | [NetworkX Guides](https://qubitpi.github.io/nx-guides/) | [Jupyter](https://jupyter.qubitpi.org/) | [Jupyter Docs](https://jupyter-docs.qubitpi.org/) | [Jupyter Notebook](https://jupyter-docs.qubitpi.org/) | [scikit-learn](https://scikit-learn.qubitpi.org/) | [pandas](https://pandas.qubitpi.org/) | [numpy](https://numpy.qubitpi.org/) | [OpenAI RL](https://open-ai-spinningup.readthedocs.io/en/latest/) | [Whisper](https://github.com/QubitPi/whisper) | [Python](http://python.qubitpi.org/) | [isort](https://isort.qubitpi.org/) | [Behave](https://behave.qubitpi.org/) | [anki](anki.qubitpi.org/manual.html)
 
 <h2 align="center">Frontend Dev</h2>
 
