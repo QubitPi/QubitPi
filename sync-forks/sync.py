@@ -719,7 +719,7 @@ def update_fork(forked_repo, upstream_repo, upstream_default_branch, forks_paren
 
     if repo.active_branch.name is not "master":
         print("⚠️ {fork} is not on master branch yet; so it's not synced".format(fork=forked_repo_name))
-        return true;
+        return true
 
     upstream_remote = fork.remotes.upstream
     try:
